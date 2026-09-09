@@ -16,8 +16,16 @@ GERMAN_WORDS = {
     "wie", "was", "wer", "wen", "wem", "wo", "hier", "dort", "mein", "dein",
     "sein", "unser", "euer", "dies", "diese", "dieser", "dieses", "man", "noch",
     "schon", "kein", "keine", "ohne", "über", "unter", "zwischen", "seit", "durch",
+    "präposition", "artikel", "substantiv", "adjektiv", "adverb", "pronomen", "verb",
+    "satz", "sätze", "gebrauch", "beispiel", "beispiele", "jahr", "jahre", "morgen",
+    "vormittag", "nachmittag", "abend", "nacht", "wort", "sprache", "geschlecht",
+    "zahl", "plural", "singular", "männlich", "weiblich",
 }
 WORD_RE = re.compile(r"[A-Za-zÄÖÜäöüß]+")
+GERMAN_SHAPE_RE = re.compile(
+    r"\b[A-Za-zÄÖÜäöüß]+(?:ung|ungen|keit|keiten|heit|heiten|lich|liche|lichen|licher|liches|isch|ische|ischen|ischer|isches|erweise|weise|schaft|schaften)\b",
+    re.I,
+)
 TAG_RE = re.compile(r"<[^>]+>")
 TAG_SPLIT_RE = re.compile(r"(<[^>]+>)")
 OPEN_TAG_RE = re.compile(r"^<\s*([A-Za-z][\w:-]*)\b")
@@ -59,6 +67,8 @@ def german_score(text: str) -> int:
     score = sum(1 for w in words if w in GERMAN_WORDS)
     if re.search(r"[äöüß]", text, re.I):
         score += 2
+    if GERMAN_SHAPE_RE.search(text):
+        score += 1
     return score
 
 
@@ -67,7 +77,6 @@ def example_blocks(text: str) -> list[list[str]]:
     current: list[str] = []
     in_examples = False
     for line in text.splitlines():
-        # Empty lines separate example pairs; they do not end the YAML block scalar.
         if line and not line.startswith(" "):
             if in_examples and current:
                 blocks.append(current)
@@ -85,6 +94,25 @@ def example_blocks(text: str) -> list[list[str]]:
     if in_examples and current:
         blocks.append(current)
     return blocks
+
+
+def note_payload(text: str) -> str:
+    lines = text.splitlines(keepends=True)
+    start = None
+    end = None
+    for i, raw in enumerate(lines):
+        line = raw.rstrip("\n")
+        if line.startswith("Notiz:"):
+            start = i + 1
+            continue
+        if start is not None and line and not line.startswith(" "):
+            end = i
+            break
+    if start is None:
+        return ""
+    if end is None:
+        end = len(lines)
+    return "".join(lines[start:end])
 
 
 def immutable_fields(text: str) -> dict[str, str]:
@@ -137,6 +165,21 @@ def protected_french_nodes(html_text: str) -> list[str]:
     return _class_stack_nodes(html_text, protected=True)
 
 
+def unchanged_german_nodes(current: str, original: str) -> list[str]:
+    current_nodes = visible_non_french_nodes(current)
+    original_nodes = visible_non_french_nodes(original)
+    if len(current_nodes) != len(original_nodes):
+        return []
+    bad: list[str] = []
+    for new, old in zip(current_nodes, original_nodes):
+        if new != old:
+            continue
+        word_count = len(WORD_RE.findall(old))
+        if german_score(old) >= 1 or (word_count >= 3 and GERMAN_SHAPE_RE.search(old)):
+            bad.append(old)
+    return bad
+
+
 def finalize_templates() -> None:
     common = ROOT / "card_templates" / "common.js"
     if common.exists():
@@ -182,16 +225,31 @@ def validate_cards() -> list[str]:
                 continue
             if new_block[0] != old_block[0]:
                 errors.append(f"{path}: French text changed in example block {block_no}")
-            if german_score(new_block[1]) >= 2:
+            if new_block[1] == old_block[1] and german_score(old_block[1]) >= 1:
+                errors.append(f"{path}: untranslated example block {block_no}: {new_block[1][:120]}")
+            elif german_score(new_block[1]) >= 2:
                 errors.append(
                     f"{path}: likely German remains in example block {block_no}: {new_block[1][:120]}"
                 )
 
         definition = card_definition_text(current)
-        if german_score(definition) >= 2:
+        if definition == card_definition_text(original) and german_score(definition) >= 1:
+            errors.append(f"{path}: definition was not translated: {definition}")
+        elif german_score(definition) >= 2:
             errors.append(f"{path}: likely German remains in definition: {definition}")
 
-        if len(errors) >= 50:
+        current_note = note_payload(current)
+        original_note = note_payload(original)
+        if current_note and original_note:
+            if TAG_RE.findall(current_note) != TAG_RE.findall(original_note):
+                errors.append(f"{path}: note HTML tags/attributes changed")
+            if protected_french_nodes(current_note) != protected_french_nodes(original_note):
+                errors.append(f"{path}: French/IPA note content changed")
+            unchanged = unchanged_german_nodes(current_note, original_note)
+            if unchanged:
+                errors.append(f"{path}: untranslated note text remains: {unchanged[0][:120]}")
+
+        if len(errors) >= 60:
             break
     return errors
 
@@ -213,11 +271,16 @@ def validate_grammar() -> list[str]:
             errors.append(f"{path}: French/IPA grammar content changed during translation")
             continue
 
+        unchanged = unchanged_german_nodes(current, original)
+        if unchanged:
+            errors.append(f"{path}: untranslated grammar text remains: {unchanged[0][:140]}")
+            continue
+
         suspicious = [n for n in visible_non_french_nodes(current) if german_score(n) >= 2]
         if suspicious:
             errors.append(f"{path}: likely German remains: {suspicious[0][:140]}")
 
-        if len(errors) >= 25:
+        if len(errors) >= 30:
             break
     return errors
 
@@ -240,7 +303,7 @@ def validate_templates() -> list[str]:
 def validate_translation() -> None:
     errors = validate_cards() + validate_grammar() + validate_templates()
     if errors:
-        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors[:100]))
+        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors[:120]))
 
 
 def sync_words() -> None:
