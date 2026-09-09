@@ -60,7 +60,6 @@ PHRASES = {
     "Im Allgemeinen drückt es eine grobe, unhöfliche oder überaus lässige Handlung aus.": "In general, it expresses a crude, impolite, or extremely casual action.",
     "die alle aus seiner Grundbedeutung": "all of which derive from its basic meaning",
     "abgeleitet sind.": "are derived.",
-    "Diese Grundbedeutung entwickelte sich in verschiedene Kontexte, z.B. als „Partisan“ oder „Verfechter“ ,": "This basic meaning developed into different contexts, e.g. as “partisan” or “advocate”,",
     "Diese Grundbedeutung entwickelte sich in verschiedene Kontexte, z.B. als „Partisan“ oder „Verfechter“,": "This basic meaning developed into different contexts, e.g. as “partisan” or “advocate”,",
     "(= Irgendwann im Laufe des Vormittags → Zeitspanne)": "(= at some point during the morning → time span)",
     "des Substantivs": "of the noun",
@@ -101,6 +100,59 @@ WORD_REPLACEMENTS = {
     "Handlung": "action",
     "Hilfsverbs": "auxiliary verb",
 }
+
+PATH_REPLACEMENTS = {
+    "cards/0098_ainsi.yml": [("wieder", "again")],
+    "cards/1097_ramener.yml": [('"wieder mitbringen"', '"bring back"')],
+    "cards/1339_soulever.yml": [('"wieder aufrichten"', '"raise again"')],
+    "cards/1890_foutre.yml": [
+        ("Im Allgemeinen drückt es eine grobe, unhöfliche oder überaus lässige action aus.", "In general, it expresses a crude, impolite, or extremely casual action."),
+        ("Es kann so viel means wie", "It can mean things like"),
+        ("Oft wird es als Kraftausdruck used, um Ärger,", "It is often used as an expletive to express anger,"),
+        ("Frust oder Gleichgültigkeit auszudrücken, wie in der Redewendung", "frustration, or indifference, as in the expression"),
+        ("(es ist mir scheißegal).", "(I don't give a damn)."),
+        ("In sexuellen Zusammenhängen meint", "In sexual contexts,"),
+        ("so viel wie", "means"),
+        ("und zählt daher zu den Schimpfwörtern im Französischen.", "and is therefore considered vulgar in French."),
+    ],
+    "cards/2320_répandre.yml": [("im allgemeineren Sinne:", "in the broader sense:")],
+    "cards/2516_tenant.yml": [
+        ("Diese Grundbedeutung entwickelte sich in verschiedene Kontexte, z.B. als „Partisan“ oder „Verfechter“, der", "This basic meaning developed into different contexts, e.g. as “partisan” or “advocate”, someone who"),
+        ("„in einem Stück“ oder „zusammenhängend“, etwas, das als Ganzes „gehalten“ wird.", "“in one piece” or “continuous”, something that is “held” as a whole."),
+    ],
+    "grammar/06 Adverbien/1 Die Formen von Adverbien.html": [("noch", "still")],
+    "grammar/07 Pronomen/01 Die verbundenen Personalpronomen.html": [("gehen.", "go.")],
+    "grammar/07 Pronomen/13 Die Indefinitbegleiter.html": [("Verschiedene", "Various")],
+    "grammar/09 Verben/09 Reflexive Verben.html": [("im Monat Oktober", "in October")],
+    "grammar/09 Verben/10 Unpersönliche Verben.html": [("Es gibt", "There is")],
+    "grammar/10 Zeitformen und Modi/12 Subjonctif.html": [("Angst:", "fear:")],
+    "grammar/10 Zeitformen und Modi/13 Subjonctif imparfait.html": [("gekommen war", "had come")],
+    "grammar/13 Ergänzung des Verbs/03 Verben mit à.html": [("gibt sich", "is content")],
+    "grammar/13 Ergänzung des Verbs/06 Verben mit pour.html": [("Er wurde", "He was")],
+    "grammar/16 Präpositionen/2 Präpositionen der Zeit.html": [("Thomas wurde", "Thomas was")],
+    "grammar/17 Konjunktionen/01 Beiordnende Konjunktionen.html": [("noch", "nor")],
+    "grammar/20 Indirekte Rede/1 Die indirekte Rede.html": [("Indikativ", "indicative")],
+    "grammar/20 Indirekte Rede/2 Der indirekte Aussagesatz.html": [("angekommen.“", "arrived.”")],
+    "grammar/21 Informelle Sprache/2 Informelle Pronomen.html": [("Wegfall des direkten Objekts", "omission of the direct object")],
+    "grammar/21 Informelle Sprache/3 Informelle Fragen.html": [("Wann bist du angekommen?", "When did you arrive?")],
+    "grammar/22 Zahlen und Zeitangaben/2 Ordnungszahlen.html": [("alle zwei Tage", "every two days")],
+    "grammar/99 Vokabeln/02 Status und Beziehungen.html": [("Mitglied", "member")],
+    "grammar/99 Vokabeln/03 Körper und Gesundheit.html": [("Angst, Beklemmung", "fear, anxiety")],
+    "grammar/99 Vokabeln/04 Emotionen und Charakter.html": [("Angst, Beklemmung", "fear, anxiety")],
+    "grammar/99 Vokabeln/13 Gesellschaft.html": [("Mitglied", "member")],
+    "grammar/99 Vokabeln/25 Zeit.html": [("Monat", "month")],
+    "grammar/99 Vokabeln/26 Bewegungsverben.html": [("wieder abreisen", "leave again")],
+    "grammar/99 Vokabeln/27 Kommunikationsverben.html": [("wieder sagen", "say again")],
+    "grammar/99 Vokabeln/28 Falsche Freunde.html": [("(Ort/Lage)", "(place/location)")],
+    "grammar/_/VerbenBringenMitnehmen.html": [('"wieder mitbringen"', '"bring back"')],
+}
+
+
+def apply_path_replacements(path: Path, text: str) -> str:
+    rel = path.relative_to(ROOT).as_posix()
+    for old, new in PATH_REPLACEMENTS.get(rel, []):
+        text = text.replace(old, new)
+    return text
 
 
 def repair_visible_text(text: str) -> str:
@@ -189,6 +241,7 @@ def repair_card(path: Path) -> None:
     if note_start is not None and note_end is not None and note_start < note_end:
         payload = "".join(lines[note_start:note_end])
         repaired = repair_visible_text(payload)
+        repaired = apply_path_replacements(path, repaired)
         replacement = repaired.splitlines(keepends=True)
         if len(replacement) == note_end - note_start:
             lines[note_start:note_end] = replacement
@@ -201,7 +254,9 @@ def main() -> None:
         repair_card(path)
     for path in sorted((ROOT / "grammar").rglob("*.html")):
         text = path.read_text(encoding="utf-8")
-        path.write_text(repair_visible_text(text), encoding="utf-8")
+        text = repair_visible_text(text)
+        text = apply_path_replacements(path, text)
+        path.write_text(text, encoding="utf-8")
 
 
 if __name__ == "__main__":
