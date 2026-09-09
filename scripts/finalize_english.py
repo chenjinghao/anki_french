@@ -67,7 +67,8 @@ def example_blocks(text: str) -> list[list[str]]:
     current: list[str] = []
     in_examples = False
     for line in text.splitlines():
-        if not line.startswith(" "):
+        # Empty lines separate example pairs; they do not end the YAML block scalar.
+        if line and not line.startswith(" "):
             if in_examples and current:
                 blocks.append(current)
                 current = []
@@ -137,7 +138,6 @@ def protected_french_nodes(html_text: str) -> list[str]:
 
 
 def finalize_templates() -> None:
-    """Apply deterministic English-only template fixes after shard patches are combined."""
     common = ROOT / "card_templates" / "common.js"
     if common.exists():
         text = common.read_text(encoding="utf-8")
