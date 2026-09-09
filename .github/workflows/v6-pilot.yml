@@ -36,10 +36,12 @@ jobs:
           HF_HOME: ${{ runner.temp }}/hf-cache
           TOKENIZERS_PARALLELISM: 'false'
         run: python scripts/translate_de_to_en_v6.py --paths-file v6-pilot-paths.txt --batch-size 16
+      - name: Repair deterministic terminology and known semantic regressions
+        run: python scripts/repair_v6.py --paths-file v6-pilot-paths.txt
       - name: Bundle pilot output
         run: python scripts/v6_pilot.py bundle --paths-file v6-pilot-paths.txt --output v6-pilot-output
-      - name: Run pilot quality gate
-        run: python scripts/v6_pilot.py validate --paths-file v6-pilot-paths.txt --report v6-pilot-report.txt
+      - name: Run pilot quality gate revision 2
+        run: python scripts/v6_pilot_v2.py --paths-file v6-pilot-paths.txt --report v6-pilot-report.txt
       - name: Upload pilot report and translated samples
         if: always()
         uses: actions/upload-artifact@v4
@@ -51,4 +53,4 @@ jobs:
             v6-pilot-output
           if-no-files-found: warn
 
-# Pilot trigger revision 1
+# Pilot trigger revision 2
