@@ -76,6 +76,8 @@ POST_REPLACEMENTS = {
     "Articles of division": "partitive article",
     "Article of division": "partitive article",
     "==References==": "or",
+    "milliönes": "millions",
+    "Milliönes": "Millions",
 }
 
 EXACT_NODE_REPLACEMENTS = {
@@ -85,10 +87,57 @@ EXACT_NODE_REPLACEMENTS = {
     "z.B.": "e.g.",
     "d. h.": "i.e.",
     "d.h.": "i.e.",
+    "Verwendung": "Usage",
+    "Gebrauch": "Usage",
+    "Geschlecht": "Gender",
+    "Weiblich": "Feminine",
+    "weiblich": "feminine",
+    "Männlich": "Masculine",
+    "männlich": "masculine",
+    "Bildung": "Formation",
+    "Morgen": "Morning",
+    "Vormittag": "morning",
+    "Nachmittag": "afternoon",
+    "Abend": "evening",
+    "Nacht": "night",
+    "Wort": "word",
+    "Sprache": "language",
+    "Zahl": "number",
+    "Aussprache": "Pronunciation",
+    "Stellung": "Position",
+    "Bedeutung": "Meaning",
+    "Schreibweise": "Spelling",
+    "Hinweis": "Note",
+    "Achtung": "Caution",
+    "Ausnahme": "Exception",
+    "Ausnahmen": "Exceptions",
+    "Regel": "Rule",
+    "Regeln": "Rules",
+    "Form": "Form",
+    "Formen": "Forms",
+    "Beispiel": "Example",
+    "Beispiele": "Examples",
+    "Etymologie": "Etymology",
 }
 
+# Strong German indicators for prose. Ambiguous English/French forms such as man,
+# war, was, in, am, hier and des are intentionally excluded.
 GERMAN_HINTS = re.compile(
-    r"\b(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|und|oder|aber|nicht|mit|für|von|aus|zu|im|in|auf|bei|ist|sind|wird|werden|kann|können|muss|müssen|hat|haben|als|wenn|dass|dies|diese|dieser|dieses|auch|nur|sehr|mehr|weniger|vor|nach|ohne|über|unter|zwischen|seit|durch|gegen|wegen|beim|zum|zur|vom|ins|am|man|ich|du|er|sie|wir|ihr|wer|wen|wem|wo|wie|was|mein|dein|sein|unser|euer|bzw|präposition|artikel|substantiv|adjektiv|adverb|pronomen|verb|satz|sätze|gebrauch|beispiel|beispiele)\b|[äöüß]",
+    r"\b(?:der|die|das|den|dem|ein|eine|einer|einem|einen|und|oder|aber|nicht|"
+    r"mit|für|von|aus|zu|zur|zum|auf|bei|ist|sind|wird|werden|kann|können|"
+    r"muss|müssen|hat|haben|als|wenn|dass|dies|diese|dieser|dieses|auch|nur|"
+    r"sehr|mehr|weniger|vor|nach|ohne|über|unter|zwischen|seit|durch|gegen|"
+    r"wegen|beim|vom|ins|ich|sie|wir|ihr|wer|wen|wem|wo|wie|mein|dein|sein|"
+    r"unser|euer|bzw|präposition|artikel|substantiv|adjektiv|pronomen|satz|"
+    r"sätze|gebrauch|verwendung|beispiel|beispiele|geschlecht|weiblich|"
+    r"männlich|bildung|etymologisch|paradoxerweise|unterschiedlich|steht|"
+    r"wohnung|eigene|seine|keiner|kein|einziger|zehn|jahre|morgen|"
+    r"vormittag|nachmittag|abend|nacht|wort|sprache|zahl|führer|führerin)\b|[äöüß]",
+    re.IGNORECASE,
+)
+GERMAN_SOURCE_SHAPE_RE = re.compile(
+    r"\b[A-Za-zÄÖÜäöüß]+(?:keit|keiten|heit|heiten|lich|liche|lichen|licher|liches|"
+    r"isch|ische|ischen|ischer|isches|erweise|schaft|schaften)\b",
     re.IGNORECASE,
 )
 
@@ -105,7 +154,7 @@ def collect_french_terms(root: Path) -> set[str]:
         "le", "la", "les", "un", "une", "des", "de", "du", "au", "aux", "à",
         "en", "y", "ce", "cet", "cette", "ces", "je", "j'", "tu", "il", "elle",
         "nous", "vous", "ils", "elles", "me", "te", "se", "lui", "leur", "que",
-        "qui", "dont", "où", "ne", "pas", "plus", "et", "ou", "mais", "si",
+        "qui", "dont", "où", "ne", "pas", "plus", "et", "ou", "mais", "si", "hier",
     }
     for path in (root / "cards").glob("*.yml"):
         for line in path.read_text(encoding="utf-8").splitlines():
@@ -140,21 +189,23 @@ class Translator:
             for value in decoded:
                 for old, new in POST_REPLACEMENTS.items():
                     value = value.replace(old, new)
+                value = re.sub(r"\bFührerin\b", "guide", value, flags=re.I)
+                value = re.sub(r"\bFührer\b", "guide", value, flags=re.I)
                 out.append(value)
         return out
 
 
 def looks_german(text: str) -> bool:
     text = html.unescape(text).strip()
-    return bool(text and len(text) >= 2 and GERMAN_HINTS.search(text))
+    return bool(text and len(text) >= 2 and (GERMAN_HINTS.search(text) or GERMAN_SOURCE_SHAPE_RE.search(text)))
 
 
 def find_and_mark(text: str, phrase: str) -> str:
-    phrase = phrase.strip().strip('"“”„.,;:!?()[]')
+    phrase = phrase.strip().strip('"“”„.,;:!?()[]*')
     if not phrase:
         return text
     pattern = re.compile(r"(?<!\w)" + re.escape(phrase) + r"(?!\w)", re.I)
-    m = pattern.search(text) or re.search(re.escape(phrase), text, re.I)
+    m = pattern.search(text)
     if not m:
         return text
     return text[: m.start()] + "*" + text[m.start() : m.end()] + "*" + text[m.end() :]
@@ -174,6 +225,7 @@ def translate_sentences(translator: Translator, texts: List[str]) -> List[str]:
         for _ in spans:
             value = find_and_mark(value, translated_spans[cursor])
             cursor += 1
+        value = re.sub(r"\*{2,}", "*", value)
         out.append(value)
     return out
 
@@ -184,7 +236,7 @@ def is_french_fragment(text: str, french_terms: set[str]) -> bool:
 
 
 def translate_html_text(translator: Translator, text: str) -> str:
-    """Translate visible German text nodes with HTML parsing state preserved across lines."""
+    """Translate visible German text nodes while preserving HTML structure and French."""
     parts = TAG_SPLIT_RE.split(text)
     stack: list[tuple[str, bool]] = []
     jobs: list[tuple[int, str, str, str]] = []
@@ -216,14 +268,14 @@ def translate_html_text(translator: Translator, text: str) -> str:
         if not stripped:
             continue
 
-        parent_tag = stack[-1][0] if stack else ""
-        if parent_tag in {"b", "strong", "u", "em"} and is_french_fragment(stripped, translator.french_terms):
-            continue
-
         if stripped in EXACT_NODE_REPLACEMENTS:
             leading = part[: len(part) - len(part.lstrip())]
             trailing = part[len(part.rstrip()) :]
             parts[i] = leading + EXACT_NODE_REPLACEMENTS[stripped] + trailing
+            continue
+
+        # Short French lemmas/formulas may appear outside explicit .fr spans.
+        if is_french_fragment(stripped, translator.french_terms):
             continue
 
         if looks_german(part):
@@ -254,7 +306,6 @@ def process_card(path: Path, translator: Translator) -> None:
         stripped = line.strip()
         lines[i] = line + newline
 
-        # Blank lines inside block scalars are not top-level YAML fields.
         if line and not line.startswith(" "):
             if in_note and not stripped.startswith("Notiz:") and note_end is None:
                 note_end = i
@@ -277,10 +328,8 @@ def process_card(path: Path, translator: Translator) -> None:
                 plain_jobs.append((i, "Definition: ", value))
             continue
 
+        # Register is finalized deterministically by finalize_registers.py.
         if line.startswith("Register:"):
-            value = line.split(":", 1)[1].strip()
-            if value and not value.startswith(("''", '""')) and looks_german(value):
-                plain_jobs.append((i, "Register: ", value))
             continue
 
         if in_examples:
@@ -329,7 +378,7 @@ def process_template_file(path: Path) -> None:
     for old, new in TEMPLATE_REPLACEMENTS.items():
         text = text.replace(old, new)
     text = text.replace('lang: "de-DE"', 'lang: "en-US"')
-    text = text.replace('autoPlaySentenceInGerman', 'autoPlaySentenceInEnglish')
+    text = text.replace("autoPlaySentenceInGerman", "autoPlaySentenceInEnglish")
     text = text.replace('.localeCompare(b.replace("*", ""), "de",', '.localeCompare(b.replace("*", ""), "en",')
     path.write_text(text, encoding="utf-8")
 
