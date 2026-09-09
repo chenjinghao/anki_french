@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1588
 Wort: spécialiste
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: spécialiste
 Femininum / Plural: ''
 IPA: \spe.sja.list\
-Definition: Spezialist
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Specialist
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a des *spécialistes* pour ça.
-  Dafür gibt es *Fachleute*.
+  There are *experts* for that.
 
   Le *spécialiste* en cardiologie m'a prescrit de nouveaux médicaments.
-  Der *Facharzt* für Kardiologie hat mir neue Medikamente verschrieben.
+  The cardiologist prescribed me new drugs.
 
   Cette *spécialiste* de l'art moderne donne des conférences passionnantes.
-  Diese *Spezialistin* für moderne Kunst hält faszinierende Vorträge.
+  This *specialist* in modern art gives fascinating lectures.
 
   "Il est devenu le *spécialiste* des retards au bureau."
-  "Er ist zum *Meister* des Zuspätkommens im Büro geworden."
+  "He has become the *master* of lateness in the office."
 
   Notre équipe compte plusieurs *spécialistes* en intelligence artificielle.
-  Unser Team hat mehrere *Fachleute* für künstliche Intelligenz.
+  Our team has several *experts* in artificial intelligence.
 
   La *spécialiste* en biologie moléculaire a fait une découverte importante.
-  Die *Spezialistin* für Molekularbiologie hat eine wichtige Entdeckung gemacht.
+  The *specialist* in molecular biology has made an important discovery.
 
   J'ai rendez-vous avec une *spécialiste* demain matin.
-  Ich habe morgen früh einen Termin bei einer *Fachärztin*.
+  I have an appointment with a *specialist* in the morning.
 
   Le musée a engagé un *spécialiste* de la restauration des tableaux anciens.
-  Das Museum hat einen *Spezialisten* für die Restaurierung alter Gemälde eingestellt.
+  The museum has hired a specialist for the restoration of old paintings.
 
   "C'est un vrai *spécialiste* des excuses bidons !"
-  "Der ist ein echter *Meister* im Erfinden von Ausreden!"
+  "He's a real *master* in making excuses!"
 
   Les *spécialistes* recommandent de boire beaucoup d'eau pendant la canicule.
-  Die *Experten* empfehlen, während der Hitzewelle viel Wasser zu trinken.
+  *Experts* recommend drinking plenty of water during the heat wave.
 
   Marie est devenue *spécialiste* des maladies tropicales après ses études.
-  Marie ist nach ihrem Studium *Fachärztin* für Tropenkrankheiten geworden.
+  Marie has become a *specialist* in tropical diseases after her studies.
 
   Cette entreprise recrute des *spécialistes* de la cybersécurité.
-  Diese Firma stellt *Fachkräfte* für Cybersicherheit ein.
+  This company hires cybersecurity professionals.
 
   Le *spécialiste* du marketing digital a analysé nos données.
-  Der *Experte* für digitales Marketing hat unsere Daten analysiert.
+  The *expert* in digital marketing has analyzed our data.
 
   Nous avons consulté une *spécialiste* en développement durable.
-  Wir haben eine *Expertin* für nachhaltige Entwicklung konsultiert.
+  We consulted an *expert* on sustainable development.
 
   Les *spécialistes* du climat prévoient un été très chaud.
-  Die Klima*experten* sagen einen sehr heißen Sommer voraus.
+  Climate *experts* predict a very hot summer.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

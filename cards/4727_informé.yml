@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4727
 Wort: informé
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: informé
 Femininum / Plural: ''
 IPA: \ɛ̃.fɔʁ.me\
-Definition: informiert
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Information
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La population doit être mieux *informée* sur ce sujet.
-  Die Bevölkerung muss über dieses Thema besser *informiert* werden.
+  The population needs to be better informed about this issue.
 
   En tant que citoyens *informés*, nous devons agir de manière responsable.
-  Als *informierte* Bürger müssen wir verantwortungsvoll handeln.
+  As informed citizens, we must act responsibly.
 
   Les sources bien *informées* indiquent que les négociations progressent.
-  Gut *informierte* Quellen deuten darauf hin, dass die Verhandlungen vorankommen.
+  Well-informed sources indicate that negotiations are progressing.
 
   Jusqu'à plus ample *informé*, nous maintenons notre position initiale.
-  Bis wir *Genaueres* wissen, behalten wir unsere ursprüngliche Position bei.
+  Until we know more, we keep our original position.
 
   Je me considère comme quelqu'un de bien *informé* sur l'actualité.
-  Ich halte mich für jemanden, der über das aktuelle Geschehen gut *informiert* ist.
+  I think I'm someone who's well informed about what's happening.
 
   Le public *informé* a réagi positivement aux nouvelles mesures.
-  Das *informierte* Publikum hat positiv auf die neuen Maßnahmen reagiert.
+  The informed audience responded positively to the new measures.
 
   Notre journal reste toujours bien *informé* sur les questions locales.
-  Unsere Zeitung bleibt in lokalen Angelegenheiten stets gut *informiert*.
+  Our newspaper remains well informed in local affairs.
 
   Plus on est *informé*, plus on peut prendre de bonnes décisions.
-  Je besser man *informiert* ist, desto bessere Entscheidungen kann man treffen.
+  The better you know, the better you can make decisions.
 
   Le juge attendra un plus ample *informé* avant de rendre sa décision.
-  Der Richter wartet auf weitere *Informationen*, bevor er sein Urteil fällt.
+  The judge is waiting for more *information* before he comes to his verdict.
 
   Les consommateurs *informés* font des choix plus écologiques.
-  *Informierte* Verbraucher treffen umweltbewusstere Entscheidungen.
+  Informed consumers make more environmentally conscious decisions.
 
   Elle est toujours très bien *informée* des dernières tendances.
-  Sie ist über die neuesten Trends immer sehr gut *informiert*.
+  She is always very well informed about the latest trends.
 
   Un lecteur *informé* peut mieux comprendre les enjeux actuels.
-  Ein *informierter* Leser kann die aktuellen Herausforderungen besser verstehen.
+  An informed reader can better understand the current challenges.
 
   Les médecins doivent garder leurs patients bien *informés*.
-  Die Ärzte müssen ihre Patienten gut *informiert* halten.
+  The doctors must keep their patients well informed.
 
   Le personnel doit être *informé* des changements à venir.
-  Das Personal muss über die kommenden Änderungen *informiert* werden.
+  Staff must be informed of the changes to be made.
 
   Les investisseurs *informés* ont pu éviter les pertes majeures.
-  *Informierte* Anleger konnten größere Verluste vermeiden.
+  Informed investors were able to avoid major losses.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

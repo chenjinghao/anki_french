@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4632
 Wort: concrètement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: concrètement
 Femininum / Plural: ''
 IPA: \kɔ̃.kʁɛt.mɑ̃\
-Definition: konkret, inbesondere
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: specific, in particular:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vous demande *concrètement* si vous allez prendre des mesures sérieuses.
-  Ich frage Sie *konkret*, ob Sie ernsthafte Maßnahmen ergreifen werden.
+  I ask you specifically whether you will take serious action.
 
   Pour agir *concrètement*, nous avons créé un groupe de travail.
-  Um *konkret* zu handeln, haben wir eine Arbeitsgruppe gegründet.
+  In order to act concretely, we have established a working group.
 
   Qu'est-ce que ça signifie *concrètement* pour nous ?
-  Was bedeutet das *konkret* für uns?
+  What does that mean for us in *concrete* terms?
 
   *Concrètement*, le projet démarrera en septembre prochain.
-  *Konkret* wird das Projekt im nächsten September starten.
+  Specifically, the project will start next September.
 
   Comment pouvons-nous *concrètement* réduire notre consommation d'énergie ?
-  Wie können wir *konkret* unseren Energieverbrauch reduzieren?
+  How can we reduce our energy consumption in *concrete* terms?
 
   Elle a manifesté sa solidarité *concrètement* en organisant une collecte de fonds.
-  Sie hat ihre Solidarität *konkret* durch die Organisation einer Spendensammlung gezeigt.
+  She has shown her solidarity in *concrete* terms through the organization of a donation collection.
 
   *Concrètement*, nous devons terminer ce travail avant vendredi.
-  *Konkret* müssen wir diese Arbeit vor Freitag beenden.
+  Specifically, we have to finish this work before Friday.
 
   Explique-moi *concrètement* ce que tu attends de moi.
-  Erkläre mir *konkret*, was du von mir erwartest.
+  Explain to me in *concrete* terms what you expect me to do.
 
   *Concrètement*, ces changements affecteront tous les employés.
-  *Konkret* werden diese Änderungen alle Mitarbeiter betreffen.
+  Specifically, these changes will affect all employees.
 
   Il faut réfléchir *concrètement* aux solutions possibles.
-  Wir müssen *konkret* über mögliche Lösungen nachdenken.
+  We need to think specifically about possible solutions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4651
 Wort: fléau
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fléau
 Femininum / Plural: fléaux
 IPA: \fle.o\
-Definition: Geißel
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Chisel
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La pauvreté est un *fléau*.
-  Die Armut ist eine *Geißel*.
+  Poverty is a scourge.
 
   La guerre est toujours un terrible *fléau* pour l'humanité.
-  Der Krieg ist stets eine schreckliche *Plage* für die Menschheit.
+  War is always a terrible *plague* for humanity.
 
   Les *fléaux* naturels comme les inondations sont de plus en plus fréquents.
-  Naturkatastrophen wie Überschwemmungen sind immer häufiger werdende *Geißeln*.
+  Natural disasters such as floods are becoming increasingly common scourges.
 
   Le paysan utilise son *fléau* pour battre le blé.
-  Der Bauer benutzt seinen *Dreschflegel*, um den Weizen zu dreschen.
+  The farmer uses his threshing pin to threshing the wheat.
 
   Le *fléau de la balance* oscille doucement de gauche à droite.
-  Der *Waagebalken* schwingt sanft von links nach rechts.
+  The balance bar gently swings from left to right.
 
   Mon voisin est un véritable *fléau* avec sa musique forte.
-  Mein Nachbar ist mit seiner lauten Musik eine echte *Plage*.
+  My neighbor is a real *plague* with his loud music.
 
   Les *fléaux* sociaux comme l'alcoolisme touchent toutes les classes.
-  Soziale *Plagen* wie Alkoholismus betreffen alle Gesellschaftsschichten.
+  Social plagues such as alcoholism affect all walks of life.
 
   Au Moyen Âge, le *fléau* d'armes était une arme redoutable.
-  Im Mittelalter war der Kriegs*flegel* eine gefürchtete Waffe.
+  In the Middle Ages, the warflegel was a feared weapon.
 
   Ce virus est devenu un *fléau* mondial en quelques mois.
-  Dieses Virus wurde innerhalb weniger Monate zu einer weltweiten *Geißel*.
+  This virus has become a worldwide scourge within a few months.
 
   Les agriculteurs utilisaient autrefois des *fléaux* pour la récolte.
-  Die Bauern benutzten früher *Dreschflegel* für die Ernte.
+  The farmers used threshingbirds for the harvest.
 
   La corruption est un *fléau* qui mine notre société.
-  Die Korruption ist eine *Geißel*, die unsere Gesellschaft untergräbt.
+  Corruption is a scourge that undermines our society.
 
   Le *fléau* de l'écluse s'est bloqué pendant la manœuvre.
-  Der *Balken* der Schleuse hat sich während des Manövers verklemmt.
+  The beam of the lock has jammed during the maneuver.
 
   Les épidémies sont des *fléaux* qui ont marqué l'histoire.
-  Epidemien sind *Geißeln*, die die Geschichte geprägt haben.
+  Epidemics are scourges that have shaped history.
 
   Le vitrier a posé son verre sur le *fléau* pendant l'installation.
-  Der Glaser legte sein Glas während der Installation auf den *Träger*.
+  The glasser put his glass on the carrier during installation.
 
   Ces insectes sont devenus un véritable *fléau* pour les cultures.
-  Diese Insekten sind zu einer wahren *Plage* für die Feldfrüchte geworden.
+  These insects have become a real *plague* for the crops.
 
   La désinformation est un *fléau* moderne qui menace la démocratie.
-  Desinformation ist eine moderne *Geißel*, die die Demokratie bedroht.
+  Disinformation is a modern scourge that threatens democracy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

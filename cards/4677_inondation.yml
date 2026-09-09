@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4677
 Wort: inondation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une inondation
 Femininum / Plural: ''
 IPA: \i.nɔ̃.da.sjɔ̃\
-Definition: Überschwemmung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Flood
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'école est fermée pour *inondation*.
-  Die Schule ist wegen einer *Überschwemmung* geschlossen.
+  The school is closed because of a *flood*.
 
   Les *inondations* ont causé des dégâts considérables dans toute la région.
-  Die *Überschwemmungen* haben in der ganzen Region erhebliche Schäden verursacht.
+  The *floods* have caused significant damage throughout the region.
 
   Le risque d'*inondation* est particulièrement élevé au printemps.
-  Das *Hochwasser*risiko ist besonders hoch im Frühling.
+  The risk of flooding is particularly high in spring.
 
   La fonte des neiges a provoqué une grave *inondation*.
-  Die Schneeschmelze hat ein schweres *Hochwasser* verursacht.
+  The snow melt has caused a heavy flood.
 
   Les *inondations* périodiques du Nil fertilisaient les terres agricoles.
-  Die regelmäßigen *Überschwemmungen* des Nils machten die Agrarflächen fruchtbar.
+  The regular *floods* of the Nile made agricultural land fertile.
 
   L'*inondation* couvrait toute la vallée jusqu'à l'horizon.
-  Die *Überschwemmung* bedeckte das gesamte Tal bis zum Horizont.
+  The *flood* covered the entire valley to the horizon.
 
   Le marché est submergé par une *inondation* de produits chinois.
-  Der Markt wird von einer *Flut* chinesischer Produkte überschwemmt.
+  The market is flooded by a *flood* of Chinese products.
 
   "Il y a une *inondation* dans la salle de bain !"
-  "In unserem Badezimmer gibt es eine *Überschwemmung*!"
+  "There's a *flood* in our bathroom!"
 
   Cette *inondation* était la plus dévastatrice depuis un siècle.
-  Diese *Überschwemmungs*katastrophe war die verheerendste seit einem Jahrhundert.
+  This flood disaster was the most devastating in a century.
 
   Les experts prévoient des *inondations* plus fréquentes à l'avenir.
-  Die Experten sagen in Zukunft häufigere *Überschwemmungen* voraus.
+  The experts predict more frequent *floods* in the future.
 
   Mon assurance couvre les dégâts causés par les *inondations*.
-  Meine Versicherung deckt *Hochwasser*schäden ab.
+  My insurance covers flood damage.
 
   Les pompiers ont réagi rapidement à l'*inondation*.
-  Die Feuerwehr hat schnell auf die *Überschwemmung* reagiert.
+  The fire department reacted quickly to the *flood*.
 
   Une *inondation* de courriels a saturé notre serveur.
-  Eine *Flut* von E-Mails hat unseren Server überlastet.
+  A *flood* of e-mails has overloaded our server.
 
   La ville a construit une digue pour prévenir les *inondations*.
-  Die Stadt hat einen Deich gebaut, um *Überschwemmungen* zu verhindern.
+  The city built a dike to prevent flooding.
 
   Les habitants craignent une nouvelle *inondation*.
-  Die Bewohner fürchten eine neue *Überschwemmung*.
+  The inhabitants fear a new *flood*.
 
   Le système d'alerte aux *inondations* a bien fonctionné.
-  Das *Hochwasser*warnsystem hat gut funktioniert.
+  The flood warning system worked well.
 
   Des milliers de personnes ont été évacuées à cause de l'*inondation*.
-  Tausende Menschen wurden wegen der *Überschwemmung* evakuiert.
+  Thousands of people were evacuated because of the *flood*.
 
   Une *inondation* de touristes envahit la ville chaque été.
-  Eine *Flut* von Touristen überschwemmt jeden Sommer die Stadt.
+  A *flood* of tourists floods the city every summer.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

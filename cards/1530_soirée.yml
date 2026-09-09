@@ -1,114 +1,114 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1530
 Wort: soirée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la soirée
 Femininum / Plural: ''
 IPA: \swa.ʁe\
-Definition: Abend, Abendgesellschaft
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Evening, Evening party
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je rentre d'une *soirée* chez des amis.
-  Ich komme von einer *Abendgesellschaft* bei Freunden zurück.
+  I'm coming back from an *evening party* with friends.
 
   Les longues *soirées* d'hiver sont parfaites pour lire des romans.
-  Die langen Winter*abende* sind perfekt zum Romane lesen.
+  The long winter evenings are perfect for reading novels.
 
   Je vous attendrai dans la *soirée*.
-  Ich werde Sie im Laufe des *Abends* erwarten.
+  I'll be waiting for you during the *evening*.
 
   Marie passe toutes ses *soirées* à étudier.
-  Marie verbringt alle ihre *Abende* mit Lernen.
+  Marie spends all her *evenings* learning.
 
   "Cette *soirée* est vraiment géniale !" s'est exclamé Paul en dansant.
-  "Diese *Party* ist echt genial!" rief Paul beim Tanzen.
+  "This *party* is really awesome!" Paul shouted at the dance.
 
   La *soirée* d'information sur le climat aura lieu mardi prochain.
-  Der Informations*abend* zum Klima findet nächsten Dienstag statt.
+  The climate information *evening* will take place next Tuesday.
 
   Elle porte une magnifique tenue de *soirée*.
-  Sie trägt ein wunderschönes *Abend*kleid.
+  She's wearing a beautiful *evening* dress.
 
   Nous organisons une *soirée* costumée pour Halloween.
-  Wir organisieren ein Kostüm*fest* an Halloween.
+  We're organizing a costume party on Halloween.
 
   La *soirée* d'opéra commence à 20 heures précises.
-  Die *Abend*vorstellung in der Oper beginnt um Punkt 20 Uhr.
+  The *evening* performance at the opera starts at 8 p.m.
 
   En *soirée*, le restaurant est toujours complet.
-  *Abends* ist das Restaurant immer ausgebucht.
+  In the *evening*, the restaurant is always fully booked.
 
   Je viendrai te voir demain en *soirée*.
-  Ich komme dich morgen *Abend* besuchen.
+  I'll come see you tomorrow night.
 
   En fin de *soirée*, les invités sont partis.
-  Am späten *Abend* sind die Gäste gegangen.
+  In the late *evening* the guests left.
 
   Il fait encore chaud en cette *soirée* d'été.
-  Es ist noch warm an diesem Sommer*abend*.
+  It's still warm this summer night.
 
   La *soirée* dansante bat son plein.
-  Der Tanz*abend* ist in vollem Gange.
+  The dance *evening* is in full swing.
 
   Nous avons passé une excellente *soirée* au théâtre.
-  Wir haben einen ausgezeichneten Theater*abend* verbracht.
+  We spent an excellent theater night.
 
   Cette pièce se joue uniquement en *soirée*.
-  Dieses Stück wird nur in der *Abendvorstellung* gespielt.
+  This piece is only played in the *evening performance*.
 
   Je te souhaite une bonne *soirée* !
-  Ich wünsche dir einen schönen *Abend*!
+  Have a good night.
 
   La *soirée* électorale sera diffusée en direct.
-  Der Wahl*abend* wird live übertragen.
+  The *evening* will be broadcast live.
 
   Cette *soirée* musicale réunira plusieurs artistes.
-  Dieser Musik*abend* wird mehrere Künstler zusammenbringen.
+  This music *evening* will bring together several artists.
 
   Lundi dans la *soirée*, nous aurons les résultats.
-  Im Laufe des Montag*abends* werden wir die Ergebnisse haben.
+  During Monday *evening* we will have the results.
 
   Il organisait souvent des *soirées* littéraires dans son salon.
-  Er veranstaltete oft literarische *Abendgesellschaften* in seinem Salon.
+  He often hosted literary *evening parties* in his salon.
 
   C'est une *soirée* de gala au profit des enfants malades.
-  Es ist ein Gala*abend* zugunsten kranker Kinder.
+  It's a gala night for sick children.
 
   À quelle heure commence ta *soirée* ?
-  Wann fängt deine *Party* an?
+  When does your *party* start?
 
   J'ai reçu une invitation pour leur *soirée* mondaine.
-  Ich habe eine Einladung für ihre gesellschaftliche *Abendveranstaltung* erhalten.
+  I received an invitation for your social *evening event*.
 
   Thomas passe toutes ses *soirées* dehors.
-  Thomas verbringt alle seine *Abende* draußen.
+  Thomas spends all his *evenings* outside.
 
   Elle appellera dans la *soirée* pour confirmer.
-  Sie wird im Laufe des *Abends* anrufen, um zu bestätigen.
+  She'll call in the *evening* to confirm.
 
   Le film est projeté en *soirée* uniquement.
-  Der Film läuft nur im *Abendprogramm*.
+  The movie's only in the *evening program*.
 
   Ils ont organisé une *soirée* surprise pour son anniversaire.
-  Sie haben eine Überraschungs*party* für seinen Geburtstag organisiert.
+  They organized a surprise *party* for his birthday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p><span class="fr">Soir</span> bezieht sich auf den Abend als bestimmten Zeitpunkt, während <span class="fr">soirée</span> sich auf die Dauer/den Ablauf des Abends bezieht.</p>
+  <p><span class="fr">Soir</span> refers to the evening as a certain time, while <span class="fr">soirée</span> refers to the duration/end of the evening.</p>
   <div class="examples">
     <div class="fr">Est-ce que tu veux aller au cinéma ce soir?</div>
-    <div class="de spoiler">Möchtest du heute Abend ins Kino gehen?</div>
+    <div class="de spoiler">Do you want to go to the movies tonight?</div>
     <div class="fr">J'ai passé une très bonne soirée!</div>
-    <div class="de spoiler">Ich hatte einen sehr schönen Abend!</div>
+    <div class="de spoiler">I had a very nice evening!</div>
   </div>
   <!-- Grammar automatically added -->
   <hr>

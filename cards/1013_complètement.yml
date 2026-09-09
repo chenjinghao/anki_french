@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1013
 Wort: complètement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: complètement
 Femininum / Plural: ''
 IPA: \kɔ̃.plɛt.mɑ̃\
-Definition: völlig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Total
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le ciel est *complètement* couvert.
-  Der Himmel ist *völlig* bedeckt.
+  The sky is completely covered.
 
   Il a *complètement* oublié notre rendez-vous.
-  Er hat unser Treffen *vollständig* vergessen.
+  He completely forgot about our meeting.
 
   La batterie de mon téléphone est *complètement* vide.
-  Der Akku meines Handys ist *komplett* leer.
+  My cell phone's battery is completely empty.
 
   Elle a *complètement* changé depuis son voyage.
-  Sie hat sich seit ihrer Reise *vollkommen* verändert.
+  She's changed completely since her trip.
 
   "Tu es *complètement* fou de sortir par ce temps !"
-  "Du bist ja *völlig* verrückt, bei diesem Wetter rauszugehen!"
+  "You're crazy about going out in this weather!"
 
   J'ai lu ce livre *complètement* en une journée.
-  Ich habe dieses Buch an einem Tag *ganz* durchgelesen.
+  I read this book all over one day.
 
   Le nouveau système a *complètement* transformé notre façon de travailler.
-  Das neue System hat unsere Arbeitsweise *komplett* verändert.
+  The new system has completely changed our way of working.
 
   Cette méthode a *complètement* échoué.
-  Diese Methode ist *vollständig* gescheitert.
+  This method has completely failed.
 
   Je suis *complètement* d'accord avec toi.
-  Ich stimme dir *völlig* zu.
+  I totally agree with you.
 
   La ville a été *complètement* reconstruite après la guerre.
-  Die Stadt wurde nach dem Krieg *vollständig* wiederaufgebaut.
+  The city was completely rebuilt after the war.
 
   Il fait *complètement* confiance à son équipe.
-  Er vertraut seinem Team *vollkommen*.
+  He trusts his team completely.
 
   La situation est *complètement* différente maintenant.
-  Die Situation ist jetzt *ganz* anders.
+  The situation is completely different now.
 
   Je me sens *complètement* épuisé après cette journée.
-  Ich fühle mich nach diesem Tag *völlig* erschöpft.
+  I feel exhausted after that day.
 
   Elle maîtrise *complètement* le sujet.
-  Sie beherrscht das Thema *vollständig*.
+  She completely masteres the subject.
 
   Le problème est *complètement* résolu.
-  Das Problem ist *komplett* gelöst.
+  The problem is completely solved.
 
   Cette idée est *complètement* absurde.
-  Diese Idee ist *völlig* absurd.
+  This idea is completely absurd.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

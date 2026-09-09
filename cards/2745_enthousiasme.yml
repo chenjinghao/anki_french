@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2745
 Wort: enthousiasme
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un enthousiasme
 Femininum / Plural: ''
 IPA: \ɑ̃.tu.zjasm\
-Definition: Begeisterung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Enthusiasm
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*enthousiasme* fit place à une méfiance extrême.
-  Der *Enthusiasmus* wich äußerstem Misstrauen.
+  *Enthusiasm* gave way to extreme distrust.
 
   Son *enthousiasme* pour le projet était contagieux.
-  Seine *Begeisterung* für das Projekt war ansteckend.
+  His *enthusiasm* for the project was contagious.
 
   Elle a accueilli la nouvelle avec un *enthousiasme* débordant.
-  Sie hat die Nachricht mit überschäumender *Begeisterung* aufgenommen.
+  She has received the message with exuberant *enthusiasm*.
 
   L'*enthousiasme* de la foule était palpable lors du concert.
-  Der *Enthusiasmus* der Menge war während des Konzerts greifbar.
+  The *enthusiasm* of the crowd was tangible during the concert.
 
   "J'accepte votre proposition avec *enthousiasme* !"
-  "Ich nehme Ihren Vorschlag mit *Begeisterung* an!"
+  "I accept your proposal with *enthusiasm*!"
 
   Les spectateurs ont applaudi le spectacle avec *enthousiasme*.
-  Die Zuschauer applaudierten der Vorstellung mit *Enthusiasmus*.
+  The audience applauded the performance with *enthusiasm*.
 
   Son manque d'*enthousiasme* était évident pendant la réunion.
-  Sein mangelnder *Enthusiasmus* war während des Meetings offensichtlich.
+  His lack of *enthusiasm* was obvious during the meeting.
 
   L'*enthousiasme* des supporters a porté l'équipe à la victoire.
-  Die *Begeisterung* der Fans hat das Team zum Sieg getragen.
+  The *enthusiasm* of the fans led the team to victory.
 
   Elle a parlé de son nouveau livre avec un *enthousiasme* contagieux.
-  Sie sprach mit ansteckender *Begeisterung* über ihr neues Buch.
+  She spoke with contagious *enthusiasm* about her new book.
 
   L'*enthousiasme* du jeune poète transparaissait dans ses vers.
-  Der *Enthusiasmus* des jungen Dichters schimmerte durch seine Verse.
+  The *enthusiasm* of the young poet shimmered through his verses.
 
   Les volontaires ont participé au projet avec beaucoup d'*enthousiasme*.
-  Die Freiwilligen haben sich mit viel *Begeisterung* am Projekt beteiligt.
+  The volunteers have been very enthusiastic about the project.
 
   L'*enthousiasme* patriotique a uni le pays pendant la crise.
-  Der patriotische *Enthusiasmus* hat das Land während der Krise geeint.
+  Patriotic *enthusiasm* has united the country during the crisis.
 
   Il a voté la motion d'*enthousiasme*, sans vraiment réfléchir.
-  Er hat den Antrag aus *Begeisterung* heraus angenommen, ohne wirklich darüber nachzudenken.
+  He accepted the motion out of *enthusiasm* without really thinking about it.
 
   L'orateur a su susciter l'*enthousiasme* de son auditoire.
-  Der Redner konnte den *Enthusiasmus* seines Publikums wecken.
+  The speaker was able to awaken the *enthusiasm* of his audience.
 
   Son *enthousiasme* pour la musique classique ne faiblit jamais.
-  Seine *Begeisterung* für klassische Musik lässt nie nach.
+  His *enthusiasm* for classical music never fades.
 
   Les enfants ont accueilli l'idée d'une sortie scolaire avec *enthousiasme*.
-  Die Kinder haben die Idee eines Schulausflugs mit *Begeisterung* aufgenommen.
+  The children enthusiastically accepted the idea of a school trip.
 
   "Modérez votre *enthousiasme*, nous ne sommes pas encore sûrs du résultat."
-  "Zügeln Sie Ihren *Enthusiasmus*, wir sind uns des Ergebnisses noch nicht sicher."
+  "Little your *enthusiasm*, we're not sure of the result yet."
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 575
 Wort: convaincre
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: convaincre
 Femininum / Plural: ''
 IPA: \kɔ̃.vɛ̃kʁ\
-Definition: überzeugen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Convincing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est bon, tu m'as *convaincue*.
-  Okay, du hast mich *überzeugt*.
+  Okay, you *convinced* me.
 
   Les arguments du professeur ont fini par *convaincre* tous les élèves.
-  Die Argumente des Lehrers haben am Ende alle Schüler *überzeugt*.
+  The teacher's arguments *convinced* all the students in the end.
 
   Je ne suis pas encore *convaincu* que c'est la meilleure solution.
-  Ich bin noch nicht davon *überzeugt*, dass das die beste Lösung ist.
+  I'm not yet *convinced* that this is the best solution.
 
   Il faut *convaincre* les gens de l'importance du recyclage.
-  Man muss die Menschen von der Wichtigkeit des Recyclings *überzeugen*.
+  People must be convinced of the importance of recycling.
 
   Elle s'est *convaincue* que son mari lui mentait.
-  Sie hat sich davon *überzeugt*, dass ihr Mann sie anlog.
+  She *convinced* herself that her husband lied to her.
 
   Le suspect a été *convaincu* de vol à main armée.
-  Der Verdächtige wurde des bewaffneten Raubüberfalls *überführt*.
+  The suspect was convicted of armed robbery.
 
   Les preuves ont *convaincu* le jury de sa culpabilité.
-  Die Beweise haben die Jury von seiner Schuld *überzeugt*.
+  The evidence *convinced* the jury of his guilt.
 
   Je vais te *convaincre* de venir à la fête samedi.
-  Ich werde dich *überreden*, am Samstag zur Party zu kommen.
+  I'll *convince* you to come to the party on Saturday.
 
   Les scientifiques ont *convaincu* le public des dangers du changement climatique.
-  Die Wissenschaftler haben die Öffentlichkeit von den Gefahren des Klimawandels *überzeugt*.
+  The scientists have *convinced* the public of the dangers of climate change.
 
   Il s'est laissé *convaincre* par ses amis d'essayer le parachutisme.
-  Er hat sich von seinen Freunden *überzeugen* lassen, Fallschirmspringen auszuprobieren.
+  He was convinced by his friends to try parachute jumping.
 
   Les images satellite ont *convaincu* les experts de l'existence d'anciennes rivières sur Mars.
-  Die Satellitenbilder haben die Experten von der Existenz ehemaliger Flüsse auf dem Mars *überzeugt*.
+  The satellite images have *convinced* the experts of the existence of former rivers on Mars.
 
   Cette preuve l'a définitivement *convaincu* de trahison.
-  Dieser Beweis hat ihn endgültig des Verrats *überführt*.
+  This evidence has finally turned him into treason.
 
   J'essaie de me *convaincre* que tout ira bien.
-  Ich versuche mich davon zu *überzeugen*, dass alles gut wird.
+  I'm trying to convince myself everything's gonna be okay.
 
   Son sourire sincère m'a *convaincu* de lui faire confiance.
-  Sein ehrliches Lächeln hat mich *überzeugt*, ihm zu vertrauen.
+  His honest smile *convinced* me to trust him.
 
   Les médecins l'ont *convaincue* d'arrêter de fumer.
-  Die Ärzte haben sie *überredet*, mit dem Rauchen aufzuhören.
+  The doctors persuaded her to stop smoking.
 
   Il a été *convaincu* d'avoir menti sous serment.
-  Er wurde des Meineids *überführt*.
+  He was convicted of perjury.
 
   Elle a *convaincu* son patron de lui accorder une augmentation.
-  Sie hat ihren Chef *überzeugt*, ihr eine Gehaltserhöhung zu geben.
+  She *convinced* her boss to give her a raise.
 
   Nous devons *convaincre* les jeunes de l'importance de l'éducation.
-  Wir müssen die Jugendlichen von der Wichtigkeit der Bildung *überzeugen*.
+  We must convince young people of the importance of education.
 
   L'avocat a réussi à *convaincre* le juge de l'innocence de son client.
-  Dem Anwalt ist es gelungen, den Richter von der Unschuld seines Mandanten zu *überzeugen*.
+  The lawyer has succeeded in *convincing* the judge of his client's innocence.
 
   Je ne peux pas me *convaincre* que c'est la fin.
-  Ich kann mich nicht davon *überzeugen*, dass es das Ende ist.
+  I can't believe it's the end.
 
   Les sondages n'ont pas réussi à me *convaincre* du résultat.
-  Die Umfragen haben es nicht geschafft, mich vom Ergebnis zu *überzeugen*.
+  The polls have not managed to convince me of the result.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

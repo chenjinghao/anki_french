@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3804
 Wort: enfuir
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: s’enfuir
 Femininum / Plural: ''
 IPA: \ɑ̃.fɥiʁ\
-Definition: fliehen, entschwinden
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: escape, disappear
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je voudrais m'*enfuir*, mais je suis comme paralysée.
-  Ich möchte *fliehen*, aber ich bin wie gelähmt.
+  I want to *escape*, but I'm paralyzed.
 
   Le prisonnier s'est *enfui* pendant la nuit.
-  Der Gefangene ist in der Nacht *geflohen*.
+  The prisoner *escaped* at night.
 
   Les voleurs se sont *enfuis* dans un bois après le braquage.
-  Die Räuber sind nach dem Überfall in einen Wald *geflüchtet*.
+  The robbers fled to a forest after the robbery.
 
   Quand elle a vu son ex, Marie s'est *enfuie à toutes jambes*.
-  Als Marie ihren Ex sah, ist sie *davongesaust*.
+  When Marie saw her ex, she ran away.
 
   Le temps s'*enfuit* comme le sable entre nos doigts.
-  Die Zeit *entschwindet* wie Sand zwischen unseren Fingern.
+  Time disappears like sand between our fingers.
 
   Le chat s'est *enfui* par la fenêtre ouverte.
-  Die Katze ist durch das offene Fenster *geflohen*.
+  The cat *escaped* through the open window.
 
   Ma jeunesse s'*enfuit* peu à peu.
-  Meine Jugend *schwindet* nach und nach *dahin*.
+  My youth is gradually disappearing.
 
   Les oiseaux se sont *enfuis* en entendant le coup de feu.
-  Die Vögel sind beim Schuss *davongeflogen*.
+  The birds flew away at the shot.
 
   Le bonheur s'*enfuit* toujours trop vite.
-  Das Glück *entschwindet* immer zu schnell.
+  Happiness always disappears too quickly.
 
   Les manifestants se sont *enfuis* quand la police est arrivée.
-  Die Demonstranten sind *geflohen*, als die Polizei kam.
+  The demonstrators fled when the police came.
 
   Thomas s'est *enfui* de l'hôpital avant la fin du traitement.
-  Thomas ist vor Ende der Behandlung aus dem Krankenhaus *geflohen*.
+  Thomas *escaped* from the hospital before the end of the treatment.
 
   Les années s'*enfuient* sans qu'on s'en aperçoive.
-  Die Jahre *entschwinden*, ohne dass man es bemerkt.
+  The years *disappear* without you realizing it.
 
   Le suspect s'est *enfui au galop* sur son cheval.
-  Der Verdächtige ist auf seinem Pferd im Galopp *davongeritten*.
+  The suspect rode off on his horse in the gallop.
 
   Les souvenirs s'*enfuient* comme des rêves au réveil.
-  Die Erinnerungen *entschwinden* wie Träume beim Aufwachen.
+  The memories *disappear* like dreams waking up.
 
   Le lapin s'est *enfui* dès qu'il nous a aperçus.
-  Der Hase ist *davongehoppelt*, sobald er uns bemerkt hat.
+  The rabbit's gone off as soon as he noticed us.
 
   L'été s'*enfuit* déjà, laissant place à l'automne.
-  Der Sommer *entschwindet* bereits und macht dem Herbst Platz.
+  Summer is already disappearing and makes room for autumn.
 
   Les enfants se sont *enfuis* en riant dans le jardin.
-  Die Kinder sind lachend in den Garten *geflüchtet*.
+  The children fled laughing into the garden.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

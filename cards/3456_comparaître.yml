@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3456
 Wort: comparaître
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: comparaître
 Femininum / Plural: ''
 IPA: \kɔ̃.pa.ʁɛtʁ\
-Definition: '[vor jmd.] erscheinen'
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: '[before jmd.] appear'
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Certains témoins ont accepté de *comparaître* devant nous.
-  Einige Zeugen haben zugestimmt, vor uns zu *erscheinen*.
+  Some Witnesses have agreed to *appear* before us.
 
   Le suspect devra *comparaître* devant le tribunal la semaine prochaine.
-  Der Verdächtige muss nächste Woche vor Gericht *erscheinen*.
+  The suspect must *appear* in court next week.
 
   L'accusé a refusé de *comparaître* en personne et a envoyé son avocat.
-  Der Angeklagte weigerte sich, persönlich zu *erscheinen* und schickte seinen Anwalt.
+  The defendant refused to *appear* personally and sent his lawyer.
 
   Elle a été citée à *comparaître* devant le juge d'instruction.
-  Sie wurde aufgefordert, vor dem Untersuchungsrichter zu *erscheinen*.
+  She was asked to *appear* before the investigating judge.
 
   Mon voisin doit *comparaître* devant le conseil de discipline pour son comportement.
-  Mein Nachbar muss wegen seines Verhaltens vor dem Disziplinarausschuss *erscheinen*.
+  My neighbor must *appear* before the Disciplinary Committee because of his behavior.
 
   Les deux parties doivent *comparaître* au tribunal lundi prochain.
-  Beide Parteien müssen am nächsten Montag vor Gericht *erscheinen*.
+  Both parties must *appear* in court next Monday.
 
   Après sa mort, chacun devra *comparaître* devant Dieu.
-  Nach seinem Tod wird jeder vor Gott *erscheinen* müssen.
+  After his death, everyone will have to *appear* before God.
 
   Le témoin peut *comparaître* par visioconférence si nécessaire.
-  Der Zeuge kann bei Bedarf per Videokonferenz *erscheinen*.
+  The witness may *appear* by videoconference if necessary.
 
   La loi l'oblige à *comparaître* devant la commission d'enquête.
-  Das Gesetz verpflichtet ihn, vor dem Untersuchungsausschuss zu *erscheinen*.
+  The law obliges him to *appear* before the committee of inquiry.
 
   Les employés devront *comparaître* devant la direction pour s'expliquer.
-  Die Mitarbeiter werden vor der Geschäftsleitung *erscheinen* müssen, um sich zu erklären.
+  The employees will have to *appear* before the management in order to explain themselves.
 
   Il a été sommé de *comparaître* immédiatement devant le magistrat.
-  Er wurde aufgefordert, unverzüglich vor dem Richter zu *erscheinen*.
+  He was asked to *appear* before the judge without delay.
 
   Le patron a ordonné à tous les employés de *comparaître* dans son bureau.
-  Der Chef hat allen Mitarbeitern befohlen, in seinem Büro zu *erscheinen*.
+  The boss ordered all the staff to *appear* in his office.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

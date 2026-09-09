@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1973
 Wort: morale
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la morale
 Femininum / Plural: ''
 IPA: \mɔ.ʁal\
-Definition: Moral, Ethik
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Morality, ethics
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *morale* judéo-chrétienne me paraît l'une des plus belles.
-  Die jüdisch-christliche *Moral* erscheint mir als eine der schönsten.
+  Judeo-Christian *morality* seems to me to be one of the most beautiful.
 
   Le professeur de *morale* explique à ses élèves les différentes théories éthiques.
-  Der *Moral*lehrer erklärt seinen Schülern die verschiedenen ethischen Theorien.
+  The moral teacher explains the different ethical theories to his students.
 
   Les philosophes grecs ont beaucoup réfléchi sur la *morale*.
-  Die griechischen Philosophen haben viel über *Moral* nachgedacht.
+  The Greek philosophers have thought a lot about *morality*.
 
   La *morale* de cette fable est qu'il ne faut jamais se fier aux apparences.
-  Die *Moral* dieser Fabel ist, dass man nie dem Äußeren trauen soll.
+  The moral of this fable is that you should never trust the outside.
 
   Il n'a pas cessé de me faire la *morale* pendant toute la soirée.
-  Er hat mir den ganzen Abend *Moral*predigten gehalten.
+  He's been giving me morals all night.
 
   Cette société manque cruellement de *morale*.
-  Dieser Gesellschaft fehlt es schmerzlich an *Moral*.
+  This society lacks morale painfully.
 
   La *morale* kantienne repose sur l'impératif catégorique.
-  Die kantische *Moral*lehre basiert auf dem kategorischen Imperativ.
+  The Kantian moral doctrine is based on the categorical imperative.
 
   Les parents doivent inculquer une certaine *morale* à leurs enfants.
-  Eltern müssen ihren Kindern eine gewisse *Moral* vermitteln.
+  Parents need to give their children a certain morale.
 
   Sa conduite est contraire à toute *morale*.
-  Sein Verhalten widerspricht jeder *Moral*.
+  His behavior is contrary to any *morality*.
 
   La *morale* de l'histoire, c'est qu'il faut réfléchir avant d'agir.
-  Die *Moral* von der Geschichte ist, dass man vor dem Handeln nachdenken muss.
+  The moral of history is that one must think before acting.
 
   Une société sans *morale* est vouée à l'échec.
-  Eine Gesellschaft ohne *Moral* ist zum Scheitern verurteilt.
+  A society without *morality* is doomed to failure.
 
   Cette décision pose un problème de *morale*.
-  Diese Entscheidung wirft ein *Moral*problem auf.
+  This decision raises a moral problem.
 
   Les enfants étudient la *morale* à l'école primaire.
-  Die Kinder lernen *Moral*kunde in der Grundschule.
+  The children learn morals in primary school.
 
   Il suit une *morale* très stricte dans sa vie quotidienne.
-  Er folgt einer sehr strengen *Moral* in seinem Alltag.
+  He follows a very strict *morality* in his everyday life.
 
   La *morale* publique a beaucoup évolué ces dernières années.
-  Die öffentliche *Moral* hat sich in den letzten Jahren stark verändert.
+  Public *morality* has changed a lot in recent years.
 
   Chaque culture a sa propre *morale*.
-  Jede Kultur hat ihre eigene *Moral*.
+  Each culture has its own morale.
 
   Les règles de *morale* varient selon les époques.
-  Die *Moral*vorstellungen ändern sich mit der Zeit.
+  Morals change over time.
 
   Je ne supporte pas qu'on me fasse la *morale*.
-  Ich kann es nicht ertragen, wenn man mir *Moral*predigten hält.
+  I can't stand being preached morals.
 
   La *morale* de cette histoire nous enseigne la patience.
-  Die *Moral* dieser Geschichte lehrt uns Geduld.
+  The *morality* of this story teaches us patience.
 
   Une *morale* trop rigide peut avoir des effets néfastes.
-  Eine zu strenge *Moral* kann schädliche Auswirkungen haben.
+  Too strict *morality* can have harmful effects.
 
   Cette situation soulève des questions de *morale*.
-  Diese Situation wirft *Moral*fragen auf.
+  This situation raises moral questions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

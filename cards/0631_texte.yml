@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 631
 Wort: texte
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le texte
 Femininum / Plural: ''
 IPA: \tɛkst\
 Definition: Text
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je donne un *texte* et l'artiste intervient comme il veut.
-  Ich gebe einen *Text* vor und der Künstler interpretiert ihn, wie er möchte.
+  I'll give you a *text*, and the artist will interpret it as he wants.
 
   Le *texte* est imprimé en caractères trop petits pour être lu facilement.
-  Der *Text* ist in zu kleinen Buchstaben gedruckt, um leicht lesbar zu sein.
+  The *text* is printed in too small letters to be easily readable.
 
   Pour bien comprendre Voltaire, il faut le lire dans le *texte*.
-  Um Voltaire richtig zu verstehen, muss man ihn im Original*text* lesen.
+  To understand Voltaire correctly, you have to read it in the original *text*.
 
   J'ai utilisé un logiciel de traitement de *texte* pour rédiger mon rapport.
-  Ich habe eine *Text*verarbeitung benutzt, um meinen Bericht zu schreiben.
+  I used word processing to write my report.
 
   Le *texte* de la chanson parle d'amour et d'espoir.
-  Der *Text* des Liedes handelt von Liebe und Hoffnung.
+  The lyrics of the song are about love and hope.
 
   L'acteur a oublié son *texte* pendant la représentation.
-  Der Schauspieler hat seinen *Text* während der Aufführung vergessen.
+  The actor forgot his lyrics during the performance.
 
   Les illustrations complètent parfaitement le *texte*.
-  Die Illustrationen ergänzen den *Text* perfekt.
+  The illustrations complement the *text* perfectly.
 
   Le professeur nous a donné un *texte* à analyser pour demain.
-  Der Lehrer hat uns einen *Text* zur Analyse für morgen aufgegeben.
+  The teacher gave us a *text* for analysis for tomorrow.
 
   Le *texte* original a été traduit en cinq langues.
-  Der Original*text* wurde in fünf Sprachen übersetzt.
+  The original *text* has been translated into five languages.
 
   Ce *texte* législatif entrera en vigueur le mois prochain.
-  Dieser Gesetzes*text* tritt nächsten Monat in Kraft.
+  This *text* will enter into force next month.
 
   Il y a trop de *texte* sur cette page, il faudrait plus d'espace blanc.
-  Auf dieser Seite ist zu viel *Text*, es bräuchte mehr Weißraum.
+  On this page is too much *text*, it would need more white space.
 
   As-tu bien compris le *texte* de la dissertation ?
-  Hast du den Aufsatz*text* gut verstanden?
+  Did you understand the essay well?
 
   Je préfère lire les *textes* manuscrits plutôt qu'imprimés.
-  Ich lese lieber handgeschriebene *Texte* als gedruckte.
+  I prefer to read handwritten *texts* rather than printed ones.
 
   Le *texte* et la musique se complètent parfaitement dans cet opéra.
-  *Text* und Musik ergänzen sich perfekt in dieser Oper.
+  *Text* and music complement each other perfectly in this opera.
 
   Nous étudions différents types de *textes* en classe de français.
-  Wir studieren verschiedene *Text*sorten im Französischunterricht.
+  We study different types of *text* in French.
 
   Le *texte* de ce testament est très clair.
-  Der *Text* dieses Testaments ist sehr klar.
+  The *text* of this will is very clear.
 
   Ces *textes* choisis représentent bien l'époque romantique.
-  Diese ausgewählten *Texte* repräsentieren die romantische Epoche gut.
+  These selected *texts* represent the romantic epoch well.
 
   J'ai dû respecter scrupuleusement le *texte* source pour ma traduction.
-  Ich musste mich bei meiner Übersetzung genau an den Quellen*text* halten.
+  I had to stick to the source *text* in my translation.
 
   Le *texte* d'introduction résume bien l'ensemble du livre.
-  Der Einleitungs*text* fasst das gesamte Buch gut zusammen.
+  The introductory *text* summarizes the entire book well.
 
   Elle cite toujours les *textes* originaux dans ses articles.
-  Sie zitiert in ihren Artikeln immer die Original*texte*.
+  She always quotes the original *texts* in her articles.
 
   Ce court *texte* publicitaire est très efficace.
-  Dieser kurze Werbe*text* ist sehr effektiv.
+  This short advertising *text* is very effective.
 
   Les *textes* juridiques peuvent être difficiles à comprendre.
-  Juristische *Texte* können schwer zu verstehen sein.
+  Legal *texts* can be difficult to understand.
 
   Le *texte* de cette loi a été modifié plusieurs fois.
-  Der *Text* dieses Gesetzes wurde mehrmals geändert.
+  The *text* of this law has been amended several times.
 
   J'ai perdu mon *texte* juste avant la présentation.
-  Ich habe meinen *Text* kurz vor der Präsentation verloren.
+  I lost my *text* just before the presentation.
 
   Le professeur nous a distribué un nouveau *texte* à étudier.
-  Der Lehrer hat uns einen neuen *Text* zum Lernen ausgeteilt.
+  The teacher has given us a new *text* for learning.
 
   Les étudiants doivent analyser ce *texte* littéraire pour l'examen.
-  Die Studenten müssen diesen literarischen *Text* für die Prüfung analysieren.
+  The students must analyze this literary *text* for the exam.
 
   Le *texte* de ce message est trop long pour un télégramme.
-  Der *Text* dieser Nachricht ist zu lang für ein Telegramm.
+  The *text* of this message is too long for a telegram.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

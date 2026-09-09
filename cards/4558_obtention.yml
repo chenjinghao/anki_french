@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4558
 Wort: obtention
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une obtention
 Femininum / Plural: ''
 IPA: \ɔp.tɑ̃.sjɔ̃\
-Definition: Erhalt, Erlangung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Maintenance, acquisition
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*obtention* d'un diplôme est une occasion spéciale.
-  Die *Erlangung* eines Diploms ist ein besonderer Anlass.
+  The acquisition of a diploma is a special occasion.
 
   Après l'*obtention* du visa, nous pourrons enfin partir en vacances.
-  Nach *Erhalt* des Visums können wir endlich in den Urlaub fahren.
+  After receiving the visa we can finally go on holiday.
 
   Les étudiants travaillent dur pour l'*obtention* de leur baccalauréat.
-  Die Studenten arbeiten hart für das *Bestehen* ihres Abiturs.
+  The students work hard for the completion of their high school degree.
 
   L'*obtention* de ce résultat nécessite beaucoup de patience.
-  Das *Erzielen* dieses Ergebnisses erfordert viel Geduld.
+  Achieving this result requires a lot of patience.
 
   Marie célèbre l'*obtention* de son permis de conduire.
-  Marie feiert das *Bestehen* ihrer Führerscheinprüfung.
+  Marie celebrates the passing of her driving licence exam.
 
   L'*obtention* d'une température constante est cruciale pour cette expérience.
-  Das *Erreichen* einer konstanten Temperatur ist entscheidend für dieses Experiment.
+  Achieving a constant temperature is crucial for this experiment.
 
   Le chercheur a consacré dix ans à l'*obtention* de cette nouvelle variété de roses.
-  Der Forscher hat zehn Jahre für die *Entwicklung* dieser neuen Rosensorte aufgewendet.
+  The researcher spent ten years developing this new rose variety.
 
   Les démarches pour l'*obtention* du passeport sont très simples.
-  Die Schritte zum *Erhalt* des Reisepasses sind sehr einfach.
+  The steps to obtain the passport are very simple.
 
   L'*obtention* de ce prix prestigieux a changé sa carrière.
-  Die *Erlangung* dieses prestigeträchtigen Preises hat seine Karriere verändert.
+  The achievement of this prestigious prize has changed his career.
 
   Nous attendons l'*obtention* des résultats du laboratoire.
-  Wir warten auf den *Erhalt* der Laborergebnisse.
+  We're waiting to get the lab results.
 
   Son *obtention* de la nationalité française était un moment émouvant.
-  Seine *Erlangung* der französischen Staatsangehörigkeit war ein bewegender Moment.
+  His acquisition of French nationality was a moving moment.
 
   L'*obtention* de ce poste demande beaucoup de qualifications.
-  Das *Erreichen* dieser Position erfordert viele Qualifikationen.
+  Reaching this position requires many qualifications.
 
   L'*obtention* du consentement des parents est obligatoire pour cette activité.
-  Die *Einholung* der elterlichen Zustimmung ist für diese Aktivität obligatorisch.
+  The *collection* of parental consent is mandatory for this activity.
 
   Je vous félicite pour l'*obtention* de votre master.
-  Ich gratuliere Ihnen zum *Bestehen* Ihres Masters.
+  I congratulate you on your master's passing.
 
   L'*obtention* de cette bourse d'études a rendu possible son rêve.
-  Der *Erhalt* dieses Stipendiums hat seinen Traum ermöglicht.
+  The receipt of this scholarship has made his dream possible.
 
   L'*obtention* d'un rendez-vous chez ce spécialiste peut prendre des mois.
-  Die *Erlangung* eines Termins bei diesem Facharzt kann Monate dauern.
+  The appointment with this specialist may take months.
 
   L'*obtention* de ce nouveau contrat est une excellente nouvelle pour l'entreprise.
-  Der *Erhalt* dieses neuen Vertrags ist eine ausgezeichnete Nachricht für das Unternehmen.
+  The receipt of this new contract is excellent news for the company.
 
   Les conditions pour l'*obtention* de ce prêt sont très strictes.
-  Die Bedingungen für die *Erlangung* dieses Kredits sind sehr streng.
+  The conditions for obtaining this loan are very strict.
 
   L'*obtention* de cet accord représente une avancée majeure.
-  Das *Erreichen* dieser Vereinbarung stellt einen großen Fortschritt dar.
+  Achieving this agreement represents a major step forward.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

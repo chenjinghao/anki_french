@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1986
 Wort: faim
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la faim
 Femininum / Plural: ''
 IPA: \fɛ̃\
 Definition: Hunger
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je commence à avoir *faim*.
-  Ich bekomme *Hunger*.
+  I'm getting hungry.
 
   Une odeur délicieuse me donne *faim*.
-  Ein köstlicher Duft macht mich *hungrig*.
+  A delicious scent makes me *hungry*.
 
   "Je crève de *faim*, allons manger quelque chose !"
-  "Ich habe einen Mords*hunger*, lass uns was essen!"
+  "I'm starving to death, let's eat!"
 
   Cette randonnée m'a donné une *faim* de loup.
-  Diese Wanderung hat mir einen Bären*hunger* bereitet.
+  This hike gave me a *hunger* for the bear.
 
   La *faim* dans le monde reste un problème majeur.
-  Der *Hunger* in der Welt bleibt ein großes Problem.
+  *Hunger* in the world remains a major problem.
 
   Les enfants ont mangé à leur *faim*.
-  Die Kinder haben sich *satt* gegessen.
+  The children ate themselves full.
 
   Pendant la *faim* de 1845, beaucoup d'Irlandais ont émigré.
-  Während der *Hunger*snot von 1845 sind viele Iren ausgewandert.
+  During the famine of 1845, many Irish emigrated.
 
   Elle a une *faim* dévorante de connaissances.
-  Sie hat einen unstillbaren *Hunger* nach Wissen.
+  She's insatiable *hunger* for knowledge.
 
   Il a entamé une grève de la *faim* pour protester.
-  Er ist in den *Hunger*streik getreten, um zu protestieren.
+  He went on a *hunger* strike to protest.
 
   Les manifestants ont une *faim* de justice.
-  Die Demonstranten haben einen *Hunger* nach Gerechtigkeit.
+  The demonstrators are hungry for justice.
 
   Cette soupe ne calme pas ma *faim*.
-  Diese Suppe stillt meinen *Hunger* nicht.
+  This soup doesn't satisfy my *hunger*.
 
   "Je meurs de *faim* depuis ce matin !"
-  "Ich komme seit heute Morgen vor *Hunger* um!"
+  "I've been dying of *hunger* since this morning!"
 
   La *faim* fait sortir le loup du bois.
-  Der *Hunger* treibt den Wolf aus dem Wald.
+  *Hunger* drives the wolf out of the forest.
 
   Après trois heures de sport, j'ai très *faim*.
-  Nach drei Stunden Sport habe ich großen *Hunger*.
+  After three hours of exercise, I'm very hungry.
 
   Les réfugiés souffrent de la *faim*.
-  Die Flüchtlinge leiden *Hunger*.
+  The refugees are hungry.
 
   Cette exposition m'a laissé sur ma *faim*.
-  Diese Ausstellung hat mich *unbefriedigt* gelassen.
+  This exhibition left me *unsatisfied*.
 
   Son *faim* insatiable de pouvoir l'a détruit.
-  Sein unstillbarer *Hunger* nach Macht hat ihn zerstört.
+  His insatiable *hunger* for power destroyed him.
 
   Il faut satisfaire sa *faim* avec modération.
-  Man sollte seinen *Hunger* mit Maß stillen.
+  You should satisfy your *hunger* with moderation.
 
   Dans ce pays, personne ne devrait avoir *faim*.
-  In diesem Land sollte niemand *Hunger* leiden.
+  No one in this country should be hungry.
 
   La *faim* les a contraints à se rendre.
-  Der *Hunger* zwang sie zur Aufgabe.
+  The *hunger* forced her to do the job.
 
   Elle trompe sa *faim* en buvant beaucoup d'eau.
-  Sie täuscht ihren *Hunger* durch viel Wassertrinken.
+  She deceives her *hunger* by drinking a lot of water.
 
   Les pauvres ne mangent pas à leur *faim*.
-  Die Armen können sich nicht *satt* essen.
+  The poor can't eat themselves full.
 
   Cette *faim* dévorante me rend fou.
-  Dieser verzehrende *Hunger* macht mich verrückt.
+  This consuming *hunger* is driving me crazy.
 
   Ta *faim* intellectuelle est impressionnante.
-  Dein intellektueller *Hunger* ist beeindruckend.
+  Your intellectual *hunger* is impressive.
 
   Nous luttons contre la *faim* dans cette région.
-  Wir kämpfen gegen den *Hunger* in dieser Region.
+  We are fighting against *hunger* in this region.
 
   Cette activité m'a donné *faim*.
-  Diese Aktivität hat mich *hungrig* gemacht.
+  This activity made me *hungry*.
 
   Le bébé pleure de *faim*.
-  Das Baby weint vor *Hunger*.
+  The baby is hungry.
 
   Ils ont dû apaiser leur *faim* avec peu de nourriture.
-  Sie mussten ihren *Hunger* mit wenig Nahrung stillen.
+  They had to satisfy their *hunger* with little food.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

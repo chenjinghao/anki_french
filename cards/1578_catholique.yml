@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1578
 Wort: catholique
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: catholique
 Femininum / Plural: ''
 IPA: \ka.tɔ.lik\
-Definition: katholisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Catholic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ma sœur était une fervente *catholique*.
-  Meine Schwester war eine überzeugte *Katholikin*.
+  My sister was a convinced Catholic.
 
   Dans mon quartier, il y a une école *catholique* privée.
-  In meiner Nachbarschaft gibt es eine private *katholische* Schule.
+  There's a private Catholic school in my neighborhood.
 
   L'Église *catholique* a une longue histoire en France.
-  Die *katholische* Kirche hat eine lange Geschichte in Frankreich.
+  The Catholic Church has a long history in France.
 
   "Son comportement n'est pas très *catholique*."
-  "Sein Verhalten ist nicht ganz *sauber*."
+  "His behavior is not completely *clean*."
 
   La ville de Rome est le centre du monde *catholique*.
-  Rom ist das Zentrum der *katholischen* Welt.
+  Rome is the centre of the *Catholic* world.
 
   Les *catholiques* et les protestants vivent en harmonie dans notre village.
-  Die *Katholiken* und die Protestanten leben in unserem Dorf in Harmonie.
+  *Catholics* and Protestants live in harmony in our village.
 
   "Cette affaire n'a pas l'air très *catholique*."
-  "Diese Sache sieht ziemlich *zwielichtig* aus."
+  "This thing looks pretty shady."
 
   La foi *catholique* est très importante pour mes grands-parents.
-  Der *katholische* Glaube ist für meine Großeltern sehr wichtig.
+  The Catholic faith is very important to my grandparents.
 
   Cette région est traditionnellement très *catholique*.
-  Diese Region ist traditionell stark *katholisch* *geprägt*.
+  This region is traditionally strongly *Catholic*.
 
   "C'est une famille de *catholiques* purs et durs."
-  "Das ist eine stock*katholische* Familie."
+  "This is a stock Catholic family."
 
   Le dogme *catholique* fait partie de son éducation.
-  Das *katholische* Dogma ist Teil seiner Erziehung.
+  The Catholic dogma is part of his education.
 
   Les valeurs *catholiques* influencent encore la société.
-  Die *katholischen* Werte beeinflussen die Gesellschaft noch immer.
+  *Catholic* values still affect society.
 
   Je suis né dans une famille *catholique* pratiquante.
-  Ich wurde in einer praktizierenden *katholischen* Familie geboren.
+  I was born in a practicing *Catholic* family.
 
   La morale *catholique* guide ses décisions quotidiennes.
-  Die *katholische* Moral leitet seine täglichen Entscheidungen.
+  Catholic morality guides his daily decisions.
 
   "Il est devenu un *catholique* fervent après son mariage."
-  "Er ist nach seiner Heirat ein eifriger *Katholik* geworden."
+  "He became a zealous *Catholic* after his marriage."
 
   Les traditions *catholiques* sont encore vivantes dans ce village.
-  Die *katholischen* Traditionen sind in diesem Dorf noch lebendig.
+  The *Catholic* traditions are still alive in this village.
 
   La communauté *catholique* organise une fête ce weekend.
-  Die *katholische* Gemeinde organisiert dieses Wochenende ein Fest.
+  The Catholic community is organizing a celebration this weekend.
 
   "Ma tante est une *catholique* pure et dure."
-  "Meine Tante ist stock*katholisch*."
+  "My aunt is a *Catholic*."
 
   Les écrivains *catholiques* ont influencé la littérature française.
-  Die *katholischen* Schriftsteller haben die französische Literatur beeinflusst.
+  *Catholic* writers have influenced French literature.
 
   Le peuple reste profondément *catholique* dans cette région.
-  Das Volk ist in dieser Region tief *katholisch*.
+  The people in this region are deeply *Catholic*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

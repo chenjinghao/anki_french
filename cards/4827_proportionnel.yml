@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4827
 Wort: proportionnel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: proportionnel
 Femininum / Plural: proportionnelle
 IPA: \pʁɔ.pɔʁ.sjɔ.nɛl\
-Definition: proportional
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Proportional
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Dans le système *proportionnel*, chaque vote a la même valeur.
-  Im *Verhältniswahl*system hat jede Stimme den gleichen Wert.
+  In the proportional system, each vote has the same value.
 
   La taxe est *proportionnelle* au prix d'achat.
-  Die Steuer ist *proportional* zum Kaufpreis.
+  The tax is *proportional* to the purchase price.
 
   Les risques sont *proportionnels* à la vitesse du véhicule.
-  Die Risiken sind *proportional* zur Geschwindigkeit des Fahrzeugs.
+  The risks are *proportional* to the speed of the vehicle.
 
   Le temps de cuisson doit être *proportionnel* au poids de la viande.
-  Die Garzeit muss *proportional* zum Gewicht des Fleisches sein.
+  The cooking time must be *proportional* to the weight of the meat.
 
   La consommation d'énergie est *proportionnelle* à la taille du bâtiment.
-  Der Energieverbrauch ist *proportional* zur Größe des Gebäudes.
+  The energy consumption is *proportional* to the size of the building.
 
   L'entreprise applique une augmentation *proportionnelle* des salaires.
-  Das Unternehmen wendet eine *proportionale* Gehaltserhöhung an.
+  The company applies a *proportional* salary increase.
 
   Les dépenses ne sont pas *proportionnelles* aux revenus.
-  Die Ausgaben stehen nicht im *Verhältnis* zu den Einnahmen.
+  Expenditure is not in proportion to revenue.
 
   Le gouvernement a mis en place un impôt *proportionnel* sur les revenus.
-  Die Regierung hat eine *Proportional*steuer auf Einkommen eingeführt.
+  The government has introduced a *proportional* tax on income.
 
   La représentation *proportionnelle* garantit une meilleure diversité politique.
-  Die *Verhältnis*vertretung garantiert eine bessere politische Vielfalt.
+  The representation of relations guarantees a better political diversity.
 
   La force est *proportionnelle* à la masse de l'objet.
-  Die Kraft ist *proportional* zur Masse des Objekts.
+  The force is *proportional* to the mass of the object.
 
   Les frais de livraison sont *proportionnels* à la distance.
-  Die Lieferkosten sind *proportional* zur Entfernung.
+  The delivery costs are *proportional* to the distance.
 
   Notre croissance est *proportionnelle* à nos efforts.
-  Unser Wachstum ist *proportional* zu unseren Anstrengungen.
+  Our growth is *proportional* to our efforts.
 
   La prime sera *proportionnelle* aux résultats obtenus.
-  Die Prämie wird *proportional* zu den erzielten Ergebnissen sein.
+  The premium will be *proportional* to the results achieved.
 
   Le système électoral *proportionnel* a été adopté cette année.
-  Das *Verhältniswahl*system wurde dieses Jahr eingeführt.
+  The proportional representation system was introduced this year.
 
   Les sanctions doivent être *proportionnelles* à l'infraction.
-  Die Strafen müssen *proportional* zum Verstoß sein.
+  The penalties must be *proportional* to the infringement.
 
   La récompense sera *proportionnelle* à votre contribution.
-  Die Belohnung wird *proportional* zu Ihrem Beitrag sein.
+  The reward will be *proportional* to your contribution.
 
   L'allocation est *proportionnelle* au nombre d'enfants.
-  Die Zulage ist *proportional* zur Anzahl der Kinder.
+  The allowance is *proportional* to the number of children.
 
   Le loyer est *proportionnel* à la surface de l'appartement.
-  Die Miete ist *proportional* zur Wohnungsfläche.
+  The rent is *proportional* to the apartment area.
 
   La note finale est *proportionnelle* aux points obtenus.
-  Die Endnote ist *proportional* zu den erreichten Punkten.
+  The final score is *proportional* to the points reached.
 
   Les dimensions sont *proportionnelles* à l'échelle du plan.
-  Die Abmessungen sind *proportional* zum Maßstab des Plans.
+  The dimensions are *proportional* to the scale of the plan.
 
   Le bonus est *proportionnel* au chiffre d'affaires réalisé.
-  Der Bonus ist *proportional* zum erzielten Umsatz.
+  The bonus is *proportional* to the turnover achieved.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

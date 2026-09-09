@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2735
 Wort: consentir
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: consentir
 Femininum / Plural: ''
 IPA: \kɔ̃.sɑ̃.tiʁ\
-Definition: zustimmen; gewähren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: agree;
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les syndicats ont *consenti* une réduction des salaires.
-  Die Gewerkschaften haben einer Gehaltskürzung *zugestimmt*.
+  The unions have *agreed* to a salary reduction.
 
   Après de longues discussions, elle a *consenti* à déménager.
-  Nach langen Diskussionen hat sie dem Umzug *zugestimmt*.
+  After long discussions, she *agreed* to the move.
 
   La banque nous a *consenti* un prêt à des conditions avantageuses.
-  Die Bank hat uns einen Kredit zu günstigen Bedingungen *gewährt*.
+  The bank has *granted* us a loan on favourable terms.
 
   Je ne *consens* pas à ce que tu sortes si tard.
-  Ich bin nicht damit *einverstanden*, dass du so spät ausgehst.
+  I don't agree that you're going out so late.
 
   L'entreprise a finalement *consenti* à augmenter les salaires.
-  Das Unternehmen hat schließlich einer Gehaltserhöhung *zugestimmt*.
+  The company has finally *agreed* to a salary increase.
 
   Elle n'a *consenti* qu'à regret à vendre sa maison.
-  Sie hat nur widerwillig *eingewilligt*, ihr Haus zu verkaufen.
+  She just reluctantly agreed to sell her house.
 
   Le propriétaire nous a *consenti* un délai supplémentaire pour payer le loyer.
-  Der Vermieter hat uns einen zusätzlichen Aufschub für die Mietzahlung *gewährt*.
+  The landlord has *granted* us an additional delay for the rental payment.
 
   Les deux parties ont *consenti* à une médiation.
-  Beide Parteien haben einer Mediation *zugestimmt*.
+  Both parties have *agreed* to mediation.
 
   Son silence indique qu'il *consent* : qui ne dit mot consent.
-  Sein Schweigen zeigt, dass er *einwilligt*: Wer schweigt, stimmt zu.
+  His silence shows that he agrees: He who is silent agrees.
 
   Le vendeur m'a *consenti* une remise de 20%.
-  Der Verkäufer hat mir einen Rabatt von 20% *gewährt*.
+  The salesman gave me a 20% discount.
 
   Nous avons *consenti* à reporter la réunion à la semaine prochaine.
-  Wir haben *eingewilligt*, die Besprechung auf nächste Woche zu verschieben.
+  We agreed to postpone the meeting until next week.
 
   Les parents ont finalement *consenti* au mariage de leur fille.
-  Die Eltern haben der Hochzeit ihrer Tochter schließlich *zugestimmt*.
+  The parents finally *agreed* to her daughter's wedding.
 
   La direction a *consenti* des avantages sociaux aux employés.
-  Die Geschäftsführung hat den Mitarbeitern Sozialleistungen *gewährt*.
+  The management has provided the employees with social benefits.
 
   Il a *consenti* à présenter ses excuses devant tout le monde.
-  Er hat *eingewilligt*, sich vor allen zu entschuldigen.
+  He agreed to apologize in front of everyone.
 
   Le comité a *consenti* à modifier le règlement.
-  Das Komitee hat *zugestimmt*, die Vorschriften zu ändern.
+  The committee *agreed* to change the rules.
 
   L'association *consent* à ouvrir ses portes le dimanche.
-  Der Verein *willigt ein*, sonntags zu öffnen.
+  The association agrees to open on Sundays.
 
   Cette vérité est *consentie* par tous les experts.
-  Diese Wahrheit wird von allen Experten *anerkannt*.
+  This truth is *recognized* by all experts.
 
   Le patron m'a *consenti* trois jours de congé supplémentaires.
-  Der Chef hat mir drei zusätzliche Urlaubstage *gewährt*.
+  The boss gave me three extra days of vacation.
 
   Après réflexion, j'ai *consenti* à sa demande.
-  Nach Überlegung habe ich seiner Bitte *zugestimmt*.
+  After consideration, I *agreed* to his request.
 
   Elle a *consenti* à ce changement sans enthousiasme.
-  Sie hat dieser Änderung ohne Begeisterung *zugestimmt*.
+  She *agreed* to this change without enthusiasm.
 
   Les deux pays ont *consenti* à signer le traité de paix.
-  Die beiden Länder haben *eingewilligt*, den Friedensvertrag zu unterzeichnen.
+  The two countries have agreed to sign the peace treaty.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4617
 Wort: incomber
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: incomber
 Femininum / Plural: ''
 IPA: \ɛ̃.kɔ̃.be\
-Definition: zufallen, obliegen
-Register: ↗Mündlich
+Definition: to fall, to lie
+Register: ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce rôle leur *incombe* maintenant.
-  Diese Rolle *obliegt* ihnen jetzt.
+  They are now responsible for this role.
 
   Cette tâche *incombe* à Marie depuis son arrivée.
-  Diese Aufgabe *fällt* Marie seit ihrer Ankunft *zu*.
+  This task has been entrusted *to* Marie since her arrival.
 
   Il *incombe* au président de prendre la décision finale.
-  Es *obliegt* dem Präsidenten, die finale Entscheidung zu treffen.
+  It is up to *the* President to take the final decision.
 
   La responsabilité *incombe* aux parents de surveiller leurs enfants.
-  Die Verantwortung *obliegt* den Eltern, ihre Kinder zu beaufsichtigen.
+  Parents are responsible for supervising their children.
 
   Les frais de réparation *incombent* au propriétaire.
-  Die Reparaturkosten *gehen* zu *Lasten* des Eigentümers.
+  The repair costs shall be borne by the owner.
 
   C'est à vous qu'*incombe* la tâche de former les nouveaux employés.
-  Die Aufgabe, die neuen Mitarbeiter einzuarbeiten, *fällt* Ihnen *zu*.
+  The task of recruiting the new employees is yours.
 
   La sécurité des données *incombe* à notre équipe technique.
-  Die Datensicherheit *obliegt* unserem technischen Team.
+  Data security is *the* responsibility of our technical team.
 
   Ces obligations *incombent* désormais à notre département.
-  Diese Pflichten *fallen* nun unserer Abteilung *zu*.
+  These duties now *fall* *to* our department.
 
   L'entretien du jardin *incombe* au locataire selon le contrat.
-  Die Gartenpflege *obliegt* laut Vertrag dem Mieter.
+  According to *the* contract, garden maintenance is the responsibility of the tenant.
 
   C'est au directeur qu'*incombe* la décision finale.
-  Die finale Entscheidung *obliegt* dem Direktor.
+  *The* final decision shall be taken by the Director.
 
   Les coûts supplémentaires *incombent* à l'entreprise.
-  Die zusätzlichen Kosten *gehen* zu *Lasten* der Firma.
+  The additional costs will be borne by the company.
 
   Cette mission délicate *incombe* à notre meilleur agent.
-  Diese heikle Mission *fällt* unserem besten Agenten *zu*.
+  This delicate mission *falls* *to* our best agent.
 
   La supervision du projet *incombe* à Thomas depuis hier.
-  Die Projektüberwachung *obliegt* Thomas seit gestern.
+  Thomas has been responsible for monitoring *the* project since yesterday.
 
   L'organisation de l'événement *incombe* à notre équipe.
-  Die Organisation der Veranstaltung *fällt* unserem Team *zu*.
+  The organisation of the event *falls* *to* our team.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

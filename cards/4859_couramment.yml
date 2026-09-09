@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4859
 Wort: couramment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: couramment
 Femininum / Plural: ''
 IPA: \ku.ʁa.mɑ̃\
-Definition: fließend; oft
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: fluid; often
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle parlait *couramment* deux autres langues aussi.
-  Sie sprach auch zwei andere Sprachen *fließend*.
+  She also spoke two other languages fluently.
 
   Il lit *couramment* depuis son plus jeune âge.
-  Er liest seit seiner frühen Kindheit *flüssig*.
+  He has been reading fluently since his early childhood.
 
   La pratique du yoga se répand *couramment* en Europe.
-  Yoga verbreitet sich *häufig* in Europa.
+  Yoga is *common* in Europe.
 
   Cette expression s'utilise *couramment* dans le langage familier.
-  Dieser Ausdruck wird in der Umgangssprache *oft* verwendet.
+  This expression is *often* used in colloquial language.
 
   Mon petit frère écrit déjà *couramment* en chinois.
-  Mein kleiner Bruder schreibt bereits *flüssig* Chinesisch.
+  My little brother already writes fluent Chinese.
 
   Les jeunes utilisent *couramment* les réseaux sociaux.
-  Junge Menschen nutzen Social Media *häufig*.
+  Young people often use social media.
 
   Cette méthode est *couramment* employée en cuisine.
-  Diese Methode wird beim Kochen *oft* angewendet.
+  This method is *often* used in cooking.
 
   Marie comprend *couramment* l'espagnol mais ne le parle pas.
-  Marie versteht Spanisch *fließend*, spricht es aber nicht.
+  Marie understands Spanish fluently, but doesn't speak it.
 
   Cette technologie sera *couramment* utilisée dans dix ans.
-  Diese Technologie wird in zehn Jahren *häufig* verwendet werden.
+  This technology will be used frequently in ten years.
 
   Le nouveau stagiaire parle *couramment* quatre langues.
-  Der neue Praktikant spricht vier Sprachen *fließend*.
+  The new intern speaks four languages fluently.
 
   Ces produits se trouvent *couramment* dans les supermarchés.
-  Diese Produkte findet man *häufig* in Supermärkten.
+  These products are often found in supermarkets.
 
   Les enfants apprennent à lire *couramment* vers sept ans.
-  Kinder lernen mit etwa sieben Jahren *flüssig* zu lesen.
+  Children learn to read fluently at about seven years of age.
 
   On voit *couramment* ce phénomène en automne.
-  Man sieht dieses Phänomen im Herbst *oft*.
+  This phenomenon is *often* seen in autumn.
 
   Les étudiants doivent écrire *couramment* en français pour réussir l'examen.
-  Die Studenten müssen für die Prüfung *flüssig* Französisch schreiben können.
+  Students must be able to write French fluently for the exam.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

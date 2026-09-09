@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 307
 Wort: million
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le million
 Femininum / Plural: ''
 IPA: \mi.ljɔ̃\
 Definition: Million
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un quart de *million* d'articles ont été distribués.
-  Eine Viertel*million* Artikel wurden verteilt.
+  A quarter of a *million* articles were distributed.
 
   La ville compte maintenant plus d'un *million* d'habitants.
-  Die Stadt hat jetzt mehr als eine *Million* Einwohner.
+  The city now has more than a *million* inhabitants.
 
   L'entreprise a fait des *millions* de bénéfices cette année.
-  Das Unternehmen hat dieses Jahr *Millionen*gewinne gemacht.
+  The company has made *millions* of profits this year.
 
   Nous avons reçu des *millions et des millions* de demandes.
-  Wir haben *Tausende und Abertausende* von Anfragen erhalten.
+  We have received *thousands and thousands* of requests.
 
   "Il lui reste quelques petits *millions* sur son compte."
-  "Er hat noch ein paar *Milliönchen* auf seinem Konto."
+  "He's got a few millions in his account."
 
   Ce *million* d'euros servira à rénover l'école.
-  Diese *Million* Euro wird für die Renovierung der Schule verwendet.
+  This *million* euros is used for the renovation of the school.
 
   Des *millions* de personnes ont regardé le match en direct.
-  *Millionen* Menschen haben das Spiel live gesehen.
+  *Millions* of people have seen the game live.
 
   Le projet coûtera plusieurs *millions* d'euros.
-  Das Projekt wird mehrere *Millionen* Euro kosten.
+  The project will cost several million euros.
 
   Sa fortune s'élève à dix *millions* d'euros.
-  Sein Vermögen beläuft sich auf zehn *Millionen* Euro.
+  His fortune amounts to ten million euros.
 
   Le pays a exporté trois *millions* de tonnes de blé.
-  Das Land hat drei *Millionen* Tonnen Weizen exportiert.
+  The country has exported three million tons of wheat.
 
   "Je ne le ferais pas pour un *million*!"
-  "Das würde ich nicht für eine *Million* tun!"
+  "I wouldn't do that for a *million*!"
 
   Je t'ai déjà dit ça un *million* de fois!
-  Ich habe dir das schon *millionen*mal gesagt!
+  I've told you this a million times!
 
   Ces travaux ont coûté des *millions* à la ville.
-  Diese Arbeiten haben die Stadt *Millionen* gekostet.
+  This work cost the city *millions*.
 
   Notre chaîne YouTube a dépassé un *million* d'abonnés.
-  Unser YouTube-Kanal hat die *Million* Abonnenten überschritten.
+  Our YouTube channel has exceeded the *million* subscribers.
 
   Les *millions* qu'il a gagnés au loto ont changé sa vie.
-  Die *Millionen*, die er im Lotto gewonnen hat, haben sein Leben verändert.
+  The *millions* he won in the lottery have changed his life.
 
   L'application compte désormais des *millions* de téléchargements.
-  Die App verzeichnet mittlerweile *Millionen* Downloads.
+  The app now lists *millions* of downloads.
 
   Ce nouveau vaccin sauvera des *millions* de vies.
-  Dieser neue Impfstoff wird *Millionen* Leben retten.
+  This new vaccine will save *millions* of lives.
 
   Un demi-*million* de visiteurs ont assisté au festival.
-  Eine halbe *Million* Besucher haben das Festival besucht.
+  Half a *million* visitors visited the festival.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

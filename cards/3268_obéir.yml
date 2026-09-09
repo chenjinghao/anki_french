@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3268
 Wort: obéir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: obéir
 Femininum / Plural: ''
 IPA: \ɔ.be.iʁ\
-Definition: gehorchen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Obey
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'*obéit* à aucune loi.
-  Er *gehorcht* keinem Gesetz.
+  He obeys no law.
 
   Le chien *obéit* parfaitement aux ordres de son maître.
-  Der Hund *gehorcht* den Befehlen seines Herrchens perfekt.
+  The dog obeys the orders of his master perfectly.
 
   Mon fils refuse d'*obéir* à mes règles.
-  Mein Sohn weigert sich, meinen Regeln zu *gehorchen*.
+  My son refuses to *obey* my rules.
 
   La voiture n'*obéissait* plus aux commandes.
-  Das Auto *reagierte* nicht mehr auf die Steuerung.
+  *The* car no longer responded to the control.
 
   Les planètes *obéissent* aux lois de la gravitation.
-  Die Planeten *folgen* den Gesetzen der Gravitation.
+  The planets *follow* the laws of gravity.
 
   J'ai toujours *obéi* à ma conscience.
-  Ich bin immer meinem Gewissen *gefolgt*.
+  I've always *followed* my conscience.
 
   "*Obéis* au doigt et à l'œil !" ordonna-t-elle.
-  "*Gehorche* aufs Wort!" befahl sie.
+  "Heed the word!" she ordered.
 
   Les élèves doivent *obéir* au règlement scolaire.
-  Die Schüler müssen die Schulordnung *befolgen*.
+  Students must *follow* the school rules.
 
   Marie *obéit* à ses instincts plutôt qu'à sa raison.
-  Marie *folgt* eher ihren Instinkten als ihrer Vernunft.
+  Marie *follows* her instincts rather than her reason.
 
   Le gouvernail n'*obéit* plus.
-  Das Steuer *reagiert* nicht mehr.
+  The wheel's not responding anymore.
 
   Les soldats *obéissent* aux ordres sans hésiter.
-  Die Soldaten *befolgen* die Befehle ohne zu zögern.
+  The soldiers *follow* orders without hesitation.
 
   Mes jambes ne veulent plus *obéir*.
-  Meine Beine wollen nicht mehr *gehorchen*.
+  My legs don't want to *obey* anymore.
 
   Elle sait se faire *obéir* de ses enfants.
-  Sie weiß sich bei ihren Kindern *durchzusetzen*.
+  She knows how to get through to her children.
 
   Les prix *obéissent* aux fluctuations du marché.
-  Die Preise *folgen* den Marktschwankungen.
+  Prices *follow* market fluctuations.
 
   Pour bien commander, il faut avoir *obéi*.
-  Um gut zu führen, muss man *gehorchen* gelernt haben.
+  In order to lead well, one must have learned to *obey*.
 
   Le cheval *obéit* parfaitement aux aides du cavalier.
-  Das Pferd *reagiert* perfekt auf die Hilfen des Reiters.
+  The horse reacts perfectly to the help of the rider.
 
   Elle n'*obéit* qu'à sa mère.
-  Sie *gehorcht* nur ihrer Mutter.
+  She obeys only her mother.
 
   Les citoyens doivent *obéir* à la loi.
-  Die Bürger müssen dem Gesetz *gehorchen*.
+  Citizens must *obey* the law.
 
   Je vous promets que je vais *obéir*.
-  Ich verspreche Ihnen, dass ich *gehorchen* werde.
+  I promise you, I will *obey*.
 
   L'artiste *obéit* à son inspiration.
-  Der Künstler lässt sich von seiner Inspiration *leiten*.
+  The artist is guided by his inspiration.
 
   Les freins n'*obéissent* plus correctement.
-  Die Bremsen *funktionieren* nicht mehr richtig.
+  The brakes are no longer working properly.
 
   Il faut *obéir* de gré ou de force.
-  Man muss freiwillig oder gezwungenermaßen *gehorchen*.
+  You have to *obey* voluntarily or forcefully.
 
   Le robot *obéit* à sa programmation.
-  Der Roboter *folgt* seiner Programmierung.
+  The robot *follows* its programming.
 
   Paul veut être *obéi* sur-le-champ.
-  Paul will, dass man ihm sofort *gehorcht*.
+  Paul wants to be obeyed immediately.
 
   La nature *obéit* à des cycles précis.
-  Die Natur *folgt* präzisen Zyklen.
+  Nature *follows* precise cycles.
 
   Les employés *obéissent* aux directives.
-  Die Mitarbeiter *befolgen* die Anweisungen.
+  The employees *follow* the instructions.
 
   L'avion n'*obéissait* plus aux commandes du pilote.
-  Das Flugzeug *reagierte* nicht mehr auf die Steuerung des Piloten.
+  *The* plane no longer reacted to the pilot's control.
 
   Le chat refuse d'*obéir* à mes appels.
-  Die Katze weigert sich, auf meine Rufe zu *hören*.
+  The cat refuses to listen to my calls.
 
   La matière *obéit* aux lois de la physique.
-  Die Materie *gehorcht* den Gesetzen der Physik.
+  Matter obeys the laws of physics.
 
   J'*obéis* toujours à mes parents.
-  Ich *gehorche* immer meinen Eltern.
+  I always *obey* my parents.
 
   Les enfants doivent apprendre à *obéir*.
-  Kinder müssen lernen zu *gehorchen*.
+  Children must learn to *obey*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

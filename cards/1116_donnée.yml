@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1116
 Wort: donnée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la donnée
 Femininum / Plural: ''
 IPA: \dɔ.ne\
-Definition: Daten
-Register: ↗Sachtext
+Definition: Data
+Register: ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tout en travaillant, il nota les *données* sur son carnet.
-  Während er arbeitete, notierte er die *Daten* in seinem Notizbuch.
+  While he was working, he recorded the *data* in his notebook.
 
   Les *données* confidentielles doivent être protégées à tout prix.
-  Die vertraulichen *Daten* müssen um jeden Preis geschützt werden.
+  Confidential *data* must be protected at all costs.
 
   Le projet repose sur des *données* fiables recueillies l'année dernière.
-  Das Projekt basiert auf zuverlässigen *Daten*, die im letzten Jahr erhoben wurden.
+  The project is based on reliable *data* collected last year.
 
   L'enseignant a expliqué les *données* du problème mathématique aux élèves.
-  Der Lehrer erklärte den Schülern die *Angaben* der mathematischen Aufgabe.
+  The teacher explained to the students the *information* of the mathematical task.
 
   Les scientifiques analysent les *données* alphabétiques pour leur recherche linguistique.
-  Die Wissenschaftler analysieren die alphabetischen *Daten* für ihre Sprachforschung.
+  The scientists analyse the alphabetical *data* for their language research.
 
   Après correction, les *données* statistiques ont été publiées.
-  Nach der Korrektur wurden die statistischen *Daten* veröffentlicht.
+  After the correction, the statistical *data* were published.
 
   Le système informatique traite rapidement les *données* entrantes.
-  Das Computersystem verarbeitet die eingehenden *Daten* schnell.
+  The computer system processes the incoming *data* quickly.
 
   La loi protège strictement les *données* nominatives des citoyens.
-  Das Gesetz schützt die personenbezogenen *Daten* der Bürger streng.
+  The law strictly protects citizens' personal *data*.
 
   Les chercheurs ont besoin d'accéder aux *données* primaires pour vérifier les résultats.
-  Die Forscher müssen Zugang zu den *Ursprungs*daten haben, um die Ergebnisse zu überprüfen.
+  The researchers must have access to the source data to check the results.
 
   Sans les *données* de base, il est impossible de commencer l'étude.
-  Ohne die *Basis*daten ist es unmöglich, die Studie zu beginnen.
+  Without the basic data, it is impossible to start the study.
 
   Les économistes examinent attentivement les *données* d'encours pour évaluer la situation financière.
-  Die Ökonomen untersuchen die Bestands*zahlen* sorgfältig, um die finanzielle Situation zu bewerten.
+  The economists carefully examine the inventory figures to assess the financial situation.
 
   Les *données* du marché du travail montrent une amélioration de l'emploi.
-  Die Arbeitsmarkt*daten* zeigen eine Verbesserung der Beschäftigungslage.
+  The labour market *data* show an improvement in the employment situation.
 
   "Je n'ai pas assez de *données* pour résoudre ce problème", a déclaré l'étudiant.
-  "Ich habe nicht genug *Angaben*, um dieses Problem zu lösen", sagte der Student.
+  "I don't have enough *information* to solve this problem," the student said.
 
   Les *données* statistiques révèlent une tendance intéressante.
-  Die statistischen *Daten* zeigen einen interessanten Trend.
+  The statistical *data* show an interesting trend.
 
   Cette banque de *données* contient des informations précieuses pour notre recherche.
-  Diese *Daten*bank enthält wertvolle Informationen für unsere Forschung.
+  This database contains valuable information for our research.
 
   Les *données* actuelles de la biologie remettent en question certaines théories anciennes.
-  Die aktuellen *Erkenntnisse* der Biologie stellen einige alte Theorien in Frage.
+  The current *findings* of biology call into question some old theories.
 
   La comédie est basée sur une *donnée* simple mais efficace.
-  Die Komödie basiert auf einem einfachen, aber effektiven *Grundgedanken*.
+  The comedy is based on a simple but effective basic idea.
 
   Nous manquons de *données* pour faire une analyse approfondie de la situation.
-  Uns fehlen *Informationen*, um eine gründliche Analyse der Situation durchzuführen.
+  We lack *information* to carry out a thorough analysis of the situation.
 
   Le traitement informatique des *données* a révolutionné de nombreux secteurs.
-  Die computergestützte *Daten*verarbeitung hat viele Branchen revolutioniert.
+  Computer-aided *data* processing has revolutionized many industries.
 
   Dans l'énoncé du problème, plusieurs *données* importantes sont manquantes.
-  In der Aufgabenstellung fehlen mehrere wichtige *Angaben*.
+  Several important *information* is missing in the task.
 
   Les résultats de l'expérience fournissent de nouvelles *données* à analyser.
-  Die Ergebnisse des Experiments liefern neue *Daten* zur Analyse.
+  The results of the experiment provide new *data* for analysis.
 
   Ma théorie s'appuie sur des *données* précises recueillies sur le terrain.
-  Meine Theorie stützt sich auf präzise *Daten*, die vor Ort gesammelt wurden.
+  My theory is based on accurate *data* collected locally.
 
   Les *données* immédiates de la conscience sont au cœur de la philosophie de Bergson.
-  Die unmittelbaren *Gegebenheiten* des Bewusstseins stehen im Mittelpunkt von Bergsons Philosophie.
+  Bergson's philosophy focuses on the immediate conditions of consciousness.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1458
 Wort: meurtre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le meurtre
 Femininum / Plural: ''
 IPA: \mœʁtʁ\
-Definition: Mord
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Murder
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous êtes accusé de *meurtre* !
-  Sie sind des *Mordes* angeklagt!
+  You're charged with *murder*!
 
   Le *meurtre* de son père l'a profondément marqué.
-  Der *Mord* an seinem Vater hat ihn tief geprägt.
+  The *murder* of his father has profoundly shaped him.
 
   La tentative de *meurtre* a échoué grâce à l'intervention rapide de la police.
-  Der *Mord*versuch scheiterte dank des schnellen Eingreifens der Polizei.
+  The attempted *murder* failed thanks to the rapid intervention of the police.
 
   "*Meurtre* !" cria-t-elle en voyant le prix exorbitant.
-  "*Mord und Totschlag*!" rief sie, als sie den überteuerten Preis sah.
+  "*Murder and manslaughter*!" she cried when she saw the price overpriced.
 
   Le *meurtre* avec préméditation est puni plus sévèrement.
-  Der vorsätzliche *Mord* wird härter bestraft.
+  The *murder* will be punished harder.
 
   Les voisins ont entendu des cris avant le *meurtre*.
-  Die Nachbarn hörten vor dem *Mord* Schreie.
+  The neighbors heard screams before the *murder*.
 
   L'enquête sur le *meurtre* progresse lentement.
-  Die Ermittlungen im *Mord*fall kommen nur langsam voran.
+  The investigation into the *murder* is progressing slowly.
 
   Elle a été condamnée pour *meurtre* en première instance.
-  Sie wurde in erster Instanz wegen *Mordes* verurteilt.
+  She was convicted of *murder* at first instance.
 
   Le mobile du *meurtre* reste mystérieux.
-  Das Motiv für den *Mord* bleibt rätselhaft.
+  The motive for the *murder* remains enigmatic.
 
   Un nouveau témoin dans l'affaire de *meurtre* s'est manifesté.
-  Im *Mord*fall hat sich ein neuer Zeuge gemeldet.
+  In the case of the *murder*, a new witness has called in.
 
   L'incitation au *meurtre* est un délit grave.
-  Die Anstiftung zum *Mord* ist eine schwere Straftat.
+  Incitement to *murder* is a serious crime.
 
   La série traite d'un *meurtre* non résolu depuis vingt ans.
-  Die Serie handelt von einem ungelösten *Mord* vor zwanzig Jahren.
+  The series is about an unresolved *murder* twenty years ago.
 
   Le suspect nie toute implication dans ce *meurtre*.
-  Der Verdächtige bestreitet jede Beteiligung an diesem *Mord*.
+  The suspect denies any involvement in this *murder*.
 
   Les indices suggèrent un *meurtre* passionnel.
-  Die Indizien deuten auf einen *Mord* aus Leidenschaft hin.
+  The evidence suggests a *murder* of passion.
 
   Un *meurtre* a été commis hier soir dans le quartier.
-  Gestern Abend wurde in dem Viertel ein *Mord* begangen.
+  Last night, a *murder* was committed in the neighborhood.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1990
 Wort: cerveau
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le cerveau
 Femininum / Plural: cerveaux
 IPA: \sɛʁ.vo\
-Definition: Gehirn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Brain
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   À la naissance, le *cerveau* humain est loin d'être complètement développé.
-  Bei der Geburt ist das menschliche *Gehirn* noch lange nicht vollständig entwickelt.
+  At birth, the human *brain* is far from being fully developed.
 
   Les scientifiques ont découvert une petite tumeur dans son *cerveau*.
-  Die Wissenschaftler haben einen kleinen Tumor in seinem *Gehirn* entdeckt.
+  The scientists discovered a small tumor in his *brain*.
 
   L'inflammation du *cerveau* peut provoquer des troubles graves.
-  Die *Gehirn*entzündung kann schwere Störungen verursachen.
+  *Brain* inflammation can cause serious disorders.
 
   Les lobes du *cerveau* jouent chacun un rôle spécifique.
-  Die *Gehirn*lappen haben jeweils eine bestimmte Funktion.
+  The *brain* lobes each have a specific function.
 
   Marie fait beaucoup travailler son *cerveau* en apprenant trois langues.
-  Marie lässt ihren *Kopf* viel arbeiten, indem sie drei Sprachen lernt.
+  Marie lets her *head* work a lot by learning three languages.
 
   "Il a le *cerveau* complètement dérangé, ce type!"
-  "Der Typ hat einen völlig kaputten *Kopf*!"
+  "The guy has a completely broken *head*!"
 
   Einstein était vraiment un grand *cerveau*.
-  Einstein war wirklich ein großer *Geist*.
+  Einstein was really a great ghost.
 
   La fuite des *cerveaux* pose un grave problème pour notre pays.
-  Die *Gehirn*flucht stellt ein ernstes Problem für unser Land dar.
+  *Brain* escape is a serious problem for our country.
 
   Pierre est le *cerveau* de notre équipe de recherche.
-  Pierre ist die *Schaltzentrale* unseres Forschungsteams.
+  Pierre is the control center of our research team.
 
   Mon *cerveau* refuse de fonctionner après minuit.
-  Mein *Gehirn* weigert sich, nach Mitternacht zu funktionieren.
+  My *brain* refuses to function after midnight.
 
   Les médecins ont détecté une lésion au *cerveau*.
-  Die Ärzte haben eine *Gehirn*verletzung festgestellt.
+  The doctors have detected a *brain* injury.
 
   Ce vin monte vite au *cerveau*.
-  Dieser Wein steigt schnell zu *Kopf*.
+  This wine goes up to its *head* fast.
 
   Thomas a un *cerveau* très bien organisé.
-  Thomas hat einen gut organisierten *Verstand*.
+  Thomas has a well-organized *mind*.
 
   Quelle étrange idée lui a traversé le *cerveau* ?
-  Welch seltsamer Gedanke ist ihm durch den *Kopf* gegangen?
+  What strange thought did he think?
 
   "Ce type est un *cerveau brûlé*, il fait n'importe quoi !"
-  "Dieser Typ ist ein *Hitzkopf*, er macht jeden Unsinn mit!"
+  "This guy's a *hothead*, he's doing all kinds of nonsense!"
 
   Les prisonniers ont subi un lavage de *cerveau*.
-  Die Gefangenen wurden einer *Gehirn*wäsche unterzogen.
+  The prisoners were brainwashed.
 
   Marc est un *cerveau* puissant dans le domaine des mathématiques.
-  Marc ist ein kluger *Kopf* im Bereich der Mathematik.
+  Marc is a smart *head* in the field of mathematics.
 
   La police recherche le *cerveau* de cette opération criminelle.
-  Die Polizei sucht den *Kopf* dieser kriminellen Operation.
+  The police are looking for the *head* of this criminal operation.
 
   Ce *cerveau* électronique peut effectuer des millions de calculs par seconde.
-  Dieser elektronische *Rechner* kann Millionen von Berechnungen pro Sekunde durchführen.
+  This computer can perform millions of calculations per second.
 
   Les circonvolutions du *cerveau* sont plus nombreuses chez l'homme que chez les autres mammifères.
-  Die *Gehirn*windungen sind beim Menschen zahlreicher als bei anderen Säugetieren.
+  The *brain* coils are more numerous in humans than in other mammals.
 
   "À force de réfléchir, mon *cerveau* va exploser !"
-  "Vom vielen Nachdenken wird mein *Kopf* noch platzen!"
+  "My *head* will still burst from many reflections!"
 
   La structure du *cerveau* fascine les chercheurs depuis des siècles.
-  Die Struktur des *Gehirns* fasziniert die Forscher seit Jahrhunderten.
+  The structure of the *brain* has fascinated the researchers for centuries.
 
   Les deux hémisphères du *cerveau* sont connectés par le corps calleux.
-  Die beiden *Gehirn*hälften sind durch den Balken verbunden.
+  The two *brain* halves are connected by the beam.
 
   Sophie est considérée comme le *cerveau* du projet.
-  Sophie gilt als der *Kopf* des Projekts.
+  Sophie is considered the *head* of the project.
 
   Ce médicament aide à mieux oxygéner le *cerveau*.
-  Dieses Medikament hilft, das *Gehirn* besser mit Sauerstoff zu versorgen.
+  This medicine helps to better supply the *brain* with oxygen.
 
   L'anatomie du *cerveau* varie selon les espèces.
-  Die Anatomie des *Gehirns* unterscheidet sich je nach Art.
+  The anatomy of the *brain* varies according to the type.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

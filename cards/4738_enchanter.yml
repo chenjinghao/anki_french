@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4738
 Wort: enchanter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: enchanter
 Femininum / Plural: ''
 IPA: \ɑ̃.ʃɑ̃.te\
-Definition: bezaubern, verzaubern
-Register: ↘Sachtext
+Definition: charm, enchant
+Register: ↘nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mais il est *enchanté* de me voir, hein ?
-  Aber er ist *erfreut*, mich zu sehen, oder?
+  But he's happy to see me, isn't he?
 
   Cette nouvelle n'a pas *enchanté* mes parents.
-  Diese Nachricht hat meine Eltern nicht *erfreut*.
+  My parents didn't like this news.
 
   La fée a *enchanté* le jardin avec sa baguette magique.
-  Die Fee hat den Garten mit ihrem Zauberstab *verzaubert*.
+  The fairy has *enchanted* the garden with her magic wand.
 
   Sa voix douce *enchantait* tous ceux qui l'écoutaient.
-  Ihre sanfte Stimme *bezauberte* alle, die ihr zuhörten.
+  Her gentle voice *enchanted* all who listened to her.
 
   Je suis *enchanté* de faire votre connaissance, Madame Martin.
-  *Angenehm*, Sie kennenzulernen, Frau Martin.
+  *Pleasure to meet you*, Mrs. Martin.
 
   Les enfants étaient *enchantés* par le spectacle de magie.
-  Die Kinder waren von der Zaubershow *verzaubert*.
+  The children were *enchanted* by the magic show.
 
   Cette mélodie m'*enchante* toujours autant.
-  Diese Melodie *bezaubert* mich immer noch genauso.
+  This melody still charms me the same way.
 
   Le magicien a *enchanté* la forêt tout entière.
-  Der Zauberer hat den ganzen Wald *verzaubert*.
+  The magician has *enchanted* the whole forest.
 
   Sophie s'*enchantait* à lire des contes de fées.
-  Sophie *erfreute* sich daran, Märchen zu lesen.
+  Sophie enjoyed reading fairy tales.
 
   La décoration de Noël *enchante* toute la maison.
-  Die Weihnachtsdekoration *verzaubert* das ganze Haus.
+  The Christmas decoration enchants the whole house.
 
   Les histoires de grand-père *enchantaient* nos soirées.
-  Großvaters Geschichten *verschönerten* unsere Abende.
+  Grandpa's stories embellished our evenings.
 
   Cette proposition ne m'*enchante* pas du tout.
-  Dieser Vorschlag *begeistert* mich überhaupt nicht.
+  This proposal does not inspire me at all.
 
   La musique d'Orphée *enchantait* même les pierres.
-  Orpheus' Musik *verzauberte* sogar die Steine.
+  Orpheus' music even *enchanted* the stones.
 
   Le parfum des roses *enchante* tout le jardin.
-  Der Duft der Rosen *verzaubert* den ganzen Garten.
+  The scent of roses enchants the whole garden.
 
   Je suis *enchanté* que tu aies accepté mon invitation.
-  Ich bin *begeistert*, dass du meine Einladung angenommen hast.
+  I'm thrilled you accepted my invitation.
 
   Sa présence *enchante* chaque réunion de famille.
-  Ihre Anwesenheit *verschönert* jedes Familientreffen.
+  Their presence enhances every family meeting.
 
   Le chant des oiseaux *enchante* mes matinées.
-  Der Gesang der Vögel *verzaubert* meine Morgenstunden.
+  The song of the birds enchants my morning hours.
 
   Cette solution n'*enchantera* personne.
-  Diese Lösung wird niemanden *begeistern*.
+  This solution will not inspire anyone.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

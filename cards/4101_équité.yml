@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4101
 Wort: équité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une équité
 Femininum / Plural: ''
 IPA: \e.ki.te\
-Definition: Fairness⁠, Billigkeit
-Register: ↘Sachtext ↗Mündlich
+Definition: Fairness, equity
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faudra renforcer l'*équité* en matière d'emploi.
-  Die *Fairness* bei der Beschäftigung muss gestärkt werden.
+  *Fairness* in employment needs to be strengthened.
 
   Le juge a statué en *équité* dans cette affaire délicate.
-  Der Richter hat in dieser heiklen Angelegenheit nach *Billigkeit* entschieden.
+  The judge has decided on this delicate matter in equity.
 
   L'*équité* du partage de l'héritage n'a pas été contestée.
-  Die *Angemessenheit* der Erbteilung wurde nicht angefochten.
+  The appropriateness of the inheritance division was not contested.
 
   Marie traite toujours ses employés avec *équité*.
-  Marie behandelt ihre Angestellten stets mit *Fairness*.
+  Marie always treats her employees with *fairness*.
 
   En toute *équité*, je dois admettre que tu as raison.
-  In aller *Gerechtigkeit* muss ich zugeben, dass du Recht hast.
+  In all fairness, I have to admit that you're right.
 
   Cette décision va à l'encontre de toute *équité*.
-  Diese Entscheidung widerspricht jeder *Billigkeit*.
+  This decision contradicts all *fairness*.
 
   Le médiateur a fait preuve d'une grande *équité* dans la résolution du conflit.
-  Der Mediator bewies große *Unparteilichkeit* bei der Konfliktlösung.
+  The mediator showed great impartiality in resolving conflicts.
 
   L'*équité* doit primer sur la stricte application de la loi.
-  Die *Billigkeit* muss Vorrang vor der strengen Gesetzesanwendung haben.
+  Equity must take precedence over strict application of the law.
 
   Pour des raisons d'*équité*, nous avons révisé les salaires.
-  Aus Gründen der *Fairness* haben wir die Gehälter überprüft.
+  For reasons of *fairness*, we checked the salaries.
 
   Son sens de l'*équité* est reconnu par tous ses collègues.
-  Sein Sinn für *Gerechtigkeit* wird von allen Kollegen anerkannt.
+  His sense of *justice* is recognized by all colleagues.
 
   L'*équité* procédurale est un principe fondamental du système juridique.
-  Die verfahrensrechtliche *Fairness* ist ein Grundprinzip des Rechtssystems.
+  Procedural *fairness* is a fundamental principle of the legal system.
 
   Cette réforme vise à garantir plus d'*équité* dans l'accès aux soins.
-  Diese Reform zielt auf mehr *Gerechtigkeit* beim Zugang zur Gesundheitsversorgung ab.
+  This reform aims to increase *justice* in access to health care.
 
   Le tribunal a tranché selon l'*équité* plutôt que selon le droit strict.
-  Das Gericht entschied nach *Billigkeit* statt nach strengem Recht.
+  The court ruled according to equity rather than strict law.
 
   L'*équité* dans la distribution des ressources est essentielle.
-  Die *Fairness* bei der Verteilung der Ressourcen ist wesentlich.
+  *Fairness* in the distribution of resources is essential.
 
   Un homme d'*équité* ne fait pas de différence entre les personnes.
-  Ein Mann von *Gerechtigkeit* macht keine Unterschiede zwischen Menschen.
+  A man of *justice* makes no distinction between people.
 
   L'*équité* salariale entre hommes et femmes reste un défi majeur.
-  Die Lohn*gerechtigkeit* zwischen Männern und Frauen bleibt eine große Herausforderung.
+  Wage equality between men and women remains a major challenge.
 
   Le principe d'*équité* exige que chacun reçoive ce qui lui est dû.
-  Das Prinzip der *Gerechtigkeit* verlangt, dass jeder bekommt, was ihm zusteht.
+  The principle of *justice* requires that everyone get what is due.
 
   Nous devons veiller à l'*équité* dans l'évaluation des candidats.
-  Wir müssen auf *Fairness* bei der Bewertung der Kandidaten achten.
+  We need to be fair in evaluating candidates.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>justice</i> und <i>équité</i></div>
+    <div class="section-title"><i>justice</i> and <i>équité</i></div>
     <div class="section-content">
-      <p><span class="fr">Justice</span> (#637) bezieht sich auf <span class="de">"Gerechtigkeit"</span> im Sinne eines formellen Rechtssystems oder der Anwendung von Gesetzen und Regeln. Es impliziert oft eine institutionelle oder gesellschaftliche Dimension.</p>
+      <p><span class="fr">Justice</span> (#637) refers to: <span class="de">"Justice"</span> in the sense of a formal legal system or the application of laws and rules. It often implies an institutional or social dimension.</p>
       <div class="examples">
         <div class="fr">La justice a condamné le criminel à dix ans de prison.</div>
-        <div class="de spoiler">Die Justiz hat den Verbrecher zu zehn Jahren Gefängnis verurteilt.</div>
+        <div class="de spoiler">The judiciary has sentenced the criminal to ten years in prison.</div>
         <div class="fr">Il croit en la justice et attend le verdict du tribunal.</div>
-        <div class="de spoiler">Er glaubt an die Gerechtigkeit und wartet auf das Urteil des Gerichts.</div>
+        <div class="de spoiler">He believes in justice and waits for the judgment of the court.</div>
       </div>
-      <p><span class="fr">Équité</span> bedeutet <span class="de">"Fairness"</span> oder <span class="de">"Billigkeit"</span> und beschreibt eine moralische Qualität, die über die strikte Anwendung von Gesetzen hinausgeht. Es berücksichtigt individuelle Umstände und zielt auf eine faire Behandlung ab.</p>
+      <p><span class="fr">Équité</span> means <span class="de">"Fairness"</span> or <span class="de">"Blessedness"</span> and describes a moral quality that goes beyond the strict application of laws. It takes into account individual circumstances and aims at fair treatment.</p>
       <div class="examples">
         <div class="fr">Le professeur doit traiter tous ses élèves avec équité.</div>
-        <div class="de spoiler">Der Lehrer muss alle seine Schüler mit Fairness behandeln.</div>
+        <div class="de spoiler">The teacher must treat all his students with fairness.</div>
         <div class="fr">L'équité exige que l'on prenne en compte la situation particulière de chacun.</div>
-        <div class="de spoiler">Billigkeit erfordert, dass die besondere Situation jedes Einzelnen berücksichtigt wird.</div>
+        <div class="de spoiler">Fairness requires that the particular situation of each individual be taken into account.</div>
       </div>
     </div>
   </div>

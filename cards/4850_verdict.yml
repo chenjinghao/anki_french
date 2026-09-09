@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4850
 Wort: verdict
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le verdict
 Femininum / Plural: ''
 IPA: \vɛʁ.dikt\
-Definition: Urteil, Rechtsspruch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Community law, EC Court of Justice, EC Court of Justice
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les jurés, avez-vous rendu votre *verdict* ?
-  Geschworene, haben Sie Ihr *Urteil* gefällt?
+  Juries, have you given your verdict?
 
   Après trois heures de délibération, le jury a prononcé son *verdict*.
-  Nach drei Stunden Beratung verkündete die Jury ihren *Urteilsspruch*.
+  After three hours of consultation, the jury announced its verdict.
 
   Le *verdict* d'acquittement a surpris tout le monde dans la salle d'audience.
-  Der Frei*spruch* hat alle im Gerichtssaal überrascht.
+  The acquittal surprised everyone in the courtroom.
 
   Le juge a levé le *verdict* en raison de nouvelles preuves.
-  Der Richter hat das *Urteil* aufgrund neuer Beweise aufgehoben.
+  The judge overturned the verdict on new evidence.
 
   Le *verdict* final sera annoncé demain matin à 9 heures.
-  Der finale Rechts*spruch* wird morgen früh um 9 Uhr verkündet.
+  The final verdict will be announced tomorrow morning at 9 a.m.
 
   Dans cette affaire, le *verdict* de la cour d'assises était prévisible.
-  In diesem Fall war der *Urteilsspruch* des Schwurgerichts vorhersehbar.
+  In this case, the *judgment* of the court of oath was predictable.
 
   Le *verdict* des experts est sans appel : le tableau est un faux.
-  Das *Urteil* der Experten ist eindeutig: Das Gemälde ist eine Fälschung.
+  The expert's verdict is clear: the painting is a fake.
 
   Les médias ont largement commenté le *verdict* de ce procès historique.
-  Die Medien haben das *Verdikt* dieses historischen Prozesses ausführlich kommentiert.
+  The media have commented extensively on the dictates of this historical process.
 
   Son avocat a immédiatement fait appel après l'annonce du *verdict*.
-  Sein Anwalt legte sofort nach der Verkündung des *Urteils* Berufung ein.
+  His lawyer appealed immediately after the verdict was given.
 
   Le *verdict* de l'opinion publique a été impitoyable.
-  Das *Urteil* der öffentlichen Meinung war gnadenlos.
+  The *judgment* of public opinion was merciless.
 
   Les deux familles attendaient anxieusement le *verdict* du tribunal.
-  Beide Familien warteten angespannt auf den *Urteilsspruch* des Gerichts.
+  Both families were anxiously waiting for the verdict of the court.
 
   Le *verdict* du jury populaire contredit les attentes du procureur.
-  Der *Spruch* der Geschworenen widerspricht den Erwartungen des Staatsanwalts.
+  The jury's verdict contradicts the prosecutor's expectations.
 
   Avant d'annoncer le *verdict*, le juge a demandé le silence complet.
-  Bevor er das *Urteil* verkündete, forderte der Richter absolute Ruhe.
+  Before he pronounced the verdict, the judge demanded absolute rest.
 
   Le *verdict* sera probablement reporté à la semaine prochaine.
-  Der *Urteilsspruch* wird wahrscheinlich auf nächste Woche verschoben.
+  The verdict is likely to be postponed until next week.
 
   Les spectateurs ont applaudi à l'annonce du *verdict*.
-  Die Zuschauer klatschten bei der Verkündung des *Urteils* Beifall.
+  The spectators applauded at the announcement of the verdict.
 
   Le *verdict* des critiques sur ce nouveau film est unanime.
-  Das *Urteil* der Kritiker über diesen neuen Film ist einstimmig.
+  The critics' verdict on this new film is unanimous.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

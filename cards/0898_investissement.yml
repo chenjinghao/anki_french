@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 898
 Wort: investissement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un investissement
 Femininum / Plural: ''
 IPA: \ɛ̃.vɛs.tis.mɑ̃\
-Definition: Investition
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Investment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce sont là des *investissements* importants.
-  Das sind wichtige *Investitionen*.
+  These are important *investments*.
 
   Les *investissements* directs étrangers ont augmenté de 20% cette année.
-  Die ausländischen Direkt*investitionen* sind dieses Jahr um 20% gestiegen.
+  Foreign direct investment increased by 20% this year.
 
   L'entreprise prévoit un *investissement* initial de 500.000 euros.
-  Das Unternehmen plant eine Anfangs*investition* von 500.000 Euro.
+  The company is planning an initial *investment* of 500,000 euros.
 
   Nous recherchons un *investissement* à long terme dans l'immobilier.
-  Wir suchen eine langfristige *Investition* in Immobilien.
+  We are looking for a long-term *investment* in real estate.
 
   Les *investissements* en cours devraient être terminés d'ici fin d'année.
-  Die laufenden *Investitionen* sollten bis Ende des Jahres abgeschlossen sein.
+  Current *investments* should be completed by the end of the year.
 
   Son *investissement* personnel dans ce projet est remarquable.
-  Sein persönliches *Engagement* in diesem Projekt ist bemerkenswert.
+  His personal *commitment* to this project is remarkable.
 
   Notre budget d'*investissement* pour l'année prochaine sera plus élevé.
-  Unser *Investitions*haushalt wird nächstes Jahr höher sein.
+  Our *investment* budget will be higher next year.
 
   Les dépenses d'*investissement* ont dépassé nos attentes.
-  Die *Investitions*kosten haben unsere Erwartungen übertroffen.
+  The *investment* costs exceeded our expectations.
 
   Leurs *investissements* mobiliers se sont avérés très rentables.
-  Ihr *Anlage*vermögen hat sich als sehr rentabel erwiesen.
+  Their fixed assets have proved to be very profitable.
 
   L'*investissement* dans la formation continue est crucial pour l'entreprise.
-  Die *Investition* in Weiterbildung ist entscheidend für das Unternehmen.
+  Investing in continuing training is crucial for the company.
 
   Son faible *investissement* dans le travail scolaire inquiète ses professeurs.
-  Sein geringes *Engagement* in der Schularbeit beunruhigt seine Lehrer.
+  His low level of *commitment* to school work worries his teachers.
 
   Ce diplôme est un *investissement* pour ton avenir professionnel.
-  Dieser Abschluss ist eine *Investition* in deine berufliche Zukunft.
+  This degree is an *investment* in your professional future.
 
   L'*investissement* à intérêts fixes offre plus de sécurité.
-  Die festverzinsliche *Anlage* bietet mehr Sicherheit.
+  The fixed-rate investment offers more security.
 
   Les *investissements* par capitaux étrangers ont doublé cette année.
-  Die Fremd*investitionen* haben sich in diesem Jahr verdoppelt.
+  Foreign investment has doubled this year.
 
   Notre société cherche des *investissements* rentables dans les énergies vertes.
-  Unser Unternehmen sucht profitable *Investitionen* in grüne Energien.
+  Our company is looking for profitable *investments* in green energy.
 
   L'*investissement* à l'étranger comporte certains risques.
-  Die Auslands*anlage* birgt gewisse Risiken.
+  The foreign investment carries certain risks.
 
   En ce moment, l'*investissement* est particulièrement faible dans ce secteur.
-  Momentan ist die *Investitions*tätigkeit in diesem Sektor besonders schwach.
+  *Investment* in this sector is currently particularly weak.
 
   Un *investissement* secondaire sera nécessaire l'année prochaine.
-  Eine Folge*investition* wird nächstes Jahr notwendig sein.
+  A subsequent *investment* will be necessary next year.
 
   Les *investissements* immobiliers représentent une part importante de leur patrimoine.
-  Die Immobilien*investitionen* machen einen wichtigen Teil ihres Vermögens aus.
+  Real estate *investments* represent an important part of their assets.
 
   Cet *investissement* pour la poursuite du projet est indispensable.
-  Diese Fortführungs*investition* ist unverzichtbar.
+  This continued *investment* is indispensable.
 
   Le capital d'*investissement* provient principalement de petits épargnants.
-  Das *Investitions*kapital stammt hauptsächlich von Kleinsparern.
+  The *investment* capital comes mainly from small savers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

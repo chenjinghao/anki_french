@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3625
 Wort: postal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: postal
 Femininum / Plural: postale
 IPA: \pɔs.tal\
-Definition: Post-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Postal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils lui écrivaient une carte *postale*.
-  Sie schrieben ihm eine *Post*karte.
+  They wrote him a postcard.
 
   Le code *postal* de notre bureau a changé le mois dernier.
-  Die *Post*leitzahl unseres Büros hat sich letzten Monat geändert.
+  The postcode of our office changed last month.
 
   Je dois aller chercher mon courrier dans ma boîte *postale*.
-  Ich muss meine Post aus meinem *Post*fach abholen.
+  I have to pick up my mail from my mailbox.
 
   L'Union *postale* universelle établit des normes internationales.
-  Der Welt*post*verein legt internationale Standards fest.
+  The World Postal Association sets international standards.
 
   Le service *postal* sera interrompu pendant les fêtes.
-  Der *Post*dienst wird während der Feiertage unterbrochen sein.
+  The postal service will be interrupted during the holidays.
 
   J'ai ouvert un compte *postal* pour gérer mes finances.
-  Ich habe ein *Post*konto für meine Finanzen eröffnet.
+  I opened a postal account for my finances.
 
   Les timbres *postaux* sont devenus plus chers cette année.
-  Die *Post*marken sind dieses Jahr teurer geworden.
+  The postage stamps have become more expensive this year.
 
   Le tri *postal* est maintenant largement automatisé.
-  Die *Post*sortierung ist jetzt weitgehend automatisiert.
+  The mail sorting is now largely automated.
 
   La nouvelle convention *postale* facilitera les envois internationaux.
-  Das neue *Post*abkommen wird internationale Sendungen erleichtern.
+  The new postal agreement will facilitate international shipments.
 
   Un fourgon *postal* a livré les colis ce matin.
-  Ein *Post*wagen hat heute Morgen die Pakete geliefert.
+  A mail van delivered the parcels this morning.
 
   Quelle est ton adresse *postale* actuelle ?
-  Wie lautet deine aktuelle *Post*anschrift?
+  What's your current postal address?
 
   Le train *postal* arrive toujours à l'heure.
-  Der *Post*zug kommt immer pünktlich.
+  The mail train always comes on time.
 
   L'aviation *postale* a révolutionné la distribution du courrier.
-  Die *Post*luftfahrt hat die Briefzustellung revolutioniert.
+  Postal air travel has revolutionized mail delivery.
 
   La taxe *postale* varie selon le poids du colis.
-  Die *Post*gebühr richtet sich nach dem Gewicht des Pakets.
+  The postal fee depends on the weight of the package.
 
   J'ai envoyé un mandat *postal* à ma famille.
-  Ich habe meiner Familie eine *Post*anweisung geschickt.
+  I sent my family a postal order.
 
   Cette photo est au format carte *postale*.
-  Dieses Foto hat *Post*kartenformat.
+  This photo has postcard format.
 
   La franchise *postale* s'applique aux documents officiels.
-  Die *Post*gebührenfreiheit gilt für offizielle Dokumente.
+  The postal fee exemption applies to official documents.
 
   Il a payé avec un chèque *postal*.
-  Er hat mit einem *Post*scheck bezahlt.
+  He paid with a mail check.
 
   La détaxe *postale* a été accordée pour les envois humanitaires.
-  Die *Post*gebührenbefreiung wurde für humanitäre Sendungen gewährt.
+  The postal fee exemption was granted for humanitarian shipments.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

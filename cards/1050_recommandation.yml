@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1050
 Wort: recommandation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la recommandation
 Femininum / Plural: ''
 IPA: \ʁə.kɔ.mɑ̃.da.sjɔ̃\
-Definition: Empfehlung
-Register: ↘Fiktion ↗Sachtext
+Definition: Recommendation
+Register: ↘fiction ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons fait neuf *recommandations* précises.
-  Wir haben neun präzise *Empfehlungen* gemacht.
+  We have made nine precise *recommendations*.
 
   Je vous prie de suivre les *recommandations* du médecin à la lettre.
-  Bitte befolgen Sie die *Empfehlungen* des Arztes genau.
+  Please follow the doctor's *recommendations* carefully.
 
   J'ai obtenu ce poste grâce à une *recommandation* de mon ancien professeur.
-  Ich habe diese Stelle dank einer *Empfehlung* meines ehemaligen Professors bekommen.
+  I got this job thanks to a *recommendation* from my former professor.
 
   La *recommandation* de ce colis coûte cinq euros.
-  Das *Einschreiben* für dieses Paket kostet fünf Euro.
+  The *registered* letter for this package costs five euros.
 
   Marie a sollicité une *recommandation* auprès de son superviseur de stage.
-  Marie hat um ein *Empfehlungsschreiben* bei ihrem Praktikumsleiter gebeten.
+  Marie asked for a *letter of recommendation* from her internship manager.
 
   Sur la *recommandation* de ma sœur, j'ai essayé ce nouveau restaurant.
-  Auf *Empfehlung* meiner Schwester habe ich dieses neue Restaurant ausprobiert.
+  On my sister's *recommendation*, I tried this new restaurant.
 
   L'entreprise a mis en place toutes les *recommandations* du comité de sécurité.
-  Das Unternehmen hat alle *Empfehlungen* des Sicherheitsausschusses umgesetzt.
+  The company has implemented all the *recommendations* of the Security Committee.
 
   Cette *recommandation* de l'ONU n'a pas force de loi.
-  Diese *Empfehlung* der UNO ist nicht rechtsverbindlich.
+  This UN *recommendation* is not legally binding.
 
   Il m'a fallu trois *recommandations* pour postuler à cette université.
-  Ich brauchte drei *Empfehlungsschreiben* für die Bewerbung an dieser Universität.
+  I needed three letters of recommendation to apply to this university.
 
   La *recommandation* du courrier n'était pas nécessaire dans ce cas.
-  Das *Einschreiben* war in diesem Fall nicht notwendig.
+  The *registered* letter was not necessary in this case.
 
   Le directeur a fait plusieurs *recommandations* importantes lors de la réunion.
-  Der Direktor hat während der Sitzung mehrere wichtige *Empfehlungen* ausgesprochen.
+  The Director made several important *recommendations* during the meeting.
 
   Avez-vous bien compris mes *recommandations* pour le projet ?
-  Haben Sie meine *Anweisungen* für das Projekt gut verstanden?
+  Do you understand my *instructions* for the project well?
 
   Cette formation est une excellente *recommandation* pour votre CV.
-  Diese Ausbildung ist eine ausgezeichnete *Empfehlung* für Ihren Lebenslauf.
+  This training is an excellent *recommendation* for your CV.
 
   Les parents devraient suivre les *recommandations* nutritionnelles pour leurs enfants.
-  Die Eltern sollten die Ernährungs*empfehlungen* für ihre Kinder befolgen.
+  Parents should follow the dietary *recommendations* for their children.
 
   Les *recommandations* de l'Académie française sont largement respectées.
-  Die *Empfehlungen* der Académie française werden weitgehend respektiert.
+  The *recommendations* of the Académie française are widely respected.
 
   La *recommandation* de ce livre par mon ami m'a convaincu de le lire.
-  Die *Empfehlung* dieses Buches durch meinen Freund hat mich überzeugt, es zu lesen.
+  My friend's *recommendation* to this book convinced me to read it.
 
   Veuillez signer ici pour la *recommandation* de votre lettre.
-  Bitte unterschreiben Sie hier für das *Einschreiben*.
+  Please sign here for the *registered* letter.
 
   Sans *recommandation*, il est difficile d'obtenir ce type de poste.
-  Ohne *Empfehlung* ist es schwierig, eine solche Stelle zu bekommen.
+  Without *recommendation*, it is difficult to get such a job.
 
   Ces *recommandations* visent à améliorer la qualité de l'air.
-  Diese *Empfehlungen* zielen darauf ab, die Luftqualität zu verbessern.
+  These *recommendations* aim to improve air quality.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

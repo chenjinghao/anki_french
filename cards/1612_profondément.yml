@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1612
 Wort: profondément
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: profondément
 Femininum / Plural: ''
 IPA: \pʁɔ.fɔ̃.de.mɑ̃\
-Definition: zutiefst
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Deep
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'en suis *profondément* heureux.
-  Ich bin darüber *zutiefst* glücklich.
+  I am deeply happy about this.
 
   Il faut creuser *profondément* pour trouver de l'eau dans cette région.
-  Man muss *tief* graben, um in dieser Region Wasser zu finden.
+  You have to dig *deep* to find water in this region.
 
   Elle dormait *profondément* quand l'orage a éclaté.
-  Sie schlief *tief*, als das Gewitter losbrach.
+  She was asleep when the storm broke out.
 
   Ces deux cultures sont *profondément* différentes l'une de l'autre.
-  Diese beiden Kulturen sind *grund*verschieden voneinander.
+  These two cultures are fundamentally different from each other.
 
   La racine de cet arbre s'enfonce *profondément* dans le sol.
-  Die Wurzel dieses Baumes dringt *tief* in den Boden ein.
+  The root of this tree penetrates *deep* into the ground.
 
   Je suis *profondément* convaincu que nous réussirons.
-  Ich bin *felsenfest* davon überzeugt, dass wir Erfolg haben werden.
+  I am convinced that we will succeed.
 
   Cette expérience m'a *profondément* marqué.
-  Diese Erfahrung hat mich *tief* geprägt.
+  This experience has profoundly shaped me.
 
   Il s'est incliné *profondément* devant le roi.
-  Er verbeugte sich *tief* vor dem König.
+  He bowed deeply to the king.
 
   Cette rivière est *profondément* encaissée entre les montagnes.
-  Dieser Fluss liegt *tief* zwischen den Bergen eingeschnitten.
+  This river is cut *deep* between the mountains.
 
   Je regrette *profondément* mes erreurs.
-  Ich bereue meine Fehler *zutiefst*.
+  I deeply regret my mistakes.
 
   Elle a *profondément* réfléchi avant de prendre sa décision.
-  Sie hat *gründlich* nachgedacht, bevor sie ihre Entscheidung traf.
+  She's been thinking thoroughly before she made her decision.
 
   Cette idée est *profondément* ancrée dans notre culture.
-  Diese Idee ist *tief* in unserer Kultur verankert.
+  This idea is deeply rooted in our culture.
 
   Respirez *profondément* et détendez-vous.
-  Atmen Sie *tief* ein und entspannen Sie sich.
+  Take a *deep* breath and relax.
 
   Ces changements ont *profondément* influencé notre société.
-  Diese Veränderungen haben unsere Gesellschaft *stark* beeinflusst.
+  These changes have greatly influenced our society.
 
   Je suis *profondément* déçu par son comportement.
-  Ich bin von seinem Verhalten *zutiefst* enttäuscht.
+  I am deeply disappointed in his behavior.
 
   Elle aime *profondément* ses enfants.
-  Sie liebt ihre Kinder *innig*.
+  She loves her children dearly.
 
   Cette grotte s'enfonce *profondément* dans la montagne.
-  Diese Höhle dringt *tief* in den Berg ein.
+  This cave penetrates *deep* into the mountain.
 
   Je souhaite *profondément* vous revoir un jour.
-  Ich wünsche mir *sehnlichst*, Sie eines Tages wiederzusehen.
+  I long to see you again one day.
 
   Il a été *profondément* touché par ce geste.
-  Er war von dieser Geste *tief* berührt.
+  He was deeply touched by this gesture.
 
   Ces événements l'ont *profondément* affectée.
-  Diese Ereignisse haben sie *stark* mitgenommen.
+  They took these events with them.
 
   Cette trahison l'a *profondément* vexé.
-  Dieser Verrat hat ihn *schwer* gekränkt.
+  This betrayal has offended him.
 
   Le message s'est *profondément* gravé dans sa mémoire.
-  Die Botschaft hat sich *tief* in sein Gedächtnis eingeprägt.
+  The message has deeply impressed his memory.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

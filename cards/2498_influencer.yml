@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2498
 Wort: influencer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: influencer
 Femininum / Plural: ''
 IPA: \ɛ̃.fly.ɑ̃.se\
-Definition: beeinflussen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: influence
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'*influence* pas la politique.
-  Ich *beeinflusse* die Politik nicht.
+  I don't *influence* politics.
 
   Les médias sociaux *influencent* fortement le comportement des jeunes.
-  Soziale Medien *beeinflussen* stark das Verhalten von Jugendlichen.
+  Social media strongly *influence* the behaviour of young people.
 
   La musique peut *influencer* notre humeur de manière positive.
-  Musik kann unsere Stimmung positiv *beeinflussen*.
+  Music can have a positive impact on our mood.
 
   Ne te laisse pas *influencer* par l'opinion des autres !
-  Lass dich nicht von der Meinung anderer *beeinflussen*!
+  Don't let others *influence* you!
 
   La température *influence* directement la vitesse de la réaction chimique.
-  Die Temperatur *wirkt* sich direkt auf die Geschwindigkeit der chemischen Reaktion *aus*.
+  The temperature directly affects the speed of the chemical reaction.
 
   Les parents *influencent* considérablement le développement de leurs enfants.
-  Eltern *beeinflussen* die Entwicklung ihrer Kinder erheblich.
+  Parents have a significant *influence* on the development of their children.
 
   Son exemple m'a beaucoup *influencé* dans mon choix de carrière.
-  Sein Beispiel hat meine Berufswahl stark *beeinflusst*.
+  His example has greatly *influenced* my career choices.
 
   La pluie va *influencer* le résultat du match de tennis.
-  Der Regen wird sich auf das Ergebnis des Tennisspiels *auswirken*.
+  The rain will affect the result of the tennis game.
 
   Les cycles lunaires *influencent* les marées océaniques.
-  Die Mondzyklen *beeinflussen* die Gezeiten der Ozeane.
+  The lunar cycles affect the tides of the oceans.
 
   Cette décision va *influencer* tout notre avenir.
-  Diese Entscheidung wird unsere gesamte Zukunft *beeinflussen*.
+  This decision will affect our entire future.
 
   Marie s'est laissée *influencer* par les conseils de sa sœur.
-  Marie hat sich von den Ratschlägen ihrer Schwester *beeinflussen* lassen.
+  Marie was influenced by her sister's advice.
 
   L'altitude *influence* la pression atmosphérique.
-  Die Höhe *wirkt* sich auf den Luftdruck *aus*.
+  The height affects the air pressure.
 
   Son attitude positive *influence* toute l'équipe.
-  Seine positive Einstellung *beeinflusst* das ganze Team.
+  His positive attitude influences the whole team.
 
   Les critiques ont fortement *influencé* le succès du film.
-  Die Kritiken haben den Erfolg des Films stark *beeinflusst*.
+  The reviews have strongly *influenced* the success of the film.
 
   Le stress peut *influencer* négativement notre santé.
-  Stress kann sich negativ auf unsere Gesundheit *auswirken*.
+  Stress can have a negative *effect* on our health.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

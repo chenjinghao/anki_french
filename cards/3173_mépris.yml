@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3173
 Wort: mépris
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mépris
 Femininum / Plural: ''
 IPA: \me.pʁi\
-Definition: Verachtung, Missachtung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Disdain, disrespect
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai plus que du *mépris* pour elle.
-  Ich empfinde für sie nur noch *Verachtung*.
+  I just feel contempt for her.
 
   Il a répondu à ses critiques avec un profond *mépris*.
-  Er hat auf ihre Kritik mit tiefer *Verachtung* geantwortet.
+  He responded with deep contempt to their criticism.
 
   Les employés ont ressenti son *mépris* lors de la réunion.
-  Die Mitarbeiter haben während der Besprechung seine *Geringschätzung* gespürt.
+  The staff felt their contempt during the meeting.
 
   Elle cache mal son *mépris* pour les règles sociales.
-  Sie verbirgt ihre *Missachtung* der sozialen Regeln nur schlecht.
+  She hides her *disrespect* for social rules only badly.
 
   Au *mépris* du danger, le pompier s'est élancé dans les flammes.
-  Unter *Missachtung* der Gefahr stürzte sich der Feuerwehrmann in die Flammen.
+  In spite of the danger, the fireman fell into the flames.
 
   Son regard plein de *mépris* m'a blessé profondément.
-  Sein *verachtungsvoller* Blick hat mich tief verletzt.
+  His disdainful look hurt me deeply.
 
   Les manifestants ont agi au *mépris* des avertissements de la police.
-  Die Demonstranten handelten unter *Missachtung* der polizeilichen Warnungen.
+  The demonstrators acted in violation of the police warnings.
 
   Le dictateur vit dans le *mépris* total des droits humains.
-  Der Diktator lebt in völliger *Missachtung* der Menschenrechte.
+  The dictator lives in complete disregard for human rights.
 
   Son *mépris* des richesses était bien connu dans le village.
-  Seine *Geringschätzung* von Reichtum war im Dorf wohlbekannt.
+  His contempt for wealth was well known in the village.
 
   Ces jeunes vivent au *mépris* des conventions sociales.
-  Diese Jugendlichen leben in *Missachtung* der gesellschaftlichen Konventionen.
+  These young people live in disregard of social conventions.
 
   Il a toujours montré un *mépris* sans bornes pour ses voisins.
-  Er hat seinen Nachbarn gegenüber stets grenzenlose *Verachtung* gezeigt.
+  He has always shown boundless contempt for his neighbors.
 
   Le *mépris* qu'elle ressent pour son ancien patron est évident.
-  Die *Verachtung*, die sie für ihren ehemaligen Chef empfindet, ist offensichtlich.
+  The contempt she feels for her former boss is obvious.
 
   *Au mépris de sa vie*, elle a sauvé l'enfant de la noyade.
-  *Unter Einsatz ihres Lebens* hat sie das Kind vor dem Ertrinken gerettet.
+  Using her life, she saved the child from drowning.
 
   Les critiques ont exprimé leur *mépris* pour ce nouveau film.
-  Die Kritiker haben ihre *Verachtung* für diesen neuen Film zum Ausdruck gebracht.
+  The critics have expressed their contempt for this new film.
 
   Son *mépris* pour les opinions des autres est insupportable.
-  Seine *Geringschätzung* der Meinungen anderer ist unerträglich.
+  His contempt for the opinions of others is unbearable.
 
   Le public lui a témoigné son *mépris* par des sifflets.
-  Das Publikum hat ihm seine *Verachtung* durch Pfiffe gezeigt.
+  The audience showed him his contempt by whistle.
 
   Elle affiche un *mépris* total pour les conseils de ses parents.
-  Sie zeigt eine völlige *Missachtung* der Ratschläge ihrer Eltern.
+  She shows a complete disregard for her parents' advice.
 
   *Au mépris du bon sens*, il a continué son projet irréaliste.
-  *Entgegen dem gesunden Menschenverstand* setzte er sein unrealistisches Projekt fort.
+  *Contrary to common sense*, he continued his unrealistic project.
 
   Les soldats ont combattu au *mépris* de leur propre sécurité.
-  Die Soldaten kämpften unter *Missachtung* ihrer eigenen Sicherheit.
+  The soldiers fought in disregard of their own security.
 
   Son *mépris* des traditions locales a choqué les habitants.
-  Seine *Missachtung* der lokalen Traditionen hat die Einwohner schockiert.
+  His disregard for local traditions shocked the inhabitants.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

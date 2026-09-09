@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 646
 Wort: croissance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la croissance
 Femininum / Plural: ''
 IPA: \kʁwa.sɑ̃s\
-Definition: Wachstum
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Growth
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les taux de *croissance* ont été importants.
-  Die *Wachstums*raten waren bedeutend.
+  *Growth* rates were significant.
 
   La *croissance* de cet enfant est normale pour son âge.
-  Das *Wachstum* dieses Kindes ist normal für sein Alter.
+  The *growth* of this child is normal for its age.
 
   Les arbres ont une *croissance* rapide dans cette région.
-  Die Bäume haben in dieser Region ein schnelles *Wachstum*.
+  The trees in this region have rapid *growth*.
 
   Le médecin surveille la *croissance* du bébé chaque mois.
-  Der Arzt überwacht monatlich das *Wachstum* des Babys.
+  The doctor monitors the baby's *growth* every month.
 
   La *croissance* économique a ralenti au dernier trimestre.
-  Das Wirtschafts*wachstum* hat sich im letzten Quartal verlangsamt.
+  Economic *growth* slowed down in the last quarter.
 
   Cette entreprise connaît une forte *croissance* depuis deux ans.
-  Dieses Unternehmen verzeichnet seit zwei Jahren ein starkes *Wachstum*.
+  This company has been experiencing strong *growth* for two years.
 
   Les experts prévoient une *croissance* modérée pour l'année prochaine.
-  Die Experten prognostizieren für nächstes Jahr ein moderates *Wachstum*.
+  The experts forecast moderate *growth* next year.
 
   La *croissance* démographique pose de nouveaux défis.
-  Das Bevölkerungs*wachstum* stellt uns vor neue Herausforderungen.
+  Population *growth* presents us with new challenges.
 
   Ma fille est en pleine *croissance* et mange beaucoup.
-  Meine Tochter ist mitten im *Wachstum* und isst viel.
+  My daughter is in the middle of *growth* and eats a lot.
 
   Les chercheurs étudient la *croissance* des plantes en laboratoire.
-  Die Forscher untersuchen das *Wachstum* der Pflanzen im Labor.
+  The researchers investigate the *growth* of plants in the laboratory.
 
   La *croissance* de la ville nécessite de nouvelles infrastructures.
-  Das *Wachstum* der Stadt erfordert neue Infrastruktur.
+  The *growth* of the city requires new infrastructure.
 
   Le nouveau traitement freine la *croissance* de la tumeur.
-  Die neue Behandlung verlangsamt das *Wachstum* des Tumors.
+  The new treatment slows down the *growth* of the tumor.
 
   Cette région est devenue un pôle de *croissance* important.
-  Diese Region ist zu einem wichtigen *Wachstums*zentrum geworden.
+  This region has become an important *growth* centre.
 
   Les troubles de *croissance* peuvent être traités efficacement.
-  *Wachstums*störungen können effektiv behandelt werden.
+  *Growth* disorders can be effectively treated.
 
   La *croissance* du chiffre d'affaires dépasse nos attentes.
-  Das Umsatz*wachstum* übertrifft unsere Erwartungen.
+  Sales *growth* exceeds our expectations.
 
   Une période de *croissance* zéro inquiète les économistes.
-  Eine Phase des Null*wachstums* beunruhigt die Ökonomen.
+  A phase of zero *growth* worries economists.
 
   La *croissance* des grandes villes pose des problèmes environnementaux.
-  Das *Wachstum* der Großstädte verursacht Umweltprobleme.
+  The *growth* of large cities causes environmental problems.
 
   Les vitamines sont essentielles pour la *croissance* des enfants.
-  Vitamine sind wichtig für das *Wachstum* von Kindern.
+  Vitamins are important for the *growth* of children.
 
   La *croissance* de la production industrielle a dépassé 5%.
-  Das *Wachstum* der Industrieproduktion hat 5% überschritten.
+  Industrial production *growth* has exceeded 5%.
 
   Cette entreprise affiche une *croissance* ininterrompue depuis dix ans.
-  Dieses Unternehmen zeigt seit zehn Jahren ein ununterbrochenes *Wachstum*.
+  This company has been showing continuous *growth* for ten years.
 
   Le taux de *croissance* a atteint son plus haut niveau historique.
-  Die *Wachstums*rate hat ihren historischen Höchststand erreicht.
+  The *growth* rate has reached its historical peak.
 
   Mon fils traverse une crise de *croissance*.
-  Mein Sohn macht gerade einen *Wachstums*schub durch.
+  My son's going through a *growth* boost right now.
 
   Les économistes analysent la courbe de *croissance*.
-  Die Ökonomen analysieren die *Wachstums*kurve.
+  Economists analyse the *growth* curve.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

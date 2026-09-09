@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2639
 Wort: déboucher
 Wortart: vt, vr, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déboucher
 Femininum / Plural: ''
 IPA: \de.bu.ʃe\
-Definition: freimachen; hervorkommen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: release; emerge
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *déboucha* la bouteille et nous servit.
-  Er *entkorkte* die Flasche und schenkte uns ein.
+  He *uncorked* the bottle and gave us a gift.
 
   Pouvez-vous *déboucher* le lavabo ? Il est complètement bouché.
-  Können Sie das Waschbecken *freimachen*? Es ist völlig verstopft.
+  Can you clear the sink? It's completely clogged.
 
   Le cortège *déboucha* sur la place principale de la ville.
-  Der Umzug *mündete* auf dem Hauptplatz der Stadt.
+  *The* parade ended on the main square of the city.
 
   J'ai utilisé un produit pour *déboucher* mon nez.
-  Ich habe ein Mittel benutzt, um meine Nase *frei zu bekommen*.
+  I used a device to clear my nose.
 
   Cette conversation ne *débouche* sur rien de concret.
-  Dieses Gespräch *führt* zu nichts Konkretem.
+  This conversation leads to nothing concrete.
 
   Le plombier a réussi à *déboucher* le tuyau d'évacuation.
-  Dem Klempner ist es gelungen, das Abflussrohr *frei zu machen*.
+  The plumber managed to clear the drain pipe.
 
   La rivière *débouche* dans l'océan à cet endroit.
-  Der Fluss *mündet* an dieser Stelle in den Ozean.
+  The river *flows* into the ocean at this point.
 
   "*Débouche* cette bouteille de champagne, on va fêter ça !"
-  "*Mach* diese Flasche Champagner *auf*, wir werden das feiern!"
+  "Open this bottle of champagne, we'll celebrate!"
 
   Le sentier étroit *débouche* sur une magnifique clairière.
-  Der schmale Pfad *führt* zu einer wunderschönen Lichtung.
+  *The* narrow path leads to a beautiful clearing.
 
   Il faut *déboucher* le tube de dentifrice avant de l'utiliser.
-  Man muss die Zahnpastatube *aufschrauben*, bevor man sie benutzt.
+  You have to screw up the toothpaste before you use it.
 
   Les manifestants *débouchèrent* soudainement de la rue adjacente.
-  Die Demonstranten *kamen* plötzlich aus der Nebenstraße *hervor*.
+  The demonstrators suddenly *came* *out* of the side street.
 
   Cette formation *débouche* sur un emploi bien rémunéré.
-  Diese Ausbildung *führt* zu einem gut bezahlten Job.
+  This training leads to a well-paid job.
 
   Le mécanicien a dû *déboucher* le carburateur de la voiture.
-  Der Mechaniker musste den Vergaser des Autos *frei machen*.
+  The mechanic had to clear the car's car car.
 
   La ruelle sombre *débouche* sur une place animée.
-  Die dunkle Gasse *mündet* in einen belebten Platz.
+  The dark alley leads into a lively place.
 
   J'ai essayé de *déboucher* mes oreilles après le vol.
-  Ich habe versucht, meine Ohren nach dem Flug *frei zu bekommen*.
+  I tried to get my ears free after the flight.
 
   Le camion *déboucha* brusquement du virage.
-  Der Lastwagen *kam* plötzlich um die Kurve *geschossen*.
+  The truck suddenly *came* around the turn *shot*.
 
   Cette discussion philosophique *débouche* sur des questions existentielles.
-  Diese philosophische Diskussion *führt* zu existenziellen Fragen.
+  This philosophical discussion leads to existential questions.
 
   Il faut *déboucher* la baignoire pour que l'eau s'écoule correctement.
-  Man muss die Badewanne *frei machen*, damit das Wasser richtig abfließen kann.
+  You have to clear the bathtub so that the water can drain properly.
 
   Le tunnel *débouche* directement dans la vallée.
-  Der Tunnel *mündet* direkt ins Tal.
+  The tunnel *flows* directly into the valley.
 
   J'ai dû *déboucher* le pommeau de douche qui était entartré.
-  Ich musste den verkalkten Duschkopf *frei machen*.
+  I had to clear the calcified shower head.
 
   Les négociations ont finalement *débouché* sur un accord.
-  Die Verhandlungen haben schließlich zu einer Einigung *geführt*.
+  The negotiations have finally led to an agreement.
 
   "*Débouche*-moi ce vin, s'il te plaît, pendant que je prépare le repas."
-  "*Mach* bitte den Wein *auf*, während ich das Essen zubereite."
+  "Please open the wine while I prepare the food."
 
   Le chemin escarpé *débouche* sur un panorama spectaculaire.
-  Der steile Weg *führt* zu einem spektakulären Panorama.
+  *The* steep path leads to a spectacular panorama.
 
   Les secouristes ont dû *déboucher* les voies respiratoires de la victime.
-  Die Rettungskräfte mussten die Atemwege des Opfers *frei machen*.
+  The rescue forces had to clear the victim's airways.
 
   Cette impasse ne *débouche* nulle part, faisons demi-tour.
-  Diese Sackgasse *führt* nirgendwohin, lass uns umkehren.
+  This impasse is not leading anywhere, let's turn back.
 
   Le ruisseau *débouche* dans le lac après avoir traversé la forêt.
-  Der Bach *mündet* in den See, nachdem er den Wald durchquert hat.
+  The stream *flows* into the lake after crossing the forest.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

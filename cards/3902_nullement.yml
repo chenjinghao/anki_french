@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3902
 Wort: nullement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: nullement
 Femininum / Plural: ''
 IPA: \nyl.mɑ̃\
-Definition: in keiner Weise
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: in no way
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'est *nullement* indispensable.
-  Es ist *keineswegs* unerlässlich.
+  It is by no means essential.
 
   Je n'ai *nullement* l'intention de démissionner.
-  Ich habe *keinerlei* Absicht zu kündigen.
+  I have no intention of quitting.
 
   Cette décision ne me dérange *nullement*.
-  Diese Entscheidung stört mich *überhaupt nicht*.
+  This decision does not bother me at all.
 
   Elle n'était *nullement* satisfaite du résultat.
-  Sie war mit dem Ergebnis *in keiner Weise* zufrieden.
+  She was *in no way* satisfied with the result.
 
   Il n'est *nullement* question de partir maintenant.
-  Es kommt *keinesfalls* in Frage, jetzt zu gehen.
+  There is no question of leaving now.
 
   Son retard ne m'inquiète *nullement*.
-  Seine Verspätung beunruhigt mich *nicht im Geringsten*.
+  His delay doesn't bother me at all.
 
   Ce commentaire n'a *nullement* affecté notre amitié.
-  Dieser Kommentar hat unsere Freundschaft *in keinster Weise* beeinträchtigt.
+  This comment has not affected our friendship in any way.
 
   – "Vous croyez qu'il dit la vérité ?"<br>– "*Nullement*."
-  – "Glauben Sie, dass er die Wahrheit sagt?"<br>– "*Keineswegs*."
+  – "Do you think he's telling the truth?"<br>– "No way."
 
   Il a continué sans *nullement* tenir compte de mes avertissements.
-  Er machte weiter, ohne *auch nur im Geringsten* auf meine Warnungen zu achten.
+  He went on without paying any attention to my warnings.
 
   Cette explication n'est *nullement* convaincante.
-  Diese Erklärung ist *ganz und gar nicht* überzeugend.
+  This explanation is not convincing at all.
 
   Son comportement n'était *nullement* approprié à la situation.
-  Sein Verhalten war der Situation *in keiner Weise* angemessen.
+  His behaviour was not appropriate to the situation in any way.
 
   Ce changement ne m'a *nullement* surpris.
-  Diese Veränderung hat mich *überhaupt nicht* überrascht.
+  This change did not surprise me at all.
 
   Elle n'est *nullement* responsable de cet accident.
-  Sie ist an diesem Unfall *in keinster Weise* schuld.
+  She's not responsible for this accident in any way.
 
   Nous ne sommes *nullement* obligés d'accepter ces conditions.
-  Wir sind *keineswegs* verpflichtet, diese Bedingungen zu akzeptieren.
+  We are by no means obliged to accept these conditions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

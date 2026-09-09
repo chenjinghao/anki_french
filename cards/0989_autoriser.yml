@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 989
 Wort: autoriser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: autoriser
 Femininum / Plural: ''
 IPA: \o.to.ʁi.ze\
-Definition: erlauben, genehmigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: permit, approve
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Aucun fait n'*autorise* cette accusation de jalousie.
-  Keine Tatsache *rechtfertigt* diesen Vorwurf der Eifersucht.
+  No fact justifies this accusation of jealousy.
 
   Le directeur m'a *autorisé* à partir plus tôt aujourd'hui.
-  Der Direktor hat mir *erlaubt*, heute früher zu gehen.
+  The warden *allowed* me to leave early this morning.
 
   Les parents ne l'ont pas *autorisée* à aller à la fête.
-  Die Eltern haben ihr nicht *gestattet*, zur Party zu gehen.
+  The parents didn't allow her to go to the party.
 
   Je vous *autorise* à utiliser mon nom comme référence.
-  Ich *ermächtige* Sie, meinen Namen als Referenz zu verwenden.
+  I authorize you to use my name as a reference.
 
   La nouvelle loi *autorise* la vente d'alcool le dimanche.
-  Das neue Gesetz *erlaubt* den Verkauf von Alkohol am Sonntag.
+  The new law allows the sale of alcohol on Sunday.
 
   Les résultats positifs *nous autorisent* à être optimistes.
-  Die positiven Ergebnisse *geben uns Anlass* zum Optimismus.
+  The positive results *give us cause* for optimism.
 
   Elle s'est *autorisé* une courte pause après trois heures de travail.
-  Sie hat sich nach drei Stunden Arbeit eine kurze Pause *gegönnt*.
+  She took a short break after three hours of work.
 
   La mairie a *autorisé* la manifestation pacifique.
-  Das Rathaus hat die friedliche Demonstration *genehmigt*.
+  The town hall *approved* the peaceful demonstration.
 
   Les médecins l'ont *autorisé* à reprendre le sport.
-  Die Ärzte haben ihm *erlaubt*, wieder Sport zu treiben.
+  The doctors *allowed* him to go back to sports.
 
   Seuls les véhicules *autorisés* peuvent se garer ici.
-  Nur *zugelassene* Fahrzeuge dürfen hier parken.
+  Only registered vehicles are allowed to park here.
 
   Il *s'autorise de* votre silence pour continuer ses actions.
-  Er *nimmt* Ihr Schweigen als *Berechtigung*, seine Handlungen fortzusetzen.
+  He *takes* your silence as the right to continue his actions.
 
   Le gouvernement n'*autorisera* pas cette fusion d'entreprises.
-  Die Regierung wird diese Unternehmensfusion nicht *genehmigen*.
+  The government will not approve this merger.
 
   Les conditions météorologiques n'*autorisent* pas le décollage.
-  Die Wetterbedingungen *lassen* den Start nicht *zu*.
+  The weather conditions do not allow the start.
 
   La carte d'accès vous *autorise* à utiliser toutes les installations.
-  Die Zugangskarte *berechtigt* Sie zur Nutzung aller Einrichtungen.
+  The access card entitles you to use all facilities.
 
   Ces documents *autorisés* font référence dans le domaine.
-  Diese *maßgeblichen* Dokumente sind in diesem Bereich richtungsweisend.
+  These relevant documents are indicative in this area.
 
   Le règlement *autorise* exceptionnellement les chiens dans le parc.
-  Die Verordnung *lässt* ausnahmsweise Hunde im Park *zu*.
+  The regulation exceptionally allows dogs in the park.
 
   Qui vous a *autorisé* à modifier le projet sans me consulter?
-  Wer hat Ihnen *gestattet*, das Projekt ohne meine Rücksprache zu ändern?
+  Who allowed you to change the project without my consultation?
 
   Le juge *autorise* la publication du livre controversé.
-  Der Richter *genehmigt* die Veröffentlichung des umstrittenen Buches.
+  The judge *approved* the publication of the controversial book.
 
   Cette situation n'*autorise* pas de tels comportements.
-  Diese Situation *rechtfertigt* solche Verhaltensweisen nicht.
+  This situation does not justify such behaviour.
 
   Le conseil d'administration *autorise* l'augmentation du capital.
-  Der Verwaltungsrat *genehmigt* die Kapitalerhöhung.
+  The Board of Directors approves the capital increase.
 
   Je ne m'*autorise* jamais à juger les autres.
-  Ich *erlaube* mir nie, über andere zu urteilen.
+  I never *allow* myself to judge others.
 
   Les nouveaux règlements *autorisent* plus de flexibilité.
-  Die neuen Vorschriften *lassen* mehr Flexibilität *zu*.
+  The new rules allow for more flexibility.
 
   Son expérience l'*autorise* à donner son avis sur ce sujet.
-  Seine Erfahrung *berechtigt* ihn dazu, seine Meinung zu diesem Thema zu äußern.
+  His experience entitles him to express his opinion on this subject.
 
   La banque vous a *autorisé* un découvert de mille euros.
-  Die Bank hat Ihnen ein Überziehungskonto von tausend Euro *genehmigt*.
+  The bank has *approved* an overdraft account of a thousand euros.
 
   Le patron s'*autorise* quelques remarques sur notre travail.
-  Der Chef *erlaubt* sich einige Bemerkungen zu unserer Arbeit.
+  The boss allows himself some remarks about our work.
 
   Êtes-vous *autorisé* à divulguer ces informations?
-  Sind Sie *befugt*, diese Informationen weiterzugeben?
+  Are you *authorized* to share this information?
 
   Le comité n'*autorisera* jamais une telle dépense.
-  Der Ausschuss wird eine solche Ausgabe niemals *bewilligen*.
+  The Committee will never approve such an issue.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

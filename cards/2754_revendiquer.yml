@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2754
 Wort: revendiquer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: revendiquer
 Femininum / Plural: ''
 IPA: \ʁə.vɑ̃.di.ke\
-Definition: fordern, beanspruchen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: demand, claim
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'attentat n'a pas été *revendiqué*.
-  Niemand hat sich zu dem Anschlag *bekannt*.
+  Nobody confessed to the attack.
 
   Les syndicats *revendiquent* une augmentation des salaires de 5%.
-  Die Gewerkschaften *fordern* eine Lohnerhöhung von 5%.
+  Trade unions are calling for a 5% increase in wages.
 
   Elle *revendique* le droit de voir ses enfants.
-  Sie *erhebt Anspruch* auf das Recht, ihre Kinder zu sehen.
+  She *claims* the right to see her children.
 
   Je *revendique* ma part de l'héritage familial.
-  Ich *fordere* meinen Anteil am Familienerbe *ein*.
+  I *demand* my share of the family inheritance.
 
   Il a *revendiqué* la paternité de l'enfant.
-  Er hat die Vaterschaft für das Kind *beansprucht*.
+  He *claimed* paternity for the child.
 
   Marie *revendique* fièrement ses origines italiennes.
-  Marie *bekennt sich* stolz zu ihren italienischen Wurzeln.
+  Marie is proud of her Italian roots.
 
   Le groupe terroriste a *revendiqué* l'enlèvement du journaliste.
-  Die terroristische Gruppe hat sich zu der Entführung des Journalisten *bekannt*.
+  The terrorist group has committed itself to the kidnapping of the journalist.
 
   Les employés *revendiquent* de meilleures conditions de travail.
-  Die Angestellten *fordern* bessere Arbeitsbedingungen.
+  Employees *demand* better working conditions.
 
   Il *revendique* la responsabilité de cette décision controversée.
-  Er *übernimmt* die Verantwortung für diese umstrittene Entscheidung.
+  He takes responsibility for this controversial decision.
 
   Cette région autonome *revendique* son indépendance depuis des années.
-  Diese autonome Region *erhebt* seit Jahren *Anspruch* auf ihre Unabhängigkeit.
+  This autonomous region has been claiming its independence for years.
 
   Les artistes *revendiquent* plus de soutien financier de l'État.
-  Die Künstler *fordern* mehr finanzielle Unterstützung vom Staat.
+  The artists *demand* more financial support from the state.
 
   Elle se *revendique* comme féministe engagée.
-  Sie *bekennt sich* als engagierte Feministin.
+  She confesses to being a committed feminist.
 
   Les manifestants *revendiquent* le maintien des services publics.
-  Die Demonstranten *fordern* die Aufrechterhaltung der öffentlichen Dienste.
+  The demonstrators call for the maintenance of public services.
 
   La famille *revendique* la propriété de ce tableau ancien.
-  Die Familie *erhebt Anspruch* auf den Besitz dieses alten Gemäldes.
+  The family *claims* to own this old painting.
 
   Les étudiants *revendiquent* plus de places en résidence universitaire.
-  Die Studenten *fordern* mehr Plätze in Studentenwohnheimen.
+  The students *demand* more places in student dormitories.
 
   L'écrivain *revendique* l'influence de Voltaire sur son œuvre.
-  Der Schriftsteller *bekennt sich* zum Einfluss Voltaires auf sein Werk.
+  The writer confesses to Voltaire's influence on his work.
 
   Les habitants *revendiquent* un meilleur accès aux transports publics.
-  Die Einwohner *fordern* einen besseren Zugang zu öffentlichen Verkehrsmitteln.
+  The inhabitants *demand* better access to public transport.
 
   Il *revendique* son droit à la liberté d'expression.
-  Er *pocht* auf sein Recht auf freie Meinungsäußerung.
+  He insists on his right to freedom of expression.
 
   L'association *revendique* la protection de cette espèce menacée.
-  Der Verein *setzt* sich für den Schutz dieser bedrohten Art *ein*.
+  The association is committed to the protection of this threatened species.
 
   Les victimes *revendiquent* une indemnisation équitable.
-  Die Opfer *fordern* eine angemessene Entschädigung.
+  Victims *demand* adequate compensation.
 
   Elle *revendique* son statut d'artiste indépendante.
-  Sie *besteht* auf ihrem Status als unabhängige Künstlerin.
+  She insists on her status as an independent artist.
 
   Le mouvement se *revendique* du pacifisme.
-  Die Bewegung *bekennt sich* zum Pazifismus.
+  The movement is committed to pacifism.
 
   Les paysans *revendiquent* des prix plus justes pour leurs produits.
-  Die Bauern *fordern* gerechtere Preise für ihre Produkte.
+  Farmers *demand* fairer prices for their products.
 
   L'auteur *revendique* la paternité de cette théorie.
-  Der Autor *erhebt Anspruch* auf die Urheberschaft dieser Theorie.
+  The author *claims* the authorship of this theory.
 
   Le parti politique *revendique* sa victoire aux élections.
-  Die politische Partei *beansprucht* ihren Wahlsieg.
+  The political party claims its election victory.
 
   Les minorités *revendiquent* une meilleure représentation.
-  Die Minderheiten *fordern* eine bessere Vertretung.
+  Minorities are calling for better representation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

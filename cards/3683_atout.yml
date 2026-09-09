@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3683
 Wort: atout
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un atout
 Femininum / Plural: ''
 IPA: \a.tu\
-Definition: Trumpf
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Triumph
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'oscar est un *atout* commercial de calibre mondial.
-  Der Oscar ist ein weltweiter kommerzieller *Trumpf*.
+  The Oscar is a worldwide commercial trump card.
 
   Dans le jeu, il n'a pas d'*atout* maître et risque de perdre.
-  Im Spiel hat er keinen höchsten *Trumpf* und könnte verlieren.
+  In the game, he has no highest trump card and could lose.
 
   Tu devrais jouer cet *atout* cœur maintenant.
-  Du solltest jetzt diesen Herz-*Trumpf* ausspielen.
+  You should play this heart trump now.
 
   Son expérience est un *atout* majeur pour notre équipe.
-  Seine Erfahrung ist ein wichtiger *Pluspunkt* für unser Team.
+  His experience is an important plus for our team.
 
   Il n'hésite pas à jouer ses *atouts* pour obtenir le poste.
-  Er zögert nicht, seine *Trümpfe* auszuspielen, um die Stelle zu bekommen.
+  He doesn't hesitate to play his *trumps* to get the job.
 
   Marie a tous les *atouts* dans son jeu pour réussir l'examen.
-  Marie hat alle *Trümpfe* in der Hand, um die Prüfung zu bestehen.
+  Marie has all the *trumps* in her hand to pass the test.
 
   Je n'ai que trois *atouts* dans mon jeu de cartes.
-  Ich habe nur drei *Trumpf*karten in meinem Kartenspiel.
+  I only have three trump cards in my card game.
 
   Le roi d'*atout* est la carte la plus forte de cette partie.
-  Der *Trumpf*könig ist die höchste Karte in dieser Partie.
+  The trump king is the highest card in this game.
 
   Cette ville possède de nombreux *atouts* touristiques.
-  Diese Stadt hat viele touristische *Pluspunkte*.
+  This city has many tourist *plus points*.
 
   Son dynamisme est son principal *atout* professionnel.
-  Ihre Dynamik ist ihr wichtigster beruflicher *Trumpf*.
+  Their dynamics are their most important professional trumps.
 
   Il joue son dernier *atout* en demandant une dernière chance.
-  Er spielt seinen letzten *Trumpf* aus, indem er um eine letzte Chance bittet.
+  He plays his last trump card by asking for one last chance.
 
   La dame d'*atout* lui a permis de remporter la partie.
-  Die *Trumpf*dame hat ihm ermöglicht, die Partie zu gewinnen.
+  The trump lady has allowed him to win the game.
 
   Nous devons jouer *atout* pour gagner cette manche.
-  Wir müssen *Trumpf* spielen, um diesen Stich zu gewinnen.
+  We have to play trumps to win this trick.
 
   Le multilinguisme est un *atout* sur le marché du travail.
-  Mehrsprachigkeit ist ein *Pluspunkt* auf dem Arbeitsmarkt.
+  Multilingualism is a plus on the labour market.
 
   Elle a mis tous les *atouts* de son côté avant l'entretien.
-  Sie hat vor dem Vorstellungsgespräch alle *Trümpfe* in die Hand bekommen.
+  She got all the *trumps* in her hand before the interview.
 
   On joue sans *atout* dans cette variante du jeu.
-  In dieser Spielvariante wird ohne *Trumpf* gespielt.
+  In this game variant is played without trumps.
 
   Ces compétences sont des *atouts* supplémentaires pour ta carrière.
-  Diese Fähigkeiten sind zusätzliche *Pluspunkte* für deine Karriere.
+  These skills are additional *plus points* for your career.
 
   L'*atout* trèfle a dominé toute la partie.
-  Der Kreuz-*Trumpf* hat die ganze Partie dominiert.
+  The cross trump has dominated the whole game.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

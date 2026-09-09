@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4716
 Wort: configuration
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la configuration
 Femininum / Plural: ''
 IPA: \kɔ̃.fi.ɡy.ʁa.sjɔ̃\
-Definition: Beschaffenheit, Konfiguration
-Register: ↗Sachtext
+Definition: Quality, configuration
+Register: ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *configuration* institutionnelle rendrait une partition très difficile.
-  Die institutionelle *Beschaffenheit* würde eine Teilung sehr schwierig machen.
+  The institutional *nature* would make division very difficult.
 
   La *configuration* du terrain ne permet pas de construire ici.
-  Die *Beschaffenheit* des Geländes erlaubt es nicht, hier zu bauen.
+  The *nature* of the site does not allow to build here.
 
   La *configuration* de cette molécule est très complexe.
-  Die *Form* dieses Moleküls ist sehr komplex.
+  The shape of this molecule is very complex.
 
   Pour changer la *configuration* de votre navigateur, allez dans les paramètres.
-  Um die *Konfiguration* Ihres Browsers zu ändern, gehen Sie in die Einstellungen.
+  To change the *configuration* of your browser, go to the settings.
 
   Il faut respecter la *configuration* minimale requise pour installer ce jeu.
-  Man muss die minimalen System*voraussetzungen* erfüllen, um dieses Spiel zu installieren.
+  You have to meet the minimum system requirements to install this game.
 
   La *configuration* de cette vallée offre une protection naturelle contre le vent.
-  Die *Beschaffenheit* dieses Tals bietet einen natürlichen Schutz gegen den Wind.
+  The *nature* of this valley offers a natural protection against the wind.
 
   J'ai besoin d'aide pour la *configuration* automatique de mon réseau WiFi.
-  Ich brauche Hilfe bei der automatischen *Konfiguration* meines WLAN-Netzwerks.
+  I need help with the automatic *configuration* of my WLAN network.
 
   La *configuration* matérielle de mon ordinateur n'est plus à jour.
-  Die Hardware-*Konfiguration* meines Computers ist nicht mehr aktuell.
+  The hardware *configuration* of my computer is no longer up to date.
 
   Les cristaux de sel présentent une *configuration* géométrique particulière.
-  Salzkristalle weisen eine besondere geometrische *Form* auf.
+  Salt crystals have a special geometric shape.
 
   La *configuration* électronique de cet atome est stable.
-  Die elektronische *Konfiguration* dieses Atoms ist stabil.
+  The electronic *configuration* of this atom is stable.
 
   Vérifiez la *configuration* requise avant d'acheter ce logiciel.
-  Überprüfen Sie die System*voraussetzungen*, bevor Sie diese Software kaufen.
+  Check the system requirements before buying this software.
 
   La *configuration* de cette île en fait un paradis pour les oiseaux marins.
-  Die *Beschaffenheit* dieser Insel macht sie zu einem Paradies für Seevögel.
+  The *nature* of this island makes it a paradise for seabirds.
 
   Le fichier de *configuration* a été corrompu lors de la mise à jour.
-  Die *Konfigurations*datei wurde während des Updates beschädigt.
+  The *configuration* file was corrupted during the update.
 
   La *configuration* de mon PC ne me permet pas de faire tourner ce programme.
-  Die *Konfiguration* meines PCs erlaubt es mir nicht, dieses Programm laufen zu lassen.
+  The *configuration* of my PC does not allow me to run this program.
 
   L'astrologue étudie la *configuration* des planètes au moment de la naissance.
-  Der Astrologe untersucht die *Konstellation* der Planeten zum Zeitpunkt der Geburt.
+  The astrologer examines the *constellation* of the planets at the time of birth.
 
   Une *configuration* manuelle du routeur sera nécessaire.
-  Eine manuelle *Konfiguration* des Routers wird erforderlich sein.
+  A manual *configuration* of the router will be required.
 
   La *configuration* du sol rend l'agriculture difficile dans cette région.
-  Die *Beschaffenheit* des Bodens macht die Landwirtschaft in dieser Region schwierig.
+  The *nature* of the soil makes agriculture in this region difficult.
 
   Selon la *configuration* actuelle des astres, le moment est propice.
-  Der aktuellen *Konstellation* der Gestirne nach ist der Moment günstig.
+  According to the current *constellation* of the stars, the moment is favorable.
 
   La *configuration* de ces points dans l'espace forme un triangle.
-  Die *Anordnung* dieser Punkte im Raum bildet ein Dreieck.
+  The *arrangement* of these points in the space forms a triangle.
 
   Cette *configuration* géographique est typique des fjords norvégiens.
-  Diese geografische *Beschaffenheit* ist typisch für norwegische Fjorde.
+  This geographical *nature* is typical of Norwegian fjords.
 
   La nouvelle *configuration* du système offre de meilleures performances.
-  Die neue System*konfiguration* bietet bessere Leistung.
+  The new system *configuration* offers better performance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

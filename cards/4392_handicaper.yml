@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4392
 Wort: handicaper
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: handicaper
 Femininum / Plural: ''
 IPA: \'ɑ̃.di.ka.pe\
-Definition: behindern, beeinträchtigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: inhibit, impair,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La croissance mondiale risque de *handicaper* leurs exportations.
-  Das globale Wachstum droht ihre Exporte zu *behindern*.
+  Global growth threatens to *hinder* their exports.
 
   Sa timidité l'a beaucoup *handicapé* dans sa carrière professionnelle.
-  Seine Schüchternheit hat ihn in seiner beruflichen Karriere stark *benachteiligt*.
+  His shyness has greatly *disadvantaged* him in his professional career.
 
   Le manque d'expérience *handicape* sérieusement notre équipe.
-  Der Mangel an Erfahrung *benachteiligt* unser Team erheblich.
+  The lack of experience is a major disadvantage for our team.
 
   Dans cette course, le cheval noir sera *handicapé* de cinq kilos.
-  Bei diesem Rennen wird das schwarze Pferd mit fünf Kilo *belastet*.
+  In this race, the black horse is *loaded* with five kilos.
 
   Pierre est temporairement *handicapé* à cause de sa jambe cassée.
-  Pierre ist wegen seines gebrochenen Beins vorübergehend *behindert*.
+  Pierre is temporarily *disabled* because of his broken leg.
 
   L'absence d'internet *handicape* fortement le développement de cette région rurale.
-  Das Fehlen von Internet *behindert* die Entwicklung dieser ländlichen Region stark.
+  The lack of Internet is a major obstacle to the development of this rural region.
 
   Son accident de ski l'a *handicapé* à vie.
-  Sein Skiunfall hat ihn lebenslang *behindert*.
+  His ski accident has hindered him for life.
 
   Le bruit constant *handicape* la concentration des élèves.
-  Der ständige Lärm *beeinträchtigt* die Konzentration der Schüler.
+  The constant noise affects the concentration of the students.
 
   La petite entreprise est *handicapée* par les coûts élevés de l'énergie.
-  Das kleine Unternehmen wird durch die hohen Energiekosten *benachteiligt*.
+  The small enterprise is *disadvantaged* by the high energy costs.
 
   Les conditions météorologiques ont *handicapé* la construction du nouveau stade.
-  Die Wetterbedingungen haben den Bau des neuen Stadions *behindert*.
+  Weather conditions have hindered the construction of the new stadium.
 
   Marie sera *handicapée* dans la compétition à cause de sa blessure récente.
-  Marie wird im Wettkampf durch ihre kürzliche Verletzung *benachteiligt* sein.
+  Marie will be *disadvantaged* in the competition by her recent injury.
 
   Le manque de personnel qualifié *handicape* le développement de l'entreprise.
-  Der Mangel an qualifiziertem Personal *behindert* die Unternehmensentwicklung.
+  The lack of qualified personnel hinders the development of the company.
 
   Les problèmes de transport *handicapent* sérieusement notre logistique.
-  Die Transportprobleme *beeinträchtigen* unsere Logistik erheblich.
+  The transport problems *affect* our logistics considerably.
 
   La barrière de la langue *handicape* son intégration sociale.
-  Die Sprachbarriere *behindert* seine soziale Integration.
+  The language barrier hinders its social integration.
 
   Le favori du tournoi a été *handicapé* par une blessure au genou.
-  Der Turnierfavorit wurde durch eine Knieverletzung *beeinträchtigt*.
+  The tournament favorite was affected by a knee injury.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

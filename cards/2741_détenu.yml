@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2741
 Wort: détenu
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le détenu
 Femininum / Plural: détenue
 IPA: \det.ny\
-Definition: Häftling
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Prisoner
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le pourcentage de *détenus* séropositifs est très élevé.
-  Der Anteil HIV-positiver *Häftlinge* ist sehr hoch.
+  The proportion of HIV-positive *prisoners* is very high.
 
   Les *détenus* politiques ont entamé une grève de la faim.
-  Die politischen *Gefangenen* haben einen Hungerstreik begonnen.
+  The political *prisoners* have started a hunger strike.
 
   Cette *détenue* attend son procès depuis six mois.
-  Diese *Untersuchungsgefangene* wartet seit sechs Monaten auf ihren Prozess.
+  This investigator has been waiting six months for her trial.
 
   Le nombre de *détenus* dans les prisons françaises ne cesse d'augmenter.
-  Die Zahl der *Häftlinge* in französischen Gefängnissen steigt weiter an.
+  The number of *prisoners* in French prisons continues to rise.
 
   Les soldats *détenus* dans le camp ont été libérés hier.
-  Die im Lager *gefangenen* Soldaten wurden gestern befreit.
+  The soldiers captured in the camp were released yesterday.
 
   La *détenue* de droit commun partage sa cellule avec deux autres femmes.
-  Die Straf*gefangene* teilt ihre Zelle mit zwei anderen Frauen.
+  The prisoner shares her cell with two other women.
 
   Les conditions de vie des *détenus* se sont améliorées depuis la rénovation.
-  Die Lebensbedingungen der *Inhaftierten* haben sich seit der Renovierung verbessert.
+  The living conditions of the *detainees* have improved since the renovation.
 
   Tous les *détenus* provisoires ont droit à un avocat.
-  Alle Untersuchungs*häftlinge* haben das Recht auf einen Anwalt.
+  All inmates have the right to a lawyer.
 
   Le directeur de la prison parle avec les familles des *détenus*.
-  Der Gefängnisdirektor spricht mit den Familien der *Häftlinge*.
+  The prison director talks to the *prisoners*' families.
 
   Les officiers *détenus* en forteresse ont tenté de s'évader.
-  Die in der Festung *inhaftierten* Offiziere haben einen Fluchtversuch unternommen.
+  The officers detained in the fortress have attempted to escape.
 
   Cette femme est *détenue* pour vol avec récidive.
-  Diese Frau ist wegen wiederholten Diebstahls *inhaftiert*.
+  This woman is detained for repeated theft.
 
   Les *détenus* peuvent recevoir des visites deux fois par semaine.
-  Die *Gefangenen* dürfen zweimal pro Woche Besuch empfangen.
+  *Prisoners* may receive visits twice a week.
 
   Le nouveau bâtiment peut accueillir cent *détenus*.
-  Das neue Gebäude kann hundert *Häftlinge* aufnehmen.
+  The new building can accommodate a hundred *prisoners*.
 
   Ce *détenu* politique refuse de s'alimenter depuis trois jours.
-  Dieser politische *Gefangene* verweigert seit drei Tagen die Nahrungsaufnahme.
+  This political prisoner has been refusing food for three days.
 
   Les droits des *détenus* sont garantis par la loi.
-  Die Rechte der *Inhaftierten* sind gesetzlich garantiert.
+  The rights of the *detainees* are guaranteed by law.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2095
 Wort: résulter
 Wortart: vi, vi(imp)
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: résulter
 Femininum / Plural: ''
 IPA: \ʁe.zyl.te\
-Definition: ergeben, entstehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: the
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il en est *résulté* une tragédie humaine énorme.
-  Daraus *resultierte* eine enorme menschliche Tragödie.
+  This resulted in an enormous human tragedy.
 
   Les problèmes actuels *résultent* d'années de mauvaise gestion.
-  Die aktuellen Probleme *resultieren* aus jahrelanger Misswirtschaft.
+  The current problems *result* from years of mismanagement.
 
   Que *résultera*-t-il de cette décision précipitée ?
-  Was wird aus dieser überstürzten Entscheidung *folgen*?
+  What will *follow* from this rash decision?
 
   La pollution de l'air *résulte* principalement de l'activité industrielle.
-  Die Luftverschmutzung *ergibt sich* hauptsächlich aus der industriellen Aktivität.
+  Air pollution is mainly due to industrial activity.
 
   Les tensions *résultant* de ce conflit ont affecté toute la région.
-  Die aus diesem Konflikt *resultierenden* Spannungen haben die ganze Region betroffen.
+  The tensions *resulting* from this conflict have affected the whole region.
 
   Il *résulte* de cette étude que le changement climatique s'accélère.
-  Aus dieser Studie *geht hervor*, dass sich der Klimawandel beschleunigt.
+  This study shows that climate change is accelerating.
 
   Cette découverte scientifique *résulte* de années de recherche intensive.
-  Diese wissenschaftliche Entdeckung ist das *Ergebnis* jahrelanger intensiver Forschung.
+  This scientific discovery is the *result* of years of intensive research.
 
   Les économies réalisées *résultent* d'une gestion plus efficace des ressources.
-  Die erzielten Einsparungen *ergeben sich* aus einem effizienteren Ressourcenmanagement.
+  The savings achieved result from more efficient resource management.
 
   La confusion qui a *résulté* de cette annonce était prévisible.
-  Die Verwirrung, die aus dieser Ankündigung *entstanden ist*, war vorhersehbar.
+  The confusion that arose from this announcement was predictable.
 
   Le succès de l'entreprise *résulte* de l'innovation constante.
-  Der Erfolg des Unternehmens *resultiert* aus ständiger Innovation.
+  The company's success *results* from constant innovation.
 
   Les conclusions *résultant* de l'enquête seront publiées demain.
-  Die aus der Untersuchung *resultierenden* Schlussfolgerungen werden morgen veröffentlicht.
+  The conclusions *resulting* from the investigation will be published tomorrow.
 
   Cette situation *résulte* d'une série de mauvaises décisions.
-  Diese Situation ist das *Ergebnis* einer Reihe von Fehlentscheidungen.
+  This situation is the *result* of a number of misdecisions.
 
   Les bénéfices pour la santé *résultent* d'un mode de vie équilibré.
-  Die gesundheitlichen Vorteile *ergeben sich* aus einer ausgewogenen Lebensweise.
+  The health benefits result from a balanced lifestyle.
 
   La théorie *résultant* de ces observations a révolutionné la physique.
-  Die aus diesen Beobachtungen *resultierende* Theorie hat die Physik revolutioniert.
+  The theory *resulting* from these observations has revolutionized physics.
 
   Le chômage élevé *résulte* en partie de l'automatisation croissante.
-  Die hohe Arbeitslosigkeit *resultiert* teilweise aus der zunehmenden Automatisierung.
+  The high level of unemployment is partly due to increasing automation.
 
   Cette erreur *résulte* d'un manque d'attention aux détails.
-  Dieser Fehler *ergibt sich* aus einem Mangel an Aufmerksamkeit für Details.
+  This error results from a lack of attention to details.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4356
 Wort: sévir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sévir
 Femininum / Plural: ''
 IPA: \se.viʁ\
-Definition: wüten, durchgreifen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: threshing,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La violence qui *sévit* dans ce pays nous inquiète aussi beaucoup.
-  Die Gewalt, die in diesem Land *wütet*, beunruhigt auch uns sehr.
+  The violence that is raging in this country is also very disturbing to us.
 
   La grippe *sévit* particulièrement cet hiver.
-  Die Grippe *grassiert* diesen Winter besonders stark.
+  The flu is particularly strong this winter.
 
   Les autorités vont *sévir* contre les infractions au code de la route.
-  Die Behörden werden gegen Verkehrsverstöße *durchgreifen*.
+  The authorities will intervene against traffic violations.
 
   Une terrible sécheresse *sévit* depuis des mois dans la région.
-  Eine schreckliche Dürre *wütet* seit Monaten in der Region.
+  A terrible drought has raged in the region for months.
 
   Le gang *sévissait* dans le quartier depuis des années.
-  Die Bande *trieb* seit Jahren in dem Viertel ihr *Unwesen*.
+  The gang has been in the neighborhood for years.
 
   La police a décidé de *sévir* immédiatement contre les dealers.
-  Die Polizei hat beschlossen, sofort gegen die Dealer *durchzugreifen*.
+  The police have decided to go through the dealers immediately.
 
   Une épidémie de dengue *sévit* actuellement dans plusieurs pays tropicaux.
-  Eine Dengue-Epidemie *grassiert* derzeit in mehreren tropischen Ländern.
+  A dengue epidemic is currently raging in several tropical countries.
 
   Le directeur va *sévir* si les retards persistent.
-  Der Direktor wird *hart durchgreifen*, wenn die Verspätungen anhalten.
+  The director will go through hard if the delays stop.
 
   Cette mode ridicule *sévissait* dans les années 80.
-  Diese lächerliche Mode *wütete* in den 80er Jahren.
+  This ridiculous fashion raged in the 1980s.
 
   Les voleurs *sévissent* surtout pendant les vacances.
-  Die Diebe *treiben* besonders während der Ferien ihr *Unwesen*.
+  The thieves do their mischief especially during the holidays.
 
   Le chômage continue de *sévir* dans les zones rurales.
-  Die Arbeitslosigkeit *wütet* weiterhin in den ländlichen Gebieten.
+  Unemployment continues to rage in rural areas.
 
   Les parents doivent parfois *sévir* pour maintenir la discipline.
-  Die Eltern müssen manchmal *hart durchgreifen*, um die Disziplin aufrechtzuerhalten.
+  Parents sometimes have to go through hard to maintain discipline.
 
   Cette maladie *sévit* principalement chez les personnes âgées.
-  Diese Krankheit *grassiert* hauptsächlich bei älteren Menschen.
+  This disease is mainly common in the elderly.
 
   Le gouvernement doit *sévir* contre la corruption.
-  Die Regierung muss gegen die Korruption *durchgreifen*.
+  The government must intervene against corruption.
 
   La pauvreté *sévit* toujours dans certains quartiers de la ville.
-  Die Armut *wütet* noch immer in einigen Stadtvierteln.
+  Poverty is still raging in some neighborhoods.
 
   Les pirates informatiques *sévissent* de plus en plus sur internet.
-  Die Hacker *treiben* immer mehr im Internet ihr *Unwesen*.
+  The hackers are more and more *drifting* on the Internet.
 
   Le patron *sévit* contre tout retard injustifié.
-  Der Chef *greift* bei jeder ungerechtfertigten Verspätung *hart durch*.
+  The boss goes through hard every time he's unwarranted.
 
   Une vague de chaleur *sévit* en Europe depuis une semaine.
-  Eine Hitzewelle *wütet* seit einer Woche in Europa.
+  A heat wave has been raging in Europe for a week.
 
   Le racket *sévit* encore dans certaines écoles.
-  Das Mobbing *wütet* noch immer an manchen Schulen.
+  The bullying is still raging in some schools.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4718
 Wort: intensif
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: intensif
 Femininum / Plural: intensive
 IPA: \ɛ̃.tɑ̃.sif\
-Definition: intensiv; Intensiv-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: intensive; intensive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une telle traduction représente un travail *intensif*.
-  Eine solche Übersetzung stellt eine *intensive* Arbeit dar.
+  Such a translation represents an intensive work.
 
   Les enfants suivent des cours d'anglais *intensifs* pendant l'été.
-  Die Kinder besuchen im Sommer *intensive* Englischkurse.
+  The children attend intensive English courses in the summer.
 
   L'élevage *intensif* des poulets pose des questions éthiques.
-  Die *Intensiv*haltung von Hühnern wirft ethische Fragen auf.
+  The *intensive* husbandry of chickens raises ethical questions.
 
   Il suit un traitement *intensif* pour guérir rapidement.
-  Er macht eine *Intensiv*kur, um schnell gesund zu werden.
+  He's doing an *intensive* cure to get better quickly.
 
   La culture *intensive* du maïs nécessite beaucoup d'eau.
-  Der *Intensiv*anbau von Mais benötigt viel Wasser.
+  The *intensive* cultivation of maize requires a lot of water.
 
   Cette formation *intensive* dure trois semaines.
-  Diese *intensive* Ausbildung dauert drei Wochen.
+  This intensive training lasts three weeks.
 
   Le patient est transféré aux soins *intensifs*.
-  Der Patient wird auf die *Intensiv*station verlegt.
+  The patient is transferred to the *intensive* care unit.
 
   Le mot « hyper » est un préfixe *intensif*.
-  Das Wort "hyper" ist ein *verstärkendes* Wort.
+  The word "hyper" is an *intensifying* word.
 
   La police mène une recherche *intensive* du suspect.
-  Die Polizei führt eine *intensive* Suche nach dem Verdächtigen durch.
+  The police are conducting an intensive search for the suspect.
 
   Son entraînement *intensif* a porté ses fruits.
-  Sein *intensives* Training hat sich ausgezahlt.
+  His intensive training paid off.
 
   Le gouvernement a lancé une propagande *intensive*.
-  Die Regierung hat eine *massive* Propaganda gestartet.
+  The government has launched *massive* propaganda.
 
   Cette méthode requiert une concentration *intensive*.
-  Diese Methode erfordert *intensive* Konzentration.
+  This method requires intensive concentration.
 
   Le stage *intensif* de yoga l'a beaucoup aidée.
-  Das *Intensiv*seminar in Yoga hat ihr sehr geholfen.
+  The *intensive* seminar in yoga helped her a lot.
 
   L'agriculture *intensive* peut épuiser les sols.
-  Die *intensive* Landwirtschaft kann die Böden erschöpfen.
+  Intensive agriculture can exhaust the soil.
 
   La thérapie *intensive* a duré six mois.
-  Die *Intensiv*therapie dauerte sechs Monate.
+  *Intensive* therapy lasted six months.
 
   Un séminaire *intensif* est prévu pour la semaine prochaine.
-  Nächste Woche ist ein *Kompakt*seminar geplant.
+  A *compact* seminar is planned next week.
 
   L'adverbe « très » est un mot *intensif*.
-  Das Adverb "sehr" ist ein *Verstärkungs*wort.
+  The adverb "very" is a *reinforcement* word.
 
   Cette région pratique l'agriculture *intensive*.
-  Diese Region betreibt *intensive* Landwirtschaft.
+  This region is engaged in intensive agriculture.
 
   Le verbe « hurler » est *intensif* par rapport à « crier ».
-  Das Verb "brüllen" ist im Vergleich zu "schreien" ein *intensives* Verb.
+  The verb "screaming" is an intensive verb compared to "screaming".
 
   Elle suit des séances *intensives* de kinésithérapie.
-  Sie macht *intensive* Physiotherapiesitzungen.
+  She's doing intensive physiotherapy sessions.
 
   La production *intensive* a des conséquences environnementales.
-  Die *intensive* Produktion hat Folgen für die Umwelt.
+  The intensive production has consequences for the environment.
 
   Un nettoyage *intensif* du site est nécessaire.
-  Eine *gründliche* Reinigung des Geländes ist notwendig.
+  A thorough cleaning of the area is necessary.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>intense</i> und <i>intensif</i></div>
+    <div class="section-title"><i>intense</i> and <i>intensif</i></div>
     <div class="section-content">
-      <p><span class="fr">Intense</span> (#2270) bedeutet <span class="de">"intensiv"</span> oder <span class="de">"stark"</span> und beschreibt die Stärke oder den Grad eines Gefühls, einer Empfindung oder eines Phänomens.</p>
+      <p><span class="fr">Intense</span> (#2270) means <span class="de">"intensiv"</span> or <span class="de">"stark"</span> and describes the strength or degree of feeling, sensation or phenomenon.</p>
       <div class="examples">
         <div class="fr">Il ressent une douleur intense.</div>
-        <div class="de spoiler">Er verspürt einen intensiven Schmerz.</div>
+        <div class="de spoiler">He feels intense pain.</div>
         <div class="fr">La chaleur était si intense qu'il fallait rester à l'ombre.</div>
-        <div class="de spoiler">Die Hitze war so intensiv, dass man im Schatten bleiben musste.</div>
+        <div class="de spoiler">The heat was so intense that you had to stay in the shade.</div>
       </div>
-      <p><span class="fr">Intensif</span> bedeutet <span class="de">"intensiv"</span> im Sinne von konzentriert, verstärkt oder systematisch durchgeführt. Es bezieht sich auf Methoden, Aktivitäten oder Prozesse.</p>
+      <p><span class="fr">Intensif</span> means <span class="de">"intensiv"</span> in the sense of concentrated, reinforced or systematically carried out. It refers to methods, activities or processes.</p>
       <div class="examples">
         <div class="fr">Elle suit un cours intensif de français.</div>
-        <div class="de spoiler">Sie besucht einen Intensivkurs in Französisch.</div>
+        <div class="de spoiler">She attends an intensive course in French.</div>
         <div class="fr">L'agriculture intensive peut épuiser les sols.</div>
-        <div class="de spoiler">Die intensive Landwirtschaft kann die Böden erschöpfen.</div>
+        <div class="de spoiler">Intensive agriculture can exhaust the soil.</div>
       </div>
     </div>
   </div>

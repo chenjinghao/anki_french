@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3372
 Wort: acheminer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: acheminer
 Femininum / Plural: ''
 IPA: \a.ʃə.mi.ne\
-Definition: transportieren, zusteuern
-Register: ↗Sachtext ↘Mündlich
+Definition: transport, control
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   D'autres produits doivent être *acheminés* au port.
-  Andere Produkte müssen zum Hafen *transportiert* werden.
+  Other products must be *transported* to the port.
 
   Le courrier sera *acheminé* par avion.
-  Die Post wird per Flugzeug *befördert*.
+  The mail is *transported* by plane.
 
   Les secours ont été *acheminés* vers les zones sinistrées.
-  Die Hilfsgüter wurden in die Katastrophengebiete *gebracht*.
+  The aid was taken to the disaster areas.
 
   Les marchandises sont *acheminées* par train.
-  Die Waren werden per Bahn *transportiert*.
+  The goods are *transported* by rail.
 
   Il faut *acheminer* les réfugiés vers un lieu sûr.
-  Die Flüchtlinge müssen an einen sicheren Ort *gebracht* werden.
+  The refugees must be taken to a safe place.
 
   La caravane s'*achemine* lentement vers l'oasis.
-  Die Karawane *bewegt* sich langsam in Richtung Oase.
+  The caravan is slowly moving towards the oasis.
 
   Nous nous *acheminons* vers une solution.
-  Wir *nähern* uns einer Lösung.
+  We're approaching a solution.
 
   Le train sera *acheminé* sur Lyon.
-  Der Zug wird über Lyon *umgeleitet*.
+  The train is diverted via Lyon.
 
   Les troupes s'*acheminent* vers le front.
-  Die Truppen *bewegen* sich zur Front.
+  The troops are moving to the front.
 
   Les négociations s'*acheminent* vers une impasse.
-  Die Verhandlungen *steuern* auf eine Sackgasse *zu*.
+  The negotiations are heading towards a dead end.
 
   Marie s'*achemine* vers le centre-ville.
-  Marie *macht sich auf den Weg* in die Innenstadt.
+  Marie's on her way to downtown.
 
   Ce projet s'*achemine* vers l'échec.
-  Dieses Projekt *steuert* auf ein Scheitern *zu*.
+  This project is heading towards failure.
 
   L'entreprise s'*achemine* vers la faillite.
-  Das Unternehmen *steuert* auf den Bankrott *zu*.
+  The company is heading for bankruptcy.
 
   Les colis seront *acheminés* par la poste.
-  Die Pakete werden per Post *weitergeleitet*.
+  The packages will be forwarded by mail.
 
   Nous nous *acheminons* vers la fin de l'année.
-  Wir *nähern* uns dem Jahresende.
+  We're approaching the end of the year.
 
   La situation s'*achemine* vers une crise.
-  Die Situation *entwickelt* sich zu einer Krise.
+  The situation is developing into a crisis.
 
   L'aide humanitaire doit être *acheminée* rapidement.
-  Die humanitäre Hilfe muss schnell *transportiert* werden.
+  Humanitarian aid must be *transported* quickly.
 
   Le convoi s'*achemine* vers sa destination finale.
-  Der Konvoi *bewegt* sich auf sein Endziel zu.
+  The convoy is moving towards its final destination.
 
   Les voyageurs seront *acheminés* par bus.
-  Die Reisenden werden per Bus *befördert*.
+  Travelers are *transported* by bus.
 
   Pierre s'*acheminait* tranquillement vers le village.
-  Pierre *ging* ruhig zum Dorf.
+  Pierre quietly *went* to the village.
 
   Les denrées seront *acheminées* par camion.
-  Die Lebensmittel werden per LKW *transportiert*.
+  The food is *transported* by truck.
 
   Ces événements nous *acheminent* vers la paix.
-  Diese Ereignisse *führen* uns zum Frieden.
+  These events lead us to peace.
 
   L'homme s'*acheminait* le long de la rivière.
-  Der Mann *bewegte* sich am Fluss entlang.
+  The man *moved* along the river.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

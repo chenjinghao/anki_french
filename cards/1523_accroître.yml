@@ -1,102 +1,102 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1523
 Wort: accroître
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: accroître
 Femininum / Plural: ''
 IPA: \a.kʁwatʁ\
-Definition: vergrößern, steigern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: increase, increase
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La tension dans l'entreprise ne fait que s'*accroître* depuis l'annonce des restructurations.
-  Die Spannung in der Firma *wächst* seit der Ankündigung der Umstrukturierungen immer weiter.
+  The tension in the company has been *growing* ever since the announcement of the restructuring.
 
   Évidemment, cela *accroît* le climat de tension.
-  Das *verstärkt* natürlich das angespannte Klima.
+  This naturally strengthens the tense climate.
 
   Le nombre de visiteurs s'*est accru* de 50% par rapport à l'année dernière.
-  Die Besucherzahl ist im Vergleich zum Vorjahr um 50% *gestiegen*.
+  The number of visitors *increased* by 50% compared to the previous year.
 
   Cette nouvelle technologie permet d'*accroître* la productivité de manière significative.
-  Diese neue Technologie ermöglicht es, die Produktivität deutlich zu *steigern*.
+  This new technology enables productivity to be significantly increased.
 
   Son anxiété s'*accroît* d'heure en heure avant l'examen.
-  Seine Nervosität *nimmt* von Stunde zu Stunde vor der Prüfung *zu*.
+  His nervousness increases from hour *to* hour before the test.
 
   Les exercices réguliers *accroissent* vos chances de réussite.
-  Regelmäßige Übungen *vergrößern* deine Erfolgschancen.
+  Regular exercises increase your chances of success.
 
   La chaleur *accrue* rend le travail plus difficile aujourd'hui.
-  Die *gestiegene* Hitze macht die Arbeit heute schwieriger.
+  The *increased* heat makes work more difficult today.
 
   Il cherche à *accroître* son influence dans l'entreprise.
-  Er versucht, seinen Einfluss in der Firma zu *vergrößern*.
+  He's trying to increase his influence in the company.
 
   Ses connaissances *se sont considérablement accrues* pendant son séjour à l'étranger.
-  Sein Wissen hat während seines Auslandsaufenthalts stark *zugenommen*.
+  His knowledge has *increased* considerably during his stay abroad.
 
   La population de la ville s'*accroît* chaque année.
-  Die Stadtbevölkerung *wächst* jedes Jahr.
+  The urban population grows every year.
 
   Ces mesures vont *accroître* le mécontentement des employés.
-  Diese Maßnahmen werden die Unzufriedenheit der Mitarbeiter *verstärken*.
+  These measures will increase staff dissatisfaction.
 
   Marie a réussi à *accroître* son patrimoine grâce à de bons investissements.
-  Marie hat es geschafft, ihr Vermögen durch gute Investitionen zu *vermehren*.
+  Marie has managed to *increase* her assets through good investments.
 
   Le bruit *accroissant* de la circulation devient insupportable.
-  Der *zunehmende* Verkehrslärm wird unerträglich.
+  The *increasing* traffic noise becomes intolerable.
 
   Les responsabilités *accrues* s'accompagnent d'une augmentation de salaire.
-  Die *erweiterten* Verantwortlichkeiten gehen mit einer Gehaltserhöhung einher.
+  The increased responsibilities are accompanied by a salary increase.
 
   Cette décision risque d'*accroître* la confusion générale.
-  Diese Entscheidung droht die allgemeine Verwirrung zu *verstärken*.
+  This decision threatens to increase the general confusion.
 
   Sa réputation s'*est considérablement accrue* après ce succès.
-  Sein Ansehen ist nach diesem Erfolg erheblich *gewachsen*.
+  His reputation has *grown* considerably after this success.
 
   Le temps passé sur les réseaux sociaux ne fait que s'*accroître*.
-  Die Zeit, die in sozialen Medien verbracht wird, *nimmt* stetig *zu*.
+  The time spent on social media is steadily increasing.
 
   Ces exercices vont *accroître* ta confiance en toi.
-  Diese Übungen werden dein Selbstvertrauen *stärken*.
+  These exercises will *strengthen* your confidence.
 
   La douleur s'*accroît* progressivement depuis ce matin.
-  Die Schmerzen *nehmen* seit heute Morgen allmählich *zu*.
+  The pain has been increasing gradually since this morning.
 
   Les nouveaux projets *ont accru* notre charge de travail.
-  Die neuen Projekte haben unsere Arbeitsbelastung *erhöht*.
+  The new projects have *increased* our workload.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>augmenter</i> und <i>accroître</i></div>
+    <div class="section-title"><i>augmenter</i> and <i>accroître</i></div>
     <div class="section-content">
 
-      <p><span class="fr">Augmenter</span> (#823) wird verwendet, um eine Zunahme von Größe, Menge oder Grad in verschiedenen Kontexten anzuzeigen.</p>
+      <p><span class="fr">Augmenter</span> (#823) is used to display an increase in size, quantity, or degrees in different contexts.</p>
       <div class="examples">
         <div class="fr">Le prix du lait a augmenté.</div>
-        <div class="de spoiler">Der Milchpreis ist gestiegen.</div>
+        <div class="de spoiler">The price of milk has risen.</div>
         <div class="fr">Nous devons augmenter la production pour répondre à la demande.</div>
-        <div class="de spoiler">Wir müssen die Produktion erhöhen, um die Nachfrage zu befriedigen.</div>
+        <div class="de spoiler">We need to increase production to meet demand.</div>
       </div>
 
-      <p><span class="fr">Accroître</span> bedeutet vergrößern, wachsen oder erweitern, meist bei abstrakten Begriffen wie Reichtum, Einfluss oder Ansehen; kann aber auch auf physische Dinge wie Flächen oder Mengen angewendet werden. Es impliziert oft einen allmählichen Prozess.</p>
+      <p><span class="fr">Accroître</span> means to enlarge, grow or expand, mostly in abstract terms such as wealth, influence or prestige; but can also be applied to physical things such as surfaces or quantities. It often implies a gradual process.</p>
       <div class="examples">
         <div class="fr">Nous devons accroître notre présence sur les marchés internationaux.</div>
-        <div class="de spoiler">Wir müssen unsere Präsenz auf den internationalen Märkten ausbauen.</div>
+        <div class="de spoiler">We need to expand our presence in the international markets.</div>
         <div class="fr">L'entreprise cherche à accroître ses profits chaque année.</div>
-        <div class="de spoiler">Das Unternehmen strebt jedes Jahr an, seine Gewinne zu steigern.</div>
+        <div class="de spoiler">Every year, the company strives to increase its profits.</div>
       </div>
     </div>
   </div>

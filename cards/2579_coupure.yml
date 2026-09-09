@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2579
 Wort: coupure
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la coupure
 Femininum / Plural: ''
 IPA: \ku.pyʁ\
-Definition: Schnitt, Kürzung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cut, reduction
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a eu une *coupure* de courant.
-  Es gab eine Strom*unterbrechung*.
+  There was a power cut.
 
   Le journal a fait plusieurs *coupures* dans mon article.
-  Die Zeitung hat mehrere *Kürzungen* in meinem Artikel vorgenommen.
+  The newspaper has made several cuts in my article.
 
   Je me suis fait une *coupure* au doigt en coupant des légumes.
-  Ich habe mir beim Gemüseschneiden einen *Schnitt* in den Finger gemacht.
+  I *cut* my finger when cutting vegetables.
 
   La *coupure* d'eau va durer toute la matinée.
-  Die Wasser*unterbrechung* wird den ganzen Vormittag andauern.
+  The water interruption will last all morning.
 
   Avez-vous des *coupures* de cinquante euros ?
-  Haben Sie Fünfzig-Euro-*Scheine*?
+  Do you have 50 euro *bills*?
 
   Cette *coupure* avec son passé lui a permis d'aller de l'avant.
-  Dieser *Einschnitt* mit seiner Vergangenheit hat ihm erlaubt, voranzukommen.
+  This *incision* with his past has allowed him to move forward.
 
   La secrétaire a corrigé toutes les mauvaises *coupures* de mots dans le texte.
-  Die Sekretärin hat alle falschen Wort*trennungen* im Text korrigiert.
+  The secretary corrected all the wrong word divisions in the text.
 
   J'ai gardé une *coupure* de presse sur cet événement historique.
-  Ich habe einen Zeitungs*ausschnitt* über dieses historische Ereignis aufbewahrt.
+  I kept a newspaper clipping about this historic event.
 
   Cette petite *coupure* au visage va laisser une cicatrice.
-  Diese kleine *Schnittwunde* im Gesicht wird eine Narbe hinterlassen.
+  This small cut on the face will leave a scar.
 
   Pouvez-vous me faire l'appoint ? Je n'ai que des grosses *coupures*.
-  Können Sie mir passend geben? Ich habe nur große *Scheine*.
+  Can you give me something to suit you?
 
   La *coupure* de gaz était due à des travaux dans la rue.
-  Die Gas*unterbrechung* war wegen Straßenarbeiten.
+  The gas interruption was due to roadwork.
 
   Son départ à l'étranger a créé une *coupure* dans sa carrière.
-  Sein Auslandsaufenthalt bedeutete einen *Einschnitt* in seiner Karriere.
+  His stay abroad meant an *incision* in his career.
 
   Le réalisateur a fait plusieurs *coupures* pour raccourcir le film.
-  Der Regisseur hat mehrere *Kürzungen* vorgenommen, um den Film zu kürzen.
+  The director has made several cuts to shorten the film.
 
   La *coupure* du téléphone a duré deux heures.
-  Die Telefon*unterbrechung* dauerte zwei Stunden.
+  The telephone interruption lasted two hours.
 
   Cette *coupure* dans le cuir va nécessiter une réparation.
-  Dieser *Schnitt* im Leder wird eine Reparatur erfordern.
+  This *cut* in leather will require repair.
 
   Les vacances d'été représentent une *coupure* bienvenue dans l'année scolaire.
-  Die Sommerferien stellen eine willkommene *Unterbrechung* im Schuljahr dar.
+  The summer holidays are a welcome break during the school year.
 
   Il collectionne les *coupures* de journaux sur son équipe préférée.
-  Er sammelt Zeitungs*ausschnitte* über seine Lieblingsmannschaft.
+  He collects newspaper clippings about his favorite team.
 
   La *coupure* était si fine qu'elle ne saignait presque pas.
-  Der *Schnitt* war so fein, dass er kaum blutete.
+  The *cut* was so fine that it barely bled.
 
   Le braqueur a demandé des petites *coupures* non marquées.
-  Der Räuber verlangte kleine, nicht markierte *Scheine*.
+  The robber demanded small, unmarked *bills*.
 
   Cette *coupure* brutale d'électricité a endommagé mon ordinateur.
-  Diese plötzliche Strom*unterbrechung* hat meinen Computer beschädigt.
+  This sudden power interruption has damaged my computer.
 
   Les *coupures* budgétaires ont affecté tous les services.
-  Die Budget*kürzungen* haben alle Abteilungen betroffen.
+  The budget cuts have affected all departments.
 
   La *coupure* entre les deux époques est très nette dans l'architecture.
-  Der *Einschnitt* zwischen den beiden Epochen ist in der Architektur sehr deutlich.
+  The *incision* between the two epochs is very clear in architecture.
 
   Des *coupures* d'eau sont prévues pendant les travaux.
-  Während der Arbeiten sind Wasser*unterbrechungen* geplant.
+  Water interruptions are planned during the work.
 
   Cette *coupure* dans sa vie l'a profondément changé.
-  Dieser *Einschnitt* in seinem Leben hat ihn tief verändert.
+  This *incision* in his life has changed him deeply.
 
   Attention aux *coupures* de mots en fin de ligne !
-  Achten Sie auf die Wort*trennungen* am Zeilenende!
+  Watch the word divisions at the end of the line.
 
   La banque ne dispose plus que de petites *coupures*.
-  Die Bank hat nur noch kleine *Scheine*.
+  The bank has only small *bills* left.
 
   Le médecin a désinfecté la *coupure* avant de la bander.
-  Der Arzt hat den *Schnitt* desinfiziert, bevor er ihn verbunden hat.
+  The doctor disinfected the incision before he connected it.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

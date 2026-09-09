@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 389
 Wort: parmi
 Wortart: prep
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: parmi
 Femininum / Plural: ''
 IPA: \paʁ.mi\
-Definition: unter, von ... aus
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: under, from ...
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y en a un *parmi* vous qui est un démon.
-  Einer *unter* euch ist ein Teufel.
+  One of you is a devil.
 
   *Parmi* les langues européennes, le français est l'une des plus parlées.
-  *Unter* den europäischen Sprachen ist Französisch eine der meistgesprochenen.
+  Among *the* European languages, French is one of the most widely spoken.
 
   J'ai trouvé cette vieille photo *parmi* mes affaires.
-  Ich habe dieses alte Foto *unter* meinen Sachen gefunden.
+  I found this old photo *under* my things.
 
   Le chaton s'est caché *parmi* les buissons du jardin.
-  Das Kätzchen hat sich *zwischen* den Büschen im Garten versteckt.
+  The kitten hid *between* the bushes in the garden.
 
   *Parmi* tous ces livres, lequel préfères-tu ?
-  Welches *von* all diesen Büchern magst du am liebsten?
+  Which of these books do you like most?
 
   Elle a été choisie *parmi* des centaines de candidats.
-  Sie wurde *aus* Hunderten von Bewerbern ausgewählt.
+  It was chosen *from* hundreds of applicants.
 
   On peut compter Marie *parmi* nos meilleurs employés.
-  Man kann Marie *zu* unseren besten Mitarbeitern zählen.
+  You can count Marie among our best employees.
 
   *Parmi* la foule, j'ai reconnu un vieil ami.
-  *In* der Menge habe ich einen alten Freund erkannt.
+  *In* the crowd, I recognized an old friend.
 
   Il se sentait perdu *parmi* tant d'inconnus.
-  Er fühlte sich *inmitten* so vieler Unbekannter verloren.
+  He felt lost in the midst of so many unknowns.
 
   *Parmi* les spectateurs, on pouvait voir plusieurs célébrités.
-  *Unter* den Zuschauern konnte man mehrere Prominente sehen.
+  Among *the* spectators you could see several celebrities.
 
   C'est l'un des plus beaux paysages *parmi* ceux que j'ai vus.
-  Das ist eine der schönsten Landschaften *unter* denen, die ich gesehen habe.
+  This is one of the most beautiful landscapes among those I've seen.
 
   *Parmi* ses qualités, on peut citer sa patience et sa gentillesse.
-  *Zu* seinen Eigenschaften gehören seine Geduld und seine Freundlichkeit.
+  His qualities include patience and kindness.
 
   Le renard s'est faufilé *parmi* les poules sans se faire remarquer.
-  Der Fuchs hat sich *unter* die Hühner geschlichen, ohne bemerkt zu werden.
+  The fox snuck *under* the chickens without being noticed.
 
   *Parmi* les options proposées, aucune ne me convient vraiment.
-  *Unter* den vorgeschlagenen Optionen passt keine wirklich zu mir.
+  Among *the* proposed options, none really suits me.
 
   On peut ranger ce mot *parmi* les adjectifs.
-  Man kann dieses Wort *zu* den Adjektiven zählen.
+  One can count this word among the adjectives.
 
   *Parmi* tous mes amis, c'est lui qui me connaît le mieux.
-  *Von* all meinen Freunden kennt er mich am besten.
+  Of all my friends, he knows me best.
 
   Elle se sentait comme un poisson dans l'eau *parmi* les artistes.
-  Sie fühlte sich *unter* den Künstlern wie ein Fisch im Wasser.
+  She felt like a fish in the water among the artists.
 
   *Parmi* les raisons de son succès, on peut citer son travail acharné.
-  *Unter* den Gründen für seinen Erfolg kann man seinen unermüdlichen Fleiß nennen.
+  Among *the* reasons for his success can be called his tireless diligence.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2699
 Wort: survie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la survie
 Femininum / Plural: ''
 IPA: \syʁ.vi\
-Definition: Überleben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Survival
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je peux calculer vos chances de *survie*.
-  Ich kann Ihre *Überlebens*chancen berechnen.
+  I can calculate your chances of *survival*.
 
   La pollution des océans met en danger la *survie* de nombreuses espèces marines.
-  Die Verschmutzung der Ozeane gefährdet das *Überleben* vieler Meeresarten.
+  The pollution of the oceans endangers the *survival* of many marine species.
 
   L'eau et la nourriture sont des questions de *survie*.
-  Wasser und Nahrung sind *Überlebens*fragen.
+  Water and food are *survival* issues.
 
   Cette petite entreprise lutte pour sa *survie*.
-  Dieses kleine Unternehmen kämpft um sein *Überleben*.
+  This small business is fighting for its *survival*.
 
   Les scientifiques étudient la *survie* des cellules dans des conditions extrêmes.
-  Die Wissenschaftler untersuchen das *Überleben* der Zellen unter extremen Bedingungen.
+  The scientists investigate the *survival* of the cells under extreme conditions.
 
   Son instinct de *survie* lui a permis de tenir bon.
-  Sein *Überlebens*instinkt hat ihm geholfen durchzuhalten.
+  His *survival* instinct helped him to endure.
 
   La *survie* du patient après l'opération reste incertaine.
-  Das *Überleben* des Patienten nach der Operation bleibt ungewiss.
+  The patient's *survival* after surgery remains uncertain.
 
   Il faut assurer la *survie* de ces traditions ancestrales.
-  Der *Fortbestand* dieser alten Traditionen muss gesichert werden.
+  The continuation of these old traditions must be ensured.
 
   Certaines religions croient en la *survie* de l'âme après la mort.
-  Manche Religionen glauben an ein *Weiterleben* der Seele nach dem Tod.
+  Some religions believe in the soul's survival after death.
 
   Cette couverture de *survie* peut sauver des vies en montagne.
-  Diese *Überlebens*decke kann in den Bergen Leben retten.
+  This *survival* blanket can save lives in the mountains.
 
   La *survie* de cette civilisation ancienne nous fascine encore aujourd'hui.
-  Der *Fortbestand* dieser alten Zivilisation fasziniert uns noch heute.
+  The *survival* of this ancient civilization still fascinates us today.
 
   Les équipements de *survie* sont obligatoires sur les bateaux.
-  *Überlebens*ausrüstung ist auf Schiffen vorgeschrieben.
+  *Survival* equipment is required on ships.
 
   La *survie* de Mozart à travers ses œuvres est remarquable.
-  Mozarts *Fortleben* durch seine Werke ist bemerkenswert.
+  Mozart's *survival* through his works is remarkable.
 
   Ces rations de *survie* peuvent nourrir une personne pendant une semaine.
-  Diese *Überlebens*rationen können eine Person eine Woche lang ernähren.
+  These *survival* rations can feed a person for a week.
 
   La *survie* de ce petit village dépend du tourisme.
-  Das *Überleben* dieses kleinen Dorfes hängt vom Tourismus ab.
+  The *survival* of this small village depends on tourism.
 
   Les chercheurs ont augmenté le taux de *survie* des patients.
-  Die Forscher haben die *Überlebens*rate der Patienten erhöht.
+  The researchers have increased the *survival* rate of the patients.
 
   Dans ce climat hostile, chaque jour est une lutte pour la *survie*.
-  In diesem feindlichen Klima ist jeder Tag ein Kampf ums *Überleben*.
+  In this hostile climate, every day is a struggle for *survival*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

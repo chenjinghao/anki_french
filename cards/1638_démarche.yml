@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1638
 Wort: démarche
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la démarche
 Femininum / Plural: ''
 IPA: \de.maʁʃ\
-Definition: Gang, Methode
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Gear, method
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *démarche* serait trop longue et trop coûteuse.
-  Das *Vorgehen* wäre zu langwierig und zu kostspielig.
+  The *procedure* would be too long and too costly.
 
   Sa *démarche* légère attirait tous les regards.
-  Sein *Gang* zog alle Blicke auf sich.
+  His gang looked at each other.
 
   Elle a une *démarche* intellectuelle très rigoureuse.
-  Sie hat eine sehr präzise *Denkweise*.
+  She has a very precise mindset.
 
   Nous devons faire plusieurs *démarches* administratives avant de déménager.
-  Wir müssen mehrere behördliche *Schritte* unternehmen, bevor wir umziehen.
+  We need to take several regulatory *steps* before we move.
 
   La *démarche* scientifique exige une grande objectivité.
-  Die wissenschaftliche *Methode* erfordert große Objektivität.
+  The scientific *method* requires great objectivity.
 
   Il faut entreprendre des *démarches* pour obtenir un visa.
-  Man muss *Schritte* unternehmen, um ein Visum zu bekommen.
+  You have to take *steps* to get a visa.
 
   Sa *démarche* claudicante trahissait sa blessure.
-  Sein hinkender *Gang* verriet seine Verletzung.
+  His limping gang betrayed his injury.
 
   La *démarche* de l'auteur dans ce livre est très originale.
-  Der *Ansatz* des Autors in diesem Buch ist sehr originell.
+  The author's *approach* in this book is very original.
 
   Quelle *démarche* dois-je suivre pour porter plainte ?
-  Welches *Verfahren* muss ich einleiten, um Anzeige zu erstatten?
+  What *procedure* do I have to initiate to file a complaint?
 
   Les mannequins s'entraînent pour avoir une *démarche* élégante.
-  Die Models üben, um einen eleganten *Gang* zu haben.
+  The models practice to have an elegant gang.
 
   J'apprécie la *démarche* créative de cet artiste.
-  Ich schätze den kreativen *Prozess* dieses Künstlers.
+  I appreciate the creative *process* of this artist.
 
   Il faut *faire une démarche* auprès du maire pour obtenir cette autorisation.
-  Man muss beim Bürgermeister *vorsprechen*, um diese Genehmigung zu erhalten.
+  You have to call the mayor to get this permit.
 
   Sa *démarche* assurée inspirait confiance.
-  Sein selbstsicherer *Gang* flößte Vertrauen ein.
+  His confident course instilled confidence.
 
   La *démarche* philosophique de Descartes a révolutionné la pensée.
-  Der philosophische Denk*ansatz* von Descartes revolutionierte das Denken.
+  Descartes' philosophical *approach* to thinking revolutionized thinking.
 
   Nous avons entamé des *démarches* pour adopter un enfant.
-  Wir haben *Schritte* eingeleitet, um ein Kind zu adoptieren.
+  We have taken *steps* to adopt a child.
 
   Elle a une *démarche* féline qui la rend très séduisante.
-  Sie hat einen katzenhaften *Gang*, der sie sehr attraktiv macht.
+  She's got a cat-like gang that makes her very attractive.
 
   La *démarche* du gouvernement dans cette affaire est critiquable.
-  Das *Vorgehen* der Regierung in dieser Angelegenheit ist kritikwürdig.
+  The government's action on this matter is worthy of criticism.
 
   Il faut suivre une certaine *démarche* pour résoudre ce problème mathématique.
-  Man muss einen bestimmten Lösungs*weg* verfolgen, um dieses mathematische Problem zu lösen.
+  You have to follow a certain solution to solve this mathematical problem.
 
   Les *démarches* pour obtenir un permis de construire peuvent être complexes.
-  Die *Schritte* zur Erlangung einer Baugenehmigung können komplex sein.
+  The *steps* to obtain a building permit can be complex.
 
   Sa *démarche* chaloupée attirait l'attention dans la rue.
-  Sein wiegender *Gang* zog auf der Straße die Aufmerksamkeit auf sich.
+  His heavy walk drew attention on the street.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

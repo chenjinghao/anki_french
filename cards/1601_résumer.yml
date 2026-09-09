@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1601
 Wort: résumer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: résumer
 Femininum / Plural: ''
 IPA: \ʁe.zy.me\
-Definition: zusammenfassen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: summarizing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les résultats obtenus sont *résumés* dans le tableau.
-  Die Ergebnisse sind in der Tabelle *zusammengefasst*.
+  The results are summarised in the table.
 
   Pourrais-tu *résumer* ton exposé en une page ?
-  Könntest du deinen Vortrag auf einer Seite *zusammenfassen*?
+  Could you sum up your lecture on one page?
 
   Cette peinture *résume* toute une époque de l'histoire de l'art.
-  Dieses Gemälde *bringt* eine ganze Epoche der Kunstgeschichte *auf den Punkt*.
+  This painting brings a whole era of art history to *the* point.
 
   L'élégance et la créativité se *résument* en elle.
-  Sie *verkörpert* Eleganz und Kreativität.
+  It embodies elegance and creativity.
 
   Je vais me *résumer* car je sens que je parle depuis trop longtemps.
-  Ich werde das Gesagte jetzt *zusammenfassen*, da ich merke, dass ich schon zu lange rede.
+  I'm going to sum up what I'm saying now, as I realize that I've been talking too long.
 
   Le professeur a *résumé* le cours en quelques points essentiels.
-  Der Lehrer hat den Unterricht in wenigen wesentlichen Punkten *zusammengefasst*.
+  The teacher has summarized the teaching in a few essential points.
 
   Pour me *résumer*, je ne suis pas d'accord avec cette proposition.
-  Um es *zusammenzufassen*: Ich bin nicht einverstanden mit diesem Vorschlag.
+  To sum it up, I do not agree with this proposal.
 
   Sa vie se *résume* à travailler et dormir.
-  Sein Leben *beschränkt* sich darauf zu arbeiten und zu schlafen.
+  His life is *limited* to working and sleeping.
 
   J'ai *résumé* le roman en trois pages pour mes élèves.
-  Ich habe den Roman für meine Schüler auf drei Seiten *zusammengefasst*.
+  I have summarized the novel for my students on three pages.
 
   Le secrétaire va *résumer* les points principaux de la réunion.
-  Der Sekretär wird die Hauptpunkte der Sitzung *zusammenfassen*.
+  The secretary will summarise the main points of the meeting.
 
   Cette phrase *résume* parfaitement sa personnalité.
-  Dieser Satz *bringt* ihre Persönlichkeit perfekt *auf den Punkt*.
+  This sentence brings her personality to *the* point perfectly.
 
   Sa famille se *résume* à sa mère et son frère.
-  Seine Familie *besteht* nur aus seiner Mutter und seinem Bruder.
+  His family consists only of his mother and brother.
 
   Peux-tu *résumer* l'histoire pour ceux qui viennent d'arriver ?
-  Kannst du die Geschichte für die, die gerade gekommen sind, *zusammenfassen*?
+  Can you sum up the story for those who have just come?
 
   Les conclusions sont *résumées* à la fin du rapport.
-  Die Schlussfolgerungen sind am Ende des Berichts *zusammengefasst*.
+  The conclusions are summarised at the end of the report.
 
   Cette découverte *résume* des années de recherche.
-  Diese Entdeckung *fasst* Jahre der Forschung *zusammen*.
+  This discovery summarizes years of research.
 
   *Résumons* la situation avant de prendre une décision.
-  Lasst uns die Situation *zusammenfassen*, bevor wir eine Entscheidung treffen.
+  Let's summarize the situation before we make a decision.
 
   Son talent se *résume* en trois mots : créativité, passion et persévérance.
-  Sein Talent lässt sich in drei Worten *zusammenfassen*: Kreativität, Leidenschaft und Ausdauer.
+  His talent can be summed up in three words: creativity, passion and perseverance.
 
   L'article *résume* les événements de la semaine dernière.
-  Der Artikel *fasst* die Ereignisse der letzten Woche *zusammen*.
+  The article summarizes the events of the last week.
 
   Cette statistique *résume* bien la tendance actuelle.
-  Diese Statistik *fasst* den aktuellen Trend gut *zusammen*.
+  This statistics summarizes the current trend well.
 
   Elle a *résumé* l'intrigue du film en quelques phrases.
-  Sie hat die Handlung des Films in wenigen Sätzen *zusammengefasst*.
+  She summarized the film's plot in a few sentences.
 
   Le document se *résume* en trois pages.
-  Das Dokument lässt sich auf drei Seiten *zusammenfassen*.
+  The document can be summarised in three pages.
 
   Les changements peuvent se *résumer* ainsi.
-  Die Änderungen lassen sich folgendermaßen *zusammenfassen*.
+  The changes can be summarised as follows.
 
   Pour nous *résumer*, voici les trois points principaux à retenir.
-  Um uns *zusammenzufassen*: Hier sind die drei wichtigsten Punkte, die man sich merken sollte.
+  To sum up, here are the three most important points to remember.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2164
 Wort: rumeur
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la rumeur
 Femininum / Plural: ''
 IPA: \ʁy.mœʁ\
-Definition: Gerücht; Lärm
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Rumor; Noise
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Après plusieurs années de *rumeurs*, le scandale a éclaté.
-  Nach jahrelangen *Gerüchten* kam der Skandal ans Licht.
+  After years of *rumors*, the scandal came to light.
 
   Une *rumeur* inquiétante circule dans l'entreprise : des licenciements seraient prévus.
-  Ein beunruhigendes *Gerücht* macht in der Firma die Runde: Es soll Entlassungen geben.
+  A disturbing *rumor* is going around the company: there are supposed to be layoffs.
 
   Les journalistes ont contribué à propager cette *rumeur* sans fondement.
-  Die Journalisten haben dazu beigetragen, dieses grundlose *Gerücht* zu verbreiten.
+  Journalists have helped to spread this unfounded *rumor*.
 
   La *rumeur* de la ville monte jusqu'à ma fenêtre chaque matin.
-  Der *Lärm* der Stadt dringt jeden Morgen bis zu meinem Fenster herauf.
+  The *noise* of the city goes up to my window every morning.
 
   Une sourde *rumeur* de mécontentement parcourt l'assemblée.
-  Ein dumpfes *Murren* der Unzufriedenheit geht durch die Versammlung.
+  A dull murmuring of dissatisfaction passes through the congregation.
 
   La *rumeur* de l'océan berçait nos soirées sur la plage.
-  Das *Brausen* des Ozeans begleitete unsere Abende am Strand.
+  The roaring of the ocean accompanied our evenings on the beach.
 
   Des *rumeurs* de guerre commencent à se répandre dans le pays.
-  Kriegs*gerüchte* beginnen sich im Land zu verbreiten.
+  War-torn people are starting to spread in the country.
 
   Il faut toujours vérifier l'information avant de faire courir une *rumeur*.
-  Man sollte Informationen immer überprüfen, bevor man ein *Gerücht* in Umlauf bringt.
+  You should always check information before you get a *rumor* circulated.
 
   La *rumeur publique* l'accuse d'avoir volé de l'argent.
-  Die *Gerüchteküche* beschuldigt ihn, Geld gestohlen zu haben.
+  The *rumor kitchen* accuses him of stealing money.
 
   Une vague *rumeur* de conversation nous parvenait du salon.
-  Ein vages *Gemurmel* von Gesprächen drang aus dem Wohnzimmer zu uns.
+  A vague murmuring of conversations came to us from the living room.
 
   Des *rumeurs* de protestation s'élèvent contre cette décision.
-  Gegen diese Entscheidung werden Protest*stimmen* laut.
+  Protest voices are being voiced against this decision.
 
   La *rumeur* joyeuse de la fête résonnait dans tout le quartier.
-  Der fröhliche *Lärm* des Festes hallte durch das ganze Viertel.
+  The cheerful *noise* of the festival echoed throughout the district.
 
   Il est difficile d'étouffer une *rumeur* une fois qu'elle est lancée.
-  Es ist schwierig, ein *Gerücht* zu ersticken, wenn es erst einmal in der Welt ist.
+  It's hard to suffocate a *rumor* once it's in the world.
 
   Une *rumeur* lointaine nous parvenait du stade.
-  Ein entfernter *Lärm* drang vom Stadion zu uns herüber.
+  A distant *noise* came from the stadium to us.
 
   La *rumeur* gronde parmi les employés mécontents.
-  Unter den unzufriedenen Mitarbeitern ist ein *Murren* zu vernehmen.
+  Among the dissatisfied employees is a murmuring to be heard.
 
   Ne prêtez pas foi à cette *rumeur* diffamatoire !
-  Schenken Sie diesem verleumderischen *Gerücht* keinen Glauben!
+  Don't believe this slanderous *rumor*!
 
   Toute la ville est en *rumeur* depuis cette annonce.
-  Die ganze Stadt ist seit dieser Ankündigung in *Aufruhr*.
+  The whole city has been in turmoil since this announcement.
 
   La *rumeur* court qu'il va démissionner.
-  Das *Gerücht* geht um, dass er zurücktreten wird.
+  The *rumor* is that he's going to resign.
 
   Une *rumeur* de dévaluation a secoué les marchés financiers.
-  Ein *Gerücht* über eine Abwertung hat die Finanzmärkte erschüttert.
+  A *rumor* of devaluation has shaken the financial markets.
 
   Les *rumeurs* sans fondement peuvent détruire une réputation.
-  Grundlose *Gerüchte* können einen Ruf zerstören.
+  Unfounded *rumors* can destroy a reputation.
 
   Il faut démentir cette *rumeur* avant qu'elle ne prenne trop d'ampleur.
-  Dieses *Gerücht* muss dementiert werden, bevor es zu große Ausmaße annimmt.
+  This *rumor* must be denied before it takes on too great a scale.
 
   La *rumeur* s'est propagée comme une traînée de poudre.
-  Das *Gerücht* hat sich wie ein Lauffeuer verbreitet.
+  *Rumor* has spread like wildfire.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

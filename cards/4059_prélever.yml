@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4059
 Wort: prélever
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prélever
 Femininum / Plural: ''
 IPA: \pʁe.lə.ve\
-Definition: abheben, entnehmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: take off, take off
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'argent est *prélevé* sur les chèques toutes les semaines.
-  Das Geld wird wöchentlich von den Schecks *abgehoben*.
+  The money is *withdrawn* from the cheques every week.
 
   La banque *prélève* automatiquement le loyer de mon compte chaque mois.
-  Die Bank *zieht* jeden Monat automatisch die Miete von meinem Konto *ab*.
+  The bank automatically deducts the rent *from* my account every month.
 
   L'infirmière va *prélever* un peu de sang pour faire des analyses.
-  Die Krankenschwester wird etwas Blut *abnehmen*, um es zu untersuchen.
+  The nurse will take some blood to check it out.
 
   Les impôts sont *prélevés* directement sur le salaire des employés.
-  Die Steuern werden direkt vom Gehalt der Angestellten *einbehalten*.
+  The taxes are directly *withheld* from the employees' salary.
 
   Le chercheur a *prélevé* des échantillons de terre pour son étude.
-  Der Forscher hat Bodenproben für seine Studie *entnommen*.
+  The researcher has collected soil samples for his study.
 
   On *prélève* une commission de 2% sur chaque transaction.
-  Man *behält* bei jeder Transaktion eine Provision von 2% *ein*.
+  You keep *a* commission of 2% on each transaction.
 
   L'équipe médicale doit *prélever* les organes rapidement après le décès.
-  Das medizinische Team muss die Organe nach dem Tod schnell *entnehmen*.
+  The medical team must quickly remove the organs after death.
 
   Le géologue a *prélevé* plusieurs fragments de roche dans la grotte.
-  Der Geologe hat mehrere Gesteinsfragmente in der Höhle *entnommen*.
+  The geologist has collected several rock fragments in the cave.
 
   La taxe sera *prélevée* sur tous les revenus supérieurs à 50 000 euros.
-  Die Steuer wird von allen Einkommen über 50.000 Euro *abgezogen*.
+  The tax is *deducted* from all income above 50,000 euros.
 
   Le vétérinaire a *prélevé* un petit morceau de tissu pour la biopsie.
-  Der Tierarzt hat ein kleines Gewebestück für die Biopsie *entnommen*.
+  The vet took a small piece of tissue for the biopsy.
 
   Les frais bancaires seront *prélevés* à la fin du mois.
-  Die Bankgebühren werden am Ende des Monats *eingezogen*.
+  Bank charges are *collected* at the end of the month.
 
   Le scientifique *prélève* quelques milligrammes de la substance pour l'analyser.
-  Der Wissenschaftler *entnimmt* einige Milligramm der Substanz zur Analyse.
+  The scientist takes a few milligrams of the substance for analysis.
 
   L'éleveur a *prélevé* trois chiots de la portée pour les garder.
-  Der Züchter hat drei Welpen aus dem Wurf *ausgewählt*.
+  The breeder has *selected* three puppies from the litter.
 
   Le couturier *prélève* un échantillon du tissu pour tester la couleur.
-  Der Schneider *entnimmt* eine Stoffprobe, um die Farbe zu testen.
+  The tailor takes a fabric sample to test the color.
 
   La région *prélève* une nouvelle taxe sur les résidences secondaires.
-  Die Region *erhebt* eine neue Steuer auf Zweitwohnsitze.
+  The region imposes a new tax on second homes.
 
   Le montant sera *prélevé* sur votre compte dans les prochains jours.
-  Der Betrag wird in den nächsten Tagen von Ihrem Konto *abgebucht*.
+  The amount will be debited from your account in the next few days.
 
   Les charges locatives sont *prélevées* trimestriellement.
-  Die Nebenkosten werden vierteljährlich *eingezogen*.
+  The ancillary costs are *collected* quarterly.
 
   Le laboratoire a *prélevé* des cellules pour effectuer des tests génétiques.
-  Das Labor hat Zellen für genetische Tests *entnommen*.
+  The lab's *taken* cells for genetic testing.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

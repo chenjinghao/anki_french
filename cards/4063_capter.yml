@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4063
 Wort: capter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: capter
 Femininum / Plural: ''
 IPA: \kap.te\
-Definition: erfassen, einfangen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: capture, capture
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Puis ses yeux *captèrent* un mouvement.
-  Dann *nahmen* seine Augen eine Bewegung *wahr*.
+  Then his eyes noticed a movement.
 
   Le panneau solaire *capte* l'énergie du soleil pour chauffer l'eau.
-  Das Sonnenpanel *fängt* die Sonnenenergie zum Wassererhitzen *ein*.
+  The solar panel captures the solar energy for water heating.
 
   J'ai enfin réussi à *capter* le signal WiFi dans le jardin.
-  Endlich habe ich das WLAN-Signal im Garten *empfangen*.
+  Finally I *received* the wireless signal in the garden.
 
   "Je ne *capte* pas ce que tu veux dire."
-  "Ich *kriege* nicht *mit*, was du sagen willst."
+  "I don't get what you want to say."
 
   L'orateur a su *capter* l'attention de tout l'auditoire.
-  Der Redner hat die Aufmerksamkeit des ganzen Publikums zu *fesseln* gewusst.
+  The speaker has known to captivate the attention of the whole audience.
 
   Cette ville *capte* l'eau d'une source naturelle dans la montagne.
-  Diese Stadt *fasst* das Wasser einer natürlichen Quelle in den Bergen.
+  This city *holds* the water of a natural spring in the mountains.
 
   Mon nouveau téléphone *capte* mal dans cette zone.
-  Mein neues Handy *hat* schlechten *Empfang* in dieser Gegend.
+  My new phone *has* a bad *reception* in this area.
 
   Les panneaux photovoltaïques *captent* plus d'énergie en été.
-  Die Photovoltaikmodule *fangen* im Sommer mehr Energie *ein*.
+  Photovoltaic modules capture more energy in the summer.
 
   Cette antenne permet de *capter* les émissions en haute définition.
-  Diese Antenne ermöglicht es, die Sendungen in HD zu *empfangen*.
+  This antenna allows to receive the broadcasts in HD.
 
   Le dispositif *capte* les mouvements et déclenche l'alarme.
-  Die Vorrichtung *nimmt* Bewegungen *wahr* und löst den Alarm aus.
+  The device detects movements and triggers the alarm.
 
   "Tu *captes* maintenant pourquoi je suis en colère ?"
-  "*Checkst* du jetzt, warum ich wütend bin?"
+  "Now you *check* why I'm angry?"
 
   La municipalité a décidé de *capter* la source pour alimenter la ville.
-  Die Gemeinde hat beschlossen, die Quelle zu *fassen*, um die Stadt zu versorgen.
+  *The* municipality has decided to capture the source to supply the city.
 
   Le nouveau professeur sait *capter* l'intérêt des élèves.
-  Der neue Lehrer weiß das Interesse der Schüler zu *fesseln*.
+  The new teacher knows how to captivate the interest of the students.
 
   Les chercheurs tentent de *capter* les ondes gravitationnelles.
-  Die Forscher versuchen, die Gravitationswellen *einzufangen*.
+  The researchers are trying to *capture* the gravitational waves.
 
   Ce microphone ultra-sensible peut *capter* les sons les plus faibles.
-  Dieses hochempfindliche Mikrofon kann die leisesten Töne *aufnehmen*.
+  This highly sensitive microphone can *record* the quietest tones.
 
   Notre radio ne *capte* plus cette station depuis hier.
-  Unser Radio *empfängt* diesen Sender seit gestern nicht mehr.
+  Our radio hasn't *received* this station since yesterday.
 
   Le capteur *capte* la chaleur et régule la température.
-  Der Sensor *nimmt* die Wärme *wahr* und reguliert die Temperatur.
+  The sensor detects the heat and regulates the temperature.
 
   Ces arbres *captent* le CO<sub>2</sub> de l'atmosphère.
-  Diese Bäume *nehmen* das CO<sub>2</sub> aus der Atmosphäre *auf*.
+  These trees absorb CO2 from the atmosphere.
 
   L'artiste a su *capter* l'essence même du paysage.
-  Der Künstler hat das Wesen der Landschaft *einzufangen* verstanden.
+  The artist has understood the nature of the landscape.
 
   "Je ne *capte* plus rien depuis que nous sommes dans le tunnel."
-  "Ich *empfange* nichts mehr, seit wir im Tunnel sind."
+  "I haven't *received* anything since we've been in the tunnel."
 
   Le nouveau roman de cet auteur *capte* immédiatement l'attention du lecteur.
-  Der neue Roman dieses Autors *fesselt* sofort die Aufmerksamkeit des Lesers.
+  The new novel by this author immediately captivates the reader's attention.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

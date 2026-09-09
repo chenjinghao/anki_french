@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4240
 Wort: verbal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: verbal
 Femininum / Plural: verbale
 IPA: \vɛʁ.bal\
-Definition: mündlich, sprachlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: oral, linguistic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On ne parle que de beauté *verbale*.
-  Man spricht nur von *sprachlicher* Schönheit.
+  It's only a word of linguistic beauty.
 
   La violence *verbale* peut faire autant de mal que la violence physique.
-  *Verbale* Gewalt kann genauso schmerzhaft sein wie körperliche Gewalt.
+  *Verbal* violence can be as painful as physical violence.
 
   Cette explication purement *verbale* ne suffit pas pour comprendre le concept.
-  Diese rein *wörtliche* Erklärung reicht nicht aus, um das Konzept zu verstehen.
+  This purely *literal* explanation is not enough to understand the concept.
 
   J'ai reçu une promesse *verbale* de mon patron concernant l'augmentation.
-  Ich habe von meinem Chef eine *mündliche* Zusage bezüglich der Gehaltserhöhung bekommen.
+  I got an *oral* confirmation from my boss about the raise.
 
   Les tests *verbaux* sont une partie importante de l'évaluation psychologique.
-  *Sprachliche* Tests sind ein wichtiger Teil der psychologischen Bewertung.
+  *Language* tests are an important part of psychological evaluation.
 
   Il faut identifier la terminaison *verbale* pour conjuguer correctement.
-  Man muss die *Verb*endung erkennen, um richtig zu konjugieren.
+  You have to recognize the desecration to conjugate correctly.
 
   Sur le plan *verbal*, elle s'exprime très bien en trois langues.
-  Auf *sprachlicher* Ebene drückt sie sich in drei Sprachen sehr gut aus.
+  On a linguistic level, it is very well expressed in three languages.
 
   Notre accord *verbal* n'a aucune valeur juridique.
-  Unsere *mündliche* Vereinbarung hat keine rechtliche Gültigkeit.
+  Our *oral* agreement is not legally valid.
 
   Les locutions *verbales* sont essentielles pour parler couramment.
-  *Verbale* Wendungen sind wesentlich für das fließende Sprechen.
+  *Verbal* phrases are essential for fluent speech.
 
   L'adjectif *verbal* se forme à partir du participe présent.
-  Das *Verbal*adjektiv wird aus dem Partizip Präsens gebildet.
+  The *verbal* adjective is formed from the participle present.
 
   Une communication non *verbale* peut être plus efficace qu'un long discours.
-  Eine nicht-*verbale* Kommunikation kann wirksamer sein als eine lange Rede.
+  Non-*verbal* communication can be more effective than a long speech.
 
   Les désinences *verbales* varient selon le temps et la personne.
-  Die *Verb*endungen ändern sich je nach Zeit und Person.
+  The verbs change according to time and person.
 
   Un contrat *verbal* n'est pas aussi sûr qu'un contrat écrit.
-  Ein *mündlicher* Vertrag ist nicht so sicher wie ein schriftlicher.
+  An *oral* contract is not as secure as a written one.
 
   Son expression *verbale* s'est beaucoup améliorée depuis qu'elle prend des cours.
-  Ihr *sprachlicher* Ausdruck hat sich seit dem Unterricht stark verbessert.
+  Their linguistic expression has improved greatly since the teaching.
 
   Les abus *verbaux* peuvent laisser des cicatrices émotionnelles profondes.
-  *Verbaler* Missbrauch kann tiefe emotionale Narben hinterlassen.
+  *Verbal* abuse can leave deep emotional scars.
 
   Cette proposition *verbale* est construite de façon incorrecte.
-  Dieser *Verbal*satz ist falsch konstruiert.
+  This *verbal* set is wrongly constructed.
 
   Son talent *verbal* lui permet de convaincre facilement les autres.
-  Ihre *sprachliche* Begabung ermöglicht es ihr, andere leicht zu überzeugen.
+  Her linguistic talent allows her to convince others easily.
 
   Les instructions *verbales* doivent être claires et précises.
-  *Mündliche* Anweisungen müssen klar und präzise sein.
+  *Oral* instructions must be clear and precise.
 
   L'agressivité *verbale* n'a pas sa place dans une discussion constructive.
-  *Verbale* Aggressivität hat in einer konstruktiven Diskussion keinen Platz.
+  *Verbal* aggression has no place in a constructive discussion.
 
   Les échanges *verbaux* entre les deux politiciens sont devenus houleux.
-  Der *verbale* Austausch zwischen den beiden Politikern wurde stürmisch.
+  The *verbal* exchange between the two politicians became stormy.
 
   L'analyse *verbale* de ce poème révèle sa richesse stylistique.
-  Die *sprachliche* Analyse dieses Gedichts offenbart seinen stilistischen Reichtum.
+  The linguistic analysis of this poem reveals its stylistic richness.
 
   Le groupe *verbal* est l'élément central de cette phrase.
-  Die *Verbal*gruppe ist das zentrale Element dieses Satzes.
+  The *verbal* group is the central element of this sentence.
 
   Cette thérapie se concentre sur la communication *verbale*.
-  Diese Therapie konzentriert sich auf *verbale* Kommunikation.
+  This therapy focuses on *verbal* communication.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>oral</i> und <i>verbal</i></div>
+    <div class="section-title"><i>oral</i> and <i>verbal</i></div>
     <div class="section-content">
-      <p><span class="fr">Oral</span> (#4114) bedeutet <span class="de">"mündlich"</span> und bezieht sich spezifisch auf gesprochene Sprache oder Kommunikation durch den Mund.</p>
+      <p><span class="fr">Oral</span> (#4114) means <span class="de">"Orally"</span> and refers specifically to spoken language or communication through the mouth.</p>
       <div class="examples">
         <div class="fr">L'examen oral aura lieu demain matin.</div>
-        <div class="de spoiler">Die mündliche Prüfung findet morgen Vormittag statt.</div>
+        <div class="de spoiler">The oral exam will take place tomorrow morning.</div>
         <div class="fr">Il a donné son accord oral, mais pas encore écrit.</div>
-        <div class="de spoiler">Er hat seine mündliche, aber noch nicht schriftliche Zustimmung gegeben.</div>
+        <div class="de spoiler">He has given his oral but not yet written consent.</div>
       </div>
-      <p><span class="fr">Verbal</span> bedeutet <span class="de">"sprachlich"</span> oder <span class="de">"wörtlich"</span> und bezieht sich auf Sprache im Allgemeinen, sowohl gesprochen als auch geschrieben. Es kann auch <span class="de">"wortgetreu"</span> bedeuten.</p>
+      <p><span class="fr">Verbal</span> means <span class="de">"Speaking"</span> or <span class="de">"literally"</span> and refers to language in general, both spoken and written. It can also <span class="de">"wortgetreu"</span> bedeuten.</p>
       <div class="examples">
         <div class="fr">Son intelligence verbale est remarquable.</div>
-        <div class="de spoiler">Seine sprachliche Intelligenz ist bemerkenswert.</div>
+        <div class="de spoiler">His linguistic intelligence is remarkable.</div>
         <div class="fr">Il a fait une traduction verbale du texte.</div>
-        <div class="de spoiler">Er hat eine wörtliche Übersetzung des Textes gemacht.</div>
+        <div class="de spoiler">He has made a literal translation of the text.</div>
       </div>
     </div>
   </div>

@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2807
 Wort: gène
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le gène
 Femininum / Plural: ''
 IPA: \ʒɛn\
 Definition: Gen
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils collent des *gènes* ensemble, je crois.
-  Ich glaube, sie kleben *Gene* zusammen.
+  I think they stick *genes* together.
 
   Les scientifiques ont identifié un *gène* responsable de cette maladie rare.
-  Die Wissenschaftler haben ein *Gen* identifiziert, das für diese seltene Krankheit verantwortlich ist.
+  The scientists have identified a gene responsible for this rare disease.
 
   L'ADN est le constituant principal des *gènes*.
-  DNA ist der Hauptbestandteil von *Genen*.
+  DNA is the main component of *genes*.
 
   Chaque *gène* occupe un endroit précis sur un chromosome donné.
-  Jedes *Gen* nimmt einen bestimmten Platz auf einem gegebenen Chromosom ein.
+  Each gene occupies a specific place on a given chromosome.
 
   Les *gènes* dirigent la synthèse des protéines dans nos cellules.
-  *Gene* steuern die Proteinsynthese in unseren Zellen.
+  *Genes* control protein synthesis in our cells.
 
   Une mutation d'un *gène* peut parfois entraîner des maladies héréditaires.
-  Eine Mutation eines *Gens* kann manchmal zu Erbkrankheiten führen.
+  A mutation of a gene can sometimes lead to hereditary diseases.
 
   Les *gènes* allèles sont différentes versions d'un même *gène*.
-  Allele *Gene* sind verschiedene Versionen desselben *Gens*.
+  Allele *genes* are different versions of the same gene.
 
   Ce caractère est déterminé par un *gène* dominant.
-  Dieses Merkmal wird durch ein dominantes *Gen* bestimmt.
+  This characteristic is determined by a dominant gene.
 
   Les biologistes étudient comment les *gènes* se transmettent d'une génération à l'autre.
-  Biologen untersuchen, wie *Gene* von einer Generation zur nächsten weitergegeben werden.
+  Biologists study how *genes* are passed from one generation to the next.
 
   Le séquençage des *gènes* a révolutionné la recherche médicale.
-  Die Sequenzierung von *Genen* hat die medizinische Forschung revolutioniert.
+  The sequencing of *genes* has revolutionized medical research.
 
   Certains *gènes* peuvent être activés ou désactivés en fonction de l'environnement.
-  Bestimmte *Gene* können je nach Umweltbedingungen an- oder abgeschaltet werden.
+  Certain *genes* can be switched on or off depending on environmental conditions.
 
   Les *gènes* jouent un rôle crucial dans le développement embryonnaire.
-  *Gene* spielen eine entscheidende Rolle in der embryonalen Entwicklung.
+  *Genes* play a crucial role in embryonic development.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

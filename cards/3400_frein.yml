@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3400
 Wort: frein
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le frein
 Femininum / Plural: ''
 IPA: \fʁɛ̃\
-Definition: Bremse
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Brake
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vos *freins* marchent pas ?
-  Funktionieren Ihre *Bremsen* nicht?
+  Your *brakes* don't work?
 
   Ce vélo est équipé de *freins* à disque.
-  Dieses Fahrrad ist mit Scheiben*bremsen* ausgestattet.
+  This bike is equipped with disc brakes.
 
   La voiture a des *freins* hydrauliques puissants.
-  Das Auto hat starke hydraulische *Bremsen*.
+  The car has strong hydraulic *brakes*.
 
   Le *frein* à main est bloqué.
-  Die Hand*bremse* klemmt.
+  The handbrake is stuck.
 
   Elle a actionné le *frein* moteur dans la descente.
-  Sie hat beim Bergabfahren die Motor*bremse* eingesetzt.
+  She used the engine *brake* when driving down the mountain.
 
   Les *freins* de secours ont sauvé notre vie.
-  Die Not*bremsen* haben unser Leben gerettet.
+  The emergency brakes saved our lives.
 
   J'ai dû changer les *freins* à tambour de ma voiture.
-  Ich musste die Trommel*bremsen* meines Autos austauschen.
+  I had to replace the drum brakes of my car.
 
   Le système des *freins* assistés facilite le freinage.
-  Das Servo*brems*system erleichtert das Bremsen.
+  The servo braking system facilitates braking.
 
   Il faut mettre un *frein* à ces dépenses inutiles.
-  Man muss diese unnötigen Ausgaben *bremsen*.
+  You have to slow down these unnecessary expenses.
 
   "Il *ronge son frein* depuis des heures dans la salle d'attente."
-  "Er *zügelt nur mühsam seine Ungeduld* im Wartezimmer."
+  "He's only laboriously restraining his impatience in the waiting room."
 
   Son ambition ne connaît aucun *frein*.
-  Sein Ehrgeiz kennt keine *Grenzen*.
+  His ambition knows no bounds.
 
   Le gouvernement a mis un *frein* à l'inflation.
-  Die Regierung hat die Inflation *gebremst*.
+  The government has slowed down inflation.
 
   La police a donné un coup de *frein* à la criminalité.
-  Die Polizei hat der Kriminalität *Einhalt* geboten.
+  The police have stopped crime.
 
   Le *frein* de sécurité s'est déclenché automatiquement.
-  Die Blockier*bremse* wurde automatisch ausgelöst.
+  The *brake* has been triggered automatically.
 
   Les *freins* avant sont plus usés que les freins arrière.
-  Die Vorderrad*bremsen* sind stärker abgenutzt als die Hinterradbremsen.
+  The front brakes are more worn than the rear brakes.
 
   Le mécanicien vérifie le *frein* parking.
-  Der Mechaniker überprüft die Feststell*bremse*.
+  The mechanic checks the parking *brake*.
 
   La pédale de *frein* est très sensible.
-  Das *Brems*pedal ist sehr empfindlich.
+  The *brake* pedal is very sensitive.
 
   Les *freins* ont lâché dans la descente.
-  Die *Bremsen* haben am Hang versagt.
+  The *brakes* failed on the slope.
 
   Une imagination sans *frein* peut être dangereuse.
-  Eine *zügellose* Fantasie kann gefährlich sein.
+  A loose imagination can be dangerous.
 
   L'honneur est un *frein* moral puissant.
-  Die Ehre ist eine starke moralische *Schranke*.
+  Honor is a strong moral barrier.
 
   Le chirurgien a opéré le *frein* de la langue.
-  Der Chirurg hat das Zungen*bändchen* operiert.
+  The surgeon operated on the tongue ribbon.
 
   Elle a appuyé sur le *frein* juste à temps.
-  Sie hat gerade noch rechtzeitig auf die *Bremse* getreten.
+  She hit the brakes just in time.
 
   Les *freins* à quatre roues assurent une meilleure stabilité.
-  Die Vierrad*bremsen* sorgen für bessere Stabilität.
+  The four-wheel brakes ensure better stability.
 
   Le *frein* d'écrou empêche le desserrage.
-  Die Sicherungs*scheibe* verhindert das Lösen der Mutter.
+  The fuse disc prevents the mother from loosening.
 
   Le canon est équipé d'un *frein* hydropneumatique.
-  Die Kanone ist mit einer hydropneumatischen Rücklauf*bremse* ausgestattet.
+  The cannon is equipped with a hydropneumatic return *brake*.
 
   "Je commence à *ronger mon frein* avec toute cette attente !"
-  "Ich *werde* langsam *ungeduldig* bei der ganzen Warterei!"
+  "I'm getting *impatient* with all the waiting!"
 
   Les pêcheurs utilisent un *frein* pour contrôler la ligne.
-  Die Angler verwenden eine Rücklauf*sperre* zur Kontrolle der Schnur.
+  The anglers use a return *lock* to control the cord.
 
   Cette passion sans *frein* l'a conduit à sa perte.
-  Diese *ungezügelte* Leidenschaft hat ihn ins Verderben gestürzt.
+  This *unbridled* passion has plunged him into perdition.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1982
 Wort: multiplier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: multiplier
 Femininum / Plural: ''
 IPA: \myl.ti.pli.je\
-Definition: vervielfachen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Multiplies
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous sommes maintenant en train de *multiplier* le danger nucléaire.
-  Wir sind dabei, die nukleare Gefahr zu *vervielfachen*.
+  We are in the process of multiplying the nuclear threat.
 
   Sept *multiplié* par trois fait vingt-et-un.
-  Sieben *mal* drei ergibt einundzwanzig.
+  Seven *times* three makes twenty-one.
 
   Les bactéries se *multiplient* rapidement dans un environnement chaud et humide.
-  Bakterien *vermehren* sich schnell in einer warmen und feuchten Umgebung.
+  Bacteria quickly multiply in a warm and humid environment.
 
   Pierre a dû *multiplier* les démarches pour obtenir son visa.
-  Pierre musste seine Bemühungen *verstärken*, um sein Visum zu bekommen.
+  Pierre had to step up his efforts to get his visa.
 
   Il faut *multiplier* les efforts si nous voulons réussir.
-  Wir müssen unsere Anstrengungen *vervielfachen*, wenn wir erfolgreich sein wollen.
+  We must multiply our efforts if we are to succeed.
 
   Le jardinier *multiplie* ses rosiers par bouture.
-  Der Gärtner *vermehrt* seine Rosenstöcke durch Stecklinge.
+  The gardener increases his rose sticks by cuttings.
 
   Anne se *multiplie* pour organiser la fête d'anniversaire de sa fille.
-  Anne ist bei der Organisation der Geburtstagsfeier ihrer Tochter überall *zugleich*.
+  Anne is *at the same time* organizing her daughter's birthday party.
 
   Les incidents se *multiplient* dans ce quartier depuis quelques mois.
-  Die Vorfälle *häufen* sich seit einigen Monaten in diesem Viertel.
+  The incidents have been increasing in this neighborhood for several months.
 
   Pour résoudre ce problème, nous devons *multiplier* douze par quatre.
-  Um diese Aufgabe zu lösen, müssen wir zwölf mit vier *multiplizieren*.
+  To solve this problem, we have to *multiply* twelve by four.
 
   Les restaurants se sont *multipliés* dans notre rue.
-  Die Restaurants haben sich in unserer Straße *vermehrt*.
+  The restaurants have *increased* in our street.
 
   Marie *multiplie* les visites chez le médecin ces derniers temps.
-  Marie *häuft* in letzter Zeit die Arztbesuche.
+  Marie's been piling up the doctor's visits lately.
 
   Cette espèce de papillons se *multiplie* de façon inquiétante.
-  Diese Schmetterlingsart *vermehrt* sich besorgniserregend.
+  This species of butterfly is increasing alarmingly.
 
   Le professeur nous a demandé de *multiplier* vingt-cinq par trois.
-  Der Lehrer hat uns aufgefordert, fünfundzwanzig mit drei zu *multiplizieren*.
+  The teacher has asked us to *multiply* twenty-five by three.
 
   Les erreurs se *multiplient* dans son travail depuis quelque temps.
-  Die Fehler *häufen* sich seit einiger Zeit in seiner Arbeit.
+  The mistakes have been increasing in his work for some time.
 
   Il faut *multiplier* ce nombre par un facteur de deux.
-  Man muss diese Zahl mit dem Faktor zwei *multiplizieren*.
+  You have to *multiply* this number by the factor two.
 
   Ces mauvaises herbes se *multiplient* très vite dans mon jardin.
-  Dieses Unkraut *vermehrt* sich sehr schnell in meinem Garten.
+  This weed is growing very quickly in my garden.
 
   Le patron se *multiplie* pour satisfaire tous ses clients.
-  Der Chef ist überall *zugleich*, um alle seine Kunden zufriedenzustellen.
+  The boss is everywhere *at the same time* to satisfy all his customers.
 
   L'entreprise a *multiplié* ses profits par trois en un an.
-  Das Unternehmen hat seine Gewinne in einem Jahr *verdreifacht*.
+  The company has *tripled* its profits in one year.
 
   Les obstacles semblent se *multiplier* sur notre chemin.
-  Die Hindernisse scheinen sich auf unserem Weg zu *häufen*.
+  The obstacles seem to pile up on our way.
 
   Nous devons *multiplier* nos sources d'énergie renouvelable.
-  Wir müssen unsere erneuerbaren Energiequellen *vervielfachen*.
+  We must multiply our renewable energy sources.
 
   Paul *multiplie* les avertissements, mais personne ne l'écoute.
-  Paul *wiederholt* seine Warnungen, aber niemand hört auf ihn.
+  Paul repeats his warnings, but no one listens to him.
 
   Les exemples se *multiplient* dans son exposé.
-  Die Beispiele *häufen* sich in seinem Vortrag.
+  The examples are accumulated in his lecture.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

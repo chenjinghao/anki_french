@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4043
 Wort: tâcher
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: tâcher
 Femininum / Plural: ''
 IPA: \tɑ.ʃe\
-Definition: versuchen, sich bemühen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: try to make an effort
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Tâchez* donc à faire plus simple.
-  *Versuchen* Sie es doch etwas einfacher zu machen.
+  Why don't you try and make it a little easier?
 
   Je *tâcherai* de terminer ce travail avant demain.
-  Ich werde *versuchen*, diese Arbeit bis morgen zu beenden.
+  I'll *try* to finish this work by tomorrow.
 
   Nous *tâchons* que tout soit prêt pour votre arrivée.
-  Wir *sorgen* dafür, dass alles für Ihre Ankunft bereit ist.
+  We will make sure that everything is ready for your arrival.
 
   *Tâchez* d'être à l'heure cette fois-ci !
-  *Sehen Sie zu*, dass Sie diesmal pünktlich sind!
+  Make sure you're on time this time!
 
   Elle *tâche* de comprendre les mathématiques.
-  Sie *bemüht* sich, Mathematik zu verstehen.
+  She's trying to understand mathematics.
 
   *Tâchez* que personne ne soit dérangé pendant la réunion.
-  *Sorgen* Sie dafür, dass niemand während der Besprechung gestört wird.
+  Make sure no one gets disturbed during the meeting.
 
   Les étudiants *tâchent* d'apprendre le vocabulaire par cœur.
-  Die Studenten *bemühen* sich, den Wortschatz auswendig zu lernen.
+  The students try to memorize the vocabulary.
 
   Je *tâcherai* que tout soit parfait pour la fête.
-  Ich werde dafür *sorgen*, dass alles perfekt für die Party ist.
+  I'll make sure everything's perfect for the party.
 
   *Tâchez* de ne pas faire de bruit en rentrant.
-  *Versuchen* Sie, keine Geräusche zu machen, wenn Sie zurückkommen.
+  Try not to make any noise when you come back.
 
   Il *tâche* d'économiser de l'argent chaque mois.
-  Er *versucht* jeden Monat Geld zu sparen.
+  He tries to save money every month.
 
   *Tâchez* que cette erreur ne se reproduise plus.
-  *Sehen Sie zu*, dass dieser Fehler nicht wieder vorkommt.
+  Make sure that this error does not occur again.
 
   Nous *tâcherons* de vous tenir informés.
-  Wir werden *versuchen*, Sie auf dem Laufenden zu halten.
+  We will *try* to keep you informed.
 
   Elle *tâchait* de ne pas pleurer devant les enfants.
-  Sie *versuchte*, vor den Kindern nicht zu weinen.
+  She *tried* not to cry before the children.
 
   *Tâchez* de rester calme pendant l'entretien.
-  *Bemühen* Sie sich, während des Gesprächs ruhig zu bleiben.
+  Try to stay calm during the conversation.
 
   Je *tâche* que tout le monde soit satisfait du résultat.
-  Ich *sorge* dafür, dass alle mit dem Ergebnis zufrieden sind.
+  I'll make sure everyone's happy with the result.
 
   Il faut *tâcher* de voir le bon côté des choses.
-  Man muss *versuchen*, die positive Seite der Dinge zu sehen.
+  You have to *try* to see the positive side of things.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>s'efforcer</i> und <i>tâcher</i></div>
+    <div class="section-title"><i>s'efforcer</i> and <i>tâcher</i></div>
     <div class="section-content">
-      <p><span class="fr">S'efforcer</span> (#2041) bedeutet <span class="de">"sich anstrengen"</span> oder <span class="de">"sich bemühen"</span> und betont die Anstrengung und den Einsatz, den man aufbringt, um etwas zu erreichen.</p>
+      <p><span class="fr">S'efforcer</span> (#2041) means <span class="de">"sich anstrengen"</span> or <span class="de">"trying"</span> and emphasizes the effort and effort you make to achieve something.</p>
       <div class="examples">
         <div class="fr">Elle s'efforce de parler français sans accent.</div>
-        <div class="de spoiler">Sie strengt sich an, Französisch ohne Akzent zu sprechen.</div>
+        <div class="de spoiler">She's trying to speak French without an accent.</div>
         <div class="fr">Nous nous efforçons de respecter les délais.</div>
-        <div class="de spoiler">Wir bemühen uns, die Fristen einzuhalten.</div>
+        <div class="de spoiler">We strive to meet the deadlines.</div>
       </div>
-      <p><span class="fr">Tâcher</span> bedeutet <span class="de">"versuchen"</span> oder <span class="de">"sich bemühen"</span> und ist weniger intensiv als <span class="fr">s'efforcer</span>. Es drückt eine Absicht oder einen Versuch aus, ohne die gleiche Betonung auf Anstrengung zu legen.</p>
+      <p><span class="fr">Tâcher</span> means <span class="de">"versuchen"</span> or <span class="de">"trying"</span> and is less intense than <span class="fr">s'efforcer</span>It expresses an intention or an attempt without putting the same emphasis on effort.</p>
       <div class="examples">
         <div class="fr">Je vais tâcher de venir avant midi.</div>
-        <div class="de spoiler">Ich werde versuchen, vor Mittag zu kommen.</div>
+        <div class="de spoiler">I'll try to come before noon.</div>
         <div class="fr">Tâchez de ne pas faire de bruit.</div>
-        <div class="de spoiler">Versuchen Sie, keinen Lärm zu machen.</div>
+        <div class="de spoiler">Try not to make any noise.</div>
       </div>
     </div>
   </div>

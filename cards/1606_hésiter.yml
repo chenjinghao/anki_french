@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1606
 Wort: hésiter
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hésiter
 Femininum / Plural: ''
 IPA: \e.zi.te\
-Definition: zögern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Hesitant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   N'*hésitez* pas à les appeler.
-  *Zögern* Sie nicht, sie anzurufen.
+  Don't hesitate to call her.
 
   Il a répondu sans *hésiter* à ma question.
-  Er hat meine Frage ohne zu *zögern* beantwortet.
+  He answered my question without hesitation.
 
   Elle *hésite* entre le rouge et le bleu pour sa nouvelle voiture.
-  Sie *schwankt* zwischen Rot und Blau für ihr neues Auto.
+  It varies between red and blue for her new car.
 
   J'*hésite* encore sur le choix du restaurant.
-  Ich bin mir über die Wahl des Restaurants noch *unschlüssig*.
+  I'm still unsure about the choice of the restaurant.
 
   Il *hésitait* à lui dire la vérité.
-  Er *zögerte*, ihr die Wahrheit zu sagen.
+  He hesitated to tell her the truth.
 
   S'il te plaît, n'*hésite* pas à me dire ce que tu penses.
-  Bitte *scheue dich nicht*, mir zu sagen, was du denkst.
+  Please *don't be afraid* to tell me what you think.
 
   Le cheval *hésita* devant l'obstacle, puis le franchit.
-  Das Pferd *zögerte* vor dem Hindernis, dann übersprang es dieses.
+  The horse hesitated in front of the obstacle, then it jumped over it.
 
   En récitant son poème, il *hésitait* sur certains mots.
-  Beim Aufsagen seines Gedichts *stockte* er bei manchen Wörtern.
+  When he recited his poem, he stopped in some words.
 
   J'ai longtemps *hésité* avant d'accepter ce nouveau poste.
-  Ich habe lange *gezaudert*, bevor ich die neue Stelle annahm.
+  I've been chatting for a long time before I accepted the new job.
 
   "Je ne sais pas... j'*hésite* encore."
-  "Ich weiß nicht... ich bin mir noch *unsicher*."
+  "I don't know... I'm still unsure."
 
   Il *hésite* toujours quand il parle en public.
-  Er *stockt* immer, wenn er in der Öffentlichkeit spricht.
+  He's always stalling when he speaks in public.
 
   N'*hésite* pas à demander de l'aide si tu en as besoin.
-  *Zögere* nicht, um Hilfe zu bitten, wenn du welche brauchst.
+  Do not hesitate to ask for help if you need any.
 
   Elle *hésitait* sur la marche à suivre.
-  Sie war sich über das weitere Vorgehen *unschlüssig*.
+  She was unsure about the way forward.
 
   Je n'*hésiterai* pas à appeler la police si nécessaire.
-  Ich werde nicht *zögern*, die Polizei zu rufen, wenn es nötig ist.
+  I won't hesitate to call the police if it's necessary.
 
   Les invités *hésitaient* entre le poisson et la viande.
-  Die Gäste *schwankten* zwischen Fisch und Fleisch.
+  *The* guests fluctuated between fish and meat.
 
   La voiture *hésita* un instant avant de redémarrer.
-  Das Auto *stockte* einen Moment, bevor es wieder ansprang.
+  The car stalled for a moment before it started again.
 
   Il *hésite* encore à lui avouer ses sentiments.
-  Er *zögert* noch, ihr seine Gefühle zu gestehen.
+  He's still *hesitant* to confess his feelings to her.
 
   Sans *hésiter* une seconde, elle a sauté dans l'eau.
-  Ohne eine Sekunde zu *zögern*, sprang sie ins Wasser.
+  Without hesitation, she jumped into the water.
 
   Elle *hésite* à s'engager dans cette relation.
-  Sie *zaudert*, sich auf diese Beziehung einzulassen.
+  She's been waiting to get involved in this relationship.
 
   J'*hésite* entre partir en vacances ou économiser l'argent.
-  Ich *schwanke* zwischen Urlaub machen und Geld sparen.
+  I'm floating between vacationing and saving money.
 
   Le guide *hésita* sur le chemin à prendre.
-  Der Führer war sich über den einzuschlagenden Weg *unschlüssig*.
+  The leader was unsure about the path to be followed.
 
   N'*hésitez* pas à poser des questions pendant le cours.
-  *Scheuen Sie sich nicht*, während des Unterrichts Fragen zu stellen.
+  *Don't be afraid* to ask questions during class.
 
   L'enfant *hésitait* devant le plongeoir.
-  Das Kind *zögerte* vor dem Sprungbrett.
+  The child hesitated in front of the springboard.
 
   Je n'*hésite* jamais à dire ce que je pense.
-  Ich *zögere* nie, zu sagen, was ich denke.
+  I never hesitate to say what I think.
 
   L'acteur *hésita* un moment avant de continuer son texte.
-  Der Schauspieler *stockte* einen Moment, bevor er seinen Text fortsetzte.
+  The actor stalled a moment before he continued his text.
 
   Elle *hésite* encore à déménager dans une autre ville.
-  Sie *zaudert* noch, in eine andere Stadt zu ziehen.
+  She's still waiting to move to another city.
 
   Il a *hésité* longtemps avant de prendre sa décision.
-  Er hat lange *gezögert*, bevor er seine Entscheidung traf.
+  He hesitated a long time before making his decision.
 
   Le client *hésitait* entre plusieurs modèles.
-  Der Kunde *schwankte* zwischen mehreren Modellen.
+  *The* customer fluctuated between several models.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

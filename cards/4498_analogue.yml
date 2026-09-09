@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4498
 Wort: analogue
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un analogue
 Femininum / Plural: ''
 IPA: \a.na.lɔɡ\
-Definition: ähnlich, vergleichbar; Entsprechung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: similar, comparable; correspondence
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La situation est *analogue* sur le plan mondial.
-  Die Situation ist weltweit *ähnlich*.
+  The situation is *similar* worldwide.
 
   Ces deux médicaments ont des propriétés *analogues*.
-  Diese beiden Medikamente haben *vergleichbare* Eigenschaften.
+  These two drugs have similar properties.
 
   J'ai eu une idée *analogue* à la sienne hier soir.
-  Ich hatte gestern Abend eine *ähnliche* Idee wie sie.
+  I had a *similar* idea to her last night.
 
   Cette substance visqueuse est *analogue* à la résine.
-  Diese klebrige Substanz ist dem Harz *ähnlich*.
+  This sticky substance is *similar* to resin.
 
   Les deux tableaux sont *analogues* dans leur composition.
-  Die beiden Gemälde sind in ihrer Komposition *analog*.
+  The two paintings are analogous in their composition.
 
   Nous cherchons un *analogue* de ce mot en français.
-  Wir suchen eine *Entsprechung* für dieses Wort im Französischen.
+  We are looking for an equivalent for this word in French.
 
   Le développement technologique suit un processus *analogue* dans ces pays.
-  Die technologische Entwicklung folgt in diesen Ländern einem *vergleichbaren* Prozess.
+  Technological development in these countries follows a similar process.
 
   Les scientifiques ont découvert un phénomène *sans analogue* dans la nature.
-  Die Wissenschaftler haben ein in der Natur *einzigartiges* Phänomen entdeckt.
+  Scientists have discovered a phenomenon *unique* in nature.
 
   Sa manière de penser est *analogue* à celle de son père.
-  Seine Denkweise ist der seines Vaters *ähnlich*.
+  His thinking is *similar* to that of his father.
 
   Les résultats sont *analogues* dans les deux expériences.
-  Die Ergebnisse sind in beiden Experimenten *vergleichbar*.
+  The results are *comparable* in both experiments.
 
   Ces deux espèces présentent des caractéristiques *analogues*.
-  Diese beiden Arten weisen *ähnliche* Merkmale auf.
+  These two species have *similar* characteristics.
 
   Il n'existe aucun *analogue* de cette structure moléculaire.
-  Für diese Molekülstruktur gibt es keine *Entsprechung*.
+  There is no equivalent for this molecular structure.
 
   Les chercheurs ont trouvé des solutions *analogues* à ce problème.
-  Die Forscher haben *vergleichbare* Lösungen für dieses Problem gefunden.
+  The researchers have found *comparable* solutions to this problem.
 
   Cette méthode est *analogue* à celle que nous utilisons déjà.
-  Diese Methode ist der, die wir bereits verwenden, *analog*.
+  This method is the one we already use, *analog*.
 
   Les deux cultures ont développé des traditions *analogues*.
-  Die beiden Kulturen haben *ähnliche* Traditionen entwickelt.
+  The two cultures have developed *similar* traditions.
 
   Ce comportement n'a pas d'*analogue* dans le règne animal.
-  Dieses Verhalten hat im Tierreich keine *Entsprechung*.
+  This behaviour has no equivalent in the animal kingdom.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

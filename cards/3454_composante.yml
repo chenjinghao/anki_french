@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3454
 Wort: composante
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la composante
 Femininum / Plural: ''
 IPA: \kɔ̃.po.zɑ̃t\
-Definition: Komponente
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Component
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Certaines *composantes* de son environnement sont plastiques.
-  Einige *Komponenten* seiner Umgebung sind aus Kunststoff.
+  Some *components* of its environment are made of plastic.
 
   Les *composantes* de ce système sont trop complexes pour être expliquées simplement.
-  Die *Komponenten* dieses Systems sind zu komplex, um sie einfach zu erklären.
+  The *components* of this system are too complex to explain.
 
   Les *composantes* du vecteur nous permettent de calculer sa direction.
-  Die *Komponenten* des Vektors ermöglichen uns, seine Richtung zu berechnen.
+  The *components* of the vector allow us to calculate its direction.
 
   La confiance est une *composante* essentielle de toute relation.
-  Vertrauen ist eine wesentliche *Komponente* jeder Beziehung.
+  Trust is an essential *component* of any relationship.
 
   Nous devons examiner toutes les *composantes* de cette décision.
-  Wir müssen alle *Komponenten* dieser Entscheidung prüfen.
+  We must examine all the *components* of this decision.
 
   Cette *composante* électronique doit être remplacée immédiatement.
-  Diese elektronische *Komponente* muss sofort ersetzt werden.
+  This electronic *component* must be replaced immediately.
 
   Les *composantes* sociales et économiques influencent fortement ce phénomène.
-  Die sozialen und wirtschaftlichen *Komponenten* beeinflussen dieses Phänomen stark.
+  The social and economic *components* strongly influence this phenomenon.
 
   Chaque *composante* du mélange a été soigneusement mesurée.
-  Jede *Komponente* der Mischung wurde sorgfältig gemessen.
+  Each *component* of the mixture has been carefully measured.
 
   La diversité est une *composante* majeure de l'écosystème.
-  Vielfalt ist eine wichtige *Komponente* des Ökosystems.
+  Diversity is an important *component* of the ecosystem.
 
   Les différentes *composantes* de la coalition ont trouvé un accord.
-  Die verschiedenen *Komponenten* der Koalition haben eine Einigung gefunden.
+  The various *components* of the coalition have reached an agreement.
 
   Cette *composante* du programme ne fonctionne plus correctement.
-  Diese *Komponente* des Programms funktioniert nicht mehr richtig.
+  This *component* of the program no longer works properly.
 
   Les *composantes* principales de l'analyse révèlent des tendances intéressantes.
-  Die Haupt*komponenten* der Analyse zeigen interessante Trends.
+  The main *components* of the analysis show interesting trends.
 
   La lumière est une *composante* essentielle de la photosynthèse.
-  Licht ist eine wesentliche *Komponente* der Photosynthese.
+  Light is an essential *component* of photosynthesis.
 
   Les *composantes* culturelles varient selon les régions.
-  Die kulturellen *Komponenten* unterscheiden sich je nach Region.
+  The cultural *components* differ depending on the region.
 
   Cette *composante* est fabriquée exclusivement en France.
-  Diese *Komponente* wird ausschließlich in Frankreich hergestellt.
+  This *component* is manufactured exclusively in France.
 
   Les *composantes* du vent déterminent la direction de l'avion.
-  Die *Komponenten* des Winds bestimmen die Richtung des Flugzeugs.
+  The *components* of the wind determine the direction of the aircraft.
 
   La *composante* internationale joue un rôle crucial dans ce projet.
-  Die internationale *Komponente* spielt in diesem Projekt eine entscheidende Rolle.
+  The international *component* plays a crucial role in this project.
 
   Les *composantes* de cette équation sont difficiles à identifier.
-  Die *Komponenten* dieser Gleichung sind schwer zu identifizieren.
+  The *components* of this equation are difficult to identify.
 
   Chaque *composante* du système solaire a sa propre orbite.
-  Jede *Komponente* des Sonnensystems hat ihre eigene Umlaufbahn.
+  Each *component* of the solar system has its own orbit.
 
   Les *composantes* de la personnalité se développent pendant l'enfance.
-  Die *Komponenten* der Persönlichkeit entwickeln sich während der Kindheit.
+  The *components* of the personality develop during childhood.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3443
 Wort: arbitrage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un arbitrage
 Femininum / Plural: ''
 IPA: \aʁ.bi.tʁaʒ\
-Definition: Schiedsverfahren, Schlichtung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Arbitration, conciliation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*arbitrage* peut être long et coûteux.
-  Das *Schiedsverfahren* kann lang und teuer sein.
+  *Arbitration* can be long and expensive.
 
   Le bureau d'*arbitrage* a tranché en notre faveur.
-  Die *Schieds*stelle hat zu unseren Gunsten entschieden.
+  The *Arbitration* Board has decided in our favor.
 
   La procédure d'*arbitrage* durera environ trois mois.
-  Das *Schieds*verfahren wird ungefähr drei Monate dauern.
+  *Arbitration* will take about three months.
 
   Nous attendons l'*arbitrage* final du comité.
-  Wir warten auf den endgültigen *Schiedsspruch* des Komitees.
+  We're waiting for the committee's final award.
 
   Son expérience en matière d'*arbitrage* est impressionnante.
-  Seine Erfahrung im Bereich der *Schlichtung* ist beeindruckend.
+  His experience in the area of *conciliation* is impressive.
 
   Un *arbitrage* international a permis d'éviter le conflit.
-  Eine internationale *Schlichtung* hat den Konflikt verhindert.
+  International *conciliation* has prevented the conflict.
 
   Les deux parties ont accepté de recourir à l'*arbitrage*.
-  Beide Parteien haben zugestimmt, sich einem *Schiedsverfahren* zu unterwerfen.
+  Both parties have agreed to submit to *arbitration*.
 
   Cette banque pratique l'*arbitrage* entre différentes devises.
-  Diese Bank betreibt *Arbitrage* zwischen verschiedenen Währungen.
+  This bank operates *arbitrage* between different currencies.
 
   Il a exercé l'*arbitrage* pendant plus de vingt ans.
-  Er hat das *Schiedsrichteramt* mehr als zwanzig Jahre ausgeübt.
+  He has been arbitrator for more than twenty years.
 
   L'*arbitrage* du match a été excellent.
-  Die *Schiedsrichterleistung* beim Spiel war ausgezeichnet.
+  The referee performance at the game was excellent.
 
   Les syndicats ont demandé un *arbitrage* dans ce conflit.
-  Die Gewerkschaften haben in diesem Konflikt eine *Schlichtung* beantragt.
+  The trade unions have requested *conciliation* in this conflict.
 
   L'*arbitrage* du Président a permis de débloquer la situation.
-  Die *Vermittlung* des Präsidenten hat die Situation entsperrt.
+  The President's *mediation* has unlocked the situation.
 
   Une erreur d'*arbitrage* a changé le cours du match.
-  Ein *Schiedsrichter*fehler hat den Spielverlauf verändert.
+  A referee error has changed the course of the game.
 
   Les entreprises se soumettront à l'*arbitrage* de la commission.
-  Die Unternehmen werden sich dem *Schiedsspruch* der Kommission unterwerfen.
+  The undertakings will submit to the Commission's award.
 
   L'*arbitrage* entre les différentes options n'est pas facile.
-  Die *Abwägung* zwischen den verschiedenen Optionen ist nicht einfach.
+  The balance between the different options is not easy.
 
   L'*arbitrage* final sera rendu la semaine prochaine.
-  Der endgültige *Schiedsspruch* wird nächste Woche verkündet.
+  The final award will be announced next week.
 
   Ce trader spécialisé en *arbitrage* gagne beaucoup d'argent.
-  Dieser auf *Arbitrage* spezialisierte Händler verdient viel Geld.
+  This merchant specialized in *arbitrage* earns a lot of money.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

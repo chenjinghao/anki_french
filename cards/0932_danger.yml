@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 932
 Wort: danger
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le danger
 Femininum / Plural: ''
 IPA: \dɑ̃.ʒe\
-Definition: Gefahr
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Danger
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le cyclisme est en *danger* de mort.
-  Der Radsport schwebt in Lebens*gefahr*.
+  Cycling is in danger of life.
 
   Sa vie est en *danger* après l'accident de voiture.
-  Sein Leben ist nach dem Autounfall in *Gefahr*.
+  His life is in *danger* after the car accident.
 
   Les randonneurs se sont mis en *danger* en ignorant les avertissements météorologiques.
-  Die Wanderer haben sich in *Gefahr* gebracht, indem sie die Wetterwarnung ignorierten.
+  Hikers have put themselves in *danger* by ignoring the weather warning.
 
   Le petit garçon est maintenant hors de *danger*.
-  Der kleine Junge ist jetzt außer *Gefahr*.
+  The little boy is out of *danger* now.
 
   Cette vieille centrale nucléaire constitue un *danger* pour toute la région.
-  Dieses alte Atomkraftwerk stellt eine *Gefahr* für die ganze Region dar.
+  This old nuclear power plant is a threat to the whole region.
 
   Paul a réussi à échapper au *danger* en se cachant dans la cave.
-  Paul ist der *Gefahr* entkommen, indem er sich im Keller versteckt hat.
+  Paul escaped the *danger* by hiding in the basement.
 
   Les *dangers* de la route sont nombreux en hiver.
-  Die *Gefahren* im Straßenverkehr sind im Winter zahlreich.
+  There are many dangers in road transport in winter.
 
   Cette tempête de neige constitue un *danger* pour la circulation routière.
-  Dieser Schneesturm stellt eine *Gefahr* für den Straßenverkehr dar.
+  This snowstorm is a *danger* to road traffic.
 
   "*Pas de danger* que je retourne là-bas !"
-  "*Bestimmt nicht*, dass ich da wieder hingehe!"
+  "Surely I'm not going back there!"
 
   Marie a couru un grand *danger* en traversant la rivière gelée.
-  Marie hat sich in große *Gefahr* begeben, als sie über den zugefrorenen Fluss ging.
+  Marie went into great *danger* when she crossed the frozen river.
 
   Attention *danger* : sol glissant !
-  Achtung *Gefahr*: Rutschiger Boden!
+  Attention *danger*: slippery ground!
 
   Ce virage sans visibilité représente un *danger* permanent.
-  Diese unübersichtliche Kurve stellt eine ständige *Gefahr* dar.
+  This confusing curve is a constant *danger*.
 
   Il a bravé tous les *dangers* pour sauver son ami.
-  Er hat allen *Gefahren* getrotzt, um seinen Freund zu retten.
+  He has defied every danger to save his friend.
 
   Les pompiers s'exposent chaque jour au *danger*.
-  Die Feuerwehrleute setzen sich jeden Tag der *Gefahr* aus.
+  The firefighters expose themselves to *danger* every day.
 
   La randonnée en montagne n'est pas sans *danger*.
-  Bergwandern ist nicht ohne *Gefahr*.
+  Mountain hiking is not without *danger*.
 
   Cette épidémie *met en danger* toute la population.
-  Diese Epidemie *gefährdet* die gesamte Bevölkerung.
+  This epidemic endangers the entire population.
 
   Ce conducteur ivre est un *danger* public.
-  Dieser betrunkene Fahrer ist eine öffentliche *Gefahr*.
+  This drunk driver is a public *danger*.
 
   Les *dangers* d'une mauvaise alimentation sont bien connus.
-  Die *Gefahren* falscher Ernährung sind wohlbekannt.
+  The dangers of wrong nutrition are well known.
 
   Il garde son sang-froid même au plus fort du *danger*.
-  Er bewahrt auch in höchster *Gefahr* einen kühlen Kopf.
+  He keeps a cool head even in extreme *danger*.
 
   Le capitaine a signalé les *dangers* de la passe aux autres navires.
-  Der Kapitän hat die anderen Schiffe vor den *Gefahren* in der Durchfahrt gewarnt.
+  The captain warned the other ships of the dangers in transit.
 
   Les experts ont écarté tout *danger* d'avalanche.
-  Die Experten haben jegliche Lawinen*gefahr* ausgeschlossen.
+  The experts have ruled out any danger of avalanches.
 
   Un *danger* imprévu nous a forcés à faire demi-tour.
-  Eine unvorhergesehene *Gefahr* hat uns zur Umkehr gezwungen.
+  An unforeseen *danger* has forced us to turn back.
 
   Cette fuite de gaz représente un *danger* imminent.
-  Dieses Gasleck stellt eine unmittelbare *Gefahr* dar.
+  This gas leak is an immediate *danger*.
 
   Les *dangers* du réchauffement climatique deviennent de plus en plus évidents.
-  Die *Gefahren* der Klimaerwärmung werden immer deutlicher.
+  The dangers of global warming are becoming increasingly apparent.
 
   La zone a été évacuée en raison du *danger* d'explosion.
-  Das Gebiet wurde wegen Explosions*gefahr* evakuiert.
+  The area has been evacuated for explosion *risk*.
 
   Cette espèce est en *danger* d'extinction.
-  Diese Art ist vom Aussterben *bedroht*.
+  This species is *threatened* with extinction.
 
   Les enfants doivent apprendre à reconnaître les *dangers* potentiels.
-  Kinder müssen lernen, mögliche *Gefahren* zu erkennen.
+  Children need to learn to recognize potential dangers.
 
   L'escalade en solo présente de nombreux *dangers*.
-  Freikletterei birgt viele *Gefahren*.
+  Free climbing carries many dangers.
 
   Le gouvernement a déclaré la nation en *danger*.
-  Die Regierung hat den nationalen *Gefahren*zustand ausgerufen.
+  The government has declared the state of national danger.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

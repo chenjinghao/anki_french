@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4091
 Wort: techniquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: techniquement
 Femininum / Plural: ''
 IPA: \tɛk.nik.mɑ̃\
-Definition: technisch (gesehen)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Technical (seen)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne te connais pas *techniquement*.
-  *Technisch gesehen* kenne ich dich nicht.
+  *Technically*, I don't know you.
 
   *Techniquement*, ce nouveau processeur est plus rapide que l'ancien.
-  *Technisch gesehen* ist dieser neue Prozessor schneller als der alte.
+  *Technically*, this new processor is faster than the old one.
 
   Cette solution est *techniquement* possible, mais très coûteuse.
-  Diese Lösung ist *technisch* machbar, aber sehr teuer.
+  This solution is technically feasible, but very expensive.
 
   Le projet est *techniquement* au point, nous pouvons commencer.
-  Das Projekt ist *technisch* ausgereift, wir können anfangen.
+  The project is technically mature, we can start.
 
   *Techniquement parlant*, la voiture électrique pollue moins que la voiture à essence.
-  *Technisch betrachtet* verschmutzt das Elektroauto weniger als das Benzinauto.
+  *Technically*, the electric car pollutes less than the gasoline car.
 
   Cette machine est *techniquement* complexe à utiliser.
-  Diese Maschine ist *technisch* komplex zu bedienen.
+  This machine is technically complex to operate.
 
   *Techniquement*, nous aurions dû terminer le travail hier.
-  *Technisch gesehen* hätten wir die Arbeit gestern beenden müssen.
+  *Technically*, we should have finished work yesterday.
 
   Le système n'est pas encore *techniquement* stable.
-  Das System ist *technisch* noch nicht stabil.
+  The system is not yet technically stable.
 
   *Techniquement*, il est impossible de dépasser la vitesse de la lumière.
-  *Technisch gesehen* ist es unmöglich, schneller als das Licht zu sein.
+  *Technically*, it's impossible to be faster than the light.
 
   Cette méthode est *techniquement* plus efficace que l'ancienne.
-  Diese Methode ist *technisch* effizienter als die alte.
+  This method is technically more efficient than the old one.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

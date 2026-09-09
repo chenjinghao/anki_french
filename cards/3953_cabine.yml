@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3953
 Wort: cabine
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la cabine
 Femininum / Plural: ''
 IPA: \ka.bin\
-Definition: Kabine
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cabin
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle dort dans une *cabine*.
-  Sie schläft in einer *Kabine*.
+  She's sleeping in a *cabin*.
 
   La *cabine* spatiale a atterri avec succès.
-  Die Raum*kapsel* ist erfolgreich gelandet.
+  The space *capsule* has landed successfully.
 
   Le conducteur est monté dans la *cabine* du camion.
-  Der Fahrer ist ins Fahrer*haus* des LKWs gestiegen.
+  The driver got into the cab of the truck.
 
   Cette *cabine* téléphonique ne fonctionne plus.
-  Diese Telefon*zelle* funktioniert nicht mehr.
+  This phone booth is no longer working.
 
   J'ai réservé une *cabine* double pour notre croisière.
-  Ich habe eine Doppel*kabine* für unsere Kreuzfahrt gebucht.
+  I booked a double *cabin* for our cruise.
 
   La *cabine* d'essayage était occupée.
-  Die Umkleide*kabine* war besetzt.
+  The changing room was occupied.
 
   Le pilote est entré dans la *cabine* de l'avion.
-  Der Pilot betrat das *Cockpit* des Flugzeugs.
+  The pilot entered the *cockpit* of the aircraft.
 
   Les passagers sont installés dans la *cabine*.
-  Die Passagiere haben sich im *Flugzeugraum* eingerichtet.
+  The passengers have settled in the aircraft room.
 
   La *cabine* de douche est en panne.
-  Die Dusch*kabine* ist kaputt.
+  The shower *cabin* is broken.
 
   Le capitaine nous a invités dans sa *cabine*.
-  Der Kapitän hat uns in seine *Kajüte* eingeladen.
+  The captain invited us to his cabin.
 
   Ils ont pris la *cabine* de téléphérique jusqu'au sommet.
-  Sie sind mit der Seilbahn*kabine* bis zum Gipfel gefahren.
+  You went with the cable car *cabin* to the summit.
 
   La *cabine* de projection doit rester fermée pendant le film.
-  Die Projektions*kabine* muss während des Films geschlossen bleiben.
+  The projection booth must remain closed during the film.
 
   Thomas travaille dans la *cabine* d'aiguillage.
-  Thomas arbeitet im Stellwerks*häuschen*.
+  Thomas works in the interlocking *house*.
 
   La *cabine* de luxe offre une vue magnifique sur la mer.
-  Die Luxus*kabine* bietet einen herrlichen Blick aufs Meer.
+  The luxury *cabin* offers a magnificent view of the sea.
 
   Pierre attend devant la *cabine* d'ascenseur.
-  Pierre wartet vor der Aufzugs*kabine*.
+  Pierre's waiting in front of the elevator *cabin*.
 
   La *cabine* du conducteur est climatisée.
-  Das Führer*haus* ist klimatisiert.
+  The cab is air conditioned.
 
   Cette *cabine* individuelle est parfaite pour mon voyage.
-  Diese Einzel*kabine* ist perfekt für meine Reise.
+  This single *cabin* is perfect for my trip.
 
   Le grutier monte dans la *cabine* de la grue.
-  Der Kranführer steigt in die Führer*kabine* des Krans.
+  The crane operator enters the crane's cab.
 
   La *cabine* du bac traverse le fleuve depuis trente ans.
-  Das Fähr*haus* überquert den Fluss seit dreißig Jahren.
+  The ferry *house* has been crossing the river for thirty years.
 
   Les astronautes se sont installés dans la *cabine*.
-  Die Astronauten haben sich in der *Kapsel* eingerichtet.
+  The astronauts have settled in the *capsule*.
 
   J'ai oublié mes vêtements dans la *cabine* de bain.
-  Ich habe meine Kleidung in der Bade*kabine* vergessen.
+  I forgot my clothes in the bath *cabin*.
 
   La *cabine* des passagers est très confortable.
-  Die Passagier*kabine* ist sehr komfortabel.
+  The passenger *cabin* is very comfortable.
 
   Les enfants se sont amusés à compter les *cabines* sur la plage.
-  Die Kinder hatten Spaß dabei, die Strand*kabinen* zu zählen.
+  The children had fun counting the beach *cabins*.
 
   Le commandant surveille la mer depuis sa *cabine*.
-  Der Kommandant überwacht das Meer von seiner *Kabine* aus.
+  The commander is monitoring the sea from his *cabin*.
 
   Marie cherche une *cabine* téléphonique pour appeler ses parents.
-  Marie sucht eine Telefon*zelle*, um ihre Eltern anzurufen.
+  Marie's looking for a phone booth to call her parents.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

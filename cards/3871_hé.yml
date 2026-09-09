@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3871
 Wort: hé
 Wortart: intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hé
 Femininum / Plural: ''
 IPA: \e\
-Definition: he
-Register: ↘Sachtext ↗Mündlich
+Definition: h
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "*Hé*, les gars, regardez par ici."
-  "*He*, Leute, schaut mal her."
+  "Hey, guys, look here."
 
   "*Hé* ! Monsieur, vous avez fait tomber votre portefeuille !"
-  "*He* ! Mein Herr, Sie haben Ihre Brieftasche fallen lassen!"
+  "Hey, sir, you dropped your wallet!"
 
   "*Hé, hé* ! C'est une excellente idée !"
-  "*Donnerwetter* ! Das ist eine ausgezeichnete Idee!"
+  "Thunder weather! This is an excellent idea!"
 
   "*Hé* là-bas ! Pouvez-vous m'aider ?"
-  "*He* Sie da! Können Sie mir helfen?"
+  "Hey, can you help me?"
 
   "*Hé oui* ! C'est exactement comme je l'avais prédit."
-  "*Jawohl* ! Es ist genau so gekommen, wie ich es vorhergesagt hatte."
+  "*Yes*, it's just as I predicted it."
 
   "*Hé* ! Pierre ! Tu vas être en retard !"
-  "*He* ! Pierre! Du wirst zu spät kommen!"
+  "Hey, Pierre, you're gonna be late!"
 
   "*Hé, hé* ! Je savais que tu allais dire ça !"
-  "*Haha* ! Ich wusste, dass du das sagen würdest!"
+  "*Haha*, I knew you'd say that!"
 
   "*Hé* ! Attendez-moi, je viens avec vous !"
-  "*He* ! Wartet auf mich, ich komme mit!"
+  "Hey, wait for me, I'll come with you!"
 
   "*Hé* ! Qu'est-ce que tu fais sur mon ordinateur ?"
-  "*He* ! Was machst du an meinem Computer?"
+  "Hey, what are you doing on my computer?"
 
   "*Hé* ! Marie ! On se voit ce soir ?"
-  "*He* ! Marie! Sehen wir uns heute Abend?"
+  "Hey, Marie, see you tonight?"
 
   "*Hé, hé* ! Pas mal du tout, ce gâteau !"
-  "*Alle Achtung* ! Dieser Kuchen ist gar nicht übel!"
+  "All due respect! This cake is not bad!"
 
   "*Hé oui* ! Les vacances sont déjà finies."
-  "*Tja* ! Die Ferien sind schon vorbei."
+  "*Well*, the holidays are over."
 
   "*Hé* ! Doucement avec mes affaires !"
-  "*He* ! Vorsichtig mit meinen Sachen!"
+  "Hey, careful with my stuff!"
 
   "*Hé, hé* ! Ce n'est pas si simple que ça !"
-  "*Ha ha* ! So einfach ist das nicht!"
+  "Ha ha! It's not that simple!"
 
   "*Hé* ! Tu as vu le nouveau film ?"
-  "*He* ! Hast du den neuen Film gesehen?"
+  "Hey, did you see the new movie?"
 
   "*Hé* ! L'ami ! Vous ne pouvez pas stationner ici !"
-  "*He* ! Freundchen! Hier können Sie nicht parken!"
+  "Hey, buddy, you can't park here!"
 
   "*Hé, hé* ! Regardez qui voilà !"
-  "*Na sowas* ! Schaut mal, wer da ist!"
+  Look who's here!
 
   "*Hé* ! Faites attention où vous marchez !"
-  "*He* ! Passen Sie auf, wo Sie hintreten!"
+  "Hey, watch where you're going!"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

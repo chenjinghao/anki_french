@@ -1,101 +1,101 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4620
 Wort: différencier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: différencier
 Femininum / Plural: ''
 IPA: \di.fe.ʁɑ̃.sje\
-Definition: unterscheiden, auseinanderhalten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Differentiating, differentiating
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je sais *différencier* un compliment d'une flatterie.
-  Ich kann ein Kompliment von Schmeichelei *unterscheiden*.
+  I can distinguish a compliment from flattery.
 
   Il est important de *différencier* les champignons comestibles des toxiques.
-  Es ist wichtig, essbare Pilze von giftigen zu *unterscheiden*.
+  It is important to distinguish edible mushrooms from toxic ones.
 
   L'enseignant utilise une pédagogie *différenciée* pour aider chaque élève.
-  Der Lehrer verwendet *differenzierten* Unterricht, um jedem Schüler zu helfen.
+  The teacher uses *differentiated* lessons to help each student.
 
   Les cellules de l'embryon commencent à se *différencier* dès la première semaine.
-  Die Embryozellen beginnen sich bereits in der ersten Woche zu *differenzieren*.
+  The embryo cells begin to *differentiate* in the first week.
 
   Cette marque se *différencie* de ses concurrents par sa qualité.
-  Diese Marke *unterscheidet* sich durch ihre Qualität von der Konkurrenz.
+  This brand differs in quality from the competition.
 
   Le daltonisme empêche de *différencier* certaines couleurs.
-  Farbenblindheit verhindert das *Unterscheiden* bestimmter Farben.
+  Color blindness prevents the distinction between certain colors.
 
   Notre entreprise doit se *différencier* pour survivre sur le marché.
-  Unser Unternehmen muss sich *abheben*, um auf dem Markt zu überleben.
+  Our company must *stand out* to survive on the market.
 
   Les jumeaux se *différencient* par leur personnalité.
-  Die Zwillinge *unterscheiden* sich durch ihre Persönlichkeit.
+  The twins differ in personality.
 
   Il faut *différencier* les faits des opinions dans les médias.
-  Man muss Fakten von Meinungen in den Medien *unterscheiden*.
+  You have to distinguish facts from opinions in the media.
 
   Marie se *différencie* des autres par son accent étranger.
-  Marie *hebt* sich durch ihren ausländischen Akzent von den anderen *ab*.
+  Marie stands out *from* the others by her foreign accent.
 
   La couleur du plumage *différencie* le mâle de la femelle.
-  Die Gefiederfarbe *unterscheidet* das Männchen vom Weibchen.
+  The plumage colour distinguishes the male from the female.
 
   Les experts peuvent facilement *différencier* un original d'une copie.
-  Die Experten können ein Original leicht von einer Kopie *unterscheiden*.
+  Experts can easily distinguish an original from a copy.
 
   Son style d'écriture se *différencie* nettement des autres auteurs.
-  Sein Schreibstil *unterscheidet* sich deutlich von anderen Autoren.
+  His writing style differs significantly from other authors.
 
   Comment *différencier* un rhume d'une grippe ?
-  Wie kann man eine Erkältung von einer Grippe *unterscheiden*?
+  How can a cold be distinguished from a flu?
 
   L'intelligence *différencie* l'homme des autres espèces.
-  Die Intelligenz *unterscheidet* den Menschen von anderen Arten.
+  The intelligence distinguishes man from other types.
 
   Les équipes se *différencient* par la couleur de leur maillot.
-  Die Teams *unterscheiden* sich durch die Farbe ihrer Trikots.
+  The teams differ by the color of their jerseys.
 
   Pierre se *différencie* des autres élèves par sa créativité.
-  Pierre *hebt* sich durch seine Kreativität von den anderen Schülern *ab*.
+  Pierre stands out *from* the other students through his creativity.
 
   Il est difficile de *différencier* ces deux variétés de roses.
-  Es ist schwierig, diese beiden Rosensorten zu *unterscheiden*.
+  It is difficult to distinguish these two rose varieties.
 
   Les cultures commencent à se *différencier* avec la mondialisation.
-  Die Kulturen beginnen sich durch die Globalisierung zu *unterscheiden*.
+  Cultures are beginning to differ through globalization.
 
   L'expérience nous aide à *différencier* le vrai du faux.
-  Die Erfahrung hilft uns, Wahrheit von Lüge zu *unterscheiden*.
+  Experience helps us to distinguish truth from lie.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>distinguer</i> und <i>différencier</i></div>
+    <div class="section-title"><i>distinguer</i> and <i>différencier</i></div>
     <div class="section-content">
-      <p><span class="fr">Distinguer</span> (#1807) bedeutet <span class="de">"unterscheiden"</span> oder <span class="de">"erkennen"</span> und bezieht sich auf die Fähigkeit, Unterschiede zwischen Dingen wahrzunehmen oder zu identifizieren.</p>
+      <p><span class="fr">Distinguer</span> (#1807) means <span class="de">"unterscheiden"</span> or <span class="de">"erkennen"</span> and refers to the ability to perceive or identify differences between things.</p>
       <div class="examples">
         <div class="fr">Il arrive à distinguer les vrais billets des faux.</div>
-        <div class="de spoiler">Er kann echte Geldscheine von falschen unterscheiden.</div>
+        <div class="de spoiler">He can distinguish real banknotes from false ones.</div>
         <div class="fr">Dans l'obscurité, on ne peut pas distinguer les couleurs.</div>
-        <div class="de spoiler">In der Dunkelheit kann man die Farben nicht unterscheiden.</div>
+        <div class="de spoiler">In the darkness you can't distinguish the colors.</div>
       </div>
-      <p><span class="fr">Différencier</span> bedeutet <span class="de">"differenzieren"</span> oder <span class="de">"einen Unterschied machen"</span> und bezieht sich darauf, bewusst Unterschiede zu schaffen oder zu betonen.</p>
+      <p><span class="fr">Différencier</span> means <span class="de">"differenzieren"</span> or <span class="de">"make a difference"</span> and refers to consciously creating or emphasizing differences.</p>
       <div class="examples">
         <div class="fr">Cette entreprise cherche à différencier ses produits de ceux de la concurrence.</div>
-        <div class="de spoiler">Dieses Unternehmen versucht, seine Produkte von denen der Konkurrenz zu differenzieren.</div>
+        <div class="de spoiler">This company is trying to differentiate its products from those of its competitors.</div>
         <div class="fr">Il faut différencier les méthodes selon l'âge des élèves.</div>
-        <div class="de spoiler">Man muss die Methoden je nach Alter der Schüler differenzieren.</div>
+        <div class="de spoiler">You have to differentiate the methods according to the age of the students.</div>
       </div>
-      <p><span class="fr">Distinguer</span> betont die Wahrnehmung von bereits bestehenden Unterschieden, während <span class="fr">différencier</span> das aktive Schaffen oder Hervorheben von Unterschieden impliziert.</p>
+      <p><span class="fr">Distinguer</span> stresses the perception of existing differences, while <span class="fr">différencier</span> the active creation or highlighting of differences implies.</p>
     </div>
   </div>

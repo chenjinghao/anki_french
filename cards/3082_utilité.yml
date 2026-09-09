@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3082
 Wort: utilité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une utilité
 Femininum / Plural: ''
 IPA: \y.ti.li.te\
-Definition: Nutzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Benefits
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu ne m'es d'aucune *utilité*.
-  Du bist mir von keinerlei *Nutzen*.
+  You're no use to me.
 
   Cette application a prouvé son *utilité* dans notre travail quotidien.
-  Diese Anwendung hat ihren *Nutzen* in unserer täglichen Arbeit bewiesen.
+  This application has proven its usefulness in our daily work.
 
   L'*utilité* de cette découverte scientifique reste à démontrer.
-  Der *Nutzen* dieser wissenschaftlichen Entdeckung muss noch bewiesen werden.
+  The *benefits* of this scientific discovery have yet to be proven.
 
   Les exercices physiques sont d'une grande *utilité* pour la santé.
-  Körperliche Übungen sind von großem *Nutzen* für die Gesundheit.
+  Physical exercises are of great benefit to health.
 
   J'achète toujours en fonction de l'*utilité* des objets.
-  Ich kaufe immer nach dem *Nutzen* der Gegenstände.
+  I always buy after the use of the items.
 
   Cette organisation a été reconnue *d'utilité publique* en 2020.
-  Diese Organisation wurde 2020 als *gemeinnützig* anerkannt.
+  This organisation was recognised as a *non-profit* organisation in 2020.
 
   Pour quelle *utilité* as-tu acheté cette machine?
-  Welchen *Nutzen* hat diese Maschine für dich?
+  What's the use of this machine for you?
 
   Le débat a mis en évidence l'*utilité* sociale de ce projet.
-  Die Debatte hat den gesellschaftlichen *Nutzen* dieses Projekts hervorgehoben.
+  The debate highlighted the social *benefits* of this project.
 
   L'*utilité* d'Internet dans l'éducation est indiscutable.
-  Der *Nutzen* des Internets in der Bildung ist unbestreitbar.
+  The *benefits* of the Internet in education are undeniable.
 
   Cette mesure n'a aucune *utilité* pratique.
-  Diese Maßnahme hat keinen praktischen *Nutzen*.
+  This measure has no practical benefit.
 
   Je ne vois pas l'*utilité* d'organiser une autre réunion.
-  Ich sehe keine *Verwendung* für ein weiteres Meeting.
+  I don't see any *use* for another meeting.
 
   L'*utilité* de ce médicament a été prouvée cliniquement.
-  Der *Nutzwert* dieses Medikaments wurde klinisch nachgewiesen.
+  The useful value of this drug has been clinically demonstrated.
 
   Cette innovation est d'une *utilité* remarquable.
-  Diese Innovation ist von bemerkenswertem *Nutzen*.
+  This innovation is of remarkable benefit.
 
   Nous devons évaluer l'*utilité* de chaque dépense.
-  Wir müssen den *Nutzen* jeder Ausgabe bewerten.
+  We need to evaluate the *benefits* of each issue.
 
   L'*utilité* de ce conseil m'est apparue plus tard.
-  Der *Nutzen* dieses Ratschlags wurde mir erst später klar.
+  The *benefits* of this advice became clear to me later.
 
   Cette fonction a une *utilité* limitée dans ce contexte.
-  Diese Funktion hat in diesem Kontext einen begrenzten *Nutzen*.
+  This function has a limited benefit in this context.
 
   L'*utilité* de ces données sera analysée par nos experts.
-  Die *Sachdienlichkeit* dieser Daten wird von unseren Experten geprüft.
+  The relevance of this data is examined by our experts.
 
   Je ne comprends pas l'*utilité* de ce changement.
-  Ich verstehe den *Nutzen* dieser Änderung nicht.
+  I do not understand the *benefits* of this change.
 
   L'*utilité* du livre dans l'apprentissage reste fondamentale.
-  Der *Nutzen* des Buches beim Lernen bleibt grundlegend.
+  The use of the book in learning remains fundamental.
 
   Cette solution a prouvé son *utilité* à long terme.
-  Diese Lösung hat ihren langfristigen *Nutzen* bewiesen.
+  This solution has proven its long-term *benefits*.
 
   Nous recherchons l'*utilité* maximale pour nos clients.
-  Wir streben den maximalen *Nutzwert* für unsere Kunden an.
+  We strive for maximum *utility* value for our customers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

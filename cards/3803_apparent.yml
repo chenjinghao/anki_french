@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3803
 Wort: apparent
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: apparent
 Femininum / Plural: apparente
 IPA: \a.pa.ʁɑ̃\
-Definition: offensichtlich, sichtbar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: obvious, visible
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je me surprenais à pleurer sans cause *apparente*.
-  Ich fing an zu weinen, ohne *ersichtlichen* Grund.
+  I started crying without any obvious reason.
 
   Les poutres *apparentes* donnent du caractère à cette vieille maison.
-  Die *sichtbaren* Balken verleihen diesem alten Haus Charakter.
+  The *visible* beams give this old house character.
 
   Le contraste entre les coutures *apparentes* et le tissu noir est très élégant.
-  Der Kontrast zwischen den *sichtbaren* Nähten und dem schwarzen Stoff ist sehr elegant.
+  The contrast between the *visible* seams and the black fabric is very elegant.
 
   Les traces de pas étaient très *apparentes* dans la neige fraîche.
-  Die Fußspuren waren im frischen Schnee deutlich *erkennbar*.
+  The footprints were clearly visible in the fresh snow.
 
   Son droit de propriété est *apparent* et incontestable.
-  Sein Eigentumsrecht ist *offensichtlich* und unbestreitbar.
+  His right to property is *obvious* and undeniable.
 
   Le mouvement *apparent* du Soleil peut tromper nos sens.
-  Die *scheinbare* Bewegung der Sonne kann unsere Sinne täuschen.
+  The apparent movement of the sun can deceive our senses.
 
   Leur richesse n'était qu'*apparente* : ils avaient beaucoup de dettes.
-  Ihr Reichtum war nur *scheinbar*: Sie hatten viele Schulden.
+  Their wealth was only apparently: they had many debts.
 
   Dans cette phrase, "il" est un sujet *apparent*.
-  In diesem Satz ist "es" ein *formales* Subjekt.
+  In this sentence, "it" is a *formal* subject.
 
   La simplicité *apparente* de cette solution cache sa vraie complexité.
-  Die *scheinbare* Einfachheit dieser Lösung verbirgt ihre wahre Komplexität.
+  The apparent simplicity of this solution hides its true complexity.
 
   Les symptômes sont devenus *apparents* après quelques heures.
-  Die Symptome wurden nach einigen Stunden *sichtbar*.
+  Symptoms became *visible* after a few hours.
 
   Sa ruse était trop *apparente* pour tromper qui que ce soit.
-  Seine List war zu *plump*, um irgendjemanden zu täuschen.
+  His cunning was too clumsy to deceive anyone.
 
   Le défaut est *apparent* : la peinture s'écaille partout.
-  Der Mangel ist *offensichtlich*: Die Farbe blättert überall ab.
+  The lack is *obvious*: the color peels off everywhere.
 
   Cette prospérité *apparente* masquait une profonde crise.
-  Dieser *scheinbare* Wohlstand verbarg eine tiefe Krise.
+  This apparent prosperity hid a deep crisis.
 
   Les fissures sont devenues *apparentes* après le tremblement de terre.
-  Die Risse wurden nach dem Erdbeben *sichtbar*.
+  The cracks became *visible* after the earthquake.
 
   Son malaise n'était pas *apparent* au début de la réunion.
-  Sein Unbehagen war zu Beginn der Sitzung nicht *erkennbar*.
+  His discomfort was not apparent at the beginning of the meeting.
 
   La contradiction *apparente* entre ces deux théories n'existe pas.
-  Der *scheinbare* Widerspruch zwischen diesen beiden Theorien existiert nicht.
+  The apparent contradiction between these two theories does not exist.
 
   Les changements sont *apparents* dans son comportement.
-  Die Veränderungen sind in seinem Verhalten *offensichtlich*.
+  The changes are *obvious* in his behavior.
 
   Le succès *apparent* de l'entreprise attire de nouveaux investisseurs.
-  Der *scheinbare* Erfolg des Unternehmens zieht neue Investoren an.
+  The apparent success of the company attracts new investors.
 
   Les briques *apparentes* donnent un style industriel à l'appartement.
-  Die *sichtbaren* Ziegel geben der Wohnung einen industriellen Stil.
+  The *visible* bricks give the apartment an industrial style.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4652
 Wort: traversée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la traversée
 Femininum / Plural: ''
 IPA: \tʁa.vɛʁ.se\
-Definition: Überquerung, Durchquerung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Crossing, crossing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *traversée* avait duré juste trois heures.
-  Die *Überfahrt* hatte nur drei Stunden gedauert.
+  The *crossing* only took three hours.
 
   La *traversée* du désert fut une épreuve difficile pour les nomades.
-  Die *Durchquerung* der Wüste war eine schwierige Prüfung für die Nomaden.
+  The *crossing* of the desert was a difficult test for the nomads.
 
   Pierre fait la *traversée* du lac tous les matins à la nage.
-  Pierre *durchschwimmt* den See jeden Morgen.
+  Pierre swims through the lake every morning.
 
   Notre *traversée* de Calais à Douvres s'est bien passée.
-  Unsere *Überfahrt* von Calais nach Dover verlief gut.
+  Our *crossing* from Calais to Dover went well.
 
   Les enfants doivent faire attention pendant la *traversée* de la rue.
-  Die Kinder müssen beim *Überqueren* der Straße aufpassen.
+  The children must be careful when *crossing* the road.
 
   La *traversée* des Alpes en hélicoptère offre une vue spectaculaire.
-  Der *Flug* über die Alpen im Helikopter bietet eine spektakuläre Aussicht.
+  The *flight* over the Alps in the helicopter offers a spectacular view.
 
   Elle a fait la *traversée* de la Manche à la voile.
-  Sie hat den Ärmelkanal mit dem Segelboot *überquert*.
+  She *crossed* the English Channel with the sailboat.
 
   La *traversée* du parc à vélo est interdite après 22 heures.
-  Das *Durchfahren* des Parks mit dem Fahrrad ist nach 22 Uhr verboten.
+  Cycling through the park is forbidden after 10 pm.
 
   Cette *traversée* du tunnel prend environ dix minutes à pied.
-  Die *Durchquerung* des Tunnels dauert zu Fuß ungefähr zehn Minuten.
+  The passage of the tunnel takes about ten minutes on foot.
 
   La *traversée* de Paris en métro dure une heure.
-  Die *Durchquerung* von Paris mit der Metro dauert eine Stunde.
+  The *crossing* of Paris by metro takes one hour.
 
   Les alpinistes ont prévu une *traversée* du Mont Blanc pour demain.
-  Die Bergsteiger haben für morgen eine *Überquerung* des Mont Blanc geplant.
+  The climbers planned to cross the Mont Blanc for tomorrow.
 
   La *traversée* du pont est dangereuse par temps de verglas.
-  Das *Überqueren* der Brücke ist bei Glatteis gefährlich.
+  *Crossing* the bridge is dangerous at freezing ice.
 
   Cette *traversée* de l'océan Pacifique établit un nouveau record.
-  Diese *Überquerung* des Pazifiks stellt einen neuen Rekord auf.
+  This *crossing* of the Pacific makes a new record.
 
   Une simple *traversée* de la forêt peut prendre deux heures.
-  Eine einfache *Durchquerung* des Waldes kann zwei Stunden dauern.
+  A simple *crossing* of the forest can take two hours.
 
   La *traversée* de la ville en voiture est compliquée à cause des travaux.
-  Die *Durchfahrt* durch die Stadt ist wegen der Bauarbeiten kompliziert.
+  The passage through the city is complicated because of the construction work.
 
   Pendant la *traversée*, les passagers peuvent profiter du restaurant.
-  Während der *Überfahrt* können die Passagiere das Restaurant nutzen.
+  During the *crossing*, passengers can use the restaurant.
 
   Cette *traversée* des Pyrénées à pied est une randonnée exceptionnelle.
-  Diese *Durchquerung* der Pyrenäen zu Fuß ist eine außergewöhnliche Wanderung.
+  This *crossing* of the Pyrenees on foot is an extraordinary hike.
 
   La *traversée* du fleuve se fait uniquement par bateau.
-  Die *Überquerung* des Flusses ist nur mit dem Boot möglich.
+  The *crossing* of the river is only possible by boat.
 
   Notre *traversée* de l'agglomération a pris plus de temps que prévu.
-  Unsere *Durchfahrt* durch das Stadtgebiet hat länger gedauert als erwartet.
+  Our passage through the city area took longer than expected.
 
   La *traversée* de la Méditerranée reste dangereuse pour les migrants.
-  Die *Überquerung* des Mittelmeers bleibt für Migranten gefährlich.
+  *Crossing* the Mediterranean remains dangerous for migrants.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

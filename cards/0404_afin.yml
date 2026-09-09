@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 404
 Wort: afin
 Wortart: prep
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: afin
 Femininum / Plural: ''
 IPA: \a.fɛ̃\
-Definition: damit, um ... zu
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: with to ...
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Fixer des cordes *afin de* descendre en rappel.
-  Seile befestigen, *um abzuseilen*.
+  Fasten ropes to get down.
 
   Elle a pris des cours de français *afin de* mieux comprendre la culture.
-  Sie hat Französischkurse genommen, *um die Kultur besser zu verstehen*.
+  She took French courses to better understand culture.
 
   Je te donne mon numéro *afin que* tu puisses me joindre.
-  Ich gebe dir meine Nummer, *damit* du mich erreichen kannst.
+  I'll give you my number so you can reach me.
 
   Nous devons partir tôt *afin d'*éviter les embouteillages.
-  Wir müssen früh losfahren, *um den Stau zu vermeiden*.
+  We have to leave early *to avoid traffic jams*.
 
   Il faut bien réviser *afin de* réussir l'examen.
-  Man muss gut lernen, *um die Prüfung zu bestehen*.
+  You have to learn well to pass the exam.
 
   J'ai laissé la fenêtre ouverte *afin que* la pièce s'aère.
-  Ich habe das Fenster offen gelassen, *damit* sich der Raum lüftet.
+  I left the window open *so that* the room would ventilate.
 
   Elle économise de l'argent *afin d'*acheter une nouvelle voiture.
-  Sie spart Geld, *um sich ein neues Auto zu kaufen*.
+  It saves money *to buy a new car*.
 
   Rangez vos affaires *afin que* la femme de ménage puisse nettoyer.
-  Räumt eure Sachen weg, *damit* die Putzfrau saubermachen kann.
+  Clean your things up so the cleaning lady can clean up.
 
   Il s'est levé tôt *afin de* profiter de la journée.
-  Er ist früh aufgestanden, *um den Tag zu nutzen*.
+  He got up early to take advantage of the day.
 
   Nous avons simplifié les instructions *afin que* tout le monde comprenne.
-  Wir haben die Anweisungen vereinfacht, *damit* alle es verstehen.
+  We have simplified the instructions *so that* everyone can understand.
 
   Je note tout dans mon agenda *afin de* ne rien oublier.
-  Ich schreibe alles in meinen Kalender, *um nichts zu vergessen*.
+  I'll put everything in my calendar so I don't forget anything.
 
   Il faut bien s'hydrater *afin de* rester en bonne santé.
-  Man muss gut trinken, *um gesund zu bleiben*.
+  You have to drink well *to stay healthy*.
 
   Les parents ont installé un contrôle parental *afin que* leurs enfants naviguent en sécurité.
-  Die Eltern haben eine Kindersicherung installiert, *damit* ihre Kinder sicher surfen können.
+  The parents have installed a child protection system *so that* their children can surf safely.
 
   Je vais répéter lentement *afin que* vous puissiez noter.
-  Ich werde langsam wiederholen, *damit* Sie mitschreiben können.
+  I'm going to repeat slowly so you can write along.
 
   Elle prend des vitamines *afin de* renforcer ses défenses immunitaires.
-  Sie nimmt Vitamine, *um ihr Immunsystem zu stärken*.
+  She takes vitamins to strengthen her immune system.
 
   Nous devons communiquer clairement *afin d'*éviter tout malentendu.
-  Wir müssen klar kommunizieren, *um Missverständnisse zu vermeiden*.
+  We need to communicate clearly *to avoid misunderstandings*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

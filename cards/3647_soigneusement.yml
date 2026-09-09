@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3647
 Wort: soigneusement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: soigneusement
 Femininum / Plural: ''
 IPA: \swa.ɲøz.mɑ̃\
-Definition: sorgfältig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Careful
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai *soigneusement* examiné le document.
-  Ich habe das Dokument *sorgfältig* geprüft.
+  I have carefully examined the document.
 
   Elle range *soigneusement* ses vêtements dans l'armoire.
-  Sie räumt ihre Kleidung *ordentlich* in den Schrank.
+  She cleans her clothes neatly in the closet.
 
   Les enfants ont *soigneusement* tracé leurs lettres dans leurs cahiers.
-  Die Kinder haben ihre Buchstaben *gewissenhaft* in ihre Hefte geschrieben.
+  The children have carefully written their letters in their notebooks.
 
   Il faut *soigneusement* éviter les erreurs dans ce type de travail.
-  Man muss Fehler bei dieser Art von Arbeit *peinlich* vermeiden.
+  You have to avoid mistakes in this kind of work embarrassingly.
 
   Le chirurgien a *soigneusement* préparé son intervention.
-  Der Chirurg hat seinen Eingriff *sorgfältig* vorbereitet.
+  The surgeon has prepared his procedure carefully.
 
   Nous avons *soigneusement* planifié notre voyage.
-  Wir haben unsere Reise *gewissenhaft* geplant.
+  We have carefully planned our journey.
 
   La grand-mère plie *soigneusement* les serviettes en papier.
-  Die Großmutter faltet die Servietten *ordentlich*.
+  The grandmother folds the napkins neatly.
 
   L'architecte a *soigneusement* conçu chaque détail de la maison.
-  Der Architekt hat jedes Detail des Hauses *sorgfältig* entworfen.
+  The architect has carefully designed every detail of the house.
 
   Marie note *soigneusement* toutes les instructions.
-  Marie schreibt alle Anweisungen *gewissenhaft* auf.
+  Marie carefully writes down all the instructions.
 
   Le jardinier a *soigneusement* taillé les arbustes.
-  Der Gärtner hat die Sträucher *sorgfältig* geschnitten.
+  The gardener has carefully cut the shrubs.
 
   Il faut installer *soigneusement* le nouveau logiciel.
-  Die neue Software muss *sorgfältig* installiert werden.
+  The new software must be installed carefully.
 
   Les scientifiques ont *soigneusement* analysé les résultats.
-  Die Wissenschaftler haben die Ergebnisse *gewissenhaft* analysiert.
+  The scientists have carefully analysed the results.
 
   Le restaurateur a *soigneusement* restauré le tableau ancien.
-  Der Restaurator hat das alte Gemälde *sorgfältig* restauriert.
+  The restorer has carefully restored the old painting.
 
   Elle a *soigneusement* vérifié tous les documents avant de les envoyer.
-  Sie hat alle Dokumente *gewissenhaft* überprüft, bevor sie sie abgeschickt hat.
+  She checked all the documents carefully before sending them.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

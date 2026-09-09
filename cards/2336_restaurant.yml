@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2336
 Wort: restaurant
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le restaurant
 Femininum / Plural: ''
 IPA: \ʁɛs.tɔ.ʁɑ̃\
 Definition: Restaurant
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'avais pensé l'emmener au *restaurant*.
-  Ich hatte vor, sie zum *Restaurant* mitzunehmen.
+  I was going to take her to the *restaurant*.
 
   Je travaille dans un *restaurant* chinois depuis deux ans.
-  Ich arbeite seit zwei Jahren in einem China*restaurant*.
+  I've been working in a Chinese *restaurant* for two years.
 
   "On va manger au *resto* ce soir ?"
-  "Gehen wir heute Abend ins *Restaurant*?"
+  "Are we going to the *restaurant* tonight?"
 
   Le *restaurant universitaire* est fermé pendant les vacances.
-  Die *Mensa* ist während der Ferien geschlossen.
+  The canteen is closed during the holidays.
 
   Ce *restaurant* gastronomique a obtenu deux étoiles Michelin.
-  Dieses Gourmet*restaurant* hat zwei Michelin-Sterne erhalten.
+  This gourmet *restaurant* has received two Michelin stars.
 
   Les employés mangent au *restaurant d'entreprise* à midi.
-  Die Angestellten essen mittags in der *Kantine*.
+  The staff eats at the *canteen* at noon.
 
   Il y a un nouveau *restaurant* libre-service près de mon bureau.
-  Es gibt ein neues Selbstbedienungs*restaurant* in der Nähe meines Büros.
+  There's a new self-service *restaurant* near my office.
 
   Le *restaurant* de la gare sert des repas 24 heures sur 24.
-  Das Bahnhofs*restaurant* serviert rund um die Uhr Mahlzeiten.
+  The train station *restaurant* serves meals around the clock.
 
   Les *Restaurants du Cœur* aident les plus démunis.
-  Die *Suppenküche* hilft den Bedürftigsten.
+  The *soup kitchen* helps the most needy.
 
   Ce *restaurant* à service rapide propose des options végétariennes.
-  Dieses Fast-Food-*Restaurant* bietet vegetarische Optionen an.
+  This fast-food *restaurant* offers vegetarian options.
 
   Le *restaurant* drive-in est pratique quand il pleut.
-  Das Drive-in-*Restaurant* ist praktisch, wenn es regnet.
+  The drive-in *restaurant* is convenient when it rains.
 
   Pierre a réservé une table dans un *restaurant* chic pour notre anniversaire.
-  Pierre hat für unseren Jahrestag einen Tisch in einem Nobel*restaurant* reserviert.
+  Pierre has reserved a table for our anniversary in a noble *restaurant*.
 
   La carte de ce *restaurant* de spécialités change selon les saisons.
-  Die Speisekarte dieses Spezialitäten*restaurants* wechselt je nach Jahreszeit.
+  The menu of this specialty restaurant changes depending on the season.
 
   Les clients peuvent payer avec des *tickets-restaurant*.
-  Die Kunden können mit *Restaurantschecks* bezahlen.
+  Customers can pay with *restaurant checks*.
 
   Le *restaurant* de l'aéroport propose des plats internationaux.
-  Das Flughafen*restaurant* bietet internationale Gerichte an.
+  The airport *restaurant* offers international dishes.
 
   Marie gère un petit *restaurant* familial dans le quartier.
-  Marie führt ein kleines *Restaurant* im Viertel.
+  Marie runs a small *restaurant* in the neighborhood.
 
   Notre *hôtel-restaurant* accueille beaucoup de touristes en été.
-  Unser *Hotel-Restaurant* empfängt im Sommer viele Touristen.
+  Our *hotel restaurant* welcomes many tourists in summer.
 
   Le *restaurant* de la maison de retraite propose des menus adaptés.
-  Das *Restaurant* des Altersheims bietet angepasste Menüs an.
+  The *restaurant* of the retirement home offers adapted menus.
 
   La voiture-*restaurant* du train était complète.
-  Der *Speise*wagen des Zugs war voll besetzt.
+  The train's dining car was full.
 
   "Allons dans ce *resto* italien, j'ai envie de pâtes."
-  "Lass uns in das italienische *Restaurant* gehen, ich habe Lust auf Pasta."
+  "Let's go to the Italian *restaurant*, I want pasta."
 
   Le menu de ce *restaurant* change tous les jours.
-  Die Speisekarte dieses *Restaurants* ändert sich täglich.
+  The menu of this restaurant changes daily.
 
   Ce *café-restaurant* est idéal pour le brunch du dimanche.
-  Dieses *Café-Restaurant* ist ideal für den Sonntagsbrunch.
+  This café-restaurant is ideal for Sunday brunch.
 
   Les critiques gastronomiques ont donné d'excellentes notes à ce *restaurant*.
-  Die Restaurantkritiker haben diesem *Restaurant* hervorragende Noten gegeben.
+  The *restaurant* critics have given this restaurant excellent notes.
 
   Dans ce *restaurant*, il faut réserver une semaine à l'avance.
-  In diesem *Restaurant* muss man eine Woche im Voraus reservieren.
+  In this *restaurant* you have to reserve a week in advance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

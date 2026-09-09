@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4025
 Wort: ambiance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une ambiance
 Femininum / Plural: ''
 IPA: \ɑ̃.bjɑ̃s\
-Definition: Stimmung, Atmosphäre
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Mood, atmosphere
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a une *ambiance* sympa dans cette ville.
-  In dieser Stadt herrscht eine nette *Atmosphäre*.
+  There's a nice *atmosphere* in this town.
 
   L'*ambiance* était très chaleureuse à la fête d'anniversaire.
-  Auf der Geburtstagsfeier herrschte eine warme *Stimmung*.
+  At the birthday party there was a warm atmosphere.
 
   Pour créer une bonne *ambiance* au bureau, nous organisons des déjeuners d'équipe.
-  Um ein gutes Betriebs*klima* zu schaffen, organisieren wir Team-Mittagessen.
+  In order to create a good working *climate*, we organize team lunch.
 
   "*L'ambiance est à l'orage* depuis que Paul et Marie se sont disputés."
-  "Es *herrscht dicke Luft*, seit Paul und Marie sich gestritten haben."
+  "There's been a lot of air since Paul and Marie had a fight."
 
   Notre équipe évolue dans une *ambiance* calme et productive.
-  Unser Team arbeitet in einem ruhigen *Umfeld*.
+  Our team works in a quiet *environment*.
 
   La musique d'*ambiance* douce crée une atmosphère relaxante dans le spa.
-  Die *gedämpfte* Musik schafft eine entspannende Atmosphäre im Spa.
+  The subdued music creates a relaxing atmosphere in the spa.
 
   Jean sait toujours *mettre de l'ambiance* dans les soirées.
-  Jean kann auf Partys immer *für Stimmung sorgen*.
+  Jean can always create a mood at parties.
 
   Elle va *mettre tout le monde dans l'ambiance* avant la fête.
-  Sie wird *alle* auf die Party *einstimmen*.
+  She'll *all* tune in on the party.
 
   "Il y avait une *ambiance* du tonnerre au concert hier soir !"
-  "Auf dem Konzert gestern Abend war eine Mords*stimmung*!"
+  "At the concert last night there was a mood of murder!"
 
   L'*ambiance* de travail s'est beaucoup améliorée depuis le changement de direction.
-  Das Arbeits*klima* hat sich seit dem Führungswechsel stark verbessert.
+  The working environment has improved considerably since the change of management.
 
   Nous avons créé une *ambiance* familiale dans notre petit restaurant.
-  Wir haben in unserem kleinen Restaurant eine familiäre *Atmosphäre* geschaffen.
+  We have created a family *atmosphere* in our small restaurant.
 
   Cette serre maintient une *ambiance* chaude et humide pour les plantes tropicales.
-  Dieses Gewächshaus hält eine warme und feuchte *Atmosphäre* für die tropischen Pflanzen.
+  This greenhouse keeps a warm and humid *atmosphere* for tropical plants.
 
   L'*ambiance* était plutôt morose pendant la réunion d'hier.
-  Die *Stimmung* war gestern während der Besprechung eher bedrückt.
+  The *mood* was rather depressed during the meeting yesterday.
 
   Le thermostat d'*ambiance* permet de régler la température automatiquement.
-  Der *Raum*thermostat regelt die Temperatur automatisch.
+  The room thermostat automatically regulates the temperature.
 
   "Quelle *ambiance* géniale à la soirée d'hier !"
-  "Was für eine tolle *Stimmung* auf der Party gestern!"
+  "What a great atmosphere at the party yesterday!"
 
   L'*ambiance* devient hostile quand on aborde ce sujet sensible.
-  Die *Stimmung* wird feindselig, wenn man dieses heikle Thema anspricht.
+  The *mood* becomes hostile when you address this delicate issue.
 
   Les lampes créent une *ambiance* tamisée dans le salon.
-  Die Lampen schaffen eine gedämpfte *Atmosphäre* im Wohnzimmer.
+  The lamps create a subdued *atmosphere* in the living room.
 
   Notre nouveau chef a su créer une excellente *ambiance* de travail.
-  Unser neuer Chef hat ein ausgezeichnetes Betriebs*klima* geschaffen.
+  Our new boss has created an excellent working environment.
 
   Cette musique d'*ambiance* est parfaite pour notre dîner romantique.
-  Diese *Hintergrund*musik ist perfekt für unser romantisches Abendessen.
+  This *background* music is perfect for our romantic dinner.
 
   L'*ambiance* est devenue plus détendue après la présentation.
-  Die *Atmosphäre* wurde nach der Präsentation entspannter.
+  The *atmosphere* became more relaxed after the presentation.
 
   Une bonne *ambiance* est essentielle pour la productivité de l'équipe.
-  Eine gute Arbeits*atmosphäre* ist wesentlich für die Produktivität des Teams.
+  A good working *atmosphere* is essential for the productivity of the team.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

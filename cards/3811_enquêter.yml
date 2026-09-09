@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3811
 Wort: enquêter
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: enquêter
 Femininum / Plural: ''
 IPA: \ɑ̃.ke.te\
-Definition: ermitteln, nachforschen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: research
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu veux vraiment *enquêter* sur lui ?
-  Willst du wirklich gegen ihn *ermitteln*?
+  You really want to investigate him?
 
   Les journalistes ont *enquêté* sur les conditions de travail dans cette usine.
-  Die Journalisten haben die Arbeitsbedingungen in dieser Fabrik *untersucht*.
+  Journalists have examined the working conditions in this factory.
 
   La police *enquête* sur une série de cambriolages dans le quartier.
-  Die Polizei *ermittelt* wegen einer Serie von Einbrüchen in der Gegend.
+  The police are investigating a series of burglaries in the area.
 
   Notre équipe va *enquêter* sur la satisfaction des clients.
-  Unser Team wird die Kundenzufriedenheit *untersuchen*.
+  Our team will investigate customer satisfaction.
 
   L'inspecteur *enquête* secrètement sur les activités du suspect.
-  Der Inspektor *ermittelt* verdeckt gegen die Aktivitäten des Verdächtigen.
+  The inspector's undercover investigating the suspect's activities.
 
   J'ai dû *enquêter* par téléphone auprès de tous les participants.
-  Ich musste bei allen Teilnehmern telefonisch *nachforschen*.
+  I had to search all participants by phone.
 
   Les sociologues ont *enquêté* sur les habitudes alimentaires des jeunes.
-  Die Soziologen haben die Essgewohnheiten der Jugendlichen *untersucht*.
+  Sociologists have *studied* the eating habits of young people.
 
   Le détective privé *enquête* sur la disparition mystérieuse.
-  Der Privatdetektiv *ermittelt* in dem mysteriösen Verschwinden.
+  The private investigator is investigating the mysterious disappearance.
 
   Nous devons *enquêter* sur l'origine de ces rumeurs.
-  Wir müssen dem Ursprung dieser Gerüchte *nachgehen*.
+  We need to investigate the origin of these rumors.
 
   Les experts vont *enquêter* sur les causes de l'accident.
-  Die Experten werden die Unfallursachen *untersuchen*.
+  The experts will investigate the causes of the accident.
 
   Elle s'est *enquêtée* du bien-être de ses employés.
-  Sie hat sich nach dem Wohlbefinden ihrer Angestellten *erkundigt*.
+  She asked about the well-being of her employees.
 
   Le commissaire *enquête* depuis trois mois sur cette affaire.
-  Der Kommissar *ermittelt* seit drei Monaten in diesem Fall.
+  The Commissioner has been investigating this case for three months.
 
   Nous allons *enquêter* sur les préférences des consommateurs.
-  Wir werden die Vorlieben der Verbraucher *erforschen*.
+  We will explore the preferences of consumers.
 
   Les historiens *enquêtent* sur l'origine de cette légende.
-  Die Historiker *forschen* nach dem Ursprung dieser Legende.
+  Historians search for the origin of this legend.
 
   La commission va *enquêter* sur ces allégations de corruption.
-  Die Kommission wird diese Korruptionsvorwürfe *untersuchen*.
+  The Commission will investigate these charges of corruption.
 
   Le journaliste s'est *enquêté* de la situation politique locale.
-  Der Journalist hat sich über die lokale politische Lage *informiert*.
+  The journalist informed himself about the local political situation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2571
 Wort: suspect
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: suspect
 Femininum / Plural: suspecte
 IPA: \sys.pɛ\
-Definition: verdächtig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Suspected
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *suspects* sont armés et très dangereux.
-  Die *Verdächtigen* sind bewaffnet und sehr gefährlich.
+  The *suspects* are armed and very dangerous.
 
   La police a identifié un nouveau *suspect* dans cette affaire.
-  Die Polizei hat einen neuen *Verdächtigen* in diesem Fall identifiziert.
+  The police have identified a new suspect in this case.
 
   Cette mort *suspecte* fait l'objet d'une enquête approfondie.
-  Dieser *verdächtige* Tod wird gründlich untersucht.
+  This suspicious death is being thoroughly investigated.
 
   Son comportement *suspect* a attiré l'attention des voisins.
-  Sein *verdächtiges* Verhalten hat die Aufmerksamkeit der Nachbarn erregt.
+  His *suspicious* behavior caught the attention of the neighbors.
 
   Les agents de sécurité ont repéré un colis *suspect* dans le hall de la gare.
-  Die Sicherheitsbeamten haben ein *verdächtiges* Paket in der Bahnhofshalle entdeckt.
+  Security officers have discovered a *suspicious* package in the station hall.
 
   La qualité *suspecte* de ces produits nous inquiète.
-  Die *zweifelhafte* Qualität dieser Produkte bereitet uns Sorgen.
+  We are concerned about the dubious quality of these products.
 
   Le principal *suspect* a été relâché faute de preuves.
-  Der Haupt*verdächtige* wurde aus Mangel an Beweisen freigelassen.
+  The prime *suspect* was released for lack of evidence.
 
   Cette viande a une odeur *suspecte*, je ne la mangerai pas.
-  Dieses Fleisch hat einen *verdächtigen* Geruch, ich werde es nicht essen.
+  This meat has a *suspicious* smell, I'm not going to eat it.
 
   Les trois *suspects* ont été placés en garde à vue.
-  Die drei *Verdächtigen* wurden in Gewahrsam genommen.
+  The three *suspects* were taken into custody.
 
   Un bruit *suspect* réveilla tout le monde en pleine nuit.
-  Ein *verdächtiges* Geräusch weckte alle mitten in der Nacht auf.
+  A *suspicious* sound woke everyone up in the middle of the night.
 
   Ce témoin est *suspect* de mensonge devant le tribunal.
-  Dieser Zeuge ist der Lüge vor Gericht *verdächtig*.
+  This witness is *suspected* of lying in court.
 
   Les symptômes *suspects* ont conduit à des tests supplémentaires.
-  Die *verdächtigen* Symptome führten zu weiteren Tests.
+  The *suspicious* symptoms led to further tests.
 
   La police a diffusé le portrait-robot du *suspect*.
-  Die Polizei hat ein Phantombild des *Verdächtigen* veröffentlicht.
+  The police have published a phantom image of the suspect.
 
   Son histoire me paraît *suspecte*.
-  Seine Geschichte kommt mir *verdächtig* vor.
+  His story seems suspicious.
 
   Les autorités ont identifié plusieurs activités *suspectes* sur son compte bancaire.
-  Die Behörden haben mehrere *verdächtige* Aktivitäten auf seinem Bankkonto festgestellt.
+  The authorities have identified several suspicious activities in his bank account.
 
   Le gardien a signalé des mouvements *suspects* autour du bâtiment.
-  Der Wächter meldete *verdächtige* Bewegungen um das Gebäude herum.
+  The guard reported suspicious movements around the building.
 
   Cette entreprise est *suspecte* de fraude fiscale.
-  Dieses Unternehmen ist der Steuerhinterziehung *verdächtig*.
+  This company is *suspected* of tax evasion.
 
   Les médecins ont découvert une tumeur *suspecte*.
-  Die Ärzte haben einen *verdächtigen* Tumor entdeckt.
+  The doctors have discovered a *suspicious* tumor.
 
   Le jury considère son témoignage comme *suspect*.
-  Die Jury hält seine Aussage für *verdächtig*.
+  The jury thinks his testimony is suspicious.
 
   Un véhicule *suspect* a été repéré près de la banque.
-  Ein *verdächtiges* Fahrzeug wurde in der Nähe der Bank gesichtet.
+  A *suspicious* vehicle was sighted near the bank.
 
   Le serveur a remarqué le comportement *suspect* du client.
-  Der Kellner bemerkte das *verdächtige* Verhalten des Gastes.
+  The waiter noticed the suspicious behaviour of the guest.
 
   Cette transaction *suspecte* a déclenché une alerte.
-  Diese *verdächtige* Transaktion hat einen Alarm ausgelöst.
+  This suspicious transaction has triggered an alarm.
 
   Les douaniers ont intercepté un chargement *suspect*.
-  Die Zollbeamten haben eine *verdächtige* Ladung abgefangen.
+  The customs officers intercepted a suspicious cargo.
 
   Tous les *suspects* ont un alibi solide.
-  Alle *Verdächtigen* haben ein wasserdichtes Alibi.
+  All *suspects* have a waterproof alibi.
 
   Sa gentillesse soudaine me paraît *suspecte*.
-  Seine plötzliche Freundlichkeit kommt mir *verdächtig* vor.
+  His sudden kindness seems suspicious to me.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

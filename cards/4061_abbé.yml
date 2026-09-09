@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4061
 Wort: abbé
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un abbé
 Femininum / Plural: ''
 IPA: \a.be\
 Definition: Abt
-Register: ↗Fiktion ↘Mündlich
+Register: ↗fiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vous présente m. l'*abbé*.
-  Ich stelle Ihnen Herrn *Pfarrer* vor.
+  I'll introduce you to Father.
 
   L'*abbé* Martin dirige notre paroisse depuis vingt ans.
-  *Pfarrer* Martin leitet unsere Gemeinde seit zwanzig Jahren.
+  Father Martin has been the head of our congregation for twenty years.
 
   Notre nouvel *abbé* célébrera sa première messe dimanche.
-  Unser neuer *Priester* wird am Sonntag seine erste Messe feiern.
+  Our new *priest* will celebrate his first Mass on Sunday.
 
   L'*abbé* du monastère a accueilli les pèlerins avec bienveillance.
-  Der *Abt* des Klosters hat die Pilger wohlwollend empfangen.
+  The abbot of the monastery welcomed the pilgrims in a benevolent way.
 
   Les moines ont élu un nouvel *abbé* hier matin.
-  Die Mönche haben gestern Morgen einen neuen *Abt* gewählt.
+  The monks chose a new abbot yesterday morning.
 
   Monsieur l'*abbé*, pourriez-vous bénir cette médaille ?
-  Herr *Pfarrer*, könnten Sie diese Medaille segnen?
+  Reverend, could you bless this medal?
 
   L'*abbé* Pierre a consacré sa vie aux plus démunis.
-  *Pater* Pierre hat sein Leben den Ärmsten gewidmet.
+  *Father* Pierre dedicated his life to the poorest.
 
   C'est l'*abbé* du monastère qui m'a donné ces conseils spirituels.
-  Der *Abt* des Klosters hat mir diese spirituellen Ratschläge gegeben.
+  The abbot of the monastery gave me this spiritual advice.
 
   L'*abbé* Bernard prépare les enfants à leur première communion.
-  *Pfarrer* Bernard bereitet die Kinder auf ihre erste Kommunion vor.
+  Father Bernard prepares the children for their first communion.
 
   As-tu déjà parlé à l'*abbé* de ton projet de mariage ?
-  Hast du schon mit dem *Pfarrer* über deine Heiratspläne gesprochen?
+  Have you talked to the priest about your marriage plans yet?
 
   L'*abbé* préside la cérémonie dans la chapelle.
-  Der *Priester* leitet die Zeremonie in der Kapelle.
+  The *priest* conducts the ceremony in the chapel.
 
   Les fidèles attendent l'arrivée de l'*abbé* pour commencer la messe.
-  Die Gläubigen warten auf die Ankunft des *Priesters*, um die Messe zu beginnen.
+  The faithful await the arrival of the priest to begin Mass.
 
   L'ancien *abbé* de ce monastère a écrit plusieurs livres sur la spiritualité.
-  Der frühere *Abt* dieses Klosters hat mehrere Bücher über Spiritualität geschrieben.
+  The former abbot of this monastery has written several books on spirituality.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

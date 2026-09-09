@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4837
 Wort: maltraiter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: maltraiter
 Femininum / Plural: ''
 IPA: \mal.tʁe.te\
-Definition: misshandeln
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Mistreatment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous me forcez vraiment à vous *maltraiter*.
-  Sie zwingen mich wirklich dazu, Sie *schlecht zu behandeln*.
+  You really make me treat you badly.
 
   Les journalistes ont *maltraité* le nouveau film du réalisateur.
-  Die Journalisten haben den neuen Film des Regisseurs *verrissen*.
+  The journalists have torn up the director's new film.
 
   Cette mère a été condamnée pour avoir *maltraité* ses enfants.
-  Diese Mutter wurde verurteilt, weil sie ihre Kinder *misshandelt* hatte.
+  This mother was convicted for mistreatment of her children.
 
   La critique a sévèrement *maltraité* son dernier roman.
-  Die Kritik hat seinen letzten Roman stark *hergemacht*.
+  Criticism has made his last novel strong.
 
   Dans son texte, il *maltraite* constamment la grammaire française.
-  In seinem Text *verstößt* er ständig *gegen* die französische Grammatik.
+  In his text he constantly violates French grammar.
 
   Les enquêteurs ont découvert des chiens *maltraités* dans ce refuge.
-  Die Ermittler haben *misshandelte* Hunde in diesem Tierheim entdeckt.
+  Investigators have discovered *abused* dogs in this shelter.
 
   "Tu *maltraites* vraiment cette pauvre voiture !"
-  "Du *misshandelst* dieses arme Auto wirklich!"
+  "You really abuse this poor car!"
 
   L'histoire a été complètement *maltraitée* dans ce film historique.
-  Die Geschichte wurde in diesem historischen Film völlig *entstellt*.
+  The story was completely *disfigured* in this historical film.
 
   Le destin l'a cruellement *maltraité* ces dernières années.
-  Das Schicksal hat ihn in den letzten Jahren grausam *mitgenommen*.
+  Fate has cruelly *taken* him away in recent years.
 
   Les critiques ont *maltraité* sa performance sur scène.
-  Die Kritiker haben seine Bühnenaufführung *verrissen*.
+  The critics have torn off his stage performance.
 
   Il a été arrêté pour avoir *maltraité* des prisonniers.
-  Er wurde verhaftet, weil er Gefangene *misshandelt* hatte.
+  He was arrested for mistreatment of prisoners.
 
   Les médias ont *maltraité* le nouveau président dès son élection.
-  Die Medien haben den neuen Präsidenten seit seiner Wahl *fertiggemacht*.
+  The media have *finished* the new president since his election.
 
   Dans son adaptation, le réalisateur *maltraite* complètement l'œuvre originale.
-  In seiner Adaptation *entstellt* der Regisseur das Originalwerk völlig.
+  In his adaptation, the director completely distorts the original work.
 
   La police enquête sur des cas d'animaux *maltraités*.
-  Die Polizei ermittelt in Fällen von *misshandelten* Tieren.
+  The police are investigating cases of maltreated animals.
 
   Le jury a *maltraité* tous les candidats ce soir-là.
-  Die Jury hat an diesem Abend alle Kandidaten *fertiggemacht*.
+  The jury beat up all the candidates that night.
 
   Les critiques littéraires ont *maltraité* son premier livre.
-  Die Literaturkritiker haben sein erstes Buch *verrissen*.
+  The literary critics have torn his first book.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

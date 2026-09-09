@@ -1,46 +1,46 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3408
 Wort: surpris
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: surpris
 Femininum / Plural: surprise
 IPA: \syʁ.pʁi\
-Definition: überrascht
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Surprised
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez l'air *surpris* de me voir.
-  Sie sehen *überrascht* aus, mich zu sehen.
+  You look *surprised* to see me.
 
   Je suis *surpris* qu'il n'ait pas encore appelé.
-  Ich bin *überrascht*, dass er noch nicht angerufen hat.
+  I'm *surprised* he hasn't called yet.
 
   Il a fait une mine *surprise* quand il a vu le gâteau.
-  Er machte ein *überraschtes* Gesicht, als er den Kuchen sah.
+  He made a *surprised* face when he saw the cake.
 
   J'étais le premier *surpris* de mon succès.
-  Ich war von meinem Erfolg selbst am meisten *überrascht*.
+  I was most *surprised* by my success.
 
   Le regard *surpris* de ma mère m'a fait rire.
-  Der *überraschte* Blick meiner Mutter brachte mich zum Lachen.
+  My mother's *surprised* look made me laugh.
 
   Les spectateurs ont paru *surpris* par la fin du spectacle.
-  Die Zuschauer wirkten vom Ende der Vorstellung *überrascht*.
+  The audience seemed *surprised* by the end of the performance.
 
   Elle affichait un air *surpris* en lisant la lettre.
-  Sie zeigte einen *überraschten* Ausdruck beim Lesen des Briefes.
+  She showed a surprising expression when reading the letter.
 
   Les chercheurs ont été *surpris* par leurs découvertes.
-  Die Forscher waren von ihren Entdeckungen *überrascht*.
+  The researchers were *surprised* by their discoveries.
 
   Tout le monde était *surpris* par sa décision soudaine.
-  Alle waren von seiner plötzlichen Entscheidung *überrascht*.
+  Everyone was *surprised* by his sudden decision.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

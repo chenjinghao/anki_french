@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4664
 Wort: intolérable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: intolérable
 Femininum / Plural: ''
 IPA: \ɛ̃.tɔ.le.ʁabl\
-Definition: unerträglich, inakzeptabel
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: intolerable, unacceptable
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Leurs conditions de vie deviennent *intolérables*.
-  Ihre Lebensbedingungen werden *unerträglich*.
+  Their living conditions become *unbearable*.
 
   Cette chaleur est vraiment *intolérable* aujourd'hui.
-  Diese Hitze ist heute wirklich *unerträglich*.
+  This heat is really *unbearable* today.
 
   Le bruit constant des travaux est *intolérable*.
-  Der ständige Baulärm ist *unerträglich*.
+  The constant building noise is *unbearable*.
 
   Son comportement envers ses collègues est devenu *intolérable*.
-  Sein Verhalten gegenüber seinen Kollegen ist *inakzeptabel* geworden.
+  His behaviour towards his colleagues has become *unacceptable*.
 
   La douleur était tellement *intolérable* qu'elle est allée directement aux urgences.
-  Die Schmerzen waren so *unerträglich*, dass sie direkt in die Notaufnahme ging.
+  The pain was so *unbearable* that she went straight to the emergency room.
 
   Cette situation est *intolérable* et doit changer immédiatement.
-  Diese Situation ist *inakzeptabel* und muss sich sofort ändern.
+  This situation is *unacceptable* and must change immediately.
 
   L'odeur *intolérable* nous a forcés à quitter l'appartement.
-  Der *unerträgliche* Geruch zwang uns, die Wohnung zu verlassen.
+  The *unbearable* smell forced us to leave the apartment.
 
   Sa présence m'est devenue *intolérable* après notre dispute.
-  Seine Anwesenheit wurde für mich nach unserem Streit *unerträglich*.
+  His presence became *unbearable* for me after our fight.
 
   Les pratiques discriminatoires de cette entreprise sont *intolérables*.
-  Die diskriminierenden Praktiken dieser Firma sind *inakzeptabel*.
+  The discriminatory practices of this company are *unacceptable*.
 
   L'humidité *intolérable* de la chambre causait des problèmes respiratoires.
-  Die *unerträgliche* Feuchtigkeit im Zimmer verursachte Atemprobleme.
+  The *unbearable* humidity in the room caused breathing problems.
 
   Cette injustice est absolument *intolérable*.
-  Diese Ungerechtigkeit ist absolut *inakzeptabel*.
+  This injustice is absolutely *unacceptable*.
 
   Le stress au travail est devenu *intolérable* pour beaucoup d'employés.
-  Der Stress bei der Arbeit ist für viele Angestellte *unerträglich* geworden.
+  The stress at work has become *unbearable* for many employees.
 
   L'attente est devenue *intolérable* après trois heures.
-  Das Warten wurde nach drei Stunden *unerträglich*.
+  The wait became *unbearable* after three hours.
 
   Les remarques *intolérables* de Pierre ont gâché la soirée.
-  Pierres *inakzeptable* Bemerkungen haben den Abend ruiniert.
+  Pierre's *unacceptable* remarks have ruined the evening.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

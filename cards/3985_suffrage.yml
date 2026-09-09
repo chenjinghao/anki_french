@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3985
 Wort: suffrage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le suffrage
 Femininum / Plural: ''
 IPA: \sy.fʁaʒ\
-Definition: (Wahl-)stimme, Zustimmung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (Electoral) vote, vote
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *suffrage* est le court moment du souverain.
-  Die *Wahl* ist der kurze Moment des Souveräns.
+  The *election* is the short moment of the Sovereign.
 
   Le *suffrage* universel a été introduit en France en 1848.
-  Das allgemeine *Wahlrecht* wurde 1848 in Frankreich eingeführt.
+  The general *right to vote* was introduced in France in 1848.
 
   Mon *suffrage* était nul car j'ai mal rempli le bulletin.
-  Meine *Stimme* war ungültig, weil ich den Wahlzettel falsch ausgefüllt habe.
+  My vote was invalid because I filled out the ballot slip wrongly.
 
   Les femmes n'ont obtenu le droit de *suffrage* qu'en 1944.
-  Die Frauen erhielten das *Stimm*recht erst 1944.
+  The women received the vote only in 1944.
 
   Le décompte des *suffrages* exprimés a duré toute la nuit.
-  Die Auszählung der abgegebenen *Stimmen* dauerte die ganze Nacht.
+  The counting of the *votes* cast lasted all night.
 
   Son film a remporté tous les *suffrages* du jury.
-  Sein Film fand die volle *Zustimmung* der Jury.
+  His film received the jury's full approval.
 
   Le *suffrage* direct permet aux citoyens d'élire directement leurs représentants.
-  Die direkte *Wahl* ermöglicht es den Bürgern, ihre Vertreter unmittelbar zu wählen.
+  The direct *election* allows citizens to elect their representatives directly.
 
   Pierre a obtenu la majorité des *suffrages* au premier tour.
-  Pierre hat die Mehrheit der *Stimmen* im ersten Wahlgang erhalten.
+  Pierre received the majority of *votes* in the first ballot.
 
   Le taux de participation aux *suffrages* était particulièrement élevé cette année.
-  Die Beteiligung an der *Wahl* war dieses Jahr besonders hoch.
+  Participation in the *election* was particularly high this year.
 
   Les électeurs peuvent exprimer leur *suffrage* de 8h à 20h.
-  Die Wähler können ihre *Stimme* von 8 bis 20 Uhr abgeben.
+  Voters can vote from 8 a.m. to 8 p.m.
 
   Cette décision a recueilli le *suffrage* de tous les membres du conseil.
-  Diese Entscheidung fand die *Zustimmung* aller Ratsmitglieder.
+  This decision was approved by all the members of the Council.
 
   Il faut compter tous les *suffrages*, même les votes blancs.
-  Man muss alle *Stimmen* zählen, auch die leeren Stimmzettel.
+  You have to count all the *votes*, including the empty ballot papers.
 
   La candidate a réuni 40% des *suffrages* exprimés.
-  Die Kandidatin erhielt 40% der abgegebenen *Stimmen*.
+  The candidate received 40% of the *votes* cast.
 
   Le mode de *suffrage* varie selon les pays.
-  Die Art der *Wahl* unterscheidet sich von Land zu Land.
+  The type of *election* differs from country to country.
 
   Les résultats des *suffrages* seront annoncés demain matin.
-  Die *Wahl*ergebnisse werden morgen früh bekannt gegeben.
+  The *election* results will be announced tomorrow morning.
 
   Je lui donnerai mon *suffrage* lors des prochaines élections.
-  Ich werde ihr bei den nächsten Wahlen meine *Stimme* geben.
+  I'll give her my vote in the next election.
 
   Le *suffrage* indirect se fait par l'intermédiaire des grands électeurs.
-  Die indirekte *Wahl* erfolgt über Wahlmänner.
+  The indirect *election* is made by electors.
 
   Cette pièce de théâtre a remporté tous les *suffrages* du public.
-  Dieses Theaterstück fand beim Publikum ungeteilten *Beifall*.
+  This play received undivided *applause* from the audience.
 
   Les *suffrages* sont comptés sous la surveillance d'observateurs internationaux.
-  Die *Stimmen* werden unter der Aufsicht internationaler Beobachter ausgezählt.
+  The *votes* shall be counted under the supervision of international observers.
 
   Le nouveau système de *suffrage* sera mis en place l'année prochaine.
-  Das neue *Wahl*system wird nächstes Jahr eingeführt.
+  The new electoral system will be introduced next year.
 
   Chaque citoyen doit pouvoir exercer son droit de *suffrage* librement.
-  Jeder Bürger muss sein *Wahl*recht frei ausüben können.
+  Every citizen must be free to exercise his or her right to vote.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

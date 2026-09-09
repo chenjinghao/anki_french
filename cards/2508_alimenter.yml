@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2508
 Wort: alimenter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: alimenter
 Femininum / Plural: ''
 IPA: \a.li.mɑ̃.te\
-Definition: versorgen, ernähren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: supply, feed
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'*alimentais* ma peur en mangeant.
-  Ich *nährte* meine Angst durch das Essen.
+  I fed my fear through the food.
 
   Le médecin a dû *alimenter* le patient de force.
-  Der Arzt musste den Patienten *zwangsernähren*.
+  The doctor had to force-feed the patient.
 
   Cette centrale *alimente* toute la région en électricité.
-  Dieses Kraftwerk *versorgt* die ganze Region mit Strom.
+  This power plant supplies electricity to the entire region.
 
   Mon grand-père *alimente* les oiseaux dans son jardin chaque matin.
-  Mein Großvater *füttert* jeden Morgen die Vögel in seinem Garten.
+  My grandfather feeds the birds in his garden every morning.
 
   Les agriculteurs locaux *alimentent* les marchés en légumes frais.
-  Die lokalen Bauern *versorgen* die Märkte mit frischem Gemüse.
+  Local farmers provide the markets with fresh vegetables.
 
   Ces rumeurs ont *alimenté* sa méfiance envers moi.
-  Diese Gerüchte haben sein Misstrauen mir gegenüber *genährt*.
+  These rumors have fed his distrust of me.
 
   Marie ne s'*alimente* plus depuis trois jours.
-  Marie *nimmt* seit drei Tagen keine Nahrung mehr *zu sich*.
+  Marie hasn't eaten food in three days.
 
   Le technicien *alimente* la chaudière en mazout.
-  Der Techniker *versorgt* den Heizkessel mit Heizöl.
+  The technician supplies the boiler with heating oil.
 
   Les médias sociaux *alimentent* constamment les débats.
-  Die sozialen Medien *halten* die Debatten ständig *am Leben*.
+  Social media *keep* the debates alive.
 
   Comment cette ville s'*alimente*-t-elle en eau potable ?
-  Wie *versorgt* sich diese Stadt mit Trinkwasser?
+  How does this city provide drinking water?
 
   Le scandale continue à *alimenter* les conversations.
-  Der Skandal sorgt weiterhin für *Gesprächsstoff*.
+  The scandal continues to cause talk.
 
   Il faut *alimenter* le feu régulièrement pour maintenir la chaleur.
-  Man muss das Feuer regelmäßig *am Brennen halten*, um die Wärme zu bewahren.
+  You have to keep the fire burning regularly to keep the heat.
 
   Ces évènements ont *alimenté* la colère des manifestants.
-  Diese Ereignisse haben die Wut der Demonstranten *geschürt*.
+  These events have fueled the protesters' anger.
 
   Le bébé ne s'*alimente* que de lait maternel.
-  Das Baby *ernährt* sich nur von Muttermilch.
+  The baby only feeds on breast milk.
 
   Cette source *alimente* plusieurs villages en eau.
-  Diese Quelle *versorgt* mehrere Dörfer mit Wasser.
+  This source provides water to several villages.
 
   Les ragots *alimentent* sa jalousie depuis des années.
-  Der Klatsch *nährt* seit Jahren ihre Eifersucht.
+  The gossip has been feeding her jealousy for years.
 
   Il faut *alimenter* le distributeur en pièces de monnaie.
-  Man muss den Automaten mit Münzen *bestücken*.
+  You have to put coins on the vending machine.
 
   L'infirmière *alimente* le patient par perfusion.
-  Die Krankenschwester *ernährt* den Patienten über eine Infusion.
+  The nurse feeds the patient via an infusion.
 
   Cette région *alimente* le pays en céréales.
-  Diese Region *versorgt* das Land mit Getreide.
+  This region supplies the country with grain.
 
   Le conducteur a oublié d'*alimenter* sa voiture en essence.
-  Der Fahrer hat vergessen, sein Auto mit Benzin zu *versorgen*.
+  The driver forgot to *supply* his car with gasoline.
 
   Ces souvenirs *alimentent* sa nostalgie.
-  Diese Erinnerungen *nähren* seine Nostalgie.
+  These memories *nourish* his nostalgia.
 
   La nappe phréatique *alimente* plusieurs puits.
-  Das Grundwasser *speist* mehrere Brunnen.
+  The groundwater feeds several wells.
 
   Les plaisanteries d'Antoine *alimentaient* la bonne humeur.
-  Antoines Witze *hielten* die gute Stimmung *aufrecht*.
+  Antoine's jokes kept the good mood up.
 
   Cette usine s'*alimente* en électricité grâce aux panneaux solaires.
-  Diese Fabrik *versorgt* sich durch Solarpanele mit Strom.
+  This factory supplies electricity through solar panels.
 
   Il ne s'*alimente* que de fruits et légumes.
-  Er *ernährt* sich nur von Obst und Gemüse.
+  He only feeds on fruits and vegetables.
 
   Les nouvelles technologies *alimentent* notre curiosité.
-  Die neuen Technologien *nähren* unsere Neugier.
+  The new technologies feed our curiosity.
 
   Cette histoire *alimente* son inspiration artistique.
-  Diese Geschichte *speist* seine künstlerische Inspiration.
+  This story feeds his artistic inspiration.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

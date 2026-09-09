@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4296
 Wort: indépendamment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: indépendamment
 Femininum / Plural: ''
 IPA: \ɛ̃.de.pɑ̃.da.mɑ̃\
-Definition: unabhängig; ungeachtet
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: independent, regardless of:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Chaque paquet est traité *indépendamment*.
-  Jedes Paket wird *unabhängig* bearbeitet.
+  Each package is edited independently.
 
   Les chercheurs ont analysé les données *indépendamment les uns des autres*.
-  Die Forscher analysierten die Daten *unabhängig voneinander*.
+  The researchers analysed the data independently of each other.
 
   *Indépendamment de* son âge, Marie fait du sport tous les jours.
-  *Unabhängig von* ihrem Alter treibt Marie jeden Tag Sport.
+  Regardless of her age, Marie does sports every day.
 
   Les deux équipes travaillent *indépendamment l'une de l'autre* sur le projet.
-  Die beiden Teams arbeiten *unabhängig voneinander* an dem Projekt.
+  The two teams work independently on the project.
 
   *Indépendamment de* ses problèmes de santé, elle continue à sourire.
-  *Unabhängig von* ihren gesundheitlichen Problemen lächelt sie weiter.
+  Regardless of her health problems, she continues to smile.
 
   Les jurés doivent prendre leur décision *indépendamment*.
-  Die Geschworenen müssen ihre Entscheidung *unabhängig* treffen.
+  The jury must make its decision independently.
 
   *Indépendamment du* temps qu'il fait, nous irons à la plage demain.
-  *Unabhängig vom* Wetter werden wir morgen an den Strand gehen.
+  Regardless of the weather, we will go to the beach tomorrow.
 
   Ces deux phénomènes se produisent *indépendamment l'un de l'autre*.
-  Diese beiden Phänomene treten *unabhängig voneinander* auf.
+  These two phenomena occur independently of each other.
 
   *Indépendamment de* son salaire, Thomas adore son nouveau travail.
-  *Unabhängig von* seinem Gehalt liebt Thomas seine neue Arbeit.
+  Regardless of his salary, Thomas loves his new job.
 
   Les enfants apprennent à penser *indépendamment*.
-  Die Kinder lernen *unabhängig* zu denken.
+  The children learn to think independently.
 
   *Indépendamment du* résultat, nous sommes fiers de nos efforts.
-  *Unabhängig vom* Ergebnis sind wir stolz auf unsere Bemühungen.
+  Regardless of the outcome, we are proud of our efforts.
 
   Ces deux comités fonctionnent *indépendamment*.
-  Diese beiden Ausschüsse arbeiten *unabhängig*.
+  These two committees operate independently.
 
   *Indépendamment de* ses origines, chacun mérite le respect.
-  *Unabhängig von* seiner Herkunft verdient jeder Respekt.
+  Regardless of its origin, everyone deserves respect.
 
   *Indépendamment du* prix, cette voiture ne me plaît pas.
-  *Unabhängig vom* Preis gefällt mir dieses Auto nicht.
+  Regardless of the price, I don't like this car.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

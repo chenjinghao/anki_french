@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3732
 Wort: intervenant
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un intervenant
 Femininum / Plural: intervenante
 IPA: \ɛ̃.tɛʁ.və.nɑ̃\
-Definition: Beteiligter, Redner
-Register: ↘Fiktion ↗Mündlich
+Definition: Participant, speaker
+Register: ↘fiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai été un *intervenant* de notre système de justice.
-  Ich war ein *Streithelfer* in unserem Justizsystem.
+  I was an intervener in our justice system.
 
   Tous les *intervenants* au colloque viennent de pays différents.
-  Alle *Redner* auf der Konferenz kommen aus verschiedenen Ländern.
+  All the *speakers* at the conference come from different countries.
 
   L'*intervenante* principale a fait un exposé passionnant sur le climat.
-  Die Haupt*rednerin* hat einen spannenden Vortrag über das Klima gehalten.
+  The main speaker gave an exciting lecture on the climate.
 
   Les *intervenants* ont été invités à répondre aux questions du public.
-  Die *Teilnehmer* wurden eingeladen, die Fragen des Publikums zu beantworten.
+  The *participants* were invited to answer the questions of the audience.
 
   Le dernier *intervenant* a soulevé un point intéressant.
-  Der letzte *Redner* hat einen interessanten Punkt aufgeworfen.
+  The last speaker raised an interesting point.
 
   Notre *intervenante* n'a malheureusement pas pu venir aujourd'hui.
-  Unsere *Rednerin* konnte heute leider nicht kommen.
+  Unfortunately, our *speaker* could not come today.
 
   Plusieurs *intervenants* ont critiqué cette proposition.
-  Mehrere *Beteiligte* haben diesen Vorschlag kritisiert.
+  Several stakeholders have criticised this proposal.
 
   L'*intervenant* demande à être entendu dans cette affaire.
-  Der *Streithelfer* beantragt, in dieser Sache gehört zu werden.
+  The intervener requests that the matter be heard.
 
   Une nouvelle *intervenante* s'est jointe au débat.
-  Eine neue *Teilnehmerin* hat sich der Diskussion angeschlossen.
+  A new *participant* joined the discussion.
 
   Les *intervenants* ont signé une déclaration commune.
-  Die *Beteiligten* haben eine gemeinsame Erklärung unterzeichnet.
+  The parties have signed a joint declaration.
 
   Chaque *intervenant* dispose de dix minutes pour s'exprimer.
-  Jeder *Redner* hat zehn Minuten Zeit, sich zu äußern.
+  Each speaker has ten minutes to speak.
 
   L'*intervenante* a apporté un nouvel éclairage sur la question.
-  Die *Rednerin* hat ein neues Licht auf die Frage geworfen.
+  The *speaker* has shed a new light on the question.
 
   Je serai l'*intervenant* principal à la conférence de demain.
-  Ich werde morgen der Haupt*redner* auf der Konferenz sein.
+  I'll be the main *speaker* at the conference tomorrow.
 
   Les *intervenants* du débat ont tous fait preuve de respect mutuel.
-  Die *Teilnehmer* der Debatte haben alle gegenseitigen Respekt gezeigt.
+  The *participants* in the debate have shown all mutual respect.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

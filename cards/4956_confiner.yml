@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4956
 Wort: confiner
 Wortart: vi, vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: confiner
 Femininum / Plural: ''
 IPA: \kɔ̃.fi.ne\
-Definition: einsperren, abriegeln
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: lock it, lock it off
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le plasma reste *confiné* à la surface du solide.
-  Das Plasma bleibt an der Oberfläche des Festkörpers *begrenzt*.
+  The plasma remains *limited* on the surface of the solid.
 
   La France *confine* à l'Espagne au sud-ouest.
-  Frankreich *grenzt* im Südwesten an Spanien.
+  France borders Spain in the southwest.
 
   Son arrogance *confine* à la stupidité.
-  Seine Arroganz *grenzt* an Dummheit.
+  His arrogance is *bordered* by stupidity.
 
   Les autorités ont *confiné* toute la population pendant trois semaines.
-  Die Behörden haben die gesamte Bevölkerung drei Wochen lang *eingesperrt*.
+  The authorities have detained the entire population for three weeks.
 
   Le directeur *confine* Marie dans des tâches administratives.
-  Der Direktor *beschränkt* Marie auf administrative Aufgaben.
+  The director limits Marie to administrative tasks.
 
   Elle s'est *confinée* dans sa chambre pour réviser ses examens.
-  Sie hat sich zum Lernen für die Prüfungen in ihrem Zimmer *eingeschlossen*.
+  She locked herself in her room to study for the exams.
 
   Cette prairie *confine* à la forêt.
-  Diese Wiese *grenzt* an den Wald.
+  This meadow borders the forest.
 
   Le gardien a *confiné* les prisonniers dans leurs cellules.
-  Der Wächter hat die Gefangenen in ihren Zellen *eingesperrt*.
+  The guard locked the prisoners in their cells.
 
   La Suisse *confine* à quatre pays différents.
-  Die Schweiz *grenzt* an vier verschiedene Länder.
+  Switzerland borders on four different countries.
 
   Il s'est volontairement *confiné* dans la solitude.
-  Er hat sich freiwillig in die Einsamkeit *zurückgezogen*.
+  He voluntarily retreated into loneliness.
 
   Les parents ont *confiné* leurs enfants à la maison pendant l'épidémie.
-  Die Eltern haben ihre Kinder während der Epidemie zu Hause *eingesperrt*.
+  The parents locked up their children at home during the epidemic.
 
   L'air *confiné* de la pièce nous empêchait de respirer.
-  Die *abgestandene* Luft im Raum hinderte uns am Atmen.
+  The stale air in the room prevented us from breathing.
 
   Son talent ne devrait pas être *confiné* à ce petit bureau.
-  Sein Talent sollte nicht auf dieses kleine Büro *beschränkt* sein.
+  His talent shouldn't be *limited* to this little office.
 
   Cette attitude *confine* au mépris.
-  Diese Haltung *grenzt* an Verachtung.
+  This attitude is *bordered* by contempt.
 
   Les étudiants se sont *confinés* dans la bibliothèque pour préparer l'examen.
-  Die Studenten haben sich zur Prüfungsvorbereitung in der Bibliothek *eingeschlossen*.
+  The students have locked themselves in the library for exam preparation.
 
   Le professeur a dû *confiner* les élèves dans la classe pendant l'alerte.
-  Der Lehrer musste die Schüler während des Alarms im Klassenraum *einschließen*.
+  The teacher had to lock the students in the classroom during the alarm.
 
   L'entreprise l'a *confiné* dans un poste sans responsabilités.
-  Die Firma hat ihn auf einen Posten ohne Verantwortung *beschränkt*.
+  The company has *limited* him to a post without responsibility.
 
   Cette région *confine* au désert.
-  Diese Region *grenzt* an die Wüste.
+  This region borders the desert.
 
   L'atmosphère *confinée* du sous-sol était insupportable.
-  Die *stickige* Atmosphäre im Keller war unerträglich.
+  The stuffy atmosphere in the basement was unbearable.
 
   Elle refuse de se *confiner* dans ce rôle traditionnel.
-  Sie weigert sich, sich auf diese traditionelle Rolle zu *beschränken*.
+  She refuses to confine herself to this traditional role.
 
   Le gouvernement a *confiné* la ville entière pendant deux mois.
-  Die Regierung hat die ganze Stadt zwei Monate lang *abgeriegelt*.
+  The government's *locked* the whole city down for two months.
 
   Leur propriété *confine* à la rivière.
-  Ihr Grundstück *grenzt* an den Fluss.
+  Their property is *bordered* by the river.
 
   Cette remarque *confine* à l'insulte.
-  Diese Bemerkung *grenzt* an Beleidigung.
+  This remark is *bordered* by insult.
 
   Je me suis *confiné* chez moi pendant le weekend.
-  Ich habe mich am Wochenende zu Hause *eingeschlossen*.
+  I locked myself up at home this weekend.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

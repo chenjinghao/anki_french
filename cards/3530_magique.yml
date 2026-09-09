@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3530
 Wort: magique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: magique
 Femininum / Plural: ''
 IPA: \ma.ʒik\
-Definition: magisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Magical
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai pas de pouvoir *magique* moi.
-  Ich habe keine *magischen* Kräfte.
+  I don't have magical powers.
 
   Elle a trouvé la formule *magique* pour résoudre ce problème.
-  Sie hat die *magische* Formel gefunden, um dieses Problem zu lösen.
+  She found the *magic* formula to solve this problem.
 
   Si j'avais une baguette *magique*, je changerais le monde.
-  Wenn ich einen *Zauber*stab hätte, würde ich die Welt verändern.
+  If I had a *magic* wand, I'd change the world.
 
   Le coucher du soleil créait une atmosphère *magique*.
-  Der Sonnenuntergang schuf eine *zauberhafte* Atmosphäre.
+  The sunset created a *magical* atmosphere.
 
   Cette potion *magique* te donnera du courage.
-  Dieser *Zauber*trank wird dir Mut geben.
+  This *magic* potion will give you courage.
 
   Les enfants croient encore aux pouvoirs *magiques*.
-  Die Kinder glauben noch an *magische* Kräfte.
+  The children still believe in magical powers.
 
   Le spectacle était vraiment *magique* hier soir.
-  Die Show war gestern Abend wirklich *zauberhaft*.
+  The show was really magical last night.
 
   Il a tracé un cercle *magique* autour de lui.
-  Er zog einen *magischen* Kreis um sich herum.
+  He drew a magical circle around him.
 
   Ces mots *magiques* ont déverrouillé la porte.
-  Diese *Zauber*worte haben die Tür entriegelt.
+  These *magic* words unlocked the door.
 
   L'artiste a créé un moment *magique* sur scène.
-  Der Künstler hat einen *zauberhaften* Moment auf der Bühne geschaffen.
+  The artist has created a *magical* moment on stage.
 
   Les incantations *magiques* résonnaient dans la grotte.
-  Die *magischen* Beschwörungen hallten in der Höhle wider.
+  The magical incantations echoed in the cave.
 
   C'était une soirée *magique* dont je me souviendrai toujours.
-  Es war ein *zauberhafter* Abend, an den ich mich immer erinnern werde.
+  It was a magical evening that I will always remember.
 
   Ces illuminations produisent un effet *magique*.
-  Diese Beleuchtung erzeugt eine *zauberhafte* Wirkung.
+  This lighting creates a *magical* effect.
 
   L'art *magique* fait partie de leur culture.
-  Die *Zauber*kunst ist Teil ihrer Kultur.
+  *Magic* is part of their culture.
 
   Le jardin semblait *magique* sous la pleine lune.
-  Der Garten wirkte im Vollmond *zauberhaft*.
+  The garden seemed magical in the full moon.
 
   Elle possède un don *magique* pour la musique.
-  Sie hat eine *zauberhafte* Gabe für Musik.
+  She has a *magical* gift for music.
 
   Ces lanternes créent une ambiance *magique*.
-  Diese Laternen schaffen eine *zauberhafte* Stimmung.
+  These lanterns create a *magical* atmosphere.
 
   Le palais *magique* apparut soudain devant eux.
-  Der *Zauber*palast erschien plötzlich vor ihnen.
+  The *Magic* Palace suddenly appeared in front of them.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

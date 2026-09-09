@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4792
 Wort: hall
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le hall
 Femininum / Plural: ''
 IPA: \'ol\
-Definition: Halle
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Hall
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je l'ai rencontré dans le *hall* d'un immeuble.
-  Ich habe ihn in der Eingangs*halle* eines Wohnhauses getroffen.
+  I met him in the entrance *hall* of a residential building.
 
   Les voyageurs se pressent dans le *hall* de la gare.
-  Die Reisenden drängen sich in der Bahnhofs*halle*.
+  The passengers are crowding in the station *hall*.
 
   Le nouveau *hall* d'exposition peut accueillir jusqu'à mille visiteurs.
-  Die neue Ausstellungs*halle* kann bis zu tausend Besucher aufnehmen.
+  The new exhibition *hall* can accommodate up to a thousand visitors.
 
   Veuillez patienter dans le *hall* d'accueil, s'il vous plaît.
-  Bitte warten Sie in der Empfangs*halle*.
+  Please wait in the lobby.
 
   Le *hall* de l'hôtel était décoré pour Noël.
-  Die Hotel*halle* war weihnachtlich geschmückt.
+  The hotel *hall* was decorated with Christmas decorations.
 
   Les ouvriers assemblent les voitures dans ce grand *hall* de montage.
-  Die Arbeiter montieren die Autos in dieser großen Montage*halle*.
+  The workers assemble the cars in this large assembly *hall*.
 
   Le *hall* de l'aéroport était bondé ce matin-là.
-  Die Flughafen*halle* war an diesem Morgen überfüllt.
+  The airport *hall* was crowded this morning.
 
   Un magnifique lustre pendait du plafond du *hall*.
-  Ein prächtiger Kronleuchter hing von der Decke der *Halle* herab.
+  A magnificent chandelier hung down from the ceiling of the *hall*.
 
   Les invités se rassemblaient dans le *hall* pour le banquet.
-  Die Gäste versammelten sich in der *Halle* zum Bankett.
+  The guests gathered in the *hall* for the banquet.
 
   Le gardien surveille le *hall* du musée jour et nuit.
-  Der Wächter überwacht die Museums*halle* Tag und Nacht.
+  The guard monitors the museum *hall* day and night.
 
   Les enfants jouaient dans le *hall* pendant qu'il pleuvait dehors.
-  Die Kinder spielten in der Eingangs*halle*, während es draußen regnete.
+  The children played in the entrance *hall* while it was raining outside.
 
   Le *hall* principal était en cours de rénovation.
-  Die Haupt*halle* wurde gerade renoviert.
+  The main *hall* has just been renovated.
 
   Notre entreprise a loué ce *hall* pour le salon professionnel.
-  Unser Unternehmen hat diese *Halle* für die Fachmesse gemietet.
+  Our company has rented this *hall* for the trade fair.
 
   Les écrans d'information dans le *hall* affichent les horaires des trains.
-  Die Informationsbildschirme in der *Halle* zeigen die Zugfahrpläne an.
+  The information screens in the *hall* show the train timetables.
 
   Le *hall* de cette villa est vraiment impressionnant.
-  Die Eingangs*halle* dieser Villa ist wirklich beeindruckend.
+  The entrance *hall* of this villa is really impressive.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

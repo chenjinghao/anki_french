@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2644
 Wort: commandement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le commandement
 Femininum / Plural: ''
 IPA: \kɔ.mɑ̃d.mɑ̃\
-Definition: Befehl(-sgewalt)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Command(s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez transgressé le premier *commandement*.
-  Sie haben das erste *Gebot* übertreten.
+  They have transgressed the first *commandment*.
 
   Le capitaine a pris le *commandement* du navire ce matin.
-  Der Kapitän hat heute Morgen das *Kommando* über das Schiff übernommen.
+  The captain took *command* of the ship this morning.
 
   Le général donna son *commandement* d'une voix forte : "En avant !"
-  Der General gab seinen *Befehl* mit lauter Stimme: "Vorwärts!"
+  The general gave his order with a loud voice: "Forward!"
 
   Le *commandement* suprême a décidé d'une nouvelle stratégie.
-  Das Ober*kommando* hat eine neue Strategie beschlossen.
+  The High *Command* has decided on a new strategy.
 
   Sa voix de *commandement* intimide tous ses subordonnés.
-  Seine *Befehls*stimme schüchtert alle seine Untergebenen ein.
+  His command voice intimidates all his subordinates.
 
   Les enfants étudient les dix *commandements* à l'école.
-  Die Kinder lernen in der Schule die Zehn *Gebote*.
+  The children learn the Ten *Commandments* at school.
 
   Notre équipe a pris le *commandement* dès la première mi-temps.
-  Unsere Mannschaft hat schon in der ersten Halbzeit die *Führung* übernommen.
+  Our team took the lead in the first half.
 
   Le *commandement* territorial organise les opérations de secours.
-  Das territoriale *Kommando* organisiert die Rettungsoperationen.
+  The territorial *command* organizes rescue operations.
 
   Il parle toujours sur un ton de *commandement*.
-  Er spricht immer im Befehls*ton*.
+  He always speaks in the command tone.
 
   Le *haut commandement* s'est réuni d'urgence.
-  Das *Oberkommando* ist zu einer Notfallsitzung zusammengekommen.
+  The *High Command* met for an emergency meeting.
 
   Marie a un vrai sens du *commandement*.
-  Marie hat einen echten Sinn fürs *Kommandieren*.
+  Marie has a real sense of *command*.
 
   L'huissier a délivré un *commandement* de payer.
-  Der Gerichtsvollzieher hat einen Zahlungs*befehl* zugestellt.
+  The bailiff sent a payment order.
 
   Le *commandement* des forces aériennes coordonne l'opération.
-  Das Luftwaffen*kommando* koordiniert die Operation.
+  The Air Force *Command* is coordinating the operation.
 
   "*À mon commandement* : feu !" cria l'officier.
-  "Auf meinen *Befehl*: Feuer!" rief der Offizier.
+  "At my *command*, fire!" cried the officer.
 
   L'Église a établi six *commandements*.
-  Die Kirche hat sechs *Gebote* festgelegt.
+  The Church has set six *commandments*.
 
   Le colonel abandonne son *commandement* après vingt ans de service.
-  Der Oberst gibt nach zwanzig Dienstjahren sein *Kommando* ab.
+  The colonel gives his *command* after twenty years of service.
 
   Le poste de *commandement* se trouve dans ce bunker.
-  Der *Kommando*posten befindet sich in diesem Bunker.
+  The *command* post is in this bunker.
 
   Son style de *commandement* est très apprécié par ses troupes.
-  Sein *Führungs*stil wird von seinen Truppen sehr geschätzt.
+  His leadership style is highly appreciated by his troops.
 
   Le *commandement* unique facilitera nos opérations.
-  Das einheitliche *Kommando* wird unsere Operationen erleichtern.
+  The unified *command* will facilitate our operations.
 
   Elle exerce son *commandement* avec fermeté et bienveillance.
-  Sie übt ihr *Kommando* mit Festigkeit und Wohlwollen aus.
+  She exercises her *command* with firmness and goodwill.
 
   Les soldats ont suivi le *commandement* sans hésiter.
-  Die Soldaten befolgten den *Befehl* ohne zu zögern.
+  The soldiers followed the order without hesitation.
 
   Le *commandement* de la garnison a été confié au lieutenant.
-  Das *Kommando* über die Garnison wurde dem Leutnant übertragen.
+  The *command* of the garrison was transferred to the lieutenant.
 
   "Les *commandements* du bon conducteur" est une brochure utile.
-  "Die *Gebote* für gute Fahrer" ist eine nützliche Broschüre.
+  "The bids for good drivers" is a useful brochure.
 
   Le nouveau chef a un *commandement* dur mais juste.
-  Der neue Chef hat einen harten, aber gerechten *Befehls*stil.
+  The new boss has a tough but just command style.
 
   La cérémonie de prise de *commandement* aura lieu demain.
-  Die *Kommando*übergabe findet morgen statt.
+  *Command* will be delivered tomorrow.
 
   Cette unité est sous son *commandement* direct.
-  Diese Einheit steht unter seinem direkten *Kommando*.
+  This unit is under his direct *command*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

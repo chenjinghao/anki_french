@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4033
 Wort: isolement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un isolement
 Femininum / Plural: ''
 IPA: \i.zɔl.mɑ̃\
-Definition: Isolation, Abgeschiedenheit
-Register: ↘Mündlich
+Definition: Isolation, seclusion
+Register: ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez été maintenu quatorze ans en *isolement*.
-  Sie wurden vierzehn Jahre in *Isolations*haft gehalten.
+  They were held in solitary confinement for fourteen years.
 
   Le patient a été placé en *isolement* pour éviter la propagation du virus.
-  Der Patient wurde zur Vermeidung der Virusausbreitung in *Isolation* gebracht.
+  The patient was isolated to prevent virus spread.
 
   Cette maison perdue dans la forêt souffre d'un *isolement* total.
-  Dieses im Wald versteckte Haus liegt in völliger *Abgeschiedenheit*.
+  This house, hidden in the forest, is completely secluded.
 
   L'*isolement* social peut avoir des effets négatifs sur la santé mentale.
-  Soziale *Isolation* kann negative Auswirkungen auf die psychische Gesundheit haben.
+  Social *isolation* can have negative effects on mental health.
 
   Les chercheurs ont réussi l'*isolement* d'une nouvelle souche bactérienne.
-  Den Forschern gelang die *Isolierung* eines neuen Bakterienstamms.
+  The researchers succeeded in the isolation of a new bacterial strain.
 
   Le pays risque l'*isolement* diplomatique après cette décision.
-  Nach dieser Entscheidung droht dem Land diplomatische *Isolation*.
+  This decision threatens the country with diplomatic *isolation*.
 
   Son *isolement* volontaire lui permet de se concentrer sur son art.
-  Seine freiwillige *Abgeschiedenheit* erlaubt es ihm, sich auf seine Kunst zu konzentrieren.
+  His voluntary seclusion allows him to concentrate on his art.
 
   L'*isolement* thermique de ce bâtiment est vraiment remarquable.
-  Die Wärme*isolierung* dieses Gebäudes ist wirklich bemerkenswert.
+  The thermal *insulation* of this building is truly remarkable.
 
   Elle souffrait profondément de son *isolement*.
-  Sie litt sehr unter ihrer *Einsamkeit*.
+  She suffered greatly from her *loneliness*.
 
   Les murs d'*isolement* ont empêché la propagation de l'incendie.
-  Die *Isolations*wände haben die Ausbreitung des Feuers verhindert.
+  The *insulation* walls have prevented the fire from spreading.
 
   L'*isolement* géographique a conduit à l'évolution d'espèces uniques.
-  Die geografische *Isolation* führte zur Entwicklung einzigartiger Arten.
+  Geographical *isolation* led to the development of unique species.
 
   Il a choisi l'*isolement* pour écrire son roman.
-  Er hat sich zum Schreiben seines Romans in die *Abgeschiedenheit* zurückgezogen.
+  He retired from writing his novel in seclusion.
 
   L'*isolement* électrique du circuit présente des défauts.
-  Die elektrische *Isolierung* des Stromkreises weist Mängel auf.
+  The electrical *insulation* of the circuit is defective.
 
   Notre village souffre d'un *isolement* total pendant l'hiver.
-  Unser Dorf ist im Winter völlig von der *Abgeschiedenheit* betroffen.
+  Our village is completely affected by the seclusion in winter.
 
   Les médecins recommandent l'*isolement* des patients contagieux.
-  Die Ärzte empfehlen die *Isolation* ansteckender Patienten.
+  The doctors recommend the *isolation* of contagious patients.
 
   L'*isolement* de la Grande-Bretagne a marqué sa politique au XIX<sup>e</sup> siècle.
-  Die *Isolation* Großbritanniens prägte seine Politik im 19. Jahrhundert.
+  Britain's *isolation* shaped its policy in the 19th century.
 
   La prison dispose de plusieurs cellules d'*isolement*.
-  Das Gefängnis verfügt über mehrere *Isolations*zellen.
+  The prison has several isolation cells.
 
   Le sentiment d'*isolement* s'est renforcé pendant le confinement.
-  Das Gefühl der *Einsamkeit* verstärkte sich während des Lockdowns.
+  The feeling of *loneliness* increased during the lockdown.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

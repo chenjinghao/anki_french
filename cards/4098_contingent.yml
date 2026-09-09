@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4098
 Wort: contingent
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le contingent
 Femininum / Plural: contingente
 IPA: \kɔ̃.tɛ̃.ʒɑ̃\
-Definition: Kontingent; unwesentlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Quota; insignificant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est le plus fort *contingent* d'étudiants étrangers.
-  Das ist die größte *Gruppe* ausländischer Studenten.
+  This is the largest *group* of foreign students.
 
   Notre magasin n'a pas reçu son *contingent* habituel de fruits frais.
-  Unser Geschäft hat seine übliche *Zuteilung* an frischem Obst nicht erhalten.
+  Our business has not received its usual *allocation* of fresh fruit.
 
   Les soldats du *contingent* rentrent chez eux après leur service.
-  Die *Wehrpflichtigen* kehren nach ihrem Dienst nach Hause zurück.
+  The *conscripts* return home after their service.
 
   L'existence humaine est *contingente*, elle n'a pas de nécessité absolue.
-  Die menschliche Existenz ist *zufällig*, sie hat keine absolute Notwendigkeit.
+  Human existence is accidental, it has no absolute necessity.
 
   Un *contingent* de marchandises est bloqué à la frontière.
-  Ein Waren*kontingent* ist an der Grenze blockiert.
+  A *quota* of goods is blocked at the border.
 
   Ces détails sont *contingents*, concentrons-nous sur l'essentiel.
-  Diese Details sind *unwesentlich*, konzentrieren wir uns auf das Wichtige.
+  These details are *insignificant*, let's focus on what's important.
 
   Le nouveau *contingent* d'exportation a été fixé hier.
-  Das neue Export*kontingent* wurde gestern festgelegt.
+  The new export *quota* was established yesterday.
 
   Chaque pays doit fournir son *contingent* de soldats pour la mission de paix.
-  Jedes Land muss seinen *Anteil* an Soldaten für die Friedensmission stellen.
+  Each country must make its *share* of soldiers available for the peace mission.
 
   La guerre apporte toujours son *contingent* de souffrances.
-  Der Krieg bringt immer seinen *Anteil* an Leid mit sich.
+  War always brings its *share* of suffering.
 
   Les circonstances *contingentes* n'ont pas affecté notre décision.
-  Die *unvorhergesehenen* Umstände haben unsere Entscheidung nicht beeinflusst.
+  The unforeseen circumstances have not affected our decision.
 
   Un *contingent* de touristes japonais est arrivé ce matin.
-  Eine *Gruppe* japanischer Touristen ist heute Morgen angekommen.
+  A *group* of Japanese tourists arrived this morning.
 
   La libération du *contingent* aura lieu en juin.
-  Die Entlassung des *Jahrgangs* findet im Juni statt.
+  The release of the year takes place in June.
 
   J'ai apporté mon *contingent* au projet commun.
-  Ich habe meinen *Teil* zum gemeinsamen Projekt beigetragen.
+  I contributed my *part* to the joint project.
 
   Le futur est *contingent* et imprévisible.
-  Die Zukunft ist *zufällig* und unvorhersehbar.
+  The future is accidental and unpredictable.
 
   Chaque concessionnaire reçoit son *contingent* de voitures neuves.
-  Jeder Händler erhält sein *Kontingent* an Neuwagen.
+  Each dealer receives his *quota* of new cars.
 
   Les événements *contingents* peuvent changer le cours de l'histoire.
-  *Zufällige* Ereignisse können den Lauf der Geschichte ändern.
+  *Random* events can change the course of history.
 
   Le *contingent* d'importation a été augmenté cette année.
-  Das Import*kontingent* wurde dieses Jahr erhöht.
+  The import *quota* has been increased this year.
 
   On a dû faire appel au *contingent* pour renforcer l'armée.
-  Man musste die *Wehrpflichtigen* zur Verstärkung der Armee einberufen.
+  The *conscripts* had to be called up to strengthen the army.
 
   Cette proposition est *contingente* : elle peut être vraie ou fausse.
-  Diese Aussage ist *zufällig*: sie kann wahr oder falsch sein.
+  This statement is *random*: it can be true or false.
 
   Notre ville doit fournir son *contingent* de logements sociaux.
-  Unsere Stadt muss ihren *Anteil* an Sozialwohnungen bereitstellen.
+  Our city must provide its *share* of social housing.
 
   Le nouveau *contingent* arrive la semaine prochaine pour l'entraînement.
-  Der neue *Jahrgang* kommt nächste Woche zum Training.
+  The new year will be coming to the training next week.
 
   Ces facteurs *contingents* n'influencent pas le résultat final.
-  Diese *unwesentlichen* Faktoren beeinflussen das Endergebnis nicht.
+  These *insignificant* factors do not affect the final result.
 
   L'usine a dépassé son *contingent* de production mensuel.
-  Die Fabrik hat ihr monatliches Produktions*kontingent* überschritten.
+  The factory has exceeded its monthly production *quota*.
 
   Chaque région doit respecter son *contingent* d'eau potable.
-  Jede Region muss ihr Trinkwasser*kontingent* einhalten.
+  Each region must comply with its drinking water *quota*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

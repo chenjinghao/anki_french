@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4123
 Wort: rénovation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la rénovation
 Femininum / Plural: ''
 IPA: \ʁe.nɔ.va.sjɔ̃\
-Definition: Renovierung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Renovation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les travaux de transformation et de *rénovation* iront également bon train.
-  Die Umbau- und *Renovierungs*arbeiten werden ebenfalls gut vorangehen.
+  The *renovation* and renovation work will also be well advanced.
 
   La *rénovation* du vieux fauteuil Louis XVI coûtera une fortune.
-  Die *Restaurierung* des alten Louis-XVI-Sessels wird ein Vermögen kosten.
+  The *restoration* of the old Louis XVI chair will cost a fortune.
 
   Ces dernières années, la *rénovation* du centre-ville a complètement changé l'ambiance du quartier.
-  Die *Sanierung* der Innenstadt hat in den letzten Jahren die Atmosphäre des Viertels völlig verändert.
+  The *renovation* of the city centre has changed the atmosphere of the district completely in recent years.
 
   Notre projet de *rénovation* comprend l'installation d'un nouveau système de chauffage.
-  Unser *Renovierungs*projekt umfasst den Einbau einer neuen Heizungsanlage.
+  Our *renovation* project includes the installation of a new heating system.
 
   La *rénovation* du réseau électrique est devenue urgente après l'incident.
-  Die *Modernisierung* des Stromnetzes ist nach dem Vorfall dringend geworden.
+  The *modernisation* of the electricity grid has become urgent after the incident.
 
   Cette *rénovation* urbaine vise à créer plus d'espaces verts dans le quartier.
-  Diese Stadt*sanierung* zielt darauf ab, mehr Grünflächen im Viertel zu schaffen.
+  This urban *renovation* aims to create more green spaces in the district.
 
   Les mesures de *rénovation* seront mises en place dès le mois prochain.
-  Die *Sanierungs*maßnahmen werden ab nächstem Monat umgesetzt.
+  The rehabilitation measures will be implemented from next month.
 
   Pendant la *rénovation* de la salle de bains, nous devrons utiliser celle du rez-de-chaussée.
-  Während der *Renovierung* des Badezimmers müssen wir das im Erdgeschoss benutzen.
+  During the *renovation* of the bathroom we have to use this on the ground floor.
 
   La *rénovation* du carrelage de la cuisine a pris plus de temps que prévu.
-  Die *Renovierung* der Küchenfliesen hat länger gedauert als erwartet.
+  The *renovation* of the kitchen tiles took longer than expected.
 
   L'entreprise a investi des millions dans la *rénovation* de ses usines.
-  Das Unternehmen hat Millionen in die *Modernisierung* seiner Fabriken investiert.
+  The company has invested millions in the modernization of its factories.
 
   La *rénovation* de cette prairie permettra d'améliorer la qualité du fourrage.
-  Die *Erneuerung* dieser Wiese wird die Futterqualität verbessern.
+  *Renewal* of this meadow will improve the quality of feed.
 
   Le musée restera fermé pendant la *rénovation* de ses salles d'exposition.
-  Das Museum bleibt während der *Renovierung* seiner Ausstellungsräume geschlossen.
+  The museum remains closed during the *renovation* of its exhibition rooms.
 
   Le coût total de la *rénovation* de l'immeuble dépasse déjà le budget prévu.
-  Die Gesamtkosten der Gebäude*sanierung* übersteigen bereits das geplante Budget.
+  The total cost of the *renovation* already exceeds the planned budget.
 
   Cette *rénovation* complète du marbre lui a redonné tout son éclat d'origine.
-  Diese vollständige *Restaurierung* hat dem Marmor seinen ursprünglichen Glanz zurückgegeben.
+  This complete *restoration* has returned its original shine to the marble.
 
   Un vaste programme de *rénovation* des logements sociaux a été lancé.
-  Ein umfangreiches *Sanierungs*programm für Sozialwohnungen wurde gestartet.
+  An extensive rehabilitation programme for social housing has been launched.
 
   La *rénovation* de l'institution vise à la rendre plus efficace et moderne.
-  Die *Modernisierung* der Institution zielt darauf ab, sie effizienter und zeitgemäßer zu machen.
+  The *modernisation* of the institution aims to make it more efficient and up-to-date.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

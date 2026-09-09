@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4667
 Wort: désignation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la désignation
 Femininum / Plural: ''
 IPA: \de.zi.ɲa.sjɔ̃\
-Definition: Bezeichnung, Ernennung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Name, appointment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une *désignation* rapide et positive est nécessaire.
-  Eine schnelle und positive *Ernennung* ist notwendig.
+  A quick and positive *appointment* is necessary.
 
   La *désignation* des marchandises doit être précise sur la facture.
-  Die *Bezeichnung* der Waren muss auf der Rechnung genau sein.
+  The name of the goods must be accurate on the invoice.
 
   Les étudiants attendent la *désignation* du nouveau directeur.
-  Die Studenten warten auf die *Ernennung* des neuen Direktors.
+  The students are waiting for the *appointment* of the new director.
 
   La *désignation* de ce modèle n'est plus utilisée aujourd'hui.
-  Die Typen*bezeichnung* wird heute nicht mehr verwendet.
+  The type designation is no longer used today.
 
   Sous quelle *désignation* ce médicament est-il vendu ?
-  Unter welcher *Bezeichnung* wird dieses Medikament verkauft?
+  What is the name of this medicine sold?
 
   La *désignation* du juge par le tribunal aura lieu demain.
-  Die gerichtliche *Beiordnung* des Richters findet morgen statt.
+  The judge's court order will be held tomorrow.
 
   Sans *désignation* précise du lieu, nous ne pouvons pas livrer le colis.
-  Ohne genaue *Angabe* des Ortes können wir das Paket nicht liefern.
+  We cannot deliver the package without precise *indication* of the location.
 
   Le comité procédera à la *désignation* du nouveau président la semaine prochaine.
-  Das Komitee wird nächste Woche die *Designierung* des neuen Präsidenten vornehmen.
+  The committee will be designating the new president next week.
 
   Cette *désignation* est si précise qu'on ne peut pas se tromper.
-  Diese *Bezeichnung* ist so präzis, dass man sich nicht irren kann.
+  This designation is so precise that you can't be mistaken.
 
   Il faut remplir toutes les *désignations* sur le formulaire.
-  Man muss alle *Angaben* auf dem Formular ausfüllen.
+  You have to fill out all the *information* on the form.
 
   La *désignation* de son successeur n'a pas encore été annoncée.
-  Die *Ernennung* seines Nachfolgers wurde noch nicht bekannt gegeben.
+  The *appointment* of his successor has not yet been announced.
 
   Quelle est la *désignation* officielle de ce poste ?
-  Wie lautet die offizielle *Bezeichnung* dieser Stelle?
+  What is the official name of this post?
 
   La *désignation* des postes vacants sera publiée lundi.
-  Die *Angabe* der freien Stellen wird am Montag veröffentlicht.
+  The job vacancies will be published on Monday.
 
   Cette personne est connue sous plusieurs *désignations* différentes.
-  Diese Person ist unter verschiedenen *Bezeichnungen* bekannt.
+  This person is known by various names.
 
   La *désignation* du nouveau chef d'équipe a surpris tout le monde.
-  Die *Ernennung* des neuen Teamleiters hat alle überrascht.
+  The *appointment* of the new team leader surprised everyone.
 
   J'ai besoin de la *désignation* exacte du produit pour passer la commande.
-  Ich brauche die genaue *Bezeichnung* des Produkts, um die Bestellung aufzugeben.
+  I need the exact name of the product to place the order.
 
   La *désignation* de ce symbole n'est pas claire dans le contexte.
-  Die *Bedeutung* dieses Symbols ist im Kontext nicht klar.
+  The *meaning* of this symbol is not clear in the context.
 
   Veuillez noter la *désignation* complète de votre domicile.
-  Bitte geben Sie die vollständige *Bezeichnung* Ihres Wohnsitzes an.
+  Please indicate the full name of your residence.
 
   Sur le document manque la *désignation* du temps et du lieu.
-  Auf dem Dokument fehlt die *Angabe* von Zeit und Ort.
+  The document does not specify time and place.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

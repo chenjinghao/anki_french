@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3809
 Wort: décéder
 Wortart: v
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: décéder
 Femininum / Plural: ''
 IPA: \de.se.de\
-Definition: versterben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Died
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une vieille dame est *décédée* pendant qu'elle dormait.
-  Eine alte Dame ist im Schlaf *verstorben*.
+  An old lady died in her sleep.
 
   Le patient est *décédé* d'une crise cardiaque à l'hôpital.
-  Der Patient ist im Krankenhaus an einem Herzinfarkt *verstorben*.
+  The patient died of a heart attack in the hospital.
 
   Mon grand-père est *décédé* il y a dix ans.
-  Mein Großvater ist vor zehn Jahren *verstorben*.
+  My grandfather died ten years ago.
 
   Elle est *décédée* des suites d'une longue maladie.
-  Sie ist an den Folgen einer langen Krankheit *gestorben*.
+  She *died* of a long illness.
 
   Marc est devenu orphelin car ses parents sont *décédés* dans un accident.
-  Marc wurde zur Waise, weil seine Eltern bei einem Unfall *starben*.
+  Marc became an orphan because his parents *died* in an accident.
 
   Le célèbre écrivain est *décédé* dans la nuit du 20 mars.
-  Der berühmte Schriftsteller ist in der Nacht zum 20. März *verstorben*.
+  The famous writer died on the night of March 20th.
 
   Je viens d'apprendre que mon ancien professeur est *décédé*.
-  Ich habe gerade erfahren, dass mein ehemaliger Lehrer *verstorben* ist.
+  I just learned that my former teacher passed away.
 
   La reine est *décédée* paisiblement dans son sommeil.
-  Die Königin ist friedlich im Schlaf *verstorben*.
+  The Queen died peacefully in her sleep.
 
   Le suspect est *décédé* avant le début du procès.
-  Der Verdächtige ist vor Prozessbeginn *verstorben*.
+  The suspect died before the trial started.
 
   Plusieurs personnes sont *décédées* lors de cette catastrophe naturelle.
-  Mehrere Menschen sind bei dieser Naturkatastrophe *gestorben*.
+  Several people *died* in this natural disaster.
 
   Marie, étant de père et de mère *décédés*, a été élevée par sa tante.
-  Marie wurde, da ihre Eltern *verstorben* waren, von ihrer Tante aufgezogen.
+  Marie was raised by her aunt because her parents had died.
 
   Le journaliste est *décédé* subitement hier soir.
-  Der Journalist ist gestern Abend plötzlich *verstorben*.
+  The journalist suddenly died last night.
 
   Les médecins ont confirmé que le patient était *décédé* à 3 heures du matin.
-  Die Ärzte bestätigten, dass der Patient um 3 Uhr morgens *verstorben* war.
+  The doctors confirmed that the patient had died at 3 a.m.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

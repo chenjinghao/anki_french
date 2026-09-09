@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2389
 Wort: définitivement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: définitivement
 Femininum / Plural: ''
 IPA: \de.fi.ni.tiv.mɑ̃\
-Definition: endgültig, für immer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: final, forever
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je m'étais *définitivement* métamorphosée en enfant sage.
-  Ich hatte mich *endgültig* in ein braves Kind verwandelt.
+  I had finally turned into a good child.
 
   Cette décision est *définitivement* prise.
-  Diese Entscheidung ist *endgültig* getroffen.
+  This decision is *final*.
 
   Il a *définitivement* quitté son emploi hier.
-  Er hat gestern *endgültig* seinen Job gekündigt.
+  He quit his job last night.
 
   Les deux amis se sont *définitivement* brouillés après cette dispute.
-  Die beiden Freunde haben sich nach diesem Streit *definitiv* zerstritten.
+  The two friends have *definitely* quarreled after this fight.
 
   Nous allons nous installer *définitivement* en France.
-  Wir werden uns *für immer* in Frankreich niederlassen.
+  We will settle in France *forever*.
 
   Je veux *définitivement* arrêter de fumer.
-  Ich will *endgültig* mit dem Rauchen aufhören.
+  I want to stop smoking for good.
 
   Es-tu *définitivement* sûr de ta décision ?
-  Bist du dir bei deiner Entscheidung *definitiv* sicher?
+  Are you sure about your decision?
 
   Le musée a *définitivement* fermé ses portes.
-  Das Museum hat seine Türen *endgültig* geschlossen.
+  The museum closed its doors for good.
 
   Il faut *définitivement* régler cette question aujourd'hui.
-  Diese Frage muss heute *definitiv* geklärt werden.
+  This issue must be resolved *definitely* today.
 
   Elle s'est *définitivement* installée à Berlin.
-  Sie hat sich *endgültig* in Berlin niedergelassen.
+  She settled in Berlin for good.
 
   Le projet est *définitivement* abandonné.
-  Das Projekt ist *endgültig* aufgegeben worden.
+  The project has been definitively abandoned.
 
   Je dois *définitivement* savoir si tu viendras à la fête.
-  Ich muss *definitiv* wissen, ob du zur Party kommst.
+  I *definitely* need to know if you're coming to the party.
 
   Cette espèce d'oiseau a *définitivement* disparu.
-  Diese Vogelart ist *endgültig* ausgestorben.
+  This bird species is finally extinct.
 
   Le contrat sera *définitivement* signé demain.
-  Der Vertrag wird morgen *definitiv* unterschrieben.
+  The contract will *definitely* be signed tomorrow.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

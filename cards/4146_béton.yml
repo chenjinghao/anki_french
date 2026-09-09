@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4146
 Wort: béton
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le béton
 Femininum / Plural: ''
 IPA: \be.tɔ̃\
-Definition: Beton
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Concrete
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les murs étaient en *béton*.
-  Die Wände waren aus *Beton*.
+  The walls were made of *concrete*.
 
   Le nouveau pont sera construit en *béton* armé.
-  Die neue Brücke wird aus Stahl*beton* gebaut.
+  The new bridge is built of reinforced *concrete*.
 
   Pour cette construction, nous avons utilisé du *béton* prêt à l'emploi.
-  Für diesen Bau haben wir Fertig*beton* verwendet.
+  We used precast *concrete* for this construction.
 
   Les piliers en *béton* soutiennent toute la structure.
-  Die *Beton*pfeiler tragen die gesamte Struktur.
+  The *concrete* pillars carry the entire structure.
 
   "Son alibi est en *béton*, il ne peut pas être coupable."
-  "Sein Alibi ist *beton*sicher, er kann nicht schuldig sein."
+  "His alibi is *concrete*, he can't be guilty."
 
   "Elle a toujours des excuses *béton* pour ne pas venir."
-  "Sie hat immer wasser*dichte* Ausreden, um nicht zu kommen."
+  "She always has waterproof excuses not to come."
 
   La construction en *béton* précontraint permet une meilleure résistance.
-  Die Spann*beton*konstruktion ermöglicht eine bessere Belastbarkeit.
+  The prestressed *concrete* construction enables better load capacity.
 
   Le *béton* sera coulé demain matin.
-  Der *Beton* wird morgen früh gegossen.
+  The *concrete* will be poured in the morning.
 
   Les architectes ont choisi le *béton* pour sa durabilité.
-  Die Architekten haben *Beton* wegen seiner Langlebigkeit gewählt.
+  The architects chose *concrete* because of its longevity.
 
   "Je ne supporte plus tout ce *béton* dans notre ville."
-  "Ich ertrage den ganzen *Beton* in unserer Stadt nicht mehr."
+  "I can't take all the *concrete* in our city anymore."
 
   Cet immeuble de *béton* date des années 60.
-  Dieses *Beton*gebäude stammt aus den 60er Jahren.
+  This *concrete* building dates back to the 1960s.
 
   Le *béton* doit sécher pendant au moins trois jours.
-  Der *Beton* muss mindestens drei Tage trocknen.
+  The *concrete* must dry for at least three days.
 
   "Ses arguments sont en *béton*, personne ne peut les contredire."
-  "Seine Argumente sind *beton*hart, niemand kann sie widerlegen."
+  "His arguments are *concrete*, no one can refute them."
 
   Un univers de *béton* nous entoure dans ce quartier.
-  Eine *Beton*welt umgibt uns in diesem Viertel.
+  A *concrete* world surrounds us in this neighborhood.
 
   Le camion de *béton* arrive dans une heure.
-  Der *Beton*mischer kommt in einer Stunde.
+  The *concrete* mixer is coming in an hour.
 
   Les fissures dans le *béton* doivent être réparées rapidement.
-  Die Risse im *Beton* müssen schnell repariert werden.
+  The cracks in the *concrete* must be repaired quickly.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

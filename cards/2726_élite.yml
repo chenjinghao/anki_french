@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2726
 Wort: élite
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une élite
 Femininum / Plural: ''
 IPA: \e.lit\
 Definition: Elite
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*élite* se définissait selon lui par l'intelligence.
-  Die *Elite* definierte sich seiner Meinung nach durch Intelligenz.
+  In his opinion, the *elite* was defined by intelligence.
 
   Les athlètes d'*élite* s'entraînent plusieurs heures par jour.
-  Die *Spitzen*athleten trainieren mehrere Stunden am Tag.
+  The top athletes train several hours a day.
 
   Une *élite* intellectuelle s'est formée autour de cette université.
-  Eine intellektuelle *Elite* hat sich um diese Universität herum gebildet.
+  An intellectual *elite* has formed around this university.
 
   Les *élites* économiques exercent une influence considérable sur la société.
-  Die wirtschaftliche *Führungsschicht* übt einen erheblichen Einfluss auf die Gesellschaft aus.
+  The economic leadership class exerts a significant influence on society.
 
   Ce sniper est un tireur d'*élite* qui ne rate jamais sa cible.
-  Dieser Scharfschütze ist ein *Elite*schütze, der sein Ziel nie verfehlt.
+  This sniper is an *elite* shooter who never misses his goal.
 
   La formation des *élites* est un sujet qui suscite de vifs débats.
-  Die Ausbildung der *Elite* ist ein Thema, das heftige Debatten auslöst.
+  The education of the *elite* is a topic that triggers fierce debates.
 
   Ces troupes d'*élite* ont accompli des missions particulièrement dangereuses.
-  Diese *Elite*truppen haben besonders gefährliche Missionen durchgeführt.
+  These *elite* troops have carried out particularly dangerous missions.
 
   L'*élite* de l'armée a été mobilisée pour cette opération spéciale.
-  Die *Elite* der Armee wurde für diesen Spezialeinsatz mobilisiert.
+  The *elite* of the army was mobilized for this special mission.
 
   Cette école forme l'*élite* de demain.
-  Diese Schule bildet die *Elite* von morgen aus.
+  This school is training the *elite* of tomorrow.
 
   Le poids social des *élites* ne cesse d'augmenter.
-  Das gesellschaftliche Gewicht der *Führungsschicht* nimmt stetig zu.
+  The social weight of the *management* class is steadily increasing.
 
   Ce programme est réservé à une *élite* d'étudiants particulièrement doués.
-  Dieses Programm ist einer *Elite* von besonders begabten Studenten vorbehalten.
+  This program is reserved for an *elite* of particularly talented students.
 
   Cette compétition rassemble l'*élite* mondiale des gymnastes.
-  Dieser Wettkampf versammelt die Welt*elite* der Turner.
+  This contest gathers the world *elite* of the Turners.
 
   Les *élites* politiques doivent être à l'écoute des citoyens.
-  Die politische *Führungsschicht* muss den Bürgern zuhören.
+  The political leadership must listen to the citizens.
 
   C'est un cavalier d'*élite* qui a remporté plusieurs médailles olympiques.
-  Er ist ein *Spitzen*reiter, der mehrere olympische Medaillen gewonnen hat.
+  He is a leader who has won several Olympic medals.
 
   La nouvelle génération d'*élite* apporte un regard frais sur ces questions.
-  Die neue Generation der *Elite* bringt einen frischen Blick auf diese Fragen.
+  The new generation of the *elite* brings a fresh look at these questions.
 
   Cette université attire l'*élite* des chercheurs internationaux.
-  Diese Universität zieht die *Elite* der internationalen Forscher an.
+  This university attracts the *elite* of international researchers.
 
   Les *élites* culturelles se réunissent chaque année à ce festival.
-  Die kulturelle *Elite* trifft sich jedes Jahr bei diesem Festival.
+  The cultural *elite* meets every year at this festival.
 
   Ce corps d'*élite* est chargé des missions les plus délicates.
-  Diese *Elite*einheit ist mit den heikelsten Missionen betraut.
+  This *elite* unit is entrusted with the most delicate missions.
 
   L'*élite* sportive du pays s'entraîne dans ce centre spécialisé.
-  Die Sport*elite* des Landes trainiert in diesem spezialisierten Zentrum.
+  The sports *elite* of the country trains in this specialized center.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

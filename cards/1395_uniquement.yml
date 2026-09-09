@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1395
 Wort: uniquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: uniquement
 Femininum / Plural: ''
 IPA: \y.nik.mɑ̃\
-Definition: ausschließlich, nur
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: exclusively, only
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a survécu *uniquement* avec la diète anticancéreuse.
-  Er hat *ausschließlich* mit der Anti-Krebs-Diät überlebt.
+  He survived exclusively with the anti-cancer diet.
 
   Cette application fonctionne *uniquement* sur les appareils Apple.
-  Diese App funktioniert *nur* auf Apple-Geräten.
+  This app *only* works on Apple devices.
 
   Je fais ça *uniquement* pour toi.
-  Das mache ich *einzig und allein* für dich.
+  I'll do it for you alone.
 
   *Uniquement* les membres du club peuvent participer à cet événement.
-  *Nur* Clubmitglieder dürfen an dieser Veranstaltung teilnehmen.
+  *Only* club members are allowed to participate in this event.
 
   Le restaurant est ouvert *uniquement* le soir.
-  Das Restaurant ist *nur* abends geöffnet.
+  The restaurant is *only* open in the evenings.
 
   Elle étudie *uniquement* pour réussir ses examens.
-  Sie lernt *ausschließlich*, um ihre Prüfungen zu bestehen.
+  She learns only to pass her exams.
 
   Ces produits sont vendus *uniquement* en ligne.
-  Diese Produkte werden *nur* online verkauft.
+  These products are *only* sold online.
 
   Je peux te voir *uniquement* le weekend prochain.
-  Ich kann dich *nur* nächstes Wochenende sehen.
+  I can *only* see you next weekend.
 
   C'est *uniquement* grâce à son aide que j'ai réussi.
-  *Einzig und allein* durch seine Hilfe habe ich es geschafft.
+  Only through his help I made it.
 
   Le concert est réservé *uniquement* aux adultes.
-  Das Konzert ist *ausschließlich* für Erwachsene.
+  The concert is exclusively for adults.
 
   Je suis venu *uniquement* pour te dire au revoir.
-  Ich bin *nur* gekommen, um dir auf Wiedersehen zu sagen.
+  I just came to say goodbye to you.
 
   Les billets sont disponibles *uniquement* en prévente.
-  Die Tickets sind *ausschließlich* im Vorverkauf erhältlich.
+  The tickets are only available in advance.
 
   Tu penses *uniquement* à toi-même.
-  Du denkst *nur* an dich selbst.
+  You're just thinking about yourself.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

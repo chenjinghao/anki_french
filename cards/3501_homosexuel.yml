@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3501
 Wort: homosexuel
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un homosexuel
 Femininum / Plural: homosexuelle
 IPA: \ɔ.mo.sɛk.sɥɛl\
-Definition: homosexuell
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Homosexual
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'avait plus honte d'être *homosexuel*.
-  Er schämte sich nicht mehr, *homosexuell* zu sein.
+  He was no longer ashamed of being *homosexual*.
 
   Les relations *homosexuelles* sont légales dans de nombreux pays.
-  *Homosexuelle* Beziehungen sind in vielen Ländern legal.
+  Gay relations are legal in many countries.
 
   Le mariage *homosexuel* est désormais reconnu par la loi.
-  Die *homosexuelle* Ehe ist jetzt gesetzlich anerkannt.
+  The *homosexual* marriage is now recognized by law.
 
   Un couple *homosexuel* a emménagé dans l'appartement voisin.
-  Ein *homosexuelles* Paar ist in die Nachbarwohnung eingezogen.
+  A *homosexual* couple moved into the neighboring apartment.
 
   De plus en plus de personnalités publiques s'affirment *homosexuelles*.
-  Immer mehr Persönlichkeiten des öffentlichen Lebens bekennen sich als *homosexuell*.
+  More and more public figures profess to be *homosexual*.
 
   Les droits des *homosexuels* ont beaucoup progressé ces dernières années.
-  Die Rechte der *Homosexuellen* haben sich in den letzten Jahren stark verbessert.
+  The rights of *homosexuals* have improved considerably in recent years.
 
   Cette *homosexuelle* milite pour l'égalité depuis vingt ans.
-  Diese *Homosexuelle* kämpft seit zwanzig Jahren für Gleichberechtigung.
+  This homosexual has been fighting for equality for twenty years.
 
   L'association soutient les jeunes *homosexuels* en difficulté.
-  Der Verein unterstützt junge *Homosexuelle* in schwierigen Situationen.
+  The association supports young homosexuals in difficult situations.
 
   La discrimination envers les personnes *homosexuelles* est interdite.
-  Diskriminierung gegenüber *homosexuellen* Menschen ist verboten.
+  Discrimination against homosexuals is prohibited.
 
   Une célèbre écrivaine *homosexuelle* a publié ses mémoires.
-  Eine bekannte *homosexuelle* Schriftstellerin hat ihre Memoiren veröffentlicht.
+  A well-known *homosexual* writer has published her memoirs.
 
   Les parents ont accepté l'orientation *homosexuelle* de leur fils.
-  Die Eltern haben die *homosexuelle* Orientierung ihres Sohnes akzeptiert.
+  Parents have accepted her son's *homosexual* orientation.
 
   Cette série présente naturellement un personnage *homosexuel*.
-  Diese Serie zeigt ganz natürlich eine *homosexuelle* Figur.
+  This series naturally shows a *homosexual* figure.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

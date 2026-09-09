@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3045
 Wort: lot
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le lot
 Femininum / Plural: ''
 IPA: \lo\
-Definition: Preis; Stapel; (An)teil
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Price; stack; (part)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La négligence sera le *lot* de cet enfant du malheur.
-  Vernachlässigung wird das *Los* dieses unglücklichen Kindes sein.
+  Neglect will be the fate of this unhappy child.
 
   J'ai acheté un *lot* de trois chemises en solde.
-  Ich habe ein *Set* von drei Hemden im Ausverkauf gekauft.
+  I bought a *set* of three shirts on sale.
 
   Le terrain a été divisé en plusieurs *lots* pour la vente.
-  Das Grundstück wurde für den Verkauf in mehrere *Parzellen* aufgeteilt.
+  The plot was divided into several plots for sale.
 
   "J'ai gagné le *gros lot* à la loterie !" s'est-il exclamé avec joie.
-  "Ich habe den *Hauptgewinn* in der Lotterie gewonnen!", rief er freudig aus.
+  "I won the jackpot in the lottery!" he exclaimed joyfully.
 
   Dans le *lot* des candidats, il y en a deux qui se démarquent.
-  Unter den *Bewerbern* gibt es zwei, die herausstechen.
+  There are two candidates who stand out.
 
   Le *lot de consolation* était un bon d'achat de 50 euros.
-  Der *Trostpreis* war ein Einkaufsgutschein über 50 Euro.
+  The *consolation prize* was a shopping voucher of 50 euros.
 
   Ils ont vendu leur maison en deux *lots* distincts.
-  Sie haben ihr Haus in zwei separate *Teile* verkauft.
+  They sold their house in two separate *parts*.
 
   Son *lot* quotidien était fait de petits bonheurs simples.
-  Ihr tägliches *Los* bestand aus kleinen, einfachen Freuden.
+  Their daily fate consisted of small, simple pleasures.
 
   L'entreprise a acheté un *lot* de fournitures de bureau en gros.
-  Das Unternehmen hat einen großen *Posten* Büromaterial eingekauft.
+  The company has purchased a large *item* of office supplies.
 
   Le juge a ordonné la formation des *lots* pour l'héritage.
-  Der Richter ordnete die Bildung der Erb*anteile* an.
+  The judge ordered the formation of the inheritance portions.
 
   Ce candidat est vraiment au-dessus du *lot*.
-  Dieser Bewerber hebt sich wirklich von der *Masse* ab.
+  This candidate really stands out from the crowd.
 
   Les *lots* à bâtir se sont vendus rapidement dans ce nouveau quartier.
-  Die Bau*grundstücke* in diesem neuen Viertel wurden schnell verkauft.
+  The building plots in this new quarter were sold quickly.
 
   La souffrance semblait être son *lot* dans la vie.
-  Leid schien sein *Los* im Leben zu sein.
+  Suffering seemed to be his lot in life.
 
   Nous avons reçu un *lot* de marchandises défectueuses.
-  Wir haben einen *Posten* defekter Waren erhalten.
+  We have received a post of defective goods.
 
   Le système informatique traite les données par *lots*.
-  Das Computersystem verarbeitet die Daten in *Stapeln*.
+  The computer system processes the data into stacks.
 
   "Tu as tiré le bon *lot*!", a-t-elle dit en riant.
-  "Du hast das richtige *Los* gezogen!", sagte sie lachend.
+  "You have drawn the right lot!" she said laughing.
 
   Les agriculteurs ont protesté contre le *lotissement* des terres agricoles.
-  Die Landwirte protestierten gegen die *Parzellierung* der landwirtschaftlichen Flächen.
+  Farmers protested against the parcelling of agricultural land.
 
   Ce *lot* d'obligations offre un bon rendement.
-  Dieses *Los* an Anleihen bietet eine gute Rendite.
+  This lot of bonds offers a good return.
 
   Dans le *lot*, il y avait quelques perles rares.
-  Unter dem *Haufen* gab es einige seltene Perlen.
+  There were some rare pearls under the heap.
 
   Le *lot* de livres anciens a été vendu aux enchères.
-  Der *Posten* alter Bücher wurde versteigert.
+  The post of old books was auctioned.
 
   Les copropriétaires se sont disputés sur la répartition des *lots*.
-  Die Miteigentümer stritten sich über die Verteilung der *Anteile*.
+  The co-owners argued about the distribution of the *shares*.
 
   Elle a *remporté un lot* de voyage pour deux personnes.
-  Sie hat eine Reise für zwei Personen *gewonnen*.
+  She won a trip for two people.
 
   Le magasin propose des *lots de deux* t-shirts à prix réduit.
-  Der Laden bietet *Zweiersets* von T-Shirts zu einem reduzierten Preis an.
+  The store offers *two sets* of T-shirts at a reduced price.
 
   Son *lot de travail* était particulièrement difficile ce jour-là.
-  Sein *Arbeitspensum* war an diesem Tag besonders schwierig.
+  His workload was particularly difficult that day.
 
   Le promoteur a divisé le terrain en *lots* de taille égale.
-  Der Bauträger hat das Grundstück in gleich große *Parzellen* aufgeteilt.
+  The developer divided the plot into plots of the same size.
 
   L'inégalité semble être le *lot* de nombreuses sociétés modernes.
-  Ungleichheit scheint das *Los* vieler moderner Gesellschaften zu sein.
+  Inequality seems to be the lot of many modern societies.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

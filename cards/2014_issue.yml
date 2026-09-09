@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2014
 Wort: issue
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une issue
 Femininum / Plural: ''
 IPA: \i.sy\
-Definition: Ausgang, Ergebnis
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Outcome, result
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous fondons nos espoirs sur une *issue* positive au référendum.
-  Wir setzen unsere Hoffnungen auf einen positiven *Ausgang* des Referendums.
+  We hope for a positive outcome of the referendum.
 
   La porte de l'*issue* de secours était bloquée.
-  Die Tür des Not*ausgangs* war blockiert.
+  The emergency exit door was blocked.
 
   Il n'y a aucune *issue* à ce conflit sans compromis.
-  Es gibt keinen *Ausweg* aus diesem Konflikt ohne Kompromisse.
+  There is no *way out* of this conflict without compromise.
 
   La maladie a connu une *issue* fatale malgré les efforts des médecins.
-  Die Krankheit nahm trotz der Bemühungen der Ärzte ein tödliches *Ende*.
+  Despite the efforts of the doctors, the disease ended fatally.
 
   "*À l'issue* de la réunion, nous prendrons un café ensemble."
-  "*Nach* der Besprechung werden wir zusammen einen Kaffee trinken."
+  "*After* the meeting, we'll have a coffee together."
 
   Les pompiers ont sécurisé toutes les *issues* du bâtiment.
-  Die Feuerwehr hat alle *Ausgänge* des Gebäudes gesichert.
+  The fire department has secured all the exits of the building.
 
   Cette négociation n'a pas d'autre *issue* que le compromis.
-  Diese Verhandlung hat keinen anderen *Ausweg* als den Kompromiss.
+  This negotiation has no other *way out* than compromise.
 
   L'*issue* du match était incertaine jusqu'à la dernière minute.
-  Der *Ausgang* des Spiels war bis zur letzten Minute ungewiss.
+  The outcome of the game was uncertain until the last minute.
 
   Il faut toujours prévoir une *issue* de secours dans un plan d'évacuation.
-  In einem Evakuierungsplan muss immer ein Not*ausgang* vorgesehen sein.
+  An emergency exit must always be provided in an evacuation plan.
 
   Les manifestants ont bloqué toutes les *issues* de l'immeuble.
-  Die Demonstranten haben alle *Ausgänge* des Gebäudes blockiert.
+  The demonstrators blocked all the exits of the building.
 
   *À l'issue* du procès, l'accusé a été acquitté.
-  *Am Ende* des Prozesses wurde der Angeklagte freigesprochen.
+  *At the end* of the trial, the defendant was acquitted.
 
   Cette *issue* donne sur une cour intérieure.
-  Dieser *Ausgang* führt zu einem Innenhof.
+  This exit leads to a courtyard.
 
   Nous devons trouver une *issue* pacifique à cette crise.
-  Wir müssen einen friedlichen *Ausweg* aus dieser Krise finden.
+  We must find a peaceful *way out* of this crisis.
 
   L'*issue* des négociations reste incertaine.
-  Der *Ausgang* der Verhandlungen bleibt ungewiss.
+  The outcome of the negotiations remains uncertain.
 
   Cette rue est une issue *sans issue* depuis les travaux.
-  Diese Straße ist seit den Bauarbeiten eine *Sackgasse*.
+  This road has been a dead end since construction.
 
   *À l'issue* du concert, les fans ont attendu les artistes.
-  *Nach* dem Konzert warteten die Fans auf die Künstler.
+  *After* the concert, the fans waited for the artists.
 
   Il n'y a pas d'*issue* favorable sans effort de notre part.
-  Es gibt keinen günstigen *Ausgang* ohne unsere Bemühungen.
+  There is no favorable outcome without our efforts.
 
   Les *issues* de cette usine sont strictement contrôlées.
-  Die *Ausgänge* dieser Fabrik werden streng kontrolliert.
+  The exits of this factory are strictly controlled.
 
   L'*issue* du vote aura des conséquences importantes.
-  Der *Ausgang* der Abstimmung wird wichtige Folgen haben.
+  The outcome of the vote will have important consequences.
 
   Nous cherchons une *issue* créative à ce problème.
-  Wir suchen einen kreativen *Ausweg* aus diesem Problem.
+  We are looking for a creative *way out* of this problem.
 
   Cette *issue* de secours mène directement à la rue.
-  Dieser Not*ausgang* führt direkt auf die Straße.
+  This emergency exit leads directly to the road.
 
   L'*issue* du débat a surpris tous les participants.
-  Das *Ergebnis* der Debatte überraschte alle Teilnehmer.
+  The outcome of the debate surprised all participants.
 
   *À l'issue* de ses études, elle a trouvé un excellent emploi.
-  *Nach* ihrem Studium fand sie eine ausgezeichnete Anstellung.
+  *After* her studies, she found an excellent job.
 
   Cette décision ouvre de nouvelles *issues* pour l'entreprise.
-  Diese Entscheidung eröffnet dem Unternehmen neue *Möglichkeiten*.
+  This decision opens up new *possibilities* for the company.
 
   Les *issues* de blé sont utilisées pour nourrir le bétail.
-  Die *Nebenprodukte* des Weizens werden zur Fütterung von Vieh verwendet.
+  Wheat *by-products* are used for animal feeding.
 
   Le labyrinthe semblait n'avoir aucune *issue*.
-  Das Labyrinth schien keinen *Ausweg* zu haben.
+  The maze seemed to have no *way out*.
 
   *À l'issue* de la cérémonie, un buffet sera servi.
-  *Im Anschluss an* die Zeremonie wird ein Buffet serviert.
+  A buffet is served after the ceremony.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

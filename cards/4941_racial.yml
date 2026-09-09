@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4941
 Wort: racial
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: racial
 Femininum / Plural: raciale
 IPA: \ʁa.sjal\
-Definition: Rassen-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Racial
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La préférence *raciale* joue depuis longtemps dans le recrutement.
-  Die *Rassen*diskriminierung spielt seit langem bei der Einstellung eine Rolle.
+  Racial discrimination has long played a role in recruitment.
 
   Les tensions *raciales* ont augmenté ces derniers mois dans la ville.
-  Die *Rassen*spannungen haben in den letzten Monaten in der Stadt zugenommen.
+  Race tensions have increased in the city in recent months.
 
   Le gouvernement a adopté une nouvelle loi contre la discrimination *raciale*.
-  Die Regierung hat ein neues Gesetz gegen *Rassen*diskriminierung verabschiedet.
+  The government has passed a new law against racial discrimination.
 
   L'exposition examine les origines de la ségrégation *raciale* aux États-Unis.
-  Die Ausstellung untersucht die Ursprünge der *Rassen*trennung in den USA.
+  The exhibition examines the origins of racial segregation in the USA.
 
   Des émeutes *raciales* ont éclaté dans plusieurs quartiers.
-  In mehreren Stadtvierteln sind *Rassen*unruhen ausgebrochen.
+  Race riots have erupted in several neighborhoods.
 
   Les conflits *raciaux* ont marqué l'histoire de ce pays.
-  Die *Rassen*konflikte haben die Geschichte dieses Landes geprägt.
+  The racial conflicts have shaped the history of this country.
 
   Le documentaire traite des préjugés *raciaux* dans la société.
-  Die Dokumentation behandelt *Rassen*vorurteile in der Gesellschaft.
+  The documentation deals with racial prejudices in society.
 
   La constitution interdit toute forme de discrimination *raciale*.
-  Die Verfassung verbietet jede Form der *Rassen*diskriminierung.
+  The Constitution prohibits any form of racial discrimination.
 
   Les violences *raciales* ont choqué la communauté internationale.
-  Die *Rassen*gewalt hat die internationale Gemeinschaft schockiert.
+  Racial violence has shocked the international community.
 
   L'incitation à la haine *raciale* est punie par la loi.
-  Die Anstiftung zum *Rassen*hass wird gesetzlich bestraft.
+  Incitement to racial hatred is punished by law.
 
   Le mouvement luttait contre l'oppression *raciale*.
-  Die Bewegung kämpfte gegen *Rassen*unterdrückung.
+  The movement fought against racial oppression.
 
   La politique de ségrégation *raciale* a finalement été abolie.
-  Die Politik der *Rassen*trennung wurde schließlich abgeschafft.
+  The policy of racial segregation was finally abolished.
 
   Les stéréotypes *raciaux* persistent malheureusement dans certains médias.
-  *Rassen*stereotype bestehen leider in einigen Medien weiter.
+  Racial stereotypes unfortunately continue to exist in some media.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

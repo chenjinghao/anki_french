@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3674
 Wort: paralyser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: paralyser
 Femininum / Plural: ''
 IPA: \pa.ʁa.li.ze\
-Definition: lähmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: paralyze
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La mine est *paralysée* par la grève.
-  Die Mine ist durch den Streik *lahmgelegt*.
+  The mine is *paralyzed* by the strike.
 
   La tempête de neige a *paralysé* tout le réseau routier.
-  Der Schneesturm hat das gesamte Straßennetz *lahmgelegt*.
+  The snowstorm has *paralyzed* the entire road network.
 
   Une attaque cérébrale lui a *paralysé* le côté gauche du corps.
-  Ein Schlaganfall hat seine linke Körperseite *gelähmt*.
+  A stroke *paralyzed* his left side of the body.
 
   Le stress l'a complètement *paralysé* pendant l'entretien d'embauche.
-  Der Stress hat ihn während des Vorstellungsgesprächs völlig *gelähmt*.
+  Stress *paralyzed* him during the interview.
 
   Les transports publics seront *paralysés* demain à cause de la manifestation.
-  Der öffentliche Nahverkehr wird morgen wegen der Demonstration *stillstehen*.
+  Public transport will *stand still* tomorrow because of the demonstration.
 
   La peur du noir *paralysait* le petit garçon chaque soir.
-  Die Angst vor der Dunkelheit *lähmte* den kleinen Jungen jeden Abend.
+  The fear of darkness *paralyzed* the little boy every night.
 
   Cette blessure m'a *paralysé* le bras droit pendant plusieurs semaines.
-  Diese Verletzung hat meinen rechten Arm mehrere Wochen lang *gelähmt*.
+  This injury *paralyzed* my right arm for several weeks.
 
   Le trac *paralysait* complètement Marie avant son spectacle de danse.
-  Das Lampenfieber hat Marie vor ihrer Tanzaufführung völlig *gelähmt*.
+  The stage fright completely *paralyzed* Marie before her dance performance.
 
   Un grave accident a *paralysé* le trafic sur l'autoroute pendant des heures.
-  Ein schwerer Unfall hat den Verkehr auf der Autobahn stundenlang *lahmgelegt*.
+  A serious accident has *paralyzed* traffic on the motorway for hours.
 
   Le froid intense avait *paralysé* ses doigts.
-  Die intensive Kälte hatte seine Finger *gelähmt*.
+  The intense cold had *paralyzed* his fingers.
 
   L'économie du pays est *paralysée* par la crise financière.
-  Die Wirtschaft des Landes ist durch die Finanzkrise *lahmgelegt*.
+  The country's economy is *paralyzed* by the financial crisis.
 
   Sa timidité le *paralyse* chaque fois qu'il doit parler en public.
-  Seine Schüchternheit *lähmt* ihn jedes Mal, wenn er öffentlich sprechen muss.
+  His shyness paralyzes him every time he has to speak publicly.
 
   Le virus informatique a *paralysé* tout le système pendant deux jours.
-  Der Computervirus hat das gesamte System zwei Tage lang *lahmgelegt*.
+  The computer virus has *paralyzed* the entire system for two days.
 
   L'émotion *paralysa* sa langue au moment crucial.
-  Die Aufregung *lähmte* seine Zunge im entscheidenden Moment.
+  The excitement *paralyzed* his tongue at the crucial moment.
 
   Une panne technique a *paralysé* la production de l'usine.
-  Eine technische Störung hat die Produktion der Fabrik *lahmgelegt*.
+  A technical disturbance has *paralyzed* the production of the factory.
 
   La chaleur écrasante *paralysait* toute activité dans la ville.
-  Die erdrückende Hitze *lähmte* jegliche Aktivität in der Stadt.
+  The crushing heat *paralyzed* any activity in the city.
 
   Le choc de l'accident l'a complètement *paralysé*.
-  Der Schock des Unfalls hat ihn völlig *gelähmt*.
+  The shock of the accident completely *paralyzed* him.
 
   Les grévistes ont *paralysé* l'aéroport pendant une semaine.
-  Die Streikenden haben den Flughafen eine Woche lang *lahmgelegt*.
+  The strikers *paralyzed* the airport for a week.
 
   L'angoisse *paralysait* ses facultés de réflexion.
-  Die Angst *lähmte* sein Denkvermögen.
+  Fear *paralyzed* his mind.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

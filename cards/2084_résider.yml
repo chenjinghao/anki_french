@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2084
 Wort: résider
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: résider
 Femininum / Plural: ''
 IPA: \ʁe.zi.de\
-Definition: wohnen, residieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: live, reside
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est là que *réside* l'avenir de nos enfants.
-  Dort *liegt* die Zukunft unserer Kinder.
+  There lies the future of our children.
 
   Ma grand-mère *réside* dans une maison de retraite depuis deux ans.
-  Meine Großmutter *wohnt* seit zwei Jahren in einem Altersheim.
+  My grandmother has been living in an old-age home for two years.
 
   Le problème *réside* dans le manque de communication entre les départements.
-  Das Problem *liegt* im Mangel an Kommunikation zwischen den Abteilungen.
+  The problem *is* the lack of communication between departments.
 
   Nous *résidons* actuellement dans un petit appartement au centre-ville.
-  Wir *wohnen* derzeit in einer kleinen Wohnung im Stadtzentrum.
+  We currently live in a small apartment in the city center.
 
   L'ambassadeur de France *réside* dans un magnifique hôtel particulier.
-  Der französische Botschafter *residiert* in einem prächtigen Stadtpalais.
+  The French ambassador resides in a magnificent city palace.
 
   La beauté de ce tableau *réside* dans sa simplicité.
-  Die Schönheit dieses Gemäldes *liegt* in seiner Einfachheit.
+  The beauty of this painting lies in its simplicity.
 
   Pendant ses études, elle *résidait* chez sa tante à Paris.
-  Während ihres Studiums *wohnte* sie bei ihrer Tante in Paris.
+  During her studies, she lived with her aunt in Paris.
 
   Le pouvoir exécutif *réside* principalement entre les mains du président.
-  Die Exekutivgewalt *liegt* hauptsächlich in den Händen des Präsidenten.
+  The executive power *is* mainly in the hands of the President.
 
   Beaucoup d'étudiants étrangers *résident* dans des cités universitaires.
-  Viele ausländische Studenten *wohnen* in Studentenwohnheimen.
+  Many foreign students live in student dormitories.
 
   La difficulté *réside* dans la mise en œuvre de cette nouvelle politique.
-  Die Schwierigkeit *besteht* in der Umsetzung dieser neuen Politik.
+  *The* difficulty lies in the implementation of this new policy.
 
   "Où *résidez*-vous actuellement ?" demanda l'agent immobilier.
-  "Wo *wohnen* Sie zurzeit?", fragte der Immobilienmakler.
+  "Where are you currently *living*?" asked the real estate agent.
 
   Le charme de cette ville *réside* dans son architecture médiévale.
-  Der Charme dieser Stadt *liegt* in ihrer mittelalterlichen Architektur.
+  The charm of this city lies in its medieval architecture.
 
   Les moines *résidaient* autrefois dans ce monastère abandonné.
-  Die Mönche *lebten* früher in diesem verlassenen Kloster.
+  The monks used to live in this abandoned monastery.
 
   Notre force *réside* dans notre diversité et notre unité.
-  Unsere Stärke *liegt* in unserer Vielfalt und unserer Einheit.
+  Our strength lies in our diversity and unity.
 
   Il *résidera* à l'étranger pendant au moins deux ans pour son travail.
-  Er wird für mindestens zwei Jahre berufsbedingt im Ausland *wohnen*.
+  He will live abroad for at least two years as a job.
 
   La clé du succès *réside* souvent dans la persévérance.
-  Der Schlüssel zum Erfolg *liegt* oft in der Beharrlichkeit.
+  The key to success often lies in perseverance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

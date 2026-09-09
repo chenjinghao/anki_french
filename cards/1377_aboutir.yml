@@ -1,104 +1,104 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1377
 Wort: aboutir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: aboutir
 Femininum / Plural: ''
 IPA: \a.bu.tiʁ\
-Definition: zu etwas führen, Erfolg haben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: to lead to something, to succeed
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce projet n'a pourtant pas *abouti*.
-  Dieses Projekt wurde jedoch nicht erfolgreich *abgeschlossen*.
+  However, this project has not been successfully *completed*.
 
   La rue principale *aboutit* à la place du marché.
-  Die Hauptstraße *führt* zum Marktplatz.
+  *The* main road leads to the market square.
 
   Leurs efforts ont finalement *abouti* à un accord.
-  Ihre Bemühungen haben schließlich zu einer Einigung *geführt*.
+  Their efforts have finally led to an agreement.
 
   Le chemin *aboutit* dans une clairière au milieu de la forêt.
-  Der Weg *endet* auf einer Lichtung mitten im Wald.
+  The path *ends* on a clearing in the middle of the forest.
 
   Malgré des années de recherche, l'équipe n'a pas *abouti* à une découverte majeure.
-  Trotz jahrelanger Forschung hat das Team keine bahnbrechende Entdeckung *erzielt*.
+  Despite years of research, the team has not *achieved* a groundbreaking discovery.
 
   Les négociations ont *abouti* à la signature d'un traité de paix.
-  Die Verhandlungen haben zum Abschluss eines Friedensvertrags *geführt*.
+  The negotiations have led to the conclusion of a peace treaty.
 
   Cette démarche administrative n'*aboutira* probablement à rien.
-  Dieser Verwaltungsvorgang wird wahrscheinlich zu nichts *führen*.
+  This administrative process is unlikely to lead to anything.
 
   Le couloir *aboutit* à une petite pièce sombre.
-  Der Flur *mündet* in einen kleinen, dunklen Raum.
+  The hallway *flows* into a small, dark room.
 
   Nous espérons que nos efforts *aboutiront* à des résultats concrets.
-  Wir hoffen, dass unsere Bemühungen zu konkreten Ergebnissen *führen* werden.
+  We hope that our efforts will lead to concrete results.
 
   La rivière *aboutit* dans un grand lac.
-  Der Fluss *mündet* in einen großen See.
+  The river *flows* into a large lake.
 
   Son travail acharné a finalement *abouti* à une promotion.
-  Seine harte Arbeit hat schließlich zu einer Beförderung *geführt*.
+  His hard work eventually led to a promotion.
 
   L'enquête policière a *abouti* à l'arrestation du suspect.
-  Die polizeilichen Ermittlungen haben zur Verhaftung des Verdächtigen *geführt*.
+  The police investigation has led to the arrest of the suspect.
 
   Toutes les pistes de l'enquête n'ont pas encore *abouti*.
-  Nicht alle Ermittlungsspuren haben bisher zu einem Ergebnis *geführt*.
+  Not all traces of investigation have so far led to a result.
 
   Le sentier escarpé *aboutit* au sommet de la montagne.
-  Der steile Pfad *führt* zum Gipfel des Berges.
+  *The* steep path leads to the top of the mountain.
 
   Leurs revendications ont finalement *abouti* à des changements concrets.
-  Ihre Forderungen haben schließlich zu konkreten Veränderungen *geführt*.
+  Their demands have finally led to concrete changes.
 
   Ce long processus de paix a enfin *abouti*.
-  Dieser lange Friedensprozess ist endlich *erfolgreich abgeschlossen* worden.
+  This long peace process has finally been successfully concluded.
 
   L'escalier en colimaçon *aboutit* dans le grenier.
-  Die Wendeltreppe *führt* zum Dachboden.
+  *The* spiral staircase leads to the attic.
 
   Nous devons faire *aboutir* ce projet avant la fin de l'année.
-  Wir müssen dieses Projekt vor Jahresende zum *Abschluss* bringen.
+  We have to finish this project before the end of the year.
 
   Les pourparlers ont *abouti* à un compromis acceptable pour tous.
-  Die Gespräche haben zu einem für alle akzeptablen Kompromiss *geführt*.
+  The talks have led to a compromise acceptable to all.
 
   Malheureusement, ses efforts n'ont pas *abouti* comme il l'espérait.
-  Leider haben seine Bemühungen nicht zu dem erhofften Ergebnis *geführt*.
+  Unfortunately, his efforts did not lead to the expected result.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>réussir</i> und <i>aboutir</i></div>
+    <div class="section-title"><i>réussir</i> and <i>aboutir</i></div>
     <div class="section-content">
-      <p><span class="fr">Réussir</span> (#279) kann sowohl mit einem Objekt als Subjekt verwendet werden (typischerweise bei Projekten oder Vorhaben) als auch mit einer Person als Subjekt. Es bedeutet generell, erfolgreich zu sein oder etwas zu schaffen.</p>
+      <p><span class="fr">Réussir</span> (#279) can be used with an object as a subject (typically in projects or projects) as well as with a person as a subject. It generally means being successful or creating something.</p>
       <div class="examples">
         <div class="fr">Son projet a enfin réussi.</div>
-        <div class="de spoiler">Sein Projekt war endlich erfolgreich.</div>
+        <div class="de spoiler">His project was finally successful.</div>
         <div class="fr">Il a réussi son examen.</div>
-        <div class="de spoiler">Er hat seine Prüfung bestanden.</div>
+        <div class="de spoiler">He passed his exam.</div>
         <div class="fr">Elle a réussi à les convaincre.</div>
-        <div class="de spoiler">Es ist ihr gelungen, sie zu überzeugen.</div>
+        <div class="de spoiler">She managed to convince her.</div>
       </div>
-      <p><span class="fr">Aboutir</span> kann in manchen Kontexten synonym zu <b>réussir</b> verwendet werden, trägt aber zusätzlich die Bedeutung von <span class="de">"zu Ende kommen"</span> oder <span class="de">"zu etwas führen"</span>. Es hat zwei Hauptbedeutungen: etwas abschließen/vollenden und irgendwo enden/hinführen.</p>
+      <p><span class="fr">Aboutir</span> can be synonymous in some contexts to <b>réussir</b> the use, but additionally carries the meaning of <span class="de">"To end"</span> or <span class="de">"to lead to something"</span>. It has two main meanings: something complete/complete and somewhere end/lead.</p>
       <div class="examples">
         <div class="fr">Son projet a enfin abouti.</div>
-        <div class="de spoiler">Sein Projekt ist endlich zum Abschluss gekommen.</div>
+        <div class="de spoiler">His project finally came to an end.</div>
         <div class="fr">La séance n'a abouti à aucun résultat.</div>
-        <div class="de spoiler">Die Sitzung hat zu keinem Ergebnis geführt.</div>
+        <div class="de spoiler">The meeting did not produce any result.</div>
         <div class="fr">La voiture a heurté un arbre avant d'aboutir dans une prairie.</div>
-        <div class="de spoiler">Das Auto stieß gegen einen Baum, bevor es auf einer Wiese zum Stehen kam.</div>
+        <div class="de spoiler">The car hit a tree before it stopped on a meadow.</div>
       </div>
     </div>
   </div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 73
 Wort: notre
 Wortart: pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: notre
 Femininum / Plural: nos
 IPA: \nɔtʁ\
-Definition: unser
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: our
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Notre* ville a le sens de la communauté.
-  *Unsere* Stadt hat einen starken Gemeinschaftssinn.
+  *Our* city has a strong sense of community.
 
   Cette année, *nos* enfants vont à l'école pour la première fois.
-  *Unsere* Kinder gehen dieses Jahr zum ersten Mal zur Schule.
+  *Our* children are going to school this year for the first time.
 
   *Notre* jardin est plein de roses en été.
-  In *unserem* Garten blühen im Sommer viele Rosen.
+  In *our* garden many roses bloom in summer.
 
   À *notre* avis, il faut agir maintenant.
-  *Unserer* Meinung nach müssen wir jetzt handeln.
+  In *our* opinion, we must act now.
 
   Le chat s'est enfui à *notre* approche.
-  Die Katze lief weg, als *wir* uns näherten.
+  The cat ran away as *we* approached.
 
   *Notre* Père qui êtes aux cieux, donnez-nous notre pain quotidien.
-  Vater *unser*, der du bist im Himmel, gib uns unser tägliches Brot.
+  *Our* Father, who art in heaven, give us our daily bread.
 
   C'est à *notre* tour de présenter le projet.
-  Jetzt sind *wir* mit der Projektpräsentation an der Reihe.
+  Now it's our turn to present the project.
 
   À *notre* époque, tout va très vite.
-  In *unserer* Zeit geht alles sehr schnell.
+  In *our* time everything goes very fast.
 
   "*Notre* héros a finalement réussi sa mission."
-  "*Unser* Held hat seine Mission endlich erfüllt."
+  "*Our* hero has finally completed his mission."
 
   *Nos* parents nous ont toujours encouragés.
-  *Unsere* Eltern haben uns immer ermutigt.
+  *Our* parents have always encouraged us.
 
   *Notre* maison se trouve au bout de la rue.
-  *Unser* Haus liegt am Ende der Straße.
+  *Our* house is at the end of the street.
 
   *Nos* gloires nationales sont source de fierté.
-  *Unsere* nationalen Erfolge sind eine Quelle des Stolzes.
+  *Our* national successes are a source of pride.
 
   "Voici *notre* homme qui arrive enfin!"
-  "Da kommt ja *unser* Mann endlich!"
+  "Here comes *our* man at last!"
 
   *Notre* village organise une fête ce week-end.
-  *Unser* Dorf veranstaltet dieses Wochenende ein Fest.
+  *Our* village is having a party this weekend.
 
   *Notre* condition s'améliore peu à peu.
-  *Unsere* Lage verbessert sich nach und nach.
+  *Our* situation is gradually improving.
 
   *Nos* meilleurs poètes seront présents à la soirée.
-  *Unsere* besten Dichter werden beim Abend dabei sein.
+  *Our* best poets will be there at night.
 
   Pour *notre* part, nous soutenons cette initiative.
-  Was *uns* betrifft, unterstützen wir diese Initiative.
+  As far as we are concerned, we support this initiative.
 
   À *notre* connaissance, personne n'a encore trouvé la solution.
-  Nach *unserem* Kenntnisstand hat noch niemand die Lösung gefunden.
+  As far as we know, no one has yet found the solution.
 
   *Notre* auteur poursuit son récit avec passion.
-  *Unser* Autor setzt seine Erzählung leidenschaftlich fort.
+  *Our* author continues his story passionately.
 
   Hier, *nos* voisins nous ont invités à dîner.
-  Gestern haben *unsere* Nachbarn uns zum Abendessen eingeladen.
+  Yesterday *our* neighbors invited us to dinner.
 
   *Notre* chien adore jouer dans le parc.
-  *Unser* Hund spielt gerne im Park.
+  *Our* dog likes to play in the park.
 
   *Nos* vacances commencent la semaine prochaine.
-  *Unser* Urlaub beginnt nächste Woche.
+  *Our* holiday starts next week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3259
 Wort: prioritaire
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prioritaire
 Femininum / Plural: ''
 IPA: \pʁi.jɔ.ʁi.tɛʁ\
-Definition: vorrangig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Priority
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je te fais un passe *prioritaire*.
-  Ich gebe dir einen *bevorzugten* Eintritt.
+  I'll give you a favorite entrance.
 
   Les femmes enceintes sont *prioritaires* dans la file d'attente.
-  Schwangere Frauen sind in der Warteschlange *vorrangig* zu behandeln.
+  Pregnant women should be treated as a *priority* in the queue.
 
   L'ambulance est un véhicule *prioritaire*.
-  Der Krankenwagen ist ein *vorfahrtsberechtigtes* Fahrzeug.
+  The ambulance is an emergency vehicle.
 
   La réduction de la pauvreté est un objectif *prioritaire*.
-  Die Armutsbekämpfung ist ein *vorrangiges* Ziel.
+  The fight against poverty is a *priority* objective.
 
   Les services d'urgence sont *prioritaires* sur cette route.
-  Die Rettungsdienste haben auf dieser Straße *Vorfahrt*.
+  The emergency services have an *advance* on this road.
 
   En tant que *prioritaire*, il peut entrer directement dans le bâtiment.
-  Als *Bevorrechtigter* kann er das Gebäude direkt betreten.
+  As a privileged person, he can enter the building directly.
 
   Ces investissements sont *prioritaires* pour le développement du pays.
-  Diese Investitionen sind für die Entwicklung des Landes *vorrangig*.
+  These investments are a *priority* for the country's development.
 
   La sécurité reste notre préoccupation *prioritaire*.
-  Die Sicherheit bleibt unser *vordringliches* Anliegen.
+  Security remains our primary concern.
 
   Le camion des pompiers est *prioritaire* à ce carrefour.
-  Das Feuerwehrauto hat an dieser Kreuzung *Vorfahrt*.
+  The fire truck has its way at this intersection.
 
   L'éducation est un secteur *prioritaire* du gouvernement.
-  Bildung ist ein *vorrangiger* Sektor der Regierung.
+  Education is a primary sector of government.
 
   Les *prioritaires* seront servis en premier.
-  Die *Bevorzugten* werden zuerst bedient.
+  The *preferred* ones are served first.
 
   Cette route *prioritaire* mène directement au centre-ville.
-  Diese *vorfahrtsberechtigte* Straße führt direkt ins Stadtzentrum.
+  This pre-passenger road leads directly to the city centre.
 
   La santé publique est devenue *prioritaire* pendant la pandémie.
-  Die öffentliche Gesundheit wurde während der Pandemie *vorrangig*.
+  Public health was a *priority* during the pandemic.
 
   Les personnes handicapées sont *prioritaires* aux caisses.
-  Menschen mit Behinderung sind an den Kassen *vorrangig*.
+  People with disabilities are the main beneficiaries at the cash registers.
 
   Le courrier *prioritaire* arrive plus rapidement.
-  Die *bevorzugte* Post kommt schneller an.
+  The *preferred* mail arrives faster.
 
   Ces besoins *prioritaires* doivent être satisfaits immédiatement.
-  Diese *vordringlichen* Bedürfnisse müssen sofort erfüllt werden.
+  These *urgent* needs must be met immediately.
 
   La protection de l'environnement est une mission *prioritaire*.
-  Der Umweltschutz ist eine *vorrangige* Aufgabe.
+  Environmental protection is a *priority*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

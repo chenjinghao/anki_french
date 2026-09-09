@@ -1,87 +1,87 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4690
 Wort: influer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: influer
 Femininum / Plural: ''
 IPA: \ɛ̃.fly.e\
-Definition: Einfluss nehmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Influence
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Chaque vie *influe* sur les autres.
-  Jedes Leben *wirkt* sich auf andere *aus*.
+  Each life has an *effect* on others.
 
   Le temps qu'il fait *influe* beaucoup sur mon humeur aujourd'hui.
-  Das Wetter *beeinflusst* heute meine Stimmung sehr.
+  The weather is very much affecting my mood today.
 
   La musique classique peut *influer* positivement sur la concentration des étudiants.
-  Klassische Musik kann sich positiv auf die Konzentration der Studenten *auswirken*.
+  Classical music can have a positive *effect* on the students' concentration.
 
   Les réseaux sociaux *influent* de plus en plus sur les choix des consommateurs.
-  Soziale Medien *nehmen* zunehmend *Einfluss* auf die Entscheidungen der Verbraucher.
+  Social media are increasingly affecting consumer choices.
 
   Cette décision politique va certainement *influer* sur l'économie locale.
-  Diese politische Entscheidung wird die lokale Wirtschaft sicher *beeinflussen*.
+  This political decision will certainly *influence* the local economy.
 
   Les habitudes alimentaires *influent* directement sur notre santé.
-  Ernährungsgewohnheiten *wirken* sich direkt auf unsere Gesundheit *aus*.
+  Nutritional habits have a direct *effect* on our health.
 
   La qualité du sommeil peut *influer* sur nos performances au travail.
-  Die Schlafqualität kann unsere Arbeitsleistung *beeinflussen*.
+  Sleep quality can affect our work performance.
 
   Les parents *influent* considérablement sur le développement de leurs enfants.
-  Eltern *nehmen* erheblichen *Einfluss* auf die Entwicklung ihrer Kinder.
+  Parents have a significant *influence* on the development of their children.
 
   Le stress professionnel peut *influer* négativement sur la vie familiale.
-  Beruflicher Stress kann sich negativ auf das Familienleben *auswirken*.
+  Occupational stress can have a negative impact on family life.
 
   La pollution *influe* sur la qualité de l'air que nous respirons.
-  Die Verschmutzung *beeinflusst* die Qualität der Luft, die wir atmen.
+  The pollution affects the quality of the air we breathe.
 
   Les changements climatiques *influent* sur la migration des oiseaux.
-  Klimaveränderungen *wirken* sich auf den Vogelzug *aus*.
+  Climate changes affect the migration of birds.
 
   La lumière naturelle *influe* sur notre rythme biologique.
-  Natürliches Licht *beeinflusst* unseren biologischen Rhythmus.
+  Natural light influences our biological rhythm.
 
   L'humidité *influe* fortement sur la croissance des plantes.
-  Die Feuchtigkeit *wirkt* sich stark auf das Pflanzenwachstum *aus*.
+  The moisture has a strong *effect* on plant growth.
 
   Son expérience professionnelle a *influé* sur sa décision de carrière.
-  Seine Berufserfahrung hat seine Karriereentscheidung *beeinflusst*.
+  His professional experience has *influenced* his career decision.
 
   Les opinions des autres ne devraient pas trop *influer* sur nos choix personnels.
-  Die Meinungen anderer sollten unsere persönlichen Entscheidungen nicht zu stark *beeinflussen*.
+  The opinions of others should not *influence* our personal decisions too much.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>influer</i> und <i>influencer</i></div>
+    <div class="section-title"><i>influer</i> and <i>influencer</i></div>
     <div class="section-content">
-      <p><span class="fr">Influer</span> bedeutet <span class="de">"einwirken"</span> oder <span class="de">"Einfluss ausüben"</span> und wird meist für Dinge oder abstrakte Konzepte verwendet. Es wird immer mit der Präposition <span class="fr">sur</span> konstruiert.</p>
+      <p><span class="fr">Influer</span> means <span class="de">"einwirken"</span> or <span class="de">"Policy influence"</span> and is mostly used for things or abstract concepts. It is always used with the preposition <span class="fr">sur</span> konstruiert.</p>
       <div class="examples">
         <div class="fr">Le climat <u>influe sur</u> la santé.</div>
-        <div class="de spoiler">Das Klima <u>wirkt sich auf</u> die Gesundheit aus.</div>
+        <div class="de spoiler">The climate <u>effects on</u> health.</div>
         <div class="fr">Le manque de ressources <u>influe sur</u> la production de l'entreprise.</div>
-        <div class="de spoiler">Der Ressourcenmangel <u>beeinflusst</u> die Produktion des Unternehmens.</div>
+        <div class="de spoiler">The lack of resources <u>beeinflusst</u> the production of the company.</div>
       </div>
-      <p><span class="fr">Influencer</span> bedeutet <span class="de">"beeinflussen"</span> und wird hauptsächlich für Personen, deren Verhalten, Willen oder Meinungen verwendet. Es wird mit einem direkten Objekt konstruiert.</p>
+      <p><span class="fr">Influencer</span> means <span class="de">"beeinflussen"</span> and is mainly used for persons whose behavior, will or opinions. It is constructed with a direct object.</p>
       <div class="examples">
         <div class="fr">Le discours des médecins <u>influence</u> la patientèle.</div>
-        <div class="de spoiler">Die Rede der Ärzte <u>beeinflusst</u> die Patientenschaft.</div>
+        <div class="de spoiler">The Doctors' Speech <u>beeinflusst</u> the patient's association.</div>
         <div class="fr">Cette publicité va <u>influencer</u> les consommateurs.</div>
-        <div class="de spoiler">Diese Werbung wird die Verbraucher <u>beeinflussen</u>.</div>
+        <div class="de spoiler">This advertising will help consumers <u>beeinflussen</u>.</div>
       </div>
-      <p>Der Hauptunterschied liegt in der Konstruktion: <span class="fr">influer sur quelque chose</span> versus <span class="fr">influencer quelqu'un</span>. Während beide Verben <span class="de">"Einfluss ausüben"</span> bedeuten, wird <span class="fr">influer</span> eher für sachliche Einwirkungen und <span class="fr">influencer</span> für persönliche Beeinflussung verwendet.</p>
+      <p>The main difference lies in the design: <span class="fr">influer sur quelque chose</span> versus <span class="fr">influencer quelqu'un</span>. While both verbs <span class="de">"Policy influence"</span> the <span class="fr">influer</span> rather for factual effects, and <span class="fr">influencer</span> used for personal influence.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

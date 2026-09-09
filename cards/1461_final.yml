@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1461
 Wort: final
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: final
 Femininum / Plural: finale,finals/finaux
 IPA: \fi.nal\
-Definition: letze(-r/s), End-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: last(-r/s), end(s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je me souviens de la séance *finale*.
-  Ich erinnere mich an die *letzte* Sitzung.
+  I remember the *last* session.
 
   La décision *finale* sera prise demain.
-  Die *End*entscheidung wird morgen getroffen.
+  The final decision will be made tomorrow.
 
   Dans la scène *finale*, tous les personnages se réunissent sur scène.
-  In der *letzten* Szene versammeln sich alle Figuren auf der Bühne.
+  In the *last* scene, all the characters gather on stage.
 
   Le *final* de cette symphonie est magnifique.
-  Das *Finale* dieser Symphonie ist wunderschön.
+  The finale of this symphony is beautiful.
 
   L'équipe s'est qualifiée pour la *finale* du championnat.
-  Die Mannschaft hat sich für das *Finale* der Meisterschaft qualifiziert.
+  The team qualified for the *final* of the championship.
 
   Le jury a rendu son verdict *final*.
-  Die Jury hat ihr *endgültiges* Urteil gefällt.
+  The jury has passed its *final* verdict.
 
   Les accords *finals* de la chanson résonnent encore dans ma tête.
-  Die *letzten* Akkorde des Lieds klingen noch in meinem Kopf nach.
+  The *last* chords of the song still sound in my head.
 
   Le résultat *final* du match était inattendu.
-  Das *End*ergebnis des Spiels war unerwartet.
+  The final result of the game was unexpected.
 
   La voyelle *finale* de ce mot ne se prononce pas.
-  Der *End*vokal dieses Wortes wird nicht ausgesprochen.
+  The final vowel of this word is not pronounced.
 
   J'ai mis un point *final* à cette relation toxique.
-  Ich habe dieser toxischen Beziehung ein *endgültiges* Ende gesetzt.
+  I've put a definitive end to this toxic relationship.
 
   Le compte *final* montre un déficit important.
-  Die *End*abrechnung zeigt ein erhebliches Defizit.
+  The final statement shows a significant deficit.
 
   La proposition *finale* explique le but de l'action.
-  Der *Final*satz erklärt den Zweck der Handlung.
+  The *final* sentence explains the purpose of the action.
 
   Le *final* de l'opéra a reçu une standing ovation.
-  Das *Finale* der Oper erhielt stehende Ovationen.
+  The finale of the opera received standing ovations.
 
   Nous attendons avec impatience la version *finale* du document.
-  Wir warten gespannt auf die *End*version des Dokuments.
+  We look forward to the final version of the document.
 
   Le combat *final* approche rapidement.
-  Der *letzte* Kampf rückt schnell näher.
+  The *last* fight is fast approaching.
 
   Les préparatifs *finals* sont en cours.
-  Die *letzten* Vorbereitungen laufen.
+  The final preparations are under way.
 
   La phase *finale* du projet commence lundi.
-  Die *End*phase des Projekts beginnt am Montag.
+  The final phase of the project starts on Monday.
 
   Le jury délibère avant sa conclusion *finale*.
-  Die Jury berät vor ihrer *endgültigen* Entscheidung.
+  The jury advises before its *final* decision.
 
   Le *final* du concert était spectaculaire.
-  Das *Finale* des Konzerts war spektakulär.
+  The finale of the concert was spectacular.
 
   La répétition *finale* aura lieu demain matin.
-  Die *letzte* Probe findet morgen früh statt.
+  The final rehearsal will take place in the morning.
 
   L'examen *final* se déroulera dans l'amphithéâtre.
-  Die *End*prüfung findet im Hörsaal statt.
+  The final exam takes place in the lecture hall.
 
   Le décompte *final* commence maintenant.
-  Der *End*countdown beginnt jetzt.
+  The *end* countdown is starting now.
 
   Les touches *finales* ont été ajoutées au tableau.
-  Die *letzten* Pinselstriche wurden dem Gemälde hinzugefügt.
+  The *last* brushstrokes were added to the painting.
 
   Le rapport *final* sera publié la semaine prochaine.
-  Der *End*bericht wird nächste Woche veröffentlicht.
+  The final report will be published next week.
 
   La correction *finale* du texte prendra encore une heure.
-  Die *letzte* Korrektur des Textes wird noch eine Stunde dauern.
+  The *last* correction of the text will take another hour.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

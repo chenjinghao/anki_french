@@ -1,83 +1,83 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4179
 Wort: concurrentiel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: concurrentiel
 Femininum / Plural: concurrentielle
 IPA: \kɔ̃.ky.ʁɑ̃.sjɛl\
-Definition: konkurrenzfähig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Competitive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Divers éléments nous procurent cet avantage *concurrentiel*.
-  Verschiedene Elemente verschaffen uns diesen *Wettbewerbs*vorteil.
+  Various elements give us this competitive advantage.
 
   Notre entreprise propose des prix *concurrentiels* pour tous ses services.
-  Unser Unternehmen bietet *konkurrenzfähige* Preise für alle seine Dienstleistungen.
+  Our company offers *competitive* prices for all its services.
 
   Ces innovations rendront notre produit plus *concurrentiel* sur le marché mondial.
-  Diese Innovationen werden unser Produkt auf dem Weltmarkt wettbewerbs*fähiger* machen.
+  These innovations will make our product more competitive on the world market.
 
   Dans ce secteur *concurrentiel*, il faut sans cesse innover.
-  In diesem *wettbewerbs*intensiven Sektor muss man ständig Neues entwickeln.
+  In this highly competitive sector, there is a constant need to develop new ones.
 
   Les activités *concurrentielles* représentent 80% de notre chiffre d'affaires.
-  Die *wettbewerbs*orientierten Aktivitäten machen 80% unseres Umsatzes aus.
+  The competitive activities account for 80% of our sales.
 
   Notre position *concurrentielle* s'est améliorée depuis l'année dernière.
-  Unsere *Wettbewerbs*position hat sich seit letztem Jahr verbessert.
+  Our competitive position has improved since last year.
 
   Le marché *concurrentiel* des smartphones évolue très rapidement.
-  Der *konkurrierende* Smartphone-Markt entwickelt sich sehr schnell.
+  The competing smartphone market is developing very quickly.
 
   Cette stratégie nous permettra de rester *concurrentiels*.
-  Diese Strategie wird uns ermöglichen, *konkurrenzfähig* zu bleiben.
+  This strategy will allow us to remain *competitive*.
 
   L'environnement *concurrentiel* actuel exige une grande flexibilité.
-  Das aktuelle *Wettbewerbs*umfeld erfordert große Flexibilität.
+  The current competitive environment requires great flexibility.
 
   Grâce à ces mesures, nos produits sont devenus plus *concurrentiels*.
-  Dank dieser Maßnahmen sind unsere Produkte wettbewerbs*fähiger* geworden.
+  Thanks to these measures, our products have become more competitive.
 
   Une analyse du paysage *concurrentiel* révèle de nouvelles opportunités.
-  Eine Analyse der *Wettbewerbs*landschaft zeigt neue Chancen auf.
+  An analysis of the competitive landscape shows new opportunities.
 
   Notre offre est très *concurrentielle* par rapport à celle de nos rivaux.
-  Unser Angebot ist im Vergleich zu dem unserer Rivalen sehr *konkurrenzfähig*.
+  Our offer is very *competitive* compared to that of our rivals.
 
   Cette économie *concurrentielle* favorise l'innovation constante.
-  Diese *wettbewerbs*orientierte Wirtschaft fördert ständige Innovation.
+  This competitive economy promotes continuous innovation.
 
   Les prix *concurrentiels* attirent de nouveaux clients chaque jour.
-  Die *konkurrenzfähigen* Preise ziehen täglich neue Kunden an.
+  The *competitive* prices attract new customers every day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>compétitif</i> und <i>concurrentiel</i></div>
+    <div class="section-title"><i>compétitif</i> and <i>concurrentiel</i></div>
     <div class="section-content">
-      <p><span class="fr">Compétitif</span> (#4173) bedeutet <span class="de">"wettbewerbsfähig"</span> und bezieht sich auf die Fähigkeit, erfolgreich zu konkurrieren. Es betont die Qualitäten oder Eigenschaften, die jemanden oder etwas im Wettbewerb stark machen.</p>
+      <p><span class="fr">Compétitif</span> (#4173) means <span class="de">"competitive"</span> and refers to the ability to compete successfully. It emphasizes the qualities or characteristics that make someone or something strong in the competition.</p>
       <div class="examples">
         <div class="fr">Cette entreprise propose des prix très compétitifs.</div>
-        <div class="de spoiler">Dieses Unternehmen bietet sehr wettbewerbsfähige Preise.</div>
+        <div class="de spoiler">This company offers very competitive prices.</div>
         <div class="fr">Il a un esprit compétitif qui l'aide à réussir.</div>
-        <div class="de spoiler">Er hat einen Wettbewerbsgeist, der ihm zum Erfolg verhilft.</div>
+        <div class="de spoiler">He has a competitive spirit that helps him succeed.</div>
       </div>
-      <p><span class="fr">Concurrentiel</span> bedeutet <span class="de">"konkurrierend"</span> oder <span class="de">"Konkurrenz-"</span> und beschreibt etwas, das mit der Konkurrenz oder dem Wettbewerb zu tun hat, ohne notwendigerweise eine Bewertung der Stärke zu implizieren.</p>
+      <p><span class="fr">Concurrentiel</span> means <span class="de">"konkurrierend"</span> or <span class="de">"Konkurrenz-"</span> and describes something that has to do with competition or competition without necessarily implying an assessment of strength.</p>
       <div class="examples">
         <div class="fr">Le marché concurrentiel est très difficile cette année.</div>
-        <div class="de spoiler">Der Konkurrenzmarkt ist dieses Jahr sehr schwierig.</div>
+        <div class="de spoiler">The competition market is very difficult this year.</div>
         <div class="fr">Ils ont mené une analyse concurrentielle approfondie.</div>
-        <div class="de spoiler">Sie haben eine gründliche Konkurrenzanalyse durchgeführt.</div>
+        <div class="de spoiler">You've done a thorough competition analysis.</div>
       </div>
-      <p><span class="fr">Compétitif</span> betont die Leistungsfähigkeit im Wettbewerb, während <span class="fr">concurrentiel</span> eher die Existenz oder den Kontext von Konkurrenz beschreibt.</p>
+      <p><span class="fr">Compétitif</span> stresses the competitiveness performance, while <span class="fr">concurrentiel</span> the existence or context of competition.</p>
     </div>
   </div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4166
 Wort: corrompre
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: corrompre
 Femininum / Plural: ''
 IPA: \kɔ.ʁɔ̃pʁ\
-Definition: bestechen, verderben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: bribe, spoil
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le régime actuel me semble absolument *corrompu*.
-  Das aktuelle Regime erscheint mir absolut *verdorben*.
+  The current regime seems to me to be completely *spoiled*.
 
   Les chaleurs extrêmes ont *corrompu* toute la nourriture dans le réfrigérateur en panne.
-  Die extreme Hitze hat alle Lebensmittel im kaputten Kühlschrank *verdorben*.
+  The extreme heat has *spoiled* all the food in the broken fridge.
 
   L'inspecteur a découvert que plusieurs policiers s'étaient laissés *corrompre*.
-  Der Inspektor hat entdeckt, dass sich mehrere Polizisten *bestechen* ließen.
+  The inspector discovered that several policemen were bribed.
 
   La mauvaise influence de ses amis l'a progressivement *corrompue*.
-  Der schlechte Einfluss seiner Freunde hat sie nach und nach *verdorben*.
+  The bad influence of his friends has gradually *spoiled* them.
 
   Les eaux usées ont *corrompu* la source d'eau potable du village.
-  Das Abwasser hat die Trinkwasserquelle des Dorfes *verseucht*.
+  The wastewater *contaminated* the drinking water source of the village.
 
   Le temps finit par *corrompre* même les plus beaux souvenirs.
-  Die Zeit lässt selbst die schönsten Erinnerungen *verblassen*.
+  Time makes even the most beautiful memories *fade*.
 
   Le copiste médiéval a involontairement *corrompu* le texte original.
-  Der mittelalterliche Kopist hat den Originaltext unabsichtlich *verfälscht*.
+  The medieval copist has unintentionally falsified the original text.
 
   Ces émissions de télévision stupides *corrompent* le goût du public.
-  Diese dummen Fernsehsendungen *verderben* den Geschmack des Publikums.
+  These stupid TV shows *spoil* the taste of the audience.
 
   L'argent facile peut rapidement *corrompre* les valeurs morales.
-  Schnelles Geld kann moralische Werte rasch *verderben*.
+  Fast money can quickly *spoil* moral values.
 
   Les criminels ont tenté de *corrompre* le jury avant le procès.
-  Die Kriminellen haben versucht, die Jury vor dem Prozess zu *bestechen*.
+  The criminals tried to *bribe* the jury before the trial.
 
   La langue s'est progressivement *corrompue* au fil des siècles.
-  Die Sprache ist im Laufe der Jahrhunderte *verfallen*.
+  The language has decayed over the centuries.
 
   Ces emprunts étrangers inutiles *corrompent* notre belle langue.
-  Diese unnötigen Fremdwörter *verderben* unsere schöne Sprache.
+  These unnecessary foreign words *spoil* our beautiful language.
 
   Le pouvoir absolu finit toujours par *corrompre* ceux qui le détiennent.
-  Absolute Macht *verdirbt* am Ende immer diejenigen, die sie besitzen.
+  In the end, absolute power always spoils those who possess it.
 
   L'atmosphère était *corrompue* par des gaz toxiques.
-  Die Atmosphäre war durch giftige Gase *verseucht*.
+  The atmosphere was *contaminated* by toxic gases.
 
   Les témoins se sont laissés *corrompre* par des promesses d'argent.
-  Die Zeugen ließen sich durch Geldversprechen *bestechen*.
+  The Witnesses were bribed by promises of money.
 
   La viande s'est rapidement *corrompue* dans la chaleur.
-  Das Fleisch ist in der Hitze schnell *verdorben*.
+  The meat is quickly *spoiled* in the heat.
 
   Son amour pour l'argent l'a complètement *corrompu*.
-  Seine Geldgier hat ihn völlig *verdorben*.
+  His greed for money has ruined him completely.
 
   Le fonctionnaire a refusé de se laisser *corrompre*.
-  Der Beamte weigerte sich, sich *bestechen* zu lassen.
+  The official refused to take bribes.
 
   Ces valeurs morales se sont progressivement *corrompues*.
-  Diese moralischen Werte sind allmählich *verfallen*.
+  These moral values are gradually falling apart.
 
   L'entreprise a essayé de *corrompre* les responsables politiques.
-  Die Firma hat versucht, die politischen Verantwortlichen zu *bestechen*.
+  The company tried to *bribe* the political leaders.
 
   La société de consommation *corrompt* nos enfants.
-  Die Konsumgesellschaft *verdirbt* unsere Kinder.
+  The consumer society spoils our children.
 
   Les traditions anciennes se sont peu à peu *corrompues*.
-  Die alten Traditionen sind nach und nach *verfallen*.
+  The old traditions have gradually fallen apart.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

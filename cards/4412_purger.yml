@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4412
 Wort: purger
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: purger
 Femininum / Plural: ''
 IPA: \pyʁ.ʒe\
-Definition: entleeren [und reinigen]
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Empty [and clean]
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ça va *purger* son système en une nuit.
-  Das wird sein System über Nacht *reinigen*.
+  This will *clean* his system overnight.
 
   Mon médecin m'a conseillé de me *purger* avant l'opération.
-  Mein Arzt hat mir geraten, vor der Operation ein Abführmittel zu *nehmen*.
+  My doctor advised me to *take* a laxative before surgery.
 
   Le mécanicien doit *purger* les freins de la voiture.
-  Der Mechaniker muss die Bremsen der Autos *entlüften*.
+  The mechanic has to vent the brakes of the cars.
 
   Il a déjà *purgé* trois ans de sa peine.
-  Er hat bereits drei Jahre seiner Strafe *verbüßt*.
+  He's served three years of his sentence.
 
   Le chat s'est *purgé* en mangeant de l'herbe.
-  Die Katze hat sich durch das Fressen von Gras selbst *gereinigt*.
+  The cat has cleansed itself by eating grass.
 
   Les radiateurs font du bruit, il faut les *purger*.
-  Die Heizkörper machen Geräusche, man muss sie *entlüften*.
+  The radiators make noises, you have to vent them.
 
   L'infirmière a dû *purger* le patient avant l'examen.
-  Die Krankenschwester musste dem Patienten vor der Untersuchung ein Abführmittel *geben*.
+  The nurse had to *give* the patient a laxative before the examination.
 
   Le gouvernement a *purgé* l'administration de ses éléments corrompus.
-  Die Regierung hat die Verwaltung von korrupten Elementen *gesäubert*.
+  The government has *cleaned* up the administration of corrupt elements.
 
   Je dois *purger* ce texte de toute ambiguïté.
-  Ich muss diesen Text von jeder Zweideutigkeit *bereinigen*.
+  I have to clear this text of every ambiguity.
 
   Les propriétaires ont enfin *purgé* leur hypothèque.
-  Die Eigentümer haben ihre Hypothek endlich *getilgt*.
+  The owners have finally redeemed their mortgage.
 
   Il faut *purger* le circuit d'eau avant l'hiver.
-  Man muss den Wasserkreislauf vor dem Winter *entleeren*.
+  You have to drain the water cycle before winter.
 
   Le cheval s'est *purgé* naturellement avec des herbes.
-  Das Pferd hat sich mit Kräutern auf natürliche Weise *gereinigt*.
+  The horse has *cleaned* itself with herbs in a natural way.
 
   Les ouvriers doivent *purger* les parois de la mine.
-  Die Arbeiter müssen die Minenwände von losen Steinen *säubern*.
+  The workers must *clean* the mine walls of loose stones.
 
   Cette entreprise a été *purgée* de ses éléments contestataires.
-  Dieses Unternehmen wurde von aufständischen Elementen *gesäubert*.
+  This company has been *cleaned* of insurgent elements.
 
   Le condamné *purgera* sa peine dans une prison de haute sécurité.
-  Der Verurteilte wird seine Strafe in einem Hochsicherheitsgefängnis *verbüßen*.
+  The convict will serve his sentence in a high security prison.
 
   Il faut *purger* la chaudière avant de la remettre en marche.
-  Man muss den Kessel *entleeren*, bevor man ihn wieder in Betrieb nimmt.
+  You have to *empty* the boiler before you put it back into operation.
 
   Les médecins ont dû *purger* le malade avant l'intervention.
-  Die Ärzte mussten dem Kranken vor dem Eingriff ein Abführmittel *verabreichen*.
+  The doctors had to give the patient a laxative before the procedure.
 
   Le métal doit être *purgé* de ses impuretés.
-  Das Metall muss von seinen Unreinheiten *gereinigt* werden.
+  The metal must be *cleaned* of its impurities.
 
   Cette ville a été *purgée* de ses criminels.
-  Diese Stadt wurde von Kriminellen *gesäubert*.
+  This city was *cleaned* by criminals.
 
   Le plombier va *purger* les tuyaux demain matin.
-  Der Klempner wird die Rohre morgen früh *durchspülen*.
+  The plumber will flush the pipes in the morning.
 
   Je dois me *purger* l'esprit de ces mauvaises pensées.
-  Ich muss meinen Geist von diesen schlechten Gedanken *reinigen*.
+  I have to purify my mind from these bad thoughts.
 
   Il faut *purger* l'huile du moteur tous les ans.
-  Man muss das Motoröl jedes Jahr *ablassen*.
+  You have to *drain* the engine oil every year.
 
   Le philosophe cherchait à *purger* son âme de tout préjugé.
-  Der Philosoph versuchte, seine Seele von allen Vorurteilen zu *reinigen*.
+  The philosopher tried to purify his soul from all prejudices.
 
   Les techniciens vont *purger* le système hydraulique.
-  Die Techniker werden das Hydrauliksystem *entlüften*.
+  The technicians will vent the hydraulic system.
 
   Le condamné a *purgé* sa contumace en se constituant prisonnier.
-  Der Verurteilte hat seine Abwesenheitsstrafe durch Selbststellung *aufgehoben*.
+  The convicted man has lifted his sentence of absence by self-defense.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

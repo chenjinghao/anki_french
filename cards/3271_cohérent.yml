@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3271
 Wort: cohérent
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: cohérent
 Femininum / Plural: cohérente
 IPA: \kɔ.e.ʁɑ̃\
-Definition: zusammenhängend, schlüssig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: coherent, coherent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Votre récit paraît *cohérent* et logique.
-  Ihre Geschichte erscheint *schlüssig* und logisch.
+  Their story seems *conclusive* and logical.
 
   Son argumentation était parfaitement *cohérente*.
-  Seine Argumentation war völlig *stimmig*.
+  His argument was entirely *consistent*.
 
   Cette équipe n'est pas assez *cohérente* pour gagner le championnat.
-  Diese Mannschaft ist nicht gut genug *eingespielt*, um die Meisterschaft zu gewinnen.
+  This team is not well enough to win the championship.
 
   Le nouveau professeur présente ses idées de manière *cohérente*.
-  Der neue Lehrer präsentiert seine Ideen *zusammenhängend*.
+  The new teacher presents his ideas coherently.
 
   Les chercheurs ont découvert une source de lumière *cohérente*.
-  Die Forscher haben eine *kohärente* Lichtquelle entdeckt.
+  The researchers have discovered a *coherent* light source.
 
   Le texte n'est pas très *cohérent*, il faut le retravailler.
-  Der Text ist nicht sehr *schlüssig*, er muss überarbeitet werden.
+  The text is not very *conclusive*, it needs to be revised.
 
   Pour réussir, nous devons former une équipe *cohérente*.
-  Um erfolgreich zu sein, müssen wir ein gut *eingespieltes* Team bilden.
+  To succeed, we need to form a well-trained team.
 
   Sa conduite n'est pas *cohérente* avec ses principes.
-  Sein Verhalten ist nicht *konsequent* mit seinen Prinzipien.
+  His behavior is not *consistent* with his principles.
 
   Le laser produit un rayon *cohérent* et précis.
-  Der Laser erzeugt einen *kohärenten* und präzisen Strahl.
+  The laser produces a *coherent* and precise beam.
 
   Il faut rester *cohérent* dans ses décisions.
-  Man muss in seinen Entscheidungen *konsequent* bleiben.
+  You have to stay *consistent* in your decisions.
 
   Les chapitres de ce livre forment un ensemble *cohérent*.
-  Die Kapitel dieses Buches bilden ein *zusammenhängendes* Ganzes.
+  *The* chapters of this book form a coherent whole.
 
   Cette théorie scientifique est parfaitement *cohérente*.
-  Diese wissenschaftliche Theorie ist vollkommen *schlüssig*.
+  This scientific theory is completely *conclusive*.
 
   Elle a toujours été *cohérente* avec elle-même.
-  Sie ist sich selbst immer treu und *konsequent* geblieben.
+  She has always remained faithful and *consistent* to herself.
 
   Les membres du groupe sont devenus plus *cohérents* avec le temps.
-  Die Gruppenmitglieder sind mit der Zeit besser *eingespielt*.
+  The group members are better represented over time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

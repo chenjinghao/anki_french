@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1970
 Wort: québécois
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: québécois
 Femininum / Plural: québécoise
 IPA: \ke.be.kwa\
 Definition: Quebecer
-Register: ↘Fiktion ↘Sachtext ↗Mündlich
+Register: ↘fiction ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il existe un marché pour le produit *québécois* en France.
-  Es gibt einen Markt für kanadische Produkte *aus Quebec* in Frankreich.
+  There is a market for Canadian products from Quebec in France.
 
   Le *québécois* est une variante fascinante du français.
-  Das *in Quebec gesprochene* Französisch hat seine eigenen Besonderheiten.
+  The French spoken *in Quebec* has its own peculiarities.
 
   La culture *québécoise* est unique en Amérique du Nord.
-  Die *Quebec*-Kultur ist einzigartig in Nordamerika.
+  *Quebec* culture is unique in North America.
 
   Les *Québécois* sont fiers de leurs traditions.
-  Die *Quebecer* sind stolz auf ihre Traditionen.
+  The Quebecers are proud of their traditions.
 
   Le gouvernement *québécois* a annoncé de nouvelles mesures environnementales.
-  Die *Quebec*-Regierung hat neue Umweltmaßnahmen angekündigt.
+  The *Quebec* government has announced new environmental measures.
 
   Cette chanteuse *québécoise* connaît un grand succès à l'international.
-  Diese *Quebecer* Sängerin ist international sehr erfolgreich.
+  This Quebec singer is very successful internationally.
 
   J'adore écouter l'accent *québécois*.
-  Ich liebe es, dem *Quebec*-Akzent zuzuhören.
+  I love listening to the *Quebec* accent.
 
   La littérature *québécoise* occupe une place importante dans la francophonie.
-  Die Literatur *aus Quebec* nimmt einen wichtigen Platz in der Frankophonie ein.
+  The literature from Quebec occupies an important place in the Frankophonie.
 
   Le cinéma *québécois* rayonne dans le monde entier.
-  Der Film *aus Quebec* strahlt in die ganze Welt.
+  The film from Quebec is broadcast all over the world.
 
   La gastronomie *québécoise* mélange traditions françaises et nord-américaines.
-  Die *Quebecer* Küche verbindet französische und nordamerikanische Traditionen.
+  *Quebecer* cuisine combines French and North American traditions.
 
   Les entreprises *québécoises* investissent beaucoup dans l'innovation.
-  *Quebecer* Unternehmen investieren stark in Innovation.
+  Quebec companies invest heavily in innovation.
 
   L'hiver *québécois* est particulièrement rigoureux.
-  Der Winter *in Quebec* ist besonders hart.
+  The winter *in Quebec* is particularly hard.
 
   Une délégation *québécoise* participera à la conférence internationale.
-  Eine Delegation *aus Quebec* wird an der internationalen Konferenz teilnehmen.
+  A delegation from Quebec will attend the international conference.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

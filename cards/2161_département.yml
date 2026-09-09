@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2161
 Wort: département
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le département
 Femininum / Plural: ''
 IPA: \de.paʁ.tə.mɑ̃\
-Definition: Abteilung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Division
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons encore un *département* de relation publique.
-  Wir haben noch eine *Abteilung* für Öffentlichkeitsarbeit.
+  We have another public relations department.
 
   Le *département* des sciences humaines organise une conférence la semaine prochaine.
-  Der *Fachbereich* Geisteswissenschaften organisiert nächste Woche eine Konferenz.
+  The Department of Humanities is organizing a conference next week.
 
   Elle travaille au *département* des antiquités égyptiennes du Louvre depuis vingt ans.
-  Sie arbeitet seit zwanzig Jahren in der *Abteilung* für ägyptische Altertümer im Louvre.
+  She has been working in the Department of Egyptian Antiquities in the Louvre for twenty years.
 
   Le *département* de la Seine-Maritime est connu pour ses falaises.
-  Das *Departement* Seine-Maritime ist für seine Klippen bekannt.
+  The Seine-Maritime *department* is known for its cliffs.
 
   Le *département* des ressources humaines a envoyé un nouveau mémo ce matin.
-  Die Personal*abteilung* hat heute Morgen ein neues Memo verschickt.
+  Human Resources sent a new memo this morning.
 
   Le préfet du *département* a déclaré l'état d'urgence à cause des inondations.
-  Der Präfekt des *Departements* hat wegen der Überschwemmungen den Notstand ausgerufen.
+  The prefect of the department has declared an emergency because of the floods.
 
   Les étudiants du *département* d'informatique travaillent sur un projet innovant.
-  Die Studierenden des *Fachbereichs* Informatik arbeiten an einem innovativen Projekt.
+  The students of the Department of Computer Science are working on an innovative project.
 
   La Réunion est un *département* d'outre-mer situé dans l'océan Indien.
-  Réunion ist ein Übersee*departement* im Indischen Ozean.
+  Réunion is an overseas *department* in the Indian Ocean.
 
   Le *département* du marketing prépare une nouvelle campagne publicitaire.
-  Die Marketing*abteilung* bereitet eine neue Werbekampagne vor.
+  The marketing *department* is preparing a new advertising campaign.
 
   Le *département* des Alpes-Maritimes attire beaucoup de touristes en été.
-  Das *Departement* Alpes-Maritimes zieht im Sommer viele Touristen an.
+  The Alpes-Maritimes *department* attracts many tourists in summer.
 
   Le *département* juridique doit examiner tous les contrats avant signature.
-  Die Rechts*abteilung* muss alle Verträge vor der Unterzeichnung prüfen.
+  The Legal *Department* must examine all contracts before signing them.
 
   Le conseil général du *département* a voté le budget pour l'année prochaine.
-  Der Generalrat des *Departements* hat den Haushalt für das nächste Jahr verabschiedet.
+  The Department's General Council has adopted the budget for next year.
 
   Notre *département* de recherche développe de nouvelles technologies.
-  Unsere Forschungs*abteilung* entwickelt neue Technologien.
+  Our research *department* develops new technologies.
 
   Le *département* de la Vendée est réputé pour ses plages.
-  Das *Departement* Vendée ist für seine Strände bekannt.
+  The Vendée *department* is known for its beaches.
 
   Le *département* des archives recherche un nouveau conservateur.
-  Die Archiv*abteilung* sucht einen neuen Kurator.
+  The archive *department* is looking for a new curator.
 
   Les vignerons du *département* du Var protestent contre la nouvelle réglementation.
-  Die Winzer des *Departements* Var protestieren gegen die neue Regelung.
+  The winegrowers in the Var department protest against the new regulation.
 
   Le *département* de maintenance a signalé plusieurs problèmes techniques.
-  Die Wartungs*abteilung* hat mehrere technische Probleme gemeldet.
+  The maintenance *department* has reported several technical problems.
 
   Le *département* des Pyrénées-Atlantiques se trouve à la frontière espagnole.
-  Das *Departement* Pyrénées-Atlantiques liegt an der spanischen Grenze.
+  The Pyrénées-Atlantiques *department* is located on the Spanish border.
 
   Le *département* financier prévoit une augmentation du budget.
-  Die Finanz*abteilung* plant eine Erhöhung des Budgets.
+  The Finance *Department* is planning to increase the budget.
 
   Les habitants du *département* ont élu leurs nouveaux conseillers.
-  Die Bewohner des *Departements* haben ihre neuen Räte gewählt.
+  The inhabitants of the department have chosen their new councils.
 
   Le *département* des ventes a dépassé ses objectifs ce trimestre.
-  Die Verkaufs*abteilung* hat ihre Ziele in diesem Quartal übertroffen.
+  The sales *department* exceeded its targets in this quarter.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

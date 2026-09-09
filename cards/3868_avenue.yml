@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3868
 Wort: avenue
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une avenue
 Femininum / Plural: ''
 IPA: \av.ny\
 Definition: Allee
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils empruntèrent d'abord une grande *avenue*.
-  Sie bogen zuerst in eine große *Allee* ein.
+  They first turned into a large avenue.
 
   L'*avenue* bordée de tilleuls mène directement au château.
-  Die von Linden gesäumte *Allee* führt direkt zum Schloss.
+  The linden-lined avenue leads directly to the castle.
 
   Les manifestants ont bloqué toutes les *avenues* principales du centre-ville.
-  Die Demonstranten haben alle Haupt*alleen* der Innenstadt blockiert.
+  The demonstrators blocked *all* the main avenues in downtown.
 
   La célèbre *Avenue* des Champs-Élysées attire des millions de touristes chaque année.
-  Die berühmte Champs-Élysées-*Allee* zieht jedes Jahr Millionen Touristen an.
+  The famous Champs-Élysées-*Allee* attracts millions of tourists every year.
 
   Des gardes armés surveillaient toutes les *avenues* du palais royal.
-  Bewaffnete Wächter überwachten alle *Zugänge* zum königlichen Palast.
+  Armed guards monitored all *accesses* to the royal palace.
 
   Le maire a fait planter des arbres le long de cette *avenue*.
-  Der Bürgermeister ließ entlang dieser *Allee* Bäume pflanzen.
+  The mayor had trees planted along this avenue.
 
   Les urbanistes prévoient de créer une nouvelle *avenue* pour désengorger le trafic.
-  Die Stadtplaner planen eine neue *Allee* zur Entlastung des Verkehrs.
+  The city planners are planning a new avenue to relieve traffic.
 
   Il cherche toutes les *avenues* possibles pour accéder au pouvoir.
-  Er sucht nach allen möglichen *Wegen*, um an die Macht zu gelangen.
+  He's looking for all sorts of ways to get to power.
 
   Marie habite dans un appartement spacieux sur la cinquième *avenue*.
-  Marie wohnt in einer geräumigen Wohnung an der fünften *Avenue*.
+  Marie lives in a spacious apartment on Fifth *Avenue*.
 
   Les architectes ont percé plusieurs *avenues* dans ce nouveau quartier.
-  Die Architekten haben mehrere *Alleen* in diesem neuen Viertel angelegt.
+  The architects have created several avenues in this new quarter.
 
   Cette *avenue* est particulièrement belle en automne quand les feuilles changent de couleur.
-  Diese *Allee* ist besonders schön im Herbst, wenn sich die Blätter verfärben.
+  This avenue is particularly beautiful in autumn when the leaves turn discoloured.
 
   L'ancien palais se trouve au bout de cette longue *avenue*.
-  Der alte Palast befindet sich am Ende dieser langen *Allee*.
+  The old palace is at the end of this long avenue.
 
   Les *avenues* de la fortune ne sont pas toujours honnêtes.
-  Die *Wege* zum Reichtum sind nicht immer ehrlich.
+  The paths to wealth are not always honest.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

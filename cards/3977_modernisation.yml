@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3977
 Wort: modernisation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la modernisation
 Femininum / Plural: ''
 IPA: \mɔ.dɛʁ.ni.za.sjɔ̃\
-Definition: Modernisierung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Modernisation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il va nous amener à poursuivre notre *modernisation*.
-  Er wird uns dazu bringen, unsere *Modernisierung* fortzusetzen.
+  It will make us continue our *modernisation*.
 
   La *modernisation* de notre système éducatif est une priorité absolue.
-  Die *Modernisierung* unseres Bildungssystems hat absolute Priorität.
+  Modernising our education system is a priority.
 
   Le nouveau directeur a lancé un vaste programme de *modernisation*.
-  Der neue Direktor hat ein umfassendes *Modernisierungs*programm gestartet.
+  The new Director has launched a comprehensive *modernisation* programme.
 
   Cette *modernisation* des équipements va coûter plusieurs millions.
-  Diese *Modernisierung* der Ausstattung wird mehrere Millionen kosten.
+  This modernization of the equipment will cost several million.
 
   Avec la *modernisation* de l'usine, la production a doublé.
-  Durch die *Modernisierung* der Fabrik hat sich die Produktion verdoppelt.
+  The modernization of the factory has doubled production.
 
   Un plan de *modernisation* sera présenté la semaine prochaine.
-  Nächste Woche wird ein *Modernisierungs*plan vorgestellt.
+  A *modernisation* plan will be presented next week.
 
   Les travaux de *modernisation* vont durer trois mois.
-  Die *Modernisierungs*arbeiten werden drei Monate dauern.
+  The modernization work will take three months.
 
   La *modernisation* rapide du pays a entraîné des changements profonds.
-  Die schnelle *Modernisierung* des Landes hat tiefgreifende Veränderungen bewirkt.
+  The rapid *modernisation* of the country has brought about profound changes.
 
   Notre entreprise a besoin d'une *modernisation* urgente.
-  Unser Unternehmen braucht dringend eine *Modernisierung*.
+  Our company urgently needs modernization.
 
   Les employés craignent que la *modernisation* entraîne des suppressions d'emplois.
-  Die Mitarbeiter befürchten, dass die *Modernisierung* zu Stellenabbau führt.
+  Employees fear that the *modernisation* will lead to job losses.
 
   La *modernisation* du réseau ferroviaire avance plus vite que prévu.
-  Die *Modernisierung* des Schienennetzes kommt schneller voran als erwartet.
+  The *modernisation* of the rail network is progressing faster than expected.
 
   Grâce à la *modernisation* des infrastructures, nous sommes plus compétitifs.
-  Dank der *Modernisierung* der Infrastruktur sind wir wettbewerbsfähiger.
+  Thanks to the *modernisation* of the infrastructure, we are more competitive.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

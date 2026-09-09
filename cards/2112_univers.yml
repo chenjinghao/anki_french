@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2112
 Wort: univers
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un univers
 Femininum / Plural: ''
 IPA: \y.ni.vɛʁ\
-Definition: Universum
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Universe
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On connaît à peine notre *univers*.
-  Wir kennen unser *Universum* kaum.
+  We hardly know our *universe*.
 
   L'*univers* est en constante expansion depuis le Big Bang.
-  Das *Universum* dehnt sich seit dem Urknall ständig aus.
+  The *universe* has been expanding ever since the Big Bang.
 
   Les scientifiques étudient l'*Univers* pour comprendre ses origines.
-  Wissenschaftler erforschen das *Universum*, um seinen Ursprung zu verstehen.
+  Scientists explore the *universe* to understand its origin.
 
   Dans son discours, il a parlé des merveilles de l'*univers*.
-  In seiner Rede sprach er von den Wundern des *Weltalls*.
+  In his speech, he spoke of the wonders of *space*.
 
   L'*univers* regorge de mystères encore inexpliqués.
-  Das *Universum* steckt voller noch ungeklärter Rätsel.
+  The *universe* is full of unexplained puzzles.
 
   Les lois de l'*univers* s'appliquent partout de la même manière.
-  Die Gesetze des *Universums* gelten überall auf die gleiche Weise.
+  The laws of the *universe* apply in the same way everywhere.
 
   Certains pensent qu'il existe des *univers* parallèles.
-  Manche glauben, dass es parallele *Universen* gibt.
+  Some believe that there are parallel *universes*.
 
   L'*univers* politique français est en pleine mutation.
-  Die französische politische *Welt* befindet sich im Umbruch.
+  The French political *world* is in a state of upheaval.
 
   Son *univers* se limite à son travail et sa famille.
-  Seine *Welt* beschränkt sich auf seine Arbeit und seine Familie.
+  His *world* is limited to his work and family.
 
   L'écrivain a créé un *univers* fantastique dans son roman.
-  Der Schriftsteller hat in seinem Roman eine fantastische *Welt* erschaffen.
+  The writer created a fantastic *world* in his novel.
 
   Les mathématiciens explorent un *univers* abstrait de nombres et de formes.
-  Mathematiker erforschen ein abstraktes *Universum* aus Zahlen und Formen.
+  Mathematicians explore an abstract *universe* of numbers and forms.
 
   L'exposition présentait l'*univers* fascinant des insectes.
-  Die Ausstellung zeigte die faszinierende *Welt* der Insekten.
+  The exhibition showed the fascinating *world* of insects.
 
   Elle a grandi dans l'*univers* de la musique classique.
-  Sie ist in der *Welt* der klassischen Musik aufgewachsen.
+  She grew up in the *world* of classical music.
 
   L'*univers* du jeu vidéo ne cesse de se développer.
-  Die *Welt* der Videospiele entwickelt sich ständig weiter.
+  The *world* of video games is constantly evolving.
 
   Les enfants ont un *univers* imaginaire très riche.
-  Kinder haben eine sehr reichhaltige Fantasie*welt*.
+  Children have a very rich fantasy *world*.
 
   Chaque culture a sa propre vision de l'*univers*.
-  Jede Kultur hat ihre eigene Vorstellung vom *Universum*.
+  Each culture has its own idea of the *universe*.
 
   L'artiste puise son inspiration dans l'*univers* onirique.
-  Der Künstler schöpft seine Inspiration aus der Traum*welt*.
+  The artist draws his inspiration from the dream *world*.
 
   L'*univers* de la mode est en constante évolution.
-  Die *Welt* der Mode ist in ständigem Wandel.
+  The *world* of fashion is constantly changing.
 
   Les astronautes ont une vue unique sur notre *univers*.
-  Astronauten haben einen einzigartigen Blick auf unser *Universum*.
+  Astronauts have a unique view of our *universe*.
 
   Dans l'*univers* de la finance, tout va très vite.
-  In der *Welt* der Finanzen geht alles sehr schnell.
+  In the *world* of finance everything goes very fast.
 
   Son *univers* musical s'est élargi grâce à ses voyages.
-  Seine musikalische *Welt* hat sich durch seine Reisen erweitert.
+  His musical *world* has expanded through his travels.
 
   L'*univers* médiatique influence grandement l'opinion publique.
-  Die Medien*welt* beeinflusst die öffentliche Meinung stark.
+  The media *world* strongly influences public opinion.
 
   Les philosophes s'interrogent sur la nature de l'*univers*.
-  Philosophen hinterfragen die Natur des *Universums*.
+  Philosophers question the nature of the *universe*.
 
   L'*univers* cinématographique de ce réalisateur est unique.
-  Die filmische *Welt* dieses Regisseurs ist einzigartig.
+  This director's cinematic *world* is unique.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

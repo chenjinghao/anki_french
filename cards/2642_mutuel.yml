@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2642
 Wort: mutuel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: mutuel
 Femininum / Plural: mutuelle
 IPA: \my.tɥɛl\
-Definition: gegenseitig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: each other
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un accord obtenu par consentement *mutuel*.
-  Das ist eine durch *gegenseitiges* Einvernehmen erzielte Vereinbarung.
+  This is an agreement reached by mutual agreement.
 
   L'amour *mutuel* entre ces deux personnes est évident.
-  Die *gegenseitige* Liebe zwischen diesen beiden Menschen ist offensichtlich.
+  *The* mutual love between these two people is obvious.
 
   Les parents et les enfants ont des devoirs *mutuels* à respecter.
-  Eltern und Kinder haben *gegenseitige* Pflichten zu erfüllen.
+  Parents and children have to fulfil mutual duties.
 
   Notre *mutuelle* couvre tous les frais dentaires.
-  Unsere *Krankenkasse* übernimmt alle Zahnarztkosten.
+  Our health insurance covers all dental costs.
 
   Il y a un respect *mutuel* entre le professeur et ses élèves.
-  Zwischen dem Lehrer und seinen Schülern herrscht *gegenseitiger* Respekt.
+  There is mutual respect between the teacher and his students.
 
   J'ai adhéré à une société d'assurance *mutuelle* l'année dernière.
-  Ich bin letztes Jahr einer *Gegenseitigkeits*versicherung beigetreten.
+  I joined mutual insurance last year.
 
   Leur estime *mutuelle* s'est développée au fil des années.
-  Ihre *gegenseitige* Wertschätzung hat sich im Laufe der Jahre entwickelt.
+  Their mutual appreciation has developed over *the* years.
 
   La tolérance *mutuelle* est essentielle dans une société multiculturelle.
-  *Gegenseitige* Toleranz ist in einer multikulturellen Gesellschaft unerlässlich.
+  Mutual tolerance is essential in a multicultural society.
 
   Ma *mutuelle* rembourse 80% des frais médicaux.
-  Meine *Krankenkasse* erstattet 80% der Arztkosten.
+  My health insurance company will refund 80% of the medical expenses.
 
   Les deux équipes se sont prêté une assistance *mutuelle* pendant la compétition.
-  Die beiden Teams haben sich während des Wettkampfs *gegenseitig* unterstützt.
+  The two teams supported *each other* during the competition.
 
   Ces concessions *mutuelles* ont permis d'aboutir à un compromis.
-  Diese *gegenseitigen* Zugeständnisse haben zu einem Kompromiss geführt.
+  These mutual concessions have led to a compromise.
 
   Notre admiration *mutuelle* nous a rapprochés.
-  Unsere *gegenseitige* Bewunderung hat uns einander nähergebracht.
+  Our mutual admiration has brought us closer together.
 
   Je dois changer de *mutuelle* au début de l'année prochaine.
-  Ich muss Anfang nächsten Jahres die *Krankenversicherung* wechseln.
+  I have to change *health insurance* early next year.
 
   La confiance *mutuelle* est la base de toute relation durable.
-  *Gegenseitiges* Vertrauen ist die Grundlage jeder dauerhaften Beziehung.
+  Mutual trust is the basis of any lasting relationship.
 
   Une société de secours *mutuels* a été créée dans notre quartier.
-  In unserem Viertel wurde eine *Gegenseitigkeits*hilfe gegründet.
+  In our neighborhood, mutual assistance was established.
 
   Les deux entreprises ont signé un accord d'aide *mutuelle*.
-  Die beiden Unternehmen haben ein Abkommen zur *gegenseitigen* Hilfe unterzeichnet.
+  *The* two companies have signed a mutual assistance agreement.
 
   Cette compréhension *mutuelle* nous a permis d'éviter bien des conflits.
-  Dieses *gegenseitige* Verständnis hat uns geholfen, viele Konflikte zu vermeiden.
+  This mutual understanding has helped us to avoid many conflicts.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

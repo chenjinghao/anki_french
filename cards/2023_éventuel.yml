@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2023
 Wort: éventuel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: éventuel
 Femininum / Plural: éventuelle
 IPA: \e.vɑ̃.tɥɛl\
-Definition: möglich, potenziell
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: possible, potentially
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce serait peut-être un *éventuel* projet pour vous.
-  Das könnte ein *mögliches* Projekt für Sie sein.
+  This could be a *possible* project for you.
 
   Nous devons prendre en compte les conséquences *éventuelles* de cette décision.
-  Wir müssen die *möglichen* Konsequenzen dieser Entscheidung berücksichtigen.
+  We must take into account the *possible* consequences of this decision.
 
   L'*éventuel* successeur du directeur n'a pas encore été choisi.
-  Der *potenzielle* Nachfolger des Direktors wurde noch nicht ausgewählt.
+  The *potential* successor of the Director has not yet been selected.
 
   Les bénéfices *éventuels* dépendront de l'évolution du marché.
-  Die *möglichen* Gewinne werden von der Marktentwicklung abhängen.
+  The potential profits will depend on market developments.
 
   Elle a préparé un plan B en cas d'*éventuelle* annulation du vol.
-  Sie hat einen Plan B für den Fall einer *möglichen* Flugstornierung vorbereitet.
+  She's prepared a plan B in case of a *possible* flight cancellation.
 
   L'*éventuel* acheteur de la maison viendra la visiter demain.
-  Der *potenzielle* Käufer des Hauses wird es morgen besichtigen.
+  The *potential* buyer of the house will see it tomorrow.
 
   Nous devons anticiper les problèmes *éventuels* avant qu'ils ne surviennent.
-  Wir müssen *mögliche* Probleme antizipieren, bevor sie auftreten.
+  We need to anticipate *possible* problems before they occur.
 
   Le contrat inclut une clause pour couvrir d'*éventuels* retards de livraison.
-  Der Vertrag enthält eine Klausel zur Abdeckung *möglicher* Lieferverzögerungen.
+  The contract contains a clause covering *possible* delivery delays.
 
   L'*éventuelle* fusion des deux entreprises est encore en discussion.
-  Die *mögliche* Fusion der beiden Unternehmen wird noch diskutiert.
+  The *possible* merger of the two companies is still under discussion.
 
   Il faut prévoir un budget pour les dépenses *éventuelles* du projet.
-  Wir müssen ein Budget für *mögliche* Projektausgaben einplanen.
+  We need to plan a budget for *possible* project expenditure.
 
   Les candidats *éventuels* pour le poste seront convoqués la semaine prochaine.
-  Die *möglichen* Kandidaten für die Stelle werden nächste Woche eingeladen.
+  The potential candidates for the position will be invited next week.
 
   Une *éventuelle* augmentation des prix pourrait affecter nos ventes.
-  Eine *mögliche* Preiserhöhung könnte unsere Verkäufe beeinflussen.
+  A *possible* price increase could affect our sales.
 
   Le jury examinera les preuves *éventuelles* avant de rendre son verdict.
-  Die Jury wird *mögliche* Beweise prüfen, bevor sie ihr Urteil fällt.
+  The jury will examine *possible* evidence before it comes to its verdict.
 
   L'*éventuel* report de la réunion sera communiqué par e-mail.
-  Die *mögliche* Verschiebung des Meetings wird per E-Mail mitgeteilt.
+  The *possible* postponement of the meeting will be communicated by e-mail.
 
   Nous devons envisager tous les scénarios *éventuels* avant de prendre une décision.
-  Wir müssen alle *möglichen* Szenarien in Betracht ziehen, bevor wir eine Entscheidung treffen.
+  We need to consider all *possible* scenarios before making a decision.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

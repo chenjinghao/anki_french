@@ -1,87 +1,87 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3029
 Wort: matinée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la matinée
 Femininum / Plural: ''
 IPA: \ma.ti.ne\
-Definition: Vormittag
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Morning
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai passé la *matinée* à lire.
-  Ich habe den *Vormittag* mit Lesen verbracht.
+  I spent the *morning* reading.
 
   Une belle *matinée* d'octobre nous a accueillis à notre arrivée.
-  Ein schöner Oktober*vormittag* begrüßte uns bei unserer Ankunft.
+  A beautiful October *morning* greeted us on our arrival.
 
   Toute la *matinée*, les enfants ont joué dans le jardin.
-  Den ganzen *Vormittag* über haben die Kinder im Garten gespielt.
+  The children played in the garden all *morning*.
 
   Le médecin m'a dit qu'il me rappellerait dans la *matinée*.
-  Der Arzt sagte mir, er würde mich im Laufe des *Vormittags* zurückrufen.
+  The doctor told me he'd call me back *in the morning*.
 
   Nous avons prévu une réunion mardi dans la *matinée*.
-  Wir haben für Dienstag*vormittag* eine Besprechung geplant.
+  We have a meeting scheduled for Tuesday *morning*.
 
   "Allez, debout ! Tu ne vas quand même pas *faire la grasse matinée* un jour de semaine !"
-  "Los, aufstehen! Du wirst doch wohl nicht an einem Wochentag *ausschlafen*!"
+  "Get up, you're not going to sleep on a day of the week!"
 
   Le théâtre propose une représentation en *matinée* pour les familles.
-  Das Theater bietet eine *Nachmittags*vorstellung für Familien an.
+  The theatre offers an *afternoon* performance for families.
 
   Les *matinées* sont fraîches en cette saison, n'oublie pas ton pull.
-  Die *Vormittage* sind kühl in dieser Jahreszeit, vergiss deinen Pullover nicht.
+  The *mornings* are cool this time of year, don't forget your sweater.
 
   Il ne fait rien de productif de toute la *matinée*, c'est inquiétant.
-  Er macht den ganzen *Vormittag* über nichts Produktives, das ist besorgniserregend.
+  He doesn't do anything productive all *morning*, that's worrying.
 
   Après une longue *matinée* de travail, je me suis accordé une pause déjeuner bien méritée.
-  Nach einem langen Arbeits*vormittag* habe ich mir eine wohlverdiente Mittagspause gegönnt.
+  After a long working *morning*, I had a well - deserved lunch break.
 
   La *matinée* musicale a été un grand succès, avec une salle comble.
-  Die musikalische *Matinee* war ein großer Erfolg, mit einem ausverkauften Saal.
+  The musical *matinee* was a great success, with a sold-out hall.
 
   Le début de *matinée* est le meilleur moment pour faire du sport.
-  Der frühe *Vormittag* ist die beste Zeit zum Sport treiben.
+  The early *morning* is the best time to do sports.
 
   Dans la *matinée* de lundi, nous finaliserons le projet.
-  Im Laufe des Montag*vormittags* werden wir das Projekt abschließen.
+  During the Monday *morning*, we will complete the project.
 
   Les élèves ont assisté à une *matinée* cinéma dans le cadre de leur cours de français.
-  Die Schüler haben im Rahmen ihres Französischunterrichts eine Filmvorführung *am Vormittag* besucht.
+  The students attended a screening *in the morning* as part of their French lessons.
 
   Je préfère travailler tôt le matin, ma productivité baisse en fin de *matinée*.
-  Ich arbeite lieber früh am Morgen, meine Produktivität sinkt gegen *Vormittag*ende.
+  I prefer to work early in the *morning*, my productivity drops towards the end of the morning.
 
   La *matinée* portes ouvertes de l'université a attiré de nombreux lycéens.
-  Der Tag der offenen Tür der Universität am *Vormittag* hat viele Oberstufenschüler angezogen.
+  The open day of the university in the *morning* attracted many high school students.
 
   "Tu as dormi toute la *matinée* ? Tu as manqué un temps magnifique !"
-  "Hast du den ganzen *Vormittag* verschlafen? Du hast wunderschönes Wetter verpasst!"
+  "Did you sleep all *morning*? You missed beautiful weather!"
 
   Les *matinées* d'été sont idéales pour faire du jardinage avant qu'il ne fasse trop chaud.
-  Die Sommer*vormittage* sind ideal zum Gärtnern, bevor es zu heiß wird.
+  The summer *mornings* are ideal for gardening before it gets too hot.
 
   J'ai une *matinée* chargée demain, avec trois rendez-vous importants.
-  Ich habe morgen einen vollen *Vormittag* mit drei wichtigen Terminen.
+  I have a full *morning* tomorrow with three important appointments.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p><span class="fr">Matin</span> lässt sich mit <span class="de">Morgen</span> übersetzen und bezieht sich auf einen Zeitpunkt, während <span class="fr">matinée</span> mit <span class="de">Vormittag</span> übersetzt werden kann und auf die Dauer/den Ablauf des Vormittags abzielt.</p>
+  <p><span class="fr">Matin</span> can be used with <span class="de">Morning</span> translation and refers to a time when <span class="fr">matinée</span> with <span class="de">morning</span> can be translated and targeted at the duration/end of the morning.</p>
   <div class="examples">
-    <div class="fr">Catherine n'aime pas se lever tôt le matin.</div> (= der Morgen als bestimmter Zeitpunkt im Tagesverlauf)
-    <div class="de spoiler">Catherine mag es nicht, am Morgen früh aufzustehen.</div>
-    <div class="fr">J'irai faire les courses dans la matinée.</div> (= Irgendwann im Laufe des Vormittags → Zeitspanne)
-    <div class="de spoiler">Ich werde im Laufe des Vormittags einkaufen gehen.</div>
+    <div class="fr">Catherine n'aime pas se lever tôt le matin.</div> (= the morning as a given time during the day)
+    <div class="de spoiler">Catherine doesn't like getting up early in the morning.</div>
+    <div class="fr">J'irai faire les courses dans la matinée.</div> (= at some point during the morning → time span)
+    <div class="de spoiler">I'll go shopping in the morning.</div>
   </div>
   <!-- Grammar automatically added -->
   <hr>

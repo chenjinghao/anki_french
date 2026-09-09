@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1544
 Wort: évaluer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: évaluer
 Femininum / Plural: ''
 IPA: \e.va.lɥe\
-Definition: bewerten, einschätzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: assess, assess
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous *évaluons* des projets en fonction de leur pertinence.
-  Wir *bewerten* Projekte nach ihrer Relevanz.
+  We *evaluate* projects according to their relevance.
 
   L'expert a *évalué* ce tableau à 100 000 euros.
-  Der Experte hat dieses Gemälde auf 100.000 Euro *geschätzt*.
+  The expert *estimated* this painting at 100,000 euros.
 
   Les pompiers *évaluent* les dégâts causés par l'incendie.
-  Die Feuerwehrleute *schätzen* die durch das Feuer verursachten Schäden.
+  The firemen appreciate the damage caused by the fire.
 
   Comment *évaluer* la distance jusqu'au sommet de la montagne ?
-  Wie kann man die Entfernung bis zum Gipfel *abschätzen*?
+  How to *estimate* the distance to the summit?
 
   Le professeur doit *évaluer* les connaissances de ses élèves.
-  Der Lehrer muss die Kenntnisse seiner Schüler *evaluieren*.
+  The teacher must *evaluate* the knowledge of his students.
 
   Les scientifiques ont *évalué* la population des ours polaires à 26 000.
-  Die Wissenschaftler haben die Population der Eisbären auf 26.000 *geschätzt*.
+  The scientists *estimated* the population of polar bears at 26,000.
 
   Je dois *évaluer* mes chances de réussite avant de commencer.
-  Ich muss meine Erfolgschancen *einschätzen*, bevor ich beginne.
+  I have to assess my chances of success before I start.
 
   Le comptable *évalue* les coûts du projet à 50 000 euros.
-  Der Buchhalter *schätzt* die Projektkosten auf 50.000 Euro.
+  The accountant estimates the project costs at 50,000 euros.
 
   Les chercheurs *évaluent* le débit de la rivière pendant la saison des pluies.
-  Die Forscher *messen* den Durchfluss des Flusses während der Regenzeit.
+  The researchers *measure* the flow of the river during the rainy season.
 
   Il faut *évaluer* les risques avant de prendre une décision.
-  Man muss die Risiken *abschätzen*, bevor man eine Entscheidung trifft.
+  You have to assess the risks before making a decision.
 
   Les médecins *évaluent* l'état du patient chaque matin.
-  Die Ärzte *beurteilen* den Zustand des Patienten jeden Morgen.
+  The doctors judge the patient's condition every morning.
 
   La commission va *évaluer* l'impact environnemental du nouveau bâtiment.
-  Die Kommission wird die Umweltauswirkungen des neuen Gebäudes *bewerten*.
+  The Commission will assess the environmental impact of the new building.
 
   Comment *évaluer* le temps nécessaire pour finir ce travail ?
-  Wie kann man die Zeit *einschätzen*, die für diese Arbeit benötigt wird?
+  How can we *estimate* the time needed for this work?
 
   L'agence immobilière a *évalué* la maison à 300 000 euros.
-  Die Immobilienagentur hat das Haus auf 300.000 Euro *geschätzt*.
+  The real estate agency *estimated* the house at 300,000 euros.
 
   Les experts *évaluent* l'importance de cette découverte archéologique.
-  Die Experten *schätzen* die Bedeutung dieser archäologischen Entdeckung *ein*.
+  The experts *estimate* the importance of this archaeological discovery.
 
   La police a *évalué* la foule à plus de 10 000 personnes.
-  Die Polizei hat die Menschenmenge auf mehr als 10.000 Personen *geschätzt*.
+  The police *estimated* the crowd to be more than 10,000 people.
 
   Le jury va *évaluer* la performance des candidats.
-  Die Jury wird die Leistung der Kandidaten *bewerten*.
+  The jury will *evaluate* the performance of the candidates.
 
   Nous devons *évaluer* nos besoins en personnel pour l'année prochaine.
-  Wir müssen unseren Personalbedarf für das nächste Jahr *einschätzen*.
+  We need to assess our personnel needs for next year.
 
   Les météorologues *évaluent* les risques d'orage pour ce soir.
-  Die Meteorologen *schätzen* die Gewittergefahr für heute Abend *ein*.
+  The meteorologists *estimate* the risk of thunderstorms for tonight.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

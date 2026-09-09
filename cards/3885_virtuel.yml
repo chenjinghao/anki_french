@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3885
 Wort: virtuel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: virtuel
 Femininum / Plural: virtuelle
 IPA: \viʁ.tɥɛl\
-Definition: virtuell
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Virtual
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est pire que l'espace *virtuel*, le cyberespace.
-  Es ist schlimmer als der *virtuelle* Raum, der Cyberspace.
+  It's worse than *virtual* space, cyberspace.
 
   La *virtuelle* réussite du projet a donné de l'espoir à toute l'équipe.
-  Der *potentielle* Erfolg des Projekts hat dem ganzen Team Hoffnung gegeben.
+  The *potential* success of the project has given hope to the whole team.
 
   Le monde *virtuel* offre de nouvelles possibilités d'apprentissage.
-  Die *virtuelle* Welt bietet neue Lernmöglichkeiten.
+  The *virtual* world offers new learning opportunities.
 
   L'entreprise a créé une boutique *virtuelle* pour vendre ses produits.
-  Das Unternehmen hat einen *virtuellen* Shop erstellt, um seine Produkte zu verkaufen.
+  The company has created a *virtual* shop to sell its products.
 
   La réalité *virtuelle* transforme notre façon de jouer aux jeux vidéo.
-  Die *virtuelle* Realität verändert unsere Art, Videospiele zu spielen.
+  *Virtual* reality is changing our way of playing video games.
 
   Une image *virtuelle* se forme dans le miroir.
-  Ein *virtuelles* Bild entsteht im Spiegel.
+  A *virtual* image is created in the mirror.
 
   Mon nouveau bureau *virtuel* me permet de travailler de n'importe où.
-  Mein neuer *virtueller* Arbeitsplatz ermöglicht es mir, von überall zu arbeiten.
+  My new *virtual* workplace allows me to work from anywhere.
 
   Les étudiants participent à une visite *virtuelle* du musée.
-  Die Studenten nehmen an einer *virtuellen* Museumsführung teil.
+  The students take part in a *virtual* museum tour.
 
   L'assistant *virtuel* répond à toutes mes questions.
-  Der *virtuelle* Assistent beantwortet alle meine Fragen.
+  The *virtual* assistant answers all my questions.
 
   Cette technologie crée un environnement *virtuel* réaliste.
-  Diese Technologie schafft eine realistische *virtuelle* Umgebung.
+  This technology creates a realistic *virtual* environment.
 
   Le marché *virtuel* pour ce produit est très prometteur.
-  Der *potentielle* Markt für dieses Produkt ist sehr vielversprechend.
+  The *potential* market for this product is very promising.
 
   La bibliothèque *virtuelle* contient des milliers de livres numériques.
-  Die *virtuelle* Bibliothek enthält Tausende digitaler Bücher.
+  The *virtual* library contains thousands of digital books.
 
   Les concerts *virtuels* sont devenus populaires pendant la pandémie.
-  *Virtuelle* Konzerte wurden während der Pandemie populär.
+  *Virtual* concerts became popular during the pandemic.
 
   L'université propose des cours *virtuels* depuis la rentrée.
-  Die Universität bietet seit Semesterbeginn *virtuelle* Kurse an.
+  Since the beginning of the semester, the university has been offering *virtual* courses.
 
   La communauté *virtuelle* grandit chaque jour.
-  Die *virtuelle* Gemeinschaft wächst jeden Tag.
+  The *virtual* community grows every day.
 
   Les réunions *virtuelles* permettent d'économiser du temps.
-  *Virtuelle* Meetings sparen Zeit.
+  *Virtual* meetings save time.
 
   L'exposition *virtuelle* attire des visiteurs du monde entier.
-  Die *virtuelle* Ausstellung zieht Besucher aus der ganzen Welt an.
+  The *virtual* exhibition attracts visitors from all over the world.
 
   Le projet présente une possibilité *virtuelle* de succès.
-  Das Projekt zeigt eine *potentielle* Erfolgsmöglichkeit.
+  The project shows a *potential* success.
 
   Les magasins *virtuels* sont ouverts 24 heures sur 24.
-  *Virtuelle* Geschäfte haben rund um die Uhr geöffnet.
+  *Virtual* shops are open 24 hours a day.
 
   Cette plateforme offre une expérience d'achat *virtuelle*.
-  Diese Plattform bietet ein *virtuelles* Einkaufserlebnis.
+  This platform offers a *virtual* shopping experience.
 
   La visite *virtuelle* de l'appartement nous a convaincus.
-  Die *virtuelle* Besichtigung der Wohnung hat uns überzeugt.
+  The *virtual* tour of the apartment convinced us.
 
   Les équipes *virtuelles* collaborent à travers le monde.
-  *Virtuelle* Teams arbeiten weltweit zusammen.
+  *Virtual* teams work together worldwide.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

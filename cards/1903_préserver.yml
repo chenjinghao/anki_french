@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1903
 Wort: préserver
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: préserver
 Femininum / Plural: ''
 IPA: \pʁe.zɛʁ.ve\
-Definition: bewahren, schützen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: preserve, protect
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Dans le bocal, mes larmes *préservent* le cœur de mon fils.
-  Im Glas *bewahren* meine Tränen das Herz meines Sohnes.
+  In the glass, my tears *keep* my son's heart.
 
   Ce manteau vous *préservera* du froid pendant l'hiver.
-  Dieser Mantel wird Sie im Winter vor der Kälte *schützen*.
+  This coat will *protect* you from the cold in winter.
 
   Les vaccins nous ont *préservés* de nombreuses maladies graves.
-  Die Impfstoffe haben uns vor vielen schweren Krankheiten *bewahrt*.
+  The vaccines have saved us from many serious diseases.
 
   Il faut *préserver* la biodiversité pour les générations futures.
-  Wir müssen die Artenvielfalt für zukünftige Generationen *erhalten*.
+  We must preserve biodiversity for future generations.
 
   Comment pouvons-nous *préserver* notre planète du réchauffement climatique ?
-  Wie können wir unseren Planeten vor der globalen Erwärmung *schützen*?
+  How can we *protect* our planet from global warming?
 
   Le gouvernement a pris des mesures pour *préserver* les intérêts des propriétaires.
-  Die Regierung hat Maßnahmen ergriffen, um die Interessen der Eigentümer zu *wahren*.
+  The government has taken measures to safeguard the interests of the owners.
 
   Cette crème solaire vous *préservera* des coups de soleil.
-  Diese Sonnencreme wird Sie vor Sonnenbrand *schützen*.
+  This sunscreen will *protect* you from sunburn.
 
   Les parents essaient de *préserver* l'innocence de leurs enfants le plus longtemps possible.
-  Die Eltern versuchen, die Unschuld ihrer Kinder so lange wie möglich zu *bewahren*.
+  Parents try to *keep* their children's innocence as long as possible.
 
   Le sel *préserve* les aliments de la détérioration.
-  Salz *bewahrt* Lebensmittel vor dem Verderben.
+  Salt protects food from destruction.
 
   Nous devons *préserver* notre patrimoine culturel pour les générations à venir.
-  Wir müssen unser kulturelles Erbe für kommende Generationen *bewahren*.
+  We must preserve our cultural heritage for future generations.
 
   Le parc national a été créé pour *préserver* la faune et la flore locales.
-  Der Nationalpark wurde geschaffen, um die einheimische Tier- und Pflanzenwelt zu *schützen*.
+  The National Park was created to *protect* the native flora and fauna.
 
   Cette technologie permet de *préserver* la confidentialité des données personnelles.
-  Diese Technologie ermöglicht es, die Vertraulichkeit persönlicher Daten zu *wahren*.
+  This technology allows to *maintain* the confidentiality of personal data.
 
   Les agriculteurs utilisent des pesticides pour *préserver* leurs récoltes des insectes nuisibles.
-  Die Landwirte verwenden Pestizide, um ihre Ernten vor Schadinsekten zu *schützen*.
+  Farmers use pesticides to *protect* their crops from harmful insects.
 
   Il est important de se *préserver* du stress quotidien pour rester en bonne santé.
-  Es ist wichtig, sich vor täglichem Stress zu *schützen*, um gesund zu bleiben.
+  It is important to *protect* yourself from daily stress in order to stay healthy.
 
   Les lois sur le copyright visent à *préserver* les droits des créateurs.
-  Die Urheberrechtsgesetze zielen darauf ab, die Rechte der Urheber zu *schützen*.
+  Copyright laws aim to *protect* the rights of authors.
 
   Cette région a été miraculeusement *préservée* de la sécheresse cette année.
-  Diese Region wurde dieses Jahr wie durch ein Wunder vor der Dürre *bewahrt*.
+  This region was miraculously saved from drought this year.
 
   L'architecte a réussi à *préserver* l'aspect original du bâtiment tout en le modernisant.
-  Dem Architekten ist es gelungen, das ursprüngliche Erscheinungsbild des Gebäudes zu *erhalten* und es gleichzeitig zu modernisieren.
+  The architect has managed to preserve the original appearance of the building and to modernize it at the same time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

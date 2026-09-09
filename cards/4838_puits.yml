@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4838
 Wort: puits
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le puits
 Femininum / Plural: ''
 IPA: \pɥi\
-Definition: Brunnen, Schacht
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Well, shaft
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis tombé dans un *puits* abandonné.
-  Ich bin in einen verlassenen *Brunnen* gefallen.
+  I fell into an abandoned *well*.
 
   Les habitants du village se réunissaient chaque matin autour du *puits* pour chercher de l'eau.
-  Die Dorfbewohner versammelten sich jeden Morgen am *Brunnen*, um Wasser zu holen.
+  The villagers gathered at the *well* every morning to get water.
 
   L'eau jaillit spontanément de ce *puits* artésien depuis des décennies.
-  Das Wasser sprudelt seit Jahrzehnten von selbst aus diesem artesischen *Brunnen*.
+  The water has been gushing for decades from this artesian fountain itself.
 
   Le vieux *puits* à poulie grince quand on descend le seau.
-  Der alte *Brunnen* mit Rolle knarrt, wenn man den Eimer hinunterlässt.
+  The old *well* with roll creaks when you let the bucket down.
 
   Mon grand-père est un véritable *puits* de science en matière d'histoire locale.
-  Mein Großvater ist ein wahres *Lexikon* in Sachen Lokalgeschichte.
+  My grandfather is a real *lexicon* in local history.
 
   La forêt amazonienne est l'un des plus importants *puits* de carbone au monde.
-  Der Amazonas-Regenwald ist eine der wichtigsten Kohlenstoff*senken* der Welt.
+  The Amazon rainforest is one of the most important carbon sinks in the world.
 
   Les mineurs descendent chaque jour dans le *puits* d'extraction.
-  Die Bergleute fahren jeden Tag in den Förder*schacht* ein.
+  The miners enter the conveyor shaft every day.
 
   Le *puits* de lumière éclaire naturellement tout l'escalier.
-  Der Licht*schacht* beleuchtet die ganze Treppe auf natürliche Weise.
+  The light shaft illuminates the entire staircase in a natural way.
 
   Ils ont installé un *puits canadien* pour réduire leurs factures de chauffage.
-  Sie haben einen *Erdwärmetauscher* installiert, um ihre Heizkosten zu senken.
+  They have installed a geothermal heat exchanger to reduce their heating costs.
 
   Le *puits* mitoyen appartient aux deux familles voisines.
-  Der Gemeinschafts*brunnen* gehört den beiden Nachbarsfamilien.
+  The community *fountain* belongs to the two neighboring families.
 
   La margelle du *puits* est sculptée de motifs médiévaux.
-  Die *Brunnen*einfassung ist mit mittelalterlichen Motiven verziert.
+  The fountain is decorated with medieval motifs.
 
   Les archéologues ont découvert un ancien *puits* sacrificiel maya.
-  Die Archäologen haben einen alten Maya-Opfer*brunnen* entdeckt.
+  Archaeologists have discovered an ancient Mayan victim's *fountain*.
 
   Le nouveau *puits* de pétrole produit mille barils par jour.
-  Das neue Erdöl*bohrloch* produziert tausend Barrel pro Tag.
+  The new oil well produces a thousand barrels a day.
 
   Les spéléologues ont exploré un *puits* naturel de cinquante mètres de profondeur.
-  Die Höhlenforscher haben einen natürlichen *Schacht* von fünfzig Metern Tiefe erkundet.
+  The cave researchers have explored a natural *shaft* of fifty meters depth.
 
   Ce *puits* perdu permet d'évacuer les eaux de pluie excédentaires.
-  Dieser Sicker*schacht* ermöglicht die Ableitung überschüssigen Regenwassers.
+  This leaching shaft allows the discharge of excess rainwater.
 
   Les ouvriers creusent un *puits* d'aération pour le nouveau tunnel.
-  Die Arbeiter graben einen Lüftungs*schacht* für den neuen Tunnel.
+  The workers are digging a ventilation shaft for the new tunnel.
 
   La vérité est au fond du *puits*, comme le dit le proverbe.
-  Die Wahrheit liegt in der Tiefe des *Brunnens*, wie das Sprichwort sagt.
+  The truth lies in the depth of the *well*, as the proverb says.
 
   Le boulanger prépare des *puits d'amour* pour la Saint-Valentin.
-  Der Bäcker bereitet *Windbeutel* zum Valentinstag vor.
+  The baker prepares *windbags* for Valentine's Day.
 
   Le *puits* aux chaînes du navire doit être nettoyé régulièrement.
-  Der Ketten*kasten* des Schiffs muss regelmäßig gereinigt werden.
+  The ship's chain *box* must be cleaned regularly.
 
   Les ingénieurs ont foré un *puits* d'exploration dans cette zone prometteuse.
-  Die Ingenieure haben einen Explorations*schacht* in diesem vielversprechenden Gebiet gebohrt.
+  The engineers have drilled an exploration shaft in this promising area.
 
   Ce *puits* de mine désaffecté a été transformé en musée.
-  Dieser stillgelegte Bergwerks*schacht* wurde in ein Museum umgewandelt.
+  This abandoned mine shaft was converted into a museum.
 
   Le *puits* de dérive du voilier nécessite des réparations.
-  Der Schwert*kasten* des Segelboots muss repariert werden.
+  The swordbox of the sailboat needs to be repaired.
 
   Les fondations du gratte-ciel reposent sur des *puits* en béton.
-  Die Fundamente des Wolkenkratzers ruhen auf Beton*pfeilern*.
+  The foundations of the skyscraper rest on concrete *pillars*.
 
   La ville a décidé de restaurer tous les anciens *puits* du centre historique.
-  Die Stadt hat beschlossen, alle alten *Brunnen* in der historischen Altstadt zu restaurieren.
+  The city has decided to restore all the old fountains in the historic old town.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

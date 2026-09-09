@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1549
 Wort: messieurs
 Wortart: nmpl
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: messieurs
 Femininum / Plural: ''
 IPA: \mə.sjø\
-Definition: Herren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Men
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vous remercie, *messieurs*, madame.
-  Ich danke Ihnen, meine *Herren*, gnädige Frau.
+  Thank you, gentlemen, madam.
 
   Bonjour *messieurs*, que puis-je faire pour vous ?
-  Guten Tag, meine *Herren*, was kann ich für Sie tun?
+  Hello, gentlemen, what can I do for you?
 
   Les *messieurs* du conseil d'administration se réuniront demain.
-  Die *Herren* des Vorstands werden sich morgen treffen.
+  The board's gentlemen will meet tomorrow.
 
   "Ces *messieurs* sont vraiment élégants ce soir."
-  "Diese *Herren* sind heute Abend wirklich elegant."
+  "These gentlemen are really elegant tonight."
 
   À l'attention de *MM.* Dubois et Martin.
-  An die *Herren* Dubois und Martin.
+  To Mr Dubois and Mr Martin.
 
   Tous les *messieurs* présents portaient un smoking.
-  Alle anwesenden *Herren* trugen einen Smoking.
+  All present gentlemen wore a tuxedo.
 
   *Messieurs*, veuillez prendre place pour le début de la conférence.
-  Meine *Herren*, bitte nehmen Sie Platz für den Beginn der Konferenz.
+  Gentlemen, please sit down for the start of the conference.
 
   Les *messieurs* du jury ont délibéré pendant trois heures.
-  Die *Herren* der Jury haben drei Stunden lang beraten.
+  The jury's gentlemen have been consulting for three hours.
 
   Ces *messieurs* ont commandé du vin rouge avec leur repas.
-  Die *Herren* haben Rotwein zu ihrer Mahlzeit bestellt.
+  The gentlemen ordered red wine for their meal.
 
   "*Messieurs*, l'heure est grave", a déclaré le directeur.
-  "Meine *Herren*, die Lage ist ernst", erklärte der Direktor.
+  " Gentlemen, the situation is serious," said the director.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

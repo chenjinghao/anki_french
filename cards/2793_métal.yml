@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2793
 Wort: métal
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le métal
 Femininum / Plural: métaux
 IPA: \me.tal\
-Definition: Metall
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Metal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont été équipés de détecteurs de *métaux*.
-  Sie wurden mit *Metall*detektoren ausgestattet.
+  They were equipped with *metal* detectors.
 
   Les *métaux* précieux comme l'or et l'argent sont très recherchés.
-  Edel*metalle* wie Gold und Silber sind sehr begehrt.
+  Precious *metals* such as gold and silver are highly sought after.
 
   Cette sculpture est fabriquée en *métal* recyclé.
-  Diese Skulptur ist aus recyceltem *Metall* hergestellt.
+  This sculpture is made of recycled *metal*.
 
   Le fer est un *métal* très utilisé dans la construction.
-  Eisen ist ein *Metall*, das im Bauwesen häufig verwendet wird.
+  Iron is a *metal* that is often used in the construction industry.
 
   L'industrie des *métaux* est un secteur économique important.
-  Die *Metall*industrie ist ein wichtiger Wirtschaftssektor.
+  The *metal* industry is an important economic sector.
 
   Les *métaux* lourds peuvent être dangereux pour l'environnement.
-  Schwer*metalle* können für die Umwelt gefährlich sein.
+  Heavy *metals* can be dangerous for the environment.
 
   Le cuivre est un excellent conducteur de chaleur et d'électricité parmi les *métaux*.
-  Kupfer ist unter den *Metallen* ein ausgezeichneter Wärme- und Stromleiter.
+  Copper is an excellent heat and power conductor among the *metals*.
 
   Les alchimistes cherchaient à transformer le plomb en *métal* précieux.
-  Die Alchemisten versuchten, Blei in Edel*metall* zu verwandeln.
+  The alchemists tried to turn lead into precious *metal*.
 
   Cette usine extrait le *métal* brut du minerai.
-  Diese Fabrik gewinnt Roh*metall* aus Erz.
+  This factory is extracting raw *metal* from ore.
 
   Les *métaux* non-ferreux sont largement utilisés dans l'électronique.
-  Nichteisen*metalle* werden in der Elektronik häufig verwendet.
+  Non-ferrous *metals* are often used in electronics.
 
   Le *métal* jaune, communément appelé or, est très prisé en joaillerie.
-  Das gelbe *Metall*, gemeinhin Gold genannt, ist in der Schmuckherstellung sehr begehrt.
+  The yellow *metal*, commonly called gold, is highly sought after in jewelry production.
 
   Autrefois, la monnaie était toujours frappée en *métal*.
-  Früher wurde Geld immer aus *Metall* geprägt.
+  In the past, money was always minted out of *metal*.
 
   Les archéologues ont découvert des outils en *métal* datant de l'âge du bronze.
-  Die Archäologen haben *Metall*werkzeuge aus der Bronzezeit entdeckt.
+  Archaeologists have discovered *metal* tools from the Bronze Age.
 
   Le recyclage des *métaux* est crucial pour préserver les ressources naturelles.
-  Das Recycling von *Metallen* ist entscheidend für die Erhaltung natürlicher Ressourcen.
+  Recycling of *metals* is crucial to preserving natural resources.
 
   Cette entreprise se spécialise dans la fusion des *métaux*.
-  Dieses Unternehmen ist auf das Schmelzen von *Metallen* spezialisiert.
+  This company specializes in melting *metals*.
 
   Les *métaux* alcalins sont très réactifs avec l'eau.
-  Alkali*metalle* reagieren sehr stark mit Wasser.
+  Alkali *metals* react very strongly with water.
 
   La corrosion est un problème commun pour de nombreux *métaux*.
-  Korrosion ist ein häufiges Problem für viele *Metalle*.
+  Corrosion is a common problem for many *metals*.
 
   Les *métaux* radioactifs sont utilisés avec précaution dans la recherche nucléaire.
-  Radioaktive *Metalle* werden in der Nuklearforschung mit Vorsicht verwendet.
+  Radioactive *metals* are used with caution in nuclear research.
 
   L'aluminium est un *métal* léger très utilisé dans l'aéronautique.
-  Aluminium ist ein leichtes *Metall*, das in der Luftfahrt häufig verwendet wird.
+  Aluminium is a light *metal* that is often used in aviation.
 
   Les bijoux en *métaux* précieux doivent être poinçonnés.
-  Schmuck aus Edel*metallen* muss gestempelt werden.
+  Jewelry made of precious *metals* must be stamped.
 
   La soudure permet d'assembler différentes pièces de *métal*.
-  Schweißen ermöglicht es, verschiedene *Metall*teile zusammenzufügen.
+  Welding allows to combine different *metal* parts.
 
   En héraldique, on ne superpose jamais *métal* sur *métal*.
-  In der Heraldik legt man nie *Metall* auf *Metall*.
+  In heraldry, you never put *metal* on metal.
 
   Les *métaux* alcalino-terreux sont moins réactifs que les métaux alcalins.
-  Erdalkali*metalle* sind weniger reaktiv als Alkalimetalle.
+  Erdalkali *metals* are less reactive than alkali metals.
 
   Le magnésium est un *métal* léger utilisé dans les alliages.
-  Magnesium ist ein leichtes *Metall*, das in Legierungen verwendet wird.
+  Magnesium is a light *metal* used in alloys.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

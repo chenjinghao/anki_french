@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 424
 Wort: député
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le député
 Femininum / Plural: députée
 IPA: \de.py.te\
-Definition: Abgeordneter
-Register: ↘Fiktion ↘Sachtext ↗Mündlich
+Definition: Member of the European Parliament
+Register: ↘fiction ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai écouté plusieurs interventions des *députés*.
-  Ich habe mehreren Reden der *Abgeordneten* zugehört.
+  I have listened to several speeches by Members.
 
   Notre *députée* socialiste défend activement les droits des travailleurs.
-  Unsere sozialistische *Abgeordnete* setzt sich aktiv für die Rechte der Arbeitnehmer ein.
+  Our Socialist MPs are actively promoting the rights of workers.
 
   Le *député* sortant a décidé de ne pas se représenter aux élections.
-  Der scheidende *Abgeordnete* hat beschlossen, nicht zur Wiederwahl anzutreten.
+  The outgoing Member has decided not to re-election.
 
   Les *députés* siégeront au Palais-Bourbon la semaine prochaine.
-  Die *Abgeordneten* werden nächste Woche im Palais-Bourbon tagen.
+  Members will meet next week at the Palais-Bourbon.
 
   La *députée* européenne a présenté son rapport sur le changement climatique.
-  Die Europa*abgeordnete* hat ihren Bericht über den Klimawandel vorgestellt.
+  The MEPs presented their report on climate change.
 
   Un nouveau projet de loi concernant les *députés* sera bientôt discuté.
-  Ein neues *Abgeordneten*gesetz wird bald diskutiert werden.
+  A new law of deputies will soon be discussed.
 
   Le *député-maire* de notre ville a inauguré le nouveau centre culturel.
-  Der *Abgeordnete und Bürgermeister* unserer Stadt hat das neue Kulturzentrum eingeweiht.
+  The deputy and mayor of our city has inaugurated the new cultural centre.
 
   Dans l'Antiquité, Athènes envoya trois *députés* pour négocier la paix.
-  Im Altertum schickte Athen drei *Abgesandte*, um über den Frieden zu verhandeln.
+  In ancient times, Athens sent three emissaries to negotiate peace.
 
   Les *députés* du Grand Conseil ont voté le budget annuel.
-  Die *Großräte* haben den Jahreshaushalt verabschiedet.
+  The major councils have adopted the annual budget.
 
   La nouvelle *députée* prêtera serment demain matin.
-  Die neue *Abgeordnete* wird morgen früh vereidigt.
+  The new Member will be sworn in tomorrow morning.
 
   Les *députés* à l'Assemblée nationale ont débattu toute la nuit.
-  Die *Abgeordneten* der Nationalversammlung haben die ganze Nacht debattiert.
+  The MPs of the National Assembly have debated all night.
 
   Le suppléant remplacera temporairement notre *député* malade.
-  Der Stellvertreter wird vorübergehend unseren erkrankten *Abgeordneten* ersetzen.
+  The deputy will temporarily replace our sick deputies.
 
   Cette *députée* représente notre circonscription depuis dix ans.
-  Diese *Abgeordnete* vertritt unseren Wahlkreis seit zehn Jahren.
+  This Member has been representing our constituency for ten years.
 
   Les *députés* sont élus tous les cinq ans au suffrage universel direct.
-  Die *Abgeordneten* werden alle fünf Jahre in direkter allgemeiner Wahl gewählt.
+  Members are elected in direct universal suffrage every five years.
 
   Notre *député* local organise une permanence chaque premier samedi du mois.
-  Unser lokaler *Abgeordneter* hält jeden ersten Samstag im Monat eine Sprechstunde ab.
+  Our local deputy holds a consultation hour every first Saturday of the month.
 
   Les *députés* de l'opposition ont quitté l'hémicycle en signe de protestation.
-  Die *Abgeordneten* der Opposition haben aus Protest den Plenarsaal verlassen.
+  Members of the opposition have left the Chamber in protest.
 
   La commission d'enquête sera composée de quinze *députés*.
-  Der Untersuchungsausschuss wird aus fünfzehn *Abgeordneten* bestehen.
+  The Committee of Inquiry will consist of fifteen Members.
 
   Pierre a été élu *député* pour la première fois en 2022.
-  Pierre wurde 2022 zum ersten Mal als *Abgeordneter* gewählt.
+  Pierre was elected as a Member of Parliament for the first time in 2022.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

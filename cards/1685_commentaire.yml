@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1685
 Wort: commentaire
 Wortart: nm, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le commentaire
 Femininum / Plural: ''
 IPA: \kɔ.mɑ̃.tɛʁ\
-Definition: Kommentar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Comment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai été très impressionné des *commentaires* que j'ai reçus.
-  Ich war sehr beeindruckt von den *Kommentaren*, die ich erhalten habe.
+  I was very impressed by the *comments* I received.
 
   Le *commentaire* en direct du match était passionnant.
-  Der Live-*Kommentar* des Spiels war spannend.
+  The live commentary of the game was exciting.
 
   Cette édition des Misérables contient des *commentaires* détaillés sur le contexte historique.
-  Diese Ausgabe der Elenden enthält ausführliche *Erläuterungen* zum historischen Kontext.
+  This edition of the poor contains detailed explanations of the historical context.
 
   Dans son blog, elle a reçu de nombreux *commentaires* positifs.
-  In ihrem Blog hat sie viele positive *Kommentare* erhalten.
+  In her blog she has received many positive *comments*.
 
   Je préfère ne pas faire de *commentaire* sur cette situation délicate.
-  Ich möchte zu dieser heiklen Situation keinen *Kommentar* abgeben.
+  I do not want to *comment* on this delicate situation.
 
   Les *commentaires* du professeur m'ont aidé à améliorer mon texte.
-  Die *Anmerkungen* des Lehrers haben mir geholfen, meinen Text zu verbessern.
+  Teacher's comments helped me improve my text.
 
   Le journaliste a fait un *commentaire* pertinent sur la situation politique.
-  Der Journalist machte einen treffenden *Kommentar* zur politischen Lage.
+  The journalist made an apt *comment* on the political situation.
 
   Les élèves doivent rédiger un *commentaire* composé sur ce poème.
-  Die Schüler müssen eine *Interpretation* zu diesem Gedicht verfassen.
+  The students must write an *interpretation* of this poem.
 
   "Je me passerais bien de tes *commentaires*!" dit-elle, agacée.
-  "Deine *Kommentare* kannst du dir sparen!" sagte sie genervt.
+  "You can save your *comments*!" she said annoyed.
 
   Son comportement a suscité de nombreux *commentaires* désagréables.
-  Ihr Verhalten hat viele unangenehme *Kommentare* hervorgerufen.
+  Their behavior has caused many unpleasant *comments*.
 
   Les *commentaires* du match de football étaient très animés.
-  Die *Kommentierung* des Fußballspiels war sehr lebendig.
+  The commentary on the football game was very lively.
 
   As-tu lu les *commentaires* sous l'article?
-  Hast du die *Kommentare* unter dem Artikel gelesen?
+  Have you read the *comments* under the article?
 
   Cette nouvelle a provoqué des *commentaires* variés dans la presse.
-  Diese Nachricht hat in der Presse verschiedene *Kommentare* ausgelöst.
+  This message has triggered various *comments* in the press.
 
   Il a ajouté des *commentaires* explicatifs au bas de chaque page.
-  Er hat am Ende jeder Seite erklärende *Anmerkungen* hinzugefügt.
+  He added explanatory *notes* at the end of each page.
 
   Les *commentaires* audio sont disponibles en plusieurs langues.
-  Die Audio-*Kommentare* sind in mehreren Sprachen verfügbar.
+  The audio *comments* are available in several languages.
 
   N'oublie pas d'ajouter un *commentaire* dans ton code.
-  Vergiss nicht, einen *Kommentar* in deinen Code einzufügen.
+  Don't forget to insert a *comment* in your code.
 
   Sur les réseaux sociaux, les *commentaires* sont souvent très vifs.
-  In sozialen Medien sind die *Kommentare* oft sehr heftig.
+  In social media, the *comments* are often very violent.
 
   Elle a désactivé les *commentaires* sur sa dernière publication.
-  Sie hat die *Kommentare* zu ihrem letzten Beitrag deaktiviert.
+  She has deactivated the *comments* on her last post.
 
   Le *commentaire* judicieux de Pierre a changé ma perspective.
-  Peters kluger *Kommentar* hat meine Sichtweise verändert.
+  Peter's clever *comment* changed my point of view.
 
   Les *commentaires* de César sur la guerre des Gaules sont célèbres.
-  Cäsars *Aufzeichnungen* über den Gallischen Krieg sind berühmt.
+  Caesar's *records* of the Gallic War are famous.
 
   "*Sans commentaire*!" a répondu le ministre aux journalistes.
-  "*Kein Kommentar*!" antwortete der Minister den Journalisten.
+  "*No comment*!" the minister replied to the journalists.
 
   Dans la presse, il faut distinguer l'information du *commentaire*.
-  In der Presse muss man Information von *Kommentar* trennen.
+  In the press you have to separate information from *comment*.
 
   Son dernier film a reçu des *commentaires* très favorables.
-  Sein letzter Film hat sehr positive *Kritiken* erhalten.
+  His last film has received very positive reviews.
 
   Le *commentaire* littéraire est un exercice difficile.
-  Die literarische *Interpretation* ist eine schwierige Übung.
+  Literary *interpretation* is a difficult exercise.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

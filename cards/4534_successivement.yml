@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4534
 Wort: successivement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: successivement
 Femininum / Plural: ''
 IPA: \syk.se.siv.mɑ̃\
-Definition: nacheinander, der Reihe nach
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: one after the other, in turn
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mes recherches ont *successivement* porté sur deux domaines.
-  Meine Forschung befasste sich *nacheinander* mit zwei Bereichen.
+  My research dealt with two areas one after the other.
 
   Elle a été *successivement* professeure, directrice et doyenne de l'université.
-  Sie war *nacheinander* Professorin, Direktorin und Dekanin der Universität.
+  She was a professor, director and dean of the university.
 
   J'ai *successivement* habité à Paris, Lyon et Marseille.
-  Ich habe *nacheinander* in Paris, Lyon und Marseille gewohnt.
+  I lived *one after another* in Paris, Lyon and Marseille.
 
   Le patient était *successivement* furieux, calme et soulagé.
-  Der Patient war *nacheinander* wütend, ruhig und erleichtert.
+  The patient was angry, calm and relieved one after the other.
 
   Les enfants ont *successivement* quitté la maison pour aller à l'université.
-  Die Kinder haben das Haus *nacheinander* verlassen, um zur Universität zu gehen.
+  The kids left the house one after the other to go to university.
 
   Il a perdu *successivement* son travail, sa maison et sa voiture.
-  Er hat *nacheinander* seine Arbeit, sein Haus und sein Auto verloren.
+  He lost his work, his house and his car one by one.
 
   Le guide nous a *successivement* montré la cathédrale, le musée et le château.
-  Der Führer hat uns *nacheinander* die Kathedrale, das Museum und das Schloss gezeigt.
+  The guide showed us the cathedral, the museum and the castle one by one.
 
   Nous avons testé *successivement* trois solutions différentes.
-  Wir haben *nacheinander* drei verschiedene Lösungen getestet.
+  We tested three different solutions in succession.
 
   Les quatre saisons se succèdent *successivement* chaque année.
-  Die vier Jahreszeiten folgen sich jedes Jahr *nacheinander*.
+  The four seasons follow each year in succession.
 
   Les candidats passeront *successivement* devant le jury.
-  Die Kandidaten werden *nacheinander* vor die Jury treten.
+  The candidates will step before the jury one after the other.
 
   Marie a *successivement* ouvert tous les cadeaux d'anniversaire.
-  Marie hat *nacheinander* alle Geburtstagsgeschenke geöffnet.
+  Marie opened all her birthday presents one after the other.
 
   Ils ont *successivement* visité toutes les capitales européennes.
-  Sie haben *nacheinander* alle europäischen Hauptstädte besucht.
+  They visited all European capitals in succession.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

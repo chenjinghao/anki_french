@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1714
 Wort: électoral
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: électoral
 Femininum / Plural: électorale
 IPA: \e.lɛk.tɔ.ʁal\
-Definition: Wahl-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Election
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les campagnes *électorales* sont affaire de pouvoir.
-  *Wahl*kämpfe sind eine Frage der Macht.
+  Electoral struggles are a matter of power.
 
   La nouvelle loi *électorale* entrera en vigueur l'année prochaine.
-  Das neue *Wahl*gesetz tritt nächstes Jahr in Kraft.
+  The new electoral law will enter into force next year.
 
   Notre circonscription *électorale* compte environ 50.000 habitants.
-  Unser *Wahl*kreis hat ungefähr 50.000 Einwohner.
+  Our constituency has about 50,000 inhabitants.
 
   Le président de la commission *électorale* a annoncé les résultats officiels.
-  Der Vorsitzende des *Wahl*ausschusses hat die offiziellen Ergebnisse verkündet.
+  The chairman of the *election* committee has announced the official results.
 
   Marie vérifie si son nom figure sur la liste *électorale*.
-  Marie prüft, ob ihr Name in der *Wähler*liste steht.
+  Marie checks if her name is on the electoral list.
 
   Les frais de campagne *électorale* ne doivent pas dépasser le plafond légal.
-  Die *Wahlkampf*kosten dürfen die gesetzliche Obergrenze nicht überschreiten.
+  The campaign costs must not exceed the statutory ceiling.
 
   Cette procédure *électorale* garantit un vote transparent.
-  Dieses *Wahl*verfahren garantiert eine transparente Abstimmung.
+  This electoral procedure guarantees a transparent vote.
 
   Le corps *électoral* sera appelé aux urnes dimanche prochain.
-  Die *Wähler*schaft wird am nächsten Sonntag an die Urnen gerufen.
+  The electorate will be called to the polls next Sunday.
 
   Les affiches *électorales* ont été vandalisées pendant la nuit.
-  Die *Wahl*plakate wurden über Nacht beschädigt.
+  The *election* posters were damaged overnight.
 
   La période *électorale* commence officiellement dans deux semaines.
-  Die *Wahl*periode beginnt offiziell in zwei Wochen.
+  The parliamentary term will officially begin in two weeks.
 
   Le comité *électoral* se réunit tous les lundis pour planifier la stratégie.
-  Das *Wahl*komitee trifft sich jeden Montag zur Strategieplanung.
+  The *election* committee meets every Monday for strategic planning.
 
   Cette promesse *électorale* sera difficile à tenir.
-  Dieses *Wahl*versprechen wird schwer einzuhalten sein.
+  This *election* promise will be difficult to keep.
 
   Les agents *électoraux* distribuent des tracts dans toute la ville.
-  Die *Wahl*helfer verteilen in der ganzen Stadt Flugblätter.
+  The *election* workers are distributing leaflets all over the city.
 
   La prochaine consultation *électorale* aura lieu au printemps.
-  Die nächste *Wahl*abstimmung findet im Frühling statt.
+  The next vote will take place in spring.
 
   Une réunion *électorale* est prévue ce soir à la mairie.
-  Eine *Wahl*versammlung ist heute Abend im Rathaus geplant.
+  An *election* meeting is scheduled for tonight at the City Hall.
 
   Les manœuvres *électorales* de l'opposition ont échoué.
-  Die *Wahl*taktiken der Opposition sind gescheitert.
+  The opposition's electoral tactics have failed.
 
   Tous les mandats *électoraux* arrivent à expiration en décembre.
-  Alle *Wahl*mandate laufen im Dezember aus.
+  All voting mandates expire in December.
 
   Le droit *électoral* a été modifié par le Parlement.
-  Das *Wahl*recht wurde vom Parlament geändert.
+  The right to vote has been changed by Parliament.
 
   Les bureaux *électoraux* fermeront à 20 heures précises.
-  Die *Wahl*lokale schließen um Punkt 20 Uhr.
+  The polling stations close at 8:00 sharp.
 
   Il faut redéfinir les frontières de certaines circonscriptions *électorales*.
-  Die Grenzen einiger *Wahl*bezirke müssen neu festgelegt werden.
+  The limits of some electoral districts must be redefined.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

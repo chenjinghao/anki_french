@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1734
 Wort: apparemment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: apparemment
 Femininum / Plural: ''
 IPA: \a.pa.ʁa.mɑ̃\
-Definition: anscheinend, offenbar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: apparently, apparently
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Apparemment*, ces moulins tournent encore.
-  Diese Mühlen drehen sich *anscheinend* noch.
+  These mills seem to be still spinning.
 
   Il n'a *apparemment* pas compris la question.
-  Er hat die Frage *offenbar* nicht verstanden.
+  He obviously didn't understand the question.
 
   *Apparemment*, le train aura du retard aujourd'hui.
-  Der Zug wird heute *anscheinend* Verspätung haben.
+  The train is going to be late today.
 
   Elle est *apparemment* très douée en mathématiques.
-  Sie ist *offensichtlich* sehr begabt in Mathematik.
+  She's obviously very talented in mathematics.
 
   Le suspect a *apparemment* quitté la ville hier soir.
-  Der Verdächtige hat die Stadt *anscheinend* gestern Abend verlassen.
+  The suspect *apparently* left town last night.
 
   *Apparemment*, le concert de ce soir est complet.
-  Das Konzert heute Abend ist *offenbar* ausverkauft.
+  The concert tonight is obviously sold out.
 
   Cette recette est *apparemment* facile à réaliser.
-  Dieses Rezept ist *anscheinend* einfach zuzubereiten.
+  This recipe seems easy to prepare.
 
   Le nouveau film de ce réalisateur a *apparemment* beaucoup de succès.
-  Der neue Film dieses Regisseurs hat *offensichtlich* viel Erfolg.
+  This director's new film obviously has a lot of success.
 
   *Apparemment*, il pleuvra toute la semaine prochaine.
-  Es wird nächste Woche *anscheinend* die ganze Zeit regnen.
+  It's going to rain all the time next week.
 
   La situation économique s'est *apparemment* améliorée ces derniers mois.
-  Die wirtschaftliche Lage hat sich in den letzten Monaten *offenbar* verbessert.
+  The economic situation seems to have improved in recent months.
 
   *Apparemment*, le chien du voisin s'est encore échappé.
-  Der Hund des Nachbarn ist *anscheinend* wieder ausgebüxt.
+  The neighbor's dog seems to be back out.
 
   Cette entreprise a *apparemment* de gros revenus.
-  Dieses Unternehmen hat *offensichtlich* hohe Einnahmen.
+  This company obviously has high revenues.
 
   *Apparemment*, le professeur ne viendra pas aujourd'hui.
-  Der Lehrer kommt heute *anscheinend* nicht.
+  The teacher doesn't seem to be coming today.
 
   Le patient est *apparemment* guéri de sa maladie.
-  Der Patient ist von seiner Krankheit *offenbar* geheilt.
+  The patient is obviously cured of his illness.
 
   *Apparemment*, elle en sait plus long que nous sur cette affaire.
-  Sie weiß über diese Angelegenheit *anscheinend* mehr als wir.
+  She seems to know more about this matter than we do.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

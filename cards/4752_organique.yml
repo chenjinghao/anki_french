@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4752
 Wort: organique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: organique
 Femininum / Plural: ''
 IPA: \ɔʁ.ɡa.nik\
-Definition: organisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Organic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une forme de vie *organique* vient à ma rescousse.
-  Eine *organische* Lebensform kommt mir zu Hilfe.
+  An *organic* life form comes to my aid.
 
   Les agriculteurs utilisent de l'engrais *organique* pour leurs cultures.
-  Die Bauern verwenden *organischen* Dünger für ihre Kulturen.
+  Farmers use *organic* fertilisers for their crops.
 
   La chimie *organique* est une matière fascinante à étudier.
-  Die *organische* Chemie ist ein faszinierendes Studienfach.
+  *Organic* chemistry is a fascinating subject of study.
 
   Cette nouvelle loi *organique* a modifié le fonctionnement du Parlement.
-  Dieses neue *Organische* Gesetz hat die Arbeitsweise des Parlaments verändert.
+  This new *Organic* Law has changed the way Parliament works.
 
   Les déchets *organiques* peuvent être transformés en compost.
-  *Organische* Abfälle können zu Kompost verarbeitet werden.
+  *Organic* waste can be processed into compost.
 
   Le médecin a diagnostiqué un trouble *organique* du cœur.
-  Der Arzt diagnostizierte eine *organische* Herzstörung.
+  The doctor diagnosed an *organic* heart disorder.
 
   Les molécules *organiques* sont essentielles à la vie sur Terre.
-  *Organische* Moleküle sind für das Leben auf der Erde unerlässlich.
+  *Organic* molecules are essential for life on Earth.
 
   Les chercheurs étudient les tissus *organiques* au microscope.
-  Die Forscher untersuchen *organisches* Gewebe unter dem Mikroskop.
+  The researchers investigate *organic* tissue under the microscope.
 
   Le patient souffre d'une maladie *organique* grave.
-  Der Patient leidet an einer schweren *organischen* Krankheit.
+  The patient suffers from a severe *organic* disease.
 
   Les substances *organiques* se décomposent naturellement.
-  *Organische* Stoffe zersetzen sich auf natürliche Weise.
+  *Organic* substances decompose naturally.
 
   Cette région produit uniquement des légumes *organiques*.
-  Diese Region produziert nur *organisches* Gemüse.
+  This region only produces *organic* vegetables.
 
   Les fonctions *organiques* du corps humain sont complexes.
-  Die *organischen* Funktionen des menschlichen Körpers sind komplex.
+  The *organic* functions of the human body are complex.
 
   Le pétrole est un combustible d'origine *organique*.
-  Erdöl ist ein Brennstoff *organischen* Ursprungs.
+  Oil is a fuel of *organic* origin.
 
   Les besoins *organiques* doivent être satisfaits quotidiennement.
-  Die *organischen* Bedürfnisse müssen täglich erfüllt werden.
+  *Organic* needs must be met daily.
 
   Les liquides *organiques* circulent dans tout l'organisme.
-  Die *organischen* Flüssigkeiten zirkulieren im ganzen Organismus.
+  The *organic* liquids circulate throughout the organism.
 
   Cette maladie cause des lésions *organiques* permanentes.
-  Diese Krankheit verursacht permanente *organische* Schäden.
+  This disease causes permanent *organic* damage.
 
   Les glucides sont des substances *organiques* importantes.
-  Kohlenhydrate sind wichtige *organische* Substanzen.
+  Carbohydrates are important *organic* substances.
 
   L'unité *organique* de la nation doit être préservée.
-  Die *organische* Einheit der Nation muss bewahrt werden.
+  The *organic* unity of the nation must be preserved.
 
   Les composés *organiques* contiennent toujours du carbone.
-  *Organische* Verbindungen enthalten immer Kohlenstoff.
+  *Organic* compounds always contain carbon.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

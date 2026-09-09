@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1964
 Wort: inventer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inventer
 Femininum / Plural: ''
 IPA: \ɛ̃.vɑ̃.te\
-Definition: erfinden
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: invent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai pas pu *inventer* un tel souvenir.
-  Ich konnte mir eine solche Erinnerung nicht *ausdenken*.
+  I couldn't make up such a memory.
 
   Les Chinois ont *inventé* l'imprimerie au XI<sup>e</sup> siècle.
-  Die Chinesen haben im 11. Jahrhundert den Buchdruck *erfunden*.
+  The Chinese *invented* printing in the 11th century.
 
   Elle a *inventé* une histoire pour justifier son retard.
-  Sie hat sich eine Geschichte *ausgedacht*, um ihre Verspätung zu rechtfertigen.
+  She made up a story to justify her delay.
 
   "Je te jure que je n'*invente* rien, c'est vraiment arrivé !"
-  "Ich schwöre dir, ich *erfinde* nichts, das ist wirklich passiert!"
+  "I swear, I'm not inventing anything, it really happened!"
 
   Les scientifiques cherchent à *inventer* de nouveaux traitements contre le cancer.
-  Die Wissenschaftler versuchen, neue Behandlungsmethoden gegen Krebs zu *erfinden*.
+  The scientists are trying to *invent* new treatments for cancer.
 
   Il faut *inventer* de nouvelles solutions pour lutter contre le changement climatique.
-  Wir müssen neue Lösungen *erfinden*, um den Klimawandel zu bekämpfen.
+  We need to *invent* new solutions to combat climate change.
 
   "Ce type n'a vraiment pas *inventé* l'eau chaude !"
-  "Dieser Typ hat wirklich das Pulver nicht *erfunden*!"
+  "This guy really didn't invent the powder!"
 
   Les enfants adorent *inventer* des jeux imaginaires.
-  Kinder lieben es, sich Fantasiespiele *auszudenken*.
+  Kids love to think up fantasy games.
 
   L'entreprise a *inventé* un nouveau procédé de fabrication plus écologique.
-  Das Unternehmen hat ein neues, umweltfreundlicheres Herstellungsverfahren *erfunden*.
+  The company has *invented* a new, more environmentally friendly manufacturing process.
 
   On ne peut pas *inventer* l'amour, il faut le cultiver.
-  Man kann Liebe nicht *erfinden*, man muss sie pflegen.
+  You can't *invent* love, you have to care for it.
 
   "Arrête d'*inventer* des excuses et dis-moi la vérité !"
-  "Hör auf, dir Ausreden *auszudenken*, und sag mir die Wahrheit!"
+  "Stop making excuses and tell me the truth!"
 
   Les poètes *inventent* des mondes avec leurs mots.
-  Dichter *erfinden* Welten mit ihren Worten.
+  Poets *invent* worlds with their words.
 
   Il a *inventé* de toutes pièces cette histoire pour impressionner ses amis.
-  Er hat diese Geschichte völlig frei *erfunden*, um seine Freunde zu beeindrucken.
+  He *invented* this story completely freely to impress his friends.
 
   Chaque génération doit *inventer* sa propre façon de vivre.
-  Jede Generation muss ihre eigene Art zu leben *erfinden*.
+  Each generation must *invent* its own way of living.
 
   "Ce sont des choses qui ne s'*inventent* pas !"
-  "Das sind Dinge, die man sich nicht *ausdenken* kann!"
+  "These are things you can't imagine!"
 
   Les mathématiciens *inventent* parfois de nouveaux concepts pour résoudre des problèmes complexes.
-  Mathematiker *erfinden* manchmal neue Konzepte, um komplexe Probleme zu lösen.
+  Mathematicians sometimes *invent* new concepts to solve complex problems.
 
   Elle a dû *inventer* un prétexte pour ne pas assister à la réunion.
-  Sie musste sich einen Vorwand *ausdenken*, um nicht an dem Treffen teilzunehmen.
+  She had to come up with an excuse not to participate in the meeting.
 
   Les créateurs de mode *inventent* constamment de nouvelles tendances.
-  Modedesigner *erfinden* ständig neue Trends.
+  Fashion designers are constantly inventing new trends.
 
   "Je n'ai rien *inventé*, j'ai simplement rapporté les faits."
-  "Ich habe nichts *erfunden*, ich habe einfach nur die Tatsachen berichtet."
+  "I didn't invent anything, I just told the facts."
 
   L'artiste a *inventé* une nouvelle technique de peinture.
-  Der Künstler hat eine neue Maltechnik *erfunden*.
+  The artist *invented* a new painting technique.
 
   On ne peut pas *inventer* le passé, mais on peut imaginer l'avenir.
-  Man kann die Vergangenheit nicht *erfinden*, aber man kann sich die Zukunft vorstellen.
+  You can't *invent* the past, but you can imagine the future.
 
   Les philosophes *inventent* parfois de nouveaux concepts pour expliquer le monde.
-  Philosophen *erfinden* manchmal neue Konzepte, um die Welt zu erklären.
+  Philosophers sometimes *invent* new concepts to explain the world.
 
   "Il faut *inventer* sa vie chaque jour", disait le poète.
-  "Man muss sein Leben jeden Tag neu *erfinden*", sagte der Dichter.
+  "You have to reinvent your life every day," said the poet.
 
   L'écrivain a *inventé* un personnage fascinant pour son nouveau roman.
-  Der Schriftsteller hat eine faszinierende Figur für seinen neuen Roman *erfunden*.
+  The writer *invented* a fascinating figure for his new novel.
 
   Les publicistes doivent constamment *inventer* de nouveaux slogans accrocheurs.
-  Werbefachleute müssen ständig neue einprägsame Slogans *erfinden*.
+  Advertising professionals must constantly *invent* new catchy slogans.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

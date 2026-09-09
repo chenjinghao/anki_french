@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3273
 Wort: odeur
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une odeur
 Femininum / Plural: ''
 IPA: \o.dœʁ\
-Definition: Geruch
-Register: ↗Fiktion ↘Sachtext ↘Mündlich
+Definition: Smell
+Register: ↗fiction ↘nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il sentait mauvais, l'*odeur* des vieillards.
-  Es roch schlecht, der *Geruch* der alten Menschen.
+  It smelled bad, the *smell* of the old people.
 
   Une *odeur* puissante de café se répandait dans toute la maison.
-  Ein starker Kaffee*geruch* breitete sich im ganzen Haus aus.
+  A strong coffee smell spread throughout the house.
 
   La nouvelle voiture n'a pas d'*odeur*.
-  Das neue Auto ist *geruch*los.
+  The new car is odourless.
 
   Je sens une *odeur* de brûlé dans la cuisine !
-  Ich rieche einen Brand*geruch* in der Küche!
+  I smell a fire *odour* in the kitchen!
 
   Une délicieuse *odeur* de pain frais sort de la boulangerie.
-  Ein köstlicher *Geruch* von frischem Brot strömt aus der Bäckerei.
+  A delicious *smell* of fresh bread flows out of the bakery.
 
   L'*odeur* des roses du jardin est vraiment enivrante.
-  Der *Duft* der Rosen im Garten ist wirklich berauschend.
+  The scent of roses in the garden is really intoxicating.
 
   Cette *odeur* de renfermé me donne mal à la tête.
-  Dieser muffige *Geruch* gibt mir Kopfschmerzen.
+  That musty *smell* gives me a headache.
 
   Le parfum dégage une *odeur* légère et fraîche.
-  Das Parfüm verströmt einen leichten, frischen *Duft*.
+  The perfume exudes a light, fresh *fragrance*.
 
   "L'argent n'a pas d'*odeur*", dit-on souvent.
-  "Geld *stinkt* nicht", sagt man oft.
+  "Money doesn't stink," they say often.
 
   Il est mort *en odeur de sainteté* après une vie exemplaire.
-  Er starb *im Ruf der Heiligkeit* nach einem vorbildlichen Leben.
+  He died *in the call of holiness* for an exemplary life.
 
   "Tu n'es pas *en odeur de sainteté* auprès du patron depuis ton retard."
-  "Du stehst beim Chef nicht *in hohem Ansehen* seit deiner Verspätung."
+  "You're not *in high esteem* with the boss since you were late."
 
   Les chiens ont flairé une *odeur* suspecte.
-  Die Hunde haben einen verdächtigen *Geruch* gewittert.
+  The dogs have smelled a suspicious *smell*.
 
   Cette *odeur* entêtante de jasmin me rappelle l'été.
-  Dieser betörende Jasmin*duft* erinnert mich an den Sommer.
+  This beguiling jasmine scent reminds me of the summer.
 
   Il faut chasser cette *odeur* désagréable avant l'arrivée des invités.
-  Wir müssen diesen unangenehmen *Geruch* vor der Ankunft der Gäste vertreiben.
+  We must drive out this unpleasant *smell* before the arrival of the guests.
 
   L'*odeur* de la cuisine française me met l'eau à la bouche.
-  Der *Geruch* der französischen Küche lässt mir das Wasser im Mund zusammenlaufen.
+  The *smell* of the French cuisine makes my mouth melt with the water.
 
   Une *odeur* pestilentielle s'échappait des égouts.
-  Ein pestilenzartiger *Gestank* stieg aus der Kanalisation auf.
+  A pestilence-like stench rose from the sewerage.
 
   Les soldats ont senti l'*odeur* de la poudre pendant la bataille.
-  Die Soldaten haben den *Geruch* des Pulvers während der Schlacht gerochen.
+  The soldiers smelled the *smell* of the powder during the battle.
 
   Le parfumeur a créé une nouvelle *odeur* pour sa collection d'été.
-  Der Parfümeur hat einen neuen *Duft* für seine Sommerkollektion kreiert.
+  The perfumer has created a new *fragrance* for his summer collection.
 
   Cette plante dégage une *odeur* sui generis très particulière.
-  Diese Pflanze verströmt einen ganz eigentümlichen *Geruch*.
+  This plant exudes a very peculiar *smell*.
 
   Marie aime l'*odeur* de l'herbe fraîchement coupée.
-  Marie liebt den *Duft* von frisch gemähtem Gras.
+  Marie loves the scent of freshly mown grass.
 
   Les experts ont remarqué une *odeur* caractéristique du vin.
-  Die Experten haben einen charakteristischen Wein*duft* bemerkt.
+  The experts have noticed a characteristic scent of wine.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

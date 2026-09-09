@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3531
 Wort: bien-être
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le bien-être
 Femininum / Plural: ''
 IPA: \bjɛ̃‿nɛtʁ\
-Definition: Wohlbefinden
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Well-being
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tous ces services dépendent du *bien-être* économique de notre pays.
-  Alle diese Dienste hängen vom wirtschaftlichen *Wohlstand* unseres Landes ab.
+  All these services depend on our country's economic *prosperity*.
 
   Le yoga m'apporte un sentiment de *bien-être* physique et mental.
-  Das Yoga gibt mir ein Gefühl des körperlichen und geistigen *Wohlbefindens*.
+  Yoga gives me a feeling of physical and mental *well-being*.
 
   Pour assurer le *bien-être* de sa famille, il travaille jour et nuit.
-  Um den *Wohlstand* seiner Familie zu sichern, arbeitet er Tag und Nacht.
+  To ensure his family's *prosperity*, he works day and night.
 
   Cette musique me procure un profond *bien-être*.
-  Diese Musik verschafft mir ein tiefes *Wohlbefinden*.
+  This music gives me a deep *well-being*.
 
   Le *bien-être* des employés est une priorité dans notre entreprise.
-  Das *Wohlbefinden* der Mitarbeiter hat in unserem Unternehmen Priorität.
+  The *well-being* of our employees is a priority in our company.
 
   Grâce à son nouveau travail, elle vit dans un certain *bien-être*.
-  Dank ihrer neuen Arbeit lebt sie in einem gewissen *Wohlstand*.
+  Thanks to her new work, she lives in a certain *prosperity*.
 
   Les vacances m'ont apporté un véritable sentiment de *bien-être*.
-  Der Urlaub hat mir ein echtes Gefühl von *Wohlbefinden* gebracht.
+  The holiday has brought me a real feeling of *well-being*.
 
   Le masseur contribue au *bien-être* physique de ses clients.
-  Der Masseur trägt zum körperlichen *Wohlbefinden* seiner Kunden bei.
+  The masseur contributes to the physical *well-being* of its customers.
 
   Son visage rayonnait de *bien-être* après la séance de méditation.
-  Sein Gesicht strahlte nach der Meditation vor *Wohlbefinden*.
+  His face shone with *well-being* after the meditation.
 
   La politique sociale vise à améliorer le *bien-être* des citoyens.
-  Die Sozialpolitik zielt darauf ab, den *Wohlstand* der Bürger zu verbessern.
+  Social policy aims to improve the *prosperity* of citizens.
 
   Cette sensation de *bien-être* après le sport est incomparable.
-  Dieses Gefühl des *Wohlbefindens* nach dem Sport ist unvergleichlich.
+  This feeling of *well-being* after sports is incomparable.
 
   Le *bien-être* de nos enfants dépend de l'environnement que nous leur créons.
-  Das *Wohlbefinden* unserer Kinder hängt von der Umgebung ab, die wir für sie schaffen.
+  The *well-being* of our children depends on the environment we create for them.
 
   Elle a sacrifié son *bien-être* personnel pour s'occuper de ses parents âgés.
-  Sie hat ihr persönliches *Wohlbefinden* geopfert, um sich um ihre betagten Eltern zu kümmern.
+  She has sacrificed her personal well - being to take care of her elderly parents.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

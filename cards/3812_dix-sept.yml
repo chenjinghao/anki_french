@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3812
 Wort: dix-sept
 Wortart: num, nmi, nf, adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dix-sept
 Femininum / Plural: ''
 IPA: \di.sɛt\
-Definition: siebzehn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Seventeen
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La ville brûla pendant *dix-sept* jours.
-  Die Stadt brannte *siebzehn* Tage lang.
+  The city burned for *seventeen* days.
 
   Il aura bientôt *dix-sept* ans.
-  Er wird bald *siebzehn* Jahre alt.
+  He'll be *seventeen* years old soon.
 
   La ligne de bus *dix-sept* passe toutes les dix minutes.
-  Die Buslinie *siebzehn* fährt alle zehn Minuten.
+  The bus line *seventeen* runs every ten minutes.
 
   "J'ai eu *dix-sept* sur vingt en maths !"
-  "Ich habe in Mathe eine *Eins* geschrieben!"
+  "I wrote *one* in math!"
 
   Le roi *Louis dix-sept* n'a jamais régné.
-  *Ludwig der Siebzehnte* hat nie regiert.
+  *Louis the Seventeenth* never ruled.
 
   Nous nous retrouverons le *dix-sept* mars.
-  Wir treffen uns am *siebzehnten* März.
+  Meet me on the *seventeenth* of March.
 
   Il est déjà *dix-sept* heures, je dois partir.
-  Es ist schon *siebzehn* Uhr, ich muss los.
+  It's already *seventeen* o'clock, I have to go.
 
   Marie est arrivée *dix-sept*ième à la course.
-  Marie ist als *Siebzehn*te beim Rennen angekommen.
+  Marie arrived at the race as seventeenth.
 
   Tournez à la page *dix-sept* de votre livre.
-  Schlagen Sie Seite *siebzehn* in Ihrem Buch auf.
+  Open page *seventeen* in your book.
 
   Le patient de la chambre *dix-sept* est sorti ce matin.
-  Der Patient aus Zimmer *siebzehn* wurde heute Morgen entlassen.
+  The patient from room *seventeen* was released this morning.
 
   *Dix-sept* personnes ont participé à la réunion.
-  *Siebzehn* Personen haben an der Sitzung teilgenommen.
+  *Seventeen* people attended the meeting.
 
   Cette personne de *dix-sept* ans cherche un stage.
-  Diese *Siebzehn*jährige sucht ein Praktikum.
+  This *seventeen*-year-old is looking for an internship.
 
   Nous habitons au numéro *dix-sept*.
-  Wir wohnen in Hausnummer *siebzehn*.
+  We live in number *seventeen*.
 
   Le chapitre *dix-sept* traite de la Révolution française.
-  Kapitel *siebzehn* handelt von der Französischen Revolution.
+  Chapter *seventeen* deals with the French Revolution.
 
   Elle a attendu pendant une période de *dix-sept* ans.
-  Sie hat einen Zeitraum von *siebzehn* Jahren gewartet.
+  She's been waiting for a period of *seventeen* years.
 
   Neuf plus huit font *dix-sept*.
-  Neun plus acht macht *siebzehn*.
+  Nine plus eight makes *seventeen*.
 
   Le point *dix-sept* de l'ordre du jour concerne le budget.
-  Punkt *siebzehn* der Tagesordnung betrifft das Budget.
+  Point *seventeen* of the agenda concerns the budget.
 
   *Dix-sept* euros, c'est trop cher pour ce livre.
-  *Siebzehn* Euro sind zu teuer für dieses Buch.
+  *Seventeen* euros are too expensive for this book.
 
   Son fils a maintenant *dix-sept* ans.
-  Ihr Sohn ist jetzt *siebzehn* Jahre alt.
+  Her son is now *seventeen* years old.
 
   Le numéro *dix-sept* est mon porte-bonheur.
-  Die *Siebzehn* ist meine Glückszahl.
+  *Seventeen* is my lucky number.
 
   L'article *dix-sept* définit les droits des citoyens.
-  Artikel *siebzehn* definiert die Bürgerrechte.
+  Article *seventeen* defines civil rights.
 
   *Dix-sept* mille personnes ont assisté au concert.
-  *Siebzehn*tausend Menschen haben das Konzert besucht.
+  *Seventeen* thousand people attended the concert.
 
   Le rendez-vous est fixé à *dix-sept* heures trente.
-  Der Termin ist für *siebzehn* Uhr dreißig angesetzt.
+  The appointment is scheduled for *seventeen* thirty.
 
   *Dix-sept* s'écrit en chiffres romains : XVII.
-  *Siebzehn* schreibt man in römischen Ziffern: XVII.
+  *Seventeen* are written in Roman numerals: XVII.
 
   Nous sommes le *dix-sept* du mois.
-  Wir haben den *Siebzehnten* des Monats.
+  We have the *seventeenth* of the month.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

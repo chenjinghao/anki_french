@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3203
 Wort: chèque
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chèque
 Femininum / Plural: ''
 IPA: \ʃɛk\
-Definition: Scheck, Gutschein
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Check, voucher
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous réglerons par *chèque* en fin de mois de livraison.
-  Wir werden am Ende des Liefermonats per *Scheck* bezahlen.
+  We will pay by *check* at the end of the delivery month.
 
   J'ai déposé le *chèque* à la banque ce matin.
-  Ich habe den *Scheck* heute Morgen bei der Bank eingereicht.
+  I submitted the *check* to the bank this morning.
 
   Le *chèque* a été retourné faute de provision suffisante.
-  Der *Scheck* wurde wegen mangelnder Deckung zurückgeschickt.
+  The *check* was sent back for lack of cover.
 
   Pierre a reçu un *chèque-cadeau* pour son anniversaire.
-  Pierre hat einen *Geschenkgutschein* zum Geburtstag bekommen.
+  Pierre got a birthday gift certificate.
 
   Elle a soigneusement rempli son carnet de *chèques*.
-  Sie hat ihr *Scheck*heft sorgfältig ausgefüllt.
+  She filled out her checkbook carefully.
 
   "Tu peux me faire un *chèque* de 500 euros ?"
-  "Kannst du mir einen *Scheck* über 500 Euro ausstellen?"
+  "Can you write me a *check* for 500 euros?"
 
   Les *chèques* doivent être signés au dos avant d'être déposés.
-  Die *Schecks* müssen vor der Einreichung auf der Rückseite unterschrieben werden.
+  The *cheques* must be signed on the back before filing.
 
   Mon *chèque* de salaire arrive toujours le 5 du mois.
-  Mein Gehalts*scheck* kommt immer am 5. des Monats.
+  My paycheck always comes on the 5th of the month.
 
   Elle préfère payer par carte plutôt que par *chèque*.
-  Sie zahlt lieber mit Karte als mit *Scheck*.
+  She prefers to pay with a card rather than with a *check*.
 
   Le restaurant accepte les *chèques-restaurant*.
-  Das Restaurant akzeptiert *Essensgutscheine*.
+  The restaurant accepts *food vouchers*.
 
   Nous n'acceptons plus les *chèques* étrangers.
-  Wir akzeptieren keine ausländischen *Schecks* mehr.
+  We no longer accept foreign *cheques*.
 
   Marie a endossé le *chèque* avant de le donner à Paul.
-  Marie hat den *Scheck* indossiert, bevor sie ihn Paul gab.
+  Marie took the *check* before she gave it to Paul.
 
   Les *chèques* de voyage sont pratiques pour les vacances à l'étranger.
-  Reise*schecks* sind praktisch für den Urlaub im Ausland.
+  Travel checks are practical for holidays abroad.
 
   Le magasin refuse les *chèques* sans pièce d'identité.
-  Das Geschäft lehnt *Schecks* ohne Ausweisdokument ab.
+  The store refuses checks without ID.
 
   J'ai reçu un *chèque* barré de la compagnie d'assurance.
-  Ich habe einen gekreuzten *Scheck* von der Versicherung erhalten.
+  I got a crossed *check* from the insurance company.
 
   Les *chèques* postaux sont traités différemment des *chèques* bancaires.
-  Post*schecks* werden anders bearbeitet als Bank*schecks*.
+  Postchecks are handled differently than bankchecks.
 
   Son *chèque* a été refusé par la banque.
-  Sein *Scheck* wurde von der Bank abgelehnt.
+  His *check* was rejected by the bank.
 
   Elle m'a fait un *chèque* en blanc - quelle confiance !
-  Sie hat mir einen Blanko*scheck* ausgestellt - welch ein Vertrauen!
+  She gave me a blank check - what a trust!
 
   Le *chèque* est libellé à l'ordre de Martin Dupont.
-  Der *Scheck* ist auf Martin Dupont ausgestellt.
+  The *check* is on Martin Dupont.
 
   Tous les employés reçoivent des *chèques*-cadeau pour Noël.
-  Alle Mitarbeiter erhalten zu Weihnachten *Geschenkgutscheine*.
+  All employees receive *gift vouchers* for Christmas.
 
   La banque a mis en opposition ce *chèque* volé.
-  Die Bank hat diesen gestohlenen *Scheck* gesperrt.
+  The bank blocked this stolen *check*.
 
   Je dois encore encaisser ce *chèque* avant la fin du mois.
-  Ich muss diesen *Scheck* noch vor Monatsende einlösen.
+  I have to cash this *check* before the end of the month.
 
   Elle paie sa femme de ménage avec des *chèques* emploi service.
-  Sie bezahlt ihre Haushaltshilfe mit Haushalts*schecks*.
+  She's paying her house help with housekeeping checks.
 
   Les commerçants préfèrent les *chèques* certifiés.
-  Händler bevorzugen bestätigte *Schecks*.
+  Dealers prefer confirmed checks.
 
   Tu peux libeller le *chèque* à mon nom.
-  Du kannst den *Scheck* auf meinen Namen ausstellen.
+  You can put the *check* on my name.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

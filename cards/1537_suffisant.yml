@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1537
 Wort: suffisant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: suffisant
 Femininum / Plural: suffisante
 IPA: \sy.fi.zɑ̃\
-Definition: ausreichend; selbstgefällig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Sufficient; complacent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette motivation n'est toutefois pas *suffisante*.
-  Diese Motivation ist jedoch nicht *ausreichend*.
+  However, this motivation is not *sufficient*.
 
   La somme de 100 euros sera *suffisante* pour les frais.
-  Die Summe von 100 Euro wird für die Kosten *ausreichen*.
+  The sum of 100 euros will be *sufficient* for the costs.
 
   Il faut laisser une distance *suffisante* entre les plants de tomates.
-  Man muss einen *ausreichenden* Abstand zwischen den Tomatenpflanzen lassen.
+  You have to leave a *sufficient* distance between the tomato plants.
 
   Son salaire n'est pas *suffisant* pour nourrir sa famille.
-  Sein Gehalt ist nicht *ausreichend*, um seine Familie zu ernähren.
+  His salary is not enough to feed his family.
 
   Il m'a répondu d'un ton *suffisant*.
-  Er antwortete mir in einem *selbstgefälligen* Ton.
+  He answered me in a *complacent* tone.
 
   Les preuves sont-elles *suffisantes* pour le condamner ?
-  Sind die Beweise *ausreichend*, um ihn zu verurteilen?
+  Are the evidence enough to condemn him?
 
   Cette jeune femme *suffisante* ne parle que d'elle-même.
-  Diese *selbstgefällige* junge Frau spricht nur von sich selbst.
+  This *complacent* young woman speaks only of herself.
 
   Avez-vous une expérience *suffisante* dans ce domaine ?
-  Haben Sie *ausreichend* Erfahrung in diesem Bereich?
+  Do you have *sufficient* experience in this area?
 
   Le temps n'a pas été *suffisant* pour finir le projet.
-  Die Zeit war nicht *ausreichend*, um das Projekt abzuschließen.
+  The time was not enough to complete the project.
 
   "Arrête de faire le *suffisant* !"
-  "Hör auf, dich so *wichtig* zu tun!"
+  "Stop doing yourself so *important*!"
 
   Une seule goutte sera *suffisante* pour parfumer le plat.
-  Ein einziger Tropfen wird *ausreichen*, um das Gericht zu würzen.
+  A single drop will be enough to season the dish.
 
   Cette explication n'est pas *suffisante*.
-  Diese Erklärung ist nicht *ausreichend*.
+  This explanation is not *sufficient*.
 
   Il adopte toujours cet air *suffisant* qui agace tout le monde.
-  Er nimmt immer diese *selbstgefällige* Miene an, die alle nervt.
+  He always takes on that smug face that bugs everyone.
 
   La lumière est-elle *suffisante* pour lire ?
-  Ist das Licht zum Lesen *ausreichend*?
+  Is the light *sufficient* for reading?
 
   Ses notes ne sont pas *suffisantes* pour entrer à l'université.
-  Seine Noten sind nicht *ausreichend* für die Aufnahme an der Universität.
+  His grades are not *sufficient* for admission to the university.
 
   La ventilation n'est pas *suffisante* dans cette salle.
-  Die Belüftung in diesem Raum ist nicht *ausreichend*.
+  The ventilation in this room is not *sufficient*.
 
   Son attitude *suffisante* lui a fait perdre beaucoup d'amis.
-  Seine *selbstgefällige* Haltung hat ihn viele Freunde gekostet.
+  His *complacent* attitude has cost him a lot of friends.
 
   Ces mesures seront *suffisantes* pour garantir la sécurité.
-  Diese Maßnahmen werden *ausreichen*, um die Sicherheit zu gewährleisten.
+  These measures will be *sufficient* to ensure safety.
 
   Une formation de base est *suffisante* pour ce poste.
-  Eine grundlegende Ausbildung ist für diese Stelle *ausreichend*.
+  Basic training is *sufficient* for this job.
 
   Il m'a jeté un regard *suffisant*.
-  Er warf mir einen *selbstgefälligen* Blick zu.
+  He gave me a *complacent* look.
 
   La qualité n'est pas *suffisante* pour le prix demandé.
-  Die Qualität ist für den verlangten Preis nicht *angemessen*.
+  The quality is not *appropriate* for the price required.
 
   As-tu une raison *suffisante* pour partir si tôt ?
-  Hast du einen *ausreichenden* Grund, so früh zu gehen?
+  Do you have a good reason to leave so early?
 
   Ces informations sont-elles *suffisantes* pour prendre une décision ?
-  Sind diese Informationen *ausreichend*, um eine Entscheidung zu treffen?
+  Is this information *sufficient* to make a decision?
 
   La hauteur sous plafond n'est pas *suffisante* dans cette pièce.
-  Die Deckenhöhe in diesem Raum ist nicht *ausreichend*.
+  The ceiling height in this room is not *sufficient*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

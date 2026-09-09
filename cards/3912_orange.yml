@@ -1,93 +1,93 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3912
 Wort: orange
 Wortart: nf, nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un/une orange
 Femininum / Plural: ''
 IPA: \o.ʁɑ̃ʒ\
-Definition: |-
+Definition: -
   <span class="disamb">un: </span>Orange [Farbe]<br>
   <span class="disamb">une: </span>Orange [Frucht]
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils cultivent des *oranges*.
-  Sie bauen *Orangen* an.
+  They grow *oranges*.
 
   J'ai pressé trois *oranges* pour faire ce jus frais.
-  Ich habe drei *Orangen* für diesen frischen Saft ausgepresst.
+  I squeezed three *oranges* for that fresh juice.
 
   La confiture d'*orange* est sa préférée.
-  *Orangen*marmelade ist seine Lieblingsmarmelade.
+  Orange jam is his favorite jam.
 
   Cette *orange* sanguine a une belle couleur rouge.
-  Diese Blut*orange* hat eine schöne rote Farbe.
+  This blood *orange* has a nice red color.
 
   Elle a commandé une glace à l'*orange*.
-  Sie hat *Orangen*eis bestellt.
+  She ordered orange ice.
 
   Le gâteau est parfumé à l'essence d'*orange* amère.
-  Der Kuchen ist mit Bitter*orangen*extrakt aromatisiert.
+  The cake is flavoured with bitter *orange* extract.
 
   La robe *orange* de Marie est magnifique.
-  Maries *orangefarbenes* Kleid ist wunderschön.
+  Marie's *orange* dress is beautiful.
 
   Le soleil couchant brillait d'une lueur *orange*.
-  Die untergehende Sonne leuchtete in einem *orangen* Schimmer.
+  The setting sun shone in an *orange* shimmer.
 
   Le feu est passé à l'*orange*.
-  Die Ampel ist auf *Gelb* gesprungen.
+  The traffic light jumped on *yellow*.
 
   Il a traversé à l'*orange*, c'était dangereux.
-  Er ist bei *Gelb* über die Ampel gegangen, das war gefährlich.
+  He went over the traffic lights in *yellow*, that was dangerous.
 
   Les murs de sa chambre sont peints en *orange* vif.
-  Die Wände seines Zimmers sind in leuchtendem *Orange* gestrichen.
+  The walls of his room are painted in bright *orange*.
 
   Ces rubans *orange* décorent parfaitement le cadeau.
-  Diese *orangefarbenen* Bänder schmücken das Geschenk perfekt.
+  These *orange* ribbons decorate the gift perfectly.
 
   Le vendeur m'a offert un quartier d'*orange*.
-  Der Verkäufer hat mir ein *Orangen*stück angeboten.
+  The salesman offered me an orange piece.
 
   Ces *oranges* de Valence sont particulièrement juteuses.
-  Diese Valencia-*Orangen* sind besonders saftig.
+  These Valencia *oranges* are particularly juicy.
 
   L'écorce d'*orange* confite parfume ce gâteau de Noël.
-  Die kandierte *Orangen*schale gibt diesem Weihnachtskuchen sein Aroma.
+  The candied orange peel gives this Christmas cake its aroma.
 
   Le canard à l'*orange* est une spécialité française.
-  Ente mit *Orange* ist eine französische Spezialität.
+  Duck with *orange* is a French specialty.
 
   "*On presse l'*orange* et on jette l'écorce*", dit-il amèrement.
-  "*Man nutzt *einen* aus und wirft einen dann weg*", sagte er verbittert.
+  "You take advantage of one and then throw one away," he said bitterly.
 
   Ces *oranges* maltaises sont vraiment sucrées.
-  Diese Malta-*Orangen* sind wirklich süß.
+  These Malta *oranges* are really cute.
 
   Le zeste d'*orange* donne du goût à cette sauce.
-  Die *Orangen*schale gibt dieser Soße Geschmack.
+  The orange peel gives this sauce taste.
 
   Cette liqueur d'*orange* est excellente.
-  Dieser *Orangen*likör ist ausgezeichnet.
+  This orange liqueur is excellent.
 
   Elle a giflé son *orange* pressée d'un trait.
-  Sie hat ihre frisch gepresste *Orange* in einem Zug getrunken.
+  She drank her freshly squeezed *orange* on a train.
 
   Les *oranges* confites décorent la bûche de Noël.
-  Die kandierten *Orangen* verzieren den Weihnachtskuchen.
+  The candied *oranges* decorate the Christmas cake.
 
   La tarte à l'*orange* sent délicieusement bon.
-  Der *Orangen*kuchen duftet herrlich.
+  The orange cake smells wonderful.
 
   "Il a glissé sur une pelure d'*orange*" signifie qu'il a échoué pour une petite erreur.
-  "Er ist über eine *Orangen*schale gestolpert" bedeutet, dass er wegen eines kleinen Fehlers gescheitert ist.
+  "He stumbled over an orange peel" means he failed because of a small mistake.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

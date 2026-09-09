@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1082
 Wort: citer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: citer
 Femininum / Plural: ''
 IPA: \si.te\
-Definition: zitieren, anführen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: quote, quote, quote
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'aimerais *citer* quatre paragraphes.
-  Ich möchte vier Absätze *zitieren*.
+  I would like to quote four paragraphs.
 
   Elle a *cité* un vers de Victor Hugo pour illustrer son propos.
-  Sie hat einen Vers von Victor Hugo *zitiert*, um ihre Aussage zu verdeutlichen.
+  She *quoted* a verse by Victor Hugo to clarify her statement.
 
   Le professeur nous a demandé de *citer* nos sources.
-  Der Professor hat uns aufgefordert, unsere Quellen zu *nennen*.
+  The professor asked us to *name* our sources.
 
   Peux-tu *citer* trois exemples de ton expérience professionnelle ?
-  Kannst du drei Beispiele aus deiner Berufserfahrung *nennen*?
+  Can you give three examples from your professional experience?
 
   L'article *cité* ci-dessus contient des informations importantes.
-  Der oben *genannte* Artikel enthält wichtige Informationen.
+  *The* above article contains important information.
 
   Le témoin a été *cité* à comparaître devant le tribunal.
-  Der Zeuge wurde vor Gericht *vorgeladen*.
+  The witness was summoned to court.
 
   Dans son discours, il a *cité* les paroles exactes du président.
-  In seiner Rede hat er die genauen Worte des Präsidenten *zitiert*.
+  In his speech he *quoted* the exact words of the President.
 
   Son nom est souvent *cité* dans les médias.
-  Sein Name wird in den Medien häufig *genannt*.
+  His name is often mentioned in the media.
 
   Je vais *citer* un passage de ce livre dans ma thèse.
-  Ich werde eine Stelle aus diesem Buch in meiner Dissertation *zitieren*.
+  I will quote a passage from this book in my dissertation.
 
   Les étudiants doivent *citer* leurs références bibliographiques.
-  Die Studenten müssen ihre bibliographischen Referenzen *angeben*.
+  Students must provide their bibliographic references.
 
   Elle a été *citée* en exemple pour son excellent travail.
-  Sie wurde für ihre hervorragende Arbeit *lobend erwähnt*.
+  She was praised for her excellent work.
 
   Le soldat a été *cité* à l'ordre de la division pour sa bravoure.
-  Der Soldat wurde für seine Tapferkeit im Tagesbefehl der Division *erwähnt*.
+  The soldier was *mentioned* for his bravery in the Division's daily order.
 
   Pourrais-tu *citer* les capitales européennes par ordre alphabétique ?
-  Könntest du die europäischen Hauptstädte alphabetisch *aufzählen*?
+  Could you *list* the European capitals alphabetically?
 
   L'auteur est beaucoup *cité* dans les revues scientifiques.
-  Der Autor wird in wissenschaftlichen Zeitschriften viel *zitiert*.
+  The author is *quoted* a lot in scientific journals.
 
   Il a *cité* la Bible pour appuyer son argument.
-  Er hat die Bibel *zitiert*, um sein Argument zu untermauern.
+  He has *quoted* the Bible to support his argument.
 
   Le philosophe est *cité* parmi les plus influents de son époque.
-  Der Philosoph wird zu den einflussreichsten seiner Zeit *gezählt*.
+  The philosopher is *counted* among the most influential of his time.
 
   Nous avons *cité* plusieurs témoins à la barre.
-  Wir haben mehrere Zeugen in den Zeugenstand *geladen*.
+  We have several witnesses on the stand.
 
   Cette phrase est souvent mal *citée*.
-  Dieser Satz wird oft falsch *zitiert*.
+  This sentence is often misquoted.
 
   L'article *cite* trois experts différents sur ce sujet.
-  Der Artikel *zitiert* drei verschiedene Experten zu diesem Thema.
+  The article quotes three different experts on this subject.
 
   Je dois *citer* mes sources dans les notes de bas de page.
-  Ich muss meine Quellen in den Fußnoten *angeben*.
+  I must state my sources in the footnotes.
 
   Le journaliste a *cité* les chiffres officiels du ministère.
-  Der Journalist hat die offiziellen Zahlen des Ministeriums *zitiert*.
+  The journalist *quoted* the official figures of the ministry.
 
   Son roman est rarement *cité* dans les anthologies.
-  Sein Roman wird in den Anthologien selten *erwähnt*.
+  His novel is rarely *mentioned* in the anthologies.
 
   Elle n'a pas *cité* son collègue dans ses remerciements.
-  Sie hat ihren Kollegen in ihrer Danksagung nicht *erwähnt*.
+  She didn't mention her colleague in her thanks.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

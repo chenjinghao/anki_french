@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1245
 Wort: île
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une île
 Femininum / Plural: ''
 IPA: \il\
-Definition: Insel
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Island
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est une *île* qui ne peut être trouvée.
-  Es ist eine *Insel*, die nicht gefunden werden kann.
+  It's an *island* that can't be found.
 
   Les touristes adorent faire du voyage d'*île* en *île* dans les Cyclades.
-  Die Touristen lieben das *Insel*hopping in den Kykladen.
+  Tourists love the *island* hopping in the Cyclades.
 
   Cette petite *île* rocheuse au large de la côte est inhabitée.
-  Diese kleine felsige *Insel* vor der Küste ist unbewohnt.
+  This small rocky *island* off the coast is uninhabited.
 
   Paul a vécu seul sur une *île* déserte pendant deux ans.
-  Paul hat zwei Jahre allein auf einer einsamen *Insel* gelebt.
+  Paul lived alone on a deserted *island* for two years.
 
   La température est toujours agréable sur cette *île* des mers du Sud.
-  Die Temperatur ist auf dieser Südsee*insel* immer angenehm.
+  The temperature on this South Sea *Island* is always pleasant.
 
   Un magnifique groupe d'*îles* forme cet archipel tropical.
-  Eine wunderschöne Gruppe von *Inseln* bildet dieses tropische Archipel.
+  A beautiful group of *islands* forms this tropical archipelago.
 
   Les *îles* Anglo-Normandes attirent beaucoup de visiteurs chaque été.
-  Die Anglo-Normannischen *Inseln* ziehen jeden Sommer viele Besucher an.
+  The Anglo-Norman *Islands* attract many visitors every summer.
 
   Mon dessert préféré est l'*île flottante* avec sa crème anglaise.
-  Meine Lieblingsnachspeise ist die *schwimmende Insel* mit ihrer Vanillesoße.
+  My favorite dessert is the *floating island* with its vanilla sauce.
 
   Cette *île* de glace dérive lentement vers le sud.
-  Diese Eis*insel* treibt langsam nach Süden.
+  This ice *island* is slowly moving south.
 
   Une équipe de scientifiques étudie la faune sur cette *île* escarpée.
-  Ein Team von Wissenschaftlern erforscht die Tierwelt auf dieser schroffen *Insel*.
+  A team of scientists is researching the wildlife on this rugged *island*.
 
   L'*île* de la Cité est le cœur historique de Paris.
-  Die *Insel* de la Cité ist das historische Herz von Paris.
+  The *island* of de la Cité is the historic heart of Paris.
 
   Les *îles* du golfe du Morbihan sont particulièrement belles au printemps.
-  Die *Inseln* im Golf von Morbihan sind besonders schön im Frühling.
+  The *islands* in the Gulf of Morbihan are particularly beautiful in spring.
 
   On appelle la Corse l'*île* de Beauté.
-  Korsika wird die *Insel* der Schönheit genannt.
+  Corsica is called the *island* of beauty.
 
   Cette *île* inabordable n'a jamais été explorée.
-  Diese unzugängliche *Insel* wurde nie erforscht.
+  This inaccessible *island* has never been explored.
 
   Un chapelet d'*îles* s'étend le long de la côte.
-  Eine Kette von *Inseln* erstreckt sich entlang der Küste.
+  A chain of *islands* stretches along the coast.
 
   L'*île* de Ré est reliée au continent par un pont.
-  Die *Insel* Ré ist durch eine Brücke mit dem Festland verbunden.
+  The *island* of Ré is connected to the mainland by a bridge.
 
   Les *îles* Britanniques comprennent la Grande-Bretagne et l'Irlande.
-  Zu den Britischen *Inseln* gehören Großbritannien und Irland.
+  The British Isles include Great Britain and Ireland.
 
   Cette *île* de forage extrait du pétrole depuis vingt ans.
-  Diese Bohr*insel* fördert seit zwanzig Jahren Öl.
+  This drilling rig has been producing oil for twenty years.
 
   Un petit *îlot* rocheux émerge des eaux turquoise.
-  Eine kleine felsige *Insel* ragt aus dem türkisfarbenen Wasser.
+  A small rocky *island* stands out from the turquoise water.
 
   Les chercheurs ont installé leur station sur cette *île* de glace.
-  Die Forscher haben ihre Station auf dieser Eis*insel* eingerichtet.
+  The researchers have set up their station on this ice *island*.
 
   J'aimerais vivre sur une *île* tropicale toute l'année.
-  Ich würde gerne das ganze Jahr über auf einer tropischen *Insel* leben.
+  I'd like to live on a tropical *island* all year round.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

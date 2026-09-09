@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2256
 Wort: cancer
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le cancer
 Femininum / Plural: ''
 IPA: \kɑ̃.sɛʁ\
-Definition: Krebs
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cancer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'apparition de certains *cancers* peut être affectée par le mode de vie.
-  Das Auftreten bestimmter *Krebs*erkrankungen kann durch den Lebensstil beeinflusst werden.
+  The occurrence of certain cancers can be influenced by the lifestyle.
 
   Mon père a un *cancer* du poumon au stade avancé.
-  Mein Vater hat *Krebs* im fortgeschrittenen Stadium.
+  My father has advanced *cancer*.
 
   La corruption est le *cancer* de notre société.
-  Die Korruption ist der *Krebs* unserer Gesellschaft.
+  Corruption is the *cancer* of our society.
 
   Je suis née sous le signe du *Cancer*.
-  Ich bin im Sternzeichen *Krebs* geboren.
+  I was born in the sign of *Cancer*.
 
   Les médecins ont diagnostiqué un *cancer* du sein chez ma tante.
-  Die Ärzte haben bei meiner Tante Brust*krebs* diagnostiziert.
+  The doctors diagnosed my aunt with breast *cancer*.
 
   Le *cancer* du sang est une forme particulièrement agressive de la maladie.
-  Blut*krebs* ist eine besonders aggressive Form der Krankheit.
+  Blood *cancer* is a particularly aggressive form of the disease.
 
   Le *cancer* généralisé s'est propagé dans tout son corps.
-  Der *Krebs* hat in seinem ganzen Körper Metastasen gebildet.
+  The *cancer* has formed metastases throughout his body.
 
   Le navire a traversé le *tropique du Cancer*.
-  Das Schiff überquerte den *nördlichen Wendekreis*.
+  The ship crossed the *northern turning circle*.
 
   Le *cancer* de la vessie a été détecté à un stade précoce.
-  Der Blasen*krebs* wurde in einem frühen Stadium entdeckt.
+  The bladder *cancer* was discovered at an early stage.
 
   Le *cancer* de l'utérus peut être prévenu par des examens réguliers.
-  Gebärmutter*krebs* kann durch regelmäßige Untersuchungen vorgebeugt werden.
+  The uterine *cancer* can be prevented by regular examinations.
 
   Sa mère lutte contre un *cancer* de la gorge depuis deux ans.
-  Seine Mutter kämpft seit zwei Jahren gegen Kehl*krebs*.
+  His mother has been fighting throat *cancer* for two years.
 
   Le *cancer* du foie peut être causé par différents facteurs.
-  Leber*krebs* kann durch verschiedene Faktoren verursacht werden.
+  Liver *cancer* can be caused by various factors.
 
   Les experts considèrent le chômage comme le *cancer* économique de notre époque.
-  Die Experten sehen die Arbeitslosigkeit als wirtschaftlichen *Krebs*schaden unserer Zeit.
+  The experts see unemployment as the economic damage to *cancer* of our time.
 
   Un nouveau traitement contre le *cancer* de l'estomac a été développé.
-  Eine neue Behandlung gegen Magen*krebs* wurde entwickelt.
+  A new treatment for stomach *cancer* has been developed.
 
   Le *cancer* de la langue nécessite souvent une intervention chirurgicale.
-  Zungen*krebs* erfordert oft einen chirurgischen Eingriff.
+  Tongue *cancer* often requires surgery.
 
   La toxicomanie est devenue le *cancer* de notre quartier.
-  Die Drogensucht ist zum *Krebs*geschwür unseres Viertels geworden.
+  Drug addiction has become the *cancer* of our neighborhood.
 
   Les spécialistes étudient pourquoi certains *cancers* sont plus fréquents dans certaines régions.
-  Die Spezialisten untersuchen, warum bestimmte *Krebs*arten in manchen Regionen häufiger auftreten.
+  Specialists are investigating why certain types of *cancer* occur more frequently in some regions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

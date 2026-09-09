@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3786
 Wort: rationnel
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rationnel
 Femininum / Plural: rationnelle
 IPA: \ʁa.sjɔ.nɛl\
-Definition: vernünftig, rational
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Reasonable, rational
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a une explication *rationnelle* à tout cela.
-  Es gibt eine *rationale* Erklärung für all das.
+  There's a *rational* explanation for all this.
 
   Pour comprendre les mathématiques, il faut avoir un esprit *rationnel*.
-  Um Mathematik zu verstehen, braucht man einen *rationalen* Geist.
+  To understand mathematics, you need a *rational* mind.
 
   Cette méthode n'est pas assez *rationnelle* pour résoudre le problème.
-  Diese Methode ist nicht *zweckmäßig* genug, um das Problem zu lösen.
+  This method is not *appropriate* enough to solve the problem.
 
   Les nombres *rationnels* peuvent être représentés sous forme de fractions.
-  *Rationale* Zahlen können als Brüche dargestellt werden.
+  *Rational* numbers can be presented as breaks.
 
   Son approche très *rationnelle* de la situation nous a tous impressionnés.
-  Sein sehr *vernünftiger* Umgang mit der Situation hat uns alle beeindruckt.
+  His very reasonable handling of the situation impressed us all.
 
   Marie a toujours été une personne *rationnelle* dans ses décisions.
-  Marie war in ihren Entscheidungen immer eine *vernunftgesteuerte* Person.
+  Marie was always a rational person in her decisions.
 
   L'organisation *rationnelle* du travail permet d'économiser du temps.
-  Die *rationelle* Arbeitsorganisation spart Zeit.
+  The *rational* organization of work saves time.
 
   Une alimentation *rationnelle* est importante pour la santé.
-  Eine *vernünftige* Ernährung ist wichtig für die Gesundheit.
+  A sensible diet is important for health.
 
   Le professeur nous a expliqué la différence entre un nombre *rationnel* et irrationnel.
-  Der Lehrer hat uns den Unterschied zwischen einer *rationalen* und einer irrationalen Zahl erklärt.
+  The teacher has explained the difference between a *rational* and an irrational number.
 
   La pensée *rationnelle* s'oppose souvent aux émotions.
-  Das *rationale* Denken steht oft im Gegensatz zu den Gefühlen.
+  *Rational* thinking often stands in contrast to feelings.
 
   Cette entreprise a besoin d'une gestion plus *rationnelle*.
-  Dieses Unternehmen braucht eine *rationellere* Verwaltung.
+  This company needs a *more rational* management.
 
   Il cherche toujours une solution *rationnelle* à ses problèmes.
-  Er sucht immer nach einer *vernünftigen* Lösung für seine Probleme.
+  He is always looking for a reasonable solution to his problems.
 
   Les scientifiques ont une approche *rationnelle* de la recherche.
-  Wissenschaftler haben einen *rationalen* Forschungsansatz.
+  Scientists have a *rational* approach to research.
 
   Le *rationnel* et l'émotionnel doivent être en équilibre.
-  Das *Rationale* und das Emotionale müssen im Gleichgewicht sein.
+  The *rational* and emotional must be in balance.
 
   Sa réaction n'était pas très *rationnelle* dans cette situation.
-  Seine Reaktion war in dieser Situation nicht sehr *rational*.
+  His reaction in this situation was not very *rational*.
 
   Un choix *rationnel* doit être basé sur des faits concrets.
-  Eine *rationale* Entscheidung muss auf konkreten Fakten basieren.
+  A *rational* decision must be based on concrete facts.
 
   La fraction 3/4 est un nombre *rationnel*.
-  Der Bruch 3/4 ist eine *rationale* Zahl.
+  Break 3/4 is a *rational* number.
 
   Cette explication semble plus *rationnelle* que la précédente.
-  Diese Erklärung erscheint *vernünftiger* als die vorherige.
+  This statement appears to be more reasonable than the previous one.
 
   Un esprit *rationnel* ne peut pas accepter ces superstitions.
-  Ein *rationaler* Geist kann diese Aberglaube nicht akzeptieren.
+  A *rational* mind cannot accept this superstition.
 
   La philosophie *rationnelle* domine sa pensée.
-  Die *rationale* Philosophie dominiert sein Denken.
+  The *rational* philosophy dominates his thinking.
 
   L'aménagement *rationnel* de l'espace facilite le travail.
-  Die *rationelle* Raumgestaltung erleichtert die Arbeit.
+  The *rational* design of the room facilitates the work.
 
   Une analyse *rationnelle* de la situation s'impose.
-  Eine *rationale* Analyse der Situation ist erforderlich.
+  A *rational* analysis of the situation is required.
 
   Le développement *rationnel* des ressources est crucial.
-  Die *rationelle* Entwicklung der Ressourcen ist entscheidend.
+  The *rational* development of resources is crucial.
 
   Cette hypothèse n'est pas *rationnelle* du tout.
-  Diese Hypothese ist überhaupt nicht *rational*.
+  This hypothesis is not at all *rational*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

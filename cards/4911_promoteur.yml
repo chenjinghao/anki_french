@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4911
 Wort: promoteur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le promoteur
 Femininum / Plural: promotrice
 IPA: \pʁɔ.mɔ.tœʁ\
-Definition: Baufirma; Initiator
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Construction firm; initiator
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *promoteurs* croient que les salles seront remplies.
-  Die *Bauunternehmer* glauben, dass die Räume voll sein werden.
+  The *contractors* believe that the rooms will be full.
 
   Le *promoteur* immobilier a déjà construit trois résidences dans ce quartier.
-  Die Bau*firma* hat bereits drei Wohnanlagen in diesem Viertel gebaut.
+  The construction *company* has already built three residential complexes in this district.
 
   Cette société *promotrice* a obtenu tous les permis nécessaires.
-  Diese *Bau*firma hat alle erforderlichen Genehmigungen erhalten.
+  This *construction* company has received all necessary permits.
 
   Marie Curie était la *promotrice* des recherches sur la radioactivité.
-  Marie Curie war die *Initiatorin* der Radioaktivitätsforschung.
+  Marie Curie was the *initiator* of radioactivity research.
 
   Le *promoteur* de cette réforme a rencontré beaucoup de résistance.
-  Der *Initiator* dieser Reform ist auf viel Widerstand gestoßen.
+  The *initiator* of this reform has encountered a great deal of resistance.
 
   La *promotrice* du projet a présenté son idée au conseil d'administration.
-  Die *Urheberin* des Projekts hat ihre Idee dem Vorstand vorgestellt.
+  The *author* of the project presented her idea to the board.
 
   Les *promoteurs* du complot ont été arrêtés hier soir.
-  Die *Anstifter* der Verschwörung wurden gestern Abend verhaftet.
+  The instigators of the conspiracy were arrested last night.
 
   Notre *promoteur* nous a promis que l'immeuble serait livré dans les délais.
-  Unsere *Baufirma* hat uns versprochen, dass das Gebäude pünktlich fertig wird.
+  Our *construction company* promised us that the building would be ready on time.
 
   Elle est devenue *promotrice* immobilière après ses études d'architecture.
-  Sie wurde nach ihrem Architekturstudium Bau*unternehmerin*.
+  She became a contractor after her architectural studies.
 
   Les *promoteurs* immobiliers doivent respecter de nouvelles normes environnementales.
-  Die Bau*träger* müssen neue Umweltstandards einhalten.
+  The developers must comply with new environmental standards.
 
   Cette entreprise *promotrice* s'est spécialisée dans les logements écologiques.
-  Diese *Bau*firma hat sich auf ökologisches Wohnen spezialisiert.
+  This *construction* company specializes in ecological living.
 
   Le *promoteur* a dû modifier ses plans suite aux protestations des riverains.
-  Der *Bauträger* musste seine Pläne nach Protesten der Anwohner ändern.
+  The builder had to change his plans after protests from the residents.
 
   Victor Hugo fut un ardent *promoteur* du romantisme en France.
-  Victor Hugo war ein leidenschaftlicher *Förderer* der Romantik in Frankreich.
+  Victor Hugo was a passionate promoter of romance in France.
 
   La *promotrice* de cette initiative a reçu de nombreux soutiens.
-  Die *Initiatorin* dieser Initiative hat viel Unterstützung erhalten.
+  The *initiator* of this initiative has received a lot of support.
 
   Les *promoteurs* de cette loi ont finalement réussi à la faire adopter.
-  Die *Urheber* dieses Gesetzes haben es schließlich geschafft, es verabschieden zu lassen.
+  The *authors* of this law finally managed to get it passed.
 
   Cette société *promotrice* investit principalement dans les centres commerciaux.
-  Diese *Bau*firma investiert hauptsächlich in Einkaufszentren.
+  This *construction* company invests mainly in shopping malls.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,87 +1,87 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3044
 Wort: édifice
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un édifice
 Femininum / Plural: ''
 IPA: \e.di.fis\
-Definition: Gebäude, Bauwerk
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Buildings, structures
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un *édifice* s'élève pierre à pierre.
-  Ein *Gebäude* entsteht Stein für Stein.
+  A building is created stone for stone.
 
   La mairie est un *édifice* public imposant au centre-ville.
-  Das Rathaus ist ein beeindruckendes öffentliches *Gebäude* im Stadtzentrum.
+  The town hall is an impressive public building in the city centre.
 
   L'architecte a conçu un *édifice* central pour le nouveau complexe universitaire.
-  Der Architekt hat einen zentralen *Bau* für den neuen Universitätskomplex entworfen.
+  The architect has designed a central building for the new university complex.
 
   Le palais royal est un *édifice* pompeux datant du XVIII<sup>e</sup> siècle.
-  Der Königspalast ist ein Prunk*bau* aus dem 18. Jahrhundert.
+  The Royal Palace is an 18th century mansion.
 
   Ce temple grec antique est un magnifique *édifice* à colonnes.
-  Dieser antike griechische Tempel ist ein prächtiger Säulen*bau*.
+  This ancient Greek temple is a magnificent pillar structure.
 
   La cathédrale est le plus grand *édifice* sacré de la ville.
-  Die Kathedrale ist das größte Sakral*gebäude* der Stadt.
+  The cathedral is the largest sacred building in the city.
 
   Le gouvernement travaille à renforcer l'*édifice* social du pays.
-  Die Regierung arbeitet daran, das soziale *Gefüge* des Landes zu stärken.
+  The government is working to strengthen the social fabric of the country.
 
   Les pompiers ont évacué tous les occupants de l'*édifice* en feu.
-  Die Feuerwehr hat alle Bewohner des brennenden *Gebäudes* evakuiert.
+  The fire department evacuated all the residents of the burning *building*.
 
   "Chacun doit apporter sa pierre à l'*édifice*", a déclaré le maire lors de son discours.
-  "Jeder muss seinen Beitrag zum *Aufbau* leisten", erklärte der Bürgermeister in seiner Rede.
+  "Everyone has to make a contribution to building," the mayor said in his speech.
 
   L'*édifice* de leur mariage s'est effondré après vingt ans de vie commune.
-  Das *Gebäude* ihrer Ehe ist nach zwanzig Jahren Zusammenleben eingestürzt.
+  The building of their marriage collapsed after twenty years of living together.
 
   Les archéologues ont découvert les ruines d'un ancien *édifice* romain.
-  Die Archäologen haben die Ruinen eines alten römischen *Bauwerks* entdeckt.
+  Archaeologists have discovered the ruins of an ancient Roman structure.
 
   Le nouveau gratte-ciel est l'*édifice* le plus haut de la skyline.
-  Der neue Wolkenkratzer ist das höchste *Gebäude* in der Skyline.
+  The new skyscraper is the tallest building in the skyline.
 
   La restauration de cet *édifice* historique prendra plusieurs années.
-  Die Restaurierung dieses historischen *Bauwerks* wird mehrere Jahre dauern.
+  The restoration of this historic building will take several years.
 
   Les touristes admiraient l'*édifice* couronné d'une magnifique coupole dorée.
-  Die Touristen bewunderten das *Gebäude*, das von einer prächtigen goldenen Kuppel gekrönt war.
+  The tourists admired the building, which was crowned by a magnificent golden dome.
 
   Cet *édifice* du culte accueille des fidèles de toutes confessions.
-  Dieses Gottes*haus* empfängt Gläubige aller Konfessionen.
+  This church receives believers of all denominations.
 
   La corruption menace de faire s'écrouler tout l'*édifice* démocratique.
-  Die Korruption droht, das ganze demokratische *Gebäude* zum Einsturz zu bringen.
+  Corruption threatens to bring the whole democratic building to collapse.
 
   Les cheveux savamment coiffés formaient un *édifice* impressionnant sur sa tête.
-  Die kunstvoll frisierten Haare bildeten einen beeindruckenden *Aufbau* auf ihrem Kopf.
+  The artfully haired hair formed an impressive *structure* on her head.
 
   Le Parlement européen est un *édifice* moderne situé à Strasbourg.
-  Das Europäische Parlament ist ein modernes *Gebäude* in Straßburg.
+  The European Parliament is a modern building in Strasbourg.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>édifice</i> und <i>bâtiment</i></div>
+    <div class="section-title"><i>édifice</i> and <i>bâtiment</i></div>
     <div class="section-content">
-      <p><b>Édifice</b> wird häufig speziell für große, imposante Gebäude oder Strukturen verwendet, insbesondere für solche, die als architektonisch bedeutend oder monumental gelten. Der Begriff vermittelt ein Gefühl von Erhabenheit und kann auf religiöse, öffentliche oder historische Gebäude angewandt werden. <span class="fr">Bâtiment</span> (#1952) ist hingegen allgemeiner.</p>
+      <p><b>Édifice</b> is often used specifically for large, imposing buildings or structures, especially for those considered to be architecturally significant or monumental. The term conveys a sense of grandeur and can be applied to religious, public or historical buildings. <span class="fr">Bâtiment</span> (#1952) is more general.</p>
       <div class="examples">
         <div class="fr">La cathédrale Notre-Dame de Paris est un édifice magnifique.</div>
-        <div class="de spoiler">Die Kathedrale Notre-Dame in Paris ist ein prächtiges Gebäude.</div>
+        <div class="de spoiler">Notre-Dame Cathedral in Paris is a magnificent building.</div>
         <div class="fr">Le nouveau bâtiment de bureaux sera construit l'année prochaine.</div>
-        <div class="de spoiler">Das neue Bürogebäude wird nächstes Jahr gebaut werden.</div>
+        <div class="de spoiler">The new office building will be built next year.</div>
       </div>
     </div>
   </div>

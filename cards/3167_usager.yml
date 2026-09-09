@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3167
 Wort: usager
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un usager
 Femininum / Plural: usagère
 IPA: \usagie y.za.ʒe\
-Definition: Benutzer, Kunde
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: User, customer
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*usager* modifie les paramètres de renvoi d'appel.
-  Der *Benutzer* ändert die Einstellungen für die Rufweiterleitung.
+  The user changes the call forwarding settings.
 
   Les *usagers* du métro parisien font la grève des tickets.
-  Die *Benutzer* der Pariser Metro streiken gegen die Fahrscheine.
+  The Paris Metro *users* are on strike against the tickets.
 
   En tant qu'*usagère* de cette bibliothèque depuis vingt ans, je connais bien le système de prêt.
-  Als langjährige *Benutzerin* dieser Bibliothek kenne ich das Ausleihsystem gut.
+  As a longtime *user* of this library, I know the lending system well.
 
   Les *usagers* de la route doivent respecter le code de la route.
-  Die Verkehrs*teilnehmer* müssen die Straßenverkehrsordnung beachten.
+  Road users must comply with the road rules.
 
   Notre entreprise compte plus de mille *usagers* d'électricité.
-  Unser Unternehmen hat über tausend Strom*kunden*.
+  Our company has over a thousand electricity *customers*.
 
   Les *usagers* des chemins de fer demandent plus de trains le weekend.
-  Die Bahn*kunden* fordern mehr Züge am Wochenende.
+  Train *customers* are demanding more trains on weekends.
 
   L'*usagère* a signalé un problème technique sur le site web.
-  Die *Benutzerin* hat ein technisches Problem auf der Website gemeldet.
+  The *user* has reported a technical problem on the website.
 
   Les droits des *usagers* sont protégés par la loi.
-  Die Rechte der *Benutzer* sind gesetzlich geschützt.
+  The rights of *users* are protected by law.
 
   Les *usagers* du français au Canada ont leur propre accent.
-  Die französischen *Sprecher* in Kanada haben ihren eigenen Akzent.
+  The French speakers in Canada have their own accent.
 
   En tant qu'*usager* régulier, vous bénéficiez d'une réduction.
-  Als regelmäßiger *Benutzer* erhalten Sie einen Rabais.
+  As a regular user you will receive a Rabais.
 
   Les *usagers* des transports en commun protestent contre la hausse des tarifs.
-  Die *Nutzer* des öffentlichen Nahverkehrs protestieren gegen die Tariferhöhung.
+  Public transport *users* are protesting against the increase in tariffs.
 
   L'*usager* et le propriétaire doivent signer le contrat.
-  Der *Nutzer* und der Eigentümer müssen den Vertrag unterschreiben.
+  The user and the owner must sign the contract.
 
   Cette application permet aux *usagers* de personnaliser leur interface.
-  Diese Anwendung ermöglicht es den *Benutzern*, ihre Benutzeroberfläche anzupassen.
+  This application allows *users* to customize their user interface.
 
   Les *usagers* de la piscine municipale doivent respecter le règlement intérieur.
-  Die *Benutzer* des städtischen Schwimmbads müssen die Hausordnung einhalten.
+  The *users* of the municipal swimming pool must comply with the house rules.
 
   L'association des *usagers* des transports défend nos intérêts.
-  Der *Fahrgast*verband vertritt unsere Interessen.
+  The passenger association represents our interests.
 
   La satisfaction des *usagers* est notre priorité absolue.
-  Die Zufriedenheit der *Benutzer* hat für uns oberste Priorität.
+  The satisfaction of the *users* is our top priority.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

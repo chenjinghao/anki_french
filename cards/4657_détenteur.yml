@@ -1,101 +1,101 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4657
 Wort: détenteur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le détenteur
 Femininum / Plural: détentrice
 IPA: \de.tɑ̃.tœʁ\
-Definition: Inhaber, -träger
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Holders, carriers
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette carte plastifiée devrait permettre à son *détenteur* de voter.
-  Diese laminierte Karte sollte ihrem *Inhaber* das Wählen ermöglichen.
+  This laminated card should allow its *holder* to choose.
 
   Le *détenteur* du record mondial de saut en hauteur s'entraîne tous les jours.
-  Der Rekord*halter* im Hochsprung trainiert jeden Tag.
+  The record *holder* in the high jump trains every day.
 
   La *détentrice* du titre défendra sa couronne le mois prochain.
-  Die Titel*trägerin* wird nächsten Monat ihre Krone verteidigen.
+  The title holder will defend her crown next month.
 
   Chaque *détenteur* d'une carte de crédit doit vérifier régulièrement ses relevés.
-  Jeder *Inhaber* einer Kreditkarte sollte seine Abrechnungen regelmäßig überprüfen.
+  Each credit card *holder* should check his or her billing regularly.
 
   La nouvelle *détentrice* du secret a juré de ne jamais le révéler.
-  Die neue *Inhaberin* des Geheimnisses hat geschworen, es nie zu verraten.
+  The new owner of the secret has sworn never to betray it.
 
   Les *détenteurs* de parts recevront leurs dividendes la semaine prochaine.
-  Die Anteils*eigner* werden nächste Woche ihre Dividenden erhalten.
+  The shareholders will receive their dividends next week.
 
   La *détentrice* du manuscrit original l'a prêté au musée.
-  Die *Besitzerin* des Originalmanuskripts hat es dem Museum geliehen.
+  The *owner* of the original manuscript lent it to the museum.
 
   Le *détenteur* du pouvoir doit l'exercer avec sagesse.
-  Der Macht*haber* muss seine Macht mit Weisheit ausüben.
+  The ruler must exercise his power with wisdom.
 
   Toutes les personnes *détentrices* d'un permis doivent le renouveler avant juin.
-  Alle *Inhaber* einer Erlaubnis müssen diese vor Juni erneuern.
+  All holders of a permit must renew it before June.
 
   La *détentrice* du record de vitesse a encore amélioré sa performance.
-  Die Rekord*halterin* im Geschwindigkeitslauf hat ihre Leistung noch verbessert.
+  The record holder in speed has improved her performance.
 
   Les *détenteurs* de billets pourront entrer une heure avant le concert.
-  Die *Inhaber* von Eintrittskarten können eine Stunde vor dem Konzert eintreten.
+  The ticket holders can enter one hour before the concert.
 
   La *détentrice* de la licence exclusive peut interdire toute copie non autorisée.
-  Die Lizenz*inhaberin* kann jede nicht autorisierte Kopie verbieten.
+  The licensee may prohibit any unauthorized copy.
 
   Le nouveau *détenteur* du titre mondial célèbre sa victoire avec ses fans.
-  Der neue Titel*träger* feiert seinen Sieg mit seinen Fans.
+  The new title holder celebrates his victory with his fans.
 
   Les *détenteurs* de fonds ont été informés des nouveaux taux d'intérêt.
-  Die *Inhaber* der Gelder wurden über die neuen Zinssätze informiert.
+  The holders of the funds were informed of the new interest rates.
 
   La *détentrice* du secret de fabrication refuse toutes les offres d'achat.
-  Die *Inhaberin* des Fertigungsgeheimnisses lehnt alle Kaufangebote ab.
+  The *holder* of the manufacturing secret rejects all offers of purchase.
 
   Le *détenteur* de l'autorité doit respecter les droits de chacun.
-  Der *Träger* der Autorität muss die Rechte aller respektieren.
+  The bearer of authority must respect the rights of all.
 
   La *détentrice* du laissez-passer peut accéder à toutes les zones.
-  Die *Inhaberin* des Passierscheins hat Zugang zu allen Bereichen.
+  The *holder* of the pass has access to all areas.
 
   Les *détenteurs* de valeurs mobilières suivent attentivement le marché.
-  Die *Besitzer* der Wertpapiere verfolgen aufmerksam den Markt.
+  The owners of the securities are closely following the market.
 
   La *détentrice* de la correspondance historique l'a léguée à la bibliothèque.
-  Die *Besitzerin* der historischen Korrespondenz hat sie der Bibliothek vermacht.
+  The *owner* of the historical correspondence has left it to the library.
 
   Le *détenteur* du capital majoritaire a voté contre la fusion.
-  Der *Inhaber* der Aktienmehrheit hat gegen die Fusion gestimmt.
+  The majority shareholder voted against the merger.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>détenteur</i> und <i>propriétaire</i></div>
+    <div class="section-title"><i>détenteur</i> and <i>propriétaire</i></div>
     <div class="section-content">
-      <p><span class="fr">Détenteur</span> bedeutet <span class="de">"Halter"</span> oder <span class="de">"Betreuer"</span> und bezeichnet eine Person, die ein Tier oder einen Gegenstand in ihrer Obhut hat und dafür verantwortlich ist, ohne notwendigerweise der Eigentümer zu sein.</p>
+      <p><span class="fr">Détenteur</span> means <span class="de">"Halter"</span> or <span class="de">"Betreuer"</span> and designates a person who has an animal or an object in his care and is responsible for it without necessarily being the owner.</p>
       <div class="examples">
         <div class="fr">Le détenteur du cheval doit tenir un registre d'élevage.</div>
-        <div class="de spoiler">Der Halter des Pferdes muss ein Zuchtregister führen.</div>
+        <div class="de spoiler">The keeper of the horse must keep a breeding record.</div>
         <div class="fr">En tant que détenteur de cette carte, vous êtes responsable de sa sécurité.</div>
-        <div class="de spoiler">Als Inhaber dieser Karte sind Sie für ihre Sicherheit verantwortlich.</div>
+        <div class="de spoiler">As the holder of this card, you are responsible for your safety.</div>
       </div>
-      <p><span class="fr">Propriétaire</span> bedeutet <span class="de">"Eigentümer"</span> und bezeichnet die Person, die rechtlich im Besitz von etwas ist und darüber verfügen kann.</p>
+      <p><span class="fr">Propriétaire</span> means <span class="de">"owner"</span> and designates the person who is legally in possession of something and who can dispose of it.</p>
       <div class="examples">
         <div class="fr">Le propriétaire de l'équidé doit déclarer le changement de propriété.</div>
-        <div class="de spoiler">Der Eigentümer des Pferdes muss den Eigentumsübergang anmelden.</div>
+        <div class="de spoiler">The owner of the horse must register the transfer of ownership.</div>
         <div class="fr">Elle est propriétaire de cette maison depuis dix ans.</div>
-        <div class="de spoiler">Sie ist seit zehn Jahren Eigentümerin dieses Hauses.</div>
+        <div class="de spoiler">She's been the owner of this house for ten years.</div>
       </div>
-      <p>Der Unterschied liegt darin, dass der <span class="fr">détenteur</span> für die praktische Betreuung und Pflege verantwortlich ist, während der <span class="fr">propriétaire</span> die rechtlichen Eigentumsrechte besitzt. Eine Person kann beide Rollen gleichzeitig innehaben.</p>
+      <p>The difference is that the <span class="fr">détenteur</span> is responsible for the practical care and care, while the <span class="fr">propriétaire</span> a person may hold both roles at the same time.</p>
     </div>
   </div>

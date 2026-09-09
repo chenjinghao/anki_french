@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1172
 Wort: au-delà
 Wortart: adv, prep, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: au-delà
 Femininum / Plural: ''
 IPA: \o.də.la\
-Definition: jenseits, darüber hinaus
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: beyond, beyond
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La réalité va *au-delà* des concepts.
-  Die Realität geht *über* die Konzepte *hinaus*.
+  Reality goes beyond concepts.
 
   La boulangerie se trouve *au-delà* de la poste.
-  Die Bäckerei liegt *jenseits* der Post.
+  The bakery is *beyond* the post office.
 
   Son succès *est allé au-delà* de nos espérances.
-  Sein Erfolg *hat* unsere Erwartungen *übertroffen*.
+  His success *has* exceeded our expectations.
 
   Elle croit fermement en la vie dans l'*au-delà*.
-  Sie glaubt fest an das Leben im *Jenseits*.
+  She firmly believes in life in the afterlife.
 
   Cette théorie scientifique va *au-delà* de ma compréhension.
-  Diese wissenschaftliche Theorie geht *über* mein Verständnis *hinaus*.
+  This scientific theory goes beyond my understanding.
 
   Les montagnes s'étendent *au-delà* de l'horizon.
-  Die Berge erstrecken sich *jenseits* des Horizonts.
+  The mountains extend *beyond* the horizon.
 
   Cette histoire *est au-delà de toute vraisemblance*.
-  Diese Geschichte ist völlig *unrealistisch*.
+  This story is completely *unrealistic*.
 
   Nous devons penser *au-delà* du présent.
-  Wir müssen *über* die Gegenwart *hinaus* denken.
+  We must think beyond the present.
 
   Il existe une vie *au-delà* de la mort.
-  Es gibt ein Leben *nach* dem Tod.
+  There's a life *after* death.
 
   Les prix sont allés *au-delà* de ce qui était prévu.
-  Die Preise sind *über* das geplante Niveau *hinaus* gestiegen.
+  Prices have risen beyond the planned level.
 
   Son influence s'étend *au-delà* des frontières.
-  Sein Einfluss reicht *über* die Grenzen *hinaus*.
+  His influence extends beyond the borders.
 
   La peur de l'*au-delà* le paralysait complètement.
-  Die Angst vor dem *Jenseits* lähmte ihn vollkommen.
+  Fear of the Hereafter completely paralyzed him.
 
   Cette découverte va *au-delà* des attentes initiales.
-  Diese Entdeckung geht *über* die ursprünglichen Erwartungen *hinaus*.
+  This discovery goes beyond the original expectations.
 
   Le village se trouve *au-delà* de la rivière.
-  Das Dorf liegt *jenseits* des Flusses.
+  The village is located *beyond* the river.
 
   Les conséquences vont *au-delà* de ce qu'on imaginait.
-  Die Folgen gehen *über* das Vorstellbare *hinaus*.
+  The consequences go beyond what is conceivable.
 
   Leurs recherches portent sur l'*au-delà*.
-  Ihre Forschungen beschäftigen sich mit dem *Jenseits*.
+  Their research is about the afterlife.
 
   Le bruit s'entend *au-delà* des murs.
-  Der Lärm ist *jenseits* der Mauern zu hören.
+  The noise can be heard *beyond* the walls.
 
   Son talent va *au-delà* du normal.
-  Sein Talent geht *über* das Normale *hinaus*.
+  His talent goes beyond normal.
 
   Les philosophes réfléchissent sur l'*au-delà*.
-  Die Philosophen denken über das *Jenseits* nach.
+  The philosophers think about the afterlife.
 
   La maison se trouve *au-delà* du parc.
-  Das Haus liegt *jenseits* des Parks.
+  The house is *beyond* the park.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

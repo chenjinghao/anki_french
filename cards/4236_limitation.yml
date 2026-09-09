@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4236
 Wort: limitation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la limitation
 Femininum / Plural: ''
 IPA: \li.mi.ta.sjɔ̃\
-Definition: Beschränkung, Begrenzung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Limitation, limitation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a des *limitations* d'âge.
-  Es gibt Alters*beschränkungen*.
+  There are age *restrictions*.
 
   La *limitation* de vitesse sur cette route est de 90 km/h.
-  Die Geschwindigkeits*beschränkung* auf dieser Straße beträgt 90 km/h.
+  The speed limit on this road is 90 km/h.
 
   Cette *limitation* des droits n'est pas acceptable.
-  Diese *Einschränkung* der Rechte ist nicht akzeptabel.
+  This *limitation* of rights is not acceptable.
 
   Le gouvernement discute d'une *limitation* des importations de pétrole.
-  Die Regierung diskutiert über eine *Beschränkung* der Erdölimporte.
+  The government is discussing a restriction on oil imports.
 
   La *limitation* des naissances a été une politique controversée.
-  Die Geburten*beschränkung* war eine umstrittene Politik.
+  The birth restriction was a controversial policy.
 
   Cette offre est valable sans *limitation* de durée.
-  Dieses Angebot gilt ohne zeitliche *Beschränkung*.
+  This offer is valid without time *limitation*.
 
   Les nouvelles *limitations* de la publicité protègent les enfants.
-  Die neuen Werbe*beschränkungen* schützen Kinder.
+  The new advertising *restrictions* protect children.
 
   La *limitation* du pouvoir royal a marqué la fin de l'absolutisme.
-  Die *Einschränkung* der königlichen Macht markierte das Ende des Absolutismus.
+  The *limitation* of royal power marked the end of absolutism.
 
   Une *limitation* dans le temps s'applique à ce contrat.
-  Für diesen Vertrag gilt eine zeitliche *Befristung*.
+  This contract is subject to a time limit.
 
   Les *limitations* de circulation seront en vigueur pendant les travaux.
-  Während der Bauarbeiten werden Verkehrs*beschränkungen* gelten.
+  Traffic *restrictions* will apply during construction.
 
   La *limitation* des libertés individuelles doit être justifiée.
-  Die *Einschränkung* der individuellen Freiheiten muss gerechtfertigt sein.
+  The *limitation* of individual freedoms must be justified.
 
   Cette *limitation* du droit de grève est inconstitutionnelle.
-  Diese *Einschränkung* des Streikrechts ist verfassungswidrig.
+  This restriction of the right to strike is unconstitutional.
 
   Les *limitations* naturelles du terrain définissent la propriété.
-  Die natürlichen *Grenzen* des Grundstücks definieren das Eigentum.
+  The natural *boundaries* of the property define the property.
 
   Une *limitation* stricte des échanges commerciaux a été imposée.
-  Eine strenge *Beschränkung* des Handels wurde verhängt.
+  A strict restriction on trade was imposed.
 
   La *limitation* des émissions de CO<sub>2</sub> est devenue urgente.
-  Die *Begrenzung* der CO<sub>2</sub>-Emissionen ist dringend geworden.
+  Limitation of CO < sub>2 </ sub> emissions has become urgent.
 
   Cette *limitation* temporaire sera levée la semaine prochaine.
-  Diese zeitweilige *Beschränkung* wird nächste Woche aufgehoben.
+  This temporary restriction will be lifted next week.
 
   Les *limitations* techniques nous empêchent d'avancer plus vite.
-  Die technischen *Einschränkungen* hindern uns daran, schneller voranzukommen.
+  The technical *restrictions* prevent us from moving faster.
 
   La *limitation* de la concurrence nuit aux consommateurs.
-  Die Wettbewerbs*beschränkung* schadet den Verbrauchern.
+  The restriction of competition is damaging to consumers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

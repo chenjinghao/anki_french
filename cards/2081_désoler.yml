@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2081
 Wort: désoler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: désoler
 Femininum / Plural: ''
 IPA: \de.zɔ.le\
-Definition: bedauern, leidtun
-Register: ↘Sachtext ↗Mündlich
+Definition: regret, sorry
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis tellement *désolé*. *Désolé* pour tout.
-  Es tut mir so *leid*. *Entschuldigung* für alles.
+  I'm so sorry, sorry for everything.
 
   La nouvelle de son licenciement l'a *désolé*.
-  Die Nachricht von seiner Entlassung hat ihn zutiefst *betrübt*.
+  The news of his release deeply grieved him.
 
   "Je suis *désolée* de vous avoir fait attendre", dit la secrétaire.
-  "Es tut mir *leid*, dass ich Sie habe warten lassen", sagte die Sekretärin.
+  "I'm sorry I kept you waiting," said the secretary.
 
   La guerre a *désolé* toute la région.
-  Der Krieg hat die ganze Region *verwüstet*.
+  The war has devastated the whole region.
 
   Cet échec me *désole* profondément.
-  Dieser Misserfolg *bedrückt* mich zutiefst.
+  I am deeply distressed by this failure.
 
   Elle se *désolait* jour et nuit de l'absence de son fils.
-  Sie *grämte* sich Tag und Nacht wegen der Abwesenheit ihres Sohnes.
+  She was grieving herself day and night because of her son's absence.
 
   Le retard du train *désole* tous les passagers.
-  Die Verspätung des Zuges *verärgert* alle Passagiere.
+  The delay of the train upsets all passengers.
 
   Je suis *désolé* d'apprendre le décès de votre grand-mère.
-  Es tut mir *leid* zu hören, dass Ihre Großmutter verstorben ist.
+  I'm sorry to hear your grandmother passed away.
 
   La famine *désolait* le pays depuis des mois.
-  Die Hungersnot *verwüstete* das Land seit Monaten.
+  The famine *devastated* the country for months.
 
   "*Désolé*, je n'ai pas le temps de discuter maintenant."
-  "*Tut mir leid*, ich habe jetzt keine Zeit zum Reden."
+  "Sorry, I don't have time to talk."
 
   Ça me *désole* de te voir abandonner tes rêves.
-  Es *betrübt* mich, zu sehen, wie du deine Träume aufgibst.
+  It grieves me to see you give up your dreams.
 
   Les pillards ont *désolé* la campagne environnante.
-  Die Plünderer haben das umliegende Land *verwüstet*.
+  The looters have *ravaged* the surrounding land.
 
   Ne vous *désolez* pas pour si peu !
-  *Grämen* Sie sich nicht wegen so einer Kleinigkeit!
+  Don't worry about something like that.
 
   Son air *désolé* ne trompait personne.
-  Sein *betrübter* Gesichtsausdruck täuschte niemanden.
+  His grieving facial expression deceived no one.
 
   La mauvaise conduite de son fils la *désolait* énormément.
-  Das schlechte Benehmen ihres Sohnes *bekümmerte* sie sehr.
+  Her son's bad behavior deeply grieved her.
 
   Je suis *désolé* que vous n'ayez pas pu venir à la fête.
-  Es tut mir *leid*, dass Sie nicht zur Party kommen konnten.
+  I'm sorry you couldn't come to the party.
 
   Ce paysage *désolé* me rappelle un désert.
-  Diese *öde* Landschaft erinnert mich an eine Wüste.
+  This deserted landscape reminds me of a desert.
 
   Vous m'en voyez *désolé*, mais je ne peux rien faire.
-  Wie Sie sehen, *bedaure* ich es, aber ich kann nichts tun.
+  As you can see, I *regret* it, but there's nothing I can do.
 
   Il se *désolait* de ne pas avoir obtenu le poste.
-  Er *bedauerte*, die Stelle nicht bekommen zu haben.
+  He *regretted* not getting the job.
 
   "Je suis vraiment *désolée* de t'avoir blessé", murmura-t-elle.
-  "Es tut mir wirklich *leid*, dass ich dich verletzt habe", flüsterte sie.
+  "I'm really sorry I hurt you," she whispered.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

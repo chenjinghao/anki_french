@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3615
 Wort: élaboration
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une élaboration
 Femininum / Plural: ''
 IPA: \e.la.bɔ.ʁa.sjɔ̃\
-Definition: Ausarbeitung, Erstellung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Preparation, preparation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous allez demander l'*élaboration* d'un dossier.
-  Sie werden die *Ausarbeitung* einer Akte beantragen.
+  You will request the *preparation* of a file.
 
   L'*élaboration* de ce nouveau programme informatique prendra plusieurs mois.
-  Die *Entwicklung* dieses neuen Computerprogramms wird mehrere Monate dauern.
+  The *development* of this new computer program will take several months.
 
   Les chercheurs étudient l'*élaboration* de la sève dans les arbres.
-  Die Forscher untersuchen die *Bildung* des Pflanzensafts in den Bäumen.
+  The researchers investigate the formation of plant juice in the trees.
 
   L'*élaboration* du plan d'action a nécessité de nombreuses réunions.
-  Die *Ausarbeitung* des Aktionsplans erforderte zahlreiche Besprechungen.
+  The *preparation* of the Action Plan required numerous discussions.
 
   Notre équipe participe à l'*élaboration* d'un nouveau dictionnaire.
-  Unser Team beteiligt sich an der *Ausarbeitung* eines neuen Wörterbuchs.
+  Our team is involved in the development of a new dictionary.
 
   Le médecin surveille l'*élaboration* de la bile chez le patient.
-  Der Arzt überwacht die *Bildung* der Galle beim Patienten.
+  The doctor monitors the formation of bile in the patient.
 
   L'*élaboration* du diagnostic a pris plus de temps que prévu.
-  Das *Erstellen* der Diagnose hat länger gedauert als erwartet.
+  The creation of the diagnosis took longer than expected.
 
   Les étudiants contribuent à l'*élaboration* d'une nouvelle doctrine philosophique.
-  Die Studenten tragen zur *Ausarbeitung* einer neuen philosophischen Lehre bei.
+  The students contribute to the elaboration of a new philosophical teaching.
 
   Le processus d'*élaboration* du lait maternel est complexe.
-  Der *Bildungs*prozess der Muttermilch ist komplex.
+  The process of forming breast milk is complex.
 
   L'*élaboration* du cycle romanesque lui a pris dix ans.
-  Die *Ausarbeitung* des Romanzyklus hat ihn zehn Jahre gekostet.
+  It took him ten years to prepare the novel cycle.
 
   Les scientifiques observent l'*élaboration* des protéines dans les cellules.
-  Die Wissenschaftler beobachten die *Bildung* von Proteinen in den Zellen.
+  The scientists observe the formation of proteins in the cells.
 
   L'*élaboration* du budget annuel commence en septembre.
-  Die *Ausarbeitung* des Jahresbudgets beginnt im September.
+  The annual budget will start in September.
 
   Le corps humain est responsable de l'*élaboration* de différentes hormones.
-  Der menschliche Körper ist für die *Bildung* verschiedener Hormone verantwortlich.
+  The human body is responsible for the formation of various hormones.
 
   L'*élaboration* de cette stratégie marketing est presque terminée.
-  Die *Ausarbeitung* dieser Marketingstrategie ist fast abgeschlossen.
+  The development of this marketing strategy is almost complete.
 
   Les experts travaillent sur l'*élaboration* d'un nouveau système de classification.
-  Die Experten arbeiten an der *Entwicklung* eines neuen Klassifizierungssystems.
+  The experts are working on the *development* of a new classification system.
 
   L'*élaboration* du métal pur à partir du minerai nécessite plusieurs étapes.
-  Die *Ausarbeitung* des reinen Metalls aus dem Erz erfordert mehrere Schritte.
+  The *preparation* of the pure metal from the ore requires several steps.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

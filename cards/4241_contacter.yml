@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4241
 Wort: contacter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: contacter
 Femininum / Plural: ''
 IPA: \kɔ̃.tak.te\
-Definition: kontaktieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Contact
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comment puis-je vous *contacter* ?
-  Wie kann ich Sie *kontaktieren*?
+  How can I *contact* you?
 
   N'hésitez pas à me *contacter* si vous avez des questions.
-  Zögern Sie nicht, mich zu *kontaktieren*, wenn Sie Fragen haben.
+  Do not hesitate to *contact* me if you have any questions.
 
   Sarah m'a *contacté* hier soir pour me donner les nouvelles.
-  Sarah hat sich gestern Abend mit mir in *Verbindung gesetzt*, um mir die Neuigkeiten zu erzählen.
+  Sarah contacted me last night to tell me the news.
 
   Les journalistes ont essayé de *contacter* le ministre toute la journée.
-  Die Journalisten haben den ganzen Tag versucht, mit dem Minister *Kontakt aufzunehmen*.
+  Journalists have been trying to *get in touch* with the Minister all day.
 
   Pour plus d'informations, veuillez *contacter* notre service clientèle.
-  Für weitere Informationen *wenden Sie sich bitte an* unseren Kundenservice.
+  For more information, *please contact* our customer service.
 
   Je vais *contacter* Pierre par téléphone pour lui annoncer la bonne nouvelle.
-  Ich werde Pierre *anrufen*, um ihm die gute Nachricht zu übermitteln.
+  I'll *call* Pierre to give him the good news.
 
   L'entreprise nous a *contactés* par e-mail la semaine dernière.
-  Die Firma hat uns letzte Woche per E-Mail *kontaktiert*.
+  The company *contacted* us last week by e-mail.
 
   Marie essaie de te *contacter* depuis ce matin.
-  Marie versucht seit heute Morgen, dich zu *erreichen*.
+  Marie's been trying to *reach* you since this morning.
 
   Impossible de *contacter* les secours dans cette zone sans réseau.
-  In diesem Gebiet ohne Netz ist es unmöglich, den Rettungsdienst zu *kontaktieren*.
+  In this area without a network, it is impossible to *contact* the rescue service.
 
   Nous vous *contacterons* dès que possible pour fixer un rendez-vous.
-  Wir werden uns schnellstmöglich mit Ihnen in *Verbindung setzen*, um einen Termin zu vereinbaren.
+  We will contact you as soon as possible to arrange an appointment.
 
   Le détective privé a réussi à *contacter* tous les témoins.
-  Dem Privatdetektiv ist es gelungen, alle Zeugen zu *kontaktieren*.
+  The private investigator has managed to *contact* all the witnesses.
 
   Tu pourras me *contacter* sur mon portable à partir de demain.
-  Du kannst mich ab morgen auf meinem Handy *erreichen*.
+  You can *reach* me on my phone from tomorrow.
 
   J'ai essayé de *contacter* Marc toute la journée, mais il ne répond pas.
-  Ich habe den ganzen Tag versucht, Marc zu *kontaktieren*, aber er antwortet nicht.
+  I've been trying to *contact* Marc all day, but he's not answering.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

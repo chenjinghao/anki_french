@@ -1,102 +1,102 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1078
 Wort: contenter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: contenter
 Femininum / Plural: ''
 IPA: \kɔ̃.tɑ̃.te\
-Definition: zufriedenstellen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Satisfying
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu te *contenteras* d'être le chauffeur.
-  Du wirst dich damit *begnügen* müssen, der Fahrer zu sein.
+  You'll have to be content to be the driver.
 
   Pour *contenter* sa curiosité, Marie a ouvert la lettre en cachette.
-  Um ihre Neugier zu *befriedigen*, öffnete Marie heimlich den Brief.
+  In order to satisfy her curiosity, Marie secretly opened the letter.
 
   Les enfants se sont *contentés* de jouer dans le jardin toute l'après-midi.
-  Die Kinder haben sich damit *begnügt*, den ganzen Nachmittag im Garten zu spielen.
+  The children were content to play in the garden all afternoon.
 
   Cette augmentation de salaire devrait *contenter* les employés.
-  Diese Gehaltserhöhung sollte die Mitarbeiter *zufriedenstellen*.
+  This increase in salary should satisfy the employees.
 
   Il s'est *contenté* de hausser les épaules au lieu de répondre.
-  Er hat sich damit *begnügt*, mit den Schultern zu zucken, anstatt zu antworten.
+  He was content to shrug his shoulders instead of answering.
 
   Je ne peux pas *contenter* tous mes clients en même temps.
-  Ich kann nicht alle meine Kunden gleichzeitig *zufriedenstellen*.
+  I can't satisfy all my customers at the same time.
 
   Elle se *contente* d'un petit appartement en centre-ville.
-  Sie gibt sich mit einer kleinen Wohnung in der Innenstadt *zufrieden*.
+  She is *satisfied* with a small apartment in the city center.
 
   Pour *contenter* son appétit, il a mangé deux assiettes de pâtes.
-  Um seinen Hunger zu *stillen*, hat er zwei Teller Nudeln gegessen.
+  To satisfy his hunger, he ate two plates of pasta.
 
   Ces explications ne me *contentent* pas du tout.
-  Diese Erklärungen *befriedigen* mich überhaupt nicht.
+  These explanations do not satisfy me at all.
 
   L'entreprise n'a pas réussi à *contenter* les exigences des investisseurs.
-  Das Unternehmen konnte die Anforderungen der Investoren nicht *erfüllen*.
+  The company could not *meet* the requirements of the investors.
 
   Je me suis *contenté* d'un café pour le petit-déjeuner.
-  Ich habe mich zum Frühstück mit einem Kaffee *begnügt*.
+  I was content with a coffee for breakfast.
 
   Cette solution simple devrait *contenter* tout le monde.
-  Diese einfache Lösung sollte alle *zufriedenstellen*.
+  This simple solution should satisfy everyone.
 
   Il faudra vous *contenter* de ce que nous avons pour l'instant.
-  Sie werden sich vorläufig mit dem *begnügen* müssen, was wir haben.
+  They will have to be content with what we have for the time being.
 
   Les parents sont difficiles à *contenter* quand il s'agit de l'éducation.
-  Die Eltern sind schwer *zufriedenzustellen*, wenn es um die Erziehung geht.
+  Parents are hard to satisfy when it comes to upbringing.
 
   Elle s'est *contentée* d'observer la scène sans intervenir.
-  Sie hat sich damit *begnügt*, die Szene zu beobachten, ohne einzugreifen.
+  She was content to watch the scene without interfering.
 
   Cette réponse vague ne *contentera* pas le jury.
-  Diese vage Antwort wird die Jury nicht *zufriedenstellen*.
+  This vague answer will not satisfy the jury.
 
   Pour *contenter* son besoin d'aventure, il voyage chaque été.
-  Um sein Bedürfnis nach Abenteuer zu *befriedigen*, reist er jeden Sommer.
+  To satisfy his need for adventure, he travels every summer.
 
   Le petit garçon se *contente* de peu pour être heureux.
-  Der kleine Junge gibt sich mit wenig *zufrieden*, um glücklich zu sein.
+  The little boy is content with little to be happy.
 
   Nous devons *contenter* les attentes de nos supérieurs.
-  Wir müssen die Erwartungen unserer Vorgesetzten *erfüllen*.
+  We have to *meet* our superiors' expectations.
 
   Paul s'est *contenté* d'un sandwich pour le déjeuner.
-  Paul hat sich für das Mittagessen mit einem Sandwich *begnügt*.
+  Paul was content with a sandwich for lunch.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>satisfaire</i> und <i>contenter</i></div>
+    <div class="section-title"><i>satisfaire</i> and <i>contenter</i></div>
     <div class="section-content">
-      <p><span class="fr">Satisfaire</span> (#781) bedeutet <span class="de">"befriedigen"</span> oder <span class="de">"zufriedenstellen"</span> und bezieht sich auf das vollständige Erfüllen von Bedürfnissen, Erwartungen oder Anforderungen.</p>
+      <p><span class="fr">Satisfaire</span> (#781) means <span class="de">"befriedigen"</span> or <span class="de">"zufriedenstellen"</span> and refers to the complete fulfilment of needs, expectations or requirements.</p>
       <div class="examples">
         <div class="fr">Ce repas a satisfait tous mes invités.</div>
-        <div class="de spoiler">Dieses Essen hat alle meine Gäste zufriedengestellt.</div>
+        <div class="de spoiler">This food satisfied all my guests.</div>
         <div class="fr">Il faut satisfaire aux exigences du client.</div>
-        <div class="de spoiler">Man muss die Anforderungen des Kunden erfüllen.</div>
+        <div class="de spoiler">You have to meet the customer's requirements.</div>
       </div>
-      <p><span class="fr">Contenter</span> bedeutet <span class="de">"zufriedenstellen"</span> oder <span class="de">"erfreuen"</span> und impliziert oft eine einfachere oder oberflächlichere Form der Zufriedenheit.</p>
+      <p><span class="fr">Contenter</span> means <span class="de">"zufriedenstellen"</span> or <span class="de">"erfreuen"</span> and often implies a simpler or more superficial form of satisfaction.</p>
       <div class="examples">
         <div class="fr">Un petit cadeau suffit à contenter un enfant.</div>
-        <div class="de spoiler">Ein kleines Geschenk reicht aus, um ein Kind zufriedenzustellen.</div>
+        <div class="de spoiler">A small gift is enough to satisfy a child.</div>
         <div class="fr">Elle se contente de peu.</div>
-        <div class="de spoiler">Sie begnügt sich mit wenig.</div>
+        <div class="de spoiler">She is content with little.</div>
       </div>
-      <p><span class="fr">Satisfaire</span> wird oft in formelleren Kontexten verwendet und impliziert eine tiefere, vollständigere Erfüllung, während <span class="fr">contenter</span> eher eine einfachere, bescheidenere Zufriedenstellung ausdrückt.</p>
+      <p><span class="fr">Satisfaire</span> is often used in more formal contexts and implies a deeper, more complete fulfillment, while <span class="fr">contenter</span> It is a more simple, more modest satisfaction.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

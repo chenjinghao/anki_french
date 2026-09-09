@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1556
 Wort: souci
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le souci
 Femininum / Plural: ''
 IPA: \su.si\
-Definition: Sorge, Anliegen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Care, concerns
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nos petits *soucis* ne sont pas importants.
-  Unsere kleinen *Sorgen* sind nicht wichtig.
+  Our little *worries* are not important.
 
   J'ai du *souci* pour ma fille qui voyage seule.
-  Ich mache mir *Sorgen* um meine Tochter, die allein reist.
+  I'm worried about my daughter traveling alone.
 
   Les *soucis* d'argent peuvent causer beaucoup de stress.
-  Geld*sorgen* können viel Stress verursachen.
+  Money worries can cause a lot of stress.
 
   Elle vit *sans souci*, profitant de chaque jour.
-  Sie lebt *sorgenfrei* und genießt jeden Tag.
+  She lives *carefree* and enjoys every day.
 
   Mon plus grand *souci* est de finir ce projet à temps.
-  Meine größte *Sorge* ist es, dieses Projekt rechtzeitig abzuschließen.
+  My biggest concern is to complete this project in time.
 
   "Ne te fais pas de *souci*, tout ira bien", m'a-t-il rassuré.
-  "Mach dir keine *Sorgen*, alles wird gut", hat er mich beruhigt.
+  "Don't worry, everything's gonna be okay," he calmed me down.
 
   Le *souci* de la qualité est primordial dans notre entreprise.
-  Das *Bemühen* um Qualität ist in unserem Unternehmen von größter Bedeutung.
+  The concern for quality is of the utmost importance in our company.
 
   Les *soucis* quotidiens s'accumulent parfois.
-  Die alltäglichen *Sorgen* häufen sich manchmal.
+  Everyday *worries* accumulate sometimes.
 
   Son comportement me cause beaucoup de *soucis*.
-  Sein Verhalten bereitet mir viele *Sorgen*.
+  I'm worried about his behavior.
 
   Par *souci* d'équité, nous avons réexaminé tous les dossiers.
-  Aus *Gründen* der Fairness haben wir alle Akten erneut geprüft.
+  For *reasons* of fairness, we have re-examined all the files.
 
   Elle a toujours eu le *souci* du détail dans son travail.
-  Sie hatte bei ihrer Arbeit immer ein *Auge* für Details.
+  She always had an *eye* for details at work.
 
   Les *soucis* familiaux l'empêchent de se concentrer.
-  Familien*probleme* hindern ihn daran, sich zu konzentrieren.
+  Family *problems* prevent him from concentrating.
 
   Le *souci* de l'environnement devient de plus en plus important.
-  Das *Anliegen* des Umweltschutzes wird immer wichtiger.
+  The concern for environmental protection is becoming increasingly important.
 
   "C'est le cadet de mes *soucis*!" s'est-il exclamé.
-  "Das ist mir völlig *schnuppe*!" rief er aus.
+  "That's totally sniffing me!" he exclaimed.
 
   Son plus grand *souci* est de ne pas décevoir ses parents.
-  Seine größte *Sorge* ist es, seine Eltern nicht zu enttäuschen.
+  His greatest concern is not to disappoint his parents.
 
   Le *souci* constant de s'améliorer le pousse à travailler dur.
-  Das ständige *Bemühen*, sich zu verbessern, treibt ihn zu harter Arbeit an.
+  The constant effort to improve is driving him to hard work.
 
   Les *soucis* financiers l'empêchent de dormir la nuit.
-  Finanzielle *Sorgen* halten ihn nachts wach.
+  Financial *worries* keep him awake at night.
 
   Le *souci* du bien-être des employés est une priorité.
-  Die *Sorge* um das Wohlergehen der Mitarbeiter hat Priorität.
+  The concern for the well-being of the employees is a priority.
 
   "Ne vous faites pas de *souci*, je m'en occupe", a-t-il promis.
-  "Machen Sie sich keine *Sorgen*, ich kümmere mich darum", versprach er.
+  "Don't worry, I'll take care of it," he promised.
 
   Son principal *souci* est de maintenir une bonne santé.
-  Sein Haupt*anliegen* ist es, gesund zu bleiben.
+  His main concern is to stay healthy.
 
   Les *soucis* d'argent ont disparu depuis sa promotion.
-  Die Geld*sorgen* sind seit seiner Beförderung verschwunden.
+  The money worries have disappeared since his promotion.
 
   Le *souci* de perfection peut parfois être paralysant.
-  Das *Streben* nach Perfektion kann manchmal lähmend sein.
+  The pursuit of perfection can sometimes be crippling.
 
   Par *souci* de transparence, tous les documents seront publiés.
-  Aus *Gründen* der Transparenz werden alle Dokumente veröffentlicht.
+  For *reasons* of transparency, all documents shall be published.
 
   Les *soucis* de la vie quotidienne semblent souvent insurmontables.
-  Die *Sorgen* des Alltags scheinen oft unüberwindbar.
+  The *worries* of everyday life often seem insurmountable.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

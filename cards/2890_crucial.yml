@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2890
 Wort: crucial
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: crucial
 Femininum / Plural: cruciale
 IPA: \kʁy.sjal\
-Definition: entscheidend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: important
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous sommes à un moment *crucial* de notre histoire.
-  Wir befinden uns an einem *entscheidenden* Punkt in unserer Geschichte.
+  We are at a crucial point in our history.
 
   La confiance est un élément *crucial* dans toute relation.
-  Vertrauen ist ein *entscheidendes* Element in jeder Beziehung.
+  Trust is a crucial element in every relationship.
 
   Cette découverte pourrait jouer un rôle *crucial* dans la lutte contre le cancer.
-  Diese Entdeckung könnte eine *entscheidende* Rolle im Kampf gegen Krebs spielen.
+  This discovery could play a crucial role in *the* fight against cancer.
 
   Il est *crucial* de bien se préparer avant un entretien d'embauche.
-  Es ist *äußerst wichtig*, sich gut auf ein Vorstellungsgespräch vorzubereiten.
+  It is *extremely important* to prepare well for an interview.
 
   La patience est une qualité *cruciale* pour réussir dans ce métier.
-  Geduld ist eine *entscheidende* Eigenschaft, um in diesem Beruf erfolgreich zu sein.
+  Patience is a crucial quality to be successful in this profession.
 
   Le choix de l'université peut être *crucial* pour l'avenir professionnel d'un étudiant.
-  Die Wahl der Universität kann für die berufliche Zukunft eines Studenten *ausschlaggebend* sein.
+  The choice of university can be decisive for a student's professional future.
 
   L'expérience *cruciale* a permis de valider notre hypothèse scientifique.
-  Das *entscheidende* Experiment hat es uns ermöglicht, unsere wissenschaftliche Hypothese zu bestätigen.
+  *The* decisive experiment has enabled us to confirm our scientific hypothesis.
 
   La communication est un facteur *crucial* dans la résolution des conflits.
-  Kommunikation ist ein *entscheidender* Faktor bei der Lösung von Konflikten.
+  Communication is a crucial factor in resolving conflicts.
 
   Les premières années de vie sont *cruciales* pour le développement de l'enfant.
-  Die ersten Lebensjahre sind *entscheidend* für die Entwicklung des Kindes.
+  The first years of life are crucial for the development of the child.
 
   Il est *crucial* de respecter les délais dans ce projet.
-  Es ist *äußerst wichtig*, die Fristen in diesem Projekt einzuhalten.
+  It is *extremely important* to comply with the deadlines in this project.
 
   Le soutien de sa famille a été *crucial* dans sa réussite.
-  Die Unterstützung seiner Familie war *entscheidend* für seinen Erfolg.
+  His family's support was crucial to his success.
 
   Cette réunion sera *cruciale* pour l'avenir de l'entreprise.
-  Dieses Treffen wird für die Zukunft des Unternehmens *entscheidend* sein.
+  This meeting will be crucial for the future of the company.
 
   Le témoignage de ce témoin pourrait être *crucial* pour résoudre l'affaire.
-  Die Aussage dieses Zeugen könnte für die Lösung des Falls *ausschlaggebend* sein.
+  The testimony of this witness could be decisive for the resolution of the case.
 
   Une alimentation équilibrée joue un rôle *crucial* dans le maintien d'une bonne santé.
-  Eine ausgewogene Ernährung spielt eine *entscheidende* Rolle für die Erhaltung einer guten Gesundheit.
+  A balanced diet plays a crucial role in maintaining good health.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3579
 Wort: pis
 Wortart: nm, adj, adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: pis
 Femininum / Plural: ''
 IPA: \pi\
-Definition: schlimmer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Worse
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les choses vont de mal en *pis*.
-  Die Dinge werden immer *schlimmer*.
+  Things are getting *worse* and worse.
 
   Le *pis* de cette vache produit beaucoup de lait.
-  Das *Euter* dieser Kuh produziert viel Milch.
+  The udder of this cow produces a lot of milk.
 
   "*Tant pis* pour toi si tu ne veux pas venir !"
-  "*Pech* für dich, wenn du nicht mitkommen willst!"
+  "Peach for yourself if you don't want to come with me!"
 
   La situation est *pis* que nous le pensions.
-  Die Situation ist *schlimmer* als wir dachten.
+  The situation is *worse* than we thought.
 
   Le *pis* qui puisse arriver, c'est qu'il pleuve.
-  Das *Schlimmste*, was passieren kann, ist dass es regnet.
+  The *worst* thing that can happen is that it rains.
 
   *Au pis aller*, nous prendrons le train.
-  *Schlimmstenfalls* nehmen wir den Zug.
+  At worst, we'll take the train.
 
   Elle a fait *pis* que son frère.
-  Sie hat es noch *schlimmer* gemacht als ihr Bruder.
+  She made it *worse* than her brother.
 
   "*Tant pis*, nous essaierons une autre fois !"
-  "*Na gut*, dann versuchen wir es ein anderes Mal!"
+  "Well, then we'll try another time!"
 
   Il est bête et, qui *pis* est, paresseux.
-  Er ist dumm und, was noch *schlimmer* ist, faul.
+  He's stupid and, *worse*, lazy.
 
   Les critiques ont dit *pis que pendre* de son nouveau film.
-  Die Kritiker haben über seinen neuen Film *das Schlimmste verbreitet*.
+  Critics have spread the worst about his new film.
 
   Son état va de *pis* en *pis* chaque jour.
-  Sein Zustand wird von Tag zu Tag *schlimmer*.
+  His condition is getting *worse* from day to day.
 
   "*Tant pis* si nous perdons, l'important c'est de participer."
-  "*Macht nichts*, wenn wir verlieren, Hauptsache wir machen mit."
+  "Don't bother if we lose, as long as we go along with it."
 
   C'est *pis* que jamais aujourd'hui.
-  Es ist heute *schlimmer* als je zuvor.
+  It's *worse* today than ever.
 
   "*Tant pis pour lui* s'il arrive en retard !"
-  "*Selbst schuld*, wenn er zu spät kommt!"
+  "Even to blame if he's late!"
 
   La situation économique va de mal en *pis*.
-  Die wirtschaftliche Lage wird immer *schlimmer*.
+  The economic situation is getting *worse* and worse.
 
   Ce qui est *pis*, c'est qu'il ne s'excuse même pas.
-  Was noch *schlimmer* ist: Er entschuldigt sich nicht einmal.
+  *Worse*, he doesn't even apologize.
 
   Le *pis* de tout serait qu'il démissionne.
-  Das *Schlimmste* von allem wäre, wenn er kündigen würde.
+  The *worst* of all would be if he quit.
 
   "*Tant pis*, nous devrons nous adapter !"
-  "*Na schön*, dann müssen wir uns eben anpassen!"
+  "*All right*, then we have to adapt!"
 
   Pour ne rien dire de *pis*, son travail est médiocre.
-  Um nichts *Schlimmeres* zu sagen: Seine Arbeit ist mittelmäßig.
+  To say nothing *worse*, his work is mediocre.
 
   La situation ne pourrait pas être *pis*.
-  Die Situation könnte nicht *schlimmer* sein.
+  The situation could not be *worse*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 230
 Wort: puis
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: puis
 Femininum / Plural: ''
 IPA: \pɥi\
-Definition: dann
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: then
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a tenté de me tuer, *puis* elle m'a chassée.
-  Sie hat versucht, mich zu töten, und *dann* hat sie mich verjagt.
+  She tried to kill me, and *then* she chased me away.
 
   Il leur a parlé pendant une heure, *puis* il est parti sans dire au revoir.
-  Er hat eine Stunde mit ihnen geredet, und *dann* ist er ohne ein Wort gegangen.
+  He talked to them for an hour, and *then* he left without a word.
 
   "Et *puis* après, si je suis en retard ?"
-  "Na *und*, wenn ich zu spät komme?"
+  "So what if I'm late?"
 
   On va d'abord à Paris, *puis* à Londres, et enfin à Berlin.
-  Wir fahren zuerst nach Paris, *dann* nach London und schließlich nach Berlin.
+  We go first to Paris, *then* to London and finally to Berlin.
 
   Elle a préparé le repas, *puis* elle a mis la table.
-  Sie hat das Essen zubereitet und *dann* den Tisch gedeckt.
+  She prepared the food and *then* set the table.
 
   "Et *puis* quoi encore !? Tu veux que je fasse tout le travail ?"
-  "Was *denn* noch alles!? Willst du, dass ich die ganze Arbeit mache?"
+  "What else!? Do you want me to do all the work?"
 
   J'ai lu le livre, et *puis* je l'ai prêté à Marie.
-  Ich habe das Buch gelesen und es *dann* Marie geliehen.
+  I read the book and *then* I borrowed it from Marie.
 
   Il y avait Pierre, Jean, et *puis* Sophie qui est arrivée en dernier.
-  Da waren Pierre, Jean und *dann* kam Sophie als Letzte.
+  There were Pierre, Jean, and *then* Sophie came last.
 
   Je n'aime pas ce film, et *puis* il est trop long.
-  Ich mag diesen Film nicht, und *außerdem* ist er zu lang.
+  I don't like this movie, and besides, it's too long.
 
   Le guide nous a montré le musée, *puis* le jardin botanique.
-  Der Führer hat uns das Museum gezeigt und *dann* den botanischen Garten.
+  The guide showed us the museum and *then* the botanical garden.
 
   Ajoutez le sel, *puis* le poivre selon votre goût.
-  Fügen Sie das Salz hinzu, *dann* den Pfeffer nach Geschmack.
+  Add the salt, *then* add the pepper to taste.
 
   Elle est devenue pâle, *puis* rouge de colère.
-  Sie wurde blass und *dann* rot vor Wut.
+  She became pale and *then* red with anger.
 
   "Et *puis*, qu'est-ce que tu en penses ?"
-  "Und was denkst du *dann* darüber?"
+  "*Then* what do you think about it?"
 
   Je vais faire mes devoirs, *puis* je pourrai jouer.
-  Ich werde meine Hausaufgaben machen und *dann* kann ich spielen.
+  I'll do my homework and *then* I can play.
 
   Il a hésité, *puis* il a accepté l'offre.
-  Er zögerte und nahm *dann* das Angebot an.
+  He hesitated and *then* accepted the offer.
 
   D'abord la théorie, *puis* la pratique.
-  Erst die Theorie, *dann* die Praxis.
+  First the theory, *then* the practice.
 
   "Je ne peux pas venir, et *puis* c'est tout !"
-  "Ich kann nicht kommen, und damit *basta*!"
+  "I can't come, and with it, it's base!"
 
   On traverse la rivière, *puis* on tourne à droite.
-  Man überquert den Fluss und biegt *dann* rechts ab.
+  Cross the river and *then* turn right.
 
   Nous visiterons la cathédrale, *puis* nous irons déjeuner.
-  Wir werden die Kathedrale besichtigen und *danach* essen gehen.
+  We will visit the cathedral and then have dinner.
 
   Elle m'a regardé, *puis* elle a souri.
-  Sie hat mich angesehen und *dann* gelächelt.
+  She looked at me and *then* smiled.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

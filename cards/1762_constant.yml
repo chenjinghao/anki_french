@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1762
 Wort: constant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: constant
 Femininum / Plural: constante
 IPA: \kɔ̃.stɑ̃\
-Definition: konstant
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: constant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous travailliez tous de façon *constante*.
-  Ihr habt alle *konstant* gearbeitet.
+  You've all worked constantly.
 
   Les cours boursiers montrent un *constant* redressement depuis plusieurs mois.
-  Die Börsenkurse zeigen seit Monaten eine *anhaltende* Erholung.
+  Stock market prices have been showing a *sustained* recovery for months.
 
   Le *constant* bruit de la circulation m'empêche de dormir.
-  Der *ständige* Verkehrslärm hindert mich am Schlafen.
+  The constant traffic noise prevents me from sleeping.
 
   Elle est restée *constante* dans la poursuite de ses objectifs.
-  Sie ist bei der Verfolgung ihrer Ziele *beharrlich* geblieben.
+  She has remained steadfast in pursuing her goals.
 
   Marie manifeste un intérêt *constant* pour la musique classique.
-  Marie zeigt ein *anhaltendes* Interesse für klassische Musik.
+  Marie shows a persistent interest in classical music.
 
   Cette entreprise maintient une qualité *constante* de ses produits.
-  Dieses Unternehmen hält eine *gleichbleibende* Qualität seiner Produkte.
+  This company maintains a consistent quality of its products.
 
   Il s'est montré *constant* dans ses amitiés depuis l'école.
-  Er hat sich in seinen Freundschaften seit der Schule als *beständig* erwiesen.
+  He has proved himself to be constant in his friendships since school.
 
   Leur bonheur *constant* fait plaisir à voir.
-  Ihr *anhaltendes* Glück ist schön anzusehen.
+  Your continued happiness is beautiful to look at.
 
   Cette *constante* biologique peut indiquer un problème de santé.
-  Dieser biologische *Messwert* kann auf ein gesundheitliches Problem hinweisen.
+  This biological measurement can indicate a health problem.
 
   Les *constantes* d'une politique étrangère évoluent rarement.
-  Die *Grundlinien* einer Außenpolitik ändern sich selten.
+  The *basic lines* of foreign policy rarely change.
 
   La température corporelle est une *constante* physiologique importante.
-  Die Körpertemperatur ist ein wichtiger physiologischer *Messwert*.
+  Body temperature is an important physiological measurement.
 
   Son humeur *constante* facilite le travail en équipe.
-  Seine *gleichbleibende* Stimmung macht die Teamarbeit leichter.
+  Its consistent mood makes teamwork easier.
 
   Les vents *constants* soufflent toujours dans la même direction.
-  Die *konstanten* Winde wehen immer in dieselbe Richtung.
+  The *constant* winds always blow in the same direction.
 
   Cette équation contient plusieurs *constantes* mathématiques.
-  Diese Gleichung enthält mehrere mathematische *Konstanten*.
+  This equation contains several mathematical *constants*.
 
   La *constante* de Planck est fondamentale en physique quantique.
-  Die Planck'sche *Konstante* ist grundlegend in der Quantenphysik.
+  The Planck *constant* is fundamental in quantum physics.
 
   Son soutien *constant* m'a beaucoup aidé pendant cette période difficile.
-  Seine *stetige* Unterstützung hat mir in dieser schwierigen Zeit sehr geholfen.
+  His constant support helped me a lot during this difficult time.
 
   Les prix sont calculés en monnaie *constante* pour éliminer l'effet de l'inflation.
-  Die Preise werden in *konstanter* Währung berechnet, um den Inflationseffekt zu eliminieren.
+  Prices are calculated in *constant* currency to eliminate the inflation effect.
 
   La fonction f(x) = 5 est une fonction *constante*.
-  Die Funktion f(x) = 5 ist eine *konstante* Funktion.
+  The function f(x) = 5 is a *constant* function.
 
   Un effort *constant* est nécessaire pour apprendre une langue.
-  Eine *beständige* Anstrengung ist notwendig, um eine Sprache zu lernen.
+  A constant effort is necessary to learn a language.
 
   Cette *constante* astronomique aide à calculer la position des étoiles.
-  Diese astronomische *Konstante* hilft bei der Berechnung der Sternenposition.
+  This astronomical *constant* helps to calculate the star position.
 
   La pression artérielle est une *constante* vitale à surveiller.
-  Der Blutdruck ist ein zu überwachender vitaler *Messwert*.
+  Blood pressure is a vital reading to be monitored.
 
   Son attitude *constante* face aux défis force le respect.
-  Seine *beständige* Haltung gegenüber Herausforderungen nötigt Respekt ab.
+  His constant attitude towards challenges requires respect.
 
   La *constante* solaire mesure l'énergie reçue du Soleil.
-  Die Solar*konstante* misst die von der Sonne empfangene Energie.
+  The solar *constant* measures the energy received from the sun.
 
   Il fait preuve d'une vigilance *constante* dans son travail.
-  Er zeigt *anhaltende* Wachsamkeit bei seiner Arbeit.
+  He shows continued vigilance in his work.
 
   Les chercheurs ont identifié plusieurs *constantes* dans le comportement animal.
-  Die Forscher haben mehrere *Konstanten* im Tierverhalten identifiziert.
+  The researchers have identified several *constants* in animal behavior.
 
   Une surveillance *constante* est nécessaire pour ce patient.
-  Eine *ständige* Überwachung ist für diesen Patienten erforderlich.
+  Continuous monitoring is required for this patient.
 
   La gentillesse *constante* de ma grand-mère me manque beaucoup.
-  Die *beständige* Freundlichkeit meiner Großmutter fehlt mir sehr.
+  I miss the constant kindness of my grandmother very much.
 
   Ces changements de température nécessitent une attention *constante*.
-  Diese Temperaturschwankungen erfordern *ständige* Aufmerksamkeit.
+  These temperature fluctuations require constant attention.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

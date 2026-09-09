@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3090
 Wort: touchant
 Wortart: prep, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: touchant
 Femininum / Plural: touchante
 IPA: \tu.ʃɑ̃\
-Definition: betreffend; rührend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: concerning; touching
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un personnage très *touchant*.
-  Er ist eine sehr *rührende* Figur.
+  He's a very touching figure.
 
   Cette lettre d'adieu était vraiment *touchante*.
-  Dieser Abschiedsbrief war wirklich *ergreifend*.
+  This suicide note was really touching.
 
   Elle a raconté une histoire *touchante* de son enfance.
-  Sie erzählte eine *rührende* Geschichte aus ihrer Kindheit.
+  She told a touching story from her childhood.
 
   *Touchant* ce dossier, je dois vous informer de quelques changements.
-  *Was* diese Akte *betrifft*, muss ich Sie über einige Änderungen informieren.
+  As far as this file is concerned, I need to inform you of some changes.
 
   La petite fille était *touchante* de naïveté.
-  Das kleine Mädchen war *rührend* in seiner Naivität.
+  The little girl was touching in her naivety.
 
   Cette cérémonie d'hommage était particulièrement *touchante*.
-  Diese Gedenkfeier war besonders *bewegend*.
+  This memorial was particularly *moving*.
 
   Il a prononcé un discours *touchant* lors du mariage.
-  Er hielt eine *ergreifende* Rede auf der Hochzeit.
+  He gave a poignant speech at the wedding.
 
   *Touchant* votre demande, nous devons malheureusement refuser.
-  *Was* Ihren Antrag *betrifft*, müssen wir leider ablehnen.
+  As far as your motion is concerned, we have to reject it.
 
   Le geste de solidarité des voisins était vraiment *touchant*.
-  Die Geste der Solidarität der Nachbarn war wirklich *rührend*.
+  The gesture of solidarity of the neighbours was truly touching.
 
   Cette scène de retrouvailles était très *touchante*.
-  Diese Wiedersehenszene war sehr *bewegend*.
+  This reunion scene was very *moving*.
 
   *Touchant* cette question, les experts restent divisés.
-  *Bezüglich* dieser Frage bleiben die Experten gespalten.
+  The experts remain divided on this issue.
 
   Le film raconte une histoire *touchante* d'amitié.
-  Der Film erzählt eine *bewegende* Geschichte über Freundschaft.
+  The film tells a *moving* story about friendship.
 
   Son message de remerciement était *touchant* de sincérité.
-  Seine Dankesbotschaft war *rührend* aufrichtig.
+  His message of thanks was touchingly sincere.
 
   La réaction spontanée des enfants était *touchante*.
-  Die spontane Reaktion der Kinder war *herzergreifend*.
+  The spontaneous reaction of the children was *heartbreaking*.
 
   *Touchant* ces rumeurs, je préfère ne pas me prononcer.
-  *Was* diese Gerüchte *angeht*, möchte ich mich nicht äußern.
+  As far as these rumors are concerned, I do not want to comment.
 
   Les efforts du vieil homme étaient *touchants* de persévérance.
-  Die Bemühungen des alten Mannes waren *rührend* in ihrer Beharrlichkeit.
+  The efforts of the old man were touching in their perseverance.
 
   Cette preuve d'amour était vraiment *touchante*.
-  Dieser Liebesbeweis war wirklich *bewegend*.
+  That love proof was really *moving*.
 
   Je n'ai rien à dire *touchant* cette affaire.
-  Ich habe nichts *zu* dieser Angelegenheit zu sagen.
+  I have nothing *to* say about this matter.
 
   Son dévouement envers sa famille était *touchant*.
-  Seine Hingabe für seine Familie war *rührend*.
+  His dedication to his family was touching.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

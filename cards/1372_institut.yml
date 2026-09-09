@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1372
 Wort: institut
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un institut
 Femininum / Plural: ''
 IPA: \ɛ̃s.ti.ty\
-Definition: Institut
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Institute
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   À l'*institut*, j'ai été formée à l'orthophonie.
-  Am *Institut* wurde ich zur Logopädin ausgebildet.
+  At the *institute*, I was trained as a speech therapist.
 
   L'*Institut* de France occupe un magnifique bâtiment du XVII<sup>e</sup> siècle.
-  Das französische *Institut* befindet sich in einem wunderschönen Gebäude aus dem 17. Jahrhundert.
+  The French *Institute* is housed in a beautiful 17th century building.
 
   Elle travaille dans un *institut* de beauté depuis cinq ans.
-  Sie arbeitet seit fünf Jahren in einem Beauty-*Institut*.
+  She's been working at a beauty *institute* for five years.
 
   Les chercheurs de l'*institut* mènent une étude sur le changement climatique.
-  Die Forscher des *Instituts* führen eine Studie zum Klimawandel durch.
+  The *Institute*'s researchers are conducting a study on climate change.
 
   Marie dirige l'*institut* de formation des enseignants.
-  Marie leitet das Lehrer*institut*.
+  Marie runs the teacher's institute.
 
   L'*institut* de recherche a publié ses résultats hier.
-  Das Forschungs*institut* hat gestern seine Ergebnisse veröffentlicht.
+  The research institute published its results yesterday.
 
   Mon frère étudie à l'*institut* universitaire de technologie.
-  Mein Bruder studiert an der Fach*hochschule*.
+  My brother's studying at college.
 
   Cet *institut* de sondage prédit une hausse du chômage.
-  Dieses Meinungsforschungs*institut* sagt einen Anstieg der Arbeitslosigkeit voraus.
+  This opinion research institute predicts an increase in unemployment.
 
   L'*institut* Pasteur a développé un nouveau vaccin.
-  Das Pasteur-*Institut* hat einen neuen Impfstoff entwickelt.
+  The Pasteur *Institute* has developed a new vaccine.
 
   Elle s'est inscrite dans un *institut* de langues.
-  Sie hat sich an einem Sprach*institut* angemeldet.
+  She signed up to a language institute.
 
   Le directeur de l'*institut* a démissionné ce matin.
-  Der Direktor des *Instituts* ist heute Morgen zurückgetreten.
+  The director of the *institute* resigned this morning.
 
   Nous avons visité l'*institut* français d'archéologie.
-  Wir haben das französische Archäologie-*Institut* besucht.
+  We visited the French Archaeology *Institute*.
 
   L'*institut* de statistiques a publié les chiffres du mois dernier.
-  Das Statistik-*Institut* hat die Zahlen vom letzten Monat veröffentlicht.
+  The Statistical *Institute* published the figures from last month.
 
   Mon cousin travaille à l'*institut* national de la santé.
-  Mein Cousin arbeitet am nationalen Gesundheits*institut*.
+  My cousin works at the National Health Institute.
 
   L'*institut* médico-légal a identifié la victime.
-  Das rechtsmedizinische *Institut* hat das Opfer identifiziert.
+  The *Institute* of Legal Medicine has identified the victim.
 
   Pierre enseigne dans un *institut* privé.
-  Pierre unterrichtet an einem privaten *Institut*.
+  Pierre teaches at a private *institute*.
 
   L'*institut* de recherche spatiale recrute des ingénieurs.
-  Das Weltraumforschungs*institut* stellt Ingenieure ein.
+  The Space Research Institute hires engineers.
 
   Cet *institut* religieux accueille des novices du monde entier.
-  Dieses religiöse *Institut* nimmt Novizen aus der ganzen Welt auf.
+  This religious *institute* welcomes novices from all over the world.
 
   L'*institut* d'études politiques organise une conférence internationale.
-  Das politikwissenschaftliche *Institut* organisiert eine internationale Konferenz.
+  The political science *institute* organizes an international conference.
 
   Les étudiants de l'*institut* participent à un projet innovant.
-  Die Studenten des *Instituts* nehmen an einem innovativen Projekt teil.
+  The students of the *institute* participate in an innovative project.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

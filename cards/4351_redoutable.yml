@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4351
 Wort: redoutable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: redoutable
 Femininum / Plural: ''
 IPA: \ʁə.du.tabl\
-Definition: gefürchtet, furchterregend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Feared, Fearing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu as été notre plus *redoutable* ennemi.
-  Du warst unser *gefährlichster* Feind.
+  You were our *most dangerous* enemy.
 
   Le virus qui se propage est un adversaire *redoutable*.
-  Das sich ausbreitende Virus ist ein *furchterregender* Gegner.
+  The spreading virus is a terrifying enemy.
 
   Cette épée est une arme *redoutable* entre les mains d'un expert.
-  Dieses Schwert ist eine *gefährliche* Waffe in den Händen eines Experten.
+  This sword is a *dangerous* weapon in the hands of an expert.
 
   Le cancer reste une maladie *redoutable*.
-  Krebs bleibt eine *beängstigende* Krankheit.
+  Cancer remains a frightening disease.
 
   Avec son intelligence *redoutable*, elle résout tous les problèmes.
-  Mit ihrer *beeindruckenden* Intelligenz löst sie alle Probleme.
+  With her *impressive* intelligence, she solves all the problems.
 
   Il fait preuve d'une efficacité *redoutable* dans son travail.
-  Er zeigt eine *erstaunliche* Effizienz bei seiner Arbeit.
+  He shows an *amazing* efficiency in his work.
 
   Le juge était connu pour être *redoutable* dans ses jugements.
-  Der Richter war dafür bekannt, in seinen Urteilen *gefürchtet* zu sein.
+  The judge was known to be *feared* in his judgments.
 
   L'équipe affrontera une épreuve *redoutable* demain.
-  Das Team wird morgen eine *furchterregende* Prüfung bestehen müssen.
+  The team will have to pass a *terrifying* test tomorrow.
 
   Les colères de mon père étaient *redoutables*.
-  Die Wutausbrüche meines Vaters waren *erschreckend*.
+  My father's outbursts of anger were *terrifying*.
 
   Avec son aspect *redoutable*, le chien garde bien la maison.
-  Mit seinem *furchteinflößenden* Aussehen bewacht der Hund das Haus gut.
+  With its *terrifying* appearance, the dog guards the house well.
 
   Il fait un froid *redoutable* ce matin.
-  Heute Morgen herrscht eine *schreckliche* Kälte.
+  There's a terrible cold this morning.
 
   Son talent d'orateur est vraiment *redoutable*.
-  Sein Rednertalent ist wirklich *beachtlich*.
+  His talent for speaking is truly remarkable.
 
   Cette tempête s'annonce *redoutable*.
-  Dieser Sturm kündigt sich *bedrohlich* an.
+  This storm is *threatening*.
 
   Les conséquences de cette décision peuvent être *redoutables*.
-  Die Folgen dieser Entscheidung können *erschreckend* sein.
+  The consequences of this decision can be frightening.
 
   Sa mémoire *redoutable* impressionne tout le monde.
-  Sein *erstaunliches* Gedächtnis beeindruckt alle.
+  His *amazing* memory impresses everyone.
 
   Le tigre est un prédateur *redoutable*.
-  Der Tiger ist ein *gefürchteter* Jäger.
+  The tiger is a dreaded hunter.
 
   La concurrence sur ce marché est *redoutable*.
-  Die Konkurrenz auf diesem Markt ist *beängstigend*.
+  Competition in this market is frightening.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

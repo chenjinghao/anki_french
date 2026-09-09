@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 931
 Wort: juin
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le juin
 Femininum / Plural: ''
 IPA: \ʒɥɛ̃\
-Definition: Juni
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: June
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Deux pays ont signé en *juin* un accord.
-  Zwei Länder haben im *Juni* ein Abkommen unterzeichnet.
+  Two countries signed an agreement in *June*.
 
   Les fleurs s'épanouissent magnifiquement en *juin*.
-  Die Blumen blühen im *Juni* wunderschön.
+  The flowers bloom beautifully in *June*.
 
   La température moyenne en *juin* était plus élevée que d'habitude.
-  Die Durchschnittstemperatur im *Juni* war höher als gewöhnlich.
+  The average temperature in *June* was higher than usual.
 
   Le soleil se couche plus tard en *juin* qu'en mai.
-  Die Sonne geht im *Juni* später unter als im Mai.
+  The sun goes down in *June* later than in May.
 
   Mon fils est né à la mi-*juin*.
-  Mein Sohn wurde Mitte *Juni* geboren.
+  My son was born in mid-*June*.
 
   L'été commence avec le solstice de *juin*.
-  Der Sommer beginnt mit der *Juni*-Sonnenwende.
+  The summer begins with the *June* solstice.
 
   En *juin*, nous partirons en vacances à la mer.
-  Im *Juni* fahren wir ans Meer in den Urlaub.
+  In *June* we go to the sea on holiday.
 
   Le festival aura lieu du 1er au 15 *juin*.
-  Das Festival findet vom 1. bis zum 15. *Juni* statt.
+  The festival will take place from 1st to 15th *June*.
 
   Je me marierai en *juin* prochain.
-  Ich werde nächsten *Juni* heiraten.
+  I'm getting married next *June*.
 
   Nous avons eu beaucoup de pluie en *juin* dernier.
-  Wir hatten letzten *Juni* viel Regen.
+  We had a lot of rain last *June*.
 
   Le jardin est particulièrement beau en *juin*.
-  Der Garten ist im *Juni* besonders schön.
+  The garden is particularly beautiful in *June*.
 
   Les examens finaux auront lieu fin *juin*.
-  Die Abschlussprüfungen finden Ende *Juni* statt.
+  The final examinations will take place at the end of *June*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

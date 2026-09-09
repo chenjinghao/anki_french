@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 945
 Wort: environnement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un environnement
 Femininum / Plural: ''
 IPA: \ɑ̃.vi.ʁɔn.mɑ̃\
-Definition: Umwelt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Environment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous rejetons la nécessité de protéger notre *environnement*.
-  Wir weisen die Notwendigkeit zurück, unsere *Umwelt* zu schützen.
+  We reject the need to protect our *environment*.
 
   Le ministère de l'*environnement* a annoncé de nouvelles mesures écologiques.
-  Das *Umwelt*ministerium hat neue Umweltmaßnahmen angekündigt.
+  The Ministry of the *Environment* has announced new environmental measures.
 
   Dans son *environnement* familial, elle se sent en sécurité.
-  In ihrem familiären *Umfeld* fühlt sie sich sicher.
+  She feels safe in her family *environment*.
 
   Les nouvelles constructions doivent s'intégrer harmonieusement dans leur *environnement*.
-  Die neuen Gebäude müssen sich harmonisch in ihre *Umgebung* einfügen.
+  The new buildings must blend harmoniously into their surroundings.
 
   L'*environnement* politique actuel n'est pas favorable aux réformes.
-  Das politische *Umfeld* ist derzeit nicht günstig für Reformen.
+  The political *environment* is currently not favourable for reforms.
 
   Le petit village est situé dans un *environnement* de montagnes spectaculaires.
-  Das kleine Dorf liegt in einer *Umgebung* von spektakulären Bergen.
+  The small village is located in an *environment* of spectacular mountains.
 
   L'artiste crée un *environnement* immersif avec des lumières et des sons.
-  Der Künstler schafft eine immersive *Umgebung* mit Lichtern und Klängen.
+  The artist creates an immersive *environment* with lights and sounds.
 
   Les changements dans l'*environnement* naturel affectent toutes les espèces.
-  Die Veränderungen in der natürlichen *Umwelt* betreffen alle Arten.
+  The changes in the natural *environment* affect all species.
 
   Son *environnement* de travail est rempli de livres et de documents.
-  Seine Arbeits*umgebung* ist voller Bücher und Dokumente.
+  His working *environment* is full of books and documents.
 
   Le département de l'*environnement* examine les demandes de permis.
-  Das *Umwelt*ressort prüft die Genehmigungsanträge.
+  The environmental department shall examine the applications for authorisation.
 
   L'*environnement* culturel de la ville favorise la créativité.
-  Das kulturelle *Umfeld* der Stadt fördert die Kreativität.
+  The cultural *environment* of the city promotes creativity.
 
   Les infractions contre l'*environnement* seront sévèrement punies.
-  Verstöße gegen die *Umwelt* werden streng bestraft.
+  Violations of the *environment* are severely punished.
 
   L'*environnement* économique incertain inquiète les investisseurs.
-  Das unsichere wirtschaftliche *Umfeld* beunruhigt die Investeure.
+  The uncertain economic *environment* worries the investors.
 
   Il faut adapter l'*environnement* informatique aux besoins des utilisateurs.
-  Die Computer*umgebung* muss an die Bedürfnisse der Benutzer angepasst werden.
+  The computer *environment* must be adapted to the needs of the users.
 
   Les étudiants profitent d'un *environnement* d'apprentissage stimulant.
-  Die Studierenden profitieren von einem stimulierenden Lern*umfeld*.
+  Students benefit from a stimulating learning environment.
 
   La pollution menace gravement notre *environnement* naturel.
-  Die Verschmutzung bedroht unsere natürliche *Umwelt* ernsthaft.
+  Pollution is seriously threatening our natural *environment*.
 
   L'architecte a créé un *environnement* parfaitement adapté aux personnes âgées.
-  Der Architekt hat eine *Umgebung* geschaffen, die perfekt an ältere Menschen angepasst ist.
+  The architect has created an *environment* that is perfectly adapted to the elderly.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

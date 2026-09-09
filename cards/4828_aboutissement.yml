@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4828
 Wort: aboutissement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un aboutissement
 Femininum / Plural: ''
 IPA: \a.bu.tis.mɑ̃\
-Definition: Ergebnis, Erfüllung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Result, fulfilment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis l'*aboutissement* de tous ces instincts.
-  Ich bin das *Ergebnis* all dieser Instinkte.
+  I'm the *result* of all these instincts.
 
   L'*aboutissement* de ses efforts a été récompensé par une médaille d'or.
-  Der *Erfolg* seiner Bemühungen wurde mit einer Goldmedaille belohnt.
+  The *success* of his efforts was rewarded with a gold medal.
 
   Cette découverte représente l'*aboutissement* de dix années de recherche intensive.
-  Diese Entdeckung stellt das *Ergebnis* von zehn Jahren intensiver Forschung dar.
+  This discovery is the *result* of ten years of intensive research.
 
   L'*aboutissement* de l'autoroute se trouve à deux kilomètres de la ville.
-  Der *Endpunkt* der Autobahn liegt zwei Kilometer von der Stadt entfernt.
+  The end point of the highway is two kilometers from the city.
 
   Nous attendons avec impatience l'*aboutissement* du projet.
-  Wir warten ungeduldig auf den *Abschluss* des Projekts.
+  We are waiting impatiently for the project to be completed.
 
   L'exposition est l'*aboutissement* naturel de son travail artistique.
-  Die Ausstellung ist der natürliche *Höhepunkt* seiner künstlerischen Arbeit.
+  The exhibition is the natural highlight of his artistic work.
 
   Ces négociations ont trouvé leur *aboutissement* dans un accord historique.
-  Diese Verhandlungen fanden ihren *Abschluss* in einem historischen Abkommen.
+  These negotiations were concluded in a historic agreement.
 
   L'*aboutissement* de ses rêves d'enfant l'a rendu très heureux.
-  Die *Verwirklichung* seiner Kindheitsträume hat ihn sehr glücklich gemacht.
+  The realization of his childhood dreams made him very happy.
 
   Voici l'*aboutissement* logique de toutes nos discussions.
-  Das ist das logische *Ergebnis* all unserer Diskussionen.
+  This is the logical *result* of all our discussions.
 
   Cette cérémonie marque l'*aboutissement* de leurs études.
-  Diese Zeremonie markiert den *Abschluss* ihres Studiums.
+  This ceremony marks the *completion* of her studies.
 
   L'*aboutissement* de cette affaire nous a tous surpris.
-  Der *Ausgang* dieser Angelegenheit hat uns alle überrascht.
+  The outcome of this matter surprised us all.
 
   Marie voit enfin l'*aboutissement* de son dur labeur.
-  Marie sieht endlich das *Ergebnis* ihrer harten Arbeit.
+  Marie finally sees the *result* of her hard work.
 
   L'*aboutissement* de ces années de privation fut l'achat d'une maison.
-  Das *Resultat* dieser Jahre der Entbehrung war der Kauf eines Hauses.
+  The *result* of these years of deprivation was the purchase of a house.
 
   C'est l'*aboutissement* naturel d'une longue évolution.
-  Das ist der natürliche *Endpunkt* einer langen Entwicklung.
+  This is the natural end point of a long development.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

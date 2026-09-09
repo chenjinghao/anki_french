@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2733
 Wort: inhabituel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inhabituel
 Femininum / Plural: inhabituelle
 IPA: \i.na.bi.tɥɛl\
-Definition: ungewöhnlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: unusual
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous nous trouvons dans une situation *inhabituelle*.
-  Wir befinden uns in einer *ungewöhnlichen* Situation.
+  We are in an *unusual* situation.
 
   Le magasin ferme à une heure *inhabituelle* aujourd'hui.
-  Der Laden schließt heute zu einer *ungewohnten* Zeit.
+  The store is closing today at an unusual time.
 
   Une *inhabituelle* agitation régnait dans le quartier ce matin-là.
-  Eine *ungewöhnliche* Unruhe herrschte an diesem Morgen im Viertel.
+  There was an *unusual* unrest this morning in the neighborhood.
 
   Les prix sont devenus *inhabituels* pour ce type de produit.
-  Die Preise sind für diese Art von Produkt *unüblich* geworden.
+  The prices have become unusual for this type of product.
 
   J'ai remarqué un comportement *inhabituel* chez mon chat hier soir.
-  Ich habe gestern Abend bei meiner Katze ein *ungewöhnliches* Verhalten bemerkt.
+  I noticed an *unusual* behavior on my cat last night.
 
   Ce bruit *inhabituel* m'a réveillé en pleine nuit.
-  Dieses *ungewohnte* Geräusch hat mich mitten in der Nacht geweckt.
+  This unusual sound woke me up in the middle of the night.
 
   Il a fait un geste *inhabituel* de la main pour nous saluer.
-  Er machte eine *ungewöhnliche* Handbewegung zur Begrüßung.
+  He made an *unusual* gesture of hand to greet.
 
   Cette chaleur *inhabituelle* en avril inquiète les agriculteurs.
-  Diese für April *ungewöhnliche* Hitze beunruhigt die Landwirte.
+  This *unusual* heat for April worries farmers.
 
   Le silence *inhabituel* dans la rue nous a tous surpris.
-  Die *ungewohnte* Stille auf der Straße hat uns alle überrascht.
+  The unusual silence on the street surprised us all.
 
   La voiture fait un bruit *inhabituel* depuis ce matin.
-  Das Auto macht seit heute Morgen ein *ungewöhnliches* Geräusch.
+  The car has been making an *unusual* noise since this morning.
 
   Son absence *inhabituelle* nous a tous inquiétés.
-  Seine *ungewöhnliche* Abwesenheit hat uns alle beunruhigt.
+  His *unusual* absence has troubled all of us.
 
   L'entreprise a connu une croissance *inhabituelle* cette année.
-  Das Unternehmen hat dieses Jahr ein *ungewöhnliches* Wachstum verzeichnet.
+  The company has experienced *unusual* growth this year.
 
   Ces conditions météorologiques *inhabituelles* persistent depuis une semaine.
-  Diese *ungewöhnlichen* Wetterbedingungen halten seit einer Woche an.
+  These *unusual* weather conditions have been going on for a week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4344
 Wort: substituer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: substituer
 Femininum / Plural: ''
 IPA: \syps.ti.tɥe\
-Definition: ersetzen, austauschen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: replace, replace
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les insultes ne sauraient se *substituer* à la discussion.
-  Beleidigungen können die Diskussion nicht *ersetzen*.
+  Insults cannot *replace* the discussion.
 
   Dans ce cours, on peut *substituer* le travail en groupe à l'exposé individuel.
-  In diesem Kurs kann man die Einzelpräsentation durch Gruppenarbeit *ersetzen*.
+  In this course you can *replace* the individual presentation with group work.
 
   Le professeur malade a été *substitué* par un remplaçant expérimenté.
-  Der kranke Lehrer wurde durch einen erfahrenen Ersatz *vertreten*.
+  The sick teacher was *represented* by an experienced replacement.
 
   Pour cette recette, vous pouvez *substituer* le beurre par de l'huile d'olive.
-  Für dieses Rezept können Sie die Butter durch Olivenöl *ersetzen*.
+  For this recipe you can *replace* the butter with olive oil.
 
   L'intelligence artificielle ne pourra jamais se *substituer* complètement à l'intelligence humaine.
-  Künstliche Intelligenz wird menschliche Intelligenz nie vollständig *ersetzen* können.
+  Artificial intelligence will never completely *replace* human intelligence.
 
   Le journal en ligne s'est *substitué* progressivement à l'édition papier.
-  Die Online-Zeitung hat die Printausgabe nach und nach *ersetzt*.
+  The online newspaper has gradually *replaced* the print edition.
 
   Les voitures électriques se *substituent* peu à peu aux véhicules traditionnels.
-  Elektrische Autos *ersetzen* nach und nach traditionelle Fahrzeuge.
+  Electric cars gradually *replace* traditional vehicles.
 
   Dans cette équation chimique, l'atome d'hydrogène se *substitue* à l'atome de chlore.
-  In dieser chemischen Gleichung *ersetzt* das Wasserstoffatom das Chloratom.
+  In this chemical equation, the hydrogen atom replaces the chlorine atom.
 
   Le père a *substitué* sa fille à son fils comme héritière principale.
-  Der Vater hat seine Tochter anstelle seines Sohnes als Haupterbin *eingesetzt*.
+  The father has appointed his daughter as the chief heir instead of his son.
 
   Je refuse de me *substituer* à vos responsabilités parentales.
-  Ich weigere mich, Ihre elterlichen Pflichten zu *übernehmen*.
+  I refuse to *take over* your parental duties.
 
   Les nouvelles technologies se sont *substituées* aux méthodes traditionnelles d'enseignement.
-  Neue Technologien haben traditionelle Lehrmethoden *ersetzt*.
+  New technologies have *replaced* traditional teaching methods.
 
   Il faut *substituer* des mots plus appropriés à ces expressions familières.
-  Diese umgangssprachlichen Ausdrücke müssen durch passendere Wörter *ersetzt* werden.
+  These colloquial expressions must be *replaced* by more appropriate words.
 
   Le jeune acteur a dû *substituer* la vedette au pied levé.
-  Der junge Schauspieler musste kurzfristig für den Star *einspringen*.
+  The young actor had to join the star at short notice.
 
   Dans ce nouveau système, l'euro s'est *substitué* aux anciennes monnaies nationales.
-  In diesem neuen System hat der Euro die alten nationalen Währungen *ersetzt*.
+  In this new system, the euro has *replaced* the old national currencies.
 
   Les énergies renouvelables doivent se *substituer* aux combustibles fossiles.
-  Erneuerbare Energien müssen fossile Brennstoffe *ersetzen*.
+  Renewable energy must *replace* fossil fuels.
 
   L'auteur a *substitué* des personnages fictifs aux personnes réelles.
-  Der Autor hat die realen Personen durch fiktive Charaktere *ersetzt*.
+  The author has *replaced* the real characters with fictional characters.
 
   Le comité peut *substituer* un autre candidat si le premier se désiste.
-  Das Komitee kann einen anderen Kandidaten *einsetzen*, falls der erste zurücktritt.
+  The committee may appoint another candidate if the first resigns.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>remplacer</i> und <i>substituer</i></div>
+    <div class="section-title"><i>remplacer</i> and <i>substituer</i></div>
     <div class="section-content">
-      <p><span class="fr">Remplacer</span> (#448) bedeutet <span class="de">"ersetzen"</span> und wird verwendet, wenn etwas oder jemand die Stelle von etwas anderem einnimmt. Es ist das gebräuchlichere Verb im Alltag.</p>
+      <p><span class="fr">Remplacer</span> (#448) means <span class="de">"ersetzen"</span> and is used when something or someone takes the place of something else. It is the more common verb in everyday life.</p>
       <div class="examples">
         <div class="fr">Il faut remplacer cette ampoule cassée.</div>
-        <div class="de spoiler">Man muss diese kaputte Glühbirne ersetzen.</div>
+        <div class="de spoiler">You have to replace this broken light bulb.</div>
         <div class="fr">Elle va remplacer le directeur pendant ses vacances.</div>
-        <div class="de spoiler">Sie wird den Direktor während seines Urlaubs vertreten.</div>
+        <div class="de spoiler">She will represent the director during his vacation.</div>
       </div>
-      <p><span class="fr">Substituer</span> bedeutet ebenfalls <span class="de">"ersetzen"</span> oder <span class="de">"substituieren"</span>, wird aber hauptsächlich in formelleren oder technischen Kontexten verwendet. Es betont oft den Austausch von etwas durch etwas Ähnliches.</p>
+      <p><span class="fr">Substituer</span> means ebenfalls <span class="de">"ersetzen"</span> or <span class="de">"substituieren"</span>But it's mainly used in more formal or technical contexts, and it often emphasizes the exchange of something by something similar.</p>
       <div class="examples">
         <div class="fr">Le médecin a décidé de substituer ce médicament par un autre.</div>
-        <div class="de spoiler">Der Arzt entschied, dieses Medikament durch ein anderes zu ersetzen.</div>
+        <div class="de spoiler">The doctor decided to replace this medicine with another one.</div>
         <div class="fr">Dans cette recette, on peut substituer le beurre par de l'huile.</div>
-        <div class="de spoiler">In diesem Rezept kann man die Butter durch Öl ersetzen.</div>
+        <div class="de spoiler">In this recipe you can replace the butter with oil.</div>
       </div>
     </div>
   </div>

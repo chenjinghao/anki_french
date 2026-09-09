@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1227
 Wort: accident
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un accident
 Femininum / Plural: ''
 IPA: \ak.si.dɑ̃\
-Definition: Unfall
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Accident
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle est morte d'un *accident*.
-  Sie starb bei einem *Unfall*.
+  She died in an *accident*.
 
   C'est un miracle qu'il ait survécu à cet *accident* d'avion.
-  Es ist ein Wunder, dass er diesen Flug*unfall* überlebt hat.
+  It's a miracle that he survived this flight *accident*.
 
   Hier, j'ai eu un petit *accident* en cuisine : j'ai fait tomber toute la sauce.
-  Gestern hatte ich ein kleines *Missgeschick* in der Küche: Ich habe die ganze Soße fallen lassen.
+  Yesterday, I had a little mishap in the kitchen: I dropped the whole sauce.
 
   Les *accidents* de la route sont la première cause de mortalité chez les jeunes.
-  Die Verkehrs*unfälle* sind die häufigste Todesursache bei jungen Menschen.
+  Traffic *accidents* are the most common cause of death among young people.
 
   Son grand-père a eu un *accident* cérébral la semaine dernière.
-  Ihr Großvater hatte letzte Woche einen Gehirn*infarkt*.
+  Your grandfather had a brain *infarction* last week.
 
   Les pompiers sont arrivés sur le lieu de l'*accident* en moins de cinq minutes.
-  Die Feuerwehr war in weniger als fünf Minuten am *Unfall*ort.
+  The fire department was at the scene in less than five minutes.
 
   Un terrible *accident* maritime a eu lieu près des côtes italiennes.
-  Ein schreckliches Schiffs*unglück* ereignete sich vor der italienischen Küste.
+  A terrible ship accident occurred off the Italian coast.
 
   J'ai découvert ce restaurant par *accident*, mais c'était une belle surprise.
-  Ich habe dieses Restaurant durch *Zufall* entdeckt, aber es war eine schöne Überraschung.
+  I discovered this restaurant by chance, but it was a nice surprise.
 
   Le conducteur du camion n'a pas été blessé dans l'*accident*.
-  Der LKW-Fahrer wurde bei dem *Unfall* nicht verletzt.
+  The truck driver was not injured in the *accident*.
 
   Marie a eu un *accident* domestique en essayant de réparer sa machine à laver.
-  Marie hatte einen Haushalts*unfall*, als sie versuchte, ihre Waschmaschine zu reparieren.
+  Marie had a household *accident* when she tried to fix her washing machine.
 
   Cet échec n'est qu'un *accident* de parcours dans sa carrière.
-  Dieser Misserfolg ist nur ein kleiner *Rückschlag* in seiner Karriere.
+  This failure is just a small *setback* in his career.
 
   Il y a eu trois *accidents* graves sur cette route depuis le début de l'année.
-  Es gab seit Jahresbeginn drei schwere *Unfälle* auf dieser Straße.
+  There have been three major *accidents* on this road since the beginning of the year.
 
   Les experts analysent encore les causes de l'*accident*.
-  Die Experten untersuchen noch die *Unfall*ursachen.
+  The experts are still investigating the causes of the *accident*.
 
   Sauf *accident*, nous arriverons demain vers midi.
-  Wenn kein *Zwischenfall* dazwischenkommt, werden wir morgen gegen Mittag ankommen.
+  If there's no *incident*, we'll arrive by noon tomorrow.
 
   La compagnie d'assurance refuse de couvrir cet *accident*.
-  Die Versicherung weigert sich, diesen *Unfall* zu decken.
+  The insurance company refuses to cover this *accident*.
 
   Les risques d'*accident* sont plus élevés pendant les mois d'hiver.
-  Die *Unfall*gefahr ist in den Wintermonaten höher.
+  The risk of accidents is higher in the winter months.
 
   Un *accident* a endeuillé la course automobile d'hier.
-  Ein *Unfall* überschattete das gestrige Autorennen.
+  An *accident* overshadowed yesterday's car race.
 
   Les soldats ont utilisé les *accidents* de terrain pour se cacher.
-  Die Soldaten nutzten die Gelände*unebenheiten* als Deckung.
+  The soldiers used the terrain imperfections as cover.
 
   L'*accident* cardiaque l'a surpris pendant son jogging.
-  Der Herz*infarkt* überraschte ihn beim Joggen.
+  The heart attack surprised him while jogging.
 
   Cette cicatrice est le résultat d'un *accident* de travail.
-  Diese Narbe ist das Ergebnis eines Arbeits*unfalls*.
+  This scar is the result of an accident at work.
 
   Les *accidents* peuvent arriver même dans les maisons les plus sûres.
-  *Unfälle* können selbst in den sichersten Häusern passieren.
+  *Accidents* can happen even in the safest homes.
 
   Le pilote a évité l'*accident* grâce à ses réflexes.
-  Der Pilot verhinderte den *Unfall* dank seiner Reflexe.
+  The pilot prevented the *accident* thanks to his reflexes.
 
   La police enquête sur les circonstances de l'*accident*.
-  Die Polizei ermittelt die *Unfall*umstände.
+  The police are investigating the circumstances of the *accident*.
 
   Mon retard n'était pas intentionnel, c'était un *accident*.
-  Meine Verspätung war keine Absicht, es war ein *Versehen*.
+  My delay was not intentional, it was an accident.
 
   Un panneau signale le risque d'*accident* dans ce virage dangereux.
-  Ein Schild warnt vor *Unfall*gefahr in dieser gefährlichen Kurve.
+  A sign warns of the risk of *accident* in this dangerous curve.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

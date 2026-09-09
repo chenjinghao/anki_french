@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3056
 Wort: accessible
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: accessible
 Femininum / Plural: ''
 IPA: \ak.sɛ.sibl\
-Definition: zugänglich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Accessible
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je pense être un patron plutôt *accessible*.
-  Ich denke, ich bin ein ziemlich *zugänglicher* Chef.
+  I think I'm a pretty accessible boss.
 
   Le sommet de cette montagne n'est pas *accessible* en voiture.
-  Der Gipfel dieses Berges ist mit dem Auto nicht *erreichbar*.
+  The top of this mountain is not accessible by car.
 
   Ce musée est *accessible* aux personnes à mobilité réduite.
-  Dieses Museum ist für Menschen mit eingeschränkter Mobilität *zugänglich*.
+  This museum is *accessible* to people with reduced mobility.
 
   Le professeur explique la physique quantique de manière *accessible*.
-  Der Professor erklärt Quantenphysik auf *verständliche* Weise.
+  The professor explains quantum physics in an understandable way.
 
   Les prix de ces appartements sont *accessibles* pour la classe moyenne.
-  Die Preise dieser Wohnungen sind für die Mittelschicht *erschwinglich*.
+  The prices of these apartments are *affordable* for the middle class.
 
   L'information doit être *accessible* à tous les citoyens.
-  Die Information muss für alle Bürger *zugänglich* sein.
+  The information must be *accessible* to all citizens.
 
   Ce roman est *accessible* aux lecteurs de tout âge.
-  Dieser Roman ist für Leser jeden Alters *verständlich*.
+  This novel is *understandable* for readers of all ages.
 
   La plage n'est *accessible* qu'à marée basse.
-  Der Strand ist nur bei Ebbe *zugänglich*.
+  The beach is only *accessible* at low tide.
 
   Le maire se veut *accessible* à ses administrés.
-  Der Bürgermeister möchte für seine Bürger *ansprechbar* sein.
+  The mayor wants to be accessible to his citizens.
 
   Cette technologie devient de plus en plus *accessible* au grand public.
-  Diese Technologie wird für die breite Öffentlichkeit immer *zugänglicher*.
+  This technology is becoming more and more accessible to *the* general public.
 
   Le parking n'est pas *accessible* pendant les travaux.
-  Der Parkplatz ist während der Bauarbeiten nicht *zugänglich*.
+  The parking lot is not *accessible* during construction work.
 
   Son style d'écriture est *accessible* même pour les débutants en français.
-  Sein Schreibstil ist selbst für Französisch-Anfänger *verständlich*.
+  His writing style is *understandable* even for French beginners.
 
   Les concerts gratuits rendent la musique classique plus *accessible*.
-  Kostenlose Konzerte machen klassische Musik *zugänglicher*.
+  Free concerts make classical music more accessible.
 
   Ce politicien n'est pas *accessible* aux médias.
-  Dieser Politiker ist für die Medien nicht *erreichbar*.
+  This politician is not available for the media.
 
   La version simplifiée du texte est plus *accessible* aux enfants.
-  Die vereinfachte Version des Textes ist für Kinder *verständlicher*.
+  The simplified version of the text is more understandable for children.
 
   Le site web a été conçu pour être *accessible* aux malvoyants.
-  Die Website wurde so gestaltet, dass sie für Sehbehinderte *zugänglich* ist.
+  The website has been designed to be *accessible* to the visually impaired.
 
   Cette offre d'emploi est *accessible* aux débutants.
-  Dieses Stellenangebot ist für Berufsanfänger *zugänglich*.
+  This job offer is *accessible* to new entrants.
 
   Il est toujours *accessible* à de nouvelles idées.
-  Er ist immer für neue Ideen *offen*.
+  He's always *open* to new ideas.
 
   La justice doit être *accessible* à tous, indépendamment des moyens financiers.
-  Die Justiz muss für alle *zugänglich* sein, unabhängig von den finanziellen Mitteln.
+  The judiciary must be *accessible* to all, regardless of the financial resources.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

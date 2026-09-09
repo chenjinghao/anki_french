@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2172
 Wort: légitime
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: légitime
 Femininum / Plural: ''
 IPA: \le.ʒi.tim\
-Definition: rechtmäßig, berechtigt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: legal, legitimate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il aura l'autorité *légitime* de le faire.
-  Er wird die *rechtmäßige* Befugnis dazu haben.
+  He will have the right to do so.
 
   Le mariage *légitime* confère certains droits légaux aux époux.
-  Die *rechtsgültige* Ehe verleiht den Ehepartnern bestimmte gesetzliche Rechte.
+  Legal marriage confers certain legal rights on spouses.
 
   "Ma *légitime* m'attend à la maison", dit-il en souriant.
-  "Meine *Angetraute* wartet zu Hause auf mich", sagte er lächelnd.
+  "My friend is waiting for me at home," he said smilingly.
 
   Les enfants *légitimes* héritent automatiquement des biens de leurs parents.
-  *Eheliche* Kinder erben automatisch das Vermögen ihrer Eltern.
+  *Married* children automatically inherit their parents' assets.
 
   Sa colère était tout à fait *légitime* après ce qui s'était passé.
-  Sein Zorn war nach dem Vorgefallenen völlig *berechtigt*.
+  His anger was entirely justified after the incident.
 
   Le roi *légitime* a été renversé par un coup d'État.
-  Der *rechtmäßige* König wurde durch einen Staatsstreich gestürzt.
+  The rightful king was overthrown by a coup d'état.
 
   Elle a agi en *légitime défense* lorsqu'elle a frappé son agresseur.
-  Sie handelte in *Notwehr*, als sie ihren Angreifer schlug.
+  She acted in *self-defense* when she beat her attacker.
 
   Les syndicats réclament une augmentation *légitime* des salaires.
-  Die Gewerkschaften fordern eine *gerechtfertigte* Lohnerhöhung.
+  Trade unions are calling for a *justified* wage increase.
 
   Son désir d'apprendre est tout à fait *légitime*.
-  Sein Wunsch zu lernen ist völlig *legitim*.
+  His desire to learn is entirely *legitimate*.
 
   La succession *légitime* du trône a été contestée par certains nobles.
-  Die *rechtmäßige* Thronfolge wurde von einigen Adligen angefochten.
+  The rightful succession of the throne was challenged by some noblemen.
 
   Il faut respecter les *légitimes* aspirations du peuple à la liberté.
-  Man muss die *berechtigten* Freiheitsbestrebungen des Volkes respektieren.
+  We must respect *the* legitimate aspirations for freedom of the people.
 
   Cette loi protège les intérêts *légitimes* des consommateurs.
-  Dieses Gesetz schützt die *rechtmäßigen* Interessen der Verbraucher.
+  This law protects the legitimate interests of consumers.
 
   Le juge a reconnu la *légitime* propriété du terrain à la famille.
-  Der Richter erkannte der Familie das *rechtmäßige* Eigentum an dem Grundstück zu.
+  The judge recognized the family's rightful ownership of the property.
 
   Sa revendication semble tout à fait *légitime*.
-  Seine Forderung erscheint völlig *gerechtfertigt*.
+  His demand seems entirely *justified*.
 
   Les citoyens ont le droit *légitime* de manifester pacifiquement.
-  Die Bürger haben das *legitime* Recht, friedlich zu demonstrieren.
+  Citizens have the *legitimate* right to demonstrate peacefully.
 
   Cette décision n'est pas *légitime* aux yeux de la loi.
-  Diese Entscheidung ist in den Augen des Gesetzes nicht *rechtmäßig*.
+  This decision is not lawful in the eyes of the law.
 
   Il a exprimé des doutes *légitimes* sur la fiabilité de cette méthode.
-  Er äußerte *berechtigte* Zweifel an der Zuverlässigkeit dieser Methode.
+  He expressed reasonable doubts about *the* reliability of this method.
 
   La société reconnaît désormais les droits *légitimes* des minorités.
-  Die Gesellschaft erkennt nun die *legitimen* Rechte von Minderheiten an.
+  Society now recognises the *legitimate* rights of minorities.
 
   Son indignation était *légitime* face à tant d'injustice.
-  Seine Empörung war angesichts so viel Ungerechtigkeit *berechtigt*.
+  His indignation was justified in the face of so much injustice.
 
   Les *légitimes* attentes des électeurs ont été déçues par ce gouvernement.
-  Die *berechtigten* Erwartungen der Wähler wurden von dieser Regierung enttäuscht.
+  *The* legitimate expectations of the voters were disappointed by this government.
 
   Cette mesure vise à protéger les *légitimes* intérêts des travailleurs.
-  Diese Maßnahme zielt darauf ab, die *rechtmäßigen* Interessen der Arbeitnehmer zu schützen.
+  The aim of this measure is to protect the legitimate interests of workers.
 
   "C'est ma *légitime*", dit-il en présentant sa femme.
-  "Das ist meine *Angetraute*", sagte er, als er seine Frau vorstellte.
+  "That's my friend," he said when he introduced his wife.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

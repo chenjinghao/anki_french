@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1407
 Wort: favoriser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: favoriser
 Femininum / Plural: ''
 IPA: \fa.vɔ.ʁi.ze\
-Definition: fördern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Promote
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela *favorise* le commerce et l'investissement.
-  Dies *fördert* den Handel und die Investitionen.
+  This *promotes* trade and investment.
 
   Cette banque *favorise* les petites entreprises avec des taux avantageux.
-  Diese Bank *begünstigt* Kleinunternehmen mit günstigen Zinssätzen.
+  This bank favours small businesses with favourable interest rates.
 
   La nouvelle loi *favorise* l'égalité des chances pour tous.
-  Das neue Gesetz *fördert* die Chancengleichheit für alle.
+  The new law *promotes* equal opportunities for all.
 
   Les parents ne devraient pas *favoriser* un enfant plus que l'autre.
-  Eltern sollten kein Kind mehr *bevorzugen* als das andere.
+  Parents should no longer *prefer* a child than the other.
 
   Le climat chaud et humide *favorise* la croissance des plantes.
-  Das warme und feuchte Klima *begünstigt* das Pflanzenwachstum.
+  The warm and humid climate favours plant growth.
 
   Marie a toujours été *favorisée* par la chance.
-  Marie wurde vom Glück immer *begünstigt*.
+  Marie was always favored by happiness.
 
   Cette politique *favorise* l'accès au logement pour les jeunes.
-  Diese Politik *unterstützt* den Zugang zu Wohnraum für junge Menschen.
+  This policy supports access to housing for young people.
 
   Le jury a injustement *favorisé* ce candidat.
-  Die Jury hat diesen Kandidaten zu Unrecht *bevorzugt*.
+  The jury wrongly *preferred* this candidate.
 
   L'obscurité *favorisait* leur évasion discrète.
-  Die Dunkelheit *begünstigte* ihre heimliche Flucht.
+  *The* darkness favored their secret escape.
 
   Ces conditions météorologiques *favorisent* la propagation du virus.
-  Diese Wetterbedingungen *begünstigen* die Ausbreitung des Virus.
+  These weather conditions favour the spread of the virus.
 
   Le gouvernement *favorise* les énergies renouvelables.
-  Die Regierung *fördert* erneuerbare Energien.
+  The government is promoting renewable energy.
 
   Son grand-père l'a *favorisé* dans son testament.
-  Sein Großvater hat ihn im Testament *bevorzugt*.
+  His grandfather *preferred* him in the will.
 
   Cette région est particulièrement *favorisée* par son climat.
-  Diese Region wird durch ihr Klima besonders *begünstigt*.
+  This region is particularly favoured by its climate.
 
   Le vent *favorisait* la progression du voilier.
-  Der Wind *begünstigte* den Fortschritt des Segelboots.
+  *The* wind favored the progress of the sailboat.
 
   Les nouvelles technologies *favorisent* l'apprentissage à distance.
-  Neue Technologien *fördern* das Fernlernen.
+  New technologies *promote* distance learning.
 
   Cette association *favorise* l'intégration des immigrants.
-  Dieser Verein *unterstützt* die Integration von Einwanderern.
+  This association supports the integration of immigrants.
 
   Le sol riche *favorise* la culture du café.
-  Der nährstoffreiche Boden *begünstigt* den Kaffeeanbau.
+  The nutritious soil favours coffee cultivation.
 
   Ces réformes *favorisent* la création d'emplois.
-  Diese Reformen *fördern* die Schaffung von Arbeitsplätzen.
+  These reforms *promote* job creation.
 
   La direction *favorise* le dialogue social.
-  Die Geschäftsführung *fördert* den sozialen Dialog.
+  The management *promotes* social dialogue.
 
   Les circonstances ont *favorisé* sa réussite professionnelle.
-  Die Umstände haben seinen beruflichen Erfolg *begünstigt*.
+  The circumstances have favoured his professional success.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

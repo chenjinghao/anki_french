@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2300
 Wort: requérir
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: requérir
 Femininum / Plural: ''
 IPA: \ʁə.ke.ʁiʁ\
-Definition: erfordern, verlangen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: demand
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela *requiert* sans doute un certain effort.
-  Das *erfordert* zweifellos eine gewisse Anstrengung.
+  This undoubtedly requires some effort.
 
   Le procureur a *requis* une peine de prison ferme contre l'accusé.
-  Der Staatsanwalt hat eine Gefängnisstrafe ohne Bewährung gegen den Angeklagten *beantragt*.
+  The prosecutor has applied for a prison sentence without parole against the defendant.
 
   Cette tâche délicate *requiert* beaucoup d'attention et de précision.
-  Diese heikle Aufgabe *erfordert* viel Aufmerksamkeit und Präzision.
+  This delicate task requires a lot of attention and precision.
 
   Le maire a dû *requérir* l'aide de la police pour maintenir l'ordre.
-  Der Bürgermeister musste die Hilfe der Polizei *anfordern*, um die Ordnung aufrechtzuerhalten.
+  The mayor had to *request* police help to maintain order.
 
   "Je *requiers* votre assistance immédiate dans cette affaire urgente."
-  "Ich *erbitte* Ihre sofortige Unterstützung in dieser dringenden Angelegenheit."
+  "I *request* your immediate support in this urgent matter."
 
   L'avocat général a *requis* la perpétuité contre le criminel.
-  Der Generalstaatsanwalt hat lebenslange Haft gegen den Verbrecher *gefordert*.
+  The Attorney General called for life imprisonment against the criminal.
 
   La situation *requiert* que nous agissions rapidement.
-  Die Situation *erfordert*, dass wir schnell handeln.
+  The situation requires that we act quickly.
 
   Le juge a *requis* l'avis d'un expert en balistique.
-  Der Richter hat ein Gutachten eines Ballistikexperten *angefordert*.
+  The judge *requested* an expert report from a ballistics expert.
 
   Cette position *requiert* au moins cinq ans d'expérience.
-  Diese Position *erfordert* mindestens fünf Jahre Erfahrung.
+  This position requires at least five years of experience.
 
   Les pompiers ont été *requis* pour aider à l'évacuation.
-  Die Feuerwehr wurde zur Unterstützung bei der Evakuierung *angefordert*.
+  The fire department was *requested* to assist with the evacuation.
 
   Le préfet a *requis* des civils pour aider à lutter contre l'incendie.
-  Der Präfekt hat Zivilisten *angefordert*, um bei der Brandbekämpfung zu helfen.
+  The prefect called for civilians to help combat fire.
 
   Cette mission *requiert* des compétences spécifiques en informatique.
-  Diese Mission *erfordert* spezifische Computerkenntnisse.
+  This mission requires specific computer skills.
 
   L'avocat a *requis* l'annulation de la procédure pour vice de forme.
-  Der Anwalt hat die Aufhebung des Verfahrens wegen Formfehlers *beantragt*.
+  The lawyer has *requested* the annulment of the formal error proceedings.
 
   Le médecin a *requis* une ambulance d'urgence pour le patient.
-  Der Arzt hat einen Rettungswagen für den Patienten dringend *angefordert*.
+  The doctor urgently *requested* an ambulance for the patient.
 
   Ce poste *requiert* une grande disponibilité et de la flexibilité.
-  Diese Stelle *erfordert* eine hohe Verfügbarkeit und Flexibilität.
+  This unit requires high availability and flexibility.
 
   Les autorités ont *requis* la fermeture temporaire de l'établissement.
-  Die Behörden haben die vorübergehende Schließung der Einrichtung *angeordnet*.
+  The authorities have ordered the temporary closure of the facility.
 
   Le problème *requiert* une solution innovante et rapide.
-  Das Problem *erfordert* eine innovative und schnelle Lösung.
+  The problem requires an innovative and fast solution.
 
   L'officier a *requis* des renforts face à la situation tendue.
-  Der Offizier hat angesichts der angespannten Situation Verstärkung *angefordert*.
+  The officer called for reinforcements in the face of the tense situation.
 
   Ce projet ambitieux *requiert* un budget conséquent.
-  Dieses ehrgeizige Projekt *erfordert* ein beträchtliches Budget.
+  This ambitious project requires a considerable budget.
 
   Le président a *requis* la présence de tous les ministres à la réunion.
-  Der Präsident hat die Anwesenheit aller Minister bei der Sitzung *verlangt*.
+  The President *requested* the presence of all ministers at the meeting.
 
   La loi *requiert* que tous les citoyens paient leurs impôts.
-  Das Gesetz *verlangt*, dass alle Bürger ihre Steuern zahlen.
+  The law requires that all citizens pay their taxes.
 
   Cette recette *requiert* des ingrédients frais et de qualité.
-  Dieses Rezept *erfordert* frische und hochwertige Zutaten.
+  This recipe requires fresh and high quality ingredients.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>nécessiter</i> und <i>requérir</i></div>
+    <div class="section-title"><i>nécessiter</i> and <i>requérir</i></div>
     <div class="section-content">
-      <p><span class="fr">Nécessiter</span> (#2214) bedeutet <span class="de">"erfordern"</span> oder <span class="de">"notwendig machen"</span>. Es wird für unpersönliche Subjekte oder abstrakte Konzepte verwendet, nicht für Personen oder konkrete Objekte.</p>
+      <p><span class="fr">Nécessiter</span> (#2214) means <span class="de">"erfordern"</span> or <span class="de">"notwendig machen"</span>It is used for impersonal subjects or abstract concepts, not for persons or concrete objects.</p>
       <div class="examples">
         <div class="fr">Ce projet nécessite beaucoup de temps et d'efforts.</div>
-        <div class="de spoiler">Dieses Projekt erfordert viel Zeit und Aufwand.</div>
+        <div class="de spoiler">This project requires a lot of time and effort.</div>
         <div class="fr">La situation nécessite une intervention rapide.</div>
-        <div class="de spoiler">Die Situation erfordert ein schnelles Eingreifen.</div>
+        <div class="de spoiler">The situation requires rapid intervention.</div>
       </div>
-      <p><span class="fr">Requérir</span> bedeutet <span class="de">"verlangen"</span>, <span class="de">"erfordern"</span> oder <span class="de">"anfordern"</span>. Im Gegensatz zu <span class="fr">nécessiter</span> kann es sowohl für Personen als auch für Sachen als Subjekt verwendet werden.</p>
+      <p><span class="fr">Requérir</span> means <span class="de">"verlangen"</span>, <span class="de">"erfordern"</span> or <span class="de">"anfordern"</span>. Unlike <span class="fr">nécessiter</span> it can be used as a subject for persons as well as for things.</p>
       <div class="examples">
         <div class="fr">Le patient requiert des soins immédiats.</div>
-        <div class="de spoiler">Der Patient benötigt sofortige Pflege.</div>
+        <div class="de spoiler">The patient needs immediate care.</div>
         <div class="fr">Cette tâche requiert une grande concentration.</div>
-        <div class="de spoiler">Diese Aufgabe erfordert hohe Konzentration.</div>
+        <div class="de spoiler">This task requires high concentration.</div>
       </div>
     </div>
   </div>

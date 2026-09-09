@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3293
 Wort: croyance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la croyance
 Femininum / Plural: ''
 IPA: \kʁwa.jɑ̃s\
-Definition: Glaube, Überzeugung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Faith, Conviction
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Votre salut viendra de votre *croyance* en la vérité.
-  Eure Erlösung wird durch euren *Glauben* an die Wahrheit kommen.
+  Your salvation will come through your *faith* in the truth.
 
   La *croyance* en Dieu est au cœur de sa vie quotidienne.
-  Der *Glaube* an Gott steht im Mittelpunkt ihres Alltags.
+  *Faith* in God is at the heart of their daily lives.
 
   Sa *croyance* aux fantômes l'empêche de dormir la nuit.
-  Ihr *Glaube* an Geister hindert sie daran, nachts zu schlafen.
+  Their belief in ghosts prevents them from sleeping at night.
 
   Les *croyances* superstitieuses persistent encore dans certaines régions.
-  Der Aber*glaube* hält sich in manchen Regionen noch immer.
+  Superstition still persists in some regions.
 
   Cette *croyance* populaire remonte au Moyen Âge.
-  Dieser Volks*glaube* geht auf das Mittelalter zurück.
+  This popular belief dates back to the Middle Ages.
 
   L'équipe a une forte *croyance* en ses capacités.
-  Das Team hat einen starken *Glauben* an seine Fähigkeiten.
+  The team has a strong belief in its abilities.
 
   Les scientifiques ont ébranlé cette *croyance* ancienne.
-  Die Wissenschaftler haben diesen alten *Glauben* erschüttert.
+  The scientists have shaken this old *faith*.
 
   Sa *croyance* au progrès technologique reste inébranlable.
-  Sein *Glaube* an den technologischen Fortschritt bleibt unerschütterlich.
+  His belief in technological progress remains unshakable.
 
   Chacun est libre de choisir sa *croyance* religieuse.
-  Jeder ist frei, seine religiöse *Konfession* zu wählen.
+  Everyone is free to choose their religious denomination.
 
   La *croyance* en l'immortalité existe dans de nombreuses cultures.
-  Der *Glaube* an die Unsterblichkeit existiert in vielen Kulturen.
+  The belief in immortality exists in many cultures.
 
   Cette *croyance* en sa mission lui donne une force extraordinaire.
-  Dieser *Glaube* an seine Mission gibt ihm außergewöhnliche Kraft.
+  This belief in his mission gives him extraordinary strength.
 
   Les enfants perdent progressivement leur *croyance* au Père Noël.
-  Die Kinder verlieren nach und nach ihren *Glauben* an den Weihnachtsmann.
+  The children gradually lose their *faith* in Santa Claus.
 
   Sa *croyance* secrète au destin influence ses décisions.
-  Ihr heimlicher *Glaube* ans Schicksal beeinflusst ihre Entscheidungen.
+  Their secret belief in fate influences their decisions.
 
   La *croyance* à la paix universelle n'est pas une utopie.
-  Der *Glaube* an den Weltfrieden ist keine Utopie.
+  Belief in world peace is not utopian.
 
   Leurs *croyances* traditionnelles se transmettent de génération en génération.
-  Ihre traditionellen *Glaubensvorstellungen* werden von Generation zu Generation weitergegeben.
+  Their traditional *beliefs* are passed on from generation to generation.
 
   Cette découverte scientifique remet en question une *croyance* bien établie.
-  Diese wissenschaftliche Entdeckung stellt einen etablierten *Glauben* in Frage.
+  This scientific discovery calls into question an established belief.
 
   Les différentes *croyances* peuvent coexister pacifiquement.
-  Die verschiedenen *Glaubensrichtungen* können friedlich nebeneinander existieren.
+  The different faiths can coexist peacefully.
 
   Notre *croyance* en l'avenir nous pousse à agir.
-  Unser *Glaube* an die Zukunft treibt uns zum Handeln an.
+  Our *faith* in the future drives us to act.
 
   Il faut respecter les *croyances* de chacun.
-  Man muss die *Überzeugungen* eines jeden respektieren.
+  You have to respect everyone's beliefs.
 
   Cette *croyance* est fondée sur des textes anciens.
-  Dieser *Glaube* basiert auf alten Texten.
+  This belief is based on old texts.
 
   La *croyance* que je serai capable de faire face rapidement et de transférer tout avec dignité a disparu.
-  Die *Überzeugung*, dass ich schnell zurecht komme und alles mit Würde übertrage, ist verflogen.
+  The *conviction* that I can manage quickly and transfer everything with dignity has disappeared.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>foi</i> und <i>croyance</i></div>
+    <div class="section-title"><i>foi</i> and <i>croyance</i></div>
     <div class="section-content">
-      <p><span class="fr">Foi</span> (#1368) bedeutet <span class="de">"Glaube"</span> im Sinne von tiefem religiösem Glauben oder absolutem Vertrauen. Es impliziert eine starke emotionale und persönliche Bindung.</p>
+      <p><span class="fr">Foi</span> (#1368) means <span class="de">"Glaube"</span> in the sense of deep religious faith or absolute trust. It implies a strong emotional and personal bond.</p>
       <div class="examples">
         <div class="fr">Sa foi en Dieu est inébranlable.</div>
-        <div class="de spoiler">Sein Glaube an Gott ist unerschütterlich.</div>
+        <div class="de spoiler">His faith in God is unshakable.</div>
         <div class="fr">J'ai foi en l'avenir.</div>
-        <div class="de spoiler">Ich habe Vertrauen in die Zukunft.</div>
+        <div class="de spoiler">I have faith in the future.</div>
       </div>
-      <p><span class="fr">Croyance</span> bedeutet <span class="de">"Überzeugung"</span> oder <span class="de">"Glaube"</span> im allgemeineren Sinne. Es bezieht sich auf Vorstellungen oder Annahmen, die nicht unbedingt religiös sein müssen.</p>
+      <p><span class="fr">Croyance</span> means <span class="de">Convincing</span> or <span class="de">"Glaube"</span> in a more general sense. It refers to ideas or assumptions that do not necessarily have to be religious.</p>
       <div class="examples">
         <div class="fr">C'est une croyance populaire dans cette région.</div>
-        <div class="de spoiler">Das ist ein Volksglaube in dieser Region.</div>
+        <div class="de spoiler">This is a popular belief in this region.</div>
         <div class="fr">Ses croyances politiques ont évolué avec le temps.</div>
-        <div class="de spoiler">Seine politischen Überzeugungen haben sich im Laufe der Zeit entwickelt.</div>
+        <div class="de spoiler">His political beliefs have developed over time.</div>
       </div>
     </div>
   </div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2534
 Wort: intégration
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une intégration
 Femininum / Plural: ''
 IPA: \ɛ̃.te.ɡʁa.sjɔ̃\
 Definition: Integration
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les immigrants ont payé leur *intégration* au prix fort.
-  Die Einwanderer haben für ihre *Integration* einen hohen Preis bezahlt.
+  The immigrants paid a high price for their *integration*.
 
   Pour faciliter l'*intégration* des nouveaux élèves, nous organisons une journée d'accueil.
-  Um die *Integration* der neuen Schüler zu erleichtern, organisieren wir einen Einführungstag.
+  In order to facilitate the *integration* of the new students, we organize an introductory day.
 
   L'*intégration* des énergies renouvelables dans le réseau électrique pose encore des défis.
-  Die *Integration* erneuerbarer Energien in das Stromnetz stellt noch Herausforderungen dar.
+  The *integration* of renewable energies into the electricity grid is still a challenge.
 
   La politique d'*intégration* européenne a conduit à la création de l'Union européenne.
-  Die europäische *Integrations*politik führte zur Gründung der Europäischen Union.
+  The European *integration* policy led to the establishment of the European Union.
 
   Cette entreprise a réussi l'*intégration* verticale de toute sa chaîne de production.
-  Diesem Unternehmen gelang die vertikale *Integration* seiner gesamten Produktionskette.
+  This company succeeded in vertical *integration* of its entire production chain.
 
   Le cerveau assure l'*intégration* des informations sensorielles pour créer notre perception.
-  Das Gehirn gewährleistet die *Integration* der Sinnesinformationen, um unsere Wahrnehmung zu erzeugen.
+  The brain ensures the *integration* of sensory information to create our perception.
 
   L'*intégration* de cette dépense imprévue dans notre budget sera difficile.
-  Die *Eingliederung* dieser unerwarteten Ausgabe in unser Budget wird schwierig sein.
+  The inclusion of this unexpected issue in our budget will be difficult.
 
   Le processus d'*intégration* sociale prend du temps et demande des efforts des deux côtés.
-  Der soziale *Integrations*prozess braucht Zeit und erfordert Bemühungen von beiden Seiten.
+  The social *integration* process needs time and effort from both sides.
 
   Cette association travaille pour favoriser l'*intégration* culturelle des réfugiés.
-  Dieser Verein arbeitet daran, die kulturelle *Integration* der Geflüchteten zu fördern.
+  This association is working to promote the cultural *integration* of refugees.
 
   L'*intégration* des nouveaux logiciels dans notre système informatique sera terminée demain.
-  Die *Integration* der neuen Software in unser Computersystem wird morgen abgeschlossen sein.
+  The *integration* of the new software into our computer system will be completed tomorrow.
 
   Marc fêtera son *intégration* dans l'équipe vendredi prochain.
-  Marc wird seine *Aufnahme* ins Team nächsten Freitag feiern.
+  Marc will celebrate his admission to the team next Friday.
 
   Le ministre a présenté sa nouvelle stratégie d'*intégration* au parlement.
-  Der Minister hat seine neue *Integrations*strategie im Parlament vorgestellt.
+  The Minister presented his new *integration* strategy in Parliament.
 
   L'*intégration* des différents composants du satellite est une phase critique de sa construction.
-  Die *Integration* der verschiedenen Satellitenkomponenten ist eine kritische Phase seiner Konstruktion.
+  The *integration* of the various satellite components is a critical phase of its construction.
 
   Le cours porte sur l'*intégration* des fonctions mathématiques.
-  Der Kurs behandelt die *Integration* mathematischer Funktionen.
+  The course deals with the *integration* of mathematical functions.
 
   Les centres nerveux assurent l'*intégration* des différentes fonctions de l'organisme.
-  Die Nervenzentren gewährleisten die *Integration* der verschiedenen Körperfunktionen.
+  The nerve centers ensure the *integration* of the various body functions.
 
   Cette fusion représente la plus grande *intégration* horizontale du secteur.
-  Diese Fusion stellt die größte horizontale *Integration* der Branche dar.
+  This merger represents the largest horizontal *integration* in the industry.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

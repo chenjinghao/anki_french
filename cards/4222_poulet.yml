@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4222
 Wort: poulet
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le poulet
 Femininum / Plural: ''
 IPA: \pu.lɛ\
-Definition: Hähnchen, Huhn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Chicken, chicken
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a du *poulet* dans le frigo.
-  Es gibt *Hähnchen* im Kühlschrank.
+  There's chicken in the fridge.
 
   Le *poulet* rôti est très croustillant aujourd'hui.
-  Das Brat*hähnchen* ist heute sehr knusprig.
+  The roast chicken is very crispy today.
 
   Je ne veux pas acheter de *poulet* aux hormones.
-  Ich möchte kein mit Hormonen behandeltes *Huhn* kaufen.
+  I don't want to buy a *chicken* treated with hormones.
 
   Les *poulets* élevés en plein air ont une meilleure qualité de vie.
-  Die Freiland*hühner* haben eine bessere Lebensqualität.
+  The free-range *chickens* have a better quality of life.
 
   "Arrête-toi, c'est les *poulets* !" cria-t-il en voyant la voiture de police.
-  "Halt an, das sind die *Bullen*!" rief er, als er den Polizeiwagen sah.
+  "Stop, these are the cops!" he called when he saw the police car.
 
   Un *poulet* qui piaule s'est échappé de la basse-cour.
-  Ein piepsendes *Huhn* ist aus dem Hühnerhof entkommen.
+  A beeping *chicken* escaped from the chicken farm.
 
   Elle prépare un *poulet* chasseur avec des champignons frais.
-  Sie bereitet ein *Hähnchen* mit frischen Pilzen in Jägersauce zu.
+  It prepares a chicken with fresh mushrooms in hunter sauce.
 
   Les *poulets* de grain sont nourris exclusivement aux céréales.
-  Die Korn*hühner* werden ausschließlich mit Getreide gefüttert.
+  The grain *chickens* are fed exclusively with cereals.
 
   "Viens ici, mon petit *poulet*," dit la grand-mère à son petit-fils.
-  "Komm her, mein kleiner *Schatz*," sagte die Großmutter zu ihrem Enkel.
+  "Come here, my little darling," said the grandmother to her grandson.
 
   Le *poulet* à la basquaise est une spécialité du Pays basque.
-  Das baskische *Hähnchen* ist eine Spezialität des Baskenlandes.
+  The Basque chicken is a speciality of the Basque country.
 
   Les *poulets* de la ferme grandissent plus lentement que ceux d'élevage industriel.
-  Die Bauernhof*hühner* wachsen langsamer als die aus der industriellen Zucht.
+  The farm *chickens* grow slower than those from industrial breeding.
 
   Ce restaurant ne sert que du *poulet* fermier bio.
-  Dieses Restaurant serviert nur biologisches Bauernhof*hähnchen*.
+  This restaurant serves organic farm chicken only.
 
   "Les *poulets* nous suivent depuis dix minutes," chuchota-t-elle.
-  "Die *Bullen* folgen uns seit zehn Minuten," flüsterte sie.
+  "The cops have been following us for ten minutes," she whispered.
 
   Le *poulet* en croûte de sel est une recette très savoureuse.
-  Das *Hähnchen* in Salzkruste ist ein sehr schmackhaftes Rezept.
+  The chicken in salt crust is a very tasty recipe.
 
   Comment désosser un *poulet* sans abîmer la chair ?
-  Wie kann man ein *Hähnchen* entbeinen, ohne das Fleisch zu beschädigen?
+  How can you bone a chicken without damaging the meat?
 
   Ce *poulet* d'élevage a grandi trop vite.
-  Dieses Batterie*huhn* ist zu schnell gewachsen.
+  This battery *chicken* has grown too fast.
 
   Le chef va flamber le *poulet* devant les clients.
-  Der Koch wird das *Hähnchen* vor den Gästen flambieren.
+  The chef will flambize the chicken in front of the guests.
 
   Thomas a levé une aile de *poulet* avec élégance.
-  Thomas hat elegant einen *Hähnchen*flügel abgetrennt.
+  Thomas elegantly cut off a chicken wing.
 
   Le *poulet* à l'estragon est son plat préféré.
-  *Hähnchen* mit Estragon ist sein Lieblingsessen.
+  Chicken with tarragon is his favorite food.
 
   Les *poulets* de Bresse sont réputés dans le monde entier.
-  Die Bresse-*Hühner* sind weltweit bekannt.
+  The Bresse *chickens* are known worldwide.
 
   Marie ajoute toujours de l'ail quand elle fait du *poulet* rôti.
-  Marie gibt immer Knoblauch dazu, wenn sie Brat*hähnchen* macht.
+  Marie always adds garlic when she makes roast chicken.
 
   Un bon *poulet* marengo doit mijoter pendant au moins une heure.
-  Ein gutes *Hähnchen* Marengo muss mindestens eine Stunde schmoren.
+  A good chicken Marengo must stew for at least an hour.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3772
 Wort: démentir
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: démentir
 Femininum / Plural: ''
 IPA: \de.mɑ̃.tiʁ\
-Definition: bestreiten, entkräften
-Register: ↗Sachtext ↘Mündlich
+Definition: (i) the amount of the aid;
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La Maison-Blanche a *démenti* cette nouvelle version.
-  Das Weiße Haus hat diese neue Version *dementiert*.
+  The White House has *denied* this new version.
 
   Les autorités ont *démenti* l'existence d'un programme secret.
-  Die Behörden haben die Existenz eines geheimen Programms *dementiert*.
+  The authorities have *denied* the existence of a secret program.
 
   Le ministre *dément* catégoriquement ces accusations.
-  Der Minister *bestreitet* diese Anschuldigungen kategorisch.
+  The Minister categorically denies these allegations.
 
   Son sourire *démentait* ses paroles tristes.
-  Ihr Lächeln *widersprach* ihren traurigen Worten.
+  Her smile *contradicted* her sad words.
 
   Le porte-parole a formellement *démenti* avoir tenu ces propos.
-  Der Sprecher hat *bestritten*, diese Aussagen gemacht zu haben.
+  The spokesman denied that he had made these statements.
 
   Les faits *démentent* complètement cette théorie.
-  Die Fakten *widerlegen* diese Theorie vollständig.
+  The facts completely refute this theory.
 
   Son comportement *dément* sa réputation d'homme honnête.
-  Sein Verhalten *widerspricht* seinem Ruf als ehrlicher Mann.
+  His behavior *contradicts* his reputation as an honest man.
 
   La réalité a *démenti* toutes nos prévisions.
-  Die Realität hat alle unsere Vorhersagen *widerlegt*.
+  Reality has refuted all our predictions.
 
   Je peux *démentir* ce témoin car j'étais présent.
-  Ich kann diesem Zeugen *widersprechen*, denn ich war anwesend.
+  I can disagree with this witness because I was present.
 
   Son succès ne s'est jamais *démenti* depuis vingt ans.
-  Sein Erfolg hat seit zwanzig Jahren nie *nachgelassen*.
+  His success has never diminished in twenty years.
 
   Il s'est *démenti* lui-même en changeant sa version des faits.
-  Er hat sich selbst *widersprochen*, als er seine Version der Fakten änderte.
+  He contradicted himself when he changed his version of the facts.
 
   Les résultats *démentent* ses craintes initiales.
-  Die Ergebnisse *entkräften* seine anfänglichen Befürchtungen.
+  The results refute his initial fears.
 
   La qualité de son travail ne s'est pas *démentie*.
-  Die Qualität seiner Arbeit hat nicht *nachgelassen*.
+  The quality of his work has not diminished.
 
   Le journal a dû *démentir* l'information publiée hier.
-  Die Zeitung musste die gestern veröffentlichte Information *dementieren*.
+  The newspaper had to deny the information published yesterday.
 
   Cette découverte *dément* les théories précédentes.
-  Diese Entdeckung *widerlegt* die bisherigen Theorien.
+  This discovery refutes the previous theories.
 
   L'entreprise *dément* les rumeurs de faillite.
-  Das Unternehmen *dementiert* die Gerüchte über einen Bankrott.
+  The company denies the rumors of bankruptcy.
 
   Sa générosité ne s'est jamais *démentie*.
-  Seine Großzügigkeit hat nie *nachgelassen*.
+  His generosity has never diminished.
 
   Les preuves *démentent* sa version des événements.
-  Die Beweise *widerlegen* seine Version der Ereignisse.
+  The evidence refutes his version of the events.
 
   Elle *dément* fermement avoir reçu cet argent.
-  Sie *bestreitet* entschieden, dieses Geld erhalten zu haben.
+  She has decided to have received this money.
 
   Les deux témoignages se *démentent* l'un l'autre.
-  Die beiden Aussagen *widersprechen* sich gegenseitig.
+  The two statements contradict each other.
 
   Sa fidélité ne s'est jamais *démentie*.
-  Seine Treue hat nie *nachgelassen*.
+  His loyalty has never diminished.
 
   Les experts *démentent* que la situation soit si grave.
-  Die Experten *bestreiten*, dass die Situation so ernst ist.
+  The experts deny that the situation is so serious.
 
   L'histoire a *démenti* ses prédictions pessimistes.
-  Die Geschichte hat seine pessimistischen Vorhersagen *widerlegt*.
+  History has refuted its pessimistic predictions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

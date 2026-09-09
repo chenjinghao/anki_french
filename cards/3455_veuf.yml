@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3455
 Wort: veuf
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: veuf
 Femininum / Plural: veuve
 IPA: \vœf\
-Definition: Witwer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Widow
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous savez, moi-même je suis *veuf*.
-  Wissen Sie, ich selbst bin *Witwer*.
+  You know, I'm a widower myself.
 
   La petite maison appartenait à une *veuve* qui vivait seule depuis des années.
-  Das kleine Haus gehörte einer *Witwe*, die seit Jahren allein lebte.
+  The little house belonged to a *widow* who had lived alone for years.
 
   "Ma femme est en voyage d'affaires, donc je suis *veuf* pour une semaine."
-  "Meine Frau ist auf Geschäftsreise, also bin ich diese Woche *Strohwitwer*."
+  "My wife's on a business trip, so I'm a straw widow this week."
 
   Elle est devenue *veuve* très jeune, à l'âge de vingt-huit ans.
-  Sie wurde sehr jung *Witwe*, mit achtundzwanzig Jahren.
+  She became a very young *widow* at twenty-eight years of age.
 
   Madame Dupont reçoit une pension de *veuve* depuis la mort de son mari.
-  Frau Dupont erhält seit dem Tod ihres Mannes *Witwen*geld.
+  Mrs Dupont has been receiving widow's allowance since her husband's death.
 
   L'avocat passait son temps à *défendre la veuve et l'orphelin*.
-  Der Anwalt verbrachte seine Zeit damit, den *barmherzigen Samariter zu spielen*.
+  The lawyer spent his time playing the compassionate Samaritan.
 
   La *veuve noire* est l'une des araignées les plus dangereuses au monde.
-  Die *schwarze Witwe* ist eine der gefährlichsten Spinnen der Welt.
+  The *black widow* is one of the most dangerous spiders in the world.
 
   Étant *veuve* de guerre, elle a dû élever seule ses trois enfants.
-  Als Kriegs*witwe* musste sie ihre drei Kinder alleine großziehen.
+  As a war widow, she had to raise her three children alone.
 
   Pierre est *veuf* depuis cinq ans et n'a jamais voulu se remarier.
-  Pierre ist seit fünf Jahren *Witwer* und wollte nie wieder heiraten.
+  Pierre has been a widower for five years and never wanted to get married again.
 
   "Je me sens comme une *veuve* quand mon mari part en mission pendant des mois."
-  "Ich fühle mich wie eine *Strohwitwe*, wenn mein Mann monatelang auf Mission ist."
+  "I feel like a straw widow when my husband is on mission for months."
 
   Les *veuves* du village se réunissent chaque mercredi pour prendre le thé.
-  Die *Witwen* aus dem Dorf treffen sich jeden Mittwoch zum Tee.
+  The *widows* from the village meet every Wednesday for tea.
 
   Mon grand-père est resté *veuf* pendant vingt ans avant de décéder.
-  Mein Großvater blieb zwanzig Jahre lang *Witwer*, bevor er verstarb.
+  My grandfather remained a widower for twenty years before he died.
 
   La *veuve* africaine est un oiseau noir et blanc très apprécié des collectionneurs.
-  Die afrikanische *Witwe* ist ein schwarz-weißer Vogel, der bei Sammlern sehr beliebt ist.
+  The African *widow* is a black and white bird, which is very popular with collectors.
 
   Marie est *veuve* depuis deux ans et commence tout juste à sortir à nouveau.
-  Marie ist seit zwei Jahren *Witwe* und fängt gerade erst an, wieder auszugehen.
+  Marie has been a *widow* for two years and is just starting to go out again.
 
   Un homme *veuf* avec trois enfants cherche une nouvelle nounou.
-  Ein *verwitweter* Mann mit drei Kindern sucht eine neue Kinderfrau.
+  A widowed man with three children is looking for a new nanny.
 
   Les *veuves* de guerre ont manifesté devant le ministère pour leurs droits.
-  Die Kriegs*witwen* demonstrierten vor dem Ministerium für ihre Rechte.
+  The war widows demonstrated in front of the Ministry of their rights.
 
   Dans ce petit village, il y a plus de femmes *veuves* que d'hommes *veufs*.
-  In diesem kleinen Dorf gibt es mehr *verwitwete* Frauen als *verwitwete* Männer.
+  In this small village there are more widowed women than widowed men.
 
   Être *veuf* à trente ans n'est pas une situation facile à vivre.
-  Mit dreißig Jahren *Witwer* zu sein ist keine leichte Situation.
+  Being a widower at the age of thirty is not an easy situation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

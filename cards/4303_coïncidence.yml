@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4303
 Wort: coïncidence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la coïncidence
 Femininum / Plural: ''
 IPA: \kɔ.ɛ̃.si.dɑ̃s\
-Definition: Zufall, Übereinstimmung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Random, match
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Est-ce là une *coïncidence* ?
-  Ist das ein *Zufall* ?
+  Is that a coincidence?
 
   La *coïncidence* des deux événements a surpris tout le monde.
-  Das *Zusammentreffen* der beiden Ereignisse hat alle überrascht.
+  The *meeting* of the two events surprised everyone.
 
   Par une étrange *coïncidence*, nous avons réservé le même hôtel.
-  Durch einen merkwürdigen *Zufall* haben wir dasselbe Hotel gebucht.
+  By a strange coincidence, we booked the same hotel.
 
   Ce n'est pas une simple *coïncidence* que tous les témoins racontent la même histoire.
-  Es ist kein bloßer *Zufall*, dass alle Zeugen die gleiche Geschichte erzählen.
+  It's not just a coincidence that all witnesses tell the same story.
 
   Quelle *coïncidence* extraordinaire de vous rencontrer ici !
-  Was für ein außergewöhnlicher *Zufall*, Sie hier zu treffen!
+  What an extraordinary coincidence to meet you here!
 
   Les deux triangles sont égaux si on peut les amener en *coïncidence*.
-  Die beiden Dreiecke sind gleich, wenn man sie zur *Deckung* bringen kann.
+  The two triangles are the same if you can *cover* them.
 
   La *coïncidence* des symptômes suggère une grippe.
-  Das *Zusammentreffen* der Symptome deutet auf eine Grippe hin.
+  The combination of symptoms indicates a flu.
 
   C'était une fâcheuse *coïncidence* que la panne survienne ce jour-là.
-  Es war ein ärgerlicher *Zufall*, dass die Panne ausgerechnet an diesem Tag auftrat.
+  It was an annoying coincidence that the breakdown occurred that day.
 
   Une série de *coïncidences* a mené à cette découverte importante.
-  Eine Reihe von *Zufällen* führte zu dieser wichtigen Entdeckung.
+  A number of coincidences led to this important discovery.
 
   La *coïncidence* des résultats confirme notre théorie.
-  Die *Übereinstimmung* der Ergebnisse bestätigt unsere Theorie.
+  The consistency of the results confirms our theory.
 
   Je ne crois pas aux *coïncidences* dans cette affaire.
-  Ich glaube in dieser Sache nicht an *Zufälle*.
+  I don't believe in coincidences on this matter.
 
   Par une heureuse *coïncidence*, le train avait du retard ce matin-là.
-  Durch einen glücklichen *Zufall* hatte der Zug an diesem Morgen Verspätung.
+  By a happy coincidence, the train was late this morning.
 
   Cette *coïncidence* troublante mérite une enquête plus approfondie.
-  Dieser beunruhigende *Zufall* verdient eine gründlichere Untersuchung.
+  This disturbing coincidence deserves a more thorough investigation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4601
 Wort: foncier
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le foncier
 Femininum / Plural: foncière
 IPA: \fɔ̃.sje\
-Definition: Grund-; grundlegend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Basic; basic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le code *foncier* va permettre cela.
-  Das *Boden*gesetz wird das ermöglichen.
+  Soil law will make that possible.
 
   La valeur *foncière* de ce terrain a doublé depuis l'année dernière.
-  Der *Grund*wert dieses Grundstücks hat sich seit letztem Jahr verdoppelt.
+  The value of this property has doubled since last year.
 
   Les revenus *fonciers* constituent une source stable de financement.
-  Die Einnahmen aus *Liegenschaften* bilden eine stabile Finanzierungsquelle.
+  The revenues from real estate are a stable source of financing.
 
   La taxe *foncière* doit être payée avant la fin du mois.
-  Die *Grund*steuer muss vor Ende des Monats bezahlt werden.
+  Property tax must be paid before the end of the month.
 
   Le registre *foncier* contient toutes les informations sur les propriétés.
-  Das *Grund*buch enthält alle Informationen über die Eigentumsverhältnisse.
+  The land register contains all information about ownership.
 
   Le marché *foncier* est très dynamique dans cette région.
-  Der *Grund*stücksmarkt ist in dieser Region sehr dynamisch.
+  The real estate market is very dynamic in this region.
 
   Son honnêteté *foncière* ne peut pas être mise en doute.
-  Seine *grundlegende* Ehrlichkeit kann nicht in Frage gestellt werden.
+  His *basic* honesty cannot be questioned.
 
   La gentillesse *foncière* de Marie fait d'elle une excellente enseignante.
-  Maries *angeborene* Freundlichkeit macht sie zu einer ausgezeichneten Lehrerin.
+  Marie's innate kindness makes her an excellent teacher.
 
   Une erreur *foncière* a été commise dans ce calcul.
-  In dieser Berechnung wurde ein *gründlicher* Fehler gemacht.
+  In this calculation a thorough mistake was made.
 
   Le capital *foncier* de cette ferme est considérable.
-  Das *Grund*kapital dieses Bauernhofs ist beträchtlich.
+  The share capital of this farm is considerable.
 
   Les propriétaires *fonciers* doivent entretenir leurs terrains.
-  Die *Grund*besitzer müssen ihre Grundstücke pflegen.
+  The landowners must maintain their land.
 
   Cette méchanceté *foncière* le rend difficile à supporter.
-  Diese *grundlegende* Boshaftigkeit macht ihn schwer erträglich.
+  This *basic* malice makes him hard to bear.
 
   L'impôt *foncier* augmentera de trois pour cent l'année prochaine.
-  Die *Grund*steuer wird nächstes Jahr um drei Prozent steigen.
+  Property tax will rise by three percent next year.
 
   Le problème *foncier* reste non résolu dans cette commune.
-  Das *grundsätzliche* Problem in dieser Gemeinde bleibt ungelöst.
+  The fundamental problem in this community remains unresolved.
 
   La réforme *foncière* a transformé l'agriculture locale.
-  Die *Boden*reform hat die lokale Landwirtschaft verändert.
+  The land reform has changed local agriculture.
 
   Sa bonté *foncière* se manifeste dans chacune de ses actions.
-  Seine *grundlegende* Güte zeigt sich in all seinen Handlungen.
+  His *basic* goodness is evident in all his actions.
 
   Le service *foncier* de la mairie est fermé aujourd'hui.
-  Das *Grund*stücksamt der Stadtverwaltung ist heute geschlossen.
+  The Land Office of the City Council is closed today.
 
   La spéculation *foncière* pose problème dans les grandes villes.
-  Die *Grund*stücksspekulation ist in den Großstädten problematisch.
+  Land speculation is problematic in the big cities.
 
   La gestion *foncière* demande beaucoup d'expertise.
-  Die *Grund*stücksverwaltung erfordert viel Fachwissen.
+  Land management requires a lot of expertise.
 
   Un défaut *foncier* de caractère ne peut pas être facilement corrigé.
-  Ein *grundlegender* Charakterfehler lässt sich nicht leicht korrigieren.
+  A *basic* character error cannot be easily corrected.
 
   Les droits *fonciers* sont protégés par la constitution.
-  Die *Grund*rechte sind durch die Verfassung geschützt.
+  Fundamental rights are protected by the Constitution.
 
   La politique *foncière* de la ville favorise les espaces verts.
-  Die städtische *Boden*politik bevorzugt Grünflächen.
+  Urban soil policy favours green areas.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

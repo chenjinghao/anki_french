@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3359
 Wort: quatorze
 Wortart: num, nmi, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quatorze
 Femininum / Plural: ''
 IPA: \ka.tɔʁz\
-Definition: vierzehn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: 14
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle échoue *quatorze* mois plus tard.
-  Sie scheitert *vierzehn* Monate später.
+  It fails fourteen months later.
 
   Ma petite sœur vient d'avoir *quatorze* ans.
-  Meine kleine Schwester ist gerade *vierzehn* Jahre alt geworden.
+  My little sister just turned fourteen years old.
 
   Le bus numéro *quatorze* passe toutes les dix minutes.
-  Der Bus Nummer *vierzehn* fährt alle zehn Minuten.
+  Bus number fourteen runs every ten minutes.
 
   Louis *Quatorze* a fait construire le château de Versailles.
-  Ludwig der *Vierzehnte* ließ das Schloss von Versailles erbauen.
+  Louis the *Fourteenth* had the castle built by Versailles.
 
   "*C'est reparti comme en quatorze*!" s'écria-t-elle en voyant la dispute recommencer.
-  "*Und schon geht's wieder los*!" rief sie, als der Streit von vorne begann.
+  "*And here we go again*!" she cried as the fight began from the beginning.
 
   Il est *quatorze* heures, je dois partir au travail.
-  Es ist *vierzehn* Uhr, ich muss zur Arbeit gehen.
+  It's fourteen o'clock. I have to go to work.
 
   Le rendez-vous est fixé au *quatorze* mars.
-  Der Termin ist für den *vierzehnten* März angesetzt.
+  The date is set for the fourteenth of March.
 
   J'habite au *quatorze* rue des Roses.
-  Ich wohne in der Rosenstraße Nummer *vierzehn*.
+  I live at Rosenstrasse number fourteen.
 
   Cette élève a eu *quatorze* sur vingt en mathématiques.
-  Diese Schülerin hat in Mathematik eine *Zwei* bekommen.
+  This student got a *two* in mathematics.
 
   Il y avait *quatorze* ministres présents à la réunion.
-  Es waren *vierzehn* Minister bei dem Treffen anwesend.
+  There were fourteen ministers present at the meeting.
 
   Les archéologues ont daté ces ossements au carbone *quatorze*.
-  Die Archäologen haben diese Knochen mit *Vierzehn*-C datiert.
+  The archaeologists dated these bones with *fourteen*-C.
 
   Nous avons réservé la table *quatorze* pour ce soir.
-  Wir haben für heute Abend Tisch *vierzehn* reserviert.
+  We've reserved fourteen for dinner tonight.
 
   *Quatorze* pour cent des électeurs ont voté pour ce candidat.
-  *Vierzehn* Prozent der Wähler haben für diesen Kandidaten gestimmt.
+  *Fourteen* percent of the voters voted for this candidate.
 
   La réunion durera de *quatorze* à quinze heures.
-  Die Besprechung wird von *vierzehn* bis fünfzehn Uhr dauern.
+  The meeting will last from fourteen to fifteen o'clock.
 
   Tu *cherches midi à quatorze heures* !
-  Du *machst die Sache komplizierter als sie ist*!
+  You're making things more complicated than she is!
 
   Mon fils entre en classe de *quatorzième*.
-  Mein Sohn kommt in die *vierzehnte* Klasse.
+  My son is in the fourteenth grade.
 
   On fête le *Quatorze* Juillet dans toute la France.
-  In ganz Frankreich wird der *Vierzehnte* Juli gefeiert.
+  The *Fourteenth* of July is celebrated throughout France.
 
   La guerre de *quatorze* a bouleversé l'Europe.
-  Der Krieg von *vierzehn* hat Europa erschüttert.
+  The war of fourteen has shaken Europe.
 
   *Quatorze* multiplié par deux égale vingt-huit.
-  *Vierzehn* multipliziert mit zwei ergibt achtundzwanzig.
+  *Fourteen* multiplied by two equals twenty-eight.
 
   Le concert aura lieu le *quatorze* du mois prochain.
-  Das Konzert findet am *vierzehnten* des nächsten Monats statt.
+  The concert will take place on the fourteenth of the next month.
 
   Le pape Clément *Quatorze* a supprimé l'ordre des Jésuites.
-  Papst Clemens der *Vierzehnte* hat den Jesuitenorden aufgehoben.
+  Pope Clement the *Fourteenth* has abolished the Jesuit order.
 
   Pierre va fêter ses *quatorze* ans le mois prochain.
-  Pierre wird nächsten Monat *vierzehn* Jahre alt.
+  Pierre will be fourteen years old next month.
 
   Il nous reste *quatorze* kilomètres à parcourir.
-  Wir haben noch *vierzehn* Kilometer vor uns.
+  We've got another *14* kilometers to go.
 
   Les *quatorze* stations du chemin de croix sont représentées dans cette église.
-  Die *vierzehn* Kreuzwegstationen sind in dieser Kirche dargestellt.
+  The fourteen Stations of the Cross are depicted in this church.
 
   J'ai besoin d'une clef de *quatorze* pour réparer ce vélo.
-  Ich brauche einen *Vierzehn*er-Schlüssel, um dieses Fahrrad zu reparieren.
+  I need a 14-key to fix this bike.
 
   Le numéro *quatorze* est mon chiffre porte-bonheur.
-  Die Nummer *vierzehn* ist meine Glückszahl.
+  Number fourteen is my lucky number.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

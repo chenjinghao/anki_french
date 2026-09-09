@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 45
 Wort: celui
 Wortart: pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: celui
 Femininum / Plural: ceux,celle,celles
 IPA: \sə.lɥi\
-Definition: diese(-r/s)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: this(-r/s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu es *celui* que je respecte le plus.
-  Du bist *derjenige*, den ich am meisten respektiere.
+  You're *the* one I respect the most.
 
   Prenez ce crayon, *celui*-ci est plus adapté pour dessiner.
-  Nehmen Sie diesen Bleistift, *dieser* ist besser zum Zeichnen geeignet.
+  Take *this* pencil, it is better suited for drawing.
 
   La robe de Marie est plus élégante que *celle* de sa sœur.
-  Maries Kleid ist eleganter als *das* ihrer Schwester.
+  Marie's dress is more elegant than her sister's.
 
   *Ceux* qui arriveront en retard ne pourront pas entrer.
-  *Diejenigen*, die zu spät kommen, dürfen nicht eintreten.
+  Those who are late must not enter.
 
   J'ai choisi *celle*-là parmi toutes les options disponibles.
-  Ich habe *jene* unter allen verfügbaren Optionen ausgewählt.
+  I have selected those among all available options.
 
   Les problèmes d'aujourd'hui ne sont pas *ceux* d'hier.
-  Die Probleme von heute sind nicht *die* von gestern.
+  Today's problems are not yesterday's.
 
   *Celui* qui rira le dernier rira le mieux.
-  *Wer* zuletzt lacht, lacht am besten.
+  Those *who* laugh last laugh best.
 
   Cette voiture est moins chère que *celle* que nous avons vue hier.
-  Dieses Auto ist günstiger als *das*, das wir gestern gesehen haben.
+  This car is cheaper than what we saw yesterday.
 
   Entre ces deux candidats, *celui*-ci semble plus qualifié que *celui*-là.
-  Von diesen beiden Kandidaten scheint *dieser* qualifizierter zu sein als *jener*.
+  Of these two candidates, *this* one seems to be more qualified than that one.
 
   Les idées de Pierre et *celles* de Paul sont très différentes.
-  Die Ideen von Pierre und *die* von Paul sind sehr unterschiedlich.
+  *The* ideas of Pierre and Paul are very different.
 
   *Celle* dont je te parle est une vieille amie d'enfance.
-  *Diejenige*, von der ich dir erzähle, ist eine alte Freundin aus Kindertagen.
+  *The* one I'm telling you about is an old friend of yours.
 
   Le stylo que j'ai perdu était *celui* que tu m'avais offert.
-  Der Stift, den ich verloren habe, war *der*, den du mir geschenkt hattest.
+  *The* pen I lost was the one you gave me.
 
   Parmi tous ces livres, *ceux* que j'ai lus sont sur cette étagère.
-  Von all diesen Büchern stehen *die*, die ich gelesen habe, in diesem Regal.
+  Of all these books, those I've read are on this shelf.
 
   Je préfère *celle*-ci à *celle*-là, elle est plus confortable.
-  Ich bevorzuge *diese* gegenüber *jener*, sie ist bequemer.
+  I prefer *this* one over that one, it's more comfortable.
 
   Les opinions de chacun, y compris *celles* des minorités, doivent être respectées.
-  Die Meinungen eines jeden, einschließlich *derer* von Minderheiten, müssen respektiert werden.
+  Everyone's opinions, including those of minorities, must be respected.
 
   *Celui* qui ne dit mot consent.
-  *Wer* schweigt, stimmt zu.
+  Whoever is silent agrees.
 
   Cette méthode est plus efficace que *celle* que nous utilisions auparavant.
-  Diese Methode ist effizienter als *die*, die wir zuvor verwendet haben.
+  This method is more efficient than *the* one we used before.
 
   Entre ces deux chemises, je choisis *celle*-ci pour le rendez-vous.
-  Von diesen beiden Hemden wähle ich *dieses* für das Treffen.
+  Of these two shirts, I choose *this* one for the meeting.
 
   Les défis d'aujourd'hui ne sont pas *ceux* d'hier, mais nous les surmonterons.
-  Die Herausforderungen von heute sind nicht *die* von gestern, aber wir werden sie meistern.
+  Today's challenges are not yesterday's, but we're going to master them.
 
   "*Celui*-là, il ne manque pas d'air !" s'exclama-t-elle, surprise par son audace.
-  "*Der* hat vielleicht Nerven!" rief sie aus, überrascht von seiner Kühnheit.
+  "He may have nerves!" she exclaimed, surprised by his boldness.
 
   Les meilleures idées sont souvent *celles* qui semblent les plus simples au début.
-  Die besten Ideen sind oft *diejenigen*, die am Anfang am einfachsten erscheinen.
+  *The* best ideas are often those that appear easiest at the beginning.
 
   *Celles* et *ceux* qui travaillent dur réussiront tôt ou tard.
-  *Diejenigen*, die hart arbeiten, werden früher oder später Erfolg haben.
+  Those who work hard will succeed sooner or later.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

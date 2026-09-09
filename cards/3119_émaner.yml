@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3119
 Wort: émaner
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: émaner
 Femininum / Plural: ''
 IPA: \e.ma.ne\
-Definition: ausgehen, entspringen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: out, spring
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Quelque chose *émane* de lui, non ?
-  Irgendetwas *geht* von ihm *aus*, oder?
+  Something's going on with him, isn't it?
 
   Une énergie positive *émane* de ce lieu sacré.
-  Von diesem heiligen Ort *geht* eine positive Energie *aus*.
+  *From* this sacred place, a positive energy comes.
 
   Les parfums qui *émanent* des roses sont délicieux.
-  Die Düfte, die von den Rosen *ausgehen*, sind köstlich.
+  The scents that come from the roses are delicious.
 
   Un grand charme *émanait* d'elle quand elle souriait.
-  Von ihr *ging* ein großer Charme *aus*, wenn sie lächelte.
+  She had a great charm when she smiled.
 
   La chaleur qui *émane* du feu nous réchauffe tous.
-  Die Wärme, die vom Feuer *ausgeht*, wärmt uns alle.
+  The warmth that comes from the fire warms us all.
 
   Cette demande *émane* directement du directeur.
-  Diese Anfrage *kommt* direkt vom Direktor.
+  This request comes directly from the director.
 
   La lumière *émane* du soleil et traverse l'atmosphère.
-  Das Licht *wird* von der Sonne *ausgestrahlt* und durchdringt die Atmosphäre.
+  The light is emitted by the sun and penetrates the atmosphere.
 
   Dans une démocratie, le pouvoir *émane* du peuple.
-  In einer Demokratie *geht* die Macht vom Volk *aus*.
+  In a democracy, power comes *from* the people.
 
   Une douce mélancolie *émane* de cette vieille photo.
-  Von diesem alten Foto *geht* eine sanfte Melancholie *aus*.
+  *From* this old photo a gentle melancholy starts.
 
   Les ordres *émanant* du chef doivent être suivis.
-  Die vom Chef *ausgehenden* Befehle müssen befolgt werden.
+  *The* orders from the boss must be followed.
 
   Un nouveau décret *émane* du gouvernement.
-  Ein neuer Erlass *geht* von der Regierung *aus*.
+  A new decree comes *from* the government.
 
   Une odeur désagréable *émane* des poubelles.
-  Von den Mülltonnen *geht* ein unangenehmer Geruch *aus*.
+  The garbage cans are the source of an unpleasant smell.
 
   Des rayons nocifs *émanent* de ce matériau radioactif.
-  Von diesem radioaktiven Material *gehen* schädliche Strahlen *aus*.
+  This radioactive material emits harmful radiation.
 
   La confiance qui *émane* de son regard est impressionnante.
-  Das Vertrauen, das von seinem Blick *ausgeht*, ist beeindruckend.
+  The trust that comes from his gaze is impressive.
 
   Une atmosphère mystérieuse *émane* de ce château ancien.
-  Von diesem alten Schloss *geht* eine geheimnisvolle Atmosphäre *aus*.
+  *From* this old castle comes a mysterious atmosphere.
 
   La décision *émane* du conseil d'administration.
-  Die Entscheidung *kommt* vom Vorstand.
+  The decision comes from the board.
 
   Une forte autorité *émane* naturellement de sa personne.
-  Von seiner Person *geht* natürlicherweise eine starke Autorität *aus*.
+  Of course, his person has strong authority.
 
   Des vapeurs toxiques *émanent* de ce produit chimique.
-  Von dieser Chemikalie *dringen* giftige Dämpfe *heraus*.
+  From this chemical, toxic fumes *penetrate* *out*.
 
   La sérénité qui *émane* de ce jardin zen est apaisante.
-  Die Gelassenheit, die von diesem Zen-Garten *ausgeht*, ist beruhigend.
+  The serenity that comes from this Zen garden is reassuring.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

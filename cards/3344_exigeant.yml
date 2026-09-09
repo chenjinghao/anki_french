@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3344
 Wort: exigeant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exigeant
 Femininum / Plural: exigeante
 IPA: \ɛɡ.zi.ʒɑ̃\
-Definition: anspruchsvoll
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: demanding
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Simone était une femme *exigeante*.
-  Simone war eine *anspruchsvolle* Frau.
+  Simone was a *demanding* woman.
 
   Les enfants *exigeants* nous épuisent beaucoup.
-  Die *anstrengenden* Kinder erschöpfen uns sehr.
+  The strenuous children exhaust us very much.
 
   Le critique d'art s'est montré particulièrement *exigeant* envers les jeunes artistes.
-  Der Kunstkritiker zeigte sich besonders *streng* gegenüber den jungen Künstlern.
+  The art critic was particularly *strict* towards the young artists.
 
   Cette position demande un travail très *exigeant*.
-  Diese Position erfordert eine sehr *anspruchsvolle* Arbeit.
+  This position requires a very *demanding* work.
 
   Elle *est* très *exigeante* à l'égard de ses employés.
-  Sie *stellt hohe Ansprüche* an ihre Angestellten.
+  She makes high demands on her employees.
 
   Mon père *est* toujours *exigeant sur le chapitre de* la propreté.
-  Mein Vater *legt viel Wert auf* Sauberkeit.
+  My father cares much about cleanliness.
 
   Notre nouveau patron est vraiment *exigeant*.
-  Unser neuer Chef ist wirklich *anspruchsvoll*.
+  Our new boss is really *demanding*.
 
   Son caractère *exigeant* lui cause souvent des problèmes.
-  Sein *schwieriger* Charakter bereitet ihm oft Probleme.
+  His difficult character often causes him problems.
 
   La danse classique est une profession très *exigeante*.
-  Klassischer Tanz ist ein sehr *fordernder* Beruf.
+  Classical dance is a very demanding profession.
 
   Notre professeur de mathématiques était très *exigeant*.
-  Unser Mathematiklehrer war sehr *streng*.
+  Our math teacher was very *strict*.
 
   Ce malade est particulièrement *exigeant* aujourd'hui.
-  Dieser Patient ist heute besonders *anspruchsvoll*.
+  This patient is particularly *demanding* today.
 
   Le métier d'avocat est devenu encore plus *exigeant*.
-  Der Anwaltsberuf ist noch *fordernder* geworden.
+  The profession of lawyer has become even more demanding.
 
   Le chef de service est connu pour être *exigeant*.
-  Der Abteilungsleiter ist dafür bekannt, *anspruchsvoll* zu sein.
+  The head of department is known to be *demanding*.
 
   Il n'est pas assez *exigeant* envers lui-même.
-  Er ist nicht *streng* genug mit sich selbst.
+  He's not *strict* enough with himself.
 
   Cette passion *exigeante* ne lui laisse aucun répit.
-  Diese *fordernde* Leidenschaft lässt ihm keine Ruhe.
+  This demanding passion leaves him no rest.
 
   Sa méthode d'enseignement est très *exigeante*.
-  Seine Lehrmethode ist sehr *anspruchsvoll*.
+  His teaching method is very *demanding*.
 
   Le poste demande une personne *exigeante* et précise.
-  Die Stelle erfordert eine *gründliche* und präzise Person.
+  The place requires a thorough and precise person.
 
   Cette formation est particulièrement *exigeante*.
-  Diese Ausbildung ist besonders *anspruchsvoll*.
+  This training is particularly *demanding*.
 
   Les sports de haut niveau sont très *exigeants*.
-  Leistungssport ist sehr *fordernd*.
+  Performance sport is very *demanding*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

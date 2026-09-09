@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3048
 Wort: fournisseur
 Wortart: nmf, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fournisseur
 Femininum / Plural: fournisseuse
 IPA: \fuʁ.ni.sœʁ\
-Definition: Lieferant
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Supplier
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne suis que le *fournisseur*. Je ne sais rien.
-  Ich bin nur der *Lieferant*. Ich weiß von nichts.
+  I'm just the *supplier*, I don't know anything.
 
   Nous avons changé de *fournisseur* pour obtenir de meilleurs prix.
-  Wir haben den *Lieferanten* gewechselt, um bessere Preise zu bekommen.
+  We changed the supplier to get better prices.
 
   La *fournisseuse* habituelle de notre boulangerie est en congé cette semaine.
-  Die übliche *Lieferantin* unserer Bäckerei hat diese Woche Urlaub.
+  The usual *supplier* of our bakery is on holiday this week.
 
   L'entreprise a été nommée *fournisseur* officiel des Jeux Olympiques.
-  Das Unternehmen wurde zum offiziellen *Ausrüster* der Olympischen Spiele ernannt.
+  The company has been appointed official supplier of the Olympic Games.
 
   Ce magasin est mon *fournisseur* attitré pour les produits bio.
-  Dieses Geschäft ist mein Stamm*lieferant* für Bio-Produkte.
+  This business is my main *supplier* of organic products.
 
   Notre *fournisseur* principal de pièces détachées a des problèmes de livraison.
-  Unser Haupt*lieferant* für Ersatzteile hat Lieferprobleme.
+  Our main *supplier* of spare parts has delivery problems.
 
   Les pays *fournisseurs* de pétrole ont une grande influence sur l'économie mondiale.
-  Die Erdöl *exportierenden* Länder haben einen großen Einfluss auf die Weltwirtschaft.
+  Oil-*exporting* countries have a major influence on the world economy.
 
   J'ai des dettes chez tous mes *fournisseurs*.
-  Ich habe Schulden bei all meinen *Lieferanten*.
+  I owe all my *suppliers*.
 
   Le *fournisseur* d'accès à Internet a augmenté ses tarifs ce mois-ci.
-  Der Internet*anbieter* hat diesen Monat seine Tarife erhöht.
+  The Internet provider has increased its tariffs this month.
 
   La *fournisseuse* de fleurs pour notre mariage était vraiment talentueuse.
-  Die Blumen*lieferantin* für unsere Hochzeit war wirklich talentiert.
+  The flower delivery for our wedding was really talented.
 
   Nous recherchons un nouveau *fournisseur* de matières premières plus respectueux de l'environnement.
-  Wir suchen einen neuen, umweltfreundlicheren *Lieferanten* für Rohstoffe.
+  We are looking for a new, more environmentally friendly supplier of raw materials.
 
   Le Canada est un important pays *fournisseur* de bois pour l'industrie du papier.
-  Kanada ist ein wichtiges *Liefer*land für Holz in der Papierindustrie.
+  Canada is an important supplier country for wood in the paper industry.
 
   Notre *fournisseur* habituel n'avait plus l'article en stock.
-  Unser üblicher *Händler* hatte den Artikel nicht mehr auf Lager.
+  Our usual dealer no longer had the item in stock.
 
   La société a été désignée *fournisseur* exclusif pour le nouveau stade.
-  Das Unternehmen wurde zum exklusiven *Lieferanten* für das neue Stadion ernannt.
+  The company has been appointed exclusive supplier for the new stadium.
 
   Le contrat avec notre ancien *fournisseur* de services arrive à expiration le mois prochain.
-  Der Vertrag mit unserem bisherigen Dienst*leister* läuft nächsten Monat aus.
+  The contract with our previous service provider expires next month.
 
   Cette usine est le principal *fournisseur* de pièces pour l'industrie automobile locale.
-  Diese Fabrik ist der Haupt*zulieferer* von Teilen für die lokale Automobilindustrie.
+  This factory is the main *supplier* of parts for the local automotive industry.
 
   Nous avons organisé une réunion avec tous nos *fournisseurs* pour discuter des nouvelles normes de qualité.
-  Wir haben ein Treffen mit all unseren *Lieferanten* organisiert, um die neuen Qualitätsstandards zu besprechen.
+  We organized a meeting with all our *suppliers* to discuss the new quality standards.
 
   Le *fournisseur* a promis de livrer la marchandise avant la fin de la semaine.
-  Der *Lieferant* hat versprochen, die Ware bis Ende der Woche zu liefern.
+  The *supplier* has promised to deliver the goods by the end of the week.
 
   Notre entreprise est devenue le *fournisseur* privilégié de plusieurs grandes chaînes de restaurants.
-  Unser Unternehmen ist zum bevorzugten *Lieferanten* mehrerer großer Restaurantketten geworden.
+  Our company has become the preferred supplier of several large restaurant chains.
 
   La *fournisseuse* de tissu pour notre atelier de couture propose une nouvelle collection chaque saison.
-  Die Stoff*lieferantin* für unser Nähstudio bietet jede Saison eine neue Kollektion an.
+  The fabric *supplier* for our sewing studio offers a new collection every season.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

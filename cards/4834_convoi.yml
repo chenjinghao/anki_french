@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4834
 Wort: convoi
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le convoi
 Femininum / Plural: ''
 IPA: \kɔ̃.vwa\
-Definition: Konvoi, Transport
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Convoy, transport
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   De quel hangar part le *convoi* ?
-  Von welcher Halle fährt der *Konvoi* ab?
+  Which hall does the *convoy* leave from?
 
   Un *convoi* humanitaire a été envoyé dans la zone sinistrée.
-  Ein humanitärer *Transport* wurde in das Katastrophengebiet geschickt.
+  A humanitarian *transport* was sent to the disaster area.
 
   Le *convoi* de marchandises traverse la ville chaque matin à 5 heures.
-  Der Güter*zug* fährt jeden Morgen um 5 Uhr durch die Stadt.
+  The freight train runs through the city every morning at 5 o'clock.
 
   Les nomades forment un long *convoi* qui serpente dans le désert.
-  Die Nomaden bilden eine lange *Karawane*, die sich durch die Wüste schlängelt.
+  The nomads form a long *caravan* that winds through the desert.
 
   Le *convoi* funèbre s'est arrêté devant l'église.
-  Der Leichen*zug* hielt vor der Kirche.
+  The funeral procession stopped in front of the church.
 
   Un *convoi* exceptionnel bloque la circulation sur l'autoroute.
-  Ein Schwer*transport* blockiert den Verkehr auf der Autobahn.
+  Heavy *transport* is blocking traffic on the motorway.
 
   Notre *convoi* militaire a été attaqué près de la frontière.
-  Unsere militärische *Kolonne* wurde nahe der Grenze angegriffen.
+  Our military *column* was attacked near the border.
 
   Les pompiers sont partis en *convoi* vers l'incendie.
-  Die Feuerwehr ist im Lösch*zug* zum Brand ausgerückt.
+  The fire department has moved to the fire in the fire extinguisher.
 
   Un *convoi* de trois navires marchands traverse l'océan.
-  Ein *Verband* von drei Handelsschiffen überquert den Ozean.
+  An *association* of three merchant ships crosses the ocean.
 
   Le *convoi* de réfugiés a atteint la frontière ce matin.
-  Der Flüchtlings*transport* hat heute Morgen die Grenze erreicht.
+  The *transport* of refugees reached the border this morning.
 
   Les voitures du *convoi* doivent maintenir une distance de sécurité.
-  Die Fahrzeuge der *Kolonne* müssen einen Sicherheitsabstand einhalten.
+  The Kolonne vehicles must keep a safety distance.
 
   Le *convoi* de ravitaillement arrivera dans deux heures.
-  Der Versorgungs*konvoi* wird in zwei Stunden eintreffen.
+  The supply *convoy* will arrive in two hours.
 
   Un *convoi* de matériel médical est parti vers l'hôpital.
-  Ein *Konvoi* mit medizinischem Material ist zum Krankenhaus aufgebrochen.
+  A *convoy* of medical supplies has left for the hospital.
 
   Plusieurs destroyers escortent le *convoi* maritime.
-  Mehrere Zerstörer eskortieren den Schiffs*konvoi*.
+  Several destroyers escort the ship's *convoy*.
 
   Le *convoi* de prisonniers est arrivé au camp.
-  Der Gefangenen*transport* ist im Lager angekommen.
+  The *transport* of prisoners has arrived at the camp.
 
   Des hélicoptères surveillent le *convoi* depuis le ciel.
-  Hubschrauber überwachen den *Konvoi* vom Himmel aus.
+  Helicopters monitor the *convoy* from the sky.
 
   Le *convoi* de camions s'étend sur plusieurs kilomètres.
-  Die LKW-*Kolonne* erstreckt sich über mehrere Kilometer.
+  The truck *column* extends over several kilometers.
 
   Un nouveau wagon a été ajouté au *convoi*.
-  Ein neuer Waggon wurde an den *Zug* angehängt.
+  A new wagon was attached to the *train*.
 
   Le *convoi* de barges remonte lentement le fleuve.
-  Der Schlepp*konvoi* fährt langsam den Fluss hinauf.
+  The tow *convoy* slowly goes up the river.
 
   Les journalistes ont filmé le *convoi* de tanks.
-  Die Journalisten haben die Panzer*kolonne* gefilmt.
+  The journalists have filmed the armored *column*.
 
   Le *convoi* humanitaire transporte des médicaments et de la nourriture.
-  Der Hilfsgüter*transport* befördert Medikamente und Nahrung.
+  The *transport* of relief goods transports medicines and food.
 
   Un drone surveille le *convoi* de munitions.
-  Eine Drohne überwacht den Munitions*konvoi*.
+  A drone is monitoring the ammo *convoy*.
 
   Les motards escortent le *convoi* présidentiel.
-  Die Motorradfahrer eskortieren den Präsidenten*konvoi*.
+  The motorcyclists escort the president's *convoy*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

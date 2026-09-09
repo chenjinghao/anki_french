@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3334
 Wort: otage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un otage
 Femininum / Plural: ''
 IPA: \ɔ.taʒ\
-Definition: Geisel
-Register: ↘Fiktion ↗Sachtext
+Definition: Hostage
+Register: ↘fiction ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a pris un flic en *otage*.
-  Er hat einen Polizisten als *Geisel* genommen.
+  He took a policeman *hostage*.
 
   Les terroristes ont retenu cinquante personnes en *otages* pendant trois jours.
-  Die Terroristen hielten fünfzig Personen drei Tage lang als *Geiseln* fest.
+  The terrorists held fifty people hostage for three days.
 
   Une *otage* a été libérée hier soir après de longues négociations.
-  Eine *Geisel* wurde gestern Abend nach langen Verhandlungen freigelassen.
+  A *hostage* was released last night after long negotiations.
 
   Durant la guerre, les envahisseurs ont fusillé dix *otages* pour intimider la population.
-  Während des Krieges erschossen die Invasoren zehn *Geiseln*, um die Bevölkerung einzuschüchtern.
+  During the war, the invaders shot ten *hostages* to intimidate the population.
 
   Les voyageurs sont devenus des *otages* de la grève des trains.
-  Die Reisenden wurden zu *Geiseln* des Streiks der Eisenbahner.
+  The passengers became *hostages* to the strike of the railway workers.
 
   Marie ne veut plus être l'*otage* de son travail qui l'empêche de voir ses enfants.
-  Marie will nicht länger die *Geisel* ihrer Arbeit sein, die sie daran hindert, ihre Kinder zu sehen.
+  Marie no longer wants to be the *hostage* of her work, which prevents her from seeing her children.
 
   La prise d'*otages* s'est terminée sans faire de victimes.
-  Die *Geisel*nahme endete ohne Opfer.
+  The *hostage*-taking ended without a victim.
 
   Les négociateurs ont réussi à faire libérer tous les *otages*.
-  Den Verhandlungsführern gelang es, alle *Geiseln* zu befreien.
+  The negotiators managed to free all *hostages*.
 
   L'ambassadeur a servi d'*otage* pour garantir l'accord de paix.
-  Der Botschafter diente als *Geisel* zur Garantie des Friedensabkommens.
+  The Ambassador served as a *hostage* to guarantee the peace agreement.
 
   Les citoyens sont devenus les *otages* de cette crise politique.
-  Die Bürger wurden zu *Geiseln* dieser politischen Krise.
+  The citizens became *hostages* to this political crisis.
 
   Le ravisseur demande une rançon pour libérer l'*otage*.
-  Der Entführer verlangt Lösegeld für die Freilassung der *Geisel*.
+  The kidnapper demands ransom for the *hostage*'s release.
 
   Les *otages* ont réussi à s'échapper pendant la nuit.
-  Die *Geiseln* konnten in der Nacht entkommen.
+  The *hostages* escaped at night.
 
   La police a encerclé le bâtiment où sont retenus les *otages*.
-  Die Polizei hat das Gebäude umstellt, in dem die *Geiseln* festgehalten werden.
+  The police have surrounded the building where the *hostages* are held.
 
   Les familles des *otages* attendent des nouvelles depuis trois jours.
-  Die Familien der *Geiseln* warten seit drei Tagen auf Nachrichten.
+  The hostage families have been waiting for news for three days.
 
   Cette entreprise est devenue l'*otage* de ses créanciers.
-  Dieses Unternehmen ist zur *Geisel* seiner Gläubiger geworden.
+  This company has become a *hostage* to its creditors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

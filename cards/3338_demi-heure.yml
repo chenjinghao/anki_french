@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3338
 Wort: demi-heure
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la demi-heure
 Femininum / Plural: ''
 IPA: \də.mi.œʁ\
-Definition: halbe Stunde
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: half hour
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ça fait une *demi-heure* que je vous attends.
-  Ich warte schon seit einer *halben Stunde* auf Sie.
+  I've been waiting for you for half an hour.
 
   Le train part dans une *demi-heure*.
-  Der Zug fährt in einer *halben Stunde* ab.
+  The train leaves in half an hour.
 
   Elle a mis une *demi-heure* pour faire ses devoirs.
-  Sie hat eine *halbe Stunde* gebraucht, um ihre Hausaufgaben zu machen.
+  It took her half an hour to do her homework.
 
   Les bus passent toutes les *demi-heures*.
-  Die Busse fahren alle *halbe Stunde*.
+  Buses run every *half hour*.
 
   J'ai besoin d'une *demi-heure* de plus pour finir ce travail.
-  Ich brauche noch eine *halbe Stunde*, um diese Arbeit zu beenden.
+  I need half an hour to finish this work.
 
   Dans une *demi-heure*, nous serons arrivés à destination.
-  In einer *halben Stunde* werden wir am Ziel sein.
+  In half an hour, we'll be at the finish line.
 
   La pause déjeuner dure une *demi-heure*.
-  Die Mittagspause dauert eine *halbe Stunde*.
+  The lunch break lasts half an hour.
 
   Il ne reste qu'une *demi-heure* avant la fermeture du magasin.
-  Es ist nur noch eine *halbe Stunde* bis zur Ladenschließung.
+  It's only half an hour until the store closes.
 
   La séance de yoga commence dans une *demi-heure*.
-  Die Yogastunde beginnt in einer *halben Stunde*.
+  The yoga lesson begins in half an hour.
 
   Les visites guidées partent toutes les *demi-heures*.
-  Die Führungen starten alle *halbe Stunde*.
+  Guided tours start every *half hour*.
 
   Je te rappelle dans une *demi-heure*.
-  Ich rufe dich in einer *halben Stunde* zurück.
+  I'll call you back in half an hour.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

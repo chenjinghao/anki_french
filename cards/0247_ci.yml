@@ -1,101 +1,101 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 247
 Wort: ci
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ci
 Femininum / Plural: ''
 IPA: \si\
-Definition: hier [Suffix]
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: here [Suffix]
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Et *celui-ci*? Oui, il est vraiment super.
-  Und *dieser hier*? Ja, er ist wirklich toll.
+  Yeah, he's really great.
 
   Veuillez trouver *ci-joint* mon CV et ma lettre de motivation.
-  *Anbei* finden Sie meinen Lebenslauf und mein beigefügtes Anschreiben.
+  Here you will find my CV and cover letter.
 
   - "Comment vas-tu?"<br>- "*Comme ci, comme ça*."
-  - "Wie geht's dir?"<br>- "*So lala*."
+  - "How are you?" - "*So lala*."
 
   Nous discuterons de ce sujet-*ci* plus tard.
-  Über dieses *Thema hier* sprechen wir später.
+  We'll talk about this later.
 
   Les événements décrits *ci-dessous* sont véridiques.
-  Die *unten* aufgeführten Ereignisse sind wahr.
+  The events listed below are true.
 
   Les fleurs poussent *par-ci par-là* dans le jardin.
-  Die Blumen wachsen *hier und da* im Garten.
+  The flowers grow *here and there* in the garden.
 
   Vous trouverez les informations importantes *ci-dessus*.
-  Die wichtigen Informationen finden Sie *oben*.
+  The important information can be found above.
 
   *Ci-gît* Marie Dupont, bien-aimée mère et grand-mère.
-  *Hier ruht* Marie Dupont, geliebte Mutter und Großmutter.
+  *Here rests* Marie Dupont, beloved mother and grandmother.
 
   Il a demandé *ci et ça* pendant toute la journée.
-  Er hat den ganzen Tag nach *dies und das* gefragt.
+  He's been asking all day about this and that.
 
   Ces temps-*ci*, je suis très occupé.
-  In dieser *Zeit hier* bin ich sehr beschäftigt.
+  During this time I am very busy.
 
   Le document *ci-inclus* contient toutes les informations nécessaires.
-  Das *beigefügte* Dokument enthält alle notwendigen Informationen.
+  The attached document contains all the necessary information.
 
   Les feuilles mortes volent *de-ci de-là* dans le vent d'automne.
-  Die toten Blätter fliegen im Herbstwind *hierhin und dorthin*.
+  The dead leaves fly *here and there* in the autumn wind.
 
   Prenez cette route-*ci*, c'est plus court.
-  Nehmen Sie diese *Straße hier*, das ist kürzer.
+  Take this road here, it's shorter.
 
   Il y a *ci-contre* un tableau explicatif.
-  *Nebenstehend* befindet sich eine erklärende Tabelle.
+  A supporting table is provided.
 
   Elle préfère cette maison-*ci* à celle-là.
-  Sie bevorzugt dieses *Haus hier* gegenüber jenem dort.
+  She prefers this house over that one.
 
   Les prix indiqués *ci-dessous* sont en euros.
-  Die *unten* angegebenen Preise sind in Euro.
+  The prices given below are in Euro.
 
   On trouve des champignons *par-ci par-là* dans la forêt.
-  Man findet *hier und da* Pilze im Wald.
+  You can find mushrooms in the woods *here and there*.
 
   Cette semaine-*ci* sera décisive pour notre projet.
-  Diese *Woche hier* wird entscheidend für unser Projekt sein.
+  This week will be crucial to our project.
 
   Veuillez lire attentivement les conditions *ci-jointes*.
-  Bitte lesen Sie die *beigefügten* Bedingungen aufmerksam durch.
+  Please read *the* attached conditions carefully.
 
   Les enfants courent *de-ci de-là* dans le parc.
-  Die Kinder rennen *kreuz und quer* durch den Park.
+  The children run crisscross the park.
 
   Regardez ce modèle-*ci*, il est plus récent.
-  Schauen Sie sich dieses *Modell hier* an, es ist neuer.
+  Look at this *model here*, it's newer.
 
   Les détails sont expliqués *ci-après*.
-  Die Details werden *nachfolgend* erklärt.
+  The details are explained *below*.
 
   J'ai remarqué quelques erreurs *par-ci par-là* dans le texte.
-  Ich habe *hier und da* einige Fehler im Text bemerkt.
+  I have noticed some errors in the text *here and there*.
 
   Cette année-*ci* a été particulièrement difficile.
-  Dieses *Jahr hier* war besonders schwierig.
+  This year was particularly difficult.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p>In Gegenüberstellungen oder bei Vergleichen zweier Dinge hängt man die <b>Anhängepartikel</b> <span class="fr">–ci</span> oder <span class="fr">–là</span> an. Dabei drückt <span class="fr">–ci</span> die räumliche Nähe aus, <span class="fr">-là</span> eine größere Entfernung.</p>
+  <p>In contrasts or comparisons of two things, the <b>Attachments</b> <span class="fr">–ci</span> or <span class="fr">–là</span> on. Pressing <span class="fr">–ci</span> the spatial proximity; <span class="fr">-là</span> a greater distance.</p>
 
   <div class="examples">
     <div class="fr">Quel pantalon est-ce que tu aimes mieux – ce pantalon-ci ou ce pantalon-là ?</div>
-    <div class="de spoiler">Welche Hose magst du lieber – diese Hose hier oder die Hose dort?</div>
+    <div class="de spoiler">Which pants do you prefer – these pants here or the pants there?</div>
     <div class="fr">Lequel ? Celui-ci ou celui-là ?</div>
-    <div class="de spoiler">Welches? Dieses hier oder das dort?</div>
+    <div class="de spoiler">This one or this one?</div>
   </div>

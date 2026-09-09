@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4806
 Wort: stress
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le stress
 Femininum / Plural: ''
 IPA: \stʁɛs\
 Definition: Stress
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *stress*, ça rend un peu dingue.
-  Der *Stress* macht einen irgendwie verrückt.
+  The *stress* is kind of driving you crazy.
 
   Le *stress* quotidien peut avoir des effets néfastes sur la santé.
-  Der Alltags*stress* kann sich negativ auf die Gesundheit auswirken.
+  Daily *stress* can have a negative effect on health.
 
   Cette situation de *stress* m'empêche de dormir la nuit.
-  Diese *Stress*situation hindert mich am Schlafen.
+  This *stress* situation prevents me from sleeping.
 
   Le *stress* dû au calendrier serré nous affecte tous.
-  Der Termin*druck* betrifft uns alle.
+  The deadline *pressure* affects all of us.
 
   Les médecins étudient l'impact du *stress* psychologique sur le corps.
-  Die Ärzte untersuchen die Auswirkungen des psychischen *Stresses* auf den Körper.
+  The doctors examine the effects of mental *stress* on the body.
 
   Un certain niveau de *stress* positif peut améliorer nos performances.
-  Ein gewisses Maß an positivem *Stress* kann unsere Leistung verbessern.
+  A certain amount of positive *stress* can improve our performance.
 
   Son corps a réagi au *stress* par une montée d'adrénaline.
-  Sein Körper reagierte auf den *Stress* mit einem Adrenalinanstieg.
+  His body reacted to the *stress* with an adrenaline increase.
 
   Marie vit dans un état de *stress* permanent depuis son nouveau poste.
-  Marie lebt seit ihrer neuen Stelle unter ständiger *Belastung*.
+  Marie has been under constant strain since her new job.
 
   La méditation aide à gérer le *stress* au travail.
-  Meditation hilft dabei, den *Stress* bei der Arbeit zu bewältigen.
+  Meditation helps to cope with *stress* at work.
 
   Les exercices de respiration réduisent le *stress*.
-  Atemübungen reduzieren *Stress*.
+  Breathing exercises reduce *stress*.
 
   Cette plante montre des signes de *stress* par manque d'eau.
-  Diese Pflanze zeigt Anzeichen von *Stress* durch Wassermangel.
+  This plant shows signs of *stress* due to water deficiency.
 
   L'organisme réagit différemment selon le type de *stress*.
-  Der Organismus reagiert je nach Art des *Stresses* unterschiedlich.
+  The organism reacts differently depending on the type of *stress*.
 
   Le *stress* thermique peut être dangereux pour les animaux.
-  *Stress* durch Hitze kann für Tiere gefährlich sein.
+  *Stress* from heat can be dangerous for animals.
 
   Les chercheurs ont examiné le *stress* oxydant dans les cellules.
-  Die Forscher untersuchten den oxidativen *Stress* in den Zellen.
+  The researchers investigated oxidative *stress* in the cells.
 
   Le *stress* de la vie citadine affecte de plus en plus de gens.
-  Der *Stress* des Stadtlebens betrifft immer mehr Menschen.
+  The *stress* of city life affects more and more people.
 
   Les étudiants apprennent à gérer leur *stress* pendant les examens.
-  Die Studenten lernen, mit ihrem *Stress* während der Prüfungen umzugehen.
+  The students learn to deal with their *stress* during the exams.
 
   Le *stress* chronique peut causer des problèmes cardiaques.
-  Chronischer *Stress* kann zu Herzproblemen führen.
+  Chronic *stress* can lead to heart problems.
 
   Les vacances nous aident à échapper au *stress* quotidien.
-  Der Urlaub hilft uns, dem täglichen *Stress* zu entfliehen.
+  The holiday helps us to escape the daily *stress*.
 
   Ces symptômes sont une réaction normale au *stress*.
-  Diese Symptome sind eine normale Reaktion auf *Stress*.
+  These symptoms are a normal response to *stress*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

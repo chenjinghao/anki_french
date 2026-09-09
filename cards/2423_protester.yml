@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2423
 Wort: protester
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: protester
 Femininum / Plural: ''
 IPA: \pʁɔ.tɛs.te\
-Definition: protestieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Protest
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Leurs gosses, ils n'osent plus *protester*.
-  Ihre Kinder trauen sich nicht mehr zu *protestieren*.
+  Your children don't dare to *protest* anymore.
 
   Les manifestants *protestaient* contre la hausse des prix.
-  Die Demonstranten *protestierten* gegen die Preiserhöhung.
+  The demonstrators *protested* against the price increase.
 
   Marie a *protesté* de son innocence devant le juge.
-  Marie hat ihre Unschuld vor dem Richter *beteuert*.
+  Marie has asserted her innocence before the judge.
 
   Je dois *protester* contre cette décision injuste.
-  Ich muss gegen diese ungerechte Entscheidung *Einspruch erheben*.
+  I must object to this unjust decision.
 
   L'accusé n'a cessé de *protester* de sa bonne foi.
-  Der Angeklagte hörte nicht auf, seine Aufrichtigkeit zu *beteuern*.
+  The defendant did not stop asserting his sincerity.
 
   Les étudiants *protestent* contre les nouveaux horaires.
-  Die Studenten *protestieren* gegen die neuen Zeitpläne.
+  The students *protest* against the new schedules.
 
   Sans même *protester*, elle a accepté les nouvelles conditions.
-  Ohne auch nur zu *protestieren*, hat sie die neuen Bedingungen akzeptiert.
+  Without even protesting, she accepted the new conditions.
 
   La banque a dû *protester* le chèque non provisionné.
-  Die Bank musste den ungedeckten Scheck *protestieren* lassen.
+  The bank had to *protest* the blank cheque.
 
   Tout le quartier *proteste* contre la construction du nouveau centre commercial.
-  Die ganze Nachbarschaft *protestiert* gegen den Bau des neuen Einkaufszentrums.
+  The whole neighborhood is protesting against the construction of the new mall.
 
   Il a beau *protester*, personne ne le croit plus.
-  Er kann *protestieren* soviel er will, niemand glaubt ihm mehr.
+  He can *protest* as much as he wants, no one believes him anymore.
 
   Les employés ont *protesté* contre la réduction des salaires.
-  Die Angestellten haben gegen die Gehaltskürzungen *protestiert*.
+  The employees have protested against the cuts in salaries.
 
   Elle *proteste* toujours de son amitié, mais je doute de sa sincérité.
-  Sie *beteuert* stets ihre Freundschaft, aber ich zweifle an ihrer Aufrichtigkeit.
+  She always affirms her friendship, but I doubt her sincerity.
 
   Les citoyens *protestent* vivement contre cette nouvelle loi.
-  Die Bürger *protestieren* heftig gegen dieses neue Gesetz.
+  The citizens *protest* strongly against this new law.
 
   Le client mécontent *protestait* auprès du directeur.
-  Der unzufriedene Kunde *beschwerte* sich beim Direktor.
+  The dissatisfied customer complained to the director.
 
   Les parents d'élèves *protestent* contre la fermeture de l'école.
-  Die Eltern der Schüler *protestieren* gegen die Schulschließung.
+  The parents of the students *protest* against the school closure.
 
   Mon petit frère ne fait que *protester* quand il doit ranger sa chambre.
-  Mein kleiner Bruder tut nichts als zu *protestieren*, wenn er sein Zimmer aufräumen muss.
+  My little brother does nothing but *protest* when he has to clean up his room.
 
   L'entreprise a *protesté* contre ces accusations infondées.
-  Das Unternehmen hat gegen diese unbegründeten Anschuldigungen *protestiert*.
+  The company has protested against these unfounded allegations.
 
   Je dois *protester* de ma fidélité envers mes amis.
-  Ich muss meine Treue zu meinen Freunden *beteuern*.
+  I must *affirm* my loyalty to my friends.
 
   Les agriculteurs *protestent* contre les nouvelles régulations.
-  Die Landwirte *protestieren* gegen die neuen Vorschriften.
+  Farmers are protesting against the new rules.
 
   Les voisins *protestent* contre le bruit nocturne.
-  Die Nachbarn *protestieren* gegen den nächtlichen Lärm.
+  Neighbors are protesting the nocturnal noise.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

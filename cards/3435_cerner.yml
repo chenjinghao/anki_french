@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3435
 Wort: cerner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: cerner
 Femininum / Plural: ''
 IPA: \sɛʁ.ne\
-Definition: umreißen, erfassen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: outline, capture
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous m'aidez à *cerner* mes problèmes.
-  Sie helfen mir, meine Probleme zu *erfassen*.
+  They help me to understand my problems.
 
   La police a *cerné* le bâtiment pendant plusieurs heures.
-  Die Polizei hat das Gebäude stundenlang *umstellt*.
+  The police have *surrounded* the building for hours.
 
   Des arbres majestueux *cernent* la place du village.
-  Majestätische Bäume *umgeben* den Dorfplatz.
+  Majestic trees surround the village square.
 
   L'artiste a *cerné* les contours du visage d'un trait noir.
-  Der Künstler hat die Gesichtskonturen mit einem schwarzen Strich *umrissen*.
+  The artist has outlined the facial contours with a black line.
 
   Les difficultés *cernent* Marie de tous côtés.
-  Die Schwierigkeiten *brechen* von allen Seiten über Marie *herein*.
+  The difficulties are breaking through Marie from all sides.
 
   Il faut d'abord *cerner* la situation avant d'agir.
-  Man muss die Situation erst *einschätzen*, bevor man handelt.
+  You have to assess the situation before you act.
 
   Les forces spéciales ont *cerné* les terroristes dans leur cachette.
-  Die Spezialeinheiten haben die Terroristen in ihrem Versteck *eingekreist*.
+  The Special Forces have encircled the terrorists in their hiding place.
 
   Un large fossé *cerne* le château médiéval.
-  Ein breiter Graben *umschließt* die mittelalterliche Burg.
+  A wide ditch surrounds the medieval castle.
 
   Les chercheurs essaient de *cerner* les causes du réchauffement climatique.
-  Die Forscher versuchen, die Ursachen der Klimaerwärmung zu *erfassen*.
+  The researchers are trying to identify the causes of global warming.
 
   Le maquilleur a *cerné* ses yeux de khôl noir.
-  Der Visagist hat ihre Augen mit schwarzem Kajal *umrandet*.
+  The visagist has surrounded her eyes with black Kajal.
 
   Les soldats ont *cerné* la ville pendant la nuit.
-  Die Soldaten haben die Stadt in der Nacht *umstellt*.
+  The soldiers *surrounded* the city at night.
 
   La fatigue se voit sur son visage *cerné*.
-  Die Müdigkeit zeigt sich an ihren *umschatteten* Augen.
+  The fatigue is shown by her shady eyes.
 
   Le jardinier a *cerné* le vieux chêne pour l'enlever.
-  Der Gärtner hat die alte Eiche *umgraben*, um sie zu entfernen.
+  The gardener dug the old oak to remove it.
 
   Les journalistes tentent de *cerner* la personnalité du nouveau président.
-  Die Journalisten versuchen, die Persönlichkeit des neuen Präsidenten *einzuschätzen*.
+  Journalists are trying *to assess* the personality of the new president.
 
   Des montagnes *cernent* la vallée de tous côtés.
-  Berge *umschließen* das Tal von allen Seiten.
+  Mountains surround the valley from all sides.
 
   L'équipe de recherche a bien *cerné* les enjeux du projet.
-  Das Forschungsteam hat die Herausforderungen des Projekts gut *erfasst*.
+  The research team has well grasped the challenges of the project.
 
   Un brouillard épais *cernait* le village ce matin-là.
-  Ein dichter Nebel *umgab* das Dorf an diesem Morgen.
+  A thick fog surrounded the village this morning.
 
   Les manifestants se sont retrouvés *cernés* par les forces de l'ordre.
-  Die Demonstranten wurden von den Ordnungskräften *eingekreist*.
+  The demonstrators were surrounded by the police.
 
   Le philosophe a parfaitement *cerné* la question de l'existence.
-  Der Philosoph hat die Frage der Existenz perfekt *umrissen*.
+  The philosopher has perfectly outlined the question of existence.
 
   Les soucis qui me *cernent* m'empêchent de dormir.
-  Die Sorgen, die über mich *hereinbrechen*, halten mich vom Schlafen ab.
+  The worries that come upon me keep me from sleeping.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

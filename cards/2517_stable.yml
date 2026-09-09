@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2517
 Wort: stable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: stable
 Femininum / Plural: ''
 IPA: \stabl\
-Definition: stabil
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Stable
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'univers est *stable* et l'homme y aura toujours sa place.
-  Das Universum ist *stabil* und der Mensch wird darin immer seinen Platz haben.
+  The universe is *stable* and man will always have his place in it.
 
   Cette échelle n'est pas *stable*, fais attention en montant.
-  Diese Leiter ist nicht *standfest*, sei vorsichtig beim Hochsteigen.
+  This ladder is not stable, be careful when climbing up.
 
   Le gouvernement cherche à maintenir une économie *stable*.
-  Die Regierung versucht, eine *stabile* Wirtschaft aufrechtzuerhalten.
+  The government is trying to maintain a *stable* economy.
 
   Les prix du pétrole sont restés *stables* ce mois-ci.
-  Die Ölpreise blieben in diesem Monat *stabil*.
+  Oil prices remained *stable* this month.
 
   Pour être en bonne santé, il faut avoir un poids *stable*.
-  Um gesund zu sein, muss man ein *stabiles* Gewicht haben.
+  To be healthy, you have to have a *stable* weight.
 
   Ce meuble pour enfants est conçu pour être *stable* et sûr.
-  Dieses Kindermöbel ist so konzipiert, dass es *kippsicher* und sicher ist.
+  This children's furniture is designed to be tiltproof and safe.
 
   La Bourse est restée *stable* malgré les turbulences économiques.
-  Die Börse blieb trotz der wirtschaftlichen Turbulenzen *stabil*.
+  The stock exchange remained *stable* despite the economic turbulence.
 
   Un terrain *stable* est essentiel pour construire une maison solide.
-  Ein *befestigter* Boden ist wesentlich für den Bau eines soliden Hauses.
+  A *fixed* floor is essential for building a solid house.
 
   Marie a enfin trouvé un emploi *stable* après des années de précarité.
-  Marie hat nach Jahren der Unsicherheit endlich eine *dauerhafte* Anstellung gefunden.
+  Marie has finally found a *permanent* job after years of uncertainty.
 
   Le patient est dans un état *stable* après l'opération.
-  Der Patient befindet sich nach der Operation in einem *stabilen* Zustand.
+  The patient is in a *stable* condition after surgery.
 
   Pour réussir en politique, il faut avoir un caractère *stable*.
-  Um in der Politik erfolgreich zu sein, braucht man einen *ausgeglichenen* Charakter.
+  In order to be successful in politics, you need a *balanced* character.
 
   Les isotopes *stables* ne subissent pas de désintégration radioactive.
-  *Stabile* Isotope unterliegen keinem radioaktiven Zerfall.
+  *Stable* isotopes are not subject to radioactive decay.
 
   Ce couple *stable* est marié depuis vingt ans.
-  Dieses *beständige* Paar ist seit zwanzig Jahren verheiratet.
+  This steady couple has been married for twenty years.
 
   La monnaie du pays est restée *stable* malgré la crise.
-  Die Währung des Landes blieb trotz der Krise *stabil*.
+  The country's currency remained *stable* despite the crisis.
 
   Les scientifiques étudient les éléments chimiques *stables*.
-  Die Wissenschaftler untersuchen *stabile* chemische Elemente.
+  The scientists investigate *stable* chemical elements.
 
   Cette région bénéficie d'un climat *stable* tout au long de l'année.
-  Diese Region profitiert das ganze Jahr über von einem *beständigen* Klima.
+  This region benefits from a stable climate throughout the year.
 
   L'entreprise recherche une main-d'œuvre *stable* et qualifiée.
-  Das Unternehmen sucht nach *stabilen* und qualifizierten Arbeitskräften.
+  The company is looking for *stable* and skilled workers.
 
   Un mental *stable* est crucial pour réussir dans le sport de haut niveau.
-  Eine *stabile* Mentalität ist entscheidend für den Erfolg im Spitzensport.
+  A *stable* mentality is crucial for success in top sports.
 
   Ce nouveau modèle de voiture est conçu pour être plus *stable* sur la route.
-  Dieses neue Automodell wurde entwickelt, um auf der Straße *stabiler* zu sein.
+  This new car model was designed to be more *stable* on the road.
 
   Les fondations de ce bâtiment sont *stables* et résistantes aux tremblements de terre.
-  Die Fundamente dieses Gebäudes sind *stabil* und erdbebensicher.
+  The foundations of this building are *stable* and earthquake-proof.
 
   Le marché immobilier reste *stable* dans cette ville depuis plusieurs années.
-  Der Immobilienmarkt in dieser Stadt bleibt seit mehreren Jahren *stabil*.
+  The real estate market in this city has remained *stable* for several years.
 
   Pour une bonne santé mentale, il est important d'avoir des relations *stables*.
-  Für eine gute geistige Gesundheit ist es wichtig, *stabile* Beziehungen zu haben.
+  For good mental health, it is important to have *stable* relationships.
 
   L'écosystème de cette forêt est remarquablement *stable* malgré les changements climatiques.
-  Das Ökosystem dieses Waldes ist trotz des Klimawandels bemerkenswert *stabil*.
+  The ecosystem of this forest is remarkably *stable* despite climate change.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

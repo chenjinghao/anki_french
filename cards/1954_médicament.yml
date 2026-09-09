@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1954
 Wort: médicament
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le médicament
 Femininum / Plural: ''
 IPA: \me.di.ka.mɑ̃\
-Definition: Medikament
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Medicine
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je crois en les *médicaments* génériques peu coûteux.
-  Ich glaube an kostengünstige generische *Arzneimittel*.
+  I believe in cost-effective generic medicines.
 
   Le docteur m'a prescrit un nouveau *médicament* contre la diarrhée.
-  Der Arzt hat mir ein neues *Medikament* gegen Durchfall verschrieben.
+  The doctor prescribed me a new medication for diarrhea.
 
   "Prends ton *médicament* pour le cœur avant le petit-déjeuner."
-  "Nimm dein Herz*medikament* vor dem Frühstück."
+  "Take your heart medication before breakfast."
 
   Ce *médicament* contenant de l'insuline doit être conservé au réfrigérateur.
-  Dieses insulinhaltige *Arzneimittel* muss im Kühlschrank aufbewahrt werden.
+  This insulin containing medicinal product must be stored in the refrigerator.
 
   Les frais de *médicaments* peuvent être très élevés sans assurance maladie.
-  Die *Arzneimittel*kosten können ohne Krankenversicherung sehr hoch sein.
+  The cost of medicines can be very high without health insurance.
 
   Le médecin a ordonné un *médicament* puissant pour soulager la douleur.
-  Der Arzt hat ein starkes *Medikament* zur Schmerzlinderung verordnet.
+  The doctor has prescribed a strong medication to relieve pain.
 
   "Tu as encore oublié de prendre ton *médoc* ce matin ?"
-  "Hast du heute Morgen schon wieder vergessen, deine *Medizin* zu nehmen?"
+  "Did you forget to take your *medicine* again this morning?"
 
   Les pharmaciens préparent parfois des *médicaments* sur mesure pour certains patients.
-  Apotheker stellen manchmal maßgeschneiderte *Arzneimittel* für bestimmte Patienten her.
+  Pharmacists sometimes produce tailor-made medicines for certain patients.
 
   Ce nouveau *médicament* pourrait révolutionner le traitement du diabète.
-  Dieses neue *Medikament* könnte die Behandlung von Diabetes revolutionieren.
+  This new drug could revolutionize the treatment of diabetes.
 
   Les effets secondaires de ce *médicament* incluent des nausées et des vertiges.
-  Die Nebenwirkungen dieses *Arzneimittels* umfassen Übelkeit und Schwindel.
+  The side effects of this medicine include nausea and dizziness.
 
   Il faut toujours lire attentivement la notice avant de prendre un *médicament*.
-  Man sollte immer sorgfältig den Beipackzettel lesen, bevor man ein *Medikament* einnimmt.
+  You should always read the leaflet carefully before taking a *medicine*.
 
   Les *médicaments* à usage externe ne doivent jamais être ingérés.
-  *Arzneimittel* zur äußeren Anwendung dürfen niemals eingenommen werden.
+  Do not take any outer medicinal product.
 
   Certains *médicaments* peuvent interagir dangereusement avec l'alcool.
-  Einige *Medikamente* können gefährlich mit Alkohol interagieren.
+  Some drugs can interact dangerously with alcohol.
 
   La recherche sur de nouveaux *médicaments* contre le cancer progresse rapidement.
-  Die Forschung an neuen *Arzneimitteln* gegen Krebs macht schnelle Fortschritte.
+  Research on new drugs against cancer is making rapid progress.
 
   N'oubliez pas d'emporter vos *médicaments* essentiels en voyage.
-  Vergessen Sie nicht, Ihre wichtigen *Medikamente* auf Reisen mitzunehmen.
+  Don't forget to take your important medications while traveling.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

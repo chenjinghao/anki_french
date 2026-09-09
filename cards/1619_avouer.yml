@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1619
 Wort: avouer
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: avouer
 Femininum / Plural: ''
 IPA: \a.vwe\
-Definition: gestehen, zugeben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: confess, admit
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'*avoue* que j'étais encore plutôt naïf.
-  Ich *gestehe*, dass ich damals noch ziemlich naiv war.
+  I confess that I was quite naive back then.
 
   Les suspects ont *avoué* leur crime après l'interrogatoire.
-  Die Verdächtigen haben ihr Verbrechen *gestanden*.
+  The suspects confessed to their crime.
 
   Je dois vous *avouer* que je ne sais pas nager.
-  Ich muss Ihnen *gestehen*, dass ich nicht schwimmen kann.
+  I have to *confess* that I can't swim.
 
   Il faut bien *avouer* que ce film est un chef-d'œuvre.
-  Man muss schon *zugeben*, dass dieser Film ein Meisterwerk ist.
+  You have to admit that this film is a masterpiece.
 
   Il s'est *avoué* coupable devant le tribunal.
-  Er hat sich vor Gericht schuldig *bekannt*.
+  He pleaded guilty in court.
 
   Elle s'est finalement *avoué* vaincue après trois heures de jeu.
-  Nach drei Stunden Spielzeit hat sie sich schließlich *geschlagen gegeben*.
+  After three hours of playing, she finally got beaten.
 
   Je dois m'*avouer* déçu par les résultats.
-  Ich muss meine Enttäuschung über die Ergebnisse *eingestehen*.
+  I have to admit my disappointment at the results.
 
   Pierre a *avoué* son âge pour la première fois.
-  Pierre hat sein Alter zum ersten Mal *zugegeben*.
+  Pierre admitted his age for the first time.
 
   L'assassin a fini par *avouer*.
-  Der Mörder hat am Ende *gestanden*.
+  The killer ended up confessing.
 
   Elle s'est *avoué* ses sentiments les plus profonds.
-  Sie hat sich ihre tiefsten Gefühle *eingestanden*.
+  She has *acknowledged* her deepest feelings.
 
   Il m'a *avoué* son amour sous les étoiles.
-  Er hat mir unter den Sternen seine Liebe *gestanden*.
+  He stood under the stars his love.
 
   Ils se sont *avoué* leur amour mutuel.
-  Sie haben sich ihre gegenseitige Liebe *gestanden*.
+  They confessed to each other's love.
 
   Tu dois *avouer* que tu as fait une erreur.
-  Du musst *zugeben*, dass du einen Fehler gemacht hast.
+  You have to admit you made a mistake.
 
   Je m'*avoue* incapable de résoudre ce problème.
-  Ich *bekenne* mich außerstande, dieses Problem zu lösen.
+  I am unable to solve this problem.
 
   Elle a *avoué* avoir volé le collier.
-  Sie hat *zugegeben*, die Kette gestohlen zu haben.
+  She admitted she stole the necklace.
 
   Il faut *avouer* que la situation devient compliquée.
-  Man muss *eingestehen*, dass die Situation kompliziert wird.
+  You have to admit that the situation is getting complicated.
 
   Le ministre a dû *avouer* son ignorance sur le sujet.
-  Der Minister musste seine Unwissenheit in dieser Sache *eingestehen*.
+  The minister had to admit his ignorance in this matter.
 
   Je dois *avouer* que je n'y avais pas pensé.
-  Ich muss *zugeben*, dass ich nicht daran gedacht hatte.
+  I have to admit, I hadn't thought about it.
 
   L'accusé a *avoué* spontanément ses actes.
-  Der Angeklagte hat seine Taten spontan *gestanden*.
+  The defendant confessed his actions spontaneously.
 
   Elle s'est *avouée* dépassée par les événements.
-  Sie hat *zugegeben*, dass sie von den Ereignissen überfordert war.
+  She admitted that she was overwhelmed by the events.
 
   Il *avoue* franchement ses erreurs.
-  Er *gesteht* seine Fehler ehrlich *ein*.
+  He honestly *admits* his mistakes.
 
   Je dois *avouer* que cette décision me déplaît.
-  Ich muss *gestehen*, dass mir diese Entscheidung missfällt.
+  I must *confess* that I do not like this decision.
 
   Il a fini par *avouer* sa faiblesse.
-  Er hat schließlich seine Schwäche *eingestanden*.
+  He finally admitted his weakness.
 
   Elle n'*avouera* jamais sa jalousie.
-  Sie wird ihre Eifersucht nie *zugeben*.
+  She will never admit her jealousy.
 
   Je dois *avouer* que je suis impressionné.
-  Ich muss *gestehen*, dass ich beeindruckt bin.
+  I must *confess* that I'm impressed.
 
   Il s'*avoue* responsable de l'accident.
-  Er *bekennt* sich schuldig am Unfall.
+  He pleads guilty to the accident.
 
   Nous devons *avouer* que nous nous sommes trompés.
-  Wir müssen *eingestehen*, dass wir uns geirrt haben.
+  We must admit that we were wrong.
 
   Elle a *avoué* avoir menti à ses parents.
-  Sie hat *zugegeben*, ihre Eltern angelogen zu haben.
+  She confessed to lying to her parents.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4872
 Wort: enclin
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: enclin
 Femininum / Plural: encline
 IPA: \ɑ̃.klɛ̃\
-Definition: geneigt, -willig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: inclined, willing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis *enclin* à les laisser pourrir.
-  Ich *neige* dazu, sie verrotten zu lassen.
+  I tend to let them rot.
 
   Il est naturellement *enclin* à la méfiance envers les étrangers.
-  Er *neigt* von Natur aus zum Misstrauen gegenüber Fremden.
+  He tends by nature to distrust strangers.
 
   Cette entreprise est particulièrement *encline* aux réformes.
-  Dieses Unternehmen ist besonders reform*willig*.
+  This company is particularly *willing* to reform.
 
   Les adolescents sont souvent *enclins* à la mélancolie.
-  Jugendliche *neigen* oft zur Melancholie.
+  Teenagers often *tend* to melancholy.
 
   Elle n'est pas *encline* à pardonner facilement.
-  Sie *neigt* nicht dazu, leicht zu verzeihen.
+  She doesn't tend to forgive easily.
 
   Mon frère a toujours été *enclin* à la paresse.
-  Mein Bruder war schon immer zur Faulheit *geneigt*.
+  My brother was always *inclined* to laziness.
 
   Ces politiciens semblent *enclins* à médire de leurs adversaires.
-  Diese Politiker scheinen dazu zu *neigen*, schlecht über ihre Gegner zu reden.
+  These politicians seem to be inclined to speak badly about their opponents.
 
   Je ne suis pas vraiment *encline* à accepter cette proposition.
-  Ich bin nicht wirklich dazu *geneigt*, diesen Vorschlag anzunehmen.
+  I am not really *inclined* to accept this proposal.
 
   Son âme *encline* à l'exaltation la pousse souvent à l'excès.
-  Ihre zur Überschwänglichkeit *neigende* Seele treibt sie oft zum Übermut.
+  Her soul, which is prone to exuberance, often drives her to exuberance.
 
   Les enfants sont naturellement *enclins* à faire confiance aux autres.
-  Kinder *neigen* von Natur aus dazu, anderen zu vertrauen.
+  Children *tend* by nature to trust others.
 
   Elle est *encline* à s'irriter pour des détails.
-  Sie *neigt* dazu, sich über Kleinigkeiten aufzuregen.
+  She tends to get upset about little things.
 
   Ces chercheurs sont *enclins* à remettre en question les théories existantes.
-  Diese Forscher *neigen* dazu, bestehende Theorien zu hinterfragen.
+  These researchers *tend* to question existing theories.
 
   Ma grand-mère est *encline* à raconter les mêmes histoires.
-  Meine Großmutter *neigt* dazu, die gleichen Geschichten zu erzählen.
+  My grandmother tends to tell the same stories.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2588
 Wort: informatique
 Wortart: adj, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une informatique
 Femininum / Plural: ''
 IPA: \ɛ̃.fɔʁ.ma.tik\
-Definition: Informatik
-Register: ↘Fiktion
+Definition: Information technology
+Register: ↘fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je veux faire mon bac en *informatique*.
-  Ich möchte mein Abitur in *Informatik* machen.
+  I'd like to get my high school degree in computer science.
 
   L'*informatique* théorique est une discipline fascinante.
-  Die theoretische *Informatik* ist eine faszinierende Disziplin.
+  Theoretical computer science is a fascinating discipline.
 
   Notre nouvelle application *informatique* facilite la gestion des données.
-  Unsere neue *Computer*anwendung erleichtert die Datenverwaltung.
+  Our new computer application facilitates data management.
 
   Les installations *informatiques* de l'entreprise ont été modernisées.
-  Die *Computer*anlagen der Firma wurden modernisiert.
+  The company's computer systems have been modernized.
 
   Elle travaille dans l'industrie *informatique* depuis vingt ans.
-  Sie arbeitet seit zwanzig Jahren in der *Computer*industrie.
+  She's been working in the computer industry for twenty years.
 
   Le système *informatique* est en cours de maintenance.
-  Das *Computer*system wird gerade gewartet.
+  The computer system is being maintained.
 
   Le traitement *informatique* des données est plus rapide que le traitement manuel.
-  Die *elektronische* Datenverarbeitung ist schneller als die manuelle Bearbeitung.
+  *Electronic* data processing is faster than manual processing.
 
   Les réseaux *informatiques* permettent l'échange rapide d'informations.
-  *Computer*netzwerke ermöglichen einen schnellen Informationsaustausch.
+  Computer networks enable rapid exchange of information.
 
   L'*informatique* en nuage offre de nombreux avantages.
-  Das Cloud*computing* bietet viele Vorteile.
+  Cloudcomputing offers many advantages.
 
   La saisie *informatique* des documents prend du temps.
-  Die *Computer*erfassung der Dokumente braucht Zeit.
+  Computer recording of the documents takes time.
 
   Mon frère étudie l'ingénierie *informatique* à l'université.
-  Mein Bruder studiert *Computer*technik an der Universität.
+  My brother is studying computer technology at the university.
 
   Les langages *informatiques* évoluent constamment.
-  *Computer*sprachen entwickeln sich ständig weiter.
+  Computer languages are constantly evolving.
 
   Cette entreprise vend du matériel *informatique*.
-  Diese Firma verkauft *Computer*hardware.
+  This company sells computer hardware.
 
   Le fichier *informatique* a été corrompu.
-  Die *Computer*datei wurde beschädigt.
+  The computer file has been corrupted.
 
   L'*informatique* bancaire nécessite des mesures de sécurité strictes.
-  Die Bank*edv* erfordert strenge Sicherheitsmaßnahmen.
+  Bankedv requires strict security measures.
 
   L'*informatique* et l'intelligence artificielle sont étroitement liées.
-  *Informatik* und künstliche Intelligenz sind eng miteinander verbunden.
+  Computer science and artificial intelligence are closely linked.
 
   Le programme *informatique* ne répond plus.
-  Das *Computer*programm reagiert nicht mehr.
+  The computer program is no longer responding.
 
   L'*informatique* de gestion simplifie les processus administratifs.
-  Die Verwaltungs*edv* vereinfacht administrative Prozesse.
+  The administrative *edv* simplifies administrative processes.
 
   Les ensembles *informatiques* doivent être régulièrement mis à jour.
-  Die vernetzten *Computer*systeme müssen regelmäßig aktualisiert werden.
+  Networked computer systems must be updated regularly.
 
   Notre magasin *informatique* propose des réparations rapides.
-  Unser *Computer*laden bietet schnelle Reparaturen an.
+  Our computer store offers quick repairs.
 
   L'*informatique* et le multimédia sont omniprésents dans notre société.
-  *Informatik* und Multimedia sind in unserer Gesellschaft allgegenwärtig.
+  Computer science and multimedia are omnipresent in our society.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

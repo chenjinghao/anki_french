@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4157
 Wort: dérive
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la dérive
 Femininum / Plural: ''
 IPA: \de.ʁiv\
-Definition: Abdrift, Abweichung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Drift, deviation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'imagine mal cependant des *dérives* extrémistes.
-  Ich kann mir jedoch kaum extremistische *Abweichungen* vorstellen.
+  However, I can hardly imagine extremist *deviations*.
 
   Le navire *dérive* lentement vers le large.
-  Das Schiff *treibt* langsam aufs Meer *hinaus*.
+  The ship is slowly drifting *out* into the sea.
 
   La *dérive* des continents est un phénomène géologique fascinant.
-  Die Kontinental*verschiebung* ist ein faszinierendes geologisches Phänomen.
+  The continental *shift* is a fascinating geological phenomenon.
 
   L'économie du pays est en pleine *dérive*.
-  Die Wirtschaft des Landes befindet sich im *Abwärtstrend*.
+  The country's economy is on a *downward trend*.
 
   Le bateau était complètement *à la dérive* après la tempête.
-  Das Boot *trieb* nach dem Sturm völlig steuerlos *umher*.
+  After the storm, the boat drifted *around* completely without control.
 
   La *dérive* du dollar face à l'euro inquiète les marchés.
-  Das *Abrutschen* des Dollars gegenüber dem Euro beunruhigt die Märkte.
+  The dollar's slipping off against the euro worries the markets.
 
   Le pilote a dû corriger l'angle de *dérive* plusieurs fois pendant le vol.
-  Der Pilot musste den *Abdrift*winkel während des Flugs mehrmals korrigieren.
+  The pilot had to correct the *drift* angle several times during the flight.
 
   Cette entreprise va *à la dérive* depuis le départ de son directeur.
-  Dieses Unternehmen geht seit dem Weggang des Direktors *den Bach runter*.
+  This company has been going down the drain since the director left.
 
   La *dérive* latérale du voilier était trop importante.
-  Die seitliche *Abdrift* des Segelboots war zu stark.
+  The lateral *drift* of the sailboat was too strong.
 
   Le mécanicien a réparé la *dérive* de l'avion ce matin.
-  Der Mechaniker hat heute Morgen das *Seitenleitwerk* des Flugzeugs repariert.
+  The mechanic fixed the plane's side tail this morning.
 
   Un fort courant de *dérive* a modifié notre trajectoire.
-  Eine starke *Drift*strömung hat unseren Kurs verändert.
+  A strong *drift* current has changed our course.
 
   Les mesures de la *dérive* des glaciers sont alarmantes.
-  Die Messungen der Gletscher*drift* sind alarmierend.
+  The measurements of the glacial *drift* are alarming.
 
   Sa vie personnelle part complètement *à la dérive*.
-  Sein Privatleben gerät völlig *außer Kontrolle*.
+  His private life is completely *out of control*.
 
   La *dérive* autoritaire du gouvernement inquiète l'opposition.
-  Das autoritäre *Abdriften* der Regierung beunruhigt die Opposition.
+  The authoritarian drift of the government worries the opposition.
 
   Il faut remplacer la *dérive* du bateau avant la course.
-  Das *Schwert* des Bootes muss vor dem Rennen ausgetauscht werden.
+  The *sword* of the boat must be replaced before the race.
 
   Les scientifiques étudient la *dérive* génétique des espèces.
-  Die Wissenschaftler untersuchen die genetische *Drift* der Arten.
+  The scientists investigate the genetic *drift* of the species.
 
   Une légère *dérive* des instruments a faussé les mesures.
-  Eine leichte *Abweichung* der Instrumente hat die Messungen verfälscht.
+  A slight *deviation* of the instruments has falsified the measurements.
 
   "Mon fils est en train de *partir à la dérive*", s'inquiétait sa mère.
-  "Mein Sohn ist dabei, völlig *abzudriften*", sorgte sich seine Mutter.
+  "My son is *drifting* completely," his mother worried.
 
   La *dérive* des prix devient préoccupante.
-  Die *Entwicklung* der Preise wird besorgniserregend.
+  The price trend is becoming worrying.
 
   Les wagons se sont mis en *dérive* sur la pente.
-  Die Waggons gerieten auf der Steigung ins *Rollen*.
+  The wagons got rolling on the slope.
 
   La *dérive* des icebergs est surveillée par satellite.
-  Die *Drift* der Eisberge wird per Satellit überwacht.
+  The *drift* of the icebergs is monitored by satellite.
 
   Le capitaine a calculé notre *dérive* due au vent.
-  Der Kapitän hat unsere windbedingte *Kursabweichung* berechnet.
+  The captain has calculated our wind-related *price deviation*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

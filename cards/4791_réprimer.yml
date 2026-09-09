@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4791
 Wort: réprimer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: réprimer
 Femininum / Plural: ''
 IPA: \ʁe.pʁi.me\
-Definition: unterdrücken, zurückhalten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: suppress, hold back
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous *réprimez* ce que vous ressentez.
-  Sie *unterdrücken*, was Sie fühlen.
+  You're suppressing what you're feeling.
 
   Il n'arrivait pas à *réprimer* ses larmes en regardant le film.
-  Er konnte seine Tränen beim Film nicht *zurückhalten*.
+  He couldn't *hold back* his tears in the movie.
 
   Je ne peux pas *réprimer* un sourire en voyant sa réaction.
-  Ich kann mir ein Lächeln nicht *verkneifen*, als ich seine Reaktion sehe.
+  I can't resist a smile when I see his reaction.
 
   Les autorités ont rapidement *réprimé* la manifestation.
-  Die Behörden haben die Demonstration schnell *niedergeschlagen*.
+  The authorities quickly knocked down the demonstration.
 
   Elle essayait de *réprimer* un bâillement pendant la réunion.
-  Sie versuchte während der Besprechung, ein Gähnen zu *unterdrücken*.
+  During the meeting, she tried to *suppress* yawning.
 
   La police a dû *réprimer* les émeutes dans plusieurs quartiers.
-  Die Polizei musste die Unruhen in mehreren Stadtvierteln *niederschlagen*.
+  The police had to suppress the riots in several neighborhoods.
 
   Les tribunaux doivent *réprimer* ces crimes odieux.
-  Die Gerichte müssen diese abscheulichen Verbrechen *ahnden*.
+  The courts must punish these heinous crimes.
 
   Marie n'a pas pu *réprimer* son enthousiasme à la nouvelle.
-  Marie konnte ihre Begeisterung über die Nachricht nicht *zurückhalten*.
+  Marie couldn't *hold back* her enthusiasm for the news.
 
   L'État a violemment *réprimé* la rébellion.
-  Der Staat hat den Aufstand gewaltsam *niedergeschlagen*.
+  The state has violently suppressed the uprising.
 
   Le gouvernement *réprime* systématiquement toute opposition.
-  Die Regierung *unterdrückt* systematisch jede Opposition.
+  The government systematically suppresses any opposition.
 
   La loi *réprime* sévèrement ce type de délit.
-  Das Gesetz *ahndet* diese Art von Vergehen streng.
+  The law severely *punishes* these kinds of offences.
 
   Il essaie de *réprimer* sa jalousie quand il la voit avec un autre.
-  Er versucht seine Eifersucht zu *unterdrücken*, wenn er sie mit einem anderen sieht.
+  He tries to *suppress* his jealousy when he sees it with someone else.
 
   Les forces de l'ordre ont *réprimé* la contrebande à la frontière.
-  Die Ordnungskräfte haben den Schmuggel an der Grenze *unterbunden*.
+  The police have stopped smuggling at the border.
 
   Thomas n'arrivait plus à *réprimer* son anxiété avant l'examen.
-  Thomas konnte seine Angst vor der Prüfung nicht länger *unterdrücken*.
+  Thomas could no longer *suppress* his fear of the test.
 
   La société *réprime* certains comportements jugés déviants.
-  Die Gesellschaft *unterdrückt* bestimmte als abweichend beurteilte Verhaltensweisen.
+  Society suppresses certain behaviours judged to be deviating.
 
   Les parents doivent parfois *réprimer* les mauvais comportements de leurs enfants.
-  Eltern müssen manchmal schlechtes Verhalten ihrer Kinder *unterbinden*.
+  Parents sometimes have to stop their children from doing bad things.
 
   Le régime a brutalement *réprimé* toute tentative de résistance.
-  Das Regime hat jeden Widerstandsversuch brutal *niedergeschlagen*.
+  The regime has brutally suppressed any attempt at resistance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

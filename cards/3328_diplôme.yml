@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3328
 Wort: diplôme
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le diplôme
 Femininum / Plural: ''
 IPA: \di.plom\
-Definition: Diplom
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Diploma
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tous aspiraient à avoir un *diplôme* de la Sorbonne.
-  Alle strebten nach einem *Abschluss* von der Sorbonne.
+  All of them wanted a degree from the Sorbonne.
 
   Elle a obtenu son *diplôme* d'infirmière avec mention.
-  Sie hat ihren *Abschluss* als Krankenschwester mit Auszeichnung gemacht.
+  She graduated as a nurse with distinction.
 
   La cérémonie de *remise* des diplômes aura lieu vendredi prochain.
-  Die Zeugnis*verleihung* findet nächsten Freitag statt.
+  The witness ceremony will take place next Friday.
 
   Mon frère n'a pas encore de *diplôme* universitaire.
-  Mein Bruder hat noch keinen Universitäts*abschluss*.
+  My brother doesn't have a university degree yet.
 
   Le *diplôme* d'ingénieur est très valorisé sur le marché du travail.
-  Das Ingenieur*diplom* ist auf dem Arbeitsmarkt sehr geschätzt.
+  The engineering *diploma* is highly appreciated in the labour market.
 
   Marie prépare un *diplôme* d'agronomie à l'université.
-  Marie macht eine *Ausbildung* in Agronomie an der Universität.
+  Marie's *training* in agronomy at the university.
 
   Sans *diplôme*, il est difficile de trouver un bon emploi.
-  Ohne *Abschluss* ist es schwierig, eine gute Arbeit zu finden.
+  Without a degree, it is difficult to find a good job.
 
   J'ai encadré mon *diplôme* de fin d'études secondaires.
-  Ich habe mein Abschluss*zeugnis* vom Gymnasium eingerahmt.
+  I framed my graduation from high school.
 
   Le directeur lui a remis son *diplôme* de bachelier hier.
-  Der Direktor hat ihm gestern sein Abitur*zeugnis* überreicht.
+  The director handed him his high school *certificate* yesterday.
 
   Il faut faire une copie certifiée de ton *diplôme*.
-  Du musst eine beglaubigte Kopie deines *Zeugnisses* machen.
+  You need to make a certified copy of your *certificate*.
 
   Pierre s'est inscrit pour passer son *diplôme* de secouriste.
-  Pierre hat sich für die *Prüfung* zum Ersthelfer angemeldet.
+  Pierre signed up for the first responder *test*.
 
   Son *diplôme* de docteur ès lettres lui a ouvert beaucoup de portes.
-  Sein Doktor*titel* in Geisteswissenschaften hat ihm viele Türen geöffnet.
+  His doctorate in humanities has opened many doors to him.
 
   Elle est titulaire d'un *diplôme* de pharmacienne.
-  Sie ist Inhaberin eines *Abschlusses* als Apothekerin.
+  She holds a degree as a pharmacist.
 
   Le *diplôme* national de guide de montagne est très exigeant.
-  Die staatliche *Prüfung* zum Bergführer ist sehr anspruchsvoll.
+  The state *test* for the mountain guide is very demanding.
 
   Les étudiants recevront leurs *diplômes* lors de la cérémonie.
-  Die Studenten werden ihre *Abschlüsse* bei der Zeremonie erhalten.
+  The students will receive their degrees at the ceremony.
 
   Je dois présenter mon *diplôme* original pour cette candidature.
-  Ich muss mein Original*zeugnis* für diese Bewerbung vorlegen.
+  I have to present my original *certificate* for this application.
 
   Il a décroché son *diplôme* avec les félicitations du jury.
-  Er hat seinen *Abschluss* mit Auszeichnung der Jury erreicht.
+  He graduated with distinction from the jury.
 
   Le ministère délivre ce *diplôme* après trois ans d'études.
-  Das Ministerium verleiht diesen *Abschluss* nach drei Jahren Studium.
+  The Ministry grants this degree after three years of study.
 
   Thomas prépare son *diplôme* de sage-femme depuis deux ans.
-  Thomas macht seit zwei Jahren seine *Ausbildung* zum Geburtshelfer.
+  Thomas has been working as an obstetrician for two years.
 
   Les entreprises exigent souvent un *diplôme* d'études supérieures.
-  Die Unternehmen verlangen oft einen Hochschul*abschluss*.
+  Companies often require a university degree.
 
   Son *diplôme* de la Légion d'honneur est accroché dans son bureau.
-  Seine *Auszeichnung* der Ehrenlegion hängt in seinem Büro.
+  His honors of the Legion of Honour hang in his office.
 
   Elle a reçu son *diplôme* de fin d'études de premier cycle hier.
-  Sie hat gestern ihr *Zeugnis* der mittleren Reife erhalten.
+  Yesterday she received her testimony of medium maturity.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 826
 Wort: octobre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un octobre
 Femininum / Plural: ''
 IPA: \ɔk.tɔbʁ\
-Definition: Oktober
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: October
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il sortira en français au mois d'*octobre*.
-  Es erscheint auf Französisch im *Oktober*.
+  It will be published in French in *October*.
 
   Le premier *octobre* est le jour de son anniversaire.
-  Am ersten *Oktober* hat sie Geburtstag.
+  It's her birthday on the first of *October*.
 
   Il fait encore beau en *octobre* cette année.
-  Es ist dieses Jahr im *Oktober* noch schön.
+  It's still beautiful this year in *October*.
 
   J'ai réservé mes vacances pour la mi-*octobre*.
-  Ich habe meinen Urlaub für Mitte *Oktober* gebucht.
+  I booked my vacation for mid-*October*.
 
   *Octobre* a toujours été son mois préféré.
-  Der *Oktober* war schon immer sein Lieblingsmonat.
+  *October* has always been his favorite month.
 
   La conférence aura lieu du 15 au 20 *octobre*.
-  Die Konferenz findet vom 15. bis 20. *Oktober* statt.
+  The conference will take place from 15 to 20 *October*.
 
   Les feuilles commencent à tomber début *octobre*.
-  Die Blätter beginnen Anfang *Oktober* zu fallen.
+  The leaves begin to fall in early *October*.
 
   Nous nous sommes mariés un dimanche d'*octobre*.
-  Wir haben an einem Sonntag im *Oktober* geheiratet.
+  We got married on a Sunday in *October*.
 
   En *octobre*, les jours raccourcissent rapidement.
-  Im *Oktober* werden die Tage schnell kürzer.
+  In *October*, the days quickly get shorter.
 
   La température en *octobre* est plutôt douce.
-  Die Temperatur im *Oktober* ist eher mild.
+  The temperature in *October* is rather mild.
 
   Le festival se déroule chaque année en *octobre*.
-  Das Festival findet jedes Jahr im *Oktober* statt.
+  The festival takes place every year in *October*.
 
   Les vendanges se terminent fin *octobre*.
-  Die Weinlese endet Ende *Oktober*.
+  The harvest ends at the end of *October*.
 
   C'est en *octobre* que les couleurs sont les plus belles.
-  Im *Oktober* sind die Farben am schönsten.
+  In *October* the colors are the most beautiful.
 
   Il a plu pendant tout le mois d'*octobre*.
-  Es hat den ganzen *Oktober* geregnet.
+  It rained all *October*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

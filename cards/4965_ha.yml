@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4965
 Wort: ha
 Wortart: intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ha
 Femininum / Plural: ''
 IPA: \ha\
 Definition: ha
-Register: ↘Sachtext
+Register: ↘nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "*Ha. Ha.* Très drôle."
-  "*Ha. Ha.* Sehr witzig."
+  "*Ha*. Ha. Very funny."
 
   "*Ha !* Je t'ai fait peur ?"
-  "*Ha!* Habe ich dich erschreckt?"
+  Did I scare you?
 
   "*Ha !* J'ai enfin trouvé mes clés !"
-  "*Ha!* Endlich habe ich meine Schlüssel gefunden!"
+  "*Ha*! I finally found my keys!"
 
   "*Ha !* Je savais bien que tu viendrais !"
-  "*Ha!* Ich wusste doch, dass du kommen würdest!"
+  "*Ha*! I knew you would come!"
 
   "Il a éclaté d'un rire sonore : *ha, ha, ha !*"
-  Er brach in schallendes Gelächter aus: "*Ha, ha, ha!*"
+  He burst out in a loud laughter: "*Ha, ha, ha*!"
 
   "*Ha !* Quelle belle surprise !"
-  "*Ha!* Was für eine schöne Überraschung!"
+  "*Ha*! What a nice surprise!"
 
   "*Ha !* Je comprends maintenant !"
-  "*Ha!* Jetzt verstehe ich!"
+  "*Ha*! Now I understand!"
 
   "*Ha, ha !* C'était vraiment amusant !"
-  "*Ha, ha!* Das war wirklich lustig!"
+  "*Ha, ha*! That was really funny!"
 
   "*Ha !* Voilà la solution !"
-  "*Ha!* Das ist die Lösung!"
+  "*Ha*! That's the solution!"
 
   "*Ha !* Te voilà enfin !"
-  "*Ha!* Da bist du ja endlich!"
+  "Hah, you're finally there!"
 
   "*Ha, ha !* Tu aurais dû voir ta tête !"
-  "*Ha, ha!* Du hättest dein Gesicht sehen sollen!"
+  "*Ha, ha*! You should have seen your face!"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

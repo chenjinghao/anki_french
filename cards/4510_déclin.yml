@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4510
 Wort: déclin
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le déclin
 Femininum / Plural: ''
 IPA: \de.klɛ̃\
-Definition: Niedergang, Untergehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Decline, sinking
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Leur nombre est en *déclin*, mais ils sont encore assez nombreux.
-  Ihre Anzahl ist im *Rückgang*, aber sie sind noch zahlreich genug.
+  Their number is in decline, but they are still numerous enough.
 
   Le soleil était sur son *déclin* quand nous sommes arrivés à la plage.
-  Die Sonne war am *Untergehen*, als wir am Strand ankamen.
+  The sun was setting when we arrived at the beach.
 
   Au *déclin* du jour, les oiseaux retournent à leurs nids.
-  In der *Dämmerung* kehren die Vögel in ihre Nester zurück.
+  At dusk the birds return to their nests.
 
   Cette civilisation antique a connu un *déclin* rapide après l'invasion.
-  Diese antike Zivilisation erlebte nach der Invasion einen schnellen *Niedergang*.
+  This ancient civilization experienced a rapid *decline* after the invasion.
 
   Le *déclin* de sa popularité s'est accéléré après le scandale.
-  Das *Schwinden* seiner Popularität beschleunigte sich nach dem Skandal.
+  The decline of its popularity accelerated after the scandal.
 
   Les médecins ont noté un *déclin* progressif de ses fonctions cognitives.
-  Die Ärzte stellten ein fortschreitendes *Nachlassen* seiner kognitiven Funktionen fest.
+  The doctors noted a gradual decline in his cognitive functions.
 
   L'entreprise a subi un *déclin* important de son image de marque.
-  Das Unternehmen erlitt einen erheblichen *Verfall* seines Images.
+  The company suffered a significant decline in its image.
 
   Le *déclin* de la fièvre a commencé après trois jours de traitement.
-  Das *Abklingen* des Fiebers begann nach drei Tagen Behandlung.
+  The fever began to subside after three days of treatment.
 
   On observe un *déclin* significatif des populations d'abeilles.
-  Man beobachtet einen deutlichen *Rückgang* der Bienenpopulationen.
+  A significant decline in bee populations is observed.
 
   Le *déclin* de ses forces physiques l'a obligé à arrêter le sport.
-  Das *Schwinden* seiner körperlichen Kräfte zwang ihn, den Sport aufzugeben.
+  The decline of his physical powers forced him to give up the sport.
 
   Cette station de ski connaît un *déclin* constant depuis le réchauffement climatique.
-  Dieser Skiort erlebt seit der Klimaerwärmung einen stetigen *Niedergang*.
+  This ski resort has been experiencing a steady *decline* since global warming.
 
   Le *déclin* de la lune marquait la fin du cycle lunaire.
-  Das *Abnehmen* des Mondes markierte das Ende des Mondzyklus.
+  Losing the moon marked the end of the lunar cycle.
 
   L'historien a documenté le *déclin* progressif de l'Empire romain.
-  Der Historiker dokumentierte den allmählichen *Niedergang* des Römischen Reiches.
+  The historian documented the gradual *decline* of the Roman Empire.
 
   Les experts prédisent un *déclin* rapide de cette technologie.
-  Die Experten sagen einen schnellen *Niedergang* dieser Technologie voraus.
+  Experts predict a rapid *decline* in this technology.
 
   Le *déclin* de sa beauté la rendait mélancolique.
-  Das *Vergehen* ihrer Schönheit machte sie melancholisch.
+  The passing of her beauty made her melancholy.
 
   Cette industrie est en plein *déclin* depuis des années.
-  Diese Industrie befindet sich seit Jahren im vollen *Niedergang*.
+  This industry has been in *decline* for years.
 
   Le *déclin* de ses facultés mentales inquiétait sa famille.
-  Das *Nachlassen* seiner geistigen Fähigkeiten beunruhigte seine Familie.
+  The decline of his mental abilities troubled his family.
 
   Au *déclin* de sa vie, il a écrit ses mémoires.
-  Am *Ende* seines Lebens schrieb er seine Memoiren.
+  At the *end* of his life, he wrote his memoirs.
 
   Le *déclin* du soleil créait des ombres magnifiques sur les montagnes.
-  Der *Untergang* der Sonne warf wunderschöne Schatten auf die Berge.
+  The sunset of the sun cast beautiful shadows on the mountains.
 
   Cette langue régionale connaît un *déclin* constant depuis cinquante ans.
-  Diese Regionalsprache erlebt seit fünfzig Jahren einen stetigen *Niedergang*.
+  This regional language has been experiencing a steady *decline* for fifty years.
 
   Les économistes parlent d'un *déclin* inévitable de ce secteur industriel.
-  Die Ökonomen sprechen von einem unvermeidlichen *Niedergang* dieses Industriesektors.
+  Economists speak of an inevitable *decline* in this industrial sector.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

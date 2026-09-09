@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4302
 Wort: messe
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la messe
 Femininum / Plural: ''
 IPA: \mɛs\
-Definition: Messe
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Fair
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les dimanches, j'allais à la *messe*.
-  Sonntags ging ich zur *Messe*.
+  I went to Mass on Sundays.
 
   Pierre *sert la messe* depuis qu'il a huit ans.
-  Peter *ministriert* seit seinem achten Lebensjahr.
+  Peter has been ministrating since he was eight.
 
   La *messe* dominicale commence à dix heures.
-  Die Sonntags*messe* beginnt um zehn Uhr.
+  The Sunday Mass starts at ten o'clock.
 
   Le prêtre célébrera la *messe* de fin d'année ce soir.
-  Der Pfarrer wird heute Abend die Jahresschluss*messe* feiern.
+  The priest will celebrate the annual Mass tonight.
 
   La *Messe* en si mineur de Bach est une œuvre monumentale.
-  Die h-Moll-*Messe* von Bach ist ein monumentales Werk.
+  Bach's B minor *fair* is a monumental work.
 
   "Ils font des *messes basses* pendant tout le cours."
-  "Sie *tuscheln* während des ganzen Unterrichts."
+  "They whisper throughout the whole class."
 
   La *messe* de minuit attire toujours beaucoup de monde.
-  Die Mitternachts*messe* zieht immer viele Menschen an.
+  The midnight Mass attracts many people.
 
   Le chœur répète la *messe* de Mozart pour le concert.
-  Der Chor probt Mozarts *Messe* für das Konzert.
+  The choir rehearses Mozart's Mass for the concert.
 
   La *messe* solennelle sera célébrée par l'évêque.
-  Die feierliche *Messe* wird vom Bischof zelebriert.
+  The solemn Mass is celebrated by the Bishop.
 
   Les fidèles se rassemblent pour la *messe* chantée.
-  Die Gläubigen versammeln sich zur gesungenen *Messe*.
+  The faithful gather for the sung Mass.
 
   On célèbre une *messe* à la mémoire de nos grands-parents.
-  Es wird eine *Messe* zum Gedenken an unsere Großeltern gefeiert.
+  A mass is celebrated to commemorate our grandparents.
 
   La *messe* de mariage aura lieu dans la cathédrale.
-  Die Hochzeits*messe* wird in der Kathedrale stattfinden.
+  The wedding mass will take place in the cathedral.
 
   Cette *messe* de requiem est très émouvante.
-  Diese Toten*messe* ist sehr bewegend.
+  This mass of the dead is very moving.
 
   La *messe* du bout de l'an réunira toute la famille.
-  Die Jahres*messe* wird die ganze Familie zusammenbringen.
+  The annual Mass will bring together the whole family.
 
   Les cloches sonnent pour annoncer la *messe*.
-  Die Glocken läuten zur *Messe*.
+  The bells ring to Mass.
 
   La première *messe* du nouveau prêtre était touchante.
-  Die erste *Messe* des neuen Priesters war bewegend.
+  The first Mass of the new priest was moving.
 
   Une *messe* d'action de grâces sera célébrée dimanche.
-  Am Sonntag wird eine Dank*messe* gefeiert.
+  On Sunday, a Thanksgiving Mass is celebrated.
 
   Le livre de *messe* appartenait à ma grand-mère.
-  Das *Mess*buch gehörte meiner Großmutter.
+  The book was my grandmother's.
 
   La *messe* pontificale sera diffusée à la télévision.
-  Die Papst*messe* wird im Fernsehen übertragen.
+  The Pope's Mass is broadcast on television.
 
   Cette *messe* en musique attire beaucoup de jeunes.
-  Diese musikalische *Messe* zieht viele junge Leute an.
+  This musical *fair* attracts many young people.
 
   "*La messe est dite*", a-t-il déclaré en quittant la réunion.
-  "*Die Sache ist erledigt*", erklärte er beim Verlassen der Sitzung.
+  "The matter is over," he explained when he left the meeting.
 
   Les enfants de chœur se préparent pour la *messe*.
-  Die Messdiener bereiten sich auf die *Messe* vor.
+  The servants are preparing for the *fair*.
 
   La *messe* votive sera célébrée à une intention spéciale.
-  Die Votiv*messe* wird für einen besonderen Anlass gefeiert.
+  The Votive *Fair* is celebrated for a special occasion.
 
   Le vin de *messe* est conservé dans la sacristie.
-  Der *Mess*wein wird in der Sakristei aufbewahrt.
+  The wine is stored in the sacristy.
 
   Cette *messe* polyphonique date du XVI<sup>e</sup> siècle.
-  Diese polyphone *Messe* stammt aus dem 16. Jahrhundert.
+  This polyphonic *fair* dates back to the 16th century.
 
   Gounod a composé cette *messe* en 1855.
-  Gounod komponierte diese *Messe* im Jahr 1855.
+  Gounod composed this *fair* in 1855.
 
   La *messe* conventuelle rassemble tous les moines.
-  Die Konvents*messe* versammelt alle Mönche.
+  The Convention Mass gathers all the monks.
 
   La *messe* paroissiale a lieu tous les matins à huit heures.
-  Die Pfarr*messe* findet jeden Morgen um acht Uhr statt.
+  The parochial mass takes place every morning at eight o'clock.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3318
 Wort: fermement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fermement
 Femininum / Plural: ''
 IPA: \fɛʁ.mə.mɑ̃\
-Definition: fest, entschieden
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: firm, decided
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous croyons *fermement* en ce principe.
-  Wir glauben *fest* an dieses Prinzip.
+  We firmly believe in this principle.
 
   Elle tenait *fermement* la main de sa fille dans la foule.
-  Sie hielt die Hand ihrer Tochter *fest* in der Menge.
+  She held her daughter's hand in the crowd.
 
   Le président a *fermement* condamné ces actes de violence.
-  Der Präsident hat diese Gewalttaten *entschieden* verurteilt.
+  The President strongly condemned these acts of violence.
 
   Je suis *fermement* décidé à finir mes études cette année.
-  Ich bin *fest* entschlossen, mein Studium dieses Jahr abzuschließen.
+  I am determined to finish my studies this year.
 
   Il faut appuyer *fermement* sur le bouton pour que ça marche.
-  Man muss *fest* auf den Knopf drücken, damit es funktioniert.
+  You have to press the button firmly to make it work.
 
   Les policiers ont *fermement* maintenu l'ordre pendant la manifestation.
-  Die Polizisten haben während der Demonstration die Ordnung *resolut* aufrechterhalten.
+  During the demonstration, the police resolutely maintained order.
 
   Le chirurgien a saisi *fermement* ses instruments.
-  Der Chirurg ergriff seine Instrumente *fest*.
+  The surgeon grabbed his instruments.
 
   Elle s'est prononcée *fermement* contre cette proposition.
-  Sie hat sich *entschieden* gegen diesen Vorschlag ausgesprochen.
+  She has strongly opposed this proposal.
 
   Je reste *fermement* convaincu de son innocence.
-  Ich bleibe *fest* von seiner Unschuld überzeugt.
+  I remain firmly convinced of his innocence.
 
   Il a *fermement* attaché la corde au poteau.
-  Er hat das Seil *fest* am Pfosten befestigt.
+  He *fixed* the rope firmly to the post.
 
   Les parents doivent *fermement* établir des limites.
-  Eltern müssen Grenzen *konsequent* setzen.
+  Parents must set limits consistently.
 
   Le gouvernement s'oppose *fermement* à cette réforme.
-  Die Regierung widersetzt sich dieser Reform *entschieden*.
+  The government strongly opposes this reform.
 
   Elle espère *fermement* obtenir ce poste.
-  Sie hofft *fest* darauf, diese Stelle zu bekommen.
+  She's hoping to get this job.
 
   Les deux pays sont *fermement* engagés dans ce processus de paix.
-  Die beiden Länder sind *fest* in diesen Friedensprozess eingebunden.
+  The two countries are firmly involved in this peace process.
 
   Il a *fermement* rejeté toutes les accusations.
-  Er hat alle Anschuldigungen *entschieden* zurückgewiesen.
+  He firmly rejected all the accusations.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

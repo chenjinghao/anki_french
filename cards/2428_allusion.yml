@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2428
 Wort: allusion
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une allusion
 Femininum / Plural: ''
 IPA: \a.ly.zjɔ̃\
-Definition: Anspielung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Instruction
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le texte auquel vous *faites allusion* date de 1989.
-  Der Text, auf den Sie *anspielen*, stammt aus dem Jahr 1989.
+  The text you're alluding to is from 1989.
 
   J'ai compris son *allusion* à mon ancien emploi.
-  Ich habe seine *Anspielung* auf meinen früheren Job verstanden.
+  I understood his allusion to my former job.
 
   Cette *allusion* voilée à son passé l'a mis mal à l'aise.
-  Diese versteckte *Anspielung* auf seine Vergangenheit hat ihn verlegen gemacht.
+  This hidden allusion to his past has made him embarrassed.
 
   Le professeur a fait une *allusion* à Shakespeare dans son cours.
-  Der Lehrer machte in seinem Unterricht eine *Anspielung* auf Shakespeare.
+  The teacher made an allusion to Shakespeare in his class.
 
   Son discours était rempli d'*allusions* littéraires.
-  Seine Rede war voller literarischer *Anspielungen*.
+  His speech was full of literary allusions.
 
   Elle a fait une *allusion* discrète à la surprise-partie.
-  Sie machte eine dezente *Anspielung* auf die Überraschungsparty.
+  She made a subtle allusion to the surprise party.
 
   Les *allusions* constantes à son âge l'agaçaient.
-  Die ständigen *Anspielungen* auf sein Alter ärgerten ihn.
+  The constant allusions to his age annoyed him.
 
   "As-tu saisi mon *allusion* ?" demanda-t-elle en souriant.
-  "Hast du meine *Anspielung* verstanden?", fragte sie lächelnd.
+  "Did you understand my allusion?" she asked smilingly.
 
   Le roman contient de nombreuses *allusions* historiques.
-  Der Roman enthält zahlreiche historische *Anspielungen*.
+  The novel contains numerous historical allusions.
 
   Il a parlé par *allusions*, sans jamais nommer directement les personnes concernées.
-  Er sprach in *Andeutungen*, ohne die betreffenden Personen jemals direkt zu nennen.
+  He spoke in insinuations without ever mentioning the persons in question directly.
 
   L'*allusion* au scandale récent n'a pas échappé aux journalistes.
-  Die *Anspielung* auf den jüngsten Skandal entging den Journalisten nicht.
+  Journalists did not miss out on the recent scandal.
 
   Cette publicité *fait allusion* à un film culte des années 80.
-  Diese Werbung *spielt* auf einen Kultfilm der 80er Jahre *an*.
+  This advertisement refers *to* a cult film of the 80s.
 
   Les enfants n'ont pas compris l'*allusion* dans la blague de leur grand-père.
-  Die Kinder haben die *Anspielung* im Witz ihres Großvaters nicht verstanden.
+  The children did not understand the allusion in the joke of their grandfather.
 
   "Je ne *faisais aucune allusion* à toi", s'est-elle défendue.
-  "Ich habe in keiner Weise auf dich *angespielt*", verteidigte sie sich.
+  "I didn't pretend to be you in any way," she defended herself.
 
   Sa remarque contenait une *allusion* à peine voilée à mon échec.
-  Seine Bemerkung enthielt eine kaum verhüllte *Anspielung* auf mein Scheitern.
+  His remark contained a hardly veiled allusion to my failure.
 
   L'*allusion* à ses origines l'a profondément blessé.
-  Die *Anspielung* auf seine Herkunft hat ihn zutiefst verletzt.
+  The allusion to his origin has deeply violated him.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

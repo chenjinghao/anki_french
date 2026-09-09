@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1088
 Wort: destiner
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: destiner
 Femininum / Plural: ''
 IPA: \dɛs.ti.ne\
-Definition: '[für jmd.] vorsehen'
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: '[for jmd.]'
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce programme n'est pas *destiné* aux informaticiens.
-  Dieses Programm ist nicht für Informatiker *bestimmt*.
+  This programme is not intended for computer scientists.
 
   Cette lettre vous est *destinée*.
-  Dieser Brief ist für Sie *bestimmt*.
+  This letter is for you.
 
   Je *destine* cet argent à l'achat d'une voiture.
-  Ich *sehe* dieses Geld für den Kauf eines Autos *vor*.
+  I'm planning this money to buy a car.
 
   Son père le *destinait* à devenir avocat.
-  Sein Vater *sah* ihn als Anwalt *vor*.
+  His father saw him as a lawyer.
 
   Elle se *destine* à la diplomatie depuis son enfance.
-  Sie will seit ihrer Kindheit in die Diplomatie *gehen*.
+  She wants to *go* into diplomacy since she was a kid.
 
   Je *destine* ce cadeau à ma sœur.
-  Ich *bestimme* dieses Geschenk für meine Schwester.
+  I'm going to *determine* this gift for my sister.
 
   Le local est *destiné à devenir* une bibliothèque.
-  Das Gebäude *soll* eine Bibliothek *werden*.
+  The building is supposed *to* be a library.
 
   Ces remarques ne vous étaient pas *destinées*.
-  Diese Bemerkungen waren nicht an Sie *gerichtet*.
+  These comments were not addressed to you.
 
   Nul ne sait ce que le sort nous *destine*.
-  Niemand weiß, was das Schicksal für uns *vorsieht*.
+  No one knows what fate is for us.
 
   La salle est *destinée* aux conférences.
-  Der Saal ist für Konferenzen *vorgesehen*.
+  The hall is intended for conferences.
 
   Je me *destine* à l'enseignement des langues.
-  Ich *will* Sprachlehrer *werden*.
+  I *want* to be a language teacher.
 
   Ils étaient *destinés* l'un à l'autre.
-  Sie waren füreinander *bestimmt*.
+  They were meant for each other.
 
   Ces produits sont *destinés* à l'exportation.
-  Diese Produkte sind für den Export *bestimmt*.
+  These products are intended for export.
 
   Le poste vous était *destiné* depuis longtemps.
-  Die Stelle war schon lange für Sie *vorgesehen*.
+  The job was *planned* for you for a long time.
 
   Je *destine* mon fils à reprendre l'entreprise familiale.
-  Ich *sehe* meinen Sohn für die Übernahme des Familienunternehmens *vor*.
+  I'm planning my son to take over the family business.
 
   Cette somme est *destinée* aux réparations.
-  Diese Summe ist für Reparaturen *bestimmt*.
+  This amount is intended for repairs.
 
   Elle s'est *destinée* à la médecine très tôt.
-  Sie hat sich früh für den Arztberuf entschieden.
+  She decided to work as a doctor early on.
 
   Le ciel nous *destinait* à nous rencontrer.
-  Der Himmel hat es *vorgesehen*, dass wir uns treffen.
+  Heaven has arranged for us to meet.
 
   Je *destine* ce meuble à ma fille.
-  Ich *bestimme* dieses Möbelstück für meine Tochter.
+  I'm going to define this piece of furniture for my daughter.
 
   L'entreprise était *destinée* à l'échec.
-  Das Unternehmen war zum Scheitern *bestimmt*.
+  The company was destined to fail.
 
   Cette remarque était *destinée* à Pierre.
-  Diese Bemerkung war für Pierre *gedacht*.
+  This remark was intended for Pierre.
 
   Le bâtiment est *destiné* aux services administratifs.
-  Das Gebäude ist für die Verwaltung *vorgesehen*.
+  The building is intended for administration.
 
   Il se *destine* à une carrière artistique.
-  Er *will* eine künstlerische Laufbahn *einschlagen*.
+  He wants to pursue an artistic career.
 
   Rien ne le *destinait* à devenir président.
-  Nichts *bestimmte* ihn dazu, Präsident zu werden.
+  Nothing meant him to be president.
 
   Ces livres sont *destinés* aux débutants.
-  Diese Bücher sind für Anfänger *gedacht*.
+  These books are for beginners.
 
   Le terrain est *destiné* à la construction d'une école.
-  Das Grundstück ist für den Bau einer Schule *vorgesehen*.
+  The property is intended for the construction of a school.
 
   Je *destine* cette bague à ma future épouse.
-  Ich *bestimme* diesen Ring für meine zukünftige Ehefrau.
+  I'm going to define this ring for my future wife.
 
   Cette pièce est *destinée* au rangement.
-  Dieser Raum ist zur Aufbewahrung *bestimmt*.
+  This room is for storage.
 
   Les fonds sont *destinés* à la recherche.
-  Die Gelder sind für die Forschung *bestimmt*.
+  The funds are intended for research.
 
   Elle *destine* sa collection d'art au musée.
-  Sie *vermacht* ihre Kunstsammlung dem Museum.
+  She's handing her art collection over to the museum.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3845
 Wort: crédible
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: crédible
 Femininum / Plural: ''
 IPA: \kʁe.dibl\
-Definition: glaubwürdig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Credible
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Notre système est *crédible*, reconnu mondialement.
-  Unser System ist *glaubwürdig* und weltweit anerkannt.
+  Our system is *credible* and globally recognized.
 
   Cette histoire n'est pas du tout *crédible*.
-  Diese Geschichte ist überhaupt nicht *glaubhaft*.
+  This story is not credible at all.
 
   Son témoignage devant le tribunal était parfaitement *crédible*.
-  Seine Aussage vor Gericht war absolut *glaubwürdig*.
+  His testimony in court was absolutely *credible*.
 
   Aucune de ses excuses n'était *crédible*.
-  Keine seiner Ausreden war *glaubhaft*.
+  None of his excuses were credible.
 
   Une source *crédible* a confirmé cette information.
-  Eine *glaubwürdige* Quelle hat diese Information bestätigt.
+  A *credible* source has confirmed this information.
 
   Cette théorie devient de plus en plus *crédible*.
-  Diese Theorie wird immer *glaubwürdiger*.
+  This theory is becoming more and *more credible*.
 
   Les experts ont jugé cette explication peu *crédible*.
-  Die Experten hielten diese Erklärung für wenig *glaubwürdig*.
+  The experts considered this statement to be unreliable.
 
   Sa version des faits reste *crédible* malgré les contradictions.
-  Seine Version der Geschichte bleibt trotz der Widersprüche *glaubhaft*.
+  His version of the story remains credible despite the contradictions.
 
   L'hypothèse la plus *crédible* est celle d'un accident.
-  Die *glaubwürdigste* Hypothese ist die eines Unfalls.
+  The *most credible* hypothesis is that of an accident.
 
   Il cherche une solution *crédible* à ce problème.
-  Er sucht nach einer *glaubwürdigen* Lösung für dieses Problem.
+  He is looking for a credible solution to this problem.
 
   Cette alternative n'est pas *crédible* à long terme.
-  Diese Alternative ist langfristig nicht *glaubwürdig*.
+  This alternative is not *credible* in the long term.
 
   L'enquête a révélé plusieurs pistes *crédibles*.
-  Die Untersuchung brachte mehrere *glaubwürdige* Spuren ans Licht.
+  The investigation revealed several *credible* traces.
 
   Ces preuves rendent son alibi tout à fait *crédible*.
-  Diese Beweise machen sein Alibi völlig *glaubhaft*.
+  This evidence makes his alibi completely credible.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

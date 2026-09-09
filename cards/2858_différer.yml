@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2858
 Wort: différer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: différer
 Femininum / Plural: ''
 IPA: \di.fe.ʁe\
-Definition: sich unterscheiden; verschieben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: different; move
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette idée *diffère* sensiblement d'une hypothèse concurrente.
-  Diese Idee *unterscheidet* sich erheblich von einer konkurrierenden Hypothese.
+  This idea differs considerably from a competing hypothesis.
 
   Le nouveau modèle *diffère* de l'ancien par son design innovant.
-  Das neue Modell *unterscheidet* sich vom alten durch sein innovatives Design.
+  The new model is different from the old model by its innovative design.
 
   Nos opinions *diffèrent* sur la meilleure façon de résoudre ce problème.
-  Unsere Meinungen *gehen auseinander*, was die beste Lösung für dieses Problem betrifft.
+  Our opinions differ as to the best solution to this problem.
 
   La banque a accepté de *différer* le remboursement du prêt de trois mois.
-  Die Bank hat zugestimmt, die Rückzahlung des Kredits um drei Monate zu *verschieben*.
+  The Bank has agreed to postpone the repayment of the loan by three months.
 
   Les coutumes *diffèrent* considérablement d'un pays à l'autre.
-  Die Bräuche *unterscheiden* sich von Land zu Land erheblich.
+  Customs vary considerably from country to country.
 
   "Je vais *différer* ma réponse jusqu'à ce que j'aie plus d'informations", a-t-elle déclaré.
-  "Ich werde meine Antwort *aufschieben*, bis ich mehr Informationen habe", erklärte sie.
+  "I will *postpone* my answer until I have more information," she explained.
 
   Les deux versions du livre *diffèrent* par leurs conclusions.
-  Die beiden Versionen des Buches *unterscheiden* sich in ihren Schlussfolgerungen.
+  The two versions of the book differ in their conclusions.
 
   Le tribunal a décidé de *différer* le jugement jusqu'à la semaine prochaine.
-  Das Gericht beschloss, das Urteil bis nächste Woche zu *vertagen*.
+  The court decided to postpone the sentence until next week.
 
   Bien que frères, ils *diffèrent* complètement en termes de personnalité.
-  Obwohl sie Brüder sind, *unterscheiden* sie sich in ihrer Persönlichkeit völlig.
+  Although they are brothers, they are completely different in personality.
 
   L'entreprise a choisi de *différer* le lancement du nouveau produit.
-  Das Unternehmen hat beschlossen, die Einführung des neuen Produkts zu *verschieben*.
+  The company has decided to postpone the introduction of the new product.
 
   Les deux théories scientifiques *diffèrent* sur plusieurs points clés.
-  Die beiden wissenschaftlichen Theorien *unterscheiden* sich in mehreren Schlüsselpunkten.
+  The two scientific theories differ in several key points.
 
   Il est préférable de ne pas *différer* les tâches importantes.
-  Es ist besser, wichtige Aufgaben nicht *aufzuschieben*.
+  It is better not to *postpone* important tasks.
 
   Les résultats de l'étude *diffèrent* significativement des attentes initiales.
-  Die Ergebnisse der Studie *weichen* erheblich von den ursprünglichen Erwartungen *ab*.
+  The results of the study differ considerably *from* the initial expectations.
 
   Le comité a décidé de *différer* sa décision jusqu'à la prochaine réunion.
-  Der Ausschuss beschloss, seine Entscheidung bis zur nächsten Sitzung zu *verschieben*.
+  The Committee decided to postpone its decision until the next meeting.
 
   Ces deux espèces de plantes *diffèrent* par leur besoin en eau.
-  Diese beiden Pflanzenarten *unterscheiden* sich in ihrem Wasserbedarf.
+  These two plant species differ in their water requirements.
 
   "Ne *différez* pas votre inscription, les places sont limitées !", a conseillé le professeur.
-  "*Schieben* Sie Ihre Anmeldung nicht *auf*, die Plätze sind begrenzt!", riet der Professor.
+  "Don't cancel your registration, the seats are limited!", the professor advised.
 
   Les méthodes d'enseignement *diffèrent* grandement entre ces deux écoles.
-  Die Lehrmethoden *unterscheiden* sich zwischen diesen beiden Schulen stark.
+  The teaching methods differ greatly between these two schools.
 
   Il est important de ne pas *différer* les examens médicaux de routine.
-  Es ist wichtig, routinemäßige medizinische Untersuchungen nicht *aufzuschieben*.
+  It is important not to delay routine medical examinations.
 
   Leurs points de vue sur la politique étrangère *diffèrent* radicalement.
-  Ihre Ansichten zur Außenpolitik *gehen* radikal *auseinander*.
+  Their views on foreign policy are radically different.
 
   La livraison a été *différée* en raison de problèmes logistiques.
-  Die Lieferung wurde aufgrund logistischer Probleme *verschoben*.
+  The delivery was postponed due to logistical problems.
 
   Les goûts culinaires peuvent *différer* considérablement d'une culture à l'autre.
-  Die kulinarischen Vorlieben können sich von Kultur zu Kultur erheblich *unterscheiden*.
+  The culinary preferences can differ considerably from culture to culture.
 
   "Ne *différez* pas jusqu'à demain ce que vous pouvez faire aujourd'hui."
-  "*Schieben* Sie nicht auf morgen auf, was Sie heute tun können."
+  "Don't put up tomorrow what you can do today."
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

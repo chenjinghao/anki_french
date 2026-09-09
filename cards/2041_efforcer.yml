@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2041
 Wort: efforcer
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: s’efforcer
 Femininum / Plural: ''
 IPA: \e.fɔʁ.se\
-Definition: sich bemühen, sich anstrengen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: try to exert yourself
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous nous *efforçons* de contenir ce fléau.
-  Wir *bemühen* uns, diese Plage einzudämmen.
+  We are trying to contain this plague.
 
   Il faut que je m'*efforce* d'être plus patient avec les enfants.
-  Ich muss mich *bemühen*, geduldiger mit den Kindern zu sein.
+  I must strive to be more patient with the children.
 
   Elle s'*efforçait* de soulever la lourde valise toute seule.
-  Sie *versuchte* den schweren Koffer alleine hochzuheben.
+  She *tried* to lift up the heavy suitcase by herself.
 
   Les élèves s'*efforcent* de comprendre la leçon difficile.
-  Die Schüler *bemühen* sich, die schwierige Lektion zu verstehen.
+  The students try to understand the difficult lesson.
 
   Marie s'*efforce* à la politesse malgré sa colère.
-  Marie *versucht* trotz ihres Ärgers höflich zu bleiben.
+  Marie tries to be polite despite her anger.
 
   Je m'*efforce* de dépasser mes limites chaque jour.
-  Ich *bemühe* mich jeden Tag, über meine Grenzen hinauszugehen.
+  I *try* to go beyond my limits every day.
 
   Le petit Thomas s'*efforçait* d'être sage pendant la cérémonie.
-  Der kleine Thomas *versuchte* während der Zeremonie brav zu sein.
+  Little Thomas *tried* to be good during the ceremony.
 
   Elle s'*efforce* de nager contre le courant.
-  Sie *versucht* gegen den Strom zu schwimmen.
+  She's trying to swim against the current.
 
   Mon frère s'*efforce* vers un idéal de perfection.
-  Mein Bruder *strebt* nach einem Ideal der Perfektion.
+  My brother strives for an ideal of perfection.
 
   Pierre s'*efforce* pour se montrer aimable avec ses nouveaux voisins.
-  Pierre *gibt sich Mühe*, freundlich zu seinen neuen Nachbarn zu sein.
+  Pierre is trying to be kind to his new neighbors.
 
   Les scientifiques s'*efforcent* de trouver un remède.
-  Die Wissenschaftler *bemühen* sich, ein Heilmittel zu finden.
+  The scientists are trying to find a cure.
 
   Tu t'*efforces* toujours de voir le bon côté des choses.
-  Du *versuchst* immer, die gute Seite der Dinge zu sehen.
+  You always try to see the good side of things.
 
   Il s'*efforçait* à une gentillesse qui semblait peu naturelle.
-  Er *zwang* sich zu einer Freundlichkeit, die unnatürlich wirkte.
+  He *forced* himself into a kindness that seemed unnatural.
 
   Nous nous *efforcerons* de terminer le projet avant la date limite.
-  Wir werden uns *bemühen*, das Projekt vor dem Stichtag fertigzustellen.
+  We will endeavour to complete the project before the deadline.
 
   Le candidat s'*efforce* de convaincre les électeurs.
-  Der Kandidat *bemüht* sich, die Wähler zu überzeugen.
+  The candidate tries to convince the voters.
 
   Sophie s'*efforce* au calme malgré la situation stressante.
-  Sophie *versucht* trotz der stressigen Situation ruhig zu bleiben.
+  Sophie tries to stay calm despite the stressful situation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

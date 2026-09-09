@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1865
 Wort: immeuble
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un immeuble
 Femininum / Plural: ''
 IPA: \i.mœbl\
-Definition: Gebäude, Wohnhaus
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Buildings, residential buildings
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'habite dans cet *immeuble*.
-  Ich wohne in diesem *Haus*.
+  I live in this *house*.
 
   L'*immeuble* a été construit il y a cent ans.
-  Das *Gebäude* wurde vor hundert Jahren gebaut.
+  The building was built a hundred years ago.
 
   Les fenêtres de notre *immeuble* donnent sur un parc.
-  Die Fenster unseres *Wohnhauses* gehen zu einem Park hinaus.
+  The windows of our house go out to a park.
 
   Ils ont acheté un *immeuble* de bureaux au centre-ville.
-  Sie haben ein Büro*gebäude* im Stadtzentrum gekauft.
+  They bought an office building in the city center.
 
   Le gardien de l'*immeuble* vérifie les boîtes aux lettres chaque matin.
-  Der *Haus*meister kontrolliert jeden Morgen die Briefkästen.
+  The janitor controls the mailboxes every morning.
 
   Un nouvel *immeuble* de quarante étages sera construit l'année prochaine.
-  Ein neues *Hochhaus* mit vierzig Stockwerken wird nächstes Jahr gebaut.
+  A new *high-rise building* with forty floors will be built next year.
 
   L'ascenseur de l'*immeuble* est en panne depuis trois jours.
-  Der Aufzug des *Wohnhauses* ist seit drei Tagen kaputt.
+  The elevator of the house has been broken for three days.
 
   Tous les biens meubles et *immeubles* doivent être déclarés aux impôts.
-  Alle beweglichen und *unbeweglichen* Güter müssen beim Finanzamt angegeben werden.
+  All movable and immovable property must be indicated to the tax office.
 
   La valeur des biens *immeubles* a considérablement augmenté dans ce quartier.
-  Der Wert der *Immobilien* ist in diesem Viertel erheblich gestiegen.
+  The value of *real estate* has increased significantly in this quarter.
 
   Notre *immeuble* est géré par une société de copropriété.
-  Unser *Mehrfamilienhaus* wird von einer Hausverwaltung betreut.
+  Our *apartment house* is supervised by a house management.
 
   Les travaux de rénovation de l'*immeuble* commenceront au printemps.
-  Die Renovierungsarbeiten des *Gebäudes* beginnen im Frühling.
+  The renovation of the *building* begins in spring.
 
   Cet *immeuble* en copropriété compte vingt appartements.
-  Dieses Mehrparteien*haus* hat zwanzig Wohnungen.
+  This multi-party *house* has twenty apartments.
 
   Le propriétaire a vendu tous ses *immeubles* dans la région.
-  Der Besitzer hat alle seine *Liegenschaften* in der Region verkauft.
+  The owner has sold all his properties in the region.
 
   Un *immeuble* de rapport doit être bien entretenu pour garder sa valeur.
-  Ein Miet*haus* muss gut instand gehalten werden, um seinen Wert zu behalten.
+  A rental *house* must be well maintained to maintain its value.
 
   Les charges de l'*immeuble* sont réparties entre tous les locataires.
-  Die *Haus*kosten werden unter allen Mietern aufgeteilt.
+  The *house* costs are divided among all tenants.
 
   L'*immeuble* dispose d'un parking souterrain pour les résidents.
-  Das *Wohnhaus* verfügt über eine Tiefgarage für die Bewohner.
+  The *house* has an underground car park for the residents.
 
   La façade de l'*immeuble* sera repeinte cet été.
-  Die Fassade des *Hauses* wird diesen Sommer neu gestrichen.
+  The facade of the *house* will be repainted this summer.
 
   Les pompiers ont évacué tout l'*immeuble* à cause d'une fuite de gaz.
-  Die Feuerwehr hat das ganze *Haus* wegen eines Gaslecks evakuiert.
+  The fire department evacuated the whole *house* for a gas leak.
 
   Ces biens *immeubles* font partie de l'héritage familial.
-  Diese *Immobilien* gehören zum Familienerbe.
+  These properties belong to the family heritage.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

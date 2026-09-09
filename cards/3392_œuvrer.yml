@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3392
 Wort: œuvrer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: œuvrer
 Femininum / Plural: ''
 IPA: \œ.vʁe\
-Definition: (hin-)arbeiten, wirken
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (back-)work, work
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous n'avons cessé d'*œuvrer* pour la promotion des femmes.
-  Wir haben unermüdlich für die Förderung von Frauen *gearbeitet*.
+  We have *worked* tirelessly for the advancement of women.
 
   Les associations caritatives *œuvrent* pour réduire la pauvreté dans le monde.
-  Die Hilfsorganisationen *arbeiten* daran, die Armut in der Welt zu reduzieren.
+  The aid organizations are working to reduce poverty in the world.
 
   Cette équipe *œuvre* dans l'ombre depuis des années.
-  Dieses Team *wirkt* seit Jahren im Verborgenen.
+  This team has been in hiding for years.
 
   Nous devons *œuvrer* ensemble pour protéger l'environnement.
-  Wir müssen gemeinsam daran *arbeiten*, die Umwelt zu schützen.
+  We must *work* together to protect the environment.
 
   Le gouvernement *œuvre* au rétablissement économique du pays.
-  Die Regierung *arbeitet* an der wirtschaftlichen Erholung des Landes.
+  The government is working on the economic recovery of the country.
 
   Les chercheurs *œuvrent* pour trouver un remède contre cette maladie.
-  Die Forscher *bemühen sich* darum, ein Heilmittel gegen diese Krankheit zu finden.
+  The researchers are trying to find a cure for this disease.
 
   Elle a toujours *œuvré* pour le bien-être des enfants défavorisés.
-  Sie hat *sich* immer für das Wohl benachteiligter Kinder *eingesetzt*.
+  She's always campaigned for *the* welfare of disadvantaged children.
 
   Les diplomates *œuvrent* sans relâche pour maintenir la paix.
-  Die Diplomaten *arbeiten* unermüdlich daran, den Frieden zu bewahren.
+  The diplomats are working tirelessly to preserve peace.
 
   Notre organisation *œuvre* à la protection des droits humains.
-  Unsere Organisation *setzt sich* für den Schutz der Menschenrechte *ein*.
+  Our organization is committed to *the* protection of human rights.
 
   Il *œuvre* depuis longtemps pour améliorer les conditions de travail.
-  Er *arbeitet* seit langem daran, die Arbeitsbedingungen zu verbessern.
+  He has been working for a long time to improve working conditions.
 
   Les bénévoles *œuvrent* jour et nuit pour aider les victimes.
-  Die Freiwilligen *arbeiten* Tag und Nacht daran, den Opfern zu helfen.
+  The volunteers *work* day and night to help the victims.
 
   Nous *œuvrons* pour assurer un avenir meilleur aux générations futures.
-  Wir *setzen uns* für eine bessere Zukunft der kommenden Generationen *ein*.
+  We are committed to *a* better future for future generations.
 
   Des milliers de personnes *œuvrent* à la reconstruction de la ville.
-  Tausende Menschen *arbeiten* am Wiederaufbau der Stadt.
+  Thousands of people are working to rebuild the city.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>œuvrer à</i> und <i>œuvrer pour</i></div>
+    <div class="section-title"><i>œuvrer à</i> and <i>œuvrer pour</i></div>
     <div class="section-content">
-      <p><span class="fr">Œuvrer à</span> betont den Prozess des Arbeitens an einem bedeutsamen Ziel oder Projekt.</p>
+      <p><span class="fr">Œuvrer à</span> stresses the process of working on a significant goal or project.</p>
       <div class="examples">
         <div class="fr">Le gouvernement œuvre au rétablissement économique du pays.</div>
-        <div class="de spoiler">Die Regierung arbeitet an der wirtschaftlichen Wiederherstellung des Landes.</div>
+        <div class="de spoiler">The government is working on the economic recovery of the country.</div>
         <div class="fr">Cette association œuvre à la protection de l'environnement.</div>
-        <div class="de spoiler">Dieser Verein arbeitet am Schutz der Umwelt.</div>
+        <div class="de spoiler">This association works to protect the environment.</div>
       </div>
-      <p><span class="fr">Œuvrer pour</span> unterstreicht das Ziel oder den Zweck der Anstrengungen.</p>
+      <p><span class="fr">Œuvrer pour</span> underlines the objective or purpose of the efforts.</p>
       <div class="examples">
         <div class="fr">J'œuvre pour assurer votre sécurité.</div>
-        <div class="de spoiler">Ich setze alles daran, Ihre Sicherheit zu gewährleisten.</div>
+        <div class="de spoiler">I'll do my best to ensure your safety.</div>
         <div class="fr">Les médecins œuvrent pour sauver des vies.</div>
-        <div class="de spoiler">Die Ärzte arbeiten daran, Leben zu retten.</div>
+        <div class="de spoiler">The doctors are working to save lives.</div>
       </div>
     </div>
   </div>

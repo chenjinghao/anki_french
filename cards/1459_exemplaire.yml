@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1459
 Wort: exemplaire
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un exemplaire
 Femininum / Plural: ''
 IPA: \ɛɡ.zɑ̃.plɛʁ\
-Definition: Exemplar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Copy
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'en ai déjà vendu 100.000 *exemplaires*.
-  Ich habe davon schon 100.000 *Exemplare* verkauft.
+  I've already sold 100,000 of them.
 
   La sévérité du jugement doit être *exemplaire*.
-  Die Strenge des Urteils muss *abschreckend* sein.
+  The severity of the judgment must be *dissuasive*.
 
   Sa conduite *exemplaire* lui a valu une promotion.
-  Sein *vorbildliches* Verhalten hat ihm eine Beförderung eingebracht.
+  His exemplary behavior has brought him a promotion.
 
   Le musée possède un rare *exemplaire* de cette horloge ancienne.
-  Das Museum besitzt ein seltenes *Exemplar* dieser alten Uhr.
+  The museum has a rare specimen of this old watch.
 
   Veuillez signer les documents en trois *exemplaires*.
-  Bitte unterschreiben Sie die Dokumente in drei *Ausfertigungen*.
+  Please sign the documents in three *copies*.
 
   Marie est une élève *exemplaire* qui ne manque jamais un cours.
-  Marie ist eine *beispielhafte* Schülerin, die nie eine Stunde versäumt.
+  Marie is an exemplary student who never misses an hour.
 
   Le zoo a acquis un nouvel *exemplaire* de cette espèce menacée.
-  Der Zoo hat ein neues *Exemplar* dieser bedrohten Art erworben.
+  The zoo has acquired a new specimen of this endangered species.
 
   Chaque participant recevra un *exemplaire* gratuit du livre.
-  Jeder Teilnehmer erhält ein Gratis*exemplar* des Buches.
+  Each participant receives a free copy of the book.
 
   Cette femme d'affaires mène une vie *exemplaire*.
-  Diese Geschäftsfrau führt ein *vorbildliches* Leben.
+  This business woman has an exemplary life.
 
   Le botaniste a découvert un magnifique *exemplaire* de cette fleur rare.
-  Der Botaniker hat ein prächtiges *Exemplar* dieser seltenen Blume entdeckt.
+  The botanist has discovered a magnificent specimen of this rare flower.
 
   Nous avons imprimé ce catalogue en 5000 *exemplaires*.
-  Wir haben diesen Katalog in 5000 *Exemplaren* gedruckt.
+  We have printed this catalogue in 5000 *copies*.
 
   Son dévouement *exemplaire* inspire tous ses collègues.
-  Seine *vorbildliche* Hingabe inspiriert alle seine Kollegen.
+  His exemplary dedication inspires all his colleagues.
 
   J'ai trouvé un *exemplaire* original de cette édition limitée.
-  Ich habe ein Original*exemplar* dieser limitierten Auflage gefunden.
+  I found an original copy of this limited edition.
 
   La punition sera *exemplaire* pour décourager ce type de comportement.
-  Die Strafe wird *exemplarisch* sein, um solches Verhalten zu verhindern.
+  The punishment will be *exemplary* to prevent such behavior.
 
   Voici un *exemplaire* parfaitement conservé de ce papillon tropical.
-  Hier ist ein perfekt erhaltenes *Exemplar* dieses tropischen Schmetterlings.
+  Here is a perfectly preserved specimen of this tropical butterfly.
 
   Le jury a souligné son parcours *exemplaire*.
-  Die Jury hat seinen *vorbildlichen* Werdegang hervorgehoben.
+  The jury has highlighted his exemplary career.
 
   Gardez un *exemplaire* du contrat pour vos archives.
-  Bewahren Sie ein *Exemplar* des Vertrags für Ihre Unterlagen auf.
+  Keep a *copy* of the contract for your documents.
 
   Cette mère de famille est d'une patience *exemplaire*.
-  Diese Mutter hat eine *beispielhafte* Geduld.
+  This mother has an exemplary patience.
 
   Le collectionneur possède un *exemplaire* unique de ce timbre.
-  Der Sammler besitzt ein einzigartiges *Exemplar* dieser Briefmarke.
+  The collector owns a unique specimen of this stamp.
 
   La bibliothèque conserve le dernier *exemplaire* connu de ce manuscrit.
-  Die Bibliothek bewahrt das letzte bekannte *Exemplar* dieses Manuskripts auf.
+  The library preserves the last known *copy* of this manuscript.
 
   Son honnêteté *exemplaire* lui a valu le respect de tous.
-  Seine *vorbildliche* Ehrlichkeit hat ihm den Respekt aller eingebracht.
+  His exemplary honesty has earned him the respect of all.
 
   Chaque département recevra un *exemplaire* du nouveau règlement.
-  Jede Abteilung erhält ein *Exemplar* der neuen Vorschrift.
+  Each department receives a *copy* of the new regulation.
 
   Le musée expose un magnifique *exemplaire* de cette espèce disparue.
-  Das Museum stellt ein prächtiges *Exemplar* dieser ausgestorbenen Art aus.
+  The museum exhibits a magnificent specimen of this extinct species.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

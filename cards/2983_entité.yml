@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2983
 Wort: entité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une entité
 Femininum / Plural: ''
 IPA: \ɑ̃.ti.te\
-Definition: Entität
-Register: ↗Sachtext ↘Mündlich
+Definition: Entity
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce ne sont pas des *entités* commerciales.
-  Das sind keine kommerziellen *Einheiten*.
+  They're not commercial *units*.
 
   L'*entité* politique qu'est l'Union européenne regroupe 27 pays membres.
-  Die politische *Einheit* der Europäischen Union umfasst 27 Mitgliedsländer.
+  The political unity of the European Union comprises 27 member countries.
 
   Le concept d'*entité* est fondamental en philosophie.
-  Der Begriff der *Wesenheit* ist in der Philosophie grundlegend.
+  The concept of being is fundamental in philosophy.
 
   Les mathématiciens manipulent des *entités* abstraites comme les nombres complexes.
-  Mathematiker arbeiten mit abstrakten *Größen* wie komplexen Zahlen.
+  Mathematicians work with abstract *sizes* such as complex numbers.
 
   La société est une *entité* complexe qui évolue constamment.
-  Die Gesellschaft ist eine komplexe *Entität*, die sich ständig weiterentwickelt.
+  Society is a complex *entity* that is constantly evolving.
 
   Le médecin a diagnostiqué une nouvelle *entité morbide* chez le patient.
-  Der Arzt diagnostizierte ein neues *Krankheitsbild* beim Patienten.
+  The doctor diagnosed a new condition in the patient.
 
   Chaque département de l'entreprise fonctionne comme une *entité* distincte.
-  Jede Abteilung des Unternehmens funktioniert als separate *Einheit*.
+  Each department of the company functions as a separate *unit*.
 
   L'*entité* administrative de Bruxelles-Capitale est le résultat de la fusion de plusieurs communes.
-  Die Verwaltungs*einheit* Brüssel-Hauptstadt ist das Ergebnis der Fusion mehrerer Gemeinden.
+  The Brussels-Capital administrative *unit* is the result of the merger of several municipalities.
 
   Les philosophes débattent de l'existence d'*entités* immatérielles.
-  Philosophen diskutieren über die Existenz immaterieller *Wesenheiten*.
+  Philosophers discuss the existence of immaterial beings.
 
   Cette *entité* juridique a été créée pour gérer les actifs de l'entreprise.
-  Diese juristische *Einheit* wurde geschaffen, um die Vermögenswerte des Unternehmens zu verwalten.
+  This legal entity was created to manage the company's assets.
 
   L'amour est souvent considéré comme une *entité* abstraite difficile à définir.
-  Liebe wird oft als eine abstrakte *Größe* betrachtet, die schwer zu definieren ist.
+  Love is often seen as an abstract *size* that is difficult to define.
 
   Les scientifiques étudient les propriétés de cette nouvelle *entité* chimique.
-  Die Wissenschaftler untersuchen die Eigenschaften dieser neuen chemischen *Entität*.
+  The scientists investigate the properties of this new chemical *entity*.
 
   L'intelligence artificielle est devenue une *entité* incontournable dans notre société moderne.
-  Künstliche Intelligenz ist zu einer unverzichtbaren *Größe* in unserer modernen Gesellschaft geworden.
+  Artificial intelligence has become an indispensable factor in our modern society.
 
   Chaque être vivant est une *entité* unique avec ses propres caractéristiques.
-  Jedes Lebewesen ist eine einzigartige *Einheit* mit eigenen Merkmalen.
+  Each living being is a unique unity with its own characteristics.
 
   La conscience est une *entité* complexe que les neuroscientifiques cherchent à comprendre.
-  Das Bewusstsein ist eine komplexe *Entität*, die Neurowissenschaftler zu verstehen versuchen.
+  Consciousness is a complex *entity* that neuroscientists try to understand.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1991
 Wort: truc
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le truc
 Femininum / Plural: ''
 IPA: \tʁyk\
-Definition: Ding, Sache, Zeug
-Register: ↘Sachtext ↗Mündlich
+Definition: Thing, thing, stuff
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Je peux avoir un *truc* à grignoter ?"
-  "Kann ich ein *Ding* zum Knabbern haben?"
+  "Can I have a nibble *thing*?"
 
   "C'est quoi ce *truc* bizarre sur la table ?"
-  "Was ist das für ein seltsames *Ding* auf dem Tisch?"
+  "What's that weird *thing* on the table?"
 
   "J'ai acheté un nouveau *truc* pour la cuisine."
-  "Ich habe ein neues *Ding* für die Küche gekauft."
+  "I bought a new *thing* for the kitchen."
 
   "Le magicien nous a montré ses meilleurs *trucs*."
-  "Der Zauberer hat uns seine besten *Tricks* gezeigt."
+  "The magician has shown us his best *tricks*."
 
   "Tu connais le *truc* pour faire partir les taches ?"
-  "Kennst du den *Trick*, wie man Flecken entfernt?"
+  "Do you know the *trick* of removing stains?"
 
   "C'est *Truc* qui m'a donné ce livre, tu sais."
-  "Das hat mir *Dingsbums* gegeben, du weißt schon."
+  "That's what Dingsbums gave me, you know."
 
   "La cuisine japonaise, ce n'est pas mon *truc*."
-  "Japanische Küche ist nicht mein *Ding*."
+  "Japanese cuisine is not my *thing*."
 
   "Il y a un *truc* qui ne va pas avec cette voiture."
-  "Mit diesem Auto stimmt irgendein *Ding* nicht."
+  "There's something wrong with this car."
 
   "Elle m'a appris tous les *trucs* du métier."
-  "Sie hat mir alle *Tricks* des Handwerks beigebracht."
+  "She taught me all the *tricks* of the craft."
 
   "J'ai un *truc* à te dire."
-  "Ich habe dir ein *Ding* zu sagen."
+  "I have a *thing* to say to you."
 
   "Passe-moi ce *truc*-là, s'il te plaît."
-  "Reich mir bitte das *Dings* da."
+  "Give me that thing, please."
 
   "C'est un *truc* extraordinaire qui m'est arrivé hier."
-  "Mir ist gestern *etwas* Außergewöhnliches passiert."
+  "*Something* extraordinary happened to me yesterday."
 
   "Je cherche un *truc* pour ranger mes câbles."
-  "Ich suche ein *Ding* zum Aufbewahren meiner Kabel."
+  "I'm looking for a *thing* to keep my cable."
 
   "Il connaît plein de *trucs* pour économiser de l'argent."
-  "Er kennt viele *Tricks*, um Geld zu sparen."
+  "He knows a lot of *tricks* to save money."
 
   "Ce *truc*-là, ça ne marchera jamais !"
-  "Dieses *Ding* da wird niemals funktionieren!"
+  "This *thing* will never work!"
 
   "J'ai vu un drôle de *truc* en rentrant."
-  "Ich habe auf dem Heimweg ein komisches *Ding* gesehen."
+  "I saw a weird *thing* on the way home."
 
   "Tu as encore oublié ton *truc* pour les clés."
-  "Du hast schon wieder dein *Dings* für die Schlüssel vergessen."
+  "You forgot your thing for the keys again."
 
   "Le théâtre utilise beaucoup de *trucs* pour créer des effets spéciaux."
-  "Das Theater verwendet viele *Tricks*, um Spezialeffekte zu erzeugen."
+  "The theatre uses many *tricks* to create special effects."
 
   "Chacun son *truc*, comme on dit."
-  "Jeder hat sein *Ding*, wie man so sagt."
+  "Everyone has their own *thing*, as they say."
 
   "Il y a un *truc* qui cloche dans son histoire."
-  "In seiner Geschichte stimmt irgendein *Ding* nicht."
+  "Something's wrong in his story."
 
   "Elle a toujours des *trucs* intéressants à raconter."
-  "Sie hat immer interessante *Sachen* zu erzählen."
+  "She always has interesting things to tell."
 
   "Je dois trouver un *truc* pour me motiver."
-  "Ich muss einen *Trick* finden, um mich zu motivieren."
+  "I have to find a *trick* to motivate myself."
 
   "C'est un *truc* tout simple en fait."
-  "Es ist eigentlich ein ganz einfaches *Ding*."
+  "It's actually a very simple *thing*."
 
   "Il m'a vendu un *truc* qui ne fonctionne même pas."
-  "Er hat mir ein *Ding* verkauft, das nicht einmal funktioniert."
+  "He sold me a *thing* that doesn't even work."
 
   "Tu as vu le nouveau *truc* de Paul ?"
-  "Hast du Pauls neues *Ding* gesehen?"
+  "Have you seen Paul's new *thing*?"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  Informeller als <b>chose</b> (#125).
+  Informal <b>chose</b> (#125).
   <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Verlan"></grammar>

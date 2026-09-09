@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4927
 Wort: empresser
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: s’empresser
 Femininum / Plural: ''
 IPA: \ɑ̃.pʁe.se\
-Definition: sich beeilen, sich eifrig bemühen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: hurrying, eagerly striving
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils se sont *empressés* d'obéir.
-  Sie haben sich *beeilt* zu gehorchen.
+  They have *hastened* to obey.
 
   Je m'*empresse* d'ajouter que ce n'était pas mon intention.
-  Ich *beeile* mich hinzuzufügen, dass das nicht meine Absicht war.
+  I'm hurrying to add that that wasn't my intention.
 
   Les voisins se sont *empressés* autour de la famille endeuillée.
-  Die Nachbarn haben sich *eifrig* um die trauernde Familie *gekümmert*.
+  Neighbors have been eager to take care of the grieving family.
 
   Elle s'*empresse* de ranger sa chambre avant l'arrivée de ses amis.
-  Sie *beeilt* sich, ihr Zimmer aufzuräumen, bevor ihre Freunde kommen.
+  She rushes to clean her room before her friends come.
 
   Les serveurs s'*empressent* auprès des clients du restaurant.
-  Die Kellner *bemühen* sich *eifrig* um die Restaurantgäste.
+  The waiters eagerly strive for the restaurant guests.
 
   Il s'est *empressé* de lui communiquer la bonne nouvelle.
-  Er hat sich *beeilt*, ihr die guten Nachrichten mitzuteilen.
+  He *hastened* to share the good news with her.
 
   Tout le monde s'*empressait* autour du champion après sa victoire.
-  Alle *drängten* sich nach seinem Sieg um den Champion.
+  Everyone was pushing for the champion after his victory.
 
   Marie s'*empresse* toujours de répondre à mes messages.
-  Marie *beeilt* sich immer, auf meine Nachrichten zu antworten.
+  Marie always rushes to respond to my messages.
 
   Les passants se sont *empressés* d'aider la vieille dame.
-  Die Passanten haben sich *beeilt*, der alten Dame zu helfen.
+  The passers-by *hastened* to help the old lady.
 
   Le jeune homme s'*empresse* auprès de sa nouvelle petite amie.
-  Der junge Mann *bemüht* sich *eifrig* um seine neue Freundin.
+  The young man eagerly tries to find his new girlfriend.
 
   Les spectateurs se sont *empressés* vers la sortie après le spectacle.
-  Die Zuschauer *drängten* nach der Vorstellung zum Ausgang.
+  The audience pushed to the exit after the performance.
 
   Elle s'*empresse* de terminer ses devoirs avant le dîner.
-  Sie *beeilt* sich, ihre Hausaufgaben vor dem Abendessen fertig zu machen.
+  She hastens to finish her homework before dinner.
 
   Les pompiers se sont *empressés* d'éteindre l'incendie.
-  Die Feuerwehrleute haben sich *beeilt*, das Feuer zu löschen.
+  The firemen have rushed to extinguish the fire.
 
   Paul s'*empresse* toujours d'ouvrir la porte aux invités.
-  Paul *beeilt* sich immer, den Gästen die Tür zu öffnen.
+  Paul always rushes to open the door to the guests.
 
   Les journalistes s'*empressaient* autour du ministre.
-  Die Journalisten *drängten* sich um den Minister.
+  The journalists were pushing for the minister.
 
   Je m'*empresserai* de vous envoyer les documents demandés.
-  Ich werde mich *beeilen*, Ihnen die gewünschten Dokumente zu schicken.
+  I'll be quick to send you the documents you want.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2608
 Wort: acceptable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: acceptable
 Femininum / Plural: ''
 IPA: \ak.sɛp.tabl\
-Definition: akzeptabel
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Acceptable
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une personne doit avoir un revenu *acceptable*.
-  Eine Person muss ein *annehmbares* Einkommen haben.
+  A person must have an *acceptable* income.
 
   Cette proposition n'est pas du tout *acceptable*.
-  Dieser Vorschlag ist überhaupt nicht *akzeptabel*.
+  This proposal is not *acceptable* at all.
 
   Les notes de mon fils sont tout juste *acceptables* ce semestre.
-  Die Noten meines Sohnes sind dieses Semester gerade noch *akzeptabel*.
+  My son's grades are just *acceptable* this semester.
 
   Je cherche une solution *acceptable* pour tout le monde.
-  Ich suche nach einer für alle *annehmbaren* Lösung.
+  I'm looking for a solution *acceptable* to everyone.
 
   La qualité de ce produit reste *acceptable* pour son prix.
-  Die Qualität dieses Produkts ist für den Preis noch *annehmbar*.
+  The quality of this product is still *acceptable* to the price.
 
   Les conditions de travail doivent être *acceptables*.
-  Die Arbeitsbedingungen müssen *akzeptabel* sein.
+  Working conditions must be *acceptable*.
 
   Cette phrase n'est pas *acceptable* en français standard.
-  Dieser Satz ist im Standardfranzösischen nicht *akzeptabel*.
+  This sentence is not *acceptable* in standard French.
 
   Le délai proposé me semble *acceptable*.
-  Die vorgeschlagene Frist erscheint mir *annehmbar*.
+  The proposed deadline seems *acceptable* to me.
 
   Trouvez-vous ce compromis *acceptable* ?
-  Finden Sie diesen Kompromiss *akzeptabel*?
+  Do you find this compromise *acceptable*?
 
   Son comportement n'était pas *acceptable* lors de la réunion.
-  Sein Verhalten während der Besprechung war nicht *akzeptabel*.
+  His behavior during the meeting was unacceptable.
 
   Le niveau sonore doit rester dans une limite *acceptable*.
-  Der Geräuschpegel muss in einem *annehmbaren* Rahmen bleiben.
+  The sound level shall remain within an *acceptable* framework.
 
   Cette excuse n'est plus *acceptable* maintenant.
-  Diese Entschuldigung ist jetzt nicht mehr *akzeptabel*.
+  This apology is no longer *acceptable*.
 
   Les résultats du test sont à peine *acceptables*.
-  Die Testergebnisse sind kaum *annehmbar*.
+  The test results are hardly *acceptable*.
 
   Il faut trouver un prix *acceptable* pour les deux parties.
-  Man muss einen für beide Seiten *akzeptablen* Preis finden.
+  You have to find a price that is *acceptable* to both sides.
 
   La performance de l'équipe était tout juste *acceptable*.
-  Die Leistung der Mannschaft war gerade noch *akzeptabel*.
+  The performance of the team was just *acceptable*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

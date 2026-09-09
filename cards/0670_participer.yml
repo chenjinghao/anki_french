@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 670
 Wort: participer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: participer
 Femininum / Plural: ''
 IPA: \paʁ.ti.si.pe\
-Definition: teilnehmen, mitmachen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: participating, participating
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a *participé* à la création du mouvement.
-  Sie hat an der Entstehung der Bewegung *teilgenommen*.
+  She participated in the formation of the movement.
 
   Nous invitons tous les citoyens à *participer* aux élections municipales.
-  Wir laden alle Bürger ein, an den Kommunalwahlen *teilzunehmen*.
+  We invite all citizens to take part in local elections.
 
   Les étudiants doivent *participer* activement aux discussions en classe.
-  Die Studenten müssen sich aktiv am Unterricht *beteiligen*.
+  Students must actively participate in the teaching.
 
   Je *participerai* volontiers aux frais du voyage.
-  Ich werde mich gerne an den Reisekosten *beteiligen*.
+  I'll be happy to take part in the travel expenses.
 
   Tous les employés *participent* aux bénéfices de l'entreprise.
-  Alle Mitarbeiter sind am Unternehmensgewinn *beteiligt*.
+  All employees are involved in the company's profits.
 
   Marie *participe* à la joie de sa sœur qui vient de se marier.
-  Marie *nimmt* an der Freude ihrer frisch verheirateten Schwester *teil*.
+  Marie *takes* *part* in the joy of her newly married sister.
 
   Nous *participons* sincèrement à votre douleur.
-  Wir *nehmen* aufrichtig *Anteil* an Ihrem Schmerz.
+  We sincerely *take* part in your pain.
 
   Il ne *participe* jamais aux tâches ménagères.
-  Er *beteiligt* sich nie an den Haushaltsaufgaben.
+  He never participates in the household tasks.
 
   Les enfants ont *participé* à la décoration de la salle.
-  Die Kinder haben bei der Raumgestaltung *mitgemacht*.
+  The children have been involved in the interior design.
 
   Je ne peux pas *participer* à la réunion demain.
-  Ich kann morgen nicht an der Besprechung *teilnehmen*.
+  I can't attend the meeting tomorrow.
 
   Plus de mille personnes ont *participé* à la manifestation.
-  Mehr als tausend Menschen haben an der Demonstration *teilgenommen*.
+  More than a thousand people participated in the demonstration.
 
   Les collègues ont tous *participé* au cadeau de départ.
-  Die Kollegen haben sich alle am Abschiedsgeschenk *beteiligt*.
+  The colleagues all took part in the farewell present.
 
   Tu devrais *participer* plus souvent aux activités sportives.
-  Du solltest öfter bei den sportlichen Aktivitäten *mitmachen*.
+  You should be more involved in sports activities.
 
   Notre équipe va *participer* au tournoi international.
-  Unser Team wird am internationalen Turnier *teilnehmen*.
+  Our team will participate in the international tournament.
 
   Les bénévoles *participent* activement à l'organisation du festival.
-  Die Freiwilligen *wirken* aktiv an der Organisation des Festivals *mit*.
+  The volunteers are actively involved in the organisation of the festival.
 
   Chaque membre doit *participer* aux frais d'entretien.
-  Jedes Mitglied muss sich an den Unterhaltskosten *beteiligen*.
+  Each member must contribute to the maintenance costs.
 
   Il refuse de *participer* aux conversations en ligne.
-  Er weigert sich, an den Online-Gesprächen *teilzunehmen*.
+  He refuses *to participate* in the online talks.
 
   Les citoyens peuvent *participer* au débat public.
-  Die Bürger können sich an der öffentlichen Debatte *beteiligen*.
+  Citizens can participate in the public debate.
 
   Pierre ne *participe* pas assez en cours de mathématiques.
-  Pierre *beteiligt* sich nicht genug im Mathematikunterricht.
+  Pierre doesn't take enough part in mathematics classes.
 
   Nous vous invitons à *participer* à notre enquête de satisfaction.
-  Wir laden Sie ein, an unserer Zufriedenheitsumfrage *teilzunehmen*.
+  We invite you *to participate* in our satisfaction survey.
 
   Les spectateurs peuvent *participer* au spectacle.
-  Die Zuschauer können bei der Show *mitmachen*.
+  The audience can participate in the show.
 
   Elle *participe* régulièrement aux réunions du conseil.
-  Sie *nimmt* regelmäßig an den Ratssitzungen *teil*.
+  It shall attend regular Council meetings.
 
   Voulez-vous *participer* au projet de recherche ?
-  Möchten Sie am Forschungsprojekt *mitwirken*?
+  Would you like to *participate* in the research project?
 
   Tous les pays membres *participent* au sommet.
-  Alle Mitgliedsländer *nehmen* am Gipfel *teil*.
+  All the Member States are participating in the summit.
 
   Les enfants adorent *participer* aux jeux collectifs.
-  Die Kinder lieben es, an Gruppenspielen *teilzunehmen*.
+  The children love *to participate* in group games.
 
   Je suis fier d'avoir *participé* à cet événement historique.
-  Ich bin stolz darauf, an diesem historischen Ereignis *teilgenommen* zu haben.
+  I am proud to have participated in this historic event.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

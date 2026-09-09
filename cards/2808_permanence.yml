@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2808
 Wort: permanence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la permanence
 Femininum / Plural: ''
 IPA: \pɛʁ.ma.nɑ̃s\
-Definition: Dienst(-stelle); Fortbestehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Service(s); continuation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les deux pieds doivent rester *en permanence* dans le triangle.
-  Beide Füße müssen *ständig* im Dreieck bleiben.
+  Both feet must remain in the triangle all the time.
 
   L'entreprise a mis en place une *permanence* téléphonique pour répondre aux questions des clients.
-  Das Unternehmen hat einen telefonischen *Bereitschaftsdienst* eingerichtet, um Kundenfragen zu beantworten.
+  The company has set up a telephone call service to answer customer questions.
 
   Le médecin de garde assure la *permanence* ce week-end.
-  Der diensthabende Arzt übernimmt am Wochenende den *Bereitschaftsdienst*.
+  The doctor on duty is on call on weekends.
 
   "Je suis *en permanence* fatigué ces derniers temps", se plaignit-il à son médecin.
-  "Ich bin in letzter Zeit *ständig* müde", klagte er seinem Arzt.
+  "I've been tired lately," he complained to his doctor.
 
   La *permanence* juridique gratuite a lieu tous les mardis à la mairie.
-  Die kostenlose juristische *Beratung* findet jeden Dienstag im Rathaus statt.
+  The free legal *advice* takes place every Tuesday in the town hall.
 
   Les pompiers tiennent une *permanence* 24 heures sur 24.
-  Die Feuerwehr hält rund um die Uhr einen *Bereitschaftsdienst* aufrecht.
+  The fire department is on duty around the clock.
 
   La *permanence* des traditions familiales est importante pour de nombreuses personnes.
-  Die *Beständigkeit* von Familientraditionen ist für viele Menschen wichtig.
+  The consistency of family traditions is important for many people.
 
   Le parti politique a ouvert une *permanence* électorale dans le centre-ville.
-  Die politische Partei hat ein Wahlkampf*büro* im Stadtzentrum eröffnet.
+  The political party has opened a campaign *office* in the city centre.
 
   Les élèves turbulents ont été envoyés en *permanence* pour le reste de la journée.
-  Die unruhigen Schüler wurden für den Rest des Tages in den *Aufenthaltsraum* geschickt.
+  The restless students were sent to the lounge for the rest of the day.
 
   La *permanence* du danger rend les habitants très vigilants.
-  Die *ständige* Gefahr macht die Bewohner sehr wachsam.
+  The constant danger makes the inhabitants very vigilant.
 
   Le syndicat tiendra une *permanence* pour informer les employés de leurs droits.
-  Die Gewerkschaft wird eine *Sprechstunde* abhalten, um die Angestellten über ihre Rechte zu informieren.
+  The union will hold a consultation session to inform employees about their rights.
 
   La *permanence* du sentiment républicain en France est un sujet d'étude pour les historiens.
-  Die *Beständigkeit* des republikanischen Gefühls in Frankreich ist ein Studienthema für Historiker.
+  The permanence of the Republican feeling in France is a subject of study for historians.
 
   Les infirmières assurent une *permanence* dans le service des urgences.
-  Die Krankenschwestern gewährleisten einen *Dauer*dienst in der Notaufnahme.
+  The nurses will provide a permanent service in the emergency room.
 
   La *permanence* de cette liste électorale est garantie jusqu'à la prochaine révision.
-  Die *Gültigkeit* dieser Wählerliste ist bis zur nächsten Überprüfung garantiert.
+  The *validity* of this electoral list is guaranteed until the next check.
 
   "Tu te plains *en permanence*!" s'exclama sa mère, exaspérée.
-  "Du beschwerst dich *ständig*!" rief seine Mutter verärgert aus.
+  "You complain all the time!" his mother exclaimed annoyed.
 
   La *permanence* de la nature malgré les changements climatiques est remarquable.
-  Die *Beständigkeit* der Natur trotz des Klimawandels ist bemerkenswert.
+  The persistence of nature despite climate change is remarkable.
 
   L'assemblée a décidé de siéger *en permanence* jusqu'à ce qu'une décision soit prise.
-  Die Versammlung hat beschlossen, *ununterbrochen* zu tagen, bis eine Entscheidung getroffen wird.
+  The Assembly has decided to meet continuously until a decision is taken.
 
   La *permanence* d'un emploi est un facteur important de stabilité sociale.
-  Die *Dauerhaftigkeit* eines Arbeitsplatzes ist ein wichtiger Faktor für soziale Stabilität.
+  The *durability* of a job is an important factor for social stability.
 
   Le concierge de l'immeuble assure une *permanence* en cas d'urgence.
-  Der Hausmeister des Gebäudes gewährleistet einen *Bereitschaftsdienst* für Notfälle.
+  The caretaker of the building ensures *on-call duty* for emergencies.
 
   La *permanence* de cette tradition remonte à plusieurs siècles.
-  Die *Beständigkeit* dieser Tradition reicht mehrere Jahrhunderte zurück.
+  The continuity of this tradition goes back several centuries.
 
   Les parents se chamaillent *en permanence* à propos de l'éducation de leurs enfants.
-  Die Eltern streiten sich *ständig* über die Erziehung ihrer Kinder.
+  Parents are constantly arguing about the education of their children.
 
   Le musée cherche des bénévoles pour assurer une *permanence* pendant les week-ends.
-  Das Museum sucht Freiwillige, um an den Wochenenden einen Aufsichts*dienst* zu gewährleisten.
+  The museum is looking for volunteers to provide supervision during the weekends.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

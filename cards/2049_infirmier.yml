@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2049
 Wort: infirmier
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un infirmier
 Femininum / Plural: infirmière
 IPA: \ɛ̃.fiʁ.mje\
-Definition: Krankenpfleger
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Nurse
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un *infirmier* lui est venu en aide.
-  Ein *Krankenpfleger* kam ihm zu Hilfe.
+  A *nurse* came to his rescue.
 
   L'*infirmière* a pris ma tension artérielle.
-  Die *Krankenschwester* hat meinen Blutdruck gemessen.
+  The *nurse* measured my blood pressure.
 
   Mon frère étudie pour devenir *infirmier*.
-  Mein Bruder studiert, um *Krankenpfleger* zu werden.
+  My brother's studying to become a *nurse*.
 
   Elle travaille comme *infirmière* de nuit à l'hôpital.
-  Sie arbeitet als Nacht*schwester* im Krankenhaus.
+  She works as a night nurse at the hospital.
 
   L'*infirmier* militaire a soigné les soldats blessés.
-  Der militärische *Sanitäter* versorgte die verwundeten Soldaten.
+  The military *paramedic* supplied the wounded soldiers.
 
   L'*infirmière* anesthésiste prépare le patient pour l'opération.
-  Die Narkose*schwester* bereitet den Patienten für die Operation vor.
+  The anaesthetic nurse prepares the patient for surgery.
 
   Les *infirmières* puéricultrices s'occupent des nouveau-nés.
-  Die Kinder*krankenschwestern* kümmern sich um die Neugeborenen.
+  The children's *nurses* take care of the newborns.
 
   L'*infirmière* de la Croix Rouge a aidé lors de la catastrophe naturelle.
-  Die Rotkreuz*schwester* half bei der Naturkatastrophe.
+  The Red Cross *Sister* helped with the natural disaster.
 
   Le personnel *infirmier* de cet hôpital est très compétent.
-  Das *Pflege*personal dieses Krankenhauses ist sehr kompetent.
+  The nursing staff at this hospital are very competent.
 
   L'école d'*infirmières* forme de nouveaux professionnels chaque année.
-  Die *Krankenpflege*schule bildet jedes Jahr neue Fachkräfte aus.
+  The *nursing* school trains new professionals every year.
 
   L'*infirmière* de bloc opératoire assiste le chirurgien pendant l'intervention.
-  Die OP-*Schwester* assistiert dem Chirurgen während des Eingriffs.
+  The surgeon's *sister* assists the surgeon during the procedure.
 
   Les *infirmiers* dispensent des soins à domicile pour les patients âgés.
-  Die *Krankenpfleger* leisten häusliche Pflege für ältere Patienten.
+  Nurses provide home care for elderly patients.
 
   L'*infirmière* en chef organise les plannings du service.
-  Die leitende *Krankenschwester* organisiert die Dienstpläne der Abteilung.
+  The senior *nurse* organizes the department's schedules.
 
   Le diplôme d'*infirmier* est reconnu dans toute l'Union européenne.
-  Der *Krankenpfleger*-Abschluss wird in der gesamten Europäischen Union anerkannt.
+  The nursing certificate is recognised throughout the European Union.
 
   Les élèves *infirmiers* font leur stage pratique à l'hôpital local.
-  Die *Krankenpflege*-Schüler machen ihr Praktikum im örtlichen Krankenhaus.
+  *Nursing* students do their internship at the local hospital.
 
   L'*infirmière* a changé le pansement de ma blessure.
-  Die *Krankenschwester* hat den Verband meiner Wunde gewechselt.
+  The *nurse* changed the bandage of my wound.
 
   Les *infirmiers* ambulanciers sont arrivés rapidement sur les lieux de l'accident.
-  Die Rettungs*sanitäter* trafen schnell am Unfallort ein.
+  The paramedics quickly arrived at the scene of the accident.
 
   L'*infirmier* major a supervisé l'évacuation des patients.
-  Der leitende *Sanitäter* überwachte die Evakuierung der Patienten.
+  The senior *paramedic* monitored the evacuation of the patients.
 
   Les soins *infirmiers* sont essentiels pour le rétablissement des patients.
-  Die *pflegerische* Versorgung ist für die Genesung der Patienten unerlässlich.
+  Care is essential for the recovery of patients.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3409
 Wort: interpeller
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: interpeller
 Femininum / Plural: ''
 IPA: \ɛ̃.tɛʁ.pə.le\
-Definition: zur Rede stellen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Discussing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Enfin, cinq personnes ont été *interpellées*.
-  Schließlich wurden fünf Personen *festgenommen*.
+  Finally, five people were *arrested*.
 
   Les agents ont *interpellé* trois suspects près de la gare.
-  Die Beamten haben drei Verdächtige am Bahnhof *festgenommen*.
+  The officers *arrested* three suspects at the station.
 
   Je me suis fait *interpeller* par la police pour un contrôle d'identité.
-  Ich wurde von der Polizei zur Personenkontrolle *angehalten*.
+  I was *stopped* by the police for personal control.
 
   Le professeur *interpelle* souvent Thomas qui ne fait pas attention en classe.
-  Der Lehrer *spricht* oft Thomas *an*, der im Unterricht nicht aufpasst.
+  The teacher often speaks *to* Thomas, who does not pay attention in class.
 
   La députée a *interpellé* le ministre sur sa politique environnementale.
-  Die Abgeordnete hat den Minister zu seiner Umweltpolitik *interpelliert*.
+  The honourable Member has intervened with the Minister on his environmental policy.
 
   Cette photo de réfugiés m'*interpelle* profondément.
-  Dieses Foto von Flüchtlingen macht mich tief *betroffen*.
+  This photograph of refugees is deeply affecting me.
 
   "Eh, toi là-bas !" *interpella* le gardien.
-  "He, du da drüben!" *rief* der Wächter.
+  "Hey, you over there!" cried the guard.
 
   Les manifestants se sont *interpellés* à travers la rue.
-  Die Demonstranten haben sich über die Straße hinweg *angeschrien*.
+  The demonstrators screamed across the street.
 
   Le journaliste a *interpellé* le maire sur les problèmes de logement.
-  Der Journalist hat den Bürgermeister zu den Wohnungsproblemen *befragt*.
+  The journalist asked the mayor about the housing problems.
 
   Cette situation devrait nous *interpeller* tous.
-  Diese Situation sollte uns alle *aufrütteln*.
+  This situation should *shake* us all up.
 
   L'huissier *interpella* le témoin de signer la déposition.
-  Der Gerichtsvollzieher *forderte* den Zeugen auf, die Aussage zu unterschreiben.
+  The bailiff asked the witness to sign the statement.
 
   Les voisins s'*interpellaient* d'un balcon à l'autre.
-  Die Nachbarn *riefen* sich von Balkon zu Balkon etwas *zu*.
+  The neighbors shouted something from balcony *to* balcony.
 
   La pauvreté dans le monde nous *interpelle* chaque jour davantage.
-  Die Armut in der Welt macht uns jeden Tag mehr *betroffen*.
+  Poverty in the world affects us more every day.
 
   Le policier a dû *interpeller* un conducteur en excès de vitesse.
-  Der Polizist musste einen Fahrer wegen zu hoher Geschwindigkeit *anhalten*.
+  The policeman had to *stop* a driver because of too high a speed.
 
   Les deux amis se sont *interpellés* dans la rue.
-  Die beiden Freunde haben sich auf der Straße laut *zugerufen*.
+  The two friends shouted out loud on the street.
 
   Marc *interpella* Sophie pour lui demander son numéro.
-  Marc *sprach* Sophie *an*, um nach ihrer Nummer zu fragen.
+  Marc approached Sophie *to* ask for her number.
 
   Cette nouvelle exposition nous *interpelle* sur notre rapport à la nature.
-  Diese neue Ausstellung macht uns über unser Verhältnis zur Natur *nachdenklich*.
+  This new exhibition makes us think about our relationship to nature.
 
   L'agent de sécurité *interpella* brusquement le voleur.
-  Der Sicherheitsbeamte *fuhr* den Dieb barsch *an*.
+  The security officer pushed the thief harshly.
 
   Les gendarmes ont *interpellé* deux suspects dans cette affaire.
-  Die Gendarmen haben in dieser Sache zwei Verdächtige *festgenommen*.
+  The gendarmes have *arrested* two suspects in this case.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

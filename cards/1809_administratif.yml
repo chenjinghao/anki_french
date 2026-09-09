@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1809
 Wort: administratif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: administratif
 Femininum / Plural: administrative
 IPA: \ad.mi.nis.tʁa.tif\
-Definition: Verwaltungs-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Administrative
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'occupe actuellement un poste *administratif*.
-  Ich arbeite derzeit in einer *Verwaltungs*stelle.
+  I'm currently working at an administrative office.
 
   Le bâtiment *administratif* se trouve au centre-ville.
-  Das *Verwaltungs*gebäude befindet sich im Stadtzentrum.
+  The administrative building is located in the city centre.
 
   La *cité administrative* regroupe tous les services publics.
-  Das *Behördenviertel* vereint alle öffentlichen Dienste.
+  The government district unites all public services.
 
   Les *services administratifs* sont fermés le week-end.
-  Die *Verwaltung* ist am Wochenende geschlossen.
+  The *administration* is closed this weekend.
 
   Cette lenteur *administrative* est vraiment frustrante.
-  Diese *behördliche* Trägheit ist wirklich frustrierend.
+  This *official* inertia is really frustrating.
 
   Il a reçu une *amende administrative* pour stationnement interdit.
-  Er hat ein *Verwarnungsgeld* wegen Falschparkens erhalten.
+  He got a *warning money* for false parking.
 
   La justice *administrative* traite les litiges avec l'État.
-  Die *Verwaltungs*gerichtsbarkeit behandelt Streitigkeiten mit dem Staat.
+  Administrative jurisdiction deals with disputes with the State.
 
   Le maire a édicté un acte *administratif* hier.
-  Der Bürgermeister hat gestern einen *Verwaltungs*akt erlassen.
+  The mayor issued an administrative act yesterday.
 
   Nous allons agir en annulation de l'acte *administratif*.
-  Wir werden den *Verwaltungs*akt anfechten.
+  We'll challenge the administrative act.
 
   Elle est directrice *administrative* de la banque.
-  Sie ist *Verwaltungs*direktorin der Bank.
+  She is the Bank's Administrative Director.
 
   Paris est la capitale *administrative* de la France.
-  Paris ist der *Verwaltungs*sitz Frankreichs.
+  Paris is the administrative seat of France.
 
   L'activité *administrative* occupe la moitié de mon temps.
-  Die *Verwaltungs*tätigkeit nimmt die Hälfte meiner Zeit in Anspruch.
+  The *administration* takes half my time.
 
   Le droit *administratif* est une matière complexe.
-  Das *Verwaltungs*recht ist ein komplexes Fach.
+  Administrative law is a complex subject.
 
   La police *administrative* veille à la sécurité publique.
-  Die *Verwaltungs*polizei sorgt für die öffentliche Sicherheit.
+  The administrative police ensure public security.
 
   Cette division *administrative* compte trois départements.
-  Diese *Verwaltungs*einheit umfasst drei Departements.
+  This administrative unit comprises three departments.
 
   Le personnel *administratif* est en grève aujourd'hui.
-  Das *Verwaltungs*personal streikt heute.
+  The administrative staff are on strike today.
 
   La langue *administrative* peut être difficile à comprendre.
-  Die *Amts*sprache kann schwer zu verstehen sein.
+  The official language can be difficult to understand.
 
   Le tribunal *administratif* a rendu sa décision.
-  Das *Verwaltungs*gericht hat seine Entscheidung gefällt.
+  The Administrative Court has taken its decision.
 
   Une décision *administrative* a été prise ce matin.
-  Eine *behördliche* Entscheidung wurde heute Morgen getroffen.
+  A government decision was made this morning.
 
   Il prépare un concours *administratif*.
-  Er bereitet sich auf eine *Verwaltungs*prüfung vor.
+  He's preparing for an administrative audit.
 
   La circonscription *administrative* a été modifiée.
-  Der *Verwaltungs*bezirk wurde geändert.
+  The district has been changed.
 
   Les réformes *administratives* visent à simplifier les procédures.
-  Die *Verwaltungs*reformen zielen darauf ab, die Verfahren zu vereinfachen.
+  Administrative reforms aim to simplify procedures.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

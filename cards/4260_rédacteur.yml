@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4260
 Wort: rédacteur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le rédacteur
 Femininum / Plural: rédactrice
 IPA: \ʁe.dak.tœʁ\
-Definition: Redakteur
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Editor
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai d'abord été journaliste *rédacteur* pour la presse.
-  Ich war zunächst *Redakteur* bei der Zeitung.
+  I was an *editor* at the newspaper.
 
   Notre *rédactrice* en chef a annoncé sa démission hier.
-  Unsere Chef*redakteurin* hat gestern ihre Kündigung angekündigt.
+  Our *editor*-in-chief announced her termination yesterday.
 
   Le *rédacteur* local couvre tous les événements du quartier.
-  Der Lokal*redakteur* berichtet über alle Ereignisse im Viertel.
+  The local *editor* reports on all the events in the quarter.
 
   La *rédactrice* technique prépare la documentation du nouveau logiciel.
-  Die technische *Redakteurin* bereitet die Dokumentation für die neue Software vor.
+  The technical *editor* prepares the documentation for the new software.
 
   Elle travaille comme *rédactrice* en ligne depuis son domicile.
-  Sie arbeitet von zu Hause aus als Online-*Redakteurin*.
+  She works from home as an online *editor*.
 
   Le *rédacteur* d'images a sélectionné les meilleures photos pour le magazine.
-  Der Bild*redakteur* hat die besten Fotos für das Magazin ausgewählt.
+  The *editor* has selected the best photos for the magazine.
 
   La *rédactrice* publicitaire a créé un slogan accrocheur.
-  Die Werbe*texterin* hat einen eingängigen Slogan entwickelt.
+  The copywriter has developed a catchy slogan.
 
   Notre équipe compte désormais trois *rédacteurs* radio.
-  Unser Team hat jetzt drei Rundfunk*redakteure*.
+  Our team now has three radio *editors*.
 
   La *rédactrice* sportive couvrira les Jeux olympiques.
-  Die Sport*redakteurin* wird über die Olympischen Spiele berichten.
+  The sports *editor* will report on the Olympic Games.
 
   Le *rédacteur* hippique suit toutes les courses importantes.
-  Der Renn*redakteur* verfolgt alle wichtigen Pferderennen.
+  The race *editor* follows all the important horse races.
 
   Les *rédacteurs* de l'encyclopédie travaillent depuis deux ans sur ce projet.
-  Die *Redakteure* der Enzyklopädie arbeiten seit zwei Jahren an diesem Projekt.
+  The *editors* of the encyclopedia have been working on this project for two years.
 
   La Société des *rédacteurs* protège l'indépendance journalistique.
-  Die *Redakteurs*gesellschaft schützt die journalistische Unabhängigkeit.
+  The editorial society protects journalistic independence.
 
   Le *rédacteur* des débats note chaque intervention au Sénat.
-  Der *Redakteur* der Debatten notiert jeden Redebeitrag im Senat.
+  The *editor* of the debates notes every speech in the Senate.
 
   Cette *rédactrice* de presse écrite a reçu un prix pour son article.
-  Diese Zeitungs*redakteurin* hat einen Preis für ihren Artikel erhalten.
+  This newspaper *editor* has received a prize for her article.
 
   Comme *rédacteur* publicitaire, il crée des textes percutants.
-  Als Werbe*texter* entwickelt er eindrucksvolle Texte.
+  As an advertising copywriter, he develops impressive texts.
 
   La *rédactrice* en chef adjoint supervisera l'édition du week-end.
-  Die stellvertretende Chef*redakteurin* wird die Wochenendausgabe betreuen.
+  The deputy *editor*-in-chief will be responsible for the weekend edition.
 
   Les *rédacteurs* du dictionnaire vérifient chaque définition.
-  Die *Redakteure* des Wörterbuchs überprüfen jede Definition.
+  The *editors* of the dictionary check each definition.
 
   Notre nouveau *rédacteur* technique simplifie les manuels d'utilisation.
-  Unser neuer technischer *Redakteur* vereinfacht die Bedienungsanleitungen.
+  Our new technical *editor* simplifies the operating instructions.
 
   La *rédactrice* en ligne actualise le site toutes les heures.
-  Die Online-*Redakteurin* aktualisiert die Website stündlich.
+  The online *editor* updates the website every hour.
 
   Le *rédacteur* local recherche un assistant pour l'été.
-  Der Lokal*redakteur* sucht einen Assistenten für den Sommer.
+  The local *editor* is looking for an assistant for the summer.
 
   Cette *rédactrice* radio présente aussi le journal du matin.
-  Diese Rundfunk*redakteurin* moderiert auch die Morgennachrichten.
+  This radio *editor* also moderates the morning news.
 
   Le *rédacteur* des comptes rendus assistera à toutes les réunions.
-  Der Protokoll*redakteur* wird an allen Sitzungen teilnehmen.
+  The *editor* of the minutes will attend all meetings.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

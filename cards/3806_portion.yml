@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3806
 Wort: portion
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la portion
 Femininum / Plural: ''
 IPA: \pɔʁ.sjɔ̃\
-Definition: Stück, Teil
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Piece, part
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les pannes ont frappé de larges *portions* du sud de Moscou.
-  Die Störungen haben große *Teile* des südlichen Moskaus betroffen.
+  The disturbances have affected large *parts* of southern Moscow.
 
   Chacun a reçu une *portion* égale du gâteau d'anniversaire.
-  Jeder hat eine gleiche *Portion* vom Geburtstagskuchen bekommen.
+  Everyone got an equal *portion* of the birthday cake.
 
   La *portion* de fromage servie au restaurant était vraiment généreuse.
-  Die *Portion* Käse im Restaurant war wirklich großzügig.
+  The *portion* of cheese in the restaurant was really generous.
 
   Cette *portion* de route sera en travaux pendant deux semaines.
-  Dieser Straßen*abschnitt* wird zwei Wochen lang renoviert.
+  This *section* of the road will be renovated for two weeks.
 
   Une petite *portion* de ciel bleu est visible entre les nuages.
-  Ein kleiner *Teil* des blauen Himmels ist zwischen den Wolken zu sehen.
+  A small *part* of the blue sky can be seen between the clouds.
 
   Les trois frères ont reçu chacun leur *portion* de l'héritage familial.
-  Die drei Brüder haben jeweils ihren Erb*anteil* der Familie erhalten.
+  The three brothers each received their inheritance portion of the family.
 
   Le restaurant propose des *portions* individuelles de lasagne surgelée.
-  Das Restaurant bietet einzelne *Portionen* gefrorene Lasagne an.
+  The restaurant offers individual *portions* of frozen lasagna.
 
   Une *portion* du terrain a été vendue à la municipalité.
-  Ein *Teil* des Grundstücks wurde an die Gemeinde verkauft.
+  *Part* of the property was sold to the municipality.
 
   "Je veux une double *portion* de frites !" a crié l'enfant.
-  "Ich will eine doppelte *Portion* Pommes!" rief das Kind.
+  "I want a double *portion* of fries!" the child shouted.
 
   Cette *portion* de forêt appartient à ma famille depuis des générations.
-  Dieser Wald*teil* gehört seit Generationen meiner Familie.
+  This *part* of the forest has belonged to my family for generations.
 
   Les *portions* servies dans ce café sont toujours très copieuses.
-  Die *Portionen* in diesem Café sind immer sehr reichlich.
+  The *portions* in this café are always very plentiful.
 
   Une *portion* importante du budget est consacrée à l'éducation.
-  Ein großer *Teil* des Budgets ist der Bildung gewidmet.
+  Much of the budget is devoted to education.
 
   La *portion* de viande était parfaitement cuite.
-  Die *Portion* Fleisch war perfekt gegart.
+  The *portion* of meat was perfectly cooked.
 
   Chaque élève recevra une *portion* de tarte aux pommes.
-  Jeder Schüler bekommt eine *Portion* Apfelkuchen.
+  Every student gets a *portion* of apple pie.
 
   Une *portion* du jardin sera transformée en potager.
-  Ein *Teil* des Gartens wird in einen Gemüsegarten umgewandelt.
+  *Part* of the garden is transformed into a vegetable garden.
 
   Les *portions* sont déterminées en fonction du nombre de convives.
-  Die *Portionen* werden nach der Anzahl der Gäste bestimmt.
+  *Portions* are determined by the number of guests.
 
   Cette *portion* de la rivière est idéale pour la pêche.
-  Dieser *Abschnitt* des Flusses ist ideal zum Angeln.
+  This *section* of the river is ideal for fishing.
 
   Une grande *portion* de la population soutient cette initiative.
-  Ein großer *Teil* der Bevölkerung unterstützt diese Initiative.
+  A large *part* of the population supports this initiative.
 
   Le restaurant propose des *portions* à emporter.
-  Das Restaurant bietet *Portionen* zum Mitnehmen an.
+  The restaurant offers *portions* to take away.
 
   Une *portion* du mur s'est effondrée pendant l'orage.
-  Ein *Teil* der Mauer ist während des Gewitters eingestürzt.
+  *Part* of the wall collapsed during the storm.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

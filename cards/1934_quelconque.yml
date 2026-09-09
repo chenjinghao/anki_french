@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1934
 Wort: quelconque
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quelconque
 Femininum / Plural: ''
 IPA: \kɛl.kɔ̃k\
-Definition: irgendein; mittelmäßig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: any; mediocre
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Est-ce qu'on a un vase *quelconque* ?
-  Haben wir *irgendeine* Vase?
+  Do we have *any* vase?
 
   J'ai besoin d'un stylo *quelconque* pour noter cette adresse.
-  Ich brauche *irgendeinen* Stift, um diese Adresse aufzuschreiben.
+  I need some pen to write down this address.
 
   Sous un prétexte *quelconque*, il a quitté la réunion plus tôt.
-  Unter *irgendeinem* Vorwand hat er die Besprechung früher verlassen.
+  Under some pretext, he left the meeting earlier.
 
   Je ne vois aucun risque *quelconque* dans cette situation.
-  Ich sehe in dieser Situation keinerlei *irgendwelche* Risiken.
+  I do not see *any* risks in this situation.
 
   Si seulement j'avais une *quelconque* idée de ce qui s'est passé !
-  Wenn ich nur die *leiseste* Ahnung hätte, was passiert ist!
+  If only I had the slightest idea what happened!
 
   Son visage *quelconque* ne retient pas l'attention.
-  Sein *Allerwelts*gesicht fällt nicht auf.
+  His all-*world* face doesn't stand out.
 
   Le film était très *quelconque*, rien de spécial.
-  Der Film war sehr *mittelmäßig*, nichts Besonderes.
+  The movie was very mediocre, nothing special.
 
   "Je trouve ce restaurant d'un *quelconque* !"
-  "Ich finde dieses Restaurant so *gewöhnlich*!"
+  "I find this restaurant so *common*!"
 
   Un point *quelconque* du cercle peut être choisi comme point de départ.
-  Ein *beliebiger* Punkt des Kreises kann als Ausgangspunkt gewählt werden.
+  *Any* point of the circle can be chosen as the starting point.
 
   N'importe quel triangle *quelconque* a trois côtés de longueurs différentes.
-  Jedes *beliebige* Dreieck hat drei Seiten unterschiedlicher Länge.
+  Each triangle has three sides of different length.
 
   Cette personne *quelconque* ne se démarque pas dans la foule.
-  Diese *unbedeutende* Person sticht in der Menge nicht hervor.
+  This *insignificant* person does not stand out in the crowd.
 
   Il a choisi un livre *quelconque* sur l'étagère sans même regarder le titre.
-  Er hat *irgendein* Buch aus dem Regal genommen, ohne auch nur auf den Titel zu schauen.
+  He took some book off the shelf without even looking at the title.
 
   As-tu une *quelconque* expérience en programmation ?
-  Hast du *irgendwelche* Erfahrungen im Programmieren?
+  Do you have *any* experience in programming?
 
   Le sujet de la conférence était tellement *quelconque* que j'ai failli m'endormir.
-  Das Thema des Vortrags war so *belanglos*, dass ich fast eingeschlafen wäre.
+  The topic of the lecture was so irrelevant that I almost fell asleep.
 
   Elle cherchait une excuse *quelconque* pour ne pas aller à la fête.
-  Sie suchte nach *irgendeiner* Ausrede, um nicht zur Party zu gehen.
+  She was looking for some excuse not to go to the party.
 
   Un triangle *quelconque* n'a pas de propriétés particulières comme l'équilatéralité.
-  Ein *beliebiges* Dreieck hat keine besonderen Eigenschaften wie Gleichseitigkeit.
+  *Any* triangle has no special characteristics such as equitability.
 
   Je ne veux pas d'un cadeau *quelconque*, j'aimerais quelque chose de spécial.
-  Ich möchte kein *x-beliebiges* Geschenk, ich hätte gerne etwas Besonderes.
+  I don't want any gift, I'd like something special.
 
   Dans ce groupe, il n'y a personne de *quelconque* ; chacun a sa particularité.
-  In dieser Gruppe gibt es niemanden *Gewöhnliches*; jeder hat seine Besonderheit.
+  In this group there is no ordinary; each has its own peculiarity.
 
   Pour une raison *quelconque*, le train a été retardé de 30 minutes.
-  Aus *irgendeinem* Grund hatte der Zug 30 Minuten Verspätung.
+  For some reason, the train was 30 minutes late.
 
   Elle refuse d'obéir à une autorité *quelconque* sans explication.
-  Sie weigert sich, *irgendeiner* Autorität ohne Erklärung zu gehorchen.
+  She refuses to obey *any* authority without explanation.
 
   Son style d'écriture est plutôt *quelconque*, rien de très original.
-  Sein Schreibstil ist eher *mittelmäßig*, nichts besonders Originelles.
+  His writing style is rather mediocre, nothing particularly original.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

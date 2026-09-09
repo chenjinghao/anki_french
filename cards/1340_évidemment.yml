@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1340
 Wort: évidemment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: évidemment
 Femininum / Plural: ''
 IPA: \e.vi.da.mɑ̃\
-Definition: natürlich, offensichtlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: of course, obviously
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En tout cas, *évidemment*, elles vous connaissent.
-  Jedenfalls kennen sie Sie *natürlich*.
+  Anyway, they know you, *of course*.
 
   – "Tu viendras à la fête ?"<br>– "*Évidemment* !"
-  – "Kommst du zur Party?"<br>– "*Na klar*!"
+  - "Are you coming to the party?" - "All right!"
 
   Cette toux persistante indique *évidemment* un problème respiratoire.
-  Dieser anhaltende Husten deutet *offensichtlich* auf ein Atemproblem hin.
+  This persistent cough seems to indicate a breathing problem.
 
   *Évidemment* que je vais t'aider avec tes devoirs !
-  *Natürlich* helfe ich dir bei den Hausaufgaben!
+  *Of course* I'll help you with your homework!
 
   L'eau qui coule du plafond est *évidemment* due à une fuite.
-  Das von der Decke tropfende Wasser ist *offensichtlich* auf ein Leck zurückzuführen.
+  The water dripping from the ceiling is obviously due to a leak.
 
   *Évidemment*, ce n'est pas une solution parfaite, mais c'est la meilleure option.
-  Das ist *natürlich* keine perfekte Lösung, aber es ist die beste Option.
+  *Of course*, this is not a perfect solution, but it is the best option.
 
   Le nouveau stagiaire est *évidemment* très motivé.
-  Der neue Praktikant ist *offenbar* sehr motiviert.
+  The new intern appears to be very motivated.
 
   – "Tu as faim ?"<br>– "*Évidemment*, je n'ai rien mangé depuis ce matin !"
-  – "Hast du Hunger?"<br>– "*Klar*, ich habe seit heute Morgen nichts gegessen!"
+  – "Are you hungry?"– "Sure, I haven't eaten since this morning!"
 
   Cette baisse des ventes est *évidemment* liée à la crise économique.
-  Dieser Rückgang der Verkäufe hängt *offensichtlich* mit der Wirtschaftskrise zusammen.
+  This decline in sales appears to be linked to the economic crisis.
 
   *Évidemment*, personne n'a pensé à m'en informer.
-  *Natürlich* hat niemand daran gedacht, mich darüber zu informieren.
+  *Of course*, no one thought to inform me about it.
 
   Son retard est *évidemment* dû aux embouteillages.
-  Seine Verspätung ist *offensichtlich* auf den Stau zurückzuführen.
+  His delay is obviously due to the traffic jam.
 
   – "Tu as compris ?"<br>– "*Évidemment* que oui !"
-  – "Hast du verstanden?"<br>– "Aber *klar* doch!"
+  – "Did you understand?"<br>– "Of course!"
 
   *Évidemment*, il pleut le jour où j'ai oublié mon parapluie.
-  *Natürlich* regnet es ausgerechnet an dem Tag, an dem ich meinen Regenschirm vergessen habe.
+  *Of course*, it rains the day I forgot my umbrella.
 
   Cette situation va *évidemment* nécessiter beaucoup de patience.
-  Diese Situation wird *offensichtlich* viel Geduld erfordern.
+  This situation will obviously require a lot of patience.
 
   *Évidemment*, tous les billets étaient déjà vendus quand nous sommes arrivés.
-  *Natürlich* waren alle Karten schon ausverkauft, als wir ankamen.
+  *Of course*, all the tickets were already sold out when we arrived.
 
   Son sourire montre *évidemment* qu'elle est heureuse de la surprise.
-  Ihr Lächeln zeigt *offensichtlich*, dass sie sich über die Überraschung freut.
+  Her smile obviously shows that she is happy about the surprise.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3840
 Wort: insulter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: insulter
 Femininum / Plural: ''
 IPA: \ɛ̃.syl.te\
-Definition: beleidigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: insult
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Jamais je ne vous aurais *insulté* de propos délibérés.
-  Ich hätte Sie niemals absichtlich *beleidigt*.
+  I would never have deliberately *offended* you.
 
   Le chauffeur ivre a *insulté* tous les passants dans la rue.
-  Der betrunkene Fahrer hat alle Passanten auf der Straße *beleidigt*.
+  The drunk driver insulted all passers-by on the road.
 
   Son attitude arrogante *insulte* toute la famille.
-  Seine arrogante Haltung *beleidigt* die ganze Familie.
+  His arrogant attitude offends the whole family.
 
   Les deux voisins se sont *insultés* pendant des heures.
-  Die beiden Nachbarn haben sich stundenlang *beschimpft*.
+  The two neighbors have been insulting each other for hours.
 
   Elle s'est fait *insulter* dans le métro hier soir.
-  Sie wurde gestern Abend in der U-Bahn *beschimpft*.
+  She was insulted on the subway last night.
 
   Ces remarques *insultent* le bon sens.
-  Diese Bemerkungen *verhöhnen* den gesunden Menschenverstand.
+  These remarks mock common sense.
 
   Marie a été publiquement *insultée* lors de la réunion.
-  Marie wurde während der Versammlung öffentlich *beleidigt*.
+  Marie was publicly insulted during the meeting.
 
   Il s'est laissé *insulter* sans dire un mot.
-  Er hat sich wortlos *beleidigen* lassen.
+  He got himself insulted without a word.
 
   Son scepticisme constant nous *insulte* tous.
-  Sein ständiger Skeptizismus *beleidigt* uns alle.
+  His constant skepticism offends all of us.
 
   Les manifestants se sont *insultés* avec la police.
-  Die Demonstranten und die Polizei haben sich gegenseitig *beschimpft*.
+  The demonstrators and the police have insulted each other.
 
   Cette publicité *insulte* l'intelligence des consommateurs.
-  Diese Werbung *verhöhnt* die Intelligenz der Verbraucher.
+  This advertising mocks the intelligence of consumers.
 
   Thomas s'est fait *insulter* pour avoir dit la vérité.
-  Thomas wurde dafür *beschimpft*, dass er die Wahrheit gesagt hat.
+  Thomas was insulted for telling the truth.
 
   Je ne permettrai à personne de m'*insulter* ainsi.
-  Ich werde niemandem erlauben, mich so zu *beleidigen*.
+  I won't allow anyone to *insult* me like that.
 
   Ces propos *insultent* à la mémoire de nos ancêtres.
-  Diese Äußerungen *verhöhnen* das Andenken unserer Vorfahren.
+  These utterances mock the memory of our ancestors.
 
   Les élèves se sont *insultés* dans la cour de récréation.
-  Die Schüler haben sich auf dem Pausenhof gegenseitig *beschimpft*.
+  The students have insulted each other at the break yard.
 
   Son comportement *insulte* à la dignité humaine.
-  Sein Verhalten *verhöhnt* die Menschenwürde.
+  His behavior mocks human dignity.
 
   Pierre a été *insulté* par des commentaires racistes.
-  Pierre wurde durch rassistische Kommentare *beleidigt*.
+  Pierre was insulted by racist comments.
 
   Leur luxe ostentatoire *insulte* à la misère des autres.
-  Ihr zur Schau gestellter Luxus *verhöhnt* das Elend der anderen.
+  Their display of luxury mocks the misery of others.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

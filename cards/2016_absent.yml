@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2016
 Wort: absent
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: absent
 Femininum / Plural: absente
 IPA: \ap.sɑ̃\
-Definition: abwesend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: absent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a été *absent* trois heures.
-  Er war drei Stunden *abwesend*.
+  He was *absent* for three hours.
 
   Il y avait beaucoup d'*absents* en raison de la pluie.
-  Wegen des Regens gab es viele *Fehlende*.
+  There were many *missing* people because of the rain.
 
   Le professeur note les élèves *absents* dans son carnet.
-  Der Lehrer notiert die *fehlenden* Schüler in sein Heft.
+  The teacher records the *missing* students in his notebook.
 
   Marie était *absente* de Paris pendant tout l'été.
-  Marie war den ganzen Sommer *nicht* in Paris *anwesend*.
+  Marie was *not* *present* in Paris all summer.
 
   La ponctuation est complètement *absente* de ce texte.
-  In diesem Text *fehlt* die Zeichensetzung völlig.
+  In this text the punctuation is completely *missing*.
 
   D'un air *absent*, il regardait par la fenêtre.
-  Mit *geistesabwesendem* Blick schaute er aus dem Fenster.
+  He looked out of the window with a mind-absent look.
 
   "*Les absents ont toujours tort*", dit-elle en souriant.
-  "*Die Abwesenden haben immer Unrecht*", sagte sie lächelnd.
+  "The absent are always wrong," she said smilingly.
 
   Je serai *absent* du bureau jusqu'à midi.
-  Ich werde bis Mittag *nicht* im Büro *anwesend* sein.
+  I won't be in the office until noon.
 
   Emma était *absente* lors de la réunion importante.
-  Emma hat bei der wichtigen Besprechung *gefehlt*.
+  Emma *missed* the important meeting.
 
   L'humour n'est pas *absent* de son dernier roman.
-  Der Humor *fehlt* nicht in seinem letzten Roman.
+  The humor is not *missing* in his last novel.
 
   Il reste souvent *absent* pendant les discussions.
-  Er ist während der Diskussionen oft *geistesabwesend*.
+  He is often absent from mind during the discussions.
 
   La secrétaire va pointer les *absents* ce matin.
-  Die Sekretärin wird heute Morgen die *Abwesenden* erfassen.
+  The secretary's gonna pick up the absent this morning.
 
   Sophie sera *absente* pour congé la semaine prochaine.
-  Sophie wird nächste Woche wegen Urlaub *fehlen*.
+  Sophie will be *missing* next week for vacation.
 
   L'enthousiasme n'était pas *absent* de sa voix.
-  Die Begeisterung *fehlte* nicht in seiner Stimme.
+  The enthusiasm was not lacking in his voice.
 
   Pierre a été porté *absent* ce matin.
-  Pierre wurde heute Morgen als *abwesend* gemeldet.
+  Pierre was reported *absent* this morning.
 
   Mon père était *absent* lors de ma naissance.
-  Mein Vater war bei meiner Geburt *nicht anwesend*.
+  My father was *not present* at my birth.
 
   Elle est restée *absente* de chez elle pendant deux jours.
-  Sie war zwei Tage von zu Hause *abwesend*.
+  She was away from home for two days.
 
   Son regard *absent* trahissait sa fatigue.
-  Sein *geistesabwesender* Blick verriet seine Müdigkeit.
+  His *mind-absorption* gaze betrayed his tiredness.
 
   Plusieurs élèves sont *absents* à cause de la grippe.
-  Mehrere Schüler *fehlen* wegen der Grippe.
+  Several students are *missing* because of the flu.
 
   La joie n'est jamais *absente* de ses yeux.
-  Die Freude *fehlt* nie in ihren Augen.
+  The joy is never *missing* in their eyes.
 
   Le directeur est *absent* pour maladie aujourd'hui.
-  Der Direktor *fehlt* heute krankheitsbedingt.
+  The director is *missing* today due to illness.
 
   Il y a trois *absents* dans notre équipe ce soir.
-  In unserem Team *fehlen* heute Abend drei Leute.
+  Three people are *missing* on our team tonight.
 
   Jean semblait *absent* pendant tout le cours.
-  Jean wirkte während des ganzen Unterrichts *geistesabwesend*.
+  Jean was absent from the class throughout the course.
 
   La passion n'est pas *absente* de son travail.
-  Die Leidenschaft *fehlt* nicht in seiner Arbeit.
+  The passion is not lacking in his work.
 
   Lucas était *absent* de son bureau toute la matinée.
-  Lucas war den ganzen Vormittag *nicht* im Büro *anwesend*.
+  Lucas wasn't in the office all morning.
 
   Elle avait l'air complètement *absente* pendant la présentation.
-  Sie wirkte während der Präsentation völlig *geistesabwesend*.
+  She seemed completely absent during the presentation.
 
   Le sel est totalement *absent* de ce plat.
-  Das Salz *fehlt* in diesem Gericht völlig.
+  The salt is completely lacking in this dish.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

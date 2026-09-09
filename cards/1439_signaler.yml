@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1439
 Wort: signaler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: signaler
 Femininum / Plural: ''
 IPA: \si.ɲa.le\
-Definition: melden, signalisieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Report, signal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a *signalé* que la mission avait joué un rôle important.
-  Er hat *bemerkt*, dass die Mission eine wichtige Rolle gespielt hatte.
+  He noticed that the mission had played an important role.
 
   Le panneau routier *signale* un virage dangereux.
-  Das Verkehrsschild *weist* auf eine gefährliche Kurve *hin*.
+  The traffic sign indicates a dangerous curve.
 
   "Je te *signale* que tu as oublié ton sac."
-  "Ich *weise* dich darauf *hin*, dass du deine Tasche vergessen hast."
+  "I'll tell you that you forgot your bag."
 
   Les clients doivent *signaler* tout défaut immédiatement.
-  Die Kunden müssen jeden Mangel sofort *melden*.
+  Customers must *report* any shortage immediately.
 
   Marie s'est *signalée* par son excellent travail.
-  Marie hat sich durch ihre hervorragende Arbeit *hervorgetan*.
+  Marie has excelled in her excellent work.
 
   L'astérisque *signale* une note en bas de page.
-  Das Sternchen *kennzeichnet* eine Fußnote.
+  The asterisk marks a footnote.
 
   Le cycliste a *signalé* son virage à droite.
-  Der Radfahrer hat seine Rechtskurve *angezeigt*.
+  The cyclist has indicated his right turn.
 
   La grippe s'est *signalée* par une forte fièvre.
-  Die Grippe hat sich durch hohes Fieber *bemerkbar gemacht*.
+  The flu has been felt by high fever.
 
   Les bouées *signalent* l'entrée du port.
-  Die Bojen *markieren* die Hafeneinfahrt.
+  The buoys *mark* the port entrance.
 
   "*Rien à signaler*" a dit le gardien.
-  "*Keine besonderen Vorkommnisse*", sagte der Wächter.
+  "*No special occurrences*," said the guard.
 
   Pierre s'est *signalé* à l'attention du professeur.
-  Pierre hat den Lehrer auf sich *aufmerksam gemacht*.
+  Pierre drew the teacher's attention.
 
   Il faut *signaler* cette panne à l'assistance technique.
-  Man muss diesen Defekt dem technischen Support *melden*.
+  You have to *report* this defect to technical support.
 
   Le médecin a *signalé* l'urgence de la situation.
-  Der Arzt hat auf die Dringlichkeit der Situation *hingewiesen*.
+  The doctor has pointed out the urgency of the situation.
 
   Les voisins ont *signalé* du bruit suspect.
-  Die Nachbarn haben verdächtige Geräusche *gemeldet*.
+  Neighbors have *reported* suspicious noises.
 
   Le radar n'était pas *signalé* sur cette route.
-  Der Blitzer war auf dieser Straße nicht *gekennzeichnet*.
+  The speed camera was not *marked* on this road.
 
   Cette région se *signale* par sa cuisine locale.
-  Diese Region *zeichnet* sich durch ihre lokale Küche *aus*.
+  This region is characterized by its local cuisine.
 
   Les témoins ont *signalé* la voiture aux autorités.
-  Die Zeugen haben den Wagen bei den Behörden *gemeldet*.
+  The witnesses *reported* the car to the authorities.
 
   Le système *signale* automatiquement les erreurs.
-  Das System *zeigt* Fehler automatisch *an*.
+  The system automatically displays errors.
 
   Elle s'est *signalée* dans le domaine des arts.
-  Sie hat sich im Bereich der Kunst *hervorgetan*.
+  It has excelled in the field of art.
 
   Les flèches *signalent* la sortie de secours.
-  Die Pfeile *kennzeichnen* den Notausgang.
+  The arrows *mark* the emergency exit.
 
   Je dois vous *signaler* mon absence demain.
-  Ich muss Ihnen meine Abwesenheit morgen *mitteilen*.
+  I have to tell you my absence tomorrow.
 
   L'alarme *signale* un problème technique.
-  Der Alarm *zeigt* ein technisches Problem *an*.
+  The alarm indicates a technical problem.
 
   La lumière rouge *signale* un danger immédiat.
-  Das rote Licht *signalisiert* eine unmittelbare Gefahr.
+  The red light signals an immediate danger.
 
   Les experts ont *signalé* plusieurs irrégularités.
-  Die Experten haben mehrere Unregelmäßigkeiten *gemeldet*.
+  Experts have *reported* several irregularities.
 
   Le panneau *signale* la présence d'animaux sauvages.
-  Das Schild *weist* auf wilde Tiere *hin*.
+  The sign *points* to wild animals.
 
   Cette entreprise s'est *signalée* par son innovation.
-  Dieses Unternehmen hat sich durch seine Innovation *ausgezeichnet*.
+  This company has distinguished itself with its innovation.
 
   Les voyageurs doivent *signaler* leurs bagages perdus.
-  Die Reisenden müssen ihr verlorenes Gepäck *melden*.
+  Travelers must *report* their lost baggage.
 
   Le guide nous a *signalé* un beau point de vue.
-  Der Führer hat uns auf einen schönen Aussichtspunkt *hingewiesen*.
+  The guide pointed us to a beautiful viewpoint.
 
   L'application *signale* les embouteillages en temps réel.
-  Die App *meldet* Staus in Echtzeit.
+  The app reports traffic jams in real time.
 
   Cette découverte a été *signalée* dans plusieurs journaux.
-  Diese Entdeckung wurde in mehreren Zeitungen *gemeldet*.
+  This discovery has been *reported* in several newspapers.
 
   Le détecteur de fumée *signale* tout début d'incendie.
-  Der Rauchmelder *meldet* jeden beginnenden Brand.
+  The smoke detector reports every beginning fire.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

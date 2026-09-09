@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3385
 Wort: inattendu
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inattendu
 Femininum / Plural: inattendue
 IPA: \i.na.tɑ̃.dy\
-Definition: unerwartet
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: unexpected
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tout cela est bien *inattendu*.
-  Das alles ist sehr *unerwartet*.
+  This is all very *unexpected*.
 
   La vie nous réserve parfois des surprises *inattendues*.
-  Das Leben hält manchmal *unerwartete* Überraschungen für uns bereit.
+  Life sometimes has *unexpected* surprises for us.
 
   Un invité *inattendu* est arrivé pendant le dîner.
-  Ein *unerwarteter* Gast kam während des Abendessens.
+  An *unexpected* guest came during dinner.
 
   Cette réponse *inattendue* m'a laissé sans voix.
-  Diese *unvorhergesehene* Antwort hat mich sprachlos gemacht.
+  This unforeseen answer has made me speechless.
 
   Sa démission *inattendue* a choqué toute l'équipe.
-  Sein *unerwarteter* Rücktritt hat das ganze Team schockiert.
+  His *unexpected* resignation shocked the whole team.
 
   Marie nous a fait une visite *inattendue* ce matin.
-  Marie hat uns heute Morgen einen *unerwarteten* Besuch abgestattet.
+  Marie paid us an *unexpected* visit this morning.
 
   L'*inattendu* fait partie du charme de la vie.
-  Das *Unerwartete* gehört zum Charme des Lebens.
+  The *unexpected* is part of the charm of life.
 
   Cette tournure *inattendue* des événements a tout changé.
-  Diese *unerwartete* Wendung der Ereignisse hat alles verändert.
+  This *unexpected* turn of events has changed everything.
 
   Le jury est arrivé à un verdict *inattendu*.
-  Die Jury kam zu einem *unerwarteten* Urteil.
+  The jury came to an *unexpected* verdict.
 
   Cette découverte *inattendue* va révolutionner la science.
-  Diese *unerwartete* Entdeckung wird die Wissenschaft revolutionieren.
+  This *unexpected* discovery will revolutionize science.
 
   Son comportement *inattendu* nous a tous surpris.
-  Sein *unerwartetes* Verhalten hat uns alle überrascht.
+  His *unexpected* behavior surprised all of us.
 
   Cette rencontre *inattendue* a changé ma vie.
-  Diese *unerwartete* Begegnung hat mein Leben verändert.
+  This *unexpected* encounter has changed my life.
 
   Les résultats *inattendus* de l'expérience ont surpris les chercheurs.
-  Die *unerwarteten* Ergebnisse des Experiments haben die Forscher überrascht.
+  The researchers surprised the *unexpected* results of the experiment.
 
   Cette pluie *inattendue* a gâché notre pique-nique.
-  Dieser *unerwartete* Regen hat unser Picknick verdorben.
+  This *unexpected* rain has spoiled our picnic.
 
   C'est vraiment *inattendu* de sa part d'avoir refusé l'invitation.
-  Das hatte man von ihm wirklich *nicht erwartet*, dass er die Einladung ablehnt.
+  He was really *not expected* to refuse the invitation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

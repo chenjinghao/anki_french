@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1633
 Wort: pratiquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: pratiquement
 Femininum / Plural: ''
 IPA: \pʁa.tik.mɑ̃\
-Definition: praktisch, nahezu
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Practical, almost
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont continué de grimper de manière *pratiquement* ininterrompue.
-  Sie kletterten *praktisch* ununterbrochen weiter.
+  They kept climbing virtually continuously.
 
   *Pratiquement*, il nous faudra trois semaines pour finir ce projet.
-  *Praktisch gesehen* werden wir drei Wochen brauchen, um dieses Projekt abzuschließen.
+  Practically, it will take us three weeks to complete this project.
 
   "Cette voiture est *pratiquement* neuve !"
-  "Dieses Auto ist *so gut wie* neu!"
+  "This car is *as good as* new!"
 
   La ville est *pratiquement* déserte pendant les vacances d'été.
-  Die Stadt ist im Sommer *praktisch* leer.
+  The city is practically empty in summer.
 
   *Pratiquement*, comment allons-nous résoudre ce problème ?
-  Wie lösen wir dieses Problem *praktisch gesehen*?
+  How do we practically solve this problem?
 
   Le patient est *pratiquement* rétabli après son opération.
-  Der Patient ist nach seiner Operation *so gut wie* wiederhergestellt.
+  The patient is almost restored after his surgery.
 
   *Pratiquement*, je ne vois pas comment on peut y arriver.
-  *Praktisch gesehen* sehe ich keine Möglichkeit, wie wir das schaffen können.
+  In *practical* terms, I don't see any way we can do this.
 
   Les réserves d'eau sont *pratiquement* épuisées.
-  Die Wasservorräte sind *praktisch* erschöpft.
+  Water supplies are practically exhausted.
 
   Le nouveau système est *pratiquement* identique à l'ancien.
-  Das neue System ist *praktisch* identisch mit dem alten.
+  The new system is practically identical to the old one.
 
   *Pratiquement*, tous les étudiants ont réussi l'examen.
-  *Praktisch* alle Studenten haben die Prüfung bestanden.
+  Virtually all students passed the exam.
 
   Cette méthode est excellente théoriquement, mais *pratiquement* impossible à réaliser.
-  Diese Methode ist theoretisch hervorragend, aber *praktisch* nicht durchführbar.
+  This method is theoretically excellent, but practically impossible.
 
   Le dossier est *pratiquement* complet, il ne manque que ta signature.
-  Die Akte ist *so gut wie* vollständig, es fehlt nur noch deine Unterschrift.
+  The file is almost complete, all you have left is your signature.
 
   *Pratiquement*, nous devrons commencer par la cave.
-  *Praktisch gesehen* müssen wir im Keller anfangen.
+  In *practical* terms, we have to start in the basement.
 
   Les travaux sont *pratiquement* terminés.
-  Die Arbeiten sind *praktisch* abgeschlossen.
+  The work is practically complete.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

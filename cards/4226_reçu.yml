@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4226
 Wort: reçu
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le reçu
 Femininum / Plural: reçue
 IPA: \ʁə.sy\
-Definition: Quittung; üblich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Receipts; common
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il ne voulait pas me faire un *reçu*.
-  Er wollte mir keine *Quittung* ausstellen.
+  He didn't want to issue me a *receipt*.
 
   D'après le *reçu*, vous avez payé 50 euros.
-  Laut der *Quittung* haben Sie 50 Euro bezahlt.
+  According to the *receipt*, you paid 50 euros.
 
   Je dois signer un *reçu* pour confirmer la livraison du colis.
-  Ich muss eine *Quittung* unterschreiben, um die Lieferung des Pakets zu bestätigen.
+  I need to sign a *receipt* to confirm delivery of the package.
 
   Ma sœur a été *reçue* à l'école de médecine.
-  Meine Schwester wurde an der medizinischen Fakultät *angenommen*.
+  My sister was *accepted* into medical school.
 
   Pierre est *reçu* à son examen de mathématiques.
-  Pierre hat seine Mathematikprüfung *bestanden*.
+  Pierre *passed* his math exam.
 
   Sur cent candidats, seuls quinze ont été *reçus*.
-  Von hundert Bewerbern haben nur fünfzehn *bestanden*.
+  Out of a hundred applicants, only fifteen have *passed*.
 
   C'est une *idée reçue* que les Français mangent des escargots tous les jours.
-  Es ist ein *Vorurteil*, dass Franzosen jeden Tag Schnecken essen.
+  It's a *prejudice* that French people eat snails every day.
 
   Ces coutumes sont *reçues* depuis des siècles.
-  Diese Bräuche sind seit Jahrhunderten *üblich*.
+  These customs have been *common* for centuries.
 
   Les *reçus* à l'examen seront affichés demain matin.
-  Die *erfolgreichen Prüflinge* werden morgen früh ausgehangen.
+  The successful testers will be out tomorrow morning.
 
   Au *reçu* de votre lettre, j'ai immédiatement répondu.
-  Nach *Erhalt* Ihres Briefes habe ich sofort geantwortet.
+  After receiving your letter, I replied immediately.
 
   Gardez bien ce *reçu*, il vous servira de garantie.
-  Bewahren Sie diese *Quittung* gut auf, sie dient Ihnen als Garantie.
+  Keep this *receipt* well, it serves as a guarantee.
 
   N'oubliez pas de demander un *reçu* pour vos impôts.
-  Vergessen Sie nicht, eine *Quittung* für Ihre Steuern zu verlangen.
+  Don't forget to request a *receipt* for your taxes.
 
   Elle a été *reçue* première de sa promotion.
-  Sie wurde als Beste ihres Jahrgangs *aufgenommen*.
+  She was accepted as the best of her vintage.
 
   Les pratiques *reçues* dans l'entreprise doivent être respectées.
-  Die *herkömmlichen* Praktiken im Unternehmen müssen respektiert werden.
+  *Traditional* practices in the company must be respected.
 
   Tous les *reçus* du concours ont reçu une lettre de félicitations.
-  Alle *erfolgreichen Teilnehmer* des Wettbewerbs haben einen Gratulationsbrief erhalten.
+  All *successful participants* of the competition have received a letter of congratulations.
 
   Je vous enverrai le *reçu* par courrier électronique.
-  Ich schicke Ihnen die *Quittung* per E-Mail.
+  I'll send you the *receipt* by e-mail.
 
   Marie a été *reçue* au conservatoire de musique.
-  Marie wurde am Musikkonservatorium *angenommen*.
+  Marie was *accepted* at the Music Conservatory.
 
   Les opinions *reçues* ne sont pas toujours fondées.
-  *Herkömmliche* Meinungen sind nicht immer begründet.
+  *Conventional* opinions are not always justified.
 
   Le directeur remet les diplômes aux *reçus*.
-  Der Direktor überreicht den *erfolgreichen Absolventen* die Diplome.
+  The director presents the diplomas to the *successful graduates*.
 
   Veuillez me faire parvenir un *reçu* pour mes archives.
-  Bitte lassen Sie mir eine *Quittung* für meine Unterlagen zukommen.
+  Please send me a *receipt* for my papers.
 
   J'ai besoin d'un *reçu* pour me faire rembourser.
-  Ich brauche eine *Quittung* für die Rückerstattung.
+  I need a *receipt* for the refund.
 
   Le nombre de *reçus* cette année est plus élevé que d'habitude.
-  Die Anzahl der *erfolgreichen Kandidaten* ist dieses Jahr höher als gewöhnlich.
+  The number of *successful candidates* this year is higher than usual.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

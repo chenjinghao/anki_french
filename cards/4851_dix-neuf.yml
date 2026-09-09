@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4851
 Wort: dix-neuf
 Wortart: num, nmi, nf, adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dix-neuf
 Femininum / Plural: ''
 IPA: \dis.nœf\
-Definition: neunzehn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Nineteen
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis entré chez les jésuites à *dix-neuf* ans.
-  Ich bin mit *neunzehn* Jahren bei den Jesuiten eingetreten.
+  I joined the Jesuits at the age of *nineteen*.
 
   Il aura *dix-neuf* ans le mois prochain.
-  Er wird nächsten Monat *neunzehn* Jahre alt.
+  He'll be *nineteen* years old next month.
 
   Marie a obtenu *dix-neuf* sur vingt en mathématiques.
-  Marie hat in Mathematik eine *Eins* bekommen.
+  Marie got a *one* in mathematics.
 
   Le bus numéro *dix-neuf* passe toutes les dix minutes.
-  Die Linie *neunzehn* fährt alle zehn Minuten.
+  Line *nineteen* runs every ten minutes.
 
   La température va monter jusqu'à *dix-neuf* degrés aujourd'hui.
-  Die Temperatur wird heute auf *neunzehn* Grad steigen.
+  The temperature will rise to *nineteen* degrees today.
 
   Elle habite au *dix-neuf* rue des Roses.
-  Sie wohnt in der Rosenstraße Nummer *neunzehn*.
+  She lives in Rosenstrasse number *nineteen*.
 
   Nous sommes le *dix-neuf* décembre.
-  Wir haben den *neunzehnten* Dezember.
+  We have the *nineteenth* of December.
 
   Il est *dix-neuf* heures, le dîner est prêt.
-  Es ist *neunzehn* Uhr, das Abendessen ist fertig.
+  It's *nineteen* o'clock, dinner's ready.
 
   Le chapitre *dix-neuf* traite de la Révolution française.
-  Kapitel *neunzehn* behandelt die Französische Revolution.
+  Chapter *nineteen* deals with the French Revolution.
 
   *Dix-neuf* divisé par un égale *dix-neuf*.
-  *Neunzehn* geteilt durch eins ergibt *neunzehn*.
+  *Nineteen* divided by one equals nineteen.
 
   Cette personne de *dix-neuf* ans est très mature pour son âge.
-  Diese *neunzehn*jährige Person ist sehr reif für ihr Alter.
+  This *nineteen*-year-old person is very mature for her age.
 
   Elle a terminé *dix-neuf* sur cent-vingt participants.
-  Sie wurde *Neunzehnte* von hundertzwanzig Teilnehmern.
+  It became *nineteenth* of one hundred and twenty participants.
 
   Le joueur numéro *dix-neuf* a marqué le but décisif.
-  Spieler Nummer *neunzehn* hat das entscheidende Tor geschossen.
+  Player number *nineteen* has scored the decisive goal.
 
   *Dix-neuf* est un nombre premier.
-  *Neunzehn* ist eine Primzahl.
+  *Nineteen* is a prime number.
 
   Rendez-vous chambre *dix-neuf* pour la réunion.
-  Das Treffen findet in Zimmer *neunzehn* statt.
+  The meeting takes place in room *nineteen*.
 
   Le point *dix-neuf* de l'ordre du jour concerne le budget.
-  Punkt *neunzehn* der Tagesordnung betrifft das Budget.
+  Item *nineteen* of the agenda concerns the budget.
 
   Cette série a duré *dix-neuf* ans.
-  Diese Serie lief *neunzehn* Jahre lang.
+  This series ran for *nineteen* years.
 
   *Dix-neuf* s'écrit XIX en chiffres romains.
-  *Neunzehn* schreibt man in römischen Ziffern XIX.
+  *Nineteen* are written in Roman numerals XIX.
 
   Le train part à *dix-neuf* heures trente.
-  Der Zug fährt um *neunzehn* Uhr dreißig.
+  The train leaves at *nineteen* thirty.
 
   Ils se sont mariés en *dix-neuf* cent quatre-vingt-dix.
-  Sie haben *neunzehn*hundertneunzig geheiratet.
+  You married *nineteen* hundred ninety.
 
   Tournez à la page *dix-neuf* de votre manuel.
-  Schlagen Sie Seite *neunzehn* in Ihrem Lehrbuch auf.
+  Open page *nineteen* in your textbook.
 
   La classe *dix-neuf* est au bout du couloir.
-  Klassenraum *neunzehn* liegt am Ende des Flurs.
+  Classroom *nineteen* is at the end of the hall.
 
   Le *dix-neuf* mars sera le premier jour du printemps.
-  Der *neunzehnte* März wird der erste Frühlingstag sein.
+  The *nineteenth* of March will be the first spring day.
 
   Les appartements *dix-neuf* et vingt sont encore disponibles.
-  Die Wohnungen *neunzehn* und zwanzig sind noch verfügbar.
+  The apartments *nineteen* and twenty are still available.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

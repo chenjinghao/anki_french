@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3183
 Wort: permission
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la permission
 Femininum / Plural: ''
 IPA: \pɛʁ.mi.sjɔ̃\
-Definition: Erlaubnis
-Register: ↘Sachtext ↗Mündlich
+Definition: Permission
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Avec votre *permission*, je me retire.
-  Mit Ihrer *Erlaubnis* ziehe ich mich zurück.
+  With your *permission*, I'm withdrawing.
 
   Il est parti sans *permission* et risque d'être puni.
-  Er ist ohne *Erlaubnis* gegangen und riskiert eine Strafe.
+  He left without *permission* and risked punishment.
 
   "Est-ce que j'ai la *permission* de minuit ce soir, maman ?"
-  "Habe ich heute Abend *Erlaubnis* bis Mitternacht, Mama?"
+  "Do I have *permission* by midnight tonight, Mom?"
 
   Le soldat est en *permission* pour deux semaines.
-  Der Soldat ist für zwei Wochen auf *Urlaub*.
+  The soldier is on vacation for two weeks.
 
   J'ai demandé la *permission* de voyager à l'étranger.
-  Ich habe um die Reise*erlaubnis* ins Ausland gebeten.
+  I asked for a travel *permit* abroad.
 
   Les parents ont donné leur *permission* pour la sortie scolaire.
-  Die Eltern haben ihre *Erlaubnis* für den Schulausflug gegeben.
+  The parents gave their *permission* for the school trip.
 
   Marie a sollicité une *permission* exceptionnelle pour le mariage de sa sœur.
-  Marie hat eine Sonder*erlaubnis* für die Hochzeit ihrer Schwester beantragt.
+  Marie has requested a special *permit* for her sister's wedding.
 
   "Tu as vraiment abusé de la *permission* cette fois-ci !"
-  "Diesmal hast du deine *Erlaubnis* wirklich missbraucht!"
+  "This time you really abused your *permission*!"
 
   Le directeur m'a accordé une *permission* écrite.
-  Der Direktor hat mir eine schriftliche *Erlaubnis* erteilt.
+  The director gave me a written *permission*.
 
   Le patient a obtenu une *permission* de sortie pour le week-end.
-  Der Patient hat eine Ausgangs*erlaubnis* für das Wochenende bekommen.
+  The patient has been granted a leave of absence for the weekend.
 
   Les soldats reviennent de *permission* demain matin.
-  Die Soldaten kommen morgen früh vom *Urlaub* zurück.
+  The soldiers will be back from vacation in the morning.
 
   Qui t'a donné la *permission* d'utiliser mon ordinateur ?
-  Wer hat dir die *Erlaubnis* gegeben, meinen Computer zu benutzen?
+  Who gave you *permission* to use my computer?
 
   Par la *permission* de Dieu, nous avons survécu à l'accident.
-  Durch Gottes *Fügung* haben wir den Unfall überlebt.
+  By God's command, we survived the accident.
 
   Thomas doit présenter sa *permission* au contrôle militaire.
-  Thomas muss seinen *Urlaubs*schein bei der Militärkontrolle vorzeigen.
+  Thomas has to show off his leave at military control.
 
   Je dois vous dire, avec votre *permission*, que ce n'est pas une bonne idée.
-  Ich muss Ihnen, mit Ihrer *Erlaubnis*, sagen, dass das keine gute Idee ist.
+  I have to tell you, with your *permission*, that this is not a good idea.
 
   Une *permission* de travail est nécessaire pour les étrangers.
-  Eine Arbeits*erlaubnis* ist für Ausländer erforderlich.
+  A work *permit* is required for foreigners.
 
   Le prisonnier a reçu une *permission* de trois jours.
-  Der Gefangene hat eine drei-tägige Ausgangs*erlaubnis* erhalten.
+  The prisoner has been granted a three-day exit *permit*.
 
   Il faut toujours demander la *permission* avant d'entrer dans son bureau.
-  Man muss immer um *Erlaubnis* bitten, bevor man sein Büro betritt.
+  You always have to ask for *permission* before you enter your office.
 
   Après avoir obtenu la *permission* des autorités, nous avons commencé les travaux.
-  Nachdem wir die *Genehmigung* der Behörden erhalten hatten, haben wir mit den Arbeiten begonnen.
+  After we received the *approval* of the authorities, we started work.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>autorisation</i> und <i>permission</i></div>
+    <div class="section-title"><i>autorisation</i> and <i>permission</i></div>
     <div class="section-content">
-      <p><span class="fr">Autorisation</span> (#1649) bedeutet <span class="de">"Genehmigung"</span> oder <span class="de">"Erlaubnis"</span> und wird hauptsächlich in formellen oder offiziellen Kontexten verwendet. Es bezieht sich oft auf eine behördliche oder administrative Genehmigung.</p>
+      <p><span class="fr">Autorisation</span> (#1649) means <span class="de">"Genehmigung"</span> or <span class="de">"Erlaubnis"</span> and is mainly used in formal or official contexts. It often refers to official or administrative approval.</p>
       <div class="examples">
         <div class="fr">Il a besoin d'une autorisation de construire.</div>
-        <div class="de spoiler">Er braucht eine Baugenehmigung.</div>
+        <div class="de spoiler">He needs a building permit.</div>
         <div class="fr">L'autorisation de séjour a été accordée.</div>
-        <div class="de spoiler">Die Aufenthaltsgenehmigung wurde erteilt.</div>
+        <div class="de spoiler">The residence permit was granted.</div>
       </div>
-      <p><span class="fr">Permission</span> bedeutet ebenfalls <span class="de">"Erlaubnis"</span>, wird aber eher in informellen oder persönlichen Kontexten verwendet. Es impliziert oft eine mündliche Zustimmung oder eine weniger formelle Form der Erlaubnis.</p>
+      <p><span class="fr">Permission</span> means ebenfalls <span class="de">"Erlaubnis"</span>However, it is more commonly used in informal or personal contexts. It often implies an oral consent or a less formal form of permission.</p>
       <div class="examples">
         <div class="fr">Les enfants ont demandé la permission de sortir jouer.</div>
-        <div class="de spoiler">Die Kinder haben um Erlaubnis gebeten, draußen spielen zu gehen.</div>
+        <div class="de spoiler">The kids asked permission to go out and play.</div>
         <div class="fr">Il a obtenu la permission de ses parents pour aller à la fête.</div>
-        <div class="de spoiler">Er hat die Erlaubnis seiner Eltern bekommen, zur Party zu gehen.</div>
+        <div class="de spoiler">He got his parents' permission to go to the party.</div>
       </div>
     </div>
   </div>

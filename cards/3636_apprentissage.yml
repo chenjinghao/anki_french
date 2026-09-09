@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3636
 Wort: apprentissage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un apprentissage
 Femininum / Plural: ''
 IPA: \a.pʁɑ̃.ti.saʒ\
-Definition: Ausbildung, Erlernen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Training, learning
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Chaque poste possède un plan d'*apprentissage*.
-  Jede Position hat einen *Ausbildungs*plan.
+  Each position has a *training* plan.
 
   Mon fils commence son *apprentissage* de boulanger la semaine prochaine.
-  Mein Sohn beginnt nächste Woche seine *Lehre* als Bäcker.
+  My son starts his *teaching* as a baker next week.
 
   L'*apprentissage* de la lecture nécessite beaucoup de patience.
-  Das *Erlernen* des Lesens erfordert viel Geduld.
+  *Learning* to read requires a lot of patience.
 
   Elle a terminé son *apprentissage* avec les meilleures notes de sa promotion.
-  Sie hat ihre *Ausbildung* mit den besten Noten ihres Jahrgangs abgeschlossen.
+  She completed her education with the best grades of her year.
 
   Le centre d'*apprentissage* propose plus de vingt formations différentes.
-  Das *Ausbildungs*zentrum bietet mehr als zwanzig verschiedene Ausbildungsgänge an.
+  The *training* centre offers more than twenty different training courses.
 
   L'*apprentissage* automatique révolutionne l'intelligence artificielle.
-  Maschinelles *Lernen* revolutioniert die künstliche Intelligenz.
+  Machine *learning* revolutionizes artificial intelligence.
 
   Pierre est en *apprentissage* chez un menuisier depuis deux ans.
-  Pierre macht seit zwei Jahren eine *Lehre* bei einem Tischler.
+  Pierre has been *teaching* a carpenter for two years.
 
   Les premières semaines d'*apprentissage* sont souvent les plus difficiles.
-  Die ersten Wochen der *Ausbildung* sind oft die schwierigsten.
+  The first weeks of *training* are often the most difficult.
 
   Son *apprentissage* de la langue française progresse rapidement.
-  Ihr *Erlernen* der französischen Sprache macht schnelle Fortschritte.
+  Your *learning* of the French language is making rapid progress.
 
   Le contrat d'*apprentissage* dure généralement trois ans.
-  Der *Ausbildungs*vertrag läuft in der Regel drei Jahre.
+  The *training* contract usually runs for three years.
 
   L'*apprentissage* du piano demande une pratique quotidienne.
-  Das *Erlernen* des Klavierspiels erfordert tägliches Üben.
+  *Learning* to play the piano requires daily practice.
 
   Marie entrera en *apprentissage* chez un fleuriste en septembre.
-  Marie wird im September ihre *Lehre* bei einem Floristen beginnen.
+  Marie will start her apprenticeship at a florist in September.
 
   Les courbes d'*apprentissage* montrent une amélioration constante.
-  Die *Lern*kurven zeigen eine stetige Verbesserung.
+  The *learning* curves show a steady improvement.
 
   L'*apprentissage* de la tolérance commence dès l'enfance.
-  Das *Erlernen* von Toleranz beginnt bereits in der Kindheit.
+  The *learning* of tolerance begins already in childhood.
 
   Pendant son *apprentissage*, il reçoit un salaire mensuel.
-  Während seiner *Ausbildung* erhält er ein monatliches Gehalt.
+  During his *training*, he receives a monthly salary.
 
   L'*apprentissage* sur le lieu de travail est très efficace.
-  Die *Ausbildung* am Arbeitsplatz ist sehr effektiv.
+  *Training* in the workplace is very effective.
 
   Cette entreprise propose plusieurs places d'*apprentissage*.
-  Dieses Unternehmen bietet mehrere *Ausbildungs*plätze an.
+  This company offers several *training* places.
 
   L'*apprentissage* de la natation commence par la confiance dans l'eau.
-  Das *Erlernen* des Schwimmens beginnt mit dem Vertrauen ins Wasser.
+  *Learning* to swim begins with trust in the water.
 
   Son roman décrit les années d'*apprentissage* d'un jeune artiste.
-  Sein Roman beschreibt die *Lehr*jahre eines jungen Künstlers.
+  His novel describes the *teaching* years of a young artist.
 
   L'*apprentissage* de la conduite lui a pris six mois.
-  Das *Erlernen* des Autofahrens hat bei ihr sechs Monate gedauert.
+  It took her six months to learn how to drive.
 
   Les méthodes d'*apprentissage* ont beaucoup évolué ces dernières années.
-  Die *Lern*methoden haben sich in den letzten Jahren stark weiterentwickelt.
+  The *learning* methods have developed considerably in recent years.
 
   Il sort d'*apprentissage* et cherche son premier emploi.
-  Er hat seine *Lehre* abgeschlossen und sucht seine erste Stelle.
+  He has completed his *teaching* and seeks his first place.
 
   L'*apprentissage* des langues étrangères est devenu indispensable.
-  Das *Erlernen* von Fremdsprachen ist unerlässlich geworden.
+  *Learning* foreign languages has become essential.
 
   Ce logiciel utilise des techniques d'*apprentissage* avancées.
-  Diese Software verwendet fortgeschrittene *Lern*techniken.
+  This software uses advanced *learning* techniques.
 
   Le système d'*apprentissage* dual combine théorie et pratique.
-  Das duale *Ausbildungs*system verbindet Theorie und Praxis.
+  The dual *training* system combines theory and practice.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

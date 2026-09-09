@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3465
 Wort: mutation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la mutation
 Femininum / Plural: ''
 IPA: \my.ta.sjɔ̃\
-Definition: Umbruch, Mutation
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Change, mutation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il peut identifier une *mutation* chez les patients affectés.
-  Er kann eine *Mutation* bei den betroffenen Patienten identifizieren.
+  He can identify a *mutation* in the affected patients.
 
   Une *mutation* génétique rare a été découverte dans cette famille.
-  Eine seltene Gen*mutation* wurde in dieser Familie entdeckt.
+  A rare gene *mutation* was discovered in this family.
 
   Le taux de *mutation* naturel est plus élevé que prévu.
-  Die natürliche *Mutations*rate ist höher als erwartet.
+  The natural mutation rate is higher than expected.
 
   La *mutation* chromosomique peut causer des maladies graves.
-  Die Chromosomen*mutation* kann schwere Krankheiten verursachen.
+  Chromosome *mutation* can cause serious diseases.
 
   Notre société est en pleine *mutation*.
-  Unsere Gesellschaft befindet sich im *Umbruch*.
+  Our society is in a state of upheaval.
 
   L'économie mondiale connaît une profonde *mutation*.
-  Die Weltökonomie durchläuft einen tiefgreifenden *Umbruch*.
+  The world economy is undergoing a profound upheaval.
 
   Marie a demandé une *mutation* dans le sud de la France.
-  Marie hat eine *Versetzung* in den Süden Frankreichs beantragt.
+  Marie has requested a *transfer* to the south of France.
 
   Sa *mutation* interne a été acceptée hier.
-  Seine interne *Versetzung* wurde gestern genehmigt.
+  His internal *transfer* was approved yesterday.
 
   Les scientifiques ont provoqué une *mutation* dans les cellules.
-  Die Wissenschaftler haben eine *Mutation* in den Zellen ausgelöst.
+  The scientists have triggered a *mutation* in the cells.
 
   Cette *mutation* dominante affecte toute la population.
-  Diese dominante *Mutation* betrifft die gesamte Population.
+  This dominant *mutation* affects the entire population.
 
   Une *mutation* d'office a été prononcée contre le fonctionnaire.
-  Eine Zwangs*versetzung* wurde gegen den Beamten ausgesprochen.
+  A forced *transfer* was pronounced against the official.
 
   L'industrie automobile traverse une période de *mutation*.
-  Die Autoindustrie durchlebt eine Zeit des *Umbruchs*.
+  The car industry is experiencing a period of upheaval.
 
   Les *mutations* spontanées sont rares dans la nature.
-  Spontan*mutationen* sind in der Natur selten.
+  Spontaneous *mutations* are rare in nature.
 
   Le service des ressources humaines gère toutes les *mutations*.
-  Die Personalabteilung verwaltet alle *Versetzungen*.
+  The Human Resources Department manages all *transfers*.
 
   Les droits de *mutation* doivent être payés avant la vente.
-  Die *Übertragungs*gebühren müssen vor dem Verkauf bezahlt werden.
+  *Transfer* fees must be paid before sale.
 
   Cette *mutation* récessive n'apparaît que chez certains individus.
-  Diese rezessive *Mutation* tritt nur bei bestimmten Individuen auf.
+  This recessive *mutation* occurs only in certain individuals.
 
   L'entreprise a connu plusieurs *mutations* technologiques.
-  Das Unternehmen hat mehrere technologische *Umbrüche* erlebt.
+  The company has experienced several technological *changes*.
 
   La *mutation* de propriété sera effective demain.
-  Die Eigentums*übertragung* wird morgen wirksam.
+  The *transfer* of ownership will take effect tomorrow.
 
   Les *mutations* dans ce département sont fréquentes.
-  *Versetzungen* in dieser Abteilung sind häufig.
+  *Transfers* in this department are frequent.
 
   Cette *mutation* cellulaire pourrait être la cause du cancer.
-  Diese Zell*mutation* könnte die Ursache für den Krebs sein.
+  This cell *mutation* could be the cause of cancer.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

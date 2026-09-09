@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1197
 Wort: précisément
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: précisément
 Femininum / Plural: ''
 IPA: \pʁe.si.ze.mɑ̃\
-Definition: genau, präzise
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: accurate, precise
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Pouvez-vous nous parler plus *précisément* des personnes que vous suivez ?
-  Können Sie uns *genauer* von den Personen erzählen, die Sie betreuen?
+  Can you tell us more about the people you look after?
 
   Je venais *précisément* de sortir quand mon téléphone a sonné.
-  Ich war *gerade* aus dem Haus gegangen, als mein Telefon klingelte.
+  I had just left the house when my phone rang.
 
   C'est *précisément* ce dont j'avais besoin pour finir mon travail.
-  Das ist *genau* das, was ich brauchte, um meine Arbeit zu beenden.
+  That's *exactly* what I needed to finish my work.
 
   Il faut définir plus *précisément* les objectifs du projet.
-  Die Projektziele müssen *präziser* definiert werden.
+  The objectives of the project must be defined more precisely.
 
   – "Tu cherches Pierre ?"<br>– "*Précisément* !"
-  – "Suchst du Pierre?"<br>– "*Genau*!"
+  – "Do you want to see Pierre?"– "*Exactly*!"
 
   La réunion commence *précisément* à 9 heures du matin.
-  Die Sitzung beginnt *genau* um 9 Uhr morgens.
+  The meeting starts at *exactly* 9 a.m.
 
   Il est arrivé *précisément* au moment où nous parlions de lui.
-  Er kam *genau* in dem Moment an, als wir über ihn sprachen.
+  He arrived right the moment we talked about him.
 
   C'est *précisément* pour cette raison que j'ai refusé leur offre.
-  *Genau* aus diesem Grund habe ich ihr Angebot abgelehnt.
+  That's *exactly* why I rejected her offer.
 
   Le témoin a décrit *précisément* ce qu'il avait vu ce soir-là.
-  Der Zeuge hat *präzise* beschrieben, was er an jenem Abend gesehen hatte.
+  The witness described exactly what he had seen that night.
 
   C'est une maladie neurologique, ou *plus précisément* un trouble du sommeil.
-  Es ist eine neurologische Erkrankung, oder *genauer gesagt* eine Schlafstörung.
+  It's a neurological disease, or more precisely, sleep disorder.
 
   Sa vie n'est pas *précisément* passionnante.
-  Ihr Leben ist nicht *gerade* spannend.
+  Your life isn't exactly exciting.
 
   Voici *précisément* l'endroit où nous nous sommes rencontrés.
-  Dies ist *genau* der Ort, an dem wir uns kennengelernt haben.
+  This is *exactly* the place where we met.
 
   Elle a répondu *précisément* à toutes les questions du test.
-  Sie hat *präzise* auf alle Testfragen geantwortet.
+  She answered all the test questions precisely.
 
   C'est *précisément* toi que je voulais voir aujourd'hui.
-  *Genau* dich wollte ich heute sehen.
+  I just wanted to see you today.
 
   Il faut noter *précisément* l'heure de chaque événement.
-  Die Uhrzeit jedes Ereignisses muss *genau* notiert werden.
+  The time of each event must be recorded accurately.
 
   Je peux vous dire *précisément* combien cela va coûter.
-  Ich kann Ihnen *genau* sagen, wie viel das kosten wird.
+  I can tell you *exactly* how much it will cost.
 
   *Précisément* à midi, les cloches ont sonné.
-  *Punkt* zwölf Uhr läuteten die Glocken.
+  Twelve o'clock clocks rang.
 
   C'est là *précisément* que réside le problème.
-  *Genau* da liegt das Problem.
+  That's where the problem lies.
 
   Il m'a expliqué *précisément* comment réparer la machine.
-  Er hat mir *genau* erklärt, wie man die Maschine repariert.
+  He told me *exactly* how to fix the machine.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

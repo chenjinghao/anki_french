@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1995
 Wort: diffuser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: diffuser
 Femininum / Plural: ''
 IPA: \di.fy.ze\
-Definition: verbreiten, ausstrahlen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: spread, radiate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nos stations *diffusent* une émission quotidienne.
-  Unsere Sender *übertragen* eine tägliche Sendung.
+  Our stations broadcast a daily broadcast.
 
   La chaleur du feu se *diffusait* lentement dans la pièce.
-  Die Wärme des Feuers *verbreitete* sich langsam im Raum.
+  The heat of the fire slowly spread in the room.
 
   Cette radio locale *diffuse* les dernières nouvelles toutes les heures.
-  Dieser lokale Sender *sendet* stündlich die neuesten Nachrichten.
+  This local station *sends* the latest news every hour.
 
   Une douce lumière se *diffusait* à travers les rideaux.
-  Ein sanftes Licht *verbreitete* sich durch die Vorhänge.
+  A gentle light spread through the curtains.
 
   Les manifestants ont *diffusé* des tracts dans toute la ville.
-  Die Demonstranten haben Flugblätter in der ganzen Stadt *verteilt*.
+  The demonstrators have *distributed* leaflets all over the city.
 
   Cette maison d'édition *diffuse* des livres dans toute l'Europe.
-  Dieser Verlag *vertreibt* Bücher in ganz Europa.
+  This publishing house distributes books throughout Europe.
 
   Le concert sera *diffusé* en direct ce soir.
-  Das Konzert wird heute Abend live *übertragen*.
+  The concert will be broadcast live tonight.
 
   L'odeur du café frais se *diffusait* dans toute la maison.
-  Der Duft des frischen Kaffees *verbreitete* sich im ganzen Haus.
+  The scent of fresh coffee spread throughout the house.
 
   Les réseaux sociaux ont *diffusé* rapidement cette information.
-  Die sozialen Medien haben diese Information schnell *verbreitet*.
+  Social media have spread this information quickly.
 
   La lampe *diffusait* une lumière tamisée dans le salon.
-  Die Lampe *verbreitete* gedämpftes Licht im Wohnzimmer.
+  The lamp spread muted light in the living room.
 
   Le journal est *diffusé* à plus de 100.000 exemplaires.
-  Die Zeitung wird in mehr als 100.000 Exemplaren *vertrieben*.
+  The newspaper is *distributed* in more than 100,000 copies.
 
   Cette chaîne de télévision *diffuse* des films 24 heures sur 24.
-  Dieser Fernsehsender *sendet* rund um die Uhr Filme.
+  This TV station broadcasts movies around the clock.
 
   Les rumeurs se sont *diffusées* très rapidement dans l'école.
-  Die Gerüchte haben sich in der Schule sehr schnell *verbreitet*.
+  The rumors spread very quickly at school.
 
   Le radiateur *diffusait* une chaleur agréable dans la chambre.
-  Die Heizung *verbreitete* eine angenehme Wärme im Zimmer.
+  The heating spread a pleasant warmth in the room.
 
   Ils vont *diffuser* leur podcast sur toutes les plateformes.
-  Sie werden ihren Podcast auf allen Plattformen *verbreiten*.
+  They will *spread* their podcast on all platforms.
 
   Le parfum s'est *diffusé* doucement dans l'air.
-  Der Duft hat sich sanft in der Luft *verbreitet*.
+  The scent has spread gently in the air.
 
   L'entreprise *diffuse* régulièrement des newsletters à ses clients.
-  Das Unternehmen *verteilt* regelmäßig Newsletter an seine Kunden.
+  The company regularly distributes newsletters to its customers.
 
   La musique se *diffusait* à travers les haut-parleurs.
-  Die Musik *verbreitete* sich durch die Lautsprecher.
+  The music spread through the speakers.
 
   L'interview sera *diffusée* demain matin à la radio.
-  Das Interview wird morgen früh im Radio *gesendet*.
+  The interview will be broadcast on the radio in the morning.
 
   Ces idées se sont rapidement *diffusées* dans la société.
-  Diese Ideen haben sich schnell in der Gesellschaft *verbreitet*.
+  These ideas have spread rapidly in society.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

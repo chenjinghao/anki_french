@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4521
 Wort: fraction
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la fraction
 Femininum / Plural: ''
 IPA: \fʁak.sjɔ̃\
-Definition: Bruch, Teil
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Break, part
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu fais une *fraction* de ce que tu suis.
-  Du machst nur einen *Teil* von dem, was du solltest.
+  You're just doing a *part* of what you should.
 
   Hier est-ce que j'ai appris à simplifier les *fractions* en classe.
-  Gestern habe ich gelernt, wie man *Brüche* kürzt.
+  Yesterday I learned how to shorten breaks.
 
   J'ai hésité une *fraction* de seconde avant de répondre.
-  Ich zögerte einen *Bruchteil* einer Sekunde, bevor ich antwortete.
+  I hesitated a *fraction* of a second before answering.
 
   Les élèves ont réduit les *fractions* au même dénominateur.
-  Die Schüler haben die *Brüche* auf den gleichen Nenner gebracht.
+  The students have the same denominator.
 
   Une *fraction* importante des étudiants a participé au vote.
-  Ein großer *Teil* der Studenten hat an der Abstimmung teilgenommen.
+  A large *part* of the students took part in the vote.
 
   La *fraction* du pain est un moment important dans la messe.
-  Das *Brechen* des Brotes ist ein wichtiger Moment in der Messe.
+  The breaking of bread is an important moment in the Mass.
 
   Cette *fraction* de la population refuse de participer au sondage.
-  Dieser *Teil* der Bevölkerung weigert sich, an der Umfrage teilzunehmen.
+  This *part* of the population refuses to participate in the survey.
 
   Le prêtre procède à la *fraction* du pain pendant l'Eucharistie.
-  Der Priester vollzieht das Brot*brechen* während der Eucharistie.
+  The priest makes the breaking of bread during the Eucharist.
 
   Une petite *fraction* des membres s'est abstenue lors du vote.
-  Ein kleiner *Teil* der Mitglieder hat sich bei der Abstimmung enthalten.
+  A small *part* of the Members abstained from the vote.
 
   Dans cette équation, il faut additionner deux *fractions*.
-  In dieser Gleichung müssen zwei *Brüche* addiert werden.
+  In this equation, two breaks have to be added.
 
   La *fraction* rebelle du parti a quitté la séance.
-  Der rebellische *Teil* der Partei hat die Sitzung verlassen.
+  The rebellious *part* of the party has left the meeting.
 
   Les disciples ont reconnu Jésus à la *fraction* du pain.
-  Die Jünger erkannten Jesus am *Brechen* des Brotes.
+  The disciples recognized Jesus by breaking the bread.
 
   Une *fraction* des actions a été vendue ce matin.
-  Ein *Teil* der Aktien wurde heute Morgen verkauft.
+  Some of the shares were sold this morning.
 
   La *fraction* dissidente a créé son propre mouvement.
-  Die abtrünnige *Fraktion* hat ihre eigene Bewegung gegründet.
+  The apostate faction has founded its own movement.
 
   Nous devons convertir cette *fraction* en nombre décimal.
-  Wir müssen diesen *Bruch* in eine Dezimalzahl umwandeln.
+  We have to convert this fraction into a decimal number.
 
   Une *fraction* significative des votes est allée à l'opposition.
-  Ein bedeutender *Teil* der Stimmen ging an die Opposition.
+  A significant *part* of the vote went to the opposition.
 
   Elle a compris la solution en une *fraction* de seconde.
-  Sie hat die Lösung in einem *Bruchteil* einer Sekunde verstanden.
+  She understood the solution in a *fraction* of a second.
 
   Les enfants apprennent à multiplier les *fractions* en CM1.
-  Die Kinder lernen in der vierten Klasse, *Brüche* zu multiplizieren.
+  In the fourth grade, children learn to multiply *fractures*.
 
   Cette *fraction* parlementaire bloque toutes les réformes.
-  Diese *Fraktion* im Parlament blockiert alle Reformen.
+  This *group* in Parliament is blocking all reforms.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

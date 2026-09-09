@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4525
 Wort: improbable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: improbable
 Femininum / Plural: ''
 IPA: \ɛ̃.pʁɔ.babl\
-Definition: unwahrscheinlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Unlikely
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'unanimité était assez *improbable*.
-  Die Einstimmigkeit war ziemlich *unwahrscheinlich*.
+  The unanimity was quite *unlikely*.
 
   Cette rencontre *improbable* a changé ma vie.
-  Diese *unwahrscheinliche* Begegnung hat mein Leben verändert.
+  This *unlikely* encounter has changed my life.
 
   Il portait une tenue *improbable* : un smoking avec des baskets.
-  Er trug eine *seltsame* Kombination: einen Smoking mit Turnschuhen.
+  He wore a *strange* combination: a tuxedo with sneakers.
 
   La victoire de notre équipe devient de plus en plus *improbable*.
-  Der Sieg unserer Mannschaft wird immer *unwahrscheinlicher*.
+  The victory of our team is becoming more and more unlikely.
 
   Cette version des événements me semble hautement *improbable*.
-  Diese Version der Ereignisse erscheint mir höchst *unwahrscheinlich*.
+  This version of the events seems highly *unlikely* to me.
 
   Un scénario aussi *improbable* ne peut pas être vrai.
-  Ein so *unwahrscheinliches* Szenario kann nicht wahr sein.
+  Such an *unlikely* scenario can't be true.
 
   Le retour du soleil est *improbable* aujourd'hui.
-  Die Rückkehr der Sonne ist heute *unwahrscheinlich*.
+  The return of the sun is *unlikely* today.
 
   La réussite de ce projet paraît *improbable* sans financement.
-  Der Erfolg dieses Projekts erscheint ohne Finanzierung *unwahrscheinlich*.
+  The success of this project seems *unlikely* without funding.
 
   Une série de coïncidences *improbables* l'a mené jusqu'ici.
-  Eine Reihe *unwahrscheinlicher* Zufälle hat ihn hierher geführt.
+  A number of unlikely coincidences have led him here.
 
   Le mélange de ces ingrédients donne un goût *improbable*.
-  Die Mischung dieser Zutaten ergibt einen *merkwürdigen* Geschmack.
+  The mixture of these ingredients gives a *strange* taste.
 
   Il est *improbable* qu'elle arrive à l'heure.
-  Es ist *unwahrscheinlich*, dass sie pünktlich kommt.
+  It's *unlikely* she'll be on time.
 
   Ces résultats semblent statistiquement *improbables*.
-  Diese Ergebnisse erscheinen statistisch *unwahrscheinlich*.
+  These results appear statistically *unlikely*.
 
   Une solution aussi *improbable* pourrait-elle fonctionner ?
-  Könnte eine so *unwahrscheinliche* Lösung funktionieren?
+  Could such an improbable solution work?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

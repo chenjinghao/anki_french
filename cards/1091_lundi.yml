@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1091
 Wort: lundi
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le lundi
 Femininum / Plural: ''
 IPA: \lœ̃.di\
-Definition: Montag
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: Monday
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il quitte l'hôpital ce *lundi*.
-  Er verlässt das Krankenhaus diesen *Montag*.
+  He's leaving the hospital this *Monday*.
 
   Le restaurant est fermé tous les *lundis*.
-  Das Restaurant ist jeden *Montag* geschlossen.
+  The restaurant is closed every *Monday*.
 
   Je serai en réunion *lundi* prochain à Paris.
-  Nächsten *Montag* bin ich in einer Besprechung in Paris.
+  I'll be in a meeting in Paris next *Monday*.
 
   Nous nous verrons *lundi* en huit pour discuter du projet.
-  Wir sehen uns am *Montag* in einer Woche, um über das Projekt zu sprechen.
+  I'll see you on *Monday* in a week to talk about the project.
 
   Le magasin ouvre exceptionnellement ce *lundi* de Pâques.
-  Das Geschäft öffnet ausnahmsweise am *Montag* nach Ostern.
+  The shop opens exceptionally on *Monday* after Easter.
 
   Le cours de français commence *lundi* matin à 9 heures.
-  Der Französischkurs beginnt am *Montag*morgen um 9 Uhr.
+  The French course starts at 9 a.m. on *Monday* morning.
 
   *Lundi* dernier, il a plu toute la journée.
-  Letzten *Montag* hat es den ganzen Tag geregnet.
+  Last *Monday* it rained all day.
 
   Les enfants n'aiment pas les *lundis* matins.
-  Kinder mögen *Montag*morgende nicht.
+  Kids don't like *Monday* mornings.
 
   Il y aura une célébration spéciale le *Lundi* saint.
-  Am Kar*montag* wird es eine besondere Feier geben.
+  There will be a special celebration on Karmontag.
 
   La banque sera fermée le *lundi* de Pentecôte.
-  Die Bank wird am Pfingst*montag* geschlossen sein.
+  The bank will be closed on Whit *Monday*.
 
   Le *lundi*, c'est son jour de repos hebdomadaire.
-  Der *Montag* ist sein wöchentlicher Ruhetag.
+  *Monday* is his weekly rest day.
 
   Marie commence son nouveau travail *lundi*.
-  Marie fängt am *Montag* ihre neue Arbeit an.
+  Marie starts her new work on *Monday*.
 
   Tous les *lundis*, nous faisons une réunion d'équipe.
-  Jeden *Montag* haben wir ein Teammeeting.
+  Every *Monday* we have a team meeting.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

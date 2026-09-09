@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3937
 Wort: handicap
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le handicap
 Femininum / Plural: ''
 IPA: \'ɑ̃.di.kap\
-Definition: Behinderung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Disability
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mon *handicap* est très sérieux.
-  Meine *Behinderung* ist sehr ernst.
+  My *disability* is very serious.
 
   La course à *handicap* commence dans une heure.
-  Das *Handicap*-Rennen beginnt in einer Stunde.
+  The *handicap* race starts in an hour.
 
   Le cheval favori a déjà remonté son *handicap* de quinze secondes.
-  Das favorisierte Pferd hat seine *Vorgabe* von fünfzehn Sekunden bereits aufgeholt.
+  The favourite horse has already caught up with its *default* of fifteen seconds.
 
   Les personnes en situation de *handicap* ont droit à une place de stationnement réservée.
-  Menschen mit *Behinderung* haben Anspruch auf einen reservierten Parkplatz.
+  People with disabilities are entitled to a reserved parking space.
 
   Son *handicap* visuel ne l'empêche pas de faire du sport.
-  Seine *Behinderung* beim Sehen hindert ihn nicht daran, Sport zu treiben.
+  His *disability* in seeing does not prevent him from exercising.
 
   Cette jument rendra dix kilos dans le prochain *handicap*.
-  Diese Stute wird beim nächsten *Handicap*-Rennen zehn Kilo Vorgabe geben müssen.
+  This mare will have to set a target of ten kilos for the next *handicap* race.
 
   L'illettrisme constitue un *handicap* social important.
-  Analphabetismus stellt ein erhebliches soziales *Handicap* dar.
+  Illiteracy is a major social *handicap*.
 
   Les golfeurs débutants bénéficient d'un *handicap* plus élevé.
-  Anfänger im Golf erhalten eine höhere *Vorgabe*.
+  Beginners in golf get a higher target.
 
   La corruption représente un *handicap* majeur pour l'économie du pays.
-  Die Korruption stellt für die Wirtschaft des Landes ein großes *Handicap* dar.
+  Corruption is a major *handicap* for the country's economy.
 
   Elle a surmonté son *handicap* grâce à une rééducation intensive.
-  Sie hat ihre *Behinderung* durch intensive Rehabilitation überwunden.
+  She has overcome her *disability* through intensive rehabilitation.
 
   Le *handicap* de départ n'a pas empêché l'équipe de gagner la course.
-  Der anfängliche *Rückstand* hat das Team nicht daran gehindert, das Rennen zu gewinnen.
+  The initial gap did not prevent the team from winning the race.
 
   Un *handicap* en temps sera imposé aux bateaux les plus rapides.
-  Den schnellsten Booten wird eine Zeit-*Vorgabe* auferlegt.
+  The fastest boats will be required to set a time limit.
 
   Son manque d'expérience est un sérieux *handicap* pour ce poste.
-  Seine mangelnde Erfahrung ist ein ernsthaftes *Handicap* für diese Position.
+  His lack of experience is a serious *handicap* for this position.
 
   Le *handicap* auditif de Pierre nécessite des aménagements spéciaux.
-  Peters *Behinderung* beim Hören erfordert besondere Anpassungen.
+  Peter's hearing *disability* requires special adjustments.
 
   Les concurrents partent avec différents *handicaps* selon leur niveau.
-  Die Teilnehmer starten je nach Niveau mit unterschiedlichen *Vorgaben*.
+  The participants start with different specifications depending on the level.
 
   Cette blessure risque d'entraîner un *handicap* permanent.
-  Diese Verletzung könnte zu einer dauerhaften *Behinderung* führen.
+  This injury could lead to a permanent *disability*.
 
   Son *handicap* moteur ne l'empêche pas de mener une vie active.
-  Seine körperliche *Behinderung* hindert ihn nicht daran, ein aktives Leben zu führen.
+  His physical *disability* does not prevent him from living an active life.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3322
 Wort: star
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la star
 Femininum / Plural: ''
 IPA: \staʁ\
 Definition: Star
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   T'es devenu une grande *star* de cinéma.
-  Du bist ein großer Film*star* geworden.
+  You've become a big movie *star*.
 
   Les *stars* d'Hollywood gagnent des millions de dollars.
-  Die Hollywood-*Stars* verdienen Millionen Dollar.
+  The Hollywood *stars* make millions of dollars.
 
   Cette chanteuse était une *star* du rock dans les années 80.
-  Diese Sängerin war in den 80er Jahren ein Rock*star*.
+  This singer was a rock *star* in the 1980s.
 
   Mon fils rêve de devenir une *star* de télévision.
-  Mein Sohn träumt davon, ein TV-*Star* zu werden.
+  My son dreams of becoming a TV *star*.
 
   La nouvelle *star* du théâtre joue ce soir.
-  Der neue Theater-*Star* spielt heute Abend.
+  The new theater *star* is playing tonight.
 
   Les *stars* du cinéma muet devaient tout exprimer sans paroles.
-  Die Stumm*stars* mussten alles ohne Worte ausdrücken.
+  The silent *stars* had to express everything without words.
 
   Il a commencé comme enfant *star* dans des publicités.
-  Er begann als Kinder-*Star* in der Werbung.
+  He began as a children's *star* in advertising.
 
   Cet athlète s'est rapidement transformé en *star* internationale.
-  Dieser Athlet wurde schnell zu einem internationalen *Star*.
+  This athlete quickly became an international *star*.
 
   Les *stars* de la politique ont leurs propres chaînes YouTube.
-  Die Politik-*Stars* haben ihre eigenen YouTube-Kanäle.
+  The political *stars* have their own YouTube channels.
 
   La nouvelle *star* du tennis a remporté son premier grand tournoi.
-  Der neue Tennis-*Star* hat sein erstes großes Turnier gewonnen.
+  The new tennis *star* has won his first big tournament.
 
   Toutes les *stars* seront présentes à la cérémonie des Oscars.
-  Alle *Stars* werden bei der Oscar-Verleihung anwesend sein.
+  All the *stars* will be present at the Oscar ceremony.
 
   Elle n'était pas préparée à devenir une *star* du jour au lendemain.
-  Sie war nicht darauf vorbereitet, über Nacht zum *Star* zu werden.
+  She wasn't prepared to be a *star* overnight.
 
   Les anciennes *stars* du cinéma français sont toujours très respectées.
-  Die ehemaligen französischen Film*stars* werden immer noch sehr respektiert.
+  The former French movie *stars* are still very respected.
 
   La jeune *star* de la série a reçu de nombreux prix.
-  Der junge Serien-*Star* hat viele Preise gewonnen.
+  The young serial *star* has won many prizes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

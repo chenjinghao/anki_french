@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3664
 Wort: studio
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le studio
 Femininum / Plural: ''
 IPA: \sty.djo\
 Definition: Studio
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mon bureau était en face du *studio*.
-  Mein Büro war gegenüber dem *Studio*.
+  My office was across the street from the *studio*.
 
   Le *studio* de télévision est équipé des dernières technologies.
-  Das Fernseh*studio* ist mit der neuesten Technologie ausgestattet.
+  The TV *studio* is equipped with the latest technology.
 
   Les musiciens passent la journée dans le *studio* d'enregistrement.
-  Die Musiker verbringen den Tag im Aufnahme*studio*.
+  The musicians spend the day in the recording *studio*.
 
   "À vous les *studios*!" annonce le présentateur depuis le terrain.
-  "Zurück ins *Studio*!" kündigt der Moderator vom Spielfeld an.
+  "Back to the *studio*!" announces the moderator from the playing field.
 
   Le prix d'un *studio* à Paris est vraiment exorbitant.
-  Der Preis für eine *Einzimmerwohnung* in Paris ist wirklich übertrieben.
+  The price of a *studio apartment* in Paris is really excessive.
 
   Le photographe prépare son *studio* pour la séance photo.
-  Der Fotograf bereitet sein *Atelier* für das Fotoshooting vor.
+  The photographer prepares his *studio* for the photo shoot.
 
   Elle a décoré son petit *studio* avec beaucoup de goût.
-  Sie hat ihre kleine *Einzimmerwohnung* sehr geschmackvoll eingerichtet.
+  She has her small *studio apartment* very tastefully decorated.
 
   Le groupe enregistre son nouvel album en *studio*.
-  Die Band nimmt ihr neues Album im *Studio* auf.
+  The band recorded their new album in the *studio*.
 
   Les danseurs s'entraînent dans le *studio* de danse depuis ce matin.
-  Die Tänzer trainieren seit heute Morgen im Tanz*studio*.
+  The dancers have been training at the dance *studio* since this morning.
 
   Le film a été entièrement tourné en *studio*.
-  Der Film wurde komplett im *Studio* gedreht.
+  The film was shot completely in the *studio*.
 
   Ce *studio* de radio diffuse 24 heures sur 24.
-  Dieses Rundfunk*studio* sendet rund um die Uhr.
+  This radio station is broadcasting around the clock.
 
   Le *studio* dispose d'une cuisine équipée et d'une salle de bains.
-  Die *Einzimmerwohnung* verfügt über eine eingerichtete Küche und ein Bad.
+  The *studio apartment* has a fully equipped kitchen and a bathroom.
 
   Les artistes partagent un grand *studio* dans le quartier des arts.
-  Die Künstler teilen sich ein großes *Atelier* im Künstlerviertel.
+  The artists share a large *studio* in the Künstlerviertel.
 
   Le *studio* 28 projette des films d'art et d'essai.
-  Das *Studio* 28 zeigt Arthouse-Filme.
+  *Studio* 28 shows arthouse movies.
 
   Les *studios* d'Hollywood ont produit de nombreux films célèbres.
-  Die Hollywood-*Studios* haben viele berühmte Filme produziert.
+  The Hollywood *studios* have produced many famous films.
 
   La régie du *studio* contrôle tous les aspects techniques de l'émission.
-  Die Regie des *Studios* kontrolliert alle technischen Aspekte der Sendung.
+  The director of the studio controls all the technical aspects of the show.
 
   Les étudiants cherchent souvent des *studios* meublés.
-  Studierende suchen oft möblierte *Einzimmerwohnungen*.
+  Students often look for furnished one-room apartments.
 
   Le *studio* graphique créera la nouvelle identité visuelle de l'entreprise.
-  Das Design*studio* wird die neue visuelle Identität des Unternehmens erstellen.
+  The design *studio* will create the company's new visual identity.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

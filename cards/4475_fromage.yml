@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4475
 Wort: fromage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fromage
 Femininum / Plural: ''
 IPA: \fʁɔ.maʒ\
-Definition: Käse
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cheeses
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai jamais vraiment aimé les *fromages*.
-  Ich habe *Käse* noch nie wirklich gemocht.
+  I've never really liked cheese.
 
   Le *fromage blanc* est excellent pour faire des gâteaux.
-  *Quark* ist hervorragend zum Kuchenbacken.
+  *Quark* is excellent for baking cakes.
 
   Marie adore le *fromage* de chèvre sur sa salade.
-  Marie liebt Ziegen*käse* auf ihrem Salat.
+  Marie loves goat *cheese* on her salad.
 
   Ce *fromage* est tellement fait qu'il sent très fort.
-  Dieser *Käse* ist so reif, dass er sehr stark riecht.
+  This cheese is so ripe that it smells very strong.
 
   Le *fromage* frais se conserve moins longtemps que le *fromage* fermenté.
-  Frisch*käse* hält sich nicht so lange wie Sauermilch*käse*.
+  Fresh *cheese* does not last as long as sour milk cheese.
 
   As-tu vu mon couteau à *fromage* ? Je ne le trouve plus.
-  Hast du mein *Käse*messer gesehen? Ich finde es nicht mehr.
+  Have you seen my cheese knife?
 
   Pour l'apéritif, j'ai préparé du gâteau au *fromage*.
-  Für den Aperitif habe ich *Käse*kuchen vorbereitet.
+  I prepared cheesecake for the aperitif.
 
   "Il a fait tout un *fromage* de cette petite erreur !"
-  "Er hat aus diesem kleinen Fehler einen *Elefanten* gemacht!"
+  "He made an elephant out of this little mistake!"
 
   La France produit plus de mille variétés de *fromages*.
-  Frankreich produziert über tausend *Käse*sorten.
+  France produces over a thousand *cheeses*.
 
   Le *fromage* fondu est parfait pour la raclette.
-  Schmelz*käse* ist perfekt für Raclette.
+  Processed *cheese* is perfect for Raclette.
 
   Nous avons dégusté un excellent *fromage* de brebis des Pyrénées.
-  Wir haben einen ausgezeichneten Schafs*käse* aus den Pyrenäen probiert.
+  We tried an excellent sheep *cheese* from the Pyrenees.
 
   Cette cloche à *fromage* protège parfaitement contre les odeurs.
-  Diese *Käse*glocke schützt perfekt vor Gerüchen.
+  This cheese bell protects perfectly against odors.
 
   C'est *entre la poire et le fromage* qu'il nous a annoncé la nouvelle.
-  Er hat uns die Neuigkeit *beim gemütlichen Teil des Essens* mitgeteilt.
+  He told us the news about the cozy part of the food.
 
   Le *fromage* à pâte molle coule déjà à température ambiante.
-  Weich*käse* wird schon bei Zimmertemperatur flüssig.
+  Soft *cheese* becomes liquid at room temperature.
 
   "Il s'est trouvé *un bon fromage* dans cette entreprise."
-  "Er hat sich *einen gemütlichen Posten* in dieser Firma ergattert."
+  "He got himself a comfortable job in this company."
 
   Le plateau de *fromages* arrive toujours après le plat principal.
-  Die *Käse*platte kommt immer nach dem Hauptgang.
+  The cheese plate always comes after the main course.
 
   Ce *fromage* maigre contient très peu de matières grasses.
-  Dieser Mager*käse* enthält sehr wenig Fett.
+  This lean *cheese* contains very little fat.
 
   Je préfère le *fromage* à tartiner sur mon pain le matin.
-  Ich mag Streich*käse* lieber auf meinem Brot am Morgen.
+  I prefer *cheese* on my bread in the morning.
 
   La fabrication du *fromage* est un art millénaire.
-  Die *Käse*herstellung ist eine jahrtausendealte Kunst.
+  Cheese production is a millennia-old art.
 
   Le *fromage* demi-sel est parfait pour les régimes pauvres en sel.
-  Halb gesalzener *Käse* ist perfekt für salzarme Diäten.
+  Half-salted cheese is perfect for low-salt diets.
 
   L'affinage du *fromage* peut durer plusieurs mois.
-  Die *Käse*reifung kann mehrere Monate dauern.
+  The cheese ripening can take several months.
 
   Le *fromage* blanc à la crème est plus onctueux que le normal.
-  Sahne*quark* ist cremiger als normaler Quark.
+  Cream *quark* is creamier than normal quark.
 
   "Cette administration est un vrai *fromage* pour les employés."
-  "Diese Verwaltung ist eine richtige *Goldgrube* für die Angestellten."
+  "This administration is a real *gold mine* for the employees."
 
   Le *fromage* à pâte persillée est reconnaissable à ses moisissures bleues.
-  Blau*käse* erkennt man an seinem blauen Schimmel.
+  Blue *cheese* can be recognized by its blue mold.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

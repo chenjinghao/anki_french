@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2056
 Wort: détenir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: détenir
 Femininum / Plural: ''
 IPA: \de.tniʁ\
-Definition: besitzen, festnehmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: possess, arrest
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne prétends pas *détenir* la vérité.
-  Ich behaupte nicht, die Wahrheit zu *besitzen*.
+  I don't claim to have the truth.
 
   Cette entreprise *détient* plus de 50 % des parts du marché.
-  Diese Firma *besitzt* mehr als 50 % der Marktanteile.
+  This company has more than 50 % of the market share.
 
   Marie *détient* le record du monde depuis trois ans.
-  Marie *hält* seit drei Jahren den Weltrekord.
+  Marie has been holding the world record for three years.
 
   Il *détenait* le document de manière parfaitement légitime.
-  Er *besaß* das Dokument völlig rechtmäßig.
+  He had the document entirely legitimate.
 
   Les voleurs *détenaient* encore les bijoux quand la police les a arrêtés.
-  Die Diebe waren noch im *Besitz* des Schmucks, als die Polizei sie festnahm.
+  The thieves were still in *possession* of the jewelry when the police arrested them.
 
   La police *détient* des preuves solides contre le suspect.
-  Die Polizei *verfügt* über handfeste Beweise gegen den Verdächtigen.
+  The police have solid evidence against the suspect.
 
   Pierre *détient* ce poste depuis plus de vingt ans.
-  Pierre *hat* diesen Posten seit über zwanzig Jahren *inne*.
+  Pierre *has* held this post for over twenty years.
 
   Les ravisseurs *détenaient* les otages dans une cave.
-  Die Entführer *hielten* die Geiseln in einem Keller *gefangen*.
+  The kidnappers captured the hostages in a basement.
 
   Elle *détient* un secret qu'elle ne veut partager avec personne.
-  Sie *besitzt* ein Geheimnis, das sie mit niemandem teilen will.
+  She has a secret she doesn't want to share with anyone.
 
   Le suspect a été *détenu* préventivement pendant deux semaines.
-  Der Verdächtige wurde zwei Wochen lang in Untersuchungshaft *festgehalten*.
+  The suspect was detained in custody for two weeks.
 
   Mon grand-père *détenait* ces archives familiales depuis des décennies.
-  Mein Großvater *besaß* diese Familienunterlagen seit Jahrzehnten.
+  My grandfather had these family records for decades.
 
   La banque *détient* ces objets de valeur de manière fiduciaire.
-  Die Bank *besitzt* diese Wertsachen treuhänderisch.
+  The bank *owns* these valuables in a fiduciary manner.
 
   Sophie *détient* maintenant le titre de championne nationale.
-  Sophie *hält* jetzt den nationalen Meistertitel.
+  Sophie now holds the national championship title.
 
   Les autorités *détiennent* le criminel dans une prison de haute sécurité.
-  Die Behörden *halten* den Verbrecher in einem Hochsicherheitsgefängnis *gefangen*.
+  The authorities are holding the criminal in a high-security prison.
 
   Notre équipe *détient* la meilleure série de victoires de la saison.
-  Unser Team *hält* die beste Siegesserie der Saison.
+  Our team holds the best victory series of the season.
 
   Il était *détenu* dans un camp pendant la guerre.
-  Er wurde während des Krieges in einem Lager *gefangen gehalten*.
+  He was held in a camp during the war.
 
   Cette famille *détient* cette propriété depuis des générations.
-  Diese Familie *besitzt* dieses Anwesen seit Generationen.
+  This family has owned this property for generations.
 
   L'opposition *détient* désormais la majorité au parlement.
-  Die Opposition *verfügt* jetzt über die Mehrheit im Parlament.
+  The opposition now has a majority in Parliament.
 
   Le musée *détient* certaines des œuvres les plus précieuses au monde.
-  Das Museum *besitzt* einige der wertvollsten Kunstwerke der Welt.
+  The museum has some of the most valuable works of art in the world.
 
   Paul *détient* enfin le moyen de réaliser son rêve.
-  Paul *verfügt* endlich über die Mittel, seinen Traum zu verwirklichen.
+  Paul finally has the means to realize his dream.
 
   Les agents *détenaient* illégalement des informations confidentielles.
-  Die Agenten *besaßen* illegal vertrauliche Informationen.
+  The agents *had* illegal confidential information.
 
   Ce scientifique *détient* peut-être la clé de cette découverte.
-  Dieser Wissenschaftler *besitzt* möglicherweise den Schlüssel zu dieser Entdeckung.
+  This scientist may have the key to this discovery.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 388
 Wort: effort
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un effort
 Femininum / Plural: ''
 IPA: \e.fɔʁ\
-Definition: Anstrengung, Bemühung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Effort, Effort
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils doivent *faire un effort* pour nous comprendre.
-  Sie müssen *sich anstrengen*, um uns zu verstehen.
+  You have to make an effort to understand us.
 
   L'*effort* physique intense aide à réduire le stress.
-  Die intensive körperliche *Anstrengung* hilft, Stress abzubauen.
+  The intense physical *effort* helps to reduce stress.
 
   Je vais faire tous les *efforts* possibles pour réussir cet examen.
-  Ich werde alle *Anstrengungen* unternehmen, um diese Prüfung zu bestehen.
+  I will make every effort to pass this test.
 
   Le professeur demande aux élèves un *effort* d'attention particulier.
-  Der Lehrer verlangt von den Schülern besondere *Konzentration*.
+  The teacher requires special *concentration* from the students.
 
   Cet exercice nécessite un *effort* intellectuel considérable.
-  Diese Übung erfordert erhebliche geistige *Anstrengung*.
+  This exercise requires considerable mental *effort*.
 
   Sans *effort*, on n'arrive à rien dans la vie.
-  Ohne *Mühe* erreicht man nichts im Leben.
+  You can't do anything in life without effort.
 
   Les *efforts* de distribution ont porté leurs fruits.
-  Die Vertriebs*anstrengungen* haben sich ausgezahlt.
+  The sales *efforts* have paid off.
 
   Il faut *faire un effort* de mémoire pour se souvenir de cette date.
-  Man muss sein Gedächtnis *anstrengen*, um sich an dieses Datum zu erinnern.
+  You have to work your memory to remember that date.
 
   Marie a fourni un *effort* soutenu pendant toute l'année.
-  Marie hat das ganze Jahr über eine konstante *Leistung* erbracht.
+  Marie has performed consistently all year round.
 
   L'*effort* de guerre a mobilisé toutes les ressources du pays.
-  Die Kriegs*anstrengungen* haben alle Ressourcen des Landes beansprucht.
+  The war effort has claimed all the resources of the country.
 
   Les *efforts* du vent ont arraché plusieurs arbres.
-  Die *Gewalt* des Windes hat mehrere Bäume entwurzelt.
+  The *violence* of the wind uprooted several trees.
 
   Après l'*effort*, le réconfort !
-  Nach getaner *Arbeit* ist gut ruhen!
+  After done *work* is well rested!
 
   Paul fait toujours le minimum d'*effort* possible.
-  Paul gibt sich immer nur die minimale *Mühe*.
+  Paul always makes the minimum effort.
 
   Nos *efforts* de recherche ont abouti à une découverte importante.
-  Unsere Forschungs*bemühungen* haben zu einer wichtigen Entdeckung geführt.
+  Our research *efforts* have led to an important discovery.
 
   L'*effort* musculaire provoque une augmentation du rythme cardiaque.
-  Die Muskel*belastung* führt zu einer Erhöhung der Herzfrequenz.
+  The muscle *load* leads to an increase in heart rate.
 
   Elle a *fait un effort vestimentaire* pour la soirée.
-  Sie hat sich für den Abend *besonders schick gemacht*.
+  She made herself especially chic for the evening.
 
   Les *efforts* de paix ont finalement porté leurs fruits.
-  Die Friedens*bemühungen* waren schließlich erfolgreich.
+  The peace *efforts* were finally successful.
 
   Un dernier *effort*, et nous aurons terminé !
-  Eine letzte *Anstrengung*, dann sind wir fertig!
+  One last *effort*, then we're done!
 
   Il faut *faire un effort sur soi-même* pour surmonter ses peurs.
-  Man muss *sich selbst überwinden*, um seine Ängste zu besiegen.
+  You have to overcome yourself to overcome your fears.
 
   Les *efforts* d'imagination des enfants m'impressionnent toujours.
-  Die Fantasie*leistung* der Kinder beeindruckt mich immer wieder.
+  The imagination of the children impresses me again and again.
 
   Son style d'écriture ne sent pas l'*effort*.
-  Sein Schreibstil wirkt nicht *bemüht*.
+  His writing style doesn't work.
 
   Cet athlète s'entraîne sans *effort* apparent.
-  Dieser Athlet trainiert scheinbar *mühe*los.
+  This athlete seems to train effortlessly.
 
   L'*effort* constant finit toujours par payer.
-  Beständige *Anstrengung* zahlt sich immer aus.
+  Constant *effort* always pays off.
 
   Il faut répartir ses *efforts* tout au long de la journée.
-  Man muss seine *Kräfte* über den Tag verteilen.
+  You have to distribute your powers throughout the day.
 
   Les *efforts* de flexion ont endommagé la poutre.
-  Die Biege*belastung* hat den Träger beschädigt.
+  The bending *load* has damaged the carrier.
 
   Faites un petit *effort* pour arriver à l'heure !
-  Geben Sie sich ein bisschen *Mühe*, pünktlich zu sein!
+  Make a little effort to be on time!
 
   J'apprécie ses *efforts* pour apprendre le français.
-  Ich schätze ihre *Bemühungen*, Französisch zu lernen.
+  I appreciate her *efforts* to learn French.
 
   Cette entreprise encourage l'*effort* collectif.
-  Dieses Unternehmen fördert die gemeinsame *Anstrengung*.
+  This company promotes the joint *effort*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

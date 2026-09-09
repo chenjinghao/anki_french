@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4040
 Wort: minime
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: minime
 Femininum / Plural: ''
 IPA: \mi.nim\
-Definition: unbedeutend, gering
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: insignificant, low
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Beaucoup de ces différences sont *minimes*.
-  Viele dieser Unterschiede sind *minimal*.
+  Many of these differences are minimal.
 
   Les dégâts causés par la tempête sont *minimes*.
-  Die durch den Sturm verursachten Schäden sind *gering*.
+  The damage caused by the storm is small.
 
   Le prix de ce service est *minime* par rapport à sa valeur.
-  Der Preis für diese Dienstleistung ist *unbedeutend* im Vergleich zu ihrem Wert.
+  The price of this service is *insignificant* compared to its value.
 
   Elle a remporté le championnat dans la catégorie des *minimes*.
-  Sie hat die Meisterschaft in der *B-Jugend* gewonnen.
+  She won the *B-Youth* Championship.
 
   Cette modification n'a qu'une importance *minime*.
-  Diese Änderung hat nur *geringe* Bedeutung.
+  This change is of little importance.
 
   Mon fils est *minime* au club de natation.
-  Mein Sohn spielt in der *B-Jugend* des Schwimmvereins.
+  My son plays in the *B-youth* of the swimming club.
 
   L'augmentation des coûts reste *minime* cette année.
-  Die Kostensteigerung bleibt dieses Jahr *minimal*.
+  The cost increase remains minimal this year.
 
   Le risque d'effets secondaires est *minime*.
-  Das Risiko von Nebenwirkungen ist *gering*.
+  The risk of side effects is *low*.
 
   Les chances de gagner sont *minimes*, mais pas nulles.
-  Die Gewinnchancen sind *minimal*, aber nicht null.
+  The chances of winning are minimal, but not zero.
 
   Pierre s'entraîne avec l'équipe des *minimes*.
-  Pierre trainiert mit der *B-Jugend*.
+  Pierre trains with the *B-Youth*.
 
   La différence de prix est vraiment *minime*.
-  Der Preisunterschied ist wirklich *minimal*.
+  The price difference is really minimal.
 
   Ces détails *minimes* n'ont aucune importance.
-  Diese *unbedeutenden* Details sind völlig unwichtig.
+  These *insignificant* details are completely irrelevant.
 
   L'impact sur l'environnement sera *minime*.
-  Die Auswirkungen auf die Umwelt werden *minimal* sein.
+  The impact on the environment will be minimal.
 
   La perte de temps est *minime* comparée aux avantages.
-  Der Zeitverlust ist im Vergleich zu den Vorteilen *minimal*.
+  The loss of time is minimal compared to the benefits.
 
   Les changements apportés au texte sont *minimes*.
-  Die am Text vorgenommenen Änderungen sind *geringfügig*.
+  The amendments made to the text are minor.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

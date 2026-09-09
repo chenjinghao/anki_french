@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1712
 Wort: baser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: baser
 Femininum / Plural: ''
 IPA: \bɑ.ze\
-Definition: basieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: based
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette loi se *base* sur trois principes.
-  Dieses Gesetz *basiert* auf drei Prinzipien.
+  This law is *based* on three principles.
 
   Son raisonnement est *basé* sur des faits scientifiques.
-  Seine Argumentation *basiert* auf wissenschaftlichen Fakten.
+  His reasoning is *based* on scientific facts.
 
   La théorie de Darwin se *base* sur des observations minutieuses.
-  Darwins Theorie *stützt* sich auf sorgfältige Beobachtungen.
+  Darwin's theory is based on careful observations.
 
   Sur quoi vous *basez*-vous pour faire cette affirmation ?
-  Worauf *stützen* Sie sich bei dieser Behauptung?
+  What do you base your claim on?
 
   Le succès de l'entreprise se *base* sur l'innovation constante.
-  Der Erfolg des Unternehmens *beruht* auf ständiger Innovation.
+  The company's success is *based* on constant innovation.
 
   L'escadron est *basé* à Toulouse depuis trois ans.
-  Die Staffel ist seit drei Jahren in Toulouse *stationiert*.
+  The season has been in Toulouse for three years.
 
   Notre équipe de recherche est *basée* à l'université de Lyon.
-  Unser Forschungsteam ist an der Universität Lyon *stationiert*.
+  Our research team is based at the University of Lyon.
 
   Il a *basé* toute sa carrière sur cette découverte.
-  Er hat seine ganze Karriere auf diese Entdeckung *gestützt*.
+  He's based his entire career on this discovery.
 
   Le film est *basé* sur une histoire vraie.
-  Der Film *basiert* auf einer wahren Geschichte.
+  The film is *based* on a true story.
 
   Les troupes sont *basées* près de la frontière.
-  Die Truppen sind nahe der Grenze *stationiert*.
+  The troops are *stationed* near the border.
 
   Je me *base* sur mon expérience personnelle.
-  Ich *stütze* mich auf meine persönliche Erfahrung.
+  I rely on my personal experience.
 
   Cette décision est *basée* sur des critères objectifs.
-  Diese Entscheidung ist auf objektive Kriterien *gestützt*.
+  This decision is based on objective criteria.
 
   La flotte américaine est *basée* dans le Pacifique.
-  Die amerikanische Flotte ist im Pazifik *stationiert*.
+  The American fleet is *stationed* in the Pacific.
 
   L'entreprise a *basé* sa stratégie sur l'analyse du marché.
-  Das Unternehmen hat seine Strategie auf die Marktanalyse *gestützt*.
+  The company has based its strategy on market analysis.
 
   Il *base* ses espoirs sur le changement climatique.
-  Er *stützt* seine Hoffnungen auf den Klimawandel.
+  He bases his hopes on climate change.
 
   Le professeur se *base* sur des arguments solides.
-  Der Professor *stützt* sich auf stichhaltige Argumente.
+  The professor is based on sound arguments.
 
   Les conclusions se *basent* sur des études approfondies.
-  Die Schlussfolgerungen *beruhen* auf gründlichen Studien.
+  The conclusions are *based* on thorough studies.
 
   La start-up est *basée* à Berlin depuis sa création.
-  Das Start-up ist seit seiner Gründung in Berlin *ansässig*.
+  The start-up has been based in Berlin since its foundation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

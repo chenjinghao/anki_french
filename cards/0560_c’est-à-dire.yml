@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 560
 Wort: c’est-à-dire
 Wortart: conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: c’est-à-dire
 Femininum / Plural: ''
 IPA: \s‿ɛ.t‿a diʁ\
-Definition: das heißt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: that means:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il s'agit de vivre, *c'est-à-dire* d'avancer.
-  Es geht darum zu leben, *das heißt* voranzukommen.
+  It's about living, that is, moving forward.
 
   Le train arrive à 14h30, *c'est-à-dire* dans une demi-heure.
-  Der Zug kommt um 14:30 Uhr an, *das heißt* in einer halben Stunde.
+  The train arrives at 2:30, that is in half an hour.
 
   Mon frère est végétarien, *c'est-à-dire* qu'il ne mange pas de viande.
-  Mein Bruder ist Vegetarier, *das bedeutet*, dass er kein Fleisch isst.
+  My brother is a vegetarian, which means he doesn't eat meat.
 
   - Tu viendras à la fête ?<br>- *C'est-à-dire* que j'ai déjà d'autres plans.
-  - Kommst du zur Party?<br>- *Die Sache ist die, dass* ich schon andere Pläne habe.
+  - Are you coming to the party?
 
   Elle parle trois langues, *c'est-à-dire* l'anglais, le français et l'espagnol.
-  Sie spricht drei Sprachen, *und zwar* Englisch, Französisch und Spanisch.
+  She speaks three languages: English, French *and* Spanish.
 
   - J'ai perdu mon portable.<br>- *C'est-à-dire* que tu l'as encore oublié au restaurant.
-  - Ich habe mein Handy verloren.<br>- *Das heißt wohl*, du hast es wieder im Restaurant vergessen.
+  - I lost my phone, *I guess that means* you left it in the restaurant again.
 
   Il est insomniaque, *c'est-à-dire* qu'il a du mal à dormir la nuit.
-  Er leidet unter Schlaflosigkeit, *das bedeutet*, dass er nachts schlecht schlafen kann.
+  He suffers from insomnia, which means he can sleep badly at night.
 
   Nous partons bientôt, *c'est-à-dire* dans environ dix minutes.
-  Wir fahren bald los, *genauer gesagt* in ungefähr zehn Minuten.
+  We'll be off soon, more precisely in about ten minutes.
 
   Elle est philologue, *c'est-à-dire* qu'elle étudie les langues anciennes.
-  Sie ist Philologin, *das heißt*, sie erforscht alte Sprachen.
+  She's a philologist, which means she's researching old languages.
 
   - Tu as fini le projet ?<br>- *C'est-à-dire* que j'ai encore quelques détails à régler.
-  - Bist du mit dem Projekt fertig?<br>- *Also eigentlich* muss ich noch ein paar Details klären.
+  - Are you done with the project?
 
   Cette machine est automatique, *c'est-à-dire* qu'elle fonctionne toute seule.
-  Diese Maschine ist automatisch, *das bedeutet*, sie funktioniert von alleine.
+  This machine is automatic, which means it works by itself.
 
   Il habite en banlieue, *c'est-à-dire* à vingt minutes du centre-ville.
-  Er wohnt in der Vorstadt, *das heißt* zwanzig Minuten vom Stadtzentrum entfernt.
+  He lives in the suburbs, which means twenty minutes from the city centre.
 
   Je suis fatigué, *c'est-à-dire* que je n'ai dormi que quatre heures.
-  Ich bin müde, *das liegt daran, dass* ich nur vier Stunden geschlafen habe.
+  I'm tired, it's because I only slept four hours.
 
   Elle est polyglotte, *c'est-à-dire* qu'elle parle plusieurs langues.
-  Sie ist polyglott, *das heißt*, sie spricht mehrere Sprachen.
+  It is polyglot, that is, it speaks several languages.
 
   - Tu prendras le train de midi ?<br>- *C'est-à-dire* que je préfère celui de 14h.
-  - Nimmst du den Zug um zwölf?<br>- *Also eigentlich* nehme ich lieber den um 14 Uhr.
+  - Are you taking the train at noon?
 
   J'ai fait une erreur, *c'est-à-dire* que j'ai mal calculé le temps nécessaire.
-  Ich habe einen Fehler gemacht, *und zwar* habe ich die benötigte Zeit falsch berechnet.
+  I made a mistake, *and* I miscalculated the time needed.
 
   Il est parti tôt, *c'est-à-dire* vers huit heures ce matin.
-  Er ist früh gegangen, *genauer gesagt* gegen acht Uhr heute Morgen.
+  He left early, more precisely around eight o'clock this morning.
 
   L'héliotropisme, *c'est-à-dire* l'orientation des plantes vers le soleil, est fascinant.
-  Der Heliotropismus, *also* die Ausrichtung der Pflanzen zur Sonne, ist faszinierend.
+  Heliotropism, i.e. the orientation of plants towards the sun, is fascinating.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

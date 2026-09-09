@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4099
 Wort: émerger
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: émerger
 Femininum / Plural: ''
 IPA: \e.mɛʁ.ʒe\
-Definition: auftauchen, hervorkommen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: emerge, emerge
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette façon de penser *émerge* presque partout.
-  Diese Denkweise *taucht* fast überall *auf*.
+  This way of thinking appears almost everywhere.
 
   Le sous-marin *émergea* des profondeurs de l'océan.
-  Das U-Boot *tauchte* aus den Tiefen des Ozeans *auf*.
+  The submarine emerged from the depths of the ocean.
 
   À marée basse, les rochers *émergent* de l'eau.
-  Bei Ebbe *ragen* die Felsen aus dem Wasser *heraus*.
+  At low tide, the rocks rise *out* of the water.
 
   Une silhouette mystérieuse *émergea* de l'obscurité.
-  Eine mysteriöse Gestalt *tauchte* aus der Dunkelheit *auf*.
+  A mysterious figure emerged from the darkness.
 
   Les sommets des montagnes *émergeaient* lentement de la brume matinale.
-  Die Berggipfel *ragten* langsam aus dem Morgennebel *hervor*.
+  *The* mountain peaks slowly protruded *out* of the morning mist.
 
   La lune *émerge* des nuages ce soir.
-  Der Mond *kommt* heute Abend hinter den Wolken *hervor*.
+  The moon is *coming* *out* behind the clouds tonight.
 
   Après des heures de débat, une solution a finalement *émergé*.
-  Nach stundenlanger Diskussion *kristallisierte* sich endlich eine Lösung *heraus*.
+  After hours of discussion, a solution finally emerged.
 
   Son talent extraordinaire *émerge* clairement du groupe.
-  Ihr außergewöhnliches Talent *sticht* deutlich aus der Gruppe *hervor*.
+  Their extraordinary talent stands *out* clearly from the group.
 
   "Je commence à peine à *émerger*, laisse-moi prendre un café."
-  "Ich *werde* gerade erst *munter*, lass mich einen Kaffee trinken."
+  "I'm just getting excited, let me have a cup of coffee."
 
   Seuls quelques romans importants *émergent* de cette période littéraire.
-  Nur wenige wichtige Romane *ragen* aus dieser literarischen Epoche *heraus*.
+  Only a few important novels stand *out* from this literary epoch.
 
   Le plongeur *émergea* rapidement à la surface.
-  Der Taucher *tauchte* schnell an der Oberfläche *auf*.
+  The diver quickly appeared *on* the surface.
 
   La vérité finira par *émerger* au cours du procès.
-  Die Wahrheit wird im Laufe des Prozesses *ans Licht kommen*.
+  The truth will come to light in the course of the process.
 
   Les îles *émergent* majestueusement de l'océan Pacifique.
-  Die Inseln *ragen* majestätisch aus dem Pazifischen Ozean *heraus*.
+  The islands rise majestically from the Pacific Ocean.
 
   Un nouveau leader politique *émerge* dans le pays.
-  Ein neuer politischer Führer *tritt* im Land *hervor*.
+  A new political leader emerges in the country.
 
   Après la tempête, le soleil *émergea* enfin des nuages.
-  Nach dem Sturm *kam* die Sonne endlich hinter den Wolken *hervor*.
+  After the storm, the sun finally *came* *out* behind the clouds.
 
   Elle *émergea* lentement de sa profonde méditation.
-  Sie *tauchte* langsam aus ihrer tiefen Meditation *auf*.
+  She slowly emerged from her deep meditation.
 
   Un consensus commence à *émerger* parmi les experts.
-  Unter den Experten beginnt sich ein Konsens *herauszubilden*.
+  A consensus is beginning to emerge among the experts.
 
   "Je n'arrive pas à *émerger* de cette situation compliquée."
-  "Ich schaffe es nicht, aus dieser komplizierten Situation *herauszukommen*."
+  "I can't get out of this complicated situation."
 
   Les dauphins *émergent* régulièrement pour respirer.
-  Die Delfine *tauchen* regelmäßig zum Atmen *auf*.
+  The dolphins regularly show up to breathe.
 
   Cette théorie scientifique *émergea* au début du siècle dernier.
-  Diese wissenschaftliche Theorie *tauchte* zu Beginn des letzten Jahrhunderts *auf*.
+  This scientific theory emerged at the beginning of the last century.
 
   De nouvelles preuves *émergent* chaque jour dans cette enquête.
-  Jeden Tag *tauchen* neue Beweise in dieser Untersuchung *auf*.
+  Every day, new evidence appears in this investigation.
 
   Trois candidats exceptionnels *émergent* du lot cette année.
-  Drei außergewöhnliche Kandidaten *stechen* dieses Jahr aus der Masse *hervor*.
+  Three exceptional candidates stand *out* from the crowd this year.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

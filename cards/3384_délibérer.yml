@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3384
 Wort: délibérer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: délibérer
 Femininum / Plural: ''
 IPA: \de.li.be.ʁe\
-Definition: beraten, überlegen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: advise, think
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *délibéra* longtemps avec lui-même.
-  Er *überlegte* lange mit sich selbst.
+  He thought about himself for a long time.
 
   Le jury s'est retiré pour *délibérer* pendant trois heures.
-  Die Jury hat sich für drei Stunden zur *Beratung* zurückgezogen.
+  The jury has withdrawn for three hours for consultation.
 
   Les juges *délibèrent* actuellement sur le sort de l'accusé.
-  Die Richter *beraten* gerade über das Schicksal des Angeklagten.
+  The judges are discussing the fate of the defendant.
 
   Après avoir *délibéré*, le conseil d'administration a rejeté la proposition.
-  Nach *Beratung* hat der Vorstand den Vorschlag abgelehnt.
+  After consultation, the board rejected the proposal.
 
   La commission doit *délibérer* sur le nouveau projet de loi.
-  Die Kommission muss über den neuen Gesetzentwurf *beraten*.
+  The Commission must discuss the new draft law.
 
   Sans *délibérer*, elle a accepté l'offre d'emploi.
-  Ohne zu *überlegen*, hat sie das Jobangebot angenommen.
+  Without *thinking*, she accepted the job offer.
 
   Les députés ont longuement *délibéré* sur cette question.
-  Die Abgeordneten haben lange über diese Frage *beraten*.
+  The honourable Member has discussed this issue for a long time.
 
   Le comité *délibérera* demain matin sur les candidatures.
-  Der Ausschuss wird morgen früh über die Bewerbungen *beraten*.
+  The committee will discuss the applications in the morning.
 
   Nous devons *délibérer* ensemble avant de prendre une décision.
-  Wir müssen gemeinsam *beraten*, bevor wir eine Entscheidung treffen.
+  We need to consult together before we make a decision.
 
   Le conseil municipal ne peut pas *délibérer* valablement sans quorum.
-  Der Gemeinderat kann ohne Quorum keine gültigen *Beschlüsse fassen*.
+  The municipal council cannot take valid decisions without Quorum.
 
   Les experts *délibèrent* depuis ce matin sur les mesures à prendre.
-  Die Experten *beraten* seit heute Morgen über die zu ergreifenden Maßnahmen.
+  The experts have been discussing the measures to be taken since this morning.
 
   Après avoir mûrement *délibéré*, elle a décidé de déménager.
-  Nach reiflicher *Überlegung* hat sie beschlossen umzuziehen.
+  After careful *consideration*, she decided to move.
 
   Le conseil de classe va *délibérer* sur les résultats des élèves.
-  Die Klassenkonferenz wird über die Schülerergebnisse *beraten*.
+  The class conference will discuss the student results.
 
   Les membres du jury ont *délibéré* pendant deux heures.
-  Die Jurymitglieder haben zwei Stunden lang *beraten*.
+  The jury members have been consulting for two hours.
 
   Ils *délibérèrent* entre eux avant d'annoncer leur décision.
-  Sie *berieten* sich untereinander, bevor sie ihre Entscheidung verkündeten.
+  They consulted one another before they announced their decision.
 
   La cour s'est retirée pour *délibérer* sur le verdict.
-  Das Gericht hat sich zur *Beratung* über das Urteil zurückgezogen.
+  The court has withdrawn for consideration of the judgment.
 
   Le comité doit *délibérer* sur les nouvelles propositions.
-  Das Komitee muss über die neuen Vorschläge *beraten*.
+  The committee must discuss the new proposals.
 
   Elle a longtemps *délibéré* avant d'accepter cette responsabilité.
-  Sie hat lange *überlegt*, bevor sie diese Verantwortung annahm.
+  She thought long before she accepted that responsibility.
 
   Les ministres vont *délibérer* sur le budget de l'année prochaine.
-  Die Minister werden über den Haushalt für das nächste Jahr *beraten*.
+  Ministers will discuss the budget for next year.
 
   Le conseil d'administration *délibérera* la semaine prochaine.
-  Der Vorstand wird nächste Woche *beraten*.
+  The board will advise next week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

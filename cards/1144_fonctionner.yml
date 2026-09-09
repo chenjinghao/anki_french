@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1144
 Wort: fonctionner
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fonctionner
 Femininum / Plural: ''
 IPA: \fɔ̃k.sjɔ.ne\
-Definition: funktionieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: work
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le processus *fonctionne*, et *fonctionne* bien.
-  Der Prozess *funktioniert*, und *funktioniert* gut.
+  The process *works* and works well.
 
   Mon nouvel ordinateur *fonctionne* parfaitement depuis son installation.
-  Mein neuer Computer *funktioniert* seit der Installation einwandfrei.
+  My new computer has been working perfectly since the installation.
 
   La climatisation ne *fonctionne* plus depuis ce matin.
-  Die Klimaanlage *funktioniert* seit heute Morgen nicht mehr.
+  The air conditioning hasn't worked since this morning.
 
   Cette théorie *fonctionne* très bien en pratique.
-  Diese Theorie *funktioniert* sehr gut in der Praxis.
+  This theory *works* very well in practice.
 
   Notre équipe *fonctionne* mieux depuis la réorganisation.
-  Unser Team *arbeitet* seit der Umstrukturierung besser.
+  Our team has been working better since the restructuring.
 
   "Je ne peux pas *fonctionner* sans mon café du matin."
-  "Ich kann ohne meinen Morgenkaffee nicht *funktionieren*."
+  "I can't *work* without my morning coffee."
 
   Comment ce nouveau système *fonctionne*-t-il exactement ?
-  Wie genau *funktioniert* dieses neue System?
+  How exactly does this new system work?
 
   Le chauffage central *fonctionne* au gaz naturel.
-  Die Zentralheizung wird mit Erdgas *betrieben*.
+  Central heating is *operated* with natural gas.
 
   Cette vieille radio *fonctionne* encore parfaitement.
-  Dieses alte Radio *funktioniert* noch einwandfrei.
+  This old radio still *works* perfectly.
 
   Son cerveau *fonctionne* à plein régime pendant les examens.
-  Sein Gehirn *arbeitet* während der Prüfungen auf Hochtouren.
+  His brain *works* at full speed during the tests.
 
   La banque ne *fonctionne* pas le dimanche.
-  Die Bank *arbeitet* sonntags nicht.
+  The bank doesn't work on Sundays.
 
   Cette entreprise *fonctionne* 24 heures sur 24.
-  Dieses Unternehmen *arbeitet* rund um die Uhr.
+  This company *works* around the clock.
 
   Les reins du patient ne *fonctionnent* plus correctement.
-  Die Nieren des Patienten *funktionieren* nicht mehr richtig.
+  The patient's kidneys are no longer working properly.
 
   La machine *fonctionne* au ralenti depuis la panne.
-  Die Maschine *läuft* seit der Störung nur noch langsam.
+  The machine has been slow since the incident.
 
   L'imprimante *fonctionne* uniquement avec des cartouches d'origine.
-  Der Drucker *funktioniert* nur mit Originalpatronen.
+  The printer only *works* with original cartridges.
 
   Notre imagination *fonctionne* mieux quand nous sommes détendus.
-  Unsere Fantasie *arbeitet* besser, wenn wir entspannt sind.
+  Our imagination *works* better when we're relaxed.
 
   Le nouveau moteur *fonctionne* à l'électricité.
-  Der neue Motor wird elektrisch *betrieben*.
+  The new engine is powered electrically.
 
   L'administration *fonctionne* très lentement aujourd'hui.
-  Die Verwaltung *arbeitet* heute sehr langsam.
+  The administration is working very slowly today.
 
   Cette nouvelle application *fonctionne* sur tous les smartphones.
-  Diese neue App *funktioniert* auf allen Smartphones.
+  This new app *works* on all smartphones.
 
   "Je ne comprends pas comment son cerveau *fonctionne*."
-  "Ich verstehe nicht, wie sein Gehirn *funktioniert*."
+  "I don't understand how his brain *works*."
 
   Le lave-vaisselle *fonctionne* à vide depuis une heure.
-  Die Spülmaschine *läuft* seit einer Stunde leer.
+  The dishwasher's been empty for an hour.
 
   Cette vieille montre *fonctionne* encore comme au premier jour.
-  Diese alte Uhr *funktioniert* noch wie am ersten Tag.
+  This old watch still *works* like the first day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

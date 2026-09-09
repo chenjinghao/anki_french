@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 541
 Wort: noter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: noter
 Femininum / Plural: ''
 IPA: \nɔ.te\
-Definition: notieren, bemerken
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: record, notice
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu as tout *noté* ?
-  Hast du dir alles *notiert*?
+  Did you write it all down?
 
   Elle a *noté* mon adresse dans son carnet.
-  Sie hat meine Adresse in ihrem Notizbuch *notiert*.
+  She wrote my address in her notebook.
 
   Les élèves ont été *notés* très sévèrement pendant l'examen.
-  Die Schüler wurden in der Prüfung sehr streng *benotet*.
+  The students were very severely *graded* in the exam.
 
   J'ai *noté* quelques erreurs dans votre texte.
-  Ich habe einige Fehler in Ihrem Text *festgestellt*.
+  I have *found* some mistakes in your text.
 
   *Notez* que le bureau sera fermé lundi prochain.
-  Bitte *beachten* Sie, dass das Büro nächsten Montag geschlossen sein wird.
+  Please *note* that the office will be closed next Monday.
 
   Le professeur *note* les devoirs sur vingt points.
-  Der Lehrer *benotet* die Hausaufgaben mit zwanzig Punkten.
+  The teacher scores the homework with twenty points.
 
   Je dois *noter* ce rendez-vous important.
-  Ich muss mir diesen wichtigen Termin *aufschreiben*.
+  I have to *write down* this important appointment.
 
   *Notez* bien cette date : le 15 mars.
-  *Merken* Sie sich dieses Datum gut: den 15. März.
+  Remember this date: March 15th.
 
   Il faut *noter* que la situation s'est améliorée.
-  Man muss *feststellen*, dass sich die Situation verbessert hat.
+  It must be noted that the situation has improved.
 
   Le compositeur a *noté* la mélodie sur une partition.
-  Der Komponist hat die Melodie auf einem Notenblatt *notiert*.
+  The composer has recorded the melody on a sheet of music.
 
   J'ai *noté* les passages importants d'une croix.
-  Ich habe die wichtigen Stellen mit einem Kreuz *markiert*.
+  I marked the important places with a cross.
 
   Le directeur a *noté* mes progrès.
-  Der Direktor hat meine Fortschritte *bewertet*.
+  The director has assessed my progress.
 
   *Notez* bien mon numéro de téléphone.
-  *Schreiben* Sie sich meine Telefonnummer gut *auf*.
+  Write down my phone number well.
 
   Il est à *noter* que personne n'est venu à la réunion.
-  Es ist *anzumerken*, dass niemand zum Treffen gekommen ist.
+  It should be noted that no one came to the meeting.
 
   As-tu *noté* ce qu'il a dit pendant la conférence ?
-  Hast du dir *aufgeschrieben*, was er während der Konferenz gesagt hat?
+  Did you write down what he said during the conference?
 
   Le jury *notera* les candidats selon plusieurs critères.
-  Die Jury wird die Kandidaten nach mehreren Kriterien *bewerten*.
+  The jury will *evaluate* the candidates according to several criteria.
 
   Marie a *noté* tous les ingrédients de la recette.
-  Marie hat sich alle Zutaten des Rezepts *aufgeschrieben*.
+  Marie wrote down all the ingredients of the recipe.
 
   *Notez* bien que le délai expire demain.
-  *Beachten* Sie bitte, dass die Frist morgen abläuft.
+  Please *note* that the deadline will expire tomorrow.
 
   J'ai *noté* un changement dans son comportement.
-  Ich habe eine Veränderung in seinem Verhalten *bemerkt*.
+  I noticed a change in his behavior.
 
   Le premier exercice sera *noté* sur dix points.
-  Die erste Aufgabe wird mit zehn Punkten *bewertet*.
+  The first task is rated with ten points.
 
   *Notez* vos observations dans ce carnet.
-  *Tragen* Sie Ihre Beobachtungen in dieses Notizbuch *ein*.
+  Enter your observations in this notebook.
 
   L'inspecteur a mal *noté* cet employé.
-  Der Inspektor hat diesen Mitarbeiter schlecht *beurteilt*.
+  The inspector misjudged this employee.
 
   *Notons* qu'il est arrivé à l'heure aujourd'hui.
-  *Stellen* wir *fest*, dass er heute pünktlich gekommen ist.
+  Let's find out he came on time today.
 
   Elle a *noté* tous les détails de l'incident.
-  Sie hat sich alle Details des Vorfalls *notiert*.
+  She's taken note of all the details of the incident.
 
   Je vais *noter* ces informations pour ne pas les oublier.
-  Ich werde mir diese Informationen *aufschreiben*, damit ich sie nicht vergesse.
+  I'll *write down* this information so I don't forget it.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

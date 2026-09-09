@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4097
 Wort: écoute
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une écoute
 Femininum / Plural: ''
 IPA: \e.kut\
-Definition: Zuhören, Abhören
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Listening, listening
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut se tenir à l'*écoute* de tout ce qui se passe.
-  Man muss *aufmerksam* verfolgen, was passiert.
+  You have to follow carefully what happens.
 
   Aux heures de *grande écoute*, les publicités sont plus chères.
-  Zur *Hauptsendezeit* sind die Werbespots teurer.
+  The commercials are more expensive at the prime time.
 
   Dans son cabinet, ce psychologue fait preuve d'une grande capacité d'*écoute*.
-  In seiner Praxis zeigt dieser Psychologe eine große *Zuhör*fähigkeit.
+  In his practice, this psychologist shows a great ability to listen.
 
   Les *écoutes* téléphoniques ont révélé un vaste réseau criminel.
-  Die Telefon*abhörungen* haben ein großes kriminelles Netzwerk aufgedeckt.
+  The phone taps have uncovered a large criminal network.
 
   Le système d'*écoute* sous-marine a détecté un sous-marin ennemi.
-  Das Unterwasser*abhör*system hat ein feindliches U-Boot entdeckt.
+  The underwater monitoring system has discovered an enemy submarine.
 
   Cette émission radio a une *écoute* moyenne de deux millions d'auditeurs.
-  Diese Radiosendung hat eine *Einschaltquote* von durchschnittlich zwei Millionen Hörern.
+  This radio broadcast has an average frequency of two million listeners.
 
   Le marin a tiré sur l'*écoute* pour ajuster la voile.
-  Der Seemann zog an der *Schot*, um das Segel einzustellen.
+  The sailor moved to the Schot to set sail.
 
   La nouvelle loi sur les *écoutes* téléphoniques a été adoptée hier.
-  Das neue Telefon*abhör*gesetz wurde gestern verabschiedet.
+  The new telephone consultation law was passed yesterday.
 
   Notre équipe reste à l'*écoute* des besoins des clients.
-  Unser Team bleibt *aufmerksam* für die Bedürfnisse der Kunden.
+  Our team remains *attentive* to the needs of customers.
 
   Le juge a autorisé les *écoutes* officielles dans cette affaire.
-  Der Richter hat die offiziellen *Abhörmaßnahmen* in diesem Fall genehmigt.
+  The judge approved the official wiretapping in this case.
 
   Le poste d'*écoute* militaire surveillait les communications ennemies.
-  Der militärische *Abhör*posten überwachte die feindlichen Kommunikationen.
+  The military interception post monitored the enemy communications.
 
   La grande *écoute* s'est détachée pendant la tempête.
-  Die Groß*schot* hat sich während des Sturms gelöst.
+  The Grand Scot has dissolved during the storm.
 
   Cette table d'*écoute* permet d'enregistrer toutes les conversations.
-  Dieser *Abhör*tisch ermöglicht es, alle Gespräche aufzuzeichnen.
+  This *listening* table allows you to record all conversations.
 
   Les mesures d'*écoute* doivent respecter la vie privée.
-  Die *Überwachungs*maßnahmen müssen die Privatsphäre respektieren.
+  Surveillance measures must respect privacy.
 
   L'*écoute* de cette station de radio ne cesse d'augmenter.
-  Die *Hörerschaft* dieses Radiosenders wächst ständig.
+  The audience of this radio station is constantly growing.
 
   Le candidat doit être à l'*écoute* de l'opinion publique.
-  Der Kandidat muss ein offenes *Ohr* für die öffentliche Meinung haben.
+  The candidate must have an open *ear* for public opinion.
 
   L'*indice d'écoute* de cette émission bat tous les records.
-  Die *Einschaltquote* dieser Sendung bricht alle Rekorde.
+  The ratings of this show are breaking all records.
 
   Les journalistes sont toujours aux *écoutes* de l'actualité.
-  Die Journalisten sind immer *wachsam* gegenüber den aktuellen Ereignissen.
+  Journalists are always vigilant about current events.
 
   Le capitaine a ordonné de border les *écoutes*.
-  Der Kapitän befahl, die *Schoten* dichtzuholen.
+  The captain ordered the pods to close down.
 
   Cette émission est diffusée hors des *heures de grande écoute*.
-  Diese Sendung wird außerhalb der *Hauptsendezeit* ausgestrahlt.
+  This broadcast is broadcast outside the *main time*.
 
   Les *écoutes* sauvages sont strictement interdites par la loi.
-  Illegale *Abhörungen* sind gesetzlich streng verboten.
+  Illegal interception is strictly prohibited by law.
 
   Le médecin a montré une grande qualité d'*écoute*.
-  Der Arzt zeigte eine große *Zuhör*qualität.
+  The doctor showed a great *listening* quality.
 
   Le ministre n'a pas l'*écoute* du président dans ce dossier.
-  Der Minister hat in dieser Angelegenheit kein *Gehör* beim Präsidenten.
+  The Minister has no *hearing* with the President on this matter.
 
   Les bouées d'*écoute* ont été déployées dans la zone maritime.
-  Die *Abhör*bojen wurden in der Meereszone ausgebracht.
+  The *listening* buoys were used in the sea zone.
 
   Je vais prendre l'*écoute* sur cette fréquence radio.
-  Ich werde den *Empfang* auf dieser Radiofrequenz aufnehmen.
+  I'm gonna record the *reception* on this radio frequency.
 
   Le point d'*écoute* de la voile doit être bien fixé.
-  Der *Schot*punkt des Segels muss gut befestigt sein.
+  The point of the sail must be well secured.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

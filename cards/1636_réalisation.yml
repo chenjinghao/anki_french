@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1636
 Wort: réalisation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la réalisation
 Femininum / Plural: ''
 IPA: \ʁe.a.li.za.sjɔ̃\
-Definition: Verwirklichung, Umsetzung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Implementation, implementation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un lancement d'opération demande la *réalisation* d'une action.
-  Ein Operationsstart erfordert die *Durchführung* einer Aktion.
+  An operation start requires the execution of an action.
 
   La *réalisation* de ce projet prendra environ deux ans.
-  Die *Verwirklichung* dieses Projekts wird ungefähr zwei Jahre dauern.
+  The *implementation* of this project will take about two years.
 
   Cette maison représente la plus belle *réalisation* de l'architecte.
-  Dieses Haus ist das schönste *Werk* des Architekten.
+  This house is the most beautiful work of the architect.
 
   La *réalisation* du film a coûté plus de 100 millions d'euros.
-  Die *Regie* des Films hat mehr als 100 Millionen Euro gekostet.
+  The *director* of the film cost more than 100 million euros.
 
   Il a supervisé la *réalisation* de nombreuses émissions de télévision.
-  Er hat die *Regie* bei vielen Fernsehsendungen geführt.
+  He has directed many television shows.
 
   Les *réalisations* médicales des dernières années sont impressionnantes.
-  Die medizinischen *Errungenschaften* der letzten Jahre sind beeindruckend.
+  The medical *achievements* of recent years are impressive.
 
   Nous avons procédé à la *réalisation* des actifs de l'entreprise.
-  Wir haben die *Liquidierung* der Firmenaktiva vorgenommen.
+  We have liquidated the company assets.
 
   La *réalisation* de ce rêve semblait impossible.
-  Die *Verwirklichung* dieses Traums schien unmöglich.
+  The realization of this dream seemed impossible.
 
   Cette exposition présente les meilleures *réalisations* des étudiants.
-  Diese Ausstellung zeigt die besten *Werke* der Studenten.
+  This exhibition shows the best *works* of the students.
 
   La *réalisation* de cette expérience nécessite beaucoup de précision.
-  Die *Durchführung* dieses Experiments erfordert große Präzision.
+  Execution of this experiment requires great precision.
 
   Le compositeur a travaillé sur la *réalisation* de la basse continue.
-  Der Komponist hat an der *Ausarbeitung* des Generalbasses gearbeitet.
+  The composer has worked on the *preparation* of the general bass.
 
   La *réalisation* du contrat a été retardée de plusieurs mois.
-  Der *Abschluss* des Vertrags hat sich um mehrere Monate verzögert.
+  The conclusion of the contract has been delayed by several months.
 
   Cette invention attend encore sa *réalisation* concrète.
-  Diese Erfindung wartet noch auf ihre konkrete *Ausführung*.
+  This invention is still waiting for its concrete *execution*.
 
   La *réalisation* du pont a nécessité des techniques innovantes.
-  Die *Realisierung* der Brücke erforderte innovative Techniken.
+  The realization of the bridge required innovative techniques.
 
   Les travaux de *réalisation* du métro avancent rapidement.
-  Die *Bau*arbeiten der U-Bahn schreiten schnell voran.
+  The *construction* of the subway is progressing fast.
 
   La *réalisation* de ce court métrage lui a valu un prix.
-  Die *Regie* dieses Kurzfilms brachte ihm einen Preis ein.
+  The *director* of this short film brought him a prize.
 
   Cette *réalisation* technique représente une avancée majeure.
-  Diese technische *Errungenschaft* stellt einen großen Fortschritt dar.
+  This technical *achievement* represents a great step forward.
 
   La *réalisation* de ces objectifs demandera beaucoup d'efforts.
-  Die *Verwirklichung* dieser Ziele wird viel Anstrengung erfordern.
+  Achieving these goals will require a lot of effort.
 
   Les *réalisations* de cette équipe sont remarquables.
-  Die *Leistungen* dieses Teams sind bemerkenswert.
+  The achievements of this team are remarkable.
 
   La *réalisation* de ce documentaire a duré trois ans.
-  Die *Regie* dieser Dokumentation dauerte drei Jahre.
+  The *director* of this documentary lasted three years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

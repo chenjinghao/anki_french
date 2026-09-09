@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1222
 Wort: récemment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: récemment
 Femininum / Plural: ''
 IPA: \ʁe.sa.mɑ̃\
-Definition: vor kurzem
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Recently
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai reçu *récemment* une lettre.
-  Ich habe *kürzlich* einen Brief erhalten.
+  I *recently* received a letter.
 
   Cette chanteuse *récemment* découverte fait beaucoup parler d'elle.
-  Diese *kürzlich* entdeckte Sängerin macht viel von sich reden.
+  This *recently* discovered singer makes a lot of talk about herself.
 
   *Récemment*, le musée a ouvert une nouvelle exposition sur l'art moderne.
-  *Vor Kurzem* hat das Museum eine neue Ausstellung über moderne Kunst eröffnet.
+  *Recently*, the museum opened a new exhibition on modern art.
 
   Les roses sont *récemment* écloses dans notre jardin.
-  Die Rosen sind in unserem Garten *erst vor Kurzem* erblüht.
+  The roses have bloomed in our garden only recently.
 
   Avez-vous visité *récemment* vos grands-parents ?
-  Habt ihr *in letzter Zeit* eure Großeltern besucht?
+  Have you visited your grandparents *lately*?
 
   *Tout récemment*, j'ai commencé à apprendre le japonais.
-  *Erst kürzlich* habe ich angefangen, Japanisch zu lernen.
+  *Just recently*, I started to learn Japanese.
 
   *Récemment*, ils ont déménagé dans un nouvel appartement.
-  Sie sind *vor Kurzem* in eine neue Wohnung umgezogen.
+  They moved to a new apartment *recently*.
 
   Cette technologie a été *récemment* développée par nos chercheurs.
-  Diese Technologie wurde von unseren Forschern *erst kürzlich* entwickelt.
+  This technology was recently developed by our researchers.
 
   As-tu *récemment* entendu parler de Marie ?
-  Hast du *in letzter Zeit* etwas von Marie gehört?
+  Have you heard from Marie *lately*?
 
   Les changements *récemment* effectués ont amélioré le système.
-  Die *kürzlich* vorgenommenen Änderungen haben das System verbessert.
+  The recent changes have improved the system.
 
   *Récemment*, nous avons adopté un chaton abandonné.
-  Wir haben *vor Kurzem* ein ausgesetztes Kätzchen adoptiert.
+  We *recently* adopted an abandoned kitten.
 
   Le parc a été *récemment* rénové pour accueillir plus de visiteurs.
-  Der Park wurde *kürzlich* renoviert, um mehr Besucher aufnehmen zu können.
+  The park has *recently* been renovated to accommodate more visitors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

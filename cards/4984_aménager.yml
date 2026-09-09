@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4984
 Wort: aménager
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: aménager
 Femininum / Plural: ''
 IPA: \a.me.na.ʒe\
-Definition: einrichten, anlegen, umbauen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: set up, set up, rebuild
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'avion *aménagé* en hôpital volant était attendu mercredi.
-  Das als fliegendes Krankenhaus *eingerichtete* Flugzeug wurde am Mittwoch erwartet.
+  The aircraft, which was *set up* as a flying hospital, was expected on Wednesday.
 
   Ils ont *aménagé* leur grenier en salle de jeux pour les enfants.
-  Sie haben ihren Dachboden zu einem Spielzimmer für die Kinder *umgebaut*.
+  They have converted their attic into a playroom for the children.
 
   Elle *aménage* sa nouvelle boutique avec beaucoup de goût.
-  Sie *richtet* ihren neuen Laden sehr geschmackvoll *ein*.
+  She's setting up her new store very tastefully.
 
   La mairie a *aménagé* un nouveau parc au centre-ville.
-  Die Stadtverwaltung hat im Stadtzentrum einen neuen Park *angelegt*.
+  The city council has *created* a new park in the city centre.
 
   J'ai dû *aménager* mon horaire de travail pour pouvoir m'occuper de ma mère.
-  Ich musste meinen Arbeitsplan *umstellen*, um mich um meine Mutter kümmern zu können.
+  I had to *change* my schedule to take care of my mother.
 
   Les architectes *aménagent* le quartier selon un plan écologique.
-  Die Architekten *errichten* das Viertel nach einem ökologischen Plan.
+  The architects *build* the neighborhood according to an ecological plan.
 
   La ville a *aménagé* des pistes cyclables dans toutes les grandes rues.
-  Die Stadt hat in allen großen Straßen Fahrradwege *angelegt*.
+  The city has built cycle paths in all the major streets.
 
   Nous avons *aménagé* notre cuisine avec des placards modernes.
-  Wir haben in unserer Küche moderne Schränke *eingebaut*.
+  We have built modern closets in our kitchen.
 
   Le gouvernement a *aménagé* la loi sur le télétravail.
-  Die Regierung hat das Gesetz zur Telearbeit *abgeändert*.
+  The government has amended the law on teleworking.
 
   Il faut *aménager* ton bureau avec une meilleure lumière.
-  Du musst dein Büro mit besserer Beleuchtung *ausstatten*.
+  You have to *equip* your office with better lighting.
 
   Les étudiants ont *aménagé* leur emploi du temps pour réviser les examens.
-  Die Studenten haben ihren Zeitplan für die Prüfungsvorbereitung *angepasst*.
+  The students have adjusted their schedule for the exam preparation.
 
   Cette ancienne usine a été *aménagée* en centre culturel.
-  Diese alte Fabrik wurde zu einem Kulturzentrum *umgebaut*.
+  This old factory was converted into a cultural centre.
 
   Nous devons *aménager* nos finances pour acheter une maison.
-  Wir müssen unsere Finanzen *anpassen*, um ein Haus zu kaufen.
+  We need to adjust our finances to buy a house.
 
   L'entreprise a *aménagé* ses locaux pour accueillir plus d'employés.
-  Das Unternehmen hat seine Räumlichkeiten *umgebaut*, um mehr Mitarbeiter aufzunehmen.
+  The company has converted its premises to accommodate more employees.
 
   Les propriétaires ont *aménagé* un coin lecture dans le salon.
-  Die Eigentümer haben im Wohnzimmer eine Leseecke *eingerichtet*.
+  The owners have furnished a reading corner in the living room.
 
   Le camping nouvellement *aménagé* ouvre ses portes demain.
-  Der neu *angelegte* Campingplatz öffnet morgen seine Tore.
+  The newly created campsite opens its doors tomorrow.
 
   Elle a *aménagé* son studio avec des étagères sur mesure.
-  Sie hat ihr Studio mit maßgefertigten Regalen *ausgestattet*.
+  She has *equipped* her studio with custom shelves.
 
   La commune *aménage* une aire de jeux pour les enfants.
-  Die Gemeinde *legt* einen Spielplatz für die Kinder *an*.
+  The municipality has a playground for the children.
 
   Les décrets ont été *aménagés* pour faciliter leur application.
-  Die Verordnungen wurden *abgeändert*, um ihre Anwendung zu erleichtern.
+  The regulations have been amended to facilitate their application.
 
   Ils ont *aménagé* leur cave en salle de sport.
-  Sie haben ihren Keller zu einem Fitnessraum *umgebaut*.
+  They converted their basement into a gym.
 
   Le balcon a été *aménagé* en petit jardin d'hiver.
-  Der Balkon wurde zu einem kleinen Wintergarten *umgebaut*.
+  The balcony was converted into a small conservatory.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

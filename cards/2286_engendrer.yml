@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2286
 Wort: engendrer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: engendrer
 Femininum / Plural: ''
 IPA: \ɑ̃.ʒɑ̃.dʁe\
-Definition: (er-)zeugen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (supplier)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La violence *engendre* la violence.
-  Gewalt *erzeugt* Gewalt.
+  Violence creates violence.
 
   Ses parents l'ont *engendré* il y a vingt ans.
-  Seine Eltern haben ihn vor zwanzig Jahren *gezeugt*.
+  His parents fathered him twenty years ago.
 
   La rotation du triangle *engendre* un cône parfait.
-  Die Rotation des Dreiecks *ergibt* einen perfekten Kegel.
+  *The* rotation of the triangle results in a perfect cone.
 
   Cette décision politique a *engendré* beaucoup de protestations.
-  Diese politische Entscheidung hat viele Proteste *erzeugt*.
+  This political decision has produced many protests.
 
   "Il est tellement drôle, il n'*engendre* pas la mélancolie !"
-  "Er ist so lustig, er *verbreitet* nur gute Laune!"
+  "He's so funny, he's just in a good mood!"
 
   Les nouvelles technologies *engendrent* des changements profonds dans la société.
-  Die neuen Technologien *erzeugen* tiefgreifende Veränderungen in der Gesellschaft.
+  The new technologies generate profound changes in society.
 
   L'étalon blanc a *engendré* trois poulains magnifiques.
-  Der weiße Hengst hat drei prächtige Fohlen *gezeugt*.
+  The white stallion gave birth to three magnificent foals.
 
   Cette grammaire peut *engendrer* toutes les phrases correctes de la langue.
-  Diese Grammatik kann alle korrekten Sätze der Sprache *generieren*.
+  This grammar can *generate* all the correct sentences of the language.
 
   Le stress au travail *engendre* souvent des problèmes de santé.
-  Stress bei der Arbeit *erzeugt* oft gesundheitliche Probleme.
+  Stress at work often causes health problems.
 
   Un simple malentendu a *engendré* ce conflit.
-  Ein einfaches Missverständnis hat diesen Konflikt *erzeugt*.
+  A simple misunderstanding has *created* this conflict.
 
   La rotation d'une droite *engendre* un plan dans l'espace.
-  Die Rotation einer Geraden *ergibt* eine Ebene im Raum.
+  *The* rotation of a straight line results in a plane in the space.
 
   Cette situation difficile *engendrera* certainement des complications.
-  Diese schwierige Situation wird sicherlich Komplikationen *erzeugen*.
+  This difficult situation will certainly *create* complications.
 
   Selon la Bible, Abraham *engendra* Isaac à un âge avancé.
-  Laut der Bibel hat Abraham Isaak in hohem Alter *gezeugt*.
+  According to the Bible, Abraham fathered Isaac of old age.
 
   Le succès *engendre* souvent le succès.
-  Erfolg *erzeugt* oft Erfolg.
+  Success often produces success.
 
   Ces nouvelles règles ont *engendré* beaucoup de confusion.
-  Diese neuen Regeln haben viel Verwirrung *erzeugt*.
+  These new rules have *created* a lot of confusion.
 
   La peur peut *engendrer* des comportements irrationnels.
-  Angst kann irrationales Verhalten *erzeugen*.
+  Fear can *create* irrational behavior.
 
   Le mouvement de cette courbe *engendre* une surface complexe.
-  Die Bewegung dieser Kurve *ergibt* eine komplexe Fläche.
+  *The* movement of this curve results in a complex surface.
 
   L'amour *engendre* parfois la jalousie.
-  Liebe *erzeugt* manchmal Eifersucht.
+  Love sometimes creates jealousy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

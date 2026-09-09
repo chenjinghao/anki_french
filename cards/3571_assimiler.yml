@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3571
 Wort: assimiler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: assimiler
 Femininum / Plural: ''
 IPA: \a.si.mi.le\
-Definition: aufnehmen; gleichsetzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: record; equate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les gens ne peuvent pas tout *assimiler*.
-  Menschen können nicht alles *aufnehmen*.
+  People can't take everything.
 
   Il est important que les enfants *assimilent* bien les bases des mathématiques.
-  Es ist wichtig, dass Kinder die mathematischen Grundlagen gut *aufnehmen*.
+  It is important that children take up the mathematical basics well.
 
   Les plantes vertes *assimilent* le dioxyde de carbone pendant la photosynthèse.
-  Grüne Pflanzen *assimilieren* Kohlendioxid während der Photosynthese.
+  Green plants *assimilate* carbon dioxide during photosynthesis.
 
   Ne *assimilez* pas le succès à l'argent.
-  *Setzen* Sie Erfolg nicht mit Geld *gleich*.
+  Don't make success *equal* to money.
 
   Marie *assimile* très vite les nouvelles informations.
-  Marie *eignet* sich neue Informationen sehr schnell *an*.
+  Marie is very quick *to* access new information.
 
   Les immigrants se sont bien *assimilés* à la culture locale.
-  Die Einwanderer haben sich gut in die lokale Kultur *integriert*.
+  Immigrants have been well *integrated* into local culture.
 
   Son corps n'*assimile* pas bien les protéines.
-  Sein Körper *verwertet* Proteine nicht gut.
+  His body doesn't use proteins well.
 
   Il faut du temps pour *assimiler* une langue étrangère.
-  Es braucht Zeit, um eine Fremdsprache zu *verinnerlichen*.
+  It takes time to *internalize* a foreign language.
 
   Comment osez-vous *assimiler* mon travail à de la tricherie ?
-  Wie können Sie es wagen, meine Arbeit mit Betrug zu *vergleichen*?
+  How dare you *compare* my work with fraud?
 
   Les élèves ont bien *assimilé* la leçon d'aujourd'hui.
-  Die Schüler haben die heutige Lektion gut *aufgenommen*.
+  The students have well received today's lesson.
 
   Ce médicament est difficile à *assimiler* pour certains patients.
-  Dieses Medikament ist für manche Patienten schwer zu *verdauen*.
+  This medication is difficult for some patients to *digest*.
 
   Les nouveaux employés se sont rapidement *assimilés* à l'équipe.
-  Die neuen Mitarbeiter haben sich schnell ins Team *eingegliedert*.
+  The new employees quickly joined the team.
 
   On ne peut pas *assimiler* ces deux situations.
-  Man kann diese beiden Situationen nicht *gleichsetzen*.
+  You can't equate these two situations.
 
   L'organisme *assimile* mieux les vitamines naturelles que synthétiques.
-  Der Körper *verwertet* natürliche Vitamine besser als synthetische.
+  The body uses natural vitamins better than synthetic ones.
 
   Julie *assimile* facilement les concepts complexes.
-  Julie *erfasst* komplexe Konzepte leicht.
+  Julie easily captures complex concepts.
 
   Ces deux communautés se sont progressivement *assimilées*.
-  Diese beiden Gemeinschaften haben sich nach und nach *angepasst*.
+  These two communities have gradually *adapted*.
 
   Le bébé *assimile* bien le nouveau lait en poudre.
-  Das Baby *verträgt* die neue Pulvermilch gut.
+  The baby tolerates the new powder milk well.
 
   Il faut du temps pour *assimiler* un choc émotionnel.
-  Es braucht Zeit, um einen emotionalen Schock zu *verarbeiten*.
+  It takes time to process an emotional shock.
 
   Les étudiants doivent *assimiler* beaucoup d'informations avant l'examen.
-  Die Studenten müssen vor der Prüfung viele Informationen *aufnehmen*.
+  The students must receive a lot of information before the exam.
 
   Cette communauté refuse de s'*assimiler* complètement.
-  Diese Gemeinschaft weigert sich, sich vollständig zu *integrieren*.
+  This community refuses to fully integrate.
 
   Le cerveau *assimile* mieux l'information pendant le sommeil.
-  Das Gehirn *verarbeitet* Informationen besser während des Schlafes.
+  The brain processes information better during sleep.
 
   Il a rapidement *assimilé* les règles du jeu.
-  Er hat die Spielregeln schnell *verinnerlicht*.
+  He quickly internalized the rules of the game.
 
   On ne peut pas *assimiler* la violence à la force.
-  Man kann Gewalt nicht mit Stärke *gleichsetzen*.
+  You can't equate violence with strength.
 
   Les jeunes enfants *assimilent* les langues comme des éponges.
-  Kleine Kinder *nehmen* Sprachen wie Schwämme *auf*.
+  Small children *take* up languages like sponges.
 
   Cette nourriture est facile à *assimiler*.
-  Diese Nahrung ist leicht zu *verdauen*.
+  This food is easy to *digest*.
 
   Ces concepts sont difficiles à *assimiler* en une seule fois.
-  Diese Konzepte sind schwer auf einmal zu *erfassen*.
+  These concepts are difficult to grasp at once.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

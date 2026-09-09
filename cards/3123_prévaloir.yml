@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3123
 Wort: prévaloir
 Wortart: vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prévaloir
 Femininum / Plural: ''
 IPA: \pʁe.va.lwaʁ\
-Definition: vorherrschen, durchsetzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Predominantly, enforce
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les États-Unis se félicitent d'avoir fait *prévaloir* leurs vues.
-  Die USA freuen sich darüber, dass sie ihre Ansichten *durchgesetzt* haben.
+  The US is pleased that they have asserted their views.
 
   La raison doit toujours *prévaloir* sur les émotions.
-  Die Vernunft muss immer gegenüber den Emotionen *vorherrschen*.
+  Reason must always prevail over emotions.
 
   Son expérience professionnelle a *prévalu* sur son manque de diplômes.
-  Seine Berufserfahrung hat sich gegenüber dem fehlenden Abschluss *durchgesetzt*.
+  His professional experience has prevailed over his lack of qualifications.
 
   Il faut faire *prévaloir* la qualité de vie sur le profit.
-  Die Lebensqualität muss *Vorrang haben* vor dem Profit.
+  The quality of life must take precedence over profit.
 
   Marie s'est *prévalue* de son ancienneté pour obtenir ce poste.
-  Marie hat sich auf ihre langjährige Erfahrung *berufen*, um diese Stelle zu bekommen.
+  Marie has relied on her many years of experience to get this job.
 
   Dans ce débat, les arguments scientifiques ont *prévalu*.
-  In dieser Debatte haben sich die wissenschaftlichen Argumente *durchgesetzt*.
+  In this debate, the scientific arguments have prevailed.
 
   "Il se *prévaut* toujours de ses relations avec des célébrités."
-  "Er *brüstet* sich immer mit seinen Beziehungen zu Prominenten."
+  "He always brags about his relationships with celebrities."
 
   Le bon sens finira par *prévaloir* contre ces préjugés.
-  Der gesunde Menschenverstand wird sich gegen diese Vorurteile *durchsetzen*.
+  Common sense will prevail against these prejudices.
 
   Les intérêts économiques ne devraient pas *prévaloir* sur l'environnement.
-  Wirtschaftliche Interessen sollten nicht gegenüber der Umwelt *vorherrschen*.
+  Economic interests should not prevail over the environment.
 
   Elle a dû faire *prévaloir* ses droits devant le tribunal.
-  Sie musste ihre Rechte vor Gericht *geltend machen*.
+  She had *to assert* her rights in court.
 
   L'avis du médecin a *prévalu* sur celui du patient.
-  Die Meinung des Arztes hat sich gegenüber der des Patienten *durchgesetzt*.
+  The doctor's opinion has prevailed over that of the patient.
 
   Cette tradition *prévaut* encore dans certaines régions.
-  Diese Tradition *herrscht* noch in manchen Regionen *vor*.
+  This tradition still prevails in some regions.
 
   Le directeur s'est *prévalu* de son autorité pour imposer sa décision.
-  Der Direktor hat sich auf seine Autorität *berufen*, um seine Entscheidung durchzusetzen.
+  The director *called* on his authority to enforce his decision.
 
   La sécurité doit *prévaloir* sur la rapidité.
-  Die Sicherheit muss *Vorrang haben* vor der Schnelligkeit.
+  Safety must be a *priority* over speed.
 
   Cette théorie a longtemps *prévalu* dans le monde scientifique.
-  Diese Theorie hat lange in der wissenschaftlichen Welt *vorgeherrscht*.
+  This theory has long prevailed in the scientific world.
 
   Il ne faut pas se *prévaloir* de ses succès passés.
-  Man sollte sich nicht mit seinen vergangenen Erfolgen *brüsten*.
+  One should not boast of his past successes.
 
   La volonté du peuple finira par *prévaloir*.
-  Der Wille des Volkes wird sich am Ende *durchsetzen*.
+  The will of the people will eventually prevail.
 
   L'équipe s'est *prévalue* de son expérience pour remporter le match.
-  Das Team hat sich auf seine Erfahrung *berufen*, um das Spiel zu gewinnen.
+  The team has relied on its experience to win the game.
 
   Sa patience a finalement *prévalu*.
-  Seine Geduld hat sich am Ende *durchgesetzt*.
+  His patience has finally prevailed.
 
   Les nouvelles méthodes ont *prévalu* sur les anciennes.
-  Die neuen Methoden haben sich gegenüber den alten *durchgesetzt*.
+  The new methods have prevailed over the old ones.
 
   Il faut faire *prévaloir* l'intérêt général sur les intérêts particuliers.
-  Das Allgemeinwohl muss gegenüber den Einzelinteressen *vorherrschen*.
+  The general good must prevail over individual interests.
 
   Le jury a fait *prévaloir* son choix malgré les contestations.
-  Die Jury hat ihre Entscheidung trotz der Einwände *durchgesetzt*.
+  The jury has *enforced* its decision despite the objections.
 
   L'amour a fini par *prévaloir* sur la haine.
-  Die Liebe hat sich am Ende gegen den Hass *durchgesetzt*.
+  In the end, love has prevailed against hatred.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

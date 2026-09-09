@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1607
 Wort: menace
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la menace
 Femininum / Plural: ''
 IPA: \mə.nas\
-Definition: Bedrohung, Drohung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Threat, threat
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *menace* terroriste est bien réelle.
-  Die Terror*bedrohung* ist sehr real.
+  The *threat* of terror is very real.
 
   Les *menaces* d'orage ont forcé l'annulation du festival.
-  Die *drohenden* Gewitter haben zur Absage des Festivals geführt.
+  The threatening thunderstorms have led to the cancellation of the festival.
 
   Il a reçu une lettre de *menaces* de mort.
-  Er hat einen Brief mit Mord*drohungen* erhalten.
+  He received a letter with death *threats*.
 
   Sous la *menace* d'une arme, elle a dû ouvrir le coffre-fort.
-  Unter der *Bedrohung* durch eine Waffe musste sie den Safe öffnen.
+  Under the *threat* of a weapon, she had to open the safe.
 
   La déforestation représente une *menace* pour l'environnement.
-  Die Abholzung stellt eine *Bedrohung* für die Umwelt dar.
+  Deforestation poses a *threat* to the environment.
 
   Cette *menace* de démission n'était pas à prendre au sérieux.
-  Diese Rücktritts*drohung* war nicht ernst zu nehmen.
+  This *threat* of resignation was not to be taken seriously.
 
   Les *menaces* de suicide doivent toujours être prises au sérieux.
-  Selbstmord*drohungen* müssen immer ernst genommen werden.
+  Suicide *threats* must always be taken seriously.
 
   Cette usine constitue une *menace* pour la santé publique.
-  Diese Fabrik stellt eine *Bedrohung* für die öffentliche Gesundheit dar.
+  This factory poses a *threat* to public health.
 
   "Ces *menaces* en l'air ne m'impressionnent pas du tout."
-  "Diese leeren *Drohungen* beeindrucken mich überhaupt nicht."
+  "These empty *threats* don't impress me at all."
 
   La *menace* d'inflation inquiète les économistes.
-  Die *drohende* Inflation beunruhigt die Ökonomen.
+  The threat of inflation worries the economists.
 
   Il a proféré des *menaces* contre son ancien patron.
-  Er hat *Drohungen* gegen seinen ehemaligen Chef ausgestoßen.
+  He's been casting *threats* against his former boss.
 
   Une *menace* d'épidémie plane sur la région.
-  Eine *drohende* Epidemie schwebt über der Region.
+  An impending epidemic hovers over the region.
 
   Les *menaces* de violence ne résoudront rien.
-  Gewalt*androhungen* werden nichts lösen.
+  *Threats* of violence won't solve anything.
 
   La *menace* de guerre s'intensifie dans la région.
-  Die Kriegs*bedrohung* in der Region verschärft sich.
+  The *threat* of war in the region is intensifying.
 
   Elle a cédé à la *menace* et signé le document.
-  Sie gab der *Drohung* nach und unterschrieb das Dokument.
+  She gave in to the *threat* and signed the document.
 
   Ses gestes de *menace* ont effrayé les enfants.
-  Seine *drohenden* Gesten haben die Kinder erschreckt.
+  His threatening gestures frightened the children.
 
   La *menace* d'un tremblement de terre reste constante.
-  Die *Gefahr* eines Erdbebens bleibt bestehen.
+  The *danger* of an earthquake remains.
 
   Les *menaces* sont restées sans suite.
-  Die *Drohungen* blieben ohne Folgen.
+  The *threats* remained without consequences.
 
   Cette *menace* de punition n'a pas eu d'effet sur lui.
-  Diese Straf*androhung* hatte keine Wirkung auf ihn.
+  This *threat* of punishment had no effect on him.
 
   Ils ont mis leurs *menaces* à exécution.
-  Sie haben ihre *Drohungen* wahrgemacht.
+  They've made their *threats* come true.
 
   L'entreprise a obtenu le contrat par la *menace*.
-  Das Unternehmen hat den Vertrag durch *Drohungen* erhalten.
+  The company has received the contract through *threats*.
 
   Une nouvelle *menace* pèse sur notre existence.
-  Eine neue *Bedrohung* lastet auf unserer Existenz.
+  A new *threat* weighs on our existence.
 
   Il a écrit sa lettre sous la *menace*.
-  Er schrieb seinen Brief unter *Zwang*.
+  He wrote his letter under *compulsion*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

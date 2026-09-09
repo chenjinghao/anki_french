@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 36
 Wort: y
 Wortart: adv, pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: y
 Femininum / Plural: ''
 IPA: \i\
-Definition: dort, dahin
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: there, there, there
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est certain qu'on va *y* aller.
-  Es ist sicher, dass wir *dorthin* gehen werden.
+  It's safe that we're going *there*.
 
   J'*y* suis allé hier et je compte *y* retourner demain.
-  Ich war gestern *dort* und plane, morgen wieder *dorthin* zu gehen.
+  I was *there* yesterday and I plan to go back there tomorrow.
 
   Il n'*y* était pas quand je suis arrivé.
-  Er war nicht *da*, als ich ankam.
+  He wasn't *there* when I arrived.
 
   Elle s'*y* connaît bien en informatique.
-  Sie kennt sich gut mit Computern *aus*.
+  She knows computers well.
 
   Je n'*y* tiens plus, je vais lui dire ce que je pense.
-  Ich halte es nicht mehr *aus*, ich werde ihm sagen, was ich denke.
+  I can't stand it anymore, I'll tell him what I think.
 
   "Regarde ce tableau, c'est-*y* pas magnifique ?"
-  "Schau dir dieses Gemälde an, ist es nicht wunderschön?"
+  "Look at this painting, isn't it beautiful?"
 
   Allons-*y*, le film va bientôt commencer !
-  Lass uns *los*gehen, der Film fängt bald an!
+  *Let's go*, the movie's about to start!
 
   Ah, j'*y* suis ! J'ai enfin compris le problème.
-  Ach, jetzt hab ich'*s*! Ich habe das Problem endlich verstanden.
+  Oh, now I've got it! I finally understood the problem.
 
   J'*y* renonce, c'est trop difficile pour moi.
-  Ich gebe es *auf*, es ist zu schwierig für mich.
+  I give it up, it's too difficult for me.
 
   N'*y* comptez pas, je ne viendrai pas à la fête.
-  Rechnen Sie nicht *damit*, ich werde nicht zur Party kommen.
+  Don't count on me not coming to the party.
 
   Il *y* a beaucoup de monde dans ce parc aujourd'hui.
-  *Es* sind heute viele Leute in diesem Park.
+  There's a lot of people in this park today.
 
   "Vas-*y*, lance la balle !"
-  "*Los*, wirf den Ball!"
+  "Go ahead, throw the ball!"
 
   *Ça y est*, j'ai enfin terminé mon rapport !
-  *Das war's*, ich habe meinen Bericht endlich fertig!
+  *That's it*, I finally finished my report!
 
   "*Y* en a pas d'autres qui veulent participer ?"
-  "Gibt es *da* keine anderen, die mitmachen wollen?"
+  "Are *there* no others who want to join?"
 
   J'*y* ai dit de faire attention, mais il ne m'a pas écouté.
-  Ich habe *ihm* gesagt, er soll vorsichtig sein, aber er hat nicht auf mich gehört.
+  I told him to be careful, but *he* didn't listen to me.
 
   Ce quartier, j'*y* habite depuis vingt ans.
-  *In diesem Viertel* wohne ich seit zwanzig Jahren.
+  I've lived in this neighborhood for twenty years.
 
   Le plat est brûlant, n'*y* touchez pas !
-  Das Gericht ist heiß, fassen Sie es nicht *an*!
+  The dish is hot, don't touch it!
 
   J'*y* compte bien, ne t'inquiète pas.
-  Ich rechne fest *damit*, mach dir keine Sorgen.
+  I'll make sure you don't worry.
 
   Pensez-vous encore à Jean ? — J'*y* pense souvent.
-  Denken Sie noch an Jean? — Ich denke oft *an ihn*.
+  Do you still think of Jean? — I often think of him.
 
   Je ne m'*y* fierais pas si j'étais toi.
-  Ich würde *ihm* nicht vertrauen, wenn ich du wäre.
+  I wouldn't trust him if I were you.
 
   Il s'*y* connaît vraiment en vins.
-  Er kennt sich wirklich gut mit Weinen *aus*.
+  He's really good at crying.
 
   Elle sait s'*y* prendre avec les enfants difficiles.
-  Sie weiß, wie man mit schwierigen Kindern *umgeht*.
+  She knows how to deal with difficult children.
 
   Je n'*y* comprends rien à cette nouvelle loi.
-  Ich verstehe nichts von diesem neuen Gesetz.
+  I don't understand this new law.
 
   On *y* va à pied ou en voiture ?
-  Gehen wir zu Fuß *dorthin* oder fahren wir mit dem Auto?
+  Are we going *there* on foot or are we going by car?
 
   Il faut *y* réfléchir avant de prendre une décision.
-  Man muss *darüber* nachdenken, bevor man eine Entscheidung trifft.
+  You have to think *about* it before you make a decision.
 
   "Tu *y* crois, toi, à cette histoire ?"
-  "Glaubst du *daran*, an diese Geschichte?"
+  "Do you believe in this story?"
 
   Je m'*y* suis habitué avec le temps.
-  Ich habe mich mit der Zeit *daran* gewöhnt.
+  I got used to it over time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

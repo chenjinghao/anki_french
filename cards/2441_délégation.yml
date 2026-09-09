@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2441
 Wort: délégation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la délégation
 Femininum / Plural: ''
 IPA: \de.le.ɡa.sjɔ̃\
 Definition: Delegation
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Notre *délégation* a été accueillie à l'aéroport.
-  Unsere *Delegation* wurde am Flughafen empfangen.
+  Our *delegation* was received at the airport.
 
   La *délégation* syndicale a rencontré la direction ce matin.
-  Die Gewerkschafts*delegation* hat sich heute Morgen mit der Geschäftsführung getroffen.
+  The union *delegation* met with the management this morning.
 
   Il a signé le document par *délégation* du directeur.
-  Er hat das Dokument im *Auftrag* des Direktors unterschrieben.
+  He signed the document on behalf of the Director.
 
   Une *délégation* commerciale française s'est rendue en Chine.
-  Eine französische Handels*delegation* ist nach China gereist.
+  A French trade *delegation* has travelled to China.
 
   Le maire a donné une *délégation* de pouvoir à son adjoint.
-  Der Bürgermeister hat seinem Stellvertreter eine *Vollmacht* erteilt.
+  The mayor has given his deputy a *power of attorney*.
 
   La *délégation* de compétences a été approuvée par le conseil.
-  Die *Übertragung* von Befugnissen wurde vom Rat genehmigt.
+  The delegation of powers was approved by the Council.
 
   "Nous sommes venus en *délégation* pour exprimer nos préoccupations."
-  "Wir sind als *Abordnung* gekommen, um unsere Bedenken zu äußern."
+  "We came as *secondment* to express our concerns."
 
   La *délégation* parlementaire a visité plusieurs pays européens.
-  Die Parlaments*delegation* hat mehrere europäische Länder besucht.
+  The parliamentary *delegation* has visited several European countries.
 
   Le président a reçu une *délégation* de grévistes hier soir.
-  Der Präsident hat gestern Abend eine *Abordnung* von Streikenden empfangen.
+  The president received a *secondment* of strikers last night.
 
   Cette *délégation* rectorale est valable pour l'année scolaire en cours.
-  Diese rektorale *Beauftragung* gilt für das laufende Schuljahr.
+  This rectoral appointment is valid for the current school year.
 
   La *délégation* de signature permet d'accélérer les procédures administratives.
-  Die *Übertragung* der Unterschriftsbefugnis ermöglicht es, Verwaltungsverfahren zu beschleunigen.
+  The delegation of signature powers will allow administrative procedures to be speeded up.
 
   Une *délégation* spéciale a été nommée pour gérer la commune.
-  Eine besondere *Abordnung* wurde ernannt, um die Gemeinde zu verwalten.
+  A special *secondment* was appointed to administer the municipality.
 
   La DATAR (*Délégation* à l'aménagement du territoire) a joué un rôle crucial.
-  Die DATAR (*Behörde* für Raumplanung) hat eine entscheidende Rolle gespielt.
+  DATAR (the spatial planning *authority*) has played a crucial role.
 
   Le *délégant* a transféré ses droits au *délégataire* par le biais d'une *délégation*.
-  Der Delegierende hat seine Rechte durch eine *Übertragung* auf den Begünstigten übertragen.
+  The delegate has transferred his rights by a *transfer* to the beneficiary.
 
   La *délégation* de créance a permis de résoudre le litige financier.
-  Die *Abtretung* der Forderung hat es ermöglicht, den Finanzstreit beizulegen.
+  The assignment of the claim made it possible to settle the financial dispute.
 
   "J'ai reçu une *délégation* de deux cent mille euros pour ce projet."
-  "Ich habe eine *Zuweisung* von zweihunderttausend Euro für dieses Projekt erhalten."
+  "I have received an *allocation* of two hundred thousand euros for this project."
 
   La *délégation* de solde permet aux familles des militaires de recevoir une partie de leur salaire.
-  Die *Überweisung* des Soldes ermöglicht es den Familien von Soldaten, einen Teil ihres Gehalts zu erhalten.
+  The *transfer* of the salary allows the families of soldiers to receive part of their salary.
 
   Cette *délégation* commerciale représente les intérêts de plusieurs entreprises françaises.
-  Diese Handels*vertretung* repräsentiert die Interessen mehrerer französischer Unternehmen.
+  This commercial *representation* represents the interests of several French companies.
 
   Le ministre a agi en vertu d'une *délégation* du Premier ministre.
-  Der Minister hat kraft einer *Vollmacht* des Premierministers gehandelt.
+  The Minister acted by virtue of a power of the Prime Minister.
 
   La *délégation* olympique française s'entraîne pour les prochains Jeux.
-  Die französische olympische *Delegation* trainiert für die nächsten Spiele.
+  The French Olympic *delegation* is training for the next games.
 
   Les négociations entre les deux *délégations* ont duré toute la journée.
-  Die Verhandlungen zwischen den beiden *Delegationen* haben den ganzen Tag gedauert.
+  The negotiations between the two *delegations* have lasted all day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3222
 Wort: quiconque
 Wortart: pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quiconque
 Femininum / Plural: ''
 IPA: \ki.kɔ̃k\
-Definition: wer (auch immer)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: who (also always)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je donnerais ma chemise à *quiconque* en aurait besoin.
-  Ich würde *jedem* mein Hemd geben, der es braucht.
+  I'd give my shirt to anyone who needs it.
 
   *Quiconque* veut apprendre le français peut s'inscrire à ce cours.
-  *Jeder*, der Französisch lernen möchte, kann sich für diesen Kurs anmelden.
+  Anyone who wants to learn French can register for this course.
 
   *Quiconque* frappe à ma porte sera le bienvenu.
-  *Wer* an meine Tür klopft, ist willkommen.
+  If you knock on my door, you're welcome.
 
   Cette offre est valable pour *quiconque* achète un billet avant dimanche.
-  Dieses Angebot gilt für *jeden*, der ein Ticket vor Sonntag kauft.
+  This offer applies to anyone who buys a ticket before Sunday.
 
   Elle ne fait confiance à *quiconque*.
-  Sie vertraut *niemandem*.
+  She doesn't trust anyone.
 
   *Quiconque* ne respecte pas les règles devra partir immédiatement.
-  *Wer* die Regeln nicht einhält, muss sofort gehen.
+  If you don't follow the rules, you have to leave immediately.
 
   Je refuse de parler à *quiconque* de cette affaire.
-  Ich weigere mich, mit *irgendjemandem* über diese Angelegenheit zu sprechen.
+  I refuse to talk to *anyone* about this matter.
 
   Marie connaît ce quartier mieux que *quiconque*.
-  Marie kennt dieses Viertel besser als *jeder andere*.
+  Marie knows this neighborhood better than anyone else.
 
   *Quiconque* sera surpris en train de tricher recevra un zéro.
-  *Wer* beim Schummeln erwischt wird, bekommt eine Null.
+  Whoever gets caught cheating gets a zero.
 
   Le directeur recevra *quiconque* souhaite discuter du projet.
-  Der Direktor wird *jeden* empfangen, der über das Projekt sprechen möchte.
+  The director will receive anyone who wants to talk about the project.
 
   Il n'y a pas eu *quiconque* pour m'aider hier soir.
-  Gestern Abend war *niemand* da, um mir zu helfen.
+  Last night, nobody was there to help me.
 
   *Quiconque* a vu quelque chose doit contacter la police.
-  *Wer* etwas gesehen hat, muss sich bei der Polizei melden.
+  Anyone *who*'s seen something has to report to the police.
 
   Je ne laisserai pas *quiconque* gâcher cette soirée.
-  Ich werde nicht zulassen, dass *irgendjemand* diesen Abend ruiniert.
+  I won't let *anyone* ruin this evening.
 
   Plus que *quiconque*, elle mérite cette promotion.
-  Mehr als *jeder andere* verdient sie diese Beförderung.
+  More than anyone else, she deserves this promotion.
 
   *Quiconque* prendra mon vélo sans permission le regrettera.
-  *Wer* mein Fahrrad ohne Erlaubnis nimmt, wird es bereuen.
+  If you take my bike without permission, you'll regret it.
 
   Le concours est ouvert à *quiconque* souhaite participer.
-  Der Wettbewerb steht *jedem* offen, der teilnehmen möchte.
+  The competition is open to anyone who wants to participate.
 
   *Quiconque* arrive après 8 heures ne sera pas admis.
-  *Wer* nach 8 Uhr kommt, wird nicht eingelassen.
+  Those *who* come after 8 o'clock will not be admitted.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

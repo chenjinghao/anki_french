@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2335
 Wort: enrichir
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: enrichir
 Femininum / Plural: ''
 IPA: \ɑ̃.ʁi.ʃiʁ\
-Definition: bereichern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: enriching
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces différences *enrichissent* notre pays.
-  Diese Unterschiede *bereichern* unser Land.
+  These differences enrich our country.
 
   Le commerce *enrichit* rapidement cette petite ville portuaire.
-  Der Handel *machte* diese kleine Hafenstadt schnell *reich*.
+  Trade quickly *made* this small port rich.
 
   "Qui paie ses dettes s'*enrichit*."
-  "Wer seine Schulden bezahlt, *bereichert* sich."
+  "He who pays his debts, enriches himself."
 
   Les voyages ont *enrichi* sa personnalité.
-  Die Reisen haben seine Persönlichkeit *bereichert*.
+  The journeys have *enriched* his personality.
 
   Notre bibliothèque s'est *enrichie* de nombreux livres anciens.
-  Unsere Bibliothek wurde um viele alte Bücher *bereichert*.
+  Our library has been *enriched* with many old books.
 
   Cette expérience a *enrichi* mes connaissances.
-  Diese Erfahrung hat mein Wissen *bereichert*.
+  This experience has *enriched* my knowledge.
 
   Il s'est *enrichi* grâce à son travail acharné.
-  Er hat sich durch seine harte Arbeit *bereichert*.
+  He has *enriched* himself with his hard work.
 
   Les bénévoles *enrichissent* la vie de notre communauté.
-  Die Freiwilligen *bereichern* das Leben unserer Gemeinschaft.
+  The volunteers enrich the life of our community.
 
   Les agriculteurs *enrichissent* le sol avec du compost.
-  Die Bauern *reichern* den Boden mit Kompost *an*.
+  The farmers enrich the soil with compost.
 
   Cette édition est *enrichie* de nouvelles illustrations.
-  Diese Ausgabe ist mit neuen Illustrationen *bereichert*.
+  This edition is *enriched* with new illustrations.
 
   La musique *enrichit* l'âme.
-  Musik *bereichert* die Seele.
+  Music enriches the soul.
 
   Le dictionnaire s'*enrichit* chaque année de nouveaux mots.
-  Das Wörterbuch wird jedes Jahr um neue Wörter *bereichert*.
+  The dictionary is *enriched* with new words every year.
 
   Ces rencontres m'ont *enrichi* personnellement.
-  Diese Begegnungen haben mich persönlich *bereichert*.
+  These meetings have *enriched* me personally.
 
   Les nouvelles technologies *enrichissent* notre quotidien.
-  Neue Technologien *bereichern* unseren Alltag.
+  New technologies enrich our everyday lives.
 
   Cette formation va *enrichir* mon CV.
-  Diese Ausbildung wird meinen Lebenslauf *bereichern*.
+  This training will enrich my CV.
 
   Le musée a *enrichi* sa collection d'œuvres contemporaines.
-  Das Museum hat seine Sammlung um zeitgenössische Werke *erweitert*.
+  The museum has expanded its collection to include contemporary works.
 
   Ces activités *enrichissent* le développement des enfants.
-  Diese Aktivitäten *bereichern* die Entwicklung der Kinder.
+  These activities enrich the development of children.
 
   La lecture *enrichit* le vocabulaire.
-  Lesen *erweitert* den Wortschatz.
+  Reading expands the vocabulary.
 
   Les échanges culturels *enrichissent* notre société.
-  Der kulturelle Austausch *bereichert* unsere Gesellschaft.
+  The cultural exchange enriches our society.
 
   Cette région s'est *enrichie* grâce au tourisme.
-  Diese Region ist durch den Tourismus *reich geworden*.
+  This region has *become rich* through tourism.
 
   Les scientifiques ont *enrichi* l'uranium.
-  Die Wissenschaftler haben das Uran *angereichert*.
+  The scientists *enriched* the uranium.
 
   Cette méthode *enrichit* l'apprentissage des élèves.
-  Diese Methode *bereichert* das Lernen der Schüler.
+  This method enriches students' learning.
 
   Son expérience à l'étranger l'a *enrichi* culturellement.
-  Seine Auslandserfahrung hat ihn kulturell *bereichert*.
+  His experience abroad has *enriched* him culturally.
 
   Les stagiaires *enrichissent* l'entreprise de nouvelles idées.
-  Die Praktikanten *bereichern* das Unternehmen mit neuen Ideen.
+  The interns enrich the company with new ideas.
 
   Cette collaboration nous a mutuellement *enrichis*.
-  Diese Zusammenarbeit hat uns gegenseitig *bereichert*.
+  This cooperation has *enriched* each other.
 
   Le temps et l'expérience *enrichissent* la sagesse.
-  Zeit und Erfahrung *bereichern* die Weisheit.
+  Time and experience enrich wisdom.
 
   Elle s'est *enrichie* de cette expérience.
-  Sie wurde durch diese Erfahrung *bereichert*.
+  It was *enriched* by this experience.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

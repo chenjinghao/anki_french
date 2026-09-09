@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2501
 Wort: flux
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le flux
 Femininum / Plural: ''
 IPA: \fly\
-Definition: Flut, -fluss
-Register: ↘Mündlich
+Definition: Flood, flow
+Register: ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *flux* mondiaux de migration se sont énormément développés.
-  Die weltweiten Migrations*ströme* haben sich enorm entwickelt.
+  Global migration flows have developed enormously.
 
   Le phénomène du *flux* et du reflux de la mer fascine les enfants.
-  Das Phänomen von Ebbe und *Flut* fasziniert die Kinder.
+  The phenomenon of low tide and low tide fascinates the children.
 
   Un *flux* constant de visiteurs traverse le musée chaque jour.
-  Ein konstanter *Strom* von Besuchern durchquert täglich das Museum.
+  A constant stream of visitors crosses the museum every day.
 
   Le médecin a arrêté le *flux sanguin* avec un bandage compressif.
-  Der Arzt hat die *Blutung* mit einem Druckverband gestillt.
+  The doctor has breast-fed the *bleeding* with a pressure bandage.
 
   L'entreprise gère ses stocks en *flux tendu* pour réduire les coûts.
-  Das Unternehmen verwaltet seine Bestände mit *Just-in-time-Produktion*, um die Kosten zu reduzieren.
+  The company manages its stocks with *just-in-time production* to reduce costs.
 
   Le *flux* lumineux de cette lampe est particulièrement puissant.
-  Der Licht*strom* dieser Lampe ist besonders stark.
+  The luminous flux of this lamp is particularly strong.
 
   Les *flux* d'informations circulent en permanence sur Internet.
-  Die Informations*flüsse* zirkulieren permanent im Internet.
+  The flow of information is constantly circulating on the Internet.
 
   Un *flux* important de voitures bloque le centre-ville.
-  Ein starker Verkehrs*strom* blockiert die Innenstadt.
+  A strong traffic stream is blocking the city centre.
 
   Le soudeur utilise un *flux* spécial pour protéger le métal.
-  Der Schweißer verwendet ein spezielles *Flussmittel*, um das Metall zu schützen.
+  The welder uses a special flux to protect the metal.
 
   Ce site propose un *flux* RSS pour suivre ses actualités.
-  Diese Website bietet einen RSS-*Feed* an, um ihre Neuigkeiten zu verfolgen.
+  This website offers an RSS *feed* to track their news.
 
   Les *flux* monétaires entre les pays sont strictement surveillés.
-  Die Geld*ströme* zwischen den Ländern werden streng überwacht.
+  Financial flows between countries are strictly monitored.
 
   Un *flux* continu de données est transmis par satellite.
-  Ein kontinuierlicher Daten*strom* wird per Satellit übertragen.
+  A continuous data stream is transmitted via satellite.
 
   "Il y avait un tel *flux* de paroles qu'on ne comprenait plus rien."
-  "Es gab einen solchen Wort*schwall*, dass man nichts mehr verstand."
+  "There was such a blush of words that you didn't understand anything anymore."
 
   Le *flux* magnétique est mesuré en webers.
-  Der magnetische *Fluss* wird in Weber gemessen.
+  The magnetic flux is measured in Weber.
 
   Les *flux* commerciaux entre ces deux pays ont doublé.
-  Die Handels*ströme* zwischen diesen beiden Ländern haben sich verdoppelt.
+  Trade flows between these two countries have doubled.
 
   Le capteur mesure le *flux* thermique qui traverse la paroi.
-  Der Sensor misst den Wärme*fluss* durch die Wand.
+  The sensor measures the heat *flow* through the wall.
 
   Un *flux* ininterrompu de messages apparaît sur l'écran.
-  Ein ununterbrochener *Strom* von Nachrichten erscheint auf dem Bildschirm.
+  A continuous stream of messages appears on the screen.
 
   Les *flux* migratoires ont changé la démographie du pays.
-  Die Migrations*ströme* haben die Demographie des Landes verändert.
+  Migration flows have changed the demographics of the country.
 
   Le port s'anime avec le *flux* de la marée montante.
-  Der Hafen wird mit der *Flut* lebendig.
+  The port comes alive with the *flood*.
 
   Les économistes étudient les *flux* financiers internationaux.
-  Die Ökonomen untersuchen die internationalen Finanz*ströme*.
+  Economists are investigating international financial flows.
 
   Un *flux* constant de touristes visite ce monument.
-  Ein konstanter *Strom* von Touristen besucht dieses Denkmal.
+  A constant stream of tourists visits this monument.
 
   Le *flux* sanguin vers le cerveau était partiellement bloqué.
-  Der Blut*fluss* zum Gehirn war teilweise blockiert.
+  The blood *flow* to the brain was partially blocked.
 
   Cette ville doit gérer un *flux* croissant de pendulaires.
-  Diese Stadt muss einen wachsenden Pendler*strom* bewältigen.
+  This city has to cope with a growing commuter stream.
 
   Les *flux* de capitaux sont contrôlés par la banque centrale.
-  Die Kapital*flüsse* werden von der Zentralbank kontrolliert.
+  The capital *flows* are controlled by the central bank.
 
   La membrane régule le *flux* des substances dans la cellule.
-  Die Membran reguliert den *Fluss* der Substanzen in der Zelle.
+  The membrane regulates the flow of substances in the cell.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

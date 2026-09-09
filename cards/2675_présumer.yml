@@ -1,110 +1,110 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2675
 Wort: présumer
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: présumer
 Femininum / Plural: ''
 IPA: \pʁe.zy.me\
-Definition: vermuten, annehmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: suspect, accept
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *présume* que vous êtes carnivore.
-  Ich *nehme an*, dass Sie Fleisch essen.
+  I assume you're eating meat.
 
   On peut *présumer* une issue heureuse de cette négociation.
-  Man kann einen glücklichen Ausgang dieser Verhandlung *erwarten*.
+  One can *expect* a happy outcome of this negotiation.
 
   Les parents *présumaient* leur fille morte après sa longue disparition.
-  Die Eltern *hielten* ihre Tochter nach ihrem langen Verschwinden für *tot*.
+  The parents thought their daughter was *dead* after her long disappearance.
 
   "Je *présume* que tu es d'accord avec cette décision ?"
-  "Ich *gehe davon aus*, dass du mit dieser Entscheidung einverstanden bist?"
+  "I assume that you agree with this decision?"
 
   Elle a trop *présumé* de ses forces et n'a pas pu terminer le marathon.
-  Sie hat ihre Kräfte *überschätzt* und konnte den Marathon nicht beenden.
+  She *overestimated* her powers and couldn't finish the marathon.
 
   Les auteurs *présumés* du vol ont été arrêtés hier soir.
-  Die *mutmaßlichen* Täter des Diebstahls wurden gestern Abend festgenommen.
+  The alleged perpetrators of the theft were arrested last night.
 
   Tout accusé est *présumé* innocent jusqu'à preuve du contraire.
-  Jeder Angeklagte *gilt* als unschuldig, bis das Gegenteil bewiesen ist.
+  Every defendant is considered innocent until the opposite is proven.
 
   Je *présume* d'après votre accent que vous venez du sud de la France.
-  Ich *vermute* aufgrund Ihres Akzents, dass Sie aus Südfrankreich kommen.
+  I'm guessing because of your accent that you're from the south of France.
 
   On *présume* qu'il réussira son examen, vu ses excellentes notes.
-  Man *nimmt an*, dass er seine Prüfung bestehen wird, angesichts seiner hervorragenden Noten.
+  It is assumed that he will pass his exam, given his excellent grades.
 
   "Il a quitté la fête tôt, je *présume*."
-  "Er hat die Party früh verlassen, *nehme ich an*."
+  "He left the party early, *I suppose*."
 
   Dans un couple marié, le mari est *présumé* être le père de l'enfant.
-  In einer Ehe wird der Ehemann als *mutmaßlicher* Vater des Kindes angesehen.
+  In a marriage, the husband is considered to be the presumed father of the child.
 
   Ne *présumez* pas trop de vos capacités, cela pourrait vous jouer des tours.
-  *Überschätzen* Sie Ihre Fähigkeiten nicht, das könnte Ihnen zum Verhängnis werden.
+  Don't *overestimate* your abilities, it could be a disaster for you.
 
   Les premiers résultats ne permettent pas de *présumer* de l'issue finale.
-  Die ersten Ergebnisse lassen keine *Rückschlüsse* auf das Endergebnis zu.
+  The first results do not allow *conclusions* to be drawn on the final result.
 
   Il est à *présumer* que le temps s'améliorera demain.
-  Es ist *anzunehmen*, dass sich das Wetter morgen bessern wird.
+  It is likely that the weather will improve tomorrow.
 
   Les enquêteurs poursuivent leurs recherches sans rien *présumer*.
-  Die Ermittler setzen ihre Untersuchungen fort, ohne etwas *vorauszusetzen*.
+  Investigators continue their investigations without presuming anything.
 
   On ne peut pas *présumer* des intentions de quelqu'un sans preuve.
-  Man kann die Absichten einer Person nicht ohne Beweis *vermuten*.
+  You can't guess a person's intentions without proof.
 
   "C'est une erreur, je *présume* ?"
-  "Das ist ein Fehler, *vermute* ich?"
+  "This is a mistake, I suppose?"
 
   Le suspect a été arrêté car il était *présumé* coupable du crime.
-  Der Verdächtige wurde festgenommen, da er als *mutmaßlicher* Täter des Verbrechens galt.
+  The suspect was arrested because he was considered a suspected perpetrator of the crime.
 
   Ne *présumez* pas que tout le monde partage votre opinion.
-  *Gehen Sie nicht davon aus*, dass jeder Ihre Meinung teilt.
+  *Don't assume* everyone shares your opinion.
 
   Les experts *présument* que le tableau est une œuvre de Rembrandt.
-  Die Experten *vermuten*, dass das Gemälde ein Werk von Rembrandt ist.
+  The experts *suspect* that the painting is a work of Rembrandt.
 
   On peut *présumer* de bons résultats si l'on travaille dur.
-  Man kann gute Ergebnisse *erwarten*, wenn man hart arbeitet.
+  You can *expect* good results if you work hard.
 
   Il a *présumé* de son influence et s'est retrouvé dans une situation délicate.
-  Er hat seinen Einfluss *überschätzt* und sich in einer heiklen Lage wiedergefunden.
+  He *overestimated* his influence and found himself in a delicate situation.
 
   La police a identifié un suspect *présumé* dans l'affaire du cambriolage.
-  Die Polizei hat einen *mutmaßlichen* Verdächtigen im Fall des Einbruchs identifiziert.
+  The police have identified a *suspected* suspect in the case of a burglary.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>présumer</i> und <i>supposer</i></div>
+    <div class="section-title"><i>présumer</i> and <i>supposer</i></div>
     <div class="section-content">
-      <p><span class="fr">Présumer</span> bedeutet <span class="de">"vermuten"</span> oder <span class="de">"annehmen"</span>, impliziert aber ein Bewusstsein für die Möglichkeit eines Irrtums. Es wird verwendet, wenn man etwas für wahrscheinlich oder sehr wahrscheinlich hält, aber anerkennt, dass es sich um eine Wahrscheinlichkeit handelt und falsch sein könnte.</p>
+      <p><span class="fr">Présumer</span> means <span class="de">"vermuten"</span> or <span class="de">"annehmen"</span>It is used when you think something is likely or very likely, but acknowledges that it is a probability and could be wrong.</p>
       <div class="examples">
         <div class="fr">Je présume qu'il viendra à la fête, mais je n'en suis pas certain.</div>
-        <div class="de spoiler">Ich vermute, dass er zur Party kommen wird, aber ich bin nicht sicher.</div>
+        <div class="de spoiler">I suspect he'll come to the party, but I'm not sure.</div>
       </div>
 
-      <p><span class="fr">Supposer</span> (#730) bedeutet <span class="de">"annehmen"</span> oder <span class="de">"voraussetzen"</span> im Sinne einer Hypothese oder Prämisse für eine Argumentation oder Demonstration. Es wird oft in mathematischen oder logischen Kontexten verwendet, wo man von einer Annahme ausgeht, um zu weiteren Schlussfolgerungen zu gelangen.</p>
+      <p><span class="fr">Supposer</span> (#730) means <span class="de">"annehmen"</span> or <span class="de">"voraussetzen"</span> in the sense of a hypothesis or premise for a reasoning or demonstration. It is often used in mathematical or logical contexts, where one assumes an assumption to arrive at further conclusions.</p>
       <div class="examples">
         <div class="fr">Supposons que x est égal à 5, nous pouvons alors calculer y.</div>
-        <div class="de spoiler">Angenommen, x ist gleich 5, dann können wir y berechnen.</div>
+        <div class="de spoiler">Suppose x is equal to 5, then we can calculate y.</div>
       </div>
 
-      <p>Der Hauptunterschied liegt darin, dass bei <span class="fr">présumer</span> das Risiko eines Irrtums im Bewusstsein bleibt, während bei <span class="fr">supposer</span> dieses Risiko (zumindest vorübergehend) ausgeblendet wird, um die Annahme als Werkzeug für weitere Schlussfolgerungen zu nutzen.</p>
+      <p>The main difference is that in the case of <span class="fr">présumer</span> the risk of error remains in the consciousness, while <span class="fr">supposer</span> This risk is avoided (at least temporarily) in order to use the adoption as a tool for further conclusions.</p>
 
-      <p>Das englische Wort <span class="de">"assume"</span> entspricht eher <span class="fr">supposer</span>, besonders in mathematischen Kontexten.</p>
+      <p>The English word <span class="de">"assume"</span> entspricht eher <span class="fr">supposer</span>, especially in mathematical contexts.</p>
     </div>
   </div>

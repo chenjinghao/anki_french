@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4431
 Wort: éditorial
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un éditorial
 Femininum / Plural: éditoriaux
 IPA: \e.di.tɔ.ʁjal\
-Definition: Leitartikel; Verlags-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Editorial; publishing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Pourriez-vous nous parler de vos choix *éditoriaux* ?
-  Könnten Sie uns von Ihren *verlegerischen* Entscheidungen erzählen?
+  Could you tell us about your *publishing* decisions?
 
   L'*éditorial* du journal critiquait sévèrement la nouvelle loi.
-  Der *Leitartikel* der Zeitung kritisierte das neue Gesetz scharf.
+  The newspaper's *editorial* sharply criticized the new law.
 
   Notre équipe *éditoriale* a décidé de publier ce livre controversé.
-  Unser *Verlags*team hat beschlossen, dieses umstrittene Buch zu veröffentlichen.
+  Our publishing team has decided to publish this controversial book.
 
   Tous les matins, je commence par lire l'*éditorial* du Monde.
-  Jeden Morgen beginne ich mit dem *Leitartikel* von Le Monde.
+  Every morning I start with the *editorial* of Le Monde.
 
   La politique *éditoriale* de cette maison favorise les auteurs émergents.
-  Die *Verlags*politik dieses Hauses fördert aufstrebende Autoren.
+  The publishing policy of this house promotes emerging authors.
 
   Le rédacteur en chef a signé un *éditorial* passionné sur le changement climatique.
-  Der Chefredakteur hat einen leidenschaftlichen *Leitartikel* über den Klimawandel geschrieben.
+  The editor-in-chief has written a passionate *editorial* on climate change.
 
   Les choix *éditoriaux* de ce magazine reflètent bien son public cible.
-  Die *verlegerische* Ausrichtung dieses Magazins spiegelt seine Zielgruppe gut wider.
+  The *publishing* orientation of this magazine reflects its target group well.
 
   Pour son premier *éditorial*, elle a choisi un sujet d'actualité brûlant.
-  Für ihren ersten *Leitartikel* hat sie ein brandaktuelles Thema gewählt.
+  For her first *editorial*, she chose a topical topic.
 
   Le comité *éditorial* se réunit chaque lundi matin.
-  Das *Redaktions*komitee trifft sich jeden Montagmorgen.
+  The editorial committee meets every Monday morning.
 
   Les *éditoriaux* sont maintenant tous signés par leurs auteurs.
-  Die *Leitartikel* werden jetzt alle von ihren Autoren unterschrieben.
+  The editorials are all now signed by their authors.
 
   La ligne *éditoriale* du journal n'a pas changé depuis vingt ans.
-  Die *redaktionelle* Linie der Zeitung hat sich seit zwanzig Jahren nicht verändert.
+  The *editorial* line of the newspaper has not changed in 20 years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

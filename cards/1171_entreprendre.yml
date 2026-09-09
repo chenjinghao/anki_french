@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1171
 Wort: entreprendre
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: entreprendre
 Femininum / Plural: ''
 IPA: \ɑ̃.tʁə.pʁɑ̃dʁ\
-Definition: unternehmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: company
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La dame blanche *entreprend* de monter l'escalier.
-  Die weiße Dame *unternimmt* es, die Treppe hochzugehen.
+  The white lady is going to go up the stairs.
 
   Il a *entrepris* de me raconter toute l'histoire.
-  Er *unternahm* es, mir die ganze Geschichte zu erzählen.
+  He did it to tell me *the* whole story.
 
   Nous avons *entrepris* un grand projet de rénovation.
-  Wir haben ein großes Renovierungsprojekt in *Angriff genommen*.
+  We've started a major renovation project.
 
   J'*entreprendrai* mes études de médecine en septembre.
-  Im September werde ich mein Medizinstudium *beginnen*.
+  In September, I will *start* my medical studies.
 
   Elle *entreprend* la construction d'une nouvelle maison.
-  Sie *nimmt* den Bau eines neuen Hauses *in Angriff*.
+  She's starting to build a new house.
 
   "Il m'a *entrepris* pendant une heure sur ses problèmes."
-  "Er hat eine Stunde lang auf mich *eingeredet* wegen seiner Probleme."
+  "He's been talking to me for an hour about his problems."
 
   Le jeune homme *entreprend* de séduire la fille du boulanger.
-  Der junge Mann *unternimmt* es, die Bäckerstochter zu verführen.
+  The young man does it to seduce the baker's daughter.
 
   Marie *entreprendra* son voyage autour du monde demain.
-  Marie wird morgen ihre Weltreise *antreten*.
+  Marie's going on her world trip tomorrow.
 
   L'architecte a *entrepris* la rénovation pour 50.000 euros.
-  Der Architekt hat die Renovierung für 50.000 Euro *übernommen*.
+  The architect has *taken over* the renovation for 50,000 euros.
 
   "Il *entreprend* toujours de nouvelles conquêtes amoureuses."
-  "Er *macht* sich immer an neue Eroberungen *heran*."
+  "He's always approaching new conquests."
 
   Nous avons *entrepris* des recherches approfondies.
-  Wir haben gründliche Nachforschungen *aufgenommen*.
+  We've been doing some thorough research.
 
   L'équipe *entreprendra* bientôt la traduction du livre.
-  Das Team wird bald mit der Übersetzung des Buches *beginnen*.
+  The team will soon begin translating the book.
 
   Mon frère *entreprend* de créer sa propre entreprise.
-  Mein Bruder *unternimmt* es, sein eigenes Unternehmen zu gründen.
+  My brother's doing his own business.
 
   "Elle m'a *entrepris* sur mes projets d'avenir."
-  "Sie hat mich über meine Zukunftspläne *ausgefragt*."
+  "She asked me about my future plans."
 
   Les ouvriers *entreprendront* les travaux lundi prochain.
-  Die Arbeiter werden nächsten Montag mit den Arbeiten *beginnen*.
+  The workers will *start* work next Monday.
 
   Il a *entrepris* un procès contre son ancien employeur.
-  Er hat einen Prozess gegen seinen ehemaligen Arbeitgeber *angestrengt*.
+  He has filed a lawsuit against his former employer.
 
   La société *entreprend* de moderniser ses installations.
-  Die Firma *nimmt* die Modernisierung ihrer Anlagen *in Angriff*.
+  The company is starting to modernize its facilities.
 
   Nous *entreprendrons* cette randonnée difficile demain matin.
-  Wir werden diese schwierige Wanderung morgen früh *in Angriff nehmen*.
+  We will start this difficult hike tomorrow morning.
 
   "Il m'a *entrepris* pour me convaincre de voter pour lui."
-  "Er hat versucht, mich zu *bearbeiten*, damit ich für ihn stimme."
+  "He tried to work on me so I could vote for him."
 
   Elle *entreprend* de ranger toute la maison.
-  Sie *macht* sich *daran*, das ganze Haus aufzuräumen.
+  She's trying to clean up the whole house.
 
   Le gouvernement *entreprend* des réformes importantes.
-  Die Regierung *leitet* wichtige Reformen *ein*.
+  The government is launching important reforms.
 
   L'association *entreprendra* une campagne de sensibilisation.
-  Der Verein wird eine Aufklärungskampagne *starten*.
+  The association will launch an awareness campaign.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

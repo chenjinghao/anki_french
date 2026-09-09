@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4797
 Wort: fasciner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fasciner
 Femininum / Plural: ''
 IPA: \fa.si.ne\
-Definition: faszinieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Fascinating
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un sujet qui me *fascine*.
-  Das ist ein Thema, das mich *fasziniert*.
+  This is a subject that fascinates me.
 
   Le serpent *fascine* sa proie avant d'attaquer.
-  Die Schlange *hypnotisiert* ihre Beute, bevor sie angreift.
+  The snake hypnotizes its prey before it attacks.
 
   Les enfants restaient *fascinés* devant l'écran de télévision.
-  Die Kinder saßen wie *gebannt* vor dem Fernseher.
+  The children sat in front of the TV.
 
   Julie s'est laissée *fasciner* par de belles promesses.
-  Julie hat sich von schönen Versprechungen *beeindrucken* lassen.
+  Julie was impressed by beautiful promises.
 
   Le feu de cheminée me *fascinait* pendant des heures.
-  Das Kaminfeuer *fesselte* mich stundenlang.
+  The fire tied me up for hours.
 
   Les élèves étaient complètement *fascinés* par leur nouveau professeur.
-  Die Schüler waren von ihrem neuen Lehrer völlig *fasziniert*.
+  The students were completely *fascinated* by their new teacher.
 
   Son regard *fascinant* attire tout le monde.
-  Sein *faszinierender* Blick zieht alle an.
+  His fascinating gaze attracts everyone.
 
   La beauté de ce tableau m'a instantanément *fasciné*.
-  Die Schönheit dieses Gemäldes hat mich sofort *in seinen Bann gezogen*.
+  The beauty of this painting immediately captivated me.
 
   Le miroir *fascine* les alouettes qui volent au-dessus.
-  Der Spiegel *hypnotisiert* die darüber fliegenden Lerchen.
+  The mirror hypnotizes the larches flying over it.
 
   Le pouvoir *fascine* toujours les hommes ambitieux.
-  Macht *fasziniert* ehrgeizige Menschen immer.
+  Power always fascinates ambitious people.
 
   Nous sommes *fascinés* par les mystères de l'univers.
-  Wir sind von den Geheimnissen des Universums *fasziniert*.
+  We are *fascinated* by the secrets of the universe.
 
   Elle était *fascinée* par la danse des flammes.
-  Sie war vom Tanz der Flammen *gefesselt*.
+  She was bound by the flames.
 
   Le magicien a *fasciné* son public avec ses tours.
-  Der Zauberer hat sein Publikum mit seinen Tricks *verzaubert*.
+  The magician has *enchanted* his audience with his tricks.
 
   Cette histoire m'a complètement *fasciné* dès le début.
-  Diese Geschichte hat mich von Anfang an völlig *in ihren Bann geschlagen*.
+  This story has completely cast me under its spell from the beginning.
 
   Les jeunes sont souvent *fascinés* par les nouvelles technologies.
-  Junge Menschen sind oft von neuen Technologien *fasziniert*.
+  Young people are often *fascinated* by new technologies.
 
   Le cobra *fascine* l'oiseau de son regard hypnotique.
-  Die Kobra *bannt* den Vogel mit ihrem hypnotischen Blick.
+  The cobra banishes the bird with its hypnotic look.
 
   La musique classique l'a toujours *fasciné*.
-  Klassische Musik hat ihn schon immer *fasziniert*.
+  Classical music has always *fascinated* him.
 
   Les spectateurs étaient *fascinés* par sa performance.
-  Die Zuschauer waren von seiner Darbietung *gefesselt*.
+  The spectators were bound by his performance.
 
   Le luxe du palace *fascinait* les touristes.
-  Der Luxus des Palasthotels *verzauberte* die Touristen.
+  The luxury of the palace hotel *enchanted* the tourists.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

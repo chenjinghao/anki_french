@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1775
 Wort: nier
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: nier
 Femininum / Plural: ''
 IPA: \nje\
-Definition: leugnen, abstreiten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: deny, deny
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous ne pouvez pas le *nier* et les autres non plus.
-  Sie können es nicht *leugnen* und die anderen auch nicht.
+  You can't *deny* it and the others can't.
 
   L'accusé a *nié* tous les faits devant le tribunal.
-  Der Angeklagte hat vor Gericht alle Tatsachen *geleugnet*.
+  The defendant *denied* all the facts in court.
 
   Comment peut-on *nier* l'évidence quand elle est si claire ?
-  Wie kann man die offensichtlichen Tatsachen *leugnen*, wenn sie so klar sind?
+  How can you *deny* the obvious facts when they are so clear?
 
   Elle *nie* avoir participé à cette conversation.
-  Sie *bestreitet*, an diesem Gespräch teilgenommen zu haben.
+  She denies having participated in this conversation.
 
   Je ne *nie* pas qu'il ait du talent, mais il manque de discipline.
-  Ich *bestreite* nicht, dass er Talent hat, aber ihm fehlt die Disziplin.
+  I don't deny that he has talent, but he lacks discipline.
 
   Les preuves sont là, pourtant il continue à *nier*.
-  Die Beweise liegen vor, trotzdem *leugnet* er weiter.
+  The evidence is available, yet he continues to deny.
 
   Sans *nier* les difficultés, nous devons rester optimistes.
-  Ohne die Schwierigkeiten zu *leugnen*, müssen wir optimistisch bleiben.
+  Without denying the difficulties, we must remain optimistic.
 
   Il *niait* fermement être impliqué dans cette affaire.
-  Er *bestritt* vehement, in diese Sache verwickelt zu sein.
+  He vehemently denied being involved in this matter.
 
   Tu peux *nier* autant que tu veux, les faits sont là.
-  Du kannst so viel *leugnen* wie du willst, die Fakten liegen auf dem Tisch.
+  You can *deny* as much as you want, the facts are on the table.
 
   Elle a *nié* sa signature sur le document.
-  Sie hat ihre Unterschrift auf dem Dokument *verleugnet*.
+  She *denied* her signature on the document.
 
   Pourquoi *nier* la réalité quand elle est si évidente ?
-  Warum die Realität *leugnen*, wenn sie so offensichtlich ist?
+  Why *deny* reality when it's so obvious?
 
   Il ne *nie* pas que le problème soit complexe.
-  Er *bestreitet* nicht, dass das Problem komplex ist.
+  He does not deny that the problem is complex.
 
   Les témoins ont *nié* l'avoir vu ce soir-là.
-  Die Zeugen haben *bestritten*, ihn an diesem Abend gesehen zu haben.
+  The Witnesses denied seeing him that night.
 
   Personne ne peut *nier* l'importance de l'éducation.
-  Niemand kann die Bedeutung der Bildung *leugnen*.
+  No one can *deny* the importance of education.
 
   Elle a toujours *nié* sa responsabilité dans l'accident.
-  Sie hat ihre Verantwortung für den Unfall stets *geleugnet*.
+  She has always *denied* her responsibility for the accident.
 
   Je ne peux pas *nier* que j'ai fait des erreurs.
-  Ich kann nicht *abstreiten*, dass ich Fehler gemacht habe.
+  I can't deny I made mistakes.
 
   Il *niait* obstinément malgré les preuves accablantes.
-  Er *leugnete* hartnäckig trotz der erdrückenden Beweise.
+  He persistently *denied* despite the overwhelming evidence.
 
   Comment peux-tu *nier* que tu étais présent ?
-  Wie kannst du *abstreiten*, dass du anwesend warst?
+  How can you deny that you were present?
 
   Elle a *nié* jusqu'au bout avoir reçu l'argent.
-  Sie hat bis zum Schluss *bestritten*, das Geld erhalten zu haben.
+  She denied to have received the money until the end.
 
   On ne peut pas *nier* l'influence du climat sur notre vie.
-  Man kann den Einfluss des Klimas auf unser Leben nicht *leugnen*.
+  One cannot *deny* the influence of the climate on our lives.
 
   Il ne sert à rien de *nier* l'évidence des faits.
-  Es hat keinen Sinn, die offensichtlichen Tatsachen zu *leugnen*.
+  There is no point denying the obvious facts.
 
   Elle *niait* catégoriquement avoir dit cela.
-  Sie *bestritt* kategorisch, das gesagt zu haben.
+  She categorically denied having said that.
 
   Je ne *nie* pas mes origines, je les assume.
-  Ich *verleugne* meine Herkunft nicht, ich stehe dazu.
+  I don't deny my origin, I stand by it.
 
   Pourquoi *nier* ce que tout le monde a vu ?
-  Warum *leugnen*, was alle gesehen haben?
+  Why *deny* what everyone saw?
 
   Les suspects ont *nié* toute implication dans l'incident.
-  Die Verdächtigen haben jegliche Beteiligung an dem Vorfall *bestritten*.
+  The suspects have denied any involvement in the incident.
 
   Il a *nié* cette dette pendant des années.
-  Er hat diese Schuld jahrelang *geleugnet*.
+  He's *denied* this guilt for years.
 
   Marc *nie* qu'il soit arrivé en retard hier.
-  Marc *bestreitet*, dass er gestern zu spät gekommen ist.
+  Marc denies that he was late yesterday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

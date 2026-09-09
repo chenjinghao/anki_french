@@ -1,92 +1,92 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3776
 Wort: déterminant
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déterminant
 Femininum / Plural: déterminante
 IPA: \de.tɛʁ.mi.nɑ̃\
-Definition: bestimmend⁠, ausschlaggebend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Determining, decisive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a joué un rôle *déterminant* lors du coup d'État.
-  Er spielte eine *entscheidende* Rolle beim Staatsstreich.
+  He played a crucial role in *the* coup d'état.
 
   La qualité du service a été *déterminante* dans notre choix du restaurant.
-  Die Servicequalität war *ausschlaggebend* für unsere Restaurantwahl.
+  The service quality was decisive for our restaurant choice.
 
   L'article est un *déterminant* qui introduit le nom dans la phrase.
-  Der Artikel ist ein *Begleiter*, der das Nomen im Satz einführt.
+  The article is a *companion* who introduces the nouns in the sentence.
 
   Les conditions météorologiques seront *déterminantes* pour la récolte.
-  Die Wetterbedingungen werden für die Ernte *entscheidend* sein.
+  Weather conditions will be crucial for the harvest.
 
   Le prix n'est pas un facteur *déterminant* pour moi.
-  Der Preis ist für mich kein *ausschlaggebender* Faktor.
+  *The* price is not a decisive factor for me.
 
   Les adjectifs démonstratifs sont des *déterminants* qui précisent le nom.
-  Die Demonstrativadjektive sind *Begleiter*, die das Nomen näher bestimmen.
+  Demonstrative adjectives are companions who determine the noun more closely.
 
   Son témoignage a été *déterminant* pour résoudre l'affaire.
-  Seine Aussage war für die Lösung des Falls *entscheidend*.
+  His statement was decisive for the resolution of the case.
 
   Cette expérience a été *déterminante* dans ma carrière.
-  Diese Erfahrung war für meine Karriere *ausschlaggebend*.
+  This experience was crucial for my career.
 
   Les élèves apprennent à utiliser les *déterminants* en classe de grammaire.
-  Die Schüler lernen im Grammatikunterricht den Gebrauch der *Begleiter*.
+  The students learn the use of the companions in grammar lessons.
 
   La rencontre avec ce professeur fut *déterminante* pour mon avenir.
-  Die Begegnung mit diesem Lehrer war für meine Zukunft *entscheidend*.
+  The encounter with this teacher was crucial for my future.
 
   Le soutien de sa famille a été *déterminant* pour sa réussite.
-  Die Unterstützung seiner Familie war für seinen Erfolg *ausschlaggebend*.
+  His family's support was crucial to his success.
 
   Les adjectifs possessifs sont des *déterminants* qui marquent la possession.
-  Die Possessivadjektive sind *Begleiter*, die den Besitz anzeigen.
+  The Possessivadjectives are companions who display the property.
 
   Cette découverte a joué un rôle *déterminant* dans l'histoire de la médecine.
-  Diese Entdeckung spielte eine *entscheidende* Rolle in der Geschichte der Medizin.
+  This discovery played a crucial role in *the* history of medicine.
 
   Le moment du départ sera *déterminant* pour éviter les embouteillages.
-  Der Zeitpunkt der Abreise wird zur Vermeidung von Staus *ausschlaggebend* sein.
+  The time of departure will be decisive to avoid traffic jams.
 
   Les élèves doivent accorder les *déterminants* avec les noms.
-  Die Schüler müssen die *Begleiter* an die Nomen anpassen.
+  The students must adapt the companions to the nouns.
 
   L'emplacement a été un facteur *déterminant* dans le succès du restaurant.
-  Der Standort war ein *ausschlaggebender* Faktor für den Erfolg des Restaurants.
+  *The* location was a decisive factor in the success of the restaurant.
 
   Cette conversation a été *déterminante* pour notre relation.
-  Dieses Gespräch war für unsere Beziehung *entscheidend*.
+  This conversation was crucial to our relationship.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>décisif</i> und <i>déterminant</i></div>
+    <div class="section-title"><i>décisif</i> and <i>déterminant</i></div>
     <div class="section-content">
-      <p><span class="fr">Décisif</span> (#2867) bedeutet <span class="de">"entscheidend"</span> im Sinne einer endgültigen oder ausschlaggebenden Entscheidung oder Lösung. Es bezieht sich auf etwas, das einen klaren, definitiven Ausgang herbeiführt.</p>
+      <p><span class="fr">Décisif</span> (#2867) means <span class="de">"entscheidend"</span> in the sense of a final or decisive decision or solution. It refers to something that brings about a clear, definitive outcome.</p>
       <div class="examples">
         <div class="fr">Son intervention a été décisive pour résoudre le conflit.</div>
-        <div class="de spoiler">Sein Eingreifen war entscheidend für die Lösung des Konflikts.</div>
+        <div class="de spoiler">His intervention was crucial to resolving the conflict.</div>
         <div class="fr">Le but décisif a été marqué dans les dernières minutes du match.</div>
-        <div class="de spoiler">Das entscheidende Tor wurde in den letzten Minuten des Spiels erzielt.</div>
+        <div class="de spoiler">The final goal was scored in the last minutes of the game.</div>
       </div>
-      <p><span class="fr">Déterminant</span> bedeutet ebenfalls <span class="de">"bestimmend"</span> oder <span class="de">"ausschlaggebend"</span>, betont aber stärker den Einfluss oder die Wirkung auf einen Prozess oder eine Entwicklung. Es bezieht sich auf Faktoren, die wesentlich zum Ergebnis beitragen.</p>
+      <p><span class="fr">Déterminant</span> means ebenfalls <span class="de">"bestimmend"</span> or <span class="de">"ausschlaggebend"</span>However, it emphasizes the influence or effect on a process or development. It refers to factors that contribute significantly to the result.</p>
       <div class="examples">
         <div class="fr">Les conditions climatiques ont été déterminantes pour la récolte.</div>
-        <div class="de spoiler">Die klimatischen Bedingungen waren ausschlaggebend für die Ernte.</div>
+        <div class="de spoiler">The climatic conditions were decisive for the harvest.</div>
         <div class="fr">Son éducation a joué un rôle déterminant dans sa carrière.</div>
-        <div class="de spoiler">Seine Ausbildung spielte eine bestimmende Rolle in seiner Karriere.</div>
+        <div class="de spoiler">His education played a decisive role in his career.</div>
       </div>
-      <p>Der Unterschied liegt in der Nuance: <span class="fr">Décisif</span> betont mehr den endgültigen, abschließenden Charakter einer Entscheidung oder Handlung, während <span class="fr">déterminant</span> eher den maßgeblichen Einfluss auf einen Prozess oder ein Ergebnis hervorhebt.</p>
+      <p>The difference is in the nuance: <span class="fr">Décisif</span> emphasizes more the final, final character of a decision or action, while <span class="fr">déterminant</span> more highlights the significant influence on a process or result.</p>
     </div>
   </div>

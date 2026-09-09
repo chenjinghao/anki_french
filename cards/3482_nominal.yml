@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3482
 Wort: nominal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: nominal
 Femininum / Plural: nominale
 IPA: \nɔ.mi.nal\
-Definition: nominell
-Register: ↗Sachtext
+Definition: nominal
+Register: ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Selon notre enquête, les ventes *nominales* ont augmenté.
-  Laut unserer Umfrage sind die *nominalen* Verkäufe gestiegen.
+  According to our survey, *nominal* sales have increased.
 
   Le professeur fait l'appel *nominal* des élèves chaque matin.
-  Der Lehrer macht jeden Morgen den *namentlichen* Aufruf der Schüler.
+  The teacher makes the call of the students every morning.
 
   L'infinitif est une forme *nominale* du verbe.
-  Der Infinitiv ist eine *nominale* Form des Verbs.
+  The infinitive is a *nominal* form of the verb.
 
   Dans cette phrase, "le chat noir" est un groupe *nominal*.
-  In diesem Satz ist "die schwarze Katze" eine *Nominal*gruppe.
+  In this sentence "the black cat" is a *nominal* group.
 
   Le syntagme *nominal* peut être sujet ou complément.
-  Die *Nominal*phrase kann Subjekt oder Ergänzung sein.
+  The *nominal* phrase can be subject or supplement.
 
   Son salaire *nominal* ne reflète pas son pouvoir d'achat réel.
-  Sein *Nominal*gehalt spiegelt nicht seine tatsächliche Kaufkraft wider.
+  Its *nominal* content does not reflect its actual purchasing power.
 
   La valeur *nominale* de l'action est de 100 euros.
-  Der *Nenn*wert der Aktie beträgt 100 Euro.
+  The par value of the share is 100 euros.
 
   Cette liste *nominale* contient tous les participants.
-  Diese *Namen*liste enthält alle Teilnehmer.
+  This list contains all participants.
 
   Il n'exerce qu'une autorité *nominale* sur son équipe.
-  Er übt nur *nominelle* Autorität über sein Team aus.
+  He's only exercising *nominal* authority over his team.
 
   Cette structure *nominale* est typique du langage journalistique.
-  Diese *Nominal*struktur ist typisch für die Journalistensprache.
+  This *nominal* structure is typical of the language of journalists.
 
   Le pronom "qui" est un *nominal* dans cette phrase.
-  Das Pronomen "wer" ist in diesem Satz ein *Nominal*pronomen.
+  The pronoun "who" is a *nominal* pronoun in this sentence.
 
   La puissance *nominale* de ce moteur est de 150 chevaux.
-  Die *Nenn*leistung dieses Motors beträgt 150 PS.
+  The rated power of this engine is 150 hp.
 
   Cette phrase *nominale* exprime parfaitement l'idée principale.
-  Dieser *Nominal*satz drückt die Hauptidee perfekt aus.
+  This *nominal* set expresses the main idea perfectly.
 
   Le taux *nominal* d'intérêt est fixé à 3%.
-  Der *Nominal*zinssatz ist auf 3% festgelegt.
+  The *nominal* interest rate is set at 3%.
 
   Une erreur *nominale* s'est glissée dans le document.
-  Ein *Namen*fehler hat sich in das Dokument eingeschlichen.
+  A name error has crept into the document.
 
   Les formes *nominales* incluent l'infinitif et le participe.
-  Die *nominalen* Formen umfassen den Infinitiv und das Partizip.
+  The *nominal* forms include the infinitive and the participle.
 
   Le rendement *nominal* prévu n'a pas été atteint.
-  Die geplante *Nominal*rendite wurde nicht erreicht.
+  The planned *nominal* return was not reached.
 
   Cette association n'a qu'une existence *nominale*.
-  Dieser Verein existiert nur *nominell*.
+  This association exists only nominally.
 
   La fonction *nominale* de ce mot est peu utilisée.
-  Die *nominale* Funktion dieses Wortes wird selten verwendet.
+  The *nominal* function of this word is rarely used.
 
   L'altitude *nominale* du satellite est de 400 kilomètres.
-  Die *Soll*höhe des Satelliten beträgt 400 Kilometer.
+  The target height of the satellite is 400 kilometres.
 
   La proposition *nominale* complète le verbe principal.
-  Der *Nominal*satz ergänzt das Hauptverb.
+  The *nominal* rate complements the main verb.
 
   Le groupe *nominal* peut contenir plusieurs adjectifs.
-  Die *Nominal*gruppe kann mehrere Adjektive enthalten.
+  The *nominal* group may contain several adjectives.
 
   La croissance *nominale* ne tient pas compte de l'inflation.
-  Das *nominale* Wachstum berücksichtigt die Inflation nicht.
+  *Nominal* growth does not take inflation into account.
 
   La température *nominale* de fonctionnement est de 20 degrés.
-  Die *Nenn*temperatur für den Betrieb beträgt 20 Grad.
+  The nominal temperature for operation is 20 degrees.
 
   Ce n'est qu'un chef *nominal*, sans pouvoir réel.
-  Er ist nur ein *nomineller* Chef, ohne echte Macht.
+  He's just a *nominal* boss, without real power.
 
   L'emploi *nominal* de cet adverbe est inhabituel.
-  Der *nominale* Gebrauch dieses Adverbs ist ungewöhnlich.
+  The *nominal* use of this adverb is unusual.
 
   Le prix *nominal* diffère souvent du prix du marché.
-  Der *Nominal*preis unterscheidet sich oft vom Marktpreis.
+  The *nominal* price is often different from the market price.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

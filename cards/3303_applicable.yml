@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3303
 Wort: applicable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: applicable
 Femininum / Plural: ''
 IPA: \a.pli.kabl\
-Definition: anwendbar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Applicable
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Plusieurs techniques sont sans doute *applicables*.
-  Mehrere Techniken sind zweifellos *anwendbar*.
+  Several techniques are undoubtedly *applicable*.
 
   Cette théorie est *applicable* à de nombreux cas.
-  Diese Theorie ist auf viele Fälle *anwendbar*.
+  This theory is *applicable* in many cases.
 
   La nouvelle loi sera *applicable* à partir de demain.
-  Das neue Gesetz wird ab morgen *anwendbar* sein.
+  The new law will be *applicable* from tomorrow.
 
   Cette méthode n'est pas *applicable* dans la pratique.
-  Diese Methode ist in der Praxis nicht *anwendbar*.
+  This method is not *applicable* in practice.
 
   La colle n'est *applicable* que sur des surfaces propres.
-  Der Kleber lässt sich nur auf saubere Oberflächen *auftragen*.
+  The adhesive can only be applied to clean surfaces.
 
   Ces découvertes sont *applicables* à la recherche médicale.
-  Diese Entdeckungen sind in der medizinischen Forschung *brauchbar*.
+  These discoveries are useful in medical research.
 
   Les règles sont *applicables* à tous les participants.
-  Die Regeln sind für alle Teilnehmer *anwendbar*.
+  The rules are *applicable* to all participants.
 
   Le traitement est *applicable* aux enfants comme aux adultes.
-  Die Behandlung ist sowohl bei Kindern als auch bei Erwachsenen *anwendbar*.
+  Treatment is *applicable* in both children and adults.
 
   Cette solution n'est pas *applicable* à votre problème.
-  Diese Lösung ist auf Ihr Problem nicht *anwendbar*.
+  This solution is not *applicable* to your problem.
 
   Le nouveau tarif sera *applicable* dès la semaine prochaine.
-  Der neue Tarif wird ab nächster Woche *gültig* sein.
+  The new tariff will be *valid* from next week.
 
   Cette peinture est facilement *applicable* au pinceau.
-  Diese Farbe lässt sich leicht mit dem Pinsel *auftragen*.
+  This paint can be applied easily with the brush.
 
   Les mêmes principes sont *applicables* dans les deux cas.
-  Die gleichen Prinzipien sind in beiden Fällen *anwendbar*.
+  The same principles are *applicable* in both cases.
 
   Ces triangles sont *applicables* l'un sur l'autre.
-  Diese Dreiecke sind aufeinander *deckungsgleich*.
+  These triangles are identical to each other.
 
   Les sanctions seront *applicables* immédiatement.
-  Die Sanktionen werden sofort *wirksam*.
+  The sanctions shall take effect immediately.
 
   Les conseils du professeur sont parfaitement *applicables*.
-  Die Ratschläge des Lehrers sind perfekt *umsetzbar*.
+  Teacher's advice is perfectly feasible.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

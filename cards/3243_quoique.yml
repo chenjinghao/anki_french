@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3243
 Wort: quoique
 Wortart: conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quoique
 Femininum / Plural: ''
 IPA: \kwa.kə\
-Definition: obwohl
-Register: ↗Fiktion
+Definition: although
+Register: ↗fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'écrirai plus, *quoique* j'en souffre.
-  Ich werde nicht mehr schreiben, *obwohl* ich darunter leide.
+  I won't write anymore, even though I suffer from it.
 
   *Quoique* malade, elle est venue travailler aujourd'hui.
-  *Obwohl* krank, ist sie heute zur Arbeit gekommen.
+  *Although* ill, she came to work today.
 
   *Quoique* les prix soient élevés, nous avons décidé d'acheter la maison.
-  *Obwohl* die Preise hoch sind, haben wir beschlossen, das Haus zu kaufen.
+  *Although* the prices are high, we decided to buy the house.
 
   Je lui fais confiance, *quoique* nous nous connaissions depuis peu.
-  Ich vertraue ihr, *obwohl* wir uns erst kurz kennen.
+  I trust her, even though we just met.
 
   *Quoique* très timide, il a réussi à faire un excellent discours.
-  *Obwohl* sehr schüchtern, hat er eine ausgezeichnete Rede gehalten.
+  *Although* very shy, he gave an excellent speech.
 
   Il aime cette ville, *quoique* la vie y soit chère.
-  Er mag diese Stadt, *obwohl* das Leben dort teuer ist.
+  He likes this city, even though life there is expensive.
 
   Nous irons à la plage demain, *quoique* la météo ne soit pas idéale.
-  Wir gehen morgen an den Strand, *obwohl* das Wetter nicht ideal ist.
+  We'll go to the beach tomorrow, *although* the weather isn't ideal.
 
   *Quoique* débutant en français, il se débrouille très bien.
-  *Obwohl* Anfänger in Französisch, kommt er sehr gut zurecht.
+  *Although* beginners in French, he can handle very well.
 
   Elle continue à sourire, *quoqu'*elle traverse une période difficile.
-  Sie lächelt weiter, *obwohl* sie eine schwierige Zeit durchmacht.
+  She continues to smile, even though she is going through a difficult time.
 
   *Quoique* fatigués, les enfants ne veulent pas aller au lit.
-  *Obwohl* müde, wollen die Kinder nicht ins Bett gehen.
+  *Although* tired, the children do not want to go to bed.
 
   Je vais essayer ce restaurant, *quoique* les critiques soient mitigées.
-  Ich werde dieses Restaurant ausprobieren, *obwohl* die Kritiken gemischt sind.
+  I'll try this restaurant, even though the reviews are mixed.
 
   *Quoique* simple, son explication était très claire.
-  *Obwohl* einfach, war seine Erklärung sehr klar.
+  *Although* simple, his explanation was very clear.
 
   Elle a réussi l'examen, *quoqu'*elle n'ait pas beaucoup étudié.
-  Sie hat die Prüfung bestanden, *obwohl* sie nicht viel gelernt hat.
+  She passed the exam, *although* she didn't learn much.
 
   *Quoique* petit, cet appartement est très confortable.
-  *Obwohl* klein, ist diese Wohnung sehr komfortabel.
+  *Although* small, this apartment is very comfortable.
 
   Nous prendrons le train, *quoique* ce soit plus long que la voiture.
-  Wir werden den Zug nehmen, *obwohl* es länger dauert als mit dem Auto.
+  We will take the train, *although* it takes longer than by car.
 
   *Quoique* âgé, il fait encore du sport tous les jours.
-  *Obwohl* alt, treibt er noch jeden Tag Sport.
+  *Although* old, he still does sports every day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

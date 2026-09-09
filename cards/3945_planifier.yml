@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3945
 Wort: planifier
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: planifier
 Femininum / Plural: ''
 IPA: \pla.ni.fje\
-Definition: planen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: plan
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Plus nous *planifions* longtemps d'avance, mieux c'est.
-  Je mehr wir im Voraus *planen*, desto besser.
+  The more we *plan* in advance, the better.
 
   As-tu déjà *planifié* tes vacances d'été ?
-  Hast du deinen Sommerurlaub schon *geplant*?
+  Have you *planned* your summer vacation yet?
 
   Notre entreprise *planifie* la production trois mois à l'avance.
-  Unser Unternehmen *plant* die Produktion drei Monate im Voraus.
+  Our company *plans* production three months in advance.
 
   Le gouvernement a décidé de mieux *planifier* les naissances dans les régions rurales.
-  Die Regierung hat beschlossen, die Geburten in ländlichen Gebieten besser zu *planen*.
+  The government has decided to better *plan* births in rural areas.
 
   Les scientifiques ont soigneusement *planifié* leurs expériences.
-  Die Wissenschaftler haben ihre Experimente sorgfältig *geplant*.
+  The scientists have carefully *planned* their experiments.
 
   Je dois *planifier* mon emploi du temps pour la semaine prochaine.
-  Ich muss meinen Zeitplan für nächste Woche *planen*.
+  I have to *plan* my schedule for next week.
 
   La réunion a été *planifiée* pour mardi prochain à 14 heures.
-  Die Besprechung wurde für nächsten Dienstag um 14 Uhr *geplant*.
+  The meeting was scheduled for next Tuesday at 2 pm.
 
   Il est important de bien *planifier* son budget mensuel.
-  Es ist wichtig, sein monatliches Budget gut zu *planen*.
+  It's important to *plan* your monthly budget well.
 
   Les architectes ont *planifié* la construction du nouveau quartier.
-  Die Architekten haben den Bau des neuen Viertels *geplant*.
+  The architects have *planned* the construction of the new quarter.
 
   Dans une économie *planifiée*, l'État contrôle la production.
-  In einer *Plan*wirtschaft kontrolliert der Staat die Produktion.
+  In a planned economy, the state controls production.
 
   Le ministre a *planifié* sa visite officielle pour le mois prochain.
-  Der Minister hat seinen offiziellen Besuch für nächsten Monat *geplant*.
+  The Minister has *planned* his official visit for next month.
 
   Comment *planifies*-tu ton travail quotidien ?
-  Wie *planst* du deine tägliche Arbeit?
+  How do you plan your daily work?
 
   L'équipe a bien *planifié* le projet, donc tout s'est bien passé.
-  Das Team hat das Projekt gut *geplant*, deshalb lief alles glatt.
+  The team *planned* the project well, so everything went smoothly.
 
   Les étudiants doivent *planifier* leur temps de révision avant les examens.
-  Die Studenten müssen ihre Lernzeit vor den Prüfungen *planen*.
+  Students must *plan* their learning time before the exams.
 
   Le chef de projet a déjà *planifié* toutes les étapes jusqu'à la fin de l'année.
-  Der Projektleiter hat bereits alle Schritte bis zum Jahresende *geplant*.
+  The project manager has already *planned* all steps by the end of the year.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

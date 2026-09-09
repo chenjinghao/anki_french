@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1972
 Wort: bonjour
 Wortart: intj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: bonjour
 Femininum / Plural: ''
 IPA: \bɔ̃.ʒuʁ\
-Definition: Guten Tag
-Register: ↘Sachtext ↗Mündlich
+Definition: Good afternoon
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Voilà ma petite fille. *Bonjour*, ma chérie. Viens par ici.
-  Da ist ja meine kleine Tochter. *Guten Tag*, meine Süße. Komm her.
+  There's my little daughter.
 
   *Bonjour*, Monsieur Dubois. Comment allez-vous aujourd'hui ?
-  *Guten Morgen*, Herr Dubois. Wie geht es Ihnen heute?
+  *Good morning*, Mr. Dubois.
 
   Il est tellement impoli qu'il ne m'a même pas dit *bonjour*.
-  Er ist so unhöflich, dass er mir nicht einmal *hallo* gesagt hat.
+  He's so rude that he didn't even say hi to me.
 
   Cette application est *simple comme bonjour* à utiliser.
-  Diese App ist *kinderleicht* zu benutzen.
+  This app is easy to use.
 
   Je vous transmets le *bonjour* de la part de vos parents.
-  Ich soll Ihnen *schöne Grüße* von Ihren Eltern ausrichten.
+  I'm supposed to say hello to you from your parents.
 
   Entre voisins, c'est *bonjour bonsoir*, on ne se connaît pas vraiment.
-  Unter Nachbarn *grüßt man sich nur*, man kennt sich nicht wirklich.
+  You just say hello to neighbors, you don't really know each other.
 
   Marie a fait *bonjour* de la main quand elle nous a vus.
-  Marie hat zum *Gruß* mit der Hand gewinkt, als sie uns sah.
+  Marie waved her hand to say hello when she saw us.
 
   Je vous envoie un *bonjour* amical de Paris.
-  Ich sende Ihnen einen freundlichen *Gruß* aus Paris.
+  I'll send you a kind greeting from Paris.
 
   Passez nous dire *bonjour* quand vous serez dans le quartier !
-  Schauen Sie auf einen *Besuch* vorbei, wenn Sie in der Gegend sind!
+  Look for a *visit* when you are in the area!
 
   Paul a fait un *bonjour* rapide et est parti tout de suite.
-  Paul hat nur kurz *gegrüßt* und ist sofort wieder gegangen.
+  Paul just greeted me for a second and left immediately.
 
   "Le *bonjour* aux amis !" a-t-il crié en partant.
-  "*Grüßt* mir die anderen!" rief er beim Weggehen.
+  "Hail the others!" he cried as he went away.
 
   *Bonjour les problèmes* ! On a encore une panne d'électricité.
-  *Da haben wir den Salat*! Schon wieder ein Stromausfall.
+  *There's the salad*, another power outage.
 
   "*Bonjour*, tout le monde !" a lancé le professeur en entrant dans la classe.
-  "*Guten Morgen*, alle zusammen!" rief der Lehrer beim Betreten der Klasse.
+  "*Good morning*, everyone!" the teacher shouted as he entered the class.
 
   Donnez le *bonjour* à votre sœur de ma part.
-  Bestellen Sie Ihrer Schwester einen *Gruß* von mir.
+  Send your sister a greeting from me.
 
   Un *bonjour* chaleureux vaut mieux qu'une longue conversation.
-  Ein herzliches *Hallo* ist besser als ein langes Gespräch.
+  A warm *hello* is better than a long conversation.
 
   Elle m'a à peine dit *bonjour* ce matin, elle doit être fâchée.
-  Sie hat mir heute Morgen kaum *guten Morgen* gesagt, sie muss böse sein.
+  She didn't say a *good morning* to me this morning, she must be angry.
 
   Je vous souhaite le *bonjour*, Madame la Directrice.
-  Ich wünsche Ihnen einen *guten Tag*, Frau Direktorin.
+  Have a *good day*, Mrs. Director.
 
   Après m'avoir hébergé pendant un mois, c'était *bonjour bonsoir*, plus de nouvelles.
-  Nachdem ich einen Monat bei ihm gewohnt hatte, *grüßte man sich nur noch flüchtig*, keine weiteren Nachrichten.
+  After I had lived with him for a month, they only greeted each other in flight, no more news.
 
   "*Bien le bonjour* chez vous !" a dit la vieille dame en souriant.
-  "*Einen schönen Gruß* nach Hause!" sagte die alte Dame lächelnd.
+  "Happy greetings home!" said the old lady smiling.
 
   C'est aussi *simple comme bonjour* que de faire cuire des pâtes.
-  Es ist so *einfach wie das Einmaleins*, Nudeln zu kochen.
+  It's as easy as cooking noodles once in a while.
 
   *Bonjour* à tous ! Je suis ravi de vous accueillir à cette conférence.
-  *Guten Tag* allerseits! Ich freue mich, Sie auf dieser Konferenz begrüßen zu dürfen.
+  Good day, everyone, I am looking forward to welcoming you to this conference.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

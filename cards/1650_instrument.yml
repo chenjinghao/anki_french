@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1650
 Wort: instrument
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un instrument
 Femininum / Plural: ''
 IPA: \ɛ̃s.tʁy.mɑ̃\
 Definition: Instrument
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je voulais connaître mieux l'*instrument* et apprendre des solos.
-  Ich wollte das *Instrument* besser kennenlernen und Solos lernen.
+  I wanted to get to know the *instrument* better and learn solos.
 
   Les enfants découvrent différents *instruments* à cordes pendant le cours de musique.
-  Die Kinder entdecken verschiedene Streich*instrumente* im Musikunterricht.
+  The children discover various string *instruments* in music lessons.
 
   Le chirurgien a soigneusement stérilisé tous ses *instruments* avant l'opération.
-  Der Chirurg hat alle seine *Instrumente* vor der Operation sorgfältig sterilisiert.
+  The surgeon carefully sterilized all his *instruments* before surgery.
 
   Marie joue de trois *instruments* : le piano, la flûte et le violon.
-  Marie spielt drei *Instrumente*: Klavier, Flöte und Geige.
+  Marie plays three *instruments*: piano, flute and violin.
 
   L'*instrument* de mesure n'est plus assez précis, il faut le remplacer.
-  Das Mess*instrument* ist nicht mehr genau genug, es muss ersetzt werden.
+  The measuring *instrument* is no longer accurate enough, it must be replaced.
 
   Ces *instruments* aratoires datent du siècle dernier.
-  Diese Acker*geräte* stammen aus dem letzten Jahrhundert.
+  These farm tools date back to the last century.
 
   "Cet *instrument* est complètement désaccordé !" s'est plaint le pianiste.
-  "Dieses *Instrument* ist völlig verstimmt!" beklagte sich der Pianist.
+  "This *instrument* is completely upset!" the pianist complained.
 
   Les *instruments* de bord indiquent une baisse de pression.
-  Die Bord*instrumente* zeigen einen Druckabfall an.
+  The on-board *instruments* indicate a drop in pressure.
 
   Cette bibliothèque est devenue un précieux *instrument* de travail pour les chercheurs.
-  Diese Bibliothek ist zu einem wertvollen Arbeits*werkzeug* für die Forscher geworden.
+  This library has become a valuable *tool* for researchers.
 
   Il ne veut pas être l'*instrument* de leur vengeance.
-  Er will nicht ihr *Werkzeug* der Rache sein.
+  He doesn't want to be their *tool* of revenge.
 
   Les *instruments* à percussion donnent le rythme à l'orchestre.
-  Die Schlag*instrumente* geben dem Orchester den Rhythmus.
+  The percussion *instruments* give the orchestra the rhythm.
 
   Sans visibilité, le pilote doit naviguer aux *instruments*.
-  Bei schlechter Sicht muss der Pilot nach *Instrumenten* fliegen.
+  In case of poor visibility, the pilot must fly to *instruments*.
 
   Nous avons besoin d'*instruments* plus modernes pour ce type d'observation.
-  Wir brauchen modernere *Instrumente* für diese Art von Beobachtung.
+  We need more modern *instruments* for this kind of observation.
 
   L'*instrument* tranchant a été retrouvé sur la scène du crime.
-  Das scharfe *Werkzeug* wurde am Tatort gefunden.
+  The sharp *tool* was found at the scene.
 
   As-tu déjà essayé cet *instrument* traditionnel africain ?
-  Hast du dieses traditionelle afrikanische *Instrument* schon mal ausprobiert?
+  Have you ever tried this traditional African *instrument*?
 
   Les médias sont devenus un puissant *instrument* de propagande.
-  Die Medien sind zu einem mächtigen Propaganda*instrument* geworden.
+  The media has become a powerful propaganda *instrument*.
 
   Thomas a choisi son premier *instrument* : ce sera la guitare.
-  Thomas hat sein erstes *Instrument* gewählt: es wird die Gitarre sein.
+  Thomas chose his first *instrument*: it will be the guitar.
 
   L'*instrument* optique permet d'observer les plus petits détails.
-  Das optische *Instrument* ermöglicht es, die kleinsten Details zu beobachten.
+  The optical *instrument* allows you to observe the smallest details.
 
   Chaque *instrument* de l'orchestre a son importance.
-  Jedes *Instrument* im Orchester hat seine Bedeutung.
+  Every *instrument* in the orchestra has its meaning.
 
   Elle maîtrise parfaitement son *instrument*.
-  Sie beherrscht ihr *Instrument* perfekt.
+  She masteres her *instrument* perfectly.
 
   Ces nouveaux *instruments* financiers sont difficiles à comprendre.
-  Diese neuen Finanz*instrumente* sind schwer zu verstehen.
+  These new financial *instruments* are difficult to understand.
 
   L'*instrument* s'est cassé pendant le concert.
-  Das *Instrument* ist während des Konzerts kaputtgegangen.
+  The *instrument* broke during the concert.
 
   Les *instruments* à vent sont placés au fond de la scène.
-  Die Blas*instrumente* sind im hinteren Teil der Bühne platziert.
+  The wind *instruments* are placed in the back of the stage.
 
   Cet *instrument* de cuisine est très pratique.
-  Dieses Küchen*werkzeug* ist sehr praktisch.
+  This kitchen *tool* is very practical.
 
   Sophie nettoie toujours ses *instruments* après la répétition.
-  Sophie reinigt ihre *Instrumente* immer nach der Probe.
+  Sophie always cleans her *instruments* after rehearsal.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

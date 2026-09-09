@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1133
 Wort: exact
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exact
 Femininum / Plural: exacte
 IPA: \ɛɡ.zakt\
-Definition: genau, exakt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Exactly, exactly
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'histoire est une science *exacte*.
-  Geschichte ist eine *exakte* Wissenschaft.
+  History is an *exact* science.
 
   Il est *exact* qu'il pleut depuis ce matin.
-  Es *stimmt*, dass es seit heute Morgen regnet.
+  It's *true* it's been raining since this morning.
 
   Cette traduction est la reproduction *exacte* du texte original.
-  Diese Übersetzung ist die *genaue* Wiedergabe des Originaltexts.
+  This translation is the exact reproduction of the original text.
 
   Elle est toujours très *exacte* dans son travail.
-  Sie ist bei ihrer Arbeit immer sehr *gewissenhaft*.
+  She's always very conscientious in her work.
 
   Les dimensions *exactes* de la pièce sont de 4 mètres sur 5.
-  Die *exakten* Maße des Raums betragen 4 mal 5 Meter.
+  The *exact* dimensions of the room are 4 by 5 meters.
 
   Mon frère n'est jamais *exact* aux rendez-vous.
-  Mein Bruder ist bei Verabredungen nie *pünktlich*.
+  My brother is never on time on appointments.
 
   La police cherche à déterminer les circonstances *exactes* de l'accident.
-  Die Polizei versucht, die *genauen* Umstände des Unfalls zu ermitteln.
+  The police are trying to determine the exact circumstances of the accident.
 
   Le mot que vous avez choisi n'est pas *exact*.
-  Das Wort, das Sie gewählt haben, ist nicht *treffend*.
+  The word you chose is not apt.
 
   Cette addition n'est pas *exacte*.
-  Diese Addition ist nicht *korrekt*.
+  This addition is not *correct*.
 
   Sa description des événements était parfaitement *exacte*.
-  Seine Beschreibung der Ereignisse war vollkommen *präzise*.
+  His description of the events was perfectly *precise*.
 
   Je voudrais connaître l'heure *exacte*.
-  Ich möchte die *genaue* Uhrzeit wissen.
+  I want to know the exact time.
 
   Il est difficile de se faire une idée *exacte* de la situation.
-  Es ist schwierig, sich eine *genaue* Vorstellung von der Situation zu machen.
+  It is difficult to get a precise idea of the situation.
 
   Cette statue est la réplique *exacte* de l'original.
-  Diese Statue ist die *exakte* Nachbildung des Originals.
+  This statue is the *exact* replica of the original.
 
   Le résultat de votre calcul est *exact*.
-  Das Ergebnis Ihrer Berechnung ist *korrekt*.
+  The result of your calculation is *correct*.
 
   Marie est toujours *exacte* dans ses paiements.
-  Marie ist bei ihren Zahlungen immer *pünktlich*.
+  Marie is always on time for her payments.
 
   Il faut être *exact* dans ses déclarations.
-  Man muss in seinen Aussagen *präzise* sein.
+  You have to be *precise* in your statements.
 
   Est-il *exact* que vous partez demain ?
-  *Stimmt* es, dass Sie morgen abreisen?
+  Is it *true* you're leaving tomorrow?
 
   La psychologie n'est pas une science *exacte*.
-  Die Psychologie ist keine *exakte* Wissenschaft.
+  Psychology is not an *exact* science.
 
   Au sens *exact* du terme, ce n'est pas un mammifère.
-  Im *strengen* Sinne des Wortes ist es kein Säugetier.
+  In the *strict* sense of the word, it is not a mammal.
 
   Son témoignage était *exact* dans les moindres détails.
-  Seine Aussage war bis ins kleinste Detail *genau*.
+  His statement was accurate down to the smallest detail.
 
   Je vous donnerai le nombre *exact* de participants.
-  Ich werde Ihnen die *exakte* Teilnehmerzahl nennen.
+  I'll give you the *exact* number of participants.
 
   Cette copie est l'*exacte* reproduction du tableau.
-  Diese Kopie ist die *genaue* Wiedergabe des Gemäldes.
+  This copy is the exact reproduction of the painting.
 
   La valeur *exacte* de pi ne peut pas être calculée.
-  Der *exakte* Wert von Pi kann nicht berechnet werden.
+  The *exact* value of Pi cannot be calculated.
 
   Votre réponse est parfaitement *exacte*.
-  Ihre Antwort ist vollkommen *korrekt*.
+  Your answer is perfectly *correct*.
 
   Il n'est pas *exact* de dire que tout le monde était d'accord.
-  Es ist nicht *richtig* zu sagen, dass alle einverstanden waren.
+  It's not right to say that everyone agreed.
 
   Cette définition n'est pas *exacte*.
-  Diese Definition ist nicht *präzise*.
+  This definition is not *precise*.
 
   Le vendeur nous a donné les dimensions *exactes* du terrain.
-  Der Verkäufer hat uns die *genauen* Maße des Grundstücks genannt.
+  The seller gave us the exact dimensions of the property.
 
   Soyez *exact* au rendez-vous demain matin.
-  Seien Sie morgen früh *pünktlich* zum Treffen.
+  Be on time for the meeting in the morning.
 
   C'est l'*exacte* vérité.
-  Das ist die *reine* Wahrheit.
+  That's the truth.
 
   Les mathématiques sont considérées comme une science *exacte*.
-  Mathematik gilt als *exakte* Wissenschaft.
+  Mathematics is regarded as an *exact* science.
 
   Il faut employer le terme *exact*.
-  Man muss den *richtigen* Begriff verwenden.
+  You have to use the right term.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

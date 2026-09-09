@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4526
 Wort: enquêteur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un enquêteur
 Femininum / Plural: enquêteuse
 IPA: \ɑ̃.kɛ.tœʁ\
-Definition: Ermittler
-Register: ↗Sachtext
+Definition: Investigator
+Register: ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *enquêteurs* ont nié vendredi avoir torturé le suspect.
-  Die *Ermittler* haben am Freitag bestritten, den Verdächtigen gefoltert zu haben.
+  The investigators denied to have tortured the suspect on Friday.
 
   L'*enquêteuse* de police recueille minutieusement les indices sur la scène du crime.
-  Die polizeiliche *Ermittlerin* sammelt sorgfältig die Spuren am Tatort.
+  The police *investigator* carefully collects the evidence at the scene.
 
   Une *enquêtrice* de l'institut Gallup a interrogé cent personnes sur leurs habitudes alimentaires.
-  Eine *Meinungsforscherin* des Gallup-Instituts hat hundert Personen zu ihren Essgewohnheiten befragt.
+  One *opinion researcher* at the Gallup Institute interviewed a hundred people about their eating habits.
 
   Les *enquêteurs* travaillent jour et nuit pour résoudre cette affaire complexe.
-  Die *Ermittler* arbeiten Tag und Nacht daran, diesen komplexen Fall zu lösen.
+  Investigators are working day and night to solve this complex case.
 
   Notre équipe d'*enquêteurs* sociologiques étudie les comportements des adolescents.
-  Unser Team von soziologischen *Forschern* untersucht das Verhalten von Jugendlichen.
+  Our team of sociological *researchers* investigates the behaviour of young people.
 
   L'*enquêteur* principal m'a posé des questions pendant deux heures.
-  Der leitende *Ermittlungsbeamte* hat mir zwei Stunden lang Fragen gestellt.
+  The chief investigator asked me questions for two hours.
 
   Cette *enquêtrice* expérimentée a déjà résolu plus de cinquante affaires.
-  Diese erfahrene *Ermittlerin* hat bereits über fünfzig Fälle gelöst.
+  This experienced *investigator* has already solved over fifty cases.
 
   Les *enquêteurs* scientifiques analyseront les données du laboratoire demain.
-  Die wissenschaftlichen *Ermittler* werden morgen die Labordaten auswerten.
+  The scientific investigators will evaluate the lab data tomorrow.
 
   Mon frère travaille comme *enquêteur* pour un grand journal.
-  Mein Bruder arbeitet als *Rechercheur* für eine große Zeitung.
+  My brother works as a researcher for a big newspaper.
 
   L'*enquêtrice* a sonné à toutes les portes du quartier pour son sondage.
-  Die *Meinungsforscherin* hat für ihre Umfrage an allen Türen im Viertel geklingelt.
+  The polling researcher rang at all the doors in the neighborhood for her survey.
 
   Le commissaire *enquêteur* présentera ses conclusions la semaine prochaine.
-  Der *Untersuchungs*kommissar wird nächste Woche seine Schlussfolgerungen vorstellen.
+  The Commissioner of Inquiry will present his conclusions next week.
 
   Trois *enquêteurs* de police sont arrivés sur les lieux immédiatement après l'incident.
-  Drei polizeiliche *Ermittler* trafen unmittelbar nach dem Vorfall am Tatort ein.
+  Three police investigators arrived at the scene immediately after the incident.
 
   Les *enquêteurs* ont rapidement identifié la cause de l'accident.
-  Die *Ermittler* haben die Unfallursache schnell identifiziert.
+  Investigators quickly identified the cause of the accident.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

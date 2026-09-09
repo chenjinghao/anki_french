@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4939
 Wort: ravager
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ravager
 Femininum / Plural: ''
 IPA: \ʁa.va.ʒe\
-Definition: verwüsten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: ravaged
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La peste *ravage* Londres, mais Paris est épargnée.
-  Die Pest *verwüstet* London, aber Paris bleibt verschont.
+  The plague ravages London, but Paris is spared.
 
   Les sauterelles ont *ravagé* toutes nos récoltes en une seule nuit.
-  Die Heuschrecken haben unsere gesamte Ernte in einer einzigen Nacht *vernichtet*.
+  The locusts *destroyed* our entire harvest in a single night.
 
   Le typhon a complètement *ravagé* la côte est du pays.
-  Der Taifun hat die Ostküste des Landes völlig *verwüstet*.
+  The typhoon has completely devastated the east coast of the country.
 
   Les chenilles ont *ravagé* tous les chênes de la forêt.
-  Die Raupen haben alle Eichen im Wald *vernichtet*.
+  The caterpillars *destroyed* all the oaks in the forest.
 
   Le chagrin avait *ravagé* son visage autrefois si beau.
-  Der Kummer hatte ihr einst so schönes Gesicht *gezeichnet*.
+  The grief had once *drawn* such a beautiful face to her.
 
   Les remords *ravagent* son esprit depuis des années.
-  Die Gewissensbisse *quälen* seinen Geist seit Jahren.
+  The remorse has tormented his mind for years.
 
   L'inquiétude *ravageait* Marie, qui attendait des nouvelles de son fils.
-  Marie *war krank vor Sorge*, während sie auf Nachrichten von ihrem Sohn wartete.
+  Marie was worried sick while waiting for news from her son.
 
   La guerre civile a *ravagé* ce pays pendant une décennie.
-  Der Bürgerkrieg hat dieses Land ein Jahrzehnt lang *verwüstet*.
+  The civil war has *ravaged* this country for a decade.
 
   Le séisme a *ravagé* toute la région montagneuse.
-  Das Erdbeben hat die gesamte Bergregion *verwüstet*.
+  The earthquake devastated the entire mountain region.
 
   Les flammes ont *ravagé* des milliers d'hectares de forêt.
-  Die Flammen haben tausende Hektar Wald *vernichtet*.
+  The flames have *destroyed* thousands of hectares of forest.
 
   La maladie avait *ravagé* son corps, mais pas son esprit.
-  Die Krankheit hatte seinen Körper *gezeichnet*, aber nicht seinen Geist.
+  The illness had *drawn* his body, but not his mind.
 
   Les inondations ont *ravagé* la ville entière en quelques heures.
-  Die Überschwemmungen haben die ganze Stadt in wenigen Stunden *verwüstet*.
+  The floods have devastated the whole city in a few hours.
 
   La grêle a *ravagé* tous les vignobles de la région.
-  Der Hagel hat alle Weinberge der Region *vernichtet*.
+  The hail *destroyed* all the vineyards in the region.
 
   Le temps a *ravagé* les ruines de l'ancien château.
-  Die Zeit hat die Ruinen der alten Burg *gezeichnet*.
+  Time has *drawn* the ruins of the old castle.
 
   La jalousie *ravageait* son cœur depuis qu'il l'avait vue avec un autre.
-  Die Eifersucht *quälte* sein Herz, seit er sie mit einem anderen gesehen hatte.
+  Jealousy has *tormented* his heart since he saw her with another.
 
   Les bombardements ont *ravagé* le centre-ville historique.
-  Die Bombardierungen haben die historische Innenstadt *verwüstet*.
+  The bombings have devastated the historic city centre.
 
   Le gel a *ravagé* tous les arbres fruitiers cette année.
-  Der Frost hat dieses Jahr alle Obstbäume *vernichtet*.
+  The frost *destroyed* all the fruit trees this year.
 
   Les termites ont *ravagé* toute la structure en bois.
-  Die Termiten haben die gesamte Holzstruktur *vernichtet*.
+  The termites *destroyed* the entire wooden structure.
 
   La sécheresse a *ravagé* les cultures de maïs.
-  Die Dürre hat die Maiskulturen *vernichtet*.
+  The drought *destroyed* the corn crops.
 
   Le doute *ravageait* son âme depuis cette terrible découverte.
-  Der Zweifel *quälte* seine Seele seit dieser schrecklichen Entdeckung.
+  The doubt *tormented* his soul since this terrible discovery.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

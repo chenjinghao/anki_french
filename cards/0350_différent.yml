@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 350
 Wort: différent
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: différent
 Femininum / Plural: différente
 IPA: \di.fe.ʁɑ̃\
-Definition: unterschiedlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: different
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un bruit complètement *différent*.
-  Das ist ein völlig *anderes* Geräusch.
+  That's a completely different sound.
 
   Elle est très *différente* de sa sœur jumelle.
-  Sie ist sehr *anders* als ihre Zwillingsschwester.
+  She's very different from her twin sister.
 
   J'ai rencontré *différentes* personnes qui parlent couramment le japonais.
-  Ich habe *verschiedene* Menschen getroffen, die fließend Japanisch sprechen.
+  I've met *different* people who speak Japanese fluently.
 
   Cette recette est *différente* de celle de ma grand-mère.
-  Dieses Rezept ist *anders* als das meiner Großmutter.
+  This recipe is different from my grandmother's.
 
   Les deux chats sont totalement *différents* : l'un est calme, l'autre très actif.
-  Die beiden Katzen sind völlig *verschieden*: die eine ist ruhig, die andere sehr aktiv.
+  The two cats are completely *different*: one is quiet, the other very active.
 
   *Différents* pays ont déjà adopté cette loi.
-  *Verschiedene* Länder haben dieses Gesetz bereits verabschiedet.
+  Several countries have already passed this law.
 
   Depuis son accident, il est devenu *différent*.
-  Seit seinem Unfall ist er ein *anderer* Mensch geworden.
+  Since his accident, he has become a different person.
 
   Les prix sont *différents* selon les saisons.
-  Die Preise sind je nach Jahreszeit *unterschiedlich*.
+  Prices vary depending on the season.
 
   J'ai essayé *différentes* solutions avant de trouver la bonne.
-  Ich habe *verschiedene* Lösungen ausprobiert, bevor ich die richtige fand.
+  I tried *different* solutions before I found the right one.
 
   Le nouveau professeur a une approche complètement *différente*.
-  Der neue Lehrer hat einen völlig *anderen* Ansatz.
+  The new teacher has a completely different approach.
 
   À *différentes* reprises, je lui ai demandé son avis.
-  Ich habe ihn zu *verschiedenen* Gelegenheiten um seine Meinung gebeten.
+  I asked him for his opinion on various occasions.
 
   Ces deux romans sont très *différents* l'un de l'autre.
-  Diese beiden Romane sind sehr *verschieden* voneinander.
+  These two novels are very *different* from each other.
 
   Nous avons des opinions *différentes* sur ce sujet.
-  Wir haben *unterschiedliche* Meinungen zu diesem Thema.
+  We have *different* opinions on this subject.
 
   Le quartier est bien *différent* de ce qu'il était il y a dix ans.
-  Das Viertel ist ganz *anders* als vor zehn Jahren.
+  The neighborhood is quite different than it was ten years ago.
 
   J'ai visité *différents* musées pendant mon séjour à Paris.
-  Ich habe während meines Paris-Aufenthalts *verschiedene* Museen besucht.
+  I visited various museums during my stay in Paris.
 
   Cette version du jeu est *différente* de celle que je connaissais.
-  Diese Version des Spiels ist *anders* als die, die ich kannte.
+  This version of the game is different from the one I knew.
 
   Les deux sœurs ont des personnalités très *différentes*.
-  Die beiden Schwestern haben sehr *unterschiedliche* Persönlichkeiten.
+  The two sisters have very *different* personalities.
 
   *Différents* facteurs ont contribué à sa décision.
-  *Verschiedene* Faktoren haben zu seiner Entscheidung beigetragen.
+  Various factors have contributed to his decision.
 
   Cette méthode est complètement *différente* des techniques traditionnelles.
-  Diese Methode ist völlig *anders* als die traditionellen Techniken.
+  This method is completely different from traditional techniques.
 
   Les résultats sont *différents* de ce que nous attendions.
-  Die Ergebnisse sind *anders* als erwartet.
+  The results are different than expected.
 
   Il faut examiner le problème sous ses *différents* aspects.
-  Man muss das Problem von *verschiedenen* Seiten betrachten.
+  You have to look at the problem from *different* sides.
 
   Chaque culture a une façon *différente* de célébrer le nouvel an.
-  Jede Kultur hat eine *andere* Art, Neujahr zu feiern.
+  Every culture has a different way of celebrating New Year.
 
   Son nouveau livre est vraiment *différent* de ses œuvres précédentes.
-  Sein neues Buch ist wirklich *anders* als seine vorherigen Werke.
+  His new book is really different from his previous works.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4064
 Wort: sceptique
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sceptique
 Femininum / Plural: ''
 IPA: \sɛp.tik\
-Definition: skeptisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Sceptical
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le monde scientifique reste en majorité *sceptique*.
-  Die wissenschaftliche Welt bleibt größtenteils *skeptisch*.
+  The scientific world remains largely skeptical.
 
   Les *sceptiques* n'acceptent pas facilement les nouvelles théories sans preuves.
-  Die *Skeptiker* akzeptieren neue Theorien nicht leicht ohne Beweise.
+  The skeptics do not easily accept new theories without evidence.
 
   Elle a affiché une moue *sceptique* en entendant ses explications.
-  Sie zeigte eine *skeptische* Miene, als sie seine Erklärungen hörte.
+  She showed a skeptical face when she heard his explanations.
 
   Je suis *sceptique* quant à ses chances de réussite.
-  Ich bin *skeptisch*, was seine Erfolgschancen angeht.
+  I'm skeptical about his chances of success.
 
   Cette nouvelle m'a laissé plutôt *sceptique*.
-  Diese Nachricht hat mich eher *skeptisch* gestimmt.
+  I was rather *sceptical* about this news.
 
   Les philosophes *sceptiques* de l'Antiquité remettaient tout en question.
-  Die *skeptischen* Philosophen der Antike stellten alles in Frage.
+  The skeptical philosophers of ancient times questioned everything.
 
   Marie est devenue une *sceptique* après avoir vécu cette expérience.
-  Marie ist nach dieser Erfahrung zur *Skeptikerin* geworden.
+  Marie has become a skeptic after this experience.
 
   Son attitude *sceptique* envers les médias sociaux est compréhensible.
-  Seine *skeptische* Haltung gegenüber sozialen Medien ist verständlich.
+  His skeptical attitude towards social media is understandable.
 
   Les *sceptiques* du changement climatique ignorent les preuves scientifiques.
-  Die Klimawandel-*Skeptiker* ignorieren die wissenschaftlichen Beweise.
+  The climate change skeptics ignore the scientific evidence.
 
   Il haussa les sourcils d'un air *sceptique*.
-  Er hob *skeptisch* die Augenbrauen.
+  He raised his eyebrows sceptically.
 
   La communauté reste *sceptique* face à ces promesses électorales.
-  Die Gemeinschaft bleibt diesen Wahlversprechen gegenüber *skeptisch*.
+  The Community remains *sceptical* about these promises of elections.
 
   Pierre est un esprit *sceptique* qui analyse tout en détail.
-  Pierre ist ein *skeptischer* Geist, der alles im Detail analysiert.
+  Pierre is a skeptical mind that analyses everything in detail.
 
   Les *sceptiques* ont souvent raison de douter.
-  Die *Skeptiker* haben oft recht damit zu zweifeln.
+  The skeptics are often right to doubt it.
 
   Je suis *sceptique* sur l'efficacité de ce nouveau médicament.
-  Ich bin *skeptisch*, was die Wirksamkeit dieses neuen Medikaments betrifft.
+  I am skeptical about the effectiveness of this new drug.
 
   Elle jeta un regard *sceptique* au vendeur.
-  Sie warf dem Verkäufer einen *skeptischen* Blick zu.
+  She took a skeptical look at the seller.
 
   Son sourire *sceptique* en disait long sur ses doutes.
-  Ihr *skeptisches* Lächeln sagte viel über ihre Zweifel aus.
+  Her skeptical smile said a lot about her doubts.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

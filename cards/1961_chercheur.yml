@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1961
 Wort: chercheur
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chercheur
 Femininum / Plural: chercheuse
 IPA: \ʃɛʁ.ʃœʁ\
-Definition: Forscher
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Researchers
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Même si vous êtes un bon *chercheur*, la compétition est rude.
-  Auch wenn Sie ein guter *Forscher* sind, ist die Konkurrenz hart.
+  Even if you're a good researcher, the competition is tough.
 
   Les *chercheurs* ont fait une découverte révolutionnaire dans le domaine de la physique quantique.
-  Die *Forscher* haben eine bahnbrechende Entdeckung auf dem Gebiet der Quantenphysik gemacht.
+  The *researchers* have made a groundbreaking discovery in the field of quantum physics.
 
   Marie Curie était une *chercheuse* passionnée qui a consacré sa vie à l'étude de la radioactivité.
-  Marie Curie war eine leidenschaftliche *Forscherin*, die ihr Leben der Erforschung der Radioaktivität widmete.
+  Marie Curie was a passionate *researcher* who devoted her life to researching radioactivity.
 
   Le *chercheur d'or* a passé des mois à prospecter dans les montagnes.
-  Der *Goldsucher* verbrachte Monate damit, in den Bergen zu schürfen.
+  The gold seeker spent months digging in the mountains.
 
   Notre équipe de *chercheurs* travaille sur un nouveau traitement contre le cancer.
-  Unser Team von *Forschern* arbeitet an einer neuen Krebstherapie.
+  Our team of *researchers* is working on a new cancer therapy.
 
   Le télescope est équipé d'un *chercheur* pour faciliter le repérage des étoiles.
-  Das Teleskop ist mit einem *Sucher* ausgestattet, um das Auffinden von Sternen zu erleichtern.
+  The telescope is equipped with a viewfinder to facilitate the discovery of stars.
 
   Les *chercheuses* en sciences sociales étudient l'impact des réseaux sociaux sur le comportement des adolescents.
-  Die *Forscherinnen* in den Sozialwissenschaften untersuchen den Einfluss sozialer Medien auf das Verhalten von Jugendlichen.
+  The researchers in the social sciences investigate the influence of social media on the behaviour of young people.
 
   Le missile est doté d'une tête *chercheuse* capable de suivre sa cible avec précision.
-  Die Rakete ist mit einem *Such*kopf ausgestattet, der in der Lage ist, sein Ziel präzise zu verfolgen.
+  The rocket is equipped with a *search* head that is able to precisely track its target.
 
   Les *chercheurs de trésors* ont exploré l'épave d'un ancien navire espagnol.
-  Die *Schatzsucher* haben das Wrack eines alten spanischen Schiffes erkundet.
+  The *treasure hunters* have explored the wreckage of an old Spanish ship.
 
   Son esprit *chercheur* l'a toujours poussé à explorer de nouvelles idées.
-  Sein *forschender* Geist hat ihn immer dazu getrieben, neue Ideen zu erkunden.
+  His researching spirit has always driven him to explore new ideas.
 
   La *chercheuse* a reçu une bourse pour poursuivre ses travaux sur le changement climatique.
-  Die *Forscherin* hat ein Stipendium erhalten, um ihre Arbeit zum Klimawandel fortzusetzen.
+  The *researcher* has received a scholarship to continue her work on climate change.
 
   Le *chercheur de comètes* a permis de repérer un nouvel objet céleste.
-  Der *Kometensucher* hat es ermöglicht, ein neues Himmelsobjekt zu entdecken.
+  The comet seeker has made it possible to discover a new celestial object.
 
   Les *chercheurs* en intelligence artificielle développent des algorithmes de plus en plus sophistiqués.
-  Die *Forscher* im Bereich künstlicher Intelligenz entwickeln immer ausgefeiltere Algorithmen.
+  The *researchers* in the field of artificial intelligence are developing increasingly sophisticated algorithms.
 
   Le *chercheur de nord* est un instrument essentiel pour l'orientation précise des missiles.
-  Der *Nordsucher* ist ein wesentliches Instrument für die genaue Ausrichtung von Raketen.
+  The North Searcher is an essential instrument for the precise alignment of missiles.
 
   La collaboration entre *chercheurs* de différentes disciplines a conduit à des avancées significatives.
-  Die Zusammenarbeit zwischen *Forschern* verschiedener Disziplinen hat zu bedeutenden Fortschritten geführt.
+  Cooperation between *researchers* from different disciplines has led to significant progress.
 
   Les *chercheuses de champignons* connaissent les meilleurs endroits de la forêt.
-  Die *Pilzsammlerinnen* kennen die besten Stellen im Wald.
+  The *mushroom collectors* know the best places in the forest.
 
   Le jeune *chercheur* a publié ses premiers résultats dans une revue scientifique renommée.
-  Der junge *Forscher* hat seine ersten Ergebnisse in einer renommierten wissenschaftlichen Zeitschrift veröffentlicht.
+  The young researcher has published his first results in a renowned scientific journal.
 
   Les *chercheurs d'aventures* ont planifié une expédition dans la jungle amazonienne.
-  Die *Abenteuersucher* haben eine Expedition in den Amazonas-Dschungel geplant.
+  The *adventure seekers* have planned an expedition to the Amazon jungle.
 
   La *chercheuse* en ethnologie étudie les coutumes des tribus isolées.
-  Die *Forscherin* in Ethnologie untersucht die Bräuche isolierter Stämme.
+  The *researcher* in ethnology investigates the customs of isolated tribes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

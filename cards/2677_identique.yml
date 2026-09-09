@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2677
 Wort: identique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: identique
 Femininum / Plural: ''
 IPA: \i.dɑ̃.tik\
-Definition: identisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: identical
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les circonstances sont *identiques*.
-  Die Umstände sind *identisch*.
+  The circumstances are *identical*.
 
   Ces jumeaux portent des vêtements *identiques*.
-  Diese Zwillinge tragen *identische* Kleidung.
+  These twins wear *identical* clothes.
 
   Tous les appartements de cet immeuble sont *identiques*.
-  Alle Wohnungen in diesem Gebäude sind *identisch*.
+  All the apartments in this building are *identical*.
 
   La nouvelle voiture est *identique* à l'ancienne.
-  Das neue Auto ist mit dem alten *identisch*.
+  The new car is *identical* to the old one.
 
   Par des chemins différents, nous sommes arrivés à des conclusions *identiques*.
-  Auf unterschiedlichen Wegen sind wir zu *identischen* Schlussfolgerungen gekommen.
+  We have come to *identical* conclusions in different ways.
 
   Ces deux livres ont un contenu *identique*.
-  Diese beiden Bücher haben einen *identischen* Inhalt.
+  These two books have *identical* contents.
 
   Le restaurant a été reconstruit *à l'identique* après l'incendie.
-  Das Restaurant wurde nach dem Brand *originalgetreu* wiederaufgebaut.
+  The restaurant was rebuilt faithfully after the fire.
 
   Il faut faire une copie *identique* du document original.
-  Man muss eine *identische* Kopie des Originaldokuments anfertigen.
+  You have to make an *identical* copy of the original document.
 
   Les prix sont *identiques* dans tous les magasins.
-  Die Preise sind in allen Geschäften *identisch*.
+  The prices are *identical* in all shops.
 
   Notre point de vue sur cette question est *identique*.
-  Unsere Sichtweise zu dieser Frage ist *identisch*.
+  Our view of this question is *identical*.
 
   Les résultats des deux expériences sont *identiques*.
-  Die Ergebnisse der beiden Experimente sind *identisch*.
+  The results of the two experiments are *identical*.
 
   "Il reste toujours *identique à lui-même*."
-  "Er bleibt *sich* immer *treu*."
+  "He always stays true to himself."
 
   Les symptômes sont *identiques* chez tous les patients.
-  Die Symptome sind bei allen Patienten *identisch*.
+  The symptoms are *identical* in all patients.
 
   Ces deux modèles de téléphone sont *identiques*.
-  Diese beiden Handymodelle sind *identisch*.
+  These two mobile phone models are *identical*.
 
   La réaction chimique produit des effets *identiques*.
-  Die chemische Reaktion erzeugt *identische* Effekte.
+  The chemical reaction produces *identical* effects.
 
   Les goûts de ces gâteaux sont *identiques*.
-  Der Geschmack dieser Kuchen ist *identisch*.
+  The taste of these cakes is *identical*.
 
   Nos horaires de travail sont *identiques*.
-  Unsere Arbeitszeiten sind *identisch*.
+  Our working hours are the same.
 
   La configuration des deux ordinateurs est *identique*.
-  Die Konfiguration der beiden Computer ist *identisch*.
+  The configuration of the two computers is *identical*.
 
   Le nouveau logo est *identique* à l'ancien.
-  Das neue Logo ist mit dem alten *identisch*.
+  The new logo is *identical* to the old one.
 
   Ces deux mots ont une origine *identique*.
-  Diese beiden Wörter haben einen *identischen* Ursprung.
+  These two words have an *identical* origin.
 
   Les dimensions des deux tables sont *identiques*.
-  Die Maße der beiden Tische sind *identisch*.
+  The dimensions of the two tables are *identical*.
 
   La qualité des deux produits est *identique*.
-  Die Qualität der beiden Produkte ist *identisch*.
+  The quality of the two products is *identical*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

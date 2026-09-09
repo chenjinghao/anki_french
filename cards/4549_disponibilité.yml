@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4549
 Wort: disponibilité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la disponibilité
 Femininum / Plural: ''
 IPA: \dis.pɔ.ni.bi.li.te\
-Definition: Verfügbarkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Availability
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les objectifs de *disponibilité* sont des facteurs importants.
-  Die *Verfügbarkeits*ziele sind wichtige Faktoren.
+  The *availability* targets are important factors.
 
   La *disponibilité* de ce nouveau médicament sur le marché est prévue pour mars.
-  Die *Verfügbarkeit* dieses neuen Medikaments auf dem Markt ist für März geplant.
+  The *availability* of this new drug on the market is planned for March.
 
   Les *disponibilités* monétaires ont augmenté de 3% ce trimestre.
-  Das Geld*volumen* ist in diesem Quartal um 3% gestiegen.
+  The *volume* of money increased by 3% in this quarter.
 
   Marie a demandé une *mise en disponibilité* pour s'occuper de ses enfants.
-  Marie hat *sich beurlauben lassen*, um sich um ihre Kinder zu kümmern.
+  Marie took leave of absence to take care of her children.
 
   Je vérifie la *disponibilité* des chambres d'hôtel pour vos dates.
-  Ich prüfe die *Verfügbarkeit* der Hotelzimmer für Ihre Daten.
+  I'll check the *availability* of the hotel rooms for your data.
 
   Le directeur est connu pour sa grande *disponibilité* envers ses employés.
-  Der Direktor ist für seine große *Verfügbarkeit* gegenüber seinen Mitarbeitern bekannt.
+  The director is known for his great *availability* to his staff.
 
   La banque m'a informé que mes *disponibilités* étaient insuffisantes.
-  Die Bank hat mich informiert, dass meine *verfügbaren Mittel* nicht ausreichen.
+  The bank has informed me that my available funds are not enough.
 
   Pierre est *en disponibilité* depuis son burnout l'année dernière.
-  Pierre ist seit seinem Burnout im letzten Jahr im *einstweiligen Ruhestand*.
+  Pierre's been in *temporary retirement* since his burnout last year.
 
   La *disponibilité* d'esprit est essentielle pour la méditation.
-  Die geistige *Verfügbarkeit* ist wesentlich für die Meditation.
+  Spiritual *availability* is essential for meditation.
 
   Les restrictions sur la *disponibilité* des devises étrangères ont été levées.
-  Die Beschränkungen der *Verfügbarkeit* von Fremdwährungen wurden aufgehoben.
+  Limitations on the *availability* of foreign currencies have been lifted.
 
   Nous devons vérifier nos *disponibilités* avant de faire cet investissement.
-  Wir müssen unsere *verfügbaren Mittel* vor dieser Investition überprüfen.
+  We need to review our available resources before this investment.
 
   Sa *disponibilité* pour les autres fait de lui un excellent enseignant.
-  Seine *Verfügbarkeit* für andere macht ihn zu einem ausgezeichneten Lehrer.
+  His *availability* to others makes him an excellent teacher.
 
   Le système affiche la *disponibilité* des places en temps réel.
-  Das System zeigt die *Verfügbarkeit* der Plätze in Echtzeit an.
+  The system shows the *availability* of the seats in real time.
 
   Les *disponibilités* de l'entreprise ont diminué ce mois-ci.
-  Die *verfügbaren Mittel* des Unternehmens sind in diesem Monat zurückgegangen.
+  The available resources of the company have declined this month.
 
   Elle a fait une demande de *disponibilité* pour poursuivre ses études.
-  Sie hat einen Antrag auf *Beurlaubung* gestellt, um ihr Studium fortzusetzen.
+  She applied for leave to continue her studies.
 
   La *disponibilité* du vaccin varie selon les régions.
-  Die *Verfügbarkeit* des Impfstoffs variiert je nach Region.
+  The *availability* of the vaccine varies depending on the region.
 
   Nous apprécions votre *disponibilité* pour cette réunion urgente.
-  Wir schätzen Ihre *Verfügbarkeit* für dieses dringende Meeting.
+  We appreciate your *availability* for this urgent meeting.
 
   Les *disponibilités* financières seront transférées demain.
-  Die *verfügbaren* Finanzmittel werden morgen überwiesen.
+  The *available* funds will be transferred tomorrow.
 
   La *disponibilité* immédiate du produit n'est pas garantie.
-  Die sofortige *Verfügbarkeit* des Produkts ist nicht garantiert.
+  The immediate *availability* of the product is not guaranteed.
 
   Le magasin propose un service de vérification de *disponibilité* en ligne.
-  Der Laden bietet einen Online-*Verfügbarkeits*prüfung an.
+  The store offers an online *availability* check.
 
   Sa *mise en disponibilité* prendra effet le mois prochain.
-  Seine *Beurlaubung* wird nächsten Monat wirksam.
+  His *leave of absence* will take effect next month.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

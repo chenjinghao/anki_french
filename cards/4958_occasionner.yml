@@ -1,83 +1,83 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4958
 Wort: occasionner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: occasionner
 Femininum / Plural: ''
 IPA: \ɔ.ka.zjɔ.ne\
-Definition: verursachen, herbeiführen⁠
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le conflit *occasionne* des pertes énormes.
-  Der Konflikt *verursacht* enorme Verluste.
+  The conflict is causing enormous losses.
 
   Cette décision a *occasionné* beaucoup de controverse dans l'entreprise.
-  Diese Entscheidung hat in der Firma viel Kontroverse *verursacht*.
+  This decision has *caused* a lot of controversy in the company.
 
   L'accident a malheureusement *occasionné* la mort de deux personnes.
-  Der Unfall hat leider den Tod von zwei Menschen *verursacht*.
+  Unfortunately, the accident *caused* the death of two people.
 
   Les travaux routiers *occasionnent* des embouteillages importants.
-  Die Straßenarbeiten *verursachen* erhebliche Staus.
+  The road works *cause* considerable traffic jams.
 
   La tempête a *occasionné* des dégâts considérables.
-  Der Sturm hat beträchtliche Schäden *verursacht*.
+  The storm has *caused* considerable damage.
 
   Son absence prolongée *occasionnera* sûrement des problèmes.
-  Seine längere Abwesenheit wird bestimmt Probleme *verursachen*.
+  His long absence will certainly *cause* problems.
 
   La fuite d'eau a *occasionné* des dommages dans tout l'appartement.
-  Der Wasserschaden hat im ganzen Apartment Schäden *verursacht*.
+  The water damage *caused* damage throughout the apartment.
 
   Cette maladie peut *occasionner* des complications graves.
-  Diese Krankheit kann schwere Komplikationen *verursachen*.
+  This disease can *cause* serious complications.
 
   Le déménagement nous a *occasionné* beaucoup de stress.
-  Der Umzug hat uns viel Stress *verursacht*.
+  The move has *caused* us a lot of stress.
 
   La grève des transports *occasionne* de nombreux retards.
-  Der Verkehrsstreik *verursacht* zahlreiche Verspätungen.
+  The traffic strike causes many delays.
 
   Le bruit constant *occasionne* des troubles du sommeil.
-  Der ständige Lärm *verursacht* Schlafstörungen.
+  The constant noise causes sleep disturbances.
 
   Les nouvelles règles ont *occasionné* des changements majeurs.
-  Die neuen Regeln haben große Veränderungen *verursacht*.
+  The new rules have *caused* big changes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>causer</i>, <i>occasionner</i> und <i>provoquer</i></div>
+    <div class="section-title"><i>causer</i>, <i>occasionner</i> and <i>provoquer</i></div>
     <div class="section-content">
-      <p><span class="fr">Causer</span> (#1089) bedeutet <span class="de">"verursachen"</span> im allgemeinen Sinne und wird für die meisten Ursache-Wirkungs-Beziehungen verwendet. Es ist das neutralste der drei Verben.</p>
+      <p><span class="fr">Causer</span> (#1089) means <span class="de">"verursachen"</span> in the general sense and is used for most cause-effect relationships. It is the most neutral of the three verbs.</p>
       <div class="examples">
         <div class="fr">La pluie a causé des inondations dans la région.</div>
-        <div class="de spoiler">Der Regen hat Überschwemmungen in der Region verursacht.</div>
+        <div class="de spoiler">The rain has caused flooding in the region.</div>
         <div class="fr">Son imprudence a causé l'accident.</div>
-        <div class="de spoiler">Seine Unvorsichtigkeit hat den Unfall verursacht.</div>
+        <div class="de spoiler">His imprudence caused the accident.</div>
       </div>
-      <p><span class="fr">Occasionner</span> bedeutet <span class="de">"verursachen"</span> oder <span class="de">"herbeiführen"</span> und wird oft in formaleren Kontexten verwendet. Es impliziert häufig unbeabsichtigte oder indirekte Verursachung.</p>
+      <p><span class="fr">Occasionner</span> means <span class="de">"verursachen"</span> or <span class="de">"Bringing"</span> and is often used in more formal contexts. It often implies unintended or indirect cause.</p>
       <div class="examples">
         <div class="fr">Cette décision va occasionner des frais supplémentaires.</div>
-        <div class="de spoiler">Diese Entscheidung wird zusätzliche Kosten verursachen.</div>
+        <div class="de spoiler">This decision will entail additional costs.</div>
         <div class="fr">Les travaux ont occasionné de nombreux désagréments.</div>
-        <div class="de spoiler">Die Arbeiten haben viele Unannehmlichkeiten verursacht.</div>
+        <div class="de spoiler">The work has caused many inconveniences.</div>
       </div>
-      <p><span class="fr">Provoquer</span> bedeutet <span class="de">"hervorrufen"</span> oder <span class="de">"auslösen"</span> und impliziert oft eine bewusste oder direkte Verursachung. Es kann auch emotionale Reaktionen beschreiben.</p>
+      <p><span class="fr">Provoquer</span> means <span class="de">"hervorrufen"</span> or <span class="de">"Start"</span> and often implies a conscious or direct cause. It can also describe emotional reactions.</p>
       <div class="examples">
         <div class="fr">Ses paroles ont provoqué une vive réaction.</div>
-        <div class="de spoiler">Seine Worte haben eine heftige Reaktion hervorgerufen.</div>
+        <div class="de spoiler">His words have caused a violent reaction.</div>
         <div class="fr">Il a provoqué la bagarre intentionnellement.</div>
-        <div class="de spoiler">Er hat die Schlägerei absichtlich provoziert.</div>
+        <div class="de spoiler">He deliberately provoked the fight.</div>
       </div>
     </div>
   </div>

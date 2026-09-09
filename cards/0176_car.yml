@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 176
 Wort: car
 Wortart: nm, conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: car
 Femininum / Plural: ''
 IPA: \kaʁ\
-Definition: denn, da
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: because there
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est dommage, *car* tu vas perdre un gros client.
-  Das ist schade, *denn* du wirst einen wichtigen Kunden verlieren.
+  That's a shame, *because* you're gonna lose an important customer.
 
   Elle ne peut pas sortir *car* elle est malade.
-  Sie kann nicht ausgehen, *denn* sie ist krank.
+  She can't go out *because* she's sick.
 
   Nous avons pris le *car* pour visiter la région.
-  Wir haben den *Bus* genommen, um die Gegend zu besichtigen.
+  We took the *bus* to visit the area.
 
   Je suis épuisé, *car* j'ai travaillé toute la nuit.
-  Ich bin erschöpft, *denn* ich habe die ganze Nacht gearbeitet.
+  I'm exhausted *because* I've been working all night.
 
   Le *car* scolaire est en retard ce matin.
-  Der Schul*bus* hat heute Morgen Verspätung.
+  The school *bus* is late this morning.
 
   "Arrêtez de parler, *car* le film commence !"
-  "Hört auf zu reden, *denn* der Film fängt an!"
+  "Stop talking, *because* the movie starts!"
 
   Les enfants sont montés dans le *car* de police pour une démonstration.
-  Die Kinder sind in den Polizei*bus* gestiegen, um eine Vorführung zu sehen.
+  The kids got on the police *bus* to see a demonstration.
 
   Il faut être prudent *car* la route est glissante.
-  Man muss vorsichtig sein, *denn* die Straße ist rutschig.
+  You have to be careful, *because* the road is slippery.
 
   Le *car* de reportage est arrivé sur les lieux de l'événement.
-  Der Fernseh-Übertragungs*wagen* ist am Ort des Geschehens eingetroffen.
+  The television transmission car has arrived at the scene.
 
   Nous avons réservé un *car* de trente places pour l'excursion.
-  Wir haben einen *Bus* mit dreißig Plätzen für den Ausflug reserviert.
+  We have reserved a *bus* with thirty seats for the excursion.
 
   J'ai choisi ce livre *car* son résumé m'intriguait.
-  Ich habe dieses Buch ausgewählt, *denn* seine Zusammenfassung hat mich neugierig gemacht.
+  I chose this book *because* its summary made me curious.
 
   Le *car* de ramassage scolaire passe à 7h30 chaque matin.
-  Der Schul*bus* kommt jeden Morgen um 7:30 Uhr.
+  The school *bus* comes every morning at 7:30.
 
   Il a réussi *car* il a beaucoup travaillé.
-  Er hatte Erfolg, *denn* er hat viel gearbeitet.
+  He was successful, *because* he worked a lot.
 
   Les touristes sont montés dans le *car* pour leur visite guidée.
-  Die Touristen sind in den *Bus* für ihre geführte Tour eingestiegen.
+  The tourists have entered the *bus* for their guided tour.
 
   Nous devons partir maintenant, *car* le temps presse.
-  Wir müssen jetzt aufbrechen, *denn* die Zeit drängt.
+  We have to leave now, *because* time is pressing.
 
   Le *car* de police a été déployé pour maintenir l'ordre lors de la manifestation.
-  Der Polizei-Mannschafts*wagen* wurde eingesetzt, um während der Demonstration die Ordnung aufrechtzuerhalten.
+  The police crew car was used to maintain order during the demonstration.
 
   Elle a choisi de voyager en *car*, *car* c'est moins cher que le train.
-  Sie hat sich entschieden, mit dem *Bus* zu reisen, *denn* es ist günstiger als der Zug.
+  She has decided to travel by *bus*, *because* it is cheaper than the train.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p>Bedeutet ebenfalls Schul- oder Reisebus, nicht aber Linienbus (siehe <span class="fr">bus</span> #4027).</p>
+  <p>Also means school or coach, but not bus (see <span class="fr">bus</span> #4027).</p>
   <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Beiordnende Konjunktionen"></grammar>

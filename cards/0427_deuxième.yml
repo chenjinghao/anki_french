@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 427
 Wort: deuxième
 Wortart: adj, nmf, nm, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: deuxième
 Femininum / Plural: ''
 IPA: \dø.zjɛm\
-Definition: zweite(-r/s)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: second(-r/s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tout le monde a besoin d'une *deuxième* opinion.
-  Jeder braucht eine *zweite* Meinung.
+  Everyone needs a *second* opinion.
 
   La *deuxième* fois, j'ai réussi l'examen.
-  Beim *zweiten* Mal habe ich die Prüfung bestanden.
+  The *second* time I passed the exam.
 
   Le Danube est le *deuxième* fleuve d'Europe.
-  Die Donau ist der *zweitlängste* Fluss Europas.
+  The Danube is the second longest river in Europe.
 
   Je suis la *deuxième* sur la liste d'attente.
-  Ich bin die *Zweite* auf der Warteliste.
+  I'm the *second* on the waiting list.
 
   Elle habite au *deuxième* étage d'un immeuble ancien.
-  Sie wohnt im *zweiten* Stock eines alten Gebäudes.
+  She lives on the *second* floor of an old building.
 
   Prenez la *deuxième* à gauche après le feu rouge.
-  Nehmen Sie die *zweite* links nach der Ampel.
+  Take the *second* left after the traffic light.
 
   C'est déjà la *deuxième* fois que je perds mes clés cette semaine.
-  Das ist schon das *zweite* Mal diese Woche, dass ich meine Schlüssel verliere.
+  This is the *second* time this week I've lost my keys.
 
   Pierre est arrivé *deuxième* au marathon.
-  Pierre ist beim Marathon *Zweiter* geworden.
+  Pierre was *second* in the marathon.
 
   Marie est *deuxième* de sa classe cette année.
-  Marie ist dieses Jahr *Zweite* in ihrer Klasse.
+  Marie is *second* in her class this year.
 
   Il faut passer en *deuxième* pour monter cette côte.
-  Man muss in den *zweiten* Gang schalten, um diesen Hang hochzufahren.
+  You have to switch to the *second* gear to drive up this slope.
 
   Le restaurant se trouve dans le *deuxième* arrondissement.
-  Das Restaurant befindet sich im *zweiten* Arrondissement.
+  The restaurant is located in the *second* arrondissement.
 
   Notre équipe a terminé *deuxième* du championnat.
-  Unsere Mannschaft ist *Zweite* in der Meisterschaft geworden.
+  Our team has become *second* in the championship.
 
   Le *deuxième* chapitre est plus intéressant que le premier.
-  Das *zweite* Kapitel ist interessanter als das erste.
+  The *second* chapter is more interesting than the first.
 
   J'ai lu ce livre pour la *deuxième* fois.
-  Ich habe dieses Buch zum *zweiten* Mal gelesen.
+  I read this book for the *second* time.
 
   La *deuxième* syllabe est accentuée dans ce mot.
-  Die *zweite* Silbe wird in diesem Wort betont.
+  The *second* syllable is emphasized in this word.
 
   Mon fils est dans sa *deuxième* année d'université.
-  Mein Sohn ist in seinem *zweiten* Universitätsjahr.
+  My son is in his *second* year of university.
 
   Le *deuxième* film de la trilogie sort demain.
-  Der *zweite* Film der Trilogie kommt morgen heraus.
+  The *second* film of the trilogy comes out tomorrow.
 
   C'est mon *deuxième* jour de travail ici.
-  Es ist mein *zweiter* Arbeitstag hier.
+  It's my *second* working day here.
 
   La *deuxième* partie du concert commence dans dix minutes.
-  Der *zweite* Teil des Konzerts beginnt in zehn Minuten.
+  The *second* part of the concert starts in ten minutes.
 
   Le *deuxième* exercice est facultatif.
-  Die *zweite* Übung ist freiwillig.
+  The *second* exercise is voluntary.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
@@ -81,23 +81,23 @@ Beispielsätze: |-
 Notiz: |-
   <div class="section">
     <div class="section-title">
-      <i>second</i> und <i>deuxième</i>
+      <i>second</i> and <i>deuxième</i>
     </div>
     <div class="section-content">
-      <p class="highlight"><b>Second</b> (#397) ist gehobener, und kann fast immer mit <b>deuxième</b> ersetzt werden.</p>
+      <p class="highlight"><b>Second</b> (#397) is more uplifted, and can almost always be used with <b>deuxième</b> be replaced by the following:</p>
 
-      <p><span class="fr">Second</span> kann die Nuance implizieren, dass eine Liste genau zwei Elemente umfasst. <span class="fr">Deuxième</span> kommt zum Einsatz, wenn eine Liste mehr als zwei Elemente hat.</p>
+      <p><span class="fr">Second</span> can imply that a list contains exactly two elements. <span class="fr">Deuxième</span> is used if a list has more than two elements.</p>
       <div class="examples">
         <div class="fr">Le deuxième doigt de la seconde main.</div>
-        <div class="de spoiler">Der zweite Finger der zweiten Hand.</div>
+        <div class="de spoiler">The second finger of the second hand.</div>
         <div>
-          Denn ein Mensch hat bekanntlich mehr als zwei Finger, aber nur zwei Hände.
+          Because, as is well known, a person has more than two fingers, but only two hands.
         </div>
       </div>
       <div class="examples">
         <div class="fr">Marie est le second enfant de Christelle.</div>
-        <div class="de spoiler">Marie ist das zweite Kind von Christelle.</div>
-        <div>Impliziert, dass Christelle genau zwei Kinder hat.</div>
+        <div class="de spoiler">Marie is Christelle's second child.</div>
+        <div>It implies that Christelle has exactly two children.</div>
       </div>
     </div>
   </div>

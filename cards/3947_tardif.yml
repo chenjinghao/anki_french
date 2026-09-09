@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3947
 Wort: tardif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: tardif
 Femininum / Plural: tardive
 IPA: \taʁ.dif\
-Definition: spät, verspätet
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: late, late
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vous prie d'excuser mon arrivée *tardive*.
-  Ich bitte Sie, meine *verspätete* Ankunft zu entschuldigen.
+  I beg you to excuse my late arrival.
 
   Ces fleurs *tardives* fleurissent jusqu'en octobre.
-  Diese *späten* Blumen blühen bis in den Oktober hinein.
+  These *late* flowers bloom into October.
 
   Son *tardif* développement inquiétait ses parents.
-  Seine *späte* Entwicklung beunruhigte seine Eltern.
+  His *late* development troubled his parents.
 
   Cette tomate est une variété *tardive*.
-  Diese Tomate ist eine *späte* Sorte.
+  This tomato is a *late* kind.
 
   Ce *tardif* remords ne change rien à la situation.
-  Diese *späte* Reue ändert nichts an der Situation.
+  This *late* remorse doesn't change the situation.
 
   La dernière œuvre *tardive* de Mozart est son Requiem.
-  Mozarts letztes *Spät*werk ist sein Requiem.
+  Mozart's last *late* work is his requiem.
 
   Il est rentré à une heure *tardive* de la nuit.
-  Er ist zu einer *späten* Stunde in der Nacht nach Hause gekommen.
+  He came home at a *late* hour at night.
 
   Ces pêches *tardives* sont particulièrement sucrées.
-  Diese *späten* Pfirsiche sind besonders süß.
+  These *late* peaches are particularly sweet.
 
   Les excuses *tardives* du ministre n'ont pas convaincu le public.
-  Die *verspäteten* Entschuldigungen des Ministers haben die Öffentlichkeit nicht überzeugt.
+  The Minister's late excuses did not convince the public.
 
   La reconnaissance *tardive* de son talent l'a profondément marqué.
-  Die *späte* Anerkennung seines Talents hat ihn tief geprägt.
+  The *late* recognition of his talent has profoundly shaped him.
 
   À cause du gel, nous avons eu un printemps *tardif*.
-  Wegen des Frosts hatten wir einen *späten* Frühling.
+  Because of the frost we had a *late* spring.
 
   Ces pommes *tardives* se conservent tout l'hiver.
-  Diese *späten* Äpfel halten den ganzen Winter.
+  These *late* apples last all winter.
 
   Son réveil *tardif* nous a fait rater le train.
-  Sein *spätes* Aufwachen hat uns den Zug verpassen lassen.
+  His *late* waking up made us miss the train.
 
   Le diagnostic *tardif* a compliqué le traitement.
-  Die *späte* Diagnose hat die Behandlung erschwert.
+  *Late* diagnosis has made treatment more difficult.
 
   Cette variété *tardive* de raisin mûrit en octobre.
-  Diese *späte* Traubensorte reift im Oktober.
+  This *late* grape variety matures in October.
 
   Les corrections *tardives* ne seront pas acceptées.
-  *Späte* Korrekturen werden nicht akzeptiert.
+  *Late* corrections are not accepted.
 
   À cette heure *tardive*, les rues sont désertes.
-  Zu dieser *späten* Stunde sind die Straßen verlassen.
+  At this *late* hour, the streets are abandoned.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

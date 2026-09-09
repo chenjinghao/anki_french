@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2813
 Wort: strictement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: strictement
 Femininum / Plural: ''
 IPA: \stʁik.tə.mɑ̃\
-Definition: streng(-stens)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: strict(--at best)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous ne sommes pas *strictement* obligés.
-  Wir sind nicht *streng* verpflichtet.
+  We're not strictly committed.
 
   Il est *strictement* interdit de fumer dans ce bâtiment.
-  Es ist *streng* verboten, in diesem Gebäude zu rauchen.
+  It is strictly forbidden to smoke in this building.
 
   Cette information est *strictement* confidentielle.
-  Diese Information ist *streng* vertraulich.
+  This information is strictly confidential.
 
   *Strictement* parlant, ce n'est pas tout à fait correct.
-  *Genau* genommen ist das nicht ganz richtig.
+  Actually, that's not quite right.
 
   Elle était *strictement* vêtue pour l'entretien d'embauche.
-  Sie war für das Vorstellungsgespräch *streng* gekleidet.
+  She was strictly dressed for the interview.
 
   Cette affaire est *strictement* personnelle.
-  Diese Angelegenheit ist *streng* persönlich.
+  This matter is strictly personal.
 
   Nous devons observer *strictement* le Code de la route.
-  Wir müssen die Straßenverkehrsordnung *strikt* einhalten.
+  We have to strictly comply with the road rules.
 
   Ce rapport est *strictement* confidentiel.
-  Dieser Bericht ist *streng* vertraulich.
+  This report is strictly confidential.
 
   Il remplit *strictement* ses obligations professionnelles.
-  Er erfüllt seine beruflichen Verpflichtungen *strikt*.
+  He fulfils his professional obligations strictly.
 
   La loi doit être appliquée *strictement*.
-  Das Gesetz muss *strikt* angewendet werden.
+  The law must be strictly applied.
 
   Le cumul des mandats est *strictement* réglementé en France.
-  Die Ämterhäufung ist in Frankreich *streng* reglementiert.
+  The accumulation of offices is strictly regulated in France.
 
   Cela revient *strictement* au même.
-  Das läuft *genau* auf das Gleiche hinaus.
+  That's *exactly* the same thing.
 
   Un nombre *strictement* positif est supérieur à zéro.
-  Eine *streng* positive Zahl ist größer als null.
+  A strictly positive number is greater than zero.
 
   À *strictement* parler, ce n'est pas la bonne terminologie.
-  *Streng* genommen ist das nicht die richtige Terminologie.
+  Strictly speaking, this is not the right terminology.
 
   Les règles du jeu doivent être *strictement* respectées.
-  Die Spielregeln müssen *strikt* eingehalten werden.
+  The rules of the game must be strictly adhered to.
 
   Cette diète est *strictement* végétalienne.
-  Diese Diät ist *streng* vegan.
+  This diet is strictly vegan.
 
   "Je suis *strictement* opposé à cette proposition," a-t-il déclaré.
-  "Ich bin *strikt* gegen diesen Vorschlag", erklärte er.
+  "I am strongly opposed to this proposal," he said.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

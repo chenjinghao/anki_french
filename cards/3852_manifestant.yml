@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3852
 Wort: manifestant
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le manifestant
 Femininum / Plural: manifestante
 IPA: \ma.ni.fɛs.tɑ̃\
-Definition: Demonstrant
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: Demonstrator
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *manifestants* ont fait monter la pression.
-  Die *Demonstranten* haben den Druck erhöht.
+  The *demonstrators* have increased the pressure.
 
   Un groupe de *manifestants* s'est rassemblé devant la mairie.
-  Eine Gruppe von *Demonstranten* hat sich vor dem Rathaus versammelt.
+  A group of *demonstrators* gathered in front of the town hall.
 
   La police a dispersé les *manifestants* avec des gaz lacrymogènes.
-  Die Polizei hat die *Demonstranten* mit Tränengas auseinandergetrieben.
+  The police have driven the *demonstrators* apart with tear gas.
 
   Les *manifestantes* brandissaient des pancartes colorées.
-  Die *Demonstrantinnen* schwenkten bunte Plakate.
+  The *demonstrators* waved colorful posters.
 
   Une jeune *manifestante* a pris la parole devant la foule.
-  Eine junge *Demonstrantin* hat vor der Menge das Wort ergriffen.
+  A young demonstrator took the floor before the crowd.
 
   Les *manifestants* défilent pacifiquement dans les rues principales.
-  Die *Demonstranten* ziehen friedlich durch die Hauptstraßen.
+  The *demonstrators* march peacefully through the main streets.
 
   Le cortège des *manifestants* s'étendait sur plusieurs kilomètres.
-  Der Zug der *Demonstranten* erstreckte sich über mehrere Kilometer.
+  The train of *demonstrators* stretched over several kilometers.
 
   Plusieurs *manifestants* ont été interviewés par les journalistes.
-  Mehrere *Demonstranten* wurden von den Journalisten interviewt.
+  Several *demonstrators* were interviewed by the journalists.
 
   Les *manifestants* scandaient des slogans pour le climat.
-  Die *Demonstranten* skandierten Sprechchöre für das Klima.
+  The *demonstrators* chanted chants for the climate.
 
   Le nombre de *manifestants* a dépassé les attentes des organisateurs.
-  Die Zahl der *Demonstranten* hat die Erwartungen der Organisatoren übertroffen.
+  The number of *demonstrators* exceeded the organizers' expectations.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

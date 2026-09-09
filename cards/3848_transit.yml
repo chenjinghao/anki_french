@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3848
 Wort: transit
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le transit
 Femininum / Plural: ''
 IPA: \tʁɑ̃.zit\
-Definition: Durchgang
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: Passage
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le fric est en *transit*. Bouge pas.
-  Das Geld ist im *Transit*. Beweg dich nicht.
+  The money's in *transit*.
 
   Les marchandises en *transit* ne sont pas soumises aux droits de douane.
-  *Transit*güter sind von Zollgebühren befreit.
+  *Transit* goods are exempt from customs duties.
 
   Le port de Rotterdam est un important point de *transit* pour l'Europe.
-  Der Hafen von Rotterdam ist ein wichtiger *Transit*punkt für Europa.
+  The port of Rotterdam is an important *transit* point for Europe.
 
   Les passagers en *transit* doivent rester dans la zone internationale.
-  Die *Transit*passagiere müssen im internationalen Bereich bleiben.
+  *Transit* passengers must remain in the international sphere.
 
   Cette cité de *transit* accueille des réfugiés temporairement.
-  Dieses *Durchgangs*lager nimmt vorübergehend Flüchtlinge auf.
+  This transit camp temporarily welcomes refugees.
 
   Les conteneurs en *transit* seront acheminés vers leur destination finale demain.
-  Die *Transit*container werden morgen an ihren endgültigen Bestimmungsort gebracht.
+  The *transit* containers will be brought to their final destination tomorrow.
 
   Le *transit* intestinal est ralenti par le stress.
-  Die *Verdauung* wird durch Stress verlangsamt.
+  The *digestion* is slowed down by stress.
 
   Les fibres favorisent le *transit* intestinal.
-  Ballaststoffe fördern die *Verdauung*.
+  Fibers promote *digestion*.
 
   Nous avons observé le *transit* de Mercure devant le Soleil.
-  Wir haben den *Transit* des Merkurs vor der Sonne beobachtet.
+  We have observed the *transit* of Merkurs before the sun.
 
   La zone de *transit* de l'aéroport est fermée pour rénovation.
-  Der *Transit*bereich des Flughafens ist wegen Renovierung geschlossen.
+  The *transit* area of the airport is closed for renovation.
 
   Le *transit* des céréales à travers le pays est strictement contrôlé.
-  Die *Durchfuhr* von Getreide durch das Land wird streng kontrolliert.
+  The *transit* of cereals through the country is strictly controlled.
 
   Un bon *transit* intestinal est essentiel pour la santé.
-  Eine gute *Verdauung* ist wichtig für die Gesundheit.
+  Good *digestion* is important for health.
 
   Les voyageurs en *transit* ont trois heures d'attente.
-  Die *Transit*reisenden haben drei Stunden Wartezeit.
+  The *transit* passengers have three hours to wait.
 
   Vénus était en *transit* devant le Soleil ce matin-là.
-  Die Venus befand sich an diesem Morgen im *Transit* vor der Sonne.
+  Venus was in *transit* before the sun that morning.
 
   Le médecin m'a conseillé de surveiller mon *transit* intestinal.
-  Der Arzt hat mir geraten, meine *Verdauung* zu überwachen.
+  The doctor advised me to monitor my *digestion*.
 
   La Suisse est un pays de *transit* important pour les marchandises européennes.
-  Die Schweiz ist ein wichtiges *Transit*land für europäische Waren.
+  Switzerland is an important *transit* country for European goods.
 
   Ce médicament peut perturber votre *transit* intestinal.
-  Dieses Medikament kann Ihre *Verdauung* beeinträchtigen.
+  This medicine can affect your *digestion*.
 
   Les bagages en *transit* sont traités automatiquement.
-  Das *Transit*gepäck wird automatisch bearbeitet.
+  *Transit* baggage is processed automatically.
 
   Le *transit* de Jupiter devant cette étoile sera visible ce soir.
-  Der *Transit* des Jupiters vor diesem Stern wird heute Abend sichtbar sein.
+  The *transit* of Jupiter before this star will be visible tonight.
 
   Le temps de *transit* pour ces colis est d'environ trois jours.
-  Die *Transit*zeit für diese Pakete beträgt ungefähr drei Tage.
+  The *transit* time for these packages is about three days.
 
   Un permis spécial est requis pour le *transit* de ces produits.
-  Für die *Durchfuhr* dieser Produkte ist eine Sondergenehmigung erforderlich.
+  A special permit is required for the *transit* of these products.
 
   Les astronomes étudient le *transit* des exoplanètes.
-  Die Astronomen untersuchen den *Transit* der Exoplaneten.
+  Astronomers are investigating the *transit* of the exoplanets.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

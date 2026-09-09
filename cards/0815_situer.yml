@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 815
 Wort: situer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: situer
 Femininum / Plural: ''
 IPA: \si.tɥe\
-Definition: befinden; einordnen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: categorize;
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je me *situe* quelque part entre les deux.
-  Ich *befinde* mich irgendwo dazwischen.
+  I'm somewhere in between.
 
   L'action de ce film se *situe* dans les années 1920.
-  Die Handlung dieses Films *spielt* in den 1920er Jahren.
+  The plot of this film takes place in the 1920s.
 
   Notre maison est *située* près de la gare.
-  Unser Haus *liegt* in der Nähe des Bahnhofs.
+  Our house *is* located near the train station.
 
   Il n'a pas su *situer* le magasin sur le plan.
-  Er konnte den Laden auf dem Plan nicht *lokalisieren*.
+  He couldn't locate the store on the map.
 
   Les prix se *situent* entre 50 et 100 euros.
-  Die Preise *liegen* zwischen 50 und 100 Euro.
+  Prices range from 50 to 100 euros.
 
   L'auteur a *situé* son roman dans un village imaginaire.
-  Der Autor hat seinen Roman in einem imaginären Dorf *spielen* lassen.
+  The author made his novel *play* in an imaginary village.
 
   "Je ne *situe* pas vraiment cette personne dans ma famille."
-  "Ich kann diese Person in meiner Familie nicht richtig *einordnen*."
+  "I can't properly *classify* this person in my family."
 
   Le radar permet de *situer* précisément l'avion.
-  Das Radar ermöglicht es, das Flugzeug genau zu *orten*.
+  The radar allows the aircraft to be located exactly.
 
   Les scientifiques *situent* cet événement au Moyen Âge.
-  Die Wissenschaftler *datieren* dieses Ereignis auf das Mittelalter.
+  The scientists *date* this event to the Middle Ages.
 
   Comment *situer* cette constellation dans le ciel ?
-  Wie kann man dieses Sternbild am Himmel *verorten*?
+  How can you locate this constellation in the sky?
 
   Le restaurant se *situe* au dernier étage.
-  Das Restaurant *befindet* sich im obersten Stock.
+  The restaurant is *located* on the top floor.
 
   Politiquement, elle se *situe* à gauche.
-  Politisch *steht* sie links.
+  Politically, it's on the left.
 
   Il faut *situer* le contexte historique de ce document.
-  Man muss den historischen Kontext dieses Dokuments *einordnen*.
+  One must *classify* the historical context of this document.
 
   La température se *situe* en dessous de zéro.
-  Die Temperatur *liegt* unter null.
+  The temperature *is* below zero.
 
   Les experts *situent* l'origine du virus en Asie.
-  Die Experten *verorten* den Ursprung des Virus in Asien.
+  The experts locate the origin of the virus in Asia.
 
   Son bureau est *situé* au rez-de-chaussée.
-  Sein Büro *befindet* sich im Erdgeschoss.
+  His office is on the ground floor.
 
   Cette ville est mal *située* pour le tourisme.
-  Diese Stadt ist für den Tourismus ungünstig *gelegen*.
+  This city is unfavorable for tourism.
 
   Je dois *situer* ce point sur la carte.
-  Ich muss diesen Punkt auf der Karte *markieren*.
+  I have to *mark* this point on the map.
 
   L'entrée principale se *situe* côté sud.
-  Der Haupteingang *liegt* auf der Südseite.
+  The main entrance *is* on the south side.
 
   Les archéologues *situent* ces ruines à l'époque romaine.
-  Die Archäologen *datieren* diese Ruinen auf die römische Zeit.
+  Archaeologists *date* these ruins to Roman times.
 
   Le nouveau centre commercial est bien *situé*.
-  Das neue Einkaufszentrum ist gut *gelegen*.
+  The new shopping centre is well *located*.
 
   Cette scène se *situe* au début du film.
-  Diese Szene *spielt* am Anfang des Films.
+  This scene plays at the beginning of the movie.
 
   Comment vous *situez*-vous par rapport à ce projet ?
-  Wie *positionieren* Sie sich zu diesem Projekt?
+  How do you *position* yourself on this project?
 
   L'université est *située* en centre-ville.
-  Die Universität *liegt* im Stadtzentrum.
+  The university *is* located in the city centre.
 
   Les spécialistes *situent* ce tableau dans sa période bleue.
-  Die Experten *ordnen* dieses Gemälde seiner blauen Periode *zu*.
+  The experts assign this painting *to* his blue period.
 
   Le village se *situe* à 500 mètres d'altitude.
-  Das Dorf *liegt* auf 500 Metern Höhe.
+  The village *is* located at an altitude of 500 meters.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

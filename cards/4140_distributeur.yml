@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4140
 Wort: distributeur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le distributeur
 Femininum / Plural: ''
 IPA: \dis.tʁi.by.tœʁ\
-Definition: Vertreiber, Automat
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Distributor, Automat
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *distributeurs* quittaient la salle en courant.
-  Die *Verteiler* verließen eilig den Saal.
+  The *distributors* quickly left the hall.
 
   J'ai mis une pièce dans le *distributeur* de boissons.
-  Ich habe eine Münze in den Getränke*automaten* geworfen.
+  I threw a coin at the vending machines.
 
   Le *distributeur* automatique de billets est en panne depuis ce matin.
-  Der Geld*automat* ist seit heute Morgen außer Betrieb.
+  The ATM has been out of service since this morning.
 
   Notre entreprise est *distributeur* exclusif de cette marque en France.
-  Unser Unternehmen ist Allein*vertrieb* dieser Marke in Frankreich.
+  Our company is exclusive sales of this brand in France.
 
   Marie travaille comme *distributrice* de prospectus pendant l'été.
-  Marie arbeitet im Sommer als Prospekt*verteilerin*.
+  Marie works as a brochure *distributor* in the summer.
 
   Le *distributeur* de tickets ne prend que la carte bancaire.
-  Der Fahrschein*automat* akzeptiert nur Bankkarten.
+  The ticket machine only accepts bank cards.
 
   Ce *distributeur* de films indépendants a remporté un grand succès.
-  Dieser *Verleiher* von Independent-Filmen hatte großen Erfolg.
+  This distributor of independent films had great success.
 
   Le *distributeur* automatique de savon est vide.
-  Der Seifen*spender* ist leer.
+  The soap dispenser is empty.
 
   Cette société est *distributeur* agréé de pièces détachées.
-  Diese Firma ist Vertrags*händler* für Ersatzteile.
+  This company is a distributor for spare parts.
 
   Le *distributeur* d'engrais permet une répartition uniforme sur tout le champ.
-  Der Düngemittel*verteiler* ermöglicht eine gleichmäßige Verteilung auf dem ganzen Feld.
+  The fertilizer distributor allows an even *distribution* throughout the field.
 
   Paul cherchait désespérément un *distributeur* de billets ouvert.
-  Paul suchte verzweifelt nach einem geöffneten Bank*automaten*.
+  Paul was desperately looking for an open ATM.
 
   Ce magasin est *distributeur* officiel de matériel informatique.
-  Dieses Geschäft ist offizieller *Vertrieb* für Computerausrüstung.
+  This business is official sales for computer equipment.
 
   Le *distributeur* de cigarettes a été vandalisé cette nuit.
-  Der Zigaretten*automat* wurde heute Nacht beschädigt.
+  The cigarette machine was damaged tonight.
 
   Notre *distributeur* local propose une large gamme de produits bio.
-  Unser lokaler *Händler* bietet eine große Auswahl an Bio-Produkten.
+  Our local distributor offers a wide range of organic products.
 
   Le nouveau *distributeur* de semences facilite grandement le travail.
-  Der neue Saatgut*verteiler* erleichtert die Arbeit erheblich.
+  The new seed distributor makes work much easier.
 
   Les *distributeurs* de journaux gratuits sont postés devant la gare.
-  Die *Verteiler* kostenloser Zeitungen stehen vor dem Bahnhof.
+  The *distributors* of free newspapers are in front of the station.
 
   Ce *distributeur* automatique propose des en-cas 24h/24.
-  Dieser *Automat* bietet rund um die Uhr Snacks an.
+  This vending machine offers snacks around the clock.
 
   Notre société est devenue *distributeur* principal pour toute la région.
-  Unsere Firma ist Haupt*vertrieb* für die gesamte Region geworden.
+  Our company has become the main distributor for the entire region.
 
   Le *distributeur* de papier toilette est cassé depuis une semaine.
-  Der Toilettenpapier*spender* ist seit einer Woche kaputt.
+  The toilet paper dispenser's been broken for a week.
 
   Les *distributeurs* de tracts manifestaient devant l'usine.
-  Die Flugblatt*verteiler* demonstrierten vor der Fabrik.
+  The flyer distributors demonstrated in front of the factory.
 
   Le *distributeur* d'essence affiche les prix en temps réel.
-  Die Benzin*zapfsäule* zeigt die Preise in Echtzeit an.
+  The petrol *pump* shows the prices in real time.
 
   Ce petit *distributeur* de films a découvert plusieurs talents.
-  Dieser kleine Film*verleiher* hat mehrere Talente entdeckt.
+  This little film distributor has discovered several talents.
 
   Le *distributeur* automatique accepte maintenant le paiement sans contact.
-  Der *Automat* akzeptiert jetzt kontaktloses Bezahlen.
+  The machine now accepts contactless payment.
 
   Notre *distributeur* de boissons chaudes propose dix variétés de café.
-  Unser Heißgetränke*automat* bietet zehn verschiedene Kaffeesorten an.
+  Our hot drink vending machine offers ten different coffees.
 
   Il y a un nouveau *distributeur* de billets près de la pharmacie.
-  Es gibt einen neuen Geld*automaten* neben der Apotheke.
+  There's a new ATM next to the pharmacy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

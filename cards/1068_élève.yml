@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1068
 Wort: élève
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un élève
 Femininum / Plural: ''
 IPA: \e.lɛv\
-Definition: Schüler/in
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Pupil
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont été mes *élèves*.
-  Sie waren meine *Schüler*.
+  They were my students.
 
   Notre *élève* favori a eu une excellente note à l'examen.
-  Unser Lieblings*schüler* hat eine ausgezeichnete Note in der Prüfung bekommen.
+  Our favorite student got an excellent grade in the exam.
 
   Les parents ont rencontré l'*élève* de cours élémentaire pour la première fois.
-  Die Eltern haben den Zweit*klässler* zum ersten Mal getroffen.
+  The parents met the second grader for the first time.
 
   Chaque *élève* de l'enseignement secondaire doit porter un uniforme.
-  Jeder Ober*schüler* muss eine Uniform tragen.
+  Every high school student has to wear a uniform.
 
   Ce magnifique tableau a été peint par un *élève* de Rembrandt.
-  Dieses wunderschöne Gemälde wurde von einem *Schüler* Rembrandts gemalt.
+  This beautiful painting was painted by a student of Rembrandt.
 
   Le mauvais *élève* n'a pas fait ses devoirs depuis trois semaines.
-  Der schlechte *Schüler* hat seit drei Wochen keine Hausaufgaben gemacht.
+  The bad student hasn't done any homework in three weeks.
 
   L'association des anciens *élèves* organise une réunion annuelle.
-  Der Ehemaligen*verein* organisiert ein jährliches Treffen.
+  The former *association* organizes an annual meeting.
 
   L'*élève* officier commence sa formation militaire demain.
-  Der Offiziers*anwärter* beginnt morgen seine militärische Ausbildung.
+  The officer candidate will start his military training tomorrow.
 
   Les *élèves* de Titien ont développé leur propre style artistique.
-  Die *Schüler* Tizians entwickelten ihren eigenen künstlerischen Stil.
+  The students of Titian developed their own artistic style.
 
   Comment motivez-vous vos *élèves* à apprendre le français ?
-  Wie motivieren Sie Ihre *Schüler* zum Französischlernen?
+  How do you motivate your students to learn French?
 
   Cette jeune *élève* deviendra certainement une grande danseuse.
-  Diese junge *Schülerin* wird bestimmt eine große Tänzerin.
+  I'm sure this young student will be a great dancer.
 
   Les *élèves* du Conservatoire préparent un spectacle de fin d'année.
-  Die *Schüler* des Konservatoriums bereiten eine Jahresabschlussaufführung vor.
+  The students of the conservatory are preparing an annual performance.
 
   La nouvelle *élève* s'est très bien intégrée dans la classe.
-  Die neue *Schülerin* hat sich sehr gut in die Klasse integriert.
+  The new student has integrated very well into the class.
 
   Mon frère est *élève* de première au lycée Victor Hugo.
-  Mein Bruder ist *Schüler* der elften Klasse am Victor-Hugo-Gymnasium.
+  My brother is a student of the eleventh class at Victor Hugo High School.
 
   Les *élèves* de l'école de ballet s'entraînent tous les jours.
-  Die *Schüler* der Ballettschule trainieren jeden Tag.
+  The students of the ballet school train every day.
 
   L'*élève* officier de réserve suit une formation intensive.
-  Der Reserve-Offiziers*anwärter* absolviert eine intensive Ausbildung.
+  The reserve officer candidate undergoes intensive training.
 
   Notre meilleur *élève* participera au concours national.
-  Unser bester *Schüler* wird am nationalen Wettbewerb teilnehmen.
+  Our best student will participate in the national competition.
 
   Tous les *élèves* doivent respecter le règlement de l'école.
-  Alle *Schüler* müssen die Schulordnung einhalten.
+  All *pupils* must comply with the school regulations.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

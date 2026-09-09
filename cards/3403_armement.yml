@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3403
 Wort: armement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un armement
 Femininum / Plural: ''
 IPA: \aʁ.mə.mɑ̃\
-Definition: Bewaffnung, Ausrüstung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Armament, equipment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'industrie des *armements* avait une importance.
-  Die *Rüstungs*industrie war wichtig.
+  The *armaments* industry was important.
 
   La course aux *armements* ne mène nulle part.
-  Das *Rüstungs*wettrüsten führt zu nichts.
+  *Armaments* competition is not going to work.
 
   Le ministre a annoncé un nouveau programme d'*armement*.
-  Der Minister hat ein neues *Rüstungs*programm angekündigt.
+  The Minister has announced a new arms programme.
 
   L'*armement* de ce navire de guerre prend plusieurs mois.
-  Die *Ausrüstung* dieses Kriegsschiffes dauert mehrere Monate.
+  The *equipment* of this warship lasts several months.
 
   Les soldats ont reçu leur *armement* ce matin.
-  Die Soldaten haben heute Morgen ihre *Bewaffnung* erhalten.
+  The soldiers got their *armament* this morning.
 
   Il faut procéder à l'*armement* du fusil avant de tirer.
-  Man muss das Gewehr vor dem Schießen *laden*.
+  You have to *load* the gun before shooting.
 
   L'*armement* de l'appareil photo n'est plus nécessaire avec les modèles numériques.
-  Das *Spannen* der Kamera ist bei digitalen Modellen nicht mehr nötig.
+  The clamping of the camera is no longer necessary for digital models.
 
   Notre pays investit beaucoup dans l'*armement* nucléaire.
-  Unser Land investiert viel in Atom*waffen*.
+  Our country invests a lot in nuclear weapons.
 
   Les ingénieurs de l'*armement* travaillent sur un nouveau projet.
-  Die *Rüstungs*ingenieure arbeiten an einem neuen Projekt.
+  The defence engineers are working on a new project.
 
   L'*armement* individuel des soldats a évolué au fil du temps.
-  Die individuelle *Bewaffnung* der Soldaten hat sich im Laufe der Zeit entwickelt.
+  The individual *armament* of soldiers has developed over time.
 
   La limitation des *armements* est un sujet complexe.
-  Die *Rüstungs*beschränkung ist ein komplexes Thema.
+  The limitation of arms is a complex issue.
 
   L'*armement* de cette forteresse était impressionnant pour son époque.
-  Die *Bewaffnung* dieser Festung war für ihre Zeit beeindruckend.
+  The *armament* of this fortress was impressive for its time.
 
   Les recrues commenceront leur *armement* la semaine prochaine.
-  Die Rekruten beginnen nächste Woche mit ihrer *Bewaffnung*.
+  The recruits will start their *armament* next week.
 
   L'*armement* du port de Marseille emploie des milliers de personnes.
-  Die *Reederei* des Hafens von Marseille beschäftigt tausende Menschen.
+  The shipping company of the port of Marseille employs thousands of people.
 
   Le capitaine supervise l'*armement* du voilier.
-  Der Kapitän überwacht die *Ausrüstung* des Segelbootes.
+  The captain supervises the *equipment* of the sailboat.
 
   L'*armement* du char comprend un canon principal et deux mitrailleuses.
-  Die *Bewaffnung* des Panzers besteht aus einer Hauptkanone und zwei Maschinengewehren.
+  The *armament* of the tank consists of a main gun and two machine guns.
 
   Les experts discutent de la réduction des *armements* conventionnels.
-  Die Experten diskutieren über die Reduzierung konventioneller *Rüstungsgüter*.
+  The experts discuss the reduction of conventional arms.
 
   Le levier d'*armement* de ce mécanisme est bloqué.
-  Der *Spann*hebel dieses Mechanismus ist blockiert.
+  The clamping lever of this mechanism is blocked.
 
   L'*armement* collectif de l'unité sera vérifié demain.
-  Die kollektive *Bewaffnung* der Einheit wird morgen überprüft.
+  The unit's collective *armament* will be checked tomorrow.
 
   Cette *société d'armement* construit des navires depuis cinquante ans.
-  Diese *Reederei* baut seit fünfzig Jahren Schiffe.
+  This shipping company has been building ships for fifty years.
 
   L'*armement* du pétrolier nécessite une équipe expérimentée.
-  Die *Ausrüstung* des Öltankers erfordert ein erfahrenes Team.
+  The *equipment* of the oil tanker requires an experienced team.
 
   Un nouvel *armement* défensif a été installé sur nos frontières.
-  Eine neue defensive *Bewaffnung* wurde an unseren Grenzen installiert.
+  A new defensive *armament* has been installed at our borders.
 
   La politique d'*armement* du gouvernement fait débat.
-  Die *Rüstungs*politik der Regierung sorgt für Diskussionen.
+  The government's defence policy provides for discussions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

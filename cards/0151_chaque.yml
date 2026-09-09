@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 151
 Wort: chaque
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: chaque
 Femininum / Plural: ''
 IPA: \ʃak\
-Definition: jede(-r/s)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: each(-r/s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Chaque* entreprise doit avoir sa propre organisation.
-  *Jedes* Unternehmen muss seine eigene Organisation haben.
+  *Each* company must have its own organisation.
 
   *Chaque* jour, je prends une tasse de café le matin.
-  *Jeden* Tag trinke ich morgens eine Tasse Kaffee.
+  Every day I drink a cup of coffee in the morning.
 
   La professeure a donné un exercice différent à *chaque* élève.
-  Die Lehrerin gab *jedem* Schüler eine andere Aufgabe.
+  The teacher gave *each* student a different task.
 
   Nous avons visité *chaque* pays d'Europe de l'Ouest.
-  Wir haben *jedes* Land in Westeuropa besucht.
+  We visited every country in Western Europe.
 
   Il y a une surprise dans *chaque* boîte.
-  In *jeder* Schachtel ist eine Überraschung.
+  There's a surprise in every box.
 
   *Chaque* fois que je le vois, il me raconte la même histoire.
-  *Jedes* Mal, wenn ich ihn sehe, erzählt er mir dieselbe Geschichte.
+  Every time I see him, he tells me the same story.
 
   "Un peu de *chaque*", a-t-elle dit en choisissant les bonbons.
-  "Ein bisschen von *jedem*", sagte sie, als sie die Süßigkeiten auswählte.
+  "A little bit of everyone," she said when she picked out the candy.
 
   *Chaque* personne a le droit d'exprimer son opinion.
-  *Jede* Person hat das Recht, ihre Meinung zu äußern.
+  *Each* person has the right to express his or her opinion.
 
   Il faut vérifier *chaque* détail avant de soumettre le rapport.
-  Man muss *jedes* Detail überprüfen, bevor man den Bericht einreicht.
+  You have to check every detail before submitting the report.
 
   Nous avons passé cinq minutes dans *chaque* magasin.
-  Wir haben in *jedem* Geschäft fünf Minuten verbracht.
+  We spent five minutes in every store.
 
   *Chaque* membre de l'équipe a contribué au succès du projet.
-  *Jedes* Teammitglied hat zum Erfolg des Projekts beigetragen.
+  *Each* team member has contributed to the success of the project.
 
   Elle a lu *chaque* livre de cet auteur.
-  Sie hat *jedes* Buch dieses Autors gelesen.
+  She read every book of this author.
 
   Le train s'arrête à *chaque* station entre Paris et Lyon.
-  Der Zug hält an *jeder* Station zwischen Paris und Lyon.
+  The train stops at every station between Paris and Lyon.
 
   *Chaque* pays a ses propres traditions culinaires.
-  *Jedes* Land hat seine eigenen kulinarischen Traditionen.
+  *Each* country has its own culinary traditions.
 
   Il faut respecter *chaque* culture et *chaque* tradition.
-  Man muss *jede* Kultur und *jede* Tradition respektieren.
+  You have to respect every culture and every tradition.
 
   *Chaque* pièce de la maison a été soigneusement décorée.
-  *Jeder* Raum des Hauses wurde sorgfältig dekoriert.
+  *Each* room of the house has been carefully decorated.
 
   À *chaque* problème sa solution.
-  Für *jedes* Problem gibt es eine Lösung.
+  There is a solution for every problem.
 
   *Chaque* génération a ses propres défis à relever.
-  *Jede* Generation hat ihre eigenen Herausforderungen zu bewältigen.
+  *Each* generation has to face its own challenges.
 
   Ces pommes coûtent un euro *chaque*.
-  Diese Äpfel kosten *je* einen Euro.
+  These apples cost one euro each.
 
   *Chaque* dix minutes, on entend le bruit du train qui passe.
-  *Alle* zehn Minuten hört man den vorbeifahrenden Zug.
+  Every ten minutes you hear the passing train.
 
   "*Chaque* chose en son temps", dit le proverbe.
-  "*Alles* zu seiner Zeit", sagt das Sprichwort.
+  "*Everything* in its own time," says the proverb.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1818
 Wort: capitale
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la capitale
 Femininum / Plural: ''
 IPA: \ka.pi.tal\
-Definition: Hauptstadt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Capital
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous ne sommes pas la *capitale* de l'État, mais nous grandissons.
-  Wir sind nicht die *Hauptstadt* des Staates, aber wir wachsen.
+  We are not the *capital* of the state, but we are growing.
 
   Paris n'est pas seulement la *capitale* administrative, mais aussi le cœur culturel du pays.
-  Paris ist nicht nur die administrative *Hauptstadt*, sondern auch das kulturelle Herz des Landes.
+  Paris is not only the administrative *capital*, but also the cultural heart of the country.
 
   Milan reste la *capitale* de la mode en Europe.
-  Mailand bleibt das Mode*zentrum* Europäns.
+  Milan remains the fashion *centre* of Europe.
 
   Veuillez écrire votre nom en *capitales* sur le formulaire.
-  Schreiben Sie Ihren Namen in *Großbuchstaben* auf das Formular.
+  Write your name in capital letters on the form.
 
   Lyon est devenue la *capitale* de la gastronomie française.
-  Lyon ist zur *Hauptstadt* der französischen Gastronomie geworden.
+  Lyon has become the *capital* of French gastronomy.
 
   La *capitale* fédérale australienne est Canberra.
-  Die australische Bundes*hauptstadt* ist Canberra.
+  The Australian *capital* is Canberra.
 
   Les titres des chapitres sont imprimés en *capitales*.
-  Die Kapitelüberschriften sind in *Großbuchstaben* gedruckt.
+  The chapter headings are printed in capital letters.
 
   Cette ville est la *capitale* économique du pays.
-  Diese Stadt ist die Wirtschafts*hauptstadt* des Landes.
+  This city is the country's economic *capital*.
 
   Demain, je visiterai la *capitale* régionale.
-  Morgen werde ich die Landes*hauptstadt* besuchen.
+  Tomorrow I'll visit the *capital*.
 
   Prague a été choisie comme *capitale* culturelle d'Europe.
-  Prag wurde zur europäischen Kultur*hauptstadt* gewählt.
+  Prague was elected European *Capital* of Culture.
 
   Les enfants apprennent à écrire en *capitales* d'imprimerie.
-  Die Kinder lernen, in *Großbuchstaben* zu schreiben.
+  The children learn to write in capital letters.
 
   Cette année, notre ville sera la *capitale* européenne de la culture.
-  Dieses Jahr wird unsere Stadt die europäische Kultur*hauptstadt* sein.
+  This year our city will be the European *Capital* of Culture.
 
   Tokyo est devenue la *capitale* du Japon en 1868.
-  Tokio wurde 1868 zur *Hauptstadt* Japans.
+  Tokyo became the *capital* of Japan in 1868.
 
   Le maire rêve de faire de sa ville la *capitale* de l'innovation.
-  Der Bürgermeister träumt davon, seine Stadt zur *Hauptstadt* der Innovation zu machen.
+  The mayor dreams of making his city the *capital* of innovation.
 
   Les *capitales* romaines sont utilisées pour les inscriptions sur les monuments.
-  Die römischen *Großbuchstaben* werden für Inschriften auf Denkmälern verwendet.
+  The Roman capital letters are used for inscriptions on monuments.
 
   Bruxelles est une *capitale* internationale importante.
-  Brüssel ist eine wichtige internationale *Hauptstadt*.
+  Brussels is an important international *capital*.
 
   La *capitale* administrative n'est pas toujours la plus grande ville.
-  Die Verwaltungs*hauptstadt* ist nicht immer die größte Stadt.
+  The administrative *capital* is not always the largest city.
 
   Il a écrit son adresse en *capitales* pour éviter toute confusion.
-  Er hat seine Adresse in *Großbuchstaben* geschrieben, um Verwechslungen zu vermeiden.
+  He wrote his address in capital letters to avoid confusion.
 
   Strasbourg est devenue une *capitale* européenne.
-  Straßburg ist zu einer europäischen *Hauptstadt* geworden.
+  Strasbourg has become a European *capital*.
 
   Les touristes affluent vers la *capitale* pendant l'été.
-  Die Touristen strömen im Sommer in die *Hauptstadt*.
+  Tourists flock to the *capital* in the summer.
 
   Cette région n'avait pas de *capitale* fixe avant le 19e siècle.
-  Diese Region hatte vor dem 19. Jahrhundert keine feste *Hauptstadt*.
+  This region had no fixed *capital* before the 19th century.
 
   Écrivez votre signature sous les lettres en *capitales*.
-  Unterschreiben Sie unter den *Großbuchstaben*.
+  Sign under capital letters.
 
   Wellington est la *capitale* de la Nouvelle-Zélande depuis 1865.
-  Wellington ist seit 1865 die *Hauptstadt* von Neuseeland.
+  Wellington has been the *capital* of New Zealand since 1865.
 
   La *capitale* politique ne correspond pas toujours à la capitale économique.
-  Die politische *Hauptstadt* ist nicht immer die Wirtschafts*hauptstadt*.
+  The political *capital* is not always the economic capital.
 
   Les petites *capitales* sont souvent utilisées dans la typographie moderne.
-  Die kleinen *Großbuchstaben* werden oft in der modernen Typografie verwendet.
+  The small capital letters are often used in modern typography.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

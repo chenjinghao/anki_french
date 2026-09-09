@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3825
 Wort: consultatif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: consultatif
 Femininum / Plural: consultative
 IPA: \kɔ̃.syl.ta.tif\
-Definition: beratend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Advising
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils seront réduits à un rôle *consultatif*.
-  Sie werden auf eine *beratende* Rolle beschränkt werden.
+  They will be limited to a consultative role.
 
   Le comité *consultatif* se réunira la semaine prochaine.
-  Der *beratende* Ausschuss wird sich nächste Woche treffen.
+  The advisory committee will meet next week.
 
   Cette commission n'a qu'une fonction *consultative*.
-  Diese Kommission hat nur eine *beratende* Funktion.
+  This Commission has only one consultative role.
 
   Les experts participent à titre *consultatif* aux négociations.
-  Die Experten nehmen in *beratender* Funktion an den Verhandlungen teil.
+  The experts participate in the negotiations in an advisory capacity.
 
   L'assemblée *consultative* a émis ses recommandations hier.
-  Die *beratende* Versammlung hat gestern ihre Empfehlungen abgegeben.
+  Yesterday the Consultative Assembly made its recommendations.
 
   Le groupe de travail *consultatif* examine actuellement les propositions.
-  Die *beratende* Arbeitsgruppe prüft derzeit die Vorschläge.
+  The consultative working group is currently examining the proposals.
 
   Notre équipe a un statut purement *consultatif* dans ce projet.
-  Unser Team hat in diesem Projekt einen rein *beratenden* Status.
+  Our team has a purely advisory status in this project.
 
   Les membres *consultatifs* ont exprimé leurs inquiétudes.
-  Die *beratenden* Mitglieder haben ihre Bedenken geäußert.
+  The consultative members expressed their concerns.
 
   Elle siège avec voix *consultative* au conseil d'administration.
-  Sie sitzt mit *beratender* Stimme im Vorstand.
+  She sits on the board with an advisory vote.
 
   Un organe *consultatif* a été créé pour superviser le processus.
-  Ein *beratendes* Gremium wurde eingerichtet, um den Prozess zu überwachen.
+  An advisory body has been set up to monitor the process.
 
   Le panel *consultatif* d'experts a rendu son avis final.
-  Das *beratende* Expertengremium hat seine abschließende Stellungnahme abgegeben.
+  The Advisory Panel of Experts delivered its final opinion.
 
   Son rôle *consultatif* lui permet de faire des suggestions, mais pas de prendre des décisions.
-  Ihre *beratende* Rolle erlaubt es ihr, Vorschläge zu machen, aber keine Entscheidungen zu treffen.
+  Their consultative role allows them to make proposals, but not to make decisions.
 
   La structure *consultative* comprend des représentants de tous les départements.
-  Die *beratende* Struktur umfasst Vertreter aus allen Abteilungen.
+  The advisory structure includes representatives from all departments.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

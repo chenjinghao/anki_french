@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4730
 Wort: murmurer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: murmurer
 Femininum / Plural: ''
 IPA: \myʁ.my.ʁe\
-Definition: murmeln
-Register: ↗Fiktion ↘Sachtext ↘Mündlich
+Definition: murmur
+Register: ↗fiction ↘nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a *murmuré* dans mon oreille.
-  Sie hat mir ins Ohr *geflüstert*.
+  She *whispered* in my ear.
 
   Les enfants *murmurent* dans la salle de classe pendant que le professeur écrit au tableau.
-  Die Kinder *murmeln* im Klassenraum, während der Lehrer an die Tafel schreibt.
+  The children mutter in the classroom while the teacher writes to the board.
 
   "Il a *murmuré* quelque chose d'incompréhensible entre ses dents.
-  "Er hat etwas Unverständliches zwischen seinen Zähnen *gemurmelt*.
+  "He *muttered* something incomprehensible between his teeth.
 
   Le ruisseau *murmure* doucement entre les pierres.
-  Der Bach *murmelt* sanft zwischen den Steinen.
+  The stream mutters gently between the stones.
 
   La foule commence à *murmurer* contre cette décision injuste.
-  Die Menge beginnt gegen diese ungerechte Entscheidung zu *murren*.
+  The crowd is beginning to grumble against this unjust decision.
 
   Le vent *murmure* dans les feuilles des arbres.
-  Der Wind *säuselt* in den Blättern der Bäume.
+  The wind sizzles in the leaves of the trees.
 
   Il m'a *murmuré* son secret hier soir.
-  Er hat mir gestern Abend sein Geheimnis *zugeflüstert*.
+  He *whispered* his secret to me last night.
 
   La fontaine *murmure* jour et nuit dans le jardin.
-  Der Brunnen *plätschert* Tag und Nacht im Garten.
+  The fountain *splashes* day and night in the garden.
 
   "On *murmure* qu'ils vont se marier bientôt."
-  "Man *munkelt*, dass sie bald heiraten werden."
+  "It's rumored that they'll get married soon."
 
   Marie *murmure* une prière avant de s'endormir.
-  Marie *flüstert* ein Gebet, bevor sie einschläft.
+  Marie *whispers* a prayer before she falls asleep.
 
   Les spectateurs *murmurent* de mécontentement après la fin du spectacle.
-  Die Zuschauer *murren* unzufrieden nach dem Ende der Vorstellung.
+  The audience grumbles dissatisfied after the end of the performance.
 
   Il a *murmuré* mon nom si doucement que je l'ai à peine entendu.
-  Er hat meinen Namen so leise *geflüstert*, dass ich ihn kaum gehört habe.
+  He *whispered* my name so quietly that I barely heard it.
 
   La rivière *murmure* une douce mélodie.
-  Der Fluss *murmelt* eine sanfte Melodie.
+  The river mutters a gentle melody.
 
   Les employés *murmurent* dans les couloirs depuis l'annonce des changements.
-  Die Mitarbeiter *tuscheln* seit der Ankündigung der Änderungen in den Gängen.
+  The employees have been whispering since the announcement of the changes in the corridors.
 
   Sophie *murmure* des mots doux à son chat.
-  Sophie *flüstert* ihrer Katze zärtliche Worte zu.
+  Sophie *whispers* tender words to her cat.
 
   Le public *murmurait* de plus en plus fort pendant le discours.
-  Das Publikum *murrte* während der Rede immer lauter.
+  The audience *murmured* louder and louder during the speech.
 
   Les élèves *murmurent* entre eux pendant l'examen.
-  Die Schüler *flüstern* während der Prüfung miteinander.
+  The students whisper to each other during the exam.
 
   La brise *murmure* à travers les rideaux.
-  Die Brise *säuselt* durch die Vorhänge.
+  The breeze sizzles through the curtains.
 
   Pierre a *murmuré* à l'oreille de Julie pendant toute la soirée.
-  Pierre hat Julie den ganzen Abend lang ins Ohr *geflüstert*.
+  Pierre *whispered* in Julie's ear all night long.
 
   "On *murmure* que l'entreprise va fermer ses portes."
-  "Man *munkelt*, dass die Firma schließen wird."
+  "It's rumored that the company will close."
 
   Les vagues *murmurent* doucement sur la plage.
-  Die Wellen *murmeln* sanft am Strand.
+  The waves *murmur* gently on the beach.
 
   L'assemblée *murmurait* pendant le long discours du ministre.
-  Die Versammlung *murrte* während der langen Rede des Ministers.
+  The assembly *murmured* during the long speech of the minister.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

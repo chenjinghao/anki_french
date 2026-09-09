@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4860
 Wort: exploration
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une exploration
 Femininum / Plural: ''
 IPA: \ɛk.splɔ.ʁa.sjɔ̃\
-Definition: Erforschung, Erkundung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Research, exploration
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Rien ne vaut l'*exploration* du terrain.
-  Nichts ist besser als die *Erforschung* des Geländes.
+  Nothing is better than exploring the terrain.
 
   L'*exploration* spatiale nous permettra de découvrir de nouvelles planètes.
-  Die Weltraum*forschung* wird uns neue Planeten entdecken lassen.
+  Space exploration will let us discover new planets.
 
   Les scientifiques commenceront l'*exploration* de cette grotte la semaine prochaine.
-  Die Wissenschaftler werden nächste Woche mit der *Erforschung* dieser Höhle beginnen.
+  The scientists will begin to explore this cave next week.
 
   Une *exploration* approfondie du sujet est nécessaire avant d'écrire la thèse.
-  Eine gründliche *Erforschung* des Themas ist vor dem Schreiben der Dissertation erforderlich.
+  A thorough *research* of the topic is required before writing the dissertation.
 
   Le médecin a procédé à l'*exploration* minutieuse de la blessure.
-  Der Arzt führte eine sorgfältige *Untersuchung* der Wunde durch.
+  The doctor carried out a careful examination of the wound.
 
   Cette mission d'*exploration* en Antarctique durera six mois.
-  Diese *Forschungs*expedition in der Antarktis wird sechs Monate dauern.
+  This *research* expedition in Antarctica will take six months.
 
   L'*exploration* des archives a révélé des documents fascinants.
-  Die *Durchforschung* der Archive brachte faszinierende Dokumente zum Vorschein.
+  The *research* of the archives revealed fascinating documents.
 
   Les enfants adorent l'*exploration* de nouveaux endroits.
-  Kinder lieben die *Erkundung* neuer Orte.
+  Children love exploring new places.
 
   Son *exploration* du subconscient a révélé des traumatismes d'enfance.
-  Seine *Erforschung* des Unterbewusstseins hat Kindheitstraumata aufgedeckt.
+  His exploration of the subconscious revealed childhood trauma.
 
   L'*exploration* pétrolière dans cette région a été abandonnée.
-  Die Erdöl*exploration* in dieser Region wurde aufgegeben.
+  Oil *exploration* in this region has been abandoned.
 
   Une *exploration* fonctionnelle des poumons est prévue demain.
-  Morgen ist eine *Untersuchung* der Lungenfunktion geplant.
+  A lung function check is planned tomorrow.
 
   L'*exploration* sous-marine nous permet de découvrir de nouvelles espèces.
-  Die Tiefsee*forschung* ermöglicht uns die Entdeckung neuer Arten.
+  Deep-sea *research* allows us to discover new species.
 
   Cette méthode d'*exploration* géologique est très efficace.
-  Diese geologische *Erkundungs*methode ist sehr effektiv.
+  This geological exploration method is very effective.
 
   L'*exploration* des données a révélé des tendances intéressantes.
-  Die Daten*auswertung* hat interessante Trends aufgezeigt.
+  The data analysis has shown interesting trends.
 
   Les résultats de l'*exploration* ethnographique seront publiés bientôt.
-  Die Ergebnisse der ethnografischen *Forschung* werden bald veröffentlicht.
+  The results of ethnographic *research* will soon be published.
 
   L'*exploration* du site archéologique prendra plusieurs années.
-  Die *Erforschung* der archäologischen Stätte wird mehrere Jahre dauern.
+  The exploration of the archaeological site will take several years.
 
   Son travail consiste en l'*exploration* de nouvelles technologies.
-  Seine Arbeit besteht in der *Erforschung* neuer Technologien.
+  His work consists in researching new technologies.
 
   L'*exploration* du marché montre que ce produit a du potentiel.
-  Die Markt*erkundung* zeigt, dass dieses Produkt Potenzial hat.
+  The market discovery shows that this product has potential.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

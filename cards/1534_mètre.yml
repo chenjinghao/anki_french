@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1534
 Wort: mètre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mètre
 Femininum / Plural: ''
 IPA: \mɛtʁ\
-Definition: Meter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Meters
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La zone cible fait seulement 2 *mètres* de large.
-  Der Zielbereich ist nur 2 *Meter* breit.
+  The target area is only 2 *meters* wide.
 
   Mon père fait 1,85 *mètres*.
-  Mein Vater ist 1,85 *Meter* groß.
+  My father is six feet tall.
 
   Le salon fait 20 *mètres* carrés.
-  Das Wohnzimmer ist 20 Quadrat*meter* groß.
+  The living room is 20 square *meters* large.
 
   J'ai acheté un *mètre pliant* pour bricoler.
-  Ich habe mir einen *Zollstock* zum Basteln gekauft.
+  I bought myself a custom stick to do crafts.
 
   La couturière utilise son *mètre ruban* pour prendre mes mesures.
-  Die Schneiderin nimmt mit ihrem *Maßband* meine Maße.
+  The tailor takes my measurements with her *measuring tape*.
 
   Le plongeur a trouvé une épave à 50 *mètres* de fond.
-  Der Taucher hat in 50 *Metern* Tiefe ein Wrack gefunden.
+  The diver has found a wreck at 50 *meters* depth.
 
   Usain Bolt a couru le 100 *mètres* en moins de 10 secondes.
-  Usain Bolt ist die 100 *Meter* in unter 10 Sekunden gelaufen.
+  Usain Bolt ran the 100 *meters* in less than 10 seconds.
 
   L'appartement se trouve à cent *mètres* de la gare.
-  Die Wohnung liegt hundert *Meter* vom Bahnhof entfernt.
+  The apartment is located 100 *meters* from the train station.
 
   Le conteneur a un volume de 2 *mètres* cubes.
-  Der Container hat ein Volumen von 2 Kubik*metern*.
+  The container has a volume of 2 cubic *meters*.
 
   "J'ai dû *piquer un cent mètres* pour attraper le bus !"
-  "Ich musste *einen Sprint einlegen*, um den Bus zu erwischen!"
+  "I had to make a sprint to catch the bus!"
 
   La vitesse est mesurée en *mètres* par seconde.
-  Die Geschwindigkeit wird in *Metern* pro Sekunde gemessen.
+  The speed is measured in *meters* per second.
 
   Les athlètes s'entraînent pour le 110 *mètres* haies.
-  Die Athleten trainieren für die 110 *Meter* Hürden.
+  The athletes train for the 110 *meters* hurdles.
 
   L'équipe a remporté le 4 fois 100 *mètres*.
-  Die Mannschaft hat die 4 mal 100 *Meter* gewonnen.
+  The team won the 4 x 100 *meters*.
 
   Il me faut trois *mètres* de tissu pour la robe.
-  Ich brauche drei *Meter* Stoff für das Kleid.
+  I need three *meters* of fabric for the dress.
 
   Nous vivons à 1500 *mètres* d'altitude.
-  Wir leben auf 1500 *Metern* Höhe.
+  We live at an altitude of 1500 metres.
 
   Le *mètre* est l'unité de base de longueur.
-  Der *Meter* ist die Grundeinheit der Länge.
+  The meter is the basic unit of length.
 
   Le sommet se trouve à 3000 *mètres* au-dessus du niveau de la mer.
-  Der Gipfel liegt 3000 *Meter* über dem Meeresspiegel.
+  The summit is 3000 *meters* above sea level.
 
   J'ai laissé tomber mon *mètre ruban* dans l'eau.
-  Ich habe mein *Maßband* ins Wasser fallen lassen.
+  I dropped my *measuring tape* into the water.
 
   Le poète préfère le *mètre* alexandrin.
-  Der Dichter bevorzugt das alexandrinische *Versmaß*.
+  The poet prefers the alexandrinian measure.
 
   La piscine olympique mesure 50 *mètres* de long.
-  Das Olympiabecken ist 50 *Meter* lang.
+  The Olympic pool is 50 *meters* long.
 
   Les enfants courent le 800 *mètres* à l'école.
-  Die Kinder laufen in der Schule die 800 *Meter*.
+  The children run the 800 *meters* in school.
 
   Ce *mètre* en bois date du siècle dernier.
-  Dieses hölzerne *Metermaß* stammt aus dem letzten Jahrhundert.
+  This wooden metre measure dates back to the last century.
 
   Le prix du loyer est calculé au *mètre* carré.
-  Die Miete wird pro Quadrat*meter* berechnet.
+  The rent is charged per square meter.
 
   La voiture roule à 20 *mètres* par seconde.
-  Das Auto fährt 20 *Meter* pro Sekunde.
+  The car drives 20 *meters* per second.
 
   Dans ce poème, le *mètre* change à chaque strophe.
-  In diesem Gedicht wechselt das *Metrum* in jeder Strophe.
+  In this poem, the meter changes in every verse.
 
   Le jardin fait 500 *mètres* carrés.
-  Der Garten ist 500 Quadrat*meter* groß.
+  The garden is 500 square *meters* large.
 
   Elle a utilisé son vieux *mètre* de couturière.
-  Sie hat ihr altes Schneider*maßband* benutzt.
+  She used her old tailor's tape.
 
   Le record du saut en hauteur dépasse les 2 *mètres*.
-  Der Hochsprungrekord liegt über 2 *Meter*.
+  The high jump record is over 2 *meters*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

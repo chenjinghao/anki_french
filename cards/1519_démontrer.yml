@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1519
 Wort: démontrer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: démontrer
 Femininum / Plural: ''
 IPA: \de.mɔ̃.tʁe\
-Definition: zeigen, beweisen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: show, prove
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il ne *démontre* aucun signe de compassion envers ces travailleurs.
-  Er *zeigt* keinerlei Mitgefühl für diese Arbeiter.
+  He *shows* no sympathy for these workers.
 
   Les scientifiques ont *démontré* que le réchauffement climatique s'accélère.
-  Die Wissenschaftler haben *nachgewiesen*, dass sich die Erderwärmung beschleunigt.
+  The scientists have shown that global warming is accelerating.
 
   Elle a clairement *démontré* ses compétences lors de l'entretien.
-  Sie hat ihre Fähigkeiten beim Vorstellungsgespräch klar unter *Beweis gestellt*.
+  She clearly demonstrated her skills during the interview.
 
   Le professeur *démontre* le théorème de Pythagore au tableau.
-  Der Lehrer *beweist* den Satz des Pythagoras an der Tafel.
+  The teacher *proves* the sentence of the pythagoras on the board.
 
   Son sourire *démontre* sa joie de vivre.
-  Ihr Lächeln *zeigt* ihre Lebensfreude.
+  Her smile *shows* her joie de vivre.
 
   "Je vais te *démontrer* par A plus B pourquoi tu as tort !"
-  "Ich werde dir haargenau *beweisen*, warum du falsch liegst!"
+  "I'll *prove* to you exactly why you're wrong!"
 
   Cette étude *démontre* l'efficacité du nouveau médicament.
-  Diese Studie *belegt* die Wirksamkeit des neuen Medikaments.
+  This study demonstrates the effectiveness of the new drug.
 
   Il s'est *démontré* que leurs hypothèses étaient correctes.
-  Es hat sich *erwiesen*, dass ihre Hypothesen richtig waren.
+  It has proved that their hypotheses were correct.
 
   Les résultats *démontrent* la nécessité d'agir rapidement.
-  Die Ergebnisse *zeigen* die Notwendigkeit, schnell zu handeln.
+  The results *show* the need to act quickly.
 
   Je lui ai *démontré* ma confiance en lui confiant ce projet important.
-  Ich habe ihm mein Vertrauen *bewiesen*, indem ich ihm dieses wichtige Projekt anvertraut habe.
+  I have shown my trust in him by entrusting him with this important project.
 
   Ce qu'il *démontre* n'est pas nouveau, mais c'est toujours pertinent.
-  Was er *beweist* ist nicht neu, aber immer noch relevant.
+  What he *proves* is not new, but still relevant.
 
   Comment *démontrer* l'égalité de ces deux triangles ?
-  Wie lässt sich die Gleichheit dieser beiden Dreiecke *beweisen*?
+  How can the equality of these two triangles be demonstrated?
 
   Son comportement *démontre* un manque total de respect.
-  Sein Verhalten *zeugt* von einem völligen Mangel an Respekt.
+  His behavior shows a total lack of respect.
 
   L'expérience a *démontré* que cette méthode est inefficace.
-  Das Experiment hat *gezeigt*, dass diese Methode unwirksam ist.
+  The experiment has *shown* that this method is ineffective.
 
   Nous devons *démontrer* notre engagement envers ce projet.
-  Wir müssen unser Engagement für dieses Projekt unter *Beweis stellen*.
+  We must demonstrate our commitment to this project.
 
   La preuve reste à *démontrer*.
-  Der Beweis muss noch *erbracht* werden.
+  The evidence has yet to be provided.
 
   Ces chiffres *démontrent* clairement l'ampleur du problème.
-  Diese Zahlen *belegen* deutlich das Ausmaß des Problems.
+  These figures clearly show *the* scale of the problem.
 
   Il faut *démontrer* cette proposition mathématique pas à pas.
-  Man muss diesen mathematischen Satz Schritt für Schritt *beweisen*.
+  You have to *prove* this mathematical sentence step by step.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

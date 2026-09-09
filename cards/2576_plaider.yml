@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2576
 Wort: plaider
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: plaider
 Femininum / Plural: ''
 IPA: \ple.de\
-Definition: plädieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: plea
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il vous a envoyé *plaider* sa cause?
-  Hat er Sie geschickt, um seine Sache zu *vertreten*?
+  Did he send you to represent his cause?
 
   L'avocat a *plaidé* avec éloquence pour son client.
-  Der Anwalt hat eloquent für seinen Mandanten *plädiert*.
+  The lawyer has eloquently pleaded for his client.
 
   Le procureur a *plaidé* pour une peine exemplaire.
-  Der Staatsanwalt hat für eine exemplarische Strafe *plädiert*.
+  The prosecutor has pleaded for an exemplary sentence.
 
   "Je vais *plaider* non coupable", a déclaré l'accusé.
-  "Ich werde auf nicht schuldig *plädieren*", erklärte der Angeklagte.
+  "I will plead not guilty," the defendant explained.
 
   Son comportement *plaide* en sa faveur.
-  Sein Verhalten *spricht* zu seinen Gunsten.
+  His behavior speaks in his favor.
 
   L'avocat a *plaidé* la légitime défense.
-  Der Anwalt hat auf Notwehr *plädiert*.
+  The lawyer pleaded self-defense.
 
   Nous devons *plaider* pour plus de justice sociale.
-  Wir müssen uns für mehr soziale Gerechtigkeit *einsetzen*.
+  We need to work for more social justice.
 
   Il a dû *plaider* sa cause devant le conseil d'administration.
-  Er musste seine Sache vor dem Vorstand *vertreten*.
+  He had to represent his case before the board.
 
   Les preuves *plaident* contre l'accusé.
-  Die Beweise *sprechen* gegen den Angeklagten.
+  The evidence speaks against the defendant.
 
   L'association *plaide* pour la protection de l'environnement.
-  Der Verein *setzt sich* für den Umweltschutz *ein*.
+  *The* association is committed to environmental protection.
 
   Elle a *plaidé* l'ignorance des faits.
-  Sie hat auf Unkenntnis der Tatsachen *plädiert*.
+  She pleaded for ignorance of the facts.
 
   Son avocat a brillamment *plaidé* l'affaire.
-  Sein Anwalt hat den Fall brillant *vertreten*.
+  His lawyer *represented* the case brilliantly.
 
   Nous allons *plaider* notre cause devant le tribunal.
-  Wir werden unsere Sache vor Gericht *vertreten*.
+  We're going to take our case to court.
 
   Le témoin a *plaidé* en faveur de l'accusé.
-  Der Zeuge hat zugunsten des Angeklagten *ausgesagt*.
+  The witness testified in favor of the defendant.
 
   L'avocat a *plaidé* l'irrecevabilité de la plainte.
-  Der Anwalt hat die Unzulässigkeit der Klage *geltend gemacht*.
+  The lawyer has asserted the inadmissibility of the action.
 
   Les faits *plaident* d'eux-mêmes.
-  Die Fakten *sprechen* für sich.
+  The facts speak for themselves.
 
   Il faut *plaider* pour une réforme du système éducatif.
-  Man muss für eine Reform des Bildungssystems *plädieren*.
+  One must plead for reform of the education system.
 
   L'accusé a décidé de *plaider* coupable.
-  Der Angeklagte hat beschlossen, sich schuldig zu *bekennen*.
+  The defendant has decided to plead guilty.
 
   Son passé irréprochable *plaide* en sa faveur.
-  Seine tadellose Vergangenheit *spricht* zu seinen Gunsten.
+  His impeccable past speaks in his favor.
 
   L'avocat a *plaidé* l'incompétence du tribunal.
-  Der Anwalt hat die Unzuständigkeit des Gerichts *geltend gemacht*.
+  The lawyer has asserted the jurisdiction of the court.
 
   Nous devons *plaider* pour plus de tolérance dans la société.
-  Wir müssen für mehr Toleranz in der Gesellschaft *plädieren*.
+  We must plead for greater tolerance in society.
 
   Il a *plaidé* sa cause avec passion.
-  Er hat seine Sache leidenschaftlich *vertreten*.
+  He was passionate about his cause.
 
   L'avocat a *plaidé* les circonstances atténuantes.
-  Der Anwalt hat auf mildernde Umstände *plädiert*.
+  The lawyer pleaded for mitigating circumstances.
 
   Le ministre a *plaidé* pour une augmentation du budget.
-  Der Minister hat für eine Erhöhung des Budgets *plädiert*.
+  The Minister has called for an increase in the budget.
 
   Elle a dû *plaider* sa cause devant le comité.
-  Sie musste ihre Sache vor dem Ausschuss *vertreten*.
+  She had to represent her case before the committee.
 
   Les experts *plaident* pour une approche plus durable.
-  Die Experten *plädieren* für einen nachhaltigeren Ansatz.
+  The experts argue for a more sustainable approach.
 
   L'avocat a *plaidé* l'erreur judiciaire.
-  Der Anwalt hat auf einen Justizirrtum *plädiert*.
+  The lawyer pleaded for a miscarriage of justice.
 
   Il faut *plaider* pour une meilleure protection des droits de l'homme.
-  Man muss für einen besseren Schutz der Menschenrechte *plädieren*.
+  We must plead for better protection of human rights.
 
   Le défenseur a habilement *plaidé* l'acquittement.
-  Der Verteidiger hat geschickt auf Freispruch *plädiert*.
+  The defender has adeptly pleaded for acquittal.
 
   Son dévouement *plaide* en sa faveur.
-  Seine Hingabe *spricht* zu seinen Gunsten.
+  His devotion speaks in his favor.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

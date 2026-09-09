@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4326
 Wort: renfort
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le renfort
 Femininum / Plural: ''
 IPA: \ʁɑ̃.fɔʁ\
-Definition: Verstärkung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Reinforcement
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Encore quelques minutes. Les *renforts* arrivent.
-  Nur noch ein paar Minuten. Die *Verstärkung* kommt.
+  Just a few more minutes.
 
   La police a demandé des *renforts* pour contrôler la manifestation.
-  Die Polizei hat *Verstärkung* angefordert, um die Demonstration zu kontrollieren.
+  The police have requested reinforcements to control the demonstration.
 
   Les pompiers ont reçu du *renfort* de trois villes voisines.
-  Die Feuerwehr hat *Verstärkung* aus drei Nachbarstädten erhalten.
+  The fire brigade has received reinforcements from three neighboring cities.
 
   Le restaurant a pris deux serveurs en *renfort* pour le week-end.
-  Das Restaurant hat für das Wochenende zwei Kellner als *Verstärkung* eingestellt.
+  The restaurant hired two waiters as backup for the weekend.
 
   Il expliquait son point de vue *à grand renfort de* gestes.
-  Er erklärte seinen Standpunkt *mit großem Aufwand an* Gesten.
+  He explained his point of view with great effort to gestures.
 
   Le général a envoyé un *renfort* d'infanterie sur le front est.
-  Der General schickte *Verstärkung* an Infanterie an die Ostfront.
+  The general sent reinforcements to infantry to the eastern front.
 
   Les sauveteurs sont venus *en renfort* pour aider les victimes.
-  Die Rettungskräfte kamen *zur Verstärkung*, um den Opfern zu helfen.
+  The rescue forces came to the reinforcements to help the victims.
 
   Il faut installer un *renfort* métallique sous cette poutre.
-  Unter diesem Balken muss eine *Stütze* aus Metall angebracht werden.
+  A metal *support* shall be placed under this beam.
 
   Le charpentier a placé un *renfort* diagonal pour stabiliser le toit.
-  Der Zimmermann hat eine diagonale *Stütze* angebracht, um das Dach zu stabilisieren.
+  The carpenter has attached a diagonal *support* to stabilize the roof.
 
   Les vendangeurs ont reçu du *renfort* ce matin.
-  Die Weinleser haben heute Morgen *Verstärkung* bekommen.
+  The grape harvesters got reinforcements this morning.
 
   La voiture est équipée de *renforts* latéraux de sécurité.
-  Das Auto ist mit seitlichen *Verstärkungen* ausgestattet.
+  The car is equipped with lateral *reinforcements*.
 
   Marie menait sa campagne électorale *à grand renfort de* promesses.
-  Marie führte ihren Wahlkampf *mit großem Aufwand an* Versprechen.
+  Marie ran her campaign *with great effort on* promises.
 
   Les assiégés ont attendu les *renforts* pendant trois jours.
-  Die Belagerten haben drei Tage lang auf *Verstärkung* gewartet.
+  The besieged waited three days for reinforcements.
 
   L'équipe a reçu des *renforts* en nourriture et en eau.
-  Die Mannschaft hat *Nachschub* an Lebensmitteln und Wasser erhalten.
+  The team has received supplies of food and water.
 
   Un *renfort* aérien a été déployé dans la zone sinistrée.
-  Eine Luft*verstärkung* wurde in das Katastrophengebiet entsandt.
+  An air *reinforcement* was sent to the disaster area.
 
   Le cordonnier a mis un *renfort* sur mes chaussures usées.
-  Der Schuster hat einen *Flicken* auf meine abgenutzten Schuhe gesetzt.
+  The shoemaker put a patch on my worn shoes.
 
   Des médecins sont venus *en renfort* pendant l'épidémie.
-  Ärzte kamen während der Epidemie *zur Verstärkung*.
+  Doctors came *for reinforcement* during the epidemic.
 
   Le mur nécessite un *renfort* supplémentaire pour tenir.
-  Die Mauer braucht eine zusätzliche *Stütze*, um zu halten.
+  The wall needs an additional *support* to hold.
 
   Le capitaine a demandé un *renfort* de cordages pour le navire.
-  Der Kapitän hat *Verstärkungs*taue für das Schiff angefordert.
+  The captain has requested *reinforcement* stowage for the ship.
 
   La voile a été doublée par des *renforts* aux points de tension.
-  Das Segel wurde an den Belastungspunkten mit *Verstärkungen* verdoppelt.
+  The sail was doubled at the loading points with *reinforcements*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>renforcement</i> und <i>renfort</i></div>
+    <div class="section-title"><i>renforcement</i> and <i>renfort</i></div>
     <div class="section-content">
-      <p><span class="fr">Renforcement</span> (#3600) bedeutet <span class="de">"Verstärkung"</span> oder <span class="de">"Stärkung"</span> und bezeichnet den Prozess oder die Handlung des Verstärkens. Es wird oft in abstrakten Kontexten verwendet.</p>
+      <p><span class="fr">Renforcement</span> (#3600) means <span class="de">Reinforcement</span> or <span class="de">"Strengthening"</span> and denotes the process or action of strengthening. It is often used in abstract contexts.</p>
       <div class="examples">
         <div class="fr">Le renforcement de la sécurité est nécessaire après l'incident.</div>
-        <div class="de spoiler">Die Verstärkung der Sicherheit ist nach dem Vorfall notwendig.</div>
+        <div class="de spoiler">The reinforcement of security is necessary after the incident.</div>
         <div class="fr">Ce cours vise au renforcement des compétences linguistiques.</div>
-        <div class="de spoiler">Dieser Kurs zielt auf die Stärkung der Sprachkenntnisse ab.</div>
+        <div class="de spoiler">This course aims at strengthening language skills.</div>
       </div>
-      <p><span class="fr">Renfort</span> bedeutet <span class="de">"Verstärkung"</span> im Sinne von zusätzlicher Hilfe oder zusätzlichen Ressourcen. Es bezieht sich auf konkrete Unterstützung, die hinzugefügt wird.</p>
+      <p><span class="fr">Renfort</span> means <span class="de">Reinforcement</span> in the sense of additional assistance or additional resources. It refers to concrete support that is added.</p>
       <div class="examples">
         <div class="fr">Les pompiers ont demandé des renforts pour combattre l'incendie.</div>
-        <div class="de spoiler">Die Feuerwehrleute haben Verstärkung angefordert, um das Feuer zu bekämpfen.</div>
+        <div class="de spoiler">The firefighters called for reinforcements to fight the fire.</div>
         <div class="fr">Il a cousu un renfort sur le coude de sa veste.</div>
-        <div class="de spoiler">Er nähte eine Verstärkung auf den Ellbogen seiner Jacke.</div>
+        <div class="de spoiler">He stitched a reinforcement on his jacket's elbow.</div>
       </div>
     </div>
   </div>

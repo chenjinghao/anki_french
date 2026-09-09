@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2239
 Wort: concurrent
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le concurrent
 Femininum / Plural: concurrente
 IPA: \kɔ̃.ky.ʁɑ̃\
-Definition: Konkurrent
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Competitor
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un *concurrent* politique.
-  Er ist ein politischer *Konkurrent*.
+  He is a political *competitor*.
 
   Nous sommes des entreprises *concurrentes* sur le marché local.
-  Wir sind *konkurrierende* Unternehmen auf dem lokalen Markt.
+  We are competing companies in the local market.
 
   Le *concurrent* principal a baissé ses prix.
-  Der Haupt*konkurrent* hat seine Preise gesenkt.
+  The main competitor has lowered its prices.
 
   Les forces *concurrentes* ont abouti à un équilibre.
-  Die *konkurrierenden* Kräfte haben zu einem Gleichgewicht geführt.
+  *The* competing forces have led to a balance.
 
   "Tu es mon plus grand *concurrent*", a-t-il dit en plaisantant.
-  "Du bist mein größter *Konkurrent*", sagte er scherzhaft.
+  "You're my biggest *competitor*," he said jokingly.
 
   La *concurrente* a remporté la médaille d'or.
-  Die *Konkurrentin* hat die Goldmedaille gewonnen.
+  The *competitor* won the gold medal.
 
   Nos produits sont *concurrents* des leurs.
-  Unsere Produkte *konkurrieren* mit ihren.
+  Our products compete with theirs.
 
   Il y a dix *concurrents* pour ce poste.
-  Es gibt zehn *Bewerber* für diese Stelle.
+  There are ten candidates for this position.
 
   Les sociétés *concurrentes* ont signé un accord.
-  Die *konkurrierenden* Unternehmen haben eine Vereinbarung unterzeichnet.
+  *The* competing companies have signed an agreement.
 
   Cette entreprise est devenue notre principal *concurrent*.
-  Dieses Unternehmen ist zu unserem Haupt*konkurrenten* geworden.
+  This company has become our main competitor.
 
   Les équipes *concurrentes* s'affrontent ce soir.
-  Die *konkurrierenden* Teams treten heute Abend gegeneinander an.
+  *The* competing teams will compete against each other tonight.
 
   Elle a su écarter tous ses *concurrents*.
-  Sie hat es geschafft, alle ihre *Konkurrenten* auszuschalten.
+  She's managed to take out all her *competitors*.
 
   Le magasin *concurrent* a fermé ses portes.
-  Das *Konkurrenz*geschäft hat seine Türen geschlossen.
+  The *competition* business has closed its doors.
 
   Les activités *concurrentes* se disputent les mêmes ressources.
-  Die *konkurrierenden* Aktivitäten streiten um die gleichen Ressourcen.
+  *The* competing activities argue for the same resources.
 
   Notre *concurrent* direct a lancé un nouveau produit.
-  Unser direkter *Konkurrent* hat ein neues Produkt auf den Markt gebracht.
+  Our direct *competitor* has launched a new product.
 
   Les *concurrents* se sont serrés la main après la course.
-  Die *Konkurrenten* haben sich nach dem Rennen die Hand geschüttelt.
+  The *competitors* shook hands after the race.
 
   Cette technologie est *concurrente* de la nôtre.
-  Diese Technologie *konkurriert* mit unserer.
+  This technology competes with ours.
 
   Les *concurrentes* se sont préparées pendant des mois.
-  Die *Konkurrentinnen* haben sich monatelang vorbereitet.
+  The *competitors* have been preparing for months.
 
   Nous devons surveiller les mouvements de nos *concurrents*.
-  Wir müssen die Bewegungen unserer *Konkurrenten* im Auge behalten.
+  We need to keep an eye on the movements of our *competitors*.
 
   La *concurrente* a fait une offre plus intéressante.
-  Die *Konkurrentin* hat ein attraktiveres Angebot gemacht.
+  The *competitor* has made a more attractive offer.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

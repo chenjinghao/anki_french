@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4397
 Wort: imputer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: imputer
 Femininum / Plural: ''
 IPA: \ɛ̃.py.te\
-Definition: zuschreiben, anlasten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (b) the amount of the premium paid by the institution to the institution of the place of residence of the institution of the place of residence of the institution of the place of residence of the institution of the place of residence of the institution of the place of residence of the institution of the place of residence of the institution of the place of residence of the institution of the place of residence of the institution of the place of residence,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est facile d'*imputer* aux autres sa propre mauvaise volonté.
-  Es ist leicht, den anderen die eigene Böswilligkeit *zuzuschreiben*.
+  It is easy to attribute one's own evil will to the others.
 
   La police a *imputé* le crime à un groupe de malfaiteurs.
-  Die Polizei hat das Verbrechen einer Gruppe von Verbrechern *zugeschrieben*.
+  The police *ascribed* the crime to a group of criminals.
 
   Ces dépenses seront *imputées* sur le budget de l'année prochaine.
-  Diese Ausgaben werden auf das Budget des nächsten Jahres *angerechnet*.
+  These expenditures will be counted against the budget of next year.
 
   Le patron s'est *imputé* la responsabilité de l'échec du projet.
-  Der Chef hat sich die Verantwortung für das Scheitern des Projekts selbst *zugeschrieben*.
+  The boss has attributed the responsibility for the failure of the project to himself.
 
   Les frais de transport doivent être *imputés* sur les frais généraux.
-  Die Transportkosten müssen bei den Gemeinkosten *verbucht* werden.
+  Transport costs must be *recorded* at overheads.
 
   Pourquoi *imputer* à la malchance ce qui est de ta faute ?
-  Warum willst du dem Pech *zuschreiben*, was deine Schuld ist?
+  Why do you want to attribute to the bad luck that is your fault?
 
   L'erreur a été faussement *imputée* à mon collègue.
-  Der Fehler wurde fälschlicherweise meinem Kollegen *zugeschrieben*.
+  The mistake was wrongly attributed to my colleague.
 
   Les deux équipes s'*imputaient* mutuellement la responsabilité de l'accident.
-  Beide Teams haben sich gegenseitig die Verantwortung für den Unfall *zugeschoben*.
+  Both teams have assigned each other the responsibility for the accident.
 
   Comment peut-on *imputer* à crime un simple oubli ?
-  Wie kann man ein einfaches Vergessen als Verbrechen *anrechnen*?
+  How can you count a simple forgetfulness as a crime?
 
   L'acompte sera *imputé* sur le montant total de la facture.
-  Die Anzahlung wird auf den Gesamtbetrag der Rechnung *angerechnet*.
+  The deposit will be charged to the *total* amount of the invoice.
 
   Le déficit peut être *imputé* à la mauvaise gestion.
-  Das Defizit kann auf die schlechte Verwaltung *zurückgeführt* werden.
+  The deficit can be attributed to poor administration.
 
   Nous devons *imputer* ces coûts au département marketing.
-  Wir müssen diese Kosten der Marketingabteilung *zurechnen*.
+  We have to add these costs to the marketing department.
 
   À qui peut-on *imputer* la responsabilité de cette catastrophe ?
-  Wem kann man die Verantwortung für diese Katastrophe *zuschreiben*?
+  Who can be attributed responsibility for this disaster?
 
   Les dommages ont été *imputés* aux conditions météorologiques.
-  Die Schäden wurden den Wetterbedingungen *zugeschrieben*.
+  The damage was attributed to the weather conditions.
 
   Cette somme sera *imputée* sur votre prochain versement.
-  Dieser Betrag wird von Ihrer nächsten Zahlung *abgezogen*.
+  This amount will be *deducted* from your next payment.
 
   Le tribunal a *imputé* la négligence à l'entreprise.
-  Das Gericht hat dem Unternehmen die Fahrlässigkeit *angelastet*.
+  The court charged the company with negligence.
 
   On ne peut pas *imputer* tous nos problèmes à la situation économique.
-  Man kann nicht all unsere Probleme der wirtschaftlichen Situation *zuschreiben*.
+  We cannot attribute all our problems to the economic situation.
 
   Les pertes seront *imputées* sur les bénéfices de l'exercice.
-  Die Verluste werden vom Jahresgewinn *abgezogen*.
+  The losses are *deducted* from the annual profit.
 
   La défaite a été *imputée* au manque de préparation.
-  Die Niederlage wurde auf mangelnde Vorbereitung *zurückgeführt*.
+  The defeat was due to a lack of preparation.
 
   Cette dépense doit être *imputée* au compte des investissements.
-  Diese Ausgabe muss dem Investitionskonto *zugerechnet* werden.
+  This expenditure must be attributed to the investment account.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

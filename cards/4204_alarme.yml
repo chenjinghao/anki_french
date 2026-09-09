@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4204
 Wort: alarme
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une alarme
 Femininum / Plural: ''
 IPA: \a.laʁm\
-Definition: Alarm, Aufregung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Alarm, excitement
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Que se passe-t-il ? L'*alarme* s'est déclenchée.
-  Was ist los? Der *Alarm* ist losgegangen.
+  What's going on?
 
   Le cambrioleur a accidentellement déclenché l'*alarme* du magasin.
-  Der Einbrecher hat versehentlich die *Alarmanlage* des Geschäfts ausgelöst.
+  The burglar accidentally triggered the business *alarm system*.
 
   "C'était juste une fausse *alarme*, ne t'inquiète pas."
-  "Das war nur blinder *Alarm*, mach dir keine Sorgen."
+  "It was just a blind *alarm*, don't worry."
 
   L'*alarme* lumineuse clignote depuis une heure.
-  Die *Warn*leuchte blinkt seit einer Stunde.
+  The *warning* light has been flashing for an hour.
 
   Cette nouvelle a jeté l'*alarme* dans toute la région.
-  Diese Nachricht hat die ganze Region in *Unruhe* versetzt.
+  This news has upset the whole region.
 
   Le guetteur a donné l'*alarme* dès qu'il a aperçu l'ennemi.
-  Der Wachposten hat *Alarm* geschlagen, sobald er den Feind erblickte.
+  The guard struck the *alarm* as soon as he saw the enemy.
 
   Les voyageurs peuvent tirer le signal d'*alarme* en cas d'urgence.
-  Die Reisenden können im Notfall den *Alarm*hebel ziehen.
+  Travelers can pull the *alarm* lever in an emergency.
 
   Une puissante sirène d'*alarme* retentit dans tout le bâtiment.
-  Eine laute *Alarm*sirene ertönt im ganzen Gebäude.
+  A loud *alarm* siren sounds all over the building.
 
   La population vivait dans l'*alarme* à cause des tremblements de terre.
-  Die Bevölkerung lebte wegen der Erdbeben in *Unruhe*.
+  The population lived in unrest because of the earthquakes.
 
   Nous avons fait installer une *alarme* sophistiquée dans notre maison.
-  Wir haben eine hochmoderne *Alarmanlage* in unserem Haus installieren lassen.
+  We had a state-of-the-art *alarm system* installed in our house.
 
   Le système d'*alarme* s'est mis en marche pendant la nuit.
-  Die *Alarm*anlage ist in der Nacht losgegangen.
+  The *alarm* went off at night.
 
   L'*alarme* incendie s'est déclenchée pendant l'exercice d'évacuation.
-  Der Brand*alarm* wurde während der Evakuierungsübung ausgelöst.
+  The fire *alarm* was triggered during the evacuation exercise.
 
   Les pompiers sont arrivés rapidement après le déclenchement de l'*alarme*.
-  Die Feuerwehr traf schnell nach Auslösung des *Alarms* ein.
+  The fire department arrived soon after the alarm was triggered.
 
   La ville entière était en *alarme* après l'annonce de l'ouragan.
-  Die ganze Stadt war nach der Hurikan-Warnung in *Aufregung*.
+  The whole city was in a state of *excitement* after the Hurikan warning.
 
   Une sonnette d'*alarme* a été installée près de la porte principale.
-  Eine *Alarm*klingel wurde neben der Haupttür installiert.
+  An *alarm* bell was installed next to the main door.
 
   Les parents sont toujours en *alarme* quand leurs enfants sortent tard.
-  Die Eltern sind immer in *Aufregung*, wenn ihre Kinder spät ausgehen.
+  Parents are always in a state of *excitement* when their children go out late.
 
   Le gardien a immédiatement sonné l'*alarme* en voyant la fumée.
-  Der Wächter hat sofort *Alarm* ausgelöst, als er den Rauch sah.
+  The guard immediately triggered an *alarm* when he saw the smoke.
 
   L'*alarme* du véhicule s'est déclenchée sans raison apparente.
-  Der *Alarm* des Fahrzeugs ging ohne erkennbaren Grund los.
+  The *alarm* of the vehicle went off without any apparent reason.
 
   Un dispositif d'*alarme* électronique protège désormais la bijouterie.
-  Eine elektronische *Alarm*anlage schützt jetzt das Juweliergeschäft.
+  An electronic *alarm* system now protects the jewelry store.
 
   La sentinelle a poussé le cri d'*alarme* au milieu de la nuit.
-  Die Wache hat mitten in der Nacht das *Alarm*signal gegeben.
+  The guard gave the *alarm* signal in the middle of the night.
 
   Les voisins se sont réveillés quand l'*alarme* a retenti.
-  Die Nachbarn sind aufgewacht, als der *Alarm* losging.
+  Neighbors woke up when the *alarm* went off.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

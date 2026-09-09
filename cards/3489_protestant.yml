@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3489
 Wort: protestant
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le protestant
 Femininum / Plural: protestante
 IPA: \pʁɔ.tɛs.tɑ̃\
 Definition: Protestant
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai commencé à fréquenter une église *protestante*.
-  Ich habe begonnen, eine *protestantische* Kirche zu besuchen.
+  I started to visit a *Protestant* church.
 
   Le pasteur *protestant* a organisé une rencontre interreligieuse.
-  Der *protestantische* Pfarrer hat ein interreligiöses Treffen organisiert.
+  The *Protestant* priest organized an interreligious meeting.
 
   Ma grand-mère était une *protestante* très pieuse.
-  Meine Großmutter war eine sehr fromme *Protestantin*.
+  My grandmother was a very pious *Protestant*.
 
   La majorité des habitants de cette ville sont *protestants*.
-  Die Mehrheit der Einwohner dieser Stadt sind *Protestanten*.
+  The majority of the inhabitants of this city are *Protestants*.
 
   Les *protestants* célèbrent leur culte dans un temple.
-  Die *Protestanten* feiern ihren Gottesdienst in einem Gemeindehaus.
+  The *Protestants* celebrate their worship in a community house.
 
   Le temple *protestant* se trouve au centre-ville.
-  Die *protestantische* Kirche befindet sich im Stadtzentrum.
+  The *Protestant* church is located in the city centre.
 
   Les pays scandinaves sont traditionnellement *protestants*.
-  Die skandinavischen Länder sind traditionell *protestantisch*.
+  The Scandinavian countries are traditionally *Protestant*.
 
   Cette traduction de la Bible vient d'une maison d'édition *protestante*.
-  Diese Bibelübersetzung stammt aus einem *protestantischen* Verlag.
+  This Bible translation is from a *Protestant* publisher.
 
   Les *protestants* français ont dû fuir les persécutions au XVII<sup>e</sup> siècle.
-  Die französischen *Protestanten* mussten im 17. Jahrhundert vor Verfolgungen fliehen.
+  The French *Protestants* had to flee persecution in the 17th century.
 
   Elle est devenue pasteure dans une communauté *protestante*.
-  Sie ist Pfarrerin in einer *protestantischen* Gemeinde geworden.
+  She has become a pastor in a *Protestant* congregation.
 
   Les cantons *protestants* de la Suisse ont une longue histoire.
-  Die *protestantischen* Kantone der Schweiz haben eine lange Geschichte.
+  The *Protestant* cantons of Switzerland have a long history.
 
   Cette région était autrefois très *protestante*.
-  Diese Region war früher sehr stark *protestantisch* geprägt.
+  This region was formerly very strongly *Protestant*.
 
   Les *protestants* et les catholiques collaborent aujourd'hui étroitement.
-  *Protestanten* und Katholiken arbeiten heute eng zusammen.
+  *Protestants* and Catholics are working closely together today.
 
   La Fédération *protestante* organise des événements œcuméniques.
-  Der *protestantische* Bund organisiert ökumenische Veranstaltungen.
+  The *Protestant* Federation organizes ecumenical events.
 
   Une chorale *protestante* donnera un concert de Noël.
-  Ein *protestantischer* Chor wird ein Weihnachtskonzert geben.
+  A *Protestant* choir will give a Christmas concert.
 
   Les archives *protestantes* conservent des documents historiques précieux.
-  Das *protestantische* Archiv bewahrt wertvolle historische Dokumente auf.
+  The *Protestant* archive preserves valuable historical documents.
 
   Cette université a été fondée par des *protestants*.
-  Diese Universität wurde von *Protestanten* gegründet.
+  This university was founded by *Protestants*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

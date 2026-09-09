@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 844
 Wort: allemand
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: allemand
 Femininum / Plural: allemande
 IPA: \al.mɑ̃\
-Definition: deutsch; Deutscher
-Register: ↘Mündlich
+Definition: German; German
+Register: ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un type fume une cigarette *allemande*, l'air pensif.
-  Ein Mann raucht nachdenklich eine *deutsche* Zigarette.
+  A man smokes a *German* cigarette.
 
   Ma sœur parle couramment l'*allemand* depuis ses études à Berlin.
-  Meine Schwester spricht seit ihrem Studium in Berlin fließend *Deutsch*.
+  My sister has been fluent in *German* since her studies in Berlin.
 
   Le professeur nous a demandé de traduire ce texte en *allemand*.
-  Der Lehrer hat uns aufgefordert, diesen Text ins *Deutsche* zu übersetzen.
+  The teacher asked us to translate this text into *German*.
 
   Les *Allemands* que j'ai rencontrés en vacances étaient très sympathiques.
-  Die *Deutschen*, die ich im Urlaub kennengelernt habe, waren sehr sympathisch.
+  The Germans I met on vacation were very sympathetic.
 
   La musique *allemande* du XIX<sup>e</sup> siècle a influencé toute l'Europe.
-  Die *deutsche* Musik des 19. Jahrhunderts hat ganz Europa beeinflusst.
+  *German* music of the 19th century has influenced all of Europe.
 
   Notre fils commence à apprendre l'*allemand* à l'école cette année.
-  Unser Sohn fängt dieses Jahr in der Schule an, *Deutsch* zu lernen.
+  Our son starts learning *German* at school this year.
 
   Le dialecte souabe est un dialecte *allemand* parlé dans le sud.
-  Der schwäbische Dialekt ist ein im Süden gesprochener *deutscher* Dialekt.
+  The Swabian dialect is a *German* dialect spoken in the south.
 
   Cette peinture est typiquement *allemande* dans son style.
-  Dieses Gemälde ist in seinem Stil ur*deutsch*.
+  This painting is original in its style.
 
   Ces pommes de terre sont *allemandes*, elles viennent de Bavière.
-  Diese Kartoffeln sind *deutsch*, sie kommen aus Bayern.
+  These potatoes are *German*, they come from Bavaria.
 
   L'orchestre jouera une *allemande* de Bach ce soir.
-  Das Orchester wird heute Abend eine *Allemande* von Bach spielen.
+  The orchestra will be playing an alleman of Bach tonight.
 
   J'ai du mal à comprendre le moyen haut *allemand*.
-  Ich tue mich schwer damit, Mittelhoch*deutsch* zu verstehen.
+  I'm having a hard time understanding Middle High *German*.
 
   Il écrit toujours ses lettres en *allemand*.
-  Er schreibt seine Briefe immer auf *Deutsch*.
+  He always writes his letters in *German*.
 
   Le chef nous a préparé une délicieuse sauce *allemande*.
-  Der Koch hat uns eine köstliche *deutsche* Sauce zubereitet.
+  The chef prepared us a delicious *German* sauce.
 
   La littérature *allemande* moderne m'intéresse beaucoup.
-  Die moderne *deutsche* Literatur interessiert mich sehr.
+  I am very interested in modern *German* literature.
 
   Mon grand-père était un *Allemand* de Hambourg.
-  Mein Großvater war ein *Deutscher* aus Hamburg.
+  My grandfather was a *German* from Hamburg.
 
   Elle donne des cours d'*allemand* deux fois par semaine.
-  Sie gibt zweimal pro Woche *Deutsch*unterricht.
+  She gives *German* lessons twice a week.
 
   Le bas *allemand* est encore parlé dans certaines régions.
-  Nieder*deutsch* wird in manchen Regionen noch gesprochen.
+  Lower *German* is still spoken in some regions.
 
   Ce mot *allemand* est difficile à prononcer pour moi.
-  Dieses *deutsche* Wort ist für mich schwer auszusprechen.
+  This *German* word is difficult for me to pronounce.
 
   L'architecture *allemande* du Bauhaus est mondialement connue.
-  Die *deutsche* Bauhaus-Architektur ist weltbekannt.
+  The *German* Bauhaus architecture is world famous.
 
   Les étudiants *allemands* organisent une fête internationale.
-  Die *deutschen* Studenten organisieren eine internationale Party.
+  The *German* students organize an international party.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

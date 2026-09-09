@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4396
 Wort: altitude
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une altitude
 Femininum / Plural: ''
 IPA: \al.ti.tyd\
-Definition: Höhe, Höhenlage
-Register: ↗Sachtext ↘Mündlich
+Definition: Height, altitude
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a plu à basse *altitude*.
-  Es hat in niedriger *Höhe* geregnet.
+  It rained at a low altitude.
 
   L'*altitude* du Mont Blanc est de 4808 mètres.
-  Die *Höhe* des Mont Blanc beträgt 4808 Meter.
+  The *height* of the Mont Blanc is 4808 meters.
 
   Notre village se trouve à 1200 mètres d'*altitude*.
-  Unser Dorf liegt in 1200 Meter *Höhe*.
+  Our village is located at 1200 meters altitude.
 
   L'avion vole à haute *altitude* pour éviter les turbulences.
-  Das Flugzeug fliegt in großer *Höhe*, um Turbulenzen zu vermeiden.
+  The plane flies at high altitude to avoid turbulence.
 
   Le pilote a dû prendre de l'*altitude* rapidement.
-  Der Pilot musste schnell an *Höhe* gewinnen.
+  The pilot had to gain *height* quickly.
 
   À cause des problèmes techniques, l'hélicoptère perdait de l'*altitude*.
-  Wegen technischer Probleme verlor der Hubschrauber an *Höhe*.
+  Because of technical problems, the helicopter lost altitude.
 
   Cette ville a une faible *altitude*.
-  Diese Stadt liegt *höhen*mäßig niedrig.
+  This city is low in altitude.
 
   La pression atmosphérique diminue avec l'*altitude*.
-  Der Luftdruck nimmt mit zunehmender *Höhe* ab.
+  The air pressure decreases with increasing *height*.
 
   Ils ont construit un nouveau refuge en *altitude*.
-  Sie haben eine neue Berghütte in *Höhen*lage gebaut.
+  They built a new mountain hut at altitude.
 
   L'air en *altitude* est plus pur qu'en ville.
-  Die *Höhen*luft ist reiner als in der Stadt.
+  The altitude air is purer than in the city.
 
   Les skieurs préfèrent les stations d'*altitude*.
-  Die Skifahrer bevorzugen *Höhen*stationen.
+  The skiers prefer altitude stations.
 
   En *altitude*, la végétation devient plus rare.
-  In größerer *Höhe* wird die Vegetation spärlicher.
+  The vegetation becomes sparser at a higher altitude.
 
   L'*altitude* de vol recommandée est de 10000 mètres.
-  Die empfohlene Flug*höhe* beträgt 10000 Meter.
+  The recommended altitude is 10000 metres.
 
   Les alpinistes s'élèvent progressivement en *altitude*.
-  Die Bergsteiger steigen allmählich in die *Höhe*.
+  The climbers gradually rise to the heights.
 
   Cette jolie petite ville en *altitude* attire beaucoup de touristes.
-  Dieses hübsche Städtchen in *Höhen*lage zieht viele Touristen an.
+  This pretty town at altitude attracts many tourists.
 
   Les nuages se forment à différentes *altitudes*.
-  Die Wolken bilden sich in verschiedenen *Höhen*.
+  The clouds are formed at different *heights*.
 
   L'avion militaire maintient une *altitude* constante.
-  Das Militärflugzeug hält eine konstante *Höhe*.
+  The military plane holds a constant *height*.
 
   Les randonneurs se sont bien adaptés à l'*altitude*.
-  Die Wanderer haben sich gut an die *Höhe* angepasst.
+  The hikers have adapted well to the *height*.
 
   Le drone s'est stabilisé à une *altitude* de 100 mètres.
-  Die Drohne hat sich auf einer *Höhe* von 100 Metern stabilisiert.
+  The drone has stabilized at an altitude of 100 meters.
 
   En *altitude*, vous rencontrerez un vent plus fort.
-  In größerer *Höhe* werden Sie auf stärkeren Wind treffen.
+  You will encounter stronger winds at higher altitudes.
 
   Les températures baissent considérablement avec l'*altitude*.
-  Die Temperaturen sinken beträchtlich mit zunehmender *Höhe*.
+  Temperatures are falling considerably with increasing altitude.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

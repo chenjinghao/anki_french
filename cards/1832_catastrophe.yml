@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1832
 Wort: catastrophe
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la catastrophe
 Femininum / Plural: ''
 IPA: \ka.tas.tʁɔf\
-Definition: Katastrophe
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Disaster
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les agriculteurs subissent déjà beaucoup de *catastrophes* naturelles.
-  Die Landwirte erleiden bereits viele natürliche *Katastrophen*.
+  Farmers are already suffering many natural *disasters*.
 
   Un *catastrophe* aérienne a fait 200 victimes hier soir.
-  Ein schweres Flugzeug*unglück* hat gestern Abend 200 Opfer gefordert.
+  A heavy plane accident last night claimed 200 victims.
 
   La *catastrophe* ferroviaire aurait pu être évitée avec plus de contrôles.
-  Die Eisenbahn*katastrophe* hätte mit mehr Kontrollen verhindert werden können.
+  The railway *disaster* could have been prevented with more controls.
 
   Heureusement, la *catastrophe* a été évitée de justesse grâce à leur intervention rapide.
-  Zum Glück konnte die *Katastrophe* durch ihr schnelles Eingreifen gerade noch verhindert werden.
+  Fortunately, the *disaster* was prevented by its rapid intervention.
 
   Les cyclones sont des *catastrophes* naturelles dévastatrices.
-  Wirbelstürme sind verheerende Natur*katastrophen*.
+  Cyclones are devastating natural *disasters*.
 
   L'avion a dû atterrir en *catastrophe* sur l'autoroute.
-  Das Flugzeug musste auf der Autobahn eine *Not*landung machen.
+  The plane had to make an *emergency* landing on the highway.
 
   Le départ soudain du directeur général est une vraie *catastrophe* pour l'entreprise.
-  Der plötzliche Weggang des Geschäftsführers ist eine echte *Katastrophe* für das Unternehmen.
+  The sudden departure of the managing director is a real *disaster* for the company.
 
   "*Catastrophe* ! J'ai complètement oublié notre rendez-vous !"
-  "*Katastrophe*! Ich habe unser Treffen völlig vergessen!"
+  "Catastrophe! I have completely forgotten our meeting!"
 
   Cette inondation est la pire *catastrophe* que notre ville ait connue.
-  Diese Überschwemmung ist die schlimmste *Katastrophe*, die unsere Stadt je erlebt hat.
+  This flood is the worst *disaster* our city has ever experienced.
 
   Si nous ne changeons rien, nous courons à la *catastrophe*.
-  Wenn wir nichts ändern, steuern wir auf eine *Katastrophe* zu.
+  If we don't change anything, we're heading for *disaster*.
 
   Il est parti en *catastrophe* quand il a appris la nouvelle.
-  Er ist *überstürzt* aufgebrochen, als er die Nachricht erhielt.
+  He rushed out when he got the message.
 
   La *catastrophe* de Tchernobyl a marqué l'histoire du nucléaire.
-  Die *Katastrophe* von Tschernobyl hat die Geschichte der Kernkraft geprägt.
+  The Chernobyl *disaster* has shaped the history of nuclear power.
 
   Cette tempête pourrait tourner en *catastrophe*.
-  Dieser Sturm könnte sich zu einer *Katastrophe* entwickeln.
+  This storm could turn into a *disaster*.
 
   Les experts prédisent une *catastrophe* écologique sans précédent.
-  Die Experten sagen eine beispiellose Umwelt*katastrophe* voraus.
+  Experts predict an unprecedented environmental *disaster*.
 
   La *catastrophe* financière de 2008 a affecté l'économie mondiale.
-  Die Finanz*katastrophe* von 2008 hat die Weltwirtschaft beeinträchtigt.
+  The 2008 financial *disaster* has affected the global economy.
 
   Le sang-froid du capitaine a permis d'éviter la *catastrophe*.
-  Die Kaltblütigkeit des Kapitäns hat eine *Katastrophe* verhindert.
+  The captain's cold-bloodedness has prevented a *disaster*.
 
   Les pompiers sont intervenus pour empêcher une *catastrophe*.
-  Die Feuerwehr griff ein, um eine *Katastrophe* zu verhindern.
+  The fire brigade intervened to prevent a *disaster*.
 
   "C'est une *catastrophe*, j'ai perdu tous mes documents !"
-  "Das ist eine *Katastrophe*, ich habe alle meine Unterlagen verloren!"
+  "This is a *disaster*, I've lost all my records!"
 
   Cette décision politique risque de provoquer une *catastrophe* sociale.
-  Diese politische Entscheidung droht eine soziale *Katastrophe* auszulösen.
+  This political decision threatens to trigger a social catastrophe.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

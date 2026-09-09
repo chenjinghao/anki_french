@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1978
 Wort: semblable
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: semblable
 Femininum / Plural: ''
 IPA: \sɑ̃.blabl\
-Definition: ähnlich; solch; Mitmensch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: similar; such; fellow human beings
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons vu un cas *semblable* ici.
-  Wir haben hier einen *ähnlichen* Fall gesehen.
+  We've seen a *similar* case here.
 
   Les deux jumeaux sont tout à fait *semblables*.
-  Die beiden Zwillinge sind sich völlig *ähnlich*.
+  The twins are very *similar*.
 
   Il n'existe rien de *semblable* sur le marché.
-  Es gibt nichts *Derartiges* auf dem Markt.
+  There's nothing like that on the market.
 
   Une *semblable* attitude est inacceptable.
-  Eine *solche* Haltung ist inakzeptabel.
+  Such an attitude is unacceptable.
 
   Son comportement est *semblable* à celui de son père.
-  Sein Verhalten *ähnelt* dem seines Vaters.
+  His behavior is *similar* to that of his father.
 
   Nous devons aider nos *semblables* dans le besoin.
-  Wir müssen unseren *Mitmenschen* in Not helfen.
+  We must help our fellow human beings in need.
 
   Ces triangles sont mathématiquement *semblables*.
-  Diese Dreiecke sind mathematisch *ähnlich*.
+  These triangles are mathematically *similar*.
 
   "Je n'ai jamais entendu de *semblables* absurdités !"
-  "Ich habe noch nie *solchen* Unsinn gehört!"
+  "I've never heard *such* nonsense!"
 
   Elle est *restée semblable à elle-même* malgré le succès.
-  Sie ist trotz des Erfolgs *sich selbst treu geblieben*.
+  She has remained true to herself despite her success.
 
   Nos goûts sont très *semblables*.
-  Unsere Geschmäcker sind sehr *ähnlich*.
+  Our tastes are very *similar*.
 
   Il faut respecter ses *semblables*.
-  Man muss seine *Mitmenschen* respektieren.
+  You have to respect your fellow human beings.
 
   Cette maison est *semblable* à beaucoup d'autres du quartier.
-  Dieses Haus *ähnelt* vielen anderen im Viertel.
+  This house resembles many others in the neighborhood.
 
   En *semblable* occasion, que feriez-vous ?
-  Was würden Sie in einer *solchen* Situation tun?
+  What would you do in *such* a situation?
 
   Les versions des témoins sont presque *semblables*.
-  Die Aussagen der Zeugen sind fast *identisch*.
+  The testimony of the witnesses is almost *identical*.
 
   Tous les cercles sont *semblables* entre eux.
-  Alle Kreise sind untereinander *ähnlich*.
+  All circles are *similar* to each other.
 
   "Toi et tes *semblables*, vous êtes tous pareils !"
-  "Du und *deinesgleichen*, ihr seid alle gleich!"
+  "You and your kind are all alike!"
 
   Il n'a pas son *semblable* pour raconter des histoires.
-  Er hat nicht seines*gleichen*, wenn es darum geht, Geschichten zu erzählen.
+  He doesn't have his own kind when it comes to telling stories.
 
   Les matrices A et B sont mathématiquement *semblables*.
-  Die Matrizen A und B sind mathematisch *ähnlich*.
+  The matrices A and B are mathematically *similar*.
 
   Chaque animal produit son *semblable*.
-  Jedes Tier bringt seines*gleichen* hervor.
+  Each animal produces its own kind.
 
   Je n'ai jamais vu de *semblable* beauté.
-  Ich habe noch nie eine *solche* Schönheit gesehen.
+  I've never seen such a beauty before.
 
   Il faut reconnaître chaque être humain comme son *semblable*.
-  Man muss jeden Menschen als seinen *Mitmenschen* anerkennen.
+  You have to recognize every human being as your fellow human being.
 
   Ces deux situations ne sont pas *semblables*.
-  Diese beiden Situationen sind nicht *vergleichbar*.
+  These two situations are not *comparable*.
 
   L'éternel retour du *semblable* est un concept philosophique.
-  Die ewige Wiederkehr des *Gleichen* ist ein philosophisches Konzept.
+  The eternal return of the like is a philosophical concept.
 
   Elle éprouve des sentiments *semblables* aux vôtres.
-  Sie empfindet *ähnliche* Gefühle wie Sie.
+  She feels like you.
 
   Nous recherchons des candidats aux profils *semblables*.
-  Wir suchen Kandidaten mit *ähnlichen* Profilen.
+  We're looking for candidates with *similar* profiles.
 
   En géométrie, deux triangles *semblables* ont les mêmes angles.
-  In der Geometrie haben zwei *ähnliche* Dreiecke die gleichen Winkel.
+  In geometry, two *similar* triangles have the same angles.
 
   Il a su *rester semblable à lui-même* malgré les difficultés.
-  Er hat es geschafft, trotz der Schwierigkeiten *sich selbst treu zu bleiben*.
+  He has managed to remain true to himself despite the difficulties.
 
   Ces deux échantillons sont presque *semblables*.
-  Diese beiden Proben sind fast *identisch*.
+  These two samples are almost *identical*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

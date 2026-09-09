@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3079
 Wort: ère
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une ère
 Femininum / Plural: ''
 IPA: \ɛʁ\
-Definition: Zeitalter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Age
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous vivons à l'*ère* de la mondialisation.
-  Wir leben im *Zeitalter* der Globalisierung.
+  We live in the *age* of globalization.
 
   Les dinosaures ont vécu à l'*ère* secondaire.
-  Die Dinosaurier lebten in der *Ära* des Mesozoikums.
+  The dinosaurs lived in the Mesozoic *era*.
 
   La découverte de l'électricité a marqué le début d'une nouvelle *ère*.
-  Die Entdeckung der Elektrizität markierte den Beginn einer neuen *Ära*.
+  The discovery of electricity marked the beginning of a new *era*.
 
   L'*ère* des Poissons s'étend jusqu'à nos jours selon l'astrologie.
-  Das *Zeitalter* der Fische reicht laut Astrologie bis in unsere Zeit.
+  The *age* of fish, according to astrology, extends right up to our time.
 
   Cet événement s'est produit en l'an 753 avant notre *ère*.
-  Dieses Ereignis fand im Jahr 753 vor unserer *Zeitrechnung* statt.
+  This event took place in 753 BC.
 
   L'*ère* industrielle a profondément transformé nos sociétés.
-  Das Industrie*zeitalter* hat unsere Gesellschaften tiefgreifend verändert.
+  The industrial *age* has profoundly changed our societies.
 
   Nous entrons dans l'*ère* du numérique.
-  Wir treten in das Digital*zeitalter* ein.
+  We enter the digital *age*.
 
   L'*ère* spatiale a commencé avec le lancement de Spoutnik.
-  Das Raumfahrt*zeitalter* begann mit dem Start von Sputnik.
+  The space *age* began with the launch of Sputnik.
 
   Cette découverte date de l'*ère* quaternaire.
-  Diese Entdeckung stammt aus dem *Zeitalter* des Quartärs.
+  This discovery dates back to the Quaternary *Age*.
 
   L'*ère* de l'internet a révolutionné notre façon de communiquer.
-  Das Internet*zeitalter* hat unsere Art zu kommunizieren revolutioniert.
+  The Internet *age* has revolutionized our way of communicating.
 
   Une nouvelle *ère* s'ouvre pour notre entreprise.
-  Eine neue *Ära* beginnt für unser Unternehmen.
+  A new *era* begins for our company.
 
   Ces fossiles datent de l'*ère* primaire.
-  Diese Fossilien stammen aus dem *Zeitalter* des Paläozoikums.
+  These fossils date back to the Paleozoic era.
 
   L'*ère* musulmane commence avec l'hégire en 622.
-  Die muslimische *Zeitrechnung* beginnt mit der Hidschra im Jahr 622.
+  The Muslim era begins with the Hijra in 622.
 
   Nous sommes entrés dans l'*ère* de l'intelligence artificielle.
-  Wir sind in das *Zeitalter* der künstlichen Intelligenz eingetreten.
+  We have entered the *age* of artificial intelligence.
 
   L'*ère* tertiaire a vu l'apparition des premiers primates.
-  Im Tertiär*zeitalter* erschienen die ersten Primaten.
+  The first primates appeared in the Tertiary *Age*.
 
   Cette civilisation a connu une *ère* de prospérité sans précédent.
-  Diese Zivilisation erlebte eine *Ära* des beispiellosen Wohlstands.
+  This civilization experienced an *era* of unprecedented prosperity.
 
   L'*ère* chrétienne commence avec la naissance présumée du Christ.
-  Die christliche *Zeitrechnung* beginnt mit der vermuteten Geburt Christi.
+  The Christian Common Era begins with the presumed birth of Christ.
 
   Une nouvelle *ère* de paix s'annonçait après la guerre.
-  Nach dem Krieg kündigte sich eine neue Friedens*ära* an.
+  After the war, a new era of peace was announced.
 
   Ces changements marquent le début d'une *ère* nouvelle.
-  Diese Veränderungen markieren den Beginn einer neuen *Ära*.
+  These changes mark the beginning of a new *era*.
 
   L'*ère* républicaine française a débuté en 1792.
-  Die französische republikanische *Ära* begann 1792.
+  The French Republican *era* began in 1792.
 
   Les mammifères se sont développés pendant l'*ère* mésozoïque.
-  Die Säugetiere entwickelten sich während der mesozoischen *Ära*.
+  The mammals developed during the Mesozoic *era*.
 
   Cette découverte inaugure une nouvelle *ère* dans la médecine.
-  Diese Entdeckung leitet eine neue *Ära* in der Medizin ein.
+  This discovery marks the beginning of a new *era* in medicine.
 
   Ce fut une *ère* de grands changements sociaux.
-  Es war eine *Ära* großer sozialer Veränderungen.
+  It was an *era* of great social change.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

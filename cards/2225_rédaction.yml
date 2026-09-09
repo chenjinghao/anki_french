@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2225
 Wort: rédaction
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la rédaction
 Femininum / Plural: ''
 IPA: \ʁe.dak.sjɔ̃\
-Definition: Redaktion, Ausarbeitung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Editing, drafting
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai terminé la *rédaction* de ma thèse.
-  Ich habe das *Verfassen* meiner Doktorarbeit abgeschlossen.
+  I finished writing my doctoral thesis.
 
   La *rédaction* de ce contrat doit être très précise.
-  Die *Abfassung* dieses Vertrags muss sehr präzise sein.
+  The drafting of this Treaty must be very precise.
 
   Elle travaille à la *rédaction* d'un nouveau roman.
-  Sie arbeitet am *Verfassen* eines neuen Romans.
+  She's working on writing a new novel.
 
   La *rédaction* en chef a décidé de publier cet article controversé.
-  Die Chef*redaktion* hat beschlossen, diesen kontroversen Artikel zu veröffentlichen.
+  The editor-in-chief has decided to publish this controversial article.
 
   Je dois finir la *rédaction* de mon rapport avant demain.
-  Ich muss die *Ausarbeitung* meines Berichts bis morgen fertigstellen.
+  I have to finish drafting my report by tomorrow.
 
   La *rédaction* de cette encyclopédie a pris dix ans.
-  Die *Redaktion* dieser Enzyklopädie hat zehn Jahre gedauert.
+  The editorship of this encyclopedia took ten years.
 
   Toute la *rédaction* s'est réunie pour discuter des prochains articles.
-  Die ganze *Redaktion* hat sich getroffen, um die nächsten Artikel zu besprechen.
+  The whole editorial team has met to discuss the next articles.
 
   Les élèves ont une *rédaction* à faire pour lundi.
-  Die Schüler müssen bis Montag einen *Aufsatz* schreiben.
+  Students must write an essay by Monday.
 
   La *rédaction* sportive couvre tous les événements importants.
-  Die Sport*redaktion* berichtet über alle wichtigen Ereignisse.
+  The sports editors report on all important events.
 
   Cette *rédaction* finale diffère beaucoup de la première version.
-  Diese endgültige *Fassung* unterscheidet sich stark von der ersten Version.
+  This final *version* differs greatly from the first version.
 
   La *rédaction* de France Info cherche de nouveaux journalistes.
-  Die *Redaktion* von France Info sucht neue Journalisten.
+  The editors of France Info are looking for new journalists.
 
   Il faut améliorer la *rédaction* de cette lettre officielle.
-  Die *Formulierung* dieses offiziellen Schreibens muss verbessert werden.
+  The wording of this official letter needs to be improved.
 
   La *rédaction* du journal se trouve au deuxième étage.
-  Die Zeitungs*redaktion* befindet sich im zweiten Stock.
+  The newsroom is on the second floor.
 
   Pour la *rédaction* en classe, vous avez deux heures.
-  Für den Klassen*aufsatz* habt ihr zwei Stunden Zeit.
+  You've got two hours for the class essay.
 
   La *rédaction* de ce programme informatique prendra plusieurs semaines.
-  Das *Verfassen* dieses Computerprogramms wird mehrere Wochen dauern.
+  Writing this computer program will take several weeks.
 
   Le chef de *rédaction* a corrigé mon article.
-  Der *Redaktions*leiter hat meinen Artikel korrigiert.
+  The editor has corrected my article.
 
   Julie a eu une excellente note en *rédaction*.
-  Julie hat eine ausgezeichnete Note im *Aufsatz* bekommen.
+  Julie got an excellent note in the essay.
 
   La *rédaction* de cette loi a nécessité de nombreuses consultations.
-  Die *Abfassung* dieses Gesetzes erforderte zahlreiche Beratungen.
+  The drafting of this law required a great deal of consultation.
 
   Une réunion de *rédaction* aura lieu ce soir.
-  Heute Abend findet eine *Redaktions*sitzung statt.
+  There's a editorial meeting tonight.
 
   La *rédaction* de son livre lui a pris deux ans.
-  Das *Verfassen* seines Buches hat zwei Jahre gedauert.
+  The writing of his book took two years.
 
   Le bureau de *rédaction* est fermé le week-end.
-  Das *Redaktions*büro ist am Wochenende geschlossen.
+  The editorial office is closed this weekend.
 
   La *rédaction* de cette note de synthèse doit être claire et concise.
-  Die *Ausarbeitung* dieser Zusammenfassung muss klar und prägnant sein.
+  The drafting of this summary must be clear and concise.
 
   La *rédaction* économique analyse les dernières tendances du marché.
-  Die Wirtschafts*redaktion* analysiert die neuesten Markttrends.
+  The economic editors analyse the latest market trends.
 
   Nous avons reçu une note de la *rédaction* concernant les nouveaux formats.
-  Wir haben eine Mitteilung der *Redaktion* bezüglich der neuen Formate erhalten.
+  We have received a message from the editorial staff regarding the new formats.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

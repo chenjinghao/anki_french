@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 969
 Wort: menacer
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: menacer
 Femininum / Plural: ''
 IPA: \mə.na.se\
-Definition: drohen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Threaten
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont *menacé* de l'incarcérer et de le torturer.
-  Sie haben *gedroht*, ihn einzusperren und zu foltern.
+  They *threatened* to lock him up and torture him.
 
   Le voleur m'a *menacé* avec un couteau.
-  Der Dieb hat mich mit einem Messer *bedroht*.
+  The thief *threatened* me with a knife.
 
   Si tu ne fais pas tes devoirs, je te *menace* de te confisquer ton téléphone.
-  Wenn du deine Hausaufgaben nicht machst, *drohe* ich dir damit, dir dein Handy wegzunehmen.
+  If you don't do your homework, I'm threatening to take your phone away from you.
 
   Un danger imminent *menace* notre planète.
-  Eine unmittelbare Gefahr *bedroht* unseren Planeten.
+  An immediate threat threatens our planet.
 
   La pluie *menace* de gâcher notre pique-nique.
-  Der Regen *droht* unser Picknick zu verderben.
+  The rain threatens to spoil our picnic.
 
   Le bâtiment *menace* ruine depuis des années.
-  Das Gebäude *droht* seit Jahren einzustürzen.
+  The building has been threatening to collapse for years.
 
   Son patron l'a *menacé* de le licencier s'il arrive encore en retard.
-  Sein Chef hat ihm mit Kündigung *gedroht*, wenn er noch einmal zu spät kommt.
+  His boss *threatened* him with resignation if he was late again.
 
   Cette maladie *menace* sa vie depuis longtemps.
-  Diese Krankheit *gefährdet* seit langem sein Leben.
+  This disease has long *endangered* his life.
 
   Les deux pays se sont *menacés* de représailles.
-  Die beiden Länder haben sich gegenseitig mit Vergeltung *gedroht*.
+  The two countries have *threatened* each other with retaliation.
 
   L'épidémie *menace* de se propager dans toute la région.
-  Die Epidemie *droht* sich in der ganzen Region auszubreiten.
+  The epidemic is threatening to spread throughout the region.
 
   Le vieux pont *menace* de s'effondrer à tout moment.
-  Die alte Brücke *droht* jeden Moment einzustürzen.
+  The old bridge threatens to collapse at any moment.
 
   Il m'a *menacé* du poing quand je l'ai dépassé en voiture.
-  Er hat mir mit der Faust *gedroht*, als ich ihn mit dem Auto überholt habe.
+  He *threatened* me with a fist when I overtook him with the car.
 
   Les nuages sombres *menacent* d'apporter un violent orage.
-  Die dunklen Wolken *drohen* ein heftiges Gewitter zu bringen.
+  The dark clouds *threaten* to bring a violent thunderstorm.
 
   La sécheresse *menace* les récoltes cette année.
-  Die Dürre *bedroht* dieses Jahr die Ernte.
+  The drought is threatening the harvest this year.
 
   Elle a *menacé* de partir si rien ne change.
-  Sie hat *gedroht* zu gehen, wenn sich nichts ändert.
+  She *threatened* to leave if nothing changed.
 
   Son discours *menace* d'être interminable.
-  Seine Rede *droht* endlos zu werden.
+  His speech threatens to become endless.
 
   Les loups *menacent* nos troupeaux depuis plusieurs semaines.
-  Die Wölfe *bedrohen* seit mehreren Wochen unsere Herden.
+  The wolves have been threatening our herds for several weeks.
 
   La fonte des glaciers *menace* l'équilibre écologique.
-  Das Schmelzen der Gletscher *gefährdet* das ökologische Gleichgewicht.
+  The melting of the glaciers endangers the ecological balance.
 
   Le concurrent l'a *menacé* de poursuites judiciaires.
-  Der Konkurrent hat ihm mit rechtlichen Schritten *gedroht*.
+  The competitor *threatened* him with legal action.
 
   Un scandale *menace* d'éclater dans l'entreprise.
-  Ein Skandal *droht* in der Firma auszubrechen.
+  A scandal threatens to break out in the company.
 
   La neige *menace* de bloquer les routes de montagne.
-  Der Schnee *droht* die Bergstraßen zu blockieren.
+  The snow threatens to block the mountain roads.
 
   Cette espèce rare est *menacée* d'extinction.
-  Diese seltene Art ist vom Aussterben *bedroht*.
+  This rare species is *threatened* with extinction.
 
   Je me sens *menacé* par ses remarques hostiles.
-  Ich fühle mich von seinen feindseligen Bemerkungen *bedroht*.
+  I feel *threatened* by his hostile remarks.
 
   L'entreprise *menace* de délocaliser la production.
-  Die Firma *droht* damit, die Produktion zu verlagern.
+  The company threatens to shift production.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

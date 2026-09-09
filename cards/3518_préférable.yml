@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3518
 Wort: préférable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: préférable
 Femininum / Plural: ''
 IPA: \pʁe.fe.ʁabl\
-Definition: vorzuziehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Preferably
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Madame, je crois *préférable* que nous discutions en privé.
-  Gnädige Frau, ich halte es für *besser*, wenn wir unter vier Augen sprechen.
+  Madam, I think it would be *better* if we spoke in private.
 
   Il est *préférable* de ne pas sortir ce soir à cause de la tempête.
-  Es ist *besser*, heute Abend wegen des Sturms nicht auszugehen.
+  It's *better* not to go out tonight because of the storm.
 
   Une solution diplomatique est *préférable* à un conflit armé.
-  Eine diplomatische Lösung ist einem bewaffneten Konflikt *vorzuziehen*.
+  A diplomatic solution is preferable to an armed conflict.
 
   Il serait *préférable* que tu finisses tes devoirs avant de jouer.
-  Es wäre *besser*, wenn du deine Hausaufgaben machst, bevor du spielst.
+  It would be *better* if you did your homework before you play.
 
   Pour cette recette, l'huile d'olive est *préférable* au beurre.
-  Für dieses Rezept ist Olivenöl *besser* als Butter.
+  For this recipe, olive oil is *better* than butter.
 
   Le train est *préférable* à la voiture pour ce long voyage.
-  Für diese lange Reise ist der Zug dem Auto *vorzuziehen*.
+  For this long journey, the train is preferable to the car.
 
   Il est *préférable* que vous preniez rendez-vous à l'avance.
-  Es ist *besser*, wenn Sie im Voraus einen Termin vereinbaren.
+  It is *better* if you make an appointment in advance.
 
   Un entretien en personne serait *préférable* à un appel téléphonique.
-  Ein persönliches Gespräch wäre einem Telefonat *vorzuziehen*.
+  A personal conversation would be preferable to a phone call.
 
   La prévention est *préférable* au traitement de la maladie.
-  Vorbeugung ist *besser* als die Behandlung der Krankheit.
+  Prevention is *better* than treating the disease.
 
   Il est *préférable* de dire la vérité maintenant que plus tard.
-  Es ist *besser*, die Wahrheit jetzt zu sagen als später.
+  It's *better* to tell the truth now than later.
 
   Une critique constructive est *préférable* aux compliments superficiels.
-  Konstruktive Kritik ist oberflächlichen Komplimenten *vorzuziehen*.
+  Constructive criticism is preferable to superficial compliments.
 
   Il serait *préférable* que nous reportions la réunion à demain.
-  Es wäre *besser*, wenn wir die Besprechung auf morgen verschieben.
+  It would be *better* if we postponed the meeting until tomorrow.
 
   Le vélo est *préférable* à la voiture pour les courtes distances.
-  Das Fahrrad ist für kurze Strecken dem Auto *vorzuziehen*.
+  The bike is preferable to the car for short distances.
 
   Il est *préférable* d'arriver trop tôt que trop tard.
-  Es ist *besser*, zu früh als zu spät zu kommen.
+  It's *better* to be early than late.
 
   Une explication claire est *préférable* à un long discours confus.
-  Eine klare Erklärung ist einer langen, verworrenen Rede *vorzuziehen*.
+  A clear explanation is preferable to a long, confused speech.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

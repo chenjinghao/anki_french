@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1724
 Wort: forêt
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la forêt
 Femininum / Plural: ''
 IPA: \fɔ.ʁɛ\
-Definition: Wald
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Forest
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   De ma fenêtre, on voyait la *forêt*.
-  Von meinem Fenster aus sah man den *Wald*.
+  From my window, you saw the *forest*.
 
   La *forêt* de Fontainebleau est l'une des plus belles de France.
-  Der *Wald* von Fontainebleau ist einer der schönsten in Frankreich.
+  The *forest* of Fontainebleau is one of the most beautiful in France.
 
   Une dense *forêt* de châtaigniers couvre toute la colline.
-  Ein dichter Kastanien*wald* bedeckt den ganzen Hügel.
+  A dense chestnut *forest* covers the whole hill.
 
   Cette *forêt* de conifères est parfaite pour une randonnée hivernale.
-  Dieser Nadel*wald* ist perfekt für eine Winterwanderung.
+  This coniferous *forest* is perfect for a winter hike.
 
   Les champignons poussent dans cette *forêt* de feuillus.
-  Die Pilze wachsen in diesem Laub*wald*.
+  The mushrooms grow in this deciduous *forest*.
 
   La *forêt* domaniale est gérée par l'État.
-  Der Staats*forst* wird von der Regierung verwaltet.
+  The State *Forest* is administered by the government.
 
   Une jeune *forêt* a repoussé après l'incendie.
-  Ein Jung*wald* ist nach dem Brand nachgewachsen.
+  A young *forest* has regrown after the fire.
 
   Cette *forêt* sèche abrite des espèces uniques.
-  Dieser Trocken*wald* beherbergt einzigartige Arten.
+  This dry *forest* houses unique species.
 
   La *forêt* vierge disparaît à un rythme alarmant.
-  Der Ur*wald* verschwindet in alarmierendem Tempo.
+  The jungle disappears at an alarming pace.
 
   Une *forêt* de mâts se balançait dans le port.
-  Ein *Wald* von Masten schwankte im Hafen.
+  A *forest* of masts fluctuated in the port.
 
   La *forêt* amazonienne est le poumon de notre planète.
-  Der Amazonas*wald* ist die Lunge unseres Planeten.
+  The Amazon *forest* is the lung of our planet.
 
   Nous avons construit notre cabane à la lisière de la *forêt*.
-  Wir haben unsere Hütte am Rand des *Waldes* gebaut.
+  We built our hut on the edge of the forest.
 
   Cette *forêt* dense et impénétrable cache de nombreux secrets.
-  Dieser dichte, undurchdringliche *Wald* verbirgt viele Geheimnisse.
+  This dense, impenetrable *forest* hides many secrets.
 
   Les clairières de la *forêt* offrent des espaces de repos aux randonneurs.
-  Die Lichtungen des *Waldes* bieten den Wanderern Rastplätze.
+  The clearings of the forest offer the hikers rest places.
 
   Une *forêt* de bras levés a accueilli le chanteur sur scène.
-  Ein *Wald* von erhobenen Armen begrüßte den Sänger auf der Bühne.
+  A *forest* of raised arms greeted the singer on stage.
 
   La *forêt* privée est interdite aux promeneurs.
-  Der Privat*wald* ist für Spaziergänger verboten.
+  The private *forest* is forbidden for walkers.
 
   Il faut traverser la *forêt* pour arriver au village.
-  Man muss den *Wald* durchqueren, um zum Dorf zu gelangen.
+  You have to cross the *forest* to get to the village.
 
   Les enfants adorent explorer la *forêt* en automne.
-  Die Kinder lieben es, den *Wald* im Herbst zu erkunden.
+  The children love to explore the *forest* in autumn.
 
   Une *forêt* de symboles compliquait la lecture du texte.
-  Ein *Wald* von Symbolen erschwerte das Lesen des Textes.
+  A *forest* of symbols made reading the text difficult.
 
   Les agents surveillent la *forêt* jour et nuit.
-  Die Förster überwachen den *Wald* Tag und Nacht.
+  The foresters monitor the *forest* day and night.
 
   Le brouillard rendait la *forêt* mystérieuse ce matin-là.
-  Der Nebel machte den *Wald* an diesem Morgen geheimnisvoll.
+  The fog made the *forest* mysterious this morning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2328
 Wort: enjeu
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un enjeu
 Femininum / Plural: enjeux
 IPA: \ɑ̃.ʒø\
-Definition: Einsatz, Herausforderung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Mission, challenge
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un *enjeu* de taille pour les femmes.
-  Es ist eine große *Herausforderung* für die Frauen.
+  It is a great *challenge* for women.
 
   L'*enjeu* de la partie était de 100 euros.
-  Der *Einsatz* für das Spiel betrug 100 Euro.
+  The stake for the game was 100 euros.
 
   Les *enjeux* économiques de cette décision sont considérables.
-  Die wirtschaftlichen *Auswirkungen* dieser Entscheidung sind beträchtlich.
+  The economic *impact* of this decision is considerable.
 
   Notre vie privée est l'*enjeu* principal de ce débat sur la sécurité en ligne.
-  Unsere Privatsphäre ist der zentrale *Streitpunkt* in dieser Debatte über Online-Sicherheit.
+  Our privacy is the central issue in this debate about online security.
 
   "Tu ne comprends pas l'*enjeu* de la situation", dit-elle, frustrée.
-  "Du verstehst nicht, *was hier auf dem Spiel steht*", sagte sie frustriert.
+  "You don't understand *what's at stake here*," she said frustrated.
 
   Les *enjeux* environnementaux deviennent de plus en plus urgents.
-  Die *Herausforderungen* im Umweltbereich werden immer dringlicher.
+  Environmental *challenges* are becoming increasingly urgent.
 
   Chaque joueur a mis son *enjeu* sur la table avant le début de la partie.
-  Jeder Spieler legte seinen *Einsatz* vor Beginn des Spiels auf den Tisch.
+  Each player placed his bet on the table before the start of the game.
 
   L'*enjeu* de ces élections dépasse les frontières nationales.
-  Die *Bedeutung* dieser Wahlen geht über nationale Grenzen hinaus.
+  The importance of these elections goes beyond national borders.
 
   Il a retiré son *enjeu* quand il a réalisé que le projet était trop risqué.
-  Er zog seinen *Einsatz* zurück, als er merkte, dass das Projekt zu riskant war.
+  He retired when he realized that the project was too risky.
 
   Les *enjeux* de cette négociation sont cruciaux pour l'avenir de l'entreprise.
-  Der *Ausgang* dieser Verhandlung ist entscheidend für die Zukunft des Unternehmens.
+  The outcome of this negotiation is crucial for the future of the company.
 
   La paix mondiale est l'*enjeu* majeur de cette conférence internationale.
-  Der Weltfrieden ist das wichtigste *Anliegen* dieser internationalen Konferenz.
+  World peace is the main concern of this international conference.
 
   Les *enjeux* du débat n'étaient pas clairs pour tous les participants.
-  Die *Kernpunkte* der Debatte waren nicht allen Teilnehmern klar.
+  The *key points* of the debate were not clear to all participants.
 
   Cette découverte scientifique représente un *enjeu* considérable pour la médecine.
-  Diese wissenschaftliche Entdeckung stellt einen bedeutenden *Durchbruch* für die Medizin dar.
+  This scientific discovery represents a significant *breakthrough* for medicine.
 
   L'éducation est l'*enjeu* central pour le développement d'un pays.
-  Bildung ist der zentrale *Faktor* für die Entwicklung eines Landes.
+  Education is the central *factor* in the development of a country.
 
   Les *enjeux* de cette campagne publicitaire sont énormes pour notre marque.
-  Die *Ziele* dieser Werbekampagne sind für unsere Marke von enormer Bedeutung.
+  The *objectives* of this advertising campaign are of enormous importance to our brand.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

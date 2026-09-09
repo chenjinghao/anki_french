@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3897
 Wort: attester
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: attester
 Femininum / Plural: ''
 IPA: \a.tɛs.te\
-Definition: bescheinigen, bezeugen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: certify, testify
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comme l'*attesteront* les amis qui me connaissent bien.
-  Wie meine Freunde, die mich gut kennen, *bezeugen* werden.
+  As my friends who know me well will testify.
 
   Le médecin a *attesté* que Marie était en bonne santé.
-  Der Arzt hat *bescheinigt*, dass Marie gesund ist.
+  The doctor has *certified* that Marie is healthy.
 
   Ces documents juridiques *attestent* la propriété du terrain.
-  Diese rechtlichen Dokumente *bestätigen* den Besitz des Grundstücks.
+  These legal documents *confirm* the ownership of the property.
 
   Les découvertes archéologiques *attestent* l'existence d'une civilisation ancienne.
-  Die archäologischen Funde *belegen* die Existenz einer alten Zivilisation.
+  *The* archaeological finds prove the existence of an ancient civilization.
 
   Je peux *attester* personnellement de son honnêteté.
-  Ich kann seine Ehrlichkeit persönlich *bezeugen*.
+  I can personally testify to his honesty.
 
   La signature du directeur *atteste* l'authenticité du document.
-  Die Unterschrift des Direktors *bestätigt* die Echtheit des Dokuments.
+  The director's signature confirms the authenticity of the document.
 
   Ces photographies *attestent* la présence de Thomas à la réunion.
-  Diese Fotos *beweisen* Thomas' Anwesenheit bei dem Treffen.
+  These photos *prove* Thomas' presence at the meeting.
 
   Le professeur doit *attester* la présence des étudiants aux examens.
-  Der Professor muss die Anwesenheit der Studenten bei den Prüfungen *bescheinigen*.
+  The professor must *certify* the presence of the students in the exams.
 
   Son diplôme *atteste* qu'il a terminé ses études avec succès.
-  Sein Diplom *bestätigt*, dass er sein Studium erfolgreich abgeschlossen hat.
+  His diploma confirms that he has successfully completed his studies.
 
   Les témoins ont *attesté* avoir vu l'accident.
-  Die Zeugen haben *bestätigt*, den Unfall gesehen zu haben.
+  The witnesses *confirmed* that they saw the accident.
 
   Ces statistiques *attestent de* l'amélioration de la situation.
-  Diese Statistiken *sind ein Beweis für* die Verbesserung der Situation.
+  These statistics are proof of the improvement of the situation.
 
   Le certificat médical *atteste* son incapacité de travail.
-  Das ärztliche Attest *bescheinigt* seine Arbeitsunfähigkeit.
+  The medical certificate certifies his incapacity to work.
 
   Cette signature *atteste* que vous avez lu le règlement.
-  Diese Unterschrift *bestätigt*, dass Sie die Vorschriften gelesen haben.
+  This signature confirms that you have read the regulations.
 
   L'expert a *attesté* l'authenticité du tableau.
-  Der Experte hat die Echtheit des Gemäldes *bestätigt*.
+  The expert *confirmed* the authenticity of the painting.
 
   Les rapports scientifiques *attestent* du changement climatique.
-  Die wissenschaftlichen Berichte *belegen* den Klimawandel.
+  *The* scientific reports demonstrate climate change.
 
   Ce mot est *attesté* dans les textes depuis le Moyen Âge.
-  Dieses Wort ist in Texten seit dem Mittelalter *belegt*.
+  This word has been used in texts since the Middle Ages.
 
   J'*atteste* sur l'honneur que ces informations sont exactes.
-  Ich *versichere* ehrenwörtlich, dass diese Informationen korrekt sind.
+  I assure you that this information is correct.
 
   Les fouilles *attestent* que la ville existait déjà au IX<sup>e</sup> siècle.
-  Die Ausgrabungen *bezeugen*, dass die Stadt bereits im 9. Jahrhundert existierte.
+  The excavations testify that the city existed already in the 9th century.
 
   Cette tradition est *attestée* dans de nombreuses cultures.
-  Diese Tradition ist in vielen Kulturen *belegt*.
+  This tradition is documented in many cultures.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

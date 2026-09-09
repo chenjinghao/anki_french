@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3133
 Wort: douzaine
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la douzaine
 Femininum / Plural: ''
 IPA: \du.zɛn\
-Definition: Dutzend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Dozens
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a écrit une *douzaine* de poèmes courts.
-  Er hat ein *Dutzend* kurze Gedichte geschrieben.
+  He wrote a dozen short poems.
 
   Je vais acheter une *douzaine* d'œufs au marché.
-  Ich werde ein *Dutzend* Eier auf dem Markt kaufen.
+  I'm gonna buy a dozen eggs at the market.
 
   La petite fille d'une *douzaine* d'années jouait dans le jardin.
-  Das etwa *zwölf* Jahre alte Mädchen spielte im Garten.
+  The approximately twelve-year-old girl played in the garden.
 
   "Des amis comme lui, on n'en trouve pas *à la douzaine*!"
-  "*Dutzendweise* gibt es solche Freunde wie ihn nicht!"
+  "There are no such friends as him!"
 
   Une *demi-douzaine* d'huîtres suffira pour l'apéritif.
-  Ein *halbes Dutzend* Austern wird für den Aperitif reichen.
+  Half a dozen oysters will be enough for the aperitif.
 
   J'ai commandé une *douzaine* de roses rouges pour son anniversaire.
-  Ich habe ein *Dutzend* rote Rosen für ihren Geburtstag bestellt.
+  I ordered a dozen red roses for her birthday.
 
   Nous étions une *douzaine* à table pour le dîner de Noël.
-  Wir waren ungefähr *zwölf* Personen beim Weihnachtsessen am Tisch.
+  We were at the table for about *12* people at Christmas dinner.
 
   Il me faut une *douzaine* de mouchoirs en tissu.
-  Ich brauche ein *Dutzend* Stofftaschentücher.
+  I need a dozen cloth tissues.
 
   Ces romans policiers, on les trouve *treize à la douzaine*.
-  Diese Krimis gibt es *wie Sand am Meer*.
+  These thrillers are *like sand by the sea*.
 
   Le boulanger vend ses croissants *à la douzaine*.
-  Der Bäcker verkauft seine Croissants *im Dutzend*.
+  The baker sells his croissants *in the dozen*.
 
   Une *douzaine* de jours se sont écoulés depuis son départ.
-  Etwa *zwölf* Tage sind seit seiner Abreise vergangen.
+  About twelve days have passed since his departure.
 
   Il y avait une *douzaine* de personnes qui attendaient devant le cinéma.
-  Ungefähr *zwölf* Personen warteten vor dem Kino.
+  About twelve people were waiting in front of the cinema.
 
   Les serviettes de table se vendent *par douzaine*.
-  Die Servietten werden *im Dutzend* verkauft.
+  The napkins are sold *in the dozen*.
 
   J'ai acheté une *douzaine* de chemises en solde.
-  Ich habe ein *Dutzend* Hemden im Ausverkauf gekauft.
+  I bought a dozen shirts on sale.
 
   Une *douzaine* d'escargots, s'il vous plaît !
-  Ein *Dutzend* Schnecken, bitte!
+  A dozen snails, please!
 
   Les invités arrivaient *par douzaines* à la fête.
-  Die Gäste kamen *dutzendweise* zur Party.
+  The guests came to the party *dozens of* times.
 
   Cette recette nécessite une *douzaine* de tomates fraîches.
-  Dieses Rezept benötigt ungefähr *zwölf* frische Tomaten.
+  This recipe requires about twelve fresh tomatoes.
 
   Dans une *douzaine* de minutes, le train partira.
-  In ungefähr *zwölf* Minuten fährt der Zug ab.
+  The train leaves in about *12* minutes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

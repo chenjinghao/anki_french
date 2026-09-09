@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2202
 Wort: fondé
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fondé
 Femininum / Plural: fondée
 IPA: \fɔ̃.de\
-Definition: fundiert sein
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: to be founded
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce régime admirable est *fondé* sur l'honnêteté.
-  Dieses bewundernswerte System ist auf Ehrlichkeit *gegründet*.
+  This admirable system is based on honesty.
 
   Sa demande de remboursement est parfaitement *fondée*.
-  Sein Antrag auf Erstattung ist völlig *berechtigt*.
+  His application for reimbursement is entirely justified.
 
   "Je suis *fondé* à croire que tu me mens", dit-il calmement.
-  "Ich habe allen *Grund* zu glauben, dass du mich anlügst", sagte er ruhig.
+  "I have every *reason* to believe you're lying to me," he said quietly.
 
   Le *fondé* de pouvoir a signé tous les documents importants.
-  Der *Prokurist* hat alle wichtigen Dokumente unterschrieben.
+  The *procurator* signed all the important documents.
 
   Leurs craintes étaient malheureusement bien *fondées*.
-  Ihre Befürchtungen waren leider sehr *begründet*.
+  Unfortunately, their fears were very justified.
 
   Cette théorie scientifique est solidement *fondée*.
-  Diese wissenschaftliche Theorie ist gut *fundiert*.
+  This scientific theory is well founded.
 
   Notre confiance en elle était pleinement *fondée*.
-  Unser Vertrauen in sie war völlig *gerechtfertigt*.
+  Our trust in them was fully *justified*.
 
   La nouvelle *fondée* de pouvoir commencera lundi prochain.
-  Die neue *Prokuristin* fängt nächsten Montag an.
+  The new *procurator* will start next Monday.
 
   Son pressentiment était bien *fondé* : il a gagné la course.
-  Seine Vorahnung war nicht un*begründet*: er hat das Rennen gewonnen.
+  His premonition was not unfounded: he won the race.
 
   Je ne suis pas *fondé* à vous donner ces informations.
-  Ich habe keinen *Grund*, Ihnen diese Informationen zu geben.
+  I have no *reason* to give you this information.
 
   Cette critique sévère me semble parfaitement *fondée*.
-  Diese strenge Kritik erscheint mir völlig *berechtigt*.
+  This severe criticism seems entirely justified to me.
 
   Son opinion est bien *fondée* sur des années d'expérience.
-  Seine Meinung ist gut *fundiert* durch jahrelange Erfahrung.
+  His opinion is well founded by years of experience.
 
   Les *fondés* de pouvoir se réuniront demain matin.
-  Die *Prokuristen* werden sich morgen früh treffen.
+  The *procurators* will meet in the morning.
 
   Sa plainte n'était pas du tout *fondée*.
-  Seine Beschwerde war überhaupt nicht *begründet*.
+  His complaint was not at all substantiated.
 
   Elle était mal *fondée* à rejeter cette proposition.
-  Sie hatte keinen *Grund*, diesen Vorschlag abzulehnen.
+  She had no *reason* to reject this proposal.
 
   Nos soupçons se sont révélés bien *fondés*.
-  Unser Verdacht hat sich als *begründet* erwiesen.
+  Our suspicions have proved to be justified.
 
   Le recours en justice était *fondé* en droit.
-  Die Klage war rechtlich *begründet*.
+  The action was legally justified.
 
   Cette décision n'est pas *fondée* sur des faits réels.
-  Diese Entscheidung ist nicht auf echten Fakten *begründet*.
+  This decision is not based on real facts.
 
   La banque a nommé un nouveau *fondé* de pouvoir hier.
-  Die Bank hat gestern einen neuen *Prokuristen* ernannt.
+  The bank appointed a new authorized agent yesterday.
 
   Ses arguments semblent très bien *fondés*.
-  Seine Argumente scheinen sehr gut *fundiert* zu sein.
+  His arguments seem to be very well founded.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

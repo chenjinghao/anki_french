@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2846
 Wort: alimentation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une alimentation
 Femininum / Plural: ''
 IPA: \a.li.mɑ̃.ta.sjɔ̃\
-Definition: Ernährung; Versorgung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Nutrition; supply
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*alimentation* et la santé sont étroitement reliées.
-  Die *Ernährung* und die Gesundheit sind eng miteinander verbunden.
+  Diet and health are closely linked.
 
   Pour maigrir, il faut changer son *alimentation*.
-  Um abzunehmen, muss man seine *Ernährung* umstellen.
+  To lose weight, you have to change your diet.
 
   Les vaches dans ce pré ont une bonne *alimentation*.
-  Die Kühe auf dieser Weide stehen gut im *Futter*.
+  The cows in this pasture are well fed.
 
   L'*alimentation* artificielle lui a sauvé la vie.
-  Die künstliche *Ernährung* hat ihm das Leben gerettet.
+  The artificial diet saved his life.
 
   Ce magasin d'*alimentation* est ouvert le dimanche.
-  Dieses *Lebensmittel*geschäft hat sonntags geöffnet.
+  This grocery store is open on Sundays.
 
   L'*alimentation* en eau de la ville a été interrompue pendant deux heures.
-  Die Wasser*versorgung* der Stadt wurde für zwei Stunden unterbrochen.
+  The water *supply* of the city was interrupted for two hours.
 
   Le rayon *alimentation* se trouve au rez-de-chaussée.
-  Die *Lebensmittel*abteilung befindet sich im Erdgeschoss.
+  The food department is located on the ground floor.
 
   Mon médecin m'a conseillé une *alimentation* plus équilibrée.
-  Mein Arzt hat mir eine ausgewogenere *Ernährung* empfohlen.
+  My doctor recommended a more balanced diet.
 
   L'industrie de l'*alimentation* animale emploie des milliers de personnes.
-  Die *Futter*mittelindustrie beschäftigt tausende Menschen.
+  The *feed* industry employs thousands of people.
 
   Il faut vérifier l'*alimentation* électrique avant d'installer l'appareil.
-  Man muss die Strom*versorgung* überprüfen, bevor man das Gerät installiert.
+  You have to check the power *supply* before you install the device.
 
   L'*alimentation* biologique gagne en popularité.
-  Bio*kost* wird immer beliebter.
+  Organic food is becoming more and more popular.
 
   Le problème d'*alimentation* en oxygène a été résolu.
-  Das Problem mit der Sauerstoff*versorgung* wurde gelöst.
+  The oxygen *supply* problem has been solved.
 
   Cette nouvelle *alimentation* pour bébés est enrichie en vitamines.
-  Diese neue Baby*kost* ist mit Vitaminen angereichert.
+  This new baby food is enriched with vitamins.
 
   L'*alimentation* papier de l'imprimante est bloquée.
-  Die Papier*zufuhr* des Druckers ist blockiert.
+  The printer's paper feed is blocked.
 
   Une *alimentation* carnée excessive peut être nocive pour la santé.
-  Übermäßige Fleisch*ernährung* kann gesundheitsschädlich sein.
+  Excessive meat *nutrition* can be harmful to health.
 
   L'*alimentation* du moteur en carburant se fait automatiquement.
-  Die Kraftstoff*versorgung* des Motors erfolgt automatisch.
+  The fuel *supply* of the engine is automatic.
 
   Je préfère faire mes courses dans une petite *alimentation* générale.
-  Ich kaufe lieber in einem kleinen *Lebensmittel*laden ein.
+  I'd rather buy in a small grocery store.
 
   L'*alimentation* des chevaux nécessite beaucoup de soins.
-  Die *Fütterung* der Pferde erfordert viel Sorgfalt.
+  *Feeding* the horses requires a lot of care.
 
   L'*alimentation* de l'usine en charbon est assurée par train.
-  Die *Versorgung* der Fabrik mit Kohle erfolgt per Bahn.
+  The factory is supplied with coal by rail.
 
   Les experts recommandent une *alimentation* variée.
-  Die Experten empfehlen eine abwechslungsreiche *Ernährung*.
+  Experts recommend a varied diet.
 
   Le système d'*alimentation* électrique est en panne.
-  Das Strom*versorgungs*system ist ausgefallen.
+  The power *supply* system is down.
 
   Cette *alimentation* lactée convient aux nouveaux-nés.
-  Diese Milch*nahrung* ist für Neugeborene geeignet.
+  This formula is suitable for newborns.
 
   L'*alimentation* des marchés en produits frais est quotidienne.
-  Die *Versorgung* der Märkte mit frischen Produkten erfolgt täglich.
+  The markets are supplied with fresh products every day.
 
   Son travail dans l'*alimentation* lui plaît beaucoup.
-  Seine Arbeit im *Lebensmittel*handel gefällt ihm sehr.
+  He likes his work in the food trade very much.
 
   La qualité de l'*alimentation* influence notre bien-être.
-  Die Qualität der *Ernährung* beeinflusst unser Wohlbefinden.
+  The quality of the diet influences our well-being.
 
   L'*alimentation* de la chaudière doit être surveillée.
-  Die *Versorgung* des Kessels muss überwacht werden.
+  The *supply* of the boiler must be monitored.
 
   Une mauvaise *alimentation* peut causer des problèmes de santé.
-  Eine schlechte *Ernährung* kann gesundheitliche Probleme verursachen.
+  Bad nutrition can cause health problems.
 
   Le coût de l'*alimentation* augmente chaque année.
-  Die Kosten für *Lebensmittel* steigen jedes Jahr.
+  The cost of food increases every year.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

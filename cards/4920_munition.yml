@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4920
 Wort: munition
 Wortart: nfpl
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: les munitions
 Femininum / Plural: ''
 IPA: \my.ni.sjɔ̃\
-Definition: Munition
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Ammunition
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai acheté toutes les *munitions* que je voulais.
-  Ich habe alle *Munition* gekauft, die ich wollte.
+  I bought all the ammo I wanted.
 
   Le stock de *munitions* est presque épuisé.
-  Der *Munitions*vorrat ist fast erschöpft.
+  The *ammunition* supply is almost exhausted.
 
   Les soldats transportent leurs *munitions* dans des caisses métalliques.
-  Die Soldaten transportieren ihre *Munition* in Metallkisten.
+  The soldiers transport their *ammunition* in metal crates.
 
   L'arsenal contient différents types de *munitions*.
-  Das Arsenal enthält verschiedene Arten von *Munition*.
+  The arsenal contains various types of *ammunition*.
 
   Les *munitions* étaient stockées dans un endroit sécurisé.
-  Die *Munition* wurde an einem sicheren Ort gelagert.
+  The *ammunition* was stored in a safe place.
 
   Le capitaine a distribué les *munitions* aux soldats.
-  Der Hauptmann hat die *Munition* an die Soldaten verteilt.
+  The Captain has distributed the *ammunition* to the soldiers.
 
   "Je n'ai plus de *munitions* pour mes arguments !"
-  "Mir geht die *Munition* für meine Argumente aus!"
+  "I'm running out of *ammunition* for my arguments!"
 
   Les forces de l'ordre ont saisi un grand nombre de *munitions* illégales.
-  Die Ordnungskräfte haben eine große Menge illegaler *Munition* beschlagnahmt.
+  The police seized a large amount of illegal *ammunition*.
 
   Des centaines de *munitions* non explosées ont été découvertes.
-  Hunderte nicht explodierte *Munition* wurden entdeckt.
+  Hundreds of unexploded *ammunition* have been discovered.
 
   Le prix des *munitions* a considérablement augmenté.
-  Der Preis für *Munition* ist erheblich gestiegen.
+  The price of *ammunition* has risen considerably.
 
   Les *munitions de bouche* ont été distribuées équitablement.
-  Die *Verpflegung* wurde gerecht verteilt.
+  The *food* was distributed fairly.
 
   "Ce journaliste garde ses meilleures *munitions* pour la fin."
-  "Dieser Journalist hebt sich seine besten *Argumente* für den Schluss auf."
+  "This journalist picks up his best *arguments* for the end."
 
   La fabrication de *munitions* est strictement réglementée.
-  Die Herstellung von *Munition* ist streng reguliert.
+  The production of *ammunition* is strictly regulated.
 
   Les experts ont examiné les *munitions* trouvées sur place.
-  Die Experten haben die vor Ort gefundene *Munition* untersucht.
+  The experts examined the *ammunition* found on the spot.
 
   L'explosion dans le dépôt de *munitions* a causé beaucoup de dégâts.
-  Die Explosion im *Munitions*lager hat großen Schaden verursacht.
+  The explosion in the *ammunition* store caused great damage.
 
   Ils ont découvert un ancien dépôt de *munitions* de guerre.
-  Sie haben ein altes *Munitions*depot aus dem Krieg entdeckt.
+  They discovered an old *ammunition* depot from the war.
 
   Les *munitions* non utilisées doivent être rendues après l'exercice.
-  Die unbenutzte *Munition* muss nach der Übung zurückgegeben werden.
+  The unused *ammunition* must be returned after the exercise.
 
   "L'orateur manque de *munitions* pour continuer le débat."
-  "Dem Redner gehen die *Argumente* für die weitere Debatte aus."
+  "The speaker will be given the *arguments* for the further debate."
 
   La forteresse était bien pourvue en *munitions* et en vivres.
-  Die Festung war gut mit *Vorräten* und Lebensmitteln versorgt.
+  The fortress was well supplied with supplies and food.
 
   Le contrôle des *munitions* est très strict dans ce pays.
-  Die *Munitions*kontrolle ist in diesem Land sehr streng.
+  *Ammunition* control is very strict in this country.
 
   Les nouvelles *munitions* sont plus précises que les anciennes.
-  Die neue *Munition* ist präziser als die alte.
+  The new ammo is more precise than the old one.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

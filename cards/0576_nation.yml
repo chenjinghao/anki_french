@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 576
 Wort: nation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la nation
 Femininum / Plural: ''
 IPA: \na.sjɔ̃\
 Definition: Nation
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle bouscule sérieusement les droits des *nations*.
-  Sie erschüttert ernsthaft die Rechte der *Nationen*.
+  It seriously shakes the rights of the *nations*.
 
   La *nation* française a une longue histoire de révolutions.
-  Die französische *Nation* hat eine lange Geschichte von Revolutionen.
+  The French *nation* has a long history of revolutions.
 
   En tant que première *nation* industrielle, la Grande-Bretagne a influencé le monde entier.
-  Als erste Industrie*nation* hat Großbritannien die ganze Welt beeinflusst.
+  As the first industrial *nation*, Britain has influenced the whole world.
 
   L'Organisation des *Nations* unies siège à New York.
-  Die Vereinten *Nationen* haben ihren Sitz in New York.
+  The United *Nations* is based in New York.
 
   Notre *nation* doit faire face à de nombreux défis économiques.
-  Unsere *Nation* muss sich vielen wirtschaftlichen Herausforderungen stellen.
+  Our *nation* must face many economic challenges.
 
   Les *nations* européennes coopèrent étroitement dans de nombreux domaines.
-  Die europäischen *Nationen* arbeiten in vielen Bereichen eng zusammen.
+  The European *nations* work closely together in many areas.
 
   Chaque *nation* a ses propres traditions culinaires.
-  Jede *Nation* hat ihre eigenen kulinarischen Traditionen.
+  Each *nation* has its own culinary traditions.
 
   La *nation* toute entière était en deuil après la catastrophe.
-  Die ganze *Nation* trauerte nach der Katastrophe.
+  The whole *nation* mourned after the disaster.
 
   Les premières *nations* du Canada luttent pour leurs droits.
-  Die ersten *Nationen* Kanadas kämpfen für ihre Rechte.
+  The first *nations* of Canada are fighting for their rights.
 
   Cette jeune *nation* se développe rapidement.
-  Diese junge *Nation* entwickelt sich schnell.
+  This young *nation* is developing rapidly.
 
   Le président s'est adressé à la *nation* hier soir.
-  Der Präsident hat sich gestern Abend an die *Nation* gewandt.
+  The president turned to the *nation* last night.
 
   La *nation* s'est unie face à la menace.
-  Die *Nation* hat sich angesichts der Bedrohung vereint.
+  The *nation* has united in the face of the threat.
 
   Les différentes *nations* doivent apprendre à vivre ensemble.
-  Die verschiedenen *Nationen* müssen lernen, zusammenzuleben.
+  The different *nations* must learn to live together.
 
   Une *nation* pacifique qui privilégie le dialogue.
-  Eine friedliche *Nation*, die den Dialog bevorzugt.
+  A peaceful *nation* that prefers dialogue.
 
   Cette *nation* est connue pour sa cuisine exceptionnelle.
-  Diese *Nation* ist für ihre außergewöhnliche Küche bekannt.
+  This *nation* is known for its exceptional cuisine.
 
   La Société des *Nations* a précédé l'ONU.
-  Der *Völker*bund war der Vorläufer der UNO.
+  The League of Nations was the forerunner of the UN.
 
   Il est fier d'appartenir à sa *nation*.
-  Er ist stolz darauf, zu seiner *Nation* zu gehören.
+  He is proud to be a member of his *nation*.
 
   La *nation* entière célèbre cette victoire historique.
-  Die ganze *Nation* feiert diesen historischen Sieg.
+  The whole *nation* celebrates this historic victory.
 
   Une *nation* de navigateurs et d'explorateurs.
-  Eine *Nation* von Seefahrern und Entdeckern.
+  A *nation* of sailors and explorers.
 
   Les droits de chaque *nation* doivent être respectés.
-  Die Rechte jeder *Nation* müssen respektiert werden.
+  The rights of each *nation* must be respected.
 
   La *nation* allemande n'existait pas encore comme État unifié.
-  Die deutsche *Nation* existierte noch nicht als einheitlicher Staat.
+  The German *nation* did not yet exist as a unified state.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

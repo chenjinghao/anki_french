@@ -1,86 +1,86 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3954
 Wort: fardeau
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fardeau
 Femininum / Plural: fardeaux
 IPA: \faʁ.do\
-Definition: Last, Bürde
-Register: ↗Mündlich
+Definition: Load, burden
+Register: ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le gouvernement doit alléger le *fardeau* des entreprises.
-  Die Regierung muss die *Last* der Unternehmen erleichtern.
+  The government must ease the burden on businesses.
 
   Il porte un lourd *fardeau* sur ses épaules depuis des années.
-  Er trägt seit Jahren eine schwere *Last* auf seinen Schultern.
+  He's been carrying a heavy *load* on his shoulders for years.
 
   Les impôts représentent un *fardeau* considérable pour les familles modestes.
-  Die Steuern stellen eine erhebliche *Last* für einkommensschwache Familien dar.
+  Taxes represent a significant burden for low-income families.
 
   Marie plie sous le *fardeau* des responsabilités familiales.
-  Die familiären Verantwortungen *lasten* schwer auf Marie.
+  The family responsibilities are heavy on Marie.
 
   Le déménageur soulève des *fardeaux* toute la journée.
-  Der Umzugshelfer hebt den ganzen Tag *Lasten*.
+  The removal worker raises *loads* all day.
 
   Le *fardeau* de la dette devient insupportable pour ce pays.
-  Die Schulden*last* wird für dieses Land unerträglich.
+  The debt burden is becoming unbearable for this country.
 
   Ces souvenirs sont un *fardeau* dont je voudrais me débarrasser.
-  Diese Erinnerungen sind eine *Last*, die ich loswerden möchte.
+  These memories are a burden I want to get rid of.
 
   Elle transporte son *fardeau* dans une brouette jusqu'au jardin.
-  Sie transportiert ihre *Last* in einer Schubkarre bis zum Garten.
+  She transports her *load* in a wheelbarrow to the garden.
 
   Le *fardeau* administratif décourage les petites entreprises.
-  Die Verwaltungs*last* entmutigt kleine Unternehmen.
+  The administrative burden discourages small businesses.
 
   Les enfants sont devenus un *fardeau* pour leurs parents âgés.
-  Die Kinder sind für ihre alten Eltern zur *Last* geworden.
+  The children have become a burden for their old parents.
 
   Cette décision allégera le *fardeau* financier des étudiants.
-  Diese Entscheidung wird die finanzielle *Last* der Studenten erleichtern.
+  This decision will facilitate the financial burden of students.
 
   Le *fardeau* de la preuve incombe à l'accusation.
-  Die Beweis*last* liegt bei der Anklage.
+  The burden of proof lies with the prosecution.
 
   Les réformes ont augmenté le *fardeau* fiscal des classes moyennes.
-  Die Reformen haben die Steuer*last* der Mittelschicht erhöht.
+  Reforms have increased the tax burden on the middle class.
 
   Paul aide son frère à porter ce lourd *fardeau*.
-  Paul hilft seinem Bruder, diese schwere *Last* zu tragen.
+  Paul helps his brother carry this heavy burden.
 
   La solitude est devenue un *fardeau* insupportable pour elle.
-  Die Einsamkeit ist für sie zu einer unerträglichen *Last* geworden.
+  Loneliness has become an unbearable burden for them.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>charge</i> und <i>fardeau</i></div>
+    <div class="section-title"><i>charge</i> and <i>fardeau</i></div>
     <div class="section-content">
-      <p><span class="fr">Charge</span> (#849) bedeutet <span class="de">"Last"</span>, <span class="de">"Belastung"</span> oder <span class="de">"Verantwortung"</span> und kann sowohl im physischen als auch im übertragenen Sinne verwendet werden. Es kann auch eine amtliche Funktion oder berufliche Verantwortung bezeichnen.</p>
+      <p><span class="fr">Charge</span> (#849) means <span class="de">"Last"</span>, <span class="de">"Belastung"</span> or <span class="de">"Verantwortung"</span> and can be used in both the physical and the figurative sense. It can also designate an official function or professional responsibility.</p>
       <div class="examples">
         <div class="fr">Il a pris en charge l'éducation de ses neveux.</div>
-        <div class="de spoiler">Er hat die Verantwortung für die Erziehung seiner Neffen übernommen.</div>
+        <div class="de spoiler">He took responsibility for the education of his nephews.</div>
         <div class="fr">Cette dépense est à la charge du client.</div>
-        <div class="de spoiler">Diese Ausgabe geht zu Lasten des Kunden.</div>
+        <div class="de spoiler">This issue shall be charged to the customer.</div>
       </div>
-      <p><span class="fr">Fardeau</span> bedeutet ebenfalls <span class="de">"Last"</span> oder <span class="de">"Bürde"</span>, hat aber eine stärkere emotionale Konnotation und bezeichnet oft eine schwere, belastende oder drückende Last.</p>
+      <p><span class="fr">Fardeau</span> means ebenfalls <span class="de">"Last"</span> or <span class="de">"Loyalty"</span>However, it has a stronger emotional connotation and often denotes a heavy, burdensome or oppressive burden.</p>
       <div class="examples">
         <div class="fr">Cette dette est un lourd fardeau pour la famille.</div>
-        <div class="de spoiler">Diese Schuld ist eine schwere Bürde für die Familie.</div>
+        <div class="de spoiler">This guilt is a heavy burden for the family.</div>
         <div class="fr">Le vieil homme portait un fardeau de bois sur son dos.</div>
-        <div class="de spoiler">Der alte Mann trug eine Last Holz auf seinem Rücken.</div>
+        <div class="de spoiler">The old man carried a load of wood on his back.</div>
       </div>
-      <p>Der Hauptunterschied liegt in der Intensität und emotionalen Färbung: <span class="fr">Charge</span> ist neutraler und kann auch positive Verantwortungen umfassen, während <span class="fr">fardeau</span> meist eine schwere, belastende Situation oder Last betont, die als mühsam empfunden wird.</p>
+      <p>The main difference lies in the intensity and emotional coloring: <span class="fr">Charge</span> is more neutral and can also include positive responsibilities, while <span class="fr">fardeau</span> often emphasizes a heavy, burdensome situation or load that is felt to be laborious.</p>
     </div>
   </div>

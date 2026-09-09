@@ -1,130 +1,130 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 103
 Wort: toujours
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: toujours
 Femininum / Plural: ''
 IPA: \tu.ʒuʁ\
-Definition: immer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: always
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu es *toujours* en retard.
-  Du kommst *immer* zu spät.
+  You're *always* late.
 
   Il pleut *toujours* en Bretagne.
-  Es regnet in der Bretagne *immer*.
+  It's *always* raining in Brittany.
 
   Elle travaille *toujours* le week-end.
-  Sie arbeitet am Wochenende *immer*.
+  She *always* works this weekend.
 
   Nous serons *toujours* amis.
-  Wir werden *immer* Freunde bleiben.
+  We'll *always* be friends.
 
   As-tu *toujours* faim ?
-  Hast du *immer noch* Hunger?
+  Are you *still* hungry?
 
   Il n'est *toujours* pas arrivé.
-  Er ist *immer noch* nicht angekommen.
+  He *still* hasn't arrived.
 
   Je pense *toujours* à toi.
-  Ich denke *immer* an dich.
+  I *always* think about you.
 
   La vérité finit *toujours* par éclater.
-  Die Wahrheit kommt *immer* ans Licht.
+  The truth *always* comes to light.
 
   Elle est *toujours* de bonne humeur.
-  Sie ist *immer* gut gelaunt.
+  She's *always* in a good mood.
 
   Il y a *toujours* quelque chose à faire.
-  Es gibt *immer* etwas zu tun.
+  There's *always* something to do.
 
   "Tu arrives *toujours* au mauvais moment !"
-  "Du kommst *immer* zum falschen Zeitpunkt!"
+  "You *always* come at the wrong time!"
 
   Les choses vont *toujours* de mal en pis.
-  Die Dinge werden *immer* schlimmer.
+  Things are getting worse and worse.
 
   C'est *toujours* la même histoire avec lui.
-  Es ist mit ihm *immer* die gleiche Geschichte.
+  It's *always* the same story with him.
 
   Je t'aimerai *toujours*.
-  Ich werde dich *immer* lieben.
+  I'll *always* love you.
 
   Il fait *toujours* beau en Californie.
-  In Kalifornien ist es *immer* schön.
+  It's *always* nice in California.
 
   As-tu *toujours* ton ancien vélo ?
-  Hast du *immer noch* dein altes Fahrrad?
+  Do you *still* have your old bike?
 
   On peut *toujours* essayer.
-  Man kann es *ja immer* versuchen.
+  You can always try.
 
   Il y a *toujours* une solution.
-  Es gibt *immer* eine Lösung.
+  There's *always* a solution.
 
   Elle est *toujours* en train de se plaindre.
-  Sie beschwert sich *immer*.
+  She *always* complains.
 
   Je serai *toujours* là pour toi.
-  Ich werde *immer* für dich da sein.
+  I'll *always* be there for you.
 
   Le client a *toujours* raison.
-  Der Kunde hat *immer* recht.
+  The customer is *always* right.
 
   Il n'est jamais *toujours* trop tard pour bien faire.
-  Es ist *nie zu spät*, etwas Gutes zu tun.
+  It's *never too late* to do anything good.
 
   Les enfants grandissent *toujours* trop vite.
-  Kinder wachsen *immer* zu schnell auf.
+  Children *always* grow up too fast.
 
   Je me suis *toujours* demandé pourquoi.
-  Ich habe mich *immer* gefragt, warum.
+  I've *always* wondered why.
 
   Elle arrive *toujours* à l'heure.
-  Sie kommt *immer* pünktlich.
+  She *always* comes on time.
 
   Il y aura *toujours* des guerres.
-  Es wird *immer* Kriege geben.
+  There will *always* be wars.
 
   Nous avons *toujours* vécu ici.
-  Wir haben *schon immer* hier gelebt.
+  We've always lived here.
 
   C'est *toujours* mieux que rien.
-  Das ist *immer noch* besser als nichts.
+  That's *still* better than nothing.
 
   Il est *toujours* le premier à se porter volontaire.
-  Er ist *immer* der Erste, der sich freiwillig meldet.
+  He's *always* the first to volunteer.
 
   Je l'ai *toujours* su.
-  Ich habe es *schon immer* gewusst.
+  I've always known.
 
   Elle est *toujours* occupée.
-  Sie ist *immer* beschäftigt.
+  She's *always* busy.
 
   Il fait *toujours* froid en hiver.
-  Im Winter ist es *immer* kalt.
+  It's *always* cold in winter.
 
   On peut *toujours* rêver !
-  Man wird ja wohl *noch* träumen dürfen!
+  You'll still be able to dream!
 
   Ça ne durera pas *toujours*.
-  Das wird nicht *ewig* so weitergehen.
+  It won't go on forever.
 
   Je suis *toujours* prêt à aider.
-  Ich bin *immer* bereit zu helfen.
+  I'm *always* ready to help.
 
   Il y a *toujours* des exceptions à la règle.
-  Es gibt *immer* Ausnahmen von der Regel.
+  There are *always* exceptions to the rule.
 
   Elle n'est *toujours* pas rentrée.
-  Sie ist *immer noch* nicht zurückgekommen.
+  She *still* hasn't come back.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

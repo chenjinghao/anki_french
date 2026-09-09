@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2327
 Wort: purement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: purement
 Femininum / Plural: ''
 IPA: \pyʁ.mɑ̃\
-Definition: rein, ausschließlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Pure, exclusively
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ma démarche est *purement* professionnelle.
-  Mein Vorgehen ist *rein* beruflich.
+  My approach is purely professional.
 
   Cette décision a été prise *purement et simplement* pour des raisons économiques.
-  Diese Entscheidung wurde *schlicht und einfach* aus wirtschaftlichen Gründen getroffen.
+  This decision was made simply for economic reasons.
 
   Son approche de l'art est *purement* esthétique.
-  Seine Herangehensweise an die Kunst ist *rein* ästhetisch.
+  His approach to art is purely aesthetic.
 
   Les motivations de l'entreprise sont *purement* financières.
-  Die Beweggründe des Unternehmens sind *rein* finanzieller Natur.
+  The motivations of the company are purely financial.
 
   C'est une réaction *purement* instinctive de sa part.
-  Das ist eine *rein* instinktive Reaktion von ihm.
+  That's a purely instinctive reaction from him.
 
   Il s'agit d'une coïncidence *purement* fortuite.
-  Es handelt sich um einen *rein* zufälligen Zufall.
+  It's just a coincidence.
 
   La proposition a été *purement et simplement* rejetée.
-  Der Vorschlag wurde *kurzerhand* abgelehnt.
+  The proposal was quickly rejected.
 
   Son raisonnement est *purement* logique, sans aucune émotion.
-  Seine Argumentation ist *rein* logisch, ohne jegliche Emotion.
+  His reasoning is purely logical, without any emotion.
 
   Elle écrit *purement* et avec élégance.
-  Sie schreibt *einwandfrei* und elegant.
+  She writes *impeccable* and elegant.
 
   Ce phénomène est *purement* scientifique.
-  Dieses Phänomen ist *rein* wissenschaftlich.
+  This phenomenon is purely scientific.
 
   "J'ai fait ça *purement* par plaisir," a-t-il expliqué en souriant.
-  "Ich habe das *einfach* aus Spaß gemacht", erklärte er lächelnd.
+  "I just did it out of fun," he said smilingly.
 
   Les résultats de l'expérience sont *purement* théoriques pour l'instant.
-  Die Ergebnisse des Experiments sind im Moment *rein* theoretisch.
+  The results of the experiment are purely theoretical at the moment.
 
   Cette loi a été adoptée *purement et simplement*, sans aucun amendement.
-  Dieses Gesetz wurde *ohne Wenn und Aber*, ohne jegliche Änderung verabschiedet.
+  This law was passed without ifs and buts, without any change.
 
   Son geste était *purement* désintéressé, sans attendre de récompense.
-  Seine Geste war *völlig* uneigennützig, ohne eine Belohnung zu erwarten.
+  His gesture was completely unselfish without expecting a reward.
 
   La beauté de ce paysage est *purement* naturelle, sans intervention humaine.
-  Die Schönheit dieser Landschaft ist *rein* natürlich, ohne menschlichen Eingriff.
+  The beauty of this landscape is purely natural, without human intervention.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

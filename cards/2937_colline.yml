@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2937
 Wort: colline
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la colline
 Femininum / Plural: ''
 IPA: \kɔ.lin\
-Definition: Hügel
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Hill
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Arrivée au sommet de la *colline*, elle s'arrêta.
-  Als sie den Gipfel des *Hügels* erreichte, hielt sie inne.
+  When she reached the top of the *hill*, she stopped.
 
   Les enfants adoraient dévaler la *colline* en luge en hiver.
-  Die Kinder liebten es, im Winter mit dem Schlitten den *Hügel* hinunterzufahren.
+  The children loved to go down the *hill* with the sled in winter.
 
   Le village était niché au pied d'une *colline* boisée.
-  Das Dorf lag am Fuße eines bewaldeten *Hügels*.
+  The village lay at the foot of a wooded *hill*.
 
   Du haut de la *colline*, on avait une vue panoramique sur la vallée.
-  Von der Spitze des *Hügels* aus hatte man einen Panoramablick über das Tal.
+  From the top of the *hill* you had a panoramic view over the valley.
 
   Les vignobles s'étendaient sur les douces pentes des *collines* environnantes.
-  Die Weinberge erstreckten sich über die sanften Hänge der umliegenden *Hügel*.
+  The vineyards stretched over the gentle slopes of the surrounding hills.
 
   La *colline* de Montmartre est l'un des points les plus élevés de Paris.
-  Der *Hügel* von Montmartre ist einer der höchsten Punkte in Paris.
+  The *hill* of Montmartre is one of the highest points in Paris.
 
   Les randonneurs ont gravi plusieurs *collines* avant d'atteindre leur destination.
-  Die Wanderer erklommen mehrere *Hügel*, bevor sie ihr Ziel erreichten.
+  The hikers climbed several hills before reaching their destination.
 
   Rome, surnommée la ville aux sept *collines*, regorge d'histoire.
-  Rom, auch die Stadt der sieben *Hügel* genannt, steckt voller Geschichte.
+  Rome, also called the city of the seven hills, is full of history.
 
   Au printemps, les *collines* se couvraient de fleurs sauvages.
-  Im Frühling bedeckten sich die *Hügel* mit Wildblumen.
+  In spring, the hills covered with wildflowers.
 
   L'érosion a progressivement adouci les contours de ces anciennes *collines*.
-  Die Erosion hat die Konturen dieser alten *Hügel* im Laufe der Zeit abgerundet.
+  The erosion has rounded off the contours of these old hills over time.
 
   Les moutons paissaient tranquillement sur les *collines* verdoyantes.
-  Die Schafe grasten friedlich auf den grünen *Hügeln*.
+  The sheep are grazing peacefully on the green *hills*.
 
   Le château médiéval trônait majestueusement au sommet de la *colline*.
-  Die mittelalterliche Burg thronte majestätisch auf der Spitze des *Hügels*.
+  The medieval castle stood majestically on the top of the *hill*.
 
   Les cyclistes ont dû affronter une série de *collines* ardues pendant la course.
-  Die Radfahrer mussten während des Rennens eine Reihe von steilen *Hügeln* bewältigen.
+  The cyclists had to overcome a series of steep *hills* during the race.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

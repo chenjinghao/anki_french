@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2134
 Wort: enseigner
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: enseigner
 Femininum / Plural: ''
 IPA: \ɑ̃.sɛ.ɲe\
-Definition: lehren, unterrichten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: teaching, teaching
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai *enseigné* les mathématiques et les finances.
-  Ich habe Mathematik und Finanzen *unterrichtet*.
+  I taught mathematics and finance.
 
   Madame Dubois *enseigne* le français à des étudiants étrangers.
-  Frau Dubois *unterrichtet* ausländische Studenten in Französisch.
+  Ms Dubois teaches foreign students in French.
 
   Les professeurs *enseignent* l'histoire de l'art à l'université.
-  Die Professoren *lehren* Kunstgeschichte an der Universität.
+  The professors teach art history at the university.
 
   Mon grand-père m'a *enseigné* à jouer aux échecs.
-  Mein Großvater hat mir *beigebracht*, Schach zu spielen.
+  My grandfather *taught* me to play chess.
 
   L'expérience nous *enseigne* souvent plus que les livres.
-  Die Erfahrung *lehrt* uns oft mehr als Bücher.
+  Experience often *teaches* us more than books.
 
   Il *enseigne* la patience à ses élèves par l'exemple.
-  Er *lehrt* seinen Schülern Geduld durch sein Beispiel.
+  He *teaches* his students patience by his example.
 
   "Tu dois *enseigner* à tes enfants à être honnêtes", lui dit sa mère.
-  "Du musst deinen Kindern *beibringen*, ehrlich zu sein", sagte seine Mutter zu ihm.
+  "You have to teach your children to be honest," his mother said to him.
 
   Les écoles primaires *enseignent* les bases de la lecture et de l'écriture.
-  Die Grundschulen *vermitteln* die Grundlagen des Lesens und Schreibens.
+  Primary schools teach the basics of reading and writing.
 
   Ce livre *enseigne* les principes fondamentaux de la physique quantique.
-  Dieses Buch *vermittelt* die Grundprinzipien der Quantenphysik.
+  This book conveys the basic principles of quantum physics.
 
   Elle *enseigne* le piano depuis plus de vingt ans.
-  Sie *unterrichtet* seit über zwanzig Jahren Klavier.
+  She's been teaching piano for over twenty years.
 
   Les parents doivent *enseigner* le respect à leurs enfants.
-  Eltern müssen ihren Kindern Respekt *beibringen*.
+  Parents must teach their children respect.
 
   Le yoga *enseigne* la relaxation et la concentration.
-  Yoga *lehrt* Entspannung und Konzentration.
+  Yoga *teaches* relaxation and concentration.
 
   On *enseigne* la littérature française dans de nombreux pays.
-  Französische Literatur wird in vielen Ländern *gelehrt*.
+  French literature is *taught* in many countries.
 
   Les professeurs *enseignent* les langues étrangères de manière interactive.
-  Die Lehrer *unterrichten* Fremdsprachen auf interaktive Weise.
+  Teachers teach foreign languages interactively.
 
   Cette méthode *enseigne* la grammaire de façon ludique.
-  Diese Methode *vermittelt* Grammatik auf spielerische Weise.
+  This method conveys grammar in a playful way.
 
   Les échecs *enseignent* la stratégie et la patience.
-  Schach *lehrt* Strategie und Geduld.
+  Chess *teaches* strategy and patience.
 
   Il faut *enseigner* aux enfants à respecter l'environnement.
-  Man muss Kindern *beibringen*, die Umwelt zu respektieren.
+  You have to teach children to respect the environment.
 
   Cette université *enseigne* principalement les sciences politiques.
-  Diese Universität *lehrt* hauptsächlich Politikwissenschaften.
+  This university mainly *teaches* political science.
 
   Les professeurs expérimentés *enseignent* souvent mieux que les débutants.
-  Erfahrene Lehrer *unterrichten* oft besser als Anfänger.
+  Experienced teachers often teach better than beginners.
 
   On devrait *enseigner* les premiers secours dans toutes les écoles.
-  Erste Hilfe sollte in allen Schulen *gelehrt* werden.
+  First aid should be *taught* in all schools.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

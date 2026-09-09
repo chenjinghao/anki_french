@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4255
 Wort: méfiance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la méfiance
 Femininum / Plural: ''
 IPA: \me.fjɑ̃s\
-Definition: Misstrauen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Mistrust
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il refusait les médicaments toujours par *méfiance*.
-  Er lehnte die Medikamente stets aus *Misstrauen* ab.
+  He always refused the medication out of distrust.
 
   La *méfiance* entre les deux pays a augmenté après l'incident diplomatique.
-  Das *Misstrauen* zwischen den beiden Ländern ist nach dem diplomatischen Vorfall gewachsen.
+  The distrust between the two countries has grown after the diplomatic incident.
 
   Son attitude a éveillé la *méfiance* des autres élèves.
-  Seine Haltung hat das *Misstrauen* der anderen Schüler geweckt.
+  His attitude has aroused the distrust of the other students.
 
   Le nouveau directeur a réussi à dissiper la *méfiance* des employés.
-  Dem neuen Direktor ist es gelungen, das *Misstrauen* der Angestellten zu zerstreuen.
+  The new director managed to dispel the *mistrust* of the employees.
 
   Elle m'a regardé avec *méfiance* quand je lui ai proposé mon aide.
-  Sie hat mich *misstrauisch* angeschaut, als ich ihr meine Hilfe anbot.
+  She looked at me suspiciously when I offered her my help.
 
   La *méfiance* règne dans le quartier depuis les derniers cambriolages.
-  Seit den letzten Einbrüchen herrscht *Misstrauen* in der Nachbarschaft.
+  Since the last invasions, there has been *mistrust* in the neighborhood.
 
   "*Méfiance* !" a-t-il chuchoté en me montrant l'homme suspect.
-  "Sei *misstrauisch*!" flüsterte er mir zu und zeigte auf den verdächtigen Mann.
+  "Be suspicious!" he whispered to me and pointed to the suspicious man.
 
   Les enfants ont accueilli la nouvelle baby-sitter sans *méfiance*.
-  Die Kinder haben die neue Babysitterin ohne *Misstrauen* aufgenommen.
+  The kids took in the new babysitter without suspicion.
 
   Sa *méfiance* naturelle l'a souvent protégé des arnaques en ligne.
-  Sein natürliches *Misstrauen* hat ihn oft vor Online-Betrug geschützt.
+  His natural *mistrust* has often protected him from online fraud.
 
   Cette *méfiance* constante empoisonne votre relation.
-  Dieses ständige *Misstrauen* vergiftet eure Beziehung.
+  This constant *mistrust* poisons your relationship.
 
   Il a surmonté sa *méfiance* initiale et a finalement accepté le poste.
-  Er hat sein anfängliches *Misstrauen* überwunden und die Stelle schließlich angenommen.
+  He has overcome his initial *mistrust* and finally accepted the position.
 
   La *méfiance* s'est installée progressivement entre les deux amis.
-  Das *Misstrauen* hat sich nach und nach zwischen den beiden Freunden eingeschlichen.
+  The *mistrust* gradually crept in between the two friends.
 
   J'éprouve une certaine *méfiance* à l'égard de ses promesses.
-  Ich hege ein gewisses *Misstrauen* gegenüber seinen Versprechungen.
+  I have a certain distrust of his promises.
 
   Cette attitude de *méfiance* systématique n'est pas saine.
-  Diese Haltung systematischen *Misstrauens* ist nicht gesund.
+  This attitude of systematic *mistrust* is not healthy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

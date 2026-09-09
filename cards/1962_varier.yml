@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1962
 Wort: varier
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: varier
 Femininum / Plural: ''
 IPA: \va.ʁje\
-Definition: variieren, abwechseln
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: vary, alternate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On aime *varier* les plaisirs. *Varier*, c'est bon.
-  Man liebt *Abwechslung* beim Vergnügen. *Abwechslung* tut gut.
+  You love *variety* in pleasure. Variety is good.
 
   Les températures *varient* beaucoup en automne.
-  Die Temperaturen *schwanken* stark im Herbst.
+  Temperatures vary greatly in autumn.
 
   Sa voix *varie* selon son humeur.
-  Seine Stimme *verändert sich* je nach Stimmung.
+  His voice *changes* according to mood.
 
   Les prix des légumes *varient* selon la saison.
-  Die Gemüsepreise *schwanken* je nach Jahreszeit.
+  Vegetable prices vary depending on the season.
 
   Son comportement *varie* d'un jour à l'autre.
-  Sein Verhalten *ändert sich* von Tag zu Tag.
+  His behavior *changes* from day to day.
 
   Le professeur essaie de *varier* ses méthodes d'enseignement.
-  Der Lehrer versucht, seine Lehrmethoden *abwechslungsreich zu gestalten*.
+  The teacher tries to make his teaching methods varied.
 
   La vitesse du vent *varie* entre 10 et 50 km/h.
-  Die Windgeschwindigkeit *variiert* zwischen 10 und 50 km/h.
+  The wind speed *varies* between 10 and 50 km/h.
 
   Il faut *varier* son alimentation pour rester en bonne santé.
-  Man sollte seine Ernährung *abwechslungsreich gestalten*, um gesund zu bleiben.
+  You should make your diet varied to stay healthy.
 
   Les opinions peuvent *varier* sur ce sujet délicat.
-  Die Meinungen können bei diesem heiklen Thema *auseinandergehen*.
+  Opinions may differ on this sensitive issue.
 
   Le chef aime *varier* les menus chaque semaine.
-  Der Koch mag es, die Menüs jede Woche zu *variieren*.
+  The chef likes to *vary* the menus every week.
 
   Les traditions *varient* d'un pays à l'autre.
-  Die Traditionen *unterscheiden sich* von Land zu Land.
+  Traditions differ from country to country.
 
   Elle n'a jamais *varié* dans ses convictions.
-  Sie ist in ihren Überzeugungen nie *schwankend geworden*.
+  It has never fluctuated in its beliefs.
 
   La qualité de son travail *varie* beaucoup.
-  Die Qualität seiner Arbeit *schwankt* stark.
+  The quality of his work varies greatly.
 
   Le paysage *varie* au fil des saisons.
-  Die Landschaft *verändert sich* im Laufe der Jahreszeiten.
+  The landscape *changes* over the seasons.
 
   Il faut *varier* les exercices pour progresser.
-  Man muss die Übungen *abwechslungsreich gestalten*, um Fortschritte zu machen.
+  You have to make the exercises varied to make progress.
 
   La hauteur des vagues *varie* selon la météo.
-  Die Höhe der Wellen *variiert* je nach Wetter.
+  The height of the waves *varies* depending on the weather.
 
   Les résultats *varient* d'une expérience à l'autre.
-  Die Ergebnisse *unterscheiden sich* von Experiment zu Experiment.
+  The results differ from experiment to experiment.
 
   Le musicien aime *varier* les mélodies.
-  Der Musiker mag es, die Melodien zu *variieren*.
+  The musician likes to *vary* the melodies.
 
   La population des oiseaux *varie* selon les années.
-  Die Vogelpopulation *schwankt* von Jahr zu Jahr.
+  The bird population varies from year to year.
 
   Les horaires peuvent *varier* sans préavis.
-  Die Zeiten können sich ohne Vorankündigung *ändern*.
+  Times can *change* without notice.
 
   Elle *varie* souvent sa coiffure.
-  Sie *wechselt* oft ihre Frisur.
+  She often *changes* her hair.
 
   La pression atmosphérique *varie* constamment.
-  Der Luftdruck *verändert sich* ständig.
+  Air pressure is constantly changing.
 
   Le niveau de difficulté *varie* progressivement.
-  Der Schwierigkeitsgrad *steigt* schrittweise.
+  The degree of difficulty is gradually increasing.
 
   Les goûts *varient* d'une personne à l'autre.
-  Der Geschmack *unterscheidet sich* von Person zu Person.
+  The taste is *different* from person to person.
 
   La lumière *varie* en intensité tout au long de la journée.
-  Das Licht *verändert sich* in seiner Intensität den ganzen Tag über.
+  The light *changes* in intensity throughout the day.
 
   Il faut *varier* les sources d'information.
-  Man muss die Informationsquellen *variieren*.
+  You have to *vary* the sources of information.
 
   La température peut *varier du simple au double*.
-  Die Temperatur kann *sich verdoppeln*.
+  The temperature can *double*.
 
   Les conditions météorologiques *varient* d'une région à l'autre.
-  Die Wetterbedingungen *unterscheiden sich* von Region zu Region.
+  Weather conditions vary from region to region.
 
   La distance entre les planètes *varie* constamment.
-  Der Abstand zwischen den Planeten *verändert sich* ständig.
+  The distance between the planets is constantly changing.
 
   Le rythme cardiaque *varie* selon l'activité physique.
-  Der Herzrhythmus *verändert sich* je nach körperlicher Aktivität.
+  The heart rhythm *changes* depending on physical activity.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

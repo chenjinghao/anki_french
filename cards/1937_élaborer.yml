@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1937
 Wort: élaborer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: élaborer
 Femininum / Plural: ''
 IPA: \e.la.bɔ.ʁe\
-Definition: ausarbeiten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Develop
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette vision a été *élaborée* avant le 11 septembre.
-  Diese Vision wurde vor dem 11. September *ausgearbeitet*.
+  This vision was developed before September 11th.
 
   Les scientifiques *élaborent* une nouvelle théorie sur l'origine de l'univers.
-  Die Wissenschaftler *arbeiten* eine neue Theorie über den Ursprung des Universums *aus*.
+  The scientists are working out a new theory about the origin of the universe.
 
   Le comité a *élaboré* un plan détaillé pour résoudre la crise.
-  Das Komitee hat einen detaillierten Plan zur Lösung der Krise *erstellt*.
+  The Committee has drawn up a detailed plan to resolve the crisis.
 
   Les reins *élaborent* l'urine à partir du sang.
-  Die Nieren *bilden* Urin aus dem Blut.
+  The kidneys *form* urine from the blood.
 
   Une nouvelle stratégie s'est *élaborée* au fil des discussions.
-  Im Laufe der Diskussionen hat sich eine neue Strategie heraus*gebildet*.
+  In the course of the discussions, a new strategy has emerged.
 
   Le chef nous a préparé un plat très *élaboré*.
-  Der Koch hat uns ein sehr *raffiniertes* Gericht zubereitet.
+  The chef prepared us a very *refined* dish.
 
   Les enseignants ont *élaboré* un nouveau programme scolaire.
-  Die Lehrer haben einen neuen Lehrplan *ausgearbeitet*.
+  Teachers have developed a new curriculum.
 
   Un diagnostic précis sera *élaboré* après les examens.
-  Nach den Untersuchungen wird eine präzise Diagnose *erstellt*.
+  After the examinations, a precise diagnosis is made.
 
   Le pancréas *élabore* des hormones essentielles.
-  Die Bauchspeicheldrüse *produziert* wichtige Hormone.
+  The pancreas produces important hormones.
 
   Cette idée s'*élabore* petit à petit dans mon esprit.
-  Diese Idee *nimmt* in meinem Kopf langsam Gestalt *an*.
+  This idea is slowly taking shape in my head.
 
   Les globules blancs *élaborent* des anticorps pour nous protéger.
-  Die weißen Blutkörperchen *bilden* Antikörper zu unserem Schutz.
+  The white blood cells *form* antibodies to our protection.
 
   La sève *élaborée* descend dans les racines de l'arbre.
-  Der *ausgeschiedene* Pflanzensaft fließt in die Wurzeln des Baumes.
+  The *excretion* of plant juice flows into the roots of the tree.
 
   Le foie *élabore* la bile nécessaire à la digestion.
-  Die Leber *produziert* die für die Verdauung notwendige Galle.
+  The liver produces the bile necessary for digestion.
 
   Les équipes vont *élaborer* ensemble une solution commune.
-  Die Teams werden gemeinsam eine Lösung *ausarbeiten*.
+  The teams will work out a solution together.
 
   Un système très *élaboré* de contrôle a été mis en place.
-  Ein sehr *elaboriertes* Kontrollsystem wurde eingeführt.
+  A very elaborate control system has been introduced.
 
   Cette recette a été *élaborée* par un chef renommé.
-  Dieses Rezept wurde von einem renommierten Koch *ausgearbeitet*.
+  This recipe was *prepared* by a renowned chef.
 
   Le projet s'*élabore* progressivement depuis plusieurs mois.
-  Das Projekt *entwickelt* sich seit mehreren Monaten schrittweise.
+  The project has been developing gradually for several months.
 
   L'estomac *élabore* les enzymes digestives.
-  Der Magen *bildet* die Verdauungsenzyme.
+  The stomach forms the digestive enzymes.
 
   Les experts ont *élaboré* de nouvelles recommandations.
-  Die Experten haben neue Empfehlungen *ausgearbeitet*.
+  The experts have drawn up new recommendations.
 
   La Constitution s'est *élaborée* sur plusieurs années.
-  Die Verfassung hat sich über mehrere Jahre hinweg heraus*gebildet*.
+  The Constitution has developed over several years.
 
   Les cellules *élaborent* des protéines spécifiques.
-  Die Zellen *produzieren* spezifische Proteine.
+  The cells produce specific proteins.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

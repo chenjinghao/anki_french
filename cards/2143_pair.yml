@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2143
 Wort: pair
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: pair
 Femininum / Plural: paire
 IPA: \pɛʁ\
-Definition: gerade [Zahl]; Hand [in Hand]
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: straight [number]; hand [in hand]
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'histoire de la musique va *de pair* avec l'histoire politique.
-  Die Geschichte der Musik geht mit der politischen Geschichte *Hand in Hand*.
+  The history of music goes *hand in hand* with political history.
 
   Les nombres *pairs* sont divisibles par deux.
-  *Gerade* Zahlen sind durch zwei teilbar.
+  Just numbers are divisible by two.
 
   Le Royaume-Uni compte encore une Chambre des *pairs*.
-  Das Vereinigte Königreich hat noch immer ein *Ober*haus.
+  The United Kingdom still has an *upper* house.
 
   J'ai acheté une *paire* de chaussures pour le mariage.
-  Ich habe ein *Paar* Schuhe für die Hochzeit gekauft.
+  I bought a pair of shoes for the wedding.
 
   Les yeux sont des organes *pairs*.
-  Die Augen sind *paarige* Organe.
+  The eyes are paired organs.
 
   Il a été jugé par ses *pairs* lors du procès.
-  Er wurde während des Prozesses von *seinesgleichen* gerichtet.
+  He was judged by his peers during the trial.
 
   Cette action est cotée au-dessus du *pair*.
-  Diese Aktie wird über *Pari* gehandelt.
+  This share is traded through *Pari*.
 
   "Tu ferais mieux de te mêler de tes affaires", lui a dit son *pair*.
-  "Du solltest dich besser um deine eigenen Angelegenheiten kümmern", sagte ihm sein *Kollege*.
+  "You better take care of your own business," his *colleague* told him.
 
   Les jours *pairs*, je fais du sport.
-  An *geraden* Tagen treibe ich Sport.
+  I do sports on even days.
 
   Elle travaille comme jeune fille *au pair* à Paris.
-  Sie arbeitet als *Au-pair*-Mädchen in Paris.
+  She works as an *au pair* girl in Paris.
 
   Les *pairs* du royaume se sont réunis pour délibérer.
-  Die *Pairs* des Königreichs versammelten sich zur Beratung.
+  The *pairs* of the Kingdom gathered for consultation.
 
   Cette fonction mathématique est *paire*.
-  Diese mathematische Funktion ist *gerade*.
+  This mathematical function is *straight*.
 
   Le numéro de sa maison est *pair*.
-  Seine Hausnummer ist *gerade*.
+  His house number's *straight*.
 
   Les poumons sont un exemple d'organes *pairs*.
-  Die Lungen sind ein Beispiel für *paarige* Organe.
+  The lungs are an example of paired organs.
 
   Il n'a pas son *pair* en matière de cuisine française.
-  Er hat *seinesgleichen* nicht, wenn es um französische Küche geht.
+  He doesn't have his own kind when it comes to French cuisine.
 
   La Chambre des *pairs* a été abolie en France en 1848.
-  Die *Pairs*kammer wurde in Frankreich 1848 abgeschafft.
+  The *Pairs* Chamber was abolished in France in 1848.
 
   J'ai besoin d'une nouvelle *paire de lunettes*.
-  Ich brauche eine neue *Brille*.
+  I need a new pair of *glasses*.
 
   Les actions sont échangées *au pair*.
-  Die Aktien werden *zum Nennwert* gehandelt.
+  The shares are traded *at face value*.
 
   Son talent est vraiment *hors pair*.
-  Sein Talent ist wirklich *einzigartig*.
+  His talent is truly *unique*.
 
   Les reins sont des organes *pairs* essentiels.
-  Die Nieren sind lebenswichtige *paarige* Organe.
+  The kidneys are vital paired organs.
 
   La parité des monnaies est basée sur le *pair* de change.
-  Die Währungsparität basiert auf dem Wechselkurs*pari*.
+  The currency parity is based on the exchange rate *pari*.
 
   Elle a été promue au rang de ses *pairs*.
-  Sie wurde in den Rang ihrer *Standesgenossen* befördert.
+  She was promoted to the rank of her fellows.
 
   Le côté *pair* de la rue est plus calme.
-  Die Straßenseite mit den *geraden* Hausnummern ist ruhiger.
+  The street side with the *straight* house numbers is quieter.
 
   Cette permutation est *paire* en algèbre.
-  Diese Permutation ist in der Algebra *gerade*.
+  This permutation is *straight* in the algebra.
 
   Il faut toujours avoir une *paire de ciseaux* à portée de main.
-  Man sollte immer eine *Schere* griffbereit haben.
+  You should always have a pair of *scissors* at hand.
 
   La fonction cosinus est une fonction *paire*.
-  Die Kosinusfunktion ist eine *gerade* Funktion.
+  The cosine function is a *straight* function.
 
   Les jumeaux vont souvent *de pair*.
-  Zwillinge gehen oft *Hand in Hand*.
+  Twins often go *hand in hand*.
 
   Le Sénat et la Chambre des *pairs* formaient le parlement.
-  Der Senat und die *Pairs*kammer bildeten das Parlament.
+  The Senate and the *Pairs* Chamber formed the Parliament.
 
   Les oreilles sont un exemple typique d'organes *pairs*.
-  Die Ohren sind ein typisches Beispiel für *paarige* Organe.
+  The ears are a typical example of paired organs.
 
   Cette entreprise est cotée au-dessous du *pair*.
-  Dieses Unternehmen wird unter *Pari* gehandelt.
+  This company is traded under *Pari*.
 
   Dans ce groupe, il n'a pas son *pair* en matière d'éloquence.
-  In dieser Gruppe hat er in Sachen Redegewandtheit nicht *seinesgleichen*.
+  In this group, he has no equal in speaking.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

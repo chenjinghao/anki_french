@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4122
 Wort: gel
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le gel
 Femininum / Plural: ''
 IPA: \ʒɛl\
 Definition: Frost
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont besoin d'un *gel* des frais de scolarité.
-  Sie brauchen einen *Stopp* der Studiengebühren.
+  You need a *stop* to tuition fees.
 
   Le *gel* a fait éclater les conduites d'eau.
-  Der *Frost* hat die Wasserleitungen zum Platzen gebracht.
+  The *frost* has caused the water pipes to burst.
 
   Cette plante ne craint pas le *gel*.
-  Diese Pflanze ist nicht *frost*empfindlich.
+  This plant is not *frost* sensitive.
 
   Le *gel* persistant a endommagé les cultures.
-  Der anhaltende *Frost* hat die Ernte beschädigt.
+  The persistent *frost* has damaged the harvest.
 
   Les températures sont descendues en dessous du point de *gel*.
-  Die Temperaturen sind unter den *Gefrier*punkt gefallen.
+  The temperatures have fallen below freezing point.
 
   Le *gel* des salaires a été prolongé de six mois.
-  Der Lohn*stopp* wurde um sechs Monate verlängert.
+  The wage freeze was extended by six months.
 
   Marie met du *gel* coiffant tous les matins.
-  Marie verwendet jeden Morgen Haar*gel*.
+  Marie uses hair *gel* every morning.
 
   J'ai acheté un nouveau *gel* douche à la lavande.
-  Ich habe mir ein neues Dusch*gel* mit Lavendelduft gekauft.
+  I bought a new shower *gel* with lavender scent.
 
   Une nuit de *gel* a détruit tous les bourgeons.
-  Eine *Frost*nacht hat alle Knospen zerstört.
+  A *frost* night destroyed all the buds.
 
   Le *gel* des négociations inquiète les diplomates.
-  Die *Unterbrechung* der Verhandlungen beunruhigt die Diplomaten.
+  The *interruption* of the negotiations worries the diplomats.
 
   Le *gel* des prix est une mesure temporaire.
-  Der Preis*stopp* ist eine vorübergehende Maßnahme.
+  The price freeze is a temporary measure.
 
   La rivière était prise par le *gel*.
-  Der Fluss war vom *Frost* überzogen.
+  The river was covered with *frost*.
 
   Le sol était durci par le *gel*.
-  Der Boden war vom *Frost* verhärtet.
+  The ground was hardened by *frost*.
 
   L'entreprise a annoncé un *gel* des embauches.
-  Das Unternehmen hat einen Einstellungs*stopp* angekündigt.
+  The company has announced a *stop* to recruitment.
 
   As-tu un *gel* désinfectant pour les mains ?
-  Hast du ein Hände*gel* zur Desinfektion?
+  Do you have a hand *gel* for disinfection?
 
   Le *gel* des avoirs bancaires a été levé.
-  Die *Sperrung* der Bankguthaben wurde aufgehoben.
+  The *blocking* of bank balances has been lifted.
 
   Ce médicament existe en *gel* ou en comprimés.
-  Dieses Medikament gibt es als *Gel* oder in Tablettenform.
+  This medication is available as a *gel* or in tablet form.
 
   Le *gel* a fendu plusieurs roches de la falaise.
-  Der *Frost* hat mehrere Felsen der Klippe gespalten.
+  The *frost* has split several rocks of the cliff.
 
   La direction a décidé un *gel* des congés en été.
-  Die Geschäftsführung hat eine Urlaubs*sperre* im Sommer beschlossen.
+  The management has decided on a holiday ban in the summer.
 
   Les cristaux de *gel* brillaient sur les branches.
-  Die *Eis*kristalle glitzerten auf den Zweigen.
+  The *ice* crystals glittered on the branches.
 
   Le syndicat s'oppose au *gel* des investissements.
-  Die Gewerkschaft ist gegen den Investitions*stopp*.
+  The union is against the investment *stop*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

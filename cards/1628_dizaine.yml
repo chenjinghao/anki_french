@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1628
 Wort: dizaine
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la dizaine
 Femininum / Plural: ''
 IPA: \di.zɛn\
-Definition: rund zehn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: about ten
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a des *dizaines* de milliers de jeunes dans ce pays.
-  Es gibt *Zehn*tausende von jungen Menschen in diesem Land.
+  There are tens of thousands of young people in this country.
 
   Une *dizaine* de personnes attendaient devant la porte du magasin.
-  Etwa *zehn* Personen warteten vor dem Geschäft.
+  About ten people were waiting in front of the store.
 
   Mon petit frère va bientôt avoir la *dizaine*.
-  Mein kleiner Bruder wird bald *zehn* Jahre alt.
+  My little brother is about to be ten years old.
 
   Pour comprendre les mathématiques, il faut savoir compter par *dizaines*.
-  Um Mathematik zu verstehen, muss man in *Zehner*schritten zählen können.
+  To understand mathematics, you have to be able to count in ten steps.
 
   J'ai lu une *dizaine* de pages avant de m'endormir.
-  Ich habe ungefähr *zehn* Seiten gelesen, bevor ich eingeschlafen bin.
+  I read about ten pages before I fell asleep.
 
   Dans le nombre 356, le chiffre des *dizaines* est 5.
-  In der Zahl 356 ist die *Zehner*stelle 5.
+  In the number 356, the ten is number 5.
 
   Elle reviendra dans une *dizaine* de jours.
-  Sie wird in etwa *zehn* Tagen zurückkommen.
+  She'll be back in about ten days.
 
   Plusieurs *dizaines* d'oiseaux se sont posés sur le toit.
-  Mehrere *Dutzend* Vögel haben sich auf dem Dach niedergelassen.
+  Several dozen birds have settled on the roof.
 
   Les enfants ont déjà largement dépassé la *dizaine*.
-  Die Kinder sind schon weit über *zehn* Jahre alt.
+  The children are well over ten years old.
 
   Ma grand-mère dit toujours une *dizaine* de chapelet avant de dormir.
-  Meine Großmutter betet immer einen *Zehner* des Rosenkranzes vor dem Schlafen.
+  My grandmother always prays a tenth of the rosary before sleeping.
 
   Cette recette nécessite une *dizaine* d'ingrédients différents.
-  Dieses Rezept benötigt ungefähr *zehn* verschiedene Zutaten.
+  This recipe requires about ten different ingredients.
 
   Il nous reste une *dizaine* de minutes avant le début du film.
-  Wir haben noch ungefähr *zehn* Minuten bis zum Filmbeginn.
+  We still have about ten minutes to start the film.
 
   Le serveur a emballé les bouteilles par *dizaines*.
-  Der Kellner hat die Flaschen zu *Zehner*paketen verpackt.
+  The waiter packed the bottles into ten packs.
 
   Ma fille approche de la *dizaine*.
-  Meine Tochter geht auf die *Zehn* zu.
+  My daughter's headed for *ten*.
 
   Une *dizaine* de pas nous séparent de la plage.
-  Ungefähr *zehn* Schritte trennen uns vom Strand.
+  About ten steps separate us from the beach.
 
   Dix *dizaines* font une centaine.
-  Zehn *Zehner* ergeben eine Hundert.
+  Ten *tens* make up a hundred.
 
   Nous étions une bonne *dizaine* à la fête d'anniversaire.
-  Wir waren gut und gerne *zehn* Leute auf der Geburtstagsfeier.
+  We were good and liked ten people at the birthday party.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

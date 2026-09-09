@@ -1,116 +1,116 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4410
 Wort: convenable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: convenable
 Femininum / Plural: ''
 IPA: \kɔ̃v.nabl\
-Definition: anständig, schicklich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: decent, decent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont droit à une retraite *convenable*.
-  Sie haben Anrecht auf eine *angemessene* Rente.
+  You have the right to an *appropriate* pension.
 
   Il faut garder une distance *convenable* entre les véhicules.
-  Man muss einen *angemessenen* Abstand zwischen den Fahrzeugen einhalten.
+  A reasonable distance between the vehicles must be maintained.
 
   Son patron lui propose un salaire *convenable* pour ce poste.
-  Sein Chef bietet ihm ein *angemessenes* Gehalt für diese Stelle an.
+  His boss offers him a decent salary for this job.
 
   L'hôtel offre un confort tout à fait *convenable*.
-  Das Hotel bietet einen durchaus *ordentlichen* Komfort.
+  The hotel offers a quite neat comfort.
 
   Sa réponse à l'examen était *convenable*.
-  Seine Antwort in der Prüfung war *richtig*.
+  His answer in the exam was *correct*.
 
   Elle s'est présentée dans une tenue *convenable* à l'entretien.
-  Sie erschien in *angemessener* Kleidung zum Vorstellungsgespräch.
+  She appeared in *appropriate* clothes for the interview.
 
   *Ce n'est pas convenable* de parler la bouche pleine.
-  Es *gehört sich nicht*, mit vollem Mund zu sprechen.
+  It is not proper to speak with a full mouth.
 
   Les limites fixées par le règlement sont *convenables*.
-  Die in der Vorschrift festgelegten Grenzen sind *vertretbar*.
+  The limits laid down in the provision are reasonable.
 
   Il s'exprime dans un français *convenable*.
-  Er drückt sich in *korrektem* Französisch aus.
+  It is expressed in *correct* French.
 
   Le professeur a jugé que son devoir était *convenable*.
-  Der Lehrer fand seine Hausaufgabe *befriedigend*.
+  The teacher found his homework satisfying.
 
   J'ai choisi le moment *convenable* pour lui annoncer la nouvelle.
-  Ich habe den *passenden* Moment gewählt, um ihr die Neuigkeit mitzuteilen.
+  I chose the right moment to tell her the news.
 
   Ces jeunes gens se sont montrés très *convenables* pendant la cérémonie.
-  Diese jungen Leute haben sich während der Zeremonie sehr *anständig* verhalten.
+  These young people behaved very decently during the ceremony.
 
   Le vin servi au dîner était tout à fait *convenable*.
-  Der zum Abendessen servierte Wein war durchaus *ordentlich*.
+  The wine served for dinner was quite neat.
 
   Il a trouvé un logement *convenable* près de son travail.
-  Er hat eine *angemessene* Unterkunft in der Nähe seiner Arbeit gefunden.
+  He's found suitable accommodation near his work.
 
   C'est un parti *convenable* pour votre fille.
-  Das ist eine *passende* Partie für Ihre Tochter.
+  This is a match for your daughter.
 
   Le prix de cette voiture me semble *convenable*.
-  Der Preis für dieses Auto erscheint mir *angemessen*.
+  The price of this car seems reasonable to me.
 
   Dans sa position, cette attitude n'était pas *convenable*.
-  In seiner Position war dieses Verhalten nicht *korrekt*.
+  In his position, this behavior was not *correct*.
 
   Elle s'est toujours comportée de manière *convenable* avec ses collègues.
-  Sie hat sich ihren Kollegen gegenüber immer *anständig* verhalten.
+  She's always been *decent* to her colleagues.
 
   Nous cherchons une solution *convenable* à ce problème.
-  Wir suchen eine *passende* Lösung für dieses Problem.
+  We are looking for a *suitable* solution to this problem.
 
   Les conditions de travail sont à peine *convenables*.
-  Die Arbeitsbedingungen sind kaum *angemessen*.
+  Working conditions are hardly *appropriate*.
 
   Son travail n'est pas vraiment *convenable*.
-  Seine Arbeit ist nicht wirklich *befriedigend*.
+  His work is not really satisfying.
 
   Il porte toujours des vêtements *convenables* au bureau.
-  Er trägt im Büro immer *angemessene* Kleidung.
+  He always wears *appropriate* clothes in the office.
 
   Les résultats de l'équipe sont *convenables* cette saison.
-  Die Ergebnisse der Mannschaft sind diese Saison *ordentlich*.
+  The results of the team are neat this season.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>adéquat</i>, <i>approprié</i> und <i>convenable</i></div>
+    <div class="section-title"><i>adéquat</i>, <i>approprié</i> and <i>convenable</i></div>
     <div class="section-content">
-      <p><span class="fr">Adéquat</span> (#3525) bedeutet <span class="de">"angemessen"</span> oder <span class="de">"entsprechend"</span> und bezieht sich auf etwas, das genau den Anforderungen oder dem Zweck entspricht. Es betont die präzise Übereinstimmung.</p>
+      <p><span class="fr">Adéquat</span> (#3525) means <span class="de">"angemessen"</span> or <span class="de">"entsprechend"</span> and refers to something that exactly meets the requirements or purpose. It emphasizes the precise conformity.</p>
       <div class="examples">
         <div class="fr">Cette solution n'est pas adéquate pour résoudre le problème.</div>
-        <div class="de spoiler">Diese Lösung ist nicht angemessen, um das Problem zu lösen.</div>
+        <div class="de spoiler">This solution is not appropriate to solve the problem.</div>
         <div class="fr">Il faut trouver un financement adéquat pour ce projet.</div>
-        <div class="de spoiler">Man muss eine angemessene Finanzierung für dieses Projekt finden.</div>
+        <div class="de spoiler">It is important to find adequate funding for this project.</div>
       </div>
-      <p><span class="fr">Approprié</span> (#3591) bedeutet <span class="de">"passend"</span> oder <span class="de">"geeignet"</span> und bezeichnet etwas, das für eine bestimmte Situation oder einen bestimmten Kontext richtig gewählt ist.</p>
+      <p><span class="fr">Approprié</span> (#3591) means <span class="de">"passend"</span> or <span class="de">"geeignet"</span> and denotes something that is correctly chosen for a particular situation or context.</p>
       <div class="examples">
         <div class="fr">Ce cadeau est très approprié pour l'occasion.</div>
-        <div class="de spoiler">Dieses Geschenk ist sehr passend für den Anlass.</div>
+        <div class="de spoiler">This gift is very suitable for the occasion.</div>
         <div class="fr">Il a choisi des mots appropriés pour s'excuser.</div>
-        <div class="de spoiler">Er wählte passende Worte für seine Entschuldigung.</div>
+        <div class="de spoiler">He chose appropriate words for his apology.</div>
       </div>
-      <p><span class="fr">Convenable</span> bedeutet <span class="de">"anständig"</span> oder <span class="de">"schicklich"</span> und bezieht sich oft auf soziale Normen oder moralische Angemessenheit. Es kann auch <span class="de">"ausreichend"</span> bedeuten.</p>
+      <p><span class="fr">Convenable</span> means <span class="de">"decent"</span> or <span class="de">"Apparently"</span> and often refers to social norms or moral appropriateness. It can also <span class="de">"ausreichend"</span> bedeuten.</p>
       <div class="examples">
         <div class="fr">Il est important de porter une tenue convenable à cette cérémonie.</div>
-        <div class="de spoiler">Es ist wichtig, angemessene Kleidung zu dieser Zeremonie zu tragen.</div>
+        <div class="de spoiler">It is important to wear appropriate clothing for this ceremony.</div>
         <div class="fr">Son salaire est convenable mais pas exceptionnel.</div>
-        <div class="de spoiler">Sein Gehalt ist anständig, aber nicht außergewöhnlich.</div>
+        <div class="de spoiler">His salary is decent, but not extraordinary.</div>
       </div>
     </div>
   </div>

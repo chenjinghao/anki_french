@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4890
 Wort: militer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: militer
 Femininum / Plural: ''
 IPA: \mi.li.te\
-Definition: sich engagieren, kämpfen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: get involved, fight
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons toujours *milité* contre l'exploitation.
-  Wir haben schon immer gegen Ausbeutung *gekämpft*.
+  We've always fought against exploitation.
 
   Elle *milite* activement dans une association écologique depuis dix ans.
-  Sie ist seit zehn Jahren in einem Umweltverband aktiv *tätig*.
+  She has been active in an environmental association for ten years.
 
   Les preuves *militent* en faveur de son innocence.
-  Die Beweise *sprechen* für seine Unschuld.
+  The evidence speaks for his innocence.
 
   Mon frère *milite* pour de meilleures conditions de travail.
-  Mein Bruder *setzt sich* für bessere Arbeitsbedingungen *ein*.
+  My brother is working for better working conditions.
 
   Cette découverte *milite* contre votre théorie.
-  Diese Entdeckung *spricht* gegen Ihre Theorie.
+  This discovery speaks against your theory.
 
   Il a commencé à *militer* dans un syndicat étudiant.
-  Er begann, in einer Studentengewerkschaft *aktiv zu werden*.
+  He began *to become active* in a student union.
 
   Les faits *militent* en sa faveur.
-  Die Fakten *sprechen* zu seinen Gunsten.
+  The facts speak in his favor.
 
   Marie *milite* pour la protection des animaux depuis sa jeunesse.
-  Marie *kämpft* seit ihrer Jugend für den Tierschutz.
+  Marie has been *fighting* for animal welfare since her youth.
 
   Ces résultats *militent* fortement en faveur de notre approche.
-  Diese Ergebnisse *sprechen* stark für unseren Ansatz.
+  These results strongly support our approach.
 
   Je *milite* au sein de cette organisation depuis trois ans.
-  Ich bin seit drei Jahren in dieser Organisation *aktiv*.
+  I've been *active* in this organization for three years.
 
   Plusieurs facteurs *militent* contre cette décision.
-  Mehrere Faktoren *sprechen* gegen diese Entscheidung.
+  Several factors speak against this decision.
 
   Les étudiants *militent* pour la gratuité des transports.
-  Die Studenten *setzen sich* für kostenlose Verkehrsmittel *ein*.
+  The students are committed to free transport.
 
   Son comportement *milite* en sa défaveur.
-  Sein Verhalten *spricht* gegen ihn.
+  His behavior speaks against him.
 
   Les circonstances *militent* pour un changement immédiat.
-  Die Umstände *sprechen* für eine sofortige Änderung.
+  The circumstances speak for an immediate change.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

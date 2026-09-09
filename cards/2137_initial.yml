@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2137
 Wort: initial
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: initial
 Femininum / Plural: initiale
 IPA: \i.ni.sjal\
-Definition: anfänglich, Ausgangs-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: initial, initial
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Au succès *initial* a succédé une stabilisation.
-  Auf den *anfänglichen* Erfolg folgte eine Stabilisierung.
+  The *initial* success was followed by stabilization.
 
   L'erreur *initiale* s'est propagée dans tout le calcul.
-  Der *ursprüngliche* Fehler hat sich durch die ganze Rechnung gezogen.
+  The *original* mistake has taken full account of itself.
 
   Pour commencer ce mot, il faut une *initiale* en majuscule.
-  Dieses Wort muss mit einem großen *Anfangsbuchstaben* beginnen.
+  This word must begin with a large initial letter.
 
   La position *initiale* du joueur est très importante pour le saut.
-  Die *Ausgangs*position des Spielers ist sehr wichtig für den Sprung.
+  The starting position of the player is very important for the jump.
 
   J'ai analysé la situation *initiale* avant de prendre ma décision.
-  Ich habe die *Ausgangs*lage analysiert, bevor ich meine Entscheidung getroffen habe.
+  I analyzed the initial situation before I made my decision.
 
   La vitesse *initiale* de la balle était trop faible.
-  Die *Anfangs*geschwindigkeit des Balls war zu niedrig.
+  The *initial* speed of the ball was too low.
 
   Elle a brodé ses *initiales* sur son mouchoir.
-  Sie hat ihre *Initialen* auf ihr Taschentuch gestickt.
+  She embroidered her *initials* on her handkerchief.
 
   Le malentendu *initial* entre nous n'a jamais été résolu.
-  Das *ursprüngliche* Missverständnis zwischen uns wurde nie geklärt.
+  The *original* misunderstanding between us has never been resolved.
 
   Dans ce manuscrit médiéval, chaque chapitre commence par une *initiale* ornée.
-  In dieser mittelalterlichen Handschrift beginnt jedes Kapitel mit einem verzierten *Anfangsbuchstaben*.
+  In this medieval manuscript, each chapter begins with a decorated initial letter.
 
   Les conditions *initiales* de l'expérience doivent être précises.
-  Die *Ausgangs*bedingungen des Experiments müssen präzise sein.
+  The initial conditions of the experiment must be precise.
 
   L'état *initial* du patient s'est considérablement amélioré.
-  Der *anfängliche* Zustand des Patienten hat sich erheblich verbessert.
+  The *initial* condition of the patient has improved significantly.
 
   Il faut toujours revenir à la version *initiale* du texte.
-  Man muss immer zur *ursprünglichen* Version des Textes zurückkehren.
+  You always have to return to the *original* version of the text.
 
   La phase *initiale* du projet durera trois mois.
-  Die *Anfangs*phase des Projekts wird drei Monate dauern.
+  The *initial* phase of the project will take three months.
 
   Les données *initiales* du problème étaient incorrectes.
-  Die *ursprünglichen* Daten des Problems waren falsch.
+  The *original* data of the problem was wrong.
 
   L'impulsion *initiale* a déclenché toute une série d'événements.
-  Der *anfängliche* Impuls löste eine ganze Reihe von Ereignissen aus.
+  The *initial* impulse triggered a whole series of events.
 
   J'ai signé le document de mes *initiales*.
-  Ich habe das Dokument mit meinen *Initialen* unterschrieben.
+  I signed the document with my *initials*.
 
   La syllabe *initiale* de ce mot est accentuée.
-  Die *erste* Silbe dieses Wortes ist betont.
+  The *first* syllable of this word is emphasized.
 
   Son enthousiasme *initial* s'est vite estompé.
-  Seine *anfängliche* Begeisterung ließ schnell nach.
+  His *initial* enthusiasm quickly subsided.
 
   L'hypothèse *initiale* s'est révélée fausse.
-  Die *ursprüngliche* Hypothese erwies sich als falsch.
+  The *original* hypothesis proved to be wrong.
 
   Les cellules *initiales* se multiplient rapidement.
-  Die *ursprünglichen* Zellen vermehren sich schnell.
+  The *original* cells multiply quickly.
 
   Leurs *initiales* entrelacées decorent l'invitation.
-  Ihre verschlungenen *Initialen* schmücken die Einladung.
+  Their intertwined *initials* adorn the invitation.
 
   Le choc *initial* a été très violent.
-  Der *erste* Aufprall war sehr heftig.
+  The *first* impact was very severe.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

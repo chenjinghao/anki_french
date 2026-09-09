@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4343
 Wort: symboliser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: symboliser
 Femininum / Plural: ''
 IPA: \sɛ̃.bɔ.li.ze\
-Definition: symbolisieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: symbolize
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le papillon *symbolisait* l'âme.
-  Der Schmetterling *versinnbildlichte* die Seele.
+  The butterfly symbolized the soul.
 
   La colombe *symbolise* la paix depuis des millénaires.
-  Die Taube *symbolisiert* seit Jahrtausenden den Frieden.
+  The dove has symbolized peace for millennia.
 
   Dans le langage des fleurs, la rose rouge *symbolise* l'amour passionné.
-  In der Blumensprache *symbolisiert* die rote Rose die leidenschaftliche Liebe.
+  In the flower language, the red rose symbolizes passionate love.
 
   Les mathématiciens *symbolisent* souvent l'infini par un huit couché.
-  Die Mathematiker *versinnbildlichen* die Unendlichkeit oft durch eine liegende Acht.
+  The mathematicians often symbolize infinity by a lying eight.
 
   Cette poignée de main historique *symbolise* la réconciliation entre nos deux nations.
-  Dieser historische Händedruck *symbolisiert* die Versöhnung zwischen unseren beiden Nationen.
+  This historic handshake symbolizes reconciliation between our two nations.
 
   Les anciens Égyptiens *symbolisaient* la vie par une croix ansée.
-  Die alten Ägypter *versinnbildlichten* das Leben durch ein Anch-Kreuz.
+  The ancient Egyptians symbolized life through an Anch cross.
 
   Le glaive et la balance *symbolisent* la justice et l'équité.
-  Schwert und Waage *symbolisieren* Gerechtigkeit und Ausgewogenheit.
+  Sword and scale *symbolize* justice and balance.
 
   Dans ce tableau, l'arbre mort *symbolise* la fin d'une époque.
-  In diesem Gemälde *symbolisiert* der tote Baum das Ende einer Ära.
+  In this painting, the dead tree symbolizes the end of an era.
 
   Les alchimistes *symbolisaient* l'or par un cercle avec un point au centre.
-  Die Alchemisten *versinnbildlichten* Gold durch einen Kreis mit einem Punkt in der Mitte.
+  The alchemists symbolized gold by a circle with a point in the middle.
 
   Le phénix *symbolise* le renouveau et la renaissance.
-  Der Phönix *symbolisiert* die Erneuerung und Wiedergeburt.
+  The phoenix symbolizes renewal and rebirth.
 
   Cette cérémonie *symbolise* le passage à l'âge adulte.
-  Diese Zeremonie *symbolisiert* den Übergang ins Erwachsenenalter.
+  This ceremony symbolizes the transition to adulthood.
 
   Le serpent qui se mord la queue *symbolise* l'éternité.
-  Die sich in den Schwanz beißende Schlange *versinnbildlicht* die Ewigkeit.
+  The snake biting into the tail symbolizes eternity.
 
   Les drapeaux *symbolisent* l'identité nationale des pays.
-  Die Flaggen *symbolisieren* die nationale Identität der Länder.
+  The flags symbolise the national identity of the countries.
 
   En chimie, la lettre H *symbolise* l'hydrogène.
-  In der Chemie *symbolisiert* der Buchstabe H Wasserstoff.
+  In chemistry, the letter H symbolizes hydrogen.
 
   Cette statue géante *symbolise* la liberté et l'indépendance.
-  Diese riesige Statue *symbolisiert* Freiheit und Unabhängigkeit.
+  This huge statue symbolizes freedom and independence.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

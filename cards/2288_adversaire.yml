@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2288
 Wort: adversaire
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: adversaire
 Femininum / Plural: ''
 IPA: \ad.vɛʁ.sɛʁ\
-Definition: Gegner
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Opponents
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On élimine son *adversaire* en le touchant.
-  Man schaltet seinen *Gegner* aus, indem man ihn berührt.
+  You turn off your opponent by touching him.
 
   Dans ce débat, mon principal *adversaire* était bien préparé.
-  In dieser Debatte war mein Haupt*gegner* gut vorbereitet.
+  In this debate, my main opponent was well prepared.
 
   L'équipe affrontera un *adversaire* redoutable en finale.
-  Die Mannschaft wird im Finale auf einen gefürchteten *Gegner* treffen.
+  The team will meet a dreaded opponent in the final.
 
   Elle a toujours considéré le temps comme son pire *adversaire*.
-  Sie hat die Zeit immer als ihren schlimmsten *Widersacher* betrachtet.
+  She's always considered time her worst adversary.
 
   Les deux *adversaires* se sont serrés la main après le match.
-  Die beiden *Kontrahenten* haben sich nach dem Spiel die Hand geschüttelt.
+  The two opponents shook hands after the game.
 
   Ce politicien est connu pour respecter ses *adversaires*.
-  Dieser Politiker ist dafür bekannt, seine *Gegner* zu respektieren.
+  This politician is known to respect his *opponents*.
 
   L'avocat a réussi à déstabiliser l'*adversaire* pendant le procès.
-  Dem Anwalt gelang es, den *Kontrahenten* während des Prozesses aus der Fassung zu bringen.
+  The lawyer managed to get the opponent out of hand during the trial.
 
   Les *adversaires* du projet ont organisé une manifestation.
-  Die *Gegner* des Projekts haben eine Demonstration organisiert.
+  The *opponents* of the project organized a demonstration.
 
   Il faut apprendre à voir son *adversaire* comme un partenaire de jeu.
-  Man muss lernen, seinen *Gegenspieler* als Spielpartner zu sehen.
+  You have to learn to see your opponent as your partner.
 
   Marie est une farouche *adversaire* de la peine de mort.
-  Marie ist eine entschiedene *Gegnerin* der Todesstrafe.
+  Marie is a resolute opponent of the death penalty.
 
   L'*adversaire* en finale s'est avéré plus coriace que prévu.
-  Der Final*gegner* erwies sich als zäher als erwartet.
+  The final opponent proved to be tougher than expected.
 
   Les deux *adversaires* politiques ont débattu avec passion.
-  Die beiden politischen *Kontrahenten* haben leidenschaftlich debattiert.
+  The two political opponents have debated passionately.
 
   Notre équipe a sous-estimé la force de l'*adversaire*.
-  Unser Team hat die Stärke des *Gegners* unterschätzt.
+  Our team has underestimated the strength of the *opponent*.
 
   Il est important de respecter son *adversaire*, même dans la défaite.
-  Es ist wichtig, seinen *Gegner* zu respektieren, auch in der Niederlage.
+  It is important to respect your opponent, even in defeat.
 
   Les *adversaires* du libéralisme critiquent ses effets sur la société.
-  Die *Gegner* des Liberalismus kritisieren dessen Auswirkungen auf die Gesellschaft.
+  The *opponents* of liberalism criticize its impact on society.
 
   "Tu es un digne *adversaire*", a-t-il dit en lui serrant la main.
-  "Du bist ein würdiger *Gegner*", sagte er, als er ihm die Hand schüttelte.
+  "You are a worthy opponent," he said as he shook his hand.
 
   L'*adversaire* a demandé un temps mort juste avant la fin du match.
-  Der *Gegner* hat kurz vor Spielende eine Auszeit verlangt.
+  The opponent asked for a break just before the end of the game.
 
   Cette loi a de nombreux *adversaires* au sein du parlement.
-  Dieses Gesetz hat viele *Gegner* im Parlament.
+  This law has many *opponents* in parliament.
 
   Les *adversaires* se sont réconciliés après des années de conflit.
-  Die *Widersacher* haben sich nach Jahren des Konflikts versöhnt.
+  The adversaries reconciled after years of conflict.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

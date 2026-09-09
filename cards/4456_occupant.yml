@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4456
 Wort: occupant
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un occupant
 Femininum / Plural: occupante
 IPA: \ɔ.ky.pɑ̃\
-Definition: Insasse; Besatzungs-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Inmate; crew
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le parlement négocie avec les *occupants*.
-  Das Parlament verhandelt mit den *Besatzungs*soldaten.
+  Parliament is negotiating with the occupation soldiers.
 
   Les *occupants* avaient installé un quartier général dans la mairie.
-  Die *Besatzungs*soldaten hatten im Rathaus ein Hauptquartier eingerichtet.
+  The occupation soldiers had set up a headquarters in the town hall.
 
   Les forces *occupantes* ont imposé un couvre-feu.
-  Die *Besatzungs*truppen haben eine Ausgangssperre verhängt.
+  The *crew* have imposed a curfew.
 
   Il n'y avait que trois *occupants* dans la voiture accidentée.
-  Es waren nur drei *Insassen* in dem Unfallwagen.
+  There were only three *inmates* in the accident car.
 
   Les *occupants* de l'immeuble ont dû évacuer à cause d'une fuite de gaz.
-  Die *Bewohner* des Gebäudes mussten wegen eines Gaslecks evakuiert werden.
+  The *residents* of the building had to be evacuated due to a gas leak.
 
   En tant qu'*occupante* de l'appartement, Marie doit payer les charges.
-  Als *Bewohnerin* der Wohnung muss Marie die Nebenkosten bezahlen.
+  As a *resident* of the apartment, Marie has to pay the incidentals.
 
   La puissance *occupante* a imposé de nouvelles lois.
-  Die *Besatzungs*macht hat neue Gesetze erlassen.
+  The occupying power has passed new laws.
 
   Les *occupants* de la chambre d'hôtel ont signalé un problème de climatisation.
-  Die *Bewohner* des Hotelzimmers haben ein Problem mit der Klimaanlage gemeldet.
+  The *residents* of the hotel room have reported a problem with the air conditioning.
 
   L'*occupant* de bonne foi peut rester dans les lieux.
-  Der gutgläubige *Besitznehmer* darf in den Räumlichkeiten bleiben.
+  The good faith owner may remain in the premises.
 
   Les *occupants* du train ont été évacués suite à une panne technique.
-  Die *Insassen* des Zuges wurden wegen einer technischen Störung evakuiert.
+  The *inmates* of the train were evacuated for a technical incident.
 
   La résistance s'est organisée contre l'*occupant*.
-  Der Widerstand hat sich gegen die *Besatzungs*macht organisiert.
+  The resistance has organized itself against the occupying power.
 
   Sophie est devenue *occupante* du logement après le départ de son colocataire.
-  Sophie wurde *Bewohnerin* der Wohnung nach dem Auszug ihres Mitbewohners.
+  Sophie became a *resident* of the apartment after the departure of her roommate.
 
   L'armée *occupante* a établi des points de contrôle dans toute la ville.
-  Die *Besatzungs*armee hat in der ganzen Stadt Kontrollpunkte eingerichtet.
+  The occupation army has established checkpoints throughout the city.
 
   Les nouveaux *occupants* ont repeint tout l'appartement.
-  Die neuen *Bewohner* haben die ganze Wohnung neu gestrichen.
+  The new *residents* have repainted the whole apartment.
 
   En tant que premier *occupant*, il a des droits particuliers.
-  Als erster *Besitznehmer* hat er besondere Rechte.
+  As the first owner, he has special rights.
 
   Les *occupants* du bus scolaire sont tous rentrés sains et saufs.
-  Die *Insassen* des Schulbusses sind alle wohlbehalten zurückgekehrt.
+  The *inmates* of the school bus have all returned safely.
 
   La ville a résisté à l'*occupant* pendant plusieurs mois.
-  Die Stadt hat der *Besatzungs*macht mehrere Monate lang Widerstand geleistet.
+  The city has resisted the occupying forces for several months.
 
   Les *occupants* sans titre devront quitter les lieux avant la fin du mois.
-  Die illegalen *Bewohner* müssen die Räumlichkeiten vor Ende des Monats verlassen.
+  Illegal *residents* must leave the premises before the end of the month.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

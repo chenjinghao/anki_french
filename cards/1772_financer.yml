@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1772
 Wort: financer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: financer
 Femininum / Plural: ''
 IPA: \fi.nɑ̃.se\
-Definition: finanzieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: finance
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a déjà *financé* des films en Europe.
-  Er hat schon Filme in Europa *finanziert*.
+  He has already *financed* films in Europe.
 
   "C'est toujours moi qui dois *financer*, c'est pas juste !"
-  "Immer muss ich *blechen*, das ist nicht fair!"
+  "I always have to pay, that's not fair!"
 
   La banque a refusé de *financer* l'achat de leur maison.
-  Die Bank hat sich geweigert, den Hauskauf zu *finanzieren*.
+  The bank refused to *finance* the house purchase.
 
   Ces travaux seront entièrement *financés* par la ville.
-  Diese Bauarbeiten werden vollständig von der Stadt *finanziert*.
+  This construction work is entirely *financed* by the city.
 
   Comment vas-tu *financer* tes études ?
-  Wie willst du dein Studium *finanzieren*?
+  How do you plan to *finance* your studies?
 
   Le projet est *financé* par des fonds privés.
-  Das Projekt wird durch private Gelder *finanziert*.
+  The project is *financed* by private funds.
 
   Un riche mécène a accepté de *financer* leur exposition d'art.
-  Ein reicher Mäzen hat eingewilligt, ihre Kunstausstellung zu *finanzieren*.
+  A rich patron has agreed to fund her art exhibition.
 
   L'État *finance* la construction du nouveau pont.
-  Der Staat *finanziert* den Bau der neuen Brücke.
+  The state finances the construction of the new bridge.
 
   Ce programme est *financé* par le budget européen.
-  Dieses Programm wird aus dem EU-Haushalt *finanziert*.
+  This programme is *financed* by the EU budget.
 
   Ma grand-mère m'a aidé à *financer* mes études à l'étranger.
-  Meine Großmutter hat mir geholfen, mein Auslandsstudium zu *finanzieren*.
+  My grandmother helped me *finance* my studies abroad.
 
   L'entreprise cherche des investisseurs pour *financer* son expansion.
-  Das Unternehmen sucht Investoren, um seine Expansion zu *finanzieren*.
+  The company is looking for investors to *finance* its expansion.
 
   "Si tu veux participer, il faudra *financer* ta part !"
-  "Wenn du mitmachen willst, musst du deinen Anteil *blechen*!"
+  "If you want to join, you have to pay your share!"
 
   Les parents ont dû *financer* les réparations de la voiture.
-  Die Eltern mussten die Autoreparaturen *finanzieren*.
+  The parents had to *finance* the car repairs.
 
   Plusieurs donateurs se sont proposés pour *financer* la recherche médicale.
-  Mehrere Spender haben angeboten, die medizinische Forschung zu *finanzieren*.
+  Several donors have offered to *finance* medical research.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

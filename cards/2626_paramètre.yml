@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2626
 Wort: paramètre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le paramètre
 Femininum / Plural: ''
 IPA: \pa.ʁa.mɛtʁ\
-Definition: Parameter
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: Parameters
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le commutateur d'origine fixe les *paramètres*.
-  Der Original-Schalter legt die *Einstellungen* fest.
+  The original switch sets the *settings*.
 
   Dans cette équation, le *paramètre* a représente la pente de la droite.
-  In dieser Gleichung stellt der *Parameter* a die Steigung der Geraden dar.
+  In this equation, the parameter a represents the slope of the straight lines.
 
   Pour modifier les *paramètres* du clavier, allez dans les réglages système.
-  Um die Tastatur*einstellungen* zu ändern, gehen Sie in die Systemeinstellungen.
+  To change the keyboard *settings*, go to the system settings.
 
   La température est un *paramètre* essentiel pour cette expérience.
-  Die Temperatur ist ein wichtiger *Parameter* für dieses Experiment.
+  The temperature is an important parameter for this experiment.
 
   Les *paramètres* de sécurité ont été mis à jour automatiquement.
-  Die Sicherheits*einstellungen* wurden automatisch aktualisiert.
+  The security *settings* have been updated automatically.
 
   Le système utilise les *paramètres* par défaut si aucune valeur n'est spécifiée.
-  Das System verwendet die Standard*parameter*, wenn kein Wert angegeben ist.
+  The system uses the default *parameters* if no value is specified.
 
   Nous devons prendre en compte plusieurs *paramètres* avant de prendre une décision.
-  Wir müssen mehrere *Parameter* berücksichtigen, bevor wir eine Entscheidung treffen.
+  We need to take several *parameters* into account before making a decision.
 
   Les *paramètres* d'affichage de mon écran ne fonctionnent plus correctement.
-  Die Anzeige*einstellungen* meines Bildschirms funktionieren nicht mehr richtig.
+  The display *settings* of my screen no longer work properly.
 
   Le médecin surveille régulièrement les *paramètres* sanguins du patient.
-  Der Arzt überwacht regelmäßig die Blut*parameter* des Patienten.
+  The doctor regularly monitors the patient's blood *parameters*.
 
   J'ai modifié les *paramètres* de confidentialité sur mon compte.
-  Ich habe die Privatsphäre*einstellungen* in meinem Konto geändert.
+  I changed the privacy *settings* in my account.
 
   Cette fonction mathématique dépend de trois *paramètres* différents.
-  Diese mathematische Funktion hängt von drei verschiedenen *Parametern* ab.
+  This mathematical function depends on three different *parameters*.
 
   Les *paramètres* de langue ont été restaurés aux valeurs initiales.
-  Die Sprach*einstellungen* wurden auf die ursprünglichen Werte zurückgesetzt.
+  The language *settings* have been reset to the original values.
 
   Le stress est un *paramètre* important à considérer dans cette étude.
-  Stress ist ein wichtiger *Parameter*, der in dieser Studie berücksichtigt werden muss.
+  Stress is an important parameter that must be taken into account in this study.
 
   Les *paramètres* régionaux déterminent le format de la date et de l'heure.
-  Die Regions*einstellungen* bestimmen das Datum- und Zeitformat.
+  The region *settings* determine the date and time format.
 
   Le scientifique a modifié plusieurs *paramètres* pendant l'expérience.
-  Der Wissenschaftler hat während des Experiments mehrere *Parameter* verändert.
+  The scientist changed several *parameters* during the experiment.
 
   La variance est un *paramètre* statistique qui mesure la dispersion des données.
-  Die Varianz ist ein statistischer *Parameter*, der die Streuung der Daten misst.
+  The variance is a statistical parameter that measures the dispersion of the data.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3284
 Wort: historien
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un historien
 Femininum / Plural: historienne
 IPA: \is.tɔ.ʁjɛ̃\
-Definition: Historiker
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Historians
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *historiens* en débattront pendant longtemps.
-  Die *Historiker* werden noch lange darüber diskutieren.
+  *Historians* will be discussing this for a long time.
 
   Mon frère est *historien* de l'art à l'université de Lyon.
-  Mein Bruder ist Kunst*historiker* an der Universität Lyon.
+  My brother is an art *historian* at the University of Lyon.
 
   Cette *historienne* a écrit plusieurs livres sur la paysannerie française au Moyen Âge.
-  Diese *Historikerin* hat mehrere Bücher über das französische Bauerntum im Mittelalter geschrieben.
+  This *historian* has written several books about the French peasantry in the Middle Ages.
 
   Sophie est devenue *historienne* du droit après ses études de jurisprudence.
-  Sophie wurde Rechts*historikerin* nach ihrem Jurastudium.
+  Sophie became a legal *historian* after her law degree.
 
   L'*historien* a passé des années à étudier les documents d'archives.
-  Der *Historiker* hat Jahre damit verbracht, Archivdokumente zu studieren.
+  The historian has spent years studying archive documents.
 
   Julie est *historienne* de l'économie et spécialiste de la révolution industrielle.
-  Julie ist Wirtschafts*historikerin* und Spezialistin für die industrielle Revolution.
+  Julie is an economic *historian* and specialist for the industrial revolution.
 
   - "Tu es *historien* ou *historienne* ?"<br>- "Je suis encore étudiant en première année."
-  - "Bist du *Historiker* oder *Historikerin*?"<br>- "Ich bin noch im ersten Studienjahr."
+  - "Are you a *historian* or a historian?" - "I'm still in my first year of study."
 
   Les *historiens* grecs nous ont transmis de précieux témoignages sur l'Antiquité.
-  Die griechischen *Historiker* haben uns wertvolle Zeugnisse über die Antike überliefert.
+  The Greek *historians* have given us valuable evidence of antiquity.
 
   Cette *historienne* consciencieuse vérifie toujours ses sources.
-  Diese gewissenhafte *Historikerin* überprüft immer ihre Quellen.
+  This conscientious *historian* always checks her sources.
 
   Marc s'est fait l'*historien* de la libération de sa ville natale.
-  Marc wurde zum *Chronisten* der Befreiung seiner Heimatstadt.
+  Marc became a chronicler of the liberation of his hometown.
 
   Les jeunes *historiens* utilisent de plus en plus les outils numériques.
-  Die jungen *Historiker* nutzen zunehmend digitale Werkzeuge.
+  Young *historians* are increasingly using digital tools.
 
   Dans ce documentaire, plusieurs *historiennes* partagent leur point de vue.
-  In dieser Dokumentation teilen mehrere *Historikerinnen* ihre Sichtweise mit.
+  In this documentary, several *historians* share their views.
 
   L'*historienne* impartiale présente les différents aspects du conflit.
-  Die unparteiische *Historikerin* stellt die verschiedenen Aspekte des Konflikts dar.
+  The impartial *historian* represents the various aspects of the conflict.
 
   En tant qu'*historien*, il ne prend jamais parti dans ses ouvrages.
-  Als *Historiker* ergreift er in seinen Werken nie Partei.
+  As a historian, he never takes sides in his works.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3324
 Wort: compliqué
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: compliqué
 Femininum / Plural: compliquée
 IPA: \kɔ̃.pli.ke\
-Definition: kompliziert
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: complicated
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous voyez, la situation est très *compliquée*.
-  Wie Sie sehen, ist die Situation sehr *kompliziert*.
+  As you can see, the situation is very *complicated*.
 
   La recette peut sembler *compliquée*, mais elle est en fait assez simple.
-  Das Rezept mag *kompliziert* aussehen, aber es ist eigentlich ziemlich einfach.
+  The recipe may look *complicated*, but it's actually pretty simple.
 
   Le mécanisme de cette horloge ancienne est vraiment *compliqué*.
-  Der Mechanismus dieser alten Uhr ist wirklich *kompliziert*.
+  The mechanism of this old watch is really *complicated*.
 
   "C'est pas *compliqué*, tu prends le bus numéro 7 !"
-  "Das ist doch nicht *kompliziert*, du nimmst einfach Bus Nummer 7!"
+  "That's not *complicated*, you just take bus number 7!"
 
   Paul a toujours été quelqu'un de *compliqué* dans ses relations.
-  Paul war in seinen Beziehungen schon immer ein *komplizierter* Mensch.
+  Paul has always been a complicated person in his relationships.
 
   L'installation du nouveau logiciel s'est avérée plus *compliquée* que prévu.
-  Die Installation der neuen Software erwies sich als *komplizierter* als erwartet.
+  The installation of the new software proved to be more complicated than expected.
 
   Cette équation mathématique est trop *compliquée* pour des débutants.
-  Diese mathematische Gleichung ist für Anfänger zu *schwierig*.
+  This mathematical equation is too *difficult* for beginners.
 
   Marie mène une vie très *compliquée* depuis son divorce.
-  Marie führt seit ihrer Scheidung ein sehr *kompliziertes* Leben.
+  Marie has been living a very complicated life since her divorce.
 
   Le trajet pour arriver chez eux est vraiment *compliqué*.
-  Der Weg zu ihnen nach Hause ist wirklich *kompliziert*.
+  The way home to them is really *complicated*.
 
   Son cas de grippe est devenu *compliqué* à cause d'une infection.
-  Sein Grippefall wurde durch eine Infektion *kompliziert*.
+  His flu case was *complicated* by an infection.
 
   "Tu es vraiment *compliquée*, ma chérie !"
-  "Du bist wirklich *kompliziert*, meine Liebe!"
+  "You're really *complicated*, my dear!"
 
   Le processus de demande de visa est devenu plus *compliqué*.
-  Der Prozess der Visumsbeantragung ist *komplizierter* geworden.
+  The visa application process has become more complicated.
 
   Cette histoire d'amour est tellement *compliquée* que personne ne la comprend.
-  Diese Liebesgeschichte ist so *kompliziert*, dass sie niemand versteht.
+  This love story is so *complicated* that no one understands it.
 
   Le nouveau règlement est beaucoup trop *compliqué*.
-  Die neue Regelung ist viel zu *kompliziert*.
+  The new regulation is far too *complicated*.
 
   Cette machine à café est inutilement *compliquée* à utiliser.
-  Diese Kaffeemaschine ist unnötig *kompliziert* zu bedienen.
+  This coffee machine is unnecessarily *complicated* to use.
 
   Je trouve que tu rends les choses plus *compliquées* qu'elles ne le sont.
-  Ich finde, du machst die Dinge *komplizierter* als sie sind.
+  I think you're making things more complicated than they are.
 
   La situation politique est devenue très *compliquée* ces derniers temps.
-  Die politische Lage ist in letzter Zeit sehr *kompliziert* geworden.
+  The political situation has become very *complicated* lately.
 
   Son esprit *compliqué* l'empêche souvent de prendre des décisions simples.
-  Sein *komplizierter* Geist hindert ihn oft daran, einfache Entscheidungen zu treffen.
+  His complicated mind often prevents him from making simple decisions.
 
   Les instructions de montage sont vraiment *compliquées*.
-  Die Montageanleitung ist wirklich *kompliziert*.
+  The assembly instructions are really *complicated*.
 
   Le fonctionnement de ce nouveau système est trop *compliqué*.
-  Die Funktionsweise dieses neuen Systems ist zu *kompliziert*.
+  The operation of this new system is too *complicated*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

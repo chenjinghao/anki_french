@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 549
 Wort: mondial
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: mondial
 Femininum / Plural: mondiale
 IPA: \mɔ̃.djal\
-Definition: weltweit, global
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: worldwide, global
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous vivons dans une économie *mondiale* qui évolue très rapidement.
-  Wir leben in einer sich schnell entwickelnden *Welt*wirtschaft.
+  We live in a rapidly developing *world* economy.
 
   La population *mondiale* a dépassé les huit milliards d'habitants en 2022.
-  Die *Welt*bevölkerung hat 2022 die Acht-Milliarden-Marke überschritten.
+  The *world*'s population exceeded the eight billion mark in 2022.
 
   Le réchauffement climatique est un défi *mondial* qui nous concerne tous.
-  Die globale Erwärmung ist eine *weltweite* Herausforderung, die uns alle betrifft.
+  *Global* warming is a global challenge that affects us all.
 
   La Seconde Guerre *mondiale* a profondément marqué l'histoire de l'humanité.
-  Der Zweite *Welt*krieg hat die Geschichte der Menschheit tief geprägt.
+  *World* War II has profoundly shaped the history of mankind.
 
   Cette entreprise est devenue un leader *mondial* dans son secteur.
-  Dieses Unternehmen ist zu einem *weltweiten* Marktführer in seiner Branche geworden.
+  This company has become a *global* market leader in its industry.
 
   L'équipe brésilienne espère remporter le *Mondial* de football cette année.
-  Die brasilianische Mannschaft hofft, die *Welt*meisterschaft im Fußball dieses Jahr zu gewinnen.
+  The Brazilian team hopes to win the *World* Cup in football this year.
 
   La crise sanitaire de 2020 a eu un impact *mondial* sans précédent.
-  Die Gesundheitskrise von 2020 hatte beispiellose *weltweite* Auswirkungen.
+  The health crisis of 2020 had unprecedented *global* impacts.
 
   Cette chanteuse connaît un succès *mondial* depuis son dernier album.
-  Diese Sängerin feiert seit ihrem letzten Album *weltweiten* Erfolg.
+  This singer has celebrated worldwide success since her last album.
 
   L'UNESCO protège le patrimoine *mondial* de l'humanité.
-  Die UNESCO schützt das *Welt*kulturerbe der Menschheit.
+  UNESCO protects the *world* heritage of humanity.
 
   La production *mondiale* de blé a diminué cette année à cause de la sécheresse.
-  Die *Welt*produktion von Weizen ist dieses Jahr aufgrund der Dürre zurückgegangen.
+  *World* wheat production has declined this year due to drought.
 
   Cette athlète vient de battre le record *mondial* du 100 mètres.
-  Diese Athletin hat gerade den *Welt*rekord über 100 Meter gebrochen.
+  This athlete just broke the *world* record over 100 meters.
 
   Les médias suivent de près l'actualité *mondiale*.
-  Die Medien verfolgen aufmerksam das *Welt*geschehen.
+  The media is following the *world*'s events closely.
 
   La récession *mondiale* a touché de nombreux secteurs économiques.
-  Die *weltweite* Rezession hat viele Wirtschaftssektoren getroffen.
+  The *global* recession has affected many sectors of the economy.
 
   Internet est devenu un réseau de communication *mondial*.
-  Das Internet ist zu einem *weltweiten* Kommunikationsnetzwerk geworden.
+  The Internet has become a worldwide communications network.
 
   L'Organisation *Mondiale* de la Santé surveille les épidémies.
-  Die *Welt*gesundheitsorganisation überwacht Epidemien.
+  The *World* Health Organization monitors epidemics.
 
   Le commerce *mondial* continue de croître malgré les tensions internationales.
-  Der *Welt*handel wächst trotz internationaler Spannungen weiter.
+  *World* trade continues to grow despite international tensions.
 
   Cette découverte scientifique aura une portée *mondiale*.
-  Diese wissenschaftliche Entdeckung wird *weltweite* Bedeutung haben.
+  This scientific discovery will have worldwide significance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

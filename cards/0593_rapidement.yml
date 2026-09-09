@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 593
 Wort: rapidement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rapidement
 Femininum / Plural: ''
 IPA: \ʁa.pi.də.mɑ̃\
-Definition: schnell, flink
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Quick, quick
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont passé *rapidement* dans l'histoire.
-  Sie sind *schnell* in die Geschichte eingegangen.
+  They quickly entered history.
 
   L'épidémie s'est répandue *rapidement* dans toute la région.
-  Die Epidemie hat sich *rasch* in der ganzen Region ausgebreitet.
+  The epidemic has spread rapidly throughout the region.
 
   Elle parcourt *rapidement* le journal pendant son petit déjeuner.
-  Sie überfliegt die Zeitung *flüchtig* während ihres Frühstücks.
+  She's flying over the paper in a fugitive way during her breakfast.
 
   Il faut agir *rapidement* avant qu'il ne soit trop tard.
-  Wir müssen *schnell* handeln, bevor es zu spät ist.
+  We need to act quickly before it's too late.
 
   "Je reviendrai *rapidement*, ne t'inquiète pas."
-  "Ich komme *schnell* wieder, mach dir keine Sorgen."
+  "I'll be back quickly, don't worry."
 
   Ces jeunes programmeuses travaillent très *rapidement*.
-  Diese jungen Programmiererinnen arbeiten sehr *flink*.
+  These young programmers work very fast.
 
   La situation économique s'est améliorée *rapidement*.
-  Die wirtschaftliche Situation hat sich *rasch* verbessert.
+  The economic situation has improved rapidly.
 
   Les prix ont augmenté *rapidement* ces derniers mois.
-  Die Preise sind in den letzten Monaten *schnell* gestiegen.
+  Prices have risen rapidly in recent months.
 
   Elle a *rapidement* compris son erreur.
-  Sie hat ihren Fehler *schnell* eingesehen.
+  She quickly realized her mistake.
 
   Le nouveau restaurant est devenu *rapidement* populaire.
-  Das neue Restaurant wurde *rasch* beliebt.
+  The new restaurant quickly became popular.
 
   Les enfants grandissent trop *rapidement*.
-  Die Kinder wachsen zu *schnell* auf.
+  The children grow up too fast.
 
   La batterie de mon téléphone se décharge *rapidement*.
-  Der Akku meines Handys entlädt sich *schnell*.
+  My phone's battery is discharging fast.
 
   Le petit chat a *rapidement* appris à utiliser sa litière.
-  Das Kätzchen hat *rasch* gelernt, sein Katzenklo zu benutzen.
+  The kitten quickly learned to use his cat's toilet.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

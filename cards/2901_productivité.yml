@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2901
 Wort: productivité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la productivité
 Femininum / Plural: ''
 IPA: \pʁɔ.dyk.ti.vi.te\
-Definition: Produktivität
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Productivity
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut augmenter la *productivité* du travail.
-  Die Arbeits*produktivität* muss gesteigert werden.
+  Labour *productivity* needs to be increased.
 
   La *productivité* moyenne de l'usine a augmenté de 5% cette année.
-  Die durchschnittliche *Produktivität* der Fabrik ist dieses Jahr um 5% gestiegen.
+  The average *productivity* of the factory has increased by 5% this year.
 
   Les nouvelles technologies ont considérablement amélioré la *productivité* des moyens de production.
-  Die neuen Technologien haben die *Produktivität* der Produktionsmittel erheblich verbessert.
+  The new technologies have significantly improved the *productivity* of the means of production.
 
   L'entreprise a mis en place des mesures en vue d'augmenter la *productivité*.
-  Das Unternehmen hat Maßnahmen zur Steigerung der *Produktivität* eingeführt.
+  The company has introduced measures to increase *productivity*.
 
   La *productivité* de ce placement financier est remarquable.
-  Die *Rentabilität* dieser Finanzanlage ist bemerkenswert.
+  The *profitability* of this financial investment is remarkable.
 
   Les experts s'inquiètent de la baisse de *productivité* dans le secteur industriel.
-  Die Experten sind besorgt über den Rückgang der *Produktivität* im Industriesektor.
+  Experts are concerned about the decline in *productivity* in the industrial sector.
 
   La *productivité* de ce sol est exceptionnelle pour la culture du blé.
-  Die *Produktivität* dieses Bodens ist für den Weizenanbau außergewöhnlich.
+  The *productivity* of this soil is exceptional for wheat cultivation.
 
   Les économistes étudient la *productivité* du capital dans différents pays.
-  Die Ökonomen untersuchen die Kapital*produktivität* in verschiedenen Ländern.
+  Economists examine capital *productivity* in different countries.
 
   L'amélioration de la *productivité* est un défi majeur pour notre industrie.
-  Die Verbesserung der *Produktivität* ist eine große Herausforderung für unsere Industrie.
+  Improving *productivity* is a major challenge for our industry.
 
   Le préfixe "non" a une grande *productivité* en français pour former des antonymes.
-  Das Präfix "nicht" hat im Französischen eine hohe *Produktivität* bei der Bildung von Antonymen.
+  The prefix "not" in French has a high *productivity* in the formation of Antonymen.
 
   L'organisation du travail vise à accroître la *productivité* des employés.
-  Die Arbeitsorganisation zielt darauf ab, die *Produktivität* der Mitarbeiter zu steigern.
+  The aim of the work organisation is to increase the *productivity* of the employees.
 
   La *productivité* globale des facteurs a augmenté de 2% au cours du dernier trimestre.
-  Die globale Faktor*produktivität* ist im letzten Quartal um 2% gestiegen.
+  Global factor *productivity* increased by 2% in the last quarter.
 
   Les chercheurs ont mesuré la *productivité* de l'écosystème marin dans cette région.
-  Die Forscher haben die *Produktivität* des marinen Ökosystems in dieser Region gemessen.
+  The researchers have measured the *productivity* of the marine ecosystem in this region.
 
   La *productivité* de l'impôt sur le revenu a dépassé les attentes cette année.
-  Die *Einträglichkeit* der Einkommensteuer hat in diesem Jahr die Erwartungen übertroffen.
+  The profitability of income tax has exceeded expectations this year.
 
   Les syndicats craignent que l'augmentation de la *productivité* ne se fasse au détriment des emplois.
-  Die Gewerkschaften befürchten, dass die Steigerung der *Produktivität* auf Kosten der Arbeitsplätze gehen könnte.
+  Trade unions fear that increasing *productivity* could be at the expense of jobs.
 
   Le gouvernement a lancé un plan pour stimuler la *productivité* du secteur agricole.
-  Die Regierung hat einen Plan zur Förderung der *Produktivität* im Agrarsektor ins Leben gerufen.
+  The government has set up a plan to promote *productivity* in the agricultural sector.
 
   La *productivité* horaire des travailleurs a atteint un niveau record ce mois-ci.
-  Die Stunden*produktivität* der Arbeiter hat in diesem Monat einen Rekordwert erreicht.
+  The hourly *productivity* of the workers has reached a record level this month.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

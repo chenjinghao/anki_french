@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2654
 Wort: ravir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ravir
 Femininum / Plural: ''
 IPA: \ʁa.viʁ\
-Definition: begeistern; rauben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: enthuse; rob
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis *ravi* de vous voir.
-  Ich bin *begeistert*, Sie zu sehen.
+  I'm thrilled to see you.
 
   Cette nouvelle me *ravit* !
-  Diese Nachricht *begeistert* mich!
+  I'm thrilled by this news!
 
   La musique classique *ravit* toujours mon âme.
-  Klassische Musik *verzückt* stets meine Seele.
+  Classical music always excites my soul.
 
   Le spectacle a *ravi* tous les spectateurs.
-  Die Show hat alle Zuschauer *begeistert*.
+  The show has delighted all the spectators.
 
   Des bandits ont *ravi* les bijoux du musée.
-  Banditen haben die Juwelen aus dem Museum *geraubt*.
+  Bandits have stolen the jewels from the museum.
 
   La maladie lui a *ravi* sa jeunesse.
-  Die Krankheit hat ihm seine Jugend *entrissen*.
+  The illness has taken away his youth.
 
   Elle danse *à ravir*.
-  Sie tanzt *wunderbar*.
+  She dances beautifully.
 
   Les terroristes ont *ravi* trois otages.
-  Die Terroristen haben drei Geiseln *entführt*.
+  The terrorists kidnapped three hostages.
 
   Cette réponse m'a *ravi*.
-  Diese Antwort hat mich *begeistert*.
+  That's the answer I'm excited about.
 
   Les pirates ont *ravi* le navire marchand.
-  Die Piraten haben das Handelsschiff *geraubt*.
+  The pirates *robbed* the merchant ship.
 
   Son sourire *ravit* tous ceux qui le voient.
-  Sein Lächeln *verzückt* alle, die es sehen.
+  His smile enraptures everyone who sees it.
 
   Elle était *ravie* du cadeau.
-  Sie war von dem Geschenk *begeistert*.
+  She was excited about the present.
 
   Cette robe te va *à ravir*.
-  Dieses Kleid steht dir *wunderbar*.
+  This dress looks *wonderful* to you.
 
   Les voleurs ont *ravi* toutes nos économies.
-  Die Diebe haben all unsere Ersparnisse *geraubt*.
+  The thieves have *robbed* all our savings.
 
   Je suis *ravi* d'avoir pu vous aider.
-  Ich bin *erfreut*, dass ich Ihnen helfen konnte.
+  I'm glad I could help you.
 
   Son talent *ravit* le public depuis des années.
-  Ihr Talent *begeistert* das Publikum seit Jahren.
+  Their talent has been inspiring the audience for years.
 
   Cette découverte *ravit* les scientifiques.
-  Diese Entdeckung *begeistert* die Wissenschaftler.
+  This discovery inspires the scientists.
 
   La mort nous a *ravi* notre grand-père.
-  Der Tod hat uns unseren Großvater *entrissen*.
+  Death has taken away our grandfather.
 
   Le concert nous a tous *ravis*.
-  Das Konzert hat uns alle *begeistert*.
+  We were all excited about the concert.
 
   Elle chante *à ravir*.
-  Sie singt *wunderbar*.
+  She sings beautifully.
 
   Cette nouvelle recette *ravit* mes papilles.
-  Dieses neue Rezept *verzückt* meinen Gaumen.
+  This new recipe excites my palate.
 
   Les critiques ont été *ravis* par ce film.
-  Die Kritiker waren von diesem Film *begeistert*.
+  The critics were excited about this film.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

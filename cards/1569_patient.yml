@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1569
 Wort: patient
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le patient
 Femininum / Plural: patiente
 IPA: \pa.sjɑ̃\
-Definition: Patient; geduldig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Patient; patient
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La clinique a beaucoup de *patients*, mais je peux vous aider.
-  Die Klinik hat viele *Patienten*, aber ich kann Ihnen helfen.
+  The clinic has a lot of *patients*, but I can help you.
 
   Les *patients* doivent attendre dans la salle d'attente.
-  Die *Patienten* müssen im Wartezimmer warten.
+  The *patients* have to wait in the waiting room.
 
   Le médecin examine chaque *patient* avec attention.
-  Der Arzt untersucht jeden *Patienten* sorgfältig.
+  The doctor will carefully examine each patient.
 
   Ma grand-mère est une *patiente* très courageuse.
-  Meine Großmutter ist eine sehr tapfere *Patientin*.
+  My grandmother is a very brave *patient*.
 
   Il est important d'être *patient* avec les enfants qui apprennent à lire.
-  Es ist wichtig, *geduldig* mit Kindern zu sein, die lesen lernen.
+  It is important to be *patient* with children who learn to read.
 
   Le *patient* a besoin d'une intervention chirurgicale urgente.
-  Der *Patient* braucht einen dringenden chirurgischen Eingriff.
+  The *patient* needs an urgent surgical procedure.
 
   Sophie est une enseignante très *patiente*.
-  Sophie ist eine sehr *geduldige* Lehrerin.
+  Sophie is a very *patient* teacher.
 
   Le *patient zéro* a été identifié dans cette épidémie.
-  Der *Patient* null wurde in dieser Epidemie identifiziert.
+  The *patient* zero was identified in this epidemic.
 
   Un chercheur doit être *patient* pour obtenir des résultats.
-  Ein Forscher muss *geduldig* sein, um Ergebnisse zu erzielen.
+  A researcher must be *patient* to achieve results.
 
   Cette infirmière s'occupe bien de ses *patients*.
-  Diese Krankenschwester kümmert sich gut um ihre *Patienten*.
+  This nurse takes good care of her *patients*.
 
   Soyez *patient*, les résultats arriveront bientôt.
-  Seien Sie *geduldig*, die Ergebnisse kommen bald.
+  Be *patient*, the results will come soon.
 
   Le docteur Martin reçoit ses *patients* tous les matins.
-  Dr. Martin empfängt seine *Patienten* jeden Morgen.
+  Dr. Martin receives his *patients* every morning.
 
   Un travail *patient* finit toujours par porter ses fruits.
-  *Geduldige* Arbeit trägt immer Früchte.
+  *Patience* always bears fruit.
 
   Les *patients* à risque doivent être particulièrement surveillés.
-  Risiko*patienten* müssen besonders überwacht werden.
+  *Patients* at risk must be monitored particularly.
 
   La *patiente* se remet peu à peu de son opération.
-  Die *Patientin* erholt sich allmählich von ihrer Operation.
+  The *patient* gradually recovers from her surgery.
 
   Il faut être *patient* pour apprendre une langue étrangère.
-  Man muss *geduldig* sein, um eine Fremdsprache zu lernen.
+  You have to be *patient* to learn a foreign language.
 
   Ce *patient* nécessite des soins intensifs.
-  Dieser *Patient* benötigt intensivmedizinische Betreuung.
+  This *patient* needs intensive medical care.
 
   Une observation *patiente* des étoiles révèle leurs secrets.
-  Eine *geduldige* Beobachtung der Sterne offenbart ihre Geheimnisse.
+  A *patient* observation of the stars reveals their secrets.
 
   La *patiente* a quitté l'hôpital ce matin.
-  Die *Patientin* hat das Krankenhaus heute Morgen verlassen.
+  The *patient* left the hospital this morning.
 
   Son esprit *patient* lui permet de résoudre des énigmes complexes.
-  Sein *geduldiger* Geist ermöglicht es ihm, komplexe Rätsel zu lösen.
+  His *patient* mind allows him to solve complex puzzles.
 
   Les *patients* chroniques doivent suivre leur traitement régulièrement.
-  Chronische *Patienten* müssen ihre Behandlung regelmäßig fortsetzen.
+  Chronic *patients* must continue their treatment on a regular basis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

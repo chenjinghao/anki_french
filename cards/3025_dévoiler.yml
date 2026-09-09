@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3025
 Wort: dévoiler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dévoiler
 Femininum / Plural: ''
 IPA: \de.vwa.le\
-Definition: enthüllen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: unveil
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La statue sera *dévoilée* le jour de l'inauguration.
-  Die Statue wird am Tag der Einweihung *enthüllt*.
+  The statue will be unveiled on the day of the inauguration.
 
   Pouvez-vous nous *dévoiler* l'évolution de l'intrigue ?
-  Können Sie uns die Entwicklung der Handlung *verraten*?
+  Can you tell us the development of the action?
 
   Le brouillard se lève lentement et *dévoile* un paysage magnifique.
-  Der Nebel hebt sich langsam und *enthüllt* eine wunderschöne Landschaft.
+  The fog rises slowly and reveals a beautiful landscape.
 
   Peu à peu, sa vraie personnalité se *dévoile*.
-  Nach und nach *zeigt* er sein wahres Gesicht.
+  Gradually, he *shows* his true face.
 
   Le journaliste a *dévoilé* un scandale politique majeur.
-  Der Journalist hat einen großen politischen Skandal *aufgedeckt*.
+  The journalist has revealed a great political scandal.
 
   "Il est temps de *dévoiler mes batteries*", a-t-il dit avec un sourire.
-  "Es ist Zeit, meine Karten auf den Tisch zu *legen*", sagte er mit einem Lächeln.
+  "It's time to put my cards on the table," he said with a smile.
 
   Le mécanicien doit *dévoiler* la roue avant de ma bicyclette.
-  Der Mechaniker muss das Vorderrad meines Fahrrads *gerade biegen*.
+  The mechanic has to straighten the front wheel of my bike.
 
   Sa robe élégante *dévoilait* délicatement ses épaules.
-  Ihr elegantes Kleid *entblößte* dezent ihre Schultern.
+  Her elegant dress discreetly exposed her shoulders.
 
   Le mystère de sa disparition se *dévoile* progressivement.
-  Das Geheimnis seines Verschwindens wird allmählich *offenkundig*.
+  The secret of his disappearance is gradually becoming apparent.
 
   L'enquête a finalement *dévoilé* l'identité du coupable.
-  Die Untersuchung hat schließlich die Identität des Täters *aufgedeckt*.
+  The investigation finally revealed the identity of the perpetrator.
 
   Le ministre a *dévoilé* la plaque commémorative ce matin.
-  Der Minister hat heute Morgen die Gedenktafel *enthüllt*.
+  The Minister *revealed* the plaque this morning.
 
   Je ne veux pas encore *dévoiler* mes intentions.
-  Ich möchte meine Absichten noch nicht *preisgeben*.
+  I don't want *to reveal* my intentions yet.
 
   Sa perfidie s'est finalement *dévoilée* devant tout le monde.
-  Seine Heimtücke wurde schließlich vor allen *offenbar*.
+  His insidiousness finally became apparent to all.
 
   Les nuages se dissipent et *dévoilent* un ciel étoilé.
-  Die Wolken verziehen sich und *geben* einen Sternenhimmel *frei*.
+  The clouds forge away and release a starry sky.
 
   L'artiste a *dévoilé* sa nouvelle collection hier soir.
-  Der Künstler hat gestern Abend seine neue Kollektion *enthüllt*.
+  The artist unveiled his new collection last night.
 
   Sa coiffure *dévoile* élégamment sa nuque.
-  Ihre Frisur *entblößt* elegant ihren Nacken.
+  Her hairstyle elegantly exposes her neck.
 
   Le temps *dévoilera* la vérité sur cette affaire.
-  Die Zeit wird die Wahrheit in dieser Angelegenheit ans Licht *bringen*.
+  Time will bring the truth to light in this matter.
 
   Les documents secrets ont été *dévoilés* au public.
-  Die geheimen Dokumente wurden der Öffentlichkeit *enthüllt*.
+  The secret documents were *revealed* to the public.
 
   Du sommet, la vallée se *dévoile* dans toute sa splendeur.
-  Vom Gipfel aus *offenbart* sich das Tal in seiner ganzen Pracht.
+  From the summit, the valley reveals itself in all its splendor.
 
   Le traître s'est *dévoilé* par ses actions.
-  Der Verräter hat sich durch seine Handlungen selbst *entlarvt*.
+  The traitor has exposed himself by his actions.
 
   L'entreprise va *dévoiler* son nouveau produit la semaine prochaine.
-  Das Unternehmen wird nächste Woche sein neues Produkt *enthüllen*.
+  The company will reveal its new product next week.
 
   Le complot a été *dévoilé* juste à temps.
-  Die Verschwörung wurde gerade noch rechtzeitig *aufgedeckt*.
+  The conspiracy was revealed just in time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

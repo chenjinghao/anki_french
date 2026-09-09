@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3253
 Wort: écrit
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un écrit
 Femininum / Plural: ''
 IPA: \e.kʁi\
-Definition: Schrift(-stück)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Text(s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Hélas, tous ses *écrits* sont perdus !
-  Leider sind alle seine *Schriften* verloren!
+  Unfortunately, all his writings are lost!
 
   L'*écrit* satirique qu'il a publié a fait scandale.
-  Die satirische *Schrift*, die er veröffentlicht hat, sorgte für einen Skandal.
+  The satirical writing he published caused a scandal.
 
   As-tu réussi l'*écrit* du concours ?
-  Hast du die *Klausur* des Wettbewerbs bestanden?
+  Did you pass the competition exam?
 
   Ces pages sont très mal *écrites*.
-  Diese Seiten sind sehr schlecht *geschrieben*.
+  These pages are very badly *written*.
 
   Marie a reçu un *écrit* anonyme hier soir.
-  Marie hat gestern Abend ein anonymes *Schreiben* erhalten.
+  Marie received an anonymous letter last night.
 
   Vous devez donner votre réponse par *écrit*.
-  Sie müssen Ihre Antwort *schriftlich* geben.
+  You must give your answer *in writing*.
 
   La dernière page n'est pas *écrite*.
-  Die letzte Seite ist nicht *beschrieben*.
+  The last page is not described.
 
   Les *écrits* diffamatoires sont punis par la loi.
-  Schmäh*schriften* werden vom Gesetz bestraft.
+  The law punishes you with reproach.
 
   Il faut améliorer la pratique de l'*écrit* en classe.
-  Die *schriftliche* Ausdrucksweise im Unterricht muss verbessert werden.
+  *Written* language in the classroom needs to be improved.
 
   J'ai été reçu à l'*écrit*, mais j'ai échoué à l'oral.
-  Ich habe die *schriftliche* Prüfung bestanden, bin aber in der mündlichen durchgefallen.
+  I passed the *written* exam, but failed in the oral exam.
 
   Cet *écrit* doit être signé par tous les participants.
-  Dieses *Schriftstück* muss von allen Teilnehmern unterzeichnet werden.
+  This *document* must be signed by all participants.
 
   La différence entre la langue *écrite* et parlée est importante.
-  Der Unterschied zwischen *geschriebener* und gesprochener Sprache ist wichtig.
+  The difference between *written* and spoken language is important.
 
   Ses *écrits* scientifiques sont remarquables.
-  Seine wissenschaftlichen *Schriften* sind bemerkenswert.
+  His scientific writings are remarkable.
 
   L'*écrit* commence demain à huit heures.
-  Die *Klausur* beginnt morgen um acht Uhr.
+  The exam starts tomorrow at eight o'clock.
 
   Le professeur n'accepte que les devoirs *écrits* à l'ordinateur.
-  Der Lehrer akzeptiert nur am Computer *geschriebene* Hausaufgaben.
+  The teacher only accepts homework *written* on the computer.
 
   Tous les ordres doivent être donnés par *écrit*.
-  Alle Anweisungen müssen *schriftlich* erteilt werden.
+  All instructions must be given *in writing*.
 
   Ces *écrits* témoignent de son génie littéraire.
-  Diese *Schriften* zeugen von seinem literarischen Genie.
+  These writings testify to his literary genius.
 
   L'*écrit* compte pour soixante pour cent de la note finale.
-  Die *Klausur* zählt sechzig Prozent der Endnote.
+  The exam counts sixty percent of the final grade.
 
   Les murs étaient couverts de mots *écrits* à la craie.
-  Die Wände waren mit in Kreide *geschriebenen* Wörtern bedeckt.
+  The walls were covered with words *written* in chalk.
 
   Cet *écrit* signé prouve son engagement.
-  Dieses unterzeichnete *Schriftstück* beweist seine Verpflichtung.
+  This signed *document* proves its obligation.
 
   L'avocat a présenté un nouvel *écrit* au juge.
-  Der Anwalt hat dem Richter ein neues *Schreiben* vorgelegt.
+  The lawyer has submitted a new letter to the judge.
 
   La langue *écrite* exige plus de précision.
-  Die *geschriebene* Sprache erfordert mehr Präzision.
+  The *written* language requires more precision.
 
   Ces *écrits* philosophiques datent du XVIII<sup>e</sup> siècle.
-  Diese philosophischen *Schriften* stammen aus dem 18. Jahrhundert.
+  These philosophical writings date back to the 18th century.
 
   Je dois réviser pour l'*écrit* de français.
-  Ich muss für die *Klausur* in Französisch lernen.
+  I have to study in French for the exam.
 
   Son *écrit* anonyme a créé beaucoup de confusion.
-  Sein anonymes *Schreiben* hat viel Verwirrung gestiftet.
+  His anonymous *writing* has caused a lot of confusion.
 
   Les archives contiennent tous ses *écrits*.
-  Die Archive enthalten alle seine *Schriften*.
+  The archives contain all his writings.
 
   Cette déclaration doit être faite par *écrit*.
-  Diese Erklärung muss *schriftlich* erfolgen.
+  This declaration must be made *in writing*.
 
   Les pages *écrites* à la main sont difficiles à lire.
-  Die hand*geschriebenen* Seiten sind schwer zu lesen.
+  The handwritten pages are hard to read.
 
   L'*écrit* et l'oral se complètent dans l'apprentissage.
-  Das *Schriftliche* und das Mündliche ergänzen sich beim Lernen.
+  The *written* and oral complement each other in learning.
 
   Ses premiers *écrits* montrent déjà son talent.
-  Seine ersten *Schriften* zeigen bereits sein Talent.
+  His first writings already show his talent.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

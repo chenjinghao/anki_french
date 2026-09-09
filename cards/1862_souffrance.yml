@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1862
 Wort: souffrance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la souffrance
 Femininum / Plural: ''
 IPA: \su.fʁɑ̃s\
-Definition: Leid; unerledigt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Suffering; undone
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je connais les *souffrances* du monde.
-  Ich kenne das *Leid* der Welt.
+  I know the *suffering* of the world.
 
   Les *souffrances* de l'accouchement ont duré plusieurs heures.
-  Die *Schmerzen* der Geburt dauerten mehrere Stunden.
+  The *pain* of the birth lasted several hours.
 
   La *souffrance* animale est un sujet qui me tient à cœur.
-  Das *Leiden* der Tiere ist mir ein wichtiges Anliegen.
+  The *suffering* of animals is an important concern to me.
 
   Il y a beaucoup d'adolescents en *souffrance* dans les grandes villes.
-  In den Großstädten gibt es viele Jugendliche, die *leiden*.
+  In the big cities there are many young people who *suffer*.
 
   Cette facture est en *souffrance* depuis trois mois.
-  Diese Rechnung ist seit drei Monaten *ausstehend*.
+  This bill has been pending for three months.
 
   La *souffrance* physique était insupportable après l'accident.
-  Der körperliche *Schmerz* war nach dem Unfall unerträglich.
+  The physical *pain* was unbearable after the accident.
 
   Les médecins ont détecté une *souffrance* fœtale pendant l'accouchement.
-  Die Ärzte haben während der Geburt eine fetale *Notsituation* festgestellt.
+  The doctors have found a fetal emergency during the birth.
 
   La *souffrance* au travail devient un problème majeur dans notre société.
-  Das *Leiden* am Arbeitsplatz wird zu einem großen Problem in unserer Gesellschaft.
+  Occupational *suffering* is becoming a major problem in our society.
 
   Ce colis est en *souffrance* à la poste depuis une semaine.
-  Dieses Paket ist seit einer Woche bei der Post *liegengeblieben*.
+  This package has been left at the post office for a week.
 
   Les *souffrances* du patient ont été apaisées par la morphine.
-  Die *Schmerzen* des Patienten wurden durch das Morphium gelindert.
+  The patient's *pain* was alleviated by the morphine.
 
   Notre dossier est resté en *souffrance* pendant des mois.
-  Unsere Akte blieb monatelang *unerledigt*.
+  Our file remained *unfinished* for months.
 
   Il transforme sa *souffrance* en art.
-  Er verwandelt seinen *Schmerz* in Kunst.
+  He turns his *pain* into art.
 
   Les *souffrances* psychologiques peuvent être aussi intenses que les douleurs physiques.
-  Seelische *Qualen* können genauso intensiv sein wie körperliche Schmerzen.
+  Mental *pain* can be as intense as physical pain.
 
   Ces marchandises en *souffrance* seront bientôt mises aux enchères.
-  Diese *nicht abgeholten* Waren werden bald versteigert.
+  These *unpicked* goods will soon be auctioned.
 
   La méditation peut aider à gérer la *souffrance* chronique.
-  Meditation kann helfen, chronische *Schmerzen* zu bewältigen.
+  Meditation can help cope with chronic *pain*.
 
   As-tu lu "Les *Souffrances* du jeune Werther" de Goethe ?
-  Hast du Goethes "Die *Leiden* des jungen Werther" gelesen?
+  Have you read Goethe's "The Sorrows of the Young Werther"?
 
   Cette fenêtre est un jour de *souffrance* selon la loi.
-  Dieses Fenster ist laut Gesetz ein *geduldetes* Lichtfenster.
+  This window is a *tolerated* window according to the law.
 
   La *souffrance* du cœur est plus difficile à guérir que celle du corps.
-  Der *Schmerz* des Herzens ist schwerer zu heilen als der des Körpers.
+  The *pain* of the heart is harder to heal than that of the body.
 
   Tous les paiements en *souffrance* doivent être réglés avant la fin du mois.
-  Alle *ausstehenden* Zahlungen müssen vor Monatsende beglichen werden.
+  All *outstanding* payments must be paid before the end of the month.
 
   Elle a enduré d'atroces *souffrances* avant de mourir.
-  Sie hat vor ihrem Tod schreckliche *Qualen* erlitten.
+  She suffered terrible torment before she died.
 
   Les exercices de respiration peuvent soulager la *souffrance*.
-  Atemübungen können das *Leiden* lindern.
+  Breathing exercises can relieve *suffering*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

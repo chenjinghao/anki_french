@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4663
 Wort: obséder
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: obséder
 Femininum / Plural: ''
 IPA: \ɔp.se.de\
-Definition: besessen [sein], verfolgen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: obsessive, persecuting
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne suis pas *obsédée* du tout par la réussite.
-  Ich bin überhaupt nicht vom Erfolg *besessen*.
+  I'm not *obsessed* with success at all.
 
   Cette pensée m'a *obsédé* pendant des années.
-  Dieser Gedanke hat mich jahrelang *verfolgt*.
+  That thought has haunted me for years.
 
   Elle est *obsédée* par la peur de tomber malade.
-  Sie wird von der Angst *heimgesucht*, krank zu werden.
+  She's haunted by the fear of getting sick.
 
   L'idée de partir à l'étranger m'*obsède* depuis longtemps.
-  Die Idee, ins Ausland zu gehen, *lässt* mir seit langem keine *Ruhe*.
+  The idea of going abroad hasn't left me alone in a long time.
 
   Paul est complètement *obsédé* par l'argent.
-  Paul hat nur das Geld *im Kopf*.
+  Paul has only the money in his head.
 
   Le souvenir de cette nuit l'*obsédait* encore.
-  Die Erinnerung an diese Nacht *verfolgte* ihn noch immer.
+  *The* memory of that night still haunted him.
 
   Ses appels constants finissent par m'*obséder*.
-  Seine ständigen Anrufe *nerven* mich allmählich.
+  His constant calls are starting to bother me.
 
   La crainte d'être en retard l'*obsède* tous les matins.
-  Die Angst zu spät zu kommen *beherrscht* sie jeden Morgen.
+  The fear of being late dominates her every morning.
 
   Le remords l'*obsédait* jour et nuit.
-  Die Reue *ließ* ihm Tag und Nacht keine *Ruhe*.
+  Repentance did not leave him rest day and night.
 
   Cette mélodie m'*obsède* depuis ce matin.
-  Diese Melodie *geht* mir seit heute Morgen nicht mehr aus dem *Kopf*.
+  This melody hasn't gotten out of my mind since this morning.
 
   Les questions sur son avenir l'*obsèdent* constamment.
-  Die Fragen über seine Zukunft *verfolgen* ihn ständig.
+  The questions about his future keep following him.
 
   Marie est *obsédée* par l'idée de la perfection.
-  Marie ist von der Idee der Perfektion *besessen*.
+  Marie is *obsessed* with the idea of perfection.
 
   Son nouveau projet l'*obsède* complètement.
-  Sein neues Projekt *beherrscht* ihn völlig.
+  His new project completely dominates him.
 
   Cette énigme *obsède* les chercheurs depuis des décennies.
-  Dieses Rätsel *beschäftigt* die Forscher seit Jahrzehnten.
+  The researchers have been concerned with this mystery for decades.
 
   Le désir de vengeance l'*obsédait* jour après jour.
-  Der Wunsch nach Rache *verfolgte* ihn Tag für Tag.
+  *The* desire for revenge haunted him day after day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

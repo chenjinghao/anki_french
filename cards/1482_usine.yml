@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1482
 Wort: usine
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une usine
 Femininum / Plural: ''
 IPA: \y.zin\
-Definition: Fabrik
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Factory
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je rouvre une *usine* aux États-Unis.
-  Ich eröffne eine *Fabrik* in den USA wieder.
+  I'm reopening a *factory* in the U.S.
 
   L'*usine* textile emploie plus de mille personnes.
-  Die Textil*fabrik* beschäftigt über tausend Personen.
+  The textile *factory* employs over a thousand people.
 
   Mon grand-père a travaillé toute sa vie à l'*usine* sidérurgique.
-  Mein Großvater hat sein ganzes Leben im Eisen*werk* gearbeitet.
+  My grandfather worked at the ironworks all his life.
 
   Les ingénieurs testent le nouveau procédé dans l'*usine* pilote.
-  Die Ingenieure testen das neue Verfahren in der Pilot*anlage*.
+  The engineers are testing the new procedure in the pilot plant.
 
   Ils vont construire une *usine* de construction aéronautique près de l'aéroport.
-  Sie werden eine Flugzeug*fabrik* in der Nähe des Flughafens bauen.
+  They're gonna build an airplane *factory* near the airport.
 
   Le directeur de l'*usine* a annoncé des changements importants.
-  Der *Fabriks*direktor hat wichtige Änderungen angekündigt.
+  The *factory* manager has announced important changes.
 
   Les ouvriers se rassemblent devant la porte de l'*usine*.
-  Die Arbeiter versammeln sich vor dem *Werks*tor.
+  The workers gather in front of the factory gate.
 
   La garderie de l'*usine* accueille les enfants des employés.
-  Der *werkeigene* Kinderhort nimmt die Kinder der Mitarbeiter auf.
+  The factory-owned children's shelter receives the children of the employees.
 
   Marie commence son travail à l'*usine* la semaine prochaine.
-  Marie fängt nächste Woche in der *Fabrik* an.
+  Marie starts next week at the *factory*.
 
   L'*usine* ferme ses portes après cinquante ans d'activité.
-  Die *Fabrik* schließt nach fünfzig Jahren ihre Tore.
+  The *factory* closes its doors after fifty years.
 
   Les conditions de travail dans cette *usine* se sont beaucoup améliorées.
-  Die Arbeitsbedingungen in dieser *Fabrik* haben sich stark verbessert.
+  The working conditions in this *factory* have improved considerably.
 
   "Cette administration, c'est une vraie *usine à gaz* !"
-  "Diese Verwaltung ist ein echter *Wasserkopf*!"
+  "This administration is a real *waterhead*!"
 
   Il y a un magasin d'*usine* qui vend des vêtements à prix réduits.
-  Es gibt einen *Fabrik*verkauf, der Kleidung zu reduzierten Preisen verkauft.
+  There is a *factory* sale selling clothes at reduced prices.
 
   Les syndicats de l'*usine* ont appelé à la grève.
-  Die Gewerkschaften der *Fabrik* haben zum Streik aufgerufen.
+  The *factory*'s unions have called for a strike.
 
   L'*usine* tourne maintenant 24 heures sur 24.
-  Die *Fabrik* läuft jetzt rund um die Uhr.
+  The *factory* is now running 24 hours a day.
 
   "Ce restaurant est devenu une vraie *usine* !"
-  "Dieses Restaurant ist zu einer richtigen Massen*fabrik* geworden!"
+  "This restaurant has become a real mass *factory*!"
 
   L'ancien ouvrier d'*usine* est maintenant à la retraite.
-  Der ehemalige *Fabriks*arbeiter ist jetzt in Rente.
+  The former *factory* worker is now retired.
 
   Une nouvelle *usine* de recyclage ouvrira ses portes l'année prochaine.
-  Eine neue Recycling*fabrik* wird nächstes Jahr eröffnet.
+  A new recycling plant will be opened next year.
 
   L'*usine* rejette ses eaux usées dans la rivière.
-  Die *Fabrik* leitet ihr Abwasser in den Fluss.
+  The *factory*'s running its sewage into the river.
 
   Les robots ont remplacé de nombreux ouvriers dans l'*usine*.
-  Die Roboter haben viele Arbeiter in der *Fabrik* ersetzt.
+  The robots have replaced many workers in the *factory*.
 
   "Son cabinet médical est devenu une véritable *usine* !"
-  "Seine Arztpraxis ist zu einer regelrechten Patienten*fabrik* geworden!"
+  "His doctor's office has become a real patient *factory*!"
 
   La modernisation de l'*usine* a coûté des millions.
-  Die Modernisierung der *Fabrik* hat Millionen gekostet.
+  The modernization of the *factory* has cost millions.
 
   Les visiteurs peuvent faire une visite guidée de l'*usine*.
-  Die Besucher können eine Führung durch die *Fabrik* machen.
+  Visitors can take a guided tour of the *factory*.
 
   L'odeur de l'*usine* chimique se répand dans toute la ville.
-  Der Geruch der Chemie*fabrik* breitet sich in der ganzen Stadt aus.
+  The smell of the chemical *factory* spreads all over the city.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

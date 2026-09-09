@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2093
 Wort: bâtir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: bâtir
 Femininum / Plural: ''
 IPA: \bɑ.tiʁ\
-Definition: bauen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Building
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous pouvons continuer à *bâtir* une nation basée sur la tolérance.
-  Wir können weiterhin eine Nation *aufbauen*, die auf Toleranz basiert.
+  We can continue to *build* a nation based on tolerance.
 
   Les ouvriers ont *bâti* cette maison en six mois.
-  Die Arbeiter haben dieses Haus in sechs Monaten *gebaut*.
+  The workers *built* this house in six months.
 
   Les castors *bâtissent* des barrages impressionnants sur la rivière.
-  Die Biber *bauen* beeindruckende Dämme auf dem Fluss.
+  The beavers build impressive dams on the river.
 
   Il s'est *bâti* une réputation solide grâce à son travail acharné.
-  Er hat sich durch seine harte Arbeit einen soliden Ruf *aufgebaut*.
+  He has built a solid reputation through his hard work.
 
   Le village était *bâti* sur une colline surplombant la mer.
-  Das Dorf war auf einem Hügel mit Blick aufs Meer *gebaut*.
+  The village was *built* on a hill overlooking the sea.
 
   L'hirondelle *bâtit* son nid sous notre toit.
-  Die Schwalbe *baut* ihr Nest unter unserem Dach.
+  The swallow builds its nest under our roof.
 
   La couturière *bâtit* rapidement la robe avant les dernières retouches.
-  Die Schneiderin *heftete* das Kleid schnell vor den letzten Änderungen.
+  The dress was fast *fixed* before the last changes.
 
   L'architecte a *bâti* tout un quartier moderne.
-  Der Architekt hat ein ganzes modernes Viertel *gebaut*.
+  The architect has *built* an entire modern quarter.
 
   Ne *bâtis* pas tes espoirs sur des promesses vagues.
-  *Baue* deine Hoffnungen nicht auf vage Versprechen.
+  Don't build your hopes on vague promises.
 
   Les enfants *bâtissent* des châteaux de sable sur la plage.
-  Die Kinder *bauen* Sandburgen am Strand.
+  The children build sand castles on the beach.
 
   Il cherche un terrain à *bâtir* près du centre-ville.
-  Er sucht ein *Bau*grundstück in der Nähe des Stadtzentrums.
+  He's looking for a building plot near the city center.
 
   Ce quartier s'est *bâti* en moins de cinq ans.
-  Dieses Viertel wurde in weniger als fünf Jahren *gebaut*.
+  This quarter was *built* in less than five years.
 
   L'écrivain a *bâti* son roman sur des faits réels.
-  Der Schriftsteller hat seinen Roman auf wahren Begebenheiten *aufgebaut*.
+  The writer built his novel on true events.
 
   Il a *bâti* sa fortune sur des investissements immobiliers.
-  Er hat sein Vermögen auf Immobilieninvestitionen *aufgebaut*.
+  He built his fortune on real estate investment.
 
   Les Romains ont *bâti* des ponts qui durent encore aujourd'hui.
-  Die Römer haben Brücken *gebaut*, die noch heute bestehen.
+  The Romans have *built* bridges that still exist today.
 
   Elle *bâtit* sa théorie sur des recherches approfondies.
-  Sie *stützt* ihre Theorie auf gründliche Forschung.
+  She bases her theory on thorough research.
 
   Le village était *bâti* sur pilotis au bord du lac.
-  Das Dorf war auf Pfählen am See *gebaut*.
+  The village was *built* on stakes at the lake.
 
   Cette entreprise s'est *bâtie* sur des valeurs familiales.
-  Dieses Unternehmen wurde auf Familienwerten *aufgebaut*.
+  This company was built on family values.
 
   Les termites *bâtissent* des structures complexes.
-  Die Termiten *bauen* komplexe Strukturen.
+  The termites build complex structures.
 
   La couturière doit *bâtir* le col avant de le coudre.
-  Die Schneiderin muss den Kragen *heften*, bevor sie ihn näht.
+  The tailor has to tie the collar before she sews it.
 
   Il *bâtit* sa plaidoirie sur des preuves solides.
-  Er *baut* sein Plädoyer auf handfesten Beweisen *auf*.
+  He builds his plea *on* solid evidence.
 
   Nous devons *bâtir* des ponts entre les communautés.
-  Wir müssen Brücken zwischen den Gemeinschaften *bauen*.
+  We need to build bridges between communities.
 
   L'avocat a *bâti* toute son argumentation sur ce témoignage.
-  Der Anwalt hat seine gesamte Argumentation auf dieser Aussage *aufgebaut*.
+  The lawyer built his whole argument on this statement.
 
   Les pionniers ont *bâti* leurs cabanes avec les matériaux locaux.
-  Die Pioniere haben ihre Hütten aus lokalen Materialien *gebaut*.
+  The pioneers *built* their huts from local materials.
 
   Le maire veut *bâtir* une nouvelle école dans ce quartier.
-  Der Bürgermeister will eine neue Schule in diesem Viertel *bauen*.
+  The mayor wants to build a new school in this neighborhood.
 
   Elle a *bâti* sa carrière pas à pas.
-  Sie hat ihre Karriere Schritt für Schritt *aufgebaut*.
+  She's built her career step by step.
 
   Le compositeur a *bâti* sa symphonie sur un thème simple.
-  Der Komponist hat seine Symphonie auf einem einfachen Thema *aufgebaut*.
+  The composer built his symphony on a simple theme.
 
   Cette civilisation a *bâti* des monuments impressionnants.
-  Diese Zivilisation hat beeindruckende Monumente *errichtet*.
+  This civilization has built impressive monuments.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4145
 Wort: incidence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une incidence
 Femininum / Plural: ''
 IPA: \ɛ̃.si.dɑ̃s\
-Definition: Auswirkung, Einfluss
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Effect, influence
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les catastrophes ont des *incidences* économiques importantes.
-  Katastrophen haben wichtige wirtschaftliche *Auswirkungen*.
+  Disasters have important economic implications.
 
   La réforme n'aura aucune *incidence* sur le budget de l'année prochaine.
-  Die Reform wird keine *Auswirkungen* auf das Budget des nächsten Jahres haben.
+  The reform will have no *impact* on the budget for next year.
 
   L'*incidence* du changement climatique sur la biodiversité est alarmante.
-  Die *Auswirkung* des Klimawandels auf die Biodiversität ist alarmierend.
+  The impact of climate change on biodiversity is alarming.
 
   Cette solution n'aura pas d'*incidence* sur les coûts de production.
-  Diese Lösung wird kosten*neutral* für die Produktion sein.
+  This solution will be cost-*neutral* for production.
 
   Les médecins surveillent l'*incidence* des cas de grippe pendant l'hiver.
-  Die Ärzte überwachen die *Häufigkeit* der Grippefälle während des Winters.
+  Doctors monitor the incidence of flu cases during the winter.
 
   L'*incidence* du rayon lumineux sur la surface crée un angle de 45 degrés.
-  Der *Einfall* des Lichtstrahls auf die Oberfläche erzeugt einen 45-Grad-Winkel.
+  The incident of the light beam onto the surface creates a 45 degree angle.
 
   Le point d'*incidence* du laser est marqué par un point rouge.
-  Der *Auftreff*punkt des Lasers ist durch einen roten Punkt markiert.
+  The point of impact of the laser is marked by a red dot.
 
   Cette hausse des prix aura une *incidence* directe sur le pouvoir d'achat.
-  Diese Preiserhöhung wird eine direkte *Auswirkung* auf die Kaufkraft haben.
+  This price increase will have a direct impact on purchasing power.
 
   L'*incidence* des maladies cardiaques augmente avec l'âge.
-  Die *Häufigkeit* von Herzkrankheiten steigt mit dem Alter.
+  The incidence of heart disease increases with age.
 
   Les chercheurs étudient l'*incidence* du stress sur la santé mentale.
-  Die Forscher untersuchen die *Auswirkungen* von Stress auf die psychische Gesundheit.
+  The researchers investigate the effects of stress on mental health.
 
   Cette décision n'aura aucune *incidence* sur votre contrat actuel.
-  Diese Entscheidung wird keine *Auswirkungen* auf Ihren aktuellen Vertrag haben.
+  This decision will have no effect on your current contract.
 
   L'angle d'*incidence* est égal à l'angle de réflexion dans ce cas.
-  Der *Einfalls*winkel ist in diesem Fall gleich dem Reflexionswinkel.
+  In this case, the angle of *incidence* is equal to the angle of reflection.
 
   L'*incidence* du tabagisme sur la santé publique reste préoccupante.
-  Die *Auswirkung* des Rauchens auf die öffentliche Gesundheit bleibt besorgniserregend.
+  The impact of smoking on public health remains worrying.
 
   Cette mesure aura une *incidence* positive sur l'environnement.
-  Diese Maßnahme wird eine positive *Auswirkung* auf die Umwelt haben.
+  This measure will have a positive impact on the environment.
 
   Les experts analysent l'*incidence* fiscale de la nouvelle loi.
-  Die Experten analysieren die steuerlichen *Auswirkungen* des neuen Gesetzes.
+  The experts analyse the tax implications of the new law.
 
   L'*incidence* des nouvelles technologies sur notre vie quotidienne est considérable.
-  Die *Auswirkung* der neuen Technologien auf unser tägliches Leben ist beträchtlich.
+  The impact of new technologies on our daily lives is considerable.
 
   Le taux d'*incidence* de la maladie a diminué grâce à la vaccination.
-  Die *Häufigkeit* der Krankheit ist dank der Impfung zurückgegangen.
+  The *frequency* of the disease has decreased thanks to vaccination.
 
   Cette modification n'a aucune *incidence* sur le fonctionnement du système.
-  Diese Änderung hat keine *Auswirkungen* auf die Funktionsweise des Systems.
+  This change has no effect on the functioning of the system.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

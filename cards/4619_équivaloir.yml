@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4619
 Wort: équivaloir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: équivaloir
 Femininum / Plural: ''
 IPA: \e.ki.va.lwaʁ\
-Definition: entsprechen, gleichkommen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: equal, equal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela *équivaut* à une taxe sur les malades.
-  Das *kommt* einer Steuer auf Kranke *gleich*.
+  It's like a tax on the sick.
 
   Un kilogramme d'or *équivaut* à peu près à cinquante mille euros.
-  Ein Kilogramm Gold *entspricht* ungefähr fünfzigtausend Euro.
+  One kilogram of gold equals about fifty thousand euros.
 
   Cette somme *équivalait* à trois mois de salaire en 1950.
-  Diese Summe *entsprach* 1950 drei Monatsgehältern.
+  This sum was equal to three monthly salaries in 1950.
 
   Son silence *équivaut* à un aveu de culpabilité.
-  Sein Schweigen *kommt* einem Schuldeingeständnis *gleich*.
+  His silence is like a confession of guilt.
 
   Les deux formations universitaires s'*équivalent*.
-  Die beiden Universitätsabschlüsse sind *gleichwertig*.
+  The two university degrees are *equivalent*.
 
   En calories, ce dessert *équivaut* à un repas complet.
-  Von den Kalorien her *entspricht* dieser Nachtisch einer vollständigen Mahlzeit.
+  From calories, this dessert corresponds to a full meal.
 
   Une note de 15/20 *équivaut* à la mention "Bien".
-  Eine Note von 15/20 *entspricht* der Note "Gut".
+  A note of 15/20 corresponds to the note "Good".
 
   Les candidats s'*équivalaient* en termes de compétences.
-  Die Kandidaten waren von ihren Kompetenzen her *gleichwertig*.
+  The candidates were *equivalent* in their competences.
 
   Sa réponse évasive *équivaut* à un non catégorique.
-  Seine ausweichende Antwort *kommt* einem klaren Nein *gleich*.
+  His evasive answer is like a clear no.
 
   Les deux propositions s'*équivalent* sur le plan financier.
-  Die beiden Angebote sind finanziell *gleichwertig*.
+  The two offers are financially *equivalent*.
 
   Cette distance *équivaut* à trois fois le tour de la Terre.
-  Diese Entfernung *entspricht* dem dreifachen Erdumfang.
+  This distance corresponds to the threefold Earth circumference.
 
   Son comportement *équivaut* à de la provocation.
-  Sein Verhalten *läuft* auf eine Provokation *hinaus*.
+  His behavior is a provocation.
 
   Les deux méthodes s'*équivalent* en termes d'efficacité.
-  Die beiden Methoden sind von der Wirksamkeit her *gleichwertig*.
+  The two methods are *equivalent* in effectiveness.
 
   Cette décision *équivaut* à abandonner le projet.
-  Diese Entscheidung *kommt* einer Aufgabe des Projekts *gleich*.
+  This decision is equivalent to a task of the project.
 
   En valeur nutritive, ce yaourt *équivaut* à un verre de lait.
-  Vom Nährwert her *entspricht* dieser Joghurt einem Glas Milch.
+  The nutritional value of this yoghurt corresponds to a glass of milk.
 
   Une heure de sport intense *équivaut* à deux heures de marche.
-  Eine Stunde intensiver Sport *entspricht* zwei Stunden Gehen.
+  One hour of intensive sports is equivalent to two hours of walking.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

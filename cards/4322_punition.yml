@@ -1,104 +1,104 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4322
 Wort: punition
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la punition
 Femininum / Plural: ''
 IPA: \py.ni.sjɔ̃\
-Definition: Strafe, Bestrafung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Punishment, Punishment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La mort ne doit pas être une *punition*.
-  Der Tod darf keine *Strafe* sein.
+  Death must not be a punishment.
 
   La *punition* corporelle est interdite dans nos écoles.
-  Die Prügel*strafe* ist in unseren Schulen verboten.
+  The beating is forbidden in our schools.
 
   Les enfants ont reçu une *punition* collective pour leur mauvais comportement.
-  Die Kinder haben eine kollektive *Strafe* für ihr schlechtes Benehmen bekommen.
+  The children have received a collective punishment for their bad behavior.
 
   Le professeur a donné une *punition* à Marie : elle doit copier cent fois la règle de grammaire.
-  Der Lehrer hat Marie eine *Strafarbeit* aufgegeben: Sie muss die Grammatikregel hundertmal abschreiben.
+  The teacher has given Marie up a fine: she has to write off the grammar rule a hundred times.
 
   En *punition* de son mensonge, il ne pourra pas regarder la télévision ce soir.
-  Als *Strafe* für seine Lüge darf er heute Abend nicht fernsehen.
+  He can't watch TV tonight as a punishment for his lie.
 
   C'est la juste *punition* de son arrogance.
-  Das ist die gerechte *Strafe* für seine Arroganz.
+  That is the just punishment for his arrogance.
 
   La *punition* des crimes graves relève de la justice.
-  Die *Bestrafung* schwerer Verbrechen ist Sache der Justiz.
+  The *punishment* of serious crimes is a matter for the judiciary.
 
   "Cette *punition* est trop sévère pour une si petite erreur !"
-  "Diese *Strafe* ist viel zu hart für so einen kleinen Fehler!"
+  "This punishment is far too hard for such a small mistake!"
 
   L'arbitre a sifflé une *punition* pour le joueur qui a fait une faute.
-  Der Schiedsrichter hat eine *Strafe* für den Spieler gepfiffen, der gefoult hat.
+  The referee has whistled a *penalty* for the player who has played.
 
   Cette solitude est sa *punition* pour avoir trahi ses amis.
-  Diese Einsamkeit ist seine *Strafe* dafür, dass er seine Freunde verraten hat.
+  This loneliness is his punishment for betraying his friends.
 
   Les *punitions* à l'école doivent être éducatives, pas humiliantes.
-  *Strafen* in der Schule sollen erzieherisch wirken, nicht erniedrigend.
+  Punishment at school should be educational, not humiliating.
 
   Elle est en *punition* dans sa chambre jusqu'au dîner.
-  Sie hat *Stubenarrest* bis zum Abendessen.
+  She's under *house arrest* until dinner.
 
   Le champion a infligé une sévère *punition* à son adversaire pendant le match.
-  Der Champion hat seinem Gegner während des Kampfes eine heftige *Abreibung* verpasst.
+  The champion has given his opponent a heavy rub during the fight.
 
   La *punition* doit être proportionnelle à la faute commise.
-  Die *Strafe* muss dem begangenen Fehler angemessen sein.
+  The *penalty* must be proportionate to the error committed.
 
   Les parents discutent de la *punition* appropriée pour leur fils.
-  Die Eltern diskutieren über die angemessene *Strafe* für ihren Sohn.
+  The parents discuss the appropriate punishment for their son.
 
   Il a accepté sa *punition* sans se plaindre.
-  Er hat seine *Strafe* ohne Klagen akzeptiert.
+  He accepted his sentence without complaint.
 
   Le professeur donnera une *punition* exemplaire au prochain élève qui triche.
-  Der Lehrer wird dem nächsten Schüler, der schummelt, eine beispielhafte *Strafe* erteilen.
+  The teacher will give an exemplary punishment to the next student who cheats.
 
   La *punition* divine était un thème récurrent dans ses sermons.
-  Die göttliche *Strafe* war ein wiederkehrendes Thema in seinen Predigten.
+  The divine punishment was a recurring theme in his sermons.
 
   Les *punitions* injustes créent de la rancœur chez les enfants.
-  Ungerechte *Strafen* erzeugen Groll bei Kindern.
+  Unrighteous punishments create resentment in children.
 
   Même motif, même *punition* : tous les élèves en retard devront rester après les cours.
-  Gleiches Vergehen, gleiche *Strafe*: Alle zu spät gekommenen Schüler müssen nachsitzen.
+  Same offense, same punishment: all late students must be held.
 
   J'ai dû faire ma *punition* pendant la récréation.
-  Ich musste meine *Strafarbeit* in der Pause machen.
+  I had to do my punitive work during the break.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>sanction</i> und <i>punition</i></div>
+    <div class="section-title"><i>sanction</i> and <i>punition</i></div>
     <div class="section-content">
-      <p><span class="fr">Sanction</span> (#2282) bedeutet <span class="de">"Sanktion"</span> oder <span class="de">"Maßnahme"</span> und wird in formellen oder offiziellen Kontexten verwendet. Es bezeichnet eine Konsequenz, die von einer Autorität verhängt wird.</p>
+      <p><span class="fr">Sanction</span> (#2282) means <span class="de">"Sanktion"</span> or <span class="de">Action</span> and is used in formal or official contexts. It denotes a consequence imposed by an authority.</p>
       <div class="examples">
         <div class="fr">Le conseil de discipline a pris des sanctions contre l'étudiant.</div>
-        <div class="de spoiler">Der Disziplinarrat hat Sanktionen gegen den Studenten verhängt.</div>
+        <div class="de spoiler">The Disciplinary Council has imposed sanctions on the student.</div>
         <div class="fr">Les sanctions économiques ont été levées.</div>
-        <div class="de spoiler">Die Wirtschaftssanktionen wurden aufgehoben.</div>
+        <div class="de spoiler">Economic sanctions have been lifted.</div>
       </div>
-      <p><span class="fr">Punition</span> bedeutet <span class="de">"Strafe"</span> oder <span class="de">"Bestrafung"</span> und wird häufiger in alltäglichen oder persönlichen Kontexten verwendet, besonders bei der Erziehung von Kindern.</p>
+      <p><span class="fr">Punition</span> means <span class="de">"Strafe"</span> or <span class="de">"Bestrafung"</span> and is used more frequently in everyday or personal contexts, especially in raising children.</p>
       <div class="examples">
         <div class="fr">Sa punition était de ranger sa chambre.</div>
-        <div class="de spoiler">Seine Strafe war, sein Zimmer aufzuräumen.</div>
+        <div class="de spoiler">His punishment was to clean up his room.</div>
         <div class="fr">L'enfant a reçu une punition pour avoir menti.</div>
-        <div class="de spoiler">Das Kind erhielt eine Strafe, weil es gelogen hatte.</div>
+        <div class="de spoiler">The child was punished for lying.</div>
       </div>
-      <p><span class="fr">Sanction</span> wird eher in institutionellen oder rechtlichen Zusammenhängen verwendet, während <span class="fr">punition</span> persönlicher und weniger formell ist.</p>
+      <p><span class="fr">Sanction</span> is used more in institutional or legal contexts, while <span class="fr">punition</span> is more personal and less formal.</p>
     </div>
   </div>

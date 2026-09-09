@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 275
 Wort: quant
 Wortart: prep
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quant
 Femininum / Plural: ''
 IPA: \kɑ̃t\
-Definition: in Bezug auf, was ... betrifft
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: with regard to ...
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les vents tempétueux ont modifié la situation *quant* aux avalanches.
-  Die stürmischen Winde haben die Situation *bezüglich* der Lawinen verändert.
+  The stormy winds have changed the situation regarding avalanches.
 
   *Quant à* moi, je préfère rester à la maison ce soir.
-  *Was mich betrifft*, bleibe ich heute Abend lieber zu Hause.
+  *As far as I'm concerned*, I'd rather stay home tonight.
 
   Le professeur est optimiste *quant* aux progrès de ses élèves.
-  Der Lehrer ist *hinsichtlich* der Fortschritte seiner Schüler optimistisch.
+  The teacher is optimistic about the progress of his students.
 
   *Quant à* Pierre, il arrivera plus tard dans la soirée.
-  *Was* Pierre *angeht*, er kommt später am Abend.
+  As far as Pierre is concerned, he'll be here later in *the* evening.
 
   Les experts restent prudents *quant* à l'évolution des prix.
-  Die Experten bleiben *bezüglich* der Preisentwicklung vorsichtig.
+  The experts remain cautious about price developments.
 
   *Quant à* partir en vacances cet été, nous n'avons pas encore décidé.
-  *Was* den Sommerurlaub *betrifft*, haben wir noch keine Entscheidung getroffen.
+  As far as summer holidays are concerned, we have not yet made a decision.
 
   Marie hésite encore *quant* au choix de ses études.
-  Marie ist sich *hinsichtlich* ihrer Studienwahl noch unsicher.
+  Marie is still uncertain about her choice of studies.
 
   *Quant au* restaurant, j'ai déjà réservé une table.
-  *Was* das Restaurant *angeht*, habe ich bereits einen Tisch reserviert.
+  As far as *the* restaurant is concerned, I've already reserved a table.
 
   Les médecins sont inquiets *quant* à la propagation du virus.
-  Die Ärzte sind *bezüglich* der Virusausbreitung besorgt.
+  The doctors are concerned about the spread of the virus.
 
   *Quant à* prendre le train ou la voiture, je préfère le train.
-  *Was* die Wahl zwischen Zug und Auto *betrifft*, bevorzuge ich den Zug.
+  As far as the choice between train and car is concerned, I prefer the train.
 
   *Quant aux* détails du projet, nous en discuterons demain.
-  *Was* die Projektdetails *angeht*, werden wir morgen darüber sprechen.
+  As far as *the* project details are concerned, we'll talk about this tomorrow.
 
   Les chercheurs sont divisés *quant* aux résultats de l'étude.
-  Die Forscher sind *hinsichtlich* der Studienergebnisse geteilter Meinung.
+  The researchers share their views on the results of the studies.
 
   *Quant à* lui, il préfère travailler seul.
-  *Was ihn betrifft*, arbeitet er lieber alleine.
+  As for him, he prefers to work alone.
 
   Les parents sont optimistes *quant* à l'adaptation de leur enfant à l'école.
-  Die Eltern sind *bezüglich* der Eingewöhnung ihres Kindes in der Schule optimistisch.
+  Parents are optimistic about their child's acclimatization at school.
 
   *Quant à* déménager dans une autre ville, elle y réfléchit encore.
-  *Was* den Umzug in eine andere Stadt *betrifft*, denkt sie noch darüber nach.
+  As for moving to another city, she's still thinking about it.
 
   *Quant aux* vacances d'hiver, nous irons probablement au ski.
-  *Was* die Winterferien *angeht*, werden wir wahrscheinlich Ski fahren gehen.
+  As far as winter holidays are concerned, we're probably going skiing.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

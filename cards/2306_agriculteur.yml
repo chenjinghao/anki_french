@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2306
 Wort: agriculteur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un agriculteur
 Femininum / Plural: agricultrice
 IPA: \a.ɡʁi.kyl.tœʁ\
-Definition: Landwirt
-Register: ↘Fiktion ↗Mündlich
+Definition: Farmer
+Register: ↘fiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai moi-même été *agriculteur*.
-  Ich selbst war *Landwirt*.
+  I myself was a *farmer*.
 
   Les *agricultrices* luttent pour la reconnaissance de leur travail.
-  Die *Bäuerinnen* kämpfen um die Anerkennung ihrer Arbeit.
+  The farmers are fighting for the recognition of their work.
 
   Mon père était un *agriculteur* passionné par son métier.
-  Mein Vater war ein von seinem Beruf begeisterter *Landwirt*.
+  My father was an enthusiastic *farmer*.
 
   Les *agriculteurs* ont manifesté contre la baisse des prix du lait.
-  Die *Bauern* haben gegen den Rückgang der Milchpreise demonstriert.
+  The *farmers* have demonstrated against the decline in milk prices.
 
   Elle rêve de devenir *agricultrice* bio depuis son enfance.
-  Sie träumt seit ihrer Kindheit davon, Bio*landwirtin* zu werden.
+  She has dreamt of becoming an organic *farmer* since childhood.
 
   Le syndicat des *agriculteurs* a organisé une réunion d'urgence.
-  Die Gewerkschaft der *Landwirte* hat eine Dringlichkeitssitzung einberufen.
+  The *farmers*' union has convened an emergency meeting.
 
   Les jeunes *agriculteurs* adoptent de plus en plus les nouvelles technologies.
-  Junge *Landwirte* setzen zunehmend auf neue Technologien.
+  Young *farmers* are increasingly relying on new technologies.
 
   Cette région compte principalement des *agriculteurs* et des éleveurs.
-  In dieser Region gibt es hauptsächlich *Bauern* und Viehzüchter.
+  In this region there are mainly *farmers* and livestock farmers.
 
   L'*agricultrice* a remporté un prix pour ses méthodes innovantes.
-  Die *Landwirtin* hat einen Preis für ihre innovativen Methoden gewonnen.
+  The *farmer* has won a prize for her innovative methods.
 
   Les conditions météorologiques difficiles inquiètent les *agriculteurs*.
-  Die schwierigen Wetterbedingungen beunruhigen die *Bauern*.
+  The difficult weather conditions are disturbing the *farmers*.
 
   Mon oncle est un *agriculteur* aisé qui possède plusieurs hectares de terres.
-  Mein Onkel ist ein wohlhabender *Landwirt*, der mehrere Hektar Land besitzt.
+  My uncle is a wealthy *farmer* who owns several hectares of land.
 
   L'*agriculteur* a expliqué aux enfants comment cultiver des légumes.
-  Der *Bauer* hat den Kindern erklärt, wie man Gemüse anbaut.
+  The farmer explained to the children how to grow vegetables.
 
   Dans ce village, presque tout le monde est *agriculteur* ou *agricultrice*.
-  In diesem Dorf ist fast jeder *Landwirt* oder *Landwirtin*.
+  In this village, almost every *farmer* is.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

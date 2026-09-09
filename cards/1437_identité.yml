@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1437
 Wort: identité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une identité
 Femininum / Plural: ''
 IPA: \i.dɑ̃.ti.te\
-Definition: Identität
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Identity
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Donnez-moi d'abord votre carte d'*identité*.
-  Geben Sie mir erst Ihren *Ausweis*.
+  Give me your ID first.
 
   La police vérifie l'*identité* de tous les passants.
-  Die Polizei überprüft die *Identität* aller Passanten.
+  The police are checking the *identity* of all passers-by.
 
   Mon fils traverse une grave crise d'*identité*.
-  Mein Sohn durchlebt eine schwere *Identitäts*krise.
+  My son is experiencing a serious *identity* crisis.
 
   Il a été arrêté pour usurpation d'*identité*.
-  Er wurde wegen *Identitäts*diebstahls verhaftet.
+  He was arrested for *identity* theft.
 
   Les jumeaux montrent une *identité* physique frappante.
-  Die Zwillinge zeigen eine verblüffende physische *Identität*.
+  The twins show an amazing physical *identity*.
 
   L'*identité* nationale se construit au fil du temps.
-  Die nationale *Identität* entwickelt sich im Laufe der Zeit.
+  National *identity* develops over time.
 
   Il voyage sous une fausse *identité*.
-  Er reist unter falscher *Identität*.
+  He travels under false *identity*.
 
   Je dois faire des photos d'*identité* pour mon passeport.
-  Ich muss *Pass*bilder für meinen Pass machen.
+  I have to make *passport* pictures for my passport.
 
   Le service de l'*identité* judiciaire a retrouvé ses empreintes.
-  Die *erkennungsdienstliche* Abteilung hat seine Fingerabdrücke gefunden.
+  I.D. Department found his fingerprints.
 
   Les soldats portent une plaque d'*identité* autour du cou.
-  Die Soldaten tragen eine *Erkennungs*marke um den Hals.
+  The soldiers wear a badge around their necks.
 
   Cette communauté lutte pour préserver son *identité* culturelle.
-  Diese Gemeinschaft kämpft darum, ihre kulturelle *Identität* zu bewahren.
+  This community is struggling to preserve its cultural *identity*.
 
   L'adolescence est souvent marquée par la quête d'*identité*.
-  Die Jugend ist oft von der Suche nach *Identität* geprägt.
+  Youth is often shaped by the search for *identity*.
 
   Les policiers ont procédé à un contrôle d'*identité*.
-  Die Polizisten haben eine *Personen*kontrolle durchgeführt.
+  The police have carried out a personal check.
 
   L'*identité* du suspect n'a pas encore été établie.
-  Die *Identität* des Verdächtigen wurde noch nicht festgestellt.
+  The suspect's *identity* hasn't been established yet.
 
   J'ai perdu tous mes papiers d'*identité*.
-  Ich habe alle meine *Ausweis*papiere verloren.
+  I lost all my ID papers.
 
   Cette entreprise a su garder son *identité* malgré la fusion.
-  Dieses Unternehmen konnte trotz der Fusion seine *Identität* bewahren.
+  Despite the merger, this company was able to maintain its *identity*.
 
   Il y a une parfaite *identité* de vues entre ces deux philosophes.
-  Es gibt eine perfekte *Übereinstimmung* der Ansichten zwischen diesen beiden Philosophen.
+  There is a perfect match of views between these two philosophers.
 
   Le psychiatre traite les troubles de l'*identité*.
-  Der Psychiater behandelt *Identitäts*störungen.
+  The psychiatrist treats *identity* disorders.
 
   La langue fait partie de l'*identité* d'un peuple.
-  Die Sprache ist Teil der *Identität* eines Volkes.
+  Language is part of the *identity* of a people.
 
   Les enquêteurs cherchent à établir l'*identité* de la victime.
-  Die Ermittler versuchen, die *Identität* des Opfers festzustellen.
+  Investigators are trying to determine the *identity* of the victim.
 
   On observe une *identité* remarquable entre ces deux signatures.
-  Man beobachtet eine bemerkenswerte *Übereinstimmung* zwischen diesen beiden Unterschriften.
+  There is a remarkable agreement between these two signatures.
 
   L'*identité* du corps a été confirmée par les tests ADN.
-  Die *Identität* der Leiche wurde durch DNA-Tests bestätigt.
+  The body's *identity* was confirmed by DNA tests.
 
   Veuillez décliner votre *identité* au guichet.
-  Bitte *weisen* Sie sich am Schalter *aus*.
+  Please turn yourself out at *the* switch.
 
   Cette région défend farouchement son *identité*.
-  Diese Region verteidigt ihre *Identität* mit aller Kraft.
+  This region defends its *identity* with all its strength.
 
   L'enfant prend conscience de son *identité* vers l'âge de trois ans.
-  Das Kind wird sich seiner *Identität* im Alter von etwa drei Jahren bewusst.
+  The child becomes aware of his *identity* at the age of about three years.
 
   La mondialisation menace l'*identité* des petites cultures.
-  Die Globalisierung bedroht die *Identität* kleiner Kulturen.
+  Globalisation threatens the *identity* of small cultures.
 
   Le tribunal a ordonné la vérification de son *identité*.
-  Das Gericht hat die Überprüfung seiner *Identität* angeordnet.
+  The court ordered the verification of his *identity*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

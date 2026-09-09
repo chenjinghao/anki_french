@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4135
 Wort: réticence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la réticence
 Femininum / Plural: ''
 IPA: \ʁe.ti.sɑ̃s\
-Definition: Vorbehalt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Reservation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne ressens pas de *réticence* de la part des auteurs français.
-  Ich spüre keinen *Vorbehalt* von Seiten der französischen Autoren.
+  I feel no *reservation* from the French authors.
 
   Il a accepté notre proposition *avec réticence*.
-  Er hat unseren Vorschlag *widerstrebend* angenommen.
+  He has reluctantly accepted our proposal.
 
   *Sans aucune réticence*, elle a partagé son histoire avec nous.
-  Ganz *vorbehaltlos* hat sie ihre Geschichte mit uns geteilt.
+  She shared her story with us without reservation.
 
   Les enfants ont manifesté une certaine *réticence* à aller se coucher.
-  Die Kinder zeigten eine gewisse *Zurückhaltung*, ins Bett zu gehen.
+  The children showed some *restraint* about going to bed.
 
   Malgré leurs *réticences* initiales, ils ont fini par accepter le changement.
-  Trotz ihrer anfänglichen *Vorbehalte* haben sie die Veränderung schließlich akzeptiert.
+  Despite their initial *reservations*, they finally accepted the change.
 
   Sa *réticence* à participer au projet est compréhensible.
-  Seine *Bedenken*, am Projekt teilzunehmen, sind verständlich.
+  His *concerns* about participating in the project are understandable.
 
   J'ai remarqué quelques *réticences* dans sa réponse.
-  Ich habe einige *Vorbehalte* in seiner Antwort bemerkt.
+  I have noticed some *reservations* in his reply.
 
   Il faut surmonter nos *réticences* pour avancer.
-  Wir müssen unsere *Bedenken* überwinden, um voranzukommen.
+  We need to overcome our *concerns* in order to move forward.
 
   Les *réticences* du comité ont ralenti le processus.
-  Die *Vorbehalte* des Komitees haben den Prozess verlangsamt.
+  The *reservations* of the committee slowed the process.
 
   Elle a exprimé sa *réticence* face à cette décision.
-  Sie hat ihre *Bedenken* gegenüber dieser Entscheidung geäußert.
+  It has expressed its *concerns* about this decision.
 
   Nous avons noté plusieurs *réticences* dans son comportement.
-  Wir haben mehrere *Vorbehalte* in seinem Verhalten bemerkt.
+  We have noticed several *reservations* in his behavior.
 
   La *réticence* des investisseurs était évidente lors de la réunion.
-  Die *Zurückhaltung* der Investoren war während des Meetings offensichtlich.
+  The investor's *restraint* was obvious during the meeting.
 
   Sa *réticence* à parler ouvertement pose problème.
-  Seine *Zurückhaltung*, offen zu sprechen, ist problematisch.
+  His reluctance to speak openly is problematic.
 
   Les *réticences* du public ont diminué au fil du temps.
-  Die *Vorbehalte* der Öffentlichkeit haben mit der Zeit abgenommen.
+  The public's *reservations* have decreased over time.
 
   Cette *réticence* à accepter les nouvelles technologies est typique.
-  Diese *Zurückhaltung* gegenüber neuen Technologien ist typisch.
+  This *restraint* against new technologies is typical.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

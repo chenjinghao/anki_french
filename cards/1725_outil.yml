@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1725
 Wort: outil
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un outil
 Femininum / Plural: ''
 IPA: \u.ti\
-Definition: Werkzeug
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Tool
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ça m'a donné les *outils* pour atteindre mes buts.
-  Das hat mir die *Werkzeuge* gegeben, um meine Ziele zu erreichen.
+  That gave me the *tools* to achieve my goals.
 
   J'ai besoin d'*outils* de jardinage pour entretenir mon potager.
-  Ich brauche Garten*werkzeuge*, um meinen Gemüsegarten zu pflegen.
+  I need garden *tools* to maintain my vegetable garden.
 
   Le marteau est l'*outil* le plus simple mais le plus utile.
-  Der Hammer ist das einfachste, aber nützlichste *Werkzeug*.
+  The hammer is the simplest but most useful *tool*.
 
   Ces statistiques sont un *outil* indispensable pour la prise de décision.
-  Diese Statistiken sind ein unverzichtbares *Hilfsmittel* für die Entscheidungsfindung.
+  These statistics are an indispensable tool for decision-making.
 
   As-tu rangé tous les *outils* dans la boîte ?
-  Hast du alle *Werkzeuge* in den Kasten geräumt?
+  Did you put all the *tools* in the box?
 
   L'entreprise a investi dans de nouveaux *outils* de production.
-  Das Unternehmen hat in neue Produktions*anlagen* investiert.
+  The company has invested in new production facilities.
 
   La nouvelle barre d'*outils* facilite la navigation sur le site.
-  Die neue *Tool*leiste macht die Navigation auf der Website einfacher.
+  The new toolbar makes navigation on the website easier.
 
   Ce logiciel propose des *outils* de gestion très pratiques.
-  Diese Software bietet sehr praktische Verwaltungs*tools* an.
+  This software offers very practical management *tools*.
 
   Mon père m'a appris à utiliser tous les *outils* du menuisier.
-  Mein Vater hat mir beigebracht, alle *Werkzeuge* des Tischlers zu benutzen.
+  My father taught me to use all the carpenter's *tools*.
 
   "Un mauvais ouvrier n'a jamais de bons *outils*."
-  "Ein schlechter Handwerker hat nie gute *Werkzeuge*."
+  "A bad craftsman never has good *tools*."
 
   L'ordinateur portable est devenu son principal *outil* de travail.
-  Der Laptop ist zu seinem wichtigsten Arbeits*gerät* geworden.
+  *The* laptop has become its most important work equipment.
 
   Nous avons besoin d'*outils* de mesure plus précis.
-  Wir brauchen präzisere Mess*instrumente*.
+  We need more precise measuring *instruments*.
 
   Les agriculteurs ont modernisé leurs *outils* agricoles.
-  Die Landwirte haben ihre landwirtschaftlichen *Geräte* modernisiert.
+  Farmers have modernised their agricultural *equipment*.
 
   La communication est un *outil* essentiel dans l'enseignement.
-  Kommunikation ist ein wesentliches *Instrument* im Unterricht.
+  Communication is an essential tool in teaching.
 
   Elle utilise des *outils* numériques pour créer ses dessins.
-  Sie verwendet digitale *Werkzeuge*, um ihre Zeichnungen zu erstellen.
+  She uses digital *tools* to create her drawings.
 
   Ce manuel est un excellent *outil* pédagogique.
-  Dieses Handbuch ist ein ausgezeichnetes pädagogisches *Hilfsmittel*.
+  This manual is an excellent educational tool.
 
   Les nouveaux *outils* de développement accélèrent le travail.
-  Die neuen Entwicklungs*tools* beschleunigen die Arbeit.
+  The new development *tools* accelerate the work.
 
   L'internet est devenu un *outil* indispensable dans notre société.
-  Das Internet ist zu einem unverzichtbaren *Werkzeug* in unserer Gesellschaft geworden.
+  The Internet has become an indispensable *tool* in our society.
 
   Ils ont créé des *outils* de sélection innovants.
-  Sie haben innovative Auswahl*instrumente* entwickelt.
+  They have developed innovative selection tools.
 
   Le langage est notre *outil* de communication le plus important.
-  Sprache ist unser wichtigstes Kommunikations*werkzeug*.
+  Language is our most important communication *tool*.
 
   Les syndicats défendent l'*outil* de travail des employés.
-  Die Gewerkschaften verteidigen die Arbeits*mittel* der Angestellten.
+  The unions defend the workers' means of work.
 
   Cet *outil* de navigation permet de se repérer facilement en mer.
-  Dieses Navigations*instrument* ermöglicht eine einfache Orientierung auf See.
+  This navigation tool allows easy orientation at sea.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

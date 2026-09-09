@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1430
 Wort: chômage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chômage
 Femininum / Plural: ''
 IPA: \ʃo.maʒ\
-Definition: Arbeitslosigkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Unemployment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *chômage* chez les jeunes est devenu un grave problème.
-  Die *Arbeitslosigkeit* unter jungen Menschen ist zu einem ernsten Problem geworden.
+  *Unemployment* among young people has become a serious problem.
 
   Le taux de *chômage* a augmenté de deux pour cent depuis janvier.
-  Die Arbeitslosen*quote* ist seit Januar um zwei Prozent gestiegen.
+  The unemployment *rate* has increased by two percent since January.
 
   Après la fermeture de l'usine, beaucoup de personnes se sont inscrites au *chômage*.
-  Nach der Schließung der Fabrik haben sich viele *arbeitslos* gemeldet.
+  After the factory was closed, many people registered as *unemployed*.
 
   En raison de la crise, l'entreprise a dû mettre ses employés en *chômage technique*.
-  Aufgrund der Krise musste das Unternehmen seine Mitarbeiter in *Kurzarbeit* schicken.
+  Due to the crisis, the company had to send its employees in *short-time work*.
 
   "Je touche le *chômage* depuis trois mois."
-  "Ich kriege seit drei Monaten *Arbeitslosengeld*."
+  "I've been getting unemployment benefits for three months."
 
   Le *chômage* saisonnier est très fréquent dans le secteur touristique.
-  Die saisonale *Arbeitslosigkeit* ist in der Tourismusbranche sehr häufig.
+  Seasonal *unemployment* is very common in the tourism industry.
 
   Cette restructuration va réduire cent personnes au *chômage*.
-  Diese Umstrukturierung wird hundert Menschen *arbeitslos* machen.
+  This restructuring will make a hundred people *unemployed*.
 
   Marie est au *chômage* depuis la faillite de son entreprise.
-  Marie ist seit dem Konkurs ihrer Firma *arbeitslos*.
+  Marie has been *unemployed* since her company went bankrupt.
 
   Le gouvernement a augmenté les indemnités de *chômage*.
-  Die Regierung hat das Arbeitslosen*geld* erhöht.
+  The government has increased the unemployment benefit.
 
   La mise en *chômage partiel* a permis d'éviter des licenciements.
-  Die *Kurzarbeit* hat es ermöglicht, Entlassungen zu vermeiden.
+  *Short-time work* has allowed for the avoidance of dismissals.
 
   Le *chômage* de longue durée peut avoir des conséquences psychologiques graves.
-  Lang andauernde *Arbeitslosigkeit* kann schwerwiegende psychologische Folgen haben.
+  Long-term *unemployment* can have serious psychological consequences.
 
   Les statistiques du *chômage* sont publiées chaque mois.
-  Die *Arbeitslosen*statistiken werden jeden Monat veröffentlicht.
+  Unemployment statistics are published each month.
 
   Le *chômage flottant* touche principalement les emplois temporaires.
-  Die *Fluktuationsarbeitslosigkeit* betrifft hauptsächlich temporäre Arbeitsplätze.
+  *Fluctuation unemployment* mainly affects temporary jobs.
 
   L'allocation de *chômage* lui permet à peine de joindre les deux bouts.
-  Das *Arbeitslosen*geld reicht ihm kaum zum Überleben.
+  The unemployment benefit is hardly enough for him to survive.
 
   La période de *chômage* du canal durera deux semaines pour les réparations.
-  Die *Stilllegungs*zeit des Kanals wird wegen der Reparaturen zwei Wochen dauern.
+  The *decommissioning* time of the canal will take two weeks due to repairs.
 
   Son *chômage* a pris fin quand il a trouvé un nouvel emploi.
-  Seine *Arbeitslosigkeit* endete, als er eine neue Stelle fand.
+  His *unemployment* ended when he found a new job.
 
   Le *chômage* du lundi de Pâques est obligatoire pour tous les commerces.
-  Die *Schließung* am Ostermontag ist für alle Geschäfte verpflichtend.
+  *Closure* on Easter Monday is mandatory for all businesses.
 
   La lutte contre le *chômage* est une priorité nationale.
-  Die Bekämpfung der *Arbeitslosigkeit* ist eine nationale Priorität.
+  Combating *unemployment* is a national priority.
 
   Le risque de *chômage* économique inquiète les salariés.
-  Die Gefahr der wirtschaftsbedingten *Arbeitslosigkeit* beunruhigt die Angestellten.
+  The risk of economic *unemployment* is worrying employees.
 
   L'assurance *chômage* est obligatoire pour tous les employeurs.
-  Die *Arbeitslosen*versicherung ist für alle Arbeitgeber verpflichtend.
+  Unemployment insurance is compulsory for all employers.
 
   Les manifestants protestent contre la réforme du système de *chômage*.
-  Die Demonstranten protestieren gegen die Reform des *Arbeitslosen*systems.
+  The demonstrators protest against the reform of the unemployment system.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

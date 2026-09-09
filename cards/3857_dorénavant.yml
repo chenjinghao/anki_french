@@ -1,87 +1,87 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3857
 Wort: dorénavant
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dorénavant
 Femininum / Plural: ''
 IPA: \dɔ.ʁe.na.vɑ̃\
-Definition: von nun an
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: from now on
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'écrirai *dorénavant* sur les deux côtés de la page.
-  Ich werde *von nun an* auf beide Seiten des Blattes schreiben.
+  *From now on*, I will write on both sides of the sheet.
 
   *Dorénavant*, nos réunions auront lieu le mardi matin.
-  *Von jetzt an* finden unsere Besprechungen am Dienstagmorgen statt.
+  *From now on*, our meetings will take place on Tuesday morning.
 
   Elle devra *dorénavant* porter des lunettes pour lire.
-  Sie muss *von nun an* eine Brille zum Lesen tragen.
+  *From now on*, she must wear glasses for reading.
 
   *Dorénavant*, je prendrai le train pour aller au travail.
-  *Von heute an* fahre ich mit dem Zug zur Arbeit.
+  From today, I'll take the train to work.
 
   Les enfants iront *dorénavant* à l'école à pied.
-  Die Kinder werden *ab jetzt* zu Fuß zur Schule gehen.
+  The children will go to school on foot *from now on*.
 
   *Dorénavant*, nous mangerons plus de légumes.
-  *Von nun an* werden wir mehr Gemüse essen.
+  *From now on* we will eat more vegetables.
 
   Il vivra *dorénavant* avec sa grand-mère.
-  Er wird *von jetzt an* bei seiner Großmutter leben.
+  He'll live with his grandmother *from now on*.
 
   *Dorénavant*, je me lèverai plus tôt le matin.
-  *Ab sofort* werde ich morgens früher aufstehen.
+  *From now on*, I'll get up early in the morning.
 
   Tu devras *dorénavant* faire tes devoirs avant de jouer.
-  Du musst *von nun an* deine Hausaufgaben machen, bevor du spielst.
+  You have to do your homework *from now on* before you play.
 
   *Dorénavant*, le musée sera fermé le lundi.
-  Das Museum wird *künftig* montags geschlossen sein.
+  The museum will be closed on Mondays.
 
   Je serai *dorénavant* plus prudent dans mes décisions.
-  Ich werde *von jetzt an* vorsichtiger bei meinen Entscheidungen sein.
+  *From now on*, I'll be more careful in my decisions.
 
   *Dorénavant*, il faudra réserver une semaine à l'avance.
-  *Ab sofort* muss man eine Woche im Voraus reservieren.
+  *From now on* you have to reserve a week in advance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>désormais</i>, <i>dorénavant</i> und <i>maintenant</i></div>
+    <div class="section-title"><i>désormais</i>, <i>dorénavant</i> and <i>maintenant</i></div>
     <div class="section-content">
-      <p>Die Adverbien <span class="fr">désormais</span> (#1025), <span class="fr">dorénavant</span> und <span class="fr">maintenant</span> (#192) können in ähnlichen Kontexten verwendet werden, sind aber nicht vollständig synonym.</p>
+      <p>The Adverbs <span class="fr">désormais</span> (#1025), <span class="fr">dorénavant</span> and <span class="fr">maintenant</span> (#192) can be used in similar contexts, but are not completely synonymous.</p>
 
-      <p><span class="fr">Désormais</span> stammt aus <span class="fr">des ore</span> (<span class="de">"jetzt"</span>) und <span class="fr">mais</span> (<span class="de">"mehr"</span>) und bedeutet <span class="de">"ab diesem Moment"</span>. Der Bezugspunkt kann die Gegenwart oder ein Moment in der Vergangenheit sein.</p>
+      <p><span class="fr">Désormais</span> comes from: <span class="fr">des ore</span> (<span class="de">"jetzt"</span>) and <span class="fr">mais</span> (<span class="de">"more"</span>) and means: <span class="de">"ab diesem Moment"</span>The reference point can be the present or a moment in the past.</p>
       <div class="examples">
         <div class="fr">Désormais, j'utiliserai le transport en commun pour me rendre au travail.</div>
-        <div class="de spoiler">Von nun an werde ich öffentliche Verkehrsmittel benutzen, um zur Arbeit zu fahren.</div>
+        <div class="de spoiler">From now on, I will use public transport to go to work.</div>
         <div class="fr">Même s'ils avaient été très proches, ils ne s'adressaient désormais plus la parole.</div>
-        <div class="de spoiler">Obwohl sie sich sehr nahe gestanden hatten, sprachen sie von da an nicht mehr miteinander.</div>
+        <div class="de spoiler">Although they had been very close, they no longer spoke to each other.</div>
       </div>
 
-      <p><span class="fr">Dorénavant</span>, entstanden aus <span class="fr">d'ore en avant</span>, bedeutet ebenfalls <span class="de">"ab diesem Moment"</span>. Es wird besonders häufig verwendet, um eine Bitte, eine Drohung oder einen Befehl auszudrücken.</p>
+      <p><span class="fr">Dorénavant</span>, originated from <span class="fr">d'ore en avant</span>, means ebenfalls <span class="de">"ab diesem Moment"</span>It is used especially frequently to express a request, a threat or a command.</p>
       <div class="examples">
         <div class="fr">Dorénavant, je ne travaillerai plus le vendredi.</div>
-        <div class="de spoiler">Von jetzt an werde ich freitags nicht mehr arbeiten.</div>
+        <div class="de spoiler">From now on, I won't be working on Fridays.</div>
         <div class="fr">Dorénavant, efforcez-vous d'arriver à l'heure aux réunions.</div>
-        <div class="de spoiler">Bemühen Sie sich von nun an, pünktlich zu den Besprechungen zu erscheinen.</div>
+        <div class="de spoiler">From now on, try to appear on time for the meetings.</div>
       </div>
 
-      <p><span class="fr">Maintenant</span> leitet sich vom Partizip Präsens des Verbs <span class="fr">maintenir</span> ab. Es bedeutet im Allgemeinen <span class="de">"aktuell, im gegenwärtigen Moment"</span>, kann aber manchmal auch <span class="de">"ab jetzt"</span> bedeuten. In diesem Fall ist es synonym mit <span class="fr">désormais</span> und <span class="fr">dorénavant</span> und wird häufig mit einem Verb im Futur verwendet.</p>
+      <p><span class="fr">Maintenant</span> is derived from the participle present of the verb <span class="fr">maintenir</span> ab. Es means im Allgemeinen <span class="de">"currently, in the present moment"</span>, but sometimes can also <span class="de">"ab jetzt"</span> In this case it is synonymous with <span class="fr">désormais</span> and <span class="fr">dorénavant</span> and is often used with a verb in the futur.</p>
       <div class="examples">
         <div class="fr">Vous saurez maintenant ce que nous pensons de ce type de musique.</div>
-        <div class="de spoiler">Sie werden von nun an wissen, was wir von dieser Art von Musik halten.</div>
+        <div class="de spoiler">You will know from now on what we think of this kind of music.</div>
         <div class="fr">Après Nicole, c'est maintenant au tour de René de remettre sa carrière en question.</div>
-        <div class="de spoiler">Nach Nicole ist jetzt René an der Reihe, seine Karriere zu überdenken.</div>
+        <div class="de spoiler">After Nicole, it's René's turn to rethink his career.</div>
       </div>
     </div>
   </div>

@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2535
 Wort: rarement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rarement
 Femininum / Plural: ''
 IPA: \ʁaʁ.mɑ̃\
-Definition: selten, kaum
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: rare, rare
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ma mère me punissait *rarement*.
-  Meine Mutter bestrafte mich *selten*.
+  My mother rarely punished me.
 
   Je vois *rarement* mes amis d'enfance depuis que j'habite à l'étranger.
-  Ich sehe meine Kindheitsfreunde *selten*, seit ich im Ausland wohne.
+  I rarely see my childhood friends since I live abroad.
 
   *Rarement* j'ai mangé un plat aussi délicieux.
-  *Selten* habe ich ein so köstliches Gericht gegessen.
+  Rarely have I eaten such a delicious dish.
 
   Il arrive *rarement* qu'il neige en avril.
-  Es kommt *selten* vor, dass es im April schneit.
+  It is *rare* that it snows in April.
 
   Cette espèce d'oiseau se voit de plus en plus *rarement* dans notre région.
-  Diese Vogelart ist in unserer Region immer *seltener* zu sehen.
+  This bird species is increasingly *rare* in our region.
 
   Les trains sont *rarement* en retard dans ce pays.
-  Die Züge sind in diesem Land *selten* verspätet.
+  Trains are rarely delayed in this country.
 
   On trouve *rarement* des places de parking gratuites en centre-ville.
-  Man findet *selten* kostenlose Parkplätze in der Innenstadt.
+  You rarely find free parking in the city center.
 
   Elle sort *rarement* le soir pendant la semaine.
-  Sie geht unter der Woche *selten* abends aus.
+  She rarely goes out in the evening during the week.
 
   *Rarement* une décision n'avait provoqué autant de débats.
-  *Selten* hatte eine Entscheidung so viele Diskussionen ausgelöst.
+  Rarely had a decision triggered so many discussions.
 
   J'ai *rarement* vu des étudiants aussi motivés.
-  Ich habe *selten* so motivierte Studenten gesehen.
+  I've rarely seen such motivated students.
 
   Le soleil apparaît *rarement* pendant cette saison.
-  Die Sonne zeigt sich in dieser Jahreszeit *selten*.
+  The sun rarely shows up in this season.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

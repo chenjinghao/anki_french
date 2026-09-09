@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2065
 Wort: parcourir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: parcourir
 Femininum / Plural: ''
 IPA: \paʁ.ku.ʁiʁ\
-Definition: durchlaufen, zurücklegen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: pass through, move back
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *parcourut* son courrier.
-  Er *überflog* seine Post.
+  He flew over his mail.
 
   Nous avons *parcouru* plus de 300 kilomètres aujourd'hui.
-  Wir haben heute über 300 Kilometer *zurückgelegt*.
+  We've traveled over 300 kilometers today.
 
   Les touristes *parcourent* le centre historique de Paris.
-  Die Touristen *durchlaufen* das historische Zentrum von Paris.
+  Tourists pass through the historic centre of Paris.
 
   Marie *parcourt* rapidement l'article avant de refermer le journal.
-  Marie *überfliegt* den Artikel, bevor sie die Zeitung schließt.
+  Marie's flying over the article before she closes the paper.
 
   Un frisson glacé *parcourut* son corps.
-  Ein eisiger Schauer *durchlief* seinen Körper.
+  An icy shiver ran through his body.
 
   Elle *parcourt* la banque de données à la recherche d'informations.
-  Sie *durchsucht* die Datenbank nach Informationen.
+  She's searching the database for information.
 
   Le petit ruisseau *parcourt* paisiblement la vallée.
-  Der kleine Bach *fließt* friedlich durch das Tal.
+  The small stream *flows* peacefully through the valley.
 
   Les randonneurs ont *parcouru* toute l'île à pied.
-  Die Wanderer haben die ganze Insel *erwandert*.
+  The walkers have hiked the whole island.
 
   Ses yeux *parcouraient* la foule à la recherche de son ami.
-  Seine Augen *schweiften* über die Menge auf der Suche nach seinem Freund.
+  His eyes wandered over the crowd looking for his friend.
 
   Le navire a *parcouru* toutes les mers du globe.
-  Das Schiff ist über alle Meere der Welt *gekreuzt*.
+  The ship has *crossed* all the seas of the world.
 
   J'ai *parcouru* la ville en long et en large pour te trouver.
-  Ich bin kreuz und quer durch die Stadt *gelaufen*, um dich zu finden.
+  I went all over town to find you.
 
   Le vétérinaire *parcourt* la région pour soigner les animaux.
-  Der Tierarzt *bereist* die Region, um die Tiere zu behandeln.
+  The veterinarian *travels* the region to treat the animals.
 
   Elle *parcourut* rapidement ses notes avant l'examen.
-  Sie *überflog* ihre Notizen vor der Prüfung.
+  She flew over her notes before the exam.
 
   Une vive douleur *parcourut* son bras.
-  Ein scharfer Schmerz *durchfuhr* seinen Arm.
+  A sharp pain passed through his arm.
 
   Nous devons encore *parcourir* vingt kilomètres avant d'arriver.
-  Wir müssen noch zwanzig Kilometer *zurücklegen*, bevor wir ankommen.
+  We have to travel another 20 kilometers before we arrive.
 
   Son regard *parcourut* l'horizon à la recherche d'un abri.
-  Sein Blick *schweifte* über den Horizont auf der Suche nach einem Unterschlupf.
+  His gaze wandered across the horizon in search of a shelter.
 
   Les scientifiques *parcourent* la forêt pour étudier les espèces rares.
-  Die Wissenschaftler *durchstreifen* den Wald, um seltene Arten zu studieren.
+  The scientists roam the forest to study rare species.
 
   Il a *parcouru* mentalement toutes les possibilités.
-  Er hat alle Möglichkeiten im Geiste *durchgegangen*.
+  He has *gone through* all possibilities in spirit.
 
   L'avion *parcourt* le ciel nocturne.
-  Das Flugzeug *durchfliegt* den Nachthimmel.
+  The plane flies through the night sky.
 
   Je *parcours* ce livre depuis ce matin.
-  Ich *überfliege* dieses Buch seit heute Morgen.
+  I've been flying over this book since this morning.
 
   Les marcheurs ont *parcouru* tout le sentier en une journée.
-  Die Wanderer haben den ganzen Pfad an einem Tag *zurückgelegt*.
+  The walkers have covered the whole path in one day.
 
   Un murmure *parcourut* l'assemblée.
-  Ein Raunen *ging durch* die Versammlung.
+  A rattle ran through the congregation.
 
   Nous avons *parcouru* l'Europe en train.
-  Wir haben Europa mit dem Zug *bereist*.
+  We have travelled Europe by train.
 
   Elle *parcourt* du regard la lettre une dernière fois.
-  Sie lässt ihren Blick ein letztes Mal über den Brief *schweifen*.
+  She lets her gaze wander over the letter one last time.
 
   Le guide nous fait *parcourir* les ruelles anciennes.
-  Der Führer lässt uns durch die alten Gassen *laufen*.
+  The guide lets us walk through the old alleys.
 
   L'explorateur a *parcouru* le désert pendant des mois.
-  Der Entdecker ist monatelang durch die Wüste *gereist*.
+  The explorer has travelled through the desert for months.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

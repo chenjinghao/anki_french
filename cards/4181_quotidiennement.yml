@@ -1,81 +1,81 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4181
 Wort: quotidiennement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quotidiennement
 Femininum / Plural: ''
 IPA: \kɔ.ti.djɛn.mɑ̃\
-Definition: täglich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: daily
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les gangs font la manchette presque *quotidiennement*.
-  Die Gangs machen fast *täglich* Schlagzeilen.
+  The gangs make headlines almost every day.
 
   Je prends *quotidiennement* mes médicaments après le petit-déjeuner.
-  Ich nehme meine Medikamente *täglich* nach dem Frühstück.
+  I take my medication every day after breakfast.
 
   Cette application est mise à jour *quotidiennement* pour assurer votre sécurité.
-  Diese App wird *täglich* aktualisiert, um Ihre Sicherheit zu gewährleisten.
+  This app is updated *daily* to ensure your safety.
 
   Il faut nettoyer la cage du hamster *quotidiennement*.
-  Der Hamsterkäfig muss *täglich* gereinigt werden.
+  The hamster cage must be cleaned *daily*.
 
   Marie et Thomas se parlent *quotidiennement* au téléphone depuis qu'ils sont à distance.
-  Marie und Thomas telefonieren *täglich* miteinander, seit sie räumlich getrennt sind.
+  Marie and Thomas have been calling each other every day since they were separated.
 
   Le prix de l'essence change *quotidiennement* à la station-service.
-  Der Benzinpreis an der Tankstelle ändert sich *täglich*.
+  The petrol price at the gas station changes *daily*.
 
   Ces exercices sont à faire *quotidiennement* pendant deux semaines.
-  Diese Übungen sind zwei Wochen lang *täglich* zu machen.
+  These exercises are to be done *daily* for two weeks.
 
   Les enfants doivent se brosser les dents *quotidiennement*.
-  Kinder müssen sich *täglich* die Zähne putzen.
+  Children have to brush their teeth every day.
 
   Notre équipe travaille *quotidiennement* pour améliorer nos services.
-  Unser Team arbeitet *täglich* daran, unsere Dienstleistungen zu verbessern.
+  Our team works *daily* to improve our services.
 
   Je vérifie *quotidiennement* mes e-mails professionnels.
-  Ich prüfe *täglich* meine Arbeits-E-Mails.
+  I check my work emails every day.
 
   Les journalistes publient *quotidiennement* des articles sur ce sujet.
-  Die Journalisten veröffentlichen *täglich* Artikel zu diesem Thema.
+  Journalists publish articles on this topic every day.
 
   Le boulanger prépare *quotidiennement* du pain frais dès 4 heures du matin.
-  Der Bäcker bereitet ab 4 Uhr morgens *täglich* frisches Brot zu.
+  The baker prepares fresh bread every day from 4 a.m.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>quotidiennement</i>, <i>chaque jour</i> und <i>tous les jours</i></div>
+    <div class="section-title"><i>quotidiennement</i>, <i>chaque jour</i> and <i>tous les jours</i></div>
     <div class="section-content">
-      <p><span class="fr">Quotidiennement</span> ist ein formelles Adverb, das <span class="de">"täglich"</span> bedeutet. Es wird oft in offiziellen, schriftlichen oder gehobenen Kontexten verwendet.</p>
+      <p><span class="fr">Quotidiennement</span> is a formal adverb that <span class="de">"daily"</span> It is often used in official, written or upscale contexts.</p>
       <div class="examples">
         <div class="fr">Le journal paraît <u>quotidiennement</u>.</div>
-        <div class="de spoiler">Die Zeitung erscheint <u>täglich</u>.</div>
+        <div class="de spoiler">The newspaper appears <u>daily</u>.</div>
         <div class="fr">Il prend ses médicaments <u>quotidiennement</u>.</div>
-        <div class="de spoiler">Er nimmt seine Medikamente <u>täglich</u> ein.</div>
+        <div class="de spoiler">He's taking his meds <u>daily</u> One.</div>
       </div>
-      <p><span class="fr">Chaque jour</span> bedeutet <span class="de">"jeden Tag"</span> und betont die Regelmäßigkeit einer Handlung. Es ist neutraler im Register und kann sowohl schriftlich als auch mündlich verwendet werden.</p>
+      <p><span class="fr">Chaque jour</span> means <span class="de">"jeden Tag"</span> and emphasizes the regularity of an act. It is more neutral in the register and can be used both in writing and orally.</p>
       <div class="examples">
         <div class="fr">Elle fait du sport <u>chaque jour</u>.</div>
-        <div class="de spoiler">Sie treibt <u>jeden Tag</u> Sport.</div>
+        <div class="de spoiler">She's driving <u>jeden Tag</u> Sport.</div>
         <div class="fr"><u>Chaque jour</u>, il lit le journal au petit-déjeuner.</div>
-        <div class="de spoiler"><u>Jeden Tag</u> liest er beim Frühstück die Zeitung.</div>
+        <div class="de spoiler"><u>Jeden Tag</u> he reads the newspaper at breakfast.</div>
       </div>
-      <p><span class="fr">Tous les jours</span> bedeutet ebenfalls <span class="de">"jeden Tag"</span>, wird aber häufiger in der gesprochenen Sprache verwendet und kann eine gewisse Betonung auf die Kontinuität legen.</p>
+      <p><span class="fr">Tous les jours</span> means ebenfalls <span class="de">"jeden Tag"</span>However, more often used in the spoken language, it can put a certain emphasis on continuity.</p>
       <div class="examples">
         <div class="fr">Il travaille <u>tous les jours</u> de la semaine.</div>
-        <div class="de spoiler">Er arbeitet <u>jeden Tag</u> der Woche.</div>
+        <div class="de spoiler">Er arbeitet <u>jeden Tag</u> of the week.</div>
         <div class="fr"><u>Tous les jours</u>, c'est la même routine.</div>
         <div class="de spoiler"><u>Jeden Tag</u> dieselbe Routine.</div>
       </div>

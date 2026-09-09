@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2730
 Wort: infliger
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: infliger
 Femininum / Plural: ''
 IPA: \ɛ̃.fli.ʒe\
-Definition: zufügen, verhängen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Add, Administer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Désolée de devoir vous *infliger* ça maintenant.
-  Es tut mir leid, dass ich Ihnen das jetzt *antun* muss.
+  I'm sorry to have to *do* this to you now.
 
   Le juge a *infligé* une amende de 500 euros au conducteur imprudent.
-  Der Richter hat dem unvorsichtigen Fahrer eine Geldstrafe von 500 Euro *auferlegt*.
+  The judge has *imposed* a fine of 500 euros on the careless driver.
 
   L'équipe adverse nous a *infligé* une défaite écrasante.
-  Die gegnerische Mannschaft hat uns eine vernichtende Niederlage *zugefügt*.
+  The opposing team has inflicted a devastating defeat on us.
 
   Les parents ont *infligé* une punition sévère à leur enfant désobéissant.
-  Die Eltern haben ihrem ungehorsamen Kind eine harte Strafe *erteilt*.
+  The parents have given their disobedient child a severe punishment.
 
   "Je ne veux pas vous *infliger* la corvée de nettoyer tout ça."
-  "Ich möchte Ihnen nicht die Plackerei *aufbürden*, das alles zu putzen."
+  "I don't want to *burden* you with the plaxing to clean all of this."
 
   Le professeur a *infligé* un devoir supplémentaire aux élèves bavards.
-  Der Lehrer hat den schwatzhaften Schülern eine zusätzliche Hausaufgabe *aufgebrummt*.
+  The teacher has given the sloppy students an additional homework.
 
   Cette expérience m'a *infligé* un traumatisme dont je ne me suis jamais remis.
-  Diese Erfahrung hat mir ein Trauma *zugefügt*, von dem ich mich nie erholt habe.
+  This experience has caused me a trauma that I have never recovered from.
 
   Le tribunal a *infligé* une peine de prison à vie au meurtrier.
-  Das Gericht hat dem Mörder eine lebenslange Haftstrafe *verhängt*.
+  The court has *imposed* a life sentence on the murderer.
 
   Son comportement irresponsable lui a *infligé* de lourdes conséquences.
-  Sein unverantwortliches Verhalten hat ihm schwerwiegende Konsequenzen *eingebracht*.
+  His irresponsible behavior has brought him serious consequences.
 
   La nature nous *inflige* parfois des catastrophes dévastatrices.
-  Die Natur *fügt* uns manchmal verheerende Katastrophen *zu*.
+  Nature sometimes causes us devastating disasters.
 
   "Je ne voulais pas t'*infliger* ma mauvaise humeur."
-  "Ich wollte dir meine schlechte Laune nicht *zumuten*."
+  "I didn't want to put my bad mood on you."
 
   Le destin lui a *infligé* une série d'épreuves difficiles.
-  Das Schicksal hat ihr eine Reihe schwieriger Prüfungen *auferlegt*.
+  Fate has *imposed* a number of difficult trials on her.
 
   Les critiques ont *infligé* un camouflet cinglant au dernier film du réalisateur.
-  Die Kritiker haben dem neuesten Film des Regisseurs eine vernichtende Abfuhr *erteilt*.
+  The critics have given the director's latest film a devastating rejection.
 
   L'entreprise s'est *infligé* des pertes importantes en ignorant les avertissements.
-  Das Unternehmen hat sich durch Ignorieren der Warnungen erhebliche Verluste *zugefügt*.
+  The company has incurred significant losses by ignoring the warnings.
 
   Le gouvernement a *infligé* des sanctions économiques au pays voisin.
-  Die Regierung hat dem Nachbarland wirtschaftliche Sanktionen *auferlegt*.
+  The government has *imposed* economic sanctions on the neighbouring country.
 
   Cette défaite a *infligé* un coup dur à leur moral.
-  Diese Niederlage hat ihrer Moral einen harten Schlag *versetzt*.
+  This defeat has given her morale a hard blow.
 
   "Je ne veux pas vous *infliger* le récit de mes malheurs."
-  "Ich möchte Sie nicht mit der Erzählung meiner Unglücke *belästigen*."
+  "I don't want to bother you with the story of my misfortunes."
 
   Le tribunal a *infligé* une amende record à l'entreprise pour fraude fiscale.
-  Das Gericht hat dem Unternehmen wegen Steuerbetrugs eine Rekordgeldstrafe *auferlegt*.
+  The court *imposed* a record fine on the company for tax fraud.
 
   Son absence *inflige* une grande peine à sa famille.
-  Seine Abwesenheit *fügt* seiner Familie großes Leid *zu*.
+  His absence causes his family great suffering.
 
   Les conditions météorologiques ont *infligé* de lourds dégâts aux cultures.
-  Die Wetterbedingungen haben den Feldfrüchten schwere Schäden *zugefügt*.
+  Weather conditions have caused serious damage to crops.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

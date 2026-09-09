@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2083
 Wort: littérature
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la littérature
 Femininum / Plural: ''
 IPA: \li.te.ʁa.tyʁ\
-Definition: Literatur
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Literature
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je crois que la *littérature* africaine se porte bien.
-  Ich glaube, die afrikanische *Literatur* entwickelt sich gut.
+  I think African *literature* is developing well.
 
   La *littérature* fantastique stimule l'imagination des lecteurs.
-  Fantasy-*Literatur* regt die Fantasie der Leser an.
+  Fantasy *literature* stimulates the imagination of readers.
 
   Elle étudie la *littérature* française du XIX<sup>e</sup> siècle.
-  Sie studiert die französische *Literatur* des 19. Jahrhunderts.
+  She studied French *literature* of the 19th century.
 
   Les enfants adorent la *littérature* jeunesse pleine d'aventures.
-  Kinder lieben Jugend*literatur* voller Abenteuer.
+  Children love youth *literature* full of adventures.
 
   Il existe une abondante *littérature* sur le changement climatique.
-  Es gibt eine umfangreiche *Literatur* zum Klimawandel.
+  There is an extensive *literature* on climate change.
 
   La *littérature* engagée joue un rôle important dans la société.
-  Engagierte *Literatur* spielt eine wichtige Rolle in der Gesellschaft.
+  Committed *literature* plays an important role in society.
 
   Cette université propose des cours de *littérature* comparée.
-  Diese Universität bietet Kurse in vergleichender *Literatur* an.
+  This university offers courses in comparative *literature*.
 
   La *littérature* orale fait partie intégrante de notre patrimoine culturel.
-  Mündliche *Literatur* ist ein wesentlicher Bestandteil unseres kulturellen Erbes.
+  Oral *literature* is an essential part of our cultural heritage.
 
   "Ce n'est que de la *littérature*", a-t-il dit avec dédain.
-  "Das ist doch nur *leeres Gerede*", sagte er verächtlich.
+  "That's just *empty talk*," he said disdainfully.
 
   Les prix littéraires contribuent à promouvoir la *littérature* contemporaine.
-  Literaturpreise tragen dazu bei, zeitgenössische *Literatur* zu fördern.
+  *Literature* awards help to promote contemporary literature.
 
   La *littérature* pour violon de Bach est très appréciée des musiciens.
-  Bachs *Literatur* für Violine wird von Musikern sehr geschätzt.
+  Bach's *literature* for violin is highly appreciated by musicians.
 
   Elle a une connaissance approfondie de la *littérature* classique.
-  Sie hat eine fundierte Kenntnis der klassischen *Literatur*.
+  She has a profound knowledge of classical *literature*.
 
   Les œuvres de science-fiction font partie de la *littérature* d'anticipation.
-  Science-Fiction-Werke gehören zur Zukunfts*literatur*.
+  Science fiction works are part of the *literature* of the future.
 
   La *littérature* clandestine a joué un rôle crucial pendant la guerre.
-  Die Untergrund*literatur* spielte während des Krieges eine entscheidende Rolle.
+  The underground *literature* played a decisive role during the war.
 
   Il se consacre entièrement à la *littérature* depuis sa retraite.
-  Seit seiner Pensionierung widmet er sich ganz der *Schriftstellerei*.
+  Since his retirement, he has devoted himself entirely to writing.
 
   La *littérature* nationale reflète souvent l'identité d'un pays.
-  Die nationale *Literatur* spiegelt oft die Identität eines Landes wider.
+  National *literature* often reflects the identity of a country.
 
   Les critiques littéraires influencent la réception de la *littérature* contemporaine.
-  Literaturkritiker beeinflussen die Rezeption zeitgenössischer *Literatur*.
+  Literary critics influence the reception of contemporary *literature*.
 
   La *littérature* d'épouvante connaît un regain de popularité.
-  Horror*literatur* erlebt einen Aufschwung in der Popularität.
+  Horror *literature* is experiencing an upswing in popularity.
 
   Cette *littérature* médicale est destinée aux professionnels de santé.
-  Diese medizinische *Literatur* ist für Gesundheitsfachkräfte bestimmt.
+  This medical *literature* is intended for health professionals.
 
   La *littérature* féminine du XX<sup>e</sup> siècle a remis en question de nombreux stéréotypes.
-  Die Frauen*literatur* des 20. Jahrhunderts hat viele Stereotype in Frage gestellt.
+  Women's *literature* of the 20th century has questioned many stereotypes.
 
   Le professeur a recommandé plusieurs ouvrages de *littérature* sur ce sujet.
-  Der Professor hat mehrere *Literatur*werke zu diesem Thema empfohlen.
+  The professor recommended several literary works on this subject.
 
   "Arrête de m'envoyer toute cette *littérature* !" s'est-il plaint en regardant sa boîte mail.
-  "Hör auf, mir diesen ganzen *Wortschwall* zu schicken!", beschwerte er sich beim Blick in sein E-Mail-Postfach.
+  "Stop sending me this whole word mush!" he complained while looking into his e-mail mailbox.
 
   La *littérature* romanesque du XIX<sup>e</sup> siècle reflète les changements sociaux de l'époque.
-  Die Roman*literatur* des 19. Jahrhunderts spiegelt die sozialen Veränderungen der Zeit wider.
+  19th-century novels reflect the social changes of time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

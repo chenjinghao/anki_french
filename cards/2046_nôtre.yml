@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2046
 Wort: nôtre
 Wortart: pro, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le nôtre
 Femininum / Plural: ''
 IPA: \notʁ\
-Definition: unsere(-r/s)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: our(-r/s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'aurais aimé qu'il soit *des nôtres*.
-  Ich hätte ihn gerne *in unserer Gruppe* gehabt.
+  I'd like to have him *in our group*.
 
   Ces valeurs sont devenues *nôtres* au fil du temps.
-  Diese Werte haben wir uns zu *eigen* gemacht mit der Zeit.
+  We have made these values our own over time.
 
   Votre jardin est magnifique, mais le *nôtre* est plus grand.
-  Ihr Garten ist wunderschön, aber *unserer* ist größer.
+  Your garden is beautiful, but ours is bigger.
 
   "À *la nôtre*!" s'est exclamé Pierre en levant son verre.
-  "Auf *unser Wohl*!" rief Pierre und hob sein Glas.
+  "To our welfare!" cried Pierre and lifted his glass.
 
   Les *nôtres* ont remporté la victoire au tournoi.
-  Die *Unsrigen* haben das Turnier gewonnen.
+  *Ours* won the tournament.
 
   Cette proposition, nous la faisons *nôtre*.
-  Diesen Vorschlag machen wir uns zu *eigen*.
+  This is a proposal that we make ourselves our own.
 
   Leurs difficultés sont différentes des *nôtres*.
-  Ihre Schwierigkeiten unterscheiden sich von *unseren*.
+  Their difficulties are different from ours.
 
   Un *nôtre* ami nous a recommandé ce restaurant.
-  Ein *befreundeter* Kellner hat uns dieses Restaurant empfohlen.
+  A friendly waiter recommended us this restaurant.
 
   La décision finale sera la *nôtre*.
-  Die endgültige Entscheidung wird *unsere* sein.
+  The final decision will be ours.
 
   Ces traditions sont devenues *nôtres*.
-  Diese Traditionen sind *unsere* geworden.
+  These traditions have become ours.
 
   Cette maison est la *nôtre* depuis vingt ans.
-  Dieses Haus ist seit zwanzig Jahren *unseres*.
+  This house has been ours for twenty years.
 
   J'espère que vous serez *des nôtres* pour le dîner.
-  Ich hoffe, Sie sind beim Abendessen *dabei in unserer Runde*.
+  I hope you'll be at dinner *in our round*.
 
   Chaque famille a ses problèmes, et nous avons les *nôtres*.
-  Jede Familie hat ihre Probleme, und wir haben die *unsrigen*.
+  Every family has its problems, and we have *ours*.
 
   Cette mission est désormais *nôtre*.
-  Diese Mission ist nun die *unsere*.
+  This mission is now ours.
 
   Il faut que nous mettions *du nôtre* dans ce projet.
-  Wir müssen *unseren Teil* zu diesem Projekt beitragen.
+  We must contribute *our part* to this project.
 
   Les *nôtres* nous attendent à la maison.
-  Die *Unsrigen* warten zu Hause auf uns.
+  *Ours* are waiting for us at home.
 
   Cette responsabilité est *nôtre*.
-  Diese Verantwortung ist die *unsere*.
+  This responsibility is ours.
 
   Leur voiture est plus récente que la *nôtre*.
-  Ihr Auto ist neuer als *unseres*.
+  Your car is newer than ours.
 
   Ce n'est pas votre chat, c'est le *nôtre*.
-  Das ist nicht Ihre Katze, sondern *unsere*.
+  It's not your cat, it's ours.
 
   Nous avons *fait des nôtres* pendant les vacances.
-  Wir haben in den Ferien *unsere Späße getrieben*.
+  We were having fun on vacation.
 
   Cette vision du monde est devenue *nôtre*.
-  Diese Weltanschauung haben wir uns zu *eigen* gemacht.
+  We have made this worldview our own.
 
   Les *nôtres* ont besoin de notre soutien.
-  Die *Unsrigen* brauchen unsere Unterstützung.
+  *Ours* need our support.
 
   Leur équipe est plus grande que la *nôtre*.
-  Ihr Team ist größer als *unseres*.
+  Your team is bigger than ours.
 
   Ce projet est désormais *nôtre*.
-  Dieses Projekt ist nun das *unsere*.
+  This project is now ours.
 
   Cette terre est *nôtre* depuis des générations.
-  Dieses Land ist seit Generationen *unser*.
+  This country has been ours for generations.
 
   Nous devons protéger les *nôtres*.
-  Wir müssen die *Unseren* beschützen.
+  We have to protect *our* own.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

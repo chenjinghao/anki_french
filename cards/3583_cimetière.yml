@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3583
 Wort: cimetière
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le cimetière
 Femininum / Plural: ''
 IPA: \sim.tjɛʁ\
-Definition: Friedhof
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cemetery
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Dans un *cimetière*, la mort est supportable.
-  In einem *Friedhof* ist der Tod erträglich.
+  Death is bearable in a *cemetery*.
 
   Le *cimetière* militaire commémore les soldats tombés pendant la guerre.
-  Der Soldaten*friedhof* erinnert an die gefallenen Soldaten im Krieg.
+  The Soldier's *Cemetery* is reminiscent of the fallen soldiers in the war.
 
   Nous allons au *cimetière* tous les dimanches pour nous recueillir.
-  Wir gehen jeden Sonntag zum *Friedhof*, um uns zu sammeln.
+  We go to the *cemetery* every Sunday to gather.
 
   Le *cimetière* du Père-Lachaise est le plus célèbre de Paris.
-  Der Père-Lachaise-*Friedhof* ist der berühmteste in Paris.
+  The Père Lachaise *Cemetery* is the most famous in Paris.
 
   Un vieux *cimetière* de voitures rouille lentement dans la forêt.
-  Ein alter Auto*friedhof* rostet langsam im Wald vor sich hin.
+  An old car *cemetery* slowly rusts in the forest.
 
   Les enfants ont peur de passer devant le *cimetière* la nuit.
-  Die Kinder haben Angst, nachts am *Friedhof* vorbeizugehen.
+  The children are afraid to pass the *cemetery* at night.
 
   Le nouveau *cimetière* sera construit à la périphérie de la ville.
-  Der neue *Friedhof* wird am Stadtrand gebaut werden.
+  The new *cemetery* will be built on the outskirts of the city.
 
   Les touristes visitent souvent ce *cimetière* historique.
-  Die Touristen besuchen oft diesen historischen *Friedhof*.
+  Tourists often visit this historic *cemetery*.
 
   Elle dépose des fleurs sur sa tombe au *cimetière* chaque printemps.
-  Sie legt jeden Frühling Blumen auf sein Grab auf dem *Friedhof* nieder.
+  Every spring she lays flowers on his grave in the *cemetery*.
 
   Le gardien du *cimetière* ferme les portes à la tombée de la nuit.
-  Der *Friedhofs*wärter schließt bei Einbruch der Dunkelheit die Tore.
+  The *cemetery* guard closes the gates at nightfall.
 
   Un petit *cimetière* paisible se trouve derrière l'église du village.
-  Ein kleiner, friedlicher *Friedhof* befindet sich hinter der Dorfkirche.
+  A small, peaceful *cemetery* is located behind the village church.
 
   Ce *cimetière* d'illusions m'a appris à être plus réaliste.
-  Dieser *Friedhof* der Illusionen hat mich gelehrt, realistischer zu sein.
+  This *cemetery* of illusions has taught me to be more realistic.
 
   Les arbres centenaires du *cimetière* offrent de l'ombre aux visiteurs.
-  Die hundertjährigen Bäume des *Friedhofs* spenden den Besuchern Schatten.
+  The hundred-year-old trees of the *cemetery* provide shade to visitors.
 
   Le silence règne dans le *cimetière* enneigé.
-  Stille herrscht auf dem verschneiten *Friedhof*.
+  Silence reigns in the snowy *cemetery*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

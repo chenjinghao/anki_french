@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 943
 Wort: mai
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mai
 Femininum / Plural: ''
 IPA: \mɛ\
-Definition: Mai
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: May
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle avait disparu le 30 *mai* dernier.
-  Sie war am 30. *Mai* letzten Jahres verschwunden.
+  She disappeared on *May* 30 last year.
 
   Le premier *mai* est férié dans de nombreux pays.
-  Am ersten *Mai* ist in vielen Ländern ein Feiertag.
+  On the first of *May* is a holiday in many countries.
 
   Les *mais* pluvieux ne sont pas rares dans notre région.
-  Regnerische *Mai*-Monate sind in unserer Region nicht selten.
+  Rainy *May* months are not uncommon in our region.
 
   As-tu déjà planifié tes vacances de *mai* ?
-  Hast du deinen *Mai*-Urlaub schon geplant?
+  Have you planned your *May* holiday yet?
 
   Le muguet fleurit toujours début *mai*.
-  Das Maiglöckchen blüht immer Anfang *Mai*.
+  The lily of *May* always blooms at the beginning of May.
 
   Les manifestations de *mai* 68 ont changé la société française.
-  Die Proteste im *Mai* 68 haben die französische Gesellschaft verändert.
+  The *May* 68 protests have changed French society.
 
   Le mois de *mai* marque le début de la belle saison.
-  Der *Mai* markiert den Beginn der schönen Jahreszeit.
+  *May* marks the beginning of the beautiful season.
 
   La rose de *mai* embaume tout le jardin.
-  Die *Mai*-Rose duftet durch den ganzen Garten.
+  The *May* Rose smells all over the garden.
 
   La température en *mai* cette année est exceptionnellement élevée.
-  Die Temperatur diesen *Mai* ist außergewöhnlich hoch.
+  The temperature this *May* is exceptionally high.
 
   Je me marierai en *mai* prochain avec l'amour de ma vie.
-  Ich werde nächsten *Mai* die Liebe meines Lebens heiraten.
+  I will marry the love of my life next *May*.
 
   Les étudiants passeront leurs examens en *mai*.
-  Die Studenten werden ihre Prüfungen im *Mai* ablegen.
+  The students will take their exams in *May*.
 
   Le festival de musique aura lieu mi-*mai*.
-  Das Musikfestival wird Mitte *Mai* stattfinden.
+  The music festival will take place in mid-*May*.
 
   En *mai*, fais ce qu'il te plaît !
-  Im *Mai* tu, was dir gefällt!
+  In *May*, do what you like!
 
   Dans l'ancien temps, on plantait un *mai* devant la maison des jeunes filles.
-  In alter Zeit pflanzte man einen *Maibaum* vor den Häusern junger Mädchen.
+  In ancient times, a maypole was planted in front of young girls' homes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

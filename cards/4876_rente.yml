@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4876
 Wort: rente
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la rente
 Femininum / Plural: ''
 IPA: \ʁɑ̃t\
-Definition: Rente
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Pension
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'accumulation des *rentes* est funeste pour le monde occidental.
-  Die Anhäufung von *Renten* ist für die westliche Welt verhängnisvoll.
+  The accumulation of *pensions* is fatal for the Western world.
 
   Les *rentes* pétrolières ont drastiquement changé l'économie de ce pays.
-  Die Öl*renten* haben die Wirtschaft dieses Landes drastisch verändert.
+  The oil *rents* have drastically changed the economy of this country.
 
   Ma grand-mère perçoit une *rente* viagère depuis son accident de travail.
-  Meine Großmutter erhält seit ihrem Arbeitsunfall eine Leib*rente*.
+  My grandmother has been receiving an old-age *pension* since her accident at work.
 
   "Cette propriété est une vraie *rente* pour moi", dit le propriétaire satisfait.
-  "Dieses Grundstück ist eine echte *Rente* für mich", sagte der zufriedene Eigentümer.
+  "This property is a real *pension* for me," said the satisfied owner.
 
   Le versement de la *rente* se fait chaque premier du mois.
-  Die *Renten*zahlung erfolgt jeden Ersten des Monats.
+  The pension is paid every first day of the month.
 
   Les vaches laitières sont considérées comme des animaux de *rente*.
-  Milchkühe gelten als *Renten*tiere.
+  Dairy cows are considered pension animals.
 
   Il a hérité d'une petite *rente* de ses parents.
-  Er hat von seinen Eltern eine kleine *Rente* geerbt.
+  He inherited a small *pension* from his parents.
 
   Cette *rente* foncière lui assure un revenu stable.
-  Dieser Grund*zins* sichert ihm ein stabiles Einkommen.
+  This basic rate guarantees him a stable income.
 
   La *rente* perpétuelle garantit un revenu à vie.
-  Die lebenslange *Rente* garantiert ein Einkommen bis zum Tod.
+  Life-long *pension* guarantees an income until death.
 
   Jacques vit de ses *rentes* depuis sa retraite anticipée.
-  Jacques lebt seit seiner Frühpensionierung von seinen *Renten*.
+  Jacques has been living off his *pensions* since he retired early.
 
   Le taux de la *rente* a été fixé à 5% par an.
-  Der *Renten*satz wurde auf 5% pro Jahr festgelegt.
+  The pension rate was set at 5% per year.
 
   Les *rentes* indexées suivent l'évolution du coût de la vie.
-  Die indexierten *Renten* folgen der Entwicklung der Lebenshaltungskosten.
+  The indexed *pensions* follow the evolution of the cost of living.
 
   Elle reçoit une *rente* d'invalidité suite à son accident.
-  Sie erhält nach ihrem Unfall eine Invaliditäts*rente*.
+  She receives an invalidity *pension* after her accident.
 
   Le gouvernement a émis de nouvelles *rentes* sur l'État.
-  Die Regierung hat neue Staats*renten* ausgegeben.
+  The government has issued new state pensions.
 
   La *rente* différentielle favorise les terres les plus fertiles.
-  Die Differenzial*rente* begünstigt die fruchtbarsten Böden.
+  The differential *pension* favours the most fertile soils.
 
   Cette innovation technologique crée une *rente* pour l'entreprise.
-  Diese technologische Innovation schafft eine *Rente* für das Unternehmen.
+  This technological innovation creates a *pension* for the company.
 
   Sa situation géographique lui procure une *rente* de situation.
-  Seine geografische Lage verschafft ihm eine Standort*rente*.
+  His geographical location gives him a locational *pension*.
 
   Le montant de la *rente* est calculé selon plusieurs critères.
-  Die Höhe der *Rente* wird nach mehreren Kriterien berechnet.
+  The amount of the *pension* is calculated according to several criteria.
 
   Cette *rente* financière lui permet de vivre confortablement.
-  Diese Finanz*rente* ermöglicht ihm ein komfortables Leben.
+  This financial *pension* allows him a comfortable life.
 
   La *rente* constituée sera versée mensuellement.
-  Die eingerichtete *Rente* wird monatlich ausgezahlt.
+  The *pension* is paid monthly.
 
   Le rachat de la *rente* peut se faire sous certaines conditions.
-  Die Ablösung der *Rente* kann unter bestimmten Bedingungen erfolgen.
+  The *pension* may be replaced under certain conditions.
 
   L'État verse régulièrement les intérêts de cette *rente*.
-  Der Staat zahlt regelmäßig die Zinsen dieser *Rente*.
+  The State regularly pays the interest on this *pension*.
 
   Cette *rente* amortissable sera remboursée sur vingt ans.
-  Diese tilgbare *Rente* wird über zwanzig Jahre zurückgezahlt.
+  This reimbursable *pension* is paid back over twenty years.
 
   La *rente* sur l'État est considérée comme un placement sûr.
-  Die Staats*rente* gilt als sichere Anlage.
+  The state *pension* is regarded as a safe investment.
 
   Le cours de la *rente* a augmenté ces derniers mois.
-  Der *Renten*kurs ist in den letzten Monaten gestiegen.
+  The pension rate has risen in recent months.
 
   Paul déclare ses salaires et ses *rentes* aux impôts.
-  Paul gibt seine Gehälter und *Renten* beim Finanzamt an.
+  Paul gives his salaries and *pensions* to the tax office.
 
   Cette terre a été donnée à *rente* selon un contrat ancien.
-  Dieses Land wurde gemäß einem alten Vertrag gegen *Rente* vergeben.
+  This country was awarded for retirement under an old contract.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

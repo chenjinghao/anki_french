@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1949
 Wort: formuler
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: formuler
 Femininum / Plural: ''
 IPA: \fɔʁ.my.le\
-Definition: formulieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Formulate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je veux *formuler* un commentaire général.
-  Ich möchte eine allgemeine Anmerkung *formulieren*.
+  I would like to make a general comment.
 
   Comment pourrait-on *formuler* cette invitation de manière plus élégante ?
-  Wie könnte man diese Einladung eleganter *formulieren*?
+  How could this invitation be formulated more elegantly?
 
   Le médecin a *formulé* un diagnostic précis après l'examen.
-  Der Arzt hat nach der Untersuchung eine präzise Diagnose *formuliert*.
+  The doctor *formulated* a precise diagnosis after the examination.
 
   Les employés ont *formulé* leurs revendications lors de la réunion.
-  Die Mitarbeiter haben in der Sitzung ihre Forderungen *formuliert*.
+  The employees *formulated* their demands at the meeting.
 
   Il n'arrive pas à *formuler* clairement sa pensée.
-  Er schafft es nicht, seine Gedanken klar *in Worte zu fassen*.
+  He does not manage to put his thoughts clearly into words.
 
   Les scientifiques ont *formulé* une nouvelle théorie sur l'origine de l'univers.
-  Die Wissenschaftler haben eine neue Theorie über den Ursprung des Universums *formuliert*.
+  The scientists have *formulated* a new theory about the origin of the universe.
 
   Elle hésite encore à *formuler* ses réserves concernant ce projet.
-  Sie zögert noch, ihre Bedenken bezüglich dieses Projekts zu *formulieren*.
+  She still hesitates to express her concerns about this project.
 
   Le professeur a *formulé* le problème d'une manière différente.
-  Der Professor hat die Aufgabe anders *formuliert*.
+  The professor has *formulated* the task differently.
 
   J'aimerais *formuler* un souhait pour ton anniversaire.
-  Ich möchte einen Wunsch für deinen Geburtstag *formulieren*.
+  I want to make a wish for your birthday.
 
   Sophie a *formulé* sa demande poliment.
-  Sophie hat ihr Anliegen höflich *formuliert*.
+  Sophie politely *formulated* her request.
 
   Ce théorème ne peut pas se *formuler* plus simplement.
-  Dieser Lehrsatz lässt sich nicht einfacher *formulieren*.
+  This lesson cannot be formulated more easily.
 
   Marie doit *formuler* sa réclamation par écrit.
-  Marie muss ihre Beschwerde schriftlich *formulieren*.
+  Marie has to write her complaint in writing.
 
   Les experts ont *formulé* leurs conclusions dans un rapport détaillé.
-  Die Experten haben ihre Schlussfolgerungen in einem ausführlichen Bericht *formuliert*.
+  The experts have *formulated* their conclusions in a detailed report.
 
   Il faut *formuler* cette règle plus précisément.
-  Diese Regel muss präziser *formuliert* werden.
+  This rule must be *formulated* more precisely.
 
   Le comité va *formuler* des recommandations la semaine prochaine.
-  Das Komitee wird nächste Woche Empfehlungen *formulieren*.
+  The committee will make recommendations next week.
 
   Comment *formuler* mes excuses sans paraître maladroit ?
-  Wie soll ich meine Entschuldigung *formulieren*, ohne unbeholfen zu wirken?
+  How am I supposed to *formulate* my apology without being clumsy?
 
   Les citoyens peuvent *formuler* leurs opinions lors de la consultation publique.
-  Die Bürger können ihre Meinungen bei der öffentlichen Anhörung *formulieren*.
+  Citizens can express their views at the public hearing.
 
   Le philosophe a *formulé* sa pensée en termes simples.
-  Der Philosoph hat seinen Gedanken in einfachen Worten *formuliert*.
+  The philosopher *formulated* his thoughts in simple words.
 
   Les chercheurs ont *formulé* une hypothèse intéressante.
-  Die Forscher haben eine interessante Hypothese *formuliert*.
+  The researchers have *formulated* an interesting hypothesis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

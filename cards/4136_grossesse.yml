@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4136
 Wort: grossesse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la grossesse
 Femininum / Plural: ''
 IPA: \ɡʁo.sɛs\
-Definition: Schwangerschaft
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Pregnancy
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle m'avait annoncé sa *grossesse*.
-  Sie hatte mir von ihrer *Schwangerschaft* erzählt.
+  She told me about her *pregnancy*.
 
   Le test de *grossesse* était positif.
-  Der *Schwangerschafts*test war positiv.
+  The *pregnancy* test was positive.
 
   Une *grossesse* gémellaire nécessite un suivi médical particulier.
-  Eine Zwillings*schwangerschaft* erfordert eine besondere medizinische Betreuung.
+  Twin *pregnancy* requires special medical attention.
 
   Sa *grossesse* s'est très bien passée.
-  Ihre *Schwangerschaft* ist sehr gut verlaufen.
+  Your *pregnancy* went very well.
 
   Les médecins ont diagnostiqué une *grossesse* extra-utérine.
-  Die Ärzte haben eine Bauchhhöhlen*schwangerschaft* diagnostiziert.
+  Doctors have diagnosed abdominal pregnancies.
 
   Elle est dans le sixième mois de sa *grossesse*.
-  Sie ist im sechsten Monat ihrer *Schwangerschaft*.
+  She's in her sixth month of *pregnancy*.
 
   Cette *grossesse* à risque demande beaucoup de précautions.
-  Diese Risiko*schwangerschaft* erfordert viele Vorsichtsmaßnahmen.
+  This pregnancies requires many precautions.
 
   Le déni de *grossesse* est un phénomène complexe.
-  Die verdrängte *Schwangerschaft* ist ein komplexes Phänomen.
+  Repressed *pregnancy* is a complex phenomenon.
 
   Les symptômes suggéraient une *grossesse* nerveuse.
-  Die Symptome deuteten auf eine Schein*schwangerschaft* hin.
+  Symptoms indicated a pregnancies.
 
   Pendant sa *grossesse*, elle a continué à faire du sport.
-  Während ihrer *Schwangerschaft* hat sie weiter Sport getrieben.
+  During her *pregnancy*, she continued to exercise.
 
   La *grossesse* a changé sa vision de la vie.
-  Die *Schwangerschaft* hat ihre Sicht aufs Leben verändert.
+  *Pregnancy* has changed her view of life.
 
   Les complications durant la *grossesse* sont heureusement rares.
-  Komplikationen während der *Schwangerschaft* sind zum Glück selten.
+  Complications during *pregnancy* are fortunately rare.
 
   Elle n'a eu aucun problème pendant sa *grossesse*.
-  Sie hatte keine Probleme während ihrer *Schwangerschaft*.
+  She had no problems during her *pregnancy*.
 
   L'interruption volontaire de *grossesse* est encadrée par la loi.
-  Der *Schwangerschafts*abbruch ist gesetzlich geregelt.
+  The abortion is regulated by law.
 
   Sa *grossesse* difficile l'a obligée à garder le lit.
-  Ihre schwierige *Schwangerschaft* zwang sie zur Bettruhe.
+  Her difficult *pregnancy* forced her to rest in bed.
 
   Le suivi de *grossesse* est assuré par une sage-femme.
-  Die *Schwangerschafts*vorsorge wird von einer Hebamme durchgeführt.
+  Pregnancies are performed by a midwife.
 
   Les premiers mois de sa *grossesse* ont été éprouvants.
-  Die ersten Monate ihrer *Schwangerschaft* waren anstrengend.
+  The first months of her *pregnancy* were exhausting.
 
   Elle cache sa *grossesse* à ses collègues pour l'instant.
-  Sie verheimlicht ihre *Schwangerschaft* vorerst vor ihren Kollegen.
+  She's hiding her *pregnancy* from her colleagues for the time being.
 
   Les nausées sont fréquentes en début de *grossesse*.
-  Übelkeit ist zu Beginn der *Schwangerschaft* häufig.
+  Nausea is common at the beginning of *pregnancy*.
 
   Une *grossesse* peut parfois passer inaperçue pendant plusieurs semaines.
-  Eine *Schwangerschaft* kann manchmal mehrere Wochen unbemerkt bleiben.
+  A *pregnancy* can sometimes remain unnoticed for several weeks.
 
   Les hormones de *grossesse* provoquent divers changements physiques.
-  Die *Schwangerschafts*hormone verursachen verschiedene körperliche Veränderungen.
+  The *pregnancy* hormones cause various physical changes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

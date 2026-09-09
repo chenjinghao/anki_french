@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4503
 Wort: initier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: initier
 Femininum / Plural: ''
 IPA: \i.ni.sje\
-Definition: einweihen, einführen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Initiate, introduce
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai commencé à m'*initier* à la bible.
-  Ich begann, mich in die Bibel *einzuarbeiten*.
+  I began to work on the Bible.
 
   Le professeur *initie* ses élèves aux bases des mathématiques.
-  Der Lehrer *führt* seine Schüler in die Grundlagen der Mathematik *ein*.
+  *The* teacher introduces his students to the basics of mathematics.
 
   Son grand-père l'a *initié* aux échecs quand il avait six ans.
-  Sein Großvater hat ihn mit sechs Jahren in das Schachspiel *eingewiesen*.
+  His grandfather introduced him to chess at the age of six.
 
   Marie s'est *initiée* à la photographie pendant ses vacances.
-  Marie hat sich während ihres Urlaubs in die Fotografie *eingearbeitet*.
+  Marie worked on photography during her holiday.
 
   Le maître *initiera* les nouveaux membres à la méditation zen demain.
-  Der Meister wird die neuen Mitglieder morgen in die Zen-Meditation *einweihen*.
+  The Master will inaugurate the new members into the Zen meditation tomorrow.
 
   Les chercheurs ont *initié* une nouvelle série d'expériences.
-  Die Forscher haben eine neue Versuchsreihe *initiiert*.
+  The researchers have *initiated* a new series of experiments.
 
   Je voudrais m'*initier* au jardinage bio.
-  Ich möchte mich in den biologischen Gartenbau *einarbeiten*.
+  I want to work in organic horticulture.
 
   Le chef *initie* toujours personnellement ses apprentis aux secrets de la cuisine.
-  Der Chef *weiht* seine Lehrlinge immer persönlich in die Geheimnisse der Küche *ein*.
+  The boss always personally consecrates his apprentices to the secrets of the kitchen.
 
   Cette formation vous *initiera* aux techniques de base du massage.
-  Diese Ausbildung wird Sie in die Grundtechniken der Massage *einführen*.
+  This training will introduce you to the basic techniques of massage.
 
   Les anciens *initiaient* les jeunes aux traditions de la tribu.
-  Die Älteren *weihten* die Jungen in die Traditionen des Stammes *ein*.
+  The older ones initiated the young into the traditions of the tribe.
 
   Mon oncle m'a *initié* à la pêche quand j'étais petit.
-  Mein Onkel hat mich als Kind ins Angeln *eingeführt*.
+  My uncle introduced me to fishing when I was a kid.
 
   La société *initie* un nouveau projet de développement durable.
-  Die Firma *leitet* ein neues Nachhaltigkeitsprojekt *in die Wege*.
+  The company is launching a new sustainability project.
 
   Paul s'*initie* actuellement aux arts martiaux.
-  Paul *arbeitet* sich derzeit in die Kampfkunst *ein*.
+  Paul is currently working on martial arts.
 
   Le guide nous *initiera* aux coutumes locales pendant notre séjour.
-  Der Führer wird uns während unseres Aufenthalts in die örtlichen Bräuche *einführen*.
+  The guide will introduce us to local customs during our stay.
 
   Les experts ont *initié* un dialogue entre les deux parties.
-  Die Experten haben einen Dialog zwischen beiden Parteien *initiiert*.
+  The experts have *initiated* a dialogue between both parties.
 
   Elle s'est *initiée* à la cuisine italienne lors de son voyage.
-  Sie hat sich während ihrer Reise in die italienische Küche *eingearbeitet*.
+  She worked on Italian cuisine during her trip.
 
   Le mentor *initie* ses stagiaires aux subtilités du métier.
-  Der Mentor *führt* seine Praktikanten in die Feinheiten des Berufs *ein*.
+  *The* mentor introduces his interns to the subtleties of the profession.
 
   Les scientifiques ont *initié* une nouvelle méthode de recherche.
-  Die Wissenschaftler haben eine neue Forschungsmethode *initiiert*.
+  The scientists have *initiated* a new research method.
 
   Le professeur de musique *initie* les débutants au piano.
-  Der Musiklehrer *führt* die Anfänger ins Klavierspiel *ein*.
+  *The* music teacher introduces the beginners to piano playing.
 
   Les parents *initient* leurs enfants à l'art de la conversation.
-  Die Eltern *führen* ihre Kinder in die Kunst der Konversation *ein*.
+  *The* parents introduce their children to the art of conversation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

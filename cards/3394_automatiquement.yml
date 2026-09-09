@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3394
 Wort: automatiquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: automatiquement
 Femininum / Plural: ''
 IPA: \ɔ.tɔ.ma.tik.mɑ̃\
-Definition: automatisch; unweigerlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: automatic; inevitably
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les résultats seront *automatiquement* enregistrés.
-  Die Ergebnisse werden *automatisch* gespeichert.
+  The results are saved automatically.
 
   Le système met *automatiquement* à jour les données toutes les heures.
-  Das System aktualisiert die Daten stündlich *automatisch*.
+  The system updates the data automatically every hour.
 
   La porte s'est fermée *automatiquement* derrière moi.
-  Die Tür schloss sich *automatisch* hinter mir.
+  The door automatically closed behind me.
 
   "Si tu refuses son invitation, *automatiquement*, elle ne t'invitera plus."
-  "Wenn du ihre Einladung ablehnst, wird sie dich *unweigerlich* nicht mehr einladen."
+  "If you reject her invitation, she will *inevitably* no longer invite you."
 
   Le nouveau logiciel corrige *automatiquement* les fautes d'orthographe.
-  Die neue Software korrigiert Rechtschreibfehler *automatisch*.
+  The new software automatically corrects spelling errors.
 
   "*Automatiquement*, il se met en colère quand on le contredit."
-  "*Automatisch* wird er wütend, wenn man ihm widerspricht."
+  "Automatically, he gets angry when you contradict him."
 
   Les lumières s'allument *automatiquement* dès qu'il fait sombre.
-  Die Lichter gehen *automatisch* an, sobald es dunkel wird.
+  The lights will be on automatically as soon as it gets dark.
 
   Le thermostat régule *automatiquement* la température.
-  Der Thermostat regelt die Temperatur *automatisch*.
+  The thermostat automatically regulates the temperature.
 
   "*Automatiquement*, tu penses toujours au pire."
-  "Du denkst *automatisch* immer gleich ans Schlimmste."
+  "You're always thinking about the worst of things."
 
   Après cinq ans de service, elle a été promue *automatiquement*.
-  Nach fünf Dienstjahren wurde sie *automatisch* befördert.
+  After five years of service, she was automatically promoted.
 
   Les factures sont *automatiquement* générées à la fin du mois.
-  Die Rechnungen werden am Monatsende *automatisch* erstellt.
+  The invoices will be generated automatically at the end of the month.
 
   Le programme sauvegarde *automatiquement* vos modifications.
-  Das Programm speichert Ihre Änderungen *automatisch*.
+  The program automatically saves your changes.
 
   Les cookies sont *automatiquement* acceptés si vous continuez à naviguer.
-  Die Cookies werden *automatisch* akzeptiert, wenn Sie weitersurfen.
+  The cookies are automatically accepted when you continue to browse.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

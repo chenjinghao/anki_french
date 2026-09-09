@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3128
 Wort: apprêter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: apprêter
 Femininum / Plural: ''
 IPA: \a.pʁe.te\
-Definition: bereit machen, herrichten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: prepare, prepare, prepare
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous nous *apprêtons* à adopter un nouveau système.
-  Wir *bereiten uns darauf vor*, ein neues System einzuführen.
+  We are preparing to introduce a new system.
 
   Il faut *apprêter* les bagages pour le départ de demain.
-  Wir müssen das Gepäck für die morgige Abreise *fertig machen*.
+  We need to *finish* the luggage for tomorrow's departure.
 
   La tempête s'*apprête* à frapper la côte.
-  Der Sturm *steht kurz davor*, die Küste zu treffen.
+  The storm is about to hit the coast.
 
   Marie *apprête* le dîner pendant que les invités arrivent.
-  Marie *bereitet* das Abendessen *zu*, während die Gäste eintreffen.
+  Marie prepares dinner while guests arrive.
 
   Le chef *apprête* le poisson d'une manière particulière.
-  Der Koch *richtet* den Fisch auf eine besondere Weise *zu*.
+  The cook directs the fish in a special way.
 
   Elle s'*apprête* depuis une heure pour la soirée.
-  Sie *macht* sich seit einer Stunde für den Abend *zurecht*.
+  She's been getting ready for the evening for an hour.
 
   L'usine textile *apprête* les tissus avant la vente.
-  Die Textilfabrik *appretiert* die Stoffe vor dem Verkauf.
+  The textile factory apprehends the fabrics before sale.
 
   Je m'*apprête* à vous annoncer une grande nouvelle.
-  Ich *stehe kurz davor*, Ihnen große Neuigkeiten mitzuteilen.
+  I'm about to tell you some big news.
 
   Le peintre doit *apprêter* le mur avant d'appliquer la peinture.
-  Der Maler muss die Wand *grundieren*, bevor er die Farbe aufträgt.
+  The painter must *prime* the wall before applying the paint.
 
   Les employés *apprêtent* les colis pour l'expédition.
-  Die Mitarbeiter *machen* die Pakete versand*fertig*.
+  The employees *make* the packages ready.
 
   La cérémonie s'*apprête* dans la grande salle.
-  Die Zeremonie *wird* im großen Saal *vorbereitet*.
+  The ceremony is being *prepared* in the large hall.
 
   L'infirmière *apprête* le patient pour l'opération.
-  Die Krankenschwester *macht* den Patienten für die Operation *fertig*.
+  The nurse's going to finish the patient for surgery.
 
   Nous nous *apprêtons* à affronter une période difficile.
-  Wir *bereiten uns darauf vor*, einer schwierigen Zeit zu begegnen.
+  We are preparing to face a difficult time.
 
   Le boucher *apprête* la viande selon les souhaits du client.
-  Der Metzger *bereitet* das Fleisch nach den Wünschen des Kunden *zu*.
+  The butcher prepares the meat according *to* the customer's wishes.
 
   La mariée se fait *apprêter* par le coiffeur.
-  Die Braut lässt sich vom Friseur *zurechtmachen*.
+  The bride gets made up by the hairdresser.
 
   Les nuages s'*apprêtent* à déverser la pluie.
-  Die Wolken *stehen kurz davor*, den Regen niedergehen zu lassen.
+  The clouds are about to rain.
 
   L'entreprise s'*apprête* à lancer un nouveau produit.
-  Das Unternehmen *steht kurz davor*, ein neues Produkt auf den Markt zu bringen.
+  The company is about to launch a new product on the market.
 
   Le serveur *apprête* la table pour le service du soir.
-  Der Kellner *richtet* den Tisch für den Abendservice *her*.
+  The waiter sets up the table for the evening service.
 
   L'artisan *apprête* le cuir avec soin.
-  Der Handwerker *behandelt* das Leder sorgfältig.
+  The craftsman treats the leather carefully.
 
   Les danseurs s'*apprêtent* à monter sur scène.
-  Die Tänzer *machen* sich *bereit*, die Bühne zu betreten.
+  The dancers are getting *ready* to enter the stage.
 
   Tu dois *apprêter* ta chambre avant l'arrivée des invités.
-  Du musst dein Zimmer vor der Ankunft der Gäste *herrichten*.
+  You have to set up your room before the guests arrive.
 
   Le photographe *apprête* son matériel pour la séance.
-  Der Fotograf *macht* seine Ausrüstung für die Sitzung *bereit*.
+  The photographer prepares his equipment for the meeting.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

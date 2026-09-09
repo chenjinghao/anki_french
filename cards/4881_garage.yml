@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4881
 Wort: garage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le garage
 Femininum / Plural: ''
 IPA: \ɡa.ʁaʒ\
 Definition: Garage
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Allez au *garage* chercher des voitures.
-  Geht zur *Garage* und holt die Autos.
+  Go to the *garage* and get the cars.
 
   Sophie doit rentrer sa nouvelle voiture au *garage* avant la tempête.
-  Sophie muss ihr neues Auto vor dem Sturm in die *Garage* fahren.
+  Sophie has to drive her new car into the *garage* before the storm.
 
   Le *garage* municipal répare tous types de véhicules.
-  Die städtische *Werkstatt* repariert alle Arten von Fahrzeugen.
+  The urban *workshop* repairs all types of vehicles.
 
   Il a trouvé un emploi dans un *garage* automobile près de chez lui.
-  Er hat einen Job in einer Auto*werkstatt* in seiner Nähe gefunden.
+  He found a job in a garage near him.
 
   Mon père a construit un *garage* pour deux voitures l'année dernière.
-  Mein Vater hat letztes Jahr eine *Garage* für zwei Autos gebaut.
+  My father built a *garage* for two cars last year.
 
   Le *garage* à vélos de l'école est toujours plein le matin.
-  Die Fahrrad*garage* der Schule ist morgens immer voll.
+  The school's bicycle *garage* is always full in the morning.
 
   Les mécaniciens du *garage* ont déjà fini la réparation.
-  Die Mechaniker der *Werkstatt* sind mit der Reparatur schon fertig.
+  The mechanics of the *workshop* are already done with the repair.
 
   Elle loue un *garage* souterrain depuis trois ans.
-  Sie mietet seit drei Jahren eine Tiefgaragen*box*.
+  She's been renting an underground car park for three years.
 
   Après sa promotion ratée, Pierre a été mis sur une *voie de garage*.
-  Nach seiner gescheiterten Beförderung wurde Pierre aufs *Abstellgleis* geschoben.
+  After his failed transport, Pierre was pushed to the siding.
 
   Le *garage* du port peut accueillir une vingtaine de bateaux.
-  Die Boots*garage* am Hafen hat Platz für etwa zwanzig Boote.
+  The boat *garage* at the port has space for about twenty boats.
 
   Cette entreprise de *garage* propose aussi un service de dépannage.
-  Diese *Werkstatt* bietet auch einen Pannendienst an.
+  This *workshop* also offers a breakdown service.
 
   Il faut agrandir le *garage* pour installer un établi.
-  Die *Garage* muss vergrößert werden, um eine Werkbank einzubauen.
+  The *garage* needs to be enlarged to fit a workbench.
 
   Les bus rentrent au *garage* après minuit.
-  Die Busse fahren nach Mitternacht ins *Depot*.
+  Buses leave for the depot after midnight.
 
   Le propriétaire du *garage* prend sa retraite le mois prochain.
-  Der Besitzer der *Werkstatt* geht nächsten Monat in Rente.
+  The owner of the *workshop* retires next month.
 
   Cette voiture d'occasion est un ancien véhicule de *garage*.
-  Dieser Gebrauchtwagen ist ein ehemaliger *Werkstatt*wagen.
+  This used car is a former *workshop* car.
 
   La porte du *garage* ne s'ouvre plus automatiquement.
-  Das *Garagen*tor öffnet sich nicht mehr automatisch.
+  The garage door no longer opens automatically.
 
   J'ai trouvé une annonce pour un *garage* à louer près du centre-ville.
-  Ich habe eine Anzeige für eine *Garage* zur Miete in der Nähe des Stadtzentrums gefunden.
+  I found an ad for a *garage* for rent near the city center.
 
   Le nouveau *garage* propose des véhicules de courtoisie à ses clients.
-  Die neue *Werkstatt* stellt ihren Kunden Leihwagen zur Verfügung.
+  The new *workshop* provides their customers with rental cars.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

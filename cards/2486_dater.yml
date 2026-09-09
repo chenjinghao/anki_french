@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2486
 Wort: dater
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dater
 Femininum / Plural: ''
 IPA: \da.te\
-Definition: datieren, stammen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: date, date and date
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le dernier film concerné *date* de 1990.
-  Der betreffende letzte Film *stammt* aus dem Jahr 1990.
+  The last film in question dates back to 1990.
 
   Cette lettre *date* d'aujourd'hui et doit être envoyée immédiatement.
-  Dieser Brief *datiert* von heute und muss sofort verschickt werden.
+  This letter dates from today and must be sent immediately.
 
   Cette robe *date* un peu, mais elle est toujours élégante.
-  Dieses Kleid ist etwas *altmodisch*, aber immer noch elegant.
+  This dress is somewhat *old-fashioned*, but still elegant.
 
   "Notre amitié ne *date* pas d'hier !"
-  "Unsere Freundschaft *ist* nicht von gestern!"
+  "Our friendship *is* not from yesterday!"
 
   La décision de démissionner *date* de quelques minutes.
-  Die Entscheidung zu kündigen wurde vor einigen Minuten *getroffen*.
+  The decision to terminate was taken a few minutes ago.
 
   À *dater* du premier janvier, les nouvelles règles s'appliqueront.
-  *Ab* dem ersten Januar werden die neuen Regeln gelten.
+  The new rules will apply from the first of January.
 
   Cette découverte a *daté* dans l'histoire de la médecine.
-  Diese Entdeckung war ein *Meilenstein* in der Geschichte der Medizin.
+  This discovery was a *milestone* in the history of medicine.
 
   N'oubliez pas de *dater* et signer le formulaire.
-  Vergessen Sie nicht, das Formular zu *datieren* und zu unterschreiben.
+  Don't forget to *date* and sign the form.
 
   Les archéologues ont *daté* ces ossements du néolithique.
-  Die Archäologen haben diese Knochen auf die Jungsteinzeit *datiert*.
+  Archaeologists *dated* these bones to the Neolithic Age.
 
   Cette rencontre a *daté* dans ma vie.
-  Diese Begegnung war ein *Einschnitt* in meinem Leben.
+  This encounter was an *incision* in my life.
 
   Les experts ont *daté* ce tableau du XVIII<sup>e</sup> siècle.
-  Die Experten haben dieses Gemälde auf das 18. Jahrhundert *datiert*.
+  The experts *dated* this painting to the 18th century.
 
   La construction de cette cathédrale *date* du Moyen Âge.
-  Der Bau dieser Kathedrale *stammt* aus dem Mittelalter.
+  The construction of this cathedral dates back to the Middle Ages.
 
   Son style vestimentaire *date* terriblement.
-  Sein Kleidungsstil ist schrecklich *veraltet*.
+  His style of clothing is terribly *outdated*.
 
   La tradition *date* de plusieurs siècles.
-  Die Tradition *reicht* mehrere Jahrhunderte *zurück*.
+  The tradition goes *back* several centuries.
 
   Le document est *daté* du 15 mars 2024.
-  Das Dokument *trägt* das Datum vom 15. März 2024.
+  The document is dated 15 March 2024.
 
   Cette invention *datera* dans l'histoire des technologies.
-  Diese Erfindung wird in die Geschichte der Technologie *eingehen*.
+  This invention will go down in the history of technology.
 
   Les chercheurs ont réussi à *dater* précisément le manuscrit.
-  Den Forschern ist es gelungen, das Manuskript genau zu *datieren*.
+  The researchers have succeeded in dating the manuscript exactly.
 
   Cette photo est *datée* de Londres, juin 1985.
-  Dieses Foto ist mit London, Juni 1985 *datiert*.
+  This photo is *dated* London, June 1985.
 
   Son nouveau roman *date* déjà un peu.
-  Sein neuer Roman wirkt schon etwas *angestaubt*.
+  His new novel seems a little dusty.
 
   Cette méthode ne *date* pas d'hier, mais elle reste efficace.
-  Diese Methode *ist* nicht neu, aber sie ist noch immer effektiv.
+  This method *is* not new, but it is still effective.
 
   Le début de leur relation *date* de cette soirée mémorable.
-  Der Beginn ihrer Beziehung *geht* auf diesen denkwürdigen Abend *zurück*.
+  The beginning of their relationship dates *back* to this memorable evening.
 
   À *dater* d'aujourd'hui, je commence un nouveau régime.
-  Von heute *an* beginne ich mit einer neuen Diät.
+  From now on, I'm starting a new diet.
 
   Cette expression *date* de l'époque médiévale.
-  Dieser Ausdruck *stammt* aus dem Mittelalter.
+  This expression dates back to the Middle Ages.
 
   Les géologues ont *daté* ces roches au carbone 14.
-  Die Geologen haben diese Gesteine mit der Radiokohlenstoffmethode *datiert*.
+  Geologists *dated* these rocks using the radiocarbon method.
 
   Le journal est *daté* du 3 mai.
-  Die Zeitung *trägt* das Datum vom 3. Mai.
+  The newspaper bears the date of May 3rd.
 
   Leur amitié *date* de l'université.
-  Ihre Freundschaft *stammt* aus der Studienzeit.
+  Your friendship *comes from* the time of study.
 
   Cette décoration intérieure *date* terriblement.
-  Diese Inneneinrichtung ist sehr *altmodisch*.
+  This interior is very *old-fashioned*.
 
   Sa passion pour la musique *date* de son enfance.
-  Seine Leidenschaft für Musik *reicht* bis in seine Kindheit *zurück*.
+  His passion for music goes *back* to his childhood.
 
   Le premier courriel *date* des années 1970.
-  Die erste E-Mail *stammt* aus den 1970er Jahren.
+  The first e-mail *comes from* the 1970s.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4605
 Wort: troublant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: troublant
 Femininum / Plural: troublante
 IPA: \tʁu.blɑ̃\
-Definition: verwirrend, beunruhigend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: confusing, disturbing
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est là quelque chose de très *troublant*.
-  Das ist etwas sehr *Beunruhigendes*.
+  This is something very disturbing.
 
   Cette coïncidence *troublante* ne peut pas être le fruit du hasard.
-  Diese *irritierende* Koinzidenz kann kein Zufall sein.
+  This *irritating* coincidence cannot be a coincidence.
 
   Un silence *troublant* s'est installé dans la pièce.
-  Eine *beunruhigende* Stille breitete sich im Raum aus.
+  A disturbing silence spread in the room.
 
   Elle avait une ressemblance *troublante* avec ma sœur.
-  Sie hatte eine *verwirrende* Ähnlichkeit mit meiner Schwester.
+  She had a *confusing* resemblance to my sister.
 
   J'ai fait un rêve *troublant* la nuit dernière.
-  Ich hatte letzte Nacht einen *merkwürdigen* Traum.
+  I had a *strange* dream last night.
 
   Les détectives ont découvert des faits *troublants* pendant l'enquête.
-  Die Detektive haben während der Ermittlung *beunruhigende* Fakten entdeckt.
+  The detectives discovered disturbing facts during the investigation.
 
   Son parfum *troublant* flottait encore dans l'air.
-  Ihr *aufregendes* Parfüm schwebte noch in der Luft.
+  Her *exciting* perfume was still floating in the air.
 
   Le mystère devient de plus en plus *troublant*.
-  Das Mysterium wird immer *seltsamer*.
+  The mystery is becoming more and more strange.
 
   Cette musique a quelque chose de *troublant*.
-  Diese Musik hat etwas *Verstörendes*.
+  This music has something *disturbing*.
 
   Des événements *troublants* se sont produits dans cette maison.
-  In diesem Haus haben sich *beunruhigende* Ereignisse zugetragen.
+  This House has witnessed disturbing events.
 
   Un bruit *troublant* nous a réveillés en pleine nuit.
-  Ein *störendes* Geräusch hat uns mitten in der Nacht geweckt.
+  A *disturbing* sound woke us up in the middle of the night.
 
   Il y avait une atmosphère *troublante* dans ce vieux théâtre abandonné.
-  In diesem alten, verlassenen Theater herrschte eine *unheimliche* Atmosphäre.
+  In this old abandoned theatre there was an uncanny atmosphere.
 
   Cette découverte *troublante* remet tout en question.
-  Diese *irritierende* Entdeckung stellt alles in Frage.
+  This *irritating* discovery questions everything.
 
   Les témoins ont rapporté des détails *troublants*.
-  Die Zeugen berichteten *beunruhigende* Details.
+  The Witnesses reported disturbing details.
 
   Une mélodie *troublante* s'échappait du piano.
-  Eine *verwirrende* Melodie entwich dem Klavier.
+  A *confusing* melody escaped the piano.
 
   Ces indices *troublants* suggèrent une autre explication.
-  Diese *beunruhigenden* Hinweise deuten auf eine andere Erklärung hin.
+  These disturbing indications point to another explanation.
 
   Un sentiment *troublant* l'envahit soudainement.
-  Ein *verwirrendes* Gefühl überkam sie plötzlich.
+  A *confusing* feeling suddenly overcame her.
 
   La nouvelle a eu un effet *troublant* sur tout le monde.
-  Die Nachricht hatte eine *verstörende* Wirkung auf alle.
+  The message had a *disturbing* effect on everyone.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

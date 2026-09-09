@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4221
 Wort: banal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: banal
 Femininum / Plural: banale,banals
 IPA: \ba.nal\
-Definition: gewöhnlich, alltäglich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: common, common
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La situation est devenue presque *banale*.
-  Die Situation ist fast schon *alltäglich* geworden.
+  The situation has become almost everyday.
 
   Les meubles de l'appartement étaient très *banals*.
-  Die Möbel der Wohnung waren sehr *gewöhnlich*.
+  The furniture of the apartment was very *common*.
 
   Il ne faut pas négliger les incidents *banals*.
-  Man sollte *alltägliche* Vorfälle nicht unterschätzen.
+  You should not underestimate everyday incidents.
 
   Cette expression est devenue tellement *banale*.
-  Dieser Ausdruck ist so *abgedroschen* geworden.
+  This expression has become so *throbbing*.
 
   Cette femme a un visage plutôt *banal*.
-  Diese Frau hat ein eher *durchschnittliches* Gesicht.
+  This woman has a rather *average* face.
 
   Son comportement *banal* cache une personnalité complexe.
-  Sein *gewöhnliches* Verhalten verbirgt eine komplexe Persönlichkeit.
+  His usual behavior hides a complex personality.
 
   Ces compliments *banals* ne m'impressionnent pas.
-  Diese *abgedroschenen* Komplimente beeindrucken mich nicht.
+  These throbbing compliments don't impress me.
 
   C'était un dimanche *banal* comme les autres.
-  Es war ein *gewöhnlicher* Sonntag wie jeder andere.
+  It was an ordinary Sunday like any other.
 
   Je ne veux pas mener une vie *banale*.
-  Ich möchte kein *durchschnittliches* Leben führen.
+  I don't want to live an *average* life.
 
   Cette histoire n'a rien de *banal*.
-  Diese Geschichte ist alles andere als *gewöhnlich*.
+  This story is anything but ordinary.
 
   Il a prononcé quelques phrases *banales* avant de partir.
-  Er sagte ein paar *belanglose* Sätze, bevor er ging.
+  He said a few *inconsequential* sentences before he left.
 
   Ce restaurant propose des plats plutôt *banals*.
-  Dieses Restaurant bietet eher *gewöhnliche* Gerichte an.
+  This restaurant offers more ordinary dishes.
 
   Son style d'écriture est devenu très *banal*.
-  Sein Schreibstil ist sehr *abgedroschen* geworden.
+  His writing style has become very *throbbing*.
 
   Les problèmes *banals* du quotidien nous occupent trop souvent.
-  Die *alltäglichen* Probleme beschäftigen uns zu oft.
+  The *everyday* problems concern us too often.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

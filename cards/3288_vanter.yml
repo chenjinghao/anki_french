@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3288
 Wort: vanter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: vanter
 Femininum / Plural: ''
 IPA: \vɑ̃.te\
-Definition: (an-)preisen; angeben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (in) prices; specify
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Je suis con et je m'en *vante*."
-  "Ich bin ein Idiot und *prahle* auch noch damit."
+  "I'm an idiot, and I'm also bragging about it."
 
   Elle *vante* toujours les mérites de sa nouvelle voiture.
-  Sie *preist* ständig die Vorzüge ihres neuen Autos *an*.
+  It constantly extols the advantages of its new car.
 
   Je ne veux pas me *vanter*, mais j'ai gagné tous les matchs.
-  Ohne *prahlen* zu wollen, aber ich habe alle Spiele gewonnen.
+  Without *bragging*, but I won all the games.
 
   Le vendeur *vantait* les qualités exceptionnelles de ce produit.
-  Der Verkäufer *pries* die außergewöhnlichen Eigenschaften dieses Produkts *an*.
+  The seller praised the exceptional properties of this product.
 
   "Il se *vante* tout le temps de ses exploits sportifs."
-  "Er *prahlt* ständig mit seinen sportlichen Leistungen."
+  "He's always *bragging* about his sporting achievements."
 
   Cette publicité *vante* les bienfaits des produits bio.
-  Diese Werbung *preist* die Vorteile von Bio-Produkten *an*.
+  This advertisement extols the advantages of organic products.
 
   Sans me *vanter*, je suis plutôt doué en mathématiques.
-  Ohne mich *rühmen* zu wollen, ich bin ziemlich gut in Mathe.
+  Without *boasting*, I'm pretty good at math.
 
   Les critiques ont beaucoup *vanté* ce nouveau film.
-  Die Kritiker haben diesen neuen Film sehr *gelobt*.
+  The critics *praised* this new film very much.
 
   Il n'y a vraiment pas de quoi se *vanter* !
-  Das ist wirklich kein Grund zu *prahlen*!
+  That's really no reason to brag!
 
   Marie *vante* toujours les talents culinaires de sa grand-mère.
-  Marie *lobt* immer die Kochkünste ihrer Großmutter in den höchsten Tönen.
+  Marie always praises her grandmother's cooking skills in the highest tones.
 
   Le guide touristique *vantait* les beautés de la région.
-  Der Reiseführer *pries* die Schönheiten der Region.
+  The travel guide praised the beauties of the region.
 
   Il s'est *vanté* d'avoir résolu le problème tout seul.
-  Er hat damit *geprahlt*, das Problem alleine gelöst zu haben.
+  He *bragged* about solving the problem by himself.
 
   La brochure *vante* les avantages de cette destination.
-  Die Broschüre *preist* die Vorzüge dieses Reiseziels *an*.
+  The brochure exemplifies the advantages of this destination.
 
   Tout le monde *vante* ses qualités de leader.
-  Alle *loben* seine Führungsqualitäten in den höchsten Tönen.
+  All *praise* his leadership qualities in the highest tones.
 
   "Tu te *vantes* toujours de tes bonnes notes !"
-  "Du *prahlst* immer mit deinen guten Noten!"
+  "You always brag about your good grades!"
 
   Les médecins ont *vanté* l'efficacité de ce traitement.
-  Die Ärzte haben die Wirksamkeit dieser Behandlung *gepriesen*.
+  Doctors have *praised* the effectiveness of this treatment.
 
   Elle ne s'est jamais *vantée* de sa réussite.
-  Sie hat nie mit ihrem Erfolg *geprahlt*.
+  She never *bragged* about her success.
 
   Cette entreprise *vante* la qualité de ses services.
-  Dieses Unternehmen *preist* die Qualität seiner Dienstleistungen *an*.
+  This company praises the quality of its services.
 
   Pierre se *vante* de pouvoir parler cinq langues.
-  Pierre *rühmt* sich damit, fünf Sprachen sprechen zu können.
+  Pierre boasts of being able to speak five languages.
 
   Les journaux ont *vanté* ses talents d'artiste.
-  Die Zeitungen haben ihre künstlerischen Fähigkeiten *gepriesen*.
+  The newspapers have *praised* their artistic abilities.
 
   Ce restaurant très *vanté* ne m'a pas vraiment impressionné.
-  Dieses viel *gepriesene* Restaurant hat mich nicht wirklich beeindruckt.
+  This much *praised* restaurant didn't really impress me.
 
   Il aime se *vanter* de ses voyages exotiques.
-  Er *prahlt* gerne mit seinen exotischen Reisen.
+  He likes to brag about his exotic travels.
 
   La presse *vante* les mérites de cette nouvelle technologie.
-  Die Presse *preist* die Vorzüge dieser neuen Technologie.
+  The press praises the advantages of this new technology.
 
   Nos concurrents se *vantent* d'être les meilleurs du marché.
-  Unsere Konkurrenten *rühmen* sich damit, die Besten auf dem Markt zu sein.
+  Our competitors boast of being the best in the market.
 
   Le poète *vante* la beauté de la nature dans ses vers.
-  Der Dichter *preist* die Schönheit der Natur in seinen Versen.
+  The poet extols the beauty of nature in his verses.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

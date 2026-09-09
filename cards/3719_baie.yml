@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3719
 Wort: baie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la baie
 Femininum / Plural: ''
 IPA: \bɛ\
-Definition: Bucht; Beere
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Bay; Berry
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *baie* immense de Naples s'éployait sans fin.
-  Die riesige *Bucht* von Neapel erstreckte sich endlos.
+  The huge *bay* of Naples stretched endlessly.
 
   Les pêcheurs ont trouvé refuge dans une petite *baie* abritée.
-  Die Fischer fanden Zuflucht in einer kleinen geschützten *Bucht*.
+  The fishermen found refuge in a small sheltered *bay*.
 
   La maison dispose d'une grande *baie* vitrée donnant sur le jardin.
-  Das Haus verfügt über ein großes *Fenster* mit Blick auf den Garten.
+  The house has a large *window* overlooking the garden.
 
   Les *baies* de genévrier sont utilisées pour aromatiser le gin.
-  Die Wacholder*beeren* werden zur Aromatisierung von Gin verwendet.
+  The juniper *berries* are used to flavour gin.
 
   La *baie* de San Francisco est connue pour son célèbre pont.
-  Die *Bucht* von San Francisco ist für ihre berühmte Brücke bekannt.
+  The *Bay* of San Francisco is known for its famous bridge.
 
   L'architecte a conçu une *baie* circulaire pour laisser entrer plus de lumière.
-  Der Architekt entwarf ein rundes *Fenster*, um mehr Licht hineinzulassen.
+  The architect designed a round *window* to let more light in.
 
   Les oiseaux se régalent des *baies* rouges du houx en hiver.
-  Die Vögel erfreuen sich im Winter an den roten Stechpalmen*beeren*.
+  The birds enjoy the red stingy *berries* in winter.
 
   La *baie* des Trépassés en Bretagne est réputée pour ses légendes.
-  Die *Bucht* der Verstorbenen in der Bretagne ist für ihre Legenden bekannt.
+  The *Bay* of the Dead in Brittany is known for its legends.
 
   Les framboises sont des *baies* composées de petites drupéoles.
-  Himbeeren sind zusammengesetzte *Beeren* aus kleinen Steinfrüchtchen.
+  Raspberries are composed *berries* of small stone fruit.
 
   Une large *baie* ouverte permet d'admirer le paysage montagneux.
-  Ein großes offenes *Fenster* ermöglicht es, die Berglandschaft zu bewundern.
+  A large open *window* allows you to admire the mountain landscape.
 
   La *baie* de Somme est réputée pour sa biodiversité exceptionnelle.
-  Die *Bucht* der Somme ist für ihre außergewöhnliche Biodiversität bekannt.
+  The *bay* of the Somme is known for its exceptional biodiversity.
 
   Les myrtilles sont des *baies* riches en antioxydants.
-  Heidelbeeren sind *Beeren* mit einem hohen Anteil an Antioxidantien.
+  Blueberries are *berries* with a high percentage of antioxidants.
 
   L'hôtel offre une vue imprenable sur la *baie* de Rio.
-  Das Hotel bietet einen atemberaubenden Blick auf die *Bucht* von Rio.
+  The hotel offers stunning views of the *bay* of Rio.
 
   Le mur de la cuisine comporte une *baie* coulissante menant à la terrasse.
-  Die Küchenwand hat eine Schiebe*tür*, die zur Terrasse führt.
+  The kitchen wall has a sliding *door* leading to the terrace.
 
   Les enfants cueillent des *baies* sauvages dans la forêt.
-  Die Kinder pflücken wilde *Beeren* im Wald.
+  The children pick wild *berries* in the forest.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

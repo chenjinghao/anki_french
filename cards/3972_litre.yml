@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3972
 Wort: litre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le litre
 Femininum / Plural: ''
 IPA: \litʁ\
 Definition: Liter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il vient de boire deux *litres* de bière d'un coup.
-  Er hat gerade zwei *Liter* Bier auf einmal getrunken.
+  He just drank two liters of beer at once.
 
   Pour cette recette, il faut un *litre* de lait frais.
-  Für dieses Rezept braucht man einen *Liter* frische Milch.
+  This recipe requires a litre of fresh milk.
 
   Le réservoir contient encore cinq *litres* d'essence.
-  Der Tank enthält noch fünf *Liter* Benzin.
+  The tank still contains five liters of gasoline.
 
   Les médecins recommandent de boire au moins deux *litres* d'eau par jour.
-  Ärzte empfehlen, mindestens zwei *Liter* Wasser pro Tag zu trinken.
+  Doctors recommend drinking at least two litres of water a day.
 
   Cette voiture est équipée d'un moteur de trois *litres*.
-  Dieses Auto ist mit einem Drei-*Liter*-Motor ausgestattet.
+  This car is equipped with a three-litre engine.
 
   "Passe-moi un *litre* de rouge pour le dîner !"
-  "Reich mir eine *Liter*flasche Rotwein fürs Abendessen!"
+  "Give me a *liter* of red wine for dinner!"
 
   La capacité de ce réfrigérateur est de 400 *litres*.
-  Die Kapazität dieses Kühlschranks beträgt 400 *Liter*.
+  The capacity of this refrigerator is 400 liters.
 
   Nous avons besoin d'un *litre* de crème fraîche pour la sauce.
-  Wir brauchen einen *Liter* Sahne für die Soße.
+  We need a *liter* of cream for the sauce.
 
   Ce nouveau bidon contient cinq *litres* d'huile d'olive.
-  Dieser neue Kanister enthält fünf *Liter* Olivenöl.
+  This new canister contains five liters of olive oil.
 
   J'ai acheté un *litre* de moules au marché.
-  Ich habe einen *Liter* Muscheln auf dem Markt gekauft.
+  I bought a *liter* of shellfish at the market.
 
   Le vendeur utilise un *litre* en bois pour mesurer les haricots.
-  Der Verkäufer benutzt ein *Liter*maß aus Holz zum Abmessen der Bohnen.
+  The seller uses a *liter* of wood to measure the beans.
 
   Nos poumons peuvent contenir jusqu'à six *litres* d'air.
-  Unsere Lungen können bis zu sechs *Liter* Luft fassen.
+  Our lungs can hold up to six liters of air.
 
   Marie verse deux *litres* de jus d'orange dans le punch.
-  Marie gießt zwei *Liter* Orangensaft in die Bowle.
+  Marie pours two liters of orange juice into the bowl.
 
   Le récipient gradué indique précisément un *litre*.
-  Das Messgefäß zeigt genau einen *Liter* an.
+  The measuring vessel shows exactly one litre.
 
   Ce *litre* en étain date du XIX<sup>e</sup> siècle.
-  Dieses *Liter*maß aus Zinn stammt aus dem 19. Jahrhundert.
+  This tin-sized litre is from the 19th century.
 
   Le fermier remplit son seau avec trois *litres* de grain.
-  Der Bauer füllt seinen Eimer mit drei *Litern* Getreide.
+  The farmer fills his bucket with three litres of grain.
 
   As-tu un *litre* à mesurer pour la farine ?
-  Hast du ein *Liter*maß für das Mehl?
+  Do you have a *liter* for the flour?
 
   La bouteille d'un *litre* est plus économique que deux de 50 cl.
-  Die Ein-*Liter*-Flasche ist günstiger als zwei 50-cl-Flaschen.
+  The one-litre bottle is cheaper than two 50-cl bottles.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

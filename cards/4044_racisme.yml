@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4044
 Wort: racisme
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le racisme
 Femininum / Plural: ''
 IPA: \ʁa.sism\
-Definition: Rassismus
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Racism
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette fausse image contribue au *racisme*.
-  Dieses falsche Bild trägt zum *Rassismus* bei.
+  This false image contributes to *racism*.
 
   La lutte contre le *racisme* reste d'une actualité brûlante.
-  Der Kampf gegen *Rassismus* bleibt hochaktuell.
+  The fight against *racism* remains highly topical.
 
   Le *racisme* systémique persiste dans certaines institutions.
-  Der systemische *Rassismus* besteht in manchen Institutionen weiter.
+  Systemic *racism* persists in some institutions.
 
   Les réseaux sociaux amplifient parfois le *racisme* ordinaire.
-  Soziale Medien verstärken manchmal den alltäglichen *Rassismus*.
+  Social media sometimes reinforce everyday *racism*.
 
   Le *racisme anti-jeunes* se manifeste souvent dans le monde du travail.
-  Die *Feindseligkeit gegenüber Jugendlichen* zeigt sich oft in der Arbeitswelt.
+  Animosity towards young people often manifests itself in the world of work.
 
   Les préjugés et le *racisme* n'ont pas leur place dans notre société moderne.
-  Vorurteile und *Rassismus* haben keinen Platz in unserer modernen Gesellschaft.
+  Prejudice and *racism* have no place in our modern society.
 
   Cette association lutte activement contre le *racisme* depuis vingt ans.
-  Dieser Verein kämpft seit zwanzig Jahren aktiv gegen *Rassismus*.
+  This association has been actively fighting against *racism* for twenty years.
 
   Le *racisme* peut prendre des formes très subtiles.
-  *Rassismus* kann sehr subtile Formen annehmen.
+  *Racism* can take very subtle forms.
 
   Son livre examine les origines historiques du *racisme*.
-  Sein Buch untersucht die historischen Ursprünge des *Rassismus*.
+  His book examines the historical origins of *racism*.
 
   Les écoles jouent un rôle crucial dans la prévention du *racisme*.
-  Schulen spielen eine entscheidende Rolle bei der Prävention von *Rassismus*.
+  Schools play a crucial role in preventing *racism*.
 
   Le *racisme* sur Internet devient un problème de plus en plus préoccupant.
-  *Rassismus* im Internet wird zu einem immer besorgniserregenderen Problem.
+  *Racism* on the Internet is becoming an increasingly worrying problem.
 
   Des études montrent que le *racisme* affecte la santé mentale des victimes.
-  Studien zeigen, dass *Rassismus* die psychische Gesundheit der Betroffenen beeinträchtigt.
+  Studies show that *racism* affects the mental health of those affected.
 
   La convention internationale condamne toutes les formes de *racisme*.
-  Die internationale Konvention verurteilt alle Formen von *Rassismus*.
+  The international convention condemns all forms of *racism*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

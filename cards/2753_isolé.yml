@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2753
 Wort: isolé
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: isolé
 Femininum / Plural: isolée
 IPA: \i.zɔ.le\
-Definition: abgelegen, vereinzelnt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: remote, isolated
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Dans quelques semaines, on sera *isolés* par la glace.
-  In ein paar Wochen werden wir durch das Eis *isoliert* sein.
+  In a few weeks, we'll be isolated from the ice.
 
   La maison *isolée* se trouve à trois kilomètres du village.
-  Das *abgelegene* Haus liegt drei Kilometer vom Dorf entfernt.
+  The *remote* house is three kilometers from the village.
 
   Des arbres *isolés* parsèment le paysage désertique.
-  *Einzelne* Bäume sind über die Wüstenlandschaft verstreut.
+  *Individual* trees are scattered over the desert landscape.
 
   Marie élève ses enfants comme mère *isolée*.
-  Marie erzieht ihre Kinder als *allein*erziehende Mutter.
+  Marie educates her children as a single mother.
 
   Cette ferme *isolée* n'a pas d'électricité.
-  Dieser *einsam gelegene* Bauernhof hat keinen Strom.
+  This *lonely* farm has no electricity.
 
   Il vit *isolé* depuis son divorce.
-  Seit seiner Scheidung lebt er *zurückgezogen*.
+  Since his divorce, he has been living in seclusion.
 
   Ce n'est pas un cas *isolé* de fraude.
-  Das ist kein *Einzel*fall von Betrug.
+  This is not an isolated case of fraud.
 
   Le fil électrique mal *isolé* représente un danger.
-  Das schlecht *isolierte* Elektrokabel stellt eine Gefahr dar.
+  The poorly *insulated* electric cable is a danger.
 
   Des applaudissements *isolés* ont suivi son discours.
-  *Vereinzeltes* Klatschen folgte seiner Rede.
+  *Single* clapping followed his speech.
 
   Un tireur *isolé* a été repéré sur le toit.
-  Ein *einzelner* Schütze wurde auf dem Dach gesichtet.
+  A single shooter was spotted on the roof.
 
   La statue *isolée* domine la place centrale.
-  Die *freistehende* Statue dominiert den zentralen Platz.
+  The *freestanding* statue dominates the central square.
 
   Les personnes âgées se sentent souvent *isolées*.
-  Ältere Menschen fühlen sich oft *isoliert*.
+  Older people often feel isolated.
 
   Un grand chêne *isolé* marque l'entrée du domaine.
-  Eine große *alleinstehende* Eiche markiert den Eingang des Anwesens.
+  A large single oak indicates the entrance of the property.
 
   Cette région *isolée* manque d'infrastructures.
-  Diese *abgelegene* Region hat keine Infrastruktur.
+  This *remote* region has no infrastructure.
 
   Les actes de vandalisme *isolés* inquiètent les habitants.
-  Die *vereinzelten* Vandalismusfälle beunruhigen die Bewohner.
+  The *isolated* cases of vandalism disturb the inhabitants.
 
   La pièce est bien *isolée* contre le bruit.
-  Der Raum ist gut schall*isoliert*.
+  The room is well soundproofed.
 
   Un monument *isolé* attire l'attention des touristes.
-  Ein *freistehendes* Denkmal zieht die Aufmerksamkeit der Touristen auf sich.
+  A *freestanding* monument attracts the attention of tourists.
 
   Les chercheurs étudient ce système *isolé*.
-  Die Forscher untersuchen dieses *isolierte* System.
+  The researchers are investigating this isolated system.
 
   Le petit village *isolé* est accessible uniquement à pied.
-  Das kleine *abgelegene* Dorf ist nur zu Fuß erreichbar.
+  The small *remote* village is only within walking distance.
 
   Elle se sent *isolée* dans son nouveau quartier.
-  Sie fühlt sich in ihrer neuen Nachbarschaft *isoliert*.
+  She feels isolated in her new neighborhood.
 
   Le clocher *isolé* est visible de loin.
-  Der *freistehende* Kirchturm ist von weitem sichtbar.
+  The *freestanding* church tower is visible from afar.
 
   Ces phénomènes ne sont pas *isolés*.
-  Diese Phänomene sind keine *Einzel*fälle.
+  These phenomena are not isolated cases.
 
   Un soldat *isolé* a demandé de l'aide par radio.
-  Ein *einzelner* Soldat hat per Funk um Hilfe gebeten.
+  A single soldier called for help by radio.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

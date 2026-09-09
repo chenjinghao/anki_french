@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2453
 Wort: intituler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: intituler
 Femininum / Plural: ''
 IPA: \ɛ̃.ti.ty.le\
-Definition: betiteln
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Title
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La séquence *s'intitulera* « cinq minutes pour survivre ».
-  Die Sequenz wird den *Titel* "Fünf Minuten zum Überleben" *tragen*.
+  The sequence will bear the *title* "Five minutes to survive".
 
   Comment *intituler* votre prochain article ?
-  Welchen *Titel* werden Sie Ihrem nächsten Artikel *geben*?
+  What *title* will you *give* your next article?
 
   Son dernier roman *s'intitule* « Les chemins de la liberté ».
-  Sein neuester Roman *trägt den Titel* „Die Wege der Freiheit".
+  His latest novel is entitled "The Ways of Freedom".
 
   Le chapitre trois est *intitulé* « La grande aventure ».
-  Das dritte Kapitel ist mit „Das große Abenteuer" *betitelt*.
+  The third chapter is entitled "The Great Adventure".
 
   Il *s'intitule* expert en marketing sans avoir de diplôme.
-  Er *nennt sich* Marketingexperte, ohne einen Abschluss zu haben.
+  He calls himself a marketing expert without having a degree.
 
   L'auteur a *intitulé* sa nouvelle collection « Voyages imaginaires ».
-  Der Autor hat seine neue Sammlung „Imaginäre Reisen" *betitelt*.
+  The author has *titled* his new collection "Imaginary Travels".
 
   Je ne me souviens plus comment *s'intitulait* ce documentaire.
-  Ich erinnere mich nicht mehr, welchen *Titel* diese Dokumentation *hatte*.
+  I don't remember the titles of this documentary.
 
   Le jugement est *intitulé* « Au nom du peuple français ».
-  Das Urteil ist mit „Im Namen des französischen Volkes" *betitelt*.
+  The verdict is entitled "In the name of the French people".
 
   Pourquoi avez-vous *intitulé* votre exposition « Rêves d'été » ?
-  Warum haben Sie Ihre Ausstellung „Sommerträume" *betitelt*?
+  Why have you *titled* your exhibition "Summer Dreams"?
 
   Le poème *s'intitule* simplement « Amour ».
-  Das Gedicht *trägt* einfach den *Titel* „Liebe".
+  The poem simply bears the *title* "Love".
 
   Elle a *intitulé* sa thèse « L'art de la Renaissance ».
-  Sie hat ihre Dissertation „Die Kunst der Renaissance" *betitelt*.
+  She has *titled* her dissertation "The Art of the Renaissance".
 
   La pièce de théâtre *s'intitulera* « Le dernier acte ».
-  Das Theaterstück wird den *Titel* „Der letzte Akt" tragen.
+  The play will be entitled "The Last Act".
 
   Le premier chapitre est *intitulé* « Introduction à la philosophie ».
-  Das erste Kapitel ist mit „Einführung in die Philosophie" *betitelt*.
+  The first chapter is entitled "Introduction to Philosophy".
 
   Cette émission *s'intitule* « À la découverte du monde ».
-  Diese Sendung *trägt den Titel* „Auf Weltentdeckung".
+  This mission is entitled "On World Discovery. "
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1721
 Wort: circuler
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: circuler
 Femininum / Plural: ''
 IPA: \siʁ.ky.le\
-Definition: zirkulieren, fahren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: circulation, driving
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle peut désormais *circuler* librement.
-  Sie kann sich jetzt frei *bewegen*.
+  She can *move* freely now.
 
   Les voitures *circulent* mal dans le centre-ville aujourd'hui.
-  Die Autos *fahren* heute schlecht durch die Innenstadt.
+  The cars are *driving* badly through the city centre today.
 
   Le sang *circule* plus vite quand on fait du sport.
-  Das Blut *fließt* schneller, wenn man Sport macht.
+  The blood *flows* faster when you do sports.
 
   Ces faux billets *circulent* depuis des mois.
-  Diese gefälschten Scheine *sind* seit Monaten im *Umlauf*.
+  These fake bills have been in *circulation* for months.
 
   La pétition *circule* dans tous les bureaux.
-  Die Petition *zirkuliert* in allen Büros.
+  The petition circulates in all offices.
 
   "*Circulez*, s'il vous plaît !" a crié le policier.
-  "*Gehen Sie weiter*, bitte!" rief der Polizist.
+  "Keep going, please!" cried the policeman.
 
   Une étrange rumeur *circule* dans notre village.
-  Ein seltsames Gerücht *kursiert* in unserem Dorf.
+  There's a strange rumor in our village.
 
   On ne peut pas *circuler* à vélo sur cette route.
-  Man kann auf dieser Straße nicht mit dem Fahrrad *fahren*.
+  You can't ride a bike on this road.
 
   L'air chaud *circule* dans tout l'appartement.
-  Die warme Luft *zirkuliert* in der ganzen Wohnung.
+  The warm air circulates throughout the apartment.
 
   Cette histoire *circule* depuis des semaines.
-  Diese Geschichte *kursiert* seit Wochen.
+  This story has been circulating for weeks.
 
   Les capitaux *circulent* librement entre ces pays.
-  Das Kapital *zirkuliert* frei zwischen diesen Ländern.
+  Capital circulates freely between these countries.
 
   En Angleterre, on *circule* à gauche.
-  In England *fährt* man links.
+  In England you drive left.
 
   La sève *circule* dans les arbres au printemps.
-  Der Saft *fließt* im Frühling in den Bäumen.
+  The juice *flows* in the trees in spring.
 
   Les plats *circulent* autour de la table.
-  Die Gerichte *werden* am Tisch herum*gereicht*.
+  The dishes are served at the table.
 
   Les trains ne *circulent* pas aujourd'hui.
-  Die Züge *fahren* heute nicht.
+  The trains aren't running today.
 
   Les passants *circulent* tranquillement dans la rue.
-  Die Passanten *gehen* ruhig die Straße entlang.
+  The passers-by walk quietly along the street.
 
   Le livre a *circulé* sous le manteau pendant des années.
-  Das Buch *wurde* jahrelang heimlich *weitergegeben*.
+  The book was secretly *passed on* for years.
 
   Les enfants *circulent* entre les rayons du magasin.
-  Die Kinder *laufen* zwischen den Regalen des Geschäfts *umher*.
+  The children walk between the shelves of the business.
 
   Cette information *circule* déjà sur internet.
-  Diese Information *kursiert* bereits im Internet.
+  This information is already circulating on the Internet.
 
   Le vin *circule* parmi les invités.
-  Der Wein *wird* unter den Gästen herum*gereicht*.
+  The wine is *passed* among the guests.
 
   Les agents font *circuler* la foule.
-  Die Beamten lassen die Menge *weitergehen*.
+  The officials keep the crowd going.
 
   L'oxygène *circule* mal dans ses poumons.
-  Der Sauerstoff *fließt* schlecht durch seine Lungen.
+  Oxygen's not flowing through his lungs.
 
   Les bus *circulent* toute la nuit.
-  Die Busse *fahren* die ganze Nacht.
+  Buses run all night.
 
   Comment *circuler* dans une ville qu'on ne connaît pas ?
-  Wie soll man sich in einer fremden Stadt *fortbewegen*?
+  How do you *move* in a strange city?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3948
 Wort: prédécesseur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le prédécesseur
 Femininum / Plural: ''
 IPA: \pʁe.de.se.sœʁ\
-Definition: Vorgänger
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Predecessors
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est substantiellement semblable à son *prédécesseur*.
-  Er ist im Wesentlichen seinem *Vorgänger* ähnlich.
+  It is essentially similar to its predecessor.
 
   Les méthodes du nouveau directeur sont très différentes de celles de son *prédécesseur*.
-  Die Methoden des neuen Direktors unterscheiden sich stark von denen seines *Vorgängers*.
+  The methods of the new director differ greatly from those of his *predecessor*.
 
   Elle a occupé ce poste pendant plus longtemps que son *prédécesseur*.
-  Sie hat diese Position länger inne als ihre *Vorgängerin*.
+  She holds this position longer than her *predecessor*.
 
   Ce roman s'inspire largement des œuvres de ses *prédécesseurs*.
-  Dieser Roman ist stark von den Werken seiner *Vorgänger* inspiriert.
+  This novel is strongly inspired by the works of its *predecessors*.
 
   Mon *prédécesseur* immédiat a laissé le bureau dans un état impeccable.
-  Mein unmittelbarer *Vorgänger* hat das Büro in einem tadellosen Zustand hinterlassen.
+  My immediate predecessor left the office in impeccable condition.
 
   Nos *prédécesseurs* nous ont transmis un riche patrimoine culturel.
-  Unsere *Vorgänger* haben uns ein reiches kulturelles Erbe hinterlassen.
+  Our *predecessors* have left us a rich cultural heritage.
 
   Je souhaite continuer le travail remarquable de mon *prédécesseur*.
-  Ich möchte die bemerkenswerte Arbeit meiner *Vorgängerin* fortsetzen.
+  I would like to continue the remarkable work of my *predecessor*.
 
   Le nouveau président a remercié son *prédécesseur* lors de son discours inaugural.
-  Der neue Präsident dankte seinem *Vorgänger* in seiner Antrittsrede.
+  The new president thanked his predecessor in his inaugural speech.
 
   Cette découverte scientifique surpasse toutes celles de ses *prédécesseurs*.
-  Diese wissenschaftliche Entdeckung übertrifft alle ihrer *Vorgänger*.
+  This scientific discovery surpasses all its *predecessors*.
 
   Le *prédécesseur* de Pierre avait établi des règles très strictes.
-  Pierres *Vorgänger* hatte sehr strenge Regeln aufgestellt.
+  Pierre's predecessor had set very strict rules.
 
   Les erreurs de nos *prédécesseurs* nous servent de leçon.
-  Die Fehler unserer *Vorgänger* dienen uns als Lehre.
+  The mistakes of our *predecessors* serve as a lesson.
 
   Marie n'a jamais rencontré son *prédécesseur* dans l'entreprise.
-  Marie hat ihre *Vorgängerin* in der Firma nie kennengelernt.
+  Marie never met her *predecessor* in the company.
 
   Contrairement à son *prédécesseur*, elle préfère travailler en équipe.
-  Im Gegensatz zu ihrer *Vorgängerin* arbeitet sie lieber im Team.
+  Unlike her *predecessor*, she prefers to work in the team.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

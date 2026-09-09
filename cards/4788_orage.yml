@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4788
 Wort: orage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un orage
 Femininum / Plural: ''
 IPA: \ɔ.ʁaʒ\
-Definition: Gewitter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Thunderstorms
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Au loin un *orage* grondait.
-  In der Ferne grollte ein *Gewitter*.
+  In the distance a thunderstorm was roaring.
 
   L'*orage* éclate juste au moment où nous arrivons à la maison.
-  Das *Gewitter* bricht genau in dem Moment los, als wir zu Hause ankommen.
+  The thunderstorm breaks off exactly the moment we arrive at home.
 
   Nous avons dû nous abriter de l'*orage* sous un arbre.
-  Wir mussten uns vor dem *Gewitter* unter einem Baum unterstellen.
+  We had to put ourselves under a tree before the thunderstorm.
 
   Cette pluie d'*orage* est vraiment rafraîchissante.
-  Dieser *Gewitter*regen ist wirklich erfrischend.
+  This thunderstorm is really refreshing.
 
   Le vent d'*orage* a cassé plusieurs branches dans notre jardin.
-  Der *Gewitter*sturm hat mehrere Äste in unserem Garten abgebrochen.
+  The thunderstorm has broken down several branches in our garden.
 
   Regarde ces nuages, le temps est à l'*orage*.
-  Schau dir diese Wolken an, es sieht nach *Gewitter* aus.
+  Look at these clouds, it looks like *thunderstorms*.
 
   Un violent *orage* magnétique perturbe les communications satellites.
-  Ein heftiger Magnet*sturm* stört die Satellitenkommunikation.
+  A violent magnetic *storm* disturbs satellite communications.
 
   "Il y a de l'*orage dans l'air*" entre Paul et Marie depuis leur dispute.
-  Zwischen Paul und Marie herrscht seit ihrem Streit *dicke Luft*.
+  Paul and Marie have been in deep air ever since they fought.
 
   Les météorologues prévoient des *orages* violents pour ce week-end.
-  Die Meteorologen sagen heftige *Gewitter* für dieses Wochenende voraus.
+  The meteorologists predict violent *thunderstorms* for this weekend.
 
   L'*orage* s'éloigne vers l'est, nous pouvons sortir maintenant.
-  Das *Gewitter* zieht nach Osten ab, wir können jetzt rausgehen.
+  The storm's heading east, we can go out now.
 
   J'ai toujours aimé observer les *orages* depuis ma fenêtre.
-  Ich habe schon immer gerne *Gewitter* von meinem Fenster aus beobachtet.
+  I've always loved watching *thunderstorms* from my window.
 
   Un *orage* solaire particulièrement intense a été détecté hier.
-  Gestern wurde ein besonders intensiver Sonnen*sturm* festgestellt.
+  A particularly intense solar *storm* was observed yesterday.
 
   Les enfants ont peur de l'*orage*, surtout la nuit.
-  Die Kinder haben Angst vor *Gewittern*, besonders nachts.
+  The children are afraid of *thunderstorms*, especially at night.
 
   Après l'*orage*, un magnifique arc-en-ciel est apparu.
-  Nach dem *Gewitter* erschien ein wunderschöner Regenbogen.
+  After the thunderstorm, a beautiful rainbow appeared.
 
   Il vaut mieux laisser passer l'*orage* que de réagir impulsivement.
-  Es ist besser, den *Sturm* vorüberziehen zu lassen, als impulsiv zu reagieren.
+  It is better to let the *storm* pass than to react impulsively.
 
   Les *orages* de l'amour ont marqué toute leur relation.
-  Die *Stürme* der Liebe haben ihre ganze Beziehung geprägt.
+  The *storms* of love have shaped their whole relationship.
 
   Ces nuages noirs annoncent un *orage* imminent.
-  Diese schwarzen Wolken kündigen ein bevorstehendes *Gewitter* an.
+  These black clouds are announcing an imminent thunderstorm.
 
   Le bruit de l'*orage* résonne dans toute la vallée.
-  Der Lärm des *Gewitters* hallt durch das ganze Tal.
+  The noise of the thunderstorm echoes through the whole valley.
 
   Un petit *orage* d'été a rafraîchi l'atmosphère.
-  Ein kleines Sommer*gewitter* hat die Luft abgekühlt.
+  A small summer storm cooled the air.
 
   Les *orages* sont plus fréquents en montagne qu'en plaine.
-  *Gewitter* sind in den Bergen häufiger als in der Ebene.
+  Storms are more common in the mountains than in the plain.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

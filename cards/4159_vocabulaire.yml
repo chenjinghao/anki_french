@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4159
 Wort: vocabulaire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le vocabulaire
 Femininum / Plural: ''
 IPA: \vɔ.ka.by.lɛʁ\
-Definition: Wortschatz
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Vocabulary
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce n'est pas dans mon *vocabulaire*.
-  Das ist nicht in meinem *Wortschatz*.
+  That's not in my *vocabulary*.
 
   Il a un *vocabulaire* très limité en espagnol.
-  Er hat einen sehr begrenzten *Wortschatz* in Spanisch.
+  He has a very limited *vocabulary* in Spanish.
 
   Pour apprendre une langue, il faut enrichir son *vocabulaire* chaque jour.
-  Um eine Sprache zu lernen, muss man seinen *Wortschatz* täglich erweitern.
+  To learn a language, you have to expand your *vocabulary* daily.
 
   Le *vocabulaire* technique de l'informatique évolue rapidement.
-  Das technische Fach*vokabular* der Informatik entwickelt sich schnell.
+  The technical *vocabulary* of computer science is developing quickly.
 
   J'ai acheté un *vocabulaire* français-allemand pour débutants.
-  Ich habe mir ein französisch-deutsches Grund*wörterbuch* für Anfänger gekauft.
+  I bought a French-German land *dictionary* for beginners.
 
   Les adolescents utilisent souvent un *vocabulaire* que leurs parents ne comprennent pas.
-  Jugendliche benutzen oft einen *Wortschatz*, den ihre Eltern nicht verstehen.
+  Teenagers often use a *vocabulary* that their parents do not understand.
 
   Son *vocabulaire* reflète son niveau d'éducation.
-  Sein *Wortschatz* spiegelt sein Bildungsniveau wider.
+  His *vocabulary* reflects his level of education.
 
   Le professeur nous a donné un petit *vocabulaire* de base.
-  Der Lehrer hat uns ein kleines Grund*wörterbuch* gegeben.
+  The teacher gave us a small land *dictionary*.
 
   Marie utilise toujours un *vocabulaire* très recherché.
-  Marie verwendet immer einen sehr gewählten *Wortschatz*.
+  Marie always uses a very chosen *vocabulary*.
 
   Le *vocabulaire* de la médecine est largement dérivé du latin.
-  Das medizinische Fach*vokabular* ist größtenteils vom Lateinischen abgeleitet.
+  The medical *vocabulary* is largely derived from Latin.
 
   Les enfants acquièrent naturellement le *vocabulaire* de leur langue maternelle.
-  Kinder eignen sich den *Wortschatz* ihrer Muttersprache ganz natürlich an.
+  Children are naturally suited to the *vocabulary* of their mother tongue.
 
   Il faut adapter son *vocabulaire* selon le public.
-  Man muss seinen *Wortschatz* dem Publikum anpassen.
+  You have to adapt your *vocabulary* to the audience.
 
   Le *vocabulaire* de la mode change chaque saison.
-  Das *Vokabular* der Mode ändert sich jede Saison.
+  The *vocabulary* of fashion changes every season.
 
   As-tu consulté le *vocabulaire* à la fin du livre?
-  Hast du das *Wörter*verzeichnis am Ende des Buches nachgeschlagen?
+  Did you look up the dictionary at the end of the book?
 
   Son *vocabulaire* s'est beaucoup amélioré depuis qu'elle lit plus.
-  Ihr *Wortschatz* hat sich stark verbessert, seit sie mehr liest.
+  Her *vocabulary* has improved greatly since she reads more.
 
   Le *vocabulaire* scientifique peut sembler intimidant au début.
-  Das wissenschaftliche Fach*vokabular* kann anfangs einschüchternd wirken.
+  The scientific *vocabulary* can initially be intimidating.
 
   Il maîtrise parfaitement le *vocabulaire* de la cuisine française.
-  Er beherrscht das *Vokabular* der französischen Küche perfekt.
+  He masteres the *vocabulary* of French cuisine perfectly.
 
   Mon petit frère apprend un nouveau *vocabulaire* chaque semaine à l'école.
-  Mein kleiner Bruder lernt jede Woche in der Schule neuen *Wortschatz*.
+  My little brother learns new *vocabulary* every week at school.
 
   Le *vocabulaire* des jeunes évolue constamment.
-  Der *Wortschatz* der Jugendlichen verändert sich ständig.
+  The *vocabulary* of young people is constantly changing.
 
   Ce roman utilise un *vocabulaire* riche et varié.
-  Dieser Roman verwendet einen reichen und vielfältigen *Wortschatz*.
+  This novel uses a rich and diverse *vocabulary*.
 
   L'application m'aide à réviser mon *vocabulaire* quotidiennement.
-  Die App hilft mir, meinen *Wortschatz* täglich zu wiederholen.
+  The app helps me to repeat my *vocabulary* every day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

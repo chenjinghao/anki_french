@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1788
 Wort: test
 Wortart: nm, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le test
 Femininum / Plural: ''
 IPA: \tɛst\
 Definition: Test
-Register: ↘Fiktion
+Register: ↘fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai eu un *test* de Q.I. cette année.
-  Ich hatte diesen Jahr einen IQ-*Test*.
+  I had an IQ *test* this year.
 
   Les scientifiques ont *testé* ce nouveau médicament pendant trois ans.
-  Die Wissenschaftler haben dieses neue Medikament drei Jahre lang *getestet*.
+  The scientists have *tested* this new drug for three years.
 
   Le *test* de grossesse s'est révélé positif.
-  Der Schwangerschafts*test* war positiv.
+  The pregnancy *test* was positive.
 
   Les étudiants doivent passer un *test* d'entrée à l'université.
-  Die Studenten müssen einen Aufnahme*test* an der Universität ablegen.
+  The students must take a admission *test* at the university.
 
   Cette ville-*test* servira de modèle pour le nouveau système de transport.
-  Diese *Test*stadt wird als Modell für das neue Verkehrssystem dienen.
+  This *test* city will serve as a model for the new transport system.
 
   Nous devons soumettre le prototype à des *tests* rigoureux.
-  Wir müssen den Prototyp gründlichen *Tests* unterziehen.
+  We need to run a thorough test of the prototype.
 
   Le *test* gustatif a montré qu'il avait perdu le sens du goût.
-  Die Geschmacks*prüfung* hat gezeigt, dass er seinen Geschmackssinn verloren hatte.
+  The taste *test* showed that he had lost his sense of taste.
 
   L'entreprise réalise des *tests* de qualité sur tous ses produits.
-  Das Unternehmen führt Qualitäts*tests* an allen seinen Produkten durch.
+  The company carries out quality *tests* on all its products.
 
   Le biologiste étudie le *test* calcaire des oursins.
-  Der Biologe untersucht das Kalk*gehäuse* der Seeigel.
+  The biologist investigates the lime casing of the sea urchins.
 
   Les candidats ont subi un *test* psychologique avant l'embauche.
-  Die Kandidaten wurden vor der Einstellung einem psychologischen *Test* unterzogen.
+  The candidates were subjected to a psychological *test* prior to recruitment.
 
   Ce *test* d'orientation m'aidera à choisir ma carrière.
-  Dieser Orientierungs*test* wird mir bei der Berufswahl helfen.
+  This orientation *test* will help me choose a job.
 
   L'élection-*test* aura lieu le mois prochain.
-  Die *Test*wahl findet nächsten Monat statt.
+  The *test* selection will take place next month.
 
   Le médecin m'a fait passer un *test* sanguin.
-  Der Arzt hat bei mir einen Blut*test* durchgeführt.
+  The doctor did a blood *test* on me.
 
   Ces *tests* automatiques vérifient le bon fonctionnement du système.
-  Diese Selbst*tests* überprüfen die ordnungsgemäße Funktion des Systems.
+  These self-*tests* check the proper functioning of the system.
 
   Le patient doit subir un *test* radioiode demain.
-  Der Patient muss sich morgen einem Radiojod*test* unterziehen.
+  The patient must undergo a radio-iodine *test* tomorrow.
 
   Les chercheurs effectuent des *tests* génétiques sur les échantillons.
-  Die Forscher führen genetische *Tests* an den Proben durch.
+  The researchers are conducting genetic *tests* on the samples.
 
   Cette expérience-*test* déterminera la suite du projet.
-  Dieser *Test*versuch wird über den weiteren Verlauf des Projekts entscheiden.
+  This *test* will decide on the further course of the project.
 
   Le *test* conjoncturel indique une reprise économique.
-  Der Konjunktur*test* deutet auf einen wirtschaftlichen Aufschwung hin.
+  The economic *test* indicates an economic upturn.
 
   Les diatomées sont protégées par un *test* siliceux.
-  Die Kieselalgen werden von einem Silizium*gehäuse* geschützt.
+  The diatoms are protected by a silicon *housing*.
 
   Nous allons faire passer un *test* de langue aux nouveaux employés.
-  Wir werden die neuen Mitarbeiter einem Sprach*test* unterziehen.
+  We will *test* the new staff in a language test.
 
   Le *test* de personnalité révèle des traits intéressants.
-  Der Persönlichkeits*test* zeigt interessante Merkmale.
+  The personality *test* shows interesting features.
 
   Cette situation sera un véritable *test* pour notre patience.
-  Diese Situation wird ein echter *Test* für unsere Geduld sein.
+  This situation will be a real *test* of our patience.
 
   Le nouveau produit sera soumis à des *tests* cliniques.
-  Das neue Produkt wird klinischen *Tests* unterzogen.
+  The new product will undergo clinical *tests*.
 
   Les étudiants passeront un *test* de mathématiques la semaine prochaine.
-  Die Studenten werden nächste Woche einen Mathematik*test* schreiben.
+  The students will write a math *test* next week.
 
   Le *test* de dépistage doit être effectué régulièrement.
-  Der Vorsorge*test* muss regelmäßig durchgeführt werden.
+  The preventive *test* must be carried out regularly.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

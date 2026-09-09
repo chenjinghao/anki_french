@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3795
 Wort: maternité
 Wortart: nf, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la maternité
 Femininum / Plural: ''
 IPA: \ma.tɛʁ.ni.te\
-Definition: Mutterschaft, Geburtsklinik
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Maternity, maternity clinic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai pris un congé *maternité*.
-  Ich habe *Mutterschafts*urlaub genommen.
+  I took *maternity* leave.
 
   Elle a donné naissance à son fils à la *maternité* du centre-ville.
-  Sie hat ihren Sohn im *Entbindungsheim* in der Innenstadt zur Welt gebracht.
+  She gave birth to her son in the maternity home in downtown.
 
   Les médecins de la *maternité* sont très compétents.
-  Die Ärzte im *Entbindungsheim* sind sehr kompetent.
+  The doctors in the maternity home are very competent.
 
   La *maternité* de l'hôpital accueille cinquante patientes.
-  Die *Entbindungsstation* des Krankenhauses hat fünfzig Betten.
+  The hospital's maternity ward has fifty beds.
 
   Sa *maternité* tardive l'a beaucoup changée.
-  Ihre späte *Mutterschaft* hat sie sehr verändert.
+  Her late motherhood changed her a lot.
 
   La *maternité* est une expérience unique pour chaque femme.
-  Die *Mutterschaft* ist für jede Frau eine einzigartige Erfahrung.
+  *Maternity* is a unique experience for every woman.
 
   Les joies de la *maternité* sont incomparables.
-  Die Freuden der *Mutterschaft* sind unvergleichlich.
+  The joys of motherhood are incomparable.
 
   Cette *maternité* de Picasso est exposée au musée.
-  Dieses *Mutter-und-Kind-Bild* von Picasso wird im Museum ausgestellt.
+  This mother-and-child picture of Picasso is exhibited in the museum.
 
   J'admire cette *maternité* du XV<sup>e</sup> siècle.
-  Ich bewundere dieses *Madonnenbild* aus dem 15. Jahrhundert.
+  I admire this 15th century *Madonna image*.
 
   Le tribunal a rejeté sa demande de recherche en *maternité*.
-  Das Gericht hat ihren Antrag auf *Mutterschafts*feststellung abgelehnt.
+  The Court of First Instance rejected its application for *maternity*.
 
   L'âge peut affecter la *maternité* chez certaines femmes.
-  Das Alter kann die *Gebärfähigkeit* bei manchen Frauen beeinflussen.
+  Age can affect fertility in some women.
 
   Elle prendra son congé *maternité* au printemps.
-  Sie wird ihren *Mutterschafts*urlaub im Frühling nehmen.
+  She'll take her *maternity* leave in spring.
 
   Les devoirs de la *maternité* sont parfois difficiles.
-  Die Pflichten der *Mutterschaft* sind manchmal schwierig.
+  The duties of motherhood are sometimes difficult.
 
   Cette *maternité* moderne dispose d'excellents équipements.
-  Dieses moderne *Entbindungsheim* verfügt über ausgezeichnete Ausstattung.
+  This modern maternity home has excellent facilities.
 
   Des *maternités* rapprochées peuvent épuiser une femme.
-  Mehrere *Schwangerschaften* kurz hintereinander können eine Frau erschöpfen.
+  Several pregnancies in a row can exhaust a woman.
 
   La *maternité* a complètement transformé sa vie.
-  Die *Mutterschaft* hat ihr Leben völlig verändert.
+  Motherhood has completely changed her life.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

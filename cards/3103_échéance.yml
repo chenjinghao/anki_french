@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3103
 Wort: échéance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une échéance
 Femininum / Plural: ''
 IPA: \e.ʃe.ɑ̃s\
-Definition: Fälligkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Maturity
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le contrat arrive à *échéance* dans quelques mois.
-  Der Vertrag wird in ein paar Monaten *fällig*.
+  The contract will be *due* in a few months.
 
   La *échéance* du loyer est fixée au premier du mois.
-  Die *Fälligkeit* der Miete ist auf den Ersten des Monats festgelegt.
+  The *maturity* of the rent is fixed at the first of the month.
 
   Il a demandé de reporter l'*échéance* du paiement.
-  Er hat darum gebeten, die *Fälligkeit* der Zahlung zu verschieben.
+  He asked to postpone the payment.
 
   Les *échéances* mensuelles sont trop élevées pour mon budget.
-  Die monatlichen *Zahlungen* sind zu hoch für mein Budget.
+  The monthly *payments* are too high for my budget.
 
   L'*échéance* électorale approche rapidement.
-  Der *Termin* der Wahl rückt schnell näher.
+  The *date* of the election is quickly approaching.
 
   Cette facture viendra à *échéance* le 15 mars.
-  Diese Rechnung wird am 15. März *fällig*.
+  This invoice will be *due* on March 15th.
 
   Nous devons planifier nos projets à longue *échéance*.
-  Wir müssen unsere Projekte lang*fristig* planen.
+  We have to plan our projects in the *long term*.
 
   L'*échéance* du prêt est dans cinq ans.
-  Die *Fälligkeit* des Kredits ist in fünf Jahren.
+  The *maturity* of the loan is five years.
 
   La date d'*échéance* du permis de conduire est indiquée sur la carte.
-  Das *Verfalls*datum des Führerscheins ist auf der Karte angegeben.
+  The expiry date of the driving licence is indicated on the card.
 
   À l'*échéance* du bail, nous devrons déménager.
-  Bei *Ablauf* des Mietvertrags müssen wir ausziehen.
+  At the end of the lease we must move out.
 
   Cette *échéance* fiscale tombe mal.
-  Dieser Steuer*termin* kommt ungelegen.
+  This tax *date* is inconvenient.
 
   Les *échéances* trimestrielles sont plus faciles à gérer.
-  Die vierteljährlichen *Zahlungen* sind einfacher zu handhaben.
+  The quarterly *payments* are easier to handle.
 
   À brève *échéance*, nous devrons prendre une décision.
-  Kurz*fristig* müssen wir eine Entscheidung treffen.
+  In the short term, we have to make a decision.
 
   L'*échéance* du concours est dans deux semaines.
-  Der *Termin* für die Prüfung ist in zwei Wochen.
+  The *date* for the exam is in two weeks.
 
   J'ai trois *échéances* importantes cette semaine.
-  Ich habe diese Woche drei wichtige Zahlungs*termine*.
+  I have three important payment *dates* this week.
 
   La banque m'a rappelé l'*échéance* de demain.
-  Die Bank hat mich an die morgige *Fälligkeit* erinnert.
+  The bank reminded me of tomorrow's *maturity*.
 
   Nous avons fixé l'*échéance* au 31 décembre.
-  Wir haben den *Stichtag* auf den 31. Dezember festgelegt.
+  We set the deadline for 31 December.
 
   Les *échéances* s'accumulent en fin d'année.
-  Die Zahlungs*verpflichtungen* häufen sich am Jahresende.
+  Payment obligations are accumulated at the end of the year.
 
   Cette *échéance* peut être reportée d'un mois.
-  Dieser *Termin* kann um einen Monat verschoben werden.
+  This *date* can be postponed by one month.
 
   L'*échéance* du diplôme approche.
-  Der *Ablauf* des Diploms rückt näher.
+  The course of the diploma is approaching.
 
   Le jour de l'*échéance*, la banque prélèvera automatiquement l'argent.
-  Am *Fälligkeits*tag wird die Bank das Geld automatisch abbuchen.
+  On the due date, the bank will automatically debit the money.
 
   À plus ou moins brève *échéance*, il faudra rénover la maison.
-  *Früher oder später* wird eine Renovierung des Hauses fällig.
+  *Sooner or later* a renovation of the house becomes due.
 
   La dernière *échéance* sera prélevée en juin.
-  Die letzte *Rate* wird im Juni eingezogen.
+  The last instalment will be collected in June.
 
   Cette réforme produira ses effets à longue *échéance*.
-  Diese Reform wird *langfristige* Auswirkungen haben.
+  This reform will have a *long-term* impact.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3305
 Wort: schéma
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le schéma
 Femininum / Plural: ''
 IPA: \ʃe.ma\
-Definition: Schema
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Scheme
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le tyrannosaure obéit à aucun *schéma* de groupe.
-  Der Tyrannosaurus folgt keinem Gruppen*schema*.
+  The Tyrannosaurus does not follow any group *scheme*.
 
   Le cours commence par un *schéma* détaillé du système solaire.
-  Der Unterricht beginnt mit einer detaillierten *Skizze* des Sonnensystems.
+  The lesson begins with a detailed *sketch* of the solar system.
 
   Pour comprendre le fonctionnement, regardez le *schéma* du moteur.
-  Um die Funktionsweise zu verstehen, schauen Sie sich die *Zeichnung* des Motors an.
+  To understand how it works, look at the *drawing* of the engine.
 
   Le *schéma* directeur prévoit la construction d'un nouveau quartier.
-  Der Entwicklungs*plan* sieht den Bau eines neuen Stadtviertels vor.
+  The development *plan* provides for the construction of a new district.
 
   J'ai besoin du *schéma* de montage pour assembler ce meuble.
-  Ich brauche den Montage*plan*, um dieses Möbelstück zusammenzubauen.
+  I need the assembly *plan* to assemble this piece of furniture.
 
   Le professeur dessine un *schéma* simple au tableau.
-  Der Lehrer zeichnet eine einfache *Skizze* an die Tafel.
+  The teacher draws a simple *sketch* on the board.
 
   Le *schéma* comptable a été mis à jour cette année.
-  Das Konten*schema* wurde dieses Jahr aktualisiert.
+  The account *scheme* has been updated this year.
 
   Les étudiants doivent mémoriser le *schéma* de l'appareil digestif.
-  Die Studenten müssen sich die *Skizze* des Verdauungsapparats einprägen.
+  The students must remember the *sketch* of the digestive system.
 
   Suivez le *schéma* pour installer correctement l'appareil.
-  Folgen Sie dem *Plan* für die korrekte Installation des Geräts.
+  Follow the *plan* for the correct installation of the device.
 
   Le *schéma* narratif de ce roman est très complexe.
-  Das narrative *Schema* dieses Romans ist sehr komplex.
+  The narrative *scheme* of this novel is very complex.
 
   Marie simplifie toujours les *schémas* pour ses présentations.
-  Marie vereinfacht die *Darstellungen* für ihre Präsentationen immer.
+  Marie always simplifies the *presentations* for her presentations.
 
   Le *schéma* électrique indique un court-circuit possible.
-  Der Schalt*plan* deutet auf einen möglichen Kurzschluss hin.
+  The circuit diagram indicates a possible short circuit.
 
   Les urbanistes ont modifié le *schéma* d'aménagement.
-  Die Stadtplaner haben den Bebauungs*plan* geändert.
+  The city planners have changed the development *plan*.
 
   Ce *schéma* permet de comprendre le cycle de l'eau.
-  Diese *Darstellung* hilft, den Wasserkreislauf zu verstehen.
+  This illustration helps to understand the water cycle.
 
   Le *schéma* du bâtiment montre toutes les issues de secours.
-  Die *Skizze* des Gebäudes zeigt alle Notausgänge.
+  The *sketch* of the building shows all emergency exits.
 
   Pierre suit toujours le même *schéma* dans ses relations.
-  Pierre folgt in seinen Beziehungen immer dem gleichen *Muster*.
+  Pierre always follows the same *pattern* in his relationships.
 
   Les chercheurs ont établi un nouveau *schéma* théorique.
-  Die Forscher haben ein neues theoretisches *Schema* entwickelt.
+  The researchers have developed a new theoretical *scheme*.
 
   La légende complète le *schéma* anatomique.
-  Die Legende vervollständigt die anatomische *Zeichnung*.
+  The legend completes the anatomical *drawing*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

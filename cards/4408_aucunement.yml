@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4408
 Wort: aucunement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: aucunement
 Femininum / Plural: ''
 IPA: \o.kyn.mɑ̃\
-Definition: keineswegs, in keiner Weise
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: by no means, in any way
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne me sens *aucunement* coupable.
-  Ich fühle mich *keineswegs* schuldig.
+  I don't feel guilty at all.
 
   Elle n'est *aucunement* responsable de cette erreur.
-  Sie ist *in keiner Weise* für diesen Fehler verantwortlich.
+  She is *in no way* responsible for this mistake.
 
   Je n'ai *aucunement* envie de sortir ce soir.
-  Ich habe *überhaupt* keine Lust, heute Abend auszugehen.
+  I don't feel like going out tonight.
 
   – "Êtes-vous satisfait du résultat ?"<br>– "*Aucunement* !"
-  – "Sind Sie mit dem Ergebnis zufrieden?"<br>– "*Keineswegs*!"
+  – "Are you satisfied with the result?"<br>– "No way!"
 
   Cette décision ne m'affecte *aucunement*.
-  Diese Entscheidung betrifft mich *gar nicht*.
+  This decision does not concern me at all.
 
   Je ne souhaite *aucunement* vous déranger.
-  Ich möchte Sie *in keiner Weise* stören.
+  I don't want to disturb you in any way.
 
   Ce commentaire n'était *aucunement* destiné à vous offenser.
-  Dieser Kommentar war *keineswegs* dazu gedacht, Sie zu beleidigen.
+  This comment was by no means intended to offend you.
 
   Il n'a *aucunement* l'intention de démissionner.
-  Er hat *überhaupt* nicht die Absicht zu kündigen.
+  He has no intention of quitting at all.
 
   – "Voulez-vous participer au projet ?"<br>– "*Aucunement*."
-  – "Möchten Sie am Projekt teilnehmen?"<br>– "*Keineswegs*."
+  – "Would you like to participate in the project?"<br>– "Never mind."
 
   Elle n'est *aucunement* intéressée par cette proposition.
-  Sie ist an diesem Vorschlag *absolut* nicht interessiert.
+  She is absolutely not interested in this proposal.
 
   Cette situation ne me dérange *aucunement*.
-  Diese Situation stört mich *überhaupt* nicht.
+  This situation doesn't bother me at all.
 
   Je ne suis *aucunement* convaincu par ses arguments.
-  Ich bin von seinen Argumenten *in keiner Weise* überzeugt.
+  I am *in no way* convinced of his arguments.
 
   Cette remarque n'était *aucunement* justifiée.
-  Diese Bemerkung war *keineswegs* gerechtfertigt.
+  This remark was by no means justified.
 
   Il n'a *aucunement* besoin de s'excuser.
-  Er muss sich *gar nicht* entschuldigen.
+  He doesn't have to apologize.
 
   Ces changements ne m'inquiètent *aucunement*.
-  Diese Änderungen beunruhigen mich *in keiner Weise*.
+  These changes do not bother me in any way.
 
   Tu n'es *aucunement* obligé de venir à la fête.
-  Du bist *überhaupt* nicht verpflichtet, zur Party zu kommen.
+  You're not obligated to come to the party at all.
 
   Je ne me sens *aucunement* concerné par cette affaire.
-  Ich fühle mich von dieser Angelegenheit *in keiner Weise* betroffen.
+  I do not feel affected by this matter in any way.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

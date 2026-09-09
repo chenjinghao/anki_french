@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3581
 Wort: tueur
 Wortart: nmf, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le tueur
 Femininum / Plural: tueuse
 IPA: \tɥœʁ\
-Definition: Mörder, Killer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Killer, Killer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Oh vous savez, un *tueur* est rarement drôle.
-  Wissen Sie, ein *Mörder* ist selten lustig.
+  You know, a *murderer* is rarely funny.
 
   La police recherche une *tueuse* en série qui sévit dans la région.
-  Die Polizei sucht eine Serien*mörderin*, die in der Region ihr Unwesen treibt.
+  The police are looking for a serial killer who is doing her mischief in the region.
 
   Les journaux ont révélé qu'il était un *tueur* à gages depuis des années.
-  Die Zeitungen enthüllten, dass er seit Jahren ein Auftrags*mörder* war.
+  The papers revealed that he had been a hit man for years.
 
   Le *tueur* professionnel travaille à l'abattoir depuis vingt ans.
-  Der *Schlachter* arbeitet seit zwanzig Jahren im Schlachthof.
+  The butcher has been working in the slaughterhouse for twenty years.
 
   Un nouveau *satellite tueur* a été lancé dans l'espace.
-  Ein neuer *Killer*satellit wurde ins All geschossen.
+  A new *killer* satellite was shot into space.
 
   Les abeilles *tueuses* représentent un danger pour la population locale.
-  Die *Killer*bienen stellen eine Gefahr für die lokale Bevölkerung dar.
+  *Killer* bees pose a threat to the local population.
 
   Des algues *tueuses* ont envahi le lac pendant l'été.
-  *Killer*algen haben den See im Sommer befallen.
+  *Killer* algae infested the lake in the summer.
 
   Cette *tueuse* impitoyable n'a jamais montré de remords.
-  Diese erbarmungslose *Mörderin* hat nie Reue gezeigt.
+  This merciless *murderer* has never shown remorse.
 
   Le *tueur* a été rapidement identifié grâce aux caméras de surveillance.
-  Der *Mörder* wurde dank der Überwachungskameras schnell identifiziert.
+  The killer was quickly identified thanks to the surveillance cameras.
 
   Ce chasseur n'est qu'un *tueur* qui ne respecte pas la nature.
-  Dieser Jäger ist nur ein *Killer*, der die Natur nicht respektiert.
+  This hunter is just a *killer* who doesn't respect nature.
 
   Les *tueurs* de l'organisation criminelle ont tous été arrêtés.
-  Die *Killer* der kriminellen Organisation wurden alle verhaftet.
+  The killers of the criminal organization were all arrested.
 
   La *tueuse* a été condamnée à la prison à perpétuité.
-  Die *Mörderin* wurde zu lebenslanger Haft verurteilt.
+  The killer was sentenced to life imprisonment.
 
   Le *tueur* de l'abattoir prend sa retraite après trente ans de service.
-  Der *Schlachter* des Schlachthofs geht nach dreißig Dienstjahren in Rente.
+  The slaughterer of the slaughterhouse retires after thirty years of service.
 
   Les experts ont établi le profil psychologique du *tueur*.
-  Die Experten haben das psychologische Profil des *Mörders* erstellt.
+  The experts have created the killer's psychological profile.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>meurtrier</i> und <i>tueur</i></div>
+    <div class="section-title"><i>meurtrier</i> and <i>tueur</i></div>
     <div class="section-content">
-      <p><span class="fr">Meurtrier</span> (#2681) bedeutet <span class="de">"Mörder"</span> im allgemeinen Sinne und bezieht sich auf eine Person, die einen Mord begangen hat, ohne notwendigerweise Vorsatz oder Planung zu implizieren.</p>
+      <p><span class="fr">Meurtrier</span> (#2681) means <span class="de">"murderers"</span> in the general sense and refers to a person who has committed a murder without necessarily implying purpose or planning.</p>
       <div class="examples">
         <div class="fr">Le meurtrier a été arrêté par la police.</div>
-        <div class="de spoiler">Der Mörder wurde von der Polizei verhaftet.</div>
+        <div class="de spoiler">The killer was arrested by the police.</div>
         <div class="fr">Après l'accident, le conducteur était considéré comme meurtrier.</div>
-        <div class="de spoiler">Nach dem Unfall wurde der Fahrer als Totschläger betrachtet.</div>
+        <div class="de spoiler">After the accident, the driver was considered a manslayer.</div>
       </div>
-      <p><span class="fr">Tueur</span> bedeutet <span class="de">"Killer"</span> oder <span class="de">"Töter"</span> und wird oft mit Fähigkeit oder Beruf in Verbindung gebracht, wie bei einem Auftragsmörder. Es trägt nicht unbedingt die rechtlichen Schuldzuweisungen wie <span class="fr">meurtrier</span>.</p>
+      <p><span class="fr">Tueur</span> means <span class="de">"Killer"</span> or <span class="de">"killers"</span> and is often associated with ability or profession, as with a contract killer. It does not necessarily bear the legal debt assignments such as <span class="fr">meurtrier</span>.</p>
       <div class="examples">
         <div class="fr">Un tueur à gages a été embauché pour commettre le crime.</div>
-        <div class="de spoiler">Ein Auftragskiller wurde angeheuert, um das Verbrechen zu begehen.</div>
+        <div class="de spoiler">A hit man was hired to commit the crime.</div>
         <div class="fr">Le tueur était connu pour sa cruauté.</div>
-        <div class="de spoiler">Der Killer war für seine Grausamkeit bekannt.</div>
+        <div class="de spoiler">The killer was known for his cruelty.</div>
       </div>
     </div>
   </div>

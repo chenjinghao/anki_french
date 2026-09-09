@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4674
 Wort: réservoir
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le réservoir
 Femininum / Plural: ''
 IPA: \ʁe.zɛʁ.vwaʁ\
-Definition: Tank, Behälter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Tank, tanks
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *réservoir* ainsi formé est un immense lac.
-  Der so entstandene *Stausee* ist ein riesiger See.
+  The reservoir created in this way is a huge lake.
 
   Le *réservoir* d'essence de ma voiture est presque vide.
-  Der Benzin*tank* meines Autos ist fast leer.
+  My car's fuel *tank* is almost empty.
 
   Il faut faire le plein quand le *réservoir* est à moitié vide.
-  Man sollte tanken, wenn der *Tank* halb leer ist.
+  You should fill up when the *tank* is half empty.
 
   Le *réservoir* d'eau chaude est situé dans la cave.
-  Der Warmwasser*tank* befindet sich im Keller.
+  The hot water *tank* is located in the basement.
 
   Un nouveau *réservoir* d'eau potable a été construit dans notre ville.
-  Ein neuer Trinkwasser*behälter* wurde in unserer Stadt gebaut.
+  A new drinking water tank was built in our city.
 
   Le *réservoir* de la chasse d'eau fuit depuis ce matin.
-  Der *Wasserkasten* der Toilettenspülung leckt seit heute Morgen.
+  The *water box* of the toilet flush has been leaking since this morning.
 
   Les pompiers ont vérifié le *réservoir* d'oxygène avant l'intervention.
-  Die Feuerwehrleute haben den Sauerstoff*behälter* vor dem Einsatz überprüft.
+  The firemen checked the oxygen tank before the operation.
 
   Le *réservoir* d'air comprimé doit être contrôlé régulièrement.
-  Der Druckluft*behälter* muss regelmäßig überprüft werden.
+  The compressed air tank must be checked regularly.
 
   Un nouveau *réservoir* de gaz a été installé dans l'immeuble.
-  Ein neuer Gas*behälter* wurde im Gebäude installiert.
+  A new gas tank was installed in the building.
 
   Le *réservoir* d'huile est complètement rempli pour l'hiver.
-  Der Öl*tank* ist für den Winter komplett gefüllt.
+  The oil *tank* is completely filled for winter.
 
   L'Afrique est un immense *réservoir* de matières premières.
-  Afrika ist ein riesiges *Reservoir* an Rohstoffen.
+  Africa is a huge *reservoir* of raw materials.
 
   Cette université est un véritable *réservoir* de talents.
-  Diese Universität ist ein wahres *Reservoir* an Talenten.
+  This university is a real *reservoir* of talents.
 
   Le photographe possède un grand *réservoir* d'images sur son ordinateur.
-  Der Fotograf besitzt einen großen Bild*bestand* auf seinem Computer.
+  The photographer has a large picture stock on his computer.
 
   Le *réservoir* du barrage est à son niveau le plus bas.
-  Der *Stausee* ist auf seinem niedrigsten Stand.
+  The reservoir is at its lowest level.
 
   Les techniciens ont réparé le *réservoir* d'air du système de freinage.
-  Die Techniker haben den Luft*behälter* der Bremsanlage repariert.
+  The technicians have repaired the air tank of the braking system.
 
   Le *réservoir* à grains est maintenant complètement vide.
-  Der Getreide*speicher* ist jetzt völlig leer.
+  The grain store is now completely empty.
 
   Cette région est un important *réservoir* de main-d'œuvre.
-  Diese Region ist ein wichtiges *Reservoir* an Arbeitskräften.
+  This region is an important source of labour.
 
   Le rat est un *réservoir* naturel pour certaines maladies.
-  Die Ratte ist ein natürliches *Reservoir* für bestimmte Krankheiten.
+  The rat is a natural *reservoir* for certain diseases.
 
   Le nouveau *réservoir* d'eau de pluie peut contenir 1000 litres.
-  Der neue Regenwasser*tank* kann 1000 Liter fassen.
+  The new rainwater *tank* can hold 1000 litres.
 
   Les chauves-souris sont un *réservoir* important pour de nombreux virus.
-  Fledermäuse sind ein wichtiges *Reservoir* für viele Viren.
+  Bats are an important *reservoir* for many viruses.
 
   Le *réservoir* du stylo est presque vide.
-  Der Tinten*behälter* des Stifts ist fast leer.
+  The ink *container* of the pen is almost empty.
 
   Le *réservoir* de carburant a été endommagé dans l'accident.
-  Der Kraftstoff*tank* wurde bei dem Unfall beschädigt.
+  The fuel *tank* was damaged in the accident.
 
   L'Asie est devenue un *réservoir* important d'innovations technologiques.
-  Asien ist zu einem wichtigen *Reservoir* für technologische Innovationen geworden.
+  Asia has become an important *reservoir* for technological innovation.
 
   Les ingénieurs ont conçu un nouveau type de *réservoir* pressurisé.
-  Die Ingenieure haben einen neuen Typ von Druck*behälter* entwickelt.
+  The engineers have developed a new type of pressure vessel.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

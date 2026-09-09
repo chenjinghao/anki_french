@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3565
 Wort: bombardement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le bombardement
 Femininum / Plural: ''
 IPA: \bɔ̃.baʁ.də.mɑ̃\
-Definition: Bombardierung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Bombardment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Jamais le nombre des victimes des *bombardements* n'a été publié.
-  Die Zahl der Opfer der *Bombardierungen* wurde nie veröffentlicht.
+  The number of victims of the bombings has never been published.
 
   Les *bombardements* aériens ont provoqué d'importants dégâts matériels.
-  Die Luft*angriffe* haben erhebliche Sachschäden verursacht.
+  The air raids have caused significant damage to property.
 
   Le *bombardement* stratégique visait les installations industrielles.
-  Die strategische *Bombardierung* zielte auf die Industrieanlagen.
+  The strategic bombing was aimed at the industrial plants.
 
   Les physiciens étudient le *bombardement* d'électrons sur différents matériaux.
-  Die Physiker untersuchen den *Beschuss* verschiedener Materialien mit Elektronen.
+  The physicists investigate the shelling of various materials with electrons.
 
   La ville a subi un *bombardement* intensif pendant trois jours.
-  Die Stadt wurde drei Tage lang intensiv *bombardiert*.
+  The city was heavily bombed for three days.
 
   Le *bombardement* de particules permet d'étudier la structure des atomes.
-  Durch den Teilchen*beschuss* lässt sich die Struktur der Atome untersuchen.
+  The structure of the atoms can be investigated by the particle *fire*.
 
   L'aviation de *bombardement* utilisait des avions spécialement conçus.
-  Die *Bomben*flugzeuge waren speziell dafür konstruiert.
+  The bombers were specially designed for this purpose.
 
   Les scientifiques analysent les effets du *bombardement* atomique sur les cellules.
-  Die Wissenschaftler analysieren die Auswirkungen des Atom*beschusses* auf die Zellen.
+  The scientists analyse the effects of the nuclear fire on the cells.
 
   Un *bombardement* de questions a suivi sa présentation.
-  Nach seiner Präsentation wurde er mit Fragen *bombardiert*.
+  After his presentation, he was *bombarded* with questions.
 
   Le *bombardement* des neutrons a provoqué une réaction en chaîne.
-  Der Neutronen*beschuss* löste eine Kettenreaktion aus.
+  The neutron *fire* triggered a chain reaction.
 
   Les archéologues ont découvert des traces d'anciens *bombardements*.
-  Die Archäologen haben Spuren früherer *Bombardierungen* entdeckt.
+  Archaeologists have discovered traces of previous bombings.
 
   Le *bombardement* d'artillerie a duré toute la nuit.
-  Das Granat*feuer* dauerte die ganze Nacht.
+  The grenade lasted all night.
 
   Les débris spatiaux créent un constant *bombardement* de la surface lunaire.
-  Weltraumschrott sorgt für einen ständigen *Beschuss* der Mondoberfläche.
+  Space scrap ensures constant *fire* on the moon's surface.
 
   Après le *bombardement*, les équipes de secours sont rapidement intervenues.
-  Nach dem Bomben*angriff* waren die Rettungsteams schnell zur Stelle.
+  After the bombing, the rescue teams were quickly on the move.
 
   Le *bombardement* de photons a modifié la structure moléculaire.
-  Der Photonen*beschuss* hat die Molekularstruktur verändert.
+  The photon *fire* has changed the molecular structure.
 
   Le match s'est terminé par un *bombardement* de ballons sur le terrain.
-  Das Spiel endete damit, dass Bälle aufs Spielfeld *geworfen* wurden.
+  The game ended with balls *thrown* onto the field.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

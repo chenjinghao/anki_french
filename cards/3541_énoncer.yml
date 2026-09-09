@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3541
 Wort: énoncer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: énoncer
 Femininum / Plural: ''
 IPA: \e.nɔ̃.se\
-Definition: aussprechen, formulieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: express, formulate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce qui se conçoit bien s'*énonce* clairement.
-  Was man gut versteht, lässt sich klar *ausdrücken*.
+  What you understand well can be clearly expressed.
 
   Dans son discours, elle a *énoncé* trois points principaux.
-  In ihrer Rede hat sie drei Hauptpunkte klar *dargelegt*.
+  In her speech, she made three main points clear.
 
   Le professeur *énonçait* les règles de grammaire lentement et précisément.
-  Der Lehrer hat die Grammatikregeln langsam und präzise *ausgesprochen*.
+  The teacher has spoken the grammar rules slowly and precisely.
 
   Cette vérité a été *énoncée* il y a des siècles.
-  Diese Wahrheit wurde vor Jahrhunderten *ausgesprochen*.
+  This truth was spoken centuries ago.
 
   Pourriez-vous *énoncer* clairement vos attentes ?
-  Könnten Sie Ihre Erwartungen klar *darlegen*?
+  Could you clarify your expectations?
 
   Les faits doivent s'*énoncer* de manière objective.
-  Die Fakten müssen objektiv *dargelegt* werden.
+  The facts must be objectively explained.
 
   Le théorème de Pythagore s'*énonce* ainsi.
-  Der Satz des Pythagoras *lautet* folgendermaßen.
+  The sentence of the Pythagoras is as follows.
 
   Il faut *énoncer* les données du problème avant de le résoudre.
-  Man muss die Aufgabenstellung *formulieren*, bevor man sie löst.
+  You have to *formulate* the task before you solve it.
 
   La loi s'*énonce* de façon très simple.
-  Das Gesetz lässt sich sehr einfach *formulieren*.
+  The law can be formulated very simply.
 
   Le ministre a *énoncé* les nouvelles mesures lors d'une conférence de presse.
-  Der Minister hat die neuen Maßnahmen auf einer Pressekonferenz *verkündet*.
+  The Minister announced the new measures at a press conference.
 
   Cette idée peut s'*énoncer* plus simplement.
-  Diese Idee lässt sich einfacher *ausdrücken*.
+  This idea is easier to *express*.
 
   Les témoins ont *énoncé* les faits devant le tribunal.
-  Die Zeugen haben die Tatsachen vor Gericht *dargelegt*.
+  The Witnesses have explained the facts in court.
 
   Le philosophe *énonçait* ses pensées avec une grande clarté.
-  Der Philosoph hat seine Gedanken mit großer Klarheit *formuliert*.
+  The philosopher *formulated* his thoughts with great clarity.
 
   Avant de commencer l'exercice, je vais *énoncer* les consignes.
-  Bevor wir mit der Übung beginnen, werde ich die Anweisungen *formulieren*.
+  Before we begin the exercise, I will *formulate* the instructions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2240
 Wort: prévu
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prévu
 Femininum / Plural: ''
 IPA: \pʁe.vy\
-Definition: geplant, vorgesehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: planned, planned
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La période actuelle *prévue* est de 92 ans.
-  Die aktuell *vorgesehene* Periode beträgt 92 Jahre.
+  The current period is 92 years.
 
   Le temps *prévu* pour demain est ensoleillé.
-  Das für morgen *vorhergesagte* Wetter ist sonnig.
+  The weather predicted for tomorrow is sunny.
 
   Ce n'était pas *prévu* dans le budget initial.
-  Das war im ursprünglichen Budget nicht *vorgesehen*.
+  This was not foreseen in the original budget.
 
   As-tu *prévu* quelque chose pour le week-end ?
-  Hast du für das Wochenende etwas *geplant*?
+  Did you plan something for the weekend?
 
   Le concert est *prévu* pour 20 heures précises.
-  Das Konzert ist für genau 20 Uhr *angesetzt*.
+  The concert is scheduled for exactly 8 p.m.
 
   Tout s'est passé comme *prévu*.
-  Alles lief wie *geplant*.
+  Everything went as *planned*.
 
   Les travaux sont *prévus* jusqu'à la fin du mois.
-  Die Arbeiten sind bis Ende des Monats *vorgesehen*.
+  Work is scheduled for the end of the month.
 
   La réunion était initialement *prévue* pour lundi.
-  Die Besprechung war ursprünglich für Montag *angesetzt*.
+  The meeting was originally scheduled for Monday.
 
   Nous n'avions pas *prévu* autant de monde.
-  Wir hatten nicht mit so vielen Leuten *gerechnet*.
+  We weren't expecting so many people.
 
   Le projet a coûté plus cher que *prévu*.
-  Das Projekt hat mehr gekostet als *geplant*.
+  The project cost more than *planned*.
 
   As-tu *prévu* assez de temps pour finir ?
-  Hast du genug Zeit *eingeplant*, um fertig zu werden?
+  Have you *planned* enough time to finish?
 
   L'arrivée du train est *prévue* à 15h30.
-  Die Ankunft des Zuges ist für 15:30 Uhr *vorgesehen*.
+  The arrival of the train is scheduled for 15:30.
 
   Elle a tout *prévu* dans les moindres détails.
-  Sie hat alles bis ins kleinste Detail *durchgeplant*.
+  She's *planned* everything to the smallest detail.
 
   C'était *prévu* dans le contrat initial.
-  Das war im ursprünglichen Vertrag *vorgesehen*.
+  This was provided for in the original Treaty.
 
   Le budget *prévu* a été dépassé de 20%.
-  Das *veranschlagte* Budget wurde um 20% überschritten.
+  The *estimated* budget was exceeded by 20%.
 
   L'événement est *prévu* pour début juin.
-  Die Veranstaltung ist für Anfang Juni *geplant*.
+  The event is scheduled for the beginning of June.
 
   La livraison est *prévue* pour la semaine prochaine.
-  Die Lieferung ist für nächste Woche *vorgesehen*.
+  The delivery is scheduled for next week.
 
   Les résultats sont meilleurs que *prévu*.
-  Die Ergebnisse sind besser als *erwartet*.
+  The results are better than *expected*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

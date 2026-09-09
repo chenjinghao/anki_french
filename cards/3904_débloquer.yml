@@ -1,113 +1,113 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3904
 Wort: débloquer
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: débloquer
 Femininum / Plural: ''
 IPA: \de.blɔ.ke\
-Definition: entsperren, lösen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Unlock, Unlock
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le premier ministre cherchait sans doute à *débloquer* le projet.
-  Der Premierminister versuchte zweifellos, das Projekt zu *lösen*.
+  The Prime Minister undoubtedly tried to solve the project.
 
   Il faut *débloquer* cette vis qui est trop serrée.
-  Diese festsitzende Schraube muss *gelöst* werden.
+  This fixed screw has to be loosened.
 
   La banque a finalement *débloqué* notre compte hier.
-  Die Bank hat gestern endlich die Sperre unseres Kontos *aufgehoben*.
+  The bank finally lifted the lock on our account yesterday.
 
   Les pompiers ont réussi à *débloquer* la route après l'accident.
-  Die Feuerwehr konnte die Straße nach dem Unfall *freimachen*.
+  The fire department was able to clear the road after the accident.
 
   Le mécanicien doit *débloquer* les freins de ma voiture.
-  Der Mechaniker muss die Bremsen meines Autos *lösen*.
+  The mechanic needs to unload my car's brakes.
 
   "Tu *débloques* complètement, mon pauvre ami !"
-  "Du *spinnst* ja völlig, mein armer Freund!"
+  "You're totally crazy, my poor friend!"
 
   La serrure s'est enfin *débloquée* après plusieurs tentatives.
-  Das Schloss ist nach mehreren Versuchen endlich wieder *aufgegangen*.
+  After several attempts, the castle finally reopened.
 
   Le gouvernement va *débloquer* des fonds pour la reconstruction.
-  Die Regierung wird Mittel für den Wiederaufbau *freigeben*.
+  The government will *release* funds for reconstruction.
 
   Cette thérapie l'a vraiment *débloqué*.
-  Diese Therapie hat ihn wirklich *gelockert*.
+  This therapy really *loosened* him.
 
   L'écrou s'est *débloqué* tout seul avec les vibrations.
-  Die Mutter hat sich durch die Vibrationen von selbst *gelockert*.
+  The mother relaxed herself by the vibrations.
 
   Le kiné a *débloqué* mon épaule en quelques séances.
-  Der Physiotherapeut hat meine Schulter in wenigen Sitzungen *gelöst*.
+  The physiotherapist solved my shoulder in a few sessions.
 
   Les négociations ont permis de *débloquer* la situation.
-  Die Verhandlungen haben es ermöglicht, die Situation zu *entspannen*.
+  The negotiations have made it possible to *relax* the situation.
 
   "Arrête de *débloquer*, personne ne te croit !"
-  "Hör auf zu *spinnen*, niemand glaubt dir!"
+  "Stop spinning, no one believes you!"
 
   Il faut *débloquer* ce carrefour avant l'heure de pointe.
-  Diese Kreuzung muss vor der Hauptverkehrszeit *freigemacht* werden.
+  This crossing must be cleared before peak traffic time.
 
   Les techniciens vont *débloquer* l'ascenseur dans une heure.
-  Die Techniker werden den Fahrstuhl in einer Stunde *freischalten*.
+  The technicians will *unlock* the elevator in an hour.
 
   Le gouvernement a décidé de *débloquer* les prix du carburant.
-  Die Regierung hat beschlossen, die Treibstoffpreise *freizugeben*.
+  The government has decided to *release* fuel prices.
 
   La situation s'est finalement *débloquée* après des mois d'attente.
-  Die Situation hat sich nach monatelangem Warten endlich *entspannt*.
+  The situation has finally *relaxed* after months of waiting.
 
   Les manifestants ont réussi à *débloquer* l'entrée de l'usine.
-  Den Demonstranten ist es gelungen, den Fabrikeingang *freizumachen*.
+  The demonstrators managed to clear the factory entrance.
 
   L'armée a *débloqué* la ville assiégée en une semaine.
-  Die Armee hat die belagerte Stadt in einer Woche *befreit*.
+  The army liberated the besieged city in a week.
 
   "Si tu continues à *débloquer* comme ça, je m'en vais !"
-  "Wenn du weiter so *spinnst*, gehe ich!"
+  "If you keep going like that, I'll go!"
 
   Le médiateur a aidé à *débloquer* les négociations salariales.
-  Der Vermittler hat geholfen, die Lohnverhandlungen *voranzubringen*.
+  The mediator has helped *to advance* wage negotiations.
 
   Cette clé devrait *débloquer* toutes les portes du bâtiment.
-  Dieser Schlüssel sollte alle Türen des Gebäudes *entriegeln*.
+  This key should *unlock* all the doors of the building.
 
   Les autorités ont enfin *débloqué* l'autoroute enneigée.
-  Die Behörden haben die verschneite Autobahn endlich *freigeräumt*.
+  The authorities have finally *cleared* the snowy highway.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>débloquer</i> und <i>déboucher</i></div>
+    <div class="section-title"><i>débloquer</i> and <i>déboucher</i></div>
     <div class="section-content">
-      <p><span class="fr">Débloquer</span> bedeutet grundsätzlich <span class="de">"entsperren"</span>, <span class="de">"freigeben"</span> oder <span class="de">"lösen"</span>. Es wird verwendet, wenn etwas Blockiertes wieder funktionsfähig gemacht wird.</p>
+      <p><span class="fr">Débloquer</span> means in principle: <span class="de">"entsperren"</span>, <span class="de">"freigeben"</span> or <span class="de">"Resolve"</span>. It is used when something blocked is made functional again.</p>
       <div class="examples">
         <div class="fr">Il faut débloquer la porte.</div>
-        <div class="de spoiler">Die Tür muss entsperrt werden.</div>
+        <div class="de spoiler">The door needs to be unlocked.</div>
         <div class="fr">Le gouvernement va débloquer des fonds pour la reconstruction.</div>
-        <div class="de spoiler">Die Regierung wird Mittel für den Wiederaufbau freigeben.</div>
+        <div class="de spoiler">The government will release funds for reconstruction.</div>
         <div class="fr">Tu débloques complètement !</div>
         <div class="de spoiler">Du redest totalen Unsinn!</div>
       </div>
-      <p><span class="fr">Déboucher</span> (#2639) bedeutet hingegen <span class="de">"entstopfen"</span>, <span class="de">"münden"</span> oder <span class="de">"entkorken"</span>. Es bezieht sich auf das Befreien von einer Verstopfung oder das Münden in einen offenen Raum.</p>
+      <p><span class="fr">Déboucher</span> (#2639) means hingegen <span class="de">"entstopfen"</span>, <span class="de">"mute"</span> or <span class="de">"entkorken"</span>It refers to the release from constipation or the mouth into an open space.</p>
       <div class="examples">
         <div class="fr">Il faut déboucher l'évier.</div>
-        <div class="de spoiler">Das Spülbecken muss freigemacht werden.</div>
+        <div class="de spoiler">The sink needs to be cleared.</div>
         <div class="fr">La route débouche sur une grande place.</div>
-        <div class="de spoiler">Die Straße mündet in einen großen Platz.</div>
+        <div class="de spoiler">The road flows into a large square.</div>
         <div class="fr">Elle a débouché une bouteille de vin.</div>
-        <div class="de spoiler">Sie hat eine Flasche Wein entkorkt.</div>
+        <div class="de spoiler">She uncorked a bottle of wine.</div>
       </div>
     </div>
   </div>

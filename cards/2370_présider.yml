@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2370
 Wort: présider
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: présider
 Femininum / Plural: ''
 IPA: \pʁe.zi.de\
-Definition: vorsitzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Chairs
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *présidait* ses repas.
-  Er *saß* seinen Mahlzeiten *vor*.
+  He *sat* *before* his meals.
 
   La juge *préside* le tribunal avec autorité.
-  Die Richterin *leitet* das Gericht mit Autorität.
+  The judge leads the court with authority.
 
   Le président *préside* la réunion du conseil d'administration.
-  Der Präsident *führt* bei der Vorstandssitzung den *Vorsitz*.
+  *The* President shall *chair* the Bureau meeting.
 
   Elle a été choisie pour *présider* le jury du concours.
-  Sie wurde ausgewählt, um die Jury des Wettbewerbs zu *leiten*.
+  She was chosen to lead the jury of the competition.
 
   Le doyen d'âge *présidera* la première séance du nouveau parlement.
-  Der Alterspräsident wird die erste Sitzung des neuen Parlaments *leiten*.
+  The President of the Old Age will chair the first session of the new Parliament.
 
   "C'est un honneur de *présider* ce banquet," a déclaré le maire.
-  "Es ist eine Ehre, bei diesem Bankett den Ehren*vorsitz* zu haben," erklärte der Bürgermeister.
+  "It's an honor to have the honorary *chair* at this banquet," the mayor said.
 
   Le roi *préside* la cérémonie d'ouverture des Jeux olympiques.
-  Der König *führt* bei der Eröffnungsfeier der Olympischen Spiele den *Vorsitz*.
+  *The* King presides at the opening ceremony of the Olympic Games.
 
   Notre directeur *préside* toujours les réunions mensuelles.
-  Unser Direktor *leitet* immer die monatlichen Besprechungen.
+  Our director always runs the monthly meetings.
 
   Le professeur a été invité à *présider* la soutenance de thèse.
-  Der Professor wurde eingeladen, bei der Doktorarbeit-Verteidigung den *Vorsitz* zu *führen*.
+  *The* professor was invited to *chair* the doctoral thesis defence.
 
   C'est le vice-président qui *présidera* la séance en l'absence du président.
-  In Abwesenheit des Präsidenten wird der Vizepräsident die Sitzung *leiten*.
+  In the absence of the President, the Vice-President will chair the meeting.
 
   Le pasteur *préside* le culte tous les dimanches matin.
-  Der Pastor *leitet* jeden Sonntagmorgen den Gottesdienst.
+  The pastor conducts the divine service every Sunday morning.
 
   La volonté de réussir a *présidé* à toutes nos décisions.
-  Der Wille zum Erfolg hat all unsere Entscheidungen *bestimmt*.
+  The will to succeed has determined all our decisions.
 
   Le chancelier *préside* exceptionnellement la séance de l'Académie aujourd'hui.
-  Der Kanzler *leitet* heute ausnahmsweise die Sitzung der Akademie.
+  The Registrar shall, exceptionally, preside over the meeting of the Academy today.
 
   L'ambassadeur *présidera* le dîner de gala en l'honneur des invités étrangers.
-  Der Botschafter wird beim Galadinner zu Ehren der ausländischen Gäste den *Vorsitz* *führen*.
+  *The* Ambassador will preside over the gala dinner in honor of foreign guests.
 
   Le comité qui *préside* à l'organisation du festival a fait un excellent travail.
-  Das Komitee, das die Organisation des Festivals *leitet*, hat hervorragende Arbeit geleistet.
+  The committee that heads the organisation of the festival has done an excellent job.
 
   Dans la mythologie grecque, Apollon *présidait* aux arts et à la musique.
-  In der griechischen Mythologie *stand* Apollon den Künsten und der Musik *vor*.
+  In Greek mythology Apollon presided over the arts and music.
 
   Le juge d'instruction *préside* à l'enquête sur cette affaire complexe.
-  Der Untersuchungsrichter *leitet* die Ermittlungen in diesem komplexen Fall.
+  The investigating judge is conducting the investigation in this complex case.
 
   "Qui *présidera* la réunion en mon absence ?" demanda le directeur.
-  "Wer wird in meiner Abwesenheit die Sitzung *leiten*?" fragte der Direktor.
+  "Who will run the meeting in my absence?" asked the director.
 
   La commission *présidée* par le sénateur a rendu son rapport final.
-  Die vom Senator *geleitete* Kommission hat ihren Abschlussbericht vorgelegt.
+  *The* Senate-led Commission has presented its final report.
 
   C'est le doyen de la faculté qui *préside* la cérémonie de remise des diplômes.
-  Der Dekan der Fakultät *führt* bei der Abschlussfeier den *Vorsitz*.
+  *The* Dean of the Faculty will *chair* the graduation ceremony.
 
   Le grand-père *présidait* fièrement le repas de Noël familial.
-  Der Großvater *saß* stolz dem familiären Weihnachtsessen *vor*.
+  The grandfather proudly presided over the family Christmas dinner.
 
   La nouvelle présidente *présidera* sa première assemblée générale demain.
-  Die neue Präsidentin wird morgen ihre erste Hauptversammlung *leiten*.
+  The new president will be in charge of her first general meeting tomorrow.
 
   Un esprit d'ouverture et de dialogue a *présidé* à nos négociations.
-  Ein Geist der Offenheit und des Dialogs hat unsere Verhandlungen *bestimmt*.
+  A spirit of openness and dialogue has determined our negotiations.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

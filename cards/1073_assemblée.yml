@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1073
 Wort: assemblée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une assemblée
 Femininum / Plural: ''
 IPA: \a.sɑ̃.ble\
-Definition: Versammlung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Assembly
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La direction organisa une *assemblée* générale.
-  Die Geschäftsführung organisierte eine *Versammlung*.
+  The management organized a meeting.
 
   Les fidèles se sont réunis en *assemblée* pour célébrer Pâques.
-  Die Gläubigen haben sich zur *Versammlung* getroffen, um Ostern zu feiern.
+  The faithful met at the *assembly* to celebrate Easter.
 
   Mon père participe à une *assemblée* de copropriétaires ce soir.
-  Mein Vater nimmt heute Abend an einer Eigentümer*versammlung* teil.
+  My father is attending an owner's meeting tonight.
 
   L'*assemblée* des créanciers aura lieu mardi prochain.
-  Die Gläubiger*versammlung* findet am nächsten Dienstag statt.
+  The creditors' meeting will take place next Tuesday.
 
   Une *assemblée* tumultueuse a empêché le maire de parler.
-  Eine turbulente *Versammlung* hinderte den Bürgermeister am Sprechen.
+  A turbulent *assembly* prevented the mayor from speaking.
 
   L'*Assemblée* nationale a voté la nouvelle loi hier soir.
-  Die National*versammlung* hat gestern Abend das neue Gesetz verabschiedet.
+  The National Assembly passed the new law last night.
 
   Le président s'est adressé à l'*assemblée* avec conviction.
-  Der Präsident wandte sich mit Überzeugung an die *Versammlung*.
+  The President addressed the *Assembly* with conviction.
 
   L'*assemblée* générale annuelle se tiendra en juin.
-  Die Jahreshaupt*versammlung* wird im Juni stattfinden.
+  The Annual *General Meeting* will take place in June.
 
   Le secrétaire a dressé le procès-verbal de l'*assemblée*.
-  Der Sekretär hat das Protokoll der *Versammlung* erstellt.
+  The secretary has prepared the minutes of the meeting.
 
   Une *assemblée* constituante fut convoquée pour rédiger la constitution.
-  Eine verfassunggebende *Versammlung* wurde einberufen, um die Verfassung auszuarbeiten.
+  A constituent *assembly* was convened to draft the Constitution.
 
   L'*Assemblée* générale de l'ONU se réunit à New York.
-  Die UN-Voll*versammlung* tritt in New York zusammen.
+  The UN General Assembly will meet in New York.
 
   La salle était trop petite pour accueillir toute l'*assemblée*.
-  Der Saal war zu klein, um die ganze *Versammlung* aufzunehmen.
+  The hall was too small to accommodate the whole *assembly*.
 
   L'*assemblée* plénière a adopté la résolution à l'unanimité.
-  Die Voll*versammlung* hat die Resolution einstimmig angenommen.
+  The General Assembly adopted the resolution unanimously.
 
   Les délégués ont quitté l'*assemblée* après trois heures de débat.
-  Die Delegierten haben die *Versammlung* nach drei Stunden Debatte verlassen.
+  The delegates left the meeting after three hours of debate.
 
   Une *assemblée* extraordinaire sera convoquée la semaine prochaine.
-  Eine außerordentliche *Versammlung* wird für nächste Woche einberufen.
+  An extraordinary meeting will be convened for next week.
 
   Le rapport annuel sera présenté lors de l'*assemblée*.
-  Der Jahresbericht wird während der *Versammlung* vorgestellt.
+  The annual report will be presented during the meeting.
 
   L'*assemblée* des parents d'élèves a élu un nouveau président.
-  Die Eltern*versammlung* hat einen neuen Vorsitzenden gewählt.
+  The Parents' Meeting has elected a new chairman.
 
   Les décisions de l'*assemblée* seront communiquées par email.
-  Die Beschlüsse der *Versammlung* werden per E-Mail mitgeteilt.
+  The resolutions of the *Assembly* shall be communicated by e-mail.
 
   Une importante *assemblée* de médecins se tiendra à Paris.
-  Eine wichtige Ärzte*versammlung* wird in Paris stattfinden.
+  An important medical meeting will take place in Paris.
 
   L'*assemblée* délibérante a rejeté la proposition.
-  Die beratende *Versammlung* hat den Vorschlag abgelehnt.
+  The Consultative *Assembly* rejected the proposal.
 
   Les actionnaires ont été convoqués en *assemblée* générale.
-  Die Aktionäre wurden zur Haupt*versammlung* einberufen.
+  The shareholders were convened for the Annual *General Meeting*.
 
   Le vote de l'*assemblée* était décisif pour l'avenir de l'entreprise.
-  Die Abstimmung der *Versammlung* war entscheidend für die Zukunft des Unternehmens.
+  The vote of the *assembly* was decisive for the future of the company.
 
   Une nombreuse *assemblée* assistait à la conférence.
-  Eine große *Versammlung* wohnte dem Vortrag bei.
+  A large congregation attended the talk.
 
   L'ordre du jour de l'*assemblée* comportait cinq points.
-  Die Tagesordnung der *Versammlung* umfasste fünf Punkte.
+  The agenda of the *Assembly* comprised five items.
 
   Le président a ouvert l'*assemblée* à dix heures précises.
-  Der Vorsitzende hat die *Versammlung* um genau zehn Uhr eröffnet.
+  The chairman opened the meeting at exactly ten o'clock.
 
   L'*assemblée* des sociétaires a approuvé le budget.
-  Die Gesellschafter*versammlung* hat dem Budget zugestimmt.
+  The shareholders' meeting approved the budget.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

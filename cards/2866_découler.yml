@@ -1,84 +1,84 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2866
 Wort: découler
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: découler
 Femininum / Plural: ''
 IPA: \de.ku.le\
-Definition: sich ableiten, folgen aus
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: are derived, follow from
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une conséquence importante en *découle*.
-  Daraus *ergibt* sich eine wichtige Konsequenz.
+  This results in an important consequence.
 
   La sueur *découlait* de son front après l'exercice intense.
-  Der Schweiß *rann* von seiner Stirn nach der intensiven Übung.
+  The sweat ran from his forehead after intensive exercise.
 
   Tous nos problèmes *découlent* d'un manque de communication.
-  Alle unsere Probleme *rühren* von einem Mangel an Kommunikation *her*.
+  All our problems are caused by a lack of communication.
 
   Ces droits *découlent* directement de la Constitution.
-  Diese Rechte *leiten* sich direkt aus der Verfassung *ab*.
+  These rights derive directly *from* the Constitution.
 
   Il *découle* de cette étude que le changement climatique s'accélère.
-  Aus dieser Studie *folgt*, dass sich der Klimawandel beschleunigt.
+  This study shows that climate change is accelerating.
 
   Les responsabilités qui *découlent* de ce poste sont considérables.
-  Die Verantwortlichkeiten, die sich aus dieser Position *ergeben*, sind beträchtlich.
+  *The* responsibilities arising from this position are considerable.
 
   Cette conclusion ne *découle* pas logiquement des prémisses.
-  Diese Schlussfolgerung *folgt* nicht logisch aus den Prämissen.
+  This conclusion does not follow logically from the premises.
 
   Les avantages *découlant* de cette décision sont nombreux.
-  Die Vorteile, die sich aus dieser Entscheidung *ergeben*, sind zahlreich.
+  *The* benefits resulting from this decision are numerous.
 
   De ce principe *découlent* plusieurs applications pratiques.
-  Aus diesem Prinzip *ergeben* sich mehrere praktische Anwendungen.
+  This principle results in several practical applications.
 
   La confiance mutuelle *découle* d'une communication ouverte et honnête.
-  Gegenseitiges Vertrauen *entsteht* aus offener und ehrlicher Kommunikation.
+  Mutual trust arises from open and honest communication.
 
   Les conséquences juridiques qui en *découlent* sont complexes.
-  Die rechtlichen Folgen, die sich daraus *ergeben*, sind komplex.
+  *The* legal consequences of this are complex.
 
   Cette théorie *découle* naturellement des observations précédentes.
-  Diese Theorie *ergibt* sich natürlich aus den vorherigen Beobachtungen.
+  This theory is of course derived from *the* previous observations.
 
   Les obligations *découlant* du contrat doivent être respectées.
-  Die sich aus dem Vertrag *ergebenden* Verpflichtungen müssen eingehalten werden.
+  The obligations arising from the Treaty must be respected.
 
   Il *découle* de ces faits que l'accusé est innocent.
-  Aus diesen Tatsachen *folgt*, dass der Angeklagte unschuldig ist.
+  From these facts, it *follows* that the defendant is innocent.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>résulter</i> und <i>découler</i></div>
+    <div class="section-title"><i>résulter</i> and <i>découler</i></div>
     <div class="section-content">
-      <p><span class="fr">Résulter</span> (#2095) bedeutet <span class="de">"resultieren"</span> oder <span class="de">"sich ergeben"</span> und wird verwendet, um eine direkte Folge oder ein Ergebnis zu bezeichnen. Es drückt oft eine unmittelbare Konsequenz aus.</p>
+      <p><span class="fr">Résulter</span> (#2095) means <span class="de">"resultieren"</span> or <span class="de">"sich ergeben"</span> and is used to denote a direct sequence or result. It often expresses an immediate consequence.</p>
       <div class="examples">
         <div class="fr">Sa réussite résulte de son travail acharné.</div>
-        <div class="de spoiler">Sein Erfolg resultiert aus seiner harten Arbeit.</div>
+        <div class="de spoiler">His success results from his hard work.</div>
         <div class="fr">De cette négociation a résulté un accord satisfaisant.</div>
-        <div class="de spoiler">Aus dieser Verhandlung ergab sich eine zufriedenstellende Vereinbarung.</div>
+        <div class="de spoiler">The outcome of this negotiation was a satisfactory agreement.</div>
       </div>
-      <p><span class="fr">Découler</span> bedeutet <span class="de">"sich ableiten"</span> oder <span class="de">"folgen aus"</span> und impliziert oft einen logischen oder natürlichen Zusammenhang. Es betont mehr den fließenden Übergang von Ursache zu Wirkung.</p>
+      <p><span class="fr">Découler</span> means <span class="de">"sich ableiten"</span> or <span class="de">"follow"</span> and often implies a logical or natural connection. It emphasizes more the flowing transition from cause to effect.</p>
       <div class="examples">
         <div class="fr">Cette conclusion découle logiquement des faits présentés.</div>
-        <div class="de spoiler">Diese Schlussfolgerung leitet sich logisch aus den präsentierten Fakten ab.</div>
+        <div class="de spoiler">This conclusion is logically derived from the facts presented.</div>
         <div class="fr">De ses principes découle sa façon d'agir.</div>
-        <div class="de spoiler">Aus seinen Prinzipien folgt seine Handlungsweise.</div>
+        <div class="de spoiler">His principles follow his course of action.</div>
       </div>
-      <p>Beide Verben drücken Kausalität aus, aber <span class="fr">résulter</span> betont mehr das konkrete Ergebnis, während <span class="fr">découler</span> den logischen oder natürlichen Fluss von einer Ursache zur Folge hervorhebt.</p>
+      <p>Both verbs express causality, but <span class="fr">résulter</span> stresses more the concrete result, while <span class="fr">découler</span> the logical or natural flow of a cause.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

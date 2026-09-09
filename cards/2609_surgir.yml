@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2609
 Wort: surgir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: surgir
 Femininum / Plural: ''
 IPA: \syʁ.ʒiʁ\
-Definition: (plötzlich) auftauchen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (suddenly)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   De Transylvanie *surgit* un chevalier roumain.
-  Aus Transsilvanien *tauchte* ein rumänischer Ritter *auf*.
+  A Romanian knight appeared from Transylvania.
 
   Une source d'eau chaude *surgit* soudainement du sol dans le parc.
-  Eine heiße Quelle *sprudelte* plötzlich im Park aus dem Boden.
+  A hot spring suddenly gushed out of the ground in the park.
 
   Des manifestants *surgirent* de toutes parts lors de la réunion.
-  Von allen Seiten *strömten* Demonstranten während des Treffens *herbei*.
+  Demonstrators flocked from all sides during the meeting.
 
   Un cerf majestueux *surgit* de la forêt dense.
-  Ein majestätischer Hirsch *tauchte* aus dem dichten Wald *auf*.
+  A majestic deer emerged from the dense forest.
 
   Le soleil *surgit* à l'horizon, illuminant le paysage.
-  Die Sonne *erhob sich* am Horizont und erleuchtete die Landschaft.
+  The sun *rose* on the horizon and illuminated the landscape.
 
   Une idée brillante *surgit* dans son esprit pendant la réunion.
-  Eine brillante Idee *tauchte* während des Meetings in seinem Geist *auf*.
+  A brilliant idea appeared in his mind during the meeting.
 
   Des problèmes inattendus *surgirent* lors de la mise en œuvre du projet.
-  Unerwartete Probleme *traten* bei der Umsetzung des Projekts *auf*.
+  Unexpected problems occurred in *the* implementation of the project.
 
   Un renard *surgit* brusquement devant la voiture sur la route de campagne.
-  Ein Fuchs *tauchte* plötzlich vor dem Auto auf der Landstraße *auf*.
+  A fox suddenly showed up in front of the car *on* the country road.
 
   Les souvenirs d'enfance *surgirent* dans sa mémoire en visitant sa ville natale.
-  Kindheitserinnerungen *tauchten* in seinem Gedächtnis *auf*, als er seine Heimatstadt besuchte.
+  Childhood memories appeared in his memory when he visited his hometown.
 
   Une nouvelle théorie scientifique *surgit* des récentes découvertes.
-  Eine neue wissenschaftliche Theorie *entstand* aus den jüngsten Entdeckungen.
+  A new scientific theory arose from recent discoveries.
 
   Le clown *surgit* de sa boîte, surprenant tous les enfants.
-  Der Clown *schoss* aus seiner Box *hervor* und überraschte alle Kinder.
+  The clown *shot* *out* of his box and surprised all the children.
 
   Des questions importantes *surgirent* lors du débat présidentiel.
-  Wichtige Fragen *tauchten* während der Präsidentschaftsdebatte *auf*.
+  Important issues emerged during the Presidency debate.
 
   Un sous-marin *surgit* à la surface de l'océan, brisant le calme des vagues.
-  Ein U-Boot *tauchte* an der Meeresoberfläche *auf* und durchbrach die Ruhe der Wellen.
+  A submarine appeared *on* the surface of the sea and broke through the calm of the waves.
 
   La vérité finit par *surgir* au cours de l'enquête policière.
-  Die Wahrheit *kam* schließlich im Laufe der polizeilichen Ermittlungen *ans Licht*.
+  The truth finally *came* to light during the police investigation.
 
   Des opportunités inattendues *surgirent* de la crise économique.
-  Unerwartete Möglichkeiten *ergaben sich* aus der Wirtschaftskrise.
+  Unexpected opportunities arose from *the* economic crisis.
 
   Le spectre *surgit* du mur, effrayant tous les visiteurs du château hanté.
-  Der Geist *erschien* aus der Wand und erschreckte alle Besucher des Spukschlosses.
+  The spirit appeared out of the wall and frightened all visitors to the haunted castle.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

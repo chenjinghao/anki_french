@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 982
 Wort: novembre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le novembre
 Femininum / Plural: ''
 IPA: \nɔ.vɑ̃bʁ\
 Definition: November
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Rappelez-vous où vous étiez le 1er *novembre* ?
-  Erinnern Sie sich, wo Sie am 1. *November* waren?
+  Do you remember where you were on *November* 1st?
 
   En *novembre*, le ciel est souvent gris et nuageux.
-  Im *November* ist der Himmel oft grau und bewölkt.
+  In *November*, the sky is often grey and cloudy.
 
   Le 11 *novembre* est un jour férié en France.
-  Der 11. *November* ist in Frankreich ein Feiertag.
+  *November* 11 is a holiday in France.
 
   Nous fêterons la Toussaint le premier *novembre*.
-  Wir werden am ersten *November* Allerheiligen feiern.
+  We will celebrate the first of *November* All Saints.
 
   Les températures en *novembre* sont plus basses que d'habitude cette année.
-  Die Temperaturen im *November* sind dieses Jahr niedriger als gewöhnlich.
+  Temperatures in *November* are lower than usual this year.
 
   L'armistice a été signé le 11 *novembre* 1918.
-  Der Waffenstillstand wurde am 11. *November* 1918 unterzeichnet.
+  The ceasefire was signed on 11 *November* 1918.
 
   Les brumes de *novembre* enveloppent le paysage.
-  Die *November*nebel hüllen die Landschaft ein.
+  The *November* fog envelops the landscape.
 
   Mon fils est né un matin de *novembre*.
-  Mein Sohn wurde an einem *November*morgen geboren.
+  My son was born on a *November* morning.
 
   Le 11 *novembre* 1942, les Allemands ont occupé toute la France.
-  Am 11. *November* 1942 besetzten die Deutschen ganz Frankreich.
+  On *November* 11, 1942, the Germans occupied all of France.
 
   Fin *novembre*, nous commencerons les préparatifs de Noël.
-  Ende *November* werden wir mit den Weihnachtsvorbereitungen beginnen.
+  At the end of *November*, we will begin the Christmas preparations.
 
   Le marché de Noël ouvre ses portes mi-*novembre*.
-  Der Weihnachtsmarkt öffnet Mitte *November* seine Tore.
+  The Christmas market opens its doors in mid-*November*.
 
   Les élections auront lieu en *novembre* prochain.
-  Die Wahlen werden im nächsten *November* stattfinden.
+  The elections will take place next *November*.
 
   Cette année, *novembre* a été particulièrement doux.
-  Dieses Jahr war der *November* besonders mild.
+  This year, *November* was particularly mild.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4142
 Wort: dégrader
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dégrader
 Femininum / Plural: ''
 IPA: \de.ɡʁa.de\
-Definition: verschlechtern, abstufen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: deteriorate, degrade
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La situation *se dégrade* depuis 1984.
-  Die Situation *verschlechtert sich* seit 1984.
+  The situation has been *deteriorating* since 1984.
 
   Les vandales ont *dégradé* plusieurs monuments historiques.
-  Die Vandalen haben mehrere historische Denkmäler *beschädigt*.
+  The Vandals have *damaged* several historical monuments.
 
   L'officier a été *dégradé* devant tout le régiment.
-  Der Offizier wurde vor dem ganzen Regiment *degradiert*.
+  The officer was demoted in front of the whole regiment.
 
   "La maladie l'a beaucoup *dégradé*."
-  "Die Krankheit hat ihn stark *heruntergebracht*."
+  "The disease has brought him down."
 
   Le coiffeur a *dégradé* mes cheveux de manière asymétrique.
-  Der Friseur hat meine Haare asymmetrisch *gestuft*.
+  The hairdresser has asymmetrically *graded* my hair.
 
   Les pluies acides *dégradent* lentement la façade.
-  Der saure Regen *zerstört* langsam die Fassade.
+  The acid rain slowly destroys the facade.
 
   Le temps *se dégrade*, il faut rentrer.
-  Das Wetter *verschlechtert sich*, wir müssen nach Hause.
+  The weather is *deteriorating*, we have to go home.
 
   La pollution continue à *dégrader* l'environnement.
-  Die Verschmutzung *schädigt* weiterhin die Umwelt.
+  Pollution continues to damage the environment.
 
   L'humidité a *dégradé* les peintures murales.
-  Die Feuchtigkeit hat die Wandmalereien *beschädigt*.
+  The moisture *damaged* the murals.
 
   L'artiste a *dégradé* les tons du rouge au jaune.
-  Der Künstler hat die Töne von Rot zu Gelb *abgestuft*.
+  The artist has *graded* the tones from red to yellow.
 
   Leurs relations *se sont dégradées* après cette dispute.
-  Ihre Beziehung hat sich nach diesem Streit *verschlechtert*.
+  Your relationship has deteriorated after this fight.
 
   La qualité de l'air *se dégrade* dans les grandes villes.
-  Die Luftqualität *verschlechtert sich* in den Großstädten.
+  Air quality is *deteriorating* in major cities.
 
   Le photographe a *dégradé* la lumière pour créer une ambiance.
-  Der Fotograf hat das Licht *abgeschwächt*, um eine Stimmung zu erzeugen.
+  The photographer has weakened the light to create a mood.
 
   Cette action va *dégrader* ta réputation.
-  Diese Handlung wird deinen Ruf *beschädigen*.
+  This action will *damage* your reputation.
 
   L'alcool l'a complètement *dégradé*.
-  Der Alkohol hat ihn völlig *heruntergekommen*.
+  The alcohol has completely run him down.
 
   Le sel *dégrade* rapidement les routes en hiver.
-  Das Salz *beschädigt* die Straßen im Winter stark.
+  The salt damages the roads in winter.
 
   La chaleur *dégrade* progressivement le plastique.
-  Die Hitze lässt den Kunststoff allmählich *zerfallen*.
+  The heat gradually disintegrates the plastic.
 
   Son état de santé *se dégrade* de jour en jour.
-  Sein Gesundheitszustand *verschlechtert sich* von Tag zu Tag.
+  His health is *deteriorating* from day to day.
 
   Les graffitis ont *dégradé* la façade historique.
-  Die Graffiti haben die historische Fassade *beschädigt*.
+  The graffiti *damaged* the historic facade.
 
   Le climat social *se dégrade* dans l'entreprise.
-  Das Arbeitsklima *verschlechtert sich* in der Firma.
+  The working environment is *deteriorating* in the company.
 
   Tu *te dégraderais* en acceptant cette proposition malhonnête.
-  Du würdest *dich* durch die Annahme dieses unehrlichen Angebots *erniedrigen*.
+  *You* would degrade yourself by accepting this dishonest offer.
 
   L'économie *s'est dégradée* pendant la crise.
-  Die Wirtschaft hat *sich* während der Krise *verschlechtert*.
+  *The* economy has deteriorated during the crisis.
 
   Le bâtiment *se dégrade* faute d'entretien.
-  Das Gebäude *verfällt* aufgrund mangelnder Wartung.
+  The building is degraded due to a lack of maintenance.
 
   Les conditions météorologiques *se sont dégradées* rapidement.
-  Die Wetterbedingungen haben *sich* schnell *verschlechtert*.
+  Weather conditions have deteriorated rapidly.
 
   Cette substance *dégrade* l'énergie en chaleur.
-  Diese Substanz *wandelt* die Energie in Wärme *um*.
+  This substance converts energy into heat.
 
   Les termites ont *dégradé* la structure en bois.
-  Die Termiten haben die Holzstruktur *zerstört*.
+  The termites *destroyed* the wooden structure.
 
   Le manque d'entretien a *dégradé* ce jardin autrefois magnifique.
-  Die mangelnde Pflege hat diesen einst prächtigen Garten *verwahrlosen lassen*.
+  The lack of care has left this once magnificent garden to be neglected.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

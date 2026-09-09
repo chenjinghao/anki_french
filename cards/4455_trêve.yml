@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4455
 Wort: trêve
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la trêve
 Femininum / Plural: ''
 IPA: \tʁɛv\
-Definition: Waffenruhe, Ruhepause
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Ceasefire, rest
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous rejetons toute idée de *trêve* ou de négociation politique.
-  Wir lehnen jeden Gedanken an eine *Waffenruhe* oder politische Verhandlung ab.
+  We reject any idea of a *ceasefire* or political negotiation.
 
   Les deux parties ont conclu une *trêve* d'une durée de trois mois.
-  Die beiden Parteien haben eine dreimonatige *Waffenruhe* vereinbart.
+  The two parties have agreed to a three-month *ceasefire*.
 
   Après deux heures de travail intense, elle s'accorde une petite *trêve*.
-  Nach zwei Stunden intensiver Arbeit gönnt sie sich eine kleine *Verschnaufpause*.
+  After two hours of intensive work, she takes a little breather.
 
   La *trêve* hivernale protège les locataires contre l'expulsion pendant l'hiver.
-  Die Winter*pause* schützt Mieter vor einer Kündigung während des Winters.
+  The winter break protects tenants from cancellation during the winter.
 
   Il a travaillé sans *trêve* pendant des jours.
-  Er hat tagelang ohne *Pause* gearbeitet.
+  He worked without a break for days.
 
   "*Trêve* de plaisanteries, passons aux choses sérieuses !"
-  "*Genug* der Späße, kommen wir zum Ernst der Sache!"
+  "*Enough* of the jokes, let's get to the point!"
 
   Les soldats ont violé la *trêve* en attaquant pendant la nuit.
-  Die Soldaten haben die *Waffenruhe* gebrochen, indem sie nachts angriffen.
+  The soldiers broke the truce by attacking at night.
 
   Cette *trêve* temporaire nous donnera le temps de négocier.
-  Diese vorübergehende *Kampfpause* wird uns Zeit zum Verhandeln geben.
+  This temporary break will give us time to negotiate.
 
   Pendant la *trêve*, les équipes médicales peuvent accéder aux zones touchées.
-  Während der *Waffenruhe* können die medizinischen Teams die betroffenen Gebiete erreichen.
+  During the *ceasefire*, the medical teams can reach the affected areas.
 
   Les manifestants ont demandé une *trêve* pour se reposer.
-  Die Demonstranten haben um eine Ruhe*pause* gebeten, um sich auszuruhen.
+  The demonstrators have asked for a rest to rest.
 
   La pluie est tombée sans *trêve* pendant tout le week-end.
-  Der Regen fiel das ganze Wochenende ohne *Pause*.
+  The rain fell all weekend without a break.
 
   "*Trêve* de discussions, il faut agir maintenant !"
-  "*Schluss* mit den Diskussionen, wir müssen jetzt handeln!"
+  "Stop the discussions, we have to act now!"
 
   Les négociateurs ont proposé une *trêve* de six mois.
-  Die Unterhändler haben eine sechsmonatige *Waffenruhe* vorgeschlagen.
+  The negotiators have proposed a six-month *ceasefire*.
 
   Cette courte *trêve* nous permettra de reprendre des forces.
-  Diese kurze *Verschnaufpause* wird uns erlauben, neue Kraft zu schöpfen.
+  This short breather will allow us to gain new strength.
 
   Les enfants jouaient sans *trêve* dans le jardin.
-  Die Kinder spielten ohne *Unterbrechung* im Garten.
+  The children played in the garden without *interruption*.
 
   Une *trêve* politique a été déclarée pendant les fêtes.
-  Während der Feiertage wurde eine politische *Pause* vereinbart.
+  During the holidays a political break was agreed.
 
   Nous avons besoin d'une *trêve* pour réorganiser notre équipe.
-  Wir brauchen eine Ruhe*pause*, um unser Team neu zu organisieren.
+  We need a rest to reorganize our team.
 
   Les deux camps ont respecté la *trêve* pendant une semaine.
-  Beide Seiten haben die *Waffenruhe* eine Woche lang eingehalten.
+  Both sides kept the *ceasefire* for a week.
 
   Le stress au travail ne lui laisse aucune *trêve*.
-  Der Stress bei der Arbeit lässt ihm keine *Pause*.
+  The stress at work doesn't give him a break.
 
   "*Trêve* de bavardages, commençons la réunion !"
-  "*Schluss* mit dem Gerede, lasst uns die Sitzung beginnen!"
+  "Stop talking, let's start the session!"
 
   Une *trêve* s'impose après ces longues heures de négociation.
-  Nach diesen langen Verhandlungsstunden ist eine *Pause* nötig.
+  After these long hours of negotiation, a break is necessary.
 
   La *trêve* a été rompue par des tirs d'artillerie.
-  Die *Waffenruhe* wurde durch Artilleriefeuer gebrochen.
+  The *ceasefire* was broken by artillery fire.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

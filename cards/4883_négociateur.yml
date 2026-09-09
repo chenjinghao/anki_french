@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4883
 Wort: négociateur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le négociateur
 Femininum / Plural: négociatrice
 IPA: \ne.ɡɔ.sja.tœʁ\
-Definition: Verhandlungsführer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Negotiators
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *négociateurs* restent pratiquement muets.
-  Die *Unterhändler* bleiben praktisch stumm.
+  The *negotiators* remain practically silent.
 
   La *négociatrice* a fait preuve d'une grande habileté lors des pourparlers.
-  Die *Verhandlungsführerin* zeigte während der Gespräche großes Geschick.
+  The *negotiator* showed great skill during the talks.
 
   Notre *négociateur* principal a réussi à obtenir de meilleures conditions.
-  Unser führender *Unterhändler* konnte bessere Bedingungen aushandeln.
+  Our leading negotiator was able to negotiate better conditions.
 
   Les deux *négociateurs* se sont mis d'accord sur les points essentiels du traité.
-  Die beiden *Verhandlungsführer* haben sich auf die wesentlichen Punkte des Vertrags geeinigt.
+  The two *negotiators* have agreed on the main points of the Treaty.
 
   Une *négociatrice* expérimentée a été désignée pour mener les discussions.
-  Eine erfahrene *Unterhändlerin* wurde zur Leitung der Gespräche ernannt.
+  An experienced *negotiator* was appointed to lead the talks.
 
   Le gouvernement a envoyé ses meilleurs *négociateurs* à la conférence de paix.
-  Die Regierung schickte ihre besten *Unterhändler* zur Friedenskonferenz.
+  The government sent its best *negotiators* to the peace conference.
 
   La prudence de cette *négociatrice* nous a évité bien des problèmes.
-  Die Umsicht dieser *Verhandlungsführerin* hat uns viele Probleme erspart.
+  This *negotiator* has spared us many problems.
 
   Un *négociateur* chevronné reprendra les discussions lundi prochain.
-  Ein versierter *Unterhändler* wird die Gespräche am nächsten Montag wieder aufnehmen.
+  A savvy negotiator will resume the talks next Monday.
 
   Les *négociateurs* ont travaillé jour et nuit pour parvenir à un accord.
-  Die *Verhandlungsführer* haben Tag und Nacht gearbeitet, um eine Einigung zu erzielen.
+  The *negotiators* worked day and night to reach an agreement.
 
   Cette *négociatrice* a su trouver un compromis acceptable pour tous.
-  Diese *Unterhändlerin* konnte einen für alle akzeptablen Kompromiss finden.
+  This *negotiator* could find a compromise acceptable to all.
 
   Le *négociateur* va présenter les nouvelles propositions demain matin.
-  Der *Verhandlungsführer* wird morgen früh die neuen Vorschläge präsentieren.
+  The negotiator will present the new proposals in the morning.
 
   As-tu déjà rencontré notre nouvelle *négociatrice* ?
-  Hast du unsere neue *Unterhändlerin* schon kennengelernt?
+  Have you met our new *negotiator* yet?
 
   Les *négociateurs* se réuniront à Genève la semaine prochaine.
-  Die *Verhandlungsführer* werden sich nächste Woche in Genf treffen.
+  The *negotiators* will meet in Geneva next week.
 
   Une équipe de *négociateurs* travaille actuellement sur le dossier.
-  Ein Team von *Unterhändlern* arbeitet derzeit an dem Fall.
+  A team of *negotiators* is currently working on the case.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

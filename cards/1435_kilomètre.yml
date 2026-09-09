@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1435
 Wort: kilomètre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le kilomètre
 Femininum / Plural: ''
 IPA: \ki.lɔ.mɛtʁ\
-Definition: Kilometer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Kilometers
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai un jardin à vingt-cinq *kilomètres* de Paris.
-  Ich habe einen Garten fünfundzwanzig *Kilometer* von Paris entfernt.
+  I have a garden twenty-five *kilometers* from Paris.
 
   La voiture roule à cent trente *kilomètres* à l'heure sur l'autoroute.
-  Das Auto fährt mit hundertdreißig Stunden*kilometern* auf der Autobahn.
+  The car runs on the highway at a distance of one hundred and thirty kilometers per hour.
 
   Notre pays a une densité de population de 230 habitants par *kilomètre* carré.
-  Unser Land hat eine Bevölkerungsdichte von 230 Einwohnern pro Quadrat*kilometer*.
+  Our country has a population density of 230 inhabitants per square kilometre.
 
   Le volume d'eau du lac est de deux *kilomètres* cubes.
-  Das Wasservolumen des Sees beträgt zwei Kubik*kilometer*.
+  The water volume of the lake is two cubic kilometres.
 
   "Cette voiture bouffe des *kilomètres* !"
-  "Dieses Auto frisst richtig *Kilometer*!"
+  "This car really eats miles!"
 
   Au *kilomètre* 45,2 de la voie ferrée se trouve une petite gare.
-  Am Bahn*kilometer* 45,2 befindet sich ein kleiner Bahnhof.
+  There is a small railway station at 45.2 *km*.
 
   Les randonneurs ont parcouru quinze *kilomètres* à pied aujourd'hui.
-  Die Wanderer sind heute fünfzehn *Kilometer* zu Fuß gelaufen.
+  Hikers have walked fifteen kilometres today.
 
   La limitation de vitesse est de cinquante *kilomètres*-heure en ville.
-  Die Geschwindigkeitsbegrenzung in der Stadt beträgt fünfzig *Kilometer* pro Stunde.
+  The speed limit in the city is fifty *kilometers* per hour.
 
   Pendant mes vacances, j'ai fait des *kilomètres* et des *kilomètres* à vélo.
-  In meinem Urlaub bin ich *kilometerweit* mit dem Fahrrad gefahren.
+  On my holiday I cycled for miles.
 
   Le parc national s'étend sur 400 *kilomètres* carrés.
-  Der Nationalpark erstreckt sich über 400 Quadrat*kilometer*.
+  The national park covers 400 square kilometres.
 
   "Il raconte des histoires *au kilomètre*."
-  "Er erzählt Geschichten *am laufenden Band*."
+  "He's telling stories on the running tape."
 
   Les *kilomètres* parcourus en avion sont comptabilisés pour le programme de fidélité.
-  Die geflogenen *Kilometer* werden für das Treueprogramm gezählt.
+  The miles flown are counted for the loyalty program.
 
   Le marathon fait exactement 42,195 *kilomètres*.
-  Der Marathon ist genau 42,195 *Kilometer* lang.
+  The marathon is exactly 42,195 kilometres long.
 
   Les bouchons s'étendent sur plusieurs *kilomètres* ce matin.
-  Der Stau erstreckt sich heute Morgen über mehrere *Kilometer*.
+  The traffic jam stretches for several *kilometers* this morning.
 
   À deux *kilomètres* d'ici se trouve un supermarché.
-  Zwei *Kilometer* von hier entfernt ist ein Supermarkt.
+  Two *kilometers* from here is a supermarket.
 
   Le compteur de ma voiture affiche 150.000 *kilomètres*.
-  Der Tacho meines Autos zeigt 150.000 *Kilometer* an.
+  The speedometer of my car indicates 150,000 *kilometers*.
 
   Sur ce tronçon de rivière, nous avons parcouru vingt *kilomètres* en canoë.
-  Auf diesem Flussabschnitt sind wir zwanzig *Kilometer* mit dem Kanu gefahren.
+  On this part of the river we went twenty *kilometers* by canoe.
 
   Le satellite orbite à 400 *kilomètres* au-dessus de la Terre.
-  Der Satellit kreist 400 *Kilometer* über der Erde.
+  The satellite orbits 400 *kilometers* above the Earth.
 
   La tempête a touché une zone de cent *kilomètres* de diamètre.
-  Der Sturm hat ein Gebiet mit einem Durchmesser von hundert *Kilometern* getroffen.
+  The storm hit an area with a diameter of 100 *kilometers*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

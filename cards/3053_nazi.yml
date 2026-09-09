@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3053
 Wort: nazi
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le nazi
 Femininum / Plural: nazie
 IPA: \na.zi\
 Definition: Nazi
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les historiens ont documenté les atrocités des *nazis* durant la guerre.
-  Die Historiker haben die Gräueltaten der *Nazis* während des Kriegs dokumentiert.
+  Historians have documented the atrocities committed by the *Nazis* during the war.
 
   Les lois *nazies* ont privé de nombreuses personnes de leurs droits fondamentaux.
-  Die *Nazi*-Gesetze haben viele Menschen ihrer Grundrechte beraubt.
+  The *Nazi* laws have deprived many people of their fundamental rights.
 
   Un ancien dignitaire *nazi* a été arrêté en Argentine en 1960.
-  Ein ehemaliger *Nazi*-Würdenträger wurde 1960 in Argentinien verhaftet.
+  A former *Nazi* soldier was arrested in Argentina in 1960.
 
   La propagande *nazie* utilisait le cinéma comme outil de manipulation.
-  Die *Nazi*-Propaganda nutzte den Film als Manipulationswerkzeug.
+  The *Nazi* propaganda used the film as a manipulation tool.
 
   L'Allemagne *nazie* a envahi la Pologne en septembre 1939.
-  *Nazi*-Deutschland überfiel Polen im September 1939.
+  *Nazi* Germany invaded Poland in September 1939.
 
   La barbarie *nazie* a causé des souffrances indicibles.
-  Die *Nazi*-Barbarei hat unsägliches Leid verursacht.
+  *Nazi* barbarism has caused unspeakable suffering.
 
   Les crimes *nazis* ne doivent jamais être oubliés.
-  Die *Nazi*-Verbrechen dürfen niemals vergessen werden.
+  The *Nazi* crimes must never be forgotten.
 
   Un criminel *nazi* a été jugé pour ses actes hier.
-  Ein *Nazi*-Verbrecher wurde gestern für seine Taten verurteilt.
+  A *Nazi* criminal was convicted yesterday for his actions.
 
   Le régime *nazi* s'est effondré en mai 1945.
-  Das *Nazi*-Regime brach im Mai 1945 zusammen.
+  The *Nazi* regime collapsed in May 1945.
 
   La résistance s'est battue contre l'occupation *nazie*.
-  Der Widerstand kämpfte gegen die *Nazi*-Besatzung.
+  The resistance fought against the *Nazi* occupation.
 
   Un groupe néo-*nazi* a été dissous par les autorités.
-  Eine neo*nazistische* Gruppe wurde von den Behörden aufgelöst.
+  A neo-Nazi group was dissolved by the authorities.
 
   Les survivants racontent l'horreur du système *nazi*.
-  Die Überlebenden erzählen vom Schrecken des *Nazi*-Systems.
+  The survivors tell of the horror of the *Nazi* system.
 
   Les *nazis* ont brûlé des milliers de livres en 1933.
-  Die *Nazis* verbrannten 1933 tausende Bücher.
+  The *Nazis* burned thousands of books in 1933.
 
   Le passé *nazi* de l'Allemagne est enseigné dans les écoles.
-  Die *Nazi*-Vergangenheit Deutschlands wird in den Schulen unterrichtet.
+  The *Nazi* past of Germany is taught in schools.
 
   Les victimes du terrorisme *nazi* sont commémorées chaque année.
-  Der Opfer des *Nazi*-Terrors wird jedes Jahr gedacht.
+  The victim of the *Nazi* terror is thought every year.
 
   Négocier avec les *nazis*? Jamais.
-  Mit den *Nazis* verhandeln? Niemals.
+  Negotiating with the *Nazis*?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

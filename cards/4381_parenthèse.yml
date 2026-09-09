@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4381
 Wort: parenthèse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la parenthèse
 Femininum / Plural: ''
 IPA: \pa.ʁɑ̃.tɛz\
-Definition: Klammer, Einschub
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Clamp, insert
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je dirais *en parenthèses* que l'histoire présente est opaque.
-  Ich möchte am *Rande* bemerken, dass die gegenwärtige Geschichte undurchsichtig ist.
+  I would like to point out on the sidelines that the present history is opaque.
 
   Il a mis son numéro de téléphone entre *parenthèses*.
-  Er hat seine Telefonnummer in *Klammern* gesetzt.
+  He put his phone number in *brackets*.
 
   "*Mettez* cette affaire *entre parenthèses* pour le moment."
-  "*Lassen* Sie diese Angelegenheit vorläufig *beiseite*."
+  "Let this matter be put aside for the time being."
 
   Cette *parenthèse* explicative est vraiment nécessaire.
-  Dieser erklärende *Einschub* ist wirklich notwendig.
+  This explanatory insert is really necessary.
 
   J'ouvre une *parenthèse* pour mentionner un détail important.
-  Ich füge einen *Exkurs* ein, um ein wichtiges Detail zu erwähnen.
+  I'm going to take a field trip to mention an important detail.
 
   Les *parenthèses* sont souvent utilisées en mathématiques.
-  Die *Klammern* werden oft in der Mathematik verwendet.
+  The *brackets* are often used in mathematics.
 
   Ces trois mois de voyage étaient une *parenthèse* enchantée dans sa vie.
-  Diese drei Reisemonate waren ein zauberhaftes *Intermezzo* in seinem Leben.
+  These three months of travel were an enchanting *intermezzo* in his life.
 
   Fermons cette *parenthèse* et revenons à notre sujet principal.
-  Beenden wir diesen *Einschub* und kehren wir zu unserem Hauptthema zurück.
+  Let's finish this slot and return to our main theme.
 
   Il faut placer l'explication entre *parenthèses*.
-  Die Erklärung muss in *Klammern* gesetzt werden.
+  The explanation must be placed in *brackets*.
 
   Cette *parenthèse* dans ma carrière m'a beaucoup appris.
-  Dieses *Zwischenspiel* in meiner Karriere hat mich viel gelehrt.
+  This *interlude* in my career taught me a lot.
 
   *Parenthèse* fermante ou ouvrante - laquelle utiliser ici ?
-  Schließende oder öffnende *Klammer* - welche soll hier verwendet werden?
+  Closing or opening brackets - which should be used here?
 
   *Soit dit entre parenthèses*, je ne l'ai jamais vraiment aimé.
-  *Nebenbei bemerkt*, ich habe ihn nie wirklich gemocht.
+  *By the way*, I never really liked him.
 
   Cette longue *parenthèse* a fait perdre le fil à tout le monde.
-  Dieser lange *Exkurs* hat alle den Faden verlieren lassen.
+  This long *excursion* made everyone lose the thread.
 
   *Par parenthèse*, as-tu déjà lu son nouveau livre ?
-  *In Klammern gesagt*, hast du sein neues Buch schon gelesen?
+  *In parentheses*, have you read his new book yet?
 
   Les vacances furent une courte *parenthèse* dans notre routine.
-  Der Urlaub war ein kurzes *Intermezzo* in unserer Routine.
+  The holiday was a short *intermezzo* in our routine.
 
   N'oubliez pas de fermer la *parenthèse* à la fin de la phrase.
-  Vergessen Sie nicht, die *Klammer* am Ende des Satzes zu schließen.
+  Do not forget to close the clamp at the end of the sentence.
 
   Cette *parenthèse* historique mérite d'être développée.
-  Dieser historische *Einschub* verdient es, ausgeführt zu werden.
+  This historical insert deserves to be executed.
 
   *Entre parenthèses*, je trouve cette idée excellente.
-  *In Klammern gesagt*, ich finde diese Idee ausgezeichnet.
+  *In parentheses*, I find this idea excellent.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

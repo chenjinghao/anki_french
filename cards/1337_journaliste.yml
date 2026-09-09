@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1337
 Wort: journaliste
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: journaliste
 Femininum / Plural: ''
 IPA: \ʒuʁ.na.list\
 Definition: Journalist
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce *journaliste* a la double nationalité française et américaine.
-  Dieser *Journalist* hat die französische und amerikanische Staatsbürgerschaft.
+  This *journalist* has French and American citizenship.
 
   Les *journalistes* de la presse écrite doivent s'adapter à l'ère numérique.
-  Die Zeitungs*journalisten* müssen sich an das digitale Zeitalter anpassen.
+  Newspaper journalists must adapt to the digital age.
 
   La *journaliste* à la radio interviewe souvent des personnalités politiques.
-  Die Rundfunk*journalistin* interviewt oft Politiker.
+  The radio *journalist* often interviews politicians.
 
   En tant que *journaliste* de télévision, elle présente le journal de 20 heures.
-  Als Fernseh*journalistin* moderiert sie die 20-Uhr-Nachrichten.
+  As a television *journalist* she moderates the 20 o'clock news.
 
   Le *journaliste* sportif commente le match en direct depuis le stade.
-  Der Sport*journalist* kommentiert das Spiel live aus dem Stadion.
+  The sports *journalist* comments on the game live from the stadium.
 
   Cette *journaliste* spécialiste en économie analyse les tendances du marché.
-  Diese Wirtschafts*journalistin* analysiert die Markttrends.
+  This business *journalist* analyses the market trends.
 
   Le *journaliste* parlementaire suit tous les débats à l'Assemblée nationale.
-  Der parlamentarische *Journalist* verfolgt alle Debatten in der Nationalversammlung.
+  The parliamentary *journalist* follows all debates in the National Assembly.
 
   La *journaliste* d'agence couvre les événements internationaux.
-  Die Agentur*journalistin* berichtet über internationale Ereignisse.
+  The agency *journalist* reports on international events.
 
   Les *journalistes* ont protesté contre les menaces à la liberté de la presse.
-  Die *Journalisten* haben gegen die Bedrohungen der Pressefreiheit protestiert.
+  *Journalists* have protested against the threats to freedom of the press.
 
   Le *journaliste* littéraire a écrit une critique du dernier best-seller.
-  Der Literatur*journalist* hat eine Rezension des letzten Bestsellers geschrieben.
+  The literary *journalist* has written a review of the last bestseller.
 
   Notre *journaliste* envoyée spéciale rapporte directement de la zone de conflit.
-  Unsere *Journalistin* berichtet als Sonderkorrespondentin direkt aus dem Konfliktgebiet.
+  Our *journalist* reports as a special correspondent directly from the conflict area.
 
   La *journaliste* politique a obtenu une interview exclusive avec le Premier ministre.
-  Die Politik*journalistin* hat ein exklusives Interview mit dem Premierminister bekommen.
+  The political *journalist* got an exclusive interview with the Prime Minister.
 
   Les *journalistes* de radio et de télévision collaborent sur ce reportage.
-  Die Rundfunk- und Fernseh*journalisten* arbeiten bei dieser Reportage zusammen.
+  The radio and television journalists are working together on this report.
 
   Un jeune *journaliste* stagiaire accompagne l'équipe sur le terrain.
-  Ein junger *Journalist* begleitet als Praktikant das Team vor Ort.
+  As an intern, a young *journalist* accompanies the team on site.
 
   La *journaliste* rédactrice en chef supervise toute l'équipe éditoriale.
-  Die Chef*journalistin* beaufsichtigt das gesamte Redaktionsteam.
+  The chief *journalist* oversees the entire editorial team.
 
   Le syndicat des *journalistes* négocie de meilleures conditions de travail.
-  Die Gewerkschaft der *Journalisten* verhandelt über bessere Arbeitsbedingungen.
+  The union of *journalists* negotiates better working conditions.
 
   Cette *journaliste* critique culturelle est connue pour ses analyses pertinentes.
-  Diese Kultur*journalistin* ist für ihre treffenden Analysen bekannt.
+  This cultural *journalist* is known for her accurate analyses.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

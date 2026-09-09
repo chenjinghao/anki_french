@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3276
 Wort: substantiel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: substantiel
 Femininum / Plural: substantielle
 IPA: \syp.stɑ̃.sjɛl\
-Definition: wesentlich, beträchtlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: material, significant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On a fait une progression *substantielle*.
-  Wir haben *beträchtliche* Fortschritte gemacht.
+  We have made considerable progress.
 
   Les pommes de terre sont un aliment *substantiel* qui rassasie longtemps.
-  Kartoffeln sind ein *nahrhaftes* Lebensmittel, das lange sättigt.
+  Potatoes are a *nutritious* food that satiates for a long time.
 
   Cette augmentation *substantielle* du budget nous permettra de réaliser de nouveaux projets.
-  Diese *beträchtliche* Erhöhung des Budgets wird uns erlauben, neue Projekte zu verwirklichen.
+  This *significant* increase in the budget will allow us to implement new projects.
 
   Son exposé *substantiel* a impressionné tout l'auditoire.
-  Sein *gehaltvoller* Vortrag hat das ganze Publikum beeindruckt.
+  His rich lecture impressed the entire audience.
 
   Le patron lui a accordé une prime *substantielle* pour son excellent travail.
-  Der Chef hat ihm für seine hervorragende Arbeit eine *beträchtliche* Prämie gewährt.
+  The boss has granted him a considerable premium for his excellent work.
 
   Cette soupe *substantielle* est parfaite pour l'hiver.
-  Diese *nahrhafte* Suppe ist perfekt für den Winter.
+  This *nutritious* soup is perfect for winter.
 
   Les modifications *substantielles* du projet doivent être approuvées par le comité.
-  Die *wesentlichen* Änderungen am Projekt müssen vom Komitee genehmigt werden.
+  The *main* changes to the project must be approved by the Committee.
 
   Il a apporté une contribution *substantielle* à la recherche scientifique.
-  Er hat einen *bedeutenden* Beitrag zur wissenschaftlichen Forschung geleistet.
+  He has made a significant contribution to scientific research.
 
   Le restaurant sert des repas *substantiels* à des prix raisonnables.
-  Das Restaurant serviert *nahrhafte* Mahlzeiten zu vernünftigen Preisen.
+  The restaurant serves *nutritious* meals at reasonable prices.
 
   Ces changements *substantiels* ont transformé notre façon de travailler.
-  Diese *wesentlichen* Veränderungen haben unsere Arbeitsweise verändert.
+  These major changes have changed our way of working.
 
   Son article contient des arguments *substantiels* qui méritent d'être discutés.
-  Sein Artikel enthält *gewichtige* Argumente, die es wert sind, diskutiert zu werden.
+  His article contains weighty arguments that are worth discussing.
 
   La différence *substantielle* entre les deux versions du texte est évidente.
-  Der *wesentliche* Unterschied zwischen den beiden Textversionen ist offensichtlich.
+  The *main* difference between the two text versions is obvious.
 
   Les étudiants ont reçu un déjeuner *substantiel* avant l'examen.
-  Die Studenten haben vor der Prüfung ein *nahrhaftes* Mittagessen bekommen.
+  The students received a *nutritious* lunch before the exam.
 
   Il a obtenu des avantages *substantiels* grâce à son nouveau contrat.
-  Er hat durch seinen neuen Vertrag *beträchtliche* Vorteile erhalten.
+  He has received considerable benefits through his new contract.
 
   Cette donation *substantielle* permettra de financer le projet.
-  Diese *bedeutende* Spende wird die Finanzierung des Projekts ermöglichen.
+  This significant donation will enable the project to be financed.
 
   Le texte contenait des informations *substantielles* sur le sujet.
-  Der Text enthielt *wesentliche* Informationen zum Thema.
+  The text contained essential information on the subject.
 
   Les améliorations *substantielles* du produit ont augmenté les ventes.
-  Die *beträchtlichen* Verbesserungen des Produkts haben die Verkäufe gesteigert.
+  The *significant* improvements in the product have increased sales.
 
   Un petit-déjeuner *substantiel* est important pour bien commencer la journée.
-  Ein *nahrhaftes* Frühstück ist wichtig, um gut in den Tag zu starten.
+  A *nutritious* breakfast is important to start the day well.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

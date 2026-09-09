@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3211
 Wort: restant
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le restant
 Femininum / Plural: restante
 IPA: \ʁɛs.tɑ̃\
-Definition: restlich, übrig; Rest
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: rest, rest; rest
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle sera toujours là, pour le *restant* de mes jours.
-  Sie wird immer da sein, für den *Rest* meiner Tage.
+  She'll always be there for the *rest* of my days.
 
   Le *restant* des provisions se trouve dans le frigo.
-  Der *Rest* der Vorräte befindet sich im Kühlschrank.
+  The *rest* of the supplies are in the fridge.
 
   Nous avons partagé la somme *restante* entre nous trois.
-  Wir haben den *verbleibenden* Betrag unter uns dreien aufgeteilt.
+  We've split the *remaining* amount between the three of us.
 
   J'ai utilisé le *restant* du tissu pour faire des masques.
-  Ich habe den *Rest* des Stoffes benutzt, um Masken zu machen.
+  I used the *rest* of the fabric to make masks.
 
   Marie est la seule personne *restante* de notre équipe initiale.
-  Marie ist die einzige *verbliebene* Person aus unserem ursprünglichen Team.
+  Marie is the only remaining person from our original team.
 
   Il faut ranger les exemplaires *restants* dans la bibliothèque.
-  Die *übrigen* Exemplare müssen in die Bibliothek eingeordnet werden.
+  The remaining copies must be placed in the library.
 
   Le *restant* de lumière suffisait à peine pour lire.
-  Das *restliche* Licht reichte kaum zum Lesen.
+  The rest of the light was barely enough to read.
 
   Les cent euros *restants* serviront à payer les factures.
-  Die *übrigen* hundert Euro werden für die Rechnungen verwendet.
+  The remaining 100 euros will be used for the invoices.
 
   Tu peux récupérer ton colis en *poste restante*.
-  Du kannst dein Paket *postlagernd* abholen.
+  You can pick up your parcel post-camping.
 
   Le seul membre *restant* de la famille habite à l'étranger.
-  Das einzig *verbleibende* Familienmitglied wohnt im Ausland.
+  The only *remaining* member of the family lives abroad.
 
   Je garde le *restant* du poulet pour demain midi.
-  Ich hebe den *Rest* vom Hähnchen für morgen Mittag auf.
+  I'll pick up the *rest* of the chicken for lunch tomorrow.
 
   Nous profiterons du *restant* de la journée pour visiter la ville.
-  Wir werden den *Rest* des Tages nutzen, um die Stadt zu besichtigen.
+  We will use the *rest* of the day to visit the city.
 
   Pierre a dépensé le *restant* de sa fortune en quelques mois.
-  Pierre hat den *Rest* seines Vermögens in wenigen Monaten ausgegeben.
+  Pierre spent the *rest* of his fortune in a few months.
 
   Les trois places *restantes* seront vendues à moitié prix.
-  Die drei *übrigen* Plätze werden zum halben Preis verkauft.
+  The three remaining seats are sold at half price.
 
   Le courrier sera envoyé en *poste restante* à Nice.
-  Der Brief wird *postlagernd* nach Nizza geschickt.
+  The letter will be sent to Nice in a post-camp.
 
   J'ai remboursé le *restant* de mes dettes hier.
-  Ich habe gestern den *Rest* meiner Schulden zurückgezahlt.
+  I paid back the *rest* of my debts yesterday.
 
   Les cinq candidats *restants* passeront un dernier entretien.
-  Die fünf *verbleibenden* Kandidaten werden ein letztes Gespräch führen.
+  The five *remaining* candidates will have a final conversation.
 
   Le *restant* du gâteau est dans la cuisine.
-  Der *Rest* des Kuchens ist in der Küche.
+  The *rest* of the cake is in the kitchen.
 
   Nous devons encore trier les papiers *restants*.
-  Wir müssen noch die *übrigen* Papiere sortieren.
+  We still have to sort the remaining papers.
 
   Le seul héritier *restant* a tout vendu.
-  Der einzige *verbliebene* Erbe hat alles verkauft.
+  The only remaining inheritance has sold everything.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

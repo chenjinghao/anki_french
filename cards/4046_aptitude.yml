@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4046
 Wort: aptitude
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une aptitude
 Femininum / Plural: ''
 IPA: \ap.ti.tyd\
-Definition: Fähigkeit, Eignung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Ability, aptitude
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ses *aptitudes* en mathématiques me désespèrent.
-  Seine *Fähigkeiten* in Mathematik machen mich verzweifelt.
+  His *skills* in mathematics make me desperate.
 
   Il montre une remarquable *aptitude* à comprendre les langues étrangères.
-  Er zeigt eine bemerkenswerte *Begabung* für Fremdsprachen.
+  He shows a remarkable talent for foreign languages.
 
   L'*aptitude* au vol de cet oiseau est impressionnante.
-  Die Flug*tüchtigkeit* dieses Vogels ist beeindruckend.
+  The flight capacity of this bird is impressive.
 
   Le navire a perdu son *aptitude* à la navigation après la tempête.
-  Das Schiff verlor seine See*tüchtigkeit* nach dem Sturm.
+  The ship lost its seaworthiness after the storm.
 
   Ces plantes ont une excellente *aptitude* à supporter les conditions tropicales.
-  Diese Pflanzen haben eine ausgezeichnete Tropen*tauglichkeit*.
+  These plants have excellent tropical suitability.
 
   Marie a toujours eu des *aptitudes* pour la musique.
-  Marie war schon immer musikalisch *begabt*.
+  Marie has always been musically talented.
 
   Mon frère a de grandes *aptitudes* pour le sport.
-  Mein Bruder ist sportlich sehr *begabt*.
+  My brother is very talented in sports.
 
   Elle a montré une *aptitude* naturelle au leadership dès son plus jeune âge.
-  Sie zeigte von klein auf eine natürliche *Eignung* zur Führung.
+  She showed a natural fitness for guidance from an early age.
 
   Les *aptitudes* physiques et intellectuelles sont évaluées lors du test.
-  Die körperlichen und geistigen *Fähigkeiten* werden im Test bewertet.
+  The physical and mental abilities are evaluated in the test.
 
   Il faut employer les gens selon leurs *aptitudes*.
-  Man sollte Menschen entsprechend ihrer *Fähigkeiten* einsetzen.
+  People should be used according to their abilities.
 
   Son *aptitude* au commandement a été reconnue par tous ses collègues.
-  Seine Führungs*fähigkeit* wurde von allen Kollegen anerkannt.
+  His leadership was recognized by all colleagues.
 
   L'*aptitude* au service militaire est déterminée par plusieurs critères.
-  Die *Tauglichkeit* für den Militärdienst wird durch mehrere Kriterien bestimmt.
+  The suitability for military service is determined by several criteria.
 
   Elle a obtenu son certificat d'*aptitude* professionnelle en cuisine.
-  Sie hat ihre berufliche *Eignungs*prüfung in der Gastronomie bestanden.
+  She passed her professional *aptitude* test in gastronomy.
 
   Les *aptitudes* requises pour ce poste sont clairement définies.
-  Die erforderlichen *Fähigkeiten* für diese Stelle sind klar definiert.
+  The *skills* required for this post are clearly defined.
 
   J'ai découvert mon *aptitude* pour la peinture grâce à mon professeur d'art.
-  Ich entdeckte meine *Begabung* für die Malerei dank meines Kunstlehrers.
+  I discovered my talent for painting thanks to my art teacher.
 
   Ses *aptitudes* sociales ont beaucoup évolué depuis l'année dernière.
-  Seine sozialen *Fähigkeiten* haben sich seit letztem Jahr stark entwickelt.
+  His social *skills* have developed strongly since last year.
 
   L'*aptitude* à la communication est essentielle dans ce métier.
-  Die *Fähigkeit* zu kommunizieren ist in diesem Beruf unerlässlich.
+  The *ability* to communicate is essential in this profession.
 
   Notre équipe évalue l'*aptitude* des candidats à travailler en groupe.
-  Unser Team bewertet die *Eignung* der Kandidaten für die Gruppenarbeit.
+  Our team evaluates the *suitability* of the candidates for group work.
 
   Les tests d'*aptitude* font partie du processus de recrutement.
-  *Eignungs*tests sind Teil des Einstellungsverfahrens.
+  *Aptitude* tests are part of the recruitment procedure.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

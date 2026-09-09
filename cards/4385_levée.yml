@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4385
 Wort: levée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la levée
 Femininum / Plural: ''
 IPA: \lə.ve\
-Definition: Aufhebung, Erhebung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Repeal, collection
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La commission européenne a voté la *levée* de cet embargo.
-  Die Europäische Kommission hat die *Aufhebung* dieses Embargos beschlossen.
+  The European Commission has decided to lift this embargo.
 
   La *levée* des impôts sera effectuée le mois prochain.
-  Die *Erhebung* der Steuern wird nächsten Monat durchgeführt.
+  The tax will be collected next month.
 
   Je dois vérifier les heures de *levée* du courrier.
-  Ich muss die *Leerungs*zeiten für die Post überprüfen.
+  I need to check the clearance times for the mail.
 
   La *levée* de la pâte prend environ une heure.
-  Das *Aufgehen* des Teigs dauert ungefähr eine Stunde.
+  It takes about an hour to grow the dough.
 
   Les habitants ont construit une *levée* pour protéger le village des inondations.
-  Die Bewohner haben einen *Damm* gebaut, um das Dorf vor Überschwemmungen zu schützen.
+  The inhabitants built a *dam* to protect the village from flooding.
 
   Le juge a ordonné la *levée* des scellés sur l'appartement.
-  Der Richter hat die *Aufhebung* der Versiegelung der Wohnung angeordnet.
+  The judge has ordered the removal of the sealing of the apartment.
 
   La *levée* du matin n'a pas encore été triée.
-  Die morgendliche *Leerung* wurde noch nicht sortiert.
+  The morning void has not yet been sorted.
 
   Au bridge, ils ont fait trois *levées* de plus que prévu.
-  Beim Bridge haben sie drei *Stiche* mehr gemacht als erwartet.
+  At the bridge, they did three more tricks than expected.
 
   La *levée du corps* aura lieu à 14 heures.
-  Die *Überführung des Verstorbenen* findet um 14 Uhr statt.
+  The *transfer of the deceased* takes place at 2 p.m.
 
   Cette *levée* de boucliers contre le projet était inattendue.
-  Dieser *Protest* gegen das Projekt war unerwartet.
+  This *protest* against the project was unexpected.
 
   La *levée* de l'interdiction de circulation a été annoncée ce matin.
-  Die *Aufhebung* des Fahrverbots wurde heute Morgen bekannt gegeben.
+  The cancellation of the driving ban was announced this morning.
 
   Les premières *levées* du gazon apparaissent déjà.
-  Die ersten *Triebe* des Rasens zeigen sich bereits.
+  The first shoots of the lawn are already visible.
 
   Une *levée* en masse fut ordonnée pendant la guerre.
-  Eine *Masseneinberufung* wurde während des Krieges angeordnet.
+  A *mass convocation* was ordered during the war.
 
   La *levée* du blocus a permis l'acheminement de l'aide humanitaire.
-  Die *Aufhebung* der Blockade ermöglichte die Lieferung humanitärer Hilfe.
+  The lifting of the blockade made it possible to provide humanitarian aid.
 
   La *levée* de l'immunité parlementaire a été votée hier.
-  Die *Aufhebung* der parlamentarischen Immunität wurde gestern beschlossen.
+  The waiver of parliamentary immunity was decided yesterday.
 
   Les *levées* de la Loire sont particulièrement impressionnantes.
-  Die *Deiche* der Loire sind besonders beeindruckend.
+  The *dikes* of the Loire are particularly impressive.
 
   La prochaine *levée* du courrier est prévue à 17h.
-  Die nächste Brief*leerung* ist für 17 Uhr geplant.
+  The next letter emptying is scheduled for 5 p.m.
 
   Au jeu de cartes, il n'a fait aucune *levée*.
-  Im Kartenspiel hat er keinen einzigen *Stich* gemacht.
+  He didn't do a single trick in the card game.
 
   La *levée* des sanctions économiques a été bien accueillie.
-  Die *Aufhebung* der Wirtschaftssanktionen wurde gut aufgenommen.
+  The lifting of economic sanctions has been well received.
 
   Les agriculteurs attendent la *levée* des semis avec impatience.
-  Die Bauern warten ungeduldig auf das *Aufgehen* der Saat.
+  The farmers wait impatiently for the seed to grow.
 
   Une forte *levée* de houle est prévue dans la rade.
-  Ein starker *Wellengang* wird in der Reede erwartet.
+  A strong wave is expected in the Reede.
 
   La *levée* d'option doit être effectuée avant la fin du mois.
-  Die *Ausübung* der Option muss vor Monatsende erfolgen.
+  The *exercise* of the option must be carried out before the end of the month.
 
   Le président a annoncé la *levée* de séance à midi.
-  Der Vorsitzende hat die *Aufhebung* der Sitzung um 12 Uhr verkündet.
+  The chairman announced the cancellation of the meeting at 12 noon.
 
   La couturière a *fait la levée* du tissu pour la robe.
-  Die Schneiderin *hat* den Stoff für das Kleid *zugeschnitten*.
+  The tailor cut the fabric for the dress.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

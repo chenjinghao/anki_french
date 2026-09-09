@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1061
 Wort: apprécier
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: apprécier
 Femininum / Plural: ''
 IPA: \a.pʁe.sje\
-Definition: (wert-)schätzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (value)estimates
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils n'*apprécient* pas le spectacle.
-  Sie *schätzen* die Aufführung nicht.
+  You don't appreciate the performance.
 
   L'expert doit *apprécier* la valeur de ce tableau ancien.
-  Der Experte muss den Wert dieses alten Gemäldes *einschätzen*.
+  The expert must assess the value of this old painting.
 
   Je n'ai pas *apprécié* ta remarque désobligeante.
-  Ich habe deine unhöfliche Bemerkung nicht *geschätzt*.
+  I didn't appreciate your rude remark.
 
   Le pilote doit *apprécier* la vitesse et la distance en quelques secondes.
-  Der Pilot muss Geschwindigkeit und Entfernung in wenigen Sekunden *abschätzen*.
+  The pilot must *estimate* speed and distance in a few seconds.
 
   "Il n'a vraiment pas *apprécié* quand je suis arrivé en retard !"
-  "Er hat es gar nicht *gemocht*, als ich zu spät kam!"
+  "He didn't like it when I was late!"
 
   Ces deux collègues s'*apprécient* beaucoup.
-  Diese beiden Kollegen *schätzen* sich sehr.
+  These two colleagues appreciate each other very much.
 
   L'euro s'est *apprécié* par rapport au dollar cette semaine.
-  Der Euro hat diese Woche gegenüber dem Dollar an Wert *gewonnen*.
+  The euro has gained value against the dollar this week.
 
   Comment *apprécier* les dégâts causés par l'incendie ?
-  Wie soll man den durch das Feuer verursachten Schaden *einschätzen*?
+  How do you *estimate* the damage caused by the fire?
 
   Marie sait vraiment *apprécier* un bon verre de vin.
-  Marie weiß einen guten Wein wirklich zu *schätzen*.
+  Marie really appreciates a good wine.
 
   Les experts ont *apprécié* les bijoux à cent mille euros.
-  Die Experten haben den Schmuck auf hunderttausend Euro *geschätzt*.
+  The experts have *estimated* the jewellery at 100 thousand euros.
 
   Le jury va *apprécier* les performances des candidats.
-  Die Jury wird die Leistungen der Kandidaten *bewerten*.
+  The jury will *evaluate* the performance of the candidates.
 
   Il faut savoir *apprécier* les petits moments de bonheur.
-  Man muss die kleinen Glücksmomente zu *schätzen* wissen.
+  You have to appreciate the little moments of happiness.
 
   Le médecin doit *apprécier* la gravité de la situation.
-  Der Arzt muss den Ernst der Lage *einschätzen*.
+  The doctor must assess the seriousness of the situation.
 
   Les étudiants *apprécient* particulièrement ce professeur.
-  Die Studenten *schätzen* diesen Professor besonders.
+  The students especially appreciate this professor.
 
   Comment *apprécier* la distance entre ces deux points ?
-  Wie kann man die Entfernung zwischen diesen beiden Punkten *abschätzen*?
+  How can we *estimate* the distance between these two points?
 
   Je vous laisse *apprécier* la situation par vous-même.
-  Ich lasse Sie die Situation selbst *beurteilen*.
+  I'll let you *assess* the situation yourself.
 
   Il s'est rapidement fait *apprécier* de ses nouveaux voisins.
-  Er hat sich bei seinen neuen Nachbarn schnell *beliebt* gemacht.
+  He quickly made himself *popular* with his new neighbors.
 
   Les critiques ont beaucoup *apprécié* son dernier film.
-  Die Kritiker haben seinen letzten Film sehr *geschätzt*.
+  The critics have greatly appreciated his last film.
 
   Elle *apprécie* particulièrement la cuisine italienne.
-  Sie *schätzt* besonders die italienische Küche.
+  She particularly appreciates Italian cuisine.
 
   Je n'*apprécie* pas du tout qu'il arrive toujours en retard.
-  Ich *schätze* es überhaupt nicht, dass er immer zu spät kommt.
+  I don't appreciate him being late at all.
 
   Le chef *apprécie* son travail minutieux.
-  Der Chef *schätzt* seine sorgfältige Arbeit.
+  The boss appreciates his careful work.
 
   Il faut *apprécier* chaque instant de la vie.
-  Man muss jeden Augenblick des Lebens *schätzen*.
+  You have to appreciate every moment of life.
 
   Les experts doivent *apprécier* l'authenticité de ce document.
-  Die Experten müssen die Echtheit dieses Dokuments *beurteilen*.
+  Experts must *assess* the authenticity of this document.
 
   Il n'a pas *apprécié* la plaisanterie.
-  Er hat den Scherz nicht *gemocht*.
+  He didn't like the joke.
 
   Nous devons *apprécier* les risques avant de prendre une décision.
-  Wir müssen die Risiken *einschätzen*, bevor wir eine Entscheidung treffen.
+  We need to assess the risks before making a decision.
 
   Le public a beaucoup *apprécié* son nouveau spectacle.
-  Das Publikum hat seine neue Show sehr *geschätzt*.
+  The audience appreciated his new show very much.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

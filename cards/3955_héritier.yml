@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3955
 Wort: héritier
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un héritier
 Femininum / Plural: héritière
 IPA: \e.ʁi.tje\
-Definition: Erbe/Erbin
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Heritage/Erbin
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'a pas d'*héritiers* directs.
-  Er hat keine direkten *Erben*.
+  He has no direct *heirs*.
 
   L'*héritière* légitime a refusé l'héritage.
-  Die rechtmäßige *Erbin* hat das Erbe ausgeschlagen.
+  The rightful *heir* has knocked out the inheritance.
 
   La jeune princesse est l'*héritière* de la couronne.
-  Die junge Prinzessin ist die Thron*erbin*.
+  The young princess is the heiress.
 
   Cette famille cherche un *héritier* de substitution.
-  Diese Familie sucht einen Ersatz*erben*.
+  This family is looking for a replacement *heir*.
 
   Les *héritiers appelés* ne pourront toucher l'héritage qu'après dix ans.
-  Die *Nacherben* können das Erbe erst nach zehn Jahren erhalten.
+  The heirs can only receive the inheritance after ten years.
 
   Cette *héritière* de plusieurs millions vit très modestement.
-  Diese Millionen*erbin* lebt sehr bescheiden.
+  This million-dollar lives very modestly.
 
   "Nous attendons un *héritier* pour le printemps prochain."
-  "Wir erwarten einen *Stammhalter* für nächstes Frühjahr."
+  "We're expecting a parent holder for next spring."
 
   Marie est l'unique *héritière* d'un riche industriel.
-  Marie ist die einzige *Erbin* eines reichen Industriellen.
+  Marie is the only heiress of a wealthy industrialist.
 
   Il cherche à épouser une riche *héritière*.
-  Er versucht, eine reiche *Erbin* zu heiraten.
+  He's trying to marry a rich heiress.
 
   Cette école de pensée se considère comme l'*héritière* spirituelle de Rousseau.
-  Diese Denkschule sieht sich als geistige *Erbin* Rousseaus.
+  This school of thought sees itself as the spiritual heiress of Rousseau.
 
   Le prince *héritier* donnera un discours ce soir.
-  Der Thron*erbe* wird heute Abend eine Rede halten.
+  The heir to the throne will give a speech tonight.
 
   Les *héritiers* en ligne collatérale ont contesté le testament.
-  Die *Erben* der Seitenlinie haben das Testament angefochten.
+  The *heirs* of the sideline challenged the will.
 
   Jacques s'est porté *héritier* de tous les biens.
-  Jacques hat sich zum *Erben* des gesamten Vermögens erklärt.
+  Jacques has declared himself heir to the entire estate.
 
   L'*héritier réservataire* a droit à une part minimale de l'héritage.
-  Dem *Pflichterben* steht ein Mindestanteil am Erbe zu.
+  *Compulsory heirs* have a minimum share of the inheritance.
 
   Nous sommes les *héritiers* d'une longue tradition culinaire.
-  Wir sind die *Erben* einer langen kulinarischen Tradition.
+  We are the *heirs* of a long culinary tradition.
 
   Le roi est mort sans laisser d'*héritier*.
-  Der König starb, ohne einen *Erben* zu hinterlassen.
+  The king died without leaving an heir.
 
   "Il est le digne *héritier* de son père."
-  "Er ist der würdige *Erbe* seines Vaters."
+  "He is the worthy heir of his father."
 
   Les *héritiers* présomptifs attendent impatiemment leur part.
-  Die mutmaßlichen *Erben* warten ungeduldig auf ihren Anteil.
+  The alleged *heirs* are impatiently waiting for their share.
 
   Cette famille noble n'a plus d'*héritier* mâle.
-  Diese Adelsfamilie hat keinen männlichen *Erben* mehr.
+  This noble family no longer has a male heir.
 
   Son fils est l'*héritier universel* de ses biens.
-  Sein Sohn ist der *Universalerbe* seines Vermögens.
+  His son is the universal heir to his wealth.
 
   Ces jeunes artistes sont les *héritiers* du mouvement surréaliste.
-  Diese jungen Künstler sind die *Erben* der surrealistischen Bewegung.
+  These young artists are the *heirs* of the surrealist movement.
 
   L'*héritier institué* a renoncé à ses droits.
-  Der *eingesetzte Erbe* hat auf seine Rechte verzichtet.
+  The heir who has been appointed has waived his rights.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

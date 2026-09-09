@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4380
 Wort: librairie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la librairie
 Femininum / Plural: ''
 IPA: \li.bʁɛ.ʁi\
-Definition: Buchhandlung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Bookstore
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les prix, dans cette *librairie*, sont très compétitifs.
-  Die Preise in dieser *Buchhandlung* sind sehr wettbewerbsfähig.
+  The prices in this *bookstore* are very competitive.
 
   Une nouvelle *librairie* d'occasion vient d'ouvrir dans notre quartier.
-  Ein neuer Antiquariats*buchladen* hat gerade in unserem Viertel eröffnet.
+  A new bookshop has just opened in our neighborhood.
 
   Je travaille dans une *librairie*-papeterie depuis trois ans.
-  Ich arbeite seit drei Jahren in einer *Buchhandlung* mit Schreibwarengeschäft.
+  I've been working in a *bookstore* with a stationery store for three years.
 
   Cette *librairie* propose un grand choix de livres d'art.
-  Diese Kunst*buchhandlung* bietet eine große Auswahl an Kunstbüchern.
+  This art *bookstore* offers a wide selection of art books.
 
   Son nouveau roman sortira en *librairie* la semaine prochaine.
-  Sein neuer Roman kommt nächste Woche in den *Buchhandel*.
+  His new novel will be in the bookstore next week.
 
   La *librairie* organise une séance de dédicaces samedi prochain.
-  Die *Buchhandlung* organisiert am nächsten Samstag eine Signierstunde.
+  The *bookstore* will organize a signing session next Saturday.
 
   Il a fait toute sa carrière dans la *librairie*.
-  Er hat seine ganze Karriere im *Buchhandel* verbracht.
+  He spent his whole career in the bookstore.
 
   Ces livres sont disponibles dans toutes les *librairies* du pays.
-  Diese Bücher sind in allen *Buchhandlungen* des Landes erhältlich.
+  These books are available in all *bookstores* in the country.
 
   Notre *librairie* est spécialisée dans les ouvrages scientifiques.
-  Unsere *Buchhandlung* ist auf wissenschaftliche Werke spezialisiert.
+  Our *bookstore* specializes in scientific works.
 
   La petite *librairie* du coin va malheureusement fermer ses portes.
-  Der kleine *Buchladen* an der Ecke wird leider schließen.
+  The little *bookstore* at the corner will unfortunately close.
 
   Les développeurs ont créé une *librairie* open source pour ce projet.
-  Die Entwickler haben eine Open-Source-*Bibliothek* für dieses Projekt erstellt.
+  The developers have created an open source *library* for this project.
 
   Cette *librairie* propose aussi des livres en langue étrangère.
-  Diese *Buchhandlung* bietet auch fremdsprachige Bücher an.
+  This *bookstore* also offers foreign-language books.
 
   J'achète souvent mes manuels scolaires dans cette *librairie*.
-  Ich kaufe meine Schulbücher oft in dieser *Buchhandlung*.
+  I often buy my textbooks in this *bookstore*.
 
   Plusieurs *librairies* ont organisé des événements pour la journée du livre.
-  Mehrere *Buchhandlungen* haben Veranstaltungen zum Tag des Buches organisiert.
+  Several *bookstores* have organized events for the day of the book.
 
   La *librairie* du centre-ville existe depuis plus de cinquante ans.
-  Die *Buchhandlung* in der Innenstadt existiert seit über fünfzig Jahren.
+  The *bookstore* in the city center has existed for over fifty years.
 
   Les nouvelles *librairies* numériques facilitent le développement d'applications.
-  Die neuen Software*bibliotheken* erleichtern die Entwicklung von Anwendungen.
+  The new software *libraries* facilitate the development of applications.
 
   Cette *librairie* indépendante résiste bien face aux grandes chaînes.
-  Diese unabhängige *Buchhandlung* hält sich gut gegen die großen Ketten.
+  This independent *bookstore* is good against the big chains.
 
   On trouve ce roman dans toutes les bonnes *librairies*.
-  Man findet diesen Roman in allen guten *Buchhandlungen*.
+  You can find this novel in all good *bookstores*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

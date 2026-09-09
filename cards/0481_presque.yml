@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 481
 Wort: presque
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: presque
 Femininum / Plural: ''
 IPA: \pʁɛsk\
-Definition: fast, beinahe
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: almost, almost
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a *presque* 10 millions de lignes téléphoniques.
-  Es gibt *fast* 10 Millionen Telefonleitungen.
+  There are *almost* 10 million telephone lines.
 
   Le projet est *presque* terminé, nous pourrons bientôt le présenter.
-  Das Projekt ist *fast* fertig, wir können es bald präsentieren.
+  The project is *almost* finished, we can present it soon.
 
   *Presque* tous les élèves ont réussi l'examen.
-  *Fast* alle Schüler haben die Prüfung bestanden.
+  *Almost* all students passed the exam.
 
   Je ne dors *presque* pas depuis trois jours.
-  Ich schlafe seit drei Tagen *kaum*.
+  I haven't slept for three days.
 
   Il fait *presque* nuit, nous devrions rentrer.
-  Es wird *beinahe* dunkel, wir sollten nach Hause gehen.
+  It's almost dark, we should go home.
 
   J'ai une *presque* certitude qu'il viendra demain.
-  Ich bin mir *fast* sicher, dass er morgen kommen wird.
+  I'm *almost* sure he'll come tomorrow.
 
   Dans la *presque* obscurité, je pouvais à peine voir le chemin.
-  In der *fast* vollkommenen Dunkelheit konnte ich den Weg kaum erkennen.
+  In the *almost* perfect darkness I could hardly see the way.
 
   La *presque* totalité des habitants a voté pour ce projet.
-  *Fast* alle Einwohner haben für dieses Projekt gestimmt.
+  *Almost* all residents voted for this project.
 
   Il vient *presque* tous les jours nous voir.
-  Er kommt uns *fast* jeden Tag besuchen.
+  He comes to visit us *almost* every day.
 
   Je ne connais *presque* personne dans cette ville.
-  Ich kenne in dieser Stadt *kaum* jemanden.
+  I *hardly* know anyone in this town.
 
   C'était il y a deux ans, *presque* trois maintenant.
-  Das war vor zwei Jahren, *fast* drei sind es jetzt.
+  That was two years ago, *almost* three now.
 
   Les deux trains sont arrivés *presque* en même temps.
-  Die beiden Züge kamen *fast* gleichzeitig an.
+  The two trains arrived *almost* at the same time.
 
   Il ne sort jamais, ou *presque*.
-  Er geht nie aus, oder *fast* nie.
+  He never goes out, or *almost* never.
 
   Cette voiture est neuve, ou *presque*.
-  Dieses Auto ist neu, oder *fast* neu.
+  This car is new, or *almost* new.
 
   Elle pleurait *presque* en entendant la nouvelle.
-  Sie war beim Hören der Nachricht dem Weinen *nahe*.
+  She was close to crying while listening to the news.
 
   - "Tu as fini tes devoirs ?"<br>- "*Presque*."
-  - "Hast du deine Hausaufgaben fertig?"<br>- "*Fast*."
+  - "Did you finish your homework?" - "*Almost*."
 
   La décision a été prise à la *presque* unanimité.
-  Die Entscheidung wurde mit *fast* einstimmiger Mehrheit getroffen.
+  The decision was taken by an *almost* unanimous majority.
 
   On trouve des fautes à *presque* toutes les pages.
-  Man findet auf *fast* jeder Seite Fehler.
+  You can find mistakes on *almost* every page.
 
   Il réussirait *presque* à me convaincre.
-  Er würde es *beinahe* schaffen, mich zu überzeugen.
+  He'd almost be able to convince me.
 
   Tout le monde est là, ou *presque*.
-  Alle sind da, oder *fast* alle.
+  Everyone's here, or *almost* everyone.
 
   Je n'ai *presque* rien mangé aujourd'hui.
-  Ich habe heute *kaum* etwas gegessen.
+  I *hardly* ate anything today.
 
   Il s'en est fallu de *presque* rien qu'elle gagne la course.
-  Es hätte *fast* nichts gefehlt und sie hätte das Rennen gewonnen.
+  *Almost* nothing would have been missing and she would have won the race.
 
   J'aurais *presque* envie de partir en vacances maintenant.
-  Ich hätte *fast* Lust, jetzt in den Urlaub zu fahren.
+  I'd *almost* like to go on vacation now.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4162
 Wort: centrer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: centrer
 Femininum / Plural: ''
 IPA: \sɑ̃.tʁe\
-Definition: zentrieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: center
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *centrerai* mon intervention sur quatre points précis.
-  Ich werde meinen Vortrag auf vier konkrete Punkte *zentrieren*.
+  I will focus my presentation on four specific points.
 
   Il faut *centrer* la table dans la pièce.
-  Der Tisch muss in der Mitte des Raums *zentriert* werden.
+  The table must be *centered* in the middle of the room.
 
   Cette image n'est pas bien *centrée*.
-  Dieses Bild ist nicht gut *zentriert*.
+  This picture is not well *centered*.
 
   L'attaquant a *centré* le ballon vers son coéquipier.
-  Der Stürmer hat den Ball zu seinem Mitspieler *geflankt*.
+  The striker flew the ball to his fellow player.
 
   Le professeur a *centré* son cours sur les besoins des élèves.
-  Der Lehrer hat seinen Unterricht auf die Bedürfnisse der Schüler *ausgerichtet*.
+  The teacher has geared his teaching to the needs of the pupils.
 
   Le mécanicien doit *centrer* la roue avant de la monter.
-  Der Mechaniker muss das Rad *zentrieren*, bevor er es montiert.
+  The mechanic has to *center* the wheel before he assembles it.
 
   Toute l'intrigue est *centrée* sur le mystérieux personnage principal.
-  Die ganze Handlung ist auf die mysteriöse Hauptfigur *zentriert*.
+  The whole plot is *centered* on the mysterious main character.
 
   Le graphiste a parfaitement *centré* le titre sur la page de couverture.
-  Der Grafiker hat den Titel auf der Titelseite perfekt *zentriert*.
+  The graphic artist has perfectly *centered* the title on the front page.
 
   Marie a *centré* ses recherches sur les énergies renouvelables.
-  Marie hat ihre Forschung auf erneuerbare Energien *fokussiert*.
+  Marie has *focused* her research on renewable energies.
 
   Le débat s'est naturellement *centré* sur les questions environnementales.
-  Die Debatte hat sich naturgemäß auf Umweltfragen *konzentriert*.
+  The debate has naturally focused on environmental issues.
 
   L'architecte a conçu un plan *centré* autour d'une cour intérieure.
-  Der Architekt hat einen um einen Innenhof *zentrierten* Plan entworfen.
+  The architect has designed a plan *centered* around a courtyard.
 
   Le joueur a mal *centré* son tir et a raté le but.
-  Der Spieler hat seinen Schuss schlecht *platziert* und das Tor verfehlt.
+  The player has *placed* his shot badly and missed the goal.
 
   La discussion s'est rapidement *centrée* sur le problème principal.
-  Die Diskussion hat sich schnell auf das Hauptproblem *konzentriert*.
+  The discussion quickly focused on the main problem.
 
   Il faut *centrer* correctement l'objectif pour obtenir une bonne photo.
-  Man muss das Objektiv richtig *zentrieren*, um ein gutes Foto zu bekommen.
+  You have to *center* the lens properly to get a good photo.
 
   Le documentaire est entièrement *centré* sur la vie des abeilles.
-  Die Dokumentation ist ganz auf das Leben der Bienen *ausgerichtet*.
+  The documentation is entirely focused on the life of the bees.
 
   Les élèves doivent *centrer* leurs textes sur la page.
-  Die Schüler müssen ihre Texte auf der Seite *zentrieren*.
+  The students must *center* their texts on the page.
 
   Le coach a *centré* l'entraînement sur l'amélioration de la technique.
-  Der Trainer hat das Training auf die Verbesserung der Technik *ausgerichtet*.
+  The trainer has focused the training on the improvement of the technique.
 
   L'exposition est *centrée* sur l'art moderne.
-  Die Ausstellung ist auf moderne Kunst *ausgerichtet*.
+  The exhibition is focused on modern art.
 
   Le statisticien a *centré* les variables avant l'analyse.
-  Der Statistiker hat die Variablen vor der Analyse *zentriert*.
+  The statistician *centered* the variables before the analysis.
 
   Le photographe a mal *centré* le sujet dans le cadre.
-  Der Fotograf hat das Motiv im Rahmen schlecht *zentriert*.
+  The photographer has the motif in the frame poorly *centered*.
 
   L'ailier a parfaitement *centré* le ballon devant le but.
-  Der Flügelspieler hat den Ball perfekt vors Tor *geflankt*.
+  The winger has flown the ball perfectly in front of the goal.
 
   La thèse est *centrée* sur un sujet d'actualité.
-  Die Dissertation ist auf ein aktuelles Thema *fokussiert*.
+  The dissertation is *focused* on a current topic.
 
   Nous devons *centrer* nos efforts sur la résolution du problème.
-  Wir müssen unsere Anstrengungen auf die Lösung des Problems *konzentrieren*.
+  We need to focus our efforts on solving the problem.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

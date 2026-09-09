@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4603
 Wort: est
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: l’est
 Femininum / Plural: ''
 IPA: \ɛst\
-Definition: Osten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: East
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Toutes les églises sont tournées vers l'*est*.
-  Alle Kirchen sind nach *Osten* ausgerichtet.
+  All churches are oriented eastward.
 
   Un vent d'*est* souffle sur la ville.
-  Ein *Ost*wind weht über die Stadt.
+  An *east* wind blows over the city.
 
   La tempête s'est déplacée d'*est* en ouest.
-  Der Sturm zog von *Osten* nach Westen.
+  The storm moved from *east* to west.
 
   Le soleil se lève à l'*est* chaque matin.
-  Die Sonne geht jeden Morgen im *Osten* auf.
+  The sun rises every morning in the *east*.
 
   Les nuages sombres arrivent de l'*est*.
-  Die dunklen Wolken kommen aus dem *Osten*.
+  The dark clouds come from the *east*.
 
   Notre maison se trouve à l'*est* de Paris.
-  Unser Haus liegt *östlich* von Paris.
+  Our house is *east* of Paris.
 
   L'*Est* de la France est connu pour ses vins.
-  Der *Osten* Frankreichs ist für seine Weine bekannt.
+  The *east* of France is known for its wines.
 
   Marie habite dans l'*Est* depuis vingt ans.
-  Marie wohnt seit zwanzig Jahren im *Osten*.
+  Marie has been living in the *East* for twenty years.
 
   Le train traverse l'*est* du pays.
-  Der Zug durchquert den *Osten* des Landes.
+  The train crosses the *east* of the country.
 
   La frontière *est* du pays est bien surveillée.
-  Die *östliche* Grenze des Landes wird gut überwacht.
+  The *eastern* border of the country is well monitored.
 
   L'autoroute de l'*Est* mène vers Strasbourg.
-  Die *Ost*autobahn führt nach Strasbourg.
+  The *east* highway leads to Strasbourg.
 
   L'Europe de l'*Est* a beaucoup changé.
-  *Ost*europa hat sich stark verändert.
+  Eastern Europe has changed a lot.
 
   Le bloc de l'*Est* n'existe plus aujourd'hui.
-  Der *Ost*block existiert heute nicht mehr.
+  The Eastern Bloc no longer exists today.
 
   Les pays de l'*Est* se sont modernisés.
-  Die *ost*europäischen Länder haben sich modernisiert.
+  The Eastern European countries have modernised.
 
   La banlieue *est* de Lyon s'est développée rapidement.
-  Die *östlichen* Vororte von Lyon haben sich schnell entwickelt.
+  The *eastern* suburbs of Lyon have developed rapidly.
 
   Le conflit entre l'*Est* et l'Ouest a duré des décennies.
-  Der *Ost*-West-Konflikt dauerte Jahrzehnte.
+  The *East*-West conflict lasted decades.
 
   Les gens de l'*Est* ont leur propre culture.
-  Die Menschen aus dem *Osten* haben ihre eigene Kultur.
+  The people of the *East* have their own culture.
 
   Le vent s'oriente progressivement à l'*est*.
-  Der Wind dreht langsam auf *Ost*.
+  The wind is slowly turning to the *east*.
 
   La fenêtre de ma chambre donne à l'*est*.
-  Das Fenster meines Zimmers geht nach *Osten*.
+  The window of my room is going *east*.
 
   Nous marchons vers l'*est* depuis ce matin.
-  Wir laufen seit heute Morgen nach *Osten*.
+  We've been running *east* this morning.
 
   Les régions de l'*est* sont montagneuses.
-  Die *östlichen* Regionen sind gebirgig.
+  The *eastern* regions are mountainous.
 
   Le soleil disparaît derrière les nuages à l'*est*.
-  Die Sonne verschwindet hinter den Wolken im *Osten*.
+  The sun disappears behind the clouds in the *east*.
 
   La boussole indique l'*est*.
-  Der Kompass zeigt nach *Osten*.
+  The compass points *east*.
 
   Les oiseaux migrateurs volent vers l'*est*.
-  Die Zugvögel fliegen nach *Osten*.
+  The migratory birds fly *east*.
 
   À l'*est* du village se trouve une forêt.
-  *Östlich* des Dorfes liegt ein Wald.
+  *East* of the village is a forest.
 
   Dans l'*est* de l'Allemagne, il y a beaucoup de parcs éoliens.
-  Im *Osten* Deutschlands gibt es viele Windparks.
+  In the *east* of Germany there are many wind farms.
 
   Le quartier *est* de la ville est en pleine rénovation.
-  Das *östliche* Stadtviertel wird gerade renoviert.
+  The *eastern* district is being renovated.
 
   La côte *est* des États-Unis est très peuplée.
-  Die *Ost*küste der USA ist sehr bevölkert.
+  The *east* coast of the USA is very populated.
 
   Un fort vent d'*est* a provoqué des dégâts.
-  Ein starker *Ost*wind hat Schäden verursacht.
+  A strong *east* wind caused damage.
 
   La longitude *est* est mesurée à partir de Greenwich.
-  Die *östliche* Länge wird von Greenwich aus gemessen.
+  The *eastern* length is measured from Greenwich.
 
   Mon bureau se trouve dans l'aile *est* du bâtiment.
-  Mein Büro befindet sich im *östlichen* Flügel des Gebäudes.
+  My office is located in the *eastern* wing of the building.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

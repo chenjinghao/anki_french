@@ -1,110 +1,110 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 654
 Wort: véritable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: véritable
 Femininum / Plural: ''
 IPA: \ve.ʁi.tabl\
-Definition: wirklich, echt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: really, really
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *véritables* coupables restaient en liberté.
-  Die *wahren* Täter blieben in Freiheit.
+  The true perpetrators remained free.
 
   Cette statue est en marbre *véritable*.
-  Diese Statue ist aus *echtem* Marmor.
+  This statue is made of *real* marble.
 
   Mon frère a trouvé un *véritable* ami en Jean.
-  Mein Bruder hat in Jean einen *wahren* Freund gefunden.
+  My brother found a real friend in Jean.
 
   "C'est une *véritable* catastrophe !"
-  "Das ist eine *echte* Katastrophe!"
+  "This is a *real* disaster!"
 
   Ces perles *véritables* coûtent une fortune.
-  Diese *echten* Perlen kosten ein Vermögen.
+  These *real* pearls cost a fortune.
 
   Le *véritable* bonheur ne dépend pas de l'argent.
-  Das *wahre* Glück hängt nicht vom Geld ab.
+  *True* happiness does not depend on money.
 
   Il éprouve un *véritable* plaisir à enseigner.
-  Er empfindet *echte* Freude am Unterrichten.
+  He feels *real* joy in teaching.
 
   Je ne connais pas sa *véritable* identité.
-  Ich kenne seine *wahre* Identität nicht.
+  I don't know his real identity.
 
   C'est un *véritable* artiste, pas un amateur.
-  Er ist ein *echter* Künstler, kein Amateur.
+  He's a *real* artist, not an amateur.
 
   Elle porte une veste en cuir *véritable*.
-  Sie trägt eine Jacke aus *echtem* Leder.
+  She's wearing a genuine leather jacket.
 
   Un *véritable* sourire illuminait son visage.
-  Ein *echtes* Lächeln erhellte ihr Gesicht.
+  A *real* smile brightened her face.
 
   C'est une *véritable* passion qui l'anime.
-  Eine *echte* Leidenschaft treibt ihn an.
+  A *real* passion drives him.
 
   Nous recherchons la *véritable* cause du problème.
-  Wir suchen nach der *wahren* Ursache des Problems.
+  We're looking for the real cause of the problem.
 
   Le *véritable* amour ne meurt jamais.
-  Die *wahre* Liebe stirbt nie.
+  *True* love never dies.
 
   "C'est un *véritable* miracle qu'il ait survécu !"
-  "Es ist ein *wahres* Wunder, dass er überlebt hat!"
+  "It's a real miracle that he survived!"
 
   Son *véritable* caractère s'est révélé avec le temps.
-  Sein *wahrer* Charakter hat sich mit der Zeit gezeigt.
+  His *true* character has become apparent over time.
 
   Cette pierre précieuse est-elle *véritable* ?
-  Ist dieser Edelstein *echt*?
+  Is this gem *real*?
 
   Un *véritable* ami te dira toujours la vérité.
-  Ein *wahrer* Freund wird dir immer die Wahrheit sagen.
+  A *true* friend will always tell you the truth.
 
   Cette histoire est-elle *véritable* ?
-  Ist diese Geschichte *wahr*?
+  Is this story *true*?
 
   C'est un *véritable* génie en mathématiques.
-  Er ist ein *echtes* Genie in Mathematik.
+  He's a *real* genius in mathematics.
 
   Je cherche le *véritable* sens de la vie.
-  Ich suche nach dem *wahren* Sinn des Lebens.
+  I'm looking for the true meaning of life.
 
   Elle a montré un *véritable* talent pour la musique.
-  Sie hat ein *echtes* Talent für Musik gezeigt.
+  She showed a *real* talent for music.
 
   C'est une *véritable* œuvre d'art.
-  Das ist ein *echtes* Kunstwerk.
+  It's a *real* work of art.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>vrai</i> und <i>véritable</i></div>
+    <div class="section-title"><i>vrai</i> and <i>véritable</i></div>
     <div class="section-content">
-      <p>Während <span class="fr">vrai</span> oft für faktische Wahrheit verwendet wird, betont <span class="fr">véritable</span> häufig die Authentizität oder die Essenz einer Sache.</p>
-      <p><span class="fr">Vrai</span> (#292) stammt vom lateinischen <i>veracus</i> („wahr“) ab und wird verwendet, um etwas zu beschreiben, das der Wahrheit entspricht, real oder wesentlich ist. Es kann auch <span class="de">"echt"</span> oder <span class="de">"aufrichtig"</span> bedeuten.</p>
+      <p>During <span class="fr">vrai</span> often used for factual truth, emphasizes <span class="fr">véritable</span> often the authenticity or essence of a thing.</p>
+      <p><span class="fr">Vrai</span> (#292) comes from the Latin <i>veracus</i> (True) and is used to describe something that is true, real, or essential. <span class="de">"echt"</span> or <span class="de">"aufrichtig"</span> bedeuten.</p>
       <div class="examples">
         <div class="fr">C'est incroyable, mais vrai : cette promotion, elle l'a obtenue!</div>
-        <div class="de spoiler">Es ist unglaublich, aber wahr: Sie hat diese Beförderung bekommen!</div>
+        <div class="de spoiler">It's incredible, but true: she got this promotion!</div>
         <div class="fr">Ses vrais amis se comptent sur les doigts d'une main.</div>
-        <div class="de spoiler">Seine wahren Freunde kann man an einer Hand abzählen.</div>
+        <div class="de spoiler">You can count your true friends on one hand.</div>
       </div>
-      <p><span class="fr">Véritable</span> leitet sich vom Wort <i>vérité</i> („Wahrheit“) ab und beschreibt etwas, das wirklich seiner Definition entspricht oder die wesentlichen Merkmale einer Sache besitzt. Es bedeutet auch <span class="de">"echt"</span> oder <span class="de">"authentisch"</span>.</p>
+      <p><span class="fr">Véritable</span> comes from the word <i>vérité</i> (Truth) and describes something that really corresponds to its definition or has the essential characteristics of a thing. It also means <span class="de">"echt"</span> or <span class="de">"authentic"</span>.</p>
       <div class="examples">
         <div class="fr">J'hésite à m'inscrire sous mon véritable nom dans un site de clavardage.</div>
-        <div class="de spoiler">Ich zögere, mich unter meinem echten Namen auf einer Chat-Website anzumelden.</div>
+        <div class="de spoiler">I hesitate to sign up under my real name on a chat site.</div>
         <div class="fr">Il a été un véritable ami pour moi du début à la fin.</div>
-        <div class="de spoiler">Er war von Anfang bis Ende ein wahrer Freund für mich.</div>
+        <div class="de spoiler">He was a true friend to me from beginning to end.</div>
       </div>
     </div>
   </div>

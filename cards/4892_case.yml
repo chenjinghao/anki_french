@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4892
 Wort: case
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la case
 Femininum / Plural: ''
 IPA: \kaz\
-Definition: Feld, Fach
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Field, subject
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vous laisse choisir la *case* qui me convient le mieux.
-  Ich lasse Sie das *Feld* wählen, das am besten zu mir passt.
+  I'll let you choose the *field* that suits me best.
 
   Sur le formulaire d'inscription, il faut cocher la *case* "célibataire".
-  Auf dem Anmeldeformular muss man das *Feld* "ledig" ankreuzen.
+  On the registration form you have to tick the box "lone".
 
   Les enfants ont construit une *case* en bois dans le jardin.
-  Die Kinder haben eine *Hütte* aus Holz im Garten gebaut.
+  The children built a wooden hut in the garden.
 
   Veuillez envoyer votre lettre à la *case* postale 2476.
-  Bitte senden Sie Ihren Brief an das Post*fach* 2476.
+  Please send your letter to P.O. Box 2476.
 
   Les 64 *cases* de l'échiquier forment un motif élégant.
-  Die 64 *Felder* des Schachbretts bilden ein elegantes Muster.
+  The 64 *fields* of the chessboard form an elegant pattern.
 
   "Il lui manque une *case*", a dit Marie en riant.
-  "Er hat eine *Schraube* locker", sagte Marie lachend.
+  "He's got a *screw* loose," Marie said laughing.
 
   La *case* des hôtes était décorée de motifs traditionnels.
-  Die Gäste*hütte* war mit traditionellen Motiven geschmückt.
+  The guest *cabin* was decorated with traditional motifs.
 
   Chaque élève range ses affaires dans sa *case*.
-  Jeder Schüler räumt seine Sachen in sein *Fach*.
+  Every student puts his stuff in his class.
 
   Après cet échec, nous voilà revenus à la *case départ*.
-  Nach diesem Misserfolg sind wir wieder am *Ausgangspunkt* angelangt.
+  After this failure, we have come back to the *starting point*.
 
   Dans cette bande dessinée, chaque *case* raconte une partie de l'histoire.
-  In diesem Comic erzählt jedes *Feld* einen Teil der Geschichte.
+  In this comic, each *field* tells a part of the story.
 
   Les bijoux sont bien rangés dans les *cases* du coffret.
-  Der Schmuck ist ordentlich in den *Fächern* des Kästchens verstaut.
+  The jewellery is neatly stored in the compartments of the box.
 
   La *case* du berger se trouve au sommet de la colline.
-  Die *Hütte* des Hirten befindet sich auf dem Gipfel des Hügels.
+  The shepherd's hut is located on the top of the hill.
 
   Il faut remplir toutes les *cases* du tableau Excel.
-  Man muss alle *Felder* der Excel-Tabelle ausfüllen.
+  You have to fill in all *fields* of the Excel table.
 
   La *case* mémoire contient une valeur incorrecte.
-  Das Speicher*feld* enthält einen falschen Wert.
+  The memory *field* contains a wrong value.
 
   Les vaches sont réparties dans différentes *cases* de l'étable.
-  Die Kühe sind in verschiedene *Boxen* des Stalls aufgeteilt.
+  The cows are divided into different *boxes* of the barn.
 
   Dans les *cases* noires de la grille, écrivez les consonnes.
-  In die schwarzen *Felder* des Gitters schreiben Sie die Konsonanten.
+  In the black *fields* of the grid, write the consonants.
 
   Le chef du village nous a invités dans sa *case*.
-  Der Dorfchef hat uns in seine *Hütte* eingeladen.
+  The village chief invited us to his cabin.
 
   Les documents sont classés dans les *cases* de l'étagère.
-  Die Dokumente sind in den *Fächern* des Regals sortiert.
+  The documents are sorted in the compartments of the shelf.
 
   J'ai rangé mes crayons dans les petites *cases* de ma trousse.
-  Ich habe meine Stifte in die kleinen *Fächer* meiner Federmappe eingeräumt.
+  I have given my pens into the small compartments of my pen folder.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4235
 Wort: taxi
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le taxi
 Femininum / Plural: ''
 IPA: \tak.si\
 Definition: Taxi
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vais rentrer en *taxi*.
-  Ich werde mit dem *Taxi* nach Hause fahren.
+  I'll take a cab home.
 
   La station de *taxis* est juste en face de la gare.
-  Der *Taxi*stand ist direkt gegenüber vom Bahnhof.
+  The *taxi* stand is directly opposite the train station.
 
   "Je fais le *taxi* pour mes enfants toute la journée !"
-  "Ich spiele den ganzen Tag *Taxi*fahrer für meine Kinder!"
+  "I play *taxi* drivers for my children all day!"
 
   Le *taxi* nous attend devant l'hôtel depuis dix minutes.
-  Das *Taxi* wartet seit zehn Minuten vor dem Hotel auf uns.
+  The *taxi* has been waiting for us ten minutes before the hotel.
 
   As-tu appelé un *taxi* pour aller à l'aéroport ?
-  Hast du ein *Taxi* zum Flughafen gerufen?
+  Did you call a *taxi* to the airport?
 
   "Mon père est *taxi* depuis vingt ans."
-  "Mein Vater ist seit zwanzig Jahren *Taxi*fahrer."
+  "My father has been a *taxi* driver for twenty years."
 
   En Afrique, nous avons pris un *taxi-brousse* pour visiter les villages.
-  In Afrika haben wir ein *Sammeltaxi* genommen, um die Dörfer zu besuchen.
+  In Africa, we took a collective taxi to visit the villages.
 
   Les *taxis* de la Marne ont joué un rôle important pendant la guerre.
-  Die Marne-*Taxis* spielten während des Krieges eine wichtige Rolle.
+  The Marne *taxis* played an important role during the war.
 
   Notre *taxi* roule trop vite dans les petites rues.
-  Unser *Taxi* fährt zu schnell durch die kleinen Straßen.
+  Our *taxi* goes too fast through the small streets.
 
   Il y a une longue file d'attente pour les *taxis*.
-  Es gibt eine lange Warteschlange für die *Taxis*.
+  There's a long queue for the *taxis*.
 
   Les *taxis* parisiens sont facilement reconnaissables.
-  Pariser *Taxis* sind leicht zu erkennen.
+  Paris *taxis* are easy to recognize.
 
   J'ai dû prendre trois *taxis* différents pour arriver à temps.
-  Ich musste drei verschiedene *Taxis* nehmen, um pünktlich anzukommen.
+  I had to take three different *taxis* to get there on time.
 
   Le compteur du *taxi* indique déjà 30 euros.
-  Der *Taxi*meter zeigt bereits 30 Euro an.
+  The *taxi* meter already shows 30 euros.
 
   Un *taxi* nous déposera devant le théâtre à 20 heures.
-  Ein *Taxi* wird uns um 20 Uhr vor dem Theater absetzen.
+  A *taxi* will drop us off in front of the theater at 8:00.
 
   "Elle fait le *taxi* depuis qu'elle a perdu son ancien travail."
-  "Sie arbeitet als *Taxi*fahrerin, seit sie ihren alten Job verloren hat."
+  "She's been working as a *taxi* driver since she lost her old job."
 
   L'entreprise utilise souvent des avions-*taxis* pour ses cadres.
-  Die Firma nutzt oft *Taxi*-Flugzeuge für ihre Führungskräfte.
+  The company often uses *taxi* aircraft for its executives.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

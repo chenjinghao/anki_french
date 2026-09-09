@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3194
 Wort: motiver
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: motiver
 Femininum / Plural: ''
 IPA: \mɔ.ti.ve\
-Definition: begründen, motivieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: justify, motivate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Qu'est-ce qui vous a *motivé* à écrire ce livre ?
-  Was hat Sie dazu *motiviert*, dieses Buch zu schreiben?
+  What *motivated* you to write this book?
 
   Sa réussite l'a *motivé* à poursuivre ses études.
-  Sein Erfolg hat ihn *motiviert*, sein Studium fortzusetzen.
+  His success has *motivated* him to continue his studies.
 
   Elle devra *motiver* sa demande de congé auprès de son employeur.
-  Sie muss ihren Urlaubsantrag beim Arbeitgeber *begründen*.
+  She must justify her application for leave to the employer.
 
   Les parents doivent *motiver* leurs enfants à faire du sport.
-  Die Eltern müssen ihre Kinder zum Sport *motivieren*.
+  Parents must motivate their children to exercise.
 
   La crise économique a *motivé* cette décision difficile.
-  Die Wirtschaftskrise war die *Ursache* für diese schwierige Entscheidung.
+  The economic crisis was the *cause* of this difficult decision.
 
   Les professeurs cherchent à *motiver* leurs élèves par des jeux.
-  Die Lehrer versuchen, ihre Schüler durch Spiele zu *motivieren*.
+  The teachers try to motivate their students by playing games.
 
   Son absence n'était pas bien *motivée*.
-  Seine Abwesenheit war nicht gut *begründet*.
+  His absence was not well founded.
 
   C'est la peur qui a *motivé* son comportement étrange.
-  Die Angst war der *Grund* für sein seltsames Verhalten.
+  Fear was the *reason* for his strange behavior.
 
   Le jury a *motivé* son choix de façon détaillée.
-  Die Jury hat ihre Entscheidung ausführlich *begründet*.
+  The jury has fully substantiated its decision.
 
   Je suis très *motivé* à apprendre le français.
-  Ich bin sehr *motiviert*, Französisch zu lernen.
+  I am very *motivated* to learn French.
 
   Les mauvaises conditions de travail ont *motivé* la grève.
-  Die schlechten Arbeitsbedingungen haben den Streik *begründet*.
+  The bad working conditions have justified the strike.
 
   Comment *motiver* une équipe à distance ?
-  Wie kann man ein Team aus der Ferne *motivieren*?
+  How can you motivate a team from afar?
 
   Le juge doit *motiver* sa décision.
-  Der Richter muss seine Entscheidung *begründen*.
+  The judge must give *reasons* for his decision.
 
   Cette augmentation des prix n'est pas *motivée*.
-  Diese Preiserhöhung ist nicht *begründet*.
+  This price increase is not justified.
 
   La curiosité *motive* ses recherches constantes.
-  Neugier *motiviert* seine ständige Forschung.
+  Curiosity motivates his constant research.
 
   Les retards répétés ont *motivé* son licenciement.
-  Die wiederholten Verspätungen haben seine Entlassung *begründet*.
+  The repeated delays have justified his dismissal.
 
   Ces nouveaux défis m'ont vraiment *motivé*.
-  Diese neuen Herausforderungen haben mich richtig *motiviert*.
+  These new challenges really *motivated* me.
 
   Le directeur a dû *motiver* le refus de sa proposition.
-  Der Direktor musste die Ablehnung seines Vorschlags *begründen*.
+  The director had to justify the rejection of his proposal.
 
   L'entreprise cherche des candidats *motivés*.
-  Das Unternehmen sucht *motivierte* Bewerber.
+  The company is looking for *motivated* applicants.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

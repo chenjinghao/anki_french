@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4573
 Wort: syndrome
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le syndrome
 Femininum / Plural: ''
 IPA: \sɛ̃.dʁom\
-Definition: Syndrom
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Syndrome
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je souffre du *syndrome* du manque d'amour.
-  Ich leide am Liebesentzugs*syndrom*.
+  I'm suffering from love deprivation syndrome.
 
   Les médecins ont diagnostiqué un *syndrome* grippal chez plusieurs patients.
-  Die Ärzte haben bei mehreren Patienten ein Grippe*syndrom* diagnostiziert.
+  The doctors have diagnosed several patients with flu syndrome.
 
   Marie souffre du *syndrome* de Stockholm depuis sa libération.
-  Marie leidet seit ihrer Befreiung am Stockholm*syndrom*.
+  Marie has been suffering from Stockholm syndrome since her liberation.
 
   Le *syndrome* dépressif est de plus en plus fréquent chez les jeunes.
-  Das Depressions*syndrom* tritt bei jungen Menschen immer häufiger auf.
+  Depression syndrome is becoming more common in young people.
 
   Son *syndrome* d'épuisement professionnel l'a forcé à prendre un congé.
-  Sein Burnout*syndrom* zwang ihn dazu, sich eine Auszeit zu nehmen.
+  His burnout syndrome forced him to take a break.
 
   Les soldats revenus du combat présentent souvent le *syndrome* post-traumatique.
-  Die aus dem Kampf zurückgekehrten Soldaten zeigen oft das Posttrauma*syndrom*.
+  The soldiers returned from the fight often show the post-traumatic syndrome.
 
   Le *syndrome* de l'imposteur touche beaucoup de jeunes professionnels.
-  Das Hochstapler*syndrom* betrifft viele junge Berufstätige.
+  The contagion syndrome affects many young professionals.
 
   Un nouveau *syndrome* viral inquiète les autorités sanitaires.
-  Ein neues Virus*syndrom* beunruhigt die Gesundheitsbehörden.
+  A new virus syndrome is disturbing the health authorities.
 
   Les spécialistes étudient un rare *syndrome* génétique.
-  Die Spezialisten untersuchen ein seltenes Gen*syndrom*.
+  The specialists are investigating a rare gene syndrome.
 
   Ce *syndrome* métabolique nécessite un traitement immédiat.
-  Dieses Stoffwechsel*syndrom* erfordert eine sofortige Behandlung.
+  This metabolic syndrome requires immediate treatment.
 
   Le *syndrome* de la page blanche frappe souvent les écrivains.
-  Das Schreibblockaden*syndrom* trifft oft Schriftsteller.
+  The writing block syndrome often meets writers.
 
   Son *syndrome* d'apnée du sommeil perturbe ses nuits.
-  Sein Schlafapnoe*syndrom* stört seine Nächte.
+  His sleep apnea syndrome disturbs his nights.
 
   Les médecins ont identifié un nouveau *syndrome* respiratoire.
-  Die Ärzte haben ein neues Atmungs*syndrom* identifiziert.
+  The doctors have identified a new respiratory syndrome.
 
   Le *syndrome* de Stendhal l'a submergée devant la chapelle Sixtine.
-  Das Stendhal*syndrom* überwältigte sie vor der Sixtinischen Kapelle.
+  The Stendhalsyndrome overwhelmed her in front of the Sistine Chapel.
 
   Ce *syndrome* inflammatoire chronique nécessite un suivi régulier.
-  Dieses chronische Entzündungs*syndrom* erfordert regelmäßige Kontrollen.
+  This chronic inflammatory syndrome requires regular monitoring.
 
   Le *syndrome* de l'enfant unique se manifeste souvent par de l'égocentrisme.
-  Das Einzelkind*syndrom* zeigt sich oft durch Egozentrik.
+  The only child syndrome is often characterized by egocentricity.
 
   Les chercheurs étudient un mystérieux *syndrome* neurologique.
-  Die Forscher untersuchen ein mysteriöses Nerven*syndrom*.
+  The researchers are investigating a mysterious nerve syndrome.
 
   Le *syndrome* prémenstruel affecte de nombreuses femmes.
-  Das prämenstruelle *Syndrom* betrifft viele Frauen.
+  The premenstrual *syndrome* affects many women.
 
   Ce *syndrome* hépatique rare nécessite des examens approfondis.
-  Dieses seltene Leber*syndrom* erfordert gründliche Untersuchungen.
+  This rare liver syndrome requires thorough examination.
 
   Le *syndrome* du survivant touche beaucoup de rescapés.
-  Das Überlebenden*syndrom* betrifft viele Überlebende.
+  Survival syndrome affects many survivors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2165
 Wort: mien
 Wortart: pro, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mien
 Femininum / Plural: mienne
 IPA: \mjɛ̃\
-Definition: mein(-e/r/s)
-Register: ↗Fiktion ↘Sachtext
+Definition: my(-e/r/s)
+Register: ↗fiction ↘nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *mien* avait fonctionné sur 20 ans.
-  Der *meine* hatte 20 Jahre lang funktioniert.
+  Mine had worked for 20 years.
 
   Cette voiture n'est pas à toi, c'est la *mienne*.
-  Dieses Auto gehört nicht dir, das ist das *meine*.
+  This car isn't yours, that's mine.
 
   Un *mien* cousin habite à Paris depuis longtemps.
-  Ein Vetter *von mir* wohnt seit langem in Paris.
+  A cousin of mine has been living in Paris for a long time.
 
   J'ai fait *miennes* ses idées sur l'environnement.
-  Ich habe mir seine Ideen über die Umwelt zu *eigen* gemacht.
+  I've made his ideas about the environment my own.
 
   Cette maison est la *mienne* depuis trois générations.
-  Dieses Haus ist seit drei Generationen das *meine*.
+  This house has been mine for three generations.
 
   Les enfants des voisins jouent avec les *miens*.
-  Die Kinder der Nachbarn spielen mit *meinen*.
+  The children of the neighbors play with mine.
 
   Je dois m'occuper des *miens* avant tout.
-  Ich muss mich vor allem um die *Meinen* kümmern.
+  I have to take care of *my* own.
 
   "*À la mienne*!" s'est-il exclamé en levant son verre.
-  "Auf *mein Wohl*!" rief er und hob sein Glas.
+  "To my welfare!" he cried and lifted his glass.
 
   Cette décision était la *mienne*, pas la sienne.
-  Diese Entscheidung war die *meine*, nicht seine.
+  This decision was mine, not his.
 
   J'y ai mis du *mien* pour résoudre ce conflit.
-  Ich habe *meinen* Teil dazu beigetragen, diesen Konflikt zu lösen.
+  I helped solve this conflict.
 
   Ton jardin est plus grand que le *mien*.
-  Dein Garten ist größer als der *meine*.
+  Your garden is bigger than mine.
 
   Les *miens* m'ont toujours soutenu dans mes projets.
-  Die *Meinen* haben mich bei meinen Projekten immer unterstützt.
+  *My* own have always supported me in my projects.
 
   Cette responsabilité est désormais *mienne*.
-  Diese Verantwortung ist nun die *meine*.
+  This responsibility is now mine.
 
   Votre chat est noir, le *mien* est blanc.
-  Ihre Katze ist schwarz, die *meine* ist weiß.
+  Your cat is black, mine is white.
 
   Je ferai *mienne* cette noble cause.
-  Ich werde mir diese edle Sache zu *eigen* machen.
+  I'm going to make this noble thing my own.
 
   Son ordinateur est plus récent que le *mien*.
-  Sein Computer ist neuer als der *meine*.
+  His computer is newer than mine.
 
   Les *miens* viendront dîner demain soir.
-  Die *Meinen* werden morgen Abend zum Essen kommen.
+  Mine will come to dinner tomorrow night.
 
   Vos problèmes sont devenus *miens*.
-  Ihre Probleme sind zu den *meinen* geworden.
+  Your problems have become mine.
 
   Un *mien* ami m'a raconté cette histoire.
-  Ein Freund *von mir* hat mir diese Geschichte erzählt.
+  A friend of mine told me this story.
 
   Cette victoire n'est pas que la *mienne*.
-  Dieser Sieg ist nicht nur der *meine*.
+  This victory is not just mine.
 
   Je dois protéger les *miens* avant tout.
-  Ich muss vor allem die *Meinen* beschützen.
+  I have to protect *my* own, above all.
 
   Ton point de vue sera le *mien*.
-  Dein Standpunkt wird der *meine* sein.
+  Your point of view will be mine.
 
   Cette découverte est *mienne*.
-  Diese Entdeckung ist die *meine*.
+  This discovery is mine.
 
   Ses amis sont devenus les *miens*.
-  Seine Freunde sind zu den *meinen* geworden.
+  His friends have become mine.
 
   Les *miens* m'attendent à la maison.
-  Die *Meinen* warten zu Hause auf mich.
+  They're waiting for me at home.
 
   Ta chambre est plus lumineuse que la *mienne*.
-  Dein Zimmer ist heller als das *meine*.
+  Your room is brighter than mine.
 
   Ces principes sont désormais *miens*.
-  Diese Prinzipien sind nun die *meinen*.
+  These principles are now mine.
 
   Ton chien et le *mien* s'entendent bien.
-  Dein Hund und der *meine* verstehen sich gut.
+  Your dog and mine get along well.
 
   Cette réussite est aussi *mienne* que la tienne.
-  Dieser Erfolg ist ebenso der *meine* wie deiner.
+  This success is mine as well as yours.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4714
 Wort: désastreux
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: désastreux
 Femininum / Plural: désastreuse
 IPA: \de.zas.tʁø\
-Definition: verheerend, katastrophal
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: devastating, catastrophic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce sera un mariage *désastreux*.
-  Das wird eine *katastrophale* Hochzeit.
+  This is gonna be a disastrous wedding.
 
   La tempête a eu des conséquences *désastreuses* pour les agriculteurs.
-  Der Sturm hatte *verheerende* Folgen für die Landwirte.
+  The storm had devastating consequences for farmers.
 
   Les résultats de l'examen ont été *désastreux*.
-  Die Prüfungsergebnisse waren *miserabel*.
+  The test results were miserable.
 
   Cette politique économique *désastreuse* a mené le pays à la crise.
-  Diese *desaströse* Wirtschaftspolitik hat das Land in die Krise geführt.
+  This *disastrous* economic policy has led the country into crisis.
 
   Le temps *désastreux* a gâché nos vacances.
-  Das *miserable* Wetter hat unseren Urlaub verdorben.
+  The *miserable* weather has spoiled our holiday.
 
   L'impact environnemental de cette usine est *désastreux*.
-  Die Umweltauswirkungen dieser Fabrik sind *verheerend*.
+  The environmental impact of this factory is devastating.
 
   Sa première représentation théâtrale a été *désastreuse*.
-  Sein erster Theaterauftritt war *katastrophal*.
+  His first theater performance was *catastrophic*.
 
   Cette décision aura des effets *désastreux* sur l'économie locale.
-  Diese Entscheidung wird *verheerende* Auswirkungen auf die lokale Wirtschaft haben.
+  This decision will have a devastating impact on the local economy.
 
   La gestion *désastreuse* du projet a causé sa faillite.
-  Die *katastrophale* Projektleitung hat seinen Bankrott verursacht.
+  The *catastrophic* project management has caused its bankruptcy.
 
   L'influence *désastreuse* des réseaux sociaux inquiète les parents.
-  Der *verheerende* Einfluss der sozialen Medien beunruhigt die Eltern.
+  The devastating influence of social media worries parents.
 
   Les conditions météorologiques *désastreuses* ont forcé l'annulation du festival.
-  Die *katastrophalen* Wetterbedingungen haben zur Absage des Festivals gezwungen.
+  The *catastrophic* weather conditions have forced the festival to cancel.
 
   Son début de carrière a été *désastreux*.
-  Sein Karrierestart war *miserabel*.
+  His career start was miserable.
 
   La situation financière *désastreuse* de l'entreprise ne laisse aucun espoir.
-  Die *desaströse* Finanzlage des Unternehmens lässt keine Hoffnung.
+  The *disastrous* financial situation of the company leaves no hope.
 
   Les conséquences *désastreuses* de cette erreur se font encore sentir.
-  Die *verheerenden* Folgen dieses Fehlers sind noch immer spürbar.
+  The devastating consequences of this mistake are still noticeable.
 
   Cette année *désastreuse* restera longtemps dans les mémoires.
-  Dieses *katastrophale* Jahr wird lange in Erinnerung bleiben.
+  This *catastrophic* year will be remembered for a long time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

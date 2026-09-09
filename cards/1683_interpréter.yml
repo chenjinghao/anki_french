@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1683
 Wort: interpréter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: interpréter
 Femininum / Plural: ''
 IPA: \ɛ̃.tɛʁ.pʁe.te\
-Definition: interpretieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: interpret
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces résultats sont évidemment à *interpréter* avec prudence.
-  Diese Ergebnisse sind natürlich mit Vorsicht zu *interpretieren*.
+  These results must of course be interpreted with caution.
 
   Marie a magnifiquement *interprété* la Sonate au Clair de Lune de Beethoven.
-  Marie hat Beethovens Mondscheinsonate wunderbar *interpretiert*.
+  Marie *interpreted* Beethoven's moonlight sonata wonderfully.
 
   L'actrice *interprète* le rôle d'une femme mystérieuse dans ce film.
-  Die Schauspielerin *spielt* in diesem Film die Rolle einer geheimnisvollen Frau.
+  The actress plays the role of a mysterious woman in this film.
 
   Comment *interpréter* son silence après cette question ?
-  Wie soll man sein Schweigen nach dieser Frage *deuten*?
+  How can one *interpret* his silence after this question?
 
   Le tribunal a *interprété* la loi de manière trop stricte.
-  Das Gericht hat das Gesetz zu eng *ausgelegt*.
+  The court has interpreted the law too closely.
 
   L'orchestre va *interpréter* la Neuvième Symphonie ce soir.
-  Das Orchester wird heute Abend die Neunte Symphonie *interpretieren*.
+  The orchestra will be interpreting the Ninth Symphony tonight.
 
   Le psychologue l'aide à *interpréter* ses rêves récurrents.
-  Der Psychologe hilft ihr, ihre wiederkehrenden Träume zu *deuten*.
+  The psychologist helps her *interpret* her recurring dreams.
 
   Elle a mal *interprété* mes intentions.
-  Sie hat meine Absichten falsch *interpretiert*.
+  She misinterpreted my intentions.
 
   Ce geste peut s'*interpréter* de différentes manières.
-  Diese Geste lässt sich auf verschiedene Weisen *deuten*.
+  This gesture can be interpreted in various ways.
 
   Les experts *interprètent* les données de façon contradictoire.
-  Die Experten *interpretieren* die Daten widersprüchlich.
+  The experts *interpret* the data contradictoryly.
 
   Il *interprète* brillamment les œuvres de Mozart.
-  Er *interpretiert* Mozarts Werke brillant.
+  He interprets Mozart's works brilliantly.
 
   Le comédien *interprétait* Hamlet pour la première fois.
-  Der Schauspieler *spielte* zum ersten Mal Hamlet.
+  The actor *played* Hamlet for the first time.
 
   Les critiques ont différemment *interprété* ce poème.
-  Die Kritiker haben dieses Gedicht unterschiedlich *interpretiert*.
+  The critics *interpreted* this poem differently.
 
   Je n'aurais pas dû *interpréter* son sourire comme une promesse.
-  Ich hätte sein Lächeln nicht als Versprechen *deuten* sollen.
+  I shouldn't have interpreted his smile as a promise.
 
   Elle *interprète* simultanément du français vers l'allemand.
-  Sie *übersetzt* simultan aus dem Französischen ins Deutsche.
+  It translates simultaneously from French into German.
 
   Comment *interpréter* ce passage obscur du texte ?
-  Wie soll man diese unklare Textstelle *interpretieren*?
+  How to *interpret* this unclear passage?
 
   Le jury a mal *interprété* les règles du concours.
-  Die Jury hat die Wettbewerbsregeln falsch *ausgelegt*.
+  The jury misinterpreted the competition rules.
 
   Cette chanteuse *interprète* parfaitement le jazz.
-  Diese Sängerin *interpretiert* Jazz perfekt.
+  This singer interprets jazz perfectly.
 
   Les archéologues tentent d'*interpréter* ces mystérieux symboles.
-  Die Archäologen versuchen, diese mysteriösen Symbole zu *deuten*.
+  Archaeologists are trying to *interpret* these mysterious symbols.
 
   Le pianiste *interprétera* des compositions de Chopin demain.
-  Der Pianist wird morgen Chopins Kompositionen *interpretieren*.
+  The pianist will *interpret* Chopin's compositions tomorrow.
 
   Les scientifiques doivent *interpréter* ces résultats avec précaution.
-  Die Wissenschaftler müssen diese Ergebnisse sorgfältig *interpretieren*.
+  The scientists must *interpret* these results carefully.
 
   Il a *interprété* mes paroles de travers.
-  Er hat meine Worte falsch *ausgelegt*.
+  He misinterpreted my words.
 
   Cette décision peut s'*interpréter* comme un signe de faiblesse.
-  Diese Entscheidung lässt sich als Zeichen der Schwäche *interpretieren*.
+  This decision can be interpreted as a sign of weakness.
 
   La danseuse *interprète* le rôle du Cygne noir.
-  Die Tänzerin *spielt* die Rolle des schwarzen Schwans.
+  The dancer plays the role of the black swan.
 
   Les météorologues *interprètent* les données satellites.
-  Die Meteorologen *werten* die Satellitendaten *aus*.
+  The meteorologists are evaluating the satellite data.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

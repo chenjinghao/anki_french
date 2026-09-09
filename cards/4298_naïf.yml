@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4298
 Wort: naïf
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: naïf
 Femininum / Plural: naïve
 IPA: \na.if\
-Definition: naiv
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: naïve
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle reste extrêmement *naïve* sur le sujet.
-  Sie ist in dieser Sache extrem *naiv*.
+  She's extremely naive about this.
 
   "Tu es vraiment trop *naïf* de croire tout ce qu'on te raconte !"
-  "Du bist echt zu *naiv*, alles zu glauben, was man dir erzählt!"
+  "You're too naive to believe everything you're told!"
 
   La *naïveté* de sa réponse a fait sourire tout le monde.
-  Die *Naivität* seiner Antwort brachte alle zum Schmunzeln.
+  The naivety of his answer made everyone smile.
 
   Les peintres *naïfs* exposent leurs œuvres dans cette galerie.
-  Die *naiven* Maler stellen ihre Werke in dieser Galerie aus.
+  The naive painters exhibit their works in this gallery.
 
   Sa beauté *naïve* et naturelle attirait tous les regards.
-  Ihre *unschuldige* und natürliche Schönheit zog alle Blicke auf sich.
+  Her *innocent* and natural beauty drew all eyes.
 
   Je ne suis pas assez *naïf* pour tomber dans ce piège.
-  Ich bin nicht *naiv* genug, um in diese Falle zu tappen.
+  I'm not naive enough to fall into this trap.
 
   L'art *naïf* est caractérisé par sa spontanéité et sa fraîcheur.
-  Die *naive* Kunst zeichnet sich durch ihre Spontaneität und Frische aus.
+  The naive art is characterized by its spontaneity and freshness.
 
   Cette théorie économique est trop *naïve* pour être applicable.
-  Diese Wirtschaftstheorie ist zu *naiv*, um anwendbar zu sein.
+  This economic theory is too naive to be applicable.
 
   Les grâces *naïves* de l'enfant ont charmé ses grands-parents.
-  Die *treuherzige* Art des Kindes hat seine Großeltern bezaubert.
+  The *faithful* nature of the child has enchanted his grandparents.
 
   Il passe pour un *naïf* auprès de ses collègues.
-  Er gilt bei seinen Kollegen als *Naivling*.
+  He is considered a naïve with his colleagues.
 
   Sa foi *naïve* en l'humanité n'a jamais été ébranlée.
-  Sein *naiver* Glaube an die Menschheit wurde nie erschüttert.
+  His naive belief in humanity was never shaken.
 
   Cette description *naïve* du monde rural est touchante.
-  Diese *schlichte* Beschreibung des Landlebens ist rührend.
+  This simple description of country life is touching.
 
   Il serait *naïf* de croire que tout va s'arranger tout seul.
-  Es wäre *naiv* zu glauben, dass sich alles von selbst regelt.
+  It would be naive to believe that everything is self-regulating.
 
   Le style *naïf* de ses tableaux plaît beaucoup aux collectionneurs.
-  Der *naive* Stil seiner Gemälde gefällt den Sammlern sehr.
+  The naive style of his paintings is very pleasing to the collectors.
 
   Sa question *naïve* a déclenché un fou rire général.
-  Seine *naive* Frage löste allgemeines Gelächter aus.
+  His naive question triggered general laughter.
 
   C'est un *naïf* qui se fait toujours avoir par les vendeurs.
-  Er ist ein *Naiver*, der sich von den Verkäufern immer übers Ohr hauen lässt.
+  He's a *naïve* guy who's always got his hands on by the salesmen.
 
   La gaieté *naïve* de Marie est rafraîchissante.
-  Maries *unbeschwerte* Fröhlichkeit ist erfrischend.
+  Marie's *carefree* happiness is refreshing.
 
   Cette remarque *naïve* montre son manque d'expérience.
-  Diese *naive* Bemerkung zeigt ihre mangelnde Erfahrung.
+  This naive remark shows their lack of experience.
 
   Les manières *naïves* de la jeune fille charment tout le monde.
-  Die *unbefangene* Art des jungen Mädchens bezaubert alle.
+  The *unbiased* nature of the young girl enchants everyone.
 
   Il a une vision *naïve* de la politique internationale.
-  Er hat eine *naive* Sicht auf die internationale Politik.
+  He has a naive view of international politics.
 
   Le peintre *naïf* a créé une œuvre pleine de sincérité.
-  Der *naive* Maler hat ein Werk voller Aufrichtigkeit geschaffen.
+  The naive painter has created a work full of sincerity.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

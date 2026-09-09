@@ -1,77 +1,77 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3555
 Wort: précédemment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: précédemment
 Femininum / Plural: ''
 IPA: \pʁe.se.da.mɑ̃\
-Definition: vorher(-ig), bereits
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: previous(-ig), already
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai développé tout ceci *précédemment*.
-  Ich habe all dies *zuvor* entwickelt.
+  I've developed all this before.
 
   Comme je l'ai mentionné *précédemment*, nous devons agir rapidement.
-  Wie ich *vorher* erwähnt habe, müssen wir schnell handeln.
+  As I mentioned *before*, we must act quickly.
 
   Cette méthode a été testée *précédemment* avec succès.
-  Diese Methode wurde *früher* erfolgreich getestet.
+  This method was successfully tested earlier.
 
   Les résultats *précédemment* obtenus sont très prometteurs.
-  Die *zuvor* erzielten Ergebnisse sind sehr vielversprechend.
+  The results achieved *previously* are very promising.
 
   *Précédemment*, nous habitions dans un petit village près de la mer.
-  *Vorher* wohnten wir in einem kleinen Dorf am Meer.
+  *Before* we lived in a small village by the sea.
 
   La situation est plus complexe que *précédemment*.
-  Die Situation ist komplexer als *zuvor*.
+  The situation is more complex than before.
 
   L'article *précédemment* publié contenait quelques erreurs.
-  Der *vorher* veröffentlichte Artikel enthielt einige Fehler.
+  The previously published article contained some errors.
 
   Je n'ai jamais *précédemment* rencontré ce type de problème.
-  Ich bin *früher* nie auf diese Art von Problem gestoßen.
+  I've never encountered this kind of problem before.
 
   *Précédemment*, il travaillait comme professeur dans une école primaire.
-  *Zuvor* arbeitete er als Lehrer in einer Grundschule.
+  Before that, he worked as a teacher in a primary school.
 
   La version *précédemment* installée fonctionnait mieux.
-  Die *zuvor* installierte Version funktionierte besser.
+  The *previously* installed version worked better.
 
   Avez-vous déjà *précédemment* visité ce musée ?
-  Haben Sie dieses Museum schon *früher* besucht?
+  Have you visited this museum before?
 
   Les documents *précédemment* cités confirment notre hypothèse.
-  Die *vorher* zitierten Dokumente bestätigen unsere Hypothese.
+  The documents quoted above confirm our hypothesis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>auparavant</i> und <i>précédemment</i></div>
+    <div class="section-title"><i>auparavant</i> and <i>précédemment</i></div>
     <div class="section-content">
-      <p><span class="fr">Auparavant</span> (#1001) bedeutet <span class="de">"zuvor"</span>, <span class="de">"vorher"</span> oder <span class="de">"früher"</span> und bezieht sich allgemein auf einen früheren Zeitpunkt oder eine frühere Zeit, oft ohne spezifischen Bezug.</p>
+      <p><span class="fr">Auparavant</span> (#1001) means <span class="de">"zuvor"</span>, <span class="de">"vorher"</span> or <span class="de">"formerly"</span> and generally refers to an earlier date or time, often without a specific reference.</p>
       <div class="examples">
         <div class="fr">Je n'avais jamais visité Paris auparavant.</div>
-        <div class="de spoiler">Ich hatte Paris zuvor nie besucht.</div>
+        <div class="de spoiler">I had never visited Paris before.</div>
         <div class="fr">Il faut terminer ce projet auparavant.</div>
-        <div class="de spoiler">Dieses Projekt muss vorher abgeschlossen werden.</div>
+        <div class="de spoiler">This project must be completed beforehand.</div>
       </div>
-      <p><span class="fr">Précédemment</span> bedeutet <span class="de">"vorherig"</span> oder <span class="de">"vorausgehend"</span> und wird verwendet, um auf etwas zu verweisen, das unmittelbar vorausgegangen ist oder in einer bestimmten Abfolge zuvor stattgefunden hat.</p>
+      <p><span class="fr">Précédemment</span> means <span class="de">"vorherig"</span> or <span class="de">"vorausgehend"</span> and is used to refer to something that has immediately preceded or occurred in a certain sequence.</p>
       <div class="examples">
         <div class="fr">Comme mentionné précédemment, nous devons finir ce rapport avant vendredi.</div>
-        <div class="de spoiler">Wie bereits erwähnt, müssen wir diesen Bericht vor Freitag fertigstellen.</div>
+        <div class="de spoiler">As mentioned above, we must complete this report before Friday.</div>
         <div class="fr">Il avait précédemment travaillé pour une entreprise concurrente.</div>
-        <div class="de spoiler">Er hatte zuvor für ein Konkurrenzunternehmen gearbeitet.</div>
+        <div class="de spoiler">He had previously worked for a competitor.</div>
       </div>
-      <p>Der Hauptunterschied liegt darin, dass <span class="fr">précédemment</span> oft einen klareren zeitlichen Bezug hat und häufiger in formellen oder schriftlichen Kontexten verwendet wird, während <span class="fr">auparavant</span> allgemeiner ist und sowohl in formellen als auch informellen Situationen verwendet werden kann.</p>
+      <p>The main difference is that <span class="fr">précédemment</span> often has a clearer temporal relationship and is more frequently used in formal or written contexts, while <span class="fr">auparavant</span> In addition, it is possible to use it in both formal and informal situations.</p>
     </div>
   </div>

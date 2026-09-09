@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1474
 Wort: statut
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le statut
 Femininum / Plural: ''
 IPA: \sta.ty\
 Definition: Status
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le jeune reste sous *statut* scolaire.
-  Der Jugendliche behält seinen Schul*status*.
+  The teenager retains his school *status*.
 
   L'entreprise a changé son *statut* juridique l'année dernière.
-  Das Unternehmen hat letztes Jahr seine Rechts*stellung* geändert.
+  The company changed its legal status last year.
 
   Elle a un *statut* social élevé grâce à son travail.
-  Sie hat durch ihre Arbeit einen hohen sozialen *Status*.
+  She has a high social *status* through her work.
 
   Les *statuts* de l'association doivent être approuvés par tous les membres.
-  Die *Satzung* des Vereins muss von allen Mitgliedern genehmigt werden.
+  The *statutes* of the association must be approved by all members.
 
   Mon ami vient d'obtenir le *statut* de réfugié.
-  Mein Freund hat gerade den Flüchtlings*status* erhalten.
+  My friend just got refugee *status*.
 
   Le conseil municipal a modifié les *statuts* communaux hier soir.
-  Der Gemeinderat hat gestern Abend die Gemeinde*verfassung* geändert.
+  The council changed the *constitution* last night.
 
   Elle souhaite acquérir le *statut* de fonctionnaire.
-  Sie möchte den Beamten*status* erwerben.
+  She wants to acquire official *status*.
 
   Les nouveaux *statuts* de la société seront votés demain.
-  Die neue *Satzung* der Gesellschaft wird morgen abgestimmt.
+  The company's new *statutes* will be voted tomorrow.
 
   Son *statut* « hors ligne » sur la messagerie inquiète ses amis.
-  Sein "Offline-*Status*" im Messenger beunruhigt seine Freunde.
+  His "offline *status*" in the Messenger worries his friends.
 
   Le *statut* de la femme a beaucoup évolué depuis un siècle.
-  Die *Stellung* der Frau hat sich seit einem Jahrhundert stark verändert.
+  The *position* of the woman has changed greatly for a century.
 
   Ils ont dû modifier leur *statut* d'autoentrepreneur.
-  Sie mussten ihren *Status* als Selbstständige ändern.
+  They had to change their *status* as self-employed.
 
   Les *statuts* de l'Académie française n'ont pas changé depuis des siècles.
-  Die *Statuten* der Académie française haben sich seit Jahrhunderten nicht geändert.
+  The statutes of the Académie française have not changed for centuries.
 
   Ce roman a acquis le *statut* de classique de la littérature.
-  Dieser Roman hat den *Status* eines Literaturklassikers erlangt.
+  This novel has acquired the *status* of a literary classic.
 
   Le *statut* diplomatique lui confère certains privilèges.
-  Der Diplomaten*status* gewährt ihr bestimmte Privilegien.
+  Diplomatic *status* grants her certain privileges.
 
   Nous devons respecter le *statut* particulier de cette région.
-  Wir müssen den Sonder*status* dieser Region respektieren.
+  We must respect the special *status* of this region.
 
   Les *statuts* de l'entreprise définissent clairement ses objectifs.
-  Die *Satzung* des Unternehmens definiert ihre Ziele klar.
+  The company's *statutes* clearly define its objectives.
 
   Son *statut* privilégié dans l'entreprise lui permet de travailler à distance.
-  Seine privilegierte *Stellung* im Unternehmen erlaubt ihm, von zu Hause zu arbeiten.
+  His privileged *position* in the company allows him to work from home.
 
   Le nouveau *statut* des forêts publiques protège mieux l'environnement.
-  Der neue *Status* der öffentlichen Wälder schützt die Umwelt besser.
+  The new *status* of public forests better protects the environment.
 
   La loi définit le *statut* des biens culturels.
-  Das Gesetz definiert die Rechts*stellung* von Kulturgütern.
+  The law defines the legal status of cultural goods.
 
   Le conseil d'administration a rédigé de nouveaux *statuts*.
-  Der Vorstand hat eine neue *Satzung* verfasst.
+  The board has written a new statute.
 
   Cette décision va changer le *statut* de l'organisation.
-  Diese Entscheidung wird die *Stellung* der Organisation verändern.
+  This decision will change the *position* of the organisation.
 
   Le *statut* consultatif permet de participer aux réunions sans droit de vote.
-  Der Konsultativ*status* erlaubt die Teilnahme an Sitzungen ohne Stimmrecht.
+  The consultative *status* allows participation in meetings without voting rights.
 
   Selon les *statuts*, le président est élu pour cinq ans.
-  Laut *Satzung* wird der Präsident für fünf Jahre gewählt.
+  According to the *statutes*, the president is elected for five years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

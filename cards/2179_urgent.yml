@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2179
 Wort: urgent
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: urgent
 Femininum / Plural: urgente
 IPA: \yʁ.ʒɑ̃\
-Definition: dringend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: urgent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est *urgent* de remettre l'église au milieu du village.
-  Es ist *dringend* nötig, die Dinge wieder in Ordnung zu bringen.
+  There is an *urgent* need to put things right.
 
   Cette affaire est très *urgente*, nous devons agir maintenant.
-  Diese Angelegenheit ist sehr *dringend*, wir müssen jetzt handeln.
+  This is a very *urgent* matter, and we must act now.
 
   Le médecin a une consultation *urgente* ce matin.
-  Der Arzt hat heute Morgen eine *dringende* Sprechstunde.
+  The doctor has an *urgent* consultation this morning.
 
   Il est *urgent* qu'elle prenne une décision.
-  Es wird *dringend* Zeit, dass sie eine Entscheidung trifft.
+  It's about time she made a decision.
 
   Nous avons reçu une commande *urgente* de notre client principal.
-  Wir haben eine *eilige* Bestellung von unserem Hauptkunden erhalten.
+  We have received a quick order from our main customer.
 
   La réparation du toit est devenue *urgente* après la tempête.
-  Die Reparatur des Daches ist nach dem Sturm *dringend* geworden.
+  The repair of the roof became *urgent* after the storm.
 
   Ces documents *urgents* doivent être signés aujourd'hui.
-  Diese *dringenden* Dokumente müssen heute unterschrieben werden.
+  These *urgent* documents must be signed today.
 
   Le patient a un besoin *urgent* de soins médicaux.
-  Der Patient hat einen *dringenden* Bedarf an medizinischer Versorgung.
+  The patient has an *urgent* need for medical care.
 
   La secrétaire traitera en priorité les dossiers *urgents*.
-  Die Sekretärin wird die *dringlichen* Akten vorrangig bearbeiten.
+  The secretary will deal with the urgent cases as a matter of priority.
 
   *Urgent* : appelez-moi dès que possible !
-  *Dringend*: Rufen Sie mich sobald wie möglich an!
+  *Urgent*: Call me as soon as possible!
 
   Cette tâche *urgente* ne peut pas attendre jusqu'à demain.
-  Diese *vordringliche* Aufgabe kann nicht bis morgen warten.
+  This *urgent* task cannot wait until tomorrow.
 
   J'ai une réunion *urgente* avec le directeur cet après-midi.
-  Ich habe heute Nachmittag eine *dringende* Besprechung mit dem Direktor.
+  I have an *urgent* meeting with the director this afternoon.
 
   Les pompiers ont reçu un appel *urgent*.
-  Die Feuerwehr hat einen *dringenden* Notruf erhalten.
+  The fire department has received an *urgent* emergency call.
 
   Il faut distinguer l'*urgent* de l'important.
-  Man muss das *Dringende* vom Wichtigen unterscheiden.
+  You have to distinguish the *urgent* from the important.
 
   Elle a dû partir pour une affaire *urgente*.
-  Sie musste wegen einer *dringlichen* Angelegenheit gehen.
+  She had to go for an urgent matter.
 
   Le maire a convoqué une session *urgente* du conseil municipal.
-  Der Bürgermeister hat eine *dringende* Gemeinderatssitzung einberufen.
+  The mayor called an *urgent* council meeting.
 
   Une lettre *urgente* vous attend à la réception.
-  Ein *dringender* Brief wartet an der Rezeption auf Sie.
+  An *urgent* letter is waiting for you at the reception.
 
   La situation est devenue *urgente* : nous n'avons plus beaucoup de temps.
-  Die Situation ist *dringend* geworden: Wir haben nicht mehr viel Zeit.
+  The situation has become *urgent*: we do not have much time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3921
 Wort: soupçon
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le soupçon
 Femininum / Plural: ''
 IPA: \sup.sɔ̃\
-Definition: Verdacht
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Suspicion
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle l'examina *avec soupçon*.
-  Sie betrachtete ihn *misstrauisch*.
+  She was suspicious of him.
 
   De graves *soupçons* pèsent sur le comptable de l'entreprise.
-  Ein schwerer *Verdacht* lastet auf dem Buchhalter der Firma.
+  A serious *suspicion* is on the accountant of the company.
 
   Il est complètement au-dessus de tout *soupçon*.
-  Er ist über jeden *Verdacht* erhaben.
+  He's beyond *suspicion*.
 
   Son comportement étrange a éveillé les *soupçons* de la police.
-  Sein seltsames Verhalten hat den *Verdacht* der Polizei erregt.
+  His strange behavior caused the police to suspect him.
 
   Un *soupçon* d'ironie se cachait dans son sourire.
-  Ein *Hauch* von Ironie verbarg sich in seinem Lächeln.
+  A *touch* of irony hid in his smile.
 
   Je n'avais pas le moindre *soupçon* de ce qui m'attendait.
-  Ich hatte keine *Ahnung* von dem, was mich erwartete.
+  I had no idea what was waiting for me.
 
   Nous avons des *soupçons* concernant sa version des événements.
-  Wir haben *Zweifel* an seiner Version der Ereignisse.
+  We have *doubts* about his version of the events.
 
   Le *soupçon* s'est peu à peu installé dans son esprit.
-  Der *Verdacht* hat sich nach und nach in seinem Kopf festgesetzt.
+  The *suspicion* has gradually settled in his head.
 
   Ajoutez un *soupçon* de poivre à cette sauce.
-  Geben Sie eine *Spur* Pfeffer in diese Sauce.
+  Put a hint of pepper in this sauce.
 
   Les premiers *soupçons* sont apparus après sa disparition.
-  Die ersten *Verdachtsmomente* tauchten nach seinem Verschwinden auf.
+  The first suspicions appeared after his disappearance.
 
   J'ai quelques *soupçons* sur l'origine de cette lettre anonyme.
-  Ich habe eine *Vermutung* über den Ursprung dieses anonymen Briefes.
+  I have a guess about the origin of this anonymous letter.
 
   Vos *soupçons* sont totalement injustifiés.
-  Ihr *Verdacht* ist völlig unbegründet.
+  Your *suspicion* is completely unfounded.
 
   Sa voix trahissait un *soupçon* d'inquiétude.
-  Seine Stimme verriet eine *Spur* von Besorgnis.
+  His voice revealed a trace of concern.
 
   Le juge a dissipé tous les *soupçons* qui pesaient sur elle.
-  Der Richter hat alle *Verdächtigungen* ausgeräumt, die auf ihr lasteten.
+  The judge cleared out all the suspicions that were burdening her.
 
   Un *soupçon* de vanille suffit pour parfumer ce gâteau.
-  Eine *Idee* Vanille reicht aus, um diesen Kuchen zu aromatisieren.
+  One *idea* vanilla is enough to flavour this cake.
 
   Ces accusations reposent sur de simples *soupçons*.
-  Diese Anschuldigungen basieren auf bloßen *Verdächtigungen*.
+  These accusations are based on mere suspicions.
 
   Il n'a pas le moindre *soupçon* de culpabilité.
-  Er zeigt nicht die geringste *Spur* von Schuldbewusstsein.
+  He doesn't show the slightest sense of guilt.
 
   Les *soupçons* se sont immédiatement portés sur le concurrent direct.
-  Der *Verdacht* fiel sofort auf den direkten Konkurrenten.
+  The *suspicion* fell immediately on the direct competitor.
 
   Sa conduite irréprochable la met à l'abri des *soupçons*.
-  Ihr tadelloses Verhalten schützt sie vor jedem *Verdacht*.
+  Their impeccable behavior protects them from any *suspicion*.
 
   Elle n'a pas manifesté un *soupçon* de gratitude.
-  Sie hat nicht die geringste *Spur* von Dankbarkeit gezeigt.
+  She didn't show the slightest trace of gratitude.
 
   Mes *soupçons* ont été confirmés par l'enquête.
-  Meine *Vermutungen* wurden durch die Untersuchung bestätigt.
+  My guesses were confirmed by the investigation.
 
   Un *soupçon* m'a effleuré quand je l'ai vu partir si vite.
-  Ein *Verdacht* beschlich mich, als ich sah, wie schnell er ging.
+  A *suspicion* struck me when I saw how fast he went.
 
   Sa sincérité ne laisse place à aucun *soupçon*.
-  Seine Aufrichtigkeit lässt keinen *Zweifel* zu.
+  His sincerity leaves no doubt.
 
   Le *soupçon* s'est insinué dans tous les esprits.
-  Der *Verdacht* schlich sich in alle Köpfe ein.
+  The *suspicion* crept into all heads.
 
   Elle parle français avec un *soupçon* d'accent italien.
-  Sie spricht Französisch mit einer *Spur* italienischem Akzent.
+  She speaks French with a hint of Italian accent.
 
   Les *soupçons* se sont révélés infondés après l'enquête.
-  Die *Verdächtigungen* erwiesen sich nach der Untersuchung als unbegründet.
+  The suspicions proved to be unfounded after the investigation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

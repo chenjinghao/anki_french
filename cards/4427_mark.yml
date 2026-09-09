@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4427
 Wort: mark
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mark
 Femininum / Plural: ''
 IPA: \maʁk\
 Definition: Mark
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Sa monnaie de référence est le *mark* allemand.
-  Seine Referenzwährung ist die deutsche *Mark*.
+  Its reference currency is the German *mark*.
 
   Le *mark* finlandais a été remplacé par l'euro en 2002.
-  Die finnische *Mark* wurde 2002 durch den Euro ersetzt.
+  The Finnish *mark* was replaced by the euro in 2002.
 
   Les touristes devaient échanger leurs *marks* à la banque.
-  Die Touristen mussten ihre *Mark* in der Bank umtauschen.
+  Tourists had to exchange their marks in the bank.
 
   En 1990, le *mark* est-allemand a été remplacé par le deutsche *mark*.
-  1990 wurde die Ost*mark* durch die deutsche *Mark* ersetzt.
+  In 1990, the East *Mark* was replaced by the German Mark.
 
   Le deutsche *mark* était une monnaie très stable.
-  Die deutsche *Mark* war eine sehr stabile Währung.
+  The German *mark* was a very stable currency.
 
   J'ai trouvé un ancien billet de cent *marks* dans un livre.
-  Ich habe einen alten Hundert-*Mark*-Schein in einem Buch gefunden.
+  I found an old one-hundred-*mark* note in a book.
 
   L'économie allemande était basée sur le *mark* jusqu'en 2002.
-  Die deutsche Wirtschaft basierte bis 2002 auf der *Mark*.
+  The German economy was based on the *Mark* until 2002.
 
   Le taux de change était de deux *marks* pour un dollar.
-  Der Wechselkurs lag bei zwei *Mark* für einen Dollar.
+  The exchange rate was two marks for one dollar.
 
   Le *mark* était divisé en cent pfennigs.
-  Die *Mark* war in hundert Pfennige unterteilt.
+  The *Mark* was divided into a hundred pennies.
 
   Avant l'euro, le *mark* était la monnaie officielle de l'Allemagne.
-  Vor dem Euro war die *Mark* die offizielle Währung Deutschlands.
+  Before the euro, the *mark* was the official currency of Germany.
 
   Le deutsche *mark* était un symbole de la puissance économique allemande.
-  Die deutsche *Mark* war ein Symbol der deutschen Wirtschaftskraft.
+  The German *mark* was a symbol of German economic power.
 
   Les prix étaient indiqués en *marks* et en euros pendant la période de transition.
-  Die Preise wurden während der Übergangszeit in *Mark* und Euro angegeben.
+  The prices were expressed in marks and euros during the transitional period.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

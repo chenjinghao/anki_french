@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3198
 Wort: manifestement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: manifestement
 Femininum / Plural: ''
 IPA: \ma.ni.fɛs.tə.mɑ̃\
-Definition: (ganz) offensichtlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (entirely) obviously
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a *manifestement* bénéficié d'un large soutien.
-  Sie hat *offensichtlich* breite Unterstützung erhalten.
+  It has obviously received broad support.
 
   Cette personne est *manifestement* malade depuis plusieurs jours.
-  Diese Person ist seit mehreren Tagen *ganz offensichtlich* krank.
+  This person has obviously been ill for several days.
 
   Le projet va *manifestement* échouer si nous ne changeons rien.
-  Das Projekt wird *offenbar* scheitern, wenn wir nichts ändern.
+  The project will obviously fail if we don't change anything.
 
   Il était *manifestement* sous l'influence de l'alcool.
-  Er stand *ganz offensichtlich* unter Alkoholeinfluss.
+  He was obviously under the influence of alcohol.
 
   Cette information est *manifestement* fausse.
-  Diese Information ist *offenkundig* falsch.
+  This information is obviously wrong.
 
   Le suspect est *manifestement* coupable du crime.
-  Der Verdächtige ist *ganz offensichtlich* schuldig.
+  The suspect is obviously guilty.
 
   Les enfants sont *manifestement* fatigués après cette longue journée.
-  Die Kinder sind nach diesem langen Tag *offensichtlich* müde.
+  The children are obviously tired after this long day.
 
   Il s'agit *manifestement* d'une erreur de communication.
-  Es handelt sich *ganz offensichtlich* um einen Kommunikationsfehler.
+  It is obviously a communication error.
 
   La situation s'est *manifestement* améliorée depuis l'année dernière.
-  Die Situation hat sich seit dem letzten Jahr *offenkundig* verbessert.
+  The situation has clearly improved since last year.
 
   Ces résultats sont *manifestement* meilleurs que prévu.
-  Diese Ergebnisse sind *ganz offensichtlich* besser als erwartet.
+  These results are obviously better than expected.
 
   Le témoin a *manifestement* menti pendant l'interrogatoire.
-  Der Zeuge hat während der Befragung *offensichtlich* gelogen.
+  The witness obviously lied during the interview.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

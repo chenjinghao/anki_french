@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 807
 Wort: immédiatement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: immédiatement
 Femininum / Plural: ''
 IPA: \i.me.djat.mɑ̃\
-Definition: sofort, unverzüglich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: immediately, immediately
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les enfants, partez *immédiatement*.
-  Kinder, geht *sofort*.
+  Kids, leave now.
 
   Le directeur m'a demandé de venir le voir *immédiatement*.
-  Der Direktor hat mich gebeten, *sofort* zu ihm zu kommen.
+  The warden asked me to come to him right away.
 
   Vous devriez *immédiatement* arrêter de fumer.
-  Sie sollten das Rauchen *umgehend* aufgeben.
+  You should quit smoking *immediately*.
 
   *Immédiatement* après son arrivée, elle s'est mise au travail.
-  *Unmittelbar* nach ihrer Ankunft hat sie mit der Arbeit begonnen.
+  Immediately after her arrival, she started work.
 
   Le chef de service dépend *immédiatement* du directeur général.
-  Der Abteilungsleiter ist *direkt* dem Generaldirektor unterstellt.
+  The Head of Division shall be directly under the responsibility of the Director-General.
 
   Nous avons répondu *immédiatement* à leur message.
-  Wir haben *sofort* auf ihre Nachricht geantwortet.
+  We *immediately* responded to her message.
 
   Le supermarché se trouve *immédiatement* après le feu rouge.
-  Der Supermarkt befindet sich *direkt* nach der Ampel.
+  The supermarket is located right after the traffic light.
 
   L'équipe de secours est arrivée *immédiatement* sur les lieux.
-  Das Rettungsteam traf *unverzüglich* am Unfallort ein.
+  The rescue team arrived immediately at the scene of the accident.
 
   Notre maison est située *immédiatement* à côté de l'école.
-  Unser Haus liegt *unmittelbar* neben der Schule.
+  Our house is right next to the school.
 
   Si vous voyez quelque chose de suspect, prévenez-moi *immédiatement*.
-  Wenn Sie etwas Verdächtiges sehen, benachrichtigen Sie mich *sofort*.
+  If you see anything suspicious, notify me *immediately*.
 
   Elle a *immédiatement* compris son erreur.
-  Sie hat ihren Fehler *sofort* eingesehen.
+  She saw her mistake right away.
 
   La période médiévale a suivi *immédiatement* l'Antiquité.
-  Das Mittelalter folgte *unmittelbar* auf die Antike.
+  The Middle Ages immediately followed antiquity.
 
   Je veux que tu viennes *immédiatement* dans mon bureau.
-  Ich will, dass du *sofort* in mein Büro kommst.
+  I want you to come to my office right away.
 
   Les pompiers sont intervenus *immédiatement* après l'explosion.
-  Die Feuerwehr griff *unmittelbar* nach der Explosion ein.
+  The fire brigade intervened immediately after the explosion.
 
   Le président communique *immédiatement* avec ses ministres.
-  Der Präsident kommuniziert *direkt* mit seinen Ministern.
+  The President communicates directly with his ministers.
 
   Veuillez quitter *immédiatement* les lieux.
-  Verlassen Sie *unverzüglich* das Gelände.
+  Get out of the compound immediately.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

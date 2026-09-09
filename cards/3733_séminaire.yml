@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3733
 Wort: séminaire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le séminaire
 Femininum / Plural: ''
 IPA: \se.mi.nɛʁ\
 Definition: Seminar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces *séminaires* m'excitent à mort.
-  Diese *Seminare* machen mich total an.
+  These *seminars* are really turning me on.
 
   Les étudiants en littérature participent à un *séminaire* hebdomadaire avec leur professeur.
-  Die Literaturstudenten nehmen an einem wöchentlichen *Seminar* mit ihrem Professor teil.
+  The literature students take part in a weekly *seminar* with their professor.
 
   Nous avons organisé un *séminaire* en ligne sur la cybersécurité.
-  Wir haben ein Online-*Seminar* über Cybersicherheit organisiert.
+  We organized an online *seminar* on cybersecurity.
 
   Le *séminaire* de recherche aura lieu dans l'amphithéâtre principal.
-  Das Forschungs*seminar* findet im Haupthörsaal statt.
+  The research *seminar* takes place in the main auditorium.
 
   Après trois ans au *séminaire*, il a décidé de ne pas devenir prêtre.
-  Nach drei Jahren im Priester*seminar* hat er sich entschieden, kein Priester zu werden.
+  After three years in the seminary, he decided not to become a priest.
 
   Le *séminaire* rabbinique accueille des étudiants du monde entier.
-  Das rabbinische *Seminar* nimmt Studenten aus der ganzen Welt auf.
+  The rabbinical *seminar* will welcome students from all over the world.
 
   Notre entreprise organise un *séminaire* de formation la semaine prochaine.
-  Unser Unternehmen veranstaltet nächste Woche eine *Schulung*.
+  Our company is organizing a *training* session next week.
 
   Tout le *séminaire* s'est réuni pour la cérémonie de fin d'année.
-  Das ganze *Seminar* hat sich zur Abschlussfeier versammelt.
+  The whole seminary has gathered for the graduation ceremony.
 
   Il anime des *séminaires* de vente depuis plus de dix ans.
-  Er leitet seit über zehn Jahren Verkaufs*seminare*.
+  He's been conducting sales *seminars* for over ten years.
 
   Le *séminaire* se concentrera sur les méthodes de recherche avancées.
-  Das *Seminar* wird sich auf fortgeschrittene Forschungsmethoden konzentrieren.
+  The *seminar* will focus on advanced research methods.
 
   J'ai fait mon *séminaire* à Lyon avant d'être ordonné prêtre.
-  Ich habe mein Priester*seminar* in Lyon absolviert, bevor ich zum Priester geweiht wurde.
+  I completed my seminary in Lyon before I was ordained a priest.
 
   Les participants au *séminaire* ont été très satisfaits du contenu.
-  Die Teilnehmer des *Seminars* waren mit dem Inhalt sehr zufrieden.
+  The participants of the seminar were very satisfied with the content.
 
   Le petit *séminaire* a fermé ses portes dans les années 1960.
-  Das kleine Priester*seminar* wurde in den 1960er Jahren geschlossen.
+  The small seminary was closed in the 1960s.
 
   Elle dirige le *séminaire* de littérature médiévale cette année.
-  Sie leitet dieses Jahr das *Seminar* für mittelalterliche Literatur.
+  This year she is the head of the *seminar* for medieval literature.
 
   Nous devons présenter nos recherches lors du prochain *séminaire*.
-  Wir müssen unsere Forschungsergebnisse beim nächsten *Seminar* vorstellen.
+  We need to present our research results at the next *seminar*.
 
   Le *séminaire* d'entreprise a renforcé l'esprit d'équipe.
-  Das Firmen*seminar* hat den Teamgeist gestärkt.
+  The company *seminar* strengthened the team spirit.
 
   As-tu déjà assisté à un *séminaire* sur ce sujet?
-  Hast du schon mal an einem *Seminar* zu diesem Thema teilgenommen?
+  Have you ever attended a *seminar* on this subject?
 
   Le *séminaire* des Missions étrangères forme des prêtres missionnaires.
-  Das Missions*seminar* bildet Missionspriester aus.
+  The mission seminary trains mission priests.
 
   Les inscriptions pour le *séminaire* de doctorat sont maintenant ouvertes.
-  Die Anmeldungen für das Promotions*seminar* sind jetzt möglich.
+  Registrations for the doctoral *seminar* are now possible.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4242
 Wort: commissariat
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le commissariat
 Femininum / Plural: ''
 IPA: \kɔ.mi.sa.ʁja\
-Definition: Revier, Amt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Department, Office
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *commissariat* local a été chargé de l'enquête.
-  Das örtliche *Polizeirevier* wurde mit der Untersuchung beauftragt.
+  The local *police station* was assigned to investigate.
 
   "Je vais au *commissariat* déposer une plainte."
-  "Ich gehe zur *Polizeiwache*, um Anzeige zu erstatten."
+  "I'm going to the *police station* to file a complaint."
 
   Elle travaille au *commissariat* depuis vingt ans.
-  Sie arbeitet seit zwanzig Jahren im *Polizeirevier*.
+  She's been working in the *police station* for twenty years.
 
   Le *commissariat* de police se trouve au coin de la rue.
-  Die Polizei*wache* befindet sich an der Straßenecke.
+  The police station is on the street corner.
 
   Le voleur a été conduit au *commissariat* pour interrogatoire.
-  Der Dieb wurde zum *Revier* zum Verhör gebracht.
+  The thief was taken to the precinct for interrogation.
 
   Le *commissariat* à l'Énergie atomique a publié un nouveau rapport.
-  Das Atom*amt* hat einen neuen Bericht veröffentlicht.
+  The Atomic Energy Agency has published a new report.
 
   Le Haut-*commissariat* des Nations unies aide les réfugiés dans le monde entier.
-  Das UN-Flüchtlings*amt* hilft Flüchtlingen weltweit.
+  The UN Refugee Office helps refugees worldwide.
 
   Il a été nommé au *commissariat* général de la police nationale.
-  Er wurde zum General*amt* der nationalen Polizei ernannt.
+  He was appointed General Office of the National Police.
 
   Le *commissariat* de la marine gère la logistique de la flotte.
-  Das Marine*amt* verwaltet die Logistik der Flotte.
+  The Navy Administration manages the logistics of the fleet.
 
   Les services du *commissariat* sont ouverts jour et nuit.
-  Die Dienste des *Polizeireviers* sind Tag und Nacht geöffnet.
+  The services of the *police station* are open day and night.
 
   Pierre a dû se rendre au *commissariat* pour faire renouveler sa carte d'identité.
-  Pierre musste zum *Revier* gehen, um seinen Personalausweis erneuern zu lassen.
+  Pierre had to go to the precinct to have his identity card renewed.
 
   Le nouveau *commissariat* sera inauguré la semaine prochaine.
-  Das neue *Polizeirevier* wird nächste Woche eingeweiht.
+  The new *police station* will be inaugurated next week.
 
   Les témoins ont été convoqués au *commissariat* pour leur déposition.
-  Die Zeugen wurden zur *Polizeiwache* für ihre Aussage vorgeladen.
+  The Witnesses were summoned to the *police station* for their testimony.
 
   Le *commissariat* de l'air supervise les opérations logistiques.
-  Das Luftwaffen*amt* überwacht die logistischen Operationen.
+  The Luftwaffe Office is monitoring the logistical operations.
 
   Le Haut-*commissariat* a envoyé une mission d'observation dans la région.
-  Das Hochkommissars*amt* hat eine Beobachtermission in die Region entsandt.
+  The High Commissioner's Office has sent an observer mission to the region.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

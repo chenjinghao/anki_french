@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4729
 Wort: échéant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: échéant
 Femininum / Plural: échéante
 IPA: \e.ʃe.ɑ̃\
-Definition: fällig (werdend)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: due (becoming)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est moi qui *le cas échéant* prendrai la décision.
-  *Gegebenenfalls* werde ich die Entscheidung treffen.
+  If necessary, I will make the decision.
 
   Les paiements *échéants* doivent être effectués avant la fin du mois.
-  Die *fälligen* Zahlungen müssen vor Monatsende geleistet werden.
+  Payments due must be made before the end of the month.
 
   *Le cas échéant*, nous devrons reporter la réunion à la semaine prochaine.
-  *Falls erforderlich* müssen wir die Besprechung auf nächste Woche verschieben.
+  *If necessary*, we have to postpone the meeting until next week.
 
   La banque m'a envoyé un rappel concernant mes traites *échéantes*.
-  Die Bank hat mir eine Erinnerung bezüglich meiner *fällig werdenden* Raten geschickt.
+  *The* bank sent me a reminder of my due instalments.
 
   *Le cas échéant*, n'hésitez pas à me contacter par téléphone.
-  *Bei Bedarf* können Sie mich jederzeit telefonisch kontaktieren.
+  *If necessary*, you can contact me at any time by phone.
 
   Toutes les annuités *échéantes* ont été réglées dans les délais.
-  Alle *fälligen* Jahresraten wurden pünktlich bezahlt.
+  All due annual rates were paid on time.
 
   Nous examinerons votre demande et, *le cas échéant*, vous proposerons une solution alternative.
-  Wir werden Ihren Antrag prüfen und Ihnen *gegebenenfalls* eine alternative Lösung vorschlagen.
+  We will examine your request and, if necessary, propose an alternative solution.
 
   Les effets *échéants* seront traités en priorité par notre service.
-  Die *fällig werdenden* Wechsel werden von unserer Abteilung vorrangig bearbeitet.
+  *The* changes due will be handled primarily by our department.
 
   *Le cas échéant*, des mesures supplémentaires seront mises en place.
-  *Im Bedarfsfall* werden zusätzliche Maßnahmen ergriffen.
+  If necessary, additional measures will be taken.
 
   Le directeur signera, *le cas échéant*, une lettre de recommandation.
-  Der Direktor wird *bei Bedarf* ein Empfehlungsschreiben unterschreiben.
+  The Director will sign a letter of recommendation *if necessary*.
 
   Veuillez vérifier la liste des paiements *échéants* cette semaine.
-  Bitte überprüfen Sie die Liste der diese Woche *fälligen* Zahlungen.
+  Please check the list of payments due this week.
 
   Les frais *échéants* doivent être payés avant le quinze du mois.
-  Die *fällig werdenden* Gebühren müssen vor dem Fünfzehnten des Monats bezahlt werden.
+  *The* due fees must be paid before the fifteenth of the month.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

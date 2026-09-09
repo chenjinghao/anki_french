@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2002
 Wort: annuler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: annuler
 Femininum / Plural: ''
 IPA: \a.ny.le\
-Definition: stornieren, absagen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: cancel, cancel
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a dû *annuler* un voyage.
-  Er musste eine Reise *absagen*.
+  He had to *cancel* a trip.
 
   J'ai *annulé* ma commande car le produit était trop cher.
-  Ich habe meine Bestellung *storniert*, weil das Produkt zu teuer war.
+  I canceled my order because the product was too expensive.
 
   Le médecin a *annulé* tous ses rendez-vous de l'après-midi.
-  Der Arzt hat alle seine Termine am Nachmittag *abgesagt*.
+  The doctor canceled all his appointments in the afternoon.
 
   La compagnie aérienne a *annulé* notre vol en raison du mauvais temps.
-  Die Fluggesellschaft hat unseren Flug wegen des schlechten Wetters *gecancelt*.
+  The airline *canceled* our flight because of the bad weather.
 
   Le tribunal a *annulé* le mariage pour vice de forme.
-  Das Gericht hat die Ehe wegen eines Formfehlers *annulliert*.
+  The court has *cancelled* the marriage for a formal error.
 
   Les deux équipes ont convenu d'*annuler* le match à cause de la pluie.
-  Die beiden Teams haben vereinbart, das Spiel wegen des Regens *abzusagen*.
+  The two teams agreed to cancel the game because of the rain.
 
   Veuillez *annuler* ma réservation pour ce soir.
-  Bitte *stornieren* Sie meine Reservierung für heute Abend.
+  Please *cancel* my reservation for tonight.
 
   La banque a *annulé* ma dette après plusieurs années de remboursement.
-  Die Bank hat meine Schulden nach mehreren Jahren der Rückzahlung *bereinigt*.
+  The bank cleared my debt after several years of repayment.
 
   Le système a automatiquement *annulé* l'impression du document.
-  Das System hat den Druckauftrag automatisch *abgebrochen*.
+  The system automatically canceled the print job.
 
   La connexion internet s'est *annulée* de façon inattendue.
-  Die Internetverbindung wurde unerwartet *abgebrochen*.
+  The Internet connection was unexpectedly cancelled.
 
   Ces deux forces opposées s'*annulent* parfaitement.
-  Diese beiden entgegengesetzten Kräfte *heben* sich gegenseitig *auf*.
+  These two opposing forces are canceling each other.
 
   La cour d'appel a *annulé* le jugement précédent.
-  Das Berufungsgericht hat das vorherige Urteil *aufgehoben*.
+  The Court of Appeal has abrogated the previous judgment.
 
   Je dois *annuler* le contrat car les conditions ont changé.
-  Ich muss den Vertrag *rückgängig machen*, weil sich die Bedingungen geändert haben.
+  I have to cancel the contract because the terms have changed.
 
   Comment puis-je *annuler* cette tâche d'impression ?
-  Wie kann ich diesen Druckauftrag *löschen*?
+  How can I *delete* this print job?
 
   L'université a dû *annuler* tous les cours en présentiel.
-  Die Universität musste allen Präsenzunterricht *absagen*.
+  The university had to *cancel* all attendance classes.
 
   Le restaurant nous a *annulé* la facture suite à l'erreur du serveur.
-  Das Restaurant hat die Rechnung wegen des Kellnerfehlers *storniert*.
+  The restaurant canceled the bill because of the waiter's error.
 
   Les élections ont été *annulées* en raison d'irrégularités.
-  Die Wahlen wurden wegen Unregelmäßigkeiten *annulliert*.
+  The elections were *cancelled* for irregularities.
 
   Le notaire a *annulé* le testament pour vice de forme.
-  Der Notar hat das Testament wegen eines Formfehlers *aufgehoben*.
+  The notary has lifted the will for a formal error.
 
   Nous devons *annuler* la fête à cause du mauvais temps.
-  Wir müssen die Party wegen des schlechten Wetters *absagen*.
+  We have to *cancel* the party because of the bad weather.
 
   La société a *annulé* ma commande sans m'en informer.
-  Die Firma hat meine Bestellung ohne Information an mich *storniert*.
+  The company canceled my order to me without any information.
 
   Le directeur a *annulé* la réunion à la dernière minute.
-  Der Direktor hat die Besprechung in letzter Minute *abgesagt*.
+  The director canceled the meeting at the last minute.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1883
 Wort: héros
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le héros
 Femininum / Plural: héroïne
 IPA: \'e.ʁo\
-Definition: Held
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Hero
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un *héros* lui aurait sauvé la vie.
-  Ein *Held* soll ihm das Leben gerettet haben.
+  A *hero* must have saved his life.
 
   Le *héros* de ce roman est un personnage fascinant.
-  Der *Held* dieses Romans ist eine faszinierende Figur.
+  The *hero* of this novel is a fascinating figure.
 
   Les *héros* de la mythologie grecque ont accompli des exploits extraordinaires.
-  Die *Heroen* der griechischen Mythologie haben außergewöhnliche Taten vollbracht.
+  The heroes of Greek mythology have done extraordinary deeds.
 
   L'*héroïne* de ce film d'action est très courageuse.
-  Die *Heldin* dieses Actionfilms ist sehr mutig.
+  The heroine of this action film is very brave.
 
   Ma grand-mère était une *héroïne* de la Résistance.
-  Meine Großmutter war eine *Heldin* des Widerstands.
+  My grandmother was a hero of resistance.
 
   Il est devenu le *héros* du jour après avoir sauvé trois enfants d'un incendie.
-  Er wurde zum *Helden* des Tages, nachdem er drei Kinder aus einem Feuer gerettet hatte.
+  He became a hero of the day after he had rescued three children from a fire.
 
   Cette jeune sportive est devenue une *héroïne* nationale.
-  Diese junge Sportlerin ist zu einer National*heldin* geworden.
+  This young athlete has become a national *hero*.
 
   Les *héros* anonymes de cette catastrophe naturelle méritent notre respect.
-  Die anonymen *Helden* dieser Naturkatastrophe verdienen unseren Respekt.
+  The anonymous *heroes* of this natural disaster deserve our respect.
 
   Achille était le plus grand *héros* de la guerre de Troie.
-  Achilles war der größte *Held* des Trojanischen Krieges.
+  Achilles was the greatest *hero* of the Trojan War.
 
   Mon petit frère considère les pompiers comme des *héros*.
-  Mein kleiner Bruder sieht Feuerwehrleute als *Helden* an.
+  My little brother sees firefighters as *heroes*.
 
   L'*héroïne* principale de cette série est très attachante.
-  Die *Hauptperson* dieser Serie ist sehr liebenswert.
+  The main character of this series is very lovable.
 
   Les *héros* de la science ont changé notre monde.
-  Die *Helden* der Wissenschaft haben unsere Welt verändert.
+  The *heroes* of science have changed our world.
 
   Cette *héroïne* de roman a inspiré des générations de lectrices.
-  Diese Roman*heldin* hat Generationen von Leserinnen inspiriert.
+  This heroine has inspired generations of readers.
 
   Il est mort en *héros* en protégeant ses camarades.
-  Er starb als *Held*, als er seine Kameraden beschützte.
+  He died as a *hero* when he protected his comrades.
 
   Les *héros* de guerre oubliés reposent dans ce cimetière.
-  Die vergessenen Kriegs*helden* ruhen auf diesem Friedhof.
+  The forgotten war *heroes* are resting in this cemetery.
 
   L'*héroïne* du feuilleton judiciaire a finalement été acquittée.
-  Die *Hauptperson* des Gerichtskrimis wurde schließlich freigesprochen.
+  The main character of the court criminal was finally acquitted.
 
   Marie Curie est une véritable *héroïne* de la science.
-  Marie Curie ist eine wahre Wissenschafts*heldin*.
+  Marie Curie is a real science *hero*.
 
   Le petit garçon rêve de devenir un *héros* comme Superman.
-  Der kleine Junge träumt davon, ein *Held* wie Superman zu werden.
+  The little boy dreams of becoming a *hero* like Superman.
 
   Cette infirmière est devenue l'*héroïne* de la pandémie.
-  Diese Krankenschwester wurde zur *Heldin* der Pandemie.
+  This nurse became the hero of the pandemic.
 
   Guillaume Tell est considéré comme un *héros* national suisse.
-  Wilhelm Tell gilt als Schweizer National*held*.
+  Wilhelm Tell is considered a Swiss national *hero*.
 
   L'*héroïne* de cette pièce de théâtre est très complexe.
-  Die *Hauptfigur* dieses Theaterstücks ist sehr vielschichtig.
+  The *main character* of this play is very complex.
 
   Les *héros* de la foi ont souvent sacrifié leur vie pour leurs convictions.
-  Die Glaubens*helden* haben oft ihr Leben für ihre Überzeugungen geopfert.
+  The *heroes* of faith have often sacrificed their lives for their beliefs.
 
   Notre fils est fan des *héros* de cinéma d'action.
-  Unser Sohn ist ein Fan von Action*helden*.
+  Our son is a fan of action *heroes*.
 
   L'*héroïne* du moment fait la une des journaux.
-  Die *Heldin* der Stunde macht Schlagzeilen.
+  The heroine of the hour makes headlines.
 
   Les *héros* de Balzac représentent la société de leur époque.
-  Die *Hauptfiguren* Balzacs repräsentieren die Gesellschaft ihrer Zeit.
+  The *main characters* of Balzac represent the society of their time.
 
   Les vrais *héros* ne cherchent pas la gloire.
-  Wahre *Helden* suchen keinen Ruhm.
+  True *heroes* don't seek glory.
 
   Cette femme courageuse est l'*héroïne* de la fête d'aujourd'hui.
-  Diese mutige Frau ist die *Heldin* der heutigen Feier.
+  This brave woman is the hero of today's celebration.
 
   Les *héros* de cette légende ont des pouvoirs magiques.
-  Die *Helden* dieser Legende haben magische Kräfte.
+  The *heroes* of this legend have magical powers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

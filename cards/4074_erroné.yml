@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4074
 Wort: erroné
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: erroné
 Femininum / Plural: erronée
 IPA: \ɛ.ʁɔ.ne\
-Definition: fehlerhaft, falsch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: incorrect, wrong
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette idée est complètement *erronée*.
-  Diese Idee ist völlig *falsch*.
+  This idea is completely *wrong*.
 
   Les calculs du comptable étaient *erronés*.
-  Die Berechnungen des Buchhalters waren *fehlerhaft*.
+  The accountant's calculations were flawed.
 
   Le système ne fonctionne que de manière *erronée*.
-  Das System funktioniert nur *fehlerhaft*.
+  The system only works incorrectly.
 
   La citation dans son article est *erronée*.
-  Das Zitat in seinem Artikel ist *falsch*.
+  The quote in his article is *wrong*.
 
   Vos conclusions sur ce sujet sont *erronées*.
-  Ihre Schlussfolgerungen zu diesem Thema sind *irrig*.
+  Your conclusions on this subject are erroneous.
 
   Cette opinion largement répandue est *erronée*.
-  Diese weit verbreitete Meinung ist *falsch*.
+  This widespread opinion is *wrong*.
 
   La traduction automatique s'est avérée *erronée*.
-  Die automatische Übersetzung erwies sich als *fehlerhaft*.
+  The automatic translation proved to be *incorrect*.
 
   Cette information *erronée* s'est rapidement propagée sur Internet.
-  Diese *falsche* Information verbreitete sich schnell im Internet.
+  This *false* information spread quickly on the Internet.
 
   Le diagnostic initial était *erroné*.
-  Die erste Diagnose war *irrig*.
+  The first diagnosis was erroneous.
 
   Les données saisies sont *erronées*.
-  Die eingegebenen Daten sind *fehlerhaft*.
+  The data entered is *incorrect*.
 
   Cette théorie scientifique s'est révélée *erronée*.
-  Diese wissenschaftliche Theorie erwies sich als *falsch*.
+  This scientific theory proved to be *wrong*.
 
   L'interprétation *erronée* du texte a mené à un malentendu.
-  Die *fehlerhafte* Interpretation des Textes führte zu einem Missverständnis.
+  The erroneous interpretation of the text led to a misunderstanding.
 
   Notre hypothèse de départ était *erronée*.
-  Unsere Ausgangshypothese war *falsch*.
+  Our initial hypothesis was *wrong*.
 
   Le message *erroné* a été corrigé immédiatement.
-  Die *fehlerhafte* Nachricht wurde sofort korrigiert.
+  The incorrect message was corrected immediately.
 
   Cette perception *erronée* de la situation doit être rectifiée.
-  Diese *irrige* Wahrnehmung der Situation muss korrigiert werden.
+  This erroneous perception of the situation must be corrected.
 
   L'affichage *erroné* du prix a causé beaucoup de confusion.
-  Die *fehlerhafte* Preisanzeige hat viel Verwirrung gestiftet.
+  The incorrect price indication has caused a lot of confusion.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

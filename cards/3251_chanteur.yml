@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3251
 Wort: chanteur
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chanteur
 Femininum / Plural: chanteuse
 IPA: \ʃɑ̃.tœʁ\
-Definition: Sänger
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Singer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle réalisait son rêve. Elle était *chanteuse*.
-  Sie verwirklichte ihren Traum. Sie war *Sängerin*.
+  She realized her dream. She was a *singer*.
 
   Notre *chanteur* de charme préféré donnera un concert la semaine prochaine.
-  Unser liebster Schlager*sänger* wird nächste Woche ein Konzert geben.
+  Our favorite pop singer will give a concert next week.
 
   La *chanteuse* d'opéra s'entraîne six heures par jour.
-  Die Opern*sängerin* übt sechs Stunden am Tag.
+  The opera *singer* practices six hours a day.
 
   Le rossignol est un oiseau *chanteur* qui égaye nos soirées d'été.
-  Die Nachtigall ist ein *Sing*vogel, der unsere Sommerabende verschönert.
+  The nightingale is a songbird that embellishes our summer evenings.
 
   Ce jeune *chanteur* contestataire dénonce les injustices sociales dans ses textes.
-  Dieser junge Protest*sänger* prangert in seinen Texten soziale Ungerechtigkeiten an.
+  This young protest singer denounces social injustices in his texts.
 
   La *chanteuse* légère a impressionné le public avec ses vocalises.
-  Die Koloratur*sängerin* hat das Publikum mit ihren Koloraturen beeindruckt.
+  The coloratur *singer* impressed the audience with her coloratories.
 
   Les *chanteurs* amateurs de notre chorale se réunissent tous les mercredis.
-  Die Amateur*sänger* unseres Chors treffen sich jeden Mittwoch.
+  The amateur singers of our choir meet every Wednesday.
 
   Cette *chanteuse* réaliste raconte la vie des gens ordinaires dans ses chansons.
-  Diese Chanson*sängerin* erzählt in ihren Liedern vom Leben gewöhnlicher Menschen.
+  This chanson *singer* tells in her songs about the life of ordinary people.
 
   Le *chanteur* des rues a égayé toute la place du marché.
-  Der Straßen*sänger* hat den ganzen Marktplatz aufgeheitert.
+  The street singer cheered up the whole marketplace.
 
   Notre voisin est un *chanteur* de variétés très populaire à la télévision.
-  Unser Nachbar ist ein Schlager*sänger*, der im Fernsehen sehr beliebt ist.
+  Our neighbor is a pop singer who is very popular on TV.
 
   Les *chanteuses* de l'Opéra répètent la nouvelle production de Carmen.
-  Die *Sängerinnen* der Oper proben die neue Carmen-Produktion.
+  The singers of the opera rehearse the new Carmen production.
 
   Mon cousin est devenu *chanteur* professionnel après des années de formation.
-  Mein Cousin ist nach jahrelanger Ausbildung Professional*sänger* geworden.
+  My cousin became a professional singer after years of training.
 
   Marie est la meilleure *chanteuse* de notre groupe de rock.
-  Marie ist die beste *Sängerin* unserer Rockband.
+  Marie is the best *singer* of our rock band.
 
   Ces oiseaux *chanteurs* animent notre jardin chaque matin.
-  Diese *Sing*vögel beleben jeden Morgen unseren Garten.
+  These songbirds invigorate our garden every morning.
 
   La *chanteuse* populaire a vendu des millions d'albums cette année.
-  Die Pop*sängerin* hat dieses Jahr Millionen Alben verkauft.
+  The pop *singer* has sold millions of albums this year.
 
   Le *chanteur* d'opérette a une voix extraordinaire.
-  Der Operetten*sänger* hat eine außergewöhnliche Stimme.
+  The operetta singer has an extraordinary voice.
 
   Les jeunes *chanteurs* du conservatoire préparent leur premier récital.
-  Die jungen *Sänger* des Konservatoriums bereiten ihr erstes Recital vor.
+  The young singers of the conservatory prepare their first recital.
 
   Cette *chanteuse* de charme fait rêver son public depuis vingt ans.
-  Diese Schlager*sängerin* verzaubert ihr Publikum seit zwanzig Jahren.
+  This pop *singer* has enchanted her audience for twenty years.
 
   Tous les *chanteurs* et *chanteuses* se sont réunis pour un concert caritatif.
-  Alle *Sänger* und *Sängerinnen* haben sich für ein Wohltätigkeitskonzert zusammengetan.
+  All singers have joined forces for a charity concert.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

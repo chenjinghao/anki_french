@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4805
 Wort: raciste
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: raciste
 Femininum / Plural: ''
 IPA: \ʁa.sist\
-Definition: rassistisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: racist
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne tolère aucun comportement *raciste* à bord.
-  Ich dulde kein *rassistisches* Verhalten an Bord.
+  I don't tolerate *racist* behavior on board.
 
   Les propos *racistes* n'ont pas leur place dans notre société.
-  *Rassistische* Äußerungen haben keinen Platz in unserer Gesellschaft.
+  *Racist* statements have no place in our society.
 
   Cette idéologie *raciste* a causé beaucoup de souffrance.
-  Diese *rassistische* Ideologie hat viel Leid verursacht.
+  This *racist* ideology has caused a lot of suffering.
 
   Elle a été choquée par les commentaires *racistes* sur les réseaux sociaux.
-  Sie war schockiert von den *rassistischen* Kommentaren in den sozialen Medien.
+  She was shocked by the *racist* comments on social media.
 
   Le tribunal a condamné les actes *racistes* de l'accusé.
-  Das Gericht verurteilte die *rassistischen* Taten des Angeklagten.
+  The court condemned the defendant's *racist* actions.
 
   Un *raciste* ne changera pas d'avis facilement.
-  Ein *Rassist* wird seine Meinung nicht leicht ändern.
+  A racist won't change his mind easily.
 
   La *raciste* a été exclue du parti politique.
-  Die *Rassistin* wurde aus der politischen Partei ausgeschlossen.
+  The racist was expelled from the political party.
 
   Les théories *racistes* ont été largement discréditées par la science.
-  *Rassistische* Theorien wurden von der Wissenschaft weitgehend widerlegt.
+  *Racist* theories were largely refuted by science.
 
   Cette loi combat les discriminations *racistes* au travail.
-  Dieses Gesetz bekämpft *rassistische* Diskriminierung am Arbeitsplatz.
+  This law combats *racist* discrimination in the workplace.
 
   Les manifestants protestent contre la politique *raciste* du gouvernement.
-  Die Demonstranten protestieren gegen die *rassistische* Politik der Regierung.
+  The demonstrators protest against the government's *racist* policies.
 
   Cette entreprise a été accusée de pratiques *racistes* dans ses recrutements.
-  Diesem Unternehmen wurden *rassistische* Praktiken bei der Einstellung vorgeworfen.
+  This company has been accused of *racist* practices in recruitment.
 
   Les enfants ne naissent pas *racistes*, ils apprennent ces préjugés.
-  Kinder werden nicht als *Rassisten* geboren, sie lernen diese Vorurteile.
+  Children are not born racists, they learn these prejudices.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

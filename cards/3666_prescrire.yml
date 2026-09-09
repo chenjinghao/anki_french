@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3666
 Wort: prescrire
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prescrire
 Femininum / Plural: ''
 IPA: \pʁɛs.kʁiʁ\
-Definition: verschreiben, anordnen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: prescribe, order
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils *prescrivent* ces médicaments.
-  Sie *verschreiben* diese Medikamente.
+  You prescribe these drugs.
 
   Le médecin m'a *prescrit* des antibiotiques contre la bronchite.
-  Der Arzt hat mir Antibiotika gegen die Bronchitis *verordnet*.
+  The doctor *prescribed* me antibiotics for bronchitis.
 
   La loi *prescrit* que tous les enfants doivent aller à l'école.
-  Das Gesetz *schreibt* vor, dass alle Kinder zur Schule gehen müssen.
+  The law requires all children to go to school.
 
   Le règlement *prescrit* une tenue correcte dans l'établissement.
-  Die Hausordnung *schreibt* angemessene Kleidung in der Einrichtung vor.
+  The house rules prescribe adequate clothing in the facility.
 
   Le juge lui a *prescrit* de ne pas quitter le territoire.
-  Der Richter hat ihm *angeordnet*, das Land nicht zu verlassen.
+  The judge ordered him not to leave the country.
 
   Cette dette sera *prescrite* dans trois ans.
-  Diese Schuld wird in drei Jahren *verjährt* sein.
+  This debt will be barred in three years.
 
   Les antidouleurs se *prescrivent* uniquement sur ordonnance.
-  Schmerzmittel werden nur auf Rezept *verschrieben*.
+  Painkillers are *prescribed* only on prescription.
 
   L'honneur lui *prescrivait* de dire la vérité.
-  Die Ehre *verlangte* von ihm, die Wahrheit zu sagen.
+  The honor required him to tell the truth.
 
   Veuillez respecter le délai *prescrit* pour votre inscription.
-  Bitte halten Sie die *vorgeschriebene* Frist für Ihre Anmeldung ein.
+  Please comply with *the* prescribed time limit for your registration.
 
   Le docteur m'a *prescrit* du repos pendant une semaine.
-  Der Arzt hat mir eine Woche Ruhe *verordnet*.
+  The doctor ordered me to rest for a week.
 
   Ces droits se sont *prescrits* après trente ans.
-  Diese Rechte sind nach dreißig Jahren *verjährt*.
+  These rights are barred after thirty years.
 
   Ne dépassez pas la dose *prescrite* sur l'ordonnance.
-  Überschreiten Sie nicht die auf dem Rezept *verordnete* Dosis.
+  Do not exceed the prescribed dose.
 
   Le ministère a *prescrit* de nouvelles mesures sanitaires.
-  Das Ministerium hat neue Hygienemaßnahmen *angeordnet*.
+  The ministry has ordered new hygiene measures.
 
   La tradition nous *prescrit* certaines règles de politesse.
-  Die Tradition *schreibt* uns bestimmte Höflichkeitsregeln vor.
+  Tradition prescribes certain courtesy rules for us.
 
   Le manuel *prescrit* la méthode à suivre pour l'installation.
-  Das Handbuch *schreibt* die Installationsmethode vor.
+  The manual prescribes the installation method.
 
   Les démarches *prescrites* doivent être accomplies avant vendredi.
-  Die *vorgeschriebenen* Formalitäten müssen bis Freitag erledigt sein.
+  *The* prescribed formalities must be completed by Friday.
 
   Son avocat lui a *prescrit* de ne pas commenter l'affaire.
-  Sein Anwalt hat ihm *vorgeschrieben*, den Fall nicht zu kommentieren.
+  His lawyer told him not to comment on the case.
 
   Cette créance sera bientôt *prescrite*.
-  Diese Forderung wird bald *verjährt* sein.
+  This demand will soon be subject to a statute of limitations.
 
   Le protocole *prescrit* une désinfection quotidienne.
-  Das Protokoll *schreibt* eine tägliche Desinfektion vor.
+  The protocol prescribes a daily disinfection.
 
   Les exercices doivent être faits dans l'ordre *prescrit*.
-  Die Übungen müssen in der *vorgeschriebenen* Reihenfolge gemacht werden.
+  *The* exercises must be done in the prescribed order.
 
   La sécurité *prescrit* le port du casque sur ce chantier.
-  Die Sicherheit *schreibt* das Tragen eines Helms auf dieser Baustelle vor.
+  Safety requires wearing a helmet on this construction site.
 
   Le traitement qui lui a été *prescrit* dure trois mois.
-  Die Behandlung, die ihm *verschrieben* wurde, dauert drei Monate.
+  The treatment *prescribed* for him lasts three months.
 
   Ces anciennes dettes se sont *prescrites* depuis longtemps.
-  Diese alten Schulden sind seit langem *verjährt*.
+  This old debt has long been a statute of limitations.
 
   Le règlement *prescrit* une distance minimale de deux mètres.
-  Die Vorschrift *schreibt* einen Mindestabstand von zwei Metern vor.
+  The requirement requires a minimum distance of two metres.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

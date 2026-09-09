@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3657
 Wort: politiquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: politiquement
 Femininum / Plural: ''
 IPA: \pɔ.li.tik.mɑ̃\
-Definition: politisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: political
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est *politiquement* correct d'être anti-américain.
-  Es ist *politisch* korrekt, anti-amerikanisch zu sein.
+  It is politically correct to be anti-American.
 
   La situation est devenue *politiquement* instable après les élections.
-  Die Lage wurde nach den Wahlen *politisch* instabil.
+  The situation became politically unstable after the elections.
 
   Cette décision n'était pas *politiquement* viable à long terme.
-  Diese Entscheidung war langfristig *politisch* nicht tragbar.
+  This decision was politically unacceptable in the long term.
 
   Elle s'est *politiquement* engagée dès son plus jeune âge.
-  Sie hat sich von klein auf *politisch* engagiert.
+  She's been involved in politics from a young age.
 
   Le maire a agi très *politiquement* dans cette affaire délicate.
-  Der Bürgermeister ist in dieser heiklen Angelegenheit sehr *diplomatisch* vorgegangen.
+  The mayor has been very *diplomatic* in this delicate matter.
 
   Ces deux pays ne sont pas *politiquement* alignés sur cette question.
-  Diese beiden Länder sind in dieser Frage *politisch* nicht auf einer Linie.
+  These two countries are not on the same *political* line on this issue.
 
   Notre région est devenue *politiquement* autonome l'année dernière.
-  Unsere Region ist letztes Jahr *politisch* autonom geworden.
+  Our region became politically autonomous last year.
 
   Il se situe *politiquement* à gauche de son parti.
-  Er steht *politisch* links von seiner Partei.
+  He is politically left of his party.
 
   Le candidat a *politiquement* évolué au fil des années.
-  Der Kandidat hat sich im Laufe der Jahre *politisch* weiterentwickelt.
+  The candidate has developed politically over the years.
 
   Elle gère toujours *politiquement* les conflits au bureau.
-  Sie geht im Büro immer *diplomatisch* mit Konflikten um.
+  She always deals diplomatically with conflicts in the office.
 
   Les jeunes sont de plus en plus *politiquement* actifs.
-  Die Jugendlichen werden zunehmend *politisch* aktiv.
+  Young people are becoming increasingly politically active.
 
   Ce pays est maintenant *politiquement* indépendant.
-  Dieses Land ist jetzt *politisch* unabhängig.
+  This country is now politically independent.
 
   Il a *politiquement* manœuvré pour obtenir ce poste.
-  Er ist *diplomatisch* vorgegangen, um diese Position zu bekommen.
+  He went diplomatically to get this position.
 
   Ces réformes sont *politiquement* sensibles en ce moment.
-  Diese Reformen sind derzeit *politisch* heikel.
+  These reforms are currently politically sensitive.
 
   Le journal essaie de rester *politiquement* neutre.
-  Die Zeitung versucht, *politisch* neutral zu bleiben.
+  The newspaper is trying to remain politically neutral.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

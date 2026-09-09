@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4666
 Wort: préventif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: préventif
 Femininum / Plural: préventive
 IPA: \pʁe.vɑ̃.tif\
-Definition: vorbeugend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Preventive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les antibiotiques sont utilisés de façon *préventive*.
-  Antibiotika werden *vorbeugend* eingesetzt.
+  Antibiotics are used preventively.
 
   La médecine *préventive* joue un rôle crucial dans la santé publique.
-  Die *Präventiv*medizin spielt eine wichtige Rolle in der öffentlichen Gesundheit.
+  *Preventive* medicine plays an important role in public health.
 
   Notre entreprise a mis en place des mesures *préventives* contre le harcèlement.
-  Unser Unternehmen hat *vorbeugende* Maßnahmen gegen Belästigung eingeführt.
+  Our company has introduced *preventive* measures against harassment.
 
   Le suspect a été placé en *détention préventive* pendant l'enquête.
-  Der Verdächtige wurde während der Ermittlungen in *Untersuchungshaft* genommen.
+  The suspect was taken into custody during the investigation.
 
   Un traitement *préventif* contre la grippe est recommandé pour les personnes âgées.
-  Eine *vorbeugende* Behandlung gegen Grippe wird für ältere Menschen empfohlen.
+  *Preventive* treatment against influenza is recommended for the elderly.
 
   À titre *préventif*, nous avons annulé l'événement en plein air.
-  *Vorsorglich* haben wir die Veranstaltung im Freien abgesagt.
+  Precautionarily, we canceled the outdoor event.
 
   Les vaccins font partie des stratégies *préventives* les plus efficaces.
-  Impfungen gehören zu den wirksamsten *vorbeugenden* Strategien.
+  Vaccination is one of the most effective *preventive* strategies.
 
   Cette crème solaire a un effet *préventif* contre les coups de soleil.
-  Diese Sonnencreme hat eine *vorbeugende* Wirkung gegen Sonnenbrand.
+  This sunscreen has a *preventive* effect against sunburn.
 
   Le gouvernement a adopté une politique *préventive* en matière de cybersécurité.
-  Die Regierung hat eine *präventive* Politik im Bereich der Cybersicherheit eingeführt.
+  The government has introduced a *preventive* cybersecurity policy.
 
   Les contrôles *préventifs* des véhicules réduisent les accidents.
-  *Vorbeugende* Fahrzeugkontrollen reduzieren Unfälle.
+  Preventive vehicle controls reduce accidents.
 
   Une action *préventive* vaut mieux qu'une action curative.
-  *Vorbeugende* Maßnahmen sind besser als heilende.
+  *Preventive measures* are better than curative measures.
 
   Le juge a ordonné son placement en *prison préventive*.
-  Der Richter ordnete seine Unterbringung in *Untersuchungshaft* an.
+  The judge ordered his lodging in custody.
 
   Les exercices d'évacuation *préventifs* sont obligatoires dans les écoles.
-  *Vorbeugende* Evakuierungsübungen sind in Schulen obligatorisch.
+  Preventive evacuation exercises are mandatory in schools.
 
   La maintenance *préventive* prolonge la durée de vie des machines.
-  *Vorbeugende* Wartung verlängert die Lebensdauer der Maschinen.
+  Preventive maintenance extends the service life of the machines.
 
   Des mesures *préventives* ont été prises pour éviter la propagation du virus.
-  Es wurden *vorbeugende* Maßnahmen ergriffen, um die Ausbreitung des Virus zu verhindern.
+  *Preventive* measures have been taken to prevent the spread of the virus.
 
   Le centre de médecine *préventive* propose des examens de routine.
-  Das Zentrum für *Präventiv*medizin bietet Routineuntersuchungen an.
+  The Centre for *Preventive* Medicine offers routine examinations.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

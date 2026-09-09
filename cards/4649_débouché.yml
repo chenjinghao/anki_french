@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4649
 Wort: débouché
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le débouché
 Femininum / Plural: ''
 IPA: \de.bu.ʃe\
-Definition: Zugang; Absatzmarkt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Access; market
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il existe de nombreux *débouchés* dans plusieurs branches.
-  Es gibt viele berufliche *Aussichten* in verschiedenen Branchen.
+  There are many career *prospects* in different sectors.
 
   Les *débouchés* pour les jeunes diplômés sont très prometteurs cette année.
-  Die beruflichen *Perspektiven* für junge Absolventen sind dieses Jahr sehr vielversprechend.
+  The career prospects for young graduates are very promising this year.
 
   Notre entreprise cherche de nouveaux *débouchés* à l'étranger.
-  Unser Unternehmen sucht neue *Absatzmärkte* im Ausland.
+  Our company is looking for new *markets* abroad.
 
   Le *débouché* de la vallée offre une vue magnifique sur le lac.
-  Die *Mündung* des Tals bietet einen wunderschönen Blick auf den See.
+  The mouth of the valley offers a beautiful view of the lake.
 
   La rivière trouve son *débouché* dans l'océan Atlantique.
-  Der Fluss hat seine *Mündung* im Atlantischen Ozean.
+  The river has its mouth in the Atlantic Ocean.
 
   Ces produits ont des *débouchés* restreints en Europe.
-  Diese Produkte haben einen begrenzten *Absatzmarkt* in Europa.
+  These products have a limited *market* in Europe.
 
   Au *débouché* de la forêt se trouve un petit village pittoresque.
-  Am *Ausgang* des Waldes liegt ein malerisches kleines Dorf.
+  At the exit of the forest there is a picturesque little village.
 
   Ce master offre d'excellents *débouchés* dans le secteur informatique.
-  Dieser Master bietet ausgezeichnete berufliche *Perspektiven* im IT-Bereich.
+  This master's degree offers excellent professional *perspectives* in the IT field.
 
   Le pont marque le *débouché* principal vers le centre-ville.
-  Die Brücke markiert den wichtigsten *Zugang* zur Innenstadt.
+  The bridge marks the most important *access* to the city centre.
 
   Faute de *débouchés*, l'usine a dû fermer ses portes.
-  Aufgrund fehlender *Absatzmöglichkeiten* musste die Fabrik schließen.
+  The factory had to close due to lack of *sales opportunities*.
 
   Les *débouchés* commerciaux varient selon les régions.
-  Die Absatz*märkte* unterscheiden sich je nach Region.
+  Sales *markets* vary according to region.
 
   La Suisse trouve un *débouché* naturel vers l'Italie par le tunnel du Gothard.
-  Die Schweiz hat durch den Gotthard-Tunnel einen natürlichen *Zugang* nach Italien.
+  Switzerland has a natural *access* to Italy through the Gotthard tunnel.
 
   Le *débouché* de la rue donne sur la place centrale.
-  Die Straße *mündet* in den zentralen Platz.
+  The street *flows* into the central square.
 
   Cette formation garantit des *débouchés* intéressants dans plusieurs domaines.
-  Diese Ausbildung garantiert interessante berufliche *Perspektiven* in mehreren Bereichen.
+  This training guarantees interesting career prospects in several areas.
 
   L'entreprise a trouvé de nouveaux *débouchés* grâce au commerce en ligne.
-  Das Unternehmen hat durch den Online-Handel neue *Absatzmärkte* gefunden.
+  The company has found new *markets* through online trading.
 
   Le *débouché* du canal facilite la navigation des bateaux.
-  Die *Einmündung* des Kanals erleichtert die Schifffahrt.
+  The estuary of the canal facilitates shipping.
 
   Les architectes trouvent des *débouchés* variés dans le secteur privé.
-  Architekten finden vielfältige berufliche *Perspektiven* im privaten Sektor.
+  Architects find diverse professional *perspectives* in the private sector.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

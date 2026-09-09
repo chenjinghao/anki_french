@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2194
 Wort: voyager
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: voyager
 Femininum / Plural: ''
 IPA: \vwa.ja.ʒe\
-Definition: reisen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: travel
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ça m'apprendra à *voyager* en classe éco.
-  Das wird mich lehren, in der Economy Class zu *reisen*.
+  This will teach me to *travel* in Economy Class.
 
   Elle adore *voyager* à l'étranger pendant ses vacances.
-  Sie liebt es, während ihrer Ferien ins Ausland zu *reisen*.
+  She loves to *travel* abroad during her holidays.
 
   Ces fruits ne peuvent pas *voyager* longtemps sans réfrigération.
-  Diese Früchte können nicht lange ohne Kühlung *transportiert* werden.
+  These fruits cannot be *transported* for long without cooling.
 
   Mon grand-père a beaucoup *voyagé* dans sa jeunesse.
-  Mein Großvater ist in seiner Jugend viel *herumgekommen*.
+  My grandfather has been around a lot in his youth.
 
   Il *voyage* pour une entreprise de cosmétiques.
-  Er ist *Handelsreisender* für eine Kosmetikfirma.
+  He's a trade traveler for a cosmetics company.
 
   Nous préférons *voyager* en train plutôt qu'en avion.
-  Wir *reisen* lieber mit dem Zug als mit dem Flugzeug.
+  We'd rather *travel* by train than by plane.
 
   Ces marchandises *voyagent* mal en été.
-  Diese Waren lassen sich im Sommer schlecht *transportieren*.
+  These goods are difficult to *transport* in the summer.
 
   La maladie ne l'empêche pas de *voyager*.
-  Die Krankheit hält sie nicht vom *Reisen* ab.
+  The disease does not prevent them from travelling.
 
   Je rêve de *voyager* autour du monde un jour.
-  Ich träume davon, eines Tages um die Welt zu *reisen*.
+  I dream of traveling around the world one day.
 
   Les légumes frais doivent *voyager* dans des conditions optimales.
-  Frisches Gemüse muss unter optimalen Bedingungen *befördert* werden.
+  Fresh vegetables must be *transported* under optimal conditions.
 
   Elle *voyage* toujours en première classe.
-  Sie *reist* immer erster Klasse.
+  She always *travels* first class.
 
   L'envie de *voyager* ne m'a jamais quitté.
-  Die *Reise*lust hat mich nie verlassen.
+  The desire for *travel* never left me.
 
   Ces bouteilles de vin peuvent *voyager* sans risque.
-  Diese Weinflaschen können ohne Risiko *transportiert* werden.
+  These wine bottles can be *transported* without risk.
 
   Ils ont *voyagé* pendant trois mois en Asie.
-  Sie sind drei Monate durch Asien *gereist*.
+  They *traveled* through Asia for three months.
 
   Pierre *voyage* beaucoup pour son travail.
-  Pierre muss für seine Arbeit viel *reisen*.
+  Pierre has to *travel* a lot for his work.
 
   Les spécialités locales ne *voyagent* pas toujours bien.
-  Lokale Spezialitäten lassen sich nicht immer gut *transportieren*.
+  Local specialties are not always easy to *transport*.
 
   Ma sœur *voyage* régulièrement en Europe pour ses études.
-  Meine Schwester *reist* regelmäßig für ihr Studium durch Europa.
+  My sister regularly *travels* through Europe for her studies.
 
   J'aimerais *voyager* plus souvent si j'en avais les moyens.
-  Ich würde gerne öfter *reisen*, wenn ich die Mittel dazu hätte.
+  I'd like to *travel* more often if I had the means.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

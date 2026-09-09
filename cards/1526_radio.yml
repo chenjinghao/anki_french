@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1526
 Wort: radio
 Wortart: nf, nm, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la radio
 Femininum / Plural: ''
 IPA: \ʁa.djo\
 Definition: Radio
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'éteins mon émetteur *radio*.
-  Ich schalte meinen *Funk*sender aus.
+  I'm turning off my *radio*.
 
   Je passe mon temps à écouter la *radio*.
-  Ich verbringe meine Zeit damit, *Radio* zu hören.
+  I spend my time listening to the *radio*.
 
   Le médecin m'a conseillé de faire une *radio* du genou.
-  Der Arzt hat mir geraten, eine *Röntgenaufnahme* vom Knie machen zu lassen.
+  The doctor advised me to have an *X-ray* taken from the knee.
 
   Le pilote attend les instructions par *radio*.
-  Der Pilot wartet auf Anweisungen über *Funk*.
+  The pilot is waiting for instructions on the *radio*.
 
   Cette nouvelle chanson passe souvent à la *radio*.
-  Dieses neue Lied kommt oft im *Radio*.
+  This new song often comes on the *radio*.
 
   Le *radio* du navire a envoyé un signal de détresse.
-  Der *Funker* des Schiffes hat ein Notsignal gesendet.
+  The ship's radio operator sent an emergency signal.
 
   La *radio* locale diffuse les informations météorologiques.
-  Der Regional*sender* überträgt die Wettervorhersage.
+  The regional station transmits the weather forecast.
 
   Les communications *radio* ont été interrompues pendant l'orage.
-  Der *Funk*verkehr wurde während des Gewitters unterbrochen.
+  *Radio* traffic was interrupted during the thunderstorm.
 
   Cette petite *radio* fonctionne avec des piles.
-  Dieses kleine *Radio* läuft mit Batterien.
+  This little *radio* is running on batteries.
 
   La *radio* libre diffuse de la musique alternative.
-  Das freie *Radio* sendet alternative Musik.
+  The free *radio* broadcasts alternative music.
 
   Le message *radio* n'était pas très clair.
-  Der *Funk*spruch war nicht sehr deutlich.
+  The *radio* was not very clear.
 
   Ma grand-mère allume toujours sa *radio* le matin.
-  Meine Großmutter schaltet morgens immer ihr *Radio* an.
+  My grandmother always turns on her *radio* in the morning.
 
   Les ondes *radio* permettent la transmission du son.
-  *Funk*wellen ermöglichen die Übertragung von Ton.
+  *Radio* waves enable the transmission of sound.
 
   La *radio* numérique offre une meilleure qualité sonore.
-  Das Digital*radio* bietet eine bessere Tonqualität.
+  The digital *radio* offers a better sound quality.
 
   Le dentiste examine la *radio* de mes dents.
-  Der Zahnarzt untersucht die *Röntgenaufnahme* meiner Zähne.
+  The dentist's checking the *x-ray* of my teeth.
 
   La voiture *radio* de la police patrouille dans les rues.
-  Der *Funk*wagen der Polizei patrouilliert durch die Straßen.
+  The police's *radio* car patrols the streets.
 
   Cette *radio* privée emploie dix journalistes.
-  Dieser private *Sender* beschäftigt zehn Journalisten.
+  This private station employs ten journalists.
 
   Le *radio* de l'avion vérifie la météo.
-  Der *Funker* des Flugzeugs überprüft das Wetter.
+  The plane's radio operator is checking the weather.
 
   Les liaisons *radio* sont essentielles en mer.
-  *Funk*verbindungen sind auf See unverzichtbar.
+  *Radio* communications are indispensable at sea.
 
   Cette émission de *radio* est diffusée en direct.
-  Diese *Radio*sendung wird live übertragen.
+  This *radio* show is broadcast live.
 
   La station de *radio* organise un concours.
-  Der *Radio*sender veranstaltet ein Gewinnspiel.
+  The *radio* station is holding a competition.
 
   L'hôpital a un service de *radio*.
-  Das Krankenhaus hat eine *Röntgen*abteilung.
+  The hospital has an *X-ray* department.
 
   La *radio* du taxi grésille constamment.
-  Das *Funkgerät* des Taxis rauscht ständig.
+  The cab's *radio* is always rushing.
 
   Les soldats maintiennent un silence *radio* total.
-  Die Soldaten halten absolutes *Funk*schweigen.
+  The soldiers keep absolute *radio* silence.
 
   Une nouvelle *radio* locale s'est installée dans notre ville.
-  Ein neuer lokaler *Radiosender* hat sich in unserer Stadt niedergelassen.
+  A new local radio station has settled in our city.
 
   Mon téléphone peut capter la *radio*.
-  Mein Handy kann *Radio* empfangen.
+  My cell phone can be on the *radio*.
 
   Les pompiers communiquent par *radio*.
-  Die Feuerwehrleute kommunizieren über *Funk*.
+  The firefighters are communicating by *radio*.
 
   Le bruit de la *radio* m'empêche de dormir.
-  Der Lärm des *Radios* hält mich vom Schlafen ab.
+  The noise of the radio keeps me from sleeping.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

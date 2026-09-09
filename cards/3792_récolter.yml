@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3792
 Wort: récolter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: récolter
 Femininum / Plural: ''
 IPA: \ʁe.kɔl.te\
-Definition: ernten, sammeln
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: harvest, collect
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *récolte* en permanence les histoires des gens.
-  Ich *sammle* ständig die Geschichten der Menschen.
+  I keep collecting people's stories.
 
   Les agriculteurs *récolteront* le blé la semaine prochaine.
-  Die Bauern werden den Weizen nächste Woche *ernten*.
+  The farmers will *harvest* the wheat next week.
 
   "Tu vas *récolter* des ennuis si tu continues comme ça !"
-  "Du wirst nur Ärger *bekommen*, wenn du so weitermachst!"
+  "You'll only *get* in trouble if you keep doing that!"
 
   Ces fraises se *récoltent* au début de l'été.
-  Diese Erdbeeren werden Anfang Sommer *geerntet*.
+  These strawberries are *harvested* in early summer.
 
   Mon grand-père a *récolté* trois tonnes de pommes dans son verger.
-  Mein Großvater hat drei Tonnen Äpfel in seinem Obstgarten *geerntet*.
+  My grandfather has *harvested* three tons of apples in his orchard.
 
   La police *récolte* des indices sur la scène du crime.
-  Die Polizei *sammelt* Beweise am Tatort.
+  The police are collecting evidence at the crime scene.
 
   Elle a *récolté* beaucoup de compliments pour sa présentation.
-  Sie hat viel Lob für ihre Präsentation *geerntet*.
+  She has won a lot of praise for her presentation.
 
   Les pêcheurs *récoltent* les huîtres pendant la marée basse.
-  Die Fischer *sammeln* die Austern bei Ebbe.
+  The fishermen *collect* the oysters at low tide.
 
   Qui sème le vent *récolte* la tempête.
-  Wer Wind sät, wird Sturm *ernten*.
+  He who sows wind will reap storms.
 
   Notre équipe a *récolté* de nombreux succès cette année.
-  Unser Team hat dieses Jahr viele Erfolge *erzielt*.
+  Our team has *achieved* many successes this year.
 
   Il faut *récolter* les tomates avant les premières gelées.
-  Man muss die Tomaten vor dem ersten Frost *ernten*.
+  You have to *harvest* the tomatoes before the first frost.
 
   Les bénévoles *récoltent* des dons pour les sans-abri.
-  Die Freiwilligen *sammeln* Spenden für die Obdachlosen.
+  The volunteers are collecting donations for the homeless.
 
   Tu vas finir par *récolter* ce que tu as semé !
-  Du wirst am Ende *ernten*, was du gesät hast!
+  You'll eventually reap what you sow!
 
   Le cambrioleur a *récolté* deux ans de prison.
-  Der Einbrecher hat zwei Jahre Gefängnis *bekommen*.
+  The burglar got two years in prison.
 
   Les chercheurs *récoltent* des données sur le comportement des oiseaux.
-  Die Forscher *tragen* Daten über das Verhalten der Vögel *zusammen*.
+  The researchers collect data on the behaviour of birds.
 
   Le coton se *récolte* à la main dans cette région.
-  Die Baumwolle wird in dieser Region von Hand *geerntet*.
+  The cotton is *harvested* by hand in this region.
 
   Marie a *récolté* une contravention pour excès de vitesse.
-  Marie hat einen Strafzettel wegen zu schnellen Fahrens *bekommen*.
+  Marie got a ticket for driving too fast.
 
   Nous avons *récolté* tous les documents nécessaires pour le dossier.
-  Wir haben alle notwendigen Dokumente für die Akte *zusammengetragen*.
+  We have compiled all the necessary documents for the file.
 
   Les vignerons *récoltent* le raisin à l'aube.
-  Die Winzer *ernten* die Trauben bei Tagesanbruch.
+  The winegrowers *harvest* the grapes at dawn.
 
   "J'ai *récolté* pas mal de coups pendant le match de boxe."
-  "Ich habe während des Boxkampfes ziemlich viele Schläge *eingesteckt*."
+  "I've taken a lot of punches during the boxing match."
 
   Son nouveau livre *récolte* beaucoup de critiques positives.
-  Sein neues Buch *erntet* viel positives Feedback.
+  His new book receives a lot of positive feedback.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 605
 Wort: durer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: durer
 Femininum / Plural: ''
 IPA: \dy.ʁe\
-Definition: dauern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: last
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Voilà quinze jours que ça *dure*.
-  Das *dauert* jetzt schon seit zwei Wochen.
+  It's been two weeks.
 
   La réunion a *duré* trois heures.
-  Die Sitzung hat drei Stunden *gedauert*.
+  The meeting took three hours.
 
   La tempête va *durer* toute la nuit.
-  Der Sturm wird die ganze Nacht *anhalten*.
+  The storm will *stop* all night.
 
   Cette robe m'a *duré* cinq ans.
-  Dieses Kleid hat fünf Jahre *gehalten*.
+  This dress has *held* for five years.
 
   Leur amitié n'a pas *duré* longtemps.
-  Ihre Freundschaft hat nicht lange *gedauert*.
+  Your friendship didn't last long.
 
   Cette table est faite pour *durer*.
-  Dieser Tisch ist *haltbar* gemacht.
+  This table is preserved.
 
   Le spectacle *durera* jusqu'à minuit.
-  Die Show wird bis Mitternacht *dauern*.
+  The show will *last* until midnight.
 
   Il faut faire *durer* le plaisir.
-  Man muss die Freude *aufrechterhalten*.
+  You have to maintain the joy.
 
   "Ça *durera* ce que ça *durera*!"
-  "Das wird *halten*, solange es *hält*!"
+  "This will hold as long as it holds!"
 
   Le beau temps ne va pas *durer*.
-  Das schöne Wetter wird nicht *anhalten*.
+  The fine weather won't *stop*.
 
   Cette situation ne peut plus *durer*.
-  Diese Situation kann nicht mehr *andauern*.
+  This situation can no longer *continue*.
 
   La période des examens *dure* deux semaines.
-  Die Prüfungszeit *dauert* zwei Wochen.
+  The examination period *lasts* two weeks.
 
   Cette mode ne va pas *durer* longtemps.
-  Dieser Trend wird sich nicht lange *halten*.
+  This trend will not last long.
 
   Les batteries *durent* environ trois ans.
-  Die Batterien *halten* ungefähr drei Jahre.
+  The batteries last about three years.
 
   La fièvre *dure* depuis hier soir.
-  Das Fieber *hält* seit gestern Abend *an*.
+  The fever's stopped since last night.
 
   Combien de temps la séance va-t-elle *durer*?
-  Wie lange wird die Sitzung *dauern*?
+  How long will the meeting take?
 
   Notre histoire d'amour a *duré* cinq ans.
-  Unsere Liebesgeschichte hat fünf Jahre *gedauert*.
+  Our love story took five years.
 
   Ces chaussures ne vont pas *durer* longtemps.
-  Diese Schuhe werden nicht lange *halten*.
+  These shoes won't last long.
 
   Le concert a *duré* plus longtemps que prévu.
-  Das Konzert hat länger *gedauert* als geplant.
+  The concert took longer than planned.
 
   Le film *dure* deux heures et demie.
-  Der Film *dauert* zweieinhalb Stunden.
+  The film *lasts* two and a half hours.
 
   Cette conversation a assez *duré*.
-  Dieses Gespräch hat lange genug *gedauert*.
+  This conversation took long enough.
 
   Ces meubles sont conçus pour *durer*.
-  Diese Möbel sind auf *Haltbarkeit* ausgelegt.
+  These furniture are designed for durability.
 
   Le malentendu a trop *duré*.
-  Das Missverständnis hat zu lange *gedauert*.
+  The misunderstanding took too long.
 
   La pluie va *durer* toute la semaine.
-  Der Regen wird die ganze Woche *anhalten*.
+  The rain will last all week.
 
   La pause *dure* quinze minutes.
-  Die Pause *dauert* fünfzehn Minuten.
+  The break *lasts* fifteen minutes.
 
   Le silence entre nous a *duré* une éternité.
-  Das Schweigen zwischen uns hat eine Ewigkeit *gedauert*.
+  The silence between us took forever.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

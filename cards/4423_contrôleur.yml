@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4423
 Wort: contrôleur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le contrôleur
 Femininum / Plural: ''
 IPA: \kɔ̃.tʁo.lœʁ\
-Definition: Kontrolleur
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Controller
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *contrôleurs* en grève ont obtenu jeudi soir satisfaction.
-  Die streikenden *Kontrolleure* haben am Donnerstagabend ihre Forderungen durchgesetzt.
+  The striking *controllers* enforced their demands on Thursday night.
 
   Le *contrôleur* n'est pas encore passé dans notre wagon.
-  Der *Schaffner* ist noch nicht durch unseren Waggon gekommen.
+  The *conductor* hasn't come through our wagon yet.
 
   Un *contrôleur* de bus m'a demandé mon ticket ce matin.
-  Ein Bus*kontrolleur* hat heute Morgen nach meinem Fahrschein gefragt.
+  A bus inspector asked for my ticket this morning.
 
   La *contrôleuse* du tram a été très gentille avec les personnes âgées.
-  Die Straßenbahn*schaffnerin* war sehr freundlich zu den älteren Menschen.
+  The tram operator was very friendly to the elderly.
 
   Notre entreprise cherche un nouveau *contrôleur de gestion*.
-  Unser Unternehmen sucht einen neuen *Controller*.
+  Our company is looking for a new *controller*.
 
   Le *contrôleur* des marchandises a découvert plusieurs défauts.
-  Der Waren*prüfer* hat mehrere Mängel entdeckt.
+  The goods inspector has discovered several defects.
 
   Les *contrôleurs de la navigation aérienne* sont en formation continue.
-  Die *Fluglotsen* befinden sich in ständiger Weiterbildung.
+  The *air traffic controllers* are in constant training.
 
   Ce *contrôleur* de température est très précis.
-  Dieses Temperatur*messgerät* ist sehr genau.
+  This temperature meter is very accurate.
 
   La *contrôleuse* des impôts a examiné tous nos documents.
-  Die Steuer*prüferin* hat alle unsere Unterlagen geprüft.
+  The tax inspector checked all our records.
 
   Le *contrôleur* des douanes a confisqué les marchandises illégales.
-  Der Zoll*kontrolleur* hat die illegalen Waren beschlagnahmt.
+  The customs inspector confiscated the illegal goods.
 
   Les *contrôleurs aériens* surveillent attentivement le trafic.
-  Die *Fluglotsen* überwachen aufmerksam den Verkehr.
+  *Air traffic controllers* are monitoring traffic closely.
 
   Notre nouveau *contrôleur* de vitesse affiche les données en temps réel.
-  Unser neues Geschwindigkeits*messgerät* zeigt die Daten in Echtzeit an.
+  Our new speed meter shows the data in real time.
 
   Le *contrôleur* de nuit fait sa ronde toutes les heures.
-  Der Nacht*wächter* macht stündlich seine Runde.
+  The night watchman makes his rounds every hour.
 
   La *contrôleuse* technique a validé l'installation.
-  Die technische *Prüferin* hat die Installation abgenommen.
+  The technical *examiner* has removed the installation.
 
   Les *contrôleurs* financiers examinent les comptes de l'entreprise.
-  Die Finanz*prüfer* untersuchen die Unternehmenskonten.
+  The auditors examine the corporate accounts.
 
   Un *contrôleur* externe vérifiera nos processus la semaine prochaine.
-  Ein externer *Prüfer* wird nächste Woche unsere Prozesse überprüfen.
+  An external examiner will review our processes next week.
 
   Le *contrôleur* de pression s'est déclenché pendant la nuit.
-  Der Druck*messer* wurde in der Nacht ausgelöst.
+  The pressure gauge was triggered at night.
 
   La *contrôleuse* des contributions a programmé un rendez-vous.
-  Die Steuer*prüferin* hat einen Termin angesetzt.
+  The tax inspector has set an appointment.
 
   Le *contrôleur* électronique surveille la qualité de production.
-  Das elektronische *Prüfgerät* überwacht die Produktionsqualität.
+  The electronic test device monitors the production quality.
 
   Les *contrôleurs de gestion* préparent le budget annuel.
-  Die *Controller* bereiten das Jahresbudget vor.
+  The controllers are preparing the annual budget.
 
   Notre *contrôleur* de rondes enregistre chaque passage.
-  Unser Runden*kontrollgerät* erfasst jeden Durchgang.
+  Our lap *control device* records every pass.
 
   Le *contrôleur* d'État supervise les dépenses publiques.
-  Der staatliche *Kontrolleur* überwacht die öffentlichen Ausgaben.
+  The state inspector supervises public expenditure.
 
   La *contrôleuse* des chemins de fer nous a aidés à trouver nos places.
-  Die *Schaffnerin* hat uns geholfen, unsere Plätze zu finden.
+  The conductor helped us find our places.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 233
 Wort: aujourd’hui
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: aujourd’hui
 Femininum / Plural: ''
 IPA: \o.ʒuʁ.d‿ɥi\
-Definition: heute
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: today
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je peux, *aujourd'hui* encore, en réciter.
-  Ich kann es auch *heute* noch aufsagen.
+  I can still say it *today*.
 
   Quel jour sommes-nous *aujourd'hui* ?
-  Den wievielten haben wir *heute*?
+  How many do we have *today*?
 
   Le pain *d'aujourd'hui* est encore chaud.
-  Das *heutige* Brot ist noch warm.
+  *Today's* bread is still warm.
 
   *À partir d'aujourd'hui*, je vais faire plus de sport.
-  *Ab heute* werde ich mehr Sport treiben.
+  I'm going to do more exercise *from today*.
 
   *Dès aujourd'hui*, nous changeons nos habitudes.
-  *Gleich heute* ändern wir unsere Gewohnheiten.
+  *Right now*, we're changing our habits.
 
   Il y a *aujourd'hui* huit jours que Marie est partie en vacances.
-  *Heute* vor acht Tagen ist Marie in den Urlaub gefahren.
+  *Today*, eight days ago, Marie went on vacation.
 
   On se revoit *aujourd'hui* en huit !
-  Wir sehen uns *heute* in acht Tagen wieder!
+  I'll see you again in eight days.
 
   Les jeunes *d'aujourd'hui* passent beaucoup de temps sur leurs téléphones.
-  Die Jugendlichen von *heute* verbringen viel Zeit an ihren Handys.
+  *Today*'s youths spend a lot of time on their cell phones.
 
   "*Au jour d'aujourd'hui*, tout est devenu si cher !"
-  "*Heutzutage* ist alles so teuer geworden!"
+  "Nowadays everything has become so expensive!"
 
   Il ne viendra pas *aujourd'hui*.
-  Er wird *heute* nicht kommen.
+  He's not coming *today*.
 
   La France *d'aujourd'hui* n'est plus celle d'hier.
-  Das Frankreich von *heute* ist nicht mehr das von gestern.
+  *Today*'s France is no longer yesterday's.
 
   Il arrive *aujourd'hui* à midi.
-  Er kommt *heute* um zwölf an.
+  He's arriving at noon *today*.
 
   J'ai beaucoup de travail *aujourd'hui*.
-  Ich habe *heute* viel Arbeit.
+  I've got a lot of work to do *today*.
 
   Ce n'est pas *d'aujourd'hui* que nous nous connaissons.
-  Wir kennen uns nicht erst seit *heute*.
+  We haven't known each other since *today*.
 
   La journée *d'aujourd'hui* est plus belle que celle d'hier.
-  Der *heutige* Tag ist schöner als der gestrige.
+  Today is more beautiful than yesterday.
 
   "C'est pour *aujourd'hui* ou pour demain ?"
-  "Wird das *heute* noch was oder erst morgen?"
+  "Is this going to be something *today* or tomorrow?"
 
   *Aujourd'hui*, elle veut une chose, demain elle en voudra une autre.
-  *Heute* will sie das eine, morgen wird sie etwas anderes wollen.
+  *Today* she wants the one, tomorrow she'll want something else.
 
   Nous avons tout l'*aujourd'hui* pour régler cette affaire.
-  Wir haben den ganzen *heutigen* Tag Zeit, diese Sache zu regeln.
+  We've got time to settle this all day.
 
   L'exercice *d'aujourd'hui* est plus facile que celui d'hier.
-  Die *heutige* Übung ist leichter als die gestrige.
+  *Today's* exercise is easier than yesterday's.
 
   *Aujourd'hui*, il fait particulièrement chaud.
-  *Heute* ist es besonders heiß.
+  It's hot *today*.
 
   Jusqu'*aujourd'hui*, personne n'avait remarqué cette erreur.
-  Bis *heute* hatte niemand diesen Fehler bemerkt.
+  Until *today*, no one had noticed this mistake.
 
   C'est tout pour *aujourd'hui*.
-  Das war's für *heute*.
+  That's it for *today*.
 
   Les modes *d'aujourd'hui* changent très vite.
-  Die *heutigen* Moden ändern sich sehr schnell.
+  *Today's* fashions change very quickly.
 
   *Aujourd'hui* qu'il est riche, il ne nous parle plus.
-  *Jetzt*, wo er reich ist, spricht er nicht mehr mit uns.
+  *Now* that he's rich, he's not talking to us anymore.
 
   Ce qui était normal hier ne l'est plus *aujourd'hui*.
-  Was gestern normal war, ist es *heute* nicht mehr.
+  What was normal yesterday, it's not *today*.
 
   Nous vivons *aujourd'hui* dans un monde numérique.
-  Wir leben *heute* in einer digitalen Welt.
+  *Today* we live in a digital world.
 
   "*Au jour d'aujourd'hui*, on ne peut plus faire confiance à personne !"
-  "*Heutzutage* kann man niemandem mehr vertrauen!"
+  "Nowadays, you can't trust anyone anymore!"
 
   L'horaire *d'aujourd'hui* a été modifié.
-  Der *heutige* Zeitplan wurde geändert.
+  *Today's* schedule has been changed.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

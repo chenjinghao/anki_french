@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3950
 Wort: humour
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un humour
 Femininum / Plural: ''
 IPA: \y.muʁ\
 Definition: Humor
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Sans *humour*, tu ne survis pas.
-  Ohne *Humor* überlebst du nicht.
+  You won't survive without *humor*.
 
   Son *humour* noir surprend toujours ses amis.
-  Sein schwarzer *Humor* überrascht seine Freunde immer wieder.
+  His black *humor* always surprises his friends.
 
   Elle a vraiment le sens de l'*humour*, même dans les situations difficiles.
-  Sie hat wirklich *Humor*, selbst in schwierigen Situationen.
+  She's got a real sense of *humor*, even in difficult situations.
 
   "Arrête de faire de l'*humour*, c'est sérieux!"
-  "Hör auf *Witze* zu machen, das ist ernst!"
+  "Stop joking, it's serious!"
 
   Pierre manque complètement d'*humour* - il ne rit jamais de lui-même.
-  Pierre hat überhaupt keinen *Humor* - er lacht nie über sich selbst.
+  Pierre has no sense of *humor* at all - he never laughs at himself.
 
   L'*humour* britannique peut être difficile à comprendre pour les étrangers.
-  Der britische *Humor* kann für Ausländer schwer zu verstehen sein.
+  British *humor* can be difficult for foreigners to understand.
 
   Il raconte toujours ses histoires avec beaucoup d'*humour*.
-  Er erzählt seine Geschichten immer sehr *humorvoll*.
+  He always tells his stories very *humorous*.
 
   Je n'ai pas été sensible à l'*humour* de la situation.
-  Ich konnte dem *Humor* der Situation nichts abgewinnen.
+  I couldn't get away with the *humor* of the situation.
 
   Son *humour* subtil fait d'elle une excellente conférencière.
-  Ihr feinsinniger *Humor* macht sie zu einer ausgezeichneten Rednerin.
+  Her subtle *humor* makes her an excellent speaker.
 
   Ces dessins sont pleins d'*humour*.
-  Diese Zeichnungen sind voller *Humor*.
+  These drawings are full of *humor*.
 
   Marie a raconté sa mésaventure avec une pointe d'*humour*.
-  Marie erzählte ihr Missgeschick mit einem Hauch von *Humor*.
+  Marie told her misadventure with a hint of *humor*.
 
   L'*humour* peut nous aider à surmonter les moments difficiles.
-  *Humor* kann uns helfen, schwere Zeiten zu überstehen.
+  *Humor* can help us to survive difficult times.
 
   Son sens de l'*humour* la rend très populaire au bureau.
-  Ihr *Humor* macht sie im Büro sehr beliebt.
+  Her *humor* makes her very popular in the office.
 
   Il utilise l'*humour* comme mécanisme de défense.
-  Er benutzt *Humor* als Abwehrmechanismus.
+  He's using *humor* as a defense mechanism.
 
   L'*humour* de ce film n'a pas plu à tout le monde.
-  Der *Humor* in diesem Film hat nicht allen gefallen.
+  The *humor* in this movie didn't please everyone.
 
   C'est grâce à son *humour* qu'elle a réussi à détendre l'atmosphère.
-  Dank ihres *Humors* ist es ihr gelungen, die Atmosphäre zu entspannen.
+  Thanks to her *humor*, she managed to relax the atmosphere.
 
   Les enfants adorent son *humour* simple et direct.
-  Die Kinder lieben seinen einfachen und direkten *Humor*.
+  The children love his simple and direct *humor*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

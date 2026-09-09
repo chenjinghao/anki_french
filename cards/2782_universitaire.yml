@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2782
 Wort: universitaire
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: universitaire
 Femininum / Plural: ''
 IPA: \y.ni.vɛʁ.si.tɛʁ\
-Definition: Hochschul-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Higher education
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'étais occupée à des travaux de recherches *universitaires*.
-  Ich war mit *akademischer* Forschungsarbeit beschäftigt.
+  I was engaged in *academic* research.
 
   La *résidence universitaire* se trouve à dix minutes à pied du campus.
-  Das *Studenten*wohnheim ist zehn Minuten zu Fuß vom Campus entfernt.
+  The student dorm is ten minutes walk from the campus.
 
   Pour devenir professeur, il faut suivre un long parcours *universitaire*.
-  Um Professor zu werden, muss man eine lange *akademische* Laufbahn absolvieren.
+  To become a professor, you have to complete a long *academic* career.
 
   La bibliothèque *universitaire* est ouverte jusqu'à minuit pendant les examens.
-  Die *Universitäts*bibliothek hat während der Prüfungen bis Mitternacht geöffnet.
+  The *university* library opened until midnight during the exams.
 
   Les étudiants se retrouvent souvent au *restaurant universitaire* pour déjeuner ensemble.
-  Die Studenten treffen sich oft in der *Mensa* zum gemeinsamen Mittagessen.
+  The students often meet in the canteen for lunch together.
 
   Elle est *universitaire* depuis vingt ans et enseigne la littérature française.
-  Sie ist seit zwanzig Jahren *Hochschullehrerin* und unterrichtet französische Literatur.
+  She has been a *university teacher* for twenty years and teaches French literature.
 
   Le nouveau bâtiment *universitaire* sera inauguré le mois prochain.
-  Das neue *Universitäts*gebäude wird nächsten Monat eingeweiht.
+  The new *university* building will be inaugurated next month.
 
   Mon diplôme *universitaire* m'a ouvert beaucoup de portes professionnelles.
-  Mein *Hochschul*diplom hat mir viele berufliche Türen geöffnet.
+  My university degree has opened many professional doors to me.
 
   Le corps *universitaire* a voté contre cette réforme controversée.
-  Der *akademische* Lehrkörper hat gegen diese umstrittene Reform gestimmt.
+  The *academic* faculty voted against this controversial reform.
 
   Cette ville compte trois *restaurants universitaires* et deux bibliothèques.
-  Diese Stadt hat drei *Mensen* und zwei Bibliotheken.
+  This city has three *mensen* and two libraries.
 
   Les chercheurs *universitaires* ont publié une étude importante.
-  Die *Hochschul*forscher haben eine wichtige Studie veröffentlicht.
+  The university researchers have published an important study.
 
   Son titre *universitaire* lui a permis d'obtenir un meilleur salaire.
-  Sein *akademischer* Titel hat ihm ermöglicht, ein besseres Gehalt zu bekommen.
+  His *academic* title has enabled him to get a better salary.
 
   La vie *universitaire* est très différente de celle du lycée.
-  Das *Universitäts*leben unterscheidet sich stark vom Leben in der Schule.
+  *University* life is very different from school life.
 
   Les équipements *universitaires* sont en cours de modernisation.
-  Die *Universitäts*einrichtungen werden derzeit modernisiert.
+  The *university* facilities are currently being modernised.
 
   La carte *universitaire* donne accès à tous les services du campus.
-  Der *Studenten*ausweis ermöglicht den Zugang zu allen Diensten auf dem Campus.
+  The student ID card allows access to all services on campus.
 
   Le milieu *universitaire* favorise les échanges intellectuels.
-  Das *akademische* Umfeld fördert den intellektuellen Austausch.
+  The *academic* environment promotes intellectual exchange.
 
   Cette conférence a réuni des *universitaires* du monde entier.
-  Diese Konferenz hat *Hochschullehrer* aus der ganzen Welt zusammengebracht.
+  This conference brought together university teachers from all over the world.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

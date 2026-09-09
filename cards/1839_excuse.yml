@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1839
 Wort: excuse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une excuse
 Femininum / Plural: ''
 IPA: \ɛks.kyz\
-Definition: Entschuldigung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Excuse me.
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu pouvais t'inventer une meilleure *excuse*.
-  Du hättest dir eine bessere *Ausrede* ausdenken können.
+  You could have made up a better excuse.
 
   Elle a toujours une bonne *excuse* pour ne pas faire ses devoirs.
-  Sie hat immer eine gute *Ausrede*, um ihre Hausaufgaben nicht zu machen.
+  She always has a good excuse not to do her homework.
 
   Ses obligations familiales lui servent d'*excuse* pour son absence.
-  Seine familiären Verpflichtungen dienen ihm als *Entschuldigung* für seine Abwesenheit.
+  His family responsibilities serve as an excuse for his absence.
 
   Le professeur a demandé un mot d'*excuse* des parents.
-  Der Lehrer hat um eine schriftliche *Entschuldigung* der Eltern gebeten.
+  The teacher asked for a written apology from the parents.
 
   "Mille *excuses* pour le dérangement !", dit-il poliment.
-  "Tausend *Entschuldigungen* für die Störung!", sagte er höflich.
+  "A thousand excuses for the disturbance!" he said politely.
 
   Son comportement est sans *excuse*.
-  Sein Verhalten ist nicht zu *entschuldigen*.
+  His behavior is not to be excused.
 
   Il s'est confondu en *excuses* après avoir renversé le café.
-  Er hat sich überschwänglich *entschuldigt*, nachdem er den Kaffee verschüttet hatte.
+  He apologized exuberantly after he spilled the coffee.
 
   L'avocat a plaidé l'*excuse* légale pour son client.
-  Der Anwalt plädierte auf einen gesetzlichen Entschuldigungs*grund* für seinen Mandanten.
+  The lawyer pleaded for a legal excuse for his client.
 
   Elle a fourni une *excuse* valable pour son retard au travail.
-  Sie hat eine triftige *Entschuldigung* für ihre Verspätung bei der Arbeit vorgebracht.
+  She has made a valid apology for her delay in work.
 
   Les conditions météorologiques ont servi d'*excuse* pour annuler l'événement.
-  Die Wetterbedingungen dienten als *Begründung* für die Absage der Veranstaltung.
+  The weather conditions served as the reason for the cancellation of the event.
 
   "Je vous prie d'accepter mes *excuses* les plus sincères."
-  "Ich bitte Sie, meine aufrichtigsten *Entschuldigungen* anzunehmen."
+  "I ask you to accept my most sincere *apologies*."
 
   Il cherche toujours des *excuses* au lieu d'assumer ses responsabilités.
-  Er sucht immer nach *Ausreden*, anstatt Verantwortung zu übernehmen.
+  He's always looking for excuses instead of taking responsibility.
 
   Son jeune âge n'est pas une *excuse* pour son comportement.
-  Sein junges Alter ist keine *Entschuldigung* für sein Verhalten.
+  His young age is no excuse for his behavior.
 
   Le juge a rejeté l'*excuse* présentée par la défense.
-  Der Richter hat die von der Verteidigung vorgebrachte *Entschuldigung* abgelehnt.
+  The judge rejected the apology put forward by the defense.
 
   Elle a exigé des *excuses* publiques pour la remarque offensante.
-  Sie forderte eine öffentliche *Entschuldigung* für die beleidigende Bemerkung.
+  She called for a public apology for the insulting remark.
 
   "Faites *excuse*, Madame, je ne vous avais pas vue."
-  "*Entschuldigen* Sie bitte, Madame, ich hatte Sie nicht gesehen."
+  "*Excuse me*, madam, I hadn't seen you."
 
   L'*excuse* atténuante a permis de réduire la peine du prévenu.
-  Der mildernde *Umstand* ermöglichte es, die Strafe des Angeklagten zu reduzieren.
+  The mitigating circumstance made it possible to reduce the defendant's sentence.
 
   Il a présenté ses *excuses* à toute l'équipe pour son emportement.
-  Er hat sich beim ganzen Team für seinen Wutausbruch *entschuldigt*.
+  He apologized to the whole team for his outburst of anger.
 
   "C'est une piètre *excuse* pour justifier votre absence", dit le patron.
-  "Das ist eine schwache *Entschuldigung* für Ihre Abwesenheit", sagte der Chef.
+  "This is a weak excuse for your absence," said the boss.
 
   Les *excuses* de l'entreprise n'ont pas satisfait les clients mécontents.
-  Die *Entschuldigungen* des Unternehmens haben die unzufriedenen Kunden nicht zufriedengestellt.
+  The company's excuses have not satisfied the dissatisfied customers.
 
   Elle a écrit une lettre d'*excuses* pour expliquer son comportement.
-  Sie schrieb einen *Entschuldigungs*brief, um ihr Verhalten zu erklären.
+  She wrote an apology letter to explain her behavior.
 
   "Je n'accepte pas cette *excuse*, c'est inacceptable", déclara le professeur.
-  "Ich akzeptiere diese *Entschuldigung* nicht, das ist inakzeptabel", erklärte der Lehrer.
+  "I don't accept this apology, it's unacceptable," said the teacher.
 
   L'*excuse* absolutoire a permis à l'accusé d'être exempté de peine.
-  Der Strafausschließungs*grund* ermöglichte es dem Angeklagten, von der Strafe befreit zu werden.
+  The *reason* for the punishment allowed the defendant to be released from the penalty.
 
   Sa maladie est une *excuse* valable pour son absence au travail.
-  Seine Krankheit ist eine triftige *Entschuldigung* für seine Abwesenheit bei der Arbeit.
+  His illness is a valid excuse for his absence at work.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

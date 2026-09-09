@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2009
 Wort: spécialiser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: spécialiser
 Femininum / Plural: ''
 IPA: \spe.sja.li.ze\
-Definition: spezialisieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Specialize
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La main-d'œuvre *spécialisée* vieillit.
-  Die *Fach*kräfte werden älter.
+  The skilled workers are getting older.
 
   Cette université *spécialise* ses étudiants dans la gestion d'entreprise.
-  Diese Universität *spezialisiert* ihre Studenten auf Unternehmensführung.
+  This university specializes in corporate management for its students.
 
   Elle s'est *spécialisée* en littérature médiévale après son master.
-  Nach ihrem Master hat sie sich auf mittelalterliche Literatur *spezialisiert*.
+  After her master's degree, she *specialized* in medieval literature.
 
   Le centre de formation *spécialise* les apprentis dans la maintenance informatique.
-  Das Ausbildungszentrum *spezialisiert* die Auszubildenden auf IT-Wartung.
+  The training centre specializes in IT maintenance for the trainees.
 
   Mon frère s'est *spécialisé* dans la chirurgie cardiaque.
-  Mein Bruder hat sich auf Herzchirurgie *spezialisiert*.
+  My brother specializes in cardiac surgery.
 
   L'entreprise *spécialise* ses activités dans la production de batteries électriques.
-  Das Unternehmen *spezialisiert* seine Aktivitäten auf die Produktion von elektrischen Batterien.
+  The company specializes in its activities in the production of electric batteries.
 
   Cette école ne veut pas *spécialiser* les élèves trop tôt.
-  Diese Schule möchte die Schüler nicht zu früh *spezialisieren*.
+  This school does not want to *specialize* the students too early.
 
   Les chercheurs se sont *spécialisés* en biochimie moléculaire.
-  Die Forscher haben sich auf molekulare Biochemie *spezialisiert*.
+  The researchers are *specialized* in molecular biochemistry.
 
   Notre laboratoire s'est *spécialisé* dans les médicaments génériques.
-  Unser Labor hat sich auf Generika *spezialisiert*.
+  Our lab specializes in generics.
 
   L'usine a *spécialisé* ses ouvriers dans l'assemblage de précision.
-  Die Fabrik hat ihre Arbeiter auf Präzisionsmontage *spezialisiert*.
+  The factory has *specialized* its workers in precision assembly.
 
   Je voudrais me *spécialiser* en pédiatrie après mes études.
-  Nach meinem Studium möchte ich mich auf Kinderheilkunde *spezialisieren*.
+  After my studies, I would like to *specialize* in pediatrics.
 
   Les domaines scientifiques se *spécialisent* de plus en plus.
-  Die wissenschaftlichen Bereiche *spezialisieren* sich immer mehr.
+  The scientific fields are becoming more and more specialised.
 
   Cette formation *spécialise* les participants dans la vente en ligne.
-  Diese Ausbildung *spezialisiert* die Teilnehmer auf Online-Verkauf.
+  This training specializes the participants in online sales.
 
   Il s'est *spécialisé* dans la restauration de tableaux anciens.
-  Er hat sich auf die Restaurierung alter Gemälde *spezialisiert*.
+  He specializes in the restoration of old paintings.
 
   La région a *spécialisé* ses industries dans l'aéronautique.
-  Die Region hat ihre Industrien auf die Luftfahrt *spezialisiert*.
+  The region has specialised in aviation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

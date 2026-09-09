@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4068
 Wort: nationalité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la nationalité
 Femininum / Plural: ''
 IPA: \na.sjɔ.na.li.te\
-Definition: Staatsangehörigkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Nationality
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il avait la possibilité de choisir la *nationalité* française.
-  Er hatte die Möglichkeit, die französische *Staatsangehörigkeit* zu wählen.
+  He had the opportunity to choose French *nationality*.
 
   La *nationalité* du navire n'était pas clairement indiquée sur le pavillon.
-  Die *Nationalität* des Schiffes war auf der Flagge nicht eindeutig erkennbar.
+  The *nationality* of the ship was not clearly recognizable on the flag.
 
   Elle est fière d'avoir obtenu sa double *nationalité* l'année dernière.
-  Sie ist stolz darauf, letztes Jahr ihre doppelte *Staatsangehörigkeit* erhalten zu haben.
+  She is proud to have received her dual *nationality* last year.
 
   Les enfants nés à l'étranger peuvent parfois avoir une double *nationalité*.
-  Im Ausland geborene Kinder können manchmal eine doppelte *Staatsangehörigkeit* haben.
+  Children born abroad may sometimes have a dual *nationality*.
 
   Marie est de *nationalité* suisse depuis sa naissance.
-  Marie hat seit ihrer Geburt die schweizerische *Staatsangehörigkeit*.
+  Marie has had Swiss *nationality* since she was born.
 
   Le formulaire demande d'indiquer votre *nationalité* d'origine.
-  Das Formular verlangt die Angabe Ihrer ursprünglichen *Staatsangehörigkeit*.
+  The form requires you to provide your original *nationality*.
 
   Beaucoup de réfugiés se retrouvent sans *nationalité*.
-  Viele Flüchtlinge werden *staatenlos*.
+  Many refugees become *stateless*.
 
   Cette entreprise a changé de *nationalité* après la fusion.
-  Diese Firma hat nach der Fusion die *Nationalität* gewechselt.
+  This company changed *nationality* after the merger.
 
   Pour obtenir la *nationalité*, il faut passer un test de langue.
-  Um die *Staatsangehörigkeit* zu bekommen, muss man einen Sprachtest bestehen.
+  In order to get citizenship, you have to pass a language test.
 
   Sa *nationalité* lui permet de voyager sans visa dans toute l'Europe.
-  Seine *Staatsangehörigkeit* erlaubt ihm, ohne Visum durch ganz Europa zu reisen.
+  His *nationality* allows him to travel throughout Europe without a visa.
 
   Le certificat de *nationalité* doit être présenté à la mairie.
-  Die *Staatsangehörigkeits*bescheinigung muss beim Rathaus vorgelegt werden.
+  The citizenship certificate must be submitted to the Town Hall.
 
   La question de la *nationalité* est devenue un sujet sensible.
-  Die Frage der *Staatsangehörigkeit* ist zu einem heiklen Thema geworden.
+  The issue of *nationality* has become a sensitive issue.
 
   Les documents attestant de sa *nationalité* ont été perdus.
-  Die Dokumente, die seine *Staatsangehörigkeit* belegen, sind verloren gegangen.
+  The documents proving his *nationality* have been lost.
 
   La *nationalité* peut être transmise par les parents à leurs enfants.
-  Die *Staatsangehörigkeit* kann von den Eltern an ihre Kinder weitergegeben werden.
+  *Nationality* may be passed on from parents to their children.
 
   Cette région abrite des personnes de différentes *nationalités*.
-  In dieser Region leben Menschen verschiedener *Nationalitäten*.
+  People of different *nationalities* live in this region.
 
   Il a renoncé à sa *nationalité* d'origine pour en adopter une nouvelle.
-  Er hat seine ursprüngliche *Staatsangehörigkeit* aufgegeben, um eine neue anzunehmen.
+  He gave up his original *nationality* to accept a new one.
 
   La procédure de changement de *nationalité* peut prendre plusieurs années.
-  Das Verfahren zur Änderung der *Staatsangehörigkeit* kann mehrere Jahre dauern.
+  The procedure for changing *nationality* may take several years.
 
   Quelle est votre *nationalité* ? demanda l'agent à la frontière.
-  "Was ist Ihre *Staatsangehörigkeit*?" fragte der Beamte an der Grenze.
+  "What is your *nationality*?" asked the officer at the border.
 
   Les critères d'attribution de la *nationalité* ont été modifiés.
-  Die Kriterien für die Vergabe der *Staatsangehörigkeit* wurden geändert.
+  The criteria for the award of citizenship have been changed.
 
   Le passeport indique clairement la *nationalité* du titulaire.
-  Der Pass zeigt deutlich die *Staatsangehörigkeit* des Inhabers.
+  The passport clearly shows the holder's *nationality*.
 
   L'acquisition de la *nationalité* se fait par naturalisation.
-  Der Erwerb der *Staatsangehörigkeit* erfolgt durch Einbürgerung.
+  The acquisition of *nationality* is by naturalisation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

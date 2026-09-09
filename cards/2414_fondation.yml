@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2414
 Wort: fondation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la fondation
 Femininum / Plural: ''
 IPA: \fɔ̃.da.sjɔ̃\
-Definition: Gründung; Stiftung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Foundation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *fondations* seront conçues après étude du sol.
-  Das *Fundament* wird nach der Bodenuntersuchung geplant.
+  The *foundation* is planned after the soil inspection.
 
   La *fondation* de leur entreprise a eu lieu en 2010.
-  Die *Gründung* ihrer Firma fand 2010 statt.
+  The foundation of their company took place in 2010.
 
   Pierre a créé une *fondation* pour aider les enfants malades.
-  Pierre hat eine *Stiftung* gegründet, um kranken Kindern zu helfen.
+  Pierre founded a *foundation* to help sick children.
 
   Les *fondations* de l'immeuble se sont affaissées avec le temps.
-  Das *Fundament* des Gebäudes hat sich mit der Zeit gesenkt.
+  The *foundation* of the building has lowered over time.
 
   La *fondation* de cette université remonte au Moyen Âge.
-  Die *Gründung* dieser Universität geht auf das Mittelalter zurück.
+  The foundation of this university dates back to the Middle Ages.
 
   Cette *fondation* finance des projets de recherche scientifique.
-  Diese *Stiftung* finanziert wissenschaftliche Forschungsprojekte.
+  This *foundation* finances scientific research projects.
 
   Les ouvriers ont commencé à creuser les *fondations* du nouveau bâtiment.
-  Die Arbeiter haben begonnen, das *Fundament* des neuen Gebäudes auszuheben.
+  The workers have begun to raise the *foundation* of the new building.
 
   La *fondation* de Rome est entourée de nombreuses légendes.
-  Die *Gründung* Roms ist von vielen Legenden umgeben.
+  The foundation of Rome is surrounded by many legends.
 
   La *fondation* caritative a distribué des repas aux sans-abris.
-  Die wohltätige *Stiftung* hat Mahlzeiten an Obdachlose verteilt.
+  The charity has distributed meals to the homeless.
 
   Il faut renforcer les *fondations* avant de construire l'étage supérieur.
-  Man muss das *Fundament* verstärken, bevor man das obere Stockwerk baut.
+  You have to strengthen the *foundation* before you build the upper floor.
 
   Elle travaille pour une *fondation* de protection de l'environnement.
-  Sie arbeitet für eine Umweltschutz*stiftung*.
+  She works for an environmental *foundation*.
 
   La *fondation* d'un nouveau parti politique a été annoncée hier.
-  Die *Gründung* einer neuen politischen Partei wurde gestern angekündigt.
+  The creation of a new political party was announced yesterday.
 
   Les *fondations* doivent être particulièrement solides dans cette zone sismique.
-  Das *Fundament* muss in dieser seismischen Zone besonders stabil sein.
+  The *foundation* must be particularly stable in this seismic zone.
 
   Cette *fondation* octroie des bourses aux étudiants talentueux.
-  Diese *Stiftung* vergibt Stipendien an talentierte Studenten.
+  This *foundation* awards scholarships to talented students.
 
   La *fondation* de cette colonie a marqué le début d'une nouvelle ère.
-  Die *Gründung* dieser Kolonie markierte den Beginn einer neuen Ära.
+  The *establishment* of this colony marked the beginning of a new era.
 
   Les archéologues ont découvert les *fondations* d'un ancien temple.
-  Die Archäologen haben das *Fundament* eines antiken Tempels entdeckt.
+  Archaeologists have discovered the *foundation* of an ancient temple.
 
   La *fondation* du prix littéraire a été célébrée hier soir.
-  Die *Gründung* des Literaturpreises wurde gestern Abend gefeiert.
+  The foundation of the literary prize was celebrated last night.
 
   Les *fondations* profondes sont nécessaires pour ce gratte-ciel.
-  Ein Tief*fundament* ist für diesen Wolkenkratzer notwendig.
+  A deep *foundation* is necessary for this skyscraper.
 
   La *fondation* de ce monastère date du XII<sup>e</sup> siècle.
-  Die *Gründung* dieses Klosters stammt aus dem 12. Jahrhundert.
+  The foundation of this monastery dates back to the 12th century.
 
   Cette *fondation* privée soutient des projets artistiques innovants.
-  Diese private *Stiftung* unterstützt innovative Kunstprojekte.
+  This private *foundation* supports innovative art projects.
 
   La *fondation* de leur association a nécessité beaucoup de paperasse.
-  Die *Gründung* ihres Vereins erforderte viel Papierkram.
+  The *establishment* of their association required a lot of paperwork.
 
   L'architecte a vérifié la solidité des *fondations* avant de poursuivre.
-  Der Architekt hat die Stabilität des *Fundaments* überprüft, bevor er fortfuhr.
+  The architect checked the stability of the foundation before continuing.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

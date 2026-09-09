@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3012
 Wort: bar
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le bar
 Femininum / Plural: ''
 IPA: \baʁ\
 Definition: Bar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous buvons un café dans le *bar* voisin.
-  Wir trinken einen Kaffee in der *Bar* nebenan.
+  We'll have coffee in the *bar* next door.
 
   "Regarde ce mec, c'est un vrai pilier de *bar*!"
-  "Schau dir den Kerl an, der ist ein richtiger *Kneipen*hocker!"
+  "Look at this guy, he's a real bar stool!"
 
   J'ai installé un petit *bar* dans mon salon.
-  Ich habe eine kleine *Bar* in meinem Wohnzimmer eingerichtet.
+  I've set up a small *bar* in my living room.
 
   La pression atmosphérique est de deux *bars*.
-  Der atmosphärische Druck beträgt zwei *Bar*.
+  The atmospheric pressure is two bars.
 
   Le *bar* est un poisson délicieux grillé.
-  Der See*barsch* schmeckt gegrillt hervorragend.
+  The sea bass tastes excellent grilled.
 
   Elle travaille comme serveuse dans un *bar* à vin.
-  Sie arbeitet als Kellnerin in einer Wein*bar*.
+  She works as a waitress in a wine bar.
 
   Le train dispose d'une voiture-*bar* confortable.
-  Der Zug hat einen komfortablen *Speise*wagen.
+  The train has a comfortable dining car.
 
   Ils ont ouvert un *bar* à sourcils dans le centre-ville.
-  Sie haben eine Augenbrauen*bar* in der Innenstadt eröffnet.
+  They opened an eyebrow bar in downtown.
 
   Au Canada, on trouve souvent des *bars* laitiers.
-  In Kanada findet man oft Eis*bars*.
+  In Canada, ice bars are often found.
 
   Les clients sont accoudés au *bar*.
-  Die Gäste lehnen an der *Bar*.
+  The guests sit at the *bar*.
 
   "On se retrouve au *bar* de l'aéroport avant le vol ?"
-  "Treffen wir uns vor dem Flug in der Flughafen*bar*?"
+  "Are we meeting before the flight at the airport bar?"
 
   Ce restaurant propose un *bar* à soupes self-service.
-  Dieses Restaurant bietet eine Suppen*bar* zur Selbstbedienung an.
+  This restaurant offers a self-service soup bar.
 
   Le *bar* du congrès ferme à minuit.
-  Die Kongress*bar* schließt um Mitternacht.
+  The convention bar closes at midnight.
 
   Pierre a commandé un *bar* au fenouil.
-  Pierre hat See*barsch* mit Fenchel bestellt.
+  Pierre ordered sea bass with fennel.
 
   Dans ce *bar*-tabac, on peut aussi acheter des cigarettes.
-  In dieser Tabak*kneipe* kann man auch Zigaretten kaufen.
+  You can also buy cigarettes in this tobacco bar.
 
   Le nouveau *bar* à tapas est toujours plein.
-  Die neue Tapas*bar* ist immer voll.
+  The new tapas bar is always full.
 
   J'ai acheté un *bar* design pour mon appartement.
-  Ich habe eine Designer-*Bar* für meine Wohnung gekauft.
+  I bought a designer *bar* for my apartment.
 
   Les pêcheurs ont attrapé un *bar* d'un mètre.
-  Die Fischer haben einen einen Meter langen See*barsch* gefangen.
+  The fishermen have caught a one metre long sea bass.
 
   La météo indique une pression de 1013 *bars*.
-  Der Wetterbericht zeigt einen Druck von 1013 *Bar*.
+  The weather report shows a pressure of 1013 *bar*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

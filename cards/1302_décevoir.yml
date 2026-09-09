@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1302
 Wort: décevoir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: décevoir
 Femininum / Plural: ''
 IPA: \de.sə.vwaʁ\
-Definition: enttäuschen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Disappoint
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Désolé de t'avoir *déçue*.
-  Tut mir leid, dass ich dich *enttäuscht* habe.
+  I'm sorry I let you down.
 
   Son comportement a *déçu* toutes mes attentes.
-  Sein Verhalten hat all meine Erwartungen *enttäuscht*.
+  His behavior has *disappointed* all my expectations.
 
   Le film n'était pas aussi bon que prévu et a *déçu* le public.
-  Der Film war nicht so gut wie erwartet und hat das Publikum *enttäuscht*.
+  The film was not as good as expected and *disappointed* the audience.
 
   Ne *décevez* pas la confiance que vos parents ont placée en vous.
-  *Enttäuschen* Sie nicht das Vertrauen, das Ihre Eltern in Sie gesetzt haben.
+  Don't *disappoint* the trust your parents put in you.
 
   Les résultats de l'élection ont *déçu* de nombreux électeurs.
-  Die Wahlergebnisse haben viele Wähler *enttäuscht*.
+  The election results have *disappointed* many voters.
 
   "Tu me *déçois*, je ne te croyais pas si égoïste."
-  "Du *enttäuschst* mich, ich hielt dich nicht für so egoistisch."
+  "You disappoint me, I didn't think you were so selfish."
 
   L'équipe nationale a *déçu* ses supporters en perdant le match crucial.
-  Die Nationalmannschaft hat ihre Fans *enttäuscht*, indem sie das entscheidende Spiel verlor.
+  The national team has *disappointed* their fans by losing the decisive game.
 
   Cette décision politique risque de *décevoir* les attentes des citoyens.
-  Diese politische Entscheidung droht, die Erwartungen der Bürger zu *enttäuschen*.
+  This political decision threatens to *disappoint* the expectations of the citizens.
 
   Le nouveau smartphone a *déçu* les critiques par son manque d'innovation.
-  Das neue Smartphone hat die Kritiker durch seinen Mangel an Innovation *enttäuscht*.
+  The new smartphone has *disappointed* the critics with its lack of innovation.
 
   Ne vous laissez pas *décevoir* par les apparences trompeuses.
-  Lassen Sie sich nicht von trügerischem Schein *täuschen*.
+  Don't be fooled by *deceptive* appearances.
 
   La réalité peut parfois *décevoir* nos rêves les plus chers.
-  Die Realität kann manchmal unsere liebsten Träume *enttäuschen*.
+  Reality can sometimes *disappoint* our favorite dreams.
 
   Son amour *déçu* l'a conduit à se replier sur lui-même.
-  Seine *enttäuschte* Liebe hat ihn dazu gebracht, sich in sich selbst zurückzuziehen.
+  His disillusioned love has made him withdraw into himself.
 
   Les promesses non tenues du politicien ont *déçu* ses électeurs.
-  Die nicht eingehaltenen Versprechen des Politikers haben seine Wähler *enttäuscht*.
+  The politicians' unfulfilled promises have *disappointed* their voters.
 
   La météo capricieuse a *déçu* les organisateurs du festival en plein air.
-  Das launische Wetter hat die Organisatoren des Open-Air-Festivals *enttäuscht*.
+  The moody weather has *disappointed* the organizers of the Open Air Festival.
 
   J'espère que mon travail ne vous *décevra* pas, patron.
-  Ich hoffe, meine Arbeit wird Sie nicht *enttäuschen*, Chef.
+  I hope my work won't *disappoint* you, boss.
 
   Malgré ses efforts, il n'a pas pu s'empêcher de *décevoir* les attentes de son père.
-  Trotz seiner Bemühungen konnte er es nicht vermeiden, die Erwartungen seines Vaters zu *enttäuschen*.
+  Despite his efforts, he could not avoid disappointing his father's expectations.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

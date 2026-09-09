@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1654
 Wort: critiquer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: critiquer
 Femininum / Plural: ''
 IPA: \kʁi.ti.ke\
-Definition: kritisieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Criticism
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils s'arrogent le droit de me *critiquer*, me juger.
-  Sie nehmen sich das Recht heraus, mich zu *kritisieren* und zu beurteilen.
+  They take out the right to criticize and judge me.
 
   Le jury a *critiqué* sévèrement sa performance.
-  Die Jury hat seine Leistung scharf *kritisiert*.
+  The jury has sharply criticized his performance.
 
   Elle *critique* toujours les décisions de ses parents.
-  Sie *kritisiert* immer die Entscheidungen ihrer Eltern.
+  She always criticizes her parents' decisions.
 
   Le journaliste a *critiqué* le nouveau film de manière objective.
-  Der Journalist hat den neuen Film objektiv *besprochen*.
+  The journalist objectively *discussed* the new film.
 
   "Arrête de *critiquer* tout le monde !" s'est-elle exclamée, agacée.
-  "Hör auf, an allen *herumzunörgeln*!" rief sie genervt aus.
+  "Stop sagging everyone around!" she exclaimed annoyed.
 
   Les experts ont *critiqué* le rapport pour son manque de rigueur.
-  Die Experten haben den Bericht wegen mangelnder Gründlichkeit *kritisch geprüft*.
+  The experts have critically examined the report for lack of thoroughness.
 
   Il faut savoir accepter d'être *critiqué* pour progresser.
-  Man muss lernen, *Kritik* zu akzeptieren, um sich weiterzuentwickeln.
+  One must learn to accept *criticism* in order to develop further.
 
   Le philosophe *critique* les idées reçues dans son dernier essai.
-  Der Philosoph *hinterfragt* in seinem neuesten Essay die gängigen Vorstellungen.
+  In his latest essay, the philosopher questions the current ideas.
 
   Les opposants n'ont pas manqué de *critiquer* la politique du gouvernement.
-  Die Oppositionellen haben nicht versäumt, die Politik der Regierung zu *kritisieren*.
+  Oppositionists have not failed to criticise the government's policies.
 
   La pièce de théâtre a été *critiquée* pour son manque d'originalité.
-  Das Theaterstück wurde wegen mangelnder Originalität *verrissen*.
+  The play was torn apart because of lack of originality.
 
   Il est facile de *critiquer*, mais difficile de faire mieux.
-  Es ist leicht zu *kritisieren*, aber schwer, es besser zu machen.
+  It's easy to criticize, but it's hard to do better.
 
   Le comité a *critiqué* de façon constructive le projet de loi.
-  Der Ausschuss hat den Gesetzentwurf konstruktiv *kritisiert*.
+  The Committee has constructively criticised the draft law.
 
   Les étudiants ont appris à *critiquer* les sources historiques.
-  Die Studenten haben gelernt, historische Quellen kritisch zu *hinterfragen*.
+  The students have learned to critically *question* historical sources.
 
   Elle *critique* toujours son apparence dans le miroir.
-  Sie *kritisiert* immer ihr Aussehen im Spiegel.
+  She always criticizes her appearance in the mirror.
 
   Le professeur nous a demandé de *critiquer* l'article scientifique.
-  Der Professor hat uns gebeten, den wissenschaftlichen Artikel zu *rezensieren*.
+  The professor asked us to *review* the scientific article.
 
   Les médias ont vivement *critiqué* la nouvelle loi sur l'environnement.
-  Die Medien haben das neue Umweltgesetz scharf *kritisiert*.
+  The media have sharply criticised the new environmental law.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

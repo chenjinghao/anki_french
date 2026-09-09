@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1545
 Wort: extrêmement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: extrêmement
 Femininum / Plural: ''
 IPA: \ɛk.stʁɛm.mɑ̃\
-Definition: äußerst, extrem
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: extreme, extreme
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce processus a été *extrêmement* lent.
-  Dieser Prozess war *äußerst* langsam.
+  This process was *extremely* slow.
 
   Elle s'est montrée *extrêmement* jalouse de sa nouvelle relation.
-  Sie zeigte sich *maßlos* eifersüchtig auf seine neue Beziehung.
+  She showed herself to be completely jealous of his new relationship.
 
   Cette robe de mariée est *extrêmement* belle.
-  Dieses Hochzeitskleid ist *bildschön*.
+  This wedding dress is *beautiful*.
 
   L'été dernier a été *extrêmement* pluvieux.
-  Der letzte Sommer war *außerordentlich* regnerisch.
+  Last summer was extremely rainy.
 
   La situation politique est devenue *extrêmement* complexe.
-  Die politische Situation ist *äußerst* komplex geworden.
+  The political situation has become *extremely* complex.
 
   Le médecin a diagnostiqué une maladie *extrêmement* grave.
-  Der Arzt diagnostizierte eine *äußerst* schwere Krankheit.
+  The doctor diagnosed an *extremely* serious disease.
 
   Il écrit *extrêmement* vite sur son ordinateur.
-  Er schreibt *außergewöhnlich* schnell auf seinem Computer.
+  He writes exceptionally fast on his computer.
 
   Cette collection d'art est *extrêmement* précieuse.
-  Diese Kunstsammlung ist *äußerst* wertvoll.
+  This art collection is *extremely* valuable.
 
   Le concert était *extrêmement* bruyant.
-  Das Konzert war *extrem* laut.
+  The concert was extremely loud.
 
   Je suis *extrêmement* déçu par les résultats.
-  Ich bin *äußerst* enttäuscht von den Ergebnissen.
+  I am *extremely* disappointed with the results.
 
   Cette technique s'est révélée *extrêmement* efficace.
-  Diese Technik hat sich als *überaus* effektiv erwiesen.
+  This technique has proven to be extremely effective.
 
   Les températures sont *extrêmement* basses aujourd'hui.
-  Die Temperaturen sind heute *außerordentlich* niedrig.
+  The temperatures are extremely low today.
 
   Il est *extrêmement* difficile de trouver un appartement dans ce quartier.
-  Es ist *äußerst* schwierig, eine Wohnung in diesem Viertel zu finden.
+  It is *extremely* difficult to find an apartment in this neighborhood.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

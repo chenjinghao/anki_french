@@ -83,26 +83,26 @@ if (pos) {
     if (!pos.classList.contains("expanded")) {
       pos.classList.add("expanded");
       const posMap = [
-        ["vaux", "Hilfsverb", ""],
-        ["vi", "intransitives Verb", ""],
-        ["vt", "transitives Verb", ""],
-        ["vr", "reflexives Verb", ""],
-        ["adj", "Adjektiv", ""],
-        ["adv", "Adverb", ""],
-        ["art", "Artikel", ""],
-        ["app", "Apposition", ""],
-        ["conj", "Konjunktion", ""],
-        ["det", "Determinativ", ""],
-        ["intj", "Interjektion", ""],
-        ["num", "Numeral", ""],
-        ["prep", "Präposition", ""],
-        ["pro", "Pronomen", ""],
-        ["n", "Substantiv", ""],
-        ["(imp)", "unpersönliches", "prefix"],
-        ["pl", "nur in Plural", "suffix"],
-        ["f", "feminines", "prefix"],
-        ["m", "maskulines", "prefix"],
-        ["i", "unveränderliches", "prefix"],
+        ["vaux", "auxiliary verb", ""],
+        ["vi", "intransitive verb", ""],
+        ["vt", "transitive verb", ""],
+        ["vr", "reflexive verb", ""],
+        ["adj", "adjective", ""],
+        ["adv", "adverb", ""],
+        ["art", "article", ""],
+        ["app", "apposition", ""],
+        ["conj", "conjunction", ""],
+        ["det", "determiner", ""],
+        ["intj", "interjection", ""],
+        ["num", "numeral", ""],
+        ["prep", "preposition", ""],
+        ["pro", "pronoun", ""],
+        ["n", "noun", ""],
+        ["(imp)", "impersonal", "prefix"],
+        ["pl", "plural only", "suffix"],
+        ["f", "feminine", "prefix"],
+        ["m", "masculine", "prefix"],
+        ["i", "invariable", "prefix"],
       ];
       const allPosArray = [];
       pos.innerHTML.split(", ").forEach(function (component) {
@@ -245,8 +245,8 @@ async function initAudioButtons(within = document) {
 
   if (within == document && options.autoPlaySentence) {
     setTimeout(() => {
-      if (options.autoPlaySentenceInGerman) {
-        playAudio({ text: sentencesPairs[0].split("\n")[1], lang: "de-DE" });
+      if (options.autoPlaySentenceInEnglish) {
+        playAudio({ text: sentencesPairs[0].split("\n")[1], lang: "en-US" });
       } else {
         playAudio({ text: sentencesPairs[0].split("\n")[0] });
       }
@@ -319,8 +319,8 @@ if (conjugationTable) {
         el.classList.toggle("show", showRegularConjugations);
       });
       label.textContent = showRegularConjugations
-        ? "Nur unregelmäßige anzeigen"
-        : "Alles anzeigen";
+        ? "Show irregular forms only"
+        : "Show all";
       squish_cells();
 
       if (verbClassification && conjugationTable.offsetHeight > 0) {
@@ -401,16 +401,16 @@ fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
     console.error(err);
     grammarLibrary.classList.remove("collapsed");
     grammarLibrary.innerHTML = `<div class="error-message">
-        <p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten:</p>
+        <p>An error occurred while loading the grammar library:</p>
         <p class="error-details">${err.message}</p>
-        <p>Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues'>GitHub</a>.</p>
+        <p>Please report the problem on <a href='https://github.com/jacbz/anki_french/issues'>GitHub</a>.</p>
       </div>`;
   });
 
 function loadGrammar(id, into) {
   id = id.normalize();
   if (!grammar.content[id]) {
-    into.innerHTML = `Fehler: Grammatik ${id} nicht gefunden.`;
+    into.innerHTML = `Error: grammar entry ${id} not found.`;
     return;
   }
   const htmlString = grammar.content[id];
@@ -429,7 +429,7 @@ function loadGrammar(id, into) {
     return grammarElement;
   }
 
-  content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
+  content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Edit on GitHub</a></div>`;
   // highlight lemmas that match the current word
   content.querySelectorAll(".tag-lemma").forEach(function (el) {
     const normalize = (s) => (s ? s.normalize().toLowerCase() : s);

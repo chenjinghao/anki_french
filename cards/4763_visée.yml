@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4763
 Wort: visée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la visée
 Femininum / Plural: ''
 IPA: \vi.ze\
-Definition: Ziel, Absicht, Bestrebung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Objective, intention, ambition
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous n'avons aucune *visée* sur l'Indochine.
-  Wir haben keine *Absichten* auf Indochina.
+  We have no intention of Indochina.
 
   L'appareil photo est équipé d'un système de *visée* automatique.
-  Die Kamera ist mit einem automatischen *Visier*system ausgestattet.
+  The camera is equipped with an automatic *visor* system.
 
   Le chasseur ajuste sa *visée* avant de tirer.
-  Der Jäger korrigiert sein *Zielen*, bevor er schießt.
+  The hunter corrects his targets before he shoots.
 
   Ses *visées* politiques sont très ambitieuses.
-  Seine politischen *Bestrebungen* sind sehr ehrgeizig.
+  His political aspirations are very ambitious.
 
   Il a des *visées* sur ce poste de direction depuis longtemps.
-  Er hat schon lange ein *Auge* auf diese Führungsposition geworfen.
+  He's been keeping an *eye* on this leadership position for a long time.
 
   La *visée* du télescope doit être parfaitement alignée.
-  Das *Visier* des Teleskops muss perfekt ausgerichtet sein.
+  The telescope's *visor* must be perfectly aligned.
 
   Les *visées* budgétaires du gouvernement sont claires.
-  Die Spar*ziele* der Regierung sind klar.
+  The government's austerity targets are clear.
 
   Je n'aime pas ses *visées* sur ma sœur.
-  Seine *Absichten* bezüglich meiner Schwester gefallen mir nicht.
+  I don't like his intentions about my sister.
 
   La ligne de *visée* est bloquée par cet arbre.
-  Die *Sicht*linie wird von diesem Baum blockiert.
+  The line of sight is blocked by this tree.
 
   Les *visées* de l'entreprise sont purement commerciales.
-  Die *Ziele* des Unternehmens sind rein kommerzieller Natur.
+  The *objectives* of the company are purely commercial.
 
   Cette réforme a une *visée* sociale importante.
-  Diese Reform hat eine wichtige soziale *Zielsetzung*.
+  This reform has an important social *objective*.
 
   Le système de *visée* nocturne permet une excellente précision.
-  Das Nacht*visier*system ermöglicht eine hervorragende Präzision.
+  The night vision system allows excellent precision.
 
   Ses *visées* cachées ont été rapidement découvertes.
-  Seine versteckten *Absichten* wurden schnell aufgedeckt.
+  His hidden intentions were quickly revealed.
 
   La *visée* du microscope nécessite un réglage minutieux.
-  Die *Ausrichtung* des Mikroskops erfordert eine sorgfältige Einstellung.
+  The alignment of the microscope requires careful adjustment.
 
   Les *visées* expansionnistes du pays inquiètent ses voisins.
-  Die expansionistischen *Bestrebungen* des Landes beunruhigen seine Nachbarn.
+  The country's expansionist aspirations are worrying its neighbours.
 
   Le photographe prend son temps pour la *visée* de la photo.
-  Der Fotograf nimmt sich Zeit zum *Anvisieren* des Fotos.
+  The photographer takes time to *target* the photo.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

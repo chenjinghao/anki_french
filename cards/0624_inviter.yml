@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 624
 Wort: inviter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inviter
 Femininum / Plural: ''
 IPA: \ɛ̃.vi.te\
-Definition: einladen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Invite
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un soir, ils m'*invitent* à dîner.
-  Eines Abends *laden* sie mich zum Abendessen *ein*.
+  One night, they'll invite me to dinner.
 
   Les voisins nous ont *invités* à leur barbecue samedi.
-  Die Nachbarn haben uns zu ihrem Grillfest am Samstag *eingeladen*.
+  The neighbors *invited* us to their barbecue on Saturday.
 
   "Ce soir, c'est moi qui *invite* !"
-  "Heute Abend *lade* ich *ein*!"
+  "I'll invite you tonight!"
 
   Paul *s'est invité* à ma fête sans prévenir.
-  Paul hat sich selbst zu meiner Party *eingeladen*.
+  Paul *invited* himself to my party.
 
   Je vous *invite* à entrer dans mon bureau.
-  Ich *bitte* Sie, in mein Büro zu kommen.
+  I'm asking you to come to my office.
 
   La musique *invitait* à la danse.
-  Die Musik *stimmte* zum Tanzen *ein*.
+  The music went to dance.
 
   Marie a été *invitée* à chanter dans un autre orchestre.
-  Marie wurde *eingeladen*, in einem anderen Orchester zu singen.
+  Marie was *invited* to sing in another orchestra.
 
   Le professeur *invita* les élèves à réfléchir sur cette question.
-  Der Lehrer *forderte* die Schüler auf, über diese Frage nachzudenken.
+  The teacher asked the students to think about this question.
 
   Je t'*invite* à boire un café ?
-  Kann ich dich auf einen Kaffee *einladen*?
+  Can I buy you a cup of coffee?
 
   Nous sommes *invités* au mariage de Sophie.
-  Wir sind zur Hochzeit von Sophie *eingeladen*.
+  We're *invited* to Sophie's wedding.
 
   Le beau temps *invite* à la promenade.
-  Das schöne Wetter *lädt* zu einem Spaziergang *ein*.
+  The beautiful weather invites you to *a* walk.
 
   Je l'ai *invitée* à danser lors du bal.
-  Ich habe sie während des Balls zum Tanz *aufgefordert*.
+  I asked her to dance during the ball.
 
   Les enfants *s'invitent* tour à tour pour jouer.
-  Die Kinder *laden* sich abwechselnd zum Spielen *ein*.
+  The children invite themselves to play alternately.
 
   Le médecin m'a *invité* à faire plus d'exercice.
-  Der Arzt hat mich *aufgefordert*, mehr Sport zu treiben.
+  The doctor asked me to do more exercise.
 
   Je vous *invite* fortement à baisser le volume.
-  Ich *fordere* Sie nachdrücklich auf, die Lautstärke zu senken.
+  I urge you to lower the volume.
 
   Elle *s'invite* partout, c'est vraiment gênant.
-  Sie *lädt* sich überall selbst *ein*, das ist wirklich unangenehm.
+  She invites herself everywhere, it's really unpleasant.
 
   Je vous *invite* chez moi dimanche prochain.
-  Ich *lade* Sie nächsten Sonntag zu mir *ein*.
+  I'll invite you to my house next Sunday.
 
   La situation *invite* à la prudence.
-  Die Situation *mahnt* zur Vorsicht.
+  The situation admonishes caution.
 
   Nous sommes *invités* à payer nos impôts avant le 15 mars.
-  Wir sind *aufgefordert*, unsere Steuern vor dem 15. März zu zahlen.
+  We are asked to pay our taxes before 15 March.
 
   Il m'a gentiment *invité* à prolonger mon séjour.
-  Er hat mich freundlich *eingeladen*, meinen Aufenthalt zu verlängern.
+  He kindly *invited* me to extend my stay.
 
   Les clients sont *invités* à patienter dans la salle d'attente.
-  Die Kunden werden *gebeten*, im Wartezimmer Platz zu nehmen.
+  Customers are asked to sit in the waiting room.
 
   Tu es *invité* à mon anniversaire samedi prochain !
-  Du bist zu meinem Geburtstag am nächsten Samstag *eingeladen*!
+  You're *invited* to my birthday next Saturday!
 
   L'entreprise *invite* ses employés à la fête de Noël.
-  Die Firma *lädt* ihre Mitarbeiter zur Weihnachtsfeier *ein*.
+  The company invites its employees to the Christmas party.
 
   Le parfum des fleurs *invitait* à la rêverie.
-  Der Duft der Blumen *lud* zum Träumen *ein*.
+  The scent of flowers invited you to dream.
 
   Le directeur m'a *invité* dans son bureau pour discuter.
-  Der Direktor hat mich in sein Büro *gebeten*, um zu sprechen.
+  The director asked me to his office to speak.
 
   Nous *invitons* tous les participants à s'inscrire avant vendredi.
-  Wir *bitten* alle Teilnehmer, sich vor Freitag anzumelden.
+  We *ask* all participants to register before Friday.
 
   Je vous *invite* à réfléchir sur les conséquences.
-  Ich *fordere* Sie auf, über die Konsequenzen nachzudenken.
+  I urge you to think about the consequences.
 
   Marc *s'est invité* à notre pique-nique surprise.
-  Marc hat sich selbst zu unserem Überraschungspicknick *eingeladen*.
+  Marc *invited* himself to our surprise picnic.
 
   Cette œuvre *invite* à la réflexion.
-  Dieses Werk *regt* zum Nachdenken *an*.
+  This work encourages reflection.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

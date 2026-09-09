@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3476
 Wort: théorique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: théorique
 Femininum / Plural: ''
 IPA: \te.ɔ.ʁik\
-Definition: theoretisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: theoretical
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ma question n'était pas purement *théorique*.
-  Meine Frage war nicht rein *theoretisch*.
+  My question was not purely *theoretical*.
 
   Les concepts *théoriques* de la physique quantique sont difficiles à comprendre.
-  Die *theoretischen* Konzepte der Quantenphysik sind schwer zu verstehen.
+  The *theoretical* concepts of quantum physics are difficult to understand.
 
   L'heure *théorique* d'arrivée du train est 15h30.
-  Die *theoretische* Ankunftszeit des Zuges ist 15:30 Uhr.
+  The train's *theoretical* arrival time is 3:30.
 
   Ce livre est trop *théorique* pour des débutants.
-  Dieses Buch ist zu *theorielastig* für Anfänger.
+  This book is too *theoretical* for beginners.
 
   La formation combine des aspects *théoriques* et pratiques.
-  Die Ausbildung verbindet *theoretische* und praktische Aspekte.
+  The training combines *theoretical* and practical aspects.
 
   Cette possibilité reste purement *théorique*.
-  Diese Möglichkeit bleibt rein *theoretisch*.
+  This possibility remains purely *theoretical*.
 
   Les mathématiques *théoriques* m'ont toujours fasciné.
-  Die *theoretische* Mathematik hat mich schon immer fasziniert.
+  *Theoretical* mathematics has always fascinated me.
 
   L'égalité entre les citoyens n'est pas seulement *théorique*.
-  Die Gleichheit zwischen den Bürgern ist nicht nur *theoretisch*.
+  Equality between citizens is not just *theoretical*.
 
   Le cours *théorique* sera suivi d'exercices pratiques.
-  Dem *theoretischen* Unterricht folgen praktische Übungen.
+  The *theoretical* lessons are followed by practical exercises.
 
   Cette approche *théorique* ne correspond pas à la réalité.
-  Dieser *theoretische* Ansatz entspricht nicht der Realität.
+  This *theoretical* approach does not correspond to reality.
 
   Les recherches *théoriques* ont mené à des applications concrètes.
-  Die *theoretischen* Forschungen haben zu konkreten Anwendungen geführt.
+  *Theoretical* research has led to concrete applications.
 
   Le candidat a de bonnes connaissances *théoriques*.
-  Der Kandidat hat gute *theoretische* Kenntnisse.
+  The candidate has good *theoretical* knowledge.
 
   La vitesse *théorique* maximale est de 300 km/h.
-  Die *theoretische* Höchstgeschwindigkeit beträgt 300 km/h.
+  The *theoretical* maximum speed is 300 km/h.
 
   Ces calculs *théoriques* doivent être vérifiés expérimentalement.
-  Diese *theoretischen* Berechnungen müssen experimentell überprüft werden.
+  These *theoretical* calculations must be experimentally checked.
 
   L'examen comportera une partie *théorique* et une partie pratique.
-  Die Prüfung besteht aus einem *theoretischen* und einem praktischen Teil.
+  The test consists of a *theoretical* and a practical part.
 
   La réussite *théorique* du projet dépend de nombreux facteurs.
-  Der *theoretische* Erfolg des Projekts hängt von vielen Faktoren ab.
+  The *theoretical* success of the project depends on many factors.
 
   Le modèle *théorique* ne prend pas en compte tous les paramètres.
-  Das *theoretische* Modell berücksichtigt nicht alle Parameter.
+  The *theoretical* model does not take all parameters into account.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

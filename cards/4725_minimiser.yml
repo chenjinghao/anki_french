@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4725
 Wort: minimiser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: minimiser
 Femininum / Plural: ''
 IPA: \mi.ni.mi.ze\
-Definition: herunterspielen, kleinreden
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: play down, talk down
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il tend donc à *minimiser* le problème.
-  Er neigt also dazu, das Problem *kleinzureden*.
+  So he tends to talk the problem down.
 
   Ne *minimisez* pas vos réussites, vous avez fait un excellent travail !
-  *Spielen* Sie Ihre Erfolge nicht *herunter*, Sie haben ausgezeichnete Arbeit geleistet!
+  Don't *play* *down* your successes, you've done an excellent job!
 
   Les médias tentent de *minimiser* la gravité de la situation.
-  Die Medien versuchen, die Schwere der Situation *herunterzuspielen*.
+  The media are trying to downplay the severity of the situation.
 
   Marie a toujours tendance à *minimiser* ses talents artistiques.
-  Marie neigt immer dazu, ihre künstlerischen Talente *kleinzureden*.
+  Marie always tends to talk her artistic talents down.
 
   Le directeur a *minimisé* l'importance de l'incident devant la presse.
-  Der Direktor hat die Bedeutung des Vorfalls vor der Presse *heruntergespielt*.
+  The director downplayed the significance of the incident in front of the press.
 
   En *minimisant* son rôle dans le projet, Pierre fait preuve de modestie excessive.
-  Indem Pierre seine Rolle im Projekt *herunterspielt*, zeigt er übertriebene Bescheidenheit.
+  By playing down his role in the project, Pierre shows excessive modesty.
 
   Les experts nous conseillent de ne pas *minimiser* les risques du changement climatique.
-  Die Experten raten uns, die Risiken des Klimawandels nicht *kleinzureden*.
+  The experts advise us not to reduce the risks of climate change.
 
   Elle a essayé de *minimiser* la valeur du travail de son collègue.
-  Sie hat versucht, den Wert der Arbeit ihres Kollegen *herabzusetzen*.
+  She tried to *reduce* the value of her colleague's work.
 
   Le gouvernement ne devrait pas *minimiser* l'impact de cette décision.
-  Die Regierung sollte die Auswirkungen dieser Entscheidung nicht *herunterspielen*.
+  The government should not downplay the impact of this decision.
 
   Thomas *minimise* toujours l'importance de ses problèmes de santé.
-  Thomas *spielt* die Bedeutung seiner gesundheitlichen Probleme immer *herunter*.
+  Thomas always plays *down* the importance of his health problems.
 
   Les parents ne devraient pas *minimiser* les inquiétudes de leurs enfants.
-  Eltern sollten die Sorgen ihrer Kinder nicht *kleinreden*.
+  Parents shouldn't talk their children's worries down.
 
   En *minimisant* ces accusations, vous aggravez la situation.
-  Indem Sie diese Anschuldigungen *herunterspielen*, verschlimmern Sie die Situation.
+  By playing down these allegations, you're making the situation worse.
 
   L'entreprise a tenté de *minimiser* l'ampleur du scandale.
-  Das Unternehmen hat versucht, das Ausmaß des Skandals *kleinzureden*.
+  The company has tried to reduce the scale of the scandal.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

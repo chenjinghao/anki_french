@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4950
 Wort: civique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: civique
 Femininum / Plural: ''
 IPA: \si.vik\
-Definition: bürgerlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Civil
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les droits *civiques* sont accordés aux 336.000 arabes israéliens.
-  Die *Bürger*rechte werden den 336.000 israelischen Arabern gewährt.
+  Civil rights are granted to the 336 000 Israeli Arabs.
 
   L'instruction *civique* est une matière importante à l'école.
-  Der *Gemeinschafts*kundeunterricht ist ein wichtiges Schulfach.
+  *Community* education is an important subject.
 
   Le sens *civique* des habitants s'est manifesté lors du nettoyage de la rivière.
-  Der *Bürger*sinn der Einwohner zeigte sich bei der Säuberung des Flusses.
+  The *citizens*' sense of reason was evident in the cleansing of the river.
 
   Maria a perdu ses droits *civiques* pendant cinq ans.
-  Maria wurde für fünf Jahre ihrer *Bürger*rechte verworfen.
+  Mary was rejected for five years of her civil rights.
 
   Je suis fier de mon devoir *civique* quand je vais voter.
-  Ich bin stolz auf meine *bürgerliche* Pflicht, wenn ich wähle.
+  I'm proud of my civic duty when I choose.
 
   L'esprit *civique* se développe dès le plus jeune âge.
-  Der *Gemeinschafts*sinn entwickelt sich von klein auf.
+  The sense of *community* develops from a very small age.
 
   Le courage *civique* de Thomas a sauvé la vie d'une famille.
-  Thomas' *Zivil*courage hat einer Familie das Leben gerettet.
+  Thomas's civilian courage saved a family's life.
 
   Les vertus *civiques* sont essentielles pour une démocratie forte.
-  *Bürgerliche* Tugenden sind wesentlich für eine starke Demokratie.
+  Civil virtues are essential to a strong democracy.
 
   Notre professeur d'éducation *civique* nous explique le système politique.
-  Unser *Gemeinschafts*kundelehrer erklärt uns das politische System.
+  Our *community* science teacher explains the political system to us.
 
   La responsabilité *civique* nous concerne tous.
-  Die *bürgerliche* Verantwortung betrifft uns alle.
+  *Civil* responsibility concerns us all.
 
   L'engagement *civique* des jeunes augmente chaque année.
-  Das *bürgerschaftliche* Engagement der Jugendlichen nimmt jedes Jahr zu.
+  The civic commitment of young people is increasing every year.
 
   La formation *civique* est obligatoire pour les nouveaux arrivants.
-  Die *staatsbürgerliche* Schulung ist für Neuankömmlinge verpflichtend.
+  The civic training is mandatory for new arrivals.
 
   Le comportement *civique* de chacun est important pendant la pandémie.
-  Das *bürgerliche* Verhalten jedes Einzelnen ist während der Pandemie wichtig.
+  The bourgeois behavior of each individual is important during the pandemic.
 
   L'éducation *civique* commence à la maison.
-  Die *staatsbürgerliche* Erziehung beginnt zu Hause.
+  The civic education begins at home.
 
   La conscience *civique* nous pousse à respecter l'environnement.
-  Das *bürgerliche* Bewusstsein treibt uns an, die Umwelt zu respektieren.
+  *Civil* consciousness drives us to respect the environment.
 
   Les valeurs *civiques* sont transmises de génération en génération.
-  Die *staatsbürgerlichen* Werte werden von Generation zu Generation weitergegeben.
+  The civic values are passed on from generation to generation.
 
   La participation *civique* est le fondement de notre société.
-  Die *bürgerliche* Beteiligung ist das Fundament unserer Gesellschaft.
+  *Civil* participation is the foundation of our society.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2434
 Wort: domicile
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le domicile
 Femininum / Plural: ''
 IPA: \dɔ.mi.sil\
-Definition: Wohnsitz, Haus-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Residence, home
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai eu une urgence *à domicile*.
-  Ich hatte einen Notfall *zu Hause*.
+  I had an emergency *at home*.
 
   Ils cherchent un nouveau *domicile* depuis trois mois.
-  Sie suchen seit drei Monaten eine neue *Wohnung*.
+  They've been looking for a new apartment for three months.
 
   Le *domicile* de mes parents se trouve dans un quartier calme.
-  Die *Wohnung* meiner Eltern liegt in einem ruhigen Viertel.
+  My parents' apartment is in a quiet neighborhood.
 
   La police enquête sur une violation de *domicile*.
-  Die Polizei ermittelt wegen *Haus*friedensbruchs.
+  The police are investigating the violation of domestic peace.
 
   Il n'a pas signalé son changement de *domicile* à la mairie.
-  Er hat seinen *Wohnsitz*wechsel nicht beim Rathaus gemeldet.
+  He didn't report his change of *residence* to the City Hall.
 
   Cette personne sans *domicile* fixe dort dans le parc.
-  Diese Person ohne festen *Wohnsitz* schläft im Park.
+  This person without a permanent *residence* sleeps in the park.
 
   La famille a *élu domicile* dans un petit village près de la mer.
-  Die Familie hat sich in einem kleinen Dorf am Meer *niedergelassen*.
+  The family settled in a small village by the sea.
 
   Les livraisons *à domicile* sont gratuites.
-  Die Lieferungen *frei Haus* sind kostenlos.
+  The deliveries are free of charge.
 
   Elle préfère travailler *à domicile* plutôt qu'au bureau.
-  Sie arbeitet lieber von *zu Hause* aus als im Büro.
+  She prefers to work from home rather than from the office.
 
   Mon frère a quitté le *domicile* conjugal hier soir.
-  Mein Bruder hat gestern Abend die eheliche *Wohnung* verlassen.
+  My brother left the marital home last night.
 
   Le *domicile* de notre société se trouve au centre-ville.
-  Der Firmen*sitz* befindet sich in der Innenstadt.
+  The company headquarters are located in the city center.
 
   "Tu ferais mieux de regagner ton *domicile*", m'a conseillé mon ami.
-  "Du solltest besser nach *Hause* gehen", riet mir mein Freund.
+  "You better go *home*," my friend told me.
 
   Les cambrioleurs sont entrés par effraction dans son *domicile*.
-  Die Einbrecher sind gewaltsam in ihre *Wohnung* eingedrungen.
+  The burglars have forcibly invaded her home.
 
   Notre entreprise propose des services de massage à *domicile*.
-  Unser Unternehmen bietet Massage*hausbesuche* an.
+  Our company offers massage *house visits*.
 
   Ils ont établi leur *domicile* dans une ancienne ferme rénovée.
-  Sie haben ihre *Wohnung* in einem renovierten alten Bauernhaus eingerichtet.
+  They have furnished their apartment in a renovated old farmhouse.
 
   Le médecin fait des visites à *domicile* le weekend.
-  Der Arzt macht am Wochenende *Hausbesuche*.
+  The doctor makes house calls this weekend.
 
   Les agents immobiliers proposent des visites de *domicile* virtuelles.
-  Die Immobilienmakler bieten virtuelle *Wohnungs*besichtigungen an.
+  The real estate agents offer virtual apartment tours.
 
   Paul n'a pas de *domicile* fixe depuis son divorce.
-  Paul hat seit seiner Scheidung keinen festen *Wohnsitz*.
+  Paul hasn't had a permanent place of *residence* since his divorce.
 
   La banque m'envoie mes relevés à mon nouveau *domicile*.
-  Die Bank schickt mir meine Kontoauszüge an meinen neuen *Wohnsitz*.
+  The bank sends me my bank statements to my new *residence*.
 
   Notre *domicile* a été cambriolé pendant les vacances.
-  In unsere *Wohnung* wurde während des Urlaubs eingebrochen.
+  Our apartment was broken into during the holiday.
 
   L'infirmière prodigue des soins à *domicile*.
-  Die Krankenschwester leistet *Haus*pflege.
+  The nurse's doing housekeeping.
 
   Marie garde les enfants *à domicile*.
-  Marie betreut die Kinder *zu Hause*.
+  Marie takes care of the children *at home*.
 
   J'ai fait installer une alarme dans mon *domicile*.
-  Ich habe in meiner *Wohnung* eine Alarmanlage installieren lassen.
+  I had an alarm system installed in my apartment.
 
   Le coiffeur propose maintenant des prestations à *domicile*.
-  Der Friseur bietet jetzt *Haus*besuche an.
+  The hairdresser is now offering *house* calls.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

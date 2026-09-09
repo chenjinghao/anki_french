@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1587
 Wort: définition
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la définition
 Femininum / Plural: ''
 IPA: \de.fi.ni.sjɔ̃\
 Definition: Definition
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je voudrais savoir quelle est sa *définition* d'égalité.
-  Ich möchte wissen, was seine *Definition* von Gleichheit ist.
+  I want to know what his *definition* of equality is.
 
   La *définition* de ce concept est compliquée à établir.
-  Die *Definition* dieses Konzepts ist schwierig festzulegen.
+  The *definition* of this concept is difficult to define.
 
   Les élèves doivent apprendre la *définition* du cercle par cœur.
-  Die Schüler müssen die *Definition* des Kreises auswendig lernen.
+  Students must memorize the *definition* of the circle.
 
   La télévision en haute *définition* offre une meilleure qualité d'image.
-  Das Fernsehen in hoher *Auflösung* bietet eine bessere Bildqualität.
+  High-*resolution* television offers better image quality.
 
   Le professeur nous a donné une *définition* claire et précise du mot.
-  Der Lehrer hat uns eine klare und präzise *Definition* des Wortes gegeben.
+  The teacher gave us a clear and precise *definition* of the word.
 
   Cette proposition est vraie par *définition*.
-  Diese Aussage ist *definitions*gemäß wahr.
+  This statement is by definition true.
 
   La *définition* de notre public cible est essentielle pour la campagne.
-  Die *Beschreibung* unserer Zielgruppe ist wesentlich für die Kampagne.
+  The *description* of our target group is essential for the campaign.
 
   J'ai du mal à résoudre les *définitions* de ces mots croisés.
-  Ich tue mich schwer damit, die *Definitionen* dieses Kreuzworträtsels zu lösen.
+  I find it hard to solve the *definitions* of this crossword puzzle.
 
   La *définition* légale du terme a été modifiée l'année dernière.
-  Die gesetzliche *Definition* des Begriffs wurde letztes Jahr geändert.
+  The legal *definition* of the term was changed last year.
 
   L'appareil photo permet des photos en haute *définition*.
-  Die Kamera ermöglicht Fotos in hoher *Auflösung*.
+  The camera allows high-*resolution* photos.
 
   Cette *définition* du dictionnaire n'est pas très utile.
-  Diese *Definition* im Wörterbuch ist nicht sehr hilfreich.
+  This *definition* in the dictionary is not very helpful.
 
   Par *définition*, un triangle a trois côtés.
-  Ein Dreieck hat *definitions*gemäß drei Seiten.
+  By definition, a triangle has three sides.
 
   La *définition* de cette fonction mathématique est complexe.
-  Die *Definition* dieser mathematischen Funktion ist komplex.
+  The *definition* of this mathematical function is complex.
 
   Quelle est votre *définition* du bonheur ?
-  Was ist Ihre *Definition* von Glück?
+  What is your *definition* of happiness?
 
   La *définition* d'un produit innovant demande beaucoup de réflexion.
-  Die *Charakterisierung* eines innovativen Produkts erfordert viel Nachdenken.
+  The characterization of an innovative product requires a lot of thought.
 
   L'écran affiche une image en haute *définition*.
-  Der Bildschirm zeigt ein Bild in hoher *Auflösung*.
+  The screen shows a high *resolution* image.
 
   Cette *définition* nominale explique l'origine du mot.
-  Diese nominale *Definition* erklärt die Herkunft des Wortes.
+  This nominal *definition* explains the origin of the word.
 
   Le domaine de *définition* de cette fonction est l'ensemble des réels.
-  Der *Definitions*bereich dieser Funktion ist die Menge der reellen Zahlen.
+  The definition of this function is the amount of real numbers.
 
   La *définition* de ce mot a évolué au fil du temps.
-  Die *Definition* dieses Wortes hat sich im Laufe der Zeit entwickelt.
+  The *definition* of this word has developed over time.
 
   Je cherche une *définition* simple pour expliquer ce concept aux enfants.
-  Ich suche eine einfache *Definition*, um dieses Konzept den Kindern zu erklären.
+  I'm looking for a simple *definition* to explain this concept to the children.
 
   Une bonne *définition* doit être précise et concise.
-  Eine gute *Definition* muss präzise und knapp sein.
+  A good *definition* must be precise and concise.
 
   L'image manque de *définition*, elle est floue.
-  Dem Bild fehlt es an *Auflösung*, es ist verschwommen.
+  The image lacks *resolution*, it is blurred.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

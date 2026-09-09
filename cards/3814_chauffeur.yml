@@ -1,92 +1,92 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3814
 Wort: chauffeur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chauffeur
 Femininum / Plural: ''
 IPA: \ʃo.fœʁ\
-Definition: Fahrer [Beruf]
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Driver [professional]
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *chauffeur* du véhicule n'a pas été identifié.
-  Der *Fahrer* des Fahrzeugs konnte nicht identifiziert werden.
+  The *driver* of the vehicle could not be identified.
 
   La *chauffeuse* de taxi nous a raconté des histoires intéressantes pendant le trajet.
-  Die Taxi*fahrerin* hat uns während der Fahrt interessante Geschichten erzählt.
+  The taxi driver told us interesting stories while driving.
 
   Mon frère est *chauffeur* routier et parcourt toute l'Europe.
-  Mein Bruder ist Fern*fahrer* und fährt durch ganz Europa.
+  My brother is a long-distance driver and travels all over Europe.
 
   "Je ne suis pas ton *chauffeur* personnel !" s'est plaint Paul à sa sœur.
-  "Ich bin nicht dein persönlicher *Chauffeur*!" beschwerte sich Paul bei seiner Schwester.
+  "I'm not your personal *chauffeur*!" Paul complained to his sister.
 
   Ce *chauffeur* de camion a plus de vingt ans d'expérience.
-  Dieser Lkw-*Fahrer* hat über zwanzig Jahre Erfahrung.
+  This truck *driver* has over twenty years of experience.
 
   Les *chauffeurs* doivent respecter les temps de pause obligatoires.
-  Die *Fahrer* müssen die vorgeschriebenen Pausenzeiten einhalten.
+  Drivers must comply with the prescribed break times.
 
   La compagnie recherche des *chauffeurs* professionnels pour ses nouveaux bus.
-  Das Unternehmen sucht professionelle *Fahrer* für seine neuen Busse.
+  The company is looking for professional drivers for its new buses.
 
   Notre *chauffeur* de maître travaille pour notre famille depuis dix ans.
-  Unser *Chauffeur* arbeitet seit zehn Jahren für unsere Familie.
+  Our *chauffeur* has been working for our family for ten years.
 
   Les *chauffeurs* livreurs commencent leur travail très tôt le matin.
-  Die Liefer*fahrer* beginnen ihre Arbeit sehr früh am Morgen.
+  The delivery *drivers* start their work very early in the morning.
 
   Marc sera notre *chauffeur* pour aller au mariage samedi.
-  Marc wird am Samstag unser *Fahrer* zur Hochzeit sein.
+  Marc will be our *driver* for the wedding on Saturday.
 
   La nouvelle *chauffeuse* de bus est très appréciée par les passagers.
-  Die neue Bus*fahrerin* ist bei den Fahrgästen sehr beliebt.
+  The new bus driver is very popular with the passengers.
 
   Les *chauffeurs* de locomotive à vapeur devaient constamment surveiller le feu.
-  Die Dampflok*führer* mussten ständig das Feuer überwachen.
+  The steam locomotive drivers had to keep monitoring the fire.
 
   Un bon *chauffeur* doit toujours rester attentif sur la route.
-  Ein guter Auto*fahrer* muss auf der Straße immer aufmerksam bleiben.
+  A good driver must always be alert on the road.
 
   Ce *chauffeur* du dimanche ne sait même pas faire un créneau !
-  Dieser Sonntags*fahrer* kann nicht einmal einparken!
+  This Sunday driver can't even park!
 
   Notre ancien *chauffeur* de taxi connaissait toutes les rues de la ville.
-  Unser ehemaliger Taxi*fahrer* kannte alle Straßen der Stadt.
+  Our former taxi driver knew all the streets of the city.
 
   Le *chauffeur* nous déposera devant l'hôtel à huit heures précises.
-  Der *Chauffeur* wird uns um Punkt acht Uhr vor dem Hotel absetzen.
+  The *chauffeur* will drop us off in front of the hotel at eight o'clock.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>conducteur</i> und <i>chauffeur</i></div>
+    <div class="section-title"><i>conducteur</i> and <i>chauffeur</i></div>
     <div class="section-content">
-      <p><span class="fr">Conducteur</span> (#3072) bedeutet <span class="de">"Fahrer"</span> im allgemeinen Sinne und bezeichnet jede Person, die ein Fahrzeug führt, unabhängig vom Fahrzeugtyp oder beruflichen Kontext.</p>
+      <p><span class="fr">Conducteur</span> (#3072) means <span class="de">"Fahrer"</span> in the general sense and means any person driving a vehicle, irrespective of the type of vehicle or professional context.</p>
       <div class="examples">
         <div class="fr">Le conducteur a respecté le code de la route.</div>
-        <div class="de spoiler">Der Fahrer hat die Straßenverkehrsordnung befolgt.</div>
+        <div class="de spoiler">The driver followed the road code.</div>
         <div class="fr">Elle est une conductrice expérimentée.</div>
-        <div class="de spoiler">Sie ist eine erfahrene Fahrerin.</div>
+        <div class="de spoiler">She's an experienced driver.</div>
       </div>
-      <p><span class="fr">Chauffeur</span> bezeichnet ursprünglich einen <span class="de">"Berufskraftfahrer"</span> oder <span class="de">"Chauffeur"</span>, also jemanden, der beruflich für andere Personen fährt. Es kann auch für Fahrer von öffentlichen Verkehrsmitteln verwendet werden.</p>
+      <p><span class="fr">Chauffeur</span> originally means a <span class="de">"Berufskraftfahrer"</span> or <span class="de">"Chauffeur"</span>It can also be used for drivers of public transport.</p>
       <div class="examples">
         <div class="fr">Le chauffeur de taxi connaît bien la ville.</div>
-        <div class="de spoiler">Der Taxifahrer kennt die Stadt gut.</div>
+        <div class="de spoiler">The taxi driver knows the city well.</div>
         <div class="fr">Notre chauffeur privé viendra nous chercher à huit heures.</div>
-        <div class="de spoiler">Unser Privatfahrer wird uns um acht Uhr abholen.</div>
+        <div class="de spoiler">Our private driver will pick us up at eight o'clock.</div>
         <div class="fr">Le chauffeur d'autobus s'est arrêté à tous les arrêts.</div>
-        <div class="de spoiler">Der Busfahrer hat an allen Haltestellen angehalten.</div>
+        <div class="de spoiler">The bus driver stopped at all stops.</div>
       </div>
-      <p>In der Umgangssprache wird <span class="fr">chauffeur</span> jedoch oft synonym zu <span class="fr">conducteur</span> verwendet, besonders im Kontext von Privatfahrzeugen.</p>
+      <p>In the common language: <span class="fr">chauffeur</span> but often synonymous with <span class="fr">conducteur</span> used, especially in the context of private vehicles.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

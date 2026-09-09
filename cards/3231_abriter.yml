@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3231
 Wort: abriter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: abriter
 Femininum / Plural: ''
 IPA: \a.bʁi.te\
-Definition: beherbergen, schützen (vor)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: shelter, protect (from)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je sais où ce monstre *s'abrite*.
-  Ich weiß, wo sich dieses Monster *versteckt*.
+  I know where this monster is hiding.
 
   Ce grand arbre nous *abrite* du soleil.
-  Dieser große Baum *schützt* uns vor der Sonne.
+  This large tree *protects* us from the sun.
 
   La grotte *abrite* de nombreuses espèces de chauves-souris.
-  Die Höhle *beherbergt* zahlreiche Fledermausarten.
+  The cave houses numerous bat species.
 
   Les manifestants se sont *abrités* sous les arcades.
-  Die Demonstranten haben sich unter den Arkaden *untergestellt*.
+  The demonstrators have placed themselves under the arcades.
 
   Cet immeuble *abrite* plus de cinquante familles.
-  Dieses Gebäude *beherbergt* mehr als fünfzig Familien.
+  This building houses more than fifty families.
 
   Elle *s'abrite* derrière son manque d'expérience pour refuser le poste.
-  Sie *versteckt* sich hinter ihrer mangelnden Erfahrung, um die Stelle abzulehnen.
+  She hides behind her lack of experience to reject the job.
 
   Le hangar *abrite* tous nos outils de jardinage.
-  Der Schuppen *bietet* all unseren Gartengeräten *Schutz*.
+  The shed provides *protection* for all our garden equipment.
 
   Nous devons *nous abriter* immédiatement, l'orage arrive !
-  Wir müssen uns sofort *in Sicherheit bringen*, das Gewitter kommt!
+  We need to get to safety right away, the thunderstorm is coming!
 
   Cette petite cabane *abrite* les randonneurs depuis des décennies.
-  Diese kleine Hütte *bietet* Wanderern seit Jahrzehnten *Unterschlupf*.
+  This small hut *offers* hikers shelter for decades.
 
   Les enfants se sont *abrités* sous mon parapluie.
-  Die Kinder haben sich unter meinem Regenschirm *untergestellt*.
+  The kids were hiding under my umbrella.
 
   Le nouveau bâtiment *abritera* bientôt la bibliothèque municipale.
-  Das neue Gebäude wird bald die Stadtbibliothek *beherbergen*.
+  The new building will soon accommodate the city library.
 
   Il *s'abrite* toujours derrière le règlement pour éviter les problèmes.
-  Er *versteckt* sich immer hinter den Vorschriften, um Probleme zu vermeiden.
+  He always hides behind the rules to avoid problems.
 
   Cette vallée est bien *abritée* des vents du nord.
-  Dieses Tal ist gut vor den Nordwinden *geschützt*.
+  This valley is well *protected* from the north winds.
 
   Le vieux château *abrite* maintenant un musée d'art moderne.
-  Das alte Schloss *beherbergt* jetzt ein Museum für moderne Kunst.
+  The old castle now houses a museum of modern art.
 
   Les oiseaux se sont *abrités* dans les branches pendant la tempête.
-  Die Vögel haben während des Sturms in den Zweigen *Schutz gesucht*.
+  The birds sought shelter during the storm in the branches.
 
   Cette ancienne usine *abrite* désormais des start-ups innovantes.
-  Diese ehemalige Fabrik *beherbergt* jetzt innovative Start-ups.
+  This former factory now houses innovative start-ups.
 
   Nous nous sommes *abrités* derrière un mur pendant la fusillade.
-  Wir haben uns während der Schießerei hinter einer Mauer *in Deckung gebracht*.
+  We got ourselves *covered* behind a wall during the shooting.
 
   Le port est bien *abrité* des vagues.
-  Der Hafen ist gut vor den Wellen *geschützt*.
+  The port is well *protected* from the waves.
 
   Marie *s'abrite* toujours derrière ses collègues quand il y a des décisions difficiles.
-  Marie *versteckt* sich immer hinter ihren Kollegen, wenn es schwierige Entscheidungen gibt.
+  Marie always hides behind her colleagues when there are difficult decisions.
 
   Cette petite île *abrite* des espèces uniques au monde.
-  Diese kleine Insel *beherbergt* weltweit einzigartige Arten.
+  This small island hosts unique species worldwide.
 
   La cave *abrite* une collection impressionnante de vins.
-  Der Keller *beherbergt* eine beeindruckende Weinsammlung.
+  The cellar houses an impressive wine collection.
 
   Les soldats se sont *abrités* derrière les ruines.
-  Die Soldaten haben sich hinter den Ruinen *verschanzt*.
+  The soldiers were hiding behind the ruins.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

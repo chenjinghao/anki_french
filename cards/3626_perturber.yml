@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3626
 Wort: perturber
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: perturber
 Femininum / Plural: ''
 IPA: \pɛʁ.tyʁ.be\
-Definition: durcheinanderbringen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Dissolve
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis *perturbée* par une enquête que je mène.
-  Ich bin durch eine Ermittlung, die ich führe, *verstört*.
+  I'm *disturbed* by an investigation I'm conducting.
 
   La grève des conducteurs a *perturbé* le trafic ferroviaire pendant trois jours.
-  Der Streik der Lokführer hat den Zugverkehr drei Tage lang *gestört*.
+  The strike of the train drivers has disrupted the train traffic for three days.
 
   Les travaux routiers vont *perturber* la circulation dans le centre-ville.
-  Die Straßenarbeiten werden den Verkehr in der Innenstadt *beeinträchtigen*.
+  Road work will *affect* traffic in the city centre.
 
   Cette musique forte *perturbe* ma concentration.
-  Diese laute Musik *stört* meine Konzentration.
+  This loud music disturbs my concentration.
 
   Les élèves ont *perturbé* le cours en bavardant sans arrêt.
-  Die Schüler haben den Unterricht durch ständiges Schwatzen *gestört*.
+  The students have disturbed the lessons by constantly chatting.
 
   Mon téléphone qui sonne a *perturbé* la réunion importante.
-  Mein klingelndes Telefon hat die wichtige Besprechung *gestört*.
+  My ringing phone disturbed the important meeting.
 
   Les changements climatiques *perturbent* l'écosystème marin.
-  Der Klimawandel *bringt* das Meeresökosystem *durcheinander*.
+  Climate change is confusing *the* marine ecosystem.
 
   Le bruit des voisins *perturbe* mon sommeil.
-  Der Lärm der Nachbarn *stört* meinen Schlaf.
+  The noise of the neighbors disturbs my sleep.
 
   La nouvelle de son départ m'a profondément *perturbé*.
-  Die Nachricht von seinem Weggang hat mich tief *erschüttert*.
+  The news of his departure has deeply shaken me.
 
   Les orages violents ont *perturbé* les communications satellites.
-  Die heftigen Gewitter haben die Satellitenkommunikation *gestört*.
+  The violent thunderstorms have disrupted satellite communications.
 
   Le décalage horaire a complètement *perturbé* mon rythme de sommeil.
-  Die Zeitverschiebung hat meinen Schlafrhythmus völlig *durcheinandergebracht*.
+  The time shift has completely upset my sleep rhythm.
 
   Ces médicaments peuvent *perturber* votre digestion.
-  Diese Medikamente können Ihre Verdauung *stören*.
+  These medications can interfere with your digestion.
 
   La présence d'un nouveau chat a *perturbé* les habitudes de mon chien.
-  Die Anwesenheit einer neuen Katze hat die Gewohnheiten meines Hundes *durcheinandergebracht*.
+  The presence of a new cat has upset my dog's habits.
 
   Son comportement étrange a *perturbé* l'ambiance de la fête.
-  Sein seltsames Verhalten hat die Stimmung der Party *gestört*.
+  His strange behavior has disturbed the mood of the party.
 
   Les manifestations vont *perturber* l'organisation du festival.
-  Die Demonstrationen werden die Organisation des Festivals *stören*.
+  The demonstrations will disturb the organisation of the festival.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3428
 Wort: évacuer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: évacuer
 Femininum / Plural: ''
 IPA: \e.va.kɥe\
-Definition: evakuieren, räumen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Evacuate, clear
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez cinq minutes pour *évacuer* les lieux.
-  Sie haben fünf Minuten, um den Ort zu *räumen*.
+  You have five minutes to *clear* the place.
 
   Les pompiers ont dû *évacuer* la population du village à cause des inondations.
-  Die Feuerwehr musste die Dorfbevölkerung wegen der Überschwemmungen *evakuieren*.
+  The fire brigade had to *evacuate* the village population because of the floods.
 
   Le corps doit *évacuer* les toxines naturellement.
-  Der Körper muss die Giftstoffe auf natürliche Weise *ausscheiden*.
+  The body must excrete the toxins naturally.
 
   L'armée a *évacué* ses troupes pendant la nuit.
-  Das Militär hat seine Truppen in der Nacht *abgezogen*.
+  The military pulled out his troops at night.
 
   Cette canalisation *évacue* les eaux usées de tout l'immeuble.
-  Diese Leitung *leitet* das Abwasser des ganzen Gebäudes *ab*.
+  This line derives the waste water *from* the entire building.
 
   Les manifestants ont *évacué* la place après l'intervention de la police.
-  Die Demonstranten haben den Platz nach dem Eingreifen der Polizei *geräumt*.
+  The demonstrators *cleared* the square after police intervention.
 
   La police a *évacué* le squat de force.
-  Die Polizei hat das besetzte Haus gewaltsam *geräumt*.
+  The police forcibly *cleared* the occupied house.
 
   Les secouristes ont *évacué* les blessés en hélicoptère.
-  Die Rettungskräfte haben die Verletzten per Hubschrauber *abtransportiert*.
+  The rescue forces took the wounded by helicopter.
 
   Il faut *évacuer* l'air chaud du tunnel routier.
-  Die heiße Luft muss aus dem Straßentunnel *abgeleitet* werden.
+  The hot air must be *derived* from the road tunnel.
 
   Le médecin a dû *évacuer* le pus de l'abcès.
-  Der Arzt musste den Eiter aus dem Abszess *entfernen*.
+  The doctor had to *remove* the pus from the abscess.
 
   Les habitants ont été *évacués* vers des zones plus sûres.
-  Die Bewohner wurden in sicherere Gebiete *evakuiert*.
+  The residents were *evacuated* to safer areas.
 
   La valve permet d'*évacuer* l'excès de pression.
-  Das Ventil ermöglicht es, den Überdruck *abzulassen*.
+  The valve allows *to release* the overpressure.
 
   Le navire a dû *évacuer* tous ses passagers.
-  Das Schiff musste alle Passagiere *evakuieren*.
+  The ship had to *evacuate* all passengers.
 
   Les forces de l'ordre ont *évacué* les badauds pour laisser passer les ambulances.
-  Die Ordnungskräfte haben die Schaulustigen *weggeschickt*, um die Krankenwagen durchzulassen.
+  The police have *sent away* the spectators to let the ambulances through.
 
   Le bataillon a *évacué* sa position stratégique.
-  Das Bataillon hat seine strategische Position *geräumt*.
+  The battalion has *cleared* its strategic position.
 
   Cette question délicate ne peut pas être *évacuée* si facilement.
-  Diese heikle Frage lässt sich nicht so einfach *beiseiteschieben*.
+  This delicate question cannot be easily pushed aside.
 
   Les *évacués* ont trouvé refuge dans un gymnase.
-  Die *Evakuierten* haben in einer Turnhalle Zuflucht gefunden.
+  The *evacuated* found refuge in a gymnasium.
 
   Il faut *évacuer* régulièrement le réservoir d'eau.
-  Der Wassertank muss regelmäßig *geleert* werden.
+  The water tank must be emptied regularly.
 
   Les spectateurs ont dû *évacuer* la salle en urgence.
-  Die Zuschauer mussten den Saal dringend *verlassen*.
+  The audience had to *leave* the hall urgently.
 
   Le système *évacue* automatiquement les gaz d'échappement.
-  Das System *leitet* die Abgase automatisch *ab*.
+  The system automatically dissipates the exhaust gases.
 
   Les soldats ont *évacué* le territoire conformément au traité.
-  Die Soldaten haben das Gebiet gemäß dem Vertrag *geräumt*.
+  The soldiers *cleared* the area according to the contract.
 
   Le juge a fait *évacuer* la salle d'audience.
-  Der Richter ließ den Gerichtssaal *räumen*.
+  The judge cleared the courtroom.
 
   La ville a été *évacuée* à cause de l'ouragan.
-  Die Stadt wurde wegen des Hurrikans *evakuiert*.
+  The city was *evacuated* because of the hurricane.
 
   Les pompiers ont *évacué* les sinistrés par le toit.
-  Die Feuerwehr hat die Opfer über das Dach *evakuiert*.
+  The fire department *evacuated* the victims across the roof.
 
   Cette pompe *évacue* l'eau du sous-sol inondé.
-  Diese Pumpe *pumpt* das Wasser aus dem überfluteten Keller *ab*.
+  This *pump* pumps the water out of the flooded cellar.
 
   Les autorités ont *évacué* la zone à risque.
-  Die Behörden haben das Gefahrengebiet *evakuiert*.
+  The authorities have *evacuated* the area of danger.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

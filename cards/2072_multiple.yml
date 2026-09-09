@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2072
 Wort: multiple
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: multiple
 Femininum / Plural: ''
 IPA: \myl.tipl\
-Definition: vielfach, mehrfach
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: multiple, multiple
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il s'oppose aux *multiples* procédures d'extradition.
-  Er widersetzt sich den *vielfachen* Auslieferungsverfahren.
+  He opposes the *multiple* extradition procedures.
 
   Les causes de cette maladie sont *multiples*.
-  Die Ursachen dieser Krankheit sind *vielfältig*.
+  The causes of this disease are manifold.
 
   Cette entreprise propose des solutions à usages *multiples*.
-  Dieses Unternehmen bietet Lösungen zur *vielseitigen* Verwendung an.
+  This company offers solutions for versatile use.
 
   Nous avons examiné le problème sous ses aspects *multiples*.
-  Wir haben das Problem unter seinen *vielfältigen* Aspekten untersucht.
+  We have examined the problem in its many aspects.
 
   Elle a reçu des félicitations de *multiples* personnes.
-  Sie hat von *vielen* Menschen Glückwünsche erhalten.
+  She has received congratulations from *many* people.
 
   Le gouvernement a pris des mesures *multiples* pour lutter contre l'inflation.
-  Die Regierung hat *vielfache* Maßnahmen ergriffen, um die Inflation zu bekämpfen.
+  The government has taken many measures to combat inflation.
 
   Cet appareil photo a des fonctions *multiples*.
-  Diese Kamera hat *vielfältige* Funktionen.
+  This camera has a variety of functions.
 
   "J'ai dû le lui répéter *à de multiples reprises* !"
-  "Ich musste es ihm *wiederholt* sagen!"
+  "I had to tell him repeatedly!"
 
   La réalité est souvent plus *multiple* qu'on ne le pense.
-  Die Realität ist oft *vielschichtiger*, als man denkt.
+  Reality is often more complex than you think.
 
   Le patient a subi une fracture *multiple* de la jambe.
-  Der Patient erlitt einen *komplizierten* Knochenbruch am Bein.
+  The patient suffered a complicated bone fracture on the leg.
 
   Nous avons installé une prise *multiple* dans le bureau.
-  Wir haben eine *Mehrfach*steckdose im Büro installiert.
+  We've installed a *multiple* socket in the office.
 
   Douze est *multiple* de trois et de quatre.
-  Zwölf ist ein *Vielfaches* von drei und vier.
+  Twelve is a *multiple* of three and four.
 
   Les *multiples* de cinq se terminent toujours par zéro ou cinq.
-  Die *Vielfachen* von fünf enden immer mit null oder fünf.
+  The multiples of five always end with zero or five.
 
   Cette artiste crée des œuvres en éditions *multiples*.
-  Diese Künstlerin schafft Werke in *mehrfacher* Auflage.
+  This artist creates works in *multiple* editions.
 
   Le scanner a révélé des lésions *multiples*.
-  Der Scan zeigte *mehrfache* Verletzungen.
+  The scan showed *multiple* injuries.
 
   Il faut prendre en compte les *multiples* facettes de cette question.
-  Man muss die *vielfältigen* Aspekte dieser Frage berücksichtigen.
+  We must take into account the many aspects of this issue.
 
   Les *multiples* talents de cet artiste m'impressionnent.
-  Die *vielfältigen* Talente dieses Künstlers beeindrucken mich.
+  The diverse talents of this artist impress me.
 
   Cette technologie offre des avantages *multiples*.
-  Diese Technologie bietet *vielfache* Vorteile.
+  This technology offers many advantages.
 
   Nous avons rencontré des difficultés *multiples* lors de ce projet.
-  Wir sind bei diesem Projekt auf *vielfältige* Schwierigkeiten gestoßen.
+  We have encountered a variety of difficulties in this project.
 
   L'écosystème de la forêt tropicale abrite une faune *multiple*.
-  Das Ökosystem des Regenwaldes beherbergt eine *vielfältige* Fauna.
+  The ecosystem of the rainforest hosts a diverse fauna.
 
   Les causes de l'échec sont *multiples* et complexes.
-  Die Gründe für das Scheitern sind *vielfältig* und komplex.
+  The reasons for failure are diverse and complex.
 
   Cette ville *multiple* offre une richesse culturelle unique.
-  Diese *vielschichtige* Stadt bietet eine einzigartige kulturelle Vielfalt.
+  This *multi-layered* city offers a unique cultural diversity.
 
   Le plus petit commun *multiple* de 12 et 18 est 36.
-  Das kleinste gemeinsame *Vielfache* von 12 und 18 ist 36.
+  The smallest common *multiple* of 12 and 18 is 36.
 
   Les *multiples* interfaces de ce logiciel le rendent difficile à utiliser.
-  Die *vielfachen* Schnittstellen dieser Software machen sie schwierig zu bedienen.
+  The *multiple* interfaces of this software make them difficult to use.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4327
 Wort: cohérence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la cohérence
 Femininum / Plural: ''
 IPA: \kɔ.e.ʁɑ̃s\
-Definition: Kohärenz, Zusammenhang
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Coherence, context
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut assurer une *cohérence* entre les objectifs et les actions.
-  Man muss den *Zusammenhang* zwischen Zielen und Handlungen sicherstellen.
+  It is necessary to ensure the *link* between goals and actions.
 
   Ces idées manquent de *cohérence* logique.
-  Diesen Ideen fehlt die logische *Kohärenz*.
+  These ideas lack logical *coherence*.
 
   La *cohérence* spatiale du laser permet de créer des hologrammes précis.
-  Die räumliche *Kohärenz* des Lasers ermöglicht die Erstellung präziser Hologramme.
+  The spatial *coherence* of the laser enables the creation of precise holograms.
 
   Le groupe a perdu sa *cohérence* après le départ du leader.
-  Die Gruppe verlor ihren *Zusammenhalt* nach dem Weggang des Anführers.
+  The group lost its *cohesion* after the departure of the leader.
 
   Sa thèse démontre une parfaite *cohérence* dans l'argumentation.
-  Seine Dissertation zeigt eine perfekte *Kohärenz* in der Argumentation.
+  His dissertation shows a perfect *coherence* in the argumentation.
 
   Pour maintenir la *cohérence* du récit, l'auteur a dû modifier plusieurs chapitres.
-  Um den *Zusammenhang* der Erzählung zu wahren, musste der Autor mehrere Kapitel ändern.
+  In order to preserve the context of the narrative, the author had to change several chapters.
 
   Les chercheurs étudient la *cohérence* temporelle des ondes lumineuses.
-  Die Forscher untersuchen die zeitliche *Kohärenz* der Lichtwellen.
+  The researchers investigate the temporal *coherence* of the light waves.
 
   La *cohérence* de son raisonnement m'a vraiment impressionné.
-  Die *Kohärenz* seiner Überlegungen hat mich wirklich beeindruckt.
+  I was really impressed by the *coherence* of his considerations.
 
   Il n'y a aucune *cohérence* entre ce qu'il dit et ce qu'il fait.
-  Es gibt keinen *Zusammenhang* zwischen dem, was er sagt, und dem, was er tut.
+  There is no connection between what he says and what he does.
 
   La *cohérence* du projet a été remise en question lors de la réunion.
-  Die *Kohärenz* des Projekts wurde während der Besprechung in Frage gestellt.
+  The *coherence* of the project was questioned during the meeting.
 
   Cette équipe fait preuve d'une forte *cohérence* dans son jeu.
-  Diese Mannschaft zeigt einen starken *Zusammenhalt* in ihrem Spiel.
+  This team shows a strong *cohesion* in their game.
 
   La *cohérence* de cette théorie scientifique a été prouvée par de nombreuses expériences.
-  Die *Kohärenz* dieser wissenschaftlichen Theorie wurde durch zahlreiche Experimente bewiesen.
+  The *coherence* of this scientific theory has been demonstrated by numerous experiments.
 
   Les physiciens mesurent la *cohérence* du faisceau lumineux.
-  Die Physiker messen die *Kohärenz* des Lichtstrahls.
+  The physicists measure the *coherence* of the light beam.
 
   Cette décision politique manque totalement de *cohérence*.
-  Dieser politischen Entscheidung fehlt es völlig an *Zusammenhang*.
+  This political decision is totally lacking in connection.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

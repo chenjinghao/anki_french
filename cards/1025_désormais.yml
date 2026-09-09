@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1025
 Wort: désormais
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: désormais
 Femininum / Plural: ''
 IPA: \de.zɔʁ.mɛ\
-Definition: von nun an, inzwischen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: from now on, now
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est *désormais* chose faite.
-  Das ist *nun* erledigt.
+  That's done *now*.
 
   *Désormais*, nous devrons être plus prudents dans nos décisions.
-  *Von nun an* müssen wir bei unseren Entscheidungen vorsichtiger sein.
+  *From now on*, we must be more careful in our decisions.
 
   Le directeur a annoncé que les réunions se tiendront *désormais* tous les lundis.
-  Der Direktor hat angekündigt, dass die Besprechungen *ab jetzt* jeden Montag stattfinden werden.
+  The director has announced that the meetings will take place every Monday *from now on*.
 
   "Tu ne rentreras plus *désormais* si tard", ont dit les parents à leur fille.
-  "Du wirst *von jetzt an* nicht mehr so spät nach Hause kommen", sagten die Eltern zu ihrer Tochter.
+  "*From now on*, you won't be coming home so late," the parents told her daughter.
 
   Après cette expérience, qui pourrait *désormais* se fier à ses promesses ?
-  Wer könnte nach dieser Erfahrung *nun noch* seinen Versprechungen vertrauen?
+  Who could trust his promises after this experience?
 
   Les derniers obstacles sont surmontés : vous avez *désormais* le champ libre pour réaliser votre projet.
-  Die letzten Hindernisse sind überwunden: Sie haben *ab sofort* freie Bahn, um Ihr Projekt zu verwirklichen.
+  The last obstacles have been overcome: you have now free rein to realize your project.
 
   *Désormais*, tout sera différent dans notre entreprise.
-  *Von nun an* wird in unserem Unternehmen alles anders sein.
+  *From now on* everything in our company will be different.
 
   Elle est *désormais* seule responsable de ses actes.
-  Sie ist *nunmehr* allein für ihre Handlungen verantwortlich.
+  It is *now* solely responsible for its actions.
 
   Nous devons *désormais* être plus attentifs à notre consommation d'énergie.
-  Wir müssen *von jetzt an* aufmerksamer mit unserem Energieverbrauch umgehen.
+  *From now on*, we need to be more attentive to our energy consumption.
 
   Le nouveau règlement entrera *désormais* en vigueur dès le mois prochain.
-  Die neue Verordnung tritt *ab sofort* ab nächstem Monat in Kraft.
+  The new regulation will enter into force immediately from next month.
 
   *Désormais*, je me lèverai tôt tous les matins pour faire du sport.
-  *Von nun an* werde ich jeden Morgen früh aufstehen, um Sport zu treiben.
+  *From now on*, I'll get up early every morning to practice sports.
 
   Cette technologie est *désormais* accessible à tous.
-  Diese Technologie ist *jetzt* für alle zugänglich.
+  This technology is *now* accessible to all.
 
   Après cet incident, nous serons *désormais* plus vigilants quant à la sécurité.
-  Nach diesem Vorfall werden wir *künftig* in Bezug auf die Sicherheit wachsamer sein.
+  After this incident, we will be more vigilant about security in the *future*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4968
 Wort: concertation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la concertation
 Femininum / Plural: ''
 IPA: \kɔ̃.sɛʁ.ta.sjɔ̃\
-Definition: Absprache, Abstimmung
-Register: ↘Fiktion
+Definition: Agreement, vote
+Register: ↘fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut travailler ensemble plus, en *concertation*.
-  Wir müssen mehr zusammenarbeiten, in *Absprache* miteinander.
+  We need to work more together, in consultation with each other.
 
   La *concertation* entre les différents services a permis d'éviter des erreurs.
-  Die *Abstimmung* zwischen den verschiedenen Abteilungen hat geholfen, Fehler zu vermeiden.
+  The coordination between the various departments has helped to avoid mistakes.
 
   Les syndicats demandent plus de *concertation* avec la direction.
-  Die Gewerkschaften fordern mehr *Abstimmung* mit der Geschäftsführung.
+  The unions demand more coordination with the management.
 
   Une *concertation* préalable aurait évité ce malentendu.
-  Eine vorherige *Absprache* hätte dieses Missverständnis verhindert.
+  A prior arrangement would have prevented this misunderstanding.
 
   Sans *concertation* avec ses collègues, elle a pris une décision importante.
-  Ohne *Rücksprache* mit ihren Kollegen hat sie eine wichtige Entscheidung getroffen.
+  She made an important decision without consulting her colleagues.
 
   La *concertation* sur le nouveau projet durera trois semaines.
-  Die *Beratung* über das neue Projekt wird drei Wochen dauern.
+  The consultation on the new project will take three weeks.
 
   Une phase de *concertation* est prévue avant la mise en œuvre du plan.
-  Vor der Umsetzung des Plans ist eine *Abstimmungs*phase vorgesehen.
+  Before the implementation of the plan, a voting phase is foreseen.
 
   Nous devons mener une politique de *concertation* avec tous les acteurs concernés.
-  Wir müssen eine Politik der *Abstimmung* mit allen beteiligten Akteuren verfolgen.
+  We must pursue a policy of coordination with all the actors involved.
 
   La *concertation* entre les pays voisins a abouti à un accord.
-  Die *Abstimmung* zwischen den Nachbarländern hat zu einer Einigung geführt.
+  The agreement between the neighbouring countries has been reached.
 
   Cette décision a été prise en *concertation* avec les habitants du quartier.
-  Diese Entscheidung wurde in *Abstimmung* mit den Anwohnern getroffen.
+  This decision was taken in consultation with the local residents.
 
   Un manque de *concertation* a conduit à des solutions contradictoires.
-  Mangelnde *Koordination* hat zu widersprüchlichen Lösungen geführt.
+  Lack of *coordination* has led to contradictory solutions.
 
   La *concertation* avec les parents d'élèves aura lieu mardi prochain.
-  Die *Beratung* mit den Eltern findet nächsten Dienstag statt.
+  The consultation with the parents will take place next Tuesday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4006
 Wort: planer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: planer
 Femininum / Plural: ''
 IPA: \pla.ne\
-Definition: gleiten, schweben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: glide, float
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un grand oiseau *planait*.
-  Ein großer Vogel *schwebte*.
+  A big bird *floated*.
 
   Les aigles *planent* majestueusement dans le ciel.
-  Die Adler *schweben* majestätisch am Himmel.
+  The eagles *float* majestically in the sky.
 
   L'avion a *plané* pendant une heure avant d'atterrir.
-  Das Flugzeug *glitt* eine Stunde lang, bevor es landete.
+  The plane slipped for an hour before it landed.
 
   Une épaisse fumée *plane* au-dessus de la forêt.
-  Ein dichter Rauch *schwebt* über dem Wald.
+  A dense smoke hovers over the forest.
 
   Une odeur de café *planait* dans la cuisine.
-  Ein Kaffeeduft *stand* in der Küche.
+  There was a coffee scent in the kitchen.
 
   La menace d'une guerre *plane* sur l'Europe.
-  Die Bedrohung eines Krieges *lastet* auf Europa.
+  The threat of war is on Europe.
 
   Des soupçons *planent* sur le nouveau directeur.
-  Verdächtigungen *liegen* auf dem neuen Direktor.
+  Suspects lie on the new director.
 
   Il a laissé *planer* le doute sur sa participation.
-  Er ließ Zweifel an seiner Teilnahme *aufkommen*.
+  He raised doubts about his participation.
 
   Un mystère *plane* sur sa disparition soudaine.
-  Über sein plötzliches Verschwinden *schwebt* ein Geheimnis.
+  A secret hovers over his sudden disappearance.
 
   "Après ce concert, je *plane* complètement!"
-  "Nach diesem Konzert bin ich total *weggetreten*!"
+  "After this concert, I totally stepped away!"
 
   "Cette musique me fait *planer*."
-  "Diese Musik macht mich total *high*."
+  "This music makes me so *high*."
 
   Le menuisier *plane* soigneusement la planche.
-  Der Tischler *hobelt* das Brett sorgfältig.
+  The carpenter carefully picks up the board.
 
   Le planeur *plane* grâce aux courants ascendants.
-  Das Segelflugzeug *gleitet* dank der Aufwinde.
+  The glider glides thanks to the rising winds.
 
   Marie *plane* toujours au-dessus des querelles.
-  Marie *schwebt* immer über den Streitereien.
+  Marie always hovers over the quarrels.
 
   Une brume légère *planait* sur le lac.
-  Ein leichter Nebel *schwebte* über dem See.
+  A slight fog hovered over the lake.
 
   La tension *plane* dans la salle de réunion.
-  Die Spannung *liegt* im Konferenzraum.
+  The tension *is* in the conference room.
 
   "Il *plane* complètement, il ne voit pas les problèmes."
-  "Er *schwebt* völlig in höheren Regionen, er sieht die Probleme nicht."
+  "He's *floating* in higher regions, he doesn't see the problems."
 
   Le cerf-volant *plane* gracieusement dans le vent.
-  Der Drachen *schwebt* anmutig im Wind.
+  The dragon floats gracefully in the wind.
 
   L'artisan *plane* la surface métallique avec précision.
-  Der Handwerker *ebnet* die Metalloberfläche mit Präzision.
+  The craftsman smoothes the metal surface with precision.
 
   Des nuages sombres *planent* au-dessus de la ville.
-  Dunkle Wolken *schweben* über der Stadt.
+  Dark clouds hover over the city.
 
   Le danger *plane* toujours sur l'expédition.
-  Die Gefahr *schwebt* weiterhin über der Expedition.
+  The danger remains above the expedition.
 
   La question de son départ *plane* depuis des semaines.
-  Die Frage seines Weggangs *schwebt* seit Wochen im Raum.
+  The question of his departure has been in space for weeks.
 
   Le vautour *plane* en cercles au-dessus de sa proie.
-  Der Geier kreist *schwebend* über seiner Beute.
+  The vulture is hovering over his prey.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

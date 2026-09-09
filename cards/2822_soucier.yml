@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2822
 Wort: soucier
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: se soucier
 Femininum / Plural: ''
 IPA: \su.sje\
-Definition: sich sorgen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Worrying
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu n'as pas à te *soucier* de tes manières ici.
-  Du brauchst dich hier nicht um dein Benehmen zu *sorgen*.
+  You don't need to worry about your behavior here.
 
   Elle ne se *soucie* guère de son apparence.
-  Sie *kümmert* sich kaum um ihr Aussehen.
+  She barely cares about her looks.
 
   "Je *me soucie comme de l'an quarante* de ce qu'il pense !"
-  "Es ist mir *schnurzegal*, was er denkt!"
+  "I don't care what he thinks!"
 
   Nous devons nous *soucier* davantage de l'environnement.
-  Wir müssen uns mehr um die Umwelt *kümmern*.
+  We need to take more *care* of the environment.
 
   Il faut se *soucier* de l'avenir des jeunes générations.
-  Man muss für die Zukunft der jungen Generationen *vorsorgen*.
+  You have to prepare for the future of the young generations.
 
   Les parents se *soucient* toujours de la santé de leurs enfants.
-  Eltern *sorgen* sich immer um die Gesundheit ihrer Kinder.
+  Parents always worry about the health of their children.
 
   Elle s'est *souciée* de faire bonne impression lors de l'entretien.
-  Sie war *bestrebt*, beim Vorstellungsgespräch einen guten Eindruck zu machen.
+  She tried to make a good impression on the interview.
 
   "Tu devrais te *soucier* un peu plus de tes études !"
-  "Du solltest dich ein bisschen mehr um dein Studium *kümmern*!"
+  "You should take *care* of your studies a little bit more!"
 
   Le gouvernement ne semble pas se *soucier* des problèmes des citoyens.
-  Die Regierung scheint sich nicht um die Probleme der Bürger zu *scheren*.
+  The government does not seem to care about the problems of the citizens.
 
   Il se *soucie* plus de son travail que de sa famille.
-  Er *kümmert* sich mehr um seine Arbeit als um seine Familie.
+  He takes care of his work more than his family.
 
   Nous nous *soucions* de votre confort pendant votre séjour.
-  Wir *sorgen* uns um Ihren Komfort während Ihres Aufenthalts.
+  We *care* about your comfort during your stay.
 
   "Ne vous *souciez* pas de moi, je peux me débrouiller seul."
-  "*Kümmern* Sie sich nicht um mich, ich komme allein zurecht."
+  "Don't worry about me, I can handle myself."
 
   Les automobilistes doivent se *soucier* de la sécurité des piétons.
-  Autofahrer müssen auf die Sicherheit der Fußgänger *achten*.
+  Drivers must be aware of pedestrian safety.
 
   Elle s'est toujours *souciée* de la qualité de son travail.
-  Sie hat sich immer um die Qualität ihrer Arbeit *gekümmert*.
+  She has always taken care of the quality of her work.
 
   "Je *me soucie bien de ce qu'il peut penser !*" dit-elle ironiquement.
-  "*Es interessiert mich wirklich brennend, was er denken mag!*" sagte sie ironisch.
+  "*I'm really interested in what he might think*," she said ironically.
 
   Le directeur se *soucie* peu des opinions de ses employés.
-  Der Direktor *schert* sich wenig um die Meinungen seiner Angestellten.
+  The director cares little about the opinions of his employees.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3994
 Wort: archives
 Wortart: npl
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: les archives
 Femininum / Plural: ''
 IPA: \aʁ.ʃiv\
-Definition: Archiv
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Archive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis allée aux *archives*.
-  Ich bin ins *Archiv* gegangen.
+  I went to the archives.
 
   Les *archives* municipales conservent des documents historiques importants.
-  Das Stadt*archiv* bewahrt wichtige historische Dokumente auf.
+  The city *archive* preserves important historical documents.
 
   Ces *archives* personnelles contiennent des lettres de ma grand-mère.
-  Dieses private *Archiv* enthält Briefe meiner Großmutter.
+  This private *archive* contains my grandmother's letters.
 
   La science des *archives* nécessite beaucoup de précision.
-  Das *Archiv*wesen erfordert große Genauigkeit.
+  Archives require great accuracy.
 
   Les *Archives* nationales ont numérisé de nombreux documents anciens.
-  Das National*archiv* hat viele alte Dokumente digitalisiert.
+  The National Archives has digitized many old documents.
 
   Marie travaille comme conservatrice aux *archives* départementales.
-  Marie arbeitet als Konservatorin im Landes*archiv*.
+  Marie works as a conservator in the Landesarchiv.
 
   Le documentaire contient des images d'*archives* de la Seconde Guerre mondiale.
-  Die Dokumentation enthält *Archiv*aufnahmen aus dem Zweiten Weltkrieg.
+  The documentation contains *archive* recordings from the Second World War.
 
   L'entreprise a transféré ses *archives* dans un nouveau bâtiment.
-  Die Firma hat ihr *Archiv* in ein neues Gebäude verlegt.
+  The company moved its *archive* to a new building.
 
   Les chercheurs consultent régulièrement les *archives* royales.
-  Die Forscher konsultieren regelmäßig das königliche *Archiv*.
+  The researchers regularly consult the Royal Archives.
 
   Le monastère possède des *archives* remontant au Moyen Âge.
-  Das Kloster besitzt ein *Archiv* das bis ins Mittelalter zurückreicht.
+  The monastery has an *archive* dating back to the Middle Ages.
 
   Les *archives* du journal sont désormais accessibles en ligne.
-  Das Zeitungs*archiv* ist jetzt online zugänglich.
+  The newspaper *archive* is now available online.
 
   Elle a passé des heures à fouiller dans les *archives* familiales.
-  Sie hat stundenlang im Familien*archiv* gestöbert.
+  She's been browsing the family *archive* for hours.
 
   L'université conserve précieusement ses *archives* depuis sa fondation.
-  Die Universität bewahrt ihr *Archiv* seit ihrer Gründung sorgfältig auf.
+  The university has kept its *archive* carefully since its foundation.
 
   "Tu devrais mettre ça dans tes *archives*!"
-  "Das solltest du in deinem *Archiv* aufbewahren!"
+  "You should keep this in your *archive*!"
 
   Les *archives* locales ont été endommagées pendant l'inondation.
-  Das lokale *Archiv* wurde während der Überschwemmung beschädigt.
+  The local *archive* was damaged during the flood.
 
   Le système informatique sauvegarde automatiquement les *archives*.
-  Das Computersystem sichert automatisch die *Archive*.
+  The computer system automatically secures the *archives*.
 
   Les *archives* de l'abbaye contiennent des manuscrits rares.
-  Das *Archiv* der Abtei enthält seltene Manuskripte.
+  The abbey's *archive* contains rare manuscripts.
 
   Ces *archives* photographiques témoignent de l'histoire de notre ville.
-  Dieses Foto*archiv* zeugt von der Geschichte unserer Stadt.
+  This photo *archive* shows the history of our city.
 
   "C'est bon pour les *archives*," dit-il avec dédain.
-  "Das ist nur noch fürs *Archiv* gut," sagte er verächtlich.
+  "That's only good for the *archive*," he said scornfully.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

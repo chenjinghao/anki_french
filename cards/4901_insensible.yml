@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4901
 Wort: insensible
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: insensible
 Femininum / Plural: ''
 IPA: \ɛ̃.sɑ̃.sibl\
-Definition: unempfindlich, gefühllos
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: insensitive, insensitive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous êtes *insensible* à la raison.
-  Sie sind *gefühllos* gegenüber der Vernunft.
+  They're insensitive to reason.
 
   Le patient est devenu *insensible* à la douleur après l'opération.
-  Der Patient wurde nach der Operation schmerz*unempfindlich*.
+  The patient became *insensitive* to pain after surgery.
 
   Sa main était complètement *insensible* après l'accident.
-  Seine Hand war nach dem Unfall völlig *gefühllos*.
+  His hand was completely numb after the accident.
 
   Elle est restée *insensible* à tous mes efforts pour la réconforter.
-  Sie blieb *gleichgültig* gegenüber all meinen Bemühungen, sie zu trösten.
+  She remained *indifferent* to all my efforts to comfort her.
 
   Les variations de température sont presque *insensibles* en ce moment.
-  Die Temperaturschwankungen sind im Moment kaum *wahrnehmbar*.
+  The temperature fluctuations are hardly noticeable at the moment.
 
   L'anesthésie locale a rendu mes lèvres *insensibles*.
-  Die örtliche Betäubung hat meine Lippen *taub* gemacht.
+  The local anaesthetic has numbed my lips.
 
   Le pouls du blessé était devenu *insensible*.
-  Der Puls des Verletzten war kaum mehr *spürbar*.
+  The pulse of the injured person was hardly noticeable anymore.
 
   Ces changements sont *insensibles* à l'œil nu.
-  Diese Veränderungen sind mit bloßem Auge *unmerklich*.
+  These changes are *imperceptible* to the naked eye.
 
   Il est resté *insensible* aux charmes de la jeune femme.
-  Er blieb gegenüber den Reizen der jungen Frau *gleichgültig*.
+  He remained *indifferent* to the charms of the young woman.
 
   Cette partie de la peau est devenue *insensible* au toucher.
-  Dieser Teil der Haut ist gegenüber Berührungen *gefühllos* geworden.
+  This part of the skin has become numb to touch.
 
   La progression de la maladie était *insensible* mais constante.
-  Das Fortschreiten der Krankheit war *unmerklich*, aber stetig.
+  The progression of the disease was *imperceptible*, but steady.
 
   Comment peut-on être *insensible* à tant de beauté ?
-  Wie kann man gegenüber so viel Schönheit *gefühllos* sein?
+  How can you be insensitive to so much beauty?
 
   Le médicament rend la zone *insensible* pendant plusieurs heures.
-  Das Medikament macht die Stelle für mehrere Stunden *gefühllos*.
+  The drug makes the site numb for several hours.
 
   Cette entreprise est *insensible* aux fluctuations du marché.
-  Dieses Unternehmen ist gegenüber Marktschwankungen *unempfindlich*.
+  This company is *insensitive* to market fluctuations.
 
   Il est devenu *insensible* au froid après des années d'entraînement.
-  Er wurde nach Jahren des Trainings *unempfindlich* gegen Kälte.
+  He became *insensitive* to cold after years of training.
 
   La roche est *insensible* aux variations de température.
-  Der Fels ist gegenüber Temperaturschwankungen *unempfindlich*.
+  The rock is *insensitive* to temperature fluctuations.
 
   Son cœur est resté *insensible* à nos supplications.
-  Sein Herz blieb gegenüber unseren Bitten *gefühllos*.
+  His heart remained unfeeling to our petitions.
 
   Les progrès étaient si *insensibles* qu'on ne les remarquait pas.
-  Die Fortschritte waren so *unmerklich*, dass man sie nicht bemerkte.
+  Progress was so *imperceptible* that it was not noticed.
 
   Cette plante est *insensible* au gel.
-  Diese Pflanze ist gegen Frost *unempfindlich*.
+  This plant is *insensitive* to frost.
 
   Le terrain monte en pente *insensible* vers la colline.
-  Das Gelände steigt in *unmerklicher* Steigung zum Hügel an.
+  The terrain rises in *imperceptible* incline to the hill.
 
   Elle semblait *insensible* aux critiques comme aux éloges.
-  Sie schien gegenüber Kritik wie auch Lob *gleichgültig* zu sein.
+  She seemed to be *indifferent* to both criticism and praise.
 
   Cette matière est complètement *insensible* à l'humidité.
-  Dieses Material ist völlig *unempfindlich* gegen Feuchtigkeit.
+  This material is completely *insensitive* to moisture.
 
   Les changements sont *insensibles* d'une génération à l'autre.
-  Die Veränderungen sind von Generation zu Generation *unmerklich*.
+  The changes are *imperceptible* from generation to generation.
 
   Le vendeur est resté *insensible* à mes tentatives de négociation.
-  Der Verkäufer blieb gegenüber meinen Verhandlungsversuchen *gleichgültig*.
+  The seller remained *indifferent* to my attempts to negotiate.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

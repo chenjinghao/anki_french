@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3928
 Wort: concerter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: concerter
 Femininum / Plural: ''
 IPA: \kɔ̃.sɛʁ.te\
-Definition: besprechen, abstimmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: discuss, vote
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'occasion de nous *concerter* avec nos groupes.
-  Die Gelegenheit, uns mit unseren Gruppen zu *besprechen*.
+  The opportunity to *discuss* with our groups.
 
   Ils ont *concerté* leur plan d'action pendant des heures.
-  Sie haben ihren Aktionsplan stundenlang *abgestimmt*.
+  They have *voted* their action plan for hours.
 
   Les ministres se sont *concertés* sur la nouvelle politique énergétique.
-  Die Minister haben sich über die neue Energiepolitik *abgesprochen*.
+  Ministers *agreed* on the new energy policy.
 
   Je dois *concerter* cette décision avec mon équipe avant de te répondre.
-  Ich muss diese Entscheidung erst mit meinem Team *absprechen*, bevor ich dir antworte.
+  I have to make this decision with my team before I answer you.
 
   Les syndicats ont lancé une action *concertée* contre la réforme.
-  Die Gewerkschaften haben eine *abgestimmte* Aktion gegen die Reform gestartet.
+  Trade unions have launched a concerted action against reform.
 
   Nous devons nous *concerter* avant la réunion de demain.
-  Wir müssen uns vor dem morgigen Meeting *abstimmen*.
+  We have to *vote* before tomorrow's meeting.
 
   Marie a soigneusement *concerté* son projet avec ses collègues.
-  Marie hat ihr Projekt sorgfältig mit ihren Kollegen *abgestimmt*.
+  Marie carefully coordinated her project with her colleagues.
 
   Sans nous *concerter*, nous avons eu la même idée.
-  Ohne uns *abzusprechen*, hatten wir die gleiche Idee.
+  Without talking to us, we had the same idea.
 
   Les deux équipes se sont *concertées* pour organiser l'événement.
-  Die beiden Teams haben sich *abgesprochen*, um die Veranstaltung zu organisieren.
+  The two teams *agreed* to organize the event.
 
   Il faut *concerter* nos efforts pour réussir ce projet.
-  Wir müssen unsere Bemühungen *abstimmen*, um dieses Projekt erfolgreich zu machen.
+  We need to coordinate our efforts to make this project a success.
 
   Les parents se sont *concertés* sur l'éducation de leur enfant.
-  Die Eltern haben sich über die Erziehung ihres Kindes *beraten*.
+  Parents have discussed the education of their child.
 
   Nous devons *concerter* nos horaires pour la semaine prochaine.
-  Wir müssen unsere Zeitpläne für nächste Woche *abstimmen*.
+  We need to *vote* on our schedules for next week.
 
   Le directeur a *concerté* sa stratégie avec le conseil d'administration.
-  Der Direktor hat seine Strategie mit dem Vorstand *abgestimmt*.
+  The director has agreed his strategy with the board.
 
   Les voisins se sont *concertés* pour organiser la fête du quartier.
-  Die Nachbarn haben sich *abgesprochen*, um das Nachbarschaftsfest zu organisieren.
+  Neighbors *agreed* to organize the neighborhood party.
 
   Il faudrait que nous nous *concertions* sur ce point important.
-  Wir sollten uns über diesen wichtigen Punkt *abstimmen*.
+  We should *vote* on this important point.
 
   Les architectes ont *concerté* leur vision pour le nouveau bâtiment.
-  Die Architekten haben ihre Vision für das neue Gebäude *abgestimmt*.
+  The architects have coordinated their vision for the new building.
 
   Les deux pays se sont *concertés* sur leurs politiques environnementales.
-  Die beiden Länder haben sich über ihre Umweltpolitik *abgestimmt*.
+  The two countries have *voted* on their environmental policy.
 
   Avant d'agir, nous devons nous *concerter* avec tous les participants.
-  Bevor wir handeln, müssen wir uns mit allen Teilnehmern *absprechen*.
+  Before we act, we must agree with all participants.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

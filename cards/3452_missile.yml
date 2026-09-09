@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3452
 Wort: missile
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le missile
 Femininum / Plural: ''
 IPA: \mi.sil\
-Definition: Rakete
-Register: ↘Fiktion ↗Sachtext
+Definition: Rocket
+Register: ↘fiction ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Seize *missiles* air-sol ont visé cette base.
-  Sechzehn Luft-Boden-*Raketen* haben diese Basis anvisiert.
+  Sixteen air-ground missiles have targeted this base.
 
   Le système de guidage du *missile* permet de suivre sa trajectoire avec précision.
-  Das Leitsystem der *Rakete* ermöglicht es, ihre Flugbahn präzise zu verfolgen.
+  The missile's guidance system allows precise tracking of its trajectory.
 
   Les ingénieurs ont développé un nouveau *missile* antimissile très efficace.
-  Die Ingenieure haben eine neue Abwehr*rakete* mit hoher Effektivität entwickelt.
+  The engineers have developed a new defense *rocket* with high effectiveness.
 
   Ce *missile de croisière* a une portée de 1500 kilomètres.
-  Dieser *Marschflugkörper* hat eine Reichweite von 1500 Kilometern.
+  This cruise missile has a range of 1500 kilometres.
 
   Le *missile* sol-air a intercepté la cible avec succès.
-  Die Boden-Luft-*Rakete* hat das Ziel erfolgreich abgefangen.
+  The ground-air missile has successfully intercepted the target.
 
   Les experts analysent la trajectoire du *missile* balistique.
-  Die Experten analysieren die Flugbahn der ballistischen *Rakete*.
+  The experts analyze the trajectory of the ballistic missile.
 
   Un *missile* air-mer a été testé au-dessus de l'océan.
-  Eine Luft-Wasser-*Rakete* wurde über dem Ozean getestet.
+  An air-water missile was tested over the ocean.
 
   Le nouveau *missile* autoguidé utilise des technologies avancées.
-  Die neue selbstgesteuerte *Rakete* verwendet fortschrittliche Technologien.
+  The new self-controlled *rocket* uses advanced technologies.
 
   Les chercheurs étudient le système de propulsion du *missile*.
-  Die Forscher untersuchen das Antriebssystem der *Rakete*.
+  The researchers are investigating the *rocket*'s propulsion system.
 
   La base dispose de plusieurs rampes de lancement de *missiles*.
-  Die Basis verfügt über mehrere *Raketen*-Abschussrampen.
+  The base has several rocket launchers.
 
   Ce *missile* tactique a une portée limitée à 300 kilomètres.
-  Diese taktische *Rakete* hat eine begrenzte Reichweite von 300 Kilometern.
+  This tactical missile has a limited range of 300 kilometres.
 
   Le *missile* téléguidé peut être contrôlé à distance.
-  Die ferngesteuerte *Rakete* kann aus der Ferne kontrolliert werden.
+  The remote-controlled *rocket* can be controlled remotely.
 
   Les détecteurs ont repéré un *missile à longue portée*.
-  Die Detektoren haben eine *Fernlenkrakete* geortet.
+  The detectors have located a *long-range missile*.
 
   Le nouveau système peut intercepter plusieurs *missiles* simultanément.
-  Das neue System kann mehrere *Raketen* gleichzeitig abfangen.
+  The new system can intercept multiple missiles simultaneously.
 
   Les scientifiques améliorent la précision des *missiles* guidés.
-  Die Wissenschaftler verbessern die Präzision der gelenkten *Raketen*.
+  The scientists improve the precision of the guided missiles.
 
   Le *missile* antichar a détruit la cible pendant l'exercice.
-  Die Panzerabwehr*rakete* hat das Ziel während der Übung zerstört.
+  The anti-tank missile destroyed the target during the exercise.
 
   L'équipe de maintenance vérifie régulièrement les systèmes des *missiles*.
-  Das Wartungsteam überprüft regelmäßig die *Raketen*systeme.
+  The maintenance team regularly checks the missile systems.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 728
 Wort: actuellement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: actuellement
 Femininum / Plural: ''
 IPA: \ak.tɥɛl.mɑ̃\
-Definition: aktuell, zurzeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: current, currently
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis très seul *actuellement*.
-  Ich bin *momentan* sehr einsam.
+  I'm very lonely right now.
 
   Il n'est pas *actuellement* en état de travailler à cause de sa blessure.
-  Er ist *zurzeit* wegen seiner Verletzung nicht arbeitsfähig.
+  He's not fit to work because of his injury.
 
   *Actuellement*, nous avons plus de 200 employés dans notre entreprise.
-  *Gegenwärtig* haben wir über 200 Mitarbeiter in unserem Unternehmen.
+  We *currently* have over 200 employees in our company.
 
   Les travaux sont *actuellement* en cours dans le centre-ville.
-  Die Bauarbeiten sind *derzeit* in der Innenstadt im Gange.
+  The construction work is *currently* underway in the city centre.
 
   *Actuellement*, il fait ses études à l'université de Paris.
-  *Momentan* studiert er an der Universität Paris.
+  He is currently studying at the University of Paris.
 
   Le musée est *actuellement* fermé pour rénovation.
-  Das Museum ist *zurzeit* wegen Renovierung geschlossen.
+  The museum is *currently* closed for renovation.
 
   *Actuellement*, nous ne prenons plus de réservations pour ce soir.
-  *Im Moment* nehmen wir keine weiteren Reservierungen für heute Abend an.
+  Right now, we're not taking any more reservations for tonight.
 
   La situation économique est *actuellement* très difficile.
-  Die wirtschaftliche Situation ist *gegenwärtig* sehr schwierig.
+  The economic situation is *currently* very difficult.
 
   *Actuellement*, nous ne pouvons pas vous donner de réponse définitive.
-  *Derzeit* können wir Ihnen keine endgültige Antwort geben.
+  At present, we cannot give you a definitive answer.
 
   Elle habite *actuellement* chez ses parents.
-  Sie wohnt *momentan* bei ihren Eltern.
+  She *currently* lives with her parents.
 
   Les prix du pétrole sont *actuellement* très bas.
-  Die Ölpreise sind *zurzeit* sehr niedrig.
+  Oil prices are *currently* very low.
 
   *Actuellement*, nous recherchons un nouveau responsable marketing.
-  *Gegenwärtig* suchen wir einen neuen Marketingleiter.
+  We are *currently* looking for a new marketing manager.
 
   Le dossier est *actuellement* en cours d'examen.
-  Die Akte wird *momentan* geprüft.
+  The file is under review.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3149
 Wort: coûteux
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: coûteux
 Femininum / Plural: coûteuse
 IPA: \ku.tø\
-Definition: kostspielig, mühsam
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: expensive, laborious
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'équipement individuel est extrêmement *coûteux*.
-  Die individuelle Ausrüstung ist extrem *teuer*.
+  The individual equipment is extremely *expensive*.
 
   Les réparations de la voiture sont *coûteuses*.
-  Die Reparaturen des Autos sind *kostspielig*.
+  The repairs of the car are expensive.
 
   Cette victoire a été très *coûteuse* pour notre équipe.
-  Dieser Sieg war für unser Team sehr *mühsam*.
+  This victory was very difficult for our team.
 
   Le projet de rénovation s'est avéré plus *coûteux* que prévu.
-  Das Renovierungsprojekt erwies sich als *kostspieliger* als erwartet.
+  The renovation project proved to be *more expensive* than expected.
 
   Cette entreprise est trop *coûteuse* en énergie.
-  Dieses Unternehmen *verbraucht* zu viel Energie.
+  This company consumes too much energy.
 
   La production de ce médicament est très *coûteuse*.
-  Die Produktion dieses Medikaments ist sehr *kostenaufwändig*.
+  The production of this drug is very costly.
 
   La réforme du système de santé sera *coûteuse*.
-  Die Reform des Gesundheitssystems wird *kostenträchtig* sein.
+  The reform of the health system will be costly.
 
   Le dîner n'était pas très *coûteux*.
-  Das Abendessen war nicht sehr *teuer*.
+  Dinner wasn't very *expensive*.
 
   Son erreur lui a été très *coûteuse*.
-  Sein Fehler war für ihn sehr *kostspielig*.
+  His mistake was very *costly* to him.
 
   Les voyages à l'étranger sont devenus plus *coûteux*.
-  Auslandsreisen sind *teurer* geworden.
+  Travel abroad has become *more expensive*.
 
   Cette solution est moins *coûteuse* que l'autre.
-  Diese Lösung ist weniger *kostspielig* als die andere.
+  This solution is less expensive than the other one.
 
   La gloire peut être *coûteuse*.
-  Ruhm kann *mühsam* sein.
+  Glory can be laborious.
 
   L'opération chirurgicale sera très *coûteuse*.
-  Die Operation wird sehr *teuer* sein.
+  The operation will be very *expensive*.
 
   Cette décision a été *coûteuse* en temps et en argent.
-  Diese Entscheidung war zeit- und kosten*aufwändig*.
+  This decision was time-consuming and costly.
 
   Le développement de nouvelles technologies est *coûteux*.
-  Die Entwicklung neuer Technologien ist *kostspielig*.
+  The development of new technologies is *costly*.
 
   Les erreurs stratégiques peuvent être très *coûteuses*.
-  Strategische Fehler können sehr *teuer* zu stehen kommen.
+  Strategic errors can be very *expensive*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

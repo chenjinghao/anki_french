@@ -1,122 +1,122 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4908
 Wort: buter
 Wortart: vi, vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: buter
 Femininum / Plural: ''
 IPA: \by.te\
-Definition: (an-)stoßen, stolpern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (approaching) stumble
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle s'est *butée* à toutes sortes de délais.
-  Sie ist auf allerlei Fristen *gestoßen*.
+  It has come across all kinds of deadlines.
 
   Le petit enfant a *buté* contre une pierre dans la cour de récréation.
-  Das kleine Kind ist auf dem Pausenhof gegen einen Stein *gestoßen*.
+  The little child hit a stone on the break yard.
 
   "Je vais te *buter* si tu continues à m'embêter !"
-  "Ich werde dich *umlegen*, wenn du mich weiter nervst!"
+  "I'll kill you if you keep bugging me!"
 
   La voiture s'est *butée* contre un arbre dans le virage.
-  Das Auto ist in der Kurve gegen einen Baum *geprallt*.
+  The car hit a tree in the bend.
 
   Il *bute* sur chaque mot en lisant ce texte difficile.
-  Er *stolpert* über jedes Wort beim Lesen dieses schwierigen Textes.
+  He *stumbles* upon every word when reading this difficult text.
 
   Cette poutre *bute* contre le mur depuis des années.
-  Dieser Balken *stützt* sich seit Jahren gegen die Mauer.
+  This beam has been leaning against the wall for years.
 
   Marie s'est *butée* dans son refus d'accepter la proposition.
-  Marie hat sich in ihrer Ablehnung des Vorschlags *versteift*.
+  Marie has become *stiff* in her rejection of the proposal.
 
   Les archéologues *butent* souvent sur des obstacles inattendus.
-  Die Archäologen *stoßen* oft auf unerwartete Hindernisse.
+  Archaeologists often encounter unexpected obstacles.
 
   "Il s'est fait *buter* dans une ruelle sombre."
-  "Er wurde in einer dunklen Gasse *umgelegt*."
+  "He was *killed* in a dark alley."
 
   Son vélo a *buté* contre le trottoir.
-  Sein Fahrrad ist gegen den Bordstein *gestoßen*.
+  His bike hit the curb.
 
   La roue *bute* contre cette pierre depuis ce matin.
-  Das Rad *stößt* seit heute Morgen gegen diesen Stein.
+  The wheel has hit this stone since this morning.
 
   Les élèves se sont *butés* sur cet exercice de mathématiques.
-  Die Schüler haben sich bei dieser Matheaufgabe *festgefahren*.
+  The students got stuck in this math assignment.
 
   Il faut *buter* ce mur avant qu'il ne s'effondre.
-  Man muss diese Mauer *abstützen*, bevor sie einstürzt.
+  You have to *support* this wall before it collapses.
 
   Le bateau a *buté* contre le quai pendant la manœuvre.
-  Das Boot ist während des Manövers gegen den Kai *gestoßen*.
+  The boat hit the quay during the maneuver.
 
   Son attitude ne fait que me *buter* davantage.
-  Seine Haltung macht mich nur noch *störrischer*.
+  His attitude just makes me more stubborn.
 
   Thomas *butait* à chaque pas sur le chemin rocailleux.
-  Thomas *stolperte* bei jedem Schritt auf dem steinigen Weg.
+  Thomas *stumbled* on the stony path at every step.
 
   Les négociations se sont *butées* à un refus catégorique.
-  Die Verhandlungen sind auf eine kategorische Ablehnung *gestoßen*.
+  The negotiations have come up with a categorical rejection.
 
   Le cheval a *buté* contre une souche d'arbre.
-  Das Pferd ist gegen einen Baumstumpf *gestoßen*.
+  The horse hit a tree stump.
 
   Son insistance ne fait que *buter* les autres contre lui.
-  Seine Beharrlichkeit *verstimmt* die anderen nur gegen ihn.
+  His perseverance only displeases the others against him.
 
   La porte *bute* contre le nouveau tapis.
-  Die Tür *stößt* gegen den neuen Teppich.
+  The door hits the new carpet.
 
   Les chercheurs se sont *butés* à des résultats contradictoires.
-  Die Forscher sind auf widersprüchliche Ergebnisse *gestoßen*.
+  The researchers have come across contradictory results.
 
   "Je me suis *buté* à son silence obstiné."
-  "Ich bin auf sein hartnäckiges Schweigen *gestoßen*."
+  "I've come across his stubborn silence."
 
   L'échelle *butait* contre le plafond.
-  Die Leiter *stieß* gegen die Decke.
+  The ladder hit the ceiling.
 
   Elle s'est *butée* dans son opinion malgré les explications.
-  Sie hat sich trotz der Erklärungen in ihrer Meinung *versteift*.
+  She has become *stiff* in her opinion despite the explanations.
 
   Le projecteur *bute* contre le mur du fond.
-  Der Scheinwerfer *stößt* gegen die Rückwand.
+  The headlight hits the back wall.
 
   La voiture *butait* dans tous les nids-de-poule.
-  Das Auto *stieß* in jedes Schlagloch.
+  The car pushed into every pothole.
 
   Nos efforts se sont *butés* à leur résistance.
-  Unsere Bemühungen sind auf ihren Widerstand *gestoßen*.
+  Our efforts have met with opposition.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>buter</i> und <i>heurter</i></div>
+    <div class="section-title"><i>buter</i> and <i>heurter</i></div>
     <div class="section-content">
-      <p><span class="fr">Buter</span> bedeutet <span class="de">"anstoßen"</span> oder <span class="de">"stolpern"</span> und wird oft verwendet, wenn man gegen ein Hindernis stößt oder bei etwas nicht weiterkommt.</p>
+      <p><span class="fr">Buter</span> means <span class="de">"Toast"</span> or <span class="de">"stolpern"</span> and is often used when you hit an obstacle or when something does not get any further.</p>
       <div class="examples">
         <div class="fr">Il a buté contre une pierre et est tombé.</div>
-        <div class="de spoiler">Er ist gegen einen Stein gestoßen und gefallen.</div>
+        <div class="de spoiler">He hit a stone and fell.</div>
         <div class="fr">Elle bute sur ce problème de mathématiques depuis des heures.</div>
-        <div class="de spoiler">Sie kommt bei diesem Mathematikproblem seit Stunden nicht weiter.</div>
+        <div class="de spoiler">She hasn't been able to get anywhere on this math problem for hours.</div>
       </div>
-      <p><span class="fr">Heurter</span> (#2601) bedeutet <span class="de">"stoßen"</span> oder <span class="de">"anstoßen"</span> und kann sowohl im physischen als auch im übertragenen Sinne verwendet werden, oft mit der Idee des Schockierens oder Verletzens.</p>
+      <p><span class="fr">Heurter</span> (#2601) means <span class="de">"punch"</span> or <span class="de">"Toast"</span> and can be used both physically and figuratively, often with the idea of shocking or injury.</p>
       <div class="examples">
         <div class="fr">La voiture a heurté un arbre.</div>
-        <div class="de spoiler">Das Auto ist gegen einen Baum geprallt.</div>
+        <div class="de spoiler">The car hit a tree.</div>
         <div class="fr">Ses propos ont heurté la sensibilité de l'auditoire.</div>
-        <div class="de spoiler">Seine Worte haben die Gefühle des Publikums verletzt.</div>
+        <div class="de spoiler">His words have hurt the feelings of the audience.</div>
       </div>
-      <p>Während beide Verben eine Art von Zusammenstoß beschreiben, impliziert <span class="fr">buter</span> oft ein Hindernis oder eine Schwierigkeit, während <span class="fr">heurter</span> stärker den Aspekt des Aufpralls oder der Verletzung betont.</p>
+      <p>While both verbs describe a kind of collision, implies <span class="fr">buter</span> often an obstacle or a difficulty, while <span class="fr">heurter</span> more stressing the aspect of impact or injury.</p>
     </div>
   </div>

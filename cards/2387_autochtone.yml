@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2387
 Wort: autochtone
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: autochtone
 Femininum / Plural: ''
 IPA: \o.tok.ton\
-Definition: einheimisch
-Register: ↘Fiktion ↘Sachtext ↗Mündlich
+Definition: Native
+Register: ↘fiction ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous pouvons répondre aux préoccupations des *autochtones*.
-  Wir können auf die Anliegen der *Einheimischen* eingehen.
+  We can respond to the concerns of the *locals*.
 
   Les *autochtones* ont développé des techniques de pêche sophistiquées.
-  Die *Ureinwohner* haben ausgefeilte Fischfangtechniken entwickelt.
+  The natives have developed sophisticated fishing techniques.
 
   La population *autochtone* de cette région parle une langue unique.
-  Die *einheimische* Bevölkerung dieser Region spricht eine einzigartige Sprache.
+  The *local* population of this region speaks a unique language.
 
   Les traditions des peuples *autochtones* sont transmises de génération en génération.
-  Die Traditionen der *eingeborenen* Völker werden von Generation zu Generation weitergegeben.
+  The traditions of the *indigenous* peoples are passed on from generation to generation.
 
   Cette plante *autochtone* ne pousse que dans notre région.
-  Diese *einheimische* Pflanze wächst nur in unserer Region.
+  This native plant only grows in our region.
 
   Les *autochtones* nous ont montré les meilleurs endroits pour cueillir des champignons.
-  Die *Einheimischen* haben uns die besten Plätze zum Pilzesammeln gezeigt.
+  The *locals* showed us the best places to pick mushrooms.
 
   La culture *autochtone* est riche en contes et légendes.
-  Die *einheimische* Kultur ist reich an Märchen und Legenden.
+  The *local* culture is rich in fairy tales and legends.
 
   Les artistes *autochtones* exposent leurs œuvres au musée local.
-  Die *einheimischen* Künstler stellen ihre Werke im örtlichen Museum aus.
+  The *local* artists exhibit their works in the local museum.
 
   Cette communauté *autochtone* vit ici depuis des millénaires.
-  Diese *eingeborene* Gemeinschaft lebt hier seit Jahrtausenden.
+  This native community has lived here for millennia.
 
   Le festival célèbre la musique *autochtone* de notre région.
-  Das Festival feiert die *einheimische* Musik unserer Region.
+  The festival celebrates the *local* music of our region.
 
   Les droits des peuples *autochtones* sont protégés par la loi.
-  Die Rechte der *indigenen* Völker sind gesetzlich geschützt.
+  The rights of *indigenous* peoples are protected by law.
 
   Cette espèce d'oiseau *autochtone* est menacée d'extinction.
-  Diese *einheimische* Vogelart ist vom Aussterben bedroht.
+  This native bird species is threatened with extinction.
 
   Les *autochtones* connaissent les propriétés médicinales des plantes locales.
-  Die *Ureinwohner* kennen die Heilwirkungen der lokalen Pflanzen.
+  The natives know the healing effects of local plants.
 
   La langue *autochtone* est enseignée dans les écoles locales.
-  Die *einheimische* Sprache wird in den örtlichen Schulen unterrichtet.
+  The *local* language is taught in the local schools.
 
   Les chercheurs étudient les savoirs des peuples *autochtones*.
-  Die Forscher untersuchen das Wissen der *indigenen* Völker.
+  The researchers investigate the knowledge of *indigenous* peoples.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

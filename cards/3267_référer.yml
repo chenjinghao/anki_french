@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3267
 Wort: référer
 Wortart: vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: référer
 Femininum / Plural: ''
 IPA: \ʁe.fe.ʁe\
-Definition: beziehen auf, vorlegen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: to submit to
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vous *réfère* à notre défense.
-  Ich *verweise* Sie auf unsere Verteidigung.
+  I'll refer you to our defense.
 
   Il faudra en *référer* au conseil d'administration avant de prendre une décision.
-  Wir müssen die Angelegenheit dem Vorstand *vorlegen*, bevor wir eine Entscheidung treffen.
+  We have to submit the matter to the board before we make a decision.
 
   L'avocat s'est *référé* à plusieurs témoignages pour défendre son client.
-  Der Anwalt hat sich auf mehrere Zeugenaussagen *berufen*, um seinen Mandanten zu verteidigen.
+  The lawyer *called* on several testimonys to defend his client.
 
   Cette théorie se *réfère* aux découvertes de Marie Curie.
-  Diese Theorie *bezieht* sich auf die Entdeckungen von Marie Curie.
+  This theory refers to the discoveries of Marie Curie.
 
   Je dois en *référer* à mon chef avant d'accepter votre proposition.
-  Ich muss Ihren Vorschlag erst meinem Chef *unterbreiten*.
+  I have to make your proposal to my boss first.
 
   Les notes en bas de page se *réfèrent* au chapitre précédent.
-  Die Fußnoten *beziehen* sich auf das vorherige Kapitel.
+  The footnotes refer to the previous chapter.
 
   Pour plus d'informations, veuillez vous *référer* au mode d'emploi.
-  Für weitere Informationen *schauen* Sie bitte in der Bedienungsanleitung *nach*.
+  For more information, please check the operating instructions.
 
   Le professeur s'est *référé* aux travaux d'Einstein dans son cours.
-  Der Professor hat sich in seiner Vorlesung auf Einsteins Arbeiten *bezogen*.
+  In his lecture, the professor referred to Einstein's work.
 
   Je m'en *réfère* à votre jugement dans cette affaire.
-  Ich *verlasse* mich in dieser Angelegenheit auf Ihr Urteil.
+  I rely on your judgment on this matter.
 
   Ces commentaires se *réfèrent* à la version précédente du document.
-  Diese Kommentare *beziehen* sich auf die vorherige Version des Dokuments.
+  These comments refer to the previous version of the document.
 
   Le juge devra en *référer* à la Cour suprême.
-  Der Richter muss die Sache dem Obersten Gerichtshof *vorlegen*.
+  The judge must refer the matter to the Supreme Court.
 
   Son article se *réfère* aux événements de la semaine dernière.
-  Sein Artikel *nimmt* auf die Ereignisse der letzten Woche *Bezug*.
+  His article refers to the events of the last week.
 
   Les étudiants doivent se *référer* au syllabus pour connaître les dates d'examen.
-  Die Studenten müssen im Lehrplan *nachschauen*, um die Prüfungstermine zu erfahren.
+  The students must *look up* the curriculum in order to get the exam dates.
 
   Elle s'est *référée* à son expérience personnelle pour expliquer sa décision.
-  Sie hat sich bei ihrer Entscheidungserklärung auf ihre persönlichen Erfahrungen *berufen*.
+  She relied on her personal experience in her decision-making.
 
   Je vais en *référer* immédiatement à la direction.
-  Ich werde die Sache sofort der Geschäftsleitung *vorlegen*.
+  I'm going to *present* this to the management right away.
 
   Cette loi se *réfère* aux droits fondamentaux des citoyens.
-  Dieses Gesetz *bezieht* sich auf die Grundrechte der Bürger.
+  This law refers to the fundamental rights of citizens.
 
   Pour toute question technique, veuillez vous *référer* au manuel.
-  Bei technischen Fragen *schauen* Sie bitte im Handbuch *nach*.
+  For technical questions, please check the manual.
 
   Le paragraphe trois se *réfère* directement à votre situation.
-  Der dritte Absatz *bezieht* sich direkt auf Ihre Situation.
+  The third paragraph refers directly to your situation.
 
   Elle doit en *référer* à ses collègues avant de prendre une décision.
-  Sie muss die Sache ihren Kollegen *vorlegen*, bevor sie eine Entscheidung trifft.
+  She must *present* the matter to her colleagues before making a decision.
 
   Cette citation se *réfère* à un poème de Baudelaire.
-  Dieses Zitat *bezieht* sich auf ein Gedicht von Baudelaire.
+  This quote refers to a poem by Baudelaire.
 
   Le chercheur s'est *référé* aux études précédentes dans sa publication.
-  Der Forscher hat sich in seiner Publikation auf frühere Studien *bezogen*.
+  In his publication, the researcher referred to earlier studies.
 
   Dans ce contexte, le mot se *réfère* à un concept philosophique.
-  In diesem Zusammenhang *bezieht* sich das Wort auf ein philosophisches Konzept.
+  In this context, the word refers to a philosophical concept.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

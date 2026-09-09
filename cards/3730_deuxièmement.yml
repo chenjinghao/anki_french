@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3730
 Wort: deuxièmement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: deuxièmement
 Femininum / Plural: ''
 IPA: \dø.zjɛm.mɑ̃\
-Definition: zweitens
-Register: ↘Fiktion ↘Sachtext ↗Mündlich
+Definition: second
+Register: ↘fiction ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Deuxièmement*, ce n'est pas ma faute.
-  *Zweitens* ist das nicht meine Schuld.
+  Second, it's not my fault.
 
   *Deuxièmement*, il faut penser à protéger l'environnement.
-  *Zweitens* müssen wir an den Umweltschutz denken.
+  *Secondly*, we need to think about environmental protection.
 
   *Deuxièmement*, nous devons considérer les conséquences à long terme.
-  *Zweitens* müssen wir die langfristigen Folgen bedenken.
+  *Secondly*, we must consider the long-term consequences.
 
   Premièrement, réfléchissez bien ; *deuxièmement*, prenez votre décision.
-  Erstens, denken Sie gut nach; *zweitens*, treffen Sie Ihre Entscheidung.
+  First, think well; *second*, make your decision.
 
   *Deuxièmement*, je voudrais souligner l'importance de la communication.
-  *Zweitens* möchte ich die Bedeutung der Kommunikation betonen.
+  *Secondly*, I would like to stress the importance of communication.
 
   *Deuxièmement*, les résultats montrent une amélioration significative.
-  *Zweitens* zeigen die Ergebnisse eine deutliche Verbesserung.
+  *Secondly*, the results show a significant improvement.
 
   *Deuxièmement*, nous allons examiner les aspects économiques.
-  *Zweitens* werden wir die wirtschaftlichen Aspekte untersuchen.
+  *Secondly*, we will examine the economic aspects.
 
   *Deuxièmement*, j'aimerais remercier tous les participants.
-  *Zweitens* möchte ich allen Teilnehmern danken.
+  *Secondly*, I would like to thank all the participants.
 
   *Deuxièmement*, il faudra tenir compte du budget disponible.
-  *Zweitens* müssen wir das verfügbare Budget berücksichtigen.
+  *Secondly*, we must take into account the available budget.
 
   *Deuxièmement*, nous devrons reporter la réunion à la semaine prochaine.
-  *Zweitens* werden wir die Besprechung auf nächste Woche verschieben müssen.
+  *Secondly*, we will have to postpone the meeting until next week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

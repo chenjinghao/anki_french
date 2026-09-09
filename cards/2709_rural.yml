@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2709
 Wort: rural
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rural
 Femininum / Plural: rurale
 IPA: \ʁy.ʁal\
-Definition: ländlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Rural
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les régions *rurales* constituent un genre de refuge.
-  *Ländliche* Gebiete stellen eine Art Zufluchtsort dar.
+  *Rural* areas are a kind of refuge.
 
   La vie *rurale* est souvent idéalisée dans les films.
-  Das *Land*leben wird in Filmen oft idealisiert.
+  *Country* life is often idealized in films.
 
   L'exode *rural* a modifié la démographie de nombreuses régions.
-  Die *Land*flucht hat die Demografie vieler Regionen verändert.
+  The rural exodus has changed the demography of many regions.
 
   Le code *rural* régit les activités agricoles en France.
-  Das *Landwirtschafts*gesetzbuch regelt die landwirtschaftlichen Aktivitäten in Frankreich.
+  The Agricultural Code regulates agricultural activities in France.
 
   Notre commune *rurale* compte moins de 2000 habitants.
-  Unsere *ländliche* Gemeinde hat weniger als 2000 Einwohner.
+  Our *rural* community has less than 2000 inhabitants.
 
   Les *ruraux* ont parfois le sentiment d'être oubliés par les politiques.
-  Die *Landbewohner* haben manchmal das Gefühl, von der Politik vergessen zu werden.
+  The country's inhabitants sometimes feel forgotten by politics.
 
   Le développement *rural* est essentiel pour l'équilibre du territoire.
-  Die *ländliche* Entwicklung ist für das Gleichgewicht des Landes wesentlich.
+  *Rural* development is essential to the country's balance.
 
   L'économie *rurale* repose principalement sur l'agriculture et l'élevage.
-  Die *ländliche* Wirtschaft basiert hauptsächlich auf Landwirtschaft und Viehzucht.
+  The *rural* economy is mainly based on agriculture and livestock farming.
 
   Le charme de ce gîte *rural* attire de nombreux citadins.
-  Der Charme dieser *ländlichen* Ferienunterkunft zieht viele Städter an.
+  The charm of this *rural* holiday home attracts many townspeople.
 
   Les routes *rurales* offrent souvent des paysages pittoresques.
-  *Land*straßen bieten oft malerische Landschaften.
+  Land roads often offer picturesque landscapes.
 
   La sociologie *rurale* étudie les communautés agricoles et leur évolution.
-  Die *Land*soziologie untersucht landwirtschaftliche Gemeinschaften und ihre Entwicklung.
+  Landsociology investigates agricultural communities and their development.
 
   Le droit *rural* protège les intérêts des agriculteurs.
-  Das *Agrar*recht schützt die Interessen der Landwirte.
+  Agricultural law protects the interests of farmers.
 
   L'exploitation *rurale* de mes grands-parents produit du fromage bio.
-  Der *landwirtschaftliche* Betrieb meiner Großeltern produziert Bio-Käse.
+  The farm of my grandparents produces organic cheese.
 
   La population *rurale* diminue au profit des zones urbaines.
-  Die *ländliche* Bevölkerung nimmt zugunsten der städtischen Gebiete ab.
+  The *rural* population is declining in favour of urban areas.
 
   Ce domaine *rural* a été transformé en centre de formation agricole.
-  Dieses *Land*gut wurde in ein landwirtschaftliches Ausbildungszentrum umgewandelt.
+  This estate has been transformed into an agricultural training centre.
 
   Les traditions *rurales* se perpétuent de génération en génération.
-  *Ländliche* Traditionen werden von Generation zu Generation weitergegeben.
+  *Rural* traditions are passed on from generation to generation.
 
   L'aménagement du territoire vise à redynamiser les zones *rurales*.
-  Die Raumplanung zielt darauf ab, *ländliche* Gebiete wiederzubeleben.
+  Spatial planning aims to revive *rural* areas.
 
   Le tourisme *rural* connaît un essor important ces dernières années.
-  Der *Land*tourismus erlebt in den letzten Jahren einen bedeutenden Aufschwung.
+  Rural tourism has experienced a significant upswing in recent years.
 
   Les écoles *rurales* jouent un rôle crucial dans le maintien de la vie locale.
-  *Land*schulen spielen eine entscheidende Rolle bei der Aufrechterhaltung des lokalen Lebens.
+  Rural schools play a crucial role in maintaining local life.
 
   La modernisation des exploitations *rurales* est un défi majeur.
-  Die Modernisierung *landwirtschaftlicher* Betriebe ist eine große Herausforderung.
+  Modernising farms is a major challenge.
 
   Le paysage *rural* a beaucoup changé au cours du siècle dernier.
-  Die *ländliche* Landschaft hat sich im letzten Jahrhundert stark verändert.
+  The *rural* landscape has changed considerably in the last century.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

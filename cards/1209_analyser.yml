@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1209
 Wort: analyser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: analyser
 Femininum / Plural: ''
 IPA: \a.na.li.ze\
-Definition: analysieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: analyze
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *analyse* aussi les échecs de la politique.
-  Er *analysiert* auch die politischen Misserfolge.
+  He also analyses the political failures.
 
   Les scientifiques *analysent* des échantillons d'eau pour détecter la pollution.
-  Die Wissenschaftler *untersuchen* Wasserproben auf Verschmutzung.
+  The scientists are investigating water samples for pollution.
 
   Le médecin a fait *analyser* mon sang hier.
-  Der Arzt hat gestern mein Blut *analysieren* lassen.
+  The doctor had my blood analyzed yesterday.
 
   Les étudiants doivent *analyser* ce poème pour demain.
-  Die Studenten müssen dieses Gedicht bis morgen *analysieren*.
+  The students have to *analyze* this poem by tomorrow.
 
   Le psychologue m'aide à *analyser* mes émotions.
-  Der Psychologe hilft mir, meine Gefühle zu *analysieren*.
+  The psychologist helps me *analyze* my feelings.
 
   Marie s'est fait *analyser* pendant deux ans.
-  Marie hat sich zwei Jahre lang *analysieren* lassen.
+  Marie's been analyzed for two years.
 
   L'ordinateur *analyse* rapidement les données collectées.
-  Der Computer *wertet* die gesammelten Daten schnell *aus*.
+  The computer quickly evaluates the collected data.
 
   Le professeur nous apprend à *analyser* les phrases en grammaire.
-  Der Lehrer bringt uns bei, Sätze grammatikalisch zu *bestimmen*.
+  The teacher teaches us to *determine* sentences grammatically.
 
   Il passe des heures à s'*analyser* au lieu d'agir.
-  Er verbringt Stunden damit, sich selbst zu *analysieren*, anstatt zu handeln.
+  He spends hours analyzing himself instead of acting.
 
   Les experts ont *analysé* les causes de l'accident.
-  Die Experten haben die Unfallursachen *analysiert*.
+  The experts analysed the causes of the accident.
 
   Nous devons *analyser* cette situation sous tous les angles.
-  Wir müssen diese Situation von allen Seiten *analysieren*.
+  We must analyse this situation from all sides.
 
   Le laboratoire va *analyser* ces échantillons de tissus.
-  Das Labor wird diese Gewebeproben *untersuchen*.
+  The laboratory will *examine* these tissue samples.
 
   Les sociologues *analysent* les changements dans la société.
-  Die Soziologen *analysieren* die Veränderungen in der Gesellschaft.
+  The sociologists *analyze* the changes in society.
 
   Il faut *analyser* ce problème en profondeur.
-  Wir müssen dieses Problem gründlich *analysieren*.
+  We need to analyse this problem thoroughly.
 
   L'équipe *analyse* les résultats de l'enquête.
-  Das Team *wertet* die Umfrageergebnisse *aus*.
+  The team evaluates the survey results.
 
   Les chercheurs *analysent* l'impact du changement climatique.
-  Die Forscher *analysieren* die Auswirkungen des Klimawandels.
+  The researchers analyse the effects of climate change.
 
   Cette musique ne s'*analyse* pas, elle se ressent.
-  Diese Musik lässt sich nicht *analysieren*, man muss sie fühlen.
+  This music cannot be analyzed, you have to feel it.
 
   Le chimiste *analyse* la composition du nouveau matériau.
-  Der Chemiker *analysiert* die Zusammensetzung des neuen Materials.
+  The chemist analyses the composition of the new material.
 
   Les élèves apprennent à *analyser* des textes littéraires.
-  Die Schüler lernen, literarische Texte zu *analysieren*.
+  The students learn to *analyze* literary texts.
 
   Il faut *analyser* les statistiques avec précaution.
-  Man muss die Statistiken vorsichtig *auswerten*.
+  You have to carefully *evaluate* the statistics.
 
   L'ordinateur *analyse* les données en temps réel.
-  Der Computer *wertet* die Daten in Echtzeit *aus*.
+  The computer evaluates the data in real time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2159
 Wort: étrange
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: étrange
 Femininum / Plural: ''
 IPA: \e.tʁɑ̃ʒ\
-Definition: seltsam, eigenartig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Strange, strange
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai fait un rêve *étrange*.
-  Ich hatte einen *seltsamen* Traum.
+  I had a *strange* dream.
 
   Il y a quelque chose d'*étrange* dans l'atmosphère ce soir.
-  Heute Abend liegt etwas *Merkwürdiges* in der Luft.
+  There's something *strange* in the air tonight.
 
   Des bruits *étranges* venaient de la cave.
-  *Seltsame* Geräusche kamen aus dem Keller.
+  *Strange* sounds came from the basement.
 
   Je trouve *étrange* que personne ne soit venu à la fête.
-  Ich finde es *komisch*, dass niemand zur Party gekommen ist.
+  I think it's *funny* that no one came to the party.
 
   Cette maison dégage une aura *étrange*.
-  Dieses Haus strahlt eine *merkwürdige* Aura aus.
+  This house radiates a *strange* aura.
 
   Mon chat a un comportement *étrange* depuis ce matin.
-  Meine Katze verhält sich seit heute Morgen *seltsam*.
+  My cat's been acting weird since this morning.
 
   L'*étrange* est qu'il ne m'a jamais rappelé.
-  Das *Merkwürdige* ist, dass er mich nie zurückgerufen hat.
+  The *strange* thing is that he never called me back.
 
   Ce nouveau collègue est vraiment *étrange*.
-  Dieser neue Kollege ist wirklich *seltsam*.
+  This new colleague is really *strange*.
 
   Une coïncidence *étrange* nous a réunis.
-  Ein *merkwürdiger* Zufall hat uns zusammengeführt.
+  A strange coincidence brought us together.
 
   Elle m'a lancé un regard *étrange*.
-  Sie warf mir einen *seltsamen* Blick zu.
+  She gave me a *strange* look.
 
   Les phénomènes *étranges* fascinent les scientifiques.
-  *Merkwürdige* Phänomene faszinieren die Wissenschaftler.
+  *Strange* phenomena fascinate scientists.
 
   Son sourire *étrange* m'a mis mal à l'aise.
-  Sein *seltsames* Lächeln hat mich verunsichert.
+  His *strange* smile made me unsure.
 
   Cette *étrange* aventure a changé ma vie.
-  Dieses *merkwürdige* Abenteuer hat mein Leben verändert.
+  This *strange* adventure has changed my life.
 
   Il a développé un goût pour l'*étrange*.
-  Er hat einen Geschmack für das *Seltsame* entwickelt.
+  He has developed a taste for the *strange*.
 
   Une lumière *étrange* brillait dans le ciel.
-  Ein *merkwürdiges* Licht leuchtete am Himmel.
+  A *strange* light shone in the sky.
 
   Sa façon de marcher est *étrange*.
-  Seine Art zu gehen ist *seltsam*.
+  His way of walking is *strange*.
 
   Cette histoire devient de plus en plus *étrange*.
-  Diese Geschichte wird immer *merkwürdiger*.
+  This story is getting weirder and weirder.
 
   Un silence *étrange* régnait dans la ville.
-  Eine *seltsame* Stille lag über der Stadt.
+  A *strange* silence lay over the city.
 
   Les romans mêlant l'*étrange* et le fantastique me passionnent.
-  Romane, die das *Unheimliche* mit dem Fantastischen verbinden, begeistern mich.
+  I am thrilled by novels that combine the *uncanny* with the fantastic.
 
   Ce tableau dégage une atmosphère *étrange*.
-  Dieses Gemälde strahlt eine *merkwürdige* Atmosphäre aus.
+  This painting radiates a *strange* atmosphere.
 
   Une sensation *étrange* m'envahit soudainement.
-  Ein *seltsames* Gefühl überkam mich plötzlich.
+  A *strange* feeling suddenly came over me.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

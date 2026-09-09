@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 941
 Wort: négociation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la négociation
 Femininum / Plural: ''
 IPA: \ne.gɔ.sja.sjɔ̃\
-Definition: Verhandlung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Negotiation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il se présente à la table de *négociation*.
-  Er kommt zum Verhandlungs*tisch*.
+  He's coming to the negotiating *table*.
 
   Les *négociations* salariales commenceront lundi prochain.
-  Die Lohn*verhandlungen* beginnen nächsten Montag.
+  The wage *negotiations* will begin next Monday.
 
   Après trois mois de *négociations*, nous avons enfin trouvé un accord.
-  Nach drei Monaten *Verhandlungen* haben wir endlich eine Einigung erzielt.
+  After three months of *negotiations*, we finally reached an agreement.
 
   La *négociation* du contrat a pris plus de temps que prévu.
-  Die *Aushandlung* des Vertrags hat länger gedauert als erwartet.
+  The *negotiation* of the contract took longer than expected.
 
   Les *négociations* commerciales entre les deux pays se sont bien déroulées.
-  Die Handels*verhandlungen* zwischen den beiden Ländern sind gut verlaufen.
+  The trade *negotiations* between the two countries have been successful.
 
   Les syndicats ont entamé des *négociations* avec la direction.
-  Die Gewerkschaften sind mit der Geschäftsführung in *Verhandlungen* getreten.
+  The trade unions have entered into *negotiations* with the management.
 
   Une *négociation* préliminaire aura lieu demain matin.
-  Morgen früh findet eine Vor*verhandlung* statt.
+  A preliminary hearing will take place in the morning.
 
   La nouvelle round de *négociations* sur le désarmement a échoué.
-  Die neue Runde der Abrüstungs*verhandlungen* ist gescheitert.
+  The new round of disarmament *negotiations* has failed.
 
   Les *négociations* pour la formation du gouvernement sont en cours.
-  Die *Verhandlungen* zur Regierungsbildung laufen noch.
+  The *negotiations* on government formation are still ongoing.
 
   Ils ont rompu les *négociations* après un désaccord majeur.
-  Sie haben die *Verhandlungen* nach einer größeren Meinungsverschiedenheit abgebrochen.
+  They have broken off the *negotiations* after a greater disagreement.
 
   Le ministre privilégie la *négociation* au conflit ouvert.
-  Der Minister bevorzugt *Verhandlungen* gegenüber einem offenen Konflikt.
+  The Minister prefers *negotiations* on an open conflict.
 
   Les *négociations* de fusion entre les deux entreprises avancent bien.
-  Die Fusions*verhandlungen* zwischen den beiden Unternehmen kommen gut voran.
+  The merger *negotiations* between the two companies are progressing well.
 
   La banque a accepté d'ouvrir des *négociations* pour un nouveau crédit.
-  Die Bank hat zugestimmt, *Verhandlungen* über einen neuen Kredit aufzunehmen.
+  The Bank has agreed to enter into *negotiations* on a new loan.
 
   Les *négociations* tripartites reprendront la semaine prochaine.
-  Die dreiseitigen *Verhandlungen* werden nächste Woche wieder aufgenommen.
+  The tripartite *negotiations* will resume next week.
 
   L'art de la *négociation* s'apprend avec l'expérience.
-  Die Kunst der *Verhandlung* lernt man durch Erfahrung.
+  The art of *negotiation* is learned through experience.
 
   Elle a reçu pleins pouvoirs pour mener les *négociations*.
-  Sie hat Vollmacht erhalten, die *Verhandlungen* zu führen.
+  It has been given authority to conduct the *negotiations*.
 
   Les *négociations* bilatérales ont abouti à un accord historique.
-  Die bilateralen *Verhandlungen* haben zu einem historischen Abkommen geführt.
+  The bilateral *negotiations* have led to a historic agreement.
 
   Une nouvelle série de *négociations* va s'ouvrir au printemps.
-  Im Frühjahr beginnt eine neue Reihe von *Verhandlungen*.
+  A new series of *negotiations* will begin in spring.
 
   Les *négociations* sur la convention collective sont dans l'impasse.
-  Die *Verhandlungen* über den Tarifvertrag stecken in einer Sackgasse.
+  The *negotiations* on the collective agreement are in a dead end.
 
   La *négociation* du marché a duré toute la journée.
-  Die *Verhandlung* über das Geschäft hat den ganzen Tag gedauert.
+  The *negotiation* of the business lasted all day.
 
   Ils suspendent les *négociations* jusqu'à nouvel ordre.
-  Sie setzen die *Verhandlungen* bis auf Weiteres aus.
+  They will suspend *negotiations* until further notice.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1546
 Wort: interne
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: interne
 Femininum / Plural: ''
 IPA: \ɛ̃.tɛʁn\
-Definition: Innen-; intern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Internal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Chez les *internes*, sa renommée était moins prestigieuse.
-  Unter den *Internatsschülern* war sein Ruf weniger angesehen.
+  Among the students of the boarding school, his reputation was less respected.
 
   La face *interne* du bras présente une ecchymose.
-  Die *Innen*seite des Arms weist einen Bluterguss auf.
+  The *inside* of the arm has a bruise.
 
   Les organes *internes* fonctionnent normalement selon le médecin.
-  Die *inneren* Organe funktionieren laut dem Arzt normal.
+  According to the doctor, the *internal* organs function normally.
 
   Elle a décidé de régler ce conflit en *interne*.
-  Sie hat beschlossen, diesen Konflikt *intern* zu regeln.
+  It has decided to resolve this conflict internally.
 
   Une hémorragie *interne* peut être très dangereuse.
-  Eine *innere* Blutung kann sehr gefährlich sein.
+  *Internal* bleeding can be very dangerous.
 
   Le département de médecine *interne* a besoin de nouveaux équipements.
-  Die Abteilung für *Innere* Medizin braucht neue Geräte.
+  The *Internal* Medicine Department needs new equipment.
 
   Les débats *internes* au parti ont duré toute la nuit.
-  Die partei*internen* Debatten haben die ganze Nacht gedauert.
+  The party-*internal* debates have lasted all night.
 
   Cette *interne* travaille dans le service de cardiologie.
-  Diese *Assistenzärztin* arbeitet in der Kardiologie.
+  This *assistant doctor* works in cardiology.
 
   La structure *interne* de l'entreprise va changer l'année prochaine.
-  Die *interne* Struktur des Unternehmens wird sich nächstes Jahr ändern.
+  The company's *internal* structure will change next year.
 
   Les tensions *internes* menacent l'unité du groupe.
-  Die *internen* Spannungen bedrohen die Einheit der Gruppe.
+  *Internal* tensions threaten the unity of the group.
 
   Cette promotion *interne* lui a fait très plaisir.
-  Diese *interne* Beförderung hat ihr große Freude bereitet.
+  This *internal* promotion has given her great pleasure.
 
   Le concours *interne* aura lieu en septembre.
-  Die *interne* Prüfung findet im September statt.
+  The *internal* audit will take place in September.
 
   Tous les *internes* doivent respecter le couvre-feu.
-  Alle *Internatsschüler* müssen die Ausgangssperre einhalten.
+  All boarding school students must comply with the curfew.
 
   L'*interne* de garde a été appelé en urgence.
-  Der diensthabende *Assistenzarzt* wurde notfallmäßig gerufen.
+  The intern on duty was called in as an emergency.
 
   La paroi *interne* du vaisseau présente des fissures.
-  Die *Innen*wand des Gefäßes weist Risse auf.
+  The inner wall of the vessel has cracks.
 
   Cette information *interne* ne doit pas être divulguée.
-  Diese *Insider*information darf nicht weitergegeben werden.
+  This inside information must not be passed on.
 
   La glande à sécrétion *interne* produit des hormones.
-  Die *innere* Drüse produziert Hormone.
+  The inner gland produces hormones.
 
   L'oreille *interne* est responsable de l'équilibre.
-  Das *Innen*ohr ist für das Gleichgewicht verantwortlich.
+  The inner ear is responsible for the balance.
 
   Les causes *internes* de l'échec doivent être analysées.
-  Die *internen* Ursachen des Scheiterns müssen analysiert werden.
+  The *internal* causes of failure must be analysed.
 
   La face *interne* de la cuisse était couverte d'hématomes.
-  Die *Innen*seite des Oberschenkels war mit Blutergüssen bedeckt.
+  The *inside* of the thigh was covered with bruises.
 
   Les problèmes *internes* de l'église seront discutés demain.
-  Die *inner*kirchlichen Probleme werden morgen besprochen.
+  The *internal* church problems will be discussed tomorrow.
 
   La structure *interne* du globe terrestre fascine les géologues.
-  Die *innere* Struktur der Erde fasziniert die Geologen.
+  The inner structure of the earth fascinates the geologists.
 
   Les facteurs *internes* ont considérablement influencé sa décision.
-  Die *internen* Faktoren haben seine Entscheidung erheblich beeinflusst.
+  The *internal* factors have significantly influenced his decision.
 
   Le réfectoire des *internes* sera rénové cet été.
-  Der Speisesaal der *Internatsschüler* wird diesen Sommer renoviert.
+  The boarding school's dining room will be renovated this summer.
 
   Cette affaire *interne* au parti doit rester confidentielle.
-  Diese partei*interne* Angelegenheit muss vertraulich bleiben.
+  This *internal* matter must remain confidential.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

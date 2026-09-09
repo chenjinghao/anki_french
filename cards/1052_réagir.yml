@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1052
 Wort: réagir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: réagir
 Femininum / Plural: ''
 IPA: \ʁe.a.ʒiʁ\
-Definition: reagieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: react
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu *réagis* comme une enfant.
-  Du *reagierst* wie ein Kind.
+  You *react* like a child.
 
   Les bases *réagissent* avec les acides pour former des sels.
-  Basen *reagieren* mit Säuren, um Salze zu bilden.
+  Bases *react* with acids to form salts.
 
   Son corps n'a pas bien *réagi* au nouveau médicament.
-  Sein Körper hat das neue Medikament nicht gut *vertragen*.
+  His body did not tolerate the new drug well.
 
   Comment vas-tu *réagir* face à cette situation difficile ?
-  Wie wirst du auf diese schwierige Situation *reagieren*?
+  How will you *react* to this difficult situation?
 
   Elle a *réagi* brutalement quand je lui ai annoncé la nouvelle.
-  Sie hat heftig *reagiert*, als ich ihr die Nachricht überbracht habe.
+  She reacted violently when I gave her the message.
 
   L'organisme *réagit* naturellement contre les infections.
-  Der Körper *kämpft* von Natur aus gegen Infektionen *an*.
+  The body fights by nature against infections.
 
   Les marchés financiers ont mal *réagi* à cette annonce.
-  Die Finanzmärkte haben schlecht auf diese Ankündigung *reagiert*.
+  Financial markets have reacted badly to this announcement.
 
   Il faut *réagir* contre cette injustice !
-  Wir müssen gegen diese Ungerechtigkeit *kämpfen*!
+  We must fight this injustice!
 
   La cellule photoélectrique *réagit* instantanément à la lumière.
-  Die Fotozelle *reagiert* sofort auf Licht.
+  The photocell reacts immediately to light.
 
   Son stress *réagit* sur sa santé.
-  Sein Stress *wirkt* sich auf seine Gesundheit *aus*.
+  His stress affects his health.
 
   Les parents doivent *réagir* quand leurs enfants se comportent mal.
-  Eltern müssen *reagieren*, wenn sich ihre Kinder schlecht benehmen.
+  Parents must respond when their children behave badly.
 
   Personne n'a *réagi* quand il est tombé dans la rue.
-  Niemand hat *reagiert*, als er auf der Straße gestürzt ist.
+  No one responded when he fell on the street.
 
   Il faut *réagir* vite pour éviter le pire.
-  Man muss schnell *handeln*, um das Schlimmste zu vermeiden.
+  You have to *act* quickly to avoid the worst.
 
   Le patient *réagit* bien au traitement.
-  Der Patient *spricht* gut auf die Behandlung *an*.
+  The patient responds well *to* the treatment.
 
   Comment avez-vous *réagi* à cette proposition ?
-  Wie haben Sie auf diesen Vorschlag *reagiert*?
+  How did you react to this proposal?
 
   Le métal *réagit* au contact de l'eau.
-  Das Metall *reagiert* bei Kontakt mit Wasser.
+  The metal reacts when in contact with water.
 
   Elle n'a pas *réagi* à mes messages.
-  Sie hat auf meine Nachrichten nicht *reagiert*.
+  She didn't respond to my messages.
 
   Les investisseurs ont *réagi* positivement aux nouvelles mesures.
-  Die Investoren haben positiv auf die neuen Maßnahmen *reagiert*.
+  Investors have responded positively to the new measures.
 
   Son corps ne *réagit* plus aux antibiotiques.
-  Sein Körper *reagiert* nicht mehr auf Antibiotika.
+  His body no longer reacts to antibiotics.
 
   Il faut savoir *réagir* avec sang-froid en cas d'urgence.
-  Man muss in Notfällen besonnen *reagieren* können.
+  You have to be able to *react* calmly in emergencies.
 
   Le public a *réagi* avec enthousiasme au spectacle.
-  Das Publikum hat begeistert auf die Vorstellung *reagiert*.
+  The audience responded enthusiastically to the performance.
 
   Les plantes *réagissent* à la lumière du soleil.
-  Pflanzen *reagieren* auf Sonnenlicht.
+  Plants *react* to sunlight.
 
   Comment vas-tu *réagir* quand tu le verras ?
-  Wie wirst du *reagieren*, wenn du ihn siehst?
+  How will you *react* when you see him?
 
   L'économie *réagit* lentement aux réformes.
-  Die Wirtschaft *reagiert* langsam auf die Reformen.
+  The economy is slowly responding to reforms.
 
   Le chien *réagit* immédiatement à la voix de son maître.
-  Der Hund *reagiert* sofort auf die Stimme seines Herrchens.
+  The dog reacts immediately to the voice of his master.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

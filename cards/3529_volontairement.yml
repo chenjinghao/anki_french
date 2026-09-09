@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3529
 Wort: volontairement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: volontairement
 Femininum / Plural: ''
 IPA: \vɔ.lɔ̃.tɛʁ.mɑ̃\
-Definition: freiwillig, absichtlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: voluntary, intentional
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Volontairement*, je fermai les yeux.
-  *Absichtlich* schloss ich die Augen.
+  I deliberately closed my eyes.
 
   Il a *volontairement* omis certains détails de l'histoire.
-  Er hat *absichtlich* bestimmte Details der Geschichte weggelassen.
+  He deliberately omitted certain details of the story.
 
   Elle s'est inscrite *volontairement* à ce cours de langue.
-  Sie hat sich *freiwillig* für diesen Sprachkurs eingeschrieben.
+  She volunteered for this language course.
 
   Les deux parties ont *volontairement* mis fin au contrat.
-  Die beiden Parteien haben den Vertrag *im gegenseitigen Einvernehmen* beendet.
+  The two parties have terminated the contract *by mutual agreement*.
 
   Il a *volontairement* choisi de ne pas répondre à mes messages.
-  Er hat *absichtlich* beschlossen, nicht auf meine Nachrichten zu antworten.
+  He deliberately decided not to respond to my messages.
 
   Marie s'est *volontairement* proposée pour organiser la fête.
-  Marie hat sich *freiwillig* angeboten, die Party zu organisieren.
+  Marie volunteered to organize the party.
 
   As-tu *volontairement* cassé ce vase ?
-  Hast du diese Vase *absichtlich* zerbrochen?
+  Did you break that vase on purpose?
 
   Les pompiers se sont *volontairement* engagés dans cette mission dangereuse.
-  Die Feuerwehrleute haben sich *freiwillig* für diesen gefährlichen Einsatz gemeldet.
+  The firemen volunteered for this dangerous operation.
 
   Nous avons *volontairement* simplifié l'explication pour les débutants.
-  Wir haben die Erklärung für die Anfänger *absichtlich* vereinfacht.
+  We deliberately simplified the explanation for the beginners.
 
   Pierre s'est *volontairement* exclu du groupe.
-  Pierre hat sich *freiwillig* von der Gruppe ausgeschlossen.
+  Pierre has voluntarily excluded himself from the group.
 
   Le suspect s'est *volontairement* rendu au commissariat.
-  Der Verdächtige hat sich *freiwillig* auf dem Polizeirevier gestellt.
+  The suspect volunteered to the police station.
 
   J'ai *volontairement* ignoré ses remarques désagréables.
-  Ich habe seine unangenehmen Bemerkungen *absichtlich* ignoriert.
+  I deliberately ignored his unpleasant remarks.
 
   Les étudiants ont participé *volontairement* au projet de recherche.
-  Die Studenten haben *freiwillig* am Forschungsprojekt teilgenommen.
+  The students volunteered to participate in the research project.
 
   Elle a *volontairement* baissé sa voix pour ne pas réveiller le bébé.
-  Sie hat ihre Stimme *absichtlich* gesenkt, um das Baby nicht zu wecken.
+  She deliberately lowered her voice so she wouldn't wake the baby.
 
   Ils ont *volontairement* choisi un horaire tard le soir.
-  Sie haben *absichtlich* einen späten Abendtermin gewählt.
+  You deliberately chose a late evening appointment.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

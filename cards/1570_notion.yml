@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1570
 Wort: notion
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la notion
 Femininum / Plural: ''
 IPA: \nɔ.sjɔ̃\
-Definition: Begriff, Vorstellung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Concept, presentation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Par contre, je n'ai aucune *notion* de médecine.
-  Allerdings habe ich keinerlei *Grundkenntnisse* in Medizin.
+  However, I have no *basic knowledge* of medicine.
 
   Elle a des *notions* d'espagnol suffisantes pour voyager.
-  Sie hat ausreichende *Grundkenntnisse* in Spanisch, um zu reisen.
+  She has sufficient *basic knowledge* in Spanish to travel.
 
   La *notion* de justice varie selon les cultures.
-  Der *Begriff* der Gerechtigkeit unterscheidet sich je nach Kultur.
+  The concept of justice differs according to culture.
 
   Dans le noir complet, j'ai perdu toute *notion* du lieu.
-  In der völligen Dunkelheit verlor ich jeglichen Orientierungs*sinn*.
+  In total darkness, I lost any *sense* of orientation.
 
   Les philosophes débattent encore de la *notion* de vérité.
-  Die Philosophen diskutieren noch immer über den *Begriff* der Wahrheit.
+  The philosophers still discuss the concept of truth.
 
   Ces *notions* de base en informatique te seront très utiles.
-  Diese *Grundkenntnisse* in Informatik werden dir sehr nützlich sein.
+  This *basic knowledge* of computer science will be very useful to you.
 
   Après trois jours sans dormir, il avait perdu la *notion* du temps.
-  Nach drei Tagen ohne Schlaf hatte er das Zeit*gefühl* verloren.
+  After three days without sleep, he lost his sense of time.
 
   La *notion* de beauté est très subjective.
-  Der *Begriff* der Schönheit ist sehr subjektiv.
+  The concept of beauty is very subjective.
 
   Il faut avoir quelques *notions* de cuisine pour préparer ce plat.
-  Man braucht einige *Grundkenntnisse* im Kochen, um dieses Gericht zuzubereiten.
+  You need some basic cooking skills to prepare this dish.
 
   Cette *notion* de liberté était nouvelle à l'époque.
-  Dieser *Begriff* der Freiheit war damals neu.
+  This concept of freedom was new at the time.
 
   Les enfants développent progressivement la *notion* du bien et du mal.
-  Kinder entwickeln nach und nach ein *Gefühl* für Gut und Böse.
+  Children gradually develop a sense of good and evil.
 
   Ses *notions* de mathématiques sont très limitées.
-  Seine *Grundkenntnisse* in Mathematik sind sehr begrenzt.
+  His *basic knowledge* of mathematics is very limited.
 
   La *notion* de respect est fondamentale dans l'éducation.
-  Der *Begriff* des Respekts ist grundlegend in der Erziehung.
+  The concept of respect is fundamental in education.
 
   Cette *notion* abstraite est difficile à expliquer aux débutants.
-  Dieses abstrakte *Konzept* ist schwer, Anfängern zu erklären.
+  This abstract *concept* is hard to explain to beginners.
 
   J'ai acquis quelques *notions* de jardinage en regardant ma grand-mère.
-  Ich habe einige *Grundkenntnisse* im Gärtnern durch das Zusehen bei meiner Großmutter erworben.
+  I have acquired some *basic knowledge* in gardening by watching my grandmother.
 
   La *notion* de propriété existe dans toutes les sociétés.
-  Der *Begriff* des Eigentums existiert in allen Gesellschaften.
+  The concept of ownership exists in all companies.
 
   Sans *notion* du danger, il a sauté dans l'eau glacée.
-  Ohne *Gefühl* für die Gefahr sprang er ins eiskalte Wasser.
+  Without any sense of danger, he jumped into the ice-cold water.
 
   Ces *notions* élémentaires de physique sont au programme.
-  Diese elementaren *Grundkenntnisse* der Physik stehen im Lehrplan.
+  These elementary *basic knowledge* of physics are in the curriculum.
 
   La *notion* d'amour a évolué au fil des siècles.
-  Der *Begriff* der Liebe hat sich im Laufe der Jahrhunderte entwickelt.
+  The concept of love has developed over the centuries.
 
   Il faudrait avoir au moins quelques *notions* de premiers secours.
-  Man sollte zumindest einige *Grundkenntnisse* in Erster Hilfe haben.
+  You should have at least some *basic knowledge* of first aid.
 
   Dans le brouillard, on perd vite la *notion* des distances.
-  Im Nebel verliert man schnell das *Gefühl* für Entfernungen.
+  In the fog you quickly lose the *feeling* of distance.
 
   La *notion* de démocratie est née dans la Grèce antique.
-  Der *Begriff* der Demokratie entstand im antiken Griechenland.
+  The concept of democracy originated in ancient Greece.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

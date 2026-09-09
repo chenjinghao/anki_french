@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4658
 Wort: basque
 Wortart: adj, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: basque
 Femininum / Plural: ''
 IPA: \bask\
-Definition: baskisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Basque
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y avait un couple de jeunes *basques* aussi qui était venu au Sénégal.
-  Es war auch ein junges *baskisches* Paar da, das in den Senegal gekommen war.
+  There was also a young *Basque* couple who had come to Senegal.
 
   Le *basque* est une langue unique en Europe qui n'appartient à aucune famille linguistique connue.
-  Das *Baskische* ist eine einzigartige Sprache in Europa, die zu keiner bekannten Sprachfamilie gehört.
+  *Basque* is a unique language in Europe that is not part of a well-known language family.
 
   Ma grand-mère m'a appris quelques mots en *basque* quand j'étais petit.
-  Meine Großmutter hat mir als Kind ein paar Wörter auf *Baskisch* beigebracht.
+  My grandmother taught me a few words in *Basque* when I was a kid.
 
   La pelote *basque* est un sport traditionnel très populaire dans la région.
-  Die *baskische* Pelota ist ein sehr beliebter traditioneller Sport in der Region.
+  The *Basque* Pelota is a very popular traditional sport in the region.
 
   Les danseurs ont fait un magnifique pas de *basque* pendant le spectacle.
-  Die Tänzer machten während der Aufführung einen wunderschönen *Basken*schritt.
+  The dancers took a beautiful Basque step during the performance.
 
   Elle portait une veste élégante avec une *basque* arrondie.
-  Sie trug eine elegante Jacke mit einem abgerundeten *Schoß*.
+  She wore an elegant jacket with a rounded *lap*.
 
   Les *Basques* français et espagnols partagent les mêmes traditions ancestrales.
-  Die französischen und spanischen *Basken* teilen dieselben althergebrachten Traditionen.
+  The French and Spanish *Basques* share the same traditional traditions.
 
   "Il est toujours *pendu aux basques* de son grand frère."
-  "Er *hängt* seinem großen Bruder ständig *am Rockzipfel*."
+  "He's always hanging on his big brother's skirt."
 
   J'adore le gâteau *basque* à la crème d'amandes.
-  Ich liebe den *baskischen* Kuchen mit Mandelfüllung.
+  I love the *Basque* cake with almond filling.
 
   La *basque* de son manteau était légèrement déchirée.
-  Der *Schoß* seines Mantels war leicht eingerissen.
+  The *lap* of his coat was slightly torn.
 
   Le Pays *basque* est connu pour ses paysages magnifiques.
-  Das *Basken*land ist für seine wunderschöne Landschaft bekannt.
+  The Basque Country is known for its beautiful landscape.
 
   Les enfants s'amusaient avec un tambour de *basque*.
-  Die Kinder spielten mit einem *Basken*tamburin.
+  The children played with a Basque tambourine.
 
   Elle a tiré la *basque* de sa veste pour attirer son attention.
-  Sie zog am *Schoß* seiner Jacke, um seine Aufmerksamkeit zu erregen.
+  She pulled his jacket at the *lap* to attract his attention.
 
   Le béret *basque* est devenu un symbole de la culture française.
-  Das *baskische* Barett ist zu einem Symbol der französischen Kultur geworden.
+  The *Basque* beret has become a symbol of French culture.
 
   Les traditions *basques* se transmettent de génération en génération.
-  Die *baskischen* Traditionen werden von Generation zu Generation weitergegeben.
+  The *Basque* traditions are passed on from generation to generation.
 
   Le costume traditionnel *basque* est porté lors des fêtes locales.
-  Die traditionelle *baskische* Tracht wird bei lokalen Festen getragen.
+  The traditional *Basque* costume is worn at local festivals.
 
   Cette veste à *basque* lui va parfaitement bien.
-  Diese Jacke mit *Schoß* steht ihr perfekt.
+  This jacket with *lap* is perfect for her.
 
   Les *Basques* sont fiers de leur héritage culturel unique.
-  Die *Basken* sind stolz auf ihr einzigartiges kulturelles Erbe.
+  The *Basques* are proud of their unique cultural heritage.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1416
 Wort: navire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le navire
 Femininum / Plural: ''
 IPA: \na.viʁ\
-Definition: (großes) Schiff
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: (large) vessel
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis comme le capitaine d'un *navire*.
-  Ich bin wie der Kapitän eines *Schiffs*.
+  I'm like the captain of a ship.
 
   Le *navire* à vapeur traverse lentement le port.
-  Das Dampf*schiff* durchquert langsam den Hafen.
+  The steamship slowly crosses the port.
 
   Un *navire* de commerce transporte des marchandises vers l'Asie.
-  Ein Handels*schiff* transportiert Waren nach Asien.
+  A merchant ship transports goods to Asia.
 
   Le grand *navire* à moteur diesel consomme beaucoup de carburant.
-  Das große *Schiff* mit Dieselmotor verbraucht viel Treibstoff.
+  The large *ship* with diesel engine consumes a lot of fuel.
 
   L'équipage du vieux *navire* baleinier a dû être secouru hier soir.
-  Die Besatzung des alten Walfang*schiffs* musste gestern Abend gerettet werden.
+  The crew of the old whaling ship had to be rescued last night.
 
   Ce *navire* pétrolier peut transporter jusqu'à 300.000 tonnes de pétrole brut.
-  Dieser *Tanker* kann bis zu 300.000 Tonnen Rohöl transportieren.
+  This tanker can transport up to 300,000 tons of crude oil.
 
   Le *navire* bananier arrivera au port demain matin.
-  Das Bananen*schiff* wird morgen früh im Hafen ankommen.
+  The banana ship will arrive in the port in the morning.
 
   Les passagers ont été évacués du *navire* en avarie.
-  Die Passagiere wurden von dem havarierten *Schiff* evakuiert.
+  The passengers were evacuated from the damaged *ship*.
 
   Notre *navire* à rames a gagné la course traditionnelle.
-  Unser Ruder*schiff* hat das traditionelle Rennen gewonnen.
+  Our rowing ship won the traditional race.
 
   Un *navire* de cinq cents tonneaux s'est échoué près de la côte.
-  Ein *Schiff* von fünfhundert Tonnen ist in der Nähe der Küste auf Grund gelaufen.
+  A *ship* of five hundred tons went aground near the coast.
 
   Le *navire*-école accueille vingt nouveaux apprentis marins.
-  Das *Schulschiff* nimmt zwanzig neue Lehrlinge auf.
+  The *school ship* receives twenty new apprentices.
 
   Le *navire*-hôpital apporte une aide médicale aux régions isolées.
-  Das *Krankenhausschiff* bringt medizinische Hilfe in abgelegene Regionen.
+  The *hospital ship* is bringing medical aid to remote regions.
 
   Le *navire* est resté à l'ancre pendant toute la tempête.
-  Das *Schiff* blieb während des ganzen Sturms vor Anker liegen.
+  The *ship* remained at anchor throughout the storm.
 
   Les ouvriers travaillent dur pour mâter ce nouveau *navire*.
-  Die Arbeiter arbeiten hart daran, dieses neue *Schiff* zu bemasten.
+  The workers are working hard to put this new *ship* to rest.
 
   Ils ont fini d'équiper le *navire* juste avant le départ.
-  Sie haben das *Schiff* gerade noch vor der Abfahrt fertig ausgerüstet.
+  They've just finished equipping the *ship* before departure.
 
   Le propriétaire a décidé de fréter son *navire* pour six mois.
-  Der Eigentümer hat beschlossen, sein *Schiff* für sechs Monate zu verchartern.
+  The owner has decided to charter his *ship* for six months.
 
   Les enfants chantaient "Il était un petit *navire*" sur la plage.
-  Die Kinder sangen "Es war ein kleines *Schiff*" am Strand.
+  The children sang "It was a small *ship*" on the beach.
 
   Ce *navire* marchand transporte des conteneurs vers l'Amérique du Sud.
-  Dieses Handels*schiff* transportiert Container nach Südamerika.
+  This merchant ship transports containers to South America.
 
   Le capitaine a réussi à sauver son *navire* malgré la tempête.
-  Der Kapitän hat es geschafft, sein *Schiff* trotz des Sturms zu retten.
+  The captain managed to save his *ship* despite the storm.
 
   Les techniciens réparent le moteur du *navire* depuis ce matin.
-  Die Techniker reparieren seit heute Morgen den Motor des *Schiffs*.
+  The technicians have been repairing the ship's engine since this morning.
 
   Un nouveau *navire* charbonnier vient d'entrer dans le port.
-  Ein neues Kohle*schiff* ist gerade in den Hafen eingelaufen.
+  A new coal ship just entered the port.
 
   Le *navire* de charge peut transporter jusqu'à 5000 conteneurs.
-  Das Fracht*schiff* kann bis zu 5000 Container transportieren.
+  The cargo ship can transport up to 5000 containers.
 
   Nous avons observé un grand *navire* qui passait à l'horizon.
-  Wir haben ein großes *Schiff* beobachtet, das am Horizont vorbeifuhr.
+  We've been watching a big *ship* passing the horizon.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>navire</i> und <i>bateau</i></div>
+    <div class="section-title"><i>navire</i> and <i>bateau</i></div>
     <div class="section-content">
-      <p>Das Wort <b>navire</b> bezeichnet größere Schiffe. Ein Fischerboot ist ein <b>bateau</b> (#1287), aber kein <b>navire</b>.</p>
+      <p>The Word <b>navire</b> a fishing boat is a <b>bateau</b> (#1287), but no <b>navire</b>.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

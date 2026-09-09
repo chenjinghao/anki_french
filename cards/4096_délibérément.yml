@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4096
 Wort: délibérément
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: délibérément
 Femininum / Plural: ''
 IPA: \de.li.be.ʁe.mɑ̃\
-Definition: absichtlich, bewusst
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: intentional, conscious
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il marcha *délibérément* vers la porte.
-  Er ging *absichtlich* zur Tür.
+  He went to the door on purpose.
 
   Elle a *délibérément* ignoré mes appels pendant toute la semaine.
-  Sie hat meine Anrufe die ganze Woche *bewusst* ignoriert.
+  She ignored my calls consciously all week.
 
   L'entreprise a *délibérément* caché ces informations à ses clients.
-  Die Firma hat diese Informationen vor ihren Kunden *absichtsvoll* verheimlicht.
+  The company has deliberately concealed this information from its customers.
 
   Il a *délibérément* violé la loi en conduisant sans permis.
-  Er hat das Gesetz *vorsätzlich* verletzt, indem er ohne Führerschein fuhr.
+  He deliberately violated the law by driving without a driver's license.
 
   Les témoins ont *délibérément* dissimulé la vérité pendant l'enquête.
-  Die Zeugen haben während der Untersuchung die Wahrheit *absichtlich* verschwiegen.
+  The Witnesses deliberately concealed the truth during the investigation.
 
   Marie a *délibérément* choisi de ne pas participer à la réunion.
-  Marie hat sich *bewusst* dafür entschieden, nicht an der Sitzung teilzunehmen.
+  Marie deliberately chose not to attend the meeting.
 
   Nous avons *délibérément* évité ce sujet sensible pendant le dîner.
-  Wir haben dieses heikle Thema beim Essen *absichtlich* vermieden.
+  We deliberately avoided this delicate issue when eating.
 
   Le suspect a *délibérément* effacé toutes les preuves.
-  Der Verdächtige hat *vorsätzlich* alle Beweise vernichtet.
+  The suspect deliberately destroyed all the evidence.
 
   Pierre est *délibérément* arrivé en retard à la fête.
-  Pierre ist *absichtlich* zu spät zur Party gekommen.
+  Pierre was deliberately late for the party.
 
   Elle a *délibérément* accepté cette lourde responsabilité.
-  Sie hat diese schwere Verantwortung *bewusst* angenommen.
+  She has consciously accepted this heavy responsibility.
 
   Le professeur a *délibérément* posé une question difficile.
-  Der Lehrer hat *absichtlich* eine schwierige Frage gestellt.
+  The teacher deliberately asked a difficult question.
 
   Thomas est passé *délibérément* devant moi sans me saluer.
-  Thomas ist *absichtlich* an mir vorbeigegangen, ohne zu grüßen.
+  Thomas walked past me on purpose without saying hello.
 
   L'auteur a *délibérément* laissé la fin du roman ouverte.
-  Der Autor hat das Ende des Romans *bewusst* offen gelassen.
+  The author deliberately left the end of the novel open.
 
   Ils ont *délibérément* modifié les résultats de l'expérience.
-  Sie haben die Versuchsergebnisse *vorsätzlich* verändert.
+  They deliberately changed the results of the experiments.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

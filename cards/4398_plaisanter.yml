@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4398
 Wort: plaisanter
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: plaisanter
 Femininum / Plural: ''
 IPA: \plɛ.zɑ̃.te\
-Definition: scherzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: joke
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Du calme, je *plaisante*.
-  Beruhige dich, ich *scherze* nur.
+  Calm down, I'm kidding.
 
   "Tu *plaisantes* ou quoi ? C'est beaucoup trop cher !"
-  "Das soll wohl ein *Scherz* sein? Das ist viel zu teuer!"
+  "You're kidding? That's way too expensive!"
 
   Elle adore *plaisanter* avec ses collègues pendant la pause déjeuner.
-  Sie *scherzt* gerne mit ihren Kollegen in der Mittagspause.
+  She likes to joke with her colleagues during the lunch break.
 
   Je ne suis vraiment pas d'humeur à *plaisanter* aujourd'hui.
-  Ich bin heute wirklich nicht zum *Scherzen* aufgelegt.
+  I'm really not *joking* today.
 
   On le *plaisante* souvent sur son accent du Sud.
-  Man *neckt* ihn oft wegen seines südlichen Akzents.
+  He's often teased for his southern accent.
 
   Marc ne *plaisante* jamais avec la ponctualité.
-  Marc versteht beim Thema Pünktlichkeit keinen *Spaß*.
+  Marc doesn't understand punctuality.
 
   *Plaisanter* entre amis, c'est bon pour le moral.
-  Unter Freunden zu *scherzen* tut der Seele gut.
+  Joking among friends is good for the soul.
 
   Il faut arrêter de *plaisanter* sur ce sujet sérieux.
-  Man muss aufhören, über dieses ernste Thema *Witze* zu machen.
+  You have to stop joking about this serious issue.
 
   Nous avons *plaisanté* toute la soirée.
-  Wir haben den ganzen Abend *gescherzt*.
+  We joked all night.
 
   Elle *plaisantait* sur mon nouveau chapeau.
-  Sie machte *Witze* über meinen neuen Hut.
+  She was joking about my new hat.
 
   "Je *plaisantais*, bien sûr que je viendrai à ta fête !"
-  "Ich habe nur *gescherzt*, natürlich komme ich zu deiner Party!"
+  "I was joking, of course I'm coming to your party!"
 
   Il ne faut pas *plaisanter* avec la sécurité au travail.
-  Mit Arbeitssicherheit darf man keine *Scherze* machen.
+  You can't be joking with occupational safety.
 
   Les enfants *plaisantaient* dans la cour de récréation.
-  Die Kinder *scherzten* auf dem Pausenhof.
+  The children *joked* on the playground.
 
   Sophie aime *plaisanter* avec finesse.
-  Sophie *scherzt* gerne auf raffinierte Art.
+  Sophie likes to joke in a refined way.
 
   – "Tu as gagné au loto ?"<br>– "Non, je *plaisante*."
-  – "Hast du im Lotto gewonnen?"<br>– "Nein, ich *scherze*."
+  – "Did you win the lottery?"<br>– "No, I'm joking."
 
   Le professeur ne *plaisante* pas avec la discipline.
-  Der Lehrer versteht bei der Disziplin keinen *Spaß*.
+  The teacher doesn't understand *fun* in the discipline.
 
   Ils ont *plaisanté* toute la nuit autour du feu de camp.
-  Sie haben die ganze Nacht am Lagerfeuer *gescherzt*.
+  You've been joking around the campfire all night.
 
   Elle *plaisante* toujours pour détendre l'atmosphère.
-  Sie macht immer *Scherze*, um die Stimmung aufzulockern.
+  She's always kidding to loosen the mood.
 
   Je n'ai pas envie de *plaisanter* quand je suis malade.
-  Wenn ich krank bin, habe ich keine Lust zu *scherzen*.
+  When I'm sick, I don't want to *joke*.
 
   Thomas *plaisante* souvent sur lui-même.
-  Thomas macht oft *Witze* über sich selbst.
+  Thomas often *jokes* about himself.
 
   "Ce n'est pas le moment de *plaisanter* !"
-  "Das ist nicht der richtige Moment für *Scherze*!"
+  "This is not the right time for *jokes*!"
 
   Mes amis me *plaisantent* sur ma nouvelle coupe de cheveux.
-  Meine Freunde *necken* mich wegen meiner neuen Frisur.
+  My friends tease me about my new hairstyle.
 
   Il *plaisantait* pour cacher sa nervosité.
-  Er *scherzte*, um seine Nervosität zu verbergen.
+  He *joked* to hide his nervousness.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

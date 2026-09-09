@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2085
 Wort: adolescent
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un adolescent
 Femininum / Plural: adolescente
 IPA: \a.dɔ.le.sɑ̃\
-Definition: Jugendlicher
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Young person
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous étions alors de jeunes *adolescents*.
-  Wir waren damals junge *Heranwachsende*.
+  We were young *adolescents* back then.
 
   Les *adolescents* ont souvent du mal à communiquer avec leurs parents.
-  *Jugendliche* haben oft Schwierigkeiten, mit ihren Eltern zu kommunizieren.
+  Youths often have difficulty communicating with their parents.
 
   Marie est une *adolescente* de 15 ans qui aime beaucoup lire.
-  Marie ist eine 15-jährige *Jugendliche*, die sehr gerne liest.
+  Marie is a 15-year-old teenager who loves to read.
 
   Le comportement *adolescent* de mon frère m'agace parfois.
-  Das *jugendliche* Verhalten meines Bruders nervt mich manchmal.
+  Sometimes my brother's youthful behavior bothers me.
 
   "Les *ados* passent trop de temps sur leurs téléphones !" se plaignent souvent les parents.
-  "Die *Jugendlichen* verbringen zu viel Zeit an ihren Handys!", beklagen sich die Eltern oft.
+  "The *young people* spend too much time on their mobile phones!", the parents often complain.
 
   L'*adolescente* timide est devenue une femme confiante.
-  Das schüchterne *Teenagermädchen* ist zu einer selbstbewussten Frau geworden.
+  The shy teenage girl has become a confident woman.
 
   Les problèmes de peau sont courants chez les *adolescents*.
-  Hautprobleme sind bei *Heranwachsenden* häufig.
+  Skin problems are common among adolescents.
 
   Il a commencé à écrire des poèmes quand il était *adolescent*.
-  Er begann Gedichte zu schreiben, als er ein *Teenager* war.
+  He started writing poems when he was a teenager.
 
   L'*adolescence* est une période de grands changements physiques et émotionnels.
-  Die *Jugend* ist eine Zeit großer körperlicher und emotionaler Veränderungen.
+  *Youth* is a time of great physical and emotional change.
 
   Les parents doivent être patients avec leurs enfants *adolescents*.
-  Eltern müssen mit ihren *jugendlichen* Kindern geduldig sein.
+  Parents must be patient with their youthful children.
 
   Cette série TV s'adresse principalement à un public *adolescent*.
-  Diese Fernsehserie richtet sich hauptsächlich an ein *jugendliches* Publikum.
+  This television series is mainly aimed at a youthful audience.
 
   Les *adolescentes* de son groupe d'amies adorent faire du shopping ensemble.
-  Die *Teenagermädchen* in ihrer Freundesgruppe lieben es, zusammen einkaufen zu gehen.
+  The *teenage girls* in their group of friends love to go shopping together.
 
   L'*adolescent* imberbe rêvait du jour où il aurait enfin de la barbe.
-  Der bartlose *Jugendliche* träumte von dem Tag, an dem er endlich einen Bart haben würde.
+  The beardless youth dreamed of the day when he would finally have a beard.
 
   La gracieuse *adolescente* est devenue mannequin à l'âge de 16 ans.
-  Das anmutige *Teenagermädchen* wurde mit 16 Jahren Model.
+  The graceful teenage girl became a model at the age of 16.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

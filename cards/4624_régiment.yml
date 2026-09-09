@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4624
 Wort: régiment
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le régiment
 Femininum / Plural: ''
 IPA: \ʁe.ʒi.mɑ̃\
 Definition: Regiment
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est le meilleur soldat du *régiment*.
-  Er ist der beste Soldat des *Regiments*.
+  He's the best soldier in the *regiment*.
 
   Le colonel commandait un *régiment* de chars.
-  Der Oberst befehligte ein Panzer*regiment*.
+  The colonel commanded a tank *regiment*.
 
   "Mon fils est au *régiment* depuis trois mois."
-  "Mein Sohn ist seit drei Monaten beim *Bund*."
+  "My son has been in the covenant for three months."
 
   Le *régiment* de cavalerie participera au défilé.
-  Das Kavallerie*regiment* wird an der Parade teilnehmen.
+  The cavalry *regiment* will participate in the parade.
 
   Un *régiment* d'hélicoptères de combat survole la zone.
-  Ein Kampfhubschrauber*regiment* überfliegt das Gebiet.
+  A combat helicopter *regiment* is flying over the area.
 
   "Il est parti faire son *régiment* la semaine dernière."
-  "Er ist letzte Woche zum *Wehrdienst* gegangen."
+  "He went to *military service* last week."
 
   J'ai un *régiment* de cousins à inviter au mariage.
-  Ich habe ein ganzes *Heer* von Cousins, die ich zur Hochzeit einladen muss.
+  I have a whole *army* of cousins I have to invite to the wedding.
 
   Le deuxième *régiment* d'infanterie a reçu une médaille.
-  Das zweite Infanterie*regiment* hat eine Medaille erhalten.
+  The second infantry *regiment* has received a medal.
 
   "Il y a de la nourriture pour tout un *régiment*!"
-  "Das reicht ja für eine ganze *Kompanie*!"
+  "That's enough for a whole *company*!"
 
   Le *régiment* défilera sur les Champs-Élysées le 14 juillet.
-  Das *Regiment* wird am 14. Juli über die Champs-Élysées marschieren.
+  The *regiment* will march over the Champs-Élysées on 14 July.
 
   "Je l'ai connu quand on était au *régiment* ensemble."
-  "Ich habe ihn kennengelernt, als wir zusammen beim *Bund* waren."
+  "I met him when we were together at the covenant."
 
   Un *régiment* de touristes attend devant le musée.
-  Eine *Unmenge* von Touristen wartet vor dem Museum.
+  A lot of tourists are waiting in front of the museum.
 
   Le *régiment* du génie construit un nouveau pont.
-  Das Pionier*regiment* baut eine neue Brücke.
+  The Pioneer *Regiment* is building a new bridge.
 
   L'étendard de notre *régiment* date de 1870.
-  Die Standarte unseres *Regiments* stammt aus dem Jahr 1870.
+  The standard of our *regiment* dates back to 1870.
 
   "Mon grand-père a servi dans le *régiment* Royal-Allemand."
-  "Mein Großvater diente im Royal-Allemand-*Regiment*."
+  "My grandfather served in the Royal Allemand *Regiment*."
 
   Le *régiment* des transmissions assure les communications.
-  Das Fernmelde*regiment* stellt die Kommunikation sicher.
+  The telecommunications *regiment* shall ensure communication.
 
   "Tu pars quand au *régiment*?"
-  "Wann gehst du zum *Bund*?"
+  "When are you going to the covenant?"
 
   Un *régiment* de fourmis envahit la cuisine.
-  Eine *Unmenge* Ameisen fällt in die Küche ein.
+  There's a lot of ants in the kitchen.
 
   Le *régiment* parachutiste s'entraîne dans les montagnes.
-  Das Fallschirmjäger*regiment* übt in den Bergen.
+  The paratrooper *regiment* is practicing in the mountains.
 
   Les soldats du *régiment* nettoient leurs armes.
-  Die Soldaten des *Regiments* reinigen ihre Waffen.
+  The *regiment*'s soldiers are cleaning their weapons.
 
   La fanfare du *régiment* jouera dimanche.
-  Die Kapelle des *Regiments* wird am Sonntag spielen.
+  The *regiment*'s chapel will be playing on Sunday.
 
   Le *régiment* de Champagne était stationné à Reims.
-  Das Champagne-*Regiment* war in Reims stationiert.
+  The Champagne *Regiment* was stationed in Reims.
 
   "J'ai assez de gâteaux pour nourrir un *régiment*!"
-  "Ich habe genug Kuchen für eine ganze *Kompanie*!"
+  "I have enough cake for a whole *company*!"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

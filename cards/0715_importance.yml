@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 715
 Wort: importance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une importance
 Femininum / Plural: ''
 IPA: \ɛ̃.pɔʁ.tɑ̃s\
-Definition: Bedeutung; Ausmaß
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Importance; extent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela n'a pas d'*importance*.
-  Das hat keine *Bedeutung*.
+  It doesn't matter.
 
   L'*importance* des effectifs ne cesse d'augmenter chaque année.
-  Die *Stärke* der Belegschaft steigt von Jahr zu Jahr.
+  The *strength* of the workforce increases from year to year.
 
   Cette agglomération d'*importance* moyenne compte environ 50 000 habitants.
-  Diese Stadt mittlerer *Größe* hat ungefähr 50.000 Einwohner.
+  This city has about 50,000 inhabitants.
 
   Il faut mesurer l'*importance* de cet événement historique.
-  Man muss die *Bedeutung* dieses historischen Ereignisses ermessen.
+  One must measure the importance of this historical event.
 
   L'*importance* des dégâts après l'orage était considérable.
-  Das *Ausmaß* der Schäden nach dem Gewitter war beträchtlich.
+  The extent of the damage after the thunderstorm was considerable.
 
   Elle est très consciente de son *importance* au sein de l'entreprise.
-  Sie ist sich ihres *Einflusses* im Unternehmen sehr bewusst.
+  She is very aware of her *influence* in the company.
 
   La découverte est de première *importance* pour la recherche médicale.
-  Die Entdeckung ist von höchster *Bedeutung* für die medizinische Forschung.
+  The discovery is of utmost importance for medical research.
 
   "Il *se donne de l'importance* depuis sa promotion."
-  "Er *spielt sich* seit seiner Beförderung *auf*."
+  "He's been acting since his promotion."
 
   Cette question est d'*importance* capitale pour notre avenir.
-  Diese Frage ist von überlebenswichtiger *Bedeutung* für unsere Zukunft.
+  This question is of vital importance for our future.
 
   J'attache beaucoup d'*importance* à l'éducation de mes enfants.
-  Ich messe der Erziehung meiner Kinder große *Bedeutung* bei.
+  I attach great importance to the education of my children.
 
   L'*importance* de la production a doublé depuis l'année dernière.
-  Die *Menge* der Produktion hat sich seit letztem Jahr verdoppelt.
+  The amount of production has doubled since last year.
 
   Ne minimisez pas l'*importance* de cette décision.
-  Spielen Sie die *Bedeutung* dieser Entscheidung nicht herunter.
+  Don't play down the *meaning* of this decision.
 
   C'est une affaire de la plus haute *importance*.
-  Das ist eine Angelegenheit von höchster *Wichtigkeit*.
+  This is a matter of utmost *importance*.
 
   Son poste a pris de l'*importance* ces derniers mois.
-  Seine Position hat in den letzten Monaten an *Bedeutung* gewonnen.
+  His position has grown in importance in recent months.
 
   Les détails sont sans *importance* dans ce contexte.
-  Die Details sind in diesem Zusammenhang *bedeutungs*los.
+  The details are meaningless in this context.
 
   L'*importance* de la somme m'a fait hésiter.
-  Die *Höhe* des Betrags hat mich zögern lassen.
+  The amount of the amount made me hesitate.
 
   Il faut souligner l'*importance* de ce passage dans le texte.
-  Man muss die *Bedeutung* dieser Textstelle hervorheben.
+  It is important to highlight the importance of this passage.
 
   Elle n'accorde aucune *importance* aux rumeurs.
-  Sie misst den Gerüchten keine *Bedeutung* bei.
+  It does not attach any importance to the rumors.
 
   Son *importance* dans le groupe est indiscutable.
-  Sein *Ansehen* in der Gruppe ist unbestritten.
+  His *reputation* in the group is undisputed.
 
   Les experts évaluent l'*importance* du sinistre.
-  Die Experten schätzen den *Umfang* des Schadens ein.
+  The experts estimate the extent of the damage.
 
   "Il est tellement bouffi d'*importance* qu'il ne parle plus à personne."
-  "Er ist so von seiner *Wichtigkeit* aufgeblasen, dass er mit niemandem mehr spricht."
+  "He's so inflated by his *importance* that he doesn't talk to anyone anymore."
 
   Cette information est d'une *importance* cruciale.
-  Diese Information ist von entscheidender *Bedeutung*.
+  This information is crucial.
 
   L'*importance* de sa fonction lui confère beaucoup de responsabilités.
-  Die *Bedeutung* seiner Position bringt viel Verantwortung mit sich.
+  The importance of his position brings with it a lot of responsibility.
 
   Je ne comprends pas l'*importance* qu'il accorde à ces détails.
-  Ich verstehe nicht die *Bedeutung*, die er diesen Details beimisst.
+  I don't understand the importance he attaches to these details.
 
   L'*importance* de la population varie selon les saisons.
-  Die *Größe* der Bevölkerung schwankt je nach Jahreszeit.
+  The *size* of the population varies depending on the season.
 
   C'est un fait d'une *importance* secondaire.
-  Das ist eine Tatsache von untergeordneter *Bedeutung*.
+  This is a fact of minor importance.
 
   Il exagère l'*importance* de cet incident.
-  Er übertreibt die *Bedeutung* dieses Vorfalls.
+  He exaggerates the significance of this incident.
 
   L'*importance* de son travail a été reconnue par ses collègues.
-  Die *Wichtigkeit* seiner Arbeit wurde von seinen Kollegen anerkannt.
+  The *importance* of his work was recognised by his colleagues.
 
   C'est une personne sans *importance* dans cette affaire.
-  Er ist eine Person ohne *Bedeutung* in dieser Angelegenheit.
+  He is a person of no significance in this matter.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

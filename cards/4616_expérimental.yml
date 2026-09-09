@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4616
 Wort: expérimental
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: expérimental
 Femininum / Plural: expérimentale
 IPA: \ɛk.spe.ʁi.mɑ̃.tal\
-Definition: experimentell
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: experimental
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Du point de vue *expérimental*, il est bon de vérifier.
-  Vom *experimentellen* Standpunkt aus ist es gut zu überprüfen.
+  From an *experimental* point of view, it's good to check.
 
   La *physique expérimentale* est une discipline fascinante.
-  Die *Experimental*physik ist eine faszinierende Disziplin.
+  *Experimental* physics is a fascinating discipline.
 
   Ce nouveau médicament est encore au stade *expérimental*.
-  Dieses neue Medikament befindet sich noch im *Versuchs*stadium.
+  This new drug is still in the experimental stage.
 
   Le projet sera mis en place à titre *expérimental* pendant six mois.
-  Das Projekt wird für sechs Monate *versuchsweise* eingeführt.
+  The project will be implemented on an experimental basis for six months.
 
   Son dernier film *expérimental* a remporté plusieurs prix.
-  Sein letzter *Experimental*film hat mehrere Preise gewonnen.
+  His last *experimental* film won several awards.
 
   Le *théâtre expérimental* attire un public très diversifié.
-  Das *Experimental*theater zieht ein sehr vielfältiges Publikum an.
+  The *experimental* theatre attracts a very diverse audience.
 
   Cette méthode *expérimentale* a révolutionné la recherche scientifique.
-  Diese *experimentelle* Methode hat die wissenschaftliche Forschung revolutioniert.
+  This *experimental* method has revolutionized scientific research.
 
   Les données *expérimentales* confirment notre hypothèse initiale.
-  Die *empirischen* Daten bestätigen unsere ursprüngliche Hypothese.
+  The *empirical* data confirm our initial hypothesis.
 
   Notre laboratoire *expérimental* est équipé des technologies les plus récentes.
-  Unser *Versuchs*labor ist mit den neuesten Technologien ausgestattet.
+  Our laboratory is equipped with the latest technologies.
 
   La biologie *expérimentale* nécessite beaucoup de patience.
-  Die *experimentelle* Biologie erfordert viel Geduld.
+  *Experimental* biology requires a lot of patience.
 
   Ces cultures *expérimentales* montrent des résultats prometteurs.
-  Diese *Versuchs*kulturen zeigen vielversprechende Ergebnisse.
+  These experimental cultures show promising results.
 
   La musique *expérimentale* des années 60 influence encore les artistes aujourd'hui.
-  Die *experimentelle* Musik der 60er Jahre beeinflusst Künstler noch heute.
+  The *experimental* music of the 1960s still influences artists today.
 
   Cette approche *expérimentale* pourrait révolutionner le traitement du cancer.
-  Dieser *experimentelle* Ansatz könnte die Krebsbehandlung revolutionieren.
+  This *experimental* approach could revolutionize cancer treatment.
 
   La station *expérimentale* se trouve dans une zone isolée.
-  Die *Versuchs*station befindet sich in einem abgelegenen Gebiet.
+  The *test* station is located in a remote area.
 
   Sa littérature *expérimentale* défie les conventions traditionnelles.
-  Seine *experimentelle* Literatur fordert traditionelle Konventionen heraus.
+  His *experimental* literature challenges traditional conventions.
 
   Les résultats *expérimentaux* doivent être soigneusement documentés.
-  Die *experimentellen* Ergebnisse müssen sorgfältig dokumentiert werden.
+  The *experimental* results must be carefully documented.
 
   Cette phase *expérimentale* durera environ trois mois.
-  Diese *Versuchs*phase wird etwa drei Monate dauern.
+  This trial phase will take about three months.
 
   La psychologie *expérimentale* étudie le comportement humain de manière scientifique.
-  Die *experimentelle* Psychologie untersucht menschliches Verhalten wissenschaftlich.
+  *Experimental* psychology investigates human behavior scientifically.
 
   L'avion *expérimental* a effectué son premier vol avec succès.
-  Das *Versuchs*flugzeug hat seinen ersten Flug erfolgreich absolviert.
+  The pilot has successfully completed his first flight.
 
   Notre groupe de musique *expérimentale* se produit ce soir.
-  Unsere *experimentelle* Musikgruppe tritt heute Abend auf.
+  Our *experimental* music group is performing tonight.
 
   La phonétique *expérimentale* permet de mieux comprendre la production des sons.
-  Die *experimentelle* Phonetik ermöglicht ein besseres Verständnis der Lautbildung.
+  The *experimental* phonetics allow a better understanding of the sound formation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

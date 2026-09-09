@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 245
 Wort: semaine
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la semaine
 Femininum / Plural: ''
 IPA: \sə.mɛn\
-Definition: Woche
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Week
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ma pièce se jouait cette *semaine*.
-  Mein Theaterstück wurde diese *Woche* aufgeführt.
+  My play was performed this *week*.
 
   Je vais à la piscine trois fois par *semaine*.
-  Ich gehe dreimal pro *Woche* schwimmen.
+  I go swimming three times a *week*.
 
   La *semaine* prochaine, nous partirons en vacances.
-  Nächste *Woche* fahren wir in den Urlaub.
+  Next *week* we'll go on vacation.
 
   Il ne travaille qu'*en semaine*.
-  Er arbeitet nur *unter der Woche*.
+  He only works during the week.
 
   Cette entreprise paie ses employés *à la semaine*.
-  Diese Firma bezahlt ihre Mitarbeiter *wochenweise*.
+  This company pays its employees weekly.
 
   Notre lycée organise une *semaine* banalisée en mars.
-  Unsere Schule organisiert im März eine Projekt*woche*.
+  Our school organizes a project *week* in March.
 
   Nous sommes déjà en *semaine* 42.
-  Wir sind bereits in Kalender*woche* 42.
+  We are already in calendar *week* 42.
 
   La *semaine* de trente-cinq heures est la norme en France.
-  Die Fünfunddreißigstunden*woche* ist in Frankreich die Norm.
+  The thirty-five-hour *week* is the norm in France.
 
   Les magasins proposent des réductions pendant la *semaine* du blanc.
-  Die Geschäfte bieten während der weißen *Woche* Rabatte an.
+  The shops offer discounts during the white *week*.
 
   Les chrétiens célèbrent la *Semaine sainte* avant Pâques.
-  Die Christen feiern die *Karwoche* vor Ostern.
+  Christians celebrate *Holy Week* before Easter.
 
   "Il vit *à la petite semaine*."
-  "Er lebt *in den Tag hinein*."
+  "He lives in the day."
 
   Pierre est officier de *semaine*.
-  Pierre hat diese *Woche* Dienst.
+  Pierre's on duty this *week*.
 
   Cette chambre se loue *à la semaine*.
-  Dieses Zimmer wird *wochenweise* vermietet.
+  This room is rented weekly.
 
   Il touche sa *semaine* tous les vendredis.
-  Er bekommt jeden Freitag seinen *Wochen*lohn.
+  He gets his weekly pay every Friday.
 
   La *semaine* dernière était vraiment chargée.
-  Die letzte *Woche* war wirklich anstrengend.
+  Last *week* was really exhausting.
 
   Je préfère faire mes courses *en semaine*.
-  Ich kaufe lieber *unter der Woche* ein.
+  I'd rather buy it during the week.
 
   L'exposition durera trois *semaines*.
-  Die Ausstellung wird drei *Wochen* dauern.
+  The exhibition will take three *weeks*.
 
   Marie commence sa nouvelle *semaine* de travail demain.
-  Marie beginnt morgen ihre neue Arbeits*woche*.
+  Marie starts her new working *week* tomorrow.
 
   Les magasins sont moins fréquentés *en semaine*.
-  Die Geschäfte sind *unter der Woche* weniger besucht.
+  The shops are less visited during the week.
 
   Je vous donne une *semaine* pour réfléchir.
-  Ich gebe Ihnen eine *Woche* Bedenkzeit.
+  I'll give you a *week*'s time to think.
 
   Cette formation dure deux *semaines*.
-  Diese Ausbildung dauert zwei *Wochen*.
+  This training lasts for two *weeks*.
 
   Il sera absent toute la *semaine*.
-  Er wird die ganze *Woche* abwesend sein.
+  He'll be absent all *week*.
 
   Le restaurant n'ouvre qu'*en semaine*.
-  Das Restaurant öffnet nur *werktags*.
+  The restaurant only opens on *weekdays*.
 
   Une *semaine* s'est écoulée depuis son départ.
-  Seit seiner Abreise ist eine *Woche* vergangen.
+  It's been a *week* since he left.
 
   La *semaine* anglaise se terminait le samedi midi.
-  Die englische Arbeits*woche* endete am Samstagnachmittag.
+  The English working *week* ended on Saturday afternoon.
 
   "Tu me rembourseras *la semaine des quatre jeudis* !"
-  "Das wirst du mir *am Sankt-Nimmerleins-Tag* zurückzahlen!"
+  "You'll pay me back *on Saint Nimmerlein's day*!"
 
   Nous nous réunissons deux fois par *semaine*.
-  Wir treffen uns zweimal pro *Woche*.
+  I'll meet you twice a *week*.
 
   Elle donne sa *semaine* à son fils tous les lundis.
-  Sie gibt ihrem Sohn jeden Montag sein *Wochen*taschengeld.
+  She gives her son his pocket money every Monday.
 
   Le médecin est en congés cette *semaine*.
-  Der Arzt hat diese *Woche* Urlaub.
+  The doctor's on vacation this *week*.
 
   Dans une *semaine* exactement, ce sera son anniversaire.
-  In genau einer *Woche* hat er Geburtstag.
+  It's his birthday in exactly one *week*.
 
   La *semaine* commence bien pour nous.
-  Die *Woche* fängt gut für uns an.
+  The *week* starts well for us.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

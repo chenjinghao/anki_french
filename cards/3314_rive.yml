@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3314
 Wort: rive
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la rive
 Femininum / Plural: ''
 IPA: \ʁiv\
-Definition: Ufer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Banks
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je regagnais la *rive* gauche, et mon domicile.
-  Ich kehrte ans linke *Ufer* und zu meiner Wohnung zurück.
+  I returned to the left bank and to my apartment.
 
   Les enfants jouaient sur la *rive* du canal.
-  Die Kinder spielten am Kanal*ufer*.
+  The children played on the canal bank.
 
   La ville s'étend sur les deux *rives* de la Loire.
-  Die Stadt erstreckt sich über beide *Ufer* der Loire.
+  The city extends over both *banks* of the Loire.
 
   Une promenade longe la *rive* est du lac.
-  Ein Spazierweg verläuft entlang des Ost*ufers* des Sees.
+  A walk runs along the eastern shore of the lake.
 
   Les pêcheurs se sont installés sur la *rive* escarpée.
-  Die Angler haben sich am steilen *Ufer* niedergelassen.
+  The anglers settled on the steep shore.
 
   Un petit café se trouve sur la *rive* droite de la Seine.
-  Ein kleines Café befindet sich am rechten *Ufer* der Seine.
+  A small café is located on the right bank of the Seine.
 
   Nous avons traversé le pont pour atteindre l'autre *rive*.
-  Wir haben die Brücke überquert, um ans andere *Ufer* zu gelangen.
+  We crossed the bridge to get to the other shore.
 
   La *rive* concave du méandre s'érode progressivement.
-  Das konkave *Ufer* der Flussschleife erodiert nach und nach.
+  The concave bank of the river loop gradually erodes.
 
   Les artistes préfèrent habiter *rive* gauche à Paris.
-  Die Künstler wohnen lieber am linken *Ufer* in Paris.
+  The artists prefer to live on the left bank of Paris.
 
   Les bateaux sont amarrés le long de la *rive*.
-  Die Boote sind entlang des *Ufers* festgemacht.
+  The boats are moored along the shore.
 
   Un nouveau parc sera aménagé sur la *rive* du fleuve.
-  Ein neuer Park wird am Fluss*ufer* angelegt werden.
+  A new park will be built on the banks of the river.
 
   Les saules pleureurs bordent les *rives* de l'étang.
-  Trauerweilen säumen die *Ufer* des Teichs.
+  Tragedies line the shores of the pond.
 
   Le courant est plus fort près de la *rive* droite.
-  Die Strömung ist nahe dem rechten *Ufer* stärker.
+  The current is stronger near the right bank.
 
   Des oiseaux nichent dans les buissons sur la *rive*.
-  Vögel nisten in den Büschen am *Ufer*.
+  Birds nest in the bushes on the shore.
 
   La *rive* convexe accumule des sédiments au fil du temps.
-  Am konvexen *Ufer* lagern sich mit der Zeit Sedimente ab.
+  In time, sediments settle on the convex shore.
 
   Les touristes se promènent sur les *rives* du lac d'Annecy.
-  Die Touristen spazieren an den *Ufern* des Lac d'Annecy.
+  Tourists walk along the *banks* of Lac d'Annecy.
 
   Un sentier pittoresque suit la *rive* de l'estuaire.
-  Ein malerischer Pfad folgt dem *Ufer* der Flussmündung.
+  A picturesque path follows the *banks* of the river mouth.
 
   Les pique-niqueurs se sont installés sur la *rive*.
-  Die Picknicker haben sich am *Ufer* niedergelassen.
+  The picnics settled on the shore.
 
   Les enfants lancent des cailloux depuis la *rive*.
-  Die Kinder werfen vom *Ufer* aus Kieselsteine.
+  The children throw pebbles from the shore.
 
   De beaux jardins ornent la *rive* du canal.
-  Schöne Gärten schmücken das Kanal*ufer*.
+  Beautiful gardens adorn the canal bank.
 
   Des roseaux poussent le long des *rives* marécageuses.
-  Schilf wächst entlang der sumpfigen *Ufer*.
+  Reeds grow along the swampy shores.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

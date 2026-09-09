@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1056
 Wort: améliorer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: améliorer
 Femininum / Plural: ''
 IPA: \a.me.ljɔ.ʁe\
-Definition: verbessern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: improve
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La situation semblait *s'améliorer*.
-  Die Situation schien sich zu *bessern*.
+  The situation seemed to *improve*.
 
   Nous devons *améliorer* la qualité de nos produits.
-  Wir müssen die Qualität unserer Produkte *verbessern*.
+  We need to *improve* the quality of our products.
 
   Le vin *s'améliore* avec l'âge.
-  Der Wein *verbessert* sich mit dem Alter.
+  The wine improves with age.
 
   "Tu ne *t'améliores* pas du tout !"
-  "Du *besserst* dich überhaupt nicht!"
+  "You're not improving at all!"
 
   Les agriculteurs ont *amélioré* la fertilité du sol.
-  Die Landwirte haben die Fruchtbarkeit des Bodens *verbessert*.
+  Farmers have *improved* soil fertility.
 
   Il faut *améliorer* le confort de cet appartement.
-  Der Komfort dieser Wohnung muss *gesteigert* werden.
+  The comfort of this apartment must be *increased*.
 
   Sa santé *s'est améliorée* depuis qu'il fait du sport.
-  Seine Gesundheit hat sich *gebessert*, seit er Sport treibt.
+  His health has *improved* since he was a sportsman.
 
   Les ingénieurs continuent d'*améliorer* le prototype.
-  Die Ingenieure *verbessern* den Prototyp weiter.
+  The engineers continue to *improve* the prototype.
 
   Nous avons *amélioré* notre maison en installant le chauffage central.
-  Wir haben unser Haus durch den Einbau einer Zentralheizung *aufgewertet*.
+  We upgraded our house by installing a central heating system.
 
   Le temps devrait *s'améliorer* dans les prochains jours.
-  Das Wetter soll sich in den nächsten Tagen *bessern*.
+  The weather should *improve* in the next few days.
 
   Cette vieille maison mérite d'être *améliorée*.
-  Dieses alte Haus ist es wert, *ausgebaut* zu werden.
+  This old house is worth expanding.
 
   Les conditions de travail se sont considérablement *améliorées*.
-  Die Arbeitsbedingungen haben sich erheblich *verbessert*.
+  Working conditions have *improved* considerably.
 
   Il faut *améliorer* notre budget pour l'année prochaine.
-  Wir müssen unser Budget für nächstes Jahr *aufbessern*.
+  We need to *improve* our budget for next year.
 
   Son caractère *s'est amélioré* depuis qu'il médite.
-  Sein Charakter hat sich *gebessert*, seit er meditiert.
+  His character has *improved* since he meditated.
 
   Les relations entre nos pays se sont *améliorées*.
-  Die Beziehungen zwischen unseren Ländern haben sich *verbessert*.
+  Relations between our countries have *improved*.
 
   Nous devons *améliorer* le rendement de cette machine.
-  Wir müssen die Leistung dieser Maschine *steigern*.
+  We need to *increase* the performance of this machine.
 
   Elle a beaucoup *amélioré* son français.
-  Sie hat ihr Französisch stark *verbessert*.
+  She has greatly *improved* her French.
 
   L'entreprise a *amélioré* sa production de 20%.
-  Das Unternehmen hat seine Produktion um 20% *gesteigert*.
+  The company has *increased* its production by 20%.
 
   Le cadre de vie s'est *amélioré* dans ce quartier.
-  Die Lebensqualität hat sich in diesem Viertel *verbessert*.
+  The quality of life has *improved* in this area.
 
   Les médecins ont réussi à *améliorer* son état de santé.
-  Die Ärzte konnten seinen Gesundheitszustand *verbessern*.
+  The doctors were able to *improve* his health.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

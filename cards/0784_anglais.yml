@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 784
 Wort: anglais
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: anglais
 Femininum / Plural: anglaise
 IPA: \ɑ̃.ɡlɛ\
-Definition: englisch; Engländer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: English; English
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Où as-tu appris l'*anglais* ?
-  Wo hast du *Englisch* gelernt?
+  Where did you learn *English*?
 
   Je suis les cours d'*anglais* trois fois par semaine.
-  Ich besuche dreimal pro Woche den *Englisch*unterricht.
+  I attend *English* lessons three times a week.
 
   Mon niveau d'*anglais* s'est beaucoup amélioré depuis l'année dernière.
-  Meine *Englisch*kenntnisse haben sich seit letztem Jahr sehr verbessert.
+  My *English* skills have improved a lot since last year.
 
   L'*anglais* est devenu la langue internationale des affaires.
-  *Englisch* ist zur internationalen Geschäftssprache geworden.
+  *English* has become an international business language.
 
   Elle parle l'*anglais* couramment depuis son séjour à Londres.
-  Sie spricht fließend *Englisch* seit ihrem Aufenthalt in London.
+  She has been fluent in *English* since her stay in London.
 
   Les élèves apprennent l'*anglais* scolaire avant de partir en échange.
-  Die Schüler lernen Schul*englisch*, bevor sie zum Austausch fahren.
+  The students learn *English* before they go to the exchange.
 
   Les chercheurs étudient le moyen *anglais* pour comprendre l'évolution de la langue.
-  Die Forscher untersuchen das Mittel*englische*, um die Entwicklung der Sprache zu verstehen.
+  The researchers investigate the Middle *English* language to understand the development of the language.
 
   Ce texte en moyen *anglais* est difficile à comprendre.
-  Dieser Text auf Mittel*englisch* ist schwer zu verstehen.
+  This text in Middle *English* is hard to understand.
 
   "Il est parti *à l'anglaise* pendant la fête."
-  "Er ist *heimlich* von der Party verschwunden."
+  "He disappeared from the party secretly."
 
   Le bifteck est servi *à l'anglaise*, saignant et accompagné de légumes.
-  Das Steak wird *englisch* serviert, blutig und mit Gemüse.
+  The steak is served in *English*, bloody and with vegetables.
 
   Les légumes sont cuits *à l'anglaise*, à la vapeur.
-  Das Gemüse wird *englisch* gedämpft.
+  The vegetables are steamed in *English*.
 
   La littérature *anglaise* m'a toujours fasciné.
-  Die *englische* Literatur hat mich schon immer fasziniert.
+  *English* literature has always fascinated me.
 
   L'humour *anglais* est souvent très subtil.
-  Der *englische* Humor ist oft sehr subtil.
+  *English* humor is often very subtle.
 
   Son accent *anglais* est à peine perceptible.
-  Sein *englischer* Akzent ist kaum wahrnehmbar.
+  His *English* accent is barely perceptible.
 
   Le peuple *anglais* a une longue histoire maritime.
-  Das *englische* Volk hat eine lange Seefahrtsgeschichte.
+  The *English* people have a long maritime history.
 
   La langue *anglaise* évolue constamment avec de nouveaux mots.
-  Die *englische* Sprache entwickelt sich ständig mit neuen Wörtern weiter.
+  The *English* language is constantly evolving with new words.
 
   Des *anglaises* bouclées encadraient son visage.
-  *Englische Locken* umrahmten ihr Gesicht.
+  *English curls* framed her face.
 
   Le jardin *à l'anglaise* n'a pas de formes géométriques.
-  Der *englische* Garten hat keine geometrischen Formen.
+  The *English* garden has no geometric shapes.
 
   Elle a commandé une crème *anglaise* pour accompagner son dessert.
-  Sie hat eine *englische* Vanillesoße zu ihrem Dessert bestellt.
+  She ordered an *English* vanilla sauce for her dessert.
 
   Le col *anglais* de sa chemise est très élégant.
-  Der *englische* Kragen seines Hemdes ist sehr elegant.
+  The *English* collar of his shirt is very elegant.
 
   Les *Anglais* adorent parler de la météo.
-  Die *Engländer* reden gerne über das Wetter.
+  The *English* like to talk about the weather.
 
   Un pur-sang *anglais* a remporté la course.
-  Ein *englisches* Vollblutpferd hat das Rennen gewonnen.
+  An *English* thoroughbred horse won the race.
 
   Cette fermeture *à l'anglaise* est très pratique.
-  Dieser *englische* Rolladen ist sehr praktisch.
+  This *English* rollad is very practical.
 
   L'*anglais* simplifié est utilisé dans les aéroports.
-  Vereinfachtes *Englisch* wird an Flughäfen verwendet.
+  Simplified *English* is used at airports.
 
   Mon professeur d'*anglais* est très patient.
-  Mein *Englisch*lehrer ist sehr geduldig.
+  My *English* teacher is very patient.
 
   Elle écrit en *anglaise*, une écriture élégante et penchée.
-  Sie schreibt in *englischer Schreibschrift*, einer eleganten und schrägen Handschrift.
+  She writes in English script, an elegant and oblique handwriting.
 
   Cette assiette *anglaise* contient différentes viandes froides.
-  Diese *englische* Wurstplatte enthält verschiedene kalte Fleischsorten.
+  This *English* sausage plate contains various cold meats.
 
   Les étudiants font des progrès rapides en *anglais*.
-  Die Studenten machen schnelle Fortschritte in *Englisch*.
+  The students make rapid progress in *English*.
 
   J'ai besoin d'améliorer mes connaissances en *anglais*.
-  Ich muss meine *Englisch*kenntnisse verbessern.
+  I need to improve my *English* skills.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4313
 Wort: ébranler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ébranler
 Femininum / Plural: ''
 IPA: \e.bʁɑ̃.le\
-Definition: erschüttern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: shake
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le train s'*ébranla* de nouveau.
-  Der Zug *setzte* sich wieder *in Bewegung*.
+  The train started to move again.
 
   La détonation a *ébranlé* les vitres de toute la maison.
-  Die Detonation hat die Fensterscheiben des ganzen Hauses *erschüttert*.
+  The detonation has shaken the windows of the whole house.
 
   Les cloches s'*ébranlèrent* pour annoncer la fête du village.
-  Die Glocken *begannen* zur Ankündigung des Dorffestes *zu läuten*.
+  The bells began *to ring* at the announcement of the village festival.
 
   Le cortège funèbre s'*ébranla* lentement vers le cimetière.
-  Der Trauerzug *setzte* sich langsam zum Friedhof hin *in Bewegung*.
+  The funeral procession slowly moved to the cemetery.
 
   Le tremblement de terre a *ébranlé* les fondations de l'immeuble.
-  Das Erdbeben hat die Fundamente des Gebäudes *erschüttert*.
+  The earthquake has shaken the foundations of the building.
 
   Cette nouvelle tragique a profondément *ébranlé* sa santé mentale.
-  Diese tragische Nachricht hat seine geistige Gesundheit stark *zerrüttet*.
+  This tragic news has greatly disrupted his mental health.
 
   La manifestation s'*ébranla* depuis la place principale.
-  Die Demonstration *setzte* sich vom Hauptplatz aus *in Bewegung*.
+  The demonstration started from the main square.
 
   Les révélations ont sérieusement *ébranlé* la confiance des électeurs.
-  Die Enthüllungen haben das Vertrauen der Wähler ernsthaft *erschüttert*.
+  The revelations have seriously shaken voters' confidence.
 
   Le scandale a *ébranlé* tout le gouvernement.
-  Der Skandal hat die gesamte Regierung *erschüttert*.
+  The scandal has shaken the entire government.
 
   Ses arguments n'ont pas réussi à *ébranler* mes convictions.
-  Seine Argumente haben es nicht geschafft, meine Überzeugungen zu *erschüttern*.
+  His arguments failed to *shake* my beliefs.
 
   L'explosion a *ébranlé* tout le quartier.
-  Die Explosion hat das ganze Viertel *erschüttert*.
+  The explosion has shaken the whole neighborhood.
 
   La crise économique a *ébranlé* les institutions financières.
-  Die Wirtschaftskrise hat die Finanzinstitutionen *erschüttert*.
+  The economic crisis has shaken the financial institutions.
 
   Le pas des soldats *ébranlait* le pont suspendu.
-  Der Gleichschritt der Soldaten *erschütterte* die Hängebrücke.
+  The step of the soldiers shook the suspension bridge.
 
   La longue maladie a sérieusement *ébranlé* ses nerfs.
-  Die lange Krankheit hat seine Nerven ernsthaft *zerrüttet*.
+  The long illness seriously disrupted his nerves.
 
   La procession s'*ébranla* au son des cloches.
-  Die Prozession *setzte* sich beim Klang der Glocken *in Bewegung*.
+  The procession began with the sound of the bells.
 
   Le tonnerre *ébranlait* les murs de la vieille maison.
-  Der Donner *erschütterte* die Mauern des alten Hauses.
+  The thunder shook the walls of the old house.
 
   Rien ne pourrait *ébranler* sa détermination.
-  Nichts könnte seine Entschlossenheit *erschüttern*.
+  Nothing could *shake* his resolve.
 
   Les événements récents ont *ébranlé* sa foi en l'humanité.
-  Die jüngsten Ereignisse haben seinen Glauben an die Menschheit *erschüttert*.
+  Recent events have shaken his belief in humanity.
 
   La colonne de véhicules s'*ébranla* à l'aube.
-  Die Fahrzeugkolonne *setzte* sich im Morgengrauen *in Bewegung*.
+  The motorcade set *in motion* at dawn.
 
   Cette tragédie a profondément *ébranlé* la communauté.
-  Diese Tragödie hat die Gemeinschaft zutiefst *erschüttert*.
+  This tragedy has deeply shaken the Community.
 
   Les supplications de sa mère ont fini par l'*ébranler*.
-  Die Bitten seiner Mutter haben ihn schließlich *erweicht*.
+  His mother's requests finally *softened* him.
 
   Le régime autoritaire commence à s'*ébranler*.
-  Das autoritäre Regime beginnt zu *wanken*.
+  The authoritarian regime is beginning to waver.
 
   Ses paroles ont *ébranlé* ma résolution.
-  Seine Worte haben meinen Entschluss *erschüttert*.
+  His words have shaken my resolve.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

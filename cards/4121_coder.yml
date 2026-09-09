@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4121
 Wort: coder
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: coder
 Femininum / Plural: ''
 IPA: \kɔ.de\
-Definition: verschlüsseln, programmieren
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: encrypt, program
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Chaque langue *code* une culture déterminée.
-  Jede Sprache *verschlüsselt* eine bestimmte Kultur.
+  Each language encrypts a particular culture.
 
   Il faut *coder* ce message avant de l'envoyer au quartier général.
-  Wir müssen diese Nachricht *verschlüsseln*, bevor wir sie ans Hauptquartier schicken.
+  We need to *encrypt* this message before we send it to headquarters.
 
   Les développeurs ont passé toute la nuit à *coder* la nouvelle application.
-  Die Entwickler haben die ganze Nacht daran gearbeitet, die neue Anwendung zu *programmieren*.
+  The developers have been working all night to program the new application.
 
   Ma fille de douze ans apprend à *coder* à l'école.
-  Meine zwölfjährige Tochter lernt in der Schule zu *programmieren*.
+  My twelve-year-old daughter learns to program at school.
 
   Les espions ont *codé* leurs communications pour éviter d'être repérés.
-  Die Spione haben ihre Kommunikation *verschlüsselt*, um nicht entdeckt zu werden.
+  The spies have encoded their communications so as not to be discovered.
 
   Nous devons *coder* ces données sensibles pour protéger la vie privée des clients.
-  Wir müssen diese sensiblen Daten *verschlüsseln*, um die Privatsphäre der Kunden zu schützen.
+  We need to *encrypt* this sensitive data to protect the privacy of customers.
 
   Le message *codé* contenait des informations cruciales pour la mission.
-  Die *verschlüsselte* Nachricht enthielt wichtige Informationen für die Mission.
+  The *encrypted* message contained important information for the mission.
 
   Les étudiants ont appris à *coder* en Python pendant le semestre.
-  Die Studenten haben während des Semesters gelernt, in Python zu *programmieren*.
+  The students learned to program in Python during the semester.
 
   Je vais *coder* un petit jeu ce week-end.
-  Ich werde dieses Wochenende ein kleines Spiel *programmieren*.
+  I'm going to program a little game this weekend.
 
   Les hackers ont essayé de décrypter le message *codé*.
-  Die Hacker haben versucht, die *verschlüsselte* Nachricht zu entschlüsseln.
+  The hackers tried to decrypt the *encrypted* message.
 
   Elle *code* des sites web pour gagner sa vie.
-  Sie *programmiert* Webseiten, um ihren Lebensunterhalt zu verdienen.
+  She's programming websites to make a living.
 
   Le langage *codé* des adolescents est parfois difficile à comprendre.
-  Die *verschlüsselte* Sprache der Jugendlichen ist manchmal schwer zu verstehen.
+  The encoded language of young people is sometimes difficult to understand.
 
   L'entreprise cherche quelqu'un qui sait *coder* en Java.
-  Das Unternehmen sucht jemanden, der in Java *programmieren* kann.
+  The company is looking for someone who can program in Java.
 
   Nous avons *codé* le prototype en seulement deux jours.
-  Wir haben den Prototyp in nur zwei Tagen *programmiert*.
+  We *programmed* the prototype in just two days.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

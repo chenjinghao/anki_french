@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2765
 Wort: spatial
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: spatial
 Femininum / Plural: spatiale
 IPA: \spa.sjal\
-Definition: räumlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: spatial
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *spatiale* internationale n'a aucun rôle militaire.
-  Die internationale *Raum*station hat keine militärische Rolle.
+  The international *space* station has no military role.
 
   L'étude de l'orientation *spatiale* est cruciale en psychologie cognitive.
-  Die Erforschung der *räumlichen* Orientierung ist zentral in der kognitiven Psychologie.
+  The study of *spatial* orientation is central to cognitive psychology.
 
   Les astronautes doivent s'adapter aux conditions *spatiales* extrêmes.
-  Die Astronauten müssen sich an die extremen *Raum*bedingungen anpassen.
+  The astronauts must adapt to the extreme conditions of *space*.
 
   La mission *spatiale* vers Mars durera environ sept mois.
-  Die *Raum*mission zum Mars wird ungefähr sieben Monate dauern.
+  The *space* mission to Mars will take about seven months.
 
   Cette nouvelle technologie améliore notre perception *spatiale*.
-  Diese neue Technologie verbessert unsere *räumliche* Wahrnehmung.
+  This new technology improves our *spatial* perception.
 
   La sonde *spatiale* Voyager a quitté notre système solaire.
-  Die *Raum*sonde Voyager hat unser Sonnensystem verlassen.
+  The Voyager spacecraft has left our solar system.
 
   Les dimensions *spatiales* et temporelles sont étroitement liées.
-  Die *räumlichen* und zeitlichen Dimensionen sind eng miteinander verbunden.
+  The *spatial* and temporal dimensions are closely linked.
 
   Le centre de recherche *spatiale* recrute de nouveaux ingénieurs.
-  Das *Raum*forschungszentrum stellt neue Ingenieure ein.
+  The *Space* Research Centre hires new engineers.
 
   La navette *spatiale* transportera six astronautes.
-  Das *Raum*shuttle wird sechs Astronauten transportieren.
+  The *space* shuttle will transport six astronauts.
 
   L'agence *spatiale* européenne a lancé un nouveau satellite.
-  Die europäische *Raumfahrt*behörde hat einen neuen Satelliten gestartet.
+  The European *Space* Agency has launched a new satellite.
 
   Les débris *spatiaux* représentent un danger croissant.
-  *Raum*schrott stellt eine wachsende Gefahr dar.
+  *Space* scrap is a growing threat.
 
   Cette capsule *spatiale* a été récupérée dans l'océan Pacifique.
-  Diese *Raum*kapsel wurde im Pazifischen Ozean geborgen.
+  This *space* capsule was recovered in the Pacific Ocean.
 
   La répartition *spatiale* des espèces varie selon le climat.
-  Die *räumliche* Verteilung der Arten variiert je nach Klima.
+  The *spatial* distribution of the species varies according to the climate.
 
   Le vaisseau *spatial* a atteint son orbite prévue.
-  Das *Raum*schiff hat seine geplante Umlaufbahn erreicht.
+  The spaceship has reached its planned orbit.
 
   La conquête *spatiale* a commencé avec Spoutnik en 1957.
-  Die *Raumfahrt* begann 1957 mit Sputnik.
+  *Space* travel began with Sputnik in 1957.
 
   Les coordonnées *spatiales* définissent la position exacte d'un objet.
-  Die *räumlichen* Koordinaten bestimmen die genaue Position eines Objekts.
+  The *spatial* coordinates determine the exact position of an object.
 
   L'industrie *spatiale* crée de nombreux emplois qualifiés.
-  Die *Raumfahrt*industrie schafft viele qualifizierte Arbeitsplätze.
+  The *space* industry creates many skilled jobs.
 
   La course *spatiale* entre les superpuissances s'est intensifiée.
-  Der *Raumfahrt*wettlauf zwischen den Supermächten verschärfte sich.
+  The *space* race between the superpowers intensified.
 
   Le télescope *spatial* Hubble nous envoie des images fascinantes.
-  Das *Raum*teleskop Hubble sendet uns faszinierende Bilder.
+  The Hubble *space* telescope sends us fascinating images.
 
   Les communications *spatiales* nécessitent des technologies sophistiquées.
-  *Raum*kommunikation erfordert hochentwickelte Technologien.
+  *Space* communication requires sophisticated technologies.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

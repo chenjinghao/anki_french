@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3586
 Wort: soucieux
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: soucieux
 Femininum / Plural: soucieuse
 IPA: \su.sjø\
-Definition: besorgt, sorgenvoll
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Concerned, Worrying
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'en suis *soucieux* mais non surpris.
-  Ich bin darüber *besorgt*, aber nicht überrascht.
+  I'm worried about that, but not surprised.
 
   Le directeur avait l'air *soucieux* en entrant dans la salle.
-  Der Direktor sah *sorgenvoll* aus, als er den Raum betrat.
+  The director looked worried when he entered the room.
 
   Elle semblait particulièrement *soucieuse* de sa santé depuis l'opération.
-  Sie schien seit der Operation besonders um ihre Gesundheit *besorgt* zu sein.
+  She seemed to be particularly *concerned* about her health since the operation.
 
   Très *soucieux* de leur avenir, les parents économisent pour les études de leurs enfants.
-  *Besorgt* um die Zukunft ihrer Kinder sparen die Eltern für deren Ausbildung.
+  *Concerned* about the future of their children, parents save on their education.
 
   *Soucieuse* de la qualité, Marie vérifie chaque détail de son travail.
-  *Bedacht* auf Qualität überprüft Marie jedes Detail ihrer Arbeit.
+  Beware of quality, Marie checks every detail of her work.
 
   Les difficultés financières le rendent de plus en plus *soucieux*.
-  Die finanziellen Schwierigkeiten machen ihn zunehmend *besorgt*.
+  The financial difficulties make him increasingly *concerned*.
 
   Elle est toujours *soucieuse* de l'heure quand elle a un rendez-vous important.
-  Sie *achtet* immer *auf* die Zeit, wenn sie einen wichtigen Termin hat.
+  She's always watching the time when she has an important appointment.
 
   Le professeur, *soucieux* du bien-être de ses élèves, adapte ses cours.
-  Der Lehrer *kümmert* sich *um* das Wohlergehen seiner Schüler und passt seinen Unterricht an.
+  The teacher takes care of the well-being of his students and adapts his lessons.
 
   Son front *soucieux* trahissait ses inquiétudes pour l'avenir.
-  Seine *sorgenvolle* Stirn verriet seine Zukunftsängste.
+  His anxious forehead betrayed his fears of the future.
 
   *Soucieux* de préserver l'environnement, ils utilisent les transports en commun.
-  *Bemüht* die Umwelt zu schützen, benutzen sie öffentliche Verkehrsmittel.
+  If they try to protect the environment, they use public transport.
 
   La mine *soucieuse* de mon père m'a tout de suite alarmée.
-  Der *sorgenvolle* Gesichtsausdruck meines Vaters hat mich sofort alarmiert.
+  My father's worried face immediately alerted me.
 
   Il n'est nullement *soucieux* des critiques à son égard.
-  Er ist über die Kritik an ihm überhaupt nicht *beunruhigt*.
+  He is not *concerned* about the criticism of him at all.
 
   *Soucieux* de faire plaisir, Pierre a préparé un repas spécial.
-  *Darauf bedacht* Freude zu bereiten, hat Pierre eine besondere Mahlzeit zubereitet.
+  Pierre has prepared a special meal to make it a pleasure.
 
   Cette entreprise est *soucieuse* de la satisfaction de ses clients.
-  Dieses Unternehmen ist um die Zufriedenheit seiner Kunden *bemüht*.
+  This company strives for the satisfaction of its customers.
 
   Je suis *soucieux* de vous et de votre réussite.
-  Ich bin um Sie und Ihren Erfolg *besorgt*.
+  I'm worried about you and your success.
 
   Son expression *soucieuse* n'a pas échappé à ses collègues.
-  Sein *besorgter* Gesichtsausdruck ist seinen Kollegen nicht entgangen.
+  His concerned facial expression has not escaped his colleagues.
 
   *Soucieuse* de sa réputation, elle évite les scandales.
-  *Bedacht* auf ihren Ruf vermeidet sie Skandale.
+  Mindful of her reputation, she avoids scandals.
 
   Les parents semblaient *soucieux* après la réunion avec les professeurs.
-  Die Eltern wirkten nach dem Gespräch mit den Lehrern *besorgt*.
+  The parents were worried after the conversation with the teachers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

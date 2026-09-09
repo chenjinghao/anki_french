@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3797
 Wort: différend
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le différend
 Femininum / Plural: ''
 IPA: \di.fe.ʁɑ̃\
-Definition: Streitigkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Disputes
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous venons de régler le *différend* qui nous opposait.
-  Wir haben gerade die *Meinungsverschiedenheit* beigelegt, die uns entzweit hat.
+  We just settled the disagreement that divided us.
 
   Le *différend* entre les voisins porte sur la hauteur de la haie.
-  Der *Streit* zwischen den Nachbarn dreht sich um die Höhe der Hecke.
+  The quarrel between the neighbors revolves around the height of the hedge.
 
   Un grave *différend* territorial oppose ces deux pays depuis des décennies.
-  Eine schwere Gebiets*streitigkeit* besteht zwischen diesen beiden Ländern seit Jahrzehnten.
+  There has been a serious territorial dispute between these two countries for decades.
 
   Les médiateurs ont réussi à apaiser le *différend* entre les deux parties.
-  Den Mediatoren ist es gelungen, die *Streitigkeit* zwischen den beiden Parteien zu schlichten.
+  The mediators have succeeded in settling the dispute between the two parties.
 
   Ce *différend* à propos du terrain nécessite l'intervention d'un avocat.
-  Diese Grundstücks*streitigkeit* erfordert das Eingreifen eines Anwalts.
+  This land dispute requires the intervention of a lawyer.
 
   Marie et Sophie ont eu un *différend* concernant l'organisation de la fête.
-  Marie und Sophie hatten eine *Meinungsverschiedenheit* bezüglich der Organisation der Feier.
+  Marie and Sophie had a disagreement about the organization of the celebration.
 
   Le juge tranchera ce *différend* lors de l'audience de demain.
-  Der Richter wird diese *Streitigkeit* in der morgigen Verhandlung entscheiden.
+  The judge will decide this dispute in tomorrow's hearing.
 
   Un léger *différend* est apparu lors de la réunion du conseil.
-  Eine kleine *Meinungsverschiedenheit* trat während der Ratssitzung auf.
+  A small disagreement arose during the Council meeting.
 
   Les deux frères sont en *différend* depuis l'héritage de leurs parents.
-  Die beiden Brüder leben im *Streit* seit der Erbschaft ihrer Eltern.
+  The two brothers have been living in a *dispute* since their parents' inheritance.
 
   Le syndicat et la direction doivent résoudre leur *différend* avant la fin du mois.
-  Gewerkschaft und Geschäftsführung müssen ihre *Streitigkeit* vor Monatsende lösen.
+  Union and management must resolve their dispute before the end of the month.
 
   Ce *différend* commercial risque d'affecter nos relations futures.
-  Diese Handels*streitigkeit* könnte unsere zukünftigen Beziehungen beeinträchtigen.
+  This trade dispute could affect our future relations.
 
   Les élèves ont vidé leur *différend* pendant la récréation.
-  Die Schüler haben ihren *Streit* in der Pause ausgetragen.
+  The students fought during the break.
 
   Un *différend* oppose la mairie aux riverains concernant le nouveau projet.
-  Eine *Streitigkeit* besteht zwischen dem Rathaus und den Anwohnern bezüglich des neuen Projekts.
+  There is a dispute between the town hall and the residents about the new project.
 
   Le médiateur a proposé une solution équitable pour résoudre ce *différend*.
-  Der Mediator hat eine faire Lösung vorgeschlagen, um diese *Meinungsverschiedenheit* beizulegen.
+  The mediator has proposed a fair solution to resolve this disagreement.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

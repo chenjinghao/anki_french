@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3805
 Wort: assistant
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un assistant
 Femininum / Plural: assistante
 IPA: \a.sis.tɑ̃\
-Definition: Assistent
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Assistant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai demandé à être *assistant* stagiaire.
-  Ich habe mich als *Assistent* in der Ausbildung beworben.
+  I applied as an *assistant* in training.
 
   Il est *assistant* à l'université et y enseigne l'histoire.
-  Er ist *Dozent* an der Universität und unterrichtet dort Geschichte.
+  He is a *lecturer* at the university and teaches history there.
 
   Pierre travaille comme *assistant* social dans un quartier défavorisé.
-  Pierre arbeitet als Sozial*arbeiter* in einem benachteiligten Viertel.
+  Pierre works as a social worker in a disadvantaged neighborhood.
 
   L'*assistante* maternelle s'occupe de trois enfants à son domicile.
-  Die Tages*mutter* kümmert sich um drei Kinder bei sich zu Hause.
+  The day *mother* takes care of three children at her home.
 
   Marie est *assistante* de la rédaction dans un grand journal.
-  Marie ist Redaktions*assistentin* bei einer großen Zeitung.
+  Marie is an editor's *assistant* at a big newspaper.
 
   Tous les *assistants* se sont levés pour applaudir.
-  Alle *Anwesenden* erhoben sich zum Applaus.
+  All those *present* rose to applause.
 
   L'*assistant* personnel m'aide à organiser mes rendez-vous.
-  Der elektronische *Organizer* hilft mir bei der Terminplanung.
+  The electronic *organizer* will help me schedule my appointments.
 
   Mon *assistant* médical m'a aidé pendant l'opération.
-  Mein medizinischer *Assistent* hat mir während der Operation geholfen.
+  My medical *assistant* helped me during the surgery.
 
   L'*assistante* du chirurgien prépare les instruments.
-  Die *Assistentin* des Chirurgen bereitet die Instrumente vor.
+  The surgeon's *assistant* prepares the instruments.
 
   Notre nouvelle *assistante* d'anglais vient d'Écosse.
-  Unsere neue Englisch-*Assistentin* kommt aus Schottland.
+  Our new English *assistant* is from Scotland.
 
   L'*assistant* technique vérifie les équipements chaque matin.
-  Der technische *Assistent* überprüft jeden Morgen die Geräte.
+  The technical *assistant* checks the equipment every morning.
 
   L'*assistant* du metteur en scène coordonne les acteurs.
-  Der *Assistent* des Regisseurs koordiniert die Schauspieler.
+  The director's *assistant* coordinates the actors.
 
   Les *assistants* sociaux ont organisé une réunion d'urgence.
-  Die Sozial*arbeiter* haben eine Notfallsitzung einberufen.
+  The social *workers* have called an emergency meeting.
 
   L'*assistant* de recherche analyse les données du laboratoire.
-  Der Forschungs*assistent* analysiert die Labordaten.
+  The research *assistant* analyses the laboratory data.
 
   Une *assistante* maternelle doit obtenir un agrément officiel.
-  Eine Tages*mutter* muss eine offizielle Zulassung erhalten.
+  A day *mother* must be officially admitted.
 
   L'*assistante* sociale m'a aidé avec mes démarches administratives.
-  Die Sozial*arbeiterin* hat mir bei den Behördengängen geholfen.
+  The social *worker* helped me with the government procedures.
 
   L'*assistant* graphique permet de créer des diagrammes facilement.
-  Der Diagramm-*Assistent* ermöglicht es, einfach Diagramme zu erstellen.
+  The Diagram Wizard allows you to easily create diagrams.
 
   Les *assistants* ont écouté attentivement la conférence.
-  Die *Zuhörer* folgten dem Vortrag aufmerksam.
+  The audience followed the talk attentively.
 
   L'*assistant* de connexion vous guide étape par étape.
-  Der Verbindungs*assistent* führt Sie Schritt für Schritt.
+  The connection *assistant* will guide you step by step.
 
   Notre *assistante* sociale organise des activités pour les jeunes.
-  Unsere Sozial*arbeiterin* organisiert Aktivitäten für die Jugendlichen.
+  Our social *worker* organizes activities for the young.
 
   L'*assistant* des hôpitaux fait sa tournée quotidienne.
-  Der Krankenhaus*assistent* macht seine tägliche Runde.
+  The hospital *assistant* is doing his daily rounds.
 
   L'*assistant* personnel numérique facilite la prise de notes.
-  Der digitale *Assistent* erleichtert die Notizenerstellung.
+  The digital *assistant* facilitates the creation of notes.
 
   L'un des *assistants* a posé une question pertinente.
-  Einer der *Anwesenden* stellte eine relevante Frage.
+  One of the *present* asked a relevant question.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

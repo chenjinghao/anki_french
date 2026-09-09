@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1602
 Wort: prévision
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la prévision
 Femininum / Plural: ''
 IPA: \pʁe.vi.zjɔ̃\
-Definition: Vorhersehen, Erwartung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Prediction, Expectation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'économie mondiale a surpassé toutes les *prévisions*.
-  Die Weltwirtschaft hat alle *Vorhersagen* übertroffen.
+  The world economy has surpassed all predictions.
 
   Les météorologues ont fait des *prévisions* précises pour la semaine à venir.
-  Die Meteorologen haben genaue *Vorhersagen* für die kommende Woche gemacht.
+  Meteorologists have made accurate predictions for the coming week.
 
   En *prévision* du mauvais temps, nous avons annulé notre pique-nique.
-  In *Erwartung* des schlechten Wetters haben wir unser Picknick abgesagt.
+  In anticipation of the bad weather, we canceled our picnic.
 
   Les *prévisions* budgétaires pour l'année prochaine sont optimistes.
-  Die Haushalts*voranschläge* für das nächste Jahr sind optimistisch.
+  The budget proposals for next year are optimistic.
 
   La *prévision* des tendances de la mode est un art délicat.
-  Die *Vorhersage* von Modetrends ist eine heikle Kunst.
+  The prediction of fashion trends is a delicate art.
 
   Les *prévisions* boursières indiquent une hausse probable des actions.
-  Die Börsen*prognosen* deuten auf einen wahrscheinlichen Anstieg der Aktien hin.
+  The stock market *forecasts* indicate a probable increase in shares.
 
   Nos *prévisions* de croissance se sont avérées trop pessimistes.
-  Unsere Wachstums*prognosen* haben sich als zu pessimistisch erwiesen.
+  Our growth *forecasts* have proved too pessimistic.
 
   La *prévision* des besoins en personnel est essentielle pour une entreprise.
-  Die *Vorausplanung* des Personalbedarfs ist für ein Unternehmen unerlässlich.
+  *Pre-planning* of personnel needs is essential for a company.
 
   Les *prévisions* météorologiques annoncent de la neige pour demain.
-  Die Wetter*vorhersage* kündigt für morgen Schnee an.
+  The weather *forecast* will announce snow tomorrow.
 
   La *prévision* économique est une science inexacte.
-  Die Wirtschafts*prognose* ist eine ungenaue Wissenschaft.
+  The economic *forecast* is an imprecise science.
 
   Contrairement à toute *prévision*, l'équipe a remporté le championnat.
-  Entgegen aller *Erwartungen* hat das Team die Meisterschaft gewonnen.
+  Contrary to all *expectations*, the team won the championship.
 
   Les *prévisions* de trafic indiquent des embouteillages ce week-end.
-  Die Verkehrs*prognosen* deuten auf Staus an diesem Wochenende hin.
+  Traffic *forecasts* indicate traffic jams this weekend.
 
   La *prévision* des tremblements de terre reste un défi pour les scientifiques.
-  Die *Vorhersage* von Erdbeben bleibt eine Herausforderung für Wissenschaftler.
+  The prediction of earthquakes remains a challenge for scientists.
 
   Les *prévisions* de ventes ont été dépassées ce trimestre.
-  Die Verkaufs*prognosen* wurden in diesem Quartal übertroffen.
+  Sales *forecasts* were exceeded in this quarter.
 
   En *prévision* de son départ à la retraite, il a commencé à économiser.
-  In *Vorbereitung* auf seinen Ruhestand hat er begonnen zu sparen.
+  In *preparation* for his retirement he has begun to save.
 
   Les *prévisions* conjoncturelles sont essentielles pour la planification stratégique.
-  Konjunktur*prognosen* sind für die strategische Planung unerlässlich.
+  Economic *forecasts* are essential for strategic planning.
 
   La *prévision* des comportements des consommateurs est cruciale en marketing.
-  Die *Vorhersage* des Verbraucherverhaltens ist im Marketing entscheidend.
+  The prediction of consumer behaviour is crucial in marketing.
 
   Les *prévisions* de récolte sont prometteuses cette année.
-  Die Ernte*prognosen* sind in diesem Jahr vielversprechend.
+  The harvest *forecasts* are promising this year.
 
   La *prévision* des besoins énergétiques est un enjeu majeur pour l'avenir.
-  Die *Vorhersage* des Energiebedarfs ist eine große Herausforderung für die Zukunft.
+  Predicting energy demand is a major challenge for the future.
 
   Les *prévisions* démographiques influencent les politiques publiques.
-  Demographische *Prognosen* beeinflussen die öffentliche Politik.
+  Demographic *forecasts* influence public policy.
 
   La *prévision* des risques est une partie importante de la gestion de projet.
-  Die *Vorhersage* von Risiken ist ein wichtiger Teil des Projektmanagements.
+  The prediction of risks is an important part of project management.
 
   Les *prévisions* de croissance du PIB ont été revues à la baisse.
-  Die *Prognosen* für das BIP-Wachstum wurden nach unten korrigiert.
+  GDP growth *forecasts* have been revised downwards.
 
   En *prévision* de l'augmentation du coût de la vie, l'entreprise a augmenté les salaires.
-  In *Erwartung* steigender Lebenshaltungskosten hat das Unternehmen die Gehälter erhöht.
+  In anticipation of rising cost of living, the company has increased salaries.
 
   La *prévision* à long terme des changements climatiques reste un défi complexe.
-  Die langfristige *Vorhersage* von Klimaveränderungen bleibt eine komplexe Herausforderung.
+  The long-term prediction of climate change remains a complex challenge.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

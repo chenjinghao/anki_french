@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 324
 Wort: concerner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: concerner
 Femininum / Plural: ''
 IPA: \kɔ̃.sɛʁ.ne\
-Definition: betreffen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: in the case of:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En ce qui me *concerne*, je voudrais te féliciter.
-  Was mich *betrifft*, möchte ich dir gratulieren.
+  As far as I'm concerned, I'd like to congratulate you.
 
   Les nouvelles du jour ne *concernent* que des catastrophes naturelles.
-  Die Nachrichten des Tages *handeln* nur von Naturkatastrophen.
+  The news of the day is only about natural disasters.
 
   Cette mesure de sécurité *concerne* tous les employés.
-  Diese Sicherheitsmaßnahme *betrifft* alle Mitarbeiter.
+  This security measure concerns all employees.
 
   En ce qui *concerne* son travail, il est très méticuleux.
-  Was seine Arbeit *angeht*, ist er sehr genau.
+  As far as his work is concerned, he's very accurate.
 
   Je ne me sens pas *concernée* par cette discussion.
-  Diese Diskussion *geht* mich nichts *an*.
+  It's none of my business.
 
   J'ai reçu un e-mail qui *concerne* notre projet commun.
-  Ich habe eine E-Mail erhalten, die unser gemeinsames Projekt *betrifft*.
+  I have received an e-mail concerning our joint project.
 
   Cette décision *concerne* uniquement les étudiants en première année.
-  Diese Entscheidung *betrifft* nur die Studenten im ersten Jahr.
+  This decision concerns only students in the first year.
 
   Pour ce qui *concerne* le prix, nous pouvons négocier.
-  Was den Preis *betrifft*, können wir verhandeln.
+  As far as the price is concerned, we can negotiate.
 
   En ce qui les *concerne*, ils préfèrent partir en vacances en hiver.
-  Was sie *betrifft*, fahren sie lieber im Winter in den Urlaub.
+  As far as they are concerned, they prefer to go on holiday in winter.
 
   Cette information ne *concerne* que les membres du club.
-  Diese Information *betrifft* nur die Clubmitglieder.
+  This information only concerns the club members.
 
   Le changement d'horaire *concerne* toutes les lignes de bus.
-  Die Fahrplanänderung *betrifft* alle Buslinien.
+  The timetable change affects all bus lines.
 
   En ce qui *concerne* le dîner, j'ai déjà tout préparé.
-  Was das Abendessen *angeht*, habe ich schon alles vorbereitet.
+  As far as dinner is concerned, I've already prepared everything.
 
   Cette réunion ne *concerne* pas notre département.
-  Diese Besprechung *betrifft* unsere Abteilung nicht.
+  This meeting does not concern our department.
 
   Le nouveau règlement *concerne* principalement la sécurité.
-  Die neue Vorschrift *betrifft* hauptsächlich die Sicherheit.
+  The new regulation mainly concerns safety.
 
   En ce qui *concerne* ses études, elle fait d'excellents progrès.
-  Was ihr Studium *betrifft*, macht sie ausgezeichnete Fortschritte.
+  As for her studies, she is making excellent progress.
 
   Cette question *concerne* tout le monde, pas seulement toi.
-  Diese Frage *geht* jeden *an*, nicht nur dich.
+  This question is up *to* everyone, not just you.
 
   Si cela ne vous *concerne* pas directement, vous pouvez partir.
-  Wenn Sie das nicht direkt *betrifft*, können Sie gehen.
+  If that doesn't concern you directly, you can go.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4460
 Wort: manuscrit
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le manuscrit
 Femininum / Plural: manuscrite
 IPA: \ma.nys.kʁi\
-Definition: Manuskript; handgeschrieben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Manuscript; handwritten
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je jetterai au feu tous mes *manuscrits*.
-  Ich werde alle meine *Manuskripte* verbrennen.
+  I'll burn all my *manuscripts*.
 
   On a retrouvé le *manuscrit* original de ce poème dans une vieille malle.
-  Man hat das originale *Manuskript* dieses Gedichts in einer alten Truhe gefunden.
+  The original *manuscript* of this poem was found in an old chest.
 
   La bibliothèque possède de précieux *manuscrits* enluminés du Moyen Âge.
-  Die Bibliothek besitzt wertvolle illuminierte *Handschriften* aus dem Mittelalter.
+  The library has valuable illuminated *manuscripts* from the Middle Ages.
 
   L'éditeur a refusé son *manuscrit* sans même le lire.
-  Der Verleger hat sein *Manuskript* abgelehnt, ohne es überhaupt zu lesen.
+  The publisher rejected his *manuscript* without even reading it.
 
   Marie préfère laisser une note *manuscrite* plutôt que d'envoyer un message.
-  Marie hinterlässt lieber eine *handgeschriebene* Notiz, statt eine Nachricht zu schicken.
+  Marie prefers to leave a *handwritten* note instead of sending a message.
 
   Ces corrections *manuscrites* dans la marge sont de la main de l'auteur.
-  Diese *handschriftlichen* Korrekturen am Rand stammen vom Autor.
+  These *handwritten* corrections at the edge are from the author.
 
   Le département des *manuscrits* de la Bibliothèque nationale conserve des trésors inestimables.
-  Die *Handschriften*abteilung der Nationalbibliothek bewahrt unbezahlbare Schätze.
+  The manuscript department of the National Library preserves priceless treasures.
 
   Les *manuscrits* de la mer Morte ont révolutionné notre compréhension des textes bibliques.
-  Die *Handschriften* vom Toten Meer haben unser Verständnis der biblischen Texte revolutioniert.
+  The *manuscripts* of the Dead Sea have revolutionized our understanding of the biblical texts.
 
   Tous les invités ont signé le livre d'or avec un message *manuscrit*.
-  Alle Gäste haben sich mit einer *handgeschriebenen* Nachricht ins Gästebuch eingetragen.
+  All guests have registered in the guestbook with a *handwritten* message.
 
   Le professeur n'accepte que les devoirs *manuscrits*.
-  Der Lehrer akzeptiert nur *handgeschriebene* Hausaufgaben.
+  The teacher only accepts *handwritten* homework.
 
   Ce *manuscrit* sur parchemin date du XII<sup>e</sup> siècle.
-  Diese *Handschrift* auf Pergament stammt aus dem 12. Jahrhundert.
+  This manuscript on parchment dates back to the 12th century.
 
   L'auteur a passé dix ans à peaufiner le *manuscrit* de son roman.
-  Der Autor hat zehn Jahre damit verbracht, das *Manuskript* seines Romans zu perfektionieren.
+  The author has spent ten years perfecting the *manuscript* of his novel.
 
   Les archéologues ont découvert un *manuscrit* grec extraordinairement bien conservé.
-  Die Archäologen haben eine außergewöhnlich gut erhaltene griechische *Handschrift* entdeckt.
+  Archaeologists have discovered an exceptionally well preserved Greek manuscript.
 
   Elle a envoyé une lettre *manuscrite* pour s'excuser.
-  Sie hat einen *handgeschriebenen* Brief geschickt, um sich zu entschuldigen.
+  She sent a *handwritten* letter to apologize.
 
   Le *manuscrit* à peintures est orné de magnifiques enluminures.
-  Die *Handschrift* ist mit wunderschönen Miniaturen verziert.
+  The manuscript is decorated with beautiful miniatures.
 
   Les éditeurs modernes acceptent rarement les versions *manuscrites*.
-  Moderne Verleger akzeptieren selten *handgeschriebene* Versionen.
+  Modern publishers rarely accept *handwritten* versions.
 
   La signature *manuscrite* est obligatoire sur ce document officiel.
-  Die *handschriftliche* Unterschrift ist auf diesem offiziellen Dokument erforderlich.
+  The *handwritten* signature is required on this official document.
 
   Les experts ont authentifié ce *manuscrit* médiéval comme étant original.
-  Die Experten haben diese mittelalterliche *Handschrift* als Original authentifiziert.
+  The experts authenticated this medieval manuscript as an original.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

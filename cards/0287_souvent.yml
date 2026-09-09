@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 287
 Wort: souvent
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: souvent
 Femininum / Plural: ''
 IPA: \su.vɑ̃\
-Definition: oft
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: often
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mais alors *souvent* en fin de soirée c'est la fête.
-  Dann ist es am späten Abend *oft* Zeit zum Feiern.
+  Then it is *often* time to celebrate in the late evening.
 
   Elle va *souvent* au cinéma avec ses amis.
-  Sie geht *häufig* mit ihren Freunden ins Kino.
+  She often goes to the movies with her friends.
 
   Le *plus souvent*, je prends le métro pour aller au travail.
-  *Meistens* nehme ich die U-Bahn zur Arbeit.
+  I usually take the subway to work.
 
   Cette erreur arrive bien *souvent* quand on ne fait pas attention.
-  Dieser Fehler passiert sehr *oft*, wenn man nicht aufpasst.
+  This mistake happens very *often* if you don't pay attention.
 
   Les enfants mangent *plus souvent* des légumes depuis qu'ils ont leur propre jardin.
-  Die Kinder essen *öfter* Gemüse, seit sie ihren eigenen Garten haben.
+  The children eat vegetables more often since they have their own garden.
 
   Il pleut *plus souvent qu'à son tour* dans cette région.
-  Es regnet in dieser Gegend *häufiger als normal*.
+  It rains more frequently in this area than normal.
 
   *Souvent* je pense à mon enfance en Bretagne.
-  *Oft* denke ich an meine Kindheit in der Bretagne.
+  I *often* think of my childhood in Brittany.
 
   Cette règle n'est pas *souvent* appliquée correctement.
-  Diese Regel wird nicht *häufig* korrekt angewendet.
+  This rule is not often applied correctly.
 
   On devrait se voir *plus souvent*.
-  Wir sollten uns *öfter* sehen.
+  We should see each other more often.
 
   Il arrive *très souvent* que le train soit en retard.
-  Es kommt *sehr häufig* vor, dass der Zug Verspätung hat.
+  It is *very common* for the train to be delayed.
 
   Venez nous rendre visite aussi *souvent* que possible !
-  Besucht uns so *oft* wie möglich!
+  Visit us as *often* as possible!
 
   Je ne mange pas *souvent* au restaurant.
-  Ich esse nicht *oft* im Restaurant.
+  I don't eat much at the restaurant.
 
   Les accidents arrivent *le plus souvent* par négligence.
-  Unfälle passieren *meistens* durch Nachlässigkeit.
+  Accidents usually occur through negligence.
 
   Ces oiseaux migrent *plus souvent* à cause du changement climatique.
-  Diese Vögel wandern wegen des Klimawandels *häufiger*.
+  These birds migrate more frequently because of climate change.
 
   Il est *souvent* préférable d'écouter avant de parler.
-  Es ist *oft* besser, erst zuzuhören, bevor man spricht.
+  It's *often* better to listen before you talk.
 
   Ces symptômes apparaissent *assez souvent* chez les personnes âgées.
-  Diese Symptome treten bei älteren Menschen *ziemlich häufig* auf.
+  These symptoms are *quite common* in older people.
 
   Les grands-parents gardent *plus souvent* leurs petits-enfants de nos jours.
-  Großeltern passen heutzutage *öfter* auf ihre Enkelkinder auf.
+  Grandparents are more likely to watch their grandchildren these days.
 
   Marie arrive *le plus souvent* en avance au bureau.
-  Marie kommt *meistens* früh ins Büro.
+  Marie usually comes to the office early.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

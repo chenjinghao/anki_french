@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4811
 Wort: retrancher
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: retrancher
 Femininum / Plural: ''
 IPA: \ʁə.tʁɑ̃.ʃe\
-Definition: verschanzen; streichen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: entrenched; delete
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Son air passif la *retranchait* du monde.
-  Ihre passive Art *grenzte* sie von der Welt *ab*.
+  Their passive nature separated them *from* the world.
 
   Le comptable a *retranché* 500 euros de mon salaire.
-  Der Buchhalter hat 500 Euro von meinem Gehalt *abgezogen*.
+  The accountant *deducted* 500 euros from my salary.
 
   Les soldats se sont *retranchés* derrière les barricades.
-  Die Soldaten haben sich hinter den Barrikaden *verschanzt*.
+  The soldiers were hiding behind the barricades.
 
   Je dois *retrancher* ce passage du manuscrit.
-  Ich muss diese Passage aus dem Manuskript *streichen*.
+  I have to remove this passage from the manuscript.
 
   Il s'est *retranché* dans un silence obstiné après la dispute.
-  Er hat sich nach dem Streit in hartnäckiges Schweigen *zurückgezogen*.
+  After the fight, he retreated into stubborn silence.
 
   L'éditeur a *retranché* plusieurs chapitres du livre original.
-  Der Verleger hat mehrere Kapitel aus dem Originalbuch *gestrichen*.
+  The publisher has *deleted* several chapters from the original book.
 
   Pour calculer le bénéfice net, il faut *retrancher* les frais.
-  Um den Nettogewinn zu berechnen, muss man die Kosten *abziehen*.
+  To calculate the net profit, you have to deduct the costs.
 
   Les rebelles se sont *retranchés* dans les montagnes.
-  Die Rebellen haben sich in den Bergen *verschanzt*.
+  The rebels are hiding in the mountains.
 
   Elle s'est *retranchée* derrière le secret professionnel.
-  Sie hat sich hinter der beruflichen Schweigepflicht *verschanzt*.
+  She's been hiding behind professional secrecy.
 
   Le professeur a *retranché* deux points pour les fautes d'orthographe.
-  Der Lehrer hat für die Rechtschreibfehler zwei Punkte *abgezogen*.
+  The teacher has *deducted* two points for spelling errors.
 
   Depuis son divorce, il vit *retranché* dans sa maison.
-  Seit seiner Scheidung lebt er *zurückgezogen* in seinem Haus.
+  Since his divorce, he has been living in his home in seclusion.
 
   L'armée s'est *retranchée* derrière le fleuve.
-  Die Armee hat sich hinter dem Fluss *verschanzt*.
+  The army is hiding behind the river.
 
   Le réalisateur a dû *retrancher* plusieurs scènes du film.
-  Der Regisseur musste mehrere Szenen aus dem Film *herausschneiden*.
+  The director had to cut several scenes out of the film.
 
   Pour simplifier l'équation, il faut *retrancher* x des deux côtés.
-  Um die Gleichung zu vereinfachen, muss man x von beiden Seiten *abziehen*.
+  To simplify the equation, you have to pull x from both sides.
 
   Elle s'est *retranchée* dans sa douleur après la perte de son mari.
-  Sie hat sich nach dem Verlust ihres Mannes in ihren Schmerz *zurückgezogen*.
+  She retreated to her pain after her husband's loss.
 
   Le comité a *retranché* son nom de la liste des candidats.
-  Das Komitee hat seinen Namen von der Kandidatenliste *gestrichen*.
+  The committee *deleted* his name from the candidate list.
 
   Les troupes se sont *retranchées* dans une position défensive.
-  Die Truppen haben sich in einer defensiven Position *verschanzt*.
+  The troops have locked themselves in a defensive position.
 
   L'architecte a *retranché* cet élément du design original.
-  Der Architekt hat dieses Element aus dem ursprünglichen Design *entfernt*.
+  The architect *removed* this element from the original design.
 
   Il s'est *retranché* derrière l'autorité de son supérieur.
-  Er hat sich hinter der Autorität seines Vorgesetzten *verschanzt*.
+  He's been hiding behind the authority of his superior.
 
   Le banquier a *retranché* les frais bancaires du montant total.
-  Der Banker hat die Bankgebühren vom Gesamtbetrag *abgezogen*.
+  The banker has *deducted* the bank fees from the total amount.
 
   Les assiégés se sont *retranchés* dans la citadelle.
-  Die Belagerten haben sich in der Zitadelle *verschanzt*.
+  The besieged have been entrenched in the citadel.
 
   Le correcteur a *retranché* les passages redondants du texte.
-  Der Korrektor hat die überflüssigen Passagen aus dem Text *gestrichen*.
+  The proofreader has *deleted* the unnecessary passages from the text.
 
   Marie s'est *retranchée* derrière des excuses peu convaincantes.
-  Marie hat sich hinter wenig überzeugenden Ausreden *verschanzt*.
+  Marie's been hiding behind a little convincing excuses.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1598
 Wort: fonctionnement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fonctionnement
 Femininum / Plural: ''
 IPA: \fɔ̃k.sjɔn.mɑ̃\
-Definition: Funktionsweise, Betrieb
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Operation, operation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Laissez-moi vous expliquer le *fonctionnement* de ce système.
-  Lassen Sie mich Ihnen die *Funktionsweise* dieses Systems erklären.
+  Let me explain to you how this system works.
 
   Le *fonctionnement* de son cœur est tout à fait normal.
-  Das *Funktionieren* seines Herzens ist völlig normal.
+  The functioning of his heart is perfectly normal.
 
   Il faut vérifier le *fonctionnement* de la climatisation avant l'été.
-  Vor dem Sommer muss der *Betrieb* der Klimaanlage überprüft werden.
+  Before the summer, the *operation* of the air conditioning must be checked.
 
   Le *fonctionnement* de notre démocratie dépend de la participation des citoyens.
-  Das *Funktionieren* unserer Demokratie hängt von der Beteiligung der Bürger ab.
+  The functioning of our democracy depends on the participation of the citizens.
 
   L'ordinateur présente des problèmes de *fonctionnement* depuis ce matin.
-  Der Computer zeigt seit heute Morgen *Funktions*störungen.
+  The computer's been showing malfunctions since this morning.
 
   Le *fonctionnement* silencieux de cette machine est vraiment impressionnant.
-  Die geräuschlose *Funktionsweise* dieser Maschine ist wirklich beeindruckend.
+  The silent *operation* of this machine is really impressive.
 
   Les élèves ont appris le *fonctionnement* du système solaire.
-  Die Schüler haben die *Funktionsweise* des Sonnensystems gelernt.
+  The students have learned how the solar system works.
 
   Le manuel explique en détail le *fonctionnement* de l'appareil.
-  Das Handbuch erklärt ausführlich die *Funktionsweise* des Geräts.
+  The manual explains in detail the *operation* of the device.
 
   Un virus informatique a perturbé le *fonctionnement* du réseau.
-  Ein Computervirus hat den *Betrieb* des Netzwerks gestört.
+  A computer virus has disrupted the *operation* of the network.
 
   Le *fonctionnement* du cerveau humain reste encore mystérieux.
-  Die *Funktionsweise* des menschlichen Gehirns bleibt noch rätselhaft.
+  The functioning of the human brain remains mysterious.
 
   Je suis responsable du bon *fonctionnement* de ce département.
-  Ich bin für das reibungslose *Funktionieren* dieser Abteilung verantwortlich.
+  I am responsible for the proper functioning of this department.
 
   Le *fonctionnement* de cette entreprise m'impressionne beaucoup.
-  Die *Funktionsweise* dieses Unternehmens beeindruckt mich sehr.
+  I am very impressed by the way this company works.
 
   Les nouveaux employés doivent comprendre le *fonctionnement* de l'équipe.
-  Die neuen Mitarbeiter müssen die *Funktionsweise* des Teams verstehen.
+  The new staff must understand the functioning of the team.
 
   Le *fonctionnement* de cette pompe est défectueux depuis hier.
-  Der *Betrieb* dieser Pumpe ist seit gestern fehlerhaft.
+  The *operation* of this pump has been flawed since yesterday.
 
   Les ingénieurs ont amélioré le *fonctionnement* du moteur.
-  Die Ingenieure haben die *Funktionsweise* des Motors verbessert.
+  Engineers have improved the engine's *operation*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

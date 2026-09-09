@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3230
 Wort: panique
 Wortart: nf, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la panique
 Femininum / Plural: ''
 IPA: \pa.nik\
-Definition: Panik; panisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Panic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils essaient de créer la *panique*.
-  Sie versuchen *Panik* zu verursachen.
+  They're trying to cause *panic*.
 
   Une vague de *panique* s'est emparée de la foule.
-  Eine Welle der *Panik* erfasste die Menge.
+  A wave of *panic* caught the crowd.
 
   "*Pas de panique* ! On va trouver une solution."
-  "Nur keine *Panik*! Wir werden eine Lösung finden."
+  "Don't *panic*, we'll find a solution."
 
   La *panique* s'est répandue comme une traînée de poudre.
-  Die *Panik* breitete sich wie ein Lauffeuer aus.
+  The *panic* spread like wildfire.
 
   Elle a été prise de *panique* quand elle a vu le feu.
-  Sie wurde von *Panik* ergriffen, als sie das Feuer sah.
+  She was seized by *panic* when she saw the fire.
 
   Les investisseurs ont vendu leurs actions dans une fuite *panique*.
-  Die Anleger verkauften ihre Aktien in *panischer* Flucht.
+  Investors sold their shares in a pananic escape.
 
   Une peur *panique* s'est emparée des enfants pendant l'orage.
-  Eine *panische* Angst ergriff die Kinder während des Gewitters.
+  A panicking fear seized the children during the storm.
 
   "C'est la *panique* ! Je ne trouve plus mes clés !"
-  "Das ist die *Panik*! Ich finde meine Schlüssel nicht mehr!"
+  "That's the *panic*! I can't find my keys anymore!"
 
   Il a fait ses valises en toute *panique*.
-  Er hat seine Koffer *panikartig* gepackt.
+  He packed his suitcases *panic-like*.
 
   Un vent de *panique* a soufflé sur la ville.
-  Ein Wind der *Panik* wehte durch die Stadt.
+  A wind of *panic* blew through the city.
 
   Les gens ont réagi de manière *panique* à la nouvelle.
-  Die Leute haben *panisch* auf die Nachricht reagiert.
+  People were panicking about the news.
 
   La *panique* s'est installée quand les lumières se sont éteintes.
-  *Panik* brach aus, als die Lichter ausgingen.
+  *Panic* broke out when the lights went out.
 
   Son visage exprimait une terreur *panique*.
-  Sein Gesicht drückte *panischen* Schrecken aus.
+  His face expressed panicking horrors.
 
   Les rumeurs ont semé la *panique* parmi les habitants.
-  Die Gerüchte säten *Panik* unter den Einwohnern.
+  The rumors sowed *panic* among the inhabitants.
 
   Marie est entrée dans une crise de *panique*.
-  Marie geriet in einen *Panik*anfall.
+  Marie got into a *panic* attack.
 
   La foule s'est dispersée dans une confusion *panique*.
-  Die Menge zerstreute sich in *panischer* Verwirrung.
+  The crowd was scattered in panicking confusion.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

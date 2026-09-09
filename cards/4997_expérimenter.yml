@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4997
 Wort: expérimenter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: expérimenter
 Femininum / Plural: ''
 IPA: \ɛk.spe.ʁi.mɑ̃.te\
-Definition: erproben, testen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: test, test
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les skieurs peu *expérimentés* devraient renoncer aux courses.
-  Wenig *erfahrene* Skifahrer sollten auf Rennen verzichten.
+  Little *experienced* skiers should refrain from racing.
 
   Les chercheurs vont *expérimenter* ce nouveau vaccin sur des souris.
-  Die Forscher werden diesen neuen Impfstoff an Mäusen *testen*.
+  The researchers will *test* this new vaccine on mice.
 
   Marie doit *expérimenter* différentes recettes avant de trouver la bonne.
-  Marie muss verschiedene Rezepte *ausprobieren*, bevor sie das richtige findet.
+  Marie has to *try* different recipes before she finds the right one.
 
   On ne peut pas vraiment comprendre la solitude sans l'avoir *expérimentée*.
-  Man kann Einsamkeit nicht wirklich verstehen, ohne sie *erlebt* zu haben.
+  You can't really understand loneliness without experiencing it.
 
   Le laboratoire a *expérimenté* ce médicament pendant trois ans.
-  Das Labor hat dieses Medikament drei Jahre lang *erprobt*.
+  The lab has been testing this drug for three years.
 
   Les étudiants doivent *expérimenter* par eux-mêmes pour comprendre.
-  Die Studenten müssen selbst *experimentieren*, um es zu verstehen.
+  The students must *experiment* themselves to understand.
 
   Notre équipe *expérimente* actuellement une nouvelle méthode de production.
-  Unser Team *testet* derzeit eine neue Produktionsmethode.
+  Our team is currently testing a new production method.
 
   J'ai *expérimenté* cette technique de méditation pendant un mois.
-  Ich habe diese Meditationstechnik einen Monat lang *ausprobiert*.
+  I *tried* this meditation technique for a month.
 
   Les ingénieurs ont *expérimenté* le nouveau moteur dans des conditions extrêmes.
-  Die Ingenieure haben den neuen Motor unter extremen Bedingungen *getestet*.
+  The engineers *tested* the new engine under extreme conditions.
 
   Elle a *expérimenté* la vie à l'étranger pendant ses études.
-  Sie hat das Leben im Ausland während ihres Studiums *erlebt*.
+  She has *experienced* life abroad during her studies.
 
   C'est un chirurgien très *expérimenté* qui va t'opérer.
-  Ein sehr *erfahrener* Chirurg wird dich operieren.
+  A very *experienced* surgeon will operate on you.
 
   Nous devons *expérimenter* ce procédé avant de l'utiliser en production.
-  Wir müssen dieses Verfahren *erproben*, bevor wir es in der Produktion einsetzen.
+  We have to *test* this procedure before we use it in production.
 
   Les scientifiques *expérimentent* sur des cellules en laboratoire.
-  Die Wissenschaftler *experimentieren* im Labor mit Zellen.
+  The scientists are experimenting with cells in the laboratory.
 
   Il a fallu *expérimenter* plusieurs solutions avant de résoudre le problème.
-  Wir mussten mehrere Lösungen *ausprobieren*, bevor wir das Problem lösen konnten.
+  We had to *try* out several solutions before we could solve the problem.
 
   Notre entreprise souhaite *expérimenter* le télétravail.
-  Unser Unternehmen möchte Homeoffice *testen*.
+  Our company wants to *test* home office.
 
   Pierre n'a jamais *expérimenté* ce genre de situation auparavant.
-  Pierre hat diese Art von Situation noch nie *erlebt*.
+  Pierre has never *experienced* this kind of situation before.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

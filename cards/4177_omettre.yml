@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4177
 Wort: omettre
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: omettre
 Femininum / Plural: ''
 IPA: \ɔ.mɛtʁ\
-Definition: auslassen, weglassen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: omitting, omitting
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'y *omettrai* rien.
-  Ich werde nichts *auslassen*.
+  I'm not gonna miss anything.
 
   Il a *omis* de signaler son absence à son patron.
-  Er hat es *versäumt*, seinem Chef seine Abwesenheit zu melden.
+  He failed to report his absence to his boss.
 
   Elle a *omis* d'éteindre les lumières avant de partir.
-  Sie hat *vergessen*, das Licht auszumachen, bevor sie ging.
+  She forgot to turn off the light before she left.
 
   N'*omettez* pas de lire les instructions attentivement.
-  *Versäumen* Sie es nicht, die Anweisungen sorgfältig zu lesen.
+  Do not miss to read the instructions carefully.
 
   Le journaliste a délibérément *omis* certains détails de l'histoire.
-  Der Journalist hat absichtlich bestimmte Details der Geschichte *weggelassen*.
+  The journalist deliberately omitted certain details of the story.
 
   Dans sa présentation, elle a *omis* de mentionner ses collaborateurs.
-  In ihrer Präsentation hat sie es *unterlassen*, ihre Mitarbeiter zu erwähnen.
+  In her presentation, she failed to mention her employees.
 
   Vous avez *omis* mon nom de la liste des invités.
-  Sie haben meinen Namen von der Gästeliste *weggelassen*.
+  You left my name off the guest list.
 
   Le professeur a *omis* trois étudiants lors de l'appel.
-  Der Lehrer hat drei Schüler beim Aufrufen *übersehen*.
+  The teacher *missed* three students calling.
 
   Cette référence importante a été *omise* dans la bibliographie.
-  Diese wichtige Referenz wurde in der Bibliographie *ausgelassen*.
+  This important reference was omitted in the bibliography.
 
   J'ai *omis* de vous informer du changement d'horaire.
-  Ich habe *vergessen*, Sie über die Zeitänderung zu informieren.
+  I forgot to inform you about the change in time.
 
   Les détails *omis* dans le rapport étaient cruciaux.
-  Die im Bericht *ausgelassenen* Details waren entscheidend.
+  The details omitted in the report were crucial.
 
   N'*omettez* aucun détail dans votre déclaration.
-  *Lassen* Sie in Ihrer Aussage keine Details *aus*.
+  Don't *leave* out any details in your statement.
 
   Tu as *omis* de mettre la date sur le formulaire.
-  Du hast *vergessen*, das Datum auf das Formular zu setzen.
+  You forgot to put the date on the form.
 
   Le comité a *omis* plusieurs candidats qualifiés.
-  Das Komitee hat mehrere qualifizierte Kandidaten nicht *berücksichtigt*.
+  The Committee has not *taken into account* several qualified candidates.
 
   Il ne faut pas *omettre* les virgules dans cette phrase.
-  Man darf die Kommas in diesem Satz nicht *weglassen*.
+  One must not omit the commas in this sentence.
 
   Les informations *omises* ont été ajoutées dans la nouvelle version.
-  Die *ausgelassenen* Informationen wurden in der neuen Version ergänzt.
+  The omitted information was added to the new version.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 145
 Wort: donc
 Wortart: conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: donc
 Femininum / Plural: ''
 IPA: \dɔ̃k\
-Definition: also, daher
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: so, therefore,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons *donc* dû faire les calculs nous-mêmes.
-  Wir mussten die Berechnungen *also* selbst machen.
+  *So* we had to do the calculations ourselves.
 
   Tu ne vois *donc* pas que tu déranges les autres ?
-  Merkst du *denn* nicht, dass du die anderen störst?
+  Don't you realize you're disturbing the others?
 
   Entrez *donc*, il fait froid dehors !
-  Kommen Sie *doch* herein, es ist kalt draußen!
+  Come in, it's cold outside!
 
   Je pense, *donc* je suis.
-  Ich denke, *also* bin ich.
+  I think *so*, so I am.
 
   "Dis *donc*, tu as vu l'heure ?"
-  "Sag *mal*, hast du auf die Uhr geschaut?"
+  "Tell me, did you look at the clock?"
 
   Pourquoi êtes-vous *donc* parti si tôt ?
-  Warum sind Sie *denn* so früh gegangen?
+  Why did you leave so early?
 
   Il pleut, je vais *donc* prendre mon parapluie.
-  Es regnet, *also* werde ich meinen Regenschirm mitnehmen.
+  It's raining, *so* I'm gonna take my umbrella.
 
   Taisez-vous *donc* !
-  Seien Sie *doch* still!
+  Shut up!
 
   C'est *donc* toi qui as mangé tout le gâteau !
-  Du warst es *also*, der den ganzen Kuchen gegessen hat!
+  *So* it was you who ate the whole cake!
 
   Je disais *donc* que nous partirons demain matin.
-  Ich sagte *also*, dass wir morgen früh aufbrechen werden.
+  *So* I said we're gonna leave in the morning.
 
   Où sont-ils *donc* passés ?
-  Wo sind sie *bloß* hingegangen?
+  Where did they go?
 
   "*Allons donc*, ce n'est pas possible !"
-  "*Ach was*, das kann nicht sein!"
+  "*Oh, what*, that can't be!"
 
   Faites *donc* attention à la marche !
-  Passen Sie *doch* auf die Stufe auf!
+  Watch your step!
 
   Qui est *donc* cette personne ?
-  Wer ist das *denn*?
+  Who's that?
 
   Il est malade, il ne viendra *donc* pas ce soir.
-  Er ist krank, er wird heute Abend *also* nicht kommen.
+  He's sick, *so* he's not coming tonight.
 
   Mon Dieu, que vous êtes *donc* élégante !
-  Meine Güte, wie elegant Sie *doch* sind!
+  Oh, my God, how elegant you are!
 
   *Donc*, pour résumer la situation...
-  *Also*, um die Situation zusammenzufassen...
+  *So*, to sum up the situation...
 
   Vous habitez *donc* toujours à Paris ?
-  Sie wohnen *also* immer noch in Paris?
+  *So* you still live in Paris?
 
   Elle a réussi son examen, elle pourra *donc* partir en vacances.
-  Sie hat ihre Prüfung bestanden, sie kann *also* in den Urlaub fahren.
+  She passed her exam, *so* she can go on vacation.
 
   "Écoutez *donc* ce que je vous dis !"
-  "Hören Sie *doch* zu, was ich Ihnen sage!"
+  "Listen to what I'm saying!"
 
   Comment vas-tu *donc* faire sans argent ?
-  Wie willst du das *bloß* ohne Geld schaffen?
+  How are you gonna do this without money?
 
   *Donc*, nous disions...
-  *Also*, wir sagten gerade...
+  Well, we just said...
 
   Son alibi est vérifié, elle ne peut *donc* pas être coupable.
-  Ihr Alibi ist bestätigt, sie kann *also* nicht schuldig sein.
+  Her alibi is confirmed, *so* she can't be guilty.
 
   Quelqu'un me disait *donc* l'autre jour...
-  Jemand sagte mir *also* neulich...
+  *So* someone told me the other day...
 
   Fermez *donc* la fenêtre, il fait froid !
-  Machen Sie *doch* das Fenster zu, es ist kalt!
+  Why don't you close the window? It's cold!
 
   Où êtes-vous *donc* allé pendant vos vacances ?
-  Wo sind Sie *denn* im Urlaub gewesen?
+  Where have you been on vacation?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

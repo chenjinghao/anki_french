@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2965
 Wort: tester
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: tester
 Femininum / Plural: ''
 IPA: \tɛs.te\
-Definition: testen, prüfen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: test, check
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Opératrice, veuillez *tester* ce numéro.
-  Telefonistin, bitte *überprüfen* Sie diese Nummer.
+  Phone operator, please *check* this number.
 
   Le laboratoire va *tester* ce nouveau médicament sur des volontaires.
-  Das Labor wird dieses neue Medikament an Freiwilligen *testen*.
+  The lab will *test* this new drug on volunteers.
 
   Avant d'acheter cette voiture, j'aimerais la *tester* sur route.
-  Bevor ich dieses Auto kaufe, möchte ich es auf der Straße *probefahren*.
+  Before I buy this car, I'd like to test it on the road.
 
   Les ingénieurs doivent *tester* le logiciel pour détecter les bugs.
-  Die Ingenieure müssen die Software auf Fehler *testen*.
+  Engineers need to *test* the software for errors.
 
   Le professeur va *tester* les connaissances des élèves avec un examen surprise.
-  Der Lehrer wird das Wissen der Schüler mit einer Überraschungsprüfung *testen*.
+  The teacher will *test* the students' knowledge with a surprise test.
 
   "Je vais *tester* ta patience aujourd'hui!"
-  "Ich werde heute deine Geduld auf die *Probe stellen*!"
+  "I will *test* your patience today!"
 
   L'entreprise *teste* actuellement un nouveau système de paiement en ligne.
-  Das Unternehmen *testet* derzeit ein neues Online-Zahlungssystem.
+  The company is currently testing a new online payment system.
 
   Il faut *tester* la solidité de ce pont avant son ouverture au public.
-  Die Stabilität dieser Brücke muss vor ihrer Eröffnung für die Öffentlichkeit *geprüft* werden.
+  The stability of this bridge must be examined for the public before it is opened.
 
   Les scientifiques vont *tester* cette hypothèse par une série d'expériences.
-  Die Wissenschaftler werden diese Hypothese durch eine Reihe von Experimenten *testen*.
+  The scientists will *test* this hypothesis through a series of experiments.
 
   Le cuisinier doit *tester* chaque plat avant de le servir aux clients.
-  Der Koch muss jedes Gericht *probieren*, bevor er es den Kunden serviert.
+  The chef must *try* every dish before serving it to the customers.
 
   Nous allons *tester* différentes stratégies marketing pour augmenter nos ventes.
-  Wir werden verschiedene Marketingstrategien *ausprobieren*, um unsere Verkäufe zu steigern.
+  We will *try* different marketing strategies to increase our sales.
 
   Le médecin va *tester* votre vision avec un examen oculaire complet.
-  Der Arzt wird Ihr Sehvermögen mit einer umfassenden Augenuntersuchung *testen*.
+  The doctor will *test* your vision with a comprehensive eye examination.
 
   L'athlète doit *tester* ses limites pour s'améliorer constamment.
-  Der Athlet muss seine Grenzen *austesten*, um sich ständig zu verbessern.
+  The athlete must *test* his limits to constantly improve himself.
 
   Le juge a demandé à l'accusé s'il souhaitait *tester* avant sa condamnation.
-  Der Richter fragte den Angeklagten, ob er vor seiner Verurteilung ein *Testament machen* wolle.
+  The judge asked the defendant whether he wanted to *make a will* before his conviction.
 
   Les techniciens vont *tester* le nouveau puits de pétrole avec un appareil spécial.
-  Die Techniker werden den neuen Ölbrunnen mit einem speziellen Gerät *testen*.
+  The technicians will *test* the new oil well with a special device.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

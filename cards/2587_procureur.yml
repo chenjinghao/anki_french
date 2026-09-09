@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2587
 Wort: procureur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le procureur
 Femininum / Plural: procuratrice
 IPA: \pʁɔ.ky.ʁœʁ\
-Definition: Staatsanwalt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Public Prosecutor
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Michael était *procureur* adjoint, à l'époque.
-  Damals war Michael stellvertretender *Staatsanwalt*.
+  At that time, Michael was deputy prosecutor.
 
   La *procureure* générale a requis la peine maximale.
-  Die General*staatsanwältin* hat das Höchstmaß der Strafe gefordert.
+  The Attorney General has demanded the maximum of punishment.
 
   Le nouveau *procureur* de la République tiendra une conférence de presse demain.
-  Der neue *Staatsanwalt* wird morgen eine Pressekonferenz abhalten.
+  The new prosecutor will hold a press conference tomorrow.
 
   Sophie rêve de devenir *procureure* depuis son enfance.
-  Sophie träumt seit ihrer Kindheit davon, *Staatsanwältin* zu werden.
+  Sophie has been dreaming about becoming a *prosecutor* since childhood.
 
   Le *procureur* général a fait appel de cette décision controversée.
-  Der General*staatsanwalt* hat gegen diese umstrittene Entscheidung Berufung eingelegt.
+  The Attorney General appealed against this controversial decision.
 
   Les conclusions du *procureur* ont convaincu le jury.
-  Die Schlussfolgerungen des *Staatsanwalts* haben die Jury überzeugt.
+  The prosecutor's conclusions convinced the jury.
 
   La *procureure* a démontré la culpabilité de l'accusé avec des preuves solides.
-  Die *Staatsanwältin* hat die Schuld des Angeklagten mit stichhaltigen Beweisen nachgewiesen.
+  The *prosecutor* has proven the defendant's guilt with sound evidence.
 
   Le père *procureur* s'occupe des finances du monastère depuis vingt ans.
-  Der Pater *Prokurator* kümmert sich seit zwanzig Jahren um die Finanzen des Klosters.
+  The Father *Procurator* has been taking care of the finances of the monastery for twenty years.
 
   Au Canada, chaque *procureur* de la Couronne doit prêter serment.
-  In Kanada muss jeder Kron*staatsanwalt* einen Eid ablegen.
+  In Canada, every *prosecutor* has to take an oath.
 
   Le *procureur* nous présentera ses réquisitions cet après-midi.
-  Der *Staatsanwalt* wird uns heute Nachmittag seine Anträge vorlegen.
+  The DA will submit his requests this afternoon.
 
   La *procureure* générale supervise tous les parquets de la région.
-  Die General*staatsanwältin* beaufsichtigt alle Staatsanwaltschaften der Region.
+  The Attorney General oversees all the prosecutors in the region.
 
   Le bureau du *procureur* se trouve au deuxième étage du tribunal.
-  Das Büro des *Staatsanwalts* befindet sich im zweiten Stock des Gerichtsgebäudes.
+  The prosecutor's office is on the second floor of the courthouse.
 
   Cette *procureure* a gagné plusieurs affaires importantes cette année.
-  Diese *Staatsanwältin* hat dieses Jahr mehrere wichtige Fälle gewonnen.
+  This *prosecutor* has won several important cases this year.
 
   Le *procureur* général des Bénédictins réside à Rome.
-  Der General*prokurator* der Benediktiner wohnt in Rom.
+  The general *procurator* of the Benedictines lives in Rome.
 
   Les substituts du *procureur* préparent les dossiers pour l'audience.
-  Die stellvertretenden *Staatsanwälte* bereiten die Akten für die Verhandlung vor.
+  The deputy *prosecutors* are preparing the files for the trial.
 
   La *procureure* de la République a ouvert une enquête préliminaire.
-  Die *Staatsanwältin* hat ein Vorermittlungsverfahren eingeleitet.
+  The D.A. has initiated a preliminary investigation.
 
   Le *procureur* a requis une peine de cinq ans de prison.
-  Der *Staatsanwalt* hat eine Gefängnisstrafe von fünf Jahren gefordert.
+  The prosecutor has demanded a prison sentence of five years.
 
   La nouvelle *procureure* générale prendra ses fonctions lundi prochain.
-  Die neue General*staatsanwältin* wird am nächsten Montag ihr Amt antreten.
+  The new Attorney General will take office next Monday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

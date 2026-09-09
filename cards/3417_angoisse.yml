@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3417
 Wort: angoisse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une angoisse
 Femininum / Plural: ''
 IPA: \ɑ̃.ɡwas\
-Definition: Angst(-zustand)
-Register: ↗Fiktion
+Definition: Anxiety(state)
+Register: ↗fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je m'étais endormi dans l'*angoisse*.
-  Ich war voller *Angst* eingeschlafen.
+  I fell asleep in fear.
 
   Une crise d'*angoisse* l'a réveillé en pleine nuit.
-  Ein *Angst*anfall hat ihn mitten in der Nacht geweckt.
+  A scare attack woke him up in the middle of the night.
 
   L'*angoisse* de la mort le paralyse complètement.
-  Die Todes*angst* lähmt ihn völlig.
+  The *fear* of death completely paralyzes him.
 
   Elle a surmonté son *angoisse* de séparation grâce à la thérapie.
-  Sie hat ihre Trennungs*angst* durch die Therapie überwunden.
+  She has overcome her separation anxiety through therapy.
 
   Les examens lui causent une terrible *angoisse*.
-  Die Prüfungen verursachen ihm schreckliche *Angst*.
+  The trials cause him terrible fear.
 
   J'ai senti l'*angoisse* monter en moi pendant l'entretien.
-  Ich spürte, wie die *Angst* während des Gesprächs in mir aufstieg.
+  I felt the fear rise in me during the conversation.
 
   Son *angoisse* existentielle se reflète dans ses poèmes.
-  Seine Lebens*angst* spiegelt sich in seinen Gedichten wider.
+  His *fear* of life is reflected in his poems.
 
   Elle vit dans l'*angoisse* permanente de perdre son emploi.
-  Sie lebt in ständiger *Angst*, ihren Job zu verlieren.
+  She lives in constant fear of losing her job.
 
   Les symptômes de son *angoisse* incluent des vertiges et des sueurs froides.
-  Die Symptome ihrer *Angst*zustände umfassen Schwindel und kalten Schweiß.
+  Symptoms of their *anxiety* include dizziness and cold sweat.
 
   Cette *angoisse* métaphysique caractérise toute son œuvre philosophique.
-  Diese metaphysische *Angst* kennzeichnet sein gesamtes philosophisches Werk.
+  This metaphysical fear characterizes his entire philosophical work.
 
   L'*angoisse* de la page blanche paralyse souvent les écrivains.
-  Die *Angst* vor dem leeren Blatt lähmt oft Schriftsteller.
+  Fear of the empty leaf often paralyzes writers.
 
   Il a passé des moments d'*angoisse* en attendant les résultats.
-  Er hat bange Momente voller *Angst* durchgestanden, während er auf die Ergebnisse wartete.
+  He's been through anxious moments of fear while he was waiting for the results.
 
   Son *angoisse* se manifeste par une respiration rapide.
-  Seine *Angst* äußert sich durch schnelle Atmung.
+  His fear is expressed by quick breathing.
 
   L'*angoisse* de perdre un être cher est universelle.
-  Die *Angst*, einen geliebten Menschen zu verlieren, ist universell.
+  The fear of losing a loved one is universal.
 
   Cette nouvelle a provoqué une vague d'*angoisse* collective.
-  Diese Nachricht hat eine Welle kollektiver *Angst* ausgelöst.
+  This news has triggered a wave of collective fear.
 
   Elle a été prise d'*angoisse* avant son discours.
-  Sie bekam einen *Angst*zustand vor ihrer Rede.
+  She got scared of her speech.
 
   Les parents vivent souvent dans l'*angoisse* pour leurs enfants.
-  Eltern leben oft in *Angst* um ihre Kinder.
+  Parents often live in fear for their children.
 
   Son *angoisse* de perte se manifeste dans ses relations.
-  Seine Verlust*angst* zeigt sich in seinen Beziehungen.
+  His *fear* of loss is evident in his relationships.
 
   Cette *angoisse* irrationnelle l'empêche de prendre l'avion.
-  Diese irrationale *Angst* hindert ihn daran, das Flugzeug zu nehmen.
+  This irrational fear prevents him from taking the plane.
 
   Le philosophe explore l'*angoisse* comme condition humaine fondamentale.
-  Der Philosoph untersucht die *Angst* als grundlegende menschliche Bedingung.
+  The philosopher examines fear as a basic human condition.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>angoisse</i> und <i>peur</i></div>
+    <div class="section-title"><i>angoisse</i> and <i>peur</i></div>
     <div class="section-content">
-      <p><span class="fr">Angoisse</span> bezeichnet eine tiefe, diffuse <span class="de">"Angst"</span> oder <span class="de">"Beklemmung"</span>, die oft anhaltend ist und ohne klare Ursache auftreten kann. Es impliziert ein intensiveres, umfassenderes Gefühl als einfache Furcht.</p>
+      <p><span class="fr">Angoisse</span> denotes a deep, diffuse <span class="de">"fear"</span> or <span class="de">"Beklemmung"</span>which is often persistent and can occur without a clear cause. It implies a more intense, more comprehensive feeling than simple fear.</p>
       <div class="examples">
         <div class="fr">L'<u>angoisse</u> l'envahit chaque fois qu'il doit parler en public.</div>
-        <div class="de spoiler">Die <u>Angst</u> überfällt ihn jedes Mal, wenn er öffentlich sprechen muss.</div>
+        <div class="de spoiler">The <u>fear</u> Every time he has to speak in public, he attacks him.</div>
         <div class="fr">Elle ressent une profonde <u>angoisse</u> face à l'avenir incertain.</div>
-        <div class="de spoiler">Sie verspürt eine tiefe <u>Beklemmung</u> angesichts der ungewissen Zukunft.</div>
+        <div class="de spoiler">She feels a deep <u>Beklemmung</u> in the face of the uncertain future.</div>
       </div>
-      <p><span class="fr">Peur</span> (#755) bezieht sich auf konkrete <span class="de">"Furcht"</span> oder <span class="de">"Angst"</span> vor einer spezifischen Bedrohung oder Gefahr. Es ist oft eine unmittelbare Reaktion auf eine wahrgenommene Gefahr.</p>
+      <p><span class="fr">Peur</span> (#755) refers to concrete <span class="de">"Furcht"</span> or <span class="de">"fear"</span> It is often an immediate reaction to a perceived danger.</p>
       <div class="examples">
         <div class="fr">J'ai <u>peur</u> des araignées.</div>
-        <div class="de spoiler">Ich habe <u>Angst</u> vor Spinnen.</div>
+        <div class="de spoiler">I've been <u>fear</u> of spiders.</div>
         <div class="fr">La <u>peur</u> de l'échec le paralyse.</div>
-        <div class="de spoiler">Die <u>Furcht</u> vor dem Versagen lähmt ihn.</div>
+        <div class="de spoiler">The <u>Furcht</u> He's paralyzed from failure.</div>
       </div>
     </div>
   </div>

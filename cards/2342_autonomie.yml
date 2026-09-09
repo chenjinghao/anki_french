@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2342
 Wort: autonomie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une autonomie
 Femininum / Plural: ''
 IPA: \ɔ.tɔ.nɔ.mi\
-Definition: Autonomie
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Autonomy
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous voulons conserver notre *autonomie*.
-  Wir wollen unsere *Unabhängigkeit* bewahren.
+  We want to preserve our *independence*.
 
   Les régions du nord revendiquent plus d'*autonomie* administrative.
-  Die nördlichen Regionen fordern mehr *Selbstverwaltung*.
+  The northern regions are calling for more *self-government*.
 
   L'*autonomie* financière est indispensable pour notre entreprise.
-  Die finanzielle *Selbstständigkeit* ist für unser Unternehmen unverzichtbar.
+  Financial independence is indispensable for our company.
 
   Cette voiture électrique a une *autonomie* de 500 kilomètres.
-  Dieses Elektroauto hat eine *Reichweite* von 500 Kilometern.
+  This electric car has a *range* of 500 kilometers.
 
   La nouvelle batterie offre une *autonomie* de douze heures.
-  Der neue Akku bietet eine *Betriebsdauer* von zwölf Stunden.
+  The new battery offers an *operating time* of twelve hours.
 
   Les universités françaises ont gagné plus d'*autonomie* dans leur gestion.
-  Die französischen Universitäten haben mehr *Eigenständigkeit* in ihrer Verwaltung gewonnen.
+  The French universities have gained more autonomy in their administration.
 
   Son handicap ne lui enlève pas son *autonomie* au quotidien.
-  Seine Behinderung nimmt ihm nicht seine *Selbstständigkeit* im Alltag.
+  His disability does not deprive him of his independence in everyday life.
 
   L'*autonomie* douanière de cette région pose des problèmes économiques.
-  Die Zoll*hoheit* dieser Region verursacht wirtschaftliche Probleme.
+  The customs sovereignty of this region causes economic problems.
 
   Mon smartphone n'a plus qu'une heure d'*autonomie*.
-  Mein Smartphone hat nur noch eine Stunde *Laufzeit*.
+  My smartphone has only one hour left.
 
   Les syndicats défendent leur *autonomie* dans les négociations.
-  Die Gewerkschaften verteidigen ihre *Unabhängigkeit* in den Verhandlungen.
+  The trade unions defend their *independence* in the negotiations.
 
   Cette filiale conserve son *autonomie* par rapport à la maison mère.
-  Diese Niederlassung behält ihre *Eigenständigkeit* gegenüber dem Mutterkonzern.
+  This branch retains its independence from the parent company.
 
   L'avion a suffisamment d'*autonomie* pour traverser l'océan.
-  Das Flugzeug hat genügend *Reichweite*, um den Ozean zu überqueren.
+  The plane has enough *range* to cross the ocean.
 
   Les parents encouragent l'*autonomie* de leurs enfants.
-  Die Eltern fördern die *Selbstständigkeit* ihrer Kinder.
+  Parents promote the independence of their children.
 
   La nouvelle loi garantit l'*autonomie* des collectivités locales.
-  Das neue Gesetz garantiert die *Selbstverwaltung* der lokalen Gebietskörperschaften.
+  The new law guarantees the *self-government* of local authorities.
 
   Cette association lutte pour l'*autonomie* des personnes âgées.
-  Dieser Verein kämpft für die *Eigenständigkeit* älterer Menschen.
+  This association fights for the independence of older people.
 
   L'*autonomie* financière des communes est menacée.
-  Die Finanz*autonomie* der Gemeinden ist bedroht.
+  The financial *autonomy* of the municipalities is threatened.
 
   Marie a enfin acquis son *autonomie* après ses études.
-  Marie hat nach ihrem Studium endlich ihre *Unabhängigkeit* erlangt.
+  Marie finally gained her *independence* after her studies.
 
   Le drone a une *autonomie* de vol de deux heures.
-  Die Drohne hat eine Flug*reichweite* von zwei Stunden.
+  The drone has a flight *range* of two hours.
 
   Cette réforme renforce l'*autonomie* des établissements scolaires.
-  Diese Reform stärkt die *Eigenständigkeit* der Schulen.
+  This reform strengthens the autonomy of schools.
 
   Les jeunes cherchent à gagner leur *autonomie* le plus tôt possible.
-  Junge Menschen streben danach, so früh wie möglich ihre *Selbstständigkeit* zu erreichen.
+  Young people strive to achieve their *self-employment* as early as possible.
 
   L'*autonomie* des partenaires sociaux est un principe fondamental.
-  Die Tarif*hoheit* der Sozialpartner ist ein grundlegendes Prinzip.
+  The social partners' collective bargaining is a fundamental principle.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

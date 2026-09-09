@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1272
 Wort: bénéficier
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: bénéficier
 Femininum / Plural: ''
 IPA: \be.ne.fi.sje\
-Definition: profitieren, Nutzen ziehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: benefit, benefit
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il devient donc impératif de pouvoir *bénéficier* de plus d'argent.
-  Es wird also zwingend notwendig, mehr Geld *nutzen* zu können.
+  It is therefore imperative to be able to *use* more money.
 
   Cette entreprise *bénéficie* d'une excellente réputation sur le marché.
-  Dieses Unternehmen *profitiert* von einem ausgezeichneten Ruf auf dem Markt.
+  This company *benefits* from an excellent reputation on the market.
 
   Les étudiants étrangers peuvent *bénéficier* d'une bourse d'études.
-  Ausländische Studierende können ein Stipendium *bekommen*.
+  Foreign students can *get* a scholarship.
 
   Grâce à son expérience, elle a *bénéficié* d'une promotion rapide.
-  Dank ihrer Erfahrung hat sie von einer schnellen Beförderung *profitiert*.
+  Thanks to her experience, she has benefited from a quick promotion.
 
   L'accusé a *bénéficié* de circonstances atténuantes.
-  Der Angeklagte hat mildernde Umstände *zugesprochen bekommen*.
+  The defendant has been granted mitigating circumstances.
 
   Les retraités *bénéficient* d'une réduction sur les transports publics.
-  Rentner *genießen* eine Ermäßigung für öffentliche Verkehrsmittel.
+  Pensioners *enjoy* a discount for public transport.
 
   Ces nouvelles mesures *bénéficieront* à toute la population.
-  Diese neuen Maßnahmen werden der ganzen Bevölkerung *zugutekommen*.
+  These new measures will benefit the whole population.
 
   Mon grand-père *bénéficie* d'une excellente santé pour son âge.
-  Mein Großvater *erfreut* sich für sein Alter einer ausgezeichneten Gesundheit.
+  My grandfather enjoys excellent health for his age.
 
   Les petites entreprises peuvent *bénéficier* d'une aide financière de l'État.
-  Kleine Unternehmen können finanzielle Unterstützung vom Staat *erhalten*.
+  Small businesses can receive financial support from the state.
 
   Notre équipe a *bénéficié* des conseils d'un expert.
-  Unser Team hat von den Ratschlägen eines Experten *profitiert*.
+  Our team has benefited from the advice of an expert.
 
   Elle *bénéficie* d'une formation continue dans son entreprise.
-  Sie *profitiert* von einer Weiterbildung in ihrem Unternehmen.
+  It *benefits* from continuing training in its company.
 
   Les familles nombreuses *bénéficient* de réductions spéciales.
-  Große Familien *kommen in den Genuss* besonderer Ermäßigungen.
+  Large families benefit from special discounts.
 
   Le suspect a *bénéficié* d'un non-lieu faute de preuves.
-  Das Verfahren gegen den Verdächtigen wurde mangels Beweisen eingestellt.
+  The trial against the suspect was closed due to lack of evidence.
 
   Les régions côtières *bénéficient* d'un climat plus doux.
-  Die Küstenregionen *profitieren* von einem milderen Klima.
+  Coastal regions *benefit* from a milder climate.
 
   Nous avons *bénéficié* d'excellentes conditions météorologiques pendant nos vacances.
-  Wir haben während unseres Urlaubs von ausgezeichnetem Wetter *profitiert*.
+  We have benefited from excellent weather during our holiday.
 
   Les employés *bénéficient* d'avantages en nature.
-  Die Mitarbeiter *erhalten* Sachleistungen.
+  Employees receive benefits in kind.
 
   Cette ville a *bénéficié* d'importants investissements ces dernières années.
-  Diese Stadt hat in den letzten Jahren von wichtigen Investitionen *profitiert*.
+  This city has benefited from important investments in recent years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

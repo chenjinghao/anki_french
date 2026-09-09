@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3347
 Wort: mention
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la mention
 Femininum / Plural: ''
 IPA: \mɑ̃.sjɔ̃\
-Definition: Erwähnung, Vermerk
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Reference, note
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On n'a même pas fait *mention* du problème.
-  Man hat das Problem nicht einmal *erwähnt*.
+  The problem has not even been *mentioned*.
 
   Il n'y a aucune *mention* de cet incident dans le rapport.
-  Es gibt keine *Erwähnung* dieses Vorfalls im Bericht.
+  There is no *mention* of this incident in the report.
 
   Ce livre mérite une *mention* spéciale pour son originalité.
-  Dieses Buch muss für seine Originalität besonders *erwähnt* werden.
+  This book must be *mentioned* especially for its originality.
 
   La lettre est revenue avec la *mention* "Destinataire inconnu".
-  Der Brief kam mit dem *Vermerk* "Empfänger unbekannt" zurück.
+  The letter came back with the *note* "Recipient unknown".
 
   Elle a obtenu son diplôme avec *mention* très bien.
-  Sie hat ihr Diplom mit der *Auszeichnung* "sehr gut" bestanden.
+  She passed her diploma with the *award* "very good".
 
   FR:Le jury a accordé une *mention honorable* à sa thèse.
-  Die Jury hat ihrer Dissertation ein "*magna cum laude*" verliehen.
+  The jury awarded her dissertation a "*magna cum laude*".
 
   N'oubliez pas de rayer les *mentions* inutiles sur le formulaire.
-  Vergessen Sie nicht, die nicht zutreffenden *Angaben* im Formular zu streichen.
+  Do not forget to delete the incorrect *information* in the form.
 
   Cette découverte est *digne de mention*.
-  Diese Entdeckung ist *erwähnenswert*.
+  This discovery is worth mentioning.
 
   Le greffier a ajouté une *mention* marginale dans le registre.
-  Der Gerichtsschreiber hat einen *Vermerk* am Rand des Registers hinzugefügt.
+  The court clerk added a *note* to the margin of the register.
 
   Paul a fait *mention* de son expérience lors de l'entretien.
-  Paul hat seine Erfahrung beim Gespräch *erwähnt*.
+  Paul *mentioned* his experience in the conversation.
 
   La *mention* "Fragile" doit être visible sur le colis.
-  Der *Vermerk* "Zerbrechlich" muss auf dem Paket sichtbar sein.
+  The "Frail" *note* must be visible on the package.
 
   Les journaux n'ont fait aucune *mention* de cette affaire.
-  Die Zeitungen haben diese Angelegenheit mit keinem Wort *erwähnt*.
+  The newspapers did not mention this matter with any word.
 
   Elle cherche la *mention* de sa naissance dans les archives.
-  Sie sucht den *Eintrag* ihrer Geburt in den Archiven.
+  She's looking for the *entry* of her birth in the archives.
 
   J'ai reçu mon baccalauréat avec *mention*.
-  Ich habe mein Abitur mit *Auszeichnung* bestanden.
+  I graduated with honors.
 
   Le document porte la *mention* "Confidentiel" en haut de la page.
-  Das Dokument trägt den *Vermerk* "Vertraulich" oben auf der Seite.
+  The document is marked "Confidential" at the top of the page.
 
   Cette performance est particulièrement *digne de mention*.
-  Diese Leistung ist besonders *erwähnenswert*.
+  This achievement is particularly worth mentioning.
 
   Le contrat fait *mention* des conditions de paiement.
-  Der Vertrag *erwähnt* die Zahlungsbedingungen.
+  The contract mentions the terms of payment.
 
   Sa thèse a reçu la *mention* très honorable à l'unanimité.
-  Seine Dissertation erhielt einstimmig die *Auszeichnung* "summa cum laude".
+  His dissertation received the *award* "summa cum laude" unanimously.
 
   Veuillez ajouter la *mention* "Urgent" sur l'enveloppe.
-  Bitte fügen Sie den *Vermerk* "Dringend" auf dem Umschlag hinzu.
+  Please add the *note* "Urgent" on the envelope.
 
   Le jury lui a décerné une *mention* spéciale pour son travail remarquable.
-  Die Jury hat ihm für seine bemerkenswerte Arbeit eine besondere *Auszeichnung* verliehen.
+  The jury awarded him a special *award* for his remarkable work.
 
   Aucune *mention* de cet auteur n'apparaît dans la bibliographie.
-  Dieser Autor wird in der Bibliografie nicht *erwähnt*.
+  This author is not *mentioned* in the bibliography.
 
   Le livre d'or contient une *mention* élogieuse de votre service.
-  Das Gästebuch enthält eine lobende *Erwähnung* Ihres Services.
+  The guestbook contains a commendable *mention* of your service.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

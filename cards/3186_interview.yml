@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3186
 Wort: interview
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une interview
 Femininum / Plural: ''
 IPA: \ɛ̃.tɛʁ.vju\
 Definition: Interview
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils préfèrent donner des *interviews* téléphoniques.
-  Sie geben lieber telefonische *Interviews*.
+  You'd rather give phone *interviews*.
 
   Le journal a publié une *interview* exclusive avec le président.
-  Die Zeitung hat ein exklusives *Interview* mit dem Präsidenten veröffentlicht.
+  The newspaper has published an exclusive *interview* with the president.
 
   Cette *interview* radiophonique a été diffusée en direct.
-  Dieses Radio*interview* wurde live ausgestrahlt.
+  This radio *interview* was broadcast live.
 
   J'ai lu une *interview* passionnante dans le magazine d'hier.
-  Ich habe ein spannendes *Interview* in der gestrigen Zeitschrift gelesen.
+  I read an exciting *interview* in yesterday's magazine.
 
   Le journaliste a sollicité une *interview* avec l'artiste.
-  Der Journalist hat um ein *Interview* mit dem Künstler gebeten.
+  The journalist asked for an *interview* with the artist.
 
   Elle n'accorde jamais d'*interviews* aux médias locaux.
-  Sie gibt den lokalen Medien nie *Interviews*.
+  She never gives *interviews* to the local media.
 
   Les chercheurs ont mené une série d'*interviews* pour leur étude sociologique.
-  Die Forscher haben für ihre soziologische Studie eine Reihe von *Interviews* durchgeführt.
+  The researchers conducted a series of *interviews* for their sociological study.
 
   Notre équipe réalise des *interviews* en ligne depuis la pandémie.
-  Unser Team führt seit der Pandemie Online-*Interviews* durch.
+  Our team has been conducting online *interviews* since the pandemic.
 
   L'*interview* sera diffusée demain soir à 20 heures.
-  Das *Interview* wird morgen Abend um 20 Uhr ausgestrahlt.
+  The *interview* will be aired tomorrow night at 8 p.m.
 
   As-tu déjà regardé l'*interview* que j'ai partagée ?
-  Hast du dir das *Interview* schon angesehen, das ich geteilt habe?
+  Have you seen the *interview* I shared?
 
   Cette *interview* a complètement changé mon opinion sur lui.
-  Dieses *Interview* hat meine Meinung über ihn völlig verändert.
+  This *interview* has completely changed my opinion about him.
 
   Le candidat s'est bien préparé pour son *interview* d'embauche.
-  Der Kandidat hat sich gut auf sein Bewerbungs*interview* vorbereitet.
+  The candidate has prepared well for his *interview*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

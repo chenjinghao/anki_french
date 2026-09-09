@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3582
 Wort: tournoi
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le tournoi
 Femininum / Plural: ''
 IPA: \tuʁ.nwa\
-Definition: Turnier
-Register: ↘Fiktion ↗Sachtext
+Definition: Tournament
+Register: ↘fiction ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai gagné ce *tournoi*.
-  Ich habe dieses *Turnier* gewonnen.
+  I won this *tournament*.
 
   Le *tournoi* d'échecs commence demain à 9 heures.
-  Das Schach*turnier* beginnt morgen um 9 Uhr.
+  The chess *tournament* starts tomorrow at 9 a.m.
 
   Notre équipe s'est qualifiée pour le *tournoi* de football régional.
-  Unsere Mannschaft hat sich für das regionale Fußball*turnier* qualifiziert.
+  Our team has qualified for the regional football *tournament*.
 
   Le *tournoi* de bridge se déroule tous les jeudis soir au club.
-  Das Bridge*turnier* findet jeden Donnerstagabend im Club statt.
+  The bridge *tournament* takes place every Thursday evening at the club.
 
   Les inscriptions pour le *tournoi* de tennis de table sont ouvertes.
-  Die Anmeldungen für das Tischtennis*turnier* sind eröffnet.
+  Registrations for the table tennis *tournament* are open.
 
   Les chevaliers s'affrontaient lors des *tournois* médiévaux.
-  Die Ritter kämpften in mittelalterlichen *Turnieren* gegeneinander.
+  The knights fought against each other in medieval *tournaments*.
 
   Elle participera au *tournoi* de golf amateur le mois prochain.
-  Sie wird nächsten Monat am Amateur-Golf*turnier* teilnehmen.
+  She'll be participating in the amateur golf *tournament* next month.
 
   Le *tournoi* d'éloquence a révélé de nouveaux talents.
-  Der Rede*wettbewerb* hat neue Talente enthüllt.
+  The speech contest has revealed new talents.
 
   Les enfants ont organisé un petit *tournoi* de billes dans la cour.
-  Die Kinder haben einen kleinen Murmel*wettbewerb* auf dem Hof organisiert.
+  The children organized a small marble *competition* on the farm.
 
   Le *Tournoi* des Six Nations est l'un des plus prestigieux événements de rugby.
-  Das Six Nations *Turnier* ist eines der prestigeträchtigsten Rugby-Ereignisse.
+  The Six Nations *Tournament* is one of the most prestigious rugby events.
 
   Le *tournoi* de Wimbledon attire les meilleurs joueurs du monde.
-  Das Wimbledon-*Turnier* zieht die besten Spieler der Welt an.
+  The Wimbledon *tournament* attracts the best players in the world.
 
   Nous avons perdu en quarts de finale du *tournoi*.
-  Wir sind im Viertelfinale des *Turniers* ausgeschieden.
+  We're out in the quarterfinals of the tournament.
 
   Le *tournoi* d'adresse a mis en valeur leurs talents d'équilibristes.
-  Der Geschicklichkeits*wettbewerb* hat ihre Balancekünste zur Geltung gebracht.
+  The skill *competition* has brought to the fore their balancing skills.
 
   Cette année, le *tournoi* se déroulera en ligne.
-  Dieses Jahr wird das *Turnier* online stattfinden.
+  This year the *tournament* will take place online.
 
   Les spectateurs ont applaudi les finalistes du *tournoi*.
-  Die Zuschauer haben den Finalisten des *Turniers* applaudiert.
+  The spectators applauded the finalist of the tournament.
 
   Le vainqueur du *tournoi* recevra une coupe en argent.
-  Der Sieger des *Turniers* erhält einen Silberpokal.
+  The winner of the tournament receives a silver cup.
 
   L'arbitre a dû interrompre le *tournoi* à cause de la pluie.
-  Der Schiedsrichter musste das *Turnier* wegen Regen unterbrechen.
+  The referee had to interrupt the *tournament* because of rain.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

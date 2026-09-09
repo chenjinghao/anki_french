@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4072
 Wort: activer
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: activer
 Femininum / Plural: ''
 IPA: \ak.ti.ve\
-Definition: aktivieren, vorantreiben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: enable, advance
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut *activer* votre réseau.
-  Sie müssen Ihr Netzwerk *aktivieren*.
+  You need to activate your network.
 
   La chaleur va *activer* la circulation sanguine.
-  Die Wärme wird die Durchblutung *anregen*.
+  The heat will *stimulate* blood circulation.
 
   Les pompiers ont *activé* les lances à eau pour éteindre le feu.
-  Die Feuerwehrleute haben die Wasserwerfer *eingeschaltet*, um das Feuer zu löschen.
+  The firefighters turned *on* the water cannons to extinguish the fire.
 
   Pierre *active* le processus de rénovation.
-  Pierre *beschleunigt* den Renovierungsprozess.
+  Pierre accelerates the renovation process.
 
   Le directeur nous a demandé d'*activer* les travaux.
-  Der Direktor hat uns gebeten, die Arbeiten *voranzutreiben*.
+  The director asked us to move the work forward.
 
   "*Active*-toi un peu, nous sommes en retard !"
-  "*Mach mal ein bisschen schneller*, wir sind zu spät!"
+  "Go a little faster, we're too late!"
 
   Nous devons *activer* le système de chauffage avant l'hiver.
-  Wir müssen das Heizsystem vor dem Winter *aktivieren*.
+  We need to activate the heating system before winter.
 
   Le vent *active* les flammes de l'incendie.
-  Der Wind *facht* die Flammen des Feuers *an*.
+  The wind stirs up the flames of fire.
 
   La secrétaire s'*active* à préparer les documents.
-  Die Sekretärin *ist eifrig dabei*, die Dokumente vorzubereiten.
+  The secretary is eager to prepare the documents.
 
   "*Activons*, *activons*, le train part dans cinq minutes !"
-  "Los, los, der Zug fährt in fünf Minuten ab!"
+  "Go on, the train leaves in five minutes!"
 
   Marie s'*active* dans la cuisine depuis ce matin.
-  Marie *werkelt* seit heute Morgen in der Küche.
+  Marie's been in the kitchen since this morning.
 
   Ces exercices vont *activer* vos muscles.
-  Diese Übungen werden Ihre Muskeln *aktivieren*.
+  These exercises will activate your muscles.
 
   Il faut *activer* le nouveau logiciel avant de l'utiliser.
-  Die neue Software muss vor der Nutzung *aktiviert* werden.
+  The new software must be *activated* before use.
 
   Le soleil *active* la maturation des tomates.
-  Die Sonne *beschleunigt* die Reifung der Tomaten.
+  The sun accelerates the maturing of the tomatoes.
 
   Les scientifiques ont *activé* la substance chimique.
-  Die Wissenschaftler haben die chemische Substanz *aktiviert*.
+  The scientists have *activated* the chemical substance.
 
   Cette tisane va *activer* votre digestion.
-  Dieser Tee wird Ihre Verdauung *anregen*.
+  This tea will *stimulate* your digestion.
 
   Il faut s'*activer* physiquement pour rester en forme.
-  Man muss sich körperlich *betätigen*, um fit zu bleiben.
+  You have to exercise to stay fit.
 
   La grand-mère s'*active* autour du gâteau d'anniversaire.
-  Die Großmutter *werkelt* eifrig an der Geburtstagstorte.
+  Grandmother's busy throwing at the birthday cake.
 
   Les ouvriers *activent* la cadence pour finir avant la pluie.
-  Die Arbeiter *beschleunigen* das Tempo, um vor dem Regen fertig zu werden.
+  The workers speed up the pace to finish before the rain.
 
   "*Active*-toi, nous n'avons plus beaucoup de temps !"
-  "*Beeil dich*, wir haben nicht mehr viel Zeit!"
+  "*Hurry up*, we don't have much time!"
 
   Le nouveau médicament va *activer* la guérison.
-  Das neue Medikament wird die Heilung *beschleunigen*.
+  The new drug will *accelerate* healing.
 
   Les techniciens ont *activé* le nouveau système informatique.
-  Die Techniker haben das neue Computersystem *aktiviert*.
+  The technicians have *activated* the new computer system.
 
   Le chef s'*active* devant ses fourneaux.
-  Der Koch *werkelt* eifrig an seinen Herden.
+  The cook is eager to throw his herds.
 
   Cette huile essentielle *active* la circulation sanguine.
-  Dieses ätherische Öl *regt* die Durchblutung *an*.
+  This essential oil stimulates blood circulation.
 
   Le catalyseur *active* la réaction chimique.
-  Der Katalysator *beschleunigt* die chemische Reaktion.
+  The catalyst accelerates the chemical reaction.
 
   Les enfants s'*activent* pour ranger leur chambre.
-  Die Kinder *beeilen sich*, ihr Zimmer aufzuräumen.
+  The kids are hurrying to clean their room.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3934
 Wort: exporter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exporter
 Femininum / Plural: ''
 IPA: \ɛks.pɔʁ.te\
-Definition: exportieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Export
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le Canada *exporte* un certain nombre de produits alimentaires.
-  Kanada *exportiert* eine Reihe von Lebensmitteln.
+  Canada *exports* a number of foods.
 
   Pour *exporter*, nous devons d'abord améliorer la qualité de nos produits.
-  Zum *Exportieren* müssen wir erst die Qualität unserer Produkte verbessern.
+  To *export*, we first need to improve the quality of our products.
 
   Notre entreprise *exporte* des voitures dans le monde entier depuis 1950.
-  Unser Unternehmen *exportiert* seit 1950 Autos in die ganze Welt.
+  Our company has been exporting cars all over the world since 1950.
 
   Les vins français s'*exportent* de mieux en mieux en Asie.
-  Französische Weine lassen sich immer besser nach Asien *exportieren*.
+  French wines are becoming more and more exportable to Asia.
 
   J'ai *exporté* mes données vers un nouveau format compatible.
-  Ich habe meine Daten in ein neues kompatibles Format *exportiert*.
+  I exported my data to a new compatible format.
 
   Cette région *exporte* principalement du minerai de fer.
-  Diese Region *exportiert* hauptsächlich Eisenerz.
+  This region mainly *exports* iron ore.
 
   Le Japon *exportera* moins de voitures l'année prochaine.
-  Japan wird nächstes Jahr weniger Autos *exportieren*.
+  Japan will *export* fewer cars next year.
 
   La Corée du Sud a réussi à *exporter* sa culture pop dans le monde entier.
-  Südkorea hat es geschafft, seine Popkultur in die ganze Welt zu *exportieren*.
+  South Korea has managed to *export* its pop culture to the whole world.
 
   Comment *exporter* ces fichiers vers mon nouveau téléphone ?
-  Wie kann ich diese Dateien auf mein neues Handy *exportieren*?
+  How can I *export* these files to my new phone?
 
   L'Allemagne *exporte* beaucoup de machines-outils vers la Chine.
-  Deutschland *exportiert* viele Werkzeugmaschinen nach China.
+  Germany *exports* many machine tools to China.
 
   Cette start-up veut *exporter* son modèle commercial en Europe.
-  Dieses Start-up will sein Geschäftsmodell nach Europa *exportieren*.
+  This start-up wants to *export* its business model to Europe.
 
   Il faut *exporter* ces documents au format PDF.
-  Diese Dokumente müssen ins PDF-Format *exportiert werden*.
+  These documents must be exported to PDF format.
 
   L'Australie *exporte* de grandes quantités de matières premières.
-  Australien *exportiert* große Mengen an Rohstoffen.
+  Australia *exports* large quantities of raw materials.
 
   Nous devons *exporter* nos données avant de changer de logiciel.
-  Wir müssen unsere Daten *exportieren*, bevor wir die Software wechseln.
+  We need to *export* our data before we change the software.
 
   Cette entreprise *exporte* son savoir-faire technique à l'étranger.
-  Dieses Unternehmen *exportiert* sein technisches Know-how ins Ausland.
+  This company *exports* its technical know-how abroad.
 
   Le Brésil *exporte* du café dans plus de 100 pays.
-  Brasilien *exportiert* Kaffee in mehr als 100 Länder.
+  Brazil *exports* coffee to more than 100 countries.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

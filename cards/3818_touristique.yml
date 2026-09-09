@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3818
 Wort: touristique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: touristique
 Femininum / Plural: ''
 IPA: \tu.ʁis.tik\
-Definition: touristisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: tourist
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle évite les lieux *touristiques*.
-  Sie meidet *touristische* Orte.
+  It avoids *tourist* places.
 
   L'hôtel propose un menu *touristique* à prix réduit.
-  Das Hotel bietet ein *Touristen*menü zum reduzierten Preis an.
+  The hotel offers a tourist menu at a reduced price.
 
   Le développement *touristique* de la région crée beaucoup d'emplois.
-  Die *touristische* Entwicklung der Region schafft viele Arbeitsplätze.
+  The *tourist* development of the region creates many jobs.
 
   Cette petite ville *touristique* attire des milliers de visiteurs chaque été.
-  Dieser kleine *Ferien*ort zieht jeden Sommer Tausende von Besuchern an.
+  This small resort attracts thousands of visitors every summer.
 
   Marie travaille comme guide *touristique* au musée du Louvre.
-  Marie arbeitet als *Fremden*führerin im Louvre-Museum.
+  Marie works as a tourist guide at the Louvre Museum.
 
   Les activités *touristiques* représentent 8% du PIB national.
-  Die *Tourismus*aktivitäten machen 8% des nationalen BIP aus.
+  *Tourism* activities account for 8% of national GDP.
 
   Le centre *touristique* est fermé pendant l'hiver.
-  Das *Touristen*zentrum ist im Winter geschlossen.
+  The tourist centre is closed in winter.
 
   Nous avons trouvé un excellent guide *touristique* sur Internet.
-  Wir haben einen ausgezeichneten *Reise*führer im Internet gefunden.
+  We found an excellent guide on the Internet.
 
   La saison *touristique* commence en avril.
-  Die *Tourismus*saison beginnt im April.
+  The tourist season starts in April.
 
   L'office *touristique* distribue des cartes gratuites.
-  Die *Touristen*information verteilt kostenlose Karten.
+  The tourist information office distributes free maps.
 
   Les renseignements *touristiques* sont disponibles en cinq langues.
-  Die *Touristen*informationen sind in fünf Sprachen verfügbar.
+  Tourist information is available in five languages.
 
   Cette région *touristique* est connue pour ses plages magnifiques.
-  Diese *Ferien*region ist für ihre wunderschönen Strände bekannt.
+  This *holiday* region is known for its beautiful beaches.
 
   L'industrie *touristique* a beaucoup souffert pendant la pandémie.
-  Die *Tourismus*industrie hat während der Pandemie stark gelitten.
+  The *tourism* industry suffered greatly during the pandemic.
 
   Le potentiel *touristique* de cette ville est énorme.
-  Das *touristische* Potenzial dieser Stadt ist enorm.
+  The *tourist* potential of this city is enormous.
 
   Les attractions *touristiques* sont indiquées sur cette carte.
-  Die *Touristen*attraktionen sind auf dieser Karte eingezeichnet.
+  The tourist attractions are shown on this map.
 
   Un nouveau complexe *touristique* va ouvrir l'année prochaine.
-  Ein neuer *Tourismus*komplex wird nächstes Jahr eröffnen.
+  A new *tourism* complex will open next year.
 
   Le bus *touristique* fait le tour des monuments principaux.
-  Der *Touristen*bus fährt zu den wichtigsten Sehenswürdigkeiten.
+  The tourist bus goes to the main attractions.
 
   Les infrastructures *touristiques* doivent être modernisées.
-  Die *touristische* Infrastruktur muss modernisiert werden.
+  The *tourist* infrastructure needs to be modernised.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

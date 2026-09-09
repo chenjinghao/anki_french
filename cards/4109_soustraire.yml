@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4109
 Wort: soustraire
 Wortart: vi, vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: soustraire
 Femininum / Plural: ''
 IPA: \sus.tʁɛʁ\
-Definition: abziehen, entziehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: withdraw, withdraw
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nul homme ne peut se *soustraire* au terme de sa vie.
-  Kein Mensch kann sich dem Ende seines Lebens *entziehen*.
+  No man can escape the end of his life.
 
   Si l'on *soustrait* 50 à 120, on obtient 70.
-  Wenn man 50 von 120 *abzieht*, erhält man 70.
+  If you pull 50 out of 120, you get 70.
 
   Le magicien a *soustrait* la carte à jouer sans que les enfants s'en aperçoivent.
-  Der Zauberer hat die Spielkarte *weggenommen*, ohne dass die Kinder es bemerkten.
+  The wizard took the play card away without the children noticing it.
 
   L'escroc lui a *soustrait* une somme considérable.
-  Der Betrüger hat ihm eine beträchtliche Summe *unterschlagen*.
+  The fraudster has misjudged him for a considerable sum.
 
   Elle s'est *soustraite* à ses responsabilités parentales.
-  Sie hat sich ihrer elterlichen Verantwortung *entzogen*.
+  She's taken her parental responsibility.
 
   Les gardes du corps ont réussi à *soustraire* la célébrité aux journalistes.
-  Die Leibwächter haben es geschafft, den Star von den Journalisten *wegzubringen*.
+  The bodyguards have managed to take the star away from the journalists.
 
   Pour *soustraire* 7 de 15, les élèves utilisent leurs doigts.
-  Um 7 von 15 zu *subtrahieren*, benutzen die Schüler ihre Finger.
+  To *subtract* 7 out of 15, the students use their fingers.
 
   Il a *soustrait* des documents confidentiels de l'entreprise.
-  Er hat vertrauliche Dokumente aus der Firma *entwendet*.
+  He took confidential documents from the company.
 
   Comment peut-on se *soustraire* à cette chaleur insupportable ?
-  Wie kann man dieser unerträglichen Hitze *entgehen*?
+  How can you avoid this unbearable heat?
 
   Les rideaux épais *soustraient* la pièce aux regards des voisins.
-  Die dicken Vorhänge *entziehen* den Raum den Blicken der Nachbarn.
+  The thick curtains remove the room from the neighbors' eyes.
 
   Pierre s'est *soustrait* à l'autorité de ses parents dès ses 18 ans.
-  Pierre hat sich mit 18 der Autorität seiner Eltern *entzogen*.
+  At 18, Pierre withdrew from the authority of his parents.
 
   Marie a *soustrait* trois pommes du panier.
-  Marie hat drei Äpfel aus dem Korb *weggenommen*.
+  Marie took three apples out of the basket.
 
   Les nuages *soustraient* le soleil à notre vue.
-  Die Wolken *entziehen* die Sonne unserem Blick.
+  The clouds take the sun away from our eyes.
 
   Après le scandale, il s'est *soustrait* aux regards du public pendant des mois.
-  Nach dem Skandal hat er sich monatelang den Blicken der Öffentlichkeit *entzogen*.
+  After the scandal, he has for months *withdrawn* from the public eye.
 
   L'avocat a aidé son client à se *soustraire* à la justice.
-  Der Anwalt hat seinem Mandanten geholfen, sich der Justiz zu *entziehen*.
+  The lawyer helped his client escape justice.
 
   Les élèves doivent *soustraire* les fractions selon les règles.
-  Die Schüler müssen die Brüche nach den Regeln *subtrahieren*.
+  The students must *subtract* the breaks according to the rules.
 
   La secrétaire a *soustrait* de l'argent de la caisse.
-  Die Sekretärin hat Geld aus der Kasse *unterschlagen*.
+  The secretary's got money out of the cash register.
 
   Il est impossible de se *soustraire* à l'influence des réseaux sociaux.
-  Es ist unmöglich, sich dem Einfluss der sozialen Medien zu *entziehen*.
+  It is impossible to escape the influence of social media.
 
   Le brouillard *soustrait* le paysage à notre vue.
-  Der Nebel *entzieht* die Landschaft unserem Blick.
+  The fog eludes our view of the landscape.
 
   Pour obtenir le résultat, il faut *soustraire* le premier nombre du second.
-  Um das Ergebnis zu erhalten, muss man die erste Zahl von der zweiten *abziehen*.
+  To get the result, you have to deduct the first number from the second.
 
   Les parents ont *soustrait* leur fille à une mauvaise influence.
-  Die Eltern haben ihre Tochter einem schlechten Einfluss *entzogen*.
+  The parents have deprived their daughter of bad influence.
 
   Le rideau de fumée *soustrait* les soldats aux yeux de l'ennemi.
-  Die Rauchwand *entzieht* die Soldaten den Augen des Feindes.
+  The smoke wall removes the soldiers from the enemy's eyes.
 
   La maladie l'a *soustrait* à ses obligations professionnelles.
-  Die Krankheit hat ihn seinen beruflichen Verpflichtungen *entzogen*.
+  The illness has deprived him of his professional responsibilities.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4917
 Wort: sévèrement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sévèrement
 Femininum / Plural: ''
 IPA: \se.vɛʁ.mɑ̃\
-Definition: streng, hart
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: severe, hard
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mon père m'aurait *sévèrement* corrigé.
-  Mein Vater hätte mich *streng* zurechtgewiesen.
+  My father would have rebuked me.
 
   La critique a *sévèrement* jugé son dernier film.
-  Die Kritik ist mit seinem letzten Film *hart* ins Gericht gegangen.
+  Criticism has gone to court with his last film.
 
   Notre équipe a été *sévèrement* battue lors du match final.
-  Unsere Mannschaft musste im Finale eine *schwere* Niederlage hinnehmen.
+  Our team had to accept a heavy defeat in the final.
 
   Le patient est *sévèrement* atteint d'une maladie rare.
-  Der Patient ist *schwer* an einer seltenen Krankheit erkrankt.
+  The patient is severely ill with a rare disease.
 
   Les parents doivent *sévèrement* encadrer l'utilisation des écrans.
-  Die Eltern müssen die Bildschirmzeit *streng* begrenzen.
+  Parents must strictly limit the screen time.
 
   Le règlement est *sévèrement* appliqué dans cette école.
-  Die Regeln werden an dieser Schule *streng* durchgesetzt.
+  The rules are strictly enforced at this school.
 
   Le boxeur a été *sévèrement* touché à la tête.
-  Der Boxer wurde am Kopf *schwer* getroffen.
+  The boxer was hit hard on the head.
 
   La police contrôle *sévèrement* la vitesse sur cette route.
-  Die Polizei kontrolliert die Geschwindigkeit auf dieser Straße *streng*.
+  The police strictly control the speed on this road.
 
   Les fraudeurs seront *sévèrement* punis.
-  Die Betrüger werden *hart* bestraft.
+  The fraudsters will be severely punished.
 
   Cette entreprise a été *sévèrement* touchée par la crise.
-  Dieses Unternehmen wurde von der Krise *schwer* getroffen.
+  This company was hit hard by the crisis.
 
   Le public a *sévèrement* critiqué cette décision.
-  Die Öffentlichkeit hat diese Entscheidung *scharf* kritisiert.
+  The public has sharply criticised this decision.
 
   Les examens sont *sévèrement* notés dans cette université.
-  Die Prüfungen werden an dieser Universität *streng* benotet.
+  The examinations are strictly graded at this university.
 
   Le gouvernement a *sévèrement* restreint les importations.
-  Die Regierung hat die Einfuhren *streng* beschränkt.
+  The government has strictly limited imports.
 
   Les conditions météorologiques ont *sévèrement* perturbé le trafic aérien.
-  Die Wetterbedingungen haben den Flugverkehr *schwer* beeinträchtigt.
+  Weather conditions have severely affected air traffic.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

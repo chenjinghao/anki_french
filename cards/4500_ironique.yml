@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4500
 Wort: ironique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ironique
 Femininum / Plural: ''
 IPA: \i.ʁɔ.nik\
-Definition: ironisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Ironic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a un sourire *ironique* et satisfait.
-  Er hat ein *ironisches* und zufriedenes Lächeln.
+  He has an *ironic* and contented smile.
 
   Son regard *ironique* m'a mis mal à l'aise.
-  Sein *ironischer* Blick hat mich verlegen gemacht.
+  His *ironic* look made me embarrassed.
 
   Elle a répondu d'un ton *ironique* à sa question stupide.
-  Sie hat mit *ironischem* Ton auf seine dumme Frage geantwortet.
+  She answered his stupid question with an *ironic* tone.
 
   Les commentaires *ironiques* de Pierre ont vexé tout le monde.
-  Pierres *ironische* Kommentare haben alle gekränkt.
+  Pierre's *ironic* comments have all offended.
 
   C'est un écrivain très *ironique* qui critique la société.
-  Er ist ein sehr *ironischer* Schriftsteller, der die Gesellschaft kritisiert.
+  He is a very *ironic* writer who criticizes society.
 
   Par un retournement *ironique* du destin, il est devenu ce qu'il détestait le plus.
-  Durch eine *ironische* Wendung des Schicksals ist er genau das geworden, was er am meisten hasste.
+  By an *ironic* twist of fate, he has become exactly what he hated the most.
 
   L'allusion *ironique* n'a pas échappé aux spectateurs.
-  Die *ironische* Anspielung ist den Zuschauern nicht entgangen.
+  The *ironic* allusion has not escaped the spectators.
 
   Ce journal est connu pour son style *ironique*.
-  Diese Zeitung ist für ihren *ironischen* Stil bekannt.
+  This newspaper is known for its *ironic* style.
 
   Les propos *ironiques* de ma sœur m'ont fait rire.
-  Die *ironischen* Bemerkungen meiner Schwester haben mich zum Lachen gebracht.
+  My sister's *ironic* remarks made me laugh.
 
   Son esprit *ironique* fait d'elle une excellente chroniqueuse.
-  Ihr *ironischer* Geist macht sie zu einer ausgezeichneten Kolumnistin.
+  Her *ironic* spirit makes her an excellent columnist.
 
   Il s'est montré particulièrement *ironique* pendant la réunion.
-  Er zeigte sich während der Besprechung besonders *ironisch*.
+  He was particularly *ironic* during the meeting.
 
   N'est-ce pas *ironique* que tu défendes maintenant ce que tu critiquais hier ?
-  Ist es nicht *ironisch*, dass du jetzt das verteidigst, was du gestern noch kritisiert hast?
+  Isn't it *ironic* that you're defending what you criticized yesterday?
 
   Sa réponse *ironique* a fait rire toute la classe.
-  Seine *ironische* Antwort brachte die ganze Klasse zum Lachen.
+  His *ironic* response made the whole class laugh.
 
   Le destin *ironique* a voulu qu'ils se rencontrent à nouveau.
-  Das *ironische* Schicksal wollte es, dass sie sich wieder begegneten.
+  The *ironic* fate wanted them to meet again.
 
   Le journaliste a fait une remarque *ironique* sur la situation politique.
-  Der Journalist machte eine *ironische* Bemerkung zur politischen Situation.
+  The journalist made an *ironic* remark about the political situation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

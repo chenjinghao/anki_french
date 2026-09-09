@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1115
 Wort: individu
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un individu
 Femininum / Plural: ''
 IPA: \ɛ̃.di.vi.dy\
-Definition: Person, Individuum
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Person, individual
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce type d'*individu* n'a rien à faire en prison.
-  Diese Art von *Person* hat im Gefängnis nichts zu suchen.
+  This kind of *person* has nothing to do in prison.
 
   Les droits de l'*individu* doivent être respectés dans une démocratie.
-  Die Rechte des *Individuums* müssen in einer Demokratie respektiert werden.
+  The rights of the *individual* must be respected in a democracy.
 
   "Je dois prendre soin de mon *individu*", dit-il en se dirigeant vers le spa.
-  "Ich muss mich um meine *Person* kümmern", sagte er auf dem Weg zum Spa.
+  "I have to take care of my *person*," he said on his way to the spa.
 
   La police recherche un *individu* portant une veste bleue.
-  Die Polizei sucht nach einer *Person* mit blauer Jacke.
+  The police are looking for a *person* with a blue jacket.
 
   Chaque *individu* de cette espèce présente des caractéristiques uniques.
-  Jedes *Individuum* dieser Art weist einzigartige Merkmale auf.
+  Each *individual* of this kind has unique characteristics.
 
   Un *individu* suspect rôdait autour de la maison hier soir.
-  Ein verdächtiges *Individuum* schlich gestern Abend um das Haus.
+  A suspicious *individual* sneaked around the house last night.
 
   La colonie compte plus de mille *individus*.
-  Die Kolonie zählt mehr als tausend *Individuen*.
+  The colony has more than a thousand *individuals*.
 
   C'est un drôle d'*individu* qui vit seul dans les montagnes.
-  Das ist ein komischer *Kauz*, der allein in den Bergen lebt.
+  It's a funny guy who lives alone in the mountains.
 
   Quel *individu* désagréable !
-  Was für ein unangenehmes *Individuum*!
+  What an unpleasant *individual*!
 
   L'*individu* masqué a pris la fuite vers le nord.
-  Die maskierte *Person* flüchtete nach Norden.
+  The masked *person* fled north.
 
   Un *individu* exceptionnel comme lui mérite une récompense.
-  Eine außergewöhnliche *Person* wie er verdient eine Belohnung.
+  An extraordinary *person* like him deserves a reward.
 
   Les intérêts de l'*individu* ne doivent pas primer sur ceux de la société.
-  Die Interessen des *Individuums* dürfen nicht über denen der Gesellschaft stehen.
+  The interests of the *individual* must not be superior to those of society.
 
   Cet *individu* louche ne m'inspire pas confiance.
-  Dieses zwielichtige *Individuum* flößt mir kein Vertrauen ein.
+  This shady *individual* doesn't inspire my trust.
 
   Chaque *individu* de la ruche a un rôle spécifique.
-  Jedes *Individuum* im Bienenstock hat eine spezifische Rolle.
+  Each *individual* in the hive has a specific role.
 
   L'*individu* en question portait un chapeau noir.
-  Die betreffende *Person* trug einen schwarzen Hut.
+  The *person* in question was wearing a black hat.
 
   On a observé plusieurs *individus* de cette espèce rare.
-  Man hat mehrere *Individuen* dieser seltenen Art beobachtet.
+  Several *individuals* of this rare species have been observed.
 
   Un sinistre *individu* l'a suivi dans la rue.
-  Ein finsteres *Individuum* ist ihr auf der Straße gefolgt.
+  A dark *individual* followed her on the street.
 
   L'*individu* mâle se distingue par sa couleur vive.
-  Das männliche *Individuum* zeichnet sich durch seine leuchtende Farbe aus.
+  The male *individual* is distinguished by its luminous color.
 
   Chaque *individu* réagit différemment au médicament.
-  Jedes *Individuum* reagiert unterschiedlich auf das Medikament.
+  Each *individual* responds differently to the drug.
 
   Un *individu* de taille moyenne a été aperçu sur les lieux du crime.
-  Eine *Person* von mittlerer Größe wurde am Tatort gesehen.
+  A middle-sized *person* was seen at the scene.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

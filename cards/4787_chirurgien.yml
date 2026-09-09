@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4787
 Wort: chirurgien
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chirurgien
 Femininum / Plural: chirurgienne
 IPA: \ʃi.ʁyʁ.ʒjɛ̃\
-Definition: Chirurg
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Surgeon
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *chirurgiens* disent qu'il n'a pas souffert.
-  Die *Chirurgen* sagen, dass er nicht gelitten hat.
+  The *surgeons* say he didn't suffer.
 
   Ma sœur est devenue *chirurgienne* après dix ans d'études.
-  Meine Schwester ist nach zehn Jahren Studium *Chirurgin* geworden.
+  My sister became a *surgeon* after ten years of study.
 
   Le *chirurgien-dentiste* m'a recommandé de porter un appareil dentaire.
-  Der Zahn*chirurg* hat mir eine Zahnspange empfohlen.
+  The dental surgeon recommended a brace.
 
   Cette *chirurgienne* vasculaire a sauvé la jambe de mon père.
-  Diese Gefäß*chirurgin* hat das Bein meines Vaters gerettet.
+  This vascular surgeon saved my father's leg.
 
   Le *chirurgien* a fait preuve d'une grande habileté pendant l'opération.
-  Der *Chirurg* zeigte während der Operation große Geschicklichkeit.
+  The *surgeon* showed great skill during the operation.
 
   Je serai entre les mains d'un *chirurgien* expérimenté demain matin.
-  Ich werde morgen früh in den Händen eines erfahrenen *Chirurgen* sein.
+  I'll be in the hands of an experienced surgeon in the morning.
 
   Cette *chirurgienne* est réputée pour ses techniques innovantes.
-  Diese *Chirurgin* ist für ihre innovativen Techniken bekannt.
+  This *surgeon* is known for her innovative techniques.
 
   Le *chirurgien* m'a expliqué les risques de l'intervention.
-  Der *Chirurg* hat mir die Risiken des Eingriffs erklärt.
+  The *surgeon* explained the risks of the procedure to me.
 
   As-tu déjà rencontré le nouveau *chirurgien* du service ?
-  Hast du den neuen *Chirurgen* der Abteilung schon kennengelernt?
+  Have you met the new surgeon in the department yet?
 
   La *chirurgienne* travaille dans cet hôpital depuis vingt ans.
-  Die *Chirurgin* arbeitet seit zwanzig Jahren in diesem Krankenhaus.
+  The *surgeon* has been working in this hospital for twenty years.
 
   Notre équipe compte trois *chirurgiens* et deux *chirurgiennes*.
-  Unser Team besteht aus drei *Chirurgen* und zwei *Chirurginnen*.
+  Our team consists of three *surgeons* and two surgeons.
 
   Le *chirurgien* qui m'a opéré part bientôt à la retraite.
-  Der *Chirurg*, der mich operiert hat, geht bald in den Ruhestand.
+  The *surgeon* who operated on me is about to retire.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

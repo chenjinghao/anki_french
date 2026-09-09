@@ -1,98 +1,98 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3654
 Wort: dépens
 Wortart: npl
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: les dépens
 Femininum / Plural: ''
 IPA: \de.pɑ̃\
-Definition: Kosten, Aufwendungen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Costs, expenses
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La Russie a affirmé ses ambitions aux *dépens* de l'Italie.
-  Russland hat seine Ambitionen auf *Kosten* Italiens bestätigt.
+  Russia has confirmed its ambitions at the expense of Italy.
 
   Il s'est enrichi aux *dépens* des petits épargnants.
-  Er hat sich auf *Kosten* der Kleinsparer bereichert.
+  He has enriched himself at the expense of the small savers.
 
   Le tribunal a condamné le défendeur aux *dépens*.
-  Das Gericht hat den Beklagten zur Zahlung der Prozess*kosten* verurteilt.
+  The court sentenced the defendant to pay the costs of the trial.
 
   Cette plante grandit aux *dépens* des autres dans le jardin.
-  Diese Pflanze wächst im Garten auf *Kosten* der anderen.
+  This plant grows in the garden at the expense of others.
 
   J'ai malheureusement appris à mes *dépens* qu'on ne peut pas lui faire confiance.
-  Ich habe leider aus eigener leidvoller *Erfahrung* gelernt, dass man ihm nicht vertrauen kann.
+  Unfortunately, I learned from my own painful *experience* that you can't trust him.
 
   "Il ne fait que vivre aux *dépens* de ses parents."
-  "Er lebt nur auf *Kosten* seiner Eltern."
+  "He lives only at the expense of his parents."
 
   Marie a dû payer tous les *dépens* du procès.
-  Marie musste alle Gerichts*kosten* des Prozesses bezahlen.
+  Marie had to pay all the court costs of the trial.
 
   Les grands arbres se développent aux *dépens* des petits.
-  Die großen Bäume entwickeln sich auf *Kosten* der kleinen.
+  The large trees develop at the expense of the small ones.
 
   Le succès de son entreprise s'est fait aux *dépens* de sa vie privée.
-  Der Erfolg seines Unternehmens ging auf *Kosten* seines Privatlebens.
+  The success of his company was at the expense of his private life.
 
   Nous avons appris à nos *dépens* que la patience est une vertu.
-  Wir haben aus schmerzlicher *Erfahrung* gelernt, dass Geduld eine Tugend ist.
+  We have learned from painful *experience* that patience is a virtue.
 
   Les *dépens* du procès s'élèvent à plusieurs milliers d'euros.
-  Die Prozess*kosten* belaufen sich auf mehrere tausend Euro.
+  The process costs amount to several thousand euros.
 
   Cette réforme s'est faite aux *dépens* des plus pauvres.
-  Diese Reform wurde auf *Kosten* der Ärmsten durchgeführt.
+  This reform was carried out at the expense of the poorest.
 
   Il s'amuse toujours aux *dépens* des autres.
-  Er amüsiert sich immer auf *Kosten* anderer.
+  He's always having fun at the expense of others.
 
   Le juge a compensé les *dépens* entre les parties.
-  Der Richter hat die Prozess*kosten* zwischen den Parteien aufgeteilt.
+  The judge divided the costs of the trial between the parties.
 
   Elle a sauvé son frère aux *dépens* de sa propre sécurité.
-  Sie hat ihren Bruder unter Einsatz ihrer eigenen *Sicherheit* gerettet.
+  She saved her brother with her own *security*.
 
   Tu apprendras à tes *dépens* que la vie n'est pas si simple.
-  Du wirst aus eigener *Erfahrung* lernen, dass das Leben nicht so einfach ist.
+  You will learn from your own *experience* that life is not that easy.
 
   Les parasites vivent aux *dépens* de leur hôte.
-  Parasiten leben auf *Kosten* ihres Wirts.
+  Parasites live at the expense of their host.
 
   La partie perdante devra payer les *dépens*.
-  Die unterlegene Partei muss die Gerichts*kosten* tragen.
+  The unsuccessful party must bear the costs of the court.
 
   Cette victoire s'est obtenue aux *dépens* de nombreuses vies.
-  Dieser Sieg wurde auf *Kosten* vieler Leben errungen.
+  This victory was won at the expense of many lives.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>coût</i> und <i>dépens</i></div>
+    <div class="section-title"><i>coût</i> and <i>dépens</i></div>
     <div class="section-content">
-      <p><span class="fr">Coût</span> (#830) bedeutet <span class="de">"Kosten"</span> oder <span class="de">"Preis"</span> und bezieht sich auf den finanziellen Aufwand für etwas. Es wird häufig im wirtschaftlichen oder allgemeinen Kontext verwendet.</p>
+      <p><span class="fr">Coût</span> (#830) means <span class="de">"Kosten"</span> or <span class="de">"Preis"</span> and refers to the financial expense for something. It is often used in the economic or general context.</p>
       <div class="examples">
         <div class="fr">Le coût de la vie a augmenté ces dernières années.</div>
-        <div class="de spoiler">Die Lebenshaltungskosten sind in den letzten Jahren gestiegen.</div>
+        <div class="de spoiler">The cost of living has increased in recent years.</div>
         <div class="fr">Quel est le coût total du projet?</div>
-        <div class="de spoiler">Was sind die Gesamtkosten des Projekts?</div>
+        <div class="de spoiler">What are the total cost of the project?</div>
       </div>
-      <p><span class="fr">Dépens</span> (meist im Plural verwendet) bezieht sich auf <span class="de">"Kosten"</span> oder <span class="de">"Aufwendungen"</span>, oft mit der Konnotation, dass jemand diese Kosten trägt oder für sie aufkommt. Es wird besonders häufig in rechtlichen Kontexten verwendet.</p>
+      <p><span class="fr">Dépens</span> (mostly used in the plural) refers to <span class="de">"Kosten"</span> or <span class="de">"Aufwendungen"</span>, often with the connotation that someone pays these costs or pays them. It is used especially frequently in legal contexts.</p>
       <div class="examples">
         <div class="fr">Elle a été condamnée aux dépens.</div>
-        <div class="de spoiler">Sie wurde zur Übernahme der Prozesskosten verurteilt.</div>
+        <div class="de spoiler">She was sentenced to take over the costs of the trial.</div>
         <div class="fr">Il s'est enrichi aux dépens des autres.</div>
-        <div class="de spoiler">Er hat sich auf Kosten anderer bereichert.</div>
+        <div class="de spoiler">He has enriched himself at the expense of others.</div>
       </div>
-      <p>Während <span class="fr">coût</span> sich neutraler auf den Preis oder die Kosten von etwas bezieht, wird <span class="fr">dépens</span> oft verwendet, um auszudrücken, dass Kosten zu jemandes Nachteil oder Lasten entstehen, besonders in der Redewendung <span class="fr">aux dépens de</span> (<span class="de">"auf Kosten von"</span>).</p>
+      <p>During <span class="fr">coût</span> more neutrally refers to the price or cost of something, <span class="fr">dépens</span> often used to express that cost to someone's disadvantage or burdens arise, especially in the expression <span class="fr">aux dépens de</span> (<span class="de">"at the expense of"</span>).</p>
     </div>
   </div>

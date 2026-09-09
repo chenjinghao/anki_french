@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4198
 Wort: ratifier
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ratifier
 Femininum / Plural: ''
 IPA: \ʁa.ti.fje\
-Definition: ratifizieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Ratify
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le texte doit désormais être *ratifié*.
-  Der Text muss nun *ratifiziert* werden.
+  The text must now be *ratified*.
 
   Le Parlement a *ratifié* la nouvelle loi sur l'environnement.
-  Das Parlament hat das neue Umweltgesetz *ratifiziert*.
+  Parliament has *ratified* the new environmental law.
 
   La convention n'a pas encore été *ratifiée* par tous les pays membres.
-  Die Konvention wurde noch nicht von allen Mitgliedsländern *ratifiziert*.
+  The Convention has not yet been *ratified* by all the Member States.
 
   Il a *ratifié* sa promesse devant tous ses amis.
-  Er hat sein Versprechen vor all seinen Freunden *bestätigt*.
+  He *confirmed* his promise to all his friends.
 
   Les électeurs ont *ratifié* le choix du nouveau maire.
-  Die Wähler haben die Wahl des neuen Bürgermeisters *bestätigt*.
+  The voters *confirmed* the election of the new mayor.
 
   Le conseil municipal doit *ratifier* l'acte de vente demain.
-  Der Gemeinderat muss morgen den Kaufvertrag *genehmigen*.
+  The council must approve the purchase contract tomorrow.
 
   Nous attendons que le président *ratifie* le projet de loi.
-  Wir warten darauf, dass der Präsident den Gesetzentwurf *ratifiziert*.
+  We're waiting for the president to ratify the bill.
 
   Les deux parties ont *ratifié* le contrat hier soir.
-  Beide Parteien haben gestern Abend den Vertrag *ratifiziert*.
+  Both parties *ratified* the Treaty last night.
 
   L'assemblée générale va *ratifier* cette décision la semaine prochaine.
-  Die Generalversammlung wird diese Entscheidung nächste Woche *bestätigen*.
+  The General Assembly will *confirm* this decision next week.
 
   Le comité a déjà *ratifié* toutes les propositions.
-  Das Komitee hat bereits alle Vorschläge *genehmigt*.
+  The committee has already *approved* all proposals.
 
   Une fois que vous aurez *ratifié* l'accord, nous pourrons commencer.
-  Sobald Sie das Abkommen *ratifiziert* haben, können wir beginnen.
+  Once you have *ratified* the agreement, we can begin.
 
   Marie a *ratifié* son engagement par écrit.
-  Marie hat ihre Verpflichtung schriftlich *bestätigt*.
+  Marie *confirmed* her commitment in writing.
 
   Les actionnaires doivent encore *ratifier* cette fusion.
-  Die Aktionäre müssen diese Fusion noch *genehmigen*.
+  The shareholders still have to approve this merger.
 
   Avant d'être valable, ce document doit être *ratifié* par un notaire.
-  Bevor dieses Dokument gültig ist, muss es von einem Notar *bestätigt* werden.
+  Before this document is valid, it must be *confirmed* by a notary.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

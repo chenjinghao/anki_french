@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2463
 Wort: accumuler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: accumuler
 Femininum / Plural: ''
 IPA: \a.ky.my.le\
-Definition: anhäufen, sammeln
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Aggregate, collect
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les bombes atomiques *s'accumulent*.
-  Die Atombomben *häufen sich*.
+  The atomic bombs are piling up.
 
   Il *accumule* les erreurs dans son rapport.
-  Er *begeht* in seinem Bericht einen Fehler nach dem anderen.
+  He makes one mistake at a time in his report.
 
   La poussière *s'accumule* sur les étagères.
-  Der Staub *sammelt sich* in den Regalen.
+  The dust gathers on the shelves.
 
   Elle *accumule* les preuves contre son voisin bruyant.
-  Sie *sammelt* Beweise gegen ihren lauten Nachbarn.
+  She's collecting evidence against her loud neighbor.
 
   Les intérêts *accumulés* pendant dix ans sont considérables.
-  Die in zehn Jahren *angehäuften* Zinsen sind beträchtlich.
+  Interest accumulated in ten years is considerable.
 
   "Tu *accumules* les bêtises aujourd'hui !"
-  "Du *machst* heute eine Dummheit nach der anderen!"
+  "You're doing one stupid thing after another today!"
 
   L'entreprise *accumule* les profits depuis des années.
-  Das Unternehmen *häuft* seit Jahren Gewinne *an*.
+  The company has been accumulating profits for years.
 
   Les nuages noirs *s'accumulent* à l'horizon.
-  Schwarze Wolken *türmen sich* am Horizont *auf*.
+  Black clouds rise *on* the horizon.
 
   Le courrier *s'accumule* dans la boîte aux lettres pendant les vacances.
-  Die Post *stapelt sich* während des Urlaubs im Briefkasten.
+  The mail piles up in the mailbox during the holiday.
 
   Il *accumule* les diplômes sans jamais trouver de travail.
-  Er *sammelt* Abschlüsse, ohne je eine Arbeit zu finden.
+  He *collects* degrees without ever finding a job.
 
   Les déchets *s'accumulent* dans les rues de la ville.
-  Der Müll *türmt sich* in den Straßen der Stadt *auf*.
+  The garbage is rushing into the streets of the city.
 
   Cette bibliothèque *accumule* des livres rares depuis des siècles.
-  Diese Bibliothek *sammelt* seit Jahrhunderten seltene Bücher.
+  This library has been collecting rare books for centuries.
 
   Les retards *s'accumulent* sur cette ligne de train.
-  Die Verspätungen *häufen sich* auf dieser Bahnlinie.
+  The delays are increasing on this railway line.
 
   Le collectionneur *accumule* des timbres depuis son enfance.
-  Der Sammler *hortet* seit seiner Kindheit Briefmarken.
+  The collector has been *hoarding* stamps since his childhood.
 
   Les difficultés *s'accumulent* pour cette petite entreprise.
-  Die Schwierigkeiten *häufen sich* für dieses kleine Unternehmen.
+  The difficulties are increasing for this small enterprise.
 
   La batterie de la voiture électrique *accumule* l'énergie solaire.
-  Die Batterie des Elektroautos *speichert* Solarenergie.
+  The battery of the electric car stores solar energy.
 
   Les preuves *s'accumulent* contre le suspect principal.
-  Die Beweise gegen den Hauptverdächtigen *häufen sich*.
+  The evidence against the prime suspect is increasing.
 
   L'athlète *accumule* les médailles dans sa carrière.
-  Der Athlet *sammelt* in seiner Karriere Medaillen.
+  The athlete *collects* medals in his career.
 
   Cette région *accumule* les records de température.
-  Diese Region *häuft* Temperaturrekorde *an*.
+  This region is accumulating temperature records.
 
   Les dossiers non traités *s'accumulent* sur son bureau.
-  Die unbearbeiteten Akten *stapeln sich* auf seinem Schreibtisch.
+  The unprocessed files pile up on his desk.
 
   Le gourmand *accumule* les calories sans s'en rendre compte.
-  Der Feinschmecker *häuft* Kalorien *an*, ohne es zu merken.
+  The gourmet accumulates calories without noticing it.
 
   L'avare *accumule* l'argent sans jamais le dépenser.
-  Der Geizhals *hortet* Geld, ohne es jemals auszugeben.
+  The miserly one is listening to money without ever spending it.
 
   Les années *s'accumulent*, mais elle garde toujours son dynamisme.
-  Die Jahre *häufen sich an*, aber sie behält immer noch ihre Dynamik.
+  The years are increasing, but it still retains its momentum.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

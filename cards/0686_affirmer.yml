@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 686
 Wort: affirmer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: affirmer
 Femininum / Plural: ''
 IPA: \a.fiʁ.me\
-Definition: behaupten, bestätigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: claim, confirm
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce témoin a *affirmé* avoir vu trois hommes.
-  Dieser Zeuge hat *ausgesagt*, drei Männer gesehen zu haben.
+  This witness has testified to have seen three men.
 
   Il *affirme* que mon chat est entré dans son jardin.
-  Er *behauptet*, dass meine Katze in seinen Garten gelaufen ist.
+  He *claims* my cat walked into his garden.
 
   Je peux vous *affirmer* que le train arrivera à l'heure.
-  Ich kann Ihnen *versichern*, dass der Zug pünktlich ankommen wird.
+  I can assure you that the train will arrive on time.
 
   Le professeur *affirme* que les examens auront lieu la semaine prochaine.
-  Der Lehrer *beteuert*, dass die Prüfungen nächste Woche stattfinden werden.
+  The teacher affirms that the exams will take place next week.
 
   Marie *affirmait* ne rien savoir de cette affaire.
-  Marie *behauptete*, nichts von dieser Angelegenheit zu wissen.
+  Marie claimed she didn't know anything about this matter.
 
   Pouvez-vous *affirmer* que vous étiez chez vous ce soir-là ?
-  Können Sie *beschwören*, dass Sie an jenem Abend zu Hause waren?
+  Can you conjure that you were home that night?
 
   Son talent *s'est affirmé* dès son plus jeune âge.
-  Sein Talent hat sich schon in jungen Jahren *herauskristallisiert*.
+  His talent has crystallized at a young age.
 
   La nouvelle direction a *affirmé* sa volonté de changement.
-  Die neue Führung hat ihren Willen zur Veränderung *bekräftigt*.
+  The new leadership has confirmed its will to change.
 
   Il faut *affirmer* ses opinions avec conviction.
-  Man muss seine Meinungen mit Überzeugung *vertreten*.
+  You have to defend your opinions with conviction.
 
   Le candidat *affirme* être le meilleur choix pour ce poste.
-  Der Kandidat *beteuert*, die beste Wahl für diese Position zu sein.
+  The candidate affirms to be the best choice for this position.
 
   Pierre s'est *affirmé* comme un excellent cuisinier.
-  Pierre hat sich als ausgezeichneter Koch *etabliert*.
+  Pierre has *established* himself as an excellent chef.
 
   Elle *affirmait* toujours avoir raison, même quand elle avait tort.
-  Sie *behauptete* immer Recht zu haben, selbst wenn sie falsch lag.
+  She always claimed to be right, even if she was wrong.
 
   Le gouvernement a *affirmé* son soutien aux petites entreprises.
-  Die Regierung hat ihre Unterstützung für kleine Unternehmen *bekräftigt*.
+  The government has confirmed its support for small businesses.
 
   Sa personnalité s'est *affirmée* au fil des années.
-  Seine Persönlichkeit hat sich im Laufe der Jahre *gefestigt*.
+  His personality has strengthened over the years.
 
   Les scientifiques *affirment* que le changement climatique s'accélère.
-  Die Wissenschaftler *stellen fest*, dass sich der Klimawandel beschleunigt.
+  Scientists note that climate change is accelerating.
 
   Il n'osait pas *affirmer* ses préférences devant sa famille.
-  Er wagte es nicht, seine Vorlieben vor seiner Familie zu *bekunden*.
+  He did not dare to show his preferences to his family.
 
   Le journal *affirme* que les négociations ont échoué.
-  Die Zeitung *berichtet*, dass die Verhandlungen gescheitert sind.
+  The newspaper reports that the negotiations have failed.
 
   Sophie s'est *affirmée* comme une leader naturelle dans l'équipe.
-  Sophie hat sich als natürliche Führungspersönlichkeit im Team *behauptet*.
+  Sophie has asserted herself as a natural leader in the team.
 
   Je ne peux rien *affirmer* sans avoir vu les preuves.
-  Ich kann nichts *bestätigen*, ohne die Beweise gesehen zu haben.
+  I can't *confirm* anything without seeing the evidence.
 
   L'entreprise *affirme* avoir trouvé une solution innovante.
-  Das Unternehmen *gibt an*, eine innovative Lösung gefunden zu haben.
+  The company claims to have found an innovative solution.
 
   Les experts *affirment* que la situation va s'améliorer.
-  Die Experten *versichern*, dass sich die Situation verbessern wird.
+  The experts assure that the situation will improve.
 
   Il s'est finalement *affirmé* face à ses concurrents.
-  Er hat sich schließlich gegenüber seinen Konkurrenten *durchgesetzt*.
+  He has finally asserted himself against his competitors.
 
   Elle *affirme* sur l'honneur n'avoir jamais reçu cet argent.
-  Sie *schwört* bei ihrer Ehre, dieses Geld nie erhalten zu haben.
+  She *swears* by her honor that she never received this money.
 
   Le groupe a *affirmé* son style unique dans son dernier album.
-  Die Band hat ihren einzigartigen Stil in ihrem letzten Album *unter Beweis gestellt*.
+  The band has proven their unique style in their last album.
 
   La majorité s'est clairement *affirmée* lors du vote.
-  Die Mehrheit hat sich bei der Abstimmung klar *herauskristallisiert*.
+  The majority has clearly emerged during the vote.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

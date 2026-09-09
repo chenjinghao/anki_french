@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1477
 Wort: italien
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: italien
 Femininum / Plural: italienne
 IPA: \i.ta.ljɛ̃\
-Definition: italienisch; Italiener
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Italian; Italian
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un génie particulier aux *Italiens*.
-  Das ist eine besondere Begabung der *Italiener*.
+  This is a special gift of the Italians.
 
   Elle fait ses études d'*italien* à l'université de Milan.
-  Sie studiert *Italienisch* an der Universität von Mailand.
+  She studied *Italian* at the University of Milan.
 
   J'ai assisté à une répétition à l'*italienne* hier soir au théâtre.
-  Ich habe gestern Abend im Theater einer *italienischen* Leseprobe beigewohnt.
+  I attended an *Italian* reading rehearsal at the theater last night.
 
   La cuisine *italienne* est connue pour ses pâtes fraîches.
-  Die *italienische* Küche ist bekannt für ihre frischen Nudeln.
+  *Italian* cuisine is known for its fresh pasta.
 
   Les *Italiens* ont inventé le cappuccino au XVII<sup>e</sup> siècle.
-  Die *Italiener* haben den Cappuccino im 17. Jahrhundert erfunden.
+  The Italians invented the cappuccino in the 17th century.
 
   Mes connaissances en *italien* sont encore limitées.
-  Meine *Italienisch*kenntnisse sind noch begrenzt.
+  My knowledge of *Italian* is still limited.
 
   L'*italien* moderne est largement influencé par le dialecte toscan.
-  Das moderne *Italienisch* ist stark vom toskanischen Dialekt beeinflusst.
+  Modern *Italian* is strongly influenced by the Tuscan dialect.
 
   La Renaissance *italienne* a profondément marqué l'art européen.
-  Die *italienische* Renaissance hat die europäische Kunst stark geprägt.
+  The *Italian* Renaissance has strongly influenced European art.
 
   Le théâtre à l'*italienne* permet une meilleure visibilité pour tous les spectateurs.
-  Das *italienische* Theater ermöglicht allen Zuschauern eine bessere Sicht.
+  The *Italian* theatre provides a better view for all viewers.
 
   Mon grand-père est un *Italien* qui vit en France depuis quarante ans.
-  Mein Großvater ist ein *Italiener*, der seit vierzig Jahren in Frankreich lebt.
+  My grandfather is an *Italian* who has lived in France for forty years.
 
   L'opéra *italien* est célèbre dans le monde entier.
-  Die *italienische* Oper ist weltberühmt.
+  The *Italian* opera is world famous.
 
   La péninsule *italienne* a la forme d'une botte.
-  Die *italienische* Halbinsel hat die Form eines Stiefels.
+  The *Italian* peninsula has the shape of a boot.
 
   Cette salle à l'*italienne* date du XVIII<sup>e</sup> siècle.
-  Dieser *italienische* Theatersaal stammt aus dem 18. Jahrhundert.
+  This *Italian* theatre hall dates back to the 18th century.
 
   Le boulevard des *Italiens* est l'une des artères les plus animées de Paris.
-  Der Boulevard des *Italiens* ist eine der belebtesten Straßen von Paris.
+  The Boulevard des Italys is one of the busiest streets in Paris.
 
   L'*italien* est une langue très musicale.
-  *Italienisch* ist eine sehr musikalische Sprache.
+  *Italian* is a very musical language.
 
   La musique *italienne* baroque est réputée pour sa virtuosité.
-  Die *italienische* Barockmusik ist für ihre Virtuosität bekannt.
+  *Italian* baroque music is known for its virtuosity.
 
   Cette chambre à l'*italienne* offre une vue magnifique sur le jardin.
-  Dieses Zimmer im *italienischen* Stil bietet einen herrlichen Blick auf den Garten.
+  This *Italian*-style room offers magnificent views of the garden.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

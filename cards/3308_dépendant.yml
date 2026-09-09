@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3308
 Wort: dépendant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dépendant
 Femininum / Plural: dépendante
 IPA: \de.pɑ̃.dɑ̃\
-Definition: abhängig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: dependent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En amour, vous serez *dépendant*, heureux ou malheureux.
-  In der Liebe werden Sie *abhängig* sein, glücklich oder unglücklich.
+  In love you will be *dependent*, happy or unhappy.
 
   Elle n'est plus *dépendante* de ses parents depuis qu'elle a un travail.
-  Sie ist nicht mehr von ihren Eltern *abhängig*, seit sie eine Arbeit hat.
+  She's not *dependent* on her parents since she got a job.
 
   Les résultats sont directement *dépendants* de vos efforts.
-  Die Ergebnisse sind direkt von Ihren Bemühungen *abhängig*.
+  The results depend directly on your efforts.
 
   Notre économie est devenue trop *dépendante* des importations chinoises.
-  Unsere Wirtschaft ist zu stark von chinesischen Importen *abhängig* geworden.
+  Our economy has become too *dependent* on Chinese imports.
 
   Cette personne âgée est devenue *dépendante* et a besoin d'aide au quotidien.
-  Diese ältere Person ist *pflegebedürftig* geworden und braucht täglich Hilfe.
+  This elderly person has become in need of care and needs daily help.
 
   Mon grand-père est maintenant *dépendant* pour les tâches quotidiennes.
-  Mein Großvater ist jetzt bei den täglichen Aufgaben *unselbstständig*.
+  My grandfather is now unselfish in his daily duties.
 
   Paul est malheureusement devenu *dépendant* du jeu.
-  Paul ist leider spiel*süchtig* geworden.
+  I'm afraid Paul has become a gambling addict.
 
   Ces deux phénomènes sont étroitement *dépendants* l'un de l'autre.
-  Diese beiden Phänomene sind eng voneinander *abhängig*.
+  These two phenomena are closely interdependent.
 
   L'entreprise cherche des travailleurs *dépendants* pour ses nouvelles filiales.
-  Das Unternehmen sucht *angestellte* Mitarbeiter für seine neuen Filialen.
+  The company is looking for employed employees for its new branches.
 
   Sa fille est restée très *dépendante* de lui après le divorce.
-  Seine Tochter blieb nach der Scheidung sehr von ihm *abhängig*.
+  His daughter remained very *dependent* on him after the divorce.
 
   Notre succès est *dépendant* de la qualité de notre service.
-  Unser Erfolg ist von der Qualität unseres Service *abhängig*.
+  Our success depends on the quality of our service.
 
   Le patient est devenu *dépendant* des médicaments contre la douleur.
-  Der Patient ist von den Schmerzmitteln *abhängig* geworden.
+  The patient has become *dependent* on the painkillers.
 
   Les petits pays sont souvent *dépendants* des grandes puissances.
-  Kleine Länder sind oft von den Großmächten *abhängig*.
+  Small countries are often *dependent* on the great powers.
 
   Marie est financièrement *dépendante* de son mari.
-  Marie ist finanziell von ihrem Mann *abhängig*.
+  Marie is financially *dependent* on her husband.
 
   Son humeur est très *dépendante* de la météo.
-  Ihre Stimmung ist sehr vom Wetter *abhängig*.
+  Your mood is very *dependent* on the weather.
 
   Le niveau de vie est *dépendant* du salaire minimum.
-  Der Lebensstandard ist vom Mindestlohn *abhängig*.
+  The standard of living depends on the minimum wage.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

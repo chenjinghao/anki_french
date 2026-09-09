@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3726
 Wort: assise
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une assise
 Femininum / Plural: ''
 IPA: \a.siz\
-Definition: Grundlage; Schicht
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Base; layer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'équité est l'une des *assises* fondamentales.
-  Die Gerechtigkeit ist eine der *Grundlagen*.
+  Justice is one of the fundamentals.
 
   Les *assises* de granit donnent une stabilité exceptionnelle à ce château.
-  Die Granit*schichten* verleihen diesem Schloss eine außergewöhnliche Stabilität.
+  The granite *layers* give this castle exceptional stability.
 
   Le mur est construit avec des *assises* de pierre régulières.
-  Die Mauer ist aus regelmäßigen Stein*schichten* gebaut.
+  The wall is made of regular stone *layers*.
 
   Les *assises* du parti ont lieu chaque année en septembre.
-  Die Partei*tagung* findet jedes Jahr im September statt.
+  The party *meeting* takes place every year in September.
 
   Cette théorie repose sur des *assises* scientifiques solides.
-  Diese Theorie basiert auf soliden wissenschaftlichen *Grundlagen*.
+  This theory is based on solid scientific foundations.
 
   L'*assise* du fauteuil est vraiment confortable.
-  Die *Sitz*fläche des Sessels ist wirklich bequem.
+  The *seat* of the chair is really comfortable.
 
   Les *assises* génératrices produisent de nouvelles cellules.
-  Die Zell*schichten* produzieren neue Zellen.
+  The cell *layers* produce new cells.
 
   Les *assises* de cette route ont été refaites l'année dernière.
-  Die *Schichten* dieser Straße wurden letztes Jahr erneuert.
+  The *layers* of this road were renewed last year.
 
   Le géologue a identifié une nouvelle *assise* de roches volcaniques.
-  Der Geologe hat eine neue vulkanische Gesteins*schicht* identifiziert.
+  The geologist has identified a new volcanic rock *layer*.
 
   L'*assise* pilifère protège les racines de la plante.
-  Die Wurzel*schicht* schützt die Pflanzenwurzeln.
+  The root *layer* protects the plant roots.
 
   Cette découverte remet en question les *assises* de notre compréhension de l'univers.
-  Diese Entdeckung stellt die *Grundlagen* unseres Verständnisses vom Universum in Frage.
+  This discovery questions the fundamentals of our understanding of the universe.
 
   Les *assises* de brique rouge donnent du caractère à la façade.
-  Die roten Backstein*schichten* geben der Fassade Charakter.
+  The red brick *layers* give character to the facade.
 
   L'architecte a renforcé les *assises* du bâtiment.
-  Der Architekt hat das *Fundament* des Gebäudes verstärkt.
+  The architect has strengthened the *foundation* of the building.
 
   Le tremblement de terre a ébranlé les *assises* de l'église.
-  Das Erdbeben hat die *Grundmauern* der Kirche erschüttert.
+  The earthquake has shaken the *foundations* of the church.
 
   Les *assises* de calcaire ont été érodées par l'eau.
-  Die Kalk*schichten* wurden durch das Wasser erodiert.
+  The limestone *layers* were eroded by the water.
 
   Les chercheurs ont découvert une nouvelle *assise* cellulaire dans l'épiderme.
-  Die Forscher haben eine neue Zell*schicht* in der Epidermis entdeckt.
+  The researchers have discovered a new cell *layer* in the epidermis.
 
   Cette philosophie jette les *assises* d'une nouvelle façon de penser.
-  Diese Philosophie legt die *Grundlagen* für eine neue Denkweise.
+  This philosophy lays the foundations for a new way of thinking.
 
   Le maçon pose soigneusement chaque *assise* de pierres.
-  Der Maurer legt sorgfältig jede Stein*schicht*.
+  The bricklayer carefully lays every *layer* of stone.
 
   Les *assises* du pont médiéval sont encore visibles sous l'eau.
-  Die *Grundmauern* der mittelalterlichen Brücke sind unter Wasser noch sichtbar.
+  The *foundations* of the medieval bridge are still visible under water.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

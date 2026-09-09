@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4594
 Wort: vélo
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le vélo
 Femininum / Plural: ''
 IPA: \ve.lo\
-Definition: Fahrrad
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Bicycle
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elles se sont amenées hier en *vélo*.
-  Sie sind gestern mit dem *Fahrrad* gekommen.
+  You came by bike yesterday.
 
   Mon petit frère a eu son premier *vélo* pour son anniversaire.
-  Mein kleiner Bruder hat zum Geburtstag sein erstes *Fahrrad* bekommen.
+  My little brother got his first bike for his birthday.
 
   "Je préfère me déplacer à *vélo* plutôt qu'en bus."
-  "Ich bewege mich lieber mit dem *Rad* fort als mit dem Bus."
+  "I'd rather get off by bike than by bus."
 
   Ce *vélo tout-terrain* est parfait pour les chemins de montagne.
-  Dieses *Mountainbike* ist perfekt für Bergwege.
+  This *mountain bike* is perfect for mountain trails.
 
   Marc fait du *vélo* tous les week-ends.
-  Marc fährt jedes Wochenende *Rad*.
+  Marc rides a bike every weekend.
 
   Les enfants adorent faire du *vélo* dans le parc.
-  Die Kinder lieben es, im Park *Fahrrad* zu fahren.
+  The children love to ride a bike in the park.
 
   Elle a attaché son *vélo* à un poteau.
-  Sie hat ihr *Fahrrad* an einem Pfosten angeschlossen.
+  She hooked up her bike on a post.
 
   Le *vélo* est un moyen de transport écologique.
-  Das *Fahrrad* ist ein umweltfreundliches Verkehrsmittel.
+  The *bicycle* is an environmentally friendly means of transport.
 
   Nous louons des *vélos* pour la journée.
-  Wir mieten *Fahrräder* für den Tag.
+  We rent *bicycles* for the day.
 
   Il a réparé son vieux *vélo* lui-même.
-  Er hat sein altes *Fahrrad* selbst repariert.
+  He fixed his old bike himself.
 
   Le *vélo* est devenu son sport préféré.
-  *Radfahren* ist zu seinem Lieblingssport geworden.
+  *Cycling* has become his favorite sport.
 
   Sophie va toujours au travail en *vélo*.
-  Sophie fährt immer mit dem *Rad* zur Arbeit.
+  Sophie always rides a bike to work.
 
   J'ai acheté un *vélo* d'occasion sur Internet.
-  Ich habe ein gebrauchtes *Fahrrad* im Internet gekauft.
+  I bought a used bike on the Internet.
 
   Le *vélo* électrique facilite les longues distances.
-  Das E-*Bike* erleichtert lange Strecken.
+  The e-*bike* facilitates long distances.
 
   Pendant les vacances, nous faisons beaucoup de *vélo*.
-  In den Ferien fahren wir viel *Rad*.
+  We ride a lot of bikes during the holidays.
 
   Ce *vélo* d'enfant est trop petit maintenant.
-  Dieses Kinder*rad* ist jetzt zu klein.
+  This children's bike is too small now.
 
   Les accidents de *vélo* sont fréquents en ville.
-  *Fahrrad*unfälle sind in der Stadt häufig.
+  *Bicycle* accidents are common in the city.
 
   Le Tour de France a popularisé le *vélo* comme sport.
-  Die Tour de France hat den *Rad*sport populär gemacht.
+  The Tour de France has made cycling popular.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

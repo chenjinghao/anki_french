@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4090
 Wort: simultanément
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: simultanément
 Femininum / Plural: ''
 IPA: \si.myl.ta.ne.mɑ̃\
-Definition: gleichzeitig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: at the same time
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je répondrai donc aux deux questions *simultanément*.
-  Ich werde also beide Fragen *gleichzeitig* beantworten.
+  So I will answer both questions *at the same time*.
 
   Les deux enfants ont commencé à pleurer *simultanément*.
-  Beide Kinder fingen *gleichzeitig* an zu weinen.
+  Both children started crying *at the same time*.
 
   L'infection a touché *simultanément* le cœur et les poumons.
-  Die Infektion befiel *gleichzeitig* Herz und Lunge.
+  The infection also affected the heart and lungs.
 
   Plusieurs explosions se sont produites *simultanément* dans la ville.
-  In der Stadt ereigneten sich *gleichzeitig* mehrere Explosionen.
+  Several explosions occurred in the city *at the same time*.
 
   Il est impossible de faire ces deux tâches *simultanément*.
-  Es ist unmöglich, diese beiden Aufgaben *gleichzeitig* zu erledigen.
+  It is impossible to do these two tasks *at the same time*.
 
   Les deux coups de feu sont partis *simultanément*.
-  Die beiden Schüsse fielen *zur gleichen Zeit*.
+  The two shots were fired *at the same time*.
 
   Marie et Pierre ont levé la main *simultanément*.
-  Marie und Pierre hoben *gleichzeitig* die Hand.
+  Marie and Pierre raised their hands *at the same time*.
 
   Tous les téléphones ont sonné *simultanément*.
-  Alle Telefone klingelten *zur gleichen Zeit*.
+  All phones rang *at the same time*.
 
   Le système peut traiter jusqu'à cent demandes *simultanément*.
-  Das System kann bis zu hundert Anfragen *gleichzeitig* verarbeiten.
+  The system can process up to a hundred requests simultaneously.
 
   Les deux équipes ont marqué *simultanément*.
-  Beide Mannschaften erzielten *zur gleichen Zeit* ein Tor.
+  Both teams scored a goal *at the same time*.
 
   Ces changements seront mis en œuvre *simultanément* dans toutes les filiales.
-  Diese Änderungen werden in allen Filialen *gleichzeitig* umgesetzt.
+  These changes are implemented simultaneously in all branches.
 
   Nous avons tous *simultanément* réalisé notre erreur.
-  Wir haben alle *zur gleichen Zeit* unseren Fehler erkannt.
+  *At the same time*, we all recognized our mistake.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

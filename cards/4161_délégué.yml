@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4161
 Wort: délégué
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le délégué
 Femininum / Plural: déléguée
 IPA: \de.le.ɡe\
-Definition: Delegierter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Delegate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *délégués* de 190 pays se sont retrouvés samedi.
-  Die *Delegierten* von 190 Ländern trafen sich am Samstag.
+  The *delegates* from 190 countries met on Saturday.
 
   Le conseil a élu trois *délégués* pour négocier avec la direction.
-  Der Rat hat drei *Vertreter* gewählt, um mit der Geschäftsführung zu verhandeln.
+  The Council elected three *representatives* to negotiate with the management.
 
   Notre *déléguée* syndicale a obtenu une augmentation pour toute l'équipe.
-  Unsere Gewerkschafts*vertreterin* hat eine Gehaltserhöhung für das ganze Team erreicht.
+  Our union *representative* has reached a salary increase for the whole team.
 
   Le ministre *délégué* aux Affaires étrangères participera à la conférence.
-  Der *delegierte* Minister für auswärtige Angelegenheiten wird an der Konferenz teilnehmen.
+  The *Delegated* Minister for Foreign Affairs will attend the conference.
 
   Pierre a été nommé *délégué* du personnel le mois dernier.
-  Pierre wurde letzten Monat zum Personal*vertreter* ernannt.
+  Pierre was appointed HR *representative* last month.
 
   Les membres *délégués* ont voté à l'unanimité pour ce projet.
-  Die *abgeordneten* Mitglieder haben einstimmig für dieses Projekt gestimmt.
+  The *seconded* members voted unanimously in favour of this project.
 
   La *déléguée* de classe présentera nos idées au conseil d'établissement.
-  Die Klassen*sprecherin* wird unsere Ideen dem Schulrat vorstellen.
+  The class *speaker* will present our ideas to the school council.
 
   Un nouveau *délégué* du gouvernement sera nommé la semaine prochaine.
-  Nächste Woche wird ein neuer Regierungs*vertreter* ernannt.
+  A new government *representative* will be appointed next week.
 
   Notre association enverra deux *délégués* au congrès annuel.
-  Unser Verein wird zwei *Delegierte* zum Jahreskongress schicken.
+  Our association will send two *delegates* to the annual congress.
 
   La *déléguée* apostolique représentera le Vatican lors de la cérémonie.
-  Die apostolische *Delegierte* wird den Vatikan bei der Zeremonie vertreten.
+  The apostolic *delegates* will represent the Vatican at the ceremony.
 
   Les *délégués* du comité ont présenté leurs recommandations hier.
-  Die *Vertreter* des Komitees haben gestern ihre Empfehlungen vorgestellt.
+  The Committee *representatives* presented their recommendations yesterday.
 
   Marie sera notre nouvelle *déléguée* pour les négociations à venir.
-  Marie wird unsere neue *Vertreterin* für die kommenden Verhandlungen sein.
+  Marie will be our new *representative* for the coming negotiations.
 
   Tous les membres *délégués* doivent signer ce document avant demain.
-  Alle *delegierten* Mitglieder müssen dieses Dokument bis morgen unterschreiben.
+  All *delegated* members must sign this document by tomorrow.
 
   Le *délégué* rectoral supervisera les examens cette année.
-  Der Rektorats*vertreter* wird dieses Jahr die Prüfungen beaufsichtigen.
+  The Rectorate *representative* will supervise the examinations this year.
 
   Les *délégués* syndicaux se réuniront mardi prochain.
-  Die Gewerkschafts*vertreter* werden sich nächsten Dienstag treffen.
+  Trade union representatives will meet next Tuesday.
 
   Les *délégués* de la profession ont exprimé leur mécontentement.
-  Die Berufs*vertreter* haben ihre Unzufriedenheit zum Ausdruck gebracht.
+  The professional representatives have expressed their dissatisfaction.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 439
 Wort: notamment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: notamment
 Femininum / Plural: ''
 IPA: \nɔ.ta.mɑ̃\
-Definition: vor allem, insbesondere
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: in particular, in particular:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On ignore *notamment* si des gendarmes figurent parmi les victimes.
-  Man weiß *insbesondere* nicht, ob sich Polizisten unter den Opfern befinden.
+  One does not know *in particular* whether police are among the victims.
 
   La pollution atmosphérique, *notamment* dans les grandes villes, pose un problème majeur de santé publique.
-  Die Luftverschmutzung, *besonders* in den Großstädten, stellt ein großes Problem für die öffentliche Gesundheit dar.
+  Air pollution, especially in large cities, is a major public health problem.
 
   Plusieurs pays européens, et *notamment* la France, ont signé l'accord.
-  Mehrere europäische Länder, *insbesondere* Frankreich, haben das Abkommen unterzeichnet.
+  Several European countries, *in particular* France, have signed the agreement.
 
   Elle aime beaucoup voyager, *notamment* en Asie.
-  Sie reist sehr gerne, *vor allem* in Asien.
+  She loves to travel, especially in Asia.
 
   *Notamment* grâce à son expérience, elle a obtenu le poste.
-  *Besonders* dank ihrer Erfahrung hat sie die Stelle bekommen.
+  She got the job, *especially* thanks to her experience.
 
   Les jeunes utilisent beaucoup les réseaux sociaux, *notamment* Instagram.
-  Junge Menschen nutzen häufig soziale Medien, *vor allem* Instagram.
+  Young people often use social media, especially Instagram.
 
   J'apprécie sa personnalité, *notamment* son sens de l'humour.
-  Ich schätze seine Persönlichkeit, *besonders* seinen Humor.
+  I appreciate his personality, especially his humor.
 
   Il faut faire attention à son alimentation, *notamment* pendant la grossesse.
-  Man muss auf seine Ernährung achten, *insbesondere* während der Schwangerschaft.
+  You have to pay attention to your diet, especially during pregnancy.
 
   Les sports d'hiver, *notamment* le ski, attirent beaucoup de touristes.
-  Wintersportarten, *vor allem* Skifahren, ziehen viele Touristen an.
+  Winter sports, especially skiing, attract many tourists.
 
   Son comportement m'a surpris, *notamment* son manque de respect.
-  Sein Verhalten hat mich überrascht, *besonders* sein Mangel an Respekt.
+  His behavior surprised me, especially his lack of respect.
 
   Cette recette nécessite plusieurs ingrédients, *notamment* des œufs frais.
-  Dieses Rezept erfordert verschiedene Zutaten, *insbesondere* frische Eier.
+  This recipe requires various ingredients, especially fresh eggs.
 
   Les enfants adorent les animaux, *notamment* les chiens et les chats.
-  Kinder lieben Tiere, *vor allem* Hunde und Katzen.
+  Children love animals, especially dogs and cats.
 
   Le stress peut causer divers problèmes de santé, *notamment* des troubles du sommeil.
-  Stress kann verschiedene gesundheitliche Probleme verursachen, *insbesondere* Schlafstörungen.
+  Stress can cause various health problems, especially sleep disorders.
 
   Le changement climatique affecte *notamment* les régions polaires.
-  Der Klimawandel betrifft *besonders* die Polarregionen.
+  Climate change is particularly affecting the polar regions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

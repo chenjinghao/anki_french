@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 705
 Wort: constater
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: constater
 Femininum / Plural: ''
 IPA: \kɔ̃s.ta.te\
-Definition: feststellen, bescheinigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: detect, certify
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *constate* de ce fait.
-  Ich *stelle* dies *fest*.
+  I see this.
 
   On a *constaté* une hausse significative des températures depuis dix ans.
-  Man hat seit zehn Jahren einen signifikanten Temperaturanstieg *festgestellt*.
+  A significant temperature increase has been observed for ten years.
 
   Le médecin a *constaté* le décès à 3 heures du matin.
-  Der Arzt hat den Tod um 3 Uhr morgens *bescheinigt*.
+  The doctor *certified* the death at 3:00 in the morning.
 
   En rentrant, elle a *constaté* que sa voiture avait disparu.
-  Als sie nach Hause kam, *stellte* sie *fest*, dass ihr Auto verschwunden war.
+  When she came home, she found that her car had disappeared.
 
   L'huissier a *constaté* les dommages causés par la tempête.
-  Der Gerichtsvollzieher hat die durch den Sturm verursachten Schäden *dokumentiert*.
+  The bailiff *documented* the damage caused by the storm.
 
   Je dois malheureusement *constater* que vous avez tort.
-  Ich muss leider *feststellen*, dass Sie Unrecht haben.
+  I'm afraid I have to say that you're wrong.
 
   Les scientifiques ont *constaté* la présence de nouveaux polluants dans l'eau.
-  Die Wissenschaftler haben das Vorhandensein neuer Schadstoffe im Wasser *nachgewiesen*.
+  The scientists have demonstrated the presence of new pollutants in the water.
 
   Il a fait *constater* son accident par la police.
-  Er ließ seinen Unfall von der Polizei *aufnehmen*.
+  He had his accident recorded by the police.
 
   Nous *constatons* avec plaisir vos progrès en français.
-  Wir *stellen* mit Freude Ihre Fortschritte in Französisch *fest*.
+  We are pleased to note your progress in French.
 
   Les chercheurs ont *constaté* une augmentation du niveau des océans.
-  Die Forscher haben einen Anstieg des Meeresspiegels *beobachtet*.
+  The researchers have *observed* an increase in sea level.
 
   Elle a *constaté* son erreur trop tard.
-  Sie hat ihren Fehler zu spät *bemerkt*.
+  She noticed her mistake too late.
 
   Le rapport *constate* une amélioration de la situation.
-  Der Bericht *stellt* eine Verbesserung der Situation *fest*.
+  The report notes an improvement in the situation.
 
   Tu *constates* que j'avais raison depuis le début ?
-  *Stellst* du *fest*, dass ich von Anfang an Recht hatte?
+  Do you realize I was right from the beginning?
 
   Les experts ont *constaté* l'authenticité du tableau.
-  Die Experten haben die Echtheit des Gemäldes *bestätigt*.
+  The experts *confirmed* the authenticity of the painting.
 
   Je *constate* avec regret votre absence à la réunion.
-  Ich *stelle* mit Bedauern Ihre Abwesenheit bei der Sitzung *fest*.
+  I am sorry to note your absence at *the* sitting.
 
   Nous avons dû *constater* l'échec de notre projet.
-  Wir mussten das Scheitern unseres Projekts *feststellen*.
+  We had to determine the failure of our project.
 
   Le jury a *constaté* plusieurs irrégularités pendant le concours.
-  Die Jury hat während des Wettbewerbs mehrere Unregelmäßigkeiten *festgestellt*.
+  During the competition, the jury *found* several irregularities.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

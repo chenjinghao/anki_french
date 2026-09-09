@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4447
 Wort: probabilité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la probabilité
 Femininum / Plural: ''
 IPA: \pʁɔ.ba.bi.li.te\
-Definition: Wahrscheinlichkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Probability
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   T'es-tu intéressé à la théorie des *probabilités* ?
-  Hast du dich für die *Wahrscheinlichkeits*theorie interessiert?
+  Have you been interested in *probability* theory?
 
   La *probabilité* d'une erreur système est très faible.
-  Die *Wahrscheinlichkeit* eines Systemfehlers ist sehr gering.
+  The *probability* of a system error is very low.
 
   Selon toute *probabilité*, Marie viendra à la fête demain.
-  Aller *Wahrscheinlichkeit* nach wird Marie morgen zur Party kommen.
+  It's likely Marie will come to the party tomorrow.
 
   Les étudiants apprennent le calcul des *probabilités* en terminale.
-  Die Schüler lernen *Wahrscheinlichkeits*rechnung in der Abschlussklasse.
+  The students learn *probability* calculation in the final class.
 
   Le taux de *probabilité* qu'il pleuve aujourd'hui est de 80%.
-  Die *Wahrscheinlichkeit*, dass es heute regnet, liegt bei 80%.
+  The *probability* that it will rain today is 80%.
 
   La *probabilité* de gagner au loto est presque nulle.
-  Die *Wahrscheinlichkeit*, im Lotto zu gewinnen, ist fast null.
+  The *probability* of winning the lottery is almost zero.
 
   J'étudie les *probabilités* depuis le début du semestre.
-  Ich studiere *Wahrscheinlichkeitsrechnung* seit Semesterbeginn.
+  I've been studying probabilities since the beginning of the semester.
 
   Quelle est la *probabilité* pour que le train arrive à l'heure ?
-  Wie hoch ist die *Wahrscheinlichkeit*, dass der Zug pünktlich kommt?
+  What's the *probability* of the train coming on time?
 
   La *probabilité* de réussite augmente avec la pratique.
-  Die Erfolgs*wahrscheinlichkeit* steigt mit der Übung.
+  The *probability* of success increases with the exercise.
 
   En toute *probabilité*, nous aurons fini le projet avant vendredi.
-  Höchst*wahrscheinlich* werden wir das Projekt vor Freitag beenden.
+  Most *likely* we will finish the project before Friday.
 
   Les *probabilités* indiquent qu'il fera beau ce week-end.
-  Die *Wahrscheinlichkeitsprognose* deutet auf schönes Wetter am Wochenende hin.
+  The *probability forecast* indicates good weather at the weekend.
 
   Les médecins évaluent la *probabilité* de guérison à 95%.
-  Die Ärzte schätzen die Heilungs*wahrscheinlichkeit* auf 95%.
+  Doctors estimate the cure *probability* to 95%.
 
   Cette *probabilité* ne peut pas être négligée dans nos calculs.
-  Diese *Wahrscheinlichkeit* darf in unseren Berechnungen nicht vernachlässigt werden.
+  This *probability* must not be neglected in our calculations.
 
   La *probabilité* d'obtenir un six avec un dé est de 1/6.
-  Die *Wahrscheinlichkeit*, eine Sechs zu würfeln, beträgt 1/6.
+  The *probability* to roll a six is 1/6.
 
   Il base ses décisions sur des *probabilités* plutôt que des certitudes.
-  Er trifft seine Entscheidungen auf Basis von *Wahrscheinlichkeiten* statt Gewissheiten.
+  He makes his decisions on the basis of *probabilities* rather than certainties.
 
   La *probabilité* d'une panne technique est minime.
-  Die *Wahrscheinlichkeit* eines technischen Defekts ist minimal.
+  The *probability* of a technical defect is minimal.
 
   Les *probabilités* de succès sont en notre faveur.
-  Die Erfolgs*wahrscheinlichkeiten* stehen zu unseren Gunsten.
+  The chances of success are in our favor.
 
   La *probabilité* qu'il neige en été est quasi nulle.
-  Die *Wahrscheinlichkeit*, dass es im Sommer schneit, ist praktisch null.
+  The *probability* that it snows in the summer is practically zero.
 
   Les experts calculent la *probabilité* d'un tremblement de terre.
-  Die Experten berechnen die *Wahrscheinlichkeit* eines Erdbebens.
+  The experts calculate the *probability* of an earthquake.
 
   Cette *probabilité* est trop faible pour être prise en compte.
-  Diese *Wahrscheinlichkeit* ist zu gering, um berücksichtigt zu werden.
+  This *probability* is too low to be taken into account.
 
   La *probabilité* de trouver un emploi augmente avec le niveau d'études.
-  Die *Wahrscheinlichkeit*, einen Job zu finden, steigt mit dem Bildungsniveau.
+  The *probability* of finding a job increases with the level of education.
 
   Les *probabilités* montrent que l'équipe devrait gagner le match.
-  Die *Wahrscheinlichkeiten* zeigen, dass die Mannschaft das Spiel gewinnen sollte.
+  The odds show that the team should win the game.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

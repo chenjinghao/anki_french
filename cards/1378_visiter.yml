@@ -1,111 +1,111 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1378
 Wort: visiter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: visiter
 Femininum / Plural: ''
 IPA: \vi.zi.te\
-Definition: besichtigen; [einen Ort] besuchen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: visit; visit [a place]
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous allons *visiter* la maison.
-  Wir werden das Haus *besichtigen*.
+  We're going to *visit* the house.
 
   Les touristes *visitent* les pyramides d'Égypte avec un guide.
-  Die Touristen *besichtigen* die Pyramiden von Ägypten mit einem Führer.
+  Tourists *visit* the pyramids of Egypt with a guide.
 
   Je *visite* régulièrement mes grands-parents à la maison de retraite.
-  Ich *besuche* regelmäßtig meine Großeltern im Altersheim.
+  I regularly visit my grandparents in the old people's home.
 
   Notre classe a *visité* le musée d'art moderne hier.
-  Unsere Klasse hat gestern das Museum für moderne Kunst *besichtigt*.
+  Our class *visited* the Museum of Modern Art yesterday.
 
   "Des cambrioleurs ont *visité* l'appartement pendant nos vacances."
-  "Einbrecher haben während unseres Urlaubs die Wohnung *durchsucht*."
+  "Trainers *searched* the apartment during our vacation."
 
   Le médecin *visite* ses patients tous les matins à l'hôpital.
-  Der Arzt *macht* jeden Morgen bei seinen Patienten im Krankenhaus *Besuche*.
+  The doctor *visits* his patients at the hospital every morning.
 
   As-tu déjà *visité* le nouveau site web de l'entreprise ?
-  Hast du dir die neue Webseite der Firma schon *angesehen*?
+  Have you looked at the company's new website?
 
   Le château se *visite* uniquement en été.
-  Das Schloss ist nur im Sommer zu *besichtigen*.
+  The castle can only be visited in summer.
 
   Les douaniers ont *visité* minutieusement tous les bagages.
-  Die Zöllner haben das gesamte Gepäck gründlich *durchsucht*.
+  The customs officers have *searched* the entire luggage thoroughly.
 
   Paul *visite* trois appartements par jour dans sa recherche de logement.
-  Paul *besichtigt* bei seiner Wohnungssuche drei Wohnungen pro Tag.
+  Paul visits three apartments a day in his search for accommodation.
 
   Le prêtre *visite* les malades chaque dimanche.
-  Der Priester *besucht* jeden Sonntag die Kranken.
+  The priest visits the sick every Sunday.
 
   Nous avons *visité* Londres pendant une semaine.
-  Wir haben London eine Woche lang *besichtigt*.
+  We *visited* London for a week.
 
   Le guide nous fait *visiter* les jardins du château.
-  Der Führer *führt* uns *durch* die Schlossgärten.
+  *The* guide leads us through the castle gardens.
 
   Marie *visitera* sa sœur à l'hôpital demain.
-  Marie wird ihre Schwester morgen im Krankenhaus *besuchen*.
+  Marie will *visit* her sister at the hospital tomorrow.
 
   Les bénévoles *visitent* régulièrement les prisonniers.
-  Die Ehrenamtlichen *besuchen* regelmäßig die Gefangenen.
+  The volunteers regularly *visit* the prisoners.
 
   Elle a *visité* tous les stands du marché de Noël.
-  Sie hat alle Stände auf dem Weihnachtsmarkt *besucht*.
+  She *visited* all the stalls at the Christmas market.
 
   Le technicien doit *visiter* les installations électriques.
-  Der Techniker muss die elektrischen Anlagen *überprüfen*.
+  The technician must *check* the electrical systems.
 
   Les agents immobiliers font *visiter* dix maisons par jour.
-  Die Immobilienmakler *führen* täglich *durch* zehn Häuser.
+  *The* real estate agents run through ten houses every day.
 
   J'ai *visité* trois pays différents pendant mes vacances.
-  Ich habe während meines Urlaubs drei verschiedene Länder *bereist*.
+  During my vacation I travelled three different countries.
 
   Le conservateur *visite* chaque salle du musée tous les soirs.
-  Der Kurator *kontrolliert* jeden Abend jeden Raum des Museums.
+  The curator controls every room of the museum every night.
 
   Nous avons *visité* la cathédrale pendant les heures d'ouverture.
-  Wir haben die Kathedrale während der Öffnungszeiten *besichtigt*.
+  We *visited* the cathedral during the opening hours.
 
   Les étudiants vont *visiter* une usine la semaine prochaine.
-  Die Studenten werden nächste Woche eine Fabrik *besichtigen*.
+  The students will *visit* a factory next week.
 
   L'inspecteur *visite* toutes les écoles de la région.
-  Der Inspektor *besucht* alle Schulen der Region.
+  The inspector visits all schools in the region.
 
   Le représentant *visite* ses clients deux fois par mois.
-  Der Vertreter *besucht* seine Kunden zweimal im Monat.
+  The representative visits his customers twice a month.
 
   On peut *visiter* ce monument gratuitement le premier dimanche du mois.
-  Man kann dieses Denkmal am ersten Sonntag des Monats kostenlos *besichtigen*.
+  You can *visit* this monument free of charge on the first Sunday of the month.
 
   L'évêque *visite* les paroisses de son diocèse.
-  Der Bischof *besucht* die Gemeinden seiner Diözese.
+  The bishop visits the parishes of his diocese.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p class="attention">Das Verb <span class="fr">visiter</span> (besichtigen) wird immer in Zusammenhang mit einem <span class="de">Ort</span> verwendet.</p>
+  <p class="attention">The verb <span class="fr">visiter</span> (visit) is always associated with a <span class="de">Ort</span> is used.</p>
   <div class="examples">
     <div class="fr">Nous avons visité un bel appartement hier.</div>
-    <div class="de spoiler">Wir haben gestern eine schöne Wohnung besichtigt.</div>
+    <div class="de spoiler">We visited a nice apartment yesterday.</div>
   </div>
-  <p>Die Wendung <span class="fr">rendre visite</span> (besuchen) wird immer mit einer <span class="de">Person</span> verwendet.</p>
+  <p>The turn <span class="fr">rendre visite</span> (visiting) is always accompanied by a <span class="de">Person</span> is used.</p>
   <div class="examples">
     <div class="fr">Le médecin va rendre visite à ses patients.</div>
-    <div class="de spoiler">Der Arzt wird seine Patienten besuchen.</div>
+    <div class="de spoiler">The doctor will visit his patients.</div>
   </div>
   <!-- Grammar automatically added -->
   <hr>

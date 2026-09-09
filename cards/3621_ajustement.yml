@@ -1,92 +1,92 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3621
 Wort: ajustement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un ajustement
 Femininum / Plural: ''
 IPA: \a.ʒus.tə.mɑ̃\
-Definition: Anpassung, Justierung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Adjustment, adjustment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*ajustement* reste aussi insuffisant.
-  Die *Anpassung* bleibt ebenfalls unzureichend.
+  The *adjustment* is also insufficient.
 
   L'*ajustement* des prix est devenu nécessaire en raison de l'inflation.
-  Die Preis*anpassung* ist aufgrund der Inflation notwendig geworden.
+  Price *adjustment* has become necessary due to inflation.
 
   L'*ajustement* automatique des salaires n'est pas encore mis en place.
-  Die automatische Lohn*anpassung* ist noch nicht eingeführt.
+  The automatic wage *adjustment* has not yet been introduced.
 
   Le syndicat demande un *ajustement* des salaires au coût de la vie.
-  Die Gewerkschaft fordert eine *Anpassung* der Löhne an die Lebenshaltungskosten.
+  The union demands that wages be adjusted to the cost of living.
 
   La couturière a fait un *ajustement* rapide de ma robe.
-  Die Schneiderin hat eine schnelle *Änderung* an meinem Kleid vorgenommen.
+  The tailor made a quick change to my dress.
 
   L'*ajustement* final du texte prendra encore quelques jours.
-  Die *Änderung* des Textes wird noch einige Tage dauern.
+  The text will be amended for a few days to come.
 
   Un *ajustement* précis de la balance est nécessaire pour obtenir des résultats fiables.
-  Eine präzise *Justierung* der Waage ist notwendig, um zuverlässige Ergebnisse zu erhalten.
+  A precise *adjustment* of the balance is necessary to obtain reliable results.
 
   L'*ajustement* statistique des données nous permet de mieux voir la tendance.
-  Der statistische *Ausgleich* der Daten lässt uns den Trend besser erkennen.
+  The statistical balance of the data makes us better aware of the trend.
 
   Les mécaniciens travaillent sur l'*ajustement* des pièces du moteur.
-  Die Mechaniker arbeiten an der *Passung* der Motorteile.
+  The mechanics are working on fitting the engine parts.
 
   Un *ajustement* des termes du contrat sera nécessaire.
-  Eine *Anpassung* der Vertragsbedingungen wird erforderlich sein.
+  An *adjustment* of the terms of the contract will be necessary.
 
   L'*ajustement* progressif du cours de l'action a évité une chute brutale.
-  Die schrittweise Kurs*anpassung* hat einen drastischen Sturz verhindert.
+  Gradual price *adjustment* has prevented a drastic fall.
 
   Ce costume a besoin d'un petit *ajustement* au niveau des manches.
-  Dieser Anzug braucht eine kleine *Änderung* an den Ärmeln.
+  This suit needs a little change on the sleeves.
 
   L'*ajustement* technique du système prendra environ une heure.
-  Die technische *Einstellung* des Systems wird ungefähr eine Stunde dauern.
+  The technical adjustment of the system will take about an hour.
 
   Un *ajustement* régulier des paramètres est recommandé.
-  Eine regelmäßige *Anpassung* der Parameter wird empfohlen.
+  Regular *adjustment* of the parameters is recommended.
 
   L'*ajustement* des chiffres montre une légère amélioration.
-  Die *Korrektur* der Zahlen zeigt eine leichte Verbesserung.
+  The *correction* of the figures shows a slight improvement.
 
   L'*ajustement* de la production à la demande est crucial.
-  Die *Anpassung* der Produktion an die Nachfrage ist entscheidend.
+  The *adjustment* of production to demand is crucial.
 
   Nous devons faire un *ajustement* du budget pour le prochain trimestre.
-  Wir müssen eine *Anpassung* des Budgets für das nächste Quartal vornehmen.
+  We need to adjust the budget for the next quarter.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>adaptation</i> und <i>ajustement</i></div>
+    <div class="section-title"><i>adaptation</i> and <i>ajustement</i></div>
     <div class="section-content">
-      <p><span class="fr">Adaptation</span> (#2701) bedeutet <span class="de">"Anpassung"</span> und bezieht sich auf einen umfassenderen Prozess, bei dem sich etwas oder jemand an neue Umstände, Bedingungen oder Umgebungen anpasst.</p>
+      <p><span class="fr">Adaptation</span> (#2701) means <span class="de">"Anpassung"</span> and refers to a broader process in which something or someone adapts to new circumstances, conditions or environments.</p>
       <div class="examples">
         <div class="fr">L'adaptation à un nouveau pays peut prendre du temps.</div>
-        <div class="de spoiler">Die Anpassung an ein neues Land kann Zeit in Anspruch nehmen.</div>
+        <div class="de spoiler">Adaptation to a new country may take time.</div>
         <div class="fr">Ce film est une adaptation du roman de Victor Hugo.</div>
-        <div class="de spoiler">Dieser Film ist eine Adaption des Romans von Victor Hugo.</div>
+        <div class="de spoiler">This film is an adaptation of Victor Hugo's novel.</div>
       </div>
-      <p><span class="fr">Ajustement</span> bedeutet <span class="de">"Justierung"</span> oder <span class="de">"Einstellung"</span> und bezieht sich auf kleinere, präzisere Änderungen oder Korrekturen, um etwas genauer anzupassen oder zu verbessern.</p>
+      <p><span class="fr">Ajustement</span> means <span class="de">"Justierung"</span> or <span class="de">"Einstellung"</span> and refers to smaller, more precise changes or corrections to adjust or improve something more accurately.</p>
       <div class="examples">
         <div class="fr">Il faut faire un ajustement du son sur la télévision.</div>
-        <div class="de spoiler">Man muss eine Einstellung des Tons am Fernseher vornehmen.</div>
+        <div class="de spoiler">You have to adjust the sound on the TV.</div>
         <div class="fr">L'ajustement des prix est nécessaire en raison de l'inflation.</div>
-        <div class="de spoiler">Die Anpassung der Preise ist aufgrund der Inflation notwendig.</div>
+        <div class="de spoiler">The adjustment of prices is necessary because of inflation.</div>
       </div>
-      <p>Der Hauptunterschied liegt im Umfang: <span class="fr">adaptation</span> ist oft tiefer gehend und umfassender, während <span class="fr">ajustement</span> sich auf kleinere, technischere oder präzisere Änderungen bezieht.</p>
+      <p>The main difference is the extent to which: <span class="fr">adaptation</span> is often deeper and more comprehensive, while <span class="fr">ajustement</span> refers to minor, more technical or more precise changes.</p>
     </div>
   </div>

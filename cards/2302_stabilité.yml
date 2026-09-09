@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2302
 Wort: stabilité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la stabilité
 Femininum / Plural: ''
 IPA: \sta.bi.li.te\
-Definition: Stabilität
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Stability
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je veille à la *stabilité* du continent.
-  Ich achte auf die *Stabilität* des Kontinents.
+  I'm paying attention to the *stability* of the continent.
 
   La *stabilité* de cette construction inquiète les ingénieurs.
-  Die *Stabilität* dieses Bauwerks beunruhigt die Ingenieure.
+  The *stability* of this structure worries the engineers.
 
   Les capteurs mesurent la *stabilité* de l'avion en vol.
-  Die Sensoren messen die Flug*stabilität* des Flugzeugs.
+  The sensors measure the flight *stability* of the aircraft.
 
   Cette voiture offre une excellente *stabilité* sur route mouillée.
-  Dieses Auto bietet eine ausgezeichnete *Straßenlage* auf nasser Fahrbahn.
+  This car offers an excellent road position on wet road.
 
   La banque centrale garantit la *stabilité* des prix.
-  Die Zentralbank garantiert die Preis*stabilität*.
+  The central bank guarantees price *stability*.
 
   Les marchés financiers recherchent la *stabilité* des cours.
-  Die Finanzmärkte streben nach Kurs*stabilität*.
+  Financial markets are striving for price *stability*.
 
   Son manque de *stabilité* émotionnelle l'empêche de garder un emploi.
-  Seine mangelnde psychische *Stabilität* hindert ihn daran, einen Job zu behalten.
+  His lack of psychological *stability* prevents him from keeping a job.
 
   La *stabilité* des institutions démocratiques est essentielle.
-  Die *Stabilität* der demokratischen Institutionen ist wesentlich.
+  The *stability* of democratic institutions is essential.
 
   La *stabilité* du franc suisse attire les investisseurs.
-  Die *Stabilität* des Schweizer Frankens zieht Investoren an.
+  The *stability* of the Swiss franc attracts investors.
 
   Le nouveau pont a fait l'objet de tests de *stabilité*.
-  Die neue Brücke wurde auf *Stabilität* getestet.
+  The new bridge was tested for *stability*.
 
   La *stabilité* de la production assure des revenus réguliers.
-  Die *Stabilität* der Produktion sichert regelmäßige Einnahmen.
+  The *stability* of production ensures regular revenue.
 
   Les adolescents cherchent leur *stabilité* intérieure.
-  Jugendliche suchen nach innerer *Stabilität*.
+  Young people are looking for inner *stability*.
 
   La *stabilité* atmosphérique favorise la formation du brouillard.
-  Die atmosphärische *Stabilität* begünstigt die Nebelbildung.
+  The atmospheric *stability* favours the formation of fog.
 
   Le stockage prolongé n'affecte pas la *stabilité* de ce carburant.
-  Die längere Lagerung beeinträchtigt die *Stabilität* dieses Treibstoffs nicht.
+  The longer storage does not affect the *stability* of this fuel.
 
   La *stabilité* gouvernementale contribue à la croissance économique.
-  Die *Stabilität* der Regierung trägt zum Wirtschaftswachstum bei.
+  The *stability* of the government contributes to economic growth.
 
   Cette entreprise offre une grande *stabilité* d'emploi.
-  Dieses Unternehmen bietet eine hohe Arbeitsplatz*stabilität*.
+  This company offers a high level of job *stability*.
 
   Sa *stabilité* d'humeur impressionne ses collègues.
-  Seine *Stabilität* in der Stimmung beeindruckt seine Kollegen.
+  His *stability* in the mood impresses his colleagues.
 
   Les physiciens étudient la *stabilité* des noyaux atomiques.
-  Die Physiker untersuchen die *Stabilität* der Atomkerne.
+  The physicists investigate the *stability* of the atomic nuclei.
 
   La *stabilité* du personnel contribue au succès de l'entreprise.
-  Die *Stabilität* der Belegschaft trägt zum Unternehmenserfolg bei.
+  The *stability* of the workforce contributes to the company's success.
 
   Le ferry maintient sa *stabilité* même par mer agitée.
-  Die Fähre behält ihre *Stabilität* auch bei bewegter See.
+  The ferry retains its *stability* even in the case of moving seas.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

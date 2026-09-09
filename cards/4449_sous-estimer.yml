@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4449
 Wort: sous-estimer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sous-estimer
 Femininum / Plural: ''
 IPA: \su.zɛs.ti.me\
-Definition: unterschätzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Underestimate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ne *sous-estimez* pas votre charme.
-  *Unterschätzen* Sie Ihren Charme nicht.
+  Don't *underestimate* your charm.
 
   Tu *sous-estimes* toujours la valeur de cette vieille montre.
-  Du *unterschätzt* immer den Wert dieser alten Uhr.
+  You always underestimate the value of this old watch.
 
   L'expert avait *sous-estimé* le prix de ce tableau de plusieurs milliers d'euros.
-  Der Experte hatte den Preis dieses Gemäldes um mehrere tausend Euro *unterschätzt*.
+  The expert had underestimated the price of this painting by several thousand euros.
 
   Je me *sous-estime* souvent, mais mes amis me rappellent mes qualités.
-  Ich *unterschätze* mich oft, aber meine Freunde erinnern mich an meine Qualitäten.
+  I often underestimate myself, but my friends remind me of my qualities.
 
   Nous avons gravement *sous-estimé* la durée du trajet.
-  Wir haben die Dauer der Fahrt schwer *unterschätzt*.
+  We have seriously underestimated the duration of the journey.
 
   Les météorologues ont *sous-estimé* la force de la tempête.
-  Die Meteorologen haben die Stärke des Sturms *unterschätzt*.
+  Meteorologists have underestimated the strength of the storm.
 
   Marie *sous-estime* complètement ses chances de réussir l'examen.
-  Marie *unterschätzt* ihre Chancen, die Prüfung zu bestehen, völlig.
+  Marie completely underestimates her chances of passing the exam.
 
   En *sous-estimant* nos concurrents, nous avons perdu des clients importants.
-  Indem wir unsere Konkurrenten *unterschätzten*, haben wir wichtige Kunden verloren.
+  By underestimating our competitors, we have lost important customers.
 
   L'architecte a *sous-estimé* le coût total de la construction.
-  Der Architekt hat die Gesamtkosten des Baus *unterschätzt*.
+  The architect has underestimated the total cost of the construction.
 
   Il ne faut jamais *sous-estimer* l'importance d'une bonne préparation.
-  Man darf die Bedeutung einer guten Vorbereitung nie *unterschätzen*.
+  We must never *underestimate* the importance of good preparation.
 
   Pierre *sous-estime* systématiquement ses compétences professionnelles.
-  Pierre *unterschätzt* seine beruflichen Fähigkeiten systematisch.
+  Pierre systematically underestimates his professional skills.
 
   Les dangers de la montagne sont souvent *sous-estimés* par les débutants.
-  Die Gefahren des Berges werden von Anfängern oft *unterschätzt*.
+  The dangers of the mountain are often underestimated by beginners.
 
   En *sous-estimant* la difficulté de l'exercice, j'ai échoué.
-  Weil ich die Schwierigkeit der Aufgabe *unterschätzt* habe, bin ich gescheitert.
+  Because I underestimated the difficulty of the task, I failed.
 
   N'as-tu pas *sous-estimé* l'impact de tes paroles sur elle ?
-  Hast du die Wirkung deiner Worte auf sie nicht *unterschätzt*?
+  Didn't you underestimate the effect of your words on them?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

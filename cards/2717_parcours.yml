@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2717
 Wort: parcours
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le parcours
 Femininum / Plural: ''
 IPA: \paʁ.kuʁ\
-Definition: Strecke, Lauf
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Route, run
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis en bout de *parcours*.
-  Ich bin am Ende meines *Weges*.
+  I'm at the end of my way.
 
   Le *parcours* du marathon traverse toute la ville.
-  Die *Strecke* des Marathons führt durch die ganze Stadt.
+  The route of the marathon runs through the whole city.
 
   Elle a effectué un *parcours* sans faute en équitation.
-  Sie hat einen fehlerfreien *Durchgang* im Reitsport absolviert.
+  She has completed a fault-free course in equestrian sports.
 
   Le fleuve suit un *parcours* sinueux à travers la vallée.
-  Der Fluss nimmt einen gewundenen *Lauf* durch das Tal.
+  The river takes a winding course through the valley.
 
   "Son *parcours* professionnel est vraiment impressionnant."
-  "Sein beruflicher *Werdegang* ist wirklich beeindruckend."
+  "His *career* is really impressive."
 
   Les golfeurs se préparent pour le *parcours* de 18 trous.
-  Die Golfspieler bereiten sich auf den 18-Loch-*Parcours* vor.
+  The golfers are preparing for the 18-hole *course*.
 
   Le bus emprunte un nouveau *parcours* à partir de demain.
-  Der Bus fährt ab morgen eine neue *Strecke*.
+  The bus leaves a new route from tomorrow.
 
   Cette exposition retrace le *parcours* artistique de Picasso.
-  Diese Ausstellung zeichnet Picassos künstlerischen *Werdegang* nach.
+  This exhibition traces Picasso's artistic *career*.
 
   Le *parcours* du combattant a été particulièrement difficile aujourd'hui.
-  Der Hindernis*lauf* war heute besonders schwierig.
+  The obstacle course was particularly difficult today.
 
   "J'ai rencontré quelques *incidents de parcours* dans mon projet."
-  "Ich bin in meinem Projekt auf einige *unvorhergesehene Schwierigkeiten* gestoßen."
+  "I encountered some *unforeseen difficulties* in my project."
 
   Les étudiants doivent choisir leur *parcours* universitaire avec soin.
-  Die Studenten müssen ihren universitären *Bildungsweg* sorgfältig wählen.
+  Students must carefully choose their university education path.
 
   Le *parcours* de ce politicien est marqué par de nombreux scandales.
-  Die *Laufbahn* dieses Politikers ist von zahlreichen Skandalen geprägt.
+  The *career* of this politician is marked by numerous scandals.
 
   Les randonneurs ont terminé leur *parcours* en trois jours.
-  Die Wanderer haben ihre *Tour* in drei Tagen beendet.
+  Hikers have finished their *tour* in three days.
 
   Le *parcours* client a été optimisé pour améliorer l'expérience d'achat.
-  Die *Customer Journey* wurde optimiert, um das Einkaufserlebnis zu verbessern.
+  The *Customer Journey* has been optimized to improve the shopping experience.
 
   Ce parc propose un *parcours santé* pour les sportifs.
-  Dieser Park bietet einen *Trimm-dich-Pfad* für Sportler an.
+  This park offers a trim-dich path for athletes.
 
   Le *parcours* de l'eau dans la station d'épuration est complexe.
-  Der *Weg* des Wassers durch die Kläranlage ist komplex.
+  The way of water through the sewage treatment plant is complex.
 
   Les oiseaux migrateurs suivent un *parcours* bien défini chaque année.
-  Die Zugvögel folgen jedes Jahr einer genau festgelegten *Route*.
+  The migratory birds follow a well-defined *route* each year.
 
   "Le *parcours* de ma vie a pris un tournant inattendu."
-  "Mein Lebens*weg* hat eine unerwartete Wendung genommen."
+  "My way of life has taken an unexpected turn."
 
   L'agriculteur a aménagé un *parcours* pour ses poules en plein air.
-  Der Landwirt hat einen *Auslauf* für seine Freilandhühner angelegt.
+  The farmer has made a run for his free-range chickens.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

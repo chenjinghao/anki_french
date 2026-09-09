@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4980
 Wort: solidaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: solidaire
 Femininum / Plural: ''
 IPA: \sɔ.li.dɛʁ\
-Definition: solidarisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: solidarity
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On cesse de se sentir responsable et *solidaire* d'autrui.
-  Man hört auf, sich verantwortlich und *solidarisch* mit anderen zu fühlen.
+  You stop feeling responsible and in *solidarity* with others.
 
   Les enseignants se sont montrés *solidaires* des étudiants pendant la grève.
-  Die Lehrer haben sich während des Streiks *solidarisch* mit den Studenten gezeigt.
+  The teachers showed *solidarity* with the students during the strike.
 
   Dans ce quartier, tous les voisins sont *solidaires* en cas de besoin.
-  In diesem Viertel *stehen* alle Nachbarn *füreinander ein*, wenn es nötig ist.
+  In this neighborhood, all *the* neighbors stand up *for each other* when necessary.
 
   Notre mission est de créer une économie plus *solidaire*.
-  Unsere Mission ist es, eine *solidarische* Wirtschaft zu schaffen.
+  Our mission is to create an economy of *solidarity*.
 
   "Je suis *solidaire* de votre décision", a déclaré le ministre.
-  "Ich *stehe* *hinter* Ihrer Entscheidung", erklärte der Minister.
+  "I support your decision," the minister said.
 
   Les époux sont *solidaires* des dettes contractées pendant le mariage.
-  Die Ehepartner haften *gesamtschuldnerisch* für die während der Ehe eingegangenen Schulden.
+  The spouses are *jointly and severally liable* for the debts incurred during the marriage.
 
   Les deux roues sont *solidaires* de l'axe principal.
-  Die beiden Räder sind fest mit der Hauptachse *verbunden*.
+  The two wheels are firmly *connected* to the main axle.
 
   Ces phénomènes climatiques sont étroitement *solidaires*.
-  Diese Klimaphänomene *hängen* eng *zusammen*.
+  These climate phenomena are closely linked.
 
   Marie s'est portée caution *solidaire* pour le prêt de son fils.
-  Marie ist als *Solidar*bürgin für den Kredit ihres Sohnes eingetreten.
+  Marie is a *solidar* voucher for her son's loan.
 
   Le développement et l'environnement sont des enjeux *solidaires*.
-  Entwicklung und Umwelt sind *voneinander abhängige* Herausforderungen.
+  Development and the environment are interdependent challenges.
 
   Pierre n'est pas *solidaire* des opinions exprimées par son groupe.
-  Pierre *steht* nicht *hinter* den Meinungen, die seine Gruppe geäußert hat.
+  Pierre is not *behind* the opinions expressed by his group.
 
   La communauté internationale doit être *solidaire* face à cette crise.
-  Die internationale Gemeinschaft muss sich in dieser Krise *solidarisch* zeigen.
+  The international community must show *solidarity* in this crisis.
 
   Les pièces du moteur sont *solidaires* les unes des autres.
-  Die Motorteile sind fest *miteinander verbunden*.
+  The engine parts are firmly *connected* to each other.
 
   Cette association promeut le commerce *solidaire*.
-  Dieser Verein fördert den *solidarischen* Handel.
+  This association promotes trade in solidarity.
 
   Les débiteurs *solidaires* doivent rembourser ensemble l'intégralité du prêt.
-  Die *gesamtschuldnerischen* Schuldner müssen gemeinsam den gesamten Kredit zurückzahlen.
+  The joint and several debtors must jointly repay the entire loan.
 
   Nos destins sont *solidaires* : ce qui vous affecte m'affecte aussi.
-  Unsere Schicksale sind *miteinander verbunden*: Was Sie betrifft, betrifft auch mich.
+  Our fates are *connected*: as far as you are concerned, so do I.
 
   Le guidon est rendu *solidaire* du cadre par deux vis.
-  Der Lenker ist durch zwei Schrauben fest am Rahmen *befestigt*.
+  The handlebar is fixed to the frame by two screws.
 
   Les membres de l'équipe sont restés *solidaires* malgré la défaite.
-  Die Teammitglieder sind trotz der Niederlage *zusammengestanden*.
+  The team members were together despite the defeat.
 
   Cette poutre est *solidaire* du mur porteur.
-  Dieser Balken ist fest mit der tragenden Wand *verbunden*.
+  This beam is firmly *connected* to the supporting wall.
 
   Les pays européens se veulent *solidaires* dans la lutte contre le changement climatique.
-  Die europäischen Länder wollen im Kampf gegen den Klimawandel *solidarisch* sein.
+  The European countries want to show *solidarity* in the fight against climate change.
 
   La justice et la paix sont des valeurs *solidaires*.
-  Gerechtigkeit und Frieden sind *untrennbar verbundene* Werte.
+  Justice and peace are *inseparably linked* values.
 
   Les artisans du quartier forment un réseau *solidaire*.
-  Die Handwerker des Viertels bilden ein *solidarisches* Netzwerk.
+  The craftsmen of the district form a network of solidarity.
 
   Sophie et Paul se sont déclarés *solidaires* du mouvement social.
-  Sophie und Paul haben sich mit der sozialen Bewegung *solidarisch* erklärt.
+  Sophie and Paul have expressed *solidarity* with the social movement.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

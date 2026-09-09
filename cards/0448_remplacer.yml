@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 448
 Wort: remplacer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: remplacer
 Femininum / Plural: ''
 IPA: \ʁɑ̃.pla.se\
-Definition: ersetzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Replace
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu dois être prêt à nous *remplacer*, le cas échéant.
-  Du musst bereit sein, uns gegebenenfalls zu *vertreten*.
+  You must be willing to represent us if necessary.
 
   Elle va *remplacer* le médecin pendant ses vacances.
-  Sie wird den Arzt während seines Urlaubs *vertreten*.
+  She will represent the doctor during his vacation.
 
   L'équipe technique doit *remplacer* tous les composants défectueux.
-  Das technische Team muss alle defekten Komponenten *austauschen*.
+  The technical team must replace all defective components.
 
   Le directeur a *remplacé* son assistant par quelqu'un de plus compétent.
-  Der Direktor hat seinen Assistenten durch jemand Kompetenteres *ersetzt*.
+  The director *replaced* his assistant with someone more competent.
 
   Les calculatrices ont *remplacé* les règles à calcul dans les écoles.
-  Taschenrechner haben die Rechenschieber in den Schulen *ersetzt*.
+  Calculators have *replaced* the calculators in the schools.
 
   Paul s'est fait *remplacer* au dernier moment par son collègue.
-  Paul hat sich im letzten Moment von seinem Kollegen *vertreten* lassen.
+  Paul was *represented* by his colleague at the last moment.
 
   Je dois *remplacer* ma vieille voiture qui tombe en panne.
-  Ich muss mein altes Auto, das ständig kaputtgeht, *ersetzen*.
+  I have to *replace* my old car that's always broken.
 
   Marc pourra me *remplacer* pendant la réunion demain.
-  Marc kann mich morgen bei der Besprechung *vertreten*.
+  Marc can represent me at the meeting tomorrow.
 
   Le professeur malade a été *remplacé* par un nouveau.
-  Der kranke Lehrer wurde durch einen neuen *ersetzt*.
+  The sick teacher was *replaced* by a new one.
 
   Nous devons *remplacer* les rideaux par des stores.
-  Wir müssen die Vorhänge durch Jalousien *ersetzen*.
+  We need to *replace* the curtains with blinds.
 
   Cette machine peut *remplacer* trois ouvriers à elle seule.
-  Diese Maschine kann drei Arbeiter alleine *ersetzen*.
+  This machine can *replace* three workers alone.
 
   Les énergies renouvelables vont progressivement *remplacer* le pétrole.
-  Erneuerbare Energien werden nach und nach das Erdöl *ersetzen*.
+  Renewable energies will gradually *replace* oil.
 
   Il faut *remplacer* la batterie de mon téléphone.
-  Die Batterie meines Handys muss *ausgetauscht* werden.
+  My cell phone's battery needs to be replaced.
 
   Sophie et Marie se sont *remplacées* au volant pendant le long trajet.
-  Sophie und Marie haben sich während der langen Fahrt am Steuer *abgelöst*.
+  Sophie and Marie took over during the long drive at the wheel.
 
   Le miel peut *remplacer* le sucre dans cette recette.
-  Der Honig kann in diesem Rezept den Zucker *ersetzen*.
+  The honey can *replace* the sugar in this recipe.
 
   Une génération *remplace* naturellement l'autre.
-  Eine Generation *löst* natürlich die andere *ab*.
+  One generation, of course, replaces the other.
 
   Ce logiciel va *remplacer* l'ancien système.
-  Diese Software wird das alte System *ablösen*.
+  This software will replace the old system.
 
   Les LED ont *remplacé* les ampoules traditionnelles.
-  LED-Lampen haben die traditionellen Glühbirnen *ersetzt*.
+  LED lamps have *replaced* the traditional light bulbs.
 
   Le joueur blessé a été *remplacé* à la mi-temps.
-  Der verletzte Spieler wurde zur Halbzeit *ausgewechselt*.
+  The injured player was replaced at half-time.
 
   Il faut *remplacer* ce pneu usé avant l'hiver.
-  Dieser abgenutzte Reifen muss vor dem Winter *ausgewechselt* werden.
+  This worn tire must be replaced before winter.
 
   Rien ne peut *remplacer* l'expérience pratique.
-  Nichts kann praktische Erfahrung *ersetzen*.
+  Nothing can *replace* practical experience.
 
   Les emails ont largement *remplacé* le courrier traditionnel.
-  E-Mails haben die traditionelle Post weitgehend *ersetzt*.
+  E-mails have largely *replaced* traditional mail.
 
   Je dois *remplacer* la serrure cassée de ma porte.
-  Ich muss das kaputte Schloss meiner Tür *austauschen*.
+  I need to replace the broken lock of my door.
 
   Cette pièce rare ne peut pas se *remplacer* facilement.
-  Dieses seltene Teil lässt sich nicht einfach *ersetzen*.
+  This rare part cannot be easily replaced.
 
   L'euro a *remplacé* le franc en 2002.
-  Der Euro hat 2002 den Franc *abgelöst*.
+  The euro *replaced* the franc in 2002.
 
   Le numérique a *remplacé* l'analogique dans la photographie.
-  Die digitale hat die analoge Fotografie *abgelöst*.
+  The digital has *replaced* analogue photography.
 
   Les robots vont-ils *remplacer* les humains un jour?
-  Werden Roboter die Menschen eines Tages *ersetzen*?
+  Will robots one day *replace* people?
 
   Julie va *remplacer* Marie à la direction du projet.
-  Julie wird Marie in der Projektleitung *ablösen*.
+  Julie will replace Marie in project management.
 
   La joie a *remplacé* la tristesse dans ses yeux.
-  Freude hat die Traurigkeit in ihren Augen *ersetzt*.
+  Joy has *replaced* sadness in their eyes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3460
 Wort: hâte
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la hâte
 Femininum / Plural: ''
 IPA: \'ɑt\
-Definition: Eile
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Quickly
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On avait caché en *hâte* les drapeaux.
-  Man hatte die Flaggen in *Eile* versteckt.
+  The flags had been hidden in a hurry.
 
   Elle a mis beaucoup de *hâte* dans ses préparatifs de voyage.
-  Sie legte viel *Hast* in ihre Reisevorbereitungen.
+  She put a lot of haste in her travel preparations.
 
   "J'ai fait mes devoirs à la *hâte* ce matin."
-  "Ich habe meine Hausaufgaben heute Morgen auf die *Schnelle* gemacht."
+  "I've done my homework this morning."
 
   Je *n'ai qu'une hâte, c'est de* retrouver ma famille.
-  Ich *kann es kaum erwarten*, meine Familie wiederzusehen.
+  I *can't wait* to see my family again.
 
   Les invités sont sortis en toute *hâte* quand l'alarme a sonné.
-  Die Gäste sind in aller *Eile* hinausgegangen, als der Alarm losging.
+  The guests went out in a hurry when the alarm went off.
 
   Il travaille *sans hâte*, mais efficacement.
-  Er arbeitet *gemächlich*, aber effizient.
+  He works *leisurely*, but efficiently.
 
   J'*ai hâte de* découvrir mon cadeau d'anniversaire !
-  Ich *kann es kaum erwarten*, mein Geburtstagsgeschenk zu sehen!
+  I *can't wait* to see my birthday present!
 
   Sa *hâte* excessive a causé plusieurs erreurs.
-  Seine übermäßige *Hast* hat zu mehreren Fehlern geführt.
+  His excessive haste has led to several mistakes.
 
   Nous nous sommes habillés en *hâte* pour ne pas rater le train.
-  Wir haben uns in *Eile* angezogen, um den Zug nicht zu verpassen.
+  We got dressed in a hurry not to miss the train.
 
   Elle *met toujours de la hâte à* terminer son travail.
-  Sie *beeilt sich* immer damit, ihre Arbeit zu beenden.
+  She always rushes to finish her work.
 
   Le médecin est venu en toute *hâte* examiner le patient.
-  Der Arzt kam in aller *Eile*, um den Patienten zu untersuchen.
+  The doctor came in a hurry to examine the patient.
 
   *As-tu hâte de* commencer ton nouveau travail ?
-  *Kannst du es kaum erwarten*, mit deiner neuen Arbeit anzufangen?
+  Can't you wait to start your new work?
 
   Cette lettre a été écrite à la *hâte*.
-  Dieser Brief wurde in *Hast* geschrieben.
+  This letter was written in Haste.
 
   Paul *n'a qu'une hâte* : partir en vacances.
-  Paul *kann es kaum erwarten*, in den Urlaub zu fahren.
+  Paul *can't wait* to go on vacation.
 
   Les pompiers sont arrivés en grande *hâte*.
-  Die Feuerwehr kam in größter *Eile*.
+  The fire department came in a hurry.
 
   Nous *avons hâte que* l'été arrive.
-  Wir *können es kaum erwarten*, dass der Sommer kommt.
+  We *can't wait* for the summer to come.
 
   Il a rangé ses affaires à la *hâte* avant de partir.
-  Er hat seine Sachen *hastig* zusammengepackt, bevor er ging.
+  He hastily packed his things before he left.
 
   Sa *hâte* de réussir lui fait parfois commettre des erreurs.
-  Seine *Hast*, erfolgreich zu sein, lässt ihn manchmal Fehler machen.
+  His haste to be successful sometimes makes him make mistakes.
 
   Ils se sont préparés en *hâte* pour la réunion.
-  Sie haben sich in *Eile* auf die Besprechung vorbereitet.
+  You've been preparing for the meeting in a hurry.
 
   Les enfants *ont hâte d'*ouvrir leurs cadeaux de Noël.
-  Die Kinder *können es kaum erwarten*, ihre Weihnachtsgeschenke zu öffnen.
+  The children *can't wait* to open their Christmas presents.
 
   Ce rapport a été rédigé à la *hâte*.
-  Dieser Bericht wurde in *Hast* verfasst.
+  This report was written in Hast.
 
   Marie *a hâte de* rencontrer son nouveau petit frère.
-  Marie *kann es kaum erwarten*, ihren neuen kleinen Bruder kennenzulernen.
+  Marie *can't wait* to meet her new little brother.
 
   Il marchait *sans hâte* dans le parc.
-  Er ging *gemächlich* durch den Park.
+  He walked *leisurely* through the park.
 
   Nous *avons grande hâte de* vous revoir !
-  Wir *können es kaum erwarten*, euch wiederzusehen!
+  We *can't wait* to see you again!
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p>Man benutzt <b>avoir hâte</b>, um auszudrücken, dass man etwas kaum erwarten kann.</p>
+  <p>One uses <b>avoir hâte</b>To say that you can't wait for anything.</p>
   <div class="examples">
     <div class="fr">J'ai trop hâte d'être en weekend.</div>
-    <div class="de spoiler">Ich freue mich sehr auf das Wochenende.</div>
+    <div class="de spoiler">I'm looking forward to the weekend.</div>
   </div>
   <!-- Grammar automatically added -->
   <hr>

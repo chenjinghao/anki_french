@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4646
 Wort: harmoniser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: harmoniser
 Femininum / Plural: ''
 IPA: \aʁ.mɔ.ni.ze\
-Definition: aufeinander abstimmen, in Einklang bringen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: to coordinate, to reconcile
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *harmonise* les règles.
-  Er *stimmt* die Regeln aufeinander *ab*.
+  He's matching the rules.
 
   Le peintre a *harmonisé* les couleurs de sa toile avec soin.
-  Der Maler hat die Farben seiner Leinwand sorgfältig *aufeinander abgestimmt*.
+  The painter carefully *matched* the colours of his canvas.
 
   Les voix des choristes s'*harmonisent* parfaitement.
-  Die Stimmen der Chorsänger *harmonieren* perfekt miteinander.
+  The voices of the choir singers harmonize perfectly with each other.
 
   Le compositeur a *harmonisé* cette mélodie traditionnelle.
-  Der Komponist hat diese traditionelle Melodie *harmonisiert*.
+  The composer has harmonized this traditional melody.
 
   Nous devons *harmoniser* nos horaires avec ceux des autres départements.
-  Wir müssen unsere Zeitpläne mit denen der anderen Abteilungen *abstimmen*.
+  We need to coordinate our schedules with those of the other departments.
 
   Son style vestimentaire s'*harmonise* bien avec sa personnalité.
-  Ihr Kleidungsstil *harmoniert* gut mit ihrer Persönlichkeit.
+  Her style of clothing harmonizes well with her personality.
 
   L'architecte a *harmonisé* les nouvelles constructions avec le paysage existant.
-  Der Architekt hat die neuen Gebäude mit der bestehenden Landschaft in *Einklang gebracht*.
+  The architect has brought the new buildings into line with the existing landscape.
 
   Le facteur d'orgues *harmonise* chaque tuyau avec précision.
-  Der Orgelbauer *stimmt* jede Pfeife präzise *ab*.
+  The organ builder precisely tunes each pipe.
 
   Ces deux propositions ne s'*harmonisent* pas du tout.
-  Diese beiden Vorschläge *harmonieren* überhaupt nicht miteinander.
+  These two proposals do not harmonize at all.
 
   Elle a parfaitement *harmonisé* le maquillage avec sa tenue de soirée.
-  Sie hat das Make-up perfekt mit ihrem Abendkleid *abgestimmt*.
+  She perfectly matched the make-up with her evening dress.
 
   Les pays européens cherchent à *harmoniser* leurs politiques environnementales.
-  Die europäischen Länder versuchen, ihre Umweltpolitik *aufeinander abzustimmen*.
+  The European countries are trying *to coordinate* their environmental policies.
 
   La décoratrice *harmonise* les couleurs des murs avec celles des meubles.
-  Die Innendekorateurin *stimmt* die Wandfarben mit den Möbelfarben *ab*.
+  The interior decorator matches the wall colors with the furniture colors.
 
   Ces tons pastels s'*harmonisent* naturellement entre eux.
-  Diese Pastelltöne *harmonieren* von Natur aus miteinander.
+  These pastel tones harmonize by nature.
 
   Le chef d'orchestre a *harmonisé* plusieurs chansons folkloriques.
-  Der Dirigent hat mehrere Volkslieder *harmonisiert*.
+  The conductor has harmonized several folk songs.
 
   Nous devons *harmoniser* nos efforts pour réussir ce projet.
-  Wir müssen unsere Bemühungen *aufeinander abstimmen*, um dieses Projekt erfolgreich abzuschließen.
+  We need to coordinate our efforts to complete this project successfully.
 
   Les tissus s'*harmonisent* parfaitement avec le papier peint.
-  Die Stoffe *passen* perfekt zur Tapete.
+  The fabrics *fit* perfectly with the wallpaper.
 
   L'artiste a *harmonisé* les différentes parties de son œuvre.
-  Der Künstler hat die verschiedenen Teile seines Werks miteinander in *Einklang gebracht*.
+  The artist has reconciled the various parts of his work.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

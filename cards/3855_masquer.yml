@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3855
 Wort: masquer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: masquer
 Femininum / Plural: ''
 IPA: \mas.ke\
-Definition: verdecken
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: cover
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le brouillard descendit des montagnes, *masquant* le coucher de soleil.
-  Der Nebel stieg von den Bergen herab und *verdeckte* den Sonnenuntergang.
+  The fog descended from the mountains and *covered* the sunset.
 
   Les grands immeubles *masquent* la vue sur la mer.
-  Die großen Gebäude *verdecken* die Sicht aufs Meer.
+  The large buildings *cover* the view of the sea.
 
   Les enfants se sont *masqués* pour la fête de carnaval.
-  Die Kinder haben sich für die Karnevalsfeier *maskiert*.
+  The children have *masked* themselves for the carnival party.
 
   Cette sauce forte *masque* complètement le goût délicat du poisson.
-  Diese starke Soße *überdeckt* den feinen Fischgeschmack völlig.
+  This strong sauce completely covers the fine fish taste.
 
   Un groupe d'arbres *masque* l'entrée de la grotte.
-  Eine Gruppe von Bäumen *verdeckt* den Höhleneingang.
+  A group of trees hides the cave entrance.
 
   Le paravent chinois *masque* élégamment le coin bureau.
-  Der chinesische Paravent *verdeckt* geschmackvoll die Arbeitsecke.
+  The Chinese Paravent hides the work corner with taste.
 
   Pour Halloween, Marie s'est *masqué* le visage avec un masque effrayant.
-  Zu Halloween hat Marie ihr Gesicht mit einer gruseligen Maske *bedeckt*.
+  For Halloween, Marie *covered* her face with a creepy mask.
 
   Il essaie de *masquer* sa tristesse derrière un sourire.
-  Er versucht seine Traurigkeit hinter einem Lächeln zu *verbergen*.
+  He tries to *hide* his sadness behind a smile.
 
   Des voleurs *masqués* ont attaqué la banque hier soir.
-  *Maskierte* Räuber haben gestern Abend die Bank überfallen.
+  *Masked* robbers attacked the bank last night.
 
   La musique forte *masque* les bruits de la rue.
-  Die laute Musik *überdeckt* die Straßengeräusche.
+  The loud music covers the street noises.
 
   Elle se *masque* toujours derrière son travail pour éviter les relations.
-  Sie *versteckt* sich immer hinter ihrer Arbeit, um Beziehungen zu vermeiden.
+  She always hides behind her work to avoid relationships.
 
   Le parfum intense *masque* l'odeur de cuisine.
-  Das intensive Parfüm *überdeckt* den Küchengeruch.
+  The intense perfume covers the kitchen smell.
 
   Les soldats ont *masqué* leur position avec des branches.
-  Die Soldaten haben ihre Stellung mit Zweigen *getarnt*.
+  The soldiers disguised their position with twigs.
 
   Un rideau épais *masque* la fenêtre.
-  Ein dicker Vorhang *verdeckt* das Fenster.
+  A thick curtain covers the window.
 
   Les nuages *masquent* peu à peu la lune.
-  Die Wolken *verdecken* nach und nach den Mond.
+  The clouds gradually *cover* the moon.
 
   Pourquoi *masques*-tu toujours tes véritables intentions ?
-  Warum *verheimlichst* du immer deine wahren Absichten?
+  Why do you always hide your true intentions?
 
   L'équipe a *masqué* les données sensibles dans le document.
-  Das Team hat die sensiblen Daten im Dokument *ausgeblendet*.
+  The team has *hidden* the sensitive data in the document.
 
   Le maquillage *masque* ses cernes.
-  Das Make-up *verdeckt* ihre Augenringe.
+  The makeup covers her eye rings.
 
   Une porte *masquée* mène au jardin secret.
-  Eine *verborgene* Tür führt zum geheimen Garten.
+  A *hidden* door leads to the secret garden.
 
   Les danseurs se sont *masqués* pour le bal costumé.
-  Die Tänzer haben sich für den Maskenball *maskiert*.
+  The dancers *masked* themselves for the mask ball.
 
   Le gouvernement essaie de *masquer* la gravité de la situation.
-  Die Regierung versucht den Ernst der Lage zu *verschleiern*.
+  The government is trying to conceal the seriousness of the situation.
 
   La neige *masque* tous les défauts du paysage.
-  Der Schnee *verdeckt* alle Mängel der Landschaft.
+  The snow conceals all the shortcomings of the landscape.
 
   Ces rideaux peuvent *masquer* la lumière du jour.
-  Diese Vorhänge können das Tageslicht *abdunkeln*.
+  These curtains can *darken* the daylight.
 
   Le grand navire *masque* le vent aux petits bateaux.
-  Das große Schiff *nimmt* den kleinen Booten den Wind *weg*.
+  The big ship *takes* the wind *away* from the small boats.
 
   Les médias tentent de *masquer* la vérité au public.
-  Die Medien versuchen, die Wahrheit vor der Öffentlichkeit zu *verbergen*.
+  The media are trying to *hide* the truth from the public.
 
   Elle s'est *masquée* derrière un pseudonyme sur internet.
-  Sie hat sich im Internet hinter einem Pseudonym *versteckt*.
+  She's been hiding behind a pseudonym on the Internet.
 
   Le bruit de la cascade *masque* nos voix.
-  Das Rauschen des Wasserfalls *überdeckt* unsere Stimmen.
+  The sound of the waterfall covers our voices.
 
   Le chef a *masqué* le plat d'une sauce crémeuse.
-  Der Koch hat das Gericht mit einer cremigen Sauce *überzogen*.
+  The chef covered the dish with a creamy sauce.
 
   Cette crème *masque* efficacement les imperfections de la peau.
-  Diese Creme *verdeckt* Hautunreinheiten effektiv.
+  This cream effectively masks skin impurities.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 827
 Wort: médecin
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le médecin
 Femininum / Plural: ''
 IPA: \med.sɛ̃\
-Definition: Arzt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Doctor
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai besoin d'un *médecin*.
-  Ich brauche einen *Arzt*.
+  I need a *doctor*.
 
   Le *médecin* traitant lui a prescrit des antibiotiques.
-  Der behandelnde *Arzt* hat ihr Antibiotika verschrieben.
+  The treating physician prescribed her antibiotics.
 
   Elle est *médecin* de campagne depuis vingt ans.
-  Sie ist seit zwanzig Jahren Land*ärztin*.
+  She's been a country doctor for twenty years.
 
   Un *médecin* généraliste examine plus de patients qu'un spécialiste.
-  Ein Haus*arzt* untersucht mehr Patienten als ein Facharzt.
+  A family *doctor* examines more patients than a specialist.
 
   Le *médecin* du sport a autorisé l'athlète à reprendre l'entraînement.
-  Der Sport*mediziner* hat dem Athleten erlaubt, das Training wieder aufzunehmen.
+  The sports physician has allowed the athlete to resume training.
 
   Notre *médecin* de famille prend sa retraite le mois prochain.
-  Unser Familien*arzt* geht nächsten Monat in Rente.
+  Our family *doctor* is going to retire next month.
 
   Les *médecins* hospitaliers font souvent des gardes de nuit.
-  Die Krankenhaus*ärzte* haben oft Nachtdienst.
+  The hospital *doctors* often have night duty.
 
   Le *médecin* légiste a déterminé l'heure du décès.
-  Der Gerichts*mediziner* hat die Todeszeit festgestellt.
+  The coroner has determined the time of death.
 
   Mon frère étudie pour devenir *médecin*.
-  Mein Bruder studiert, um *Arzt* zu werden.
+  My brother's studying to become a *doctor*.
 
   As-tu déjà pris rendez-vous chez le *médecin* ?
-  Hast du schon einen Termin beim *Arzt* gemacht?
+  Have you made an appointment with the *doctor* yet?
 
   Le *médecin* du travail m'a déclaré apte à reprendre mon poste.
-  Der Betriebs*arzt* hat mich als arbeitsfähig eingestuft.
+  The company *doctor* classified me as fit for work.
 
   Cette femme *médecin* est très appréciée par ses patients.
-  Diese *Ärztin* wird von ihren Patienten sehr geschätzt.
+  This *doctor* is highly appreciated by her patients.
 
   Le *médecin*-chef dirige le service de cardiologie.
-  Der Chef*arzt* leitet die kardiologische Abteilung.
+  The chief *doctor* is in charge of the cardiology department.
 
   Les *médecins* militaires sont partis en mission humanitaire.
-  Die Militär*ärzte* sind zu einem humanitären Einsatz aufgebrochen.
+  The military *doctors* have set out for a humanitarian mission.
 
   Un bon prêtre est aussi *médecin* de l'âme.
-  Ein guter Priester ist auch ein Seelen*arzt*.
+  A good priest is also a soul *doctor*.
 
   Le *médecin*-conseil a validé mon arrêt de travail.
-  Der beratende *Arzt* hat meine Krankschreibung bestätigt.
+  The counseling *doctor* confirmed my medical record.
 
   La pénurie de *médecins* touche surtout les zones rurales.
-  Der *Ärzte*mangel betrifft vor allem ländliche Gebiete.
+  The lack of *doctors* mainly affects rural areas.
 
   Notre nouveau *médecin* de ville parle trois langues.
-  Unser neuer Stadt*arzt* spricht drei Sprachen.
+  Our new city *doctor* speaks three languages.
 
   Les *médecins* spécialistes ont des délais d'attente plus longs.
-  Die Fach*ärzte* haben längere Wartezeiten.
+  Specialists have longer waiting times.
 
   Le *médecin* biologiste analyse les résultats de laboratoire.
-  Der Labor*arzt* analysiert die Laborergebnisse.
+  The laboratory physician analyses the laboratory results.
 
   Je dois consulter un *médecin* expert pour mon dossier d'invalidité.
-  Ich muss einen Gutachter*arzt* für meinen Invaliditätsantrag aufsuchen.
+  I need to see an expert *doctor* for my disability application.
 
   Les *médecins* des hôpitaux sont en grève aujourd'hui.
-  Die Krankenhaus*ärzte* streiken heute.
+  The hospital *doctors* are on strike today.
 
   Tous les *médecins* doivent suivre une formation continue.
-  Alle *Ärzte* müssen sich regelmäßig fortbilden.
+  All *doctors* must train themselves regularly.
 
   Par ordre du *médecin*, elle doit rester au lit pendant une semaine.
-  Auf Anordnung des *Arztes* muss sie eine Woche im Bett bleiben.
+  At the *doctor*'s orders, she has to stay in bed for a week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

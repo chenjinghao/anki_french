@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 246
 Wort: également
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: également
 Femininum / Plural: ''
 IPA: \e.ɡal.mɑ̃\
-Definition: ebenfalls
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: also
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Reculer est *également* hors de question.
-  Ein Rückzug ist *ebenfalls* ausgeschlossen.
+  A retreat is *also* excluded.
 
   Les deux équipes ont joué *également* bien pendant le match.
-  Beide Mannschaften haben während des Spiels *gleich* gut gespielt.
+  Both teams played equally well during the game.
 
   J'aime le chocolat, mais j'apprécie *également* la vanille.
-  Ich mag Schokolade, aber ich schätze *auch* Vanille.
+  I like chocolate, but I *also* appreciate vanilla.
 
   Elle parle couramment l'anglais et *également* le français.
-  Sie spricht fließend Englisch und *ebenso* Französisch.
+  She speaks fluent English and French as well.
 
   Nous sommes tous *également* responsables de protéger l'environnement.
-  Wir sind alle *gleichermaßen* dafür verantwortlich, die Umwelt zu schützen.
+  We are all *equally* responsible for protecting the environment.
 
   Ce restaurant propose des plats végétariens et *également* des options sans gluten.
-  Dieses Restaurant bietet vegetarische Gerichte und *auch* glutenfreie Optionen an.
+  This restaurant offers vegetarian dishes and gluten-free options.
 
   Les hommes et les femmes devraient être traités *également* dans la société.
-  Männer und Frauen sollten in der Gesellschaft *gleich* behandelt werden.
+  Men and women should be treated equally in society.
 
   Non seulement il est intelligent, mais il est *également* très travailleur.
-  Er ist nicht nur intelligent, sondern *auch* sehr fleißig.
+  He's not only intelligent, he's *also* very diligent.
 
   Ces deux candidats sont *également* qualifiés pour le poste.
-  Diese beiden Kandidaten sind für die Stelle *gleichermaßen* qualifiziert.
+  These two candidates are *equally* qualified for the position.
 
   Le bonheur vient de l'intérieur, mais *également* des relations avec les autres.
-  Glück kommt von innen, aber *auch* aus den Beziehungen zu anderen.
+  Happiness comes from within, but *also* from relationships with others.
 
   Elle a réussi ses examens et a *également* trouvé un stage intéressant.
-  Sie hat ihre Prüfungen bestanden und *außerdem* ein interessantes Praktikum gefunden.
+  She passed her exams and *also* found an interesting internship.
 
   Ce médicament soulage la douleur et aide *également* à réduire l'inflammation.
-  Dieses Medikament lindert den Schmerz und hilft *zugleich*, die Entzündung zu reduzieren.
+  This medication relieves pain and helps to reduce inflammation.
 
   Il faut considérer non seulement le coût, mais *également* la qualité du produit.
-  Man muss nicht nur den Preis, sondern *auch* die Qualität des Produkts berücksichtigen.
+  One must not only take into account the price, but *also* the quality of the product.
 
   Cette décision affectera notre entreprise, mais *également* nos partenaires.
-  Diese Entscheidung wird unser Unternehmen, aber *auch* unsere Partner beeinflussen.
+  This decision will affect our company as well as our partners.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

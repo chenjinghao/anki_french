@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4586
 Wort: pleuvoir
 Wortart: vi(imp), vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: pleuvoir
 Femininum / Plural: ''
 IPA: \plø.vwaʁ\
-Definition: regnen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Rain
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il trouve qu'il *pleut* tous les jours.
-  Er findet, dass es jeden Tag *regnet*.
+  He thinks it's raining every day.
 
   Il a fait beau ce matin, mais maintenant il *pleut* à verse.
-  Es war heute Morgen schön, aber jetzt *regnet* es in Strömen.
+  It was nice this morning, but now it's raining.
 
   *Qu'il pleuve* ou qu'il vente, nous irons au parc demain.
-  *Ob es regnet* oder stürmt, wir gehen morgen in den Park.
+  Whether it's raining or storming, we're going to the park tomorrow.
 
   Les critiques *pleuvent* sur le nouveau film du réalisateur.
-  Die Kritiken *hageln* auf den neuen Film des Regisseurs *ein*.
+  The reviews are hailing the director's new film.
 
   "Il dépense l'argent comme s'il en *pleuvait*."
-  "Er gibt das Geld aus, als ob es vom Himmel *regnen* würde."
+  "He spends the money as if it were raining from the sky."
 
   À la fin du match, les bouteilles ont commencé à *pleuvoir* sur le terrain.
-  Am Ende des Spiels begannen Flaschen aufs Spielfeld zu *regnen*.
+  At the end of the game, bottles began to *rain* on the field.
 
   Il *pleuvait* de grosses gouttes quand je suis sorti.
-  Es *regnete* dicke Tropfen, als ich rausging.
+  It *rained* big drops when I went out.
 
   Les mauvaises notes *pleuvent* sur Marie ces derniers temps.
-  In letzter Zeit *hagelt* es schlechte Noten für Marie.
+  It's been hailing bad grades for Marie lately.
 
   Pendant le festival, les confettis *pleuvaient* du ciel.
-  Während des Festivals *regneten* Konfetti vom Himmel.
+  Confetti rained from the sky during the festival.
 
   Les messages de félicitations *pleuvent* depuis l'annonce de ses fiançailles.
-  Seit der Ankündigung ihrer Verlobung *hagelt* es Glückwünsche.
+  Since the announcement of her engagement, congratulations have been hailed.
 
   Il *pleut* des cordes depuis ce matin.
-  Es *regnet* seit heute Morgen in Strömen.
+  It's been raining since this morning.
 
   Les coups *pleuvaient* sur le punching-ball.
-  Die Schläge *prasselten* auf den Boxsack *nieder*.
+  The beatings were pounding down on the punching bag.
 
   Il a *plu* pendant toutes les vacances d'été.
-  Es hat den ganzen Sommerurlaub *geregnet*.
+  It *rained* all summer vacation.
 
   Les opportunités *pleuvent* pour lui en ce moment.
-  Die Gelegenheiten *regnen* derzeit nur so auf ihn herab.
+  The opportunities are currently raining down on him.
 
   S'il *pleut*, nous resterons à la maison.
-  Wenn es *regnet*, bleiben wir zu Hause.
+  If it *rains*, we'll stay home.
 
   Il *pleut* à seaux dehors.
-  Es *schüttet* draußen wie aus Eimern.
+  It's pouring out like buckets.
 
   Les cadeaux *pleuvaient* sur les enfants à Noël.
-  An Weihnachten *regnete* es Geschenke für die Kinder.
+  At Christmas it *rained* gifts for the children.
 
   Les bombes *pleuvaient* sur la ville pendant la guerre.
-  Während des Krieges *regneten* Bomben auf die Stadt.
+  During the war, bombs rained on the city.
 
   Il *pleut* légèrement ce matin.
-  Es *nieselt* heute Morgen.
+  It's sneezing this morning.
 
   "Il *pleut* comme vache qui pisse!"
-  "Es *gießt* in Strömen!"
+  "It pours in streams!"
 
   Les invitations *pleuvent* depuis qu'elle est devenue célèbre.
-  Seit sie berühmt ist, *hagelt* es Einladungen.
+  Since she's been famous, it's been hailing invitations.
 
   Je pense qu'il va *pleuvoir* demain.
-  Ich glaube, morgen wird es *regnen*.
+  I think it'll *rain* tomorrow.
 
   Les insultes *pleuvaient* de toutes parts.
-  Von allen Seiten *prasselten* Beleidigungen *herab*.
+  Insults from all sides rabbled *down*.
 
   Les questions *pleuvent* sur le professeur après son cours.
-  Die Fragen *hageln* nach seinem Unterricht auf den Lehrer *ein*.
+  The questions come up about his class.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

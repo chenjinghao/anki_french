@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3894
 Wort: kilo
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le kilo
 Femininum / Plural: ''
 IPA: \ˈkilo\
-Definition: Kilo
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Kilograms
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai perdu 7 *kilos* en un an.
-  Ich habe in einem Jahr 7 *Kilo* abgenommen.
+  I lost 7 kilos in a year.
 
   Le boucher vend sa viande *au kilo*.
-  Der Metzger verkauft sein Fleisch *kiloweise*.
+  The butcher sells his meat in kilos.
 
   Ajoutez 3 *kilos* de farine à la préparation.
-  Fügen Sie 3 *Kilo* Mehl zur Mischung hinzu.
+  Add 3 kilos of flour to the mixture.
 
   Le bébé pèse déjà 4 *kilos*.
-  Das Baby wiegt schon 4 *Kilo*.
+  The baby weighs four kilos.
 
   Ce fichier fait 500 *kilo*octets.
-  Diese Datei ist 500 *Kilo*byte groß.
+  This file is 500 kilobytes in size.
 
   Les pommes coûtent 2 euros le *kilo*.
-  Die Äpfel kosten 2 Euro pro *Kilo*.
+  The apples cost 2 euros per kilo.
 
   Marie a acheté 2 *kilos* de tomates au marché.
-  Marie hat 2 *Kilo* Tomaten auf dem Markt gekauft.
+  Marie bought two kilos of tomatoes at the market.
 
   Le colis fait exactement 5 *kilos*.
-  Das Paket wiegt genau 5 *Kilo*.
+  The package weighs exactly 5 kilos.
 
   Le transfert de données est limité à 100 *kilo*bits par seconde.
-  Die Datenübertragung ist auf 100 *Kilo*bit pro Sekunde begrenzt.
+  Data transmission is limited to 100 kilobits per second.
 
   Il faut commander les oranges *par kilo*.
-  Man muss die Orangen *kiloweise* bestellen.
+  You have to order the oranges in kilos.
 
   La valise ne doit pas dépasser 20 *kilos*.
-  Der Koffer darf 20 *Kilo* nicht überschreiten.
+  The suitcase must not exceed 20 kilos.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

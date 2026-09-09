@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4037
 Wort: appartenance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une appartenance
 Femininum / Plural: ''
 IPA: \a.paʁ.tə.nɑ̃s\
-Definition: Zugehörigkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Membership
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le sentiment d'*appartenance* doit être entretenu.
-  Das *Zugehörigkeits*gefühl muss gepflegt werden.
+  The sense of belonging must be maintained.
 
   Son *appartenance* à notre famille n'a jamais été mise en doute.
-  Seine *Zugehörigkeit* zu unserer Familie wurde nie in Frage gestellt.
+  His affiliation to our family was never questioned.
 
   L'*appartenance* au club coûte 50 euros par mois.
-  Die *Mitgliedschaft* im Club kostet 50 Euro pro Monat.
+  *Membership* in the club costs 50 euros per month.
 
   Il a caché son *appartenance* à cette organisation pendant des années.
-  Er hat seine *Mitgliedschaft* in dieser Organisation jahrelang verheimlicht.
+  He's been hiding his *membership* in this organization for years.
 
   Julie vient de renouveler son *appartenance* au syndicat des enseignants.
-  Julie hat gerade ihre *Mitgliedschaft* in der Lehrergewerkschaft erneuert.
+  Julie has just renewed her *membership* in the teachers' union.
 
   Mon *appartenance* à ce parti politique remonte à ma jeunesse.
-  Meine *Mitgliedschaft* in dieser politischen Partei geht auf meine Jugend zurück.
+  My *membership* of this political party is due to my youth.
 
   L'*appartenance* à une communauté aide à créer des liens sociaux.
-  Die *Zugehörigkeit* zu einer Gemeinschaft hilft dabei, soziale Bindungen aufzubauen.
+  *Membership* of a community helps to build social ties.
 
   Son *appartenance* religieuse influence ses décisions quotidiennes.
-  Seine religiöse *Zugehörigkeit* beeinflusst seine täglichen Entscheidungen.
+  His religious affiliation influences his daily decisions.
 
   L'*appartenance* à ce groupe social détermine souvent nos choix.
-  Die *Zugehörigkeit* zu dieser sozialen Gruppe bestimmt oft unsere Entscheidungen.
+  *Membership* of this social group often determines our choices.
 
   Votre *appartenance* à l'association sera confirmée la semaine prochaine.
-  Ihre *Mitgliedschaft* im Verein wird nächste Woche bestätigt.
+  Your *membership* in the club will be confirmed next week.
 
   Les frais d'*appartenance* au club de sport augmenteront l'année prochaine.
-  Die *Mitglieds*beiträge für den Sportclub werden nächstes Jahr steigen.
+  Membership fees for the sports club will rise next year.
 
   Cette *appartenance* culturelle se reflète dans sa musique.
-  Diese kulturelle *Zugehörigkeit* spiegelt sich in seiner Musik wider.
+  This cultural affiliation is reflected in his music.
 
   L'*appartenance* à plusieurs groupes peut créer des conflits d'intérêts.
-  Die *Zugehörigkeit* zu mehreren Gruppen kann Interessenkonflikte verursachen.
+  *Membership* of several groups may cause conflicts of interest.
 
   Son *appartenance* ethnique n'a jamais posé de problèmes dans l'équipe.
-  Seine ethnische *Zugehörigkeit* hat im Team nie Probleme verursacht.
+  His ethnicity has never caused problems in the team.
 
   L'*appartenance* à cette chambre de commerce offre de nombreux avantages.
-  Die *Mitgliedschaft* in dieser Handelskammer bietet viele Vorteile.
+  *Membership* of this Chamber of Commerce offers many advantages.
 
   La relation d'*appartenance* est un concept fondamental en mathématiques.
-  Die *Zugehörigkeits*relation ist ein fundamentales Konzept in der Mathematik.
+  The relation of belonging is a fundamental concept in mathematics.
 
   L'*appartenance* de cet élément à l'ensemble doit être démontrée.
-  Das *Enthaltensein* dieses Elements in der Menge muss bewiesen werden.
+  The inclusion of this element in the set must be proven.
 
   Le critère d'*appartenance* au groupe est strict mais équitable.
-  Das *Zugehörigkeits*kriterium für die Gruppe ist streng, aber fair.
+  The *membership* criterion for the group is strict, but fair.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

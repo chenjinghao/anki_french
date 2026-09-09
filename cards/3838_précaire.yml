@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3838
 Wort: précaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: précaire
 Femininum / Plural: ''
 IPA: \pʁe.kɛʁ\
-Definition: unsicher, prekär
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: insecure, precarious
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le futur de leurs fils devient *précaire*.
-  Die Zukunft ihrer Söhne wird *ungewiss*.
+  The future of their sons is uncertain.
 
   Sa *précaire* situation financière ne lui permet pas de partir en vacances.
-  Seine *prekäre* finanzielle Situation erlaubt es ihm nicht, in den Urlaub zu fahren.
+  His *precarious* financial situation does not allow him to go on vacation.
 
   L'équilibre *précaire* de notre écosystème nécessite une attention constante.
-  Das *labile* Gleichgewicht unseres Ökosystems erfordert ständige Aufmerksamkeit.
+  The *unstable* balance of our ecosystem requires constant attention.
 
   Mon contrat *précaire* se termine dans trois mois.
-  Mein *unsicherer* Vertrag endet in drei Monaten.
+  My unsafe contract ends in three months.
 
   La paix reste *précaire* dans cette région du monde.
-  Der Frieden bleibt in dieser Region der Welt *labil*.
+  Peace remains unstable in this region of the world.
 
   Le bonheur est une chose *précaire* qu'il faut savoir apprécier.
-  Das Glück ist eine *zerbrechliche* Sache, die man zu schätzen wissen muss.
+  Happiness is a *fragile* thing to appreciate.
 
   La *précaire* détention du bien sera transférée au nouveau locataire.
-  Der *mittelbare* Besitz des Gutes wird auf den neuen Mieter übertragen.
+  The *indirect* possession of the property will be transferred to the new tenant.
 
   Les conditions de travail sont devenues de plus en plus *précaires*.
-  Die Arbeitsbedingungen sind immer *unsicherer* geworden.
+  Working conditions have become increasingly *insecure*.
 
   Cette entreprise n'embauche que des travailleurs *précaires*.
-  Diese Firma stellt nur Arbeiter mit *unsicheren* Jobs ein.
+  This company hires only workers with unsafe jobs.
 
   L'abri *précaire* ne les protégeait pas suffisamment du froid.
-  Die *unsichere* Unterkunft schützte sie nicht ausreichend vor der Kälte.
+  The insecure accommodation did not protect them sufficiently from the cold.
 
   Sa santé *précaire* l'empêche de travailler à temps plein.
-  Seine *labile* Gesundheit hindert ihn daran, Vollzeit zu arbeiten.
+  His *unstable* health prevents him from working full - time.
 
   L'autorisation *précaire* d'occupation peut être révoquée à tout moment.
-  Die *widerrufliche* Nutzungsgenehmigung kann jederzeit zurückgezogen werden.
+  The *revocable* use permit may be withdrawn at any time.
 
   La possession *précaire* du terrain fait l'objet d'un litige.
-  Der *mittelbare* Besitz des Grundstücks ist Gegenstand eines Rechtsstreits.
+  The *indirect* possession of the property is the subject of a dispute.
 
   Les étudiants vivent dans des conditions très *précaires*.
-  Die Studenten leben unter sehr *unsicheren* Bedingungen.
+  The students live under very uncertain conditions.
 
   Son pouvoir *précaire* dépend entièrement du soutien populaire.
-  Seine *unsichere* Macht hängt völlig von der Unterstützung des Volkes ab.
+  His insecure power depends entirely on the support of the people.
 
   La situation devient de plus en plus *précaire* pour les petits commerces.
-  Die Situation wird für kleine Geschäfte immer *prekärer*.
+  The situation is becoming increasingly *precarious* for small businesses.
 
   L'état *précaire* du bâtiment inquiète les habitants.
-  Der *unsichere* Zustand des Gebäudes beunruhigt die Bewohner.
+  The insecure state of the building disturbs the residents.
 
   Une santé mentale *précaire* nécessite un suivi régulier.
-  Eine *labile* psychische Gesundheit erfordert regelmäßige Betreuung.
+  A *unstable* mental health requires regular care.
 
   Le statut *précaire* des réfugiés complique leur intégration.
-  Der *unsichere* Status der Flüchtlinge erschwert ihre Integration.
+  The insecure status of refugees makes their integration difficult.
 
   Son emploi *précaire* l'empêche d'obtenir un prêt bancaire.
-  Sein *unsicherer* Job hindert ihn daran, einen Bankkredit zu bekommen.
+  His *insecure* job prevents him from getting a bank loan.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,115 +1,115 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2447
 Wort: onze
 Wortart: num, nmi, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: onze
 Femininum / Plural: ''
 IPA: \ɔ̃z\
-Definition: elf
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: 11
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il était *onze* heures du soir.
-  Es war *elf* Uhr abends.
+  It was *11* o'clock in the evening.
 
   Ma sœur a *onze* ans aujourd'hui.
-  Meine Schwester ist heute *elf* Jahre alt.
+  My sister is *11* years old today.
 
   Les *onze* joueurs sont prêts pour le match.
-  Die *elf* Spieler sind bereit für das Spiel.
+  The eleven players are ready for the game.
 
   Le *onze* national a remporté la victoire.
-  Die National*elf* hat den Sieg errungen.
+  The national team has won the victory.
 
   Je suis arrivé le *onze* mars.
-  Ich bin am *elften* März angekommen.
+  I arrived on March *11th*.
 
   La réunion commence à *onze* heures précises.
-  Die Sitzung beginnt punkt *elf* Uhr.
+  The meeting starts at *11* a.m.
 
   Louis *onze* était un roi controversé.
-  Ludwig der *Elfte* war ein umstrittener König.
+  Louis the *Eleventh* was a controversial king.
 
   Le *onze* septembre est une date historique.
-  Der *elfte* September ist ein historisches Datum.
+  The eleventh of September is a historical date.
 
   Il habite au numéro *onze* de la rue principale.
-  Er wohnt in der Hauptstraße Nummer *elf*.
+  He lives on main street number *11*.
 
   J'ai obtenu *onze* sur vingt en mathématiques.
-  Ich habe in Mathematik eine *Drei* bekommen.
+  I got a *three* in mathematics.
 
   Le bus numéro *onze* passe toutes les dix minutes.
-  Die Buslinie *elf* fährt alle zehn Minuten.
+  Bus number *11* runs every ten minutes.
 
   Ils étaient *onze* à table pour le dîner.
-  Sie waren zu *elf* am Tisch beim Abendessen.
+  They were at the table at dinner at eleven.
 
   Le chapitre *onze* traite de la Révolution française.
-  Kapitel *elf* behandelt die Französische Revolution.
+  Chapter *11* deals with the French Revolution.
 
   La page *onze* contient une erreur.
-  Auf Seite *elf* ist ein Fehler.
+  On page eleven, there's a mistake.
 
   Le *onze* tricolore s'entraîne pour la Coupe du monde.
-  Die französische National*elf* trainiert für die Weltmeisterschaft.
+  The French national team is training for the World Cup.
 
   Mon fils aura bientôt *onze* ans.
-  Mein Sohn wird bald *elf* Jahre alt.
+  My son will soon be eleven years old.
 
   Cette période de *onze* ans a changé ma vie.
-  Diese *elf* Jahre haben mein Leben verändert.
+  These eleven years have changed my life.
 
   Le train de *onze* heures est annulé.
-  Der *Elf*-Uhr-Zug ist ausgefallen.
+  The *eleven* o'clock train is down.
 
   Nous sommes le *onze* du mois.
-  Wir haben den *Elften* des Monats.
+  We have the *eleventh* of the month.
 
   Elle est arrivée *onze*ième au marathon.
-  Sie ist als *Elfte* beim Marathon angekommen.
+  She arrived at the marathon as *eleventh*.
 
   Le *onze* plus deux font treize.
-  *Elf* plus zwei macht dreizehn.
+  *Eleven* plus two makes thirteen.
 
   *Onze* mille personnes ont assisté au concert.
-  *Elf*tausend Menschen haben das Konzert besucht.
+  *Eleven* thousand people attended the concert.
 
   Le pape Pie *onze* a régné pendant dix-sept ans.
-  Papst Pius der *Elfte* regierte siebzehn Jahre.
+  Pope Pius the *Eleventh* ruled seventeen years.
 
   Les *onze* enfants jouaient dans la cour.
-  Die *elf* Kinder spielten im Hof.
+  The eleven children played in the yard.
 
   Notre équipe a marqué *onze* points.
-  Unsere Mannschaft hat *elf* Punkte erzielt.
+  Our team scored *11* points.
 
   L'article *onze* définit les droits fondamentaux.
-  Artikel *elf* definiert die Grundrechte.
+  Article *11* defines fundamental rights.
 
   *Onze* cents euros, c'est trop cher.
-  *Elf*hundert Euro sind zu teuer.
+  *Eleven* hundred euros are too expensive.
 
   Le rendez-vous est fixé à *onze heures et demie*.
-  Der Termin ist um *halb zwölf* festgelegt.
+  The deadline is 12:30.
 
   L'an *onze* de la République fut mouvementé.
-  Das Jahr *elf* der Republik war turbulent.
+  The year *11* of the Republic was turbulent.
 
   *Onze* personnes ont postulé pour le poste.
-  *Elf* Personen haben sich auf die Stelle beworben.
+  *Eleven* people applied for the job.
 
   Je parie sur le cheval numéro *onze*.
-  Ich wette auf Pferd Nummer *elf*.
+  I'll bet on horse number *11*.
 
   Le *onze* est mon numéro porte-bonheur.
-  Die *Elf* ist meine Glückszahl.
+  *Eleven* is my lucky number.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

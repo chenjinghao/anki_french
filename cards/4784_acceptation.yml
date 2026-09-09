@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4784
 Wort: acceptation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une acceptation
 Femininum / Plural: ''
 IPA: \ak.sɛp.ta.sjɔ̃\
-Definition: Annahme, Zustimmung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Adoption, assent
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La foi suppose l'*acceptation* du mystère.
-  Der Glaube setzt die *Annahme* des Mysteriums voraus.
+  Faith presupposes the acceptance of the mystery.
 
   L'*acceptation* du contrat doit être signée avant vendredi.
-  Die *Annahme* des Vertrags muss bis Freitag unterschrieben sein.
+  The acceptance of the contract must be signed by Friday.
 
   Nous attendons l'*acceptation* de notre commande depuis trois jours.
-  Wir warten seit drei Tagen auf die *Annahme* unserer Bestellung.
+  We've been waiting three days for our order to be accepted.
 
   L'*acceptation* de l'offre d'emploi doit être confirmée par écrit.
-  Die *Annahme* des Stellenangebots muss schriftlich bestätigt werden.
+  The acceptance of the job offer must be confirmed in writing.
 
   Après *acceptation* de votre dossier, vous recevrez un courriel de confirmation.
-  Nach *Annahme* Ihres Antrags erhalten Sie eine Bestätigungs-E-Mail.
+  After accepting your application, you will receive a confirmation e-mail.
 
   Le projet a reçu l'*acceptation* unanime du comité.
-  Das Projekt erhielt die einstimmige *Zustimmung* des Komitees.
+  The project received the unanimous approval of the committee.
 
   Son *acceptation* de la situation m'a beaucoup surpris.
-  Seine *Akzeptanz* der Situation hat mich sehr überrascht.
+  His *acceptance* of the situation surprised me very much.
 
   L'*acceptation* des risques fait partie du métier d'entrepreneur.
-  Die *Übernahme* der Risiken gehört zum Unternehmertum dazu.
+  Risks are part of entrepreneurship.
 
   L'*acceptation* de la succession doit être déclarée devant notaire.
-  Der Erb*antritt* muss vor einem Notar erklärt werden.
+  The banishment must be declared before a notary.
 
   La banque a donné son *acceptation* pour le prêt immobilier.
-  Die Bank hat ihre *Zustimmung* für den Immobilienkredit gegeben.
+  The bank has given its approval for the real estate loan.
 
   L'*acceptation* de soi est la première étape vers le bonheur.
-  Die *Akzeptanz* seiner selbst ist der erste Schritt zum Glück.
+  *Acceptance* of himself is the first step to happiness.
 
   Votre *acceptation* du règlement est obligatoire pour participer.
-  Ihre *Zustimmung* zur Regelung ist Voraussetzung für die Teilnahme.
+  Your *consent* to the scheme is a prerequisite for participation.
 
   L'*acceptation* des différences est fondamentale dans notre société.
-  Die *Akzeptanz* von Unterschieden ist grundlegend in unserer Gesellschaft.
+  *Acceptance* of differences is fundamental in our society.
 
   Son *acceptation* passive de l'injustice m'a déçu.
-  Seine passive *Hinnahme* der Ungerechtigkeit hat mich enttäuscht.
+  His passive *acceptance* of injustice has disappointed me.
 
   L'*acceptation* des conditions générales est requise pour continuer.
-  Die *Annahme* der allgemeinen Geschäftsbedingungen ist erforderlich, um fortzufahren.
+  Acceptance of the general terms and conditions is required to proceed.
 
   Nous avons reçu l'*acceptation* officielle du ministre.
-  Wir haben die offizielle *Zustimmung* des Ministers erhalten.
+  We have received the official approval of the Minister.
 
   L'*acceptation* des changements climatiques ne signifie pas l'inaction.
-  Die *Akzeptanz* des Klimawandels bedeutet nicht Untätigkeit.
+  *Acceptance* of climate change does not mean inaction.
 
   Son *acceptation* dans l'équipe a été immédiate.
-  Seine *Aufnahme* ins Team erfolgte sofort.
+  He was immediately admitted to the team.
 
   L'*acceptation* de la défaite fait partie du jeu.
-  Die *Annahme* der Niederlage gehört zum Spiel dazu.
+  The assumption of defeat belongs to the game.
 
   J'attends votre *acceptation* pour lancer le projet.
-  Ich warte auf Ihre *Zustimmung*, um das Projekt zu starten.
+  I'm waiting for your approval to start the project.
 
   L'*acceptation* de la proposition de paix a mis fin au conflit.
-  Die *Annahme* des Friedensvorschlags beendete den Konflikt.
+  The *adoption* of the peace proposal ended the conflict.
 
   Cette *acceptation* tacite équivaut à un consentement formel.
-  Diese stillschweigende *Zustimmung* kommt einer formellen Einwilligung gleich.
+  This tacit agreement is equivalent to formal *consent*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4595
 Wort: fatigue
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la fatigue
 Femininum / Plural: ''
 IPA: \fa.tiɡ\
-Definition: Müdigkeit, Erschöpfung
-Register: ↗Fiktion ↘Mündlich
+Definition: Fatigue, fatigue
+Register: ↗fiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les gens sont peut-être *fatigués*.
-  Die Leute sind vielleicht *müde*.
+  People may be *tired*.
 
   La *fatigue* musculaire l'empêche de continuer l'entraînement.
-  Die Muskel*müdigkeit* hindert ihn daran, das Training fortzusetzen.
+  Muscle *fatigue* prevents him from continuing training.
 
   Après trois heures de route, elle montre des signes de *fatigue*.
-  Nach drei Stunden Fahrt zeigt sie Anzeichen von *Erschöpfung*.
+  After three hours of driving, she shows signs of *exhaustion*.
 
   "Je suis *morte de fatigue* après cette longue journée de travail."
-  "Ich bin *todmüde* nach diesem langen Arbeitstag."
+  "I'm tired after this long day of work."
 
   La *fatigue* nerveuse peut conduire à la dépression.
-  Die Nerven*erschöpfung* kann zu Depressionen führen.
+  The nerve *exhaustion* can lead to depression.
 
   Le métal du pont commence à montrer des signes de *fatigue*.
-  Das Metall der Brücke beginnt *Ermüdungs*erscheinungen zu zeigen.
+  The metal of the bridge begins to show signs of *fatigue*.
 
   Les *fatigues* du voyage nous ont épuisés.
-  Die *Strapazen* der Reise haben uns erschöpft.
+  The hardships of the journey have exhausted us.
 
   Il faut se reposer des *fatigues* de la semaine.
-  Man muss sich von den *Anstrengungen* der Woche erholen.
+  You have to recover from the *efforts* of the week.
 
   Cette légère *fatigue* passera après une bonne nuit de sommeil.
-  Diese leichte *Müdigkeit* wird nach einer guten Nacht Schlaf vergehen.
+  This slight *fatigue* will pass after a good night's sleep.
 
   La *fatigue* intellectuelle nuit à sa concentration.
-  Die geistige *Erschöpfung* beeinträchtigt seine Konzentration.
+  The mental *exhaustion* affects his concentration.
 
   Ses yeux rougis trahissent sa *fatigue*.
-  Seine geröteten Augen verraten seine *Müdigkeit*.
+  His reddish eyes betray his tiredness.
 
   La *fatigue* du sol a réduit le rendement de la récolte.
-  Die *Erschöpfung* des Bodens hat den Ernteertrag reduit.
+  The *exhaustion* of the soil has reduit the yield.
 
   Ces chaussures de *fatigue* sont parfaites pour la randonnée.
-  Diese *strapazierfähigen* Schuhe sind perfekt zum Wandern.
+  These *durable* shoes are perfect for hiking.
 
   Le médecin lui a diagnostiqué un syndrome de *fatigue* chronique.
-  Der Arzt hat bei ihr ein chronisches *Erschöpfungs*syndrom diagnostiziert.
+  The doctor diagnosed her with chronic fatigue syndrome.
 
   La *fatigue* des matériaux peut provoquer des accidents graves.
-  Die Material*ermüdung* kann schwere Unfälle verursachen.
+  *Fatigue* can cause serious accidents.
 
   Il travaille sans *fatigue* depuis ce matin.
-  Er arbeitet seit heute Morgen ohne *Ermüdung*.
+  He's been working without *fatigue* since this morning.
 
   Marie est tombée de *fatigue* sur le canapé.
-  Marie ist vor *Müdigkeit* auf das Sofa gefallen.
+  Marie fell on the sofa from tiredness.
 
   Cette vieille chaise montre des signes de *fatigue*.
-  Dieser alte Stuhl zeigt *Verschleiß*erscheinungen.
+  This old chair shows signs of *wear*.
 
   Les traits de son visage sont creusés par la *fatigue*.
-  Die Züge seines Gesichts sind von *Erschöpfung* gezeichnet.
+  The features of his face are marked by *exhaustion*.
 
   La *fatigue* oculaire est fréquente chez les programmeurs.
-  Die Augen*ermüdung* ist bei Programmierern häufig.
+  Eye *fatigue* is common among programmers.
 
   Ce cheval de *fatigue* peut travailler toute la journée.
-  Dieses ausdauernde *Arbeits*pferd kann den ganzen Tag arbeiten.
+  This persevering workhorse can work all day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

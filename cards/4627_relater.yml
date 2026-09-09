@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4627
 Wort: relater
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: relater
 Femininum / Plural: ''
 IPA: \ʁə.la.te\
-Definition: erzählen, schildern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: tell, describe
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils m'ont *relaté* des histoires cauchemardesques.
-  Sie haben mir albtraumhafte Geschichten *geschildert*.
+  You told me nightmare stories.
 
   Après l'accident, plusieurs témoins ont *relaté* les faits à la police.
-  Nach dem Unfall haben mehrere Zeugen der Polizei den Sachverhalt *geschildert*.
+  After the accident, several police witnesses have described the facts.
 
   Le journal *relate* en détail la découverte archéologique.
-  Die Zeitung *berichtet* ausführlich über die archäologische Entdeckung.
+  The newspaper reports in detail on the archaeological discovery.
 
   Les médias ont *relaté* l'événement de manière très différente.
-  Die Medien haben das Ereignis sehr unterschiedlich *dargestellt*.
+  The media have *presented* the event very differently.
 
   Dans son livre, l'auteur *relate* ses années d'enfance.
-  In seinem Buch *erzählt* der Autor von seinen Kindheitsjahren.
+  In his book, the author tells of his childhood years.
 
   L'article *relate* minutieusement le déroulement de la cérémonie.
-  Der Artikel *schildert* den Ablauf der Zeremonie minutiös.
+  The article describes the process of the ceremony minutely.
 
   Marie nous a *relaté* sa rencontre avec le président.
-  Marie hat uns von ihrer Begegnung mit dem Präsidenten *berichtet*.
+  Marie told us about her meeting with the President.
 
   Les historiens *relatent* que la bataille a duré trois jours.
-  Die Historiker *berichten*, dass die Schlacht drei Tage dauerte.
+  Historians *report* that the battle lasted three days.
 
   Le documentaire *relate* l'histoire de la ville au fil des siècles.
-  Die Dokumentation *erzählt* die Geschichte der Stadt im Laufe der Jahrhunderte.
+  The documentation tells the history of the city over the centuries.
 
   Les survivants ont *relaté* leur terrible expérience aux journalistes.
-  Die Überlebenden haben den Journalisten ihre schreckliche Erfahrung *geschildert*.
+  The survivors have told the journalists their terrible experience.
 
   Cette chronique *relate* les événements majeurs de l'année écoulée.
-  Diese Chronik *berichtet* über die wichtigsten Ereignisse des vergangenen Jahres.
+  This chronicle reports on the most important events of the past year.
 
   Le rapport de police *relate* les circonstances exactes de l'incident.
-  Der Polizeibericht *schildert* die genauen Umstände des Vorfalls.
+  The police report describes the exact circumstances of the incident.
 
   Dans ses mémoires, elle *relate* ses aventures de jeunesse.
-  In ihren Memoiren *erzählt* sie von ihren Jugendabenteuern.
+  In her memoirs, she talks about her youth adventures.
 
   Les journaux du monde entier ont *relaté* cette découverte scientifique.
-  Zeitungen weltweit haben über diese wissenschaftliche Entdeckung *berichtet*.
+  Newspapers around the world have *reported* on this scientific discovery.
 
   Le témoin a *relaté* les faits de manière très précise.
-  Der Zeuge hat den Sachverhalt sehr präzise *geschildert*.
+  The witness described the facts very precisely.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

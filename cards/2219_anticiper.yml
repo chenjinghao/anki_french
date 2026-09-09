@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2219
 Wort: anticiper
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: anticiper
 Femininum / Plural: ''
 IPA: \ɑ̃.ti.si.pe\
-Definition: vorwegnehmen, vorhersehen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: anticipate, anticipate
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'avais pas *anticipé* une telle reprise.
-  Ich hatte eine solche Erholung nicht *vorhergesehen*.
+  I had not foreseen such a recovery.
 
   Le gouvernement devrait mieux *anticiper* les conséquences de cette décision.
-  Die Regierung sollte die Folgen dieser Entscheidung besser *voraussehen*.
+  The government should better anticipate the consequences of this decision.
 
   Dans le football, il faut savoir *anticiper* les mouvements de l'adversaire.
-  Beim Fußball muss man die Bewegungen des Gegners *abschätzen* können.
+  In football, one must be able to *estimate* the movements of the opponent.
 
   Nous vous adressons nos remerciements *anticipés*.
-  Wir bedanken uns *im Voraus*.
+  Thank you *in advance*.
 
   Les banques doivent *anticiper* les risques financiers.
-  Die Banken müssen finanzielle Risiken *vorwegnehmen*.
+  Banks must *anticipate* financial risks.
 
   Il a dû prendre sa retraite *anticipée* pour des raisons de santé.
-  Er musste aus gesundheitlichen Gründen in den *vorzeitigen* Ruhestand gehen.
+  He had to retire *early* for health reasons.
 
   Pour réussir en affaires, il faut *anticiper* les tendances du marché.
-  Um geschäftlich erfolgreich zu sein, muss man Markttrends *vorausahnen*.
+  To be successful in business, you have to anticipate market trends.
 
   Les scientifiques *anticipent* une hausse des températures.
-  Die Wissenschaftler *sagen* einen Temperaturanstieg *voraus*.
+  The scientists predict a temperature rise.
 
   "N'*anticipons* pas sur les résultats", a dit le chercheur.
-  "Greifen wir den Ergebnissen nicht *vor*", sagte der Forscher.
+  "We don't get the results," the researcher said.
 
   Elle a *anticipé* son départ de deux heures.
-  Sie ist zwei Stunden früher als *vorgesehen* abgereist.
+  She left two hours earlier than *planned*.
 
   Les joueurs doivent *anticiper* la trajectoire du ballon.
-  Die Spieler müssen die Flugbahn des Balls *einschätzen*.
+  Players must assess the flight path of the ball.
 
   J'ai *anticipé* le paiement de mon loyer de trois jours.
-  Ich habe meine Miete drei Tage *vor Fälligkeit* bezahlt.
+  I paid my rent three days before the due date.
 
   Il faut *anticiper* les besoins en personnel pour l'année prochaine.
-  Man muss den Personalbedarf für nächstes Jahr *vorausplanen*.
+  You have to plan the personnel needs for next year.
 
   L'entreprise a bien *anticipé* l'évolution du marché.
-  Das Unternehmen hat die Marktentwicklung gut *vorhergesehen*.
+  The company has well anticipated market development.
 
   Je ne veux pas *anticiper* sur la fin de l'histoire.
-  Ich möchte dem Ende der Geschichte nicht *vorgreifen*.
+  I don't want to prejudge the end of history.
 
   Les parents doivent *anticiper* les dépenses scolaires.
-  Eltern müssen Schulausgaben *im Voraus einplanen*.
+  Parents must plan school expenses in advance.
 
   Les météorologues *anticipent* un été très chaud.
-  Die Meteorologen *sagen* einen sehr heißen Sommer *vorher*.
+  Meteorologists predict a very hot summer.
 
   Il faut *anticiper* les problèmes avant qu'ils n'arrivent.
-  Man muss Probleme *voraussehen*, bevor sie entstehen.
+  You have to foresee problems before they arise.
 
   Le pilote a su *anticiper* le virage dangereux.
-  Der Fahrer konnte die gefährliche Kurve gut *einschätzen*.
+  The driver was able to assess the dangerous curve well.
 
   Nous devons *anticiper* les besoins des clients.
-  Wir müssen die Bedürfnisse der Kunden *vorausahnen*.
+  We need to anticipate the needs of our customers.
 
   Les pompiers doivent *anticiper* les risques d'incendie.
-  Die Feuerwehr muss Brandrisiken *voraussehen*.
+  The fire brigade must anticipate fire risks.
 
   Elle a *anticipé* sur ses revenus en achetant une voiture.
-  Sie hat sich mit dem Autokauf finanziell *übernommen*.
+  She took over financially with the car purchase.
 
   Le gardien de but a bien *anticipé* le tir.
-  Der Torwart hat den Schuss gut *vorausgeahnt*.
+  The goalie knew the shot was right.
 
   Les experts *anticipent* une reprise économique.
-  Die Experten *sagen* einen wirtschaftlichen Aufschwung *voraus*.
+  The experts predict an economic upturn.
 
   Pour gagner aux échecs, il faut *anticiper* plusieurs coups à l'avance.
-  Um beim Schach zu gewinnen, muss man mehrere Züge *vorausdenken*.
+  In order to win chess, you have to think several moves ahead.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

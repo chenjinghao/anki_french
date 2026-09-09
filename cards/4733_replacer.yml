@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4733
 Wort: replacer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: replacer
 Femininum / Plural: ''
 IPA: \ʁə.pla.se\
-Definition: zurückstellen, zurückversetzen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: reset, reset
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *replaça* le paquet dans sa poche.
-  Er *steckte* das Päckchen *zurück* in seine Tasche.
+  He put the package *back* in his pocket.
 
   Julie *replace* délicatement le vase sur l'étagère.
-  Julie *stellt* die Vase vorsichtig *zurück* ins Regal.
+  Julie carefully puts the vase *back* on the shelf.
 
   Après la réunion, elle *replaça* soigneusement tous les dossiers dans l'armoire.
-  Nach der Besprechung *legte* sie alle Akten sorgfältig in den Schrank *zurück*.
+  After *the* meeting, she carefully put all the files *back* in the closet.
 
   Pour comprendre cette décision, il faut la *replacer* dans le contexte historique.
-  Um diese Entscheidung zu verstehen, muss man sie in den historischen Kontext *einordnen*.
+  In order to understand this decision, it is necessary to place it in the historical context.
 
   Le joueur s'est *replacé* rapidement après avoir frappé la balle.
-  Der Spieler hat sich nach dem Schlag schnell wieder *positioniert*.
+  The player has quickly repositioned after the blow.
 
   Il faut *replacer* une nouvelle ampoule dans la lampe.
-  Wir müssen eine neue Glühbirne in die Lampe *einsetzen*.
+  We need to put a new light bulb in the lamp.
 
   Les employés licenciés ont été *replacés* dans d'autres services.
-  Die entlassenen Mitarbeiter wurden in andere Abteilungen *versetzt*.
+  The dismissed staff were transferred to other departments.
 
   Marie *replace* les cheveux de sa fille derrière ses oreilles.
-  Marie *streicht* ihrer Tochter die Haare hinter die Ohren *zurück*.
+  Marie puts her daughter's hair behind her ears.
 
   Le médecin a *replacé* l'épaule démise du patient.
-  Der Arzt hat die ausgerenkte Schulter des Patienten wieder *eingerenkt*.
+  The doctor lowered the patient's dislocated shoulder again.
 
   Pour mieux comprendre, essayez de vous *replacer* dans le contexte de l'époque.
-  Um es besser zu verstehen, versuchen Sie sich in den damaligen Kontext *hineinzuversetzen*.
+  To understand it better, try to put yourself in the context of that time.
 
   Le vendeur *replace* les produits dans les rayons.
-  Der Verkäufer *räumt* die Produkte *zurück* in die Regale.
+  The seller clears the products *back* into the shelves.
 
   Il s'est levé et s'est *replacé* près de la fenêtre.
-  Er ist aufgestanden und hat sich ans Fenster *umgesetzt*.
+  He got up and went to the window.
 
   La bibliothécaire *replace* les livres rendus sur les étagères.
-  Die Bibliothekarin *stellt* die zurückgegebenen Bücher in die Regale *zurück*.
+  The librarian places the returned books on the shelves.
 
   Les ouvriers ont *replacé* la poutre à son endroit initial.
-  Die Arbeiter haben den Balken an seine ursprüngliche Stelle *zurückgesetzt*.
+  The workers have put the beam back to its original place.
 
   Elle a *replacé* son bracelet dans son coffret à bijoux.
-  Sie hat ihr Armband in ihr Schmuckkästchen *zurückgelegt*.
+  She put her bracelet in her jewelry box.
 
   Le gardien de but doit se *replacer* rapidement après chaque arrêt.
-  Der Torwart muss sich nach jeder Parade schnell neu *positionieren*.
+  The goalkeeper must quickly reposition himself after each parade.
 
   Il faut *replacer* cette citation dans son contexte pour la comprendre.
-  Man muss dieses Zitat in seinen Kontext *einordnen*, um es zu verstehen.
+  You have to place this quote in your context to understand it.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2459
 Wort: collaborateur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le collaborateur
 Femininum / Plural: collaboratrice
 IPA: \kɔ.la.bɔ.ʁa.tœʁ\
-Definition: Mitarbeiter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Staff
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je remercie donc tous les *collaborateurs*.
-  Ich danke also allen *Mitarbeitern*.
+  So I thank all the *staff*.
 
   L'entreprise recherche un *collaborateur* expérimenté pour diriger le projet.
-  Das Unternehmen sucht einen erfahrenen *Mitarbeiter* zur Leitung des Projekts.
+  The company is looking for an experienced employee to lead the project.
 
   Marie est une *collaboratrice* précieuse pour notre équipe de recherche.
-  Marie ist eine wertvolle *Mitarbeiterin* für unser Forschungsteam.
+  Marie is a valuable *employee* for our research team.
 
   Le journal a besoin de nouveaux *collaborateurs* pour sa rubrique sportive.
-  Die Zeitung braucht neue *Mitarbeiter* für ihre Sportkolumne.
+  The newspaper needs new employees for its sports column.
 
   Notre *collaboratrice* en service extérieur visitera plusieurs clients cette semaine.
-  Unsere Außendienst*mitarbeiterin* wird diese Woche mehrere Kunden besuchen.
+  Our sales representative will visit several customers this week.
 
   Le directeur a félicité ses *collaborateurs* pour leur excellent travail.
-  Der Direktor hat seine *Mitarbeiter* für ihre ausgezeichnete Arbeit gelobt.
+  The director praised his *staff* for their excellent work.
 
   Nous avons une équipe de *collaborateurs* très diversifiée et talentueuse.
-  Wir haben einen sehr vielfältigen und talentierten *Mitarbeiter*stab.
+  We have a very diverse and talented *staff*.
 
   En tant que *collaboratrice* freelance, elle travaille pour plusieurs magazines.
-  Als freie *Mitarbeiterin* arbeitet sie für mehrere Zeitschriften.
+  As a freelance *employee* she works for several magazines.
 
   Le professeur cherche un *collaborateur* pour l'aider dans ses recherches.
-  Der Professor sucht einen *Mitarbeiter*, der ihm bei seiner Forschung hilft.
+  The professor is looking for an employee to help him with his research.
 
   Les *collaborateurs* de cette revue scientifique sont tous des experts reconnus.
-  Die *Mitarbeiter* dieser wissenschaftlichen Zeitschrift sind alle anerkannte Experten.
+  The *staff* of this scientific journal are all recognized experts.
 
   "J'ai besoin d'un *collaborateur* fiable pour ce projet important."
-  "Ich brauche einen zuverlässigen *Mitarbeiter* für dieses wichtige Projekt."
+  "I need a reliable employee for this important project."
 
   La start-up a récompensé ses meilleurs *collaborateurs* avec des primes.
-  Das Start-up hat seine besten *Mitarbeiter* mit Prämien belohnt.
+  The start-up has rewarded its best employees with rewards.
 
   Les *collaborateurs* du ministre ont préparé un rapport détaillé.
-  Die *Mitarbeiter* des Ministers haben einen detaillierten Bericht vorbereitet.
+  The Minister's *staff* prepared a detailed report.
 
   Pendant l'occupation, certains Français sont devenus des *collaborateurs*.
-  Während der Besatzung wurden einige Franzosen zu *Kollaborateuren*.
+  During the occupation, some French became *collaborators*.
 
   L'historien a étudié le rôle des *collaborateurs* pendant la Seconde Guerre mondiale.
-  Der Historiker hat die Rolle der *Kollaborateure* während des Zweiten Weltkriegs untersucht.
+  The historian has investigated the role of *collaborators* during the Second World War.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

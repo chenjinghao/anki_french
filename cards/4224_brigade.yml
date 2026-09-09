@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4224
 Wort: brigade
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la brigade
 Femininum / Plural: ''
 IPA: \bʁi.ɡad\
 Definition: Brigade
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une *brigade* de policiers a réussi à rattraper les chiens.
-  Eine Polizei*truppe* hat es geschafft, die Hunde einzufangen.
+  A police force has managed to capture the dogs.
 
   La *brigade* criminelle enquête sur plusieurs meurtres.
-  Die Kriminal*polizei* ermittelt in mehreren Mordfällen.
+  The criminal *police* are investigating several murders.
 
   Le chef de la *brigade* des sapeurs-pompiers a organisé un exercice d'évacuation.
-  Der Chef der Feuerwehr*brigade* hat eine Evakuierungsübung organisiert.
+  The chief of the fire *brigade* organized an evacuation exercise.
 
   La *brigade* antidrogue a saisi une grande quantité de stupéfiants.
-  Die Drogen*fahndung* hat eine große Menge Rauschgift beschlagnahmt.
+  The D.C. has confiscated a large amount of drugs.
 
   Notre *brigade* commence le service à six heures du matin.
-  Unsere *Schicht* beginnt um sechs Uhr morgens.
+  Our *shift* starts at six in the morning.
 
   Les *Brigades* internationales ont combattu pendant la guerre civile espagnole.
-  Die Internationalen *Brigaden* haben im spanischen Bürgerkrieg gekämpft.
+  The International *Brigades* fought in the Spanish Civil War.
 
   Une *brigade* de balayeurs nettoie les rues chaque matin.
-  Eine Straßenreiniger*truppe* säubert jeden Morgen die Straßen.
+  A street cleaner team cleans the streets every morning.
 
   La *brigade* des mineurs s'occupe des jeunes en danger.
-  Die Jugendschutz*polizei* kümmert sich um gefährdete Jugendliche.
+  The youth protection *police* are taking care of vulnerable young people.
 
   Le général de *brigade* a inspecté les troupes ce matin.
-  Der *Brigade*general hat heute Morgen die Truppen inspiziert.
+  The Brigadier General inspected the troops this morning.
 
   La *brigade* territoriale surveille notre canton depuis des années.
-  Die Gendarmerie*station* überwacht seit Jahren unseren Bezirk.
+  The gendarmerie *station* has been monitoring our district for years.
 
   La *brigade* volante peut intervenir à tout moment.
-  Das mobile Einsatz*kommando* kann jederzeit eingreifen.
+  The Mobile Operations *Command* can intervene at any time.
 
   Une *brigade* de cuisiniers prépare le banquet de mariage.
-  Eine Koch*brigade* bereitet das Hochzeitsbankett vor.
+  A cooking *brigade* prepares the wedding banquet.
 
   La *brigade* des mœurs patrouille dans les quartiers sensibles.
-  Die Sitten*polizei* patrouilliert in den problematischen Vierteln.
+  The moral *police* patrol in the problematic neighborhoods.
 
   Notre *brigade* blindée participe aux manœuvres militaires.
-  Unsere Panzer*brigade* nimmt an den Militärmanövern teil.
+  Our armor *brigade* is taking part in the military maneuvers.
 
   Le commandant de *brigade* a félicité ses hommes pour leur travail.
-  Der *Brigade*kommandant hat seinen Männern zu ihrer Arbeit gratuliert.
+  The *brigade* commander congratulated his men on their work.
 
   La *brigade* financière enquête sur des soupçons de fraude.
-  Die Finanz*ermittler* untersuchen Betrugsverdachtsfälle.
+  Financial investigators are investigating suspected fraud.
 
   Toute une *brigade* de supporters est venue encourager l'équipe.
-  Ein ganzer Fan*trupp* ist gekommen, um die Mannschaft anzufeuern.
+  A whole fan squad has come to cheer up the team.
 
   La *brigade* du matin a signalé plusieurs problèmes techniques.
-  Die Früh*schicht* hat mehrere technische Probleme gemeldet.
+  The early shift has reported several technical problems.
 
   Les *Brigades* rouges ont terrorisé l'Italie dans les années 70.
-  Die Roten *Brigaden* haben Italien in den 70er Jahren terrorisiert.
+  The Red *Brigades* terrorized Italy in the 1970s.
 
   La *brigade* de gendarmerie locale compte huit personnes.
-  Die örtliche Gendarmerie*station* hat acht Mitarbeiter.
+  The local gendarmerie *station* has eight employees.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

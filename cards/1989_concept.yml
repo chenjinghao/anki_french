@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1989
 Wort: concept
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le concept
 Femininum / Plural: ''
 IPA: \kɔ̃.sɛpt\
-Definition: Konzept
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Concept
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce *concept* me réjouit, il est plein d'espoir.
-  Dieses *Konzept* erfreut mich, es ist voller Hoffnung.
+  This *concept* pleases me, it is full of hope.
 
   Le *concept* de liberté est complexe et varie selon les cultures.
-  Der *Begriff* der Freiheit ist komplex und variiert je nach Kultur.
+  The concept of freedom is complex and varies according to culture.
 
   Les philosophes débattent souvent du *concept* de justice.
-  Philosophen debattieren oft über das *Konzept* der Gerechtigkeit.
+  Philosophers often debate the *concept* of justice.
 
   Le *concept* de ce nouveau restaurant est vraiment innovant.
-  Das *Konzept* dieses neuen Restaurants ist wirklich innovativ.
+  The *concept* of this new restaurant is really innovative.
 
   Dans son livre, l'auteur développe un nouveau *concept* de leadership.
-  In seinem Buch entwickelt der Autor ein neues *Konzept* von Führung.
+  In his book, the author develops a new *concept* of leadership.
 
   Le *concept* de temps est difficile à expliquer aux enfants.
-  Der *Begriff* der Zeit ist schwer Kindern zu erklären.
+  The concept of time is hard to explain to children.
 
   Les scientifiques travaillent sur un *concept* révolutionnaire pour économiser l'énergie.
-  Die Wissenschaftler arbeiten an einem revolutionären *Konzept* zur Energieeinsparung.
+  The scientists are working on a revolutionary *concept* for energy saving.
 
   "Ton *concept* de l'amitié est complètement dépassé !" s'est-elle exclamée.
-  "Deine *Vorstellung* von Freundschaft ist völlig veraltet!", rief sie aus.
+  "Your idea of friendship is completely out of date!" she exclaimed.
 
   Le professeur a expliqué le *concept* de photosynthèse à ses élèves.
-  Der Lehrer erklärte seinen Schülern das *Konzept* der Photosynthese.
+  The teacher explained to his students the *concept* of photosynthesis.
 
   Ce *concept* publicitaire a remporté plusieurs prix internationaux.
-  Dieses Werbe*konzept* hat mehrere internationale Preise gewonnen.
+  This advertising *concept* has won several international awards.
 
   Les mathématiciens utilisent le *concept* d'infini dans leurs calculs.
-  Mathematiker verwenden in ihren Berechnungen das *Konzept* der Unendlichkeit.
+  In their calculations, mathematicians use the *concept* of infinity.
 
   Le *concept* de cette émission de télévision plaît beaucoup aux jeunes.
-  Das *Konzept* dieser Fernsehsendung gefällt jungen Leuten sehr.
+  The *concept* of this TV show appeals to young people very much.
 
   Les étudiants doivent maîtriser les *concepts* de base avant d'aborder des sujets plus complexes.
-  Die Studenten müssen die Grund*konzepte* beherrschen, bevor sie komplexere Themen angehen.
+  Students must master the basic *concepts* before addressing more complex topics.
 
   Le *concept* de développement durable est devenu incontournable dans les politiques modernes.
-  Das *Konzept* der nachhaltigen Entwicklung ist in der modernen Politik unverzichtbar geworden.
+  The *concept* of sustainable development has become indispensable in modern politics.
 
   Ce dictionnaire présente les *concepts* clés de la psychologie de manière claire.
-  Dieses Wörterbuch stellt die Schlüssel*konzepte* der Psychologie klar dar.
+  This dictionary clearly presents the key *concepts* of psychology.
 
   Les urbanistes ont développé un nouveau *concept* pour rendre la ville plus verte.
-  Die Stadtplaner haben ein neues *Konzept* entwickelt, um die Stadt grüner zu machen.
+  The city planners have developed a new *concept* to make the city greener.
 
   Le *concept* de ce jeu vidéo est si original qu'il a révolutionné l'industrie.
-  Das *Konzept* dieses Videospiels ist so originell, dass es die Branche revolutioniert hat.
+  The *concept* of this video game is so original that it has revolutionized the industry.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

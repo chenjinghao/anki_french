@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3888
 Wort: diagnostic
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le diagnostic
 Femininum / Plural: ''
 IPA: \djag.nɔs.tik\
-Definition: Diagnose, Beurteilung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Diagnosis, assessment
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comment confirme-t-on le *diagnostic* de l'Alzheimer ?
-  Wie wird die *Diagnose* von Alzheimer bestätigt?
+  How is the *diagnosis* of Alzheimer's disease confirmed?
 
   Le *diagnostic* radiologique a révélé une fracture de la hanche.
-  Die Röntgen*diagnose* zeigte einen Hüftbruch.
+  The X-ray *diagnosis* showed a fracture of the hip.
 
   Le médecin a établi un *diagnostic* différentiel entre la grippe et le COVID.
-  Der Arzt stellte eine Differenzial*diagnose* zwischen Grippe und COVID.
+  The doctor provided a differential *diagnosis* between flu and COVID.
 
   Les résultats du *diagnostic* après examen du liquide amniotique étaient rassurants.
-  Die Ergebnisse der Fruchtwasser*diagnose* waren beruhigend.
+  The results of the amniotic fluid *diagnosis* were soothing.
 
   Le docteur Martin a établi un *diagnostic* de diabète après plusieurs tests.
-  Doktor Martin stellte nach mehreren Tests die *Diagnose* Diabetes.
+  Doctor Martin diagnosed diabetes after several tests.
 
   Une erreur de *diagnostic* a conduit à un traitement inadapté.
-  Ein *Diagnose*fehler führte zu einer falschen Behandlung.
+  A diagnostic error led to wrong treatment.
 
   Son *diagnostic* de la situation économique s'est avéré très précis.
-  Seine *Beurteilung* der wirtschaftlichen Situation erwies sich als sehr genau.
+  His *assessment* of the economic situation proved to be very accurate.
 
   Le garagiste a effectué un *diagnostic* complet de ma voiture.
-  Der Mechaniker führte eine vollständige *Diagnose* an meinem Auto durch.
+  The mechanic did a complete *diagnosis* of my car.
 
   Le *diagnostic* thermique de notre maison a montré des pertes de chaleur importantes.
-  Die Wärme*diagnose* unseres Hauses zeigte erhebliche Wärmeverluste.
+  The heat *diagnosis* of our company showed considerable heat losses.
 
   Ce jeune médecin pose toujours des *diagnostics* très précis.
-  Dieser junge Arzt stellt immer sehr präzise *Diagnosen*.
+  This young doctor always makes very precise diagnoses.
 
   Les experts ont présenté leur *diagnostic* sur la crise environnementale.
-  Die Experten präsentierten ihre *Beurteilung* der Umweltkrise.
+  The experts presented their *assessment* of the environmental crisis.
 
   Le *diagnostic* précoce améliore considérablement les chances de guérison.
-  Die Früh*diagnose* verbessert die Heilungschancen erheblich.
+  Early *diagnosis* improves the chances of healing considerably.
 
   Les tests sanguins ont confirmé le *diagnostic* initial du médecin.
-  Die Bluttests bestätigten die erste *Diagnose* des Arztes.
+  The blood tests confirmed the doctor's first *diagnosis*.
 
   Un *diagnostic* approfondi a permis d'identifier l'origine de la panne.
-  Eine gründliche *Diagnose* half dabei, die Ursache des Defekts zu identifizieren.
+  A thorough *diagnosis* helped identify the cause of the defect.
 
   Les nouveaux outils permettent un *diagnostic* plus rapide des maladies rares.
-  Die neuen Werkzeuge ermöglichen eine schnellere *Diagnose* von seltenen Krankheiten.
+  The new tools enable a faster *diagnosis* of rare diseases.
 
   Son *diagnostic* de la situation politique s'est révélé étonnamment juste.
-  Seine *Einschätzung* der politischen Situation erwies sich als erstaunlich zutreffend.
+  His *assessment* of the political situation proved to be astonishingly accurate.
 
   L'équipe médicale a mis plusieurs jours pour établir le bon *diagnostic*.
-  Das medizinische Team brauchte mehrere Tage, um die richtige *Diagnose* zu stellen.
+  The medical team took several days to make the right *diagnosis*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

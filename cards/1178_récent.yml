@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1178
 Wort: récent
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: récent
 Femininum / Plural: récente
 IPA: \ʁe.sɑ̃\
-Definition: jüngste(-r/s), neu
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: latest(-r/s), new
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Quel est votre regard sur les *récents* déboires ?
-  Was halten Sie von den *jüngsten* Misserfolgen?
+  What do you think of the recent failures?
 
   Les données *récentes* montrent une amélioration significative.
-  Die *neuesten* Daten zeigen eine deutliche Verbesserung.
+  The *latest* data show a significant improvement.
 
   Il faut tenir compte des statistiques les plus *récentes*.
-  Man muss die *aktuellsten* Statistiken berücksichtigen.
+  You have to take the *latest* statistics into account.
 
   Cet immeuble *récent* dispose d'un ascenseur moderne.
-  Dieses *neue* Gebäude verfügt über einen modernen Aufzug.
+  This *new* building has a modern elevator.
 
   As-tu des nouvelles *récentes* de Marie ?
-  Hast du in der *letzten* Zeit von Marie gehört?
+  Have you heard of Marie lately?
 
   Sa démission est encore toute *récente*.
-  Sein Rücktritt ist noch ganz *frisch*.
+  His resignation is still *fresh*.
 
   Les chercheurs utilisent une thérapeutique *récente*.
-  Die Forscher verwenden eine *junge* Therapie.
+  The researchers use a *young* therapy.
 
   "Je suis encore un propriétaire *récent*."
-  "Ich bin noch ein *frisch gebackener* Besitzer."
+  "I'm still a *freshly baked* owner."
 
   J'ai lu un article sur leurs *récents* exploits sportifs.
-  Ich habe einen Artikel über ihre *jüngsten* sportlichen Erfolge gelesen.
+  I have read an article about her recent sporting successes.
 
   Cette découverte *récente* pourrait tout changer.
-  Diese *neue* Entdeckung könnte alles ändern.
+  This *new* discovery could change everything.
 
   Dans un passé *récent*, nous avons constaté plusieurs changements.
-  In der *jüngsten* Vergangenheit haben wir mehrere Veränderungen festgestellt.
+  In the recent past, we have seen several changes.
 
   Elle m'a raconté sa *récente* mésaventure.
-  Sie hat mir von ihrem *kürzlichen* Missgeschick erzählt.
+  She told me about her *recent* misadventure.
 
   Les événements *récents* nous obligent à repenser notre stratégie.
-  Die *jüngsten* Ereignisse zwingen uns, unsere Strategie zu überdenken.
+  Recent events force us to rethink our strategy.
 
   Cette technologie est très *récente*.
-  Diese Technologie ist sehr *neu*.
+  This technology is very *new*.
 
   Les *récentes* modifications du règlement sont entrées en vigueur.
-  Die *neuesten* Änderungen der Vorschriften sind in Kraft getreten.
+  The most recent amendments to the regulations have entered into force.
 
   Il s'agit d'une étude *récente* sur le changement climatique.
-  Es handelt sich um eine *neue* Studie zum Klimawandel.
+  This is a *new* study on climate change.
 
   Voici une nouvelle toute *récente* : ils vont se marier !
-  Hier ist eine ganz *frische* Neuigkeit: Sie werden heiraten!
+  Here's a *fresh* news: you're getting married!
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

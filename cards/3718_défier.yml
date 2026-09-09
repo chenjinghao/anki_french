@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3718
 Wort: défier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: défier
 Femininum / Plural: ''
 IPA: \de.fje\
-Definition: herausfordern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: challenge
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il aimait à *défier* le destin par fierté.
-  Er liebte es, aus Stolz das Schicksal zu *trotzen*.
+  He loved to defy fate out of pride.
 
   Mon frère m'a *défié* aux échecs, mais il n'a aucune chance de gagner.
-  Mein Bruder hat mich zum Schach *herausgefordert*, aber er hat keine Chance zu gewinnen.
+  My brother *challenged* me to chess, but he doesn't have a chance to win.
 
   Je te *défie* de sauter par-dessus cette rivière !
-  Ich *wette*, dass du nicht über diesen Fluss springen kannst!
+  I *bet* you can't jump over this river!
 
   Cette construction *défie* les intempéries depuis des siècles.
-  Dieses Gebäude *trotzt* seit Jahrhunderten der Witterung.
+  This building has been defying the weather for centuries.
 
   Le jeune homme *défiait* constamment l'autorité de ses parents.
-  Der junge Mann *widersetzte* sich ständig der Autorität seiner Eltern.
+  The young man constantly resisted the authority of his parents.
 
   Les manifestants ont *défié* l'interdiction de se rassembler.
-  Die Demonstranten haben sich über das Versammlungsverbot *hinweggesetzt*.
+  The demonstrators have ignored the ban on assembly.
 
   Marie *se défie* toujours des compliments de Paul.
-  Marie *misstraut* Pauls Komplimenten immer.
+  Marie always mistrusts Paul's compliments.
 
   Ces prix *défient* toute concurrence sur le marché.
-  Diese Preise *stehen außer* Konkurrenz auf dem Markt.
+  These prices are out of competition on the market.
 
   Le colonel a *défié* son adversaire en duel.
-  Der Oberst hat seinen Gegner zum Duell *herausgefordert*.
+  The colonel *challenged* his opponent to a duel.
 
   Les alpinistes *défient* la mort à chaque ascension.
-  Die Bergsteiger *trotzen* bei jedem Aufstieg dem Tod.
+  The climbers defy death at every ascent.
 
   Son comportement *défie* le bon sens.
-  Sein Verhalten *spottet* jedem Verstand.
+  His behavior mocks every mind.
 
   Elle *se défiait* de ses propres capacités avant l'examen.
-  Sie *zweifelte* vor der Prüfung an ihren eigenen Fähigkeiten.
+  She *doubted* her own abilities before the exam.
 
   Les sportifs se sont *défiés* à la course.
-  Die Sportler haben sich zum Wettkampf *herausgefordert*.
+  The athletes have *challenged* themselves to the competition.
 
   Cette technologie *défie* l'imagination des experts.
-  Diese Technologie *widerspricht* der Vorstellungskraft der Experten.
+  This technology *contradicts* the imagination of the experts.
 
   Il est sage de *se défier* des promesses trop belles.
-  Es ist klug, allzu schönen Versprechen zu *misstrauen*.
+  It's wise to distrust too nice promises.
 
   Thomas a *défié* Marc à la boxe après l'entraînement.
-  Thomas hat Marc nach dem Training zum Boxen *herausgefordert*.
+  Thomas *challenged* Marc to box after training.
 
   Son regard *défiait* tous ceux qui osaient la contredire.
-  Ihr Blick *forderte* jeden *heraus*, der ihr zu widersprechen wagte.
+  Her gaze challenged anyone who dared to contradict her.
 
   Cette forteresse a *défié* le temps pendant des siècles.
-  Diese Festung hat den Zeiten *getrotzt*.
+  This fortress has defied times.
 
   Je *défie* quiconque de prouver le contraire !
-  Ich *fordere* jeden *heraus*, das Gegenteil zu beweisen!
+  I challenge everyone to prove the opposite!
 
   Les jeunes aventuriers *défiaient* le danger avec insouciance.
-  Die jungen Abenteurer *trotzten* der Gefahr mit Leichtsinn.
+  The young adventurers defied the danger with carelessness.
 
   Il faut apprendre à *se défier* de ses premières impressions.
-  Man muss lernen, seinen ersten Eindrücken zu *misstrauen*.
+  You have to learn to distrust your first impressions.
 
   Son argumentation *défie* toute logique.
-  Seine Argumentation *spottet* jeder Logik.
+  His reasoning ridicules every logic.
 
   Cette équipe *défie* tous les pronostics cette saison.
-  Diese Mannschaft *widersetzt* sich allen Prognosen in dieser Saison.
+  This team is opposed to all forecasts this season.
 
   Les révolutionnaires *défiaient* ouvertement le pouvoir en place.
-  Die Revolutionäre *trotzten* offen der herrschenden Macht.
+  The revolutionaries openly defied the ruling power.
 
   Ces structures *défient* les lois de la physique.
-  Diese Strukturen *trotzen* den Gesetzen der Physik.
+  These structures defy the laws of physics.
 
   Pierre *se défiait* de lui-même dans les moments difficiles.
-  Pierre *zweifelte* in schwierigen Momenten an sich selbst.
+  Pierre *doubted* himself in difficult moments.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2201
 Wort: ordinateur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un ordinateur
 Femininum / Plural: ''
 IPA: \ɔʁ.di.na.tœʁ\
-Definition: Computer
-Register: ↘Fiktion
+Definition: Computers
+Register: ↘fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*ordinateur* est un outil tellement merveilleux.
-  Der *Computer* ist ein so wunderbares Werkzeug.
+  The computer is such a wonderful tool.
 
   J'ai oublié d'éteindre mon *ordinateur* hier soir.
-  Ich habe gestern Abend vergessen, meinen *Computer* auszuschalten.
+  I forgot to turn off my computer last night.
 
   Le centre commercial utilise un *ordinateur* de réservation pour gérer les places de parking.
-  Das Einkaufszentrum benutzt einen Buchungs*computer* für die Parkplatzverwaltung.
+  The shopping centre uses a booking computer for the parking management.
 
   Dans les années 60, l'*ordinateur* central occupait toute une pièce.
-  In den 60er Jahren nahm der Haupt*rechner* einen ganzen Raum ein.
+  In the 1960s, the mainframe took up a whole room.
 
   Mon nouvel *ordinateur portable* ne pèse que 1,2 kilos.
-  Mein neuer *Laptop* wiegt nur 1,2 Kilo.
+  My new *laptop* weighs only 1.2 kilos.
 
   "Mon vieil *ordi* ne fonctionne plus depuis ce matin."
-  "Mein alter *Computer* funktioniert seit heute Morgen nicht mehr."
+  "My old computer hasn't worked since this morning."
 
   Les ingénieurs travaillent sur un *ordinateur* spécialisé pour la modélisation 3D.
-  Die Ingenieure arbeiten an einem Spezial*rechner* für 3D-Modellierung.
+  The engineers are working on a special *calculator* for 3D modeling.
 
   As-tu mis l'*ordinateur* sous tension avant de partir ?
-  Hast du den *Computer* eingeschaltet, bevor du gegangen bist?
+  Did you turn on the computer before you left?
 
   Marie passe ses journées à travailler sur *ordinateur*.
-  Marie verbringt ihre Tage damit, am *Computer* zu arbeiten.
+  Marie spends her days working on the computer.
 
   La conception *assistée par ordinateur* a révolutionné l'industrie automobile.
-  Das *computergestützte* Design hat die Autoindustrie revolutioniert.
+  *Computer-aided* design has revolutionized the car industry.
 
   Le clavier de mon *ordinateur* est en panne.
-  Die Tastatur meines *Computers* ist kaputt.
+  My computer's keyboard is broken.
 
   Les programmes de cet *ordinateur* sont obsolètes.
-  Die Programme dieses *Computers* sind veraltet.
+  The programs of this computer are outdated.
 
   Le système d'exploitation de mon *ordinateur* doit être mis à jour.
-  Das Betriebssystem meines *Computers* muss aktualisiert werden.
+  The operating system of my computer must be updated.
 
   Chaque employé dispose d'un *ordinateur* individuel.
-  Jeder Mitarbeiter hat einen eigenen *Computer*.
+  Each employee has his own computer.
 
   La souris de l'*ordinateur* ne répond plus.
-  Die Maus des *Computers* reagiert nicht mehr.
+  The computer's mouse is no longer responding.
 
   L'écran de mon *ordinateur* clignote sans arrêt.
-  Der Bildschirm meines *Computers* blinkt ständig.
+  My computer's screen is flashing all the time.
 
   Les terminaux de l'*ordinateur* sont tous occupés.
-  Die Terminals des *Computers* sind alle belegt.
+  The terminals of the computer are all occupied.
 
   La mémoire de l'*ordinateur* est presque pleine.
-  Der Speicher des *Computers* ist fast voll.
+  The memory of the computer is almost full.
 
   Nous avons mis en réseau tous les *ordinateurs de bureau*.
-  Wir haben alle *Bürocomputer* vernetzt.
+  We've connected all the *office computers*.
 
   Mon *ordinateur de poche* me permet de travailler n'importe où.
-  Mein *Handcomputer* ermöglicht es mir, überall zu arbeiten.
+  My handheld computer allows me to work anywhere.
 
   Les *ordinateurs* du centre de calcul tournent jour et nuit.
-  Die *Rechner* im Rechenzentrum laufen Tag und Nacht.
+  *Computers* in the data center run day and night.
 
   Cet *ordinateur* analogique simule le comportement des circuits électriques.
-  Dieser Analog*rechner* simuliert das Verhalten von elektrischen Schaltkreisen.
+  This analog computer simulates the behavior of electrical circuits.
 
   L'*ordinateur* parallèle permet de traiter plusieurs calculs simultanément.
-  Der Parallel*rechner* ermöglicht es, mehrere Berechnungen gleichzeitig durchzuführen.
+  The parallel computer allows multiple calculations to be performed simultaneously.
 
   Cet *ordinateur* universel peut gérer toutes sortes de tâches.
-  Dieser Universal*rechner* kann alle Arten von Aufgaben bewältigen.
+  This universal computer can handle all kinds of tasks.
 
   La publication *assistée par ordinateur* a simplifié la mise en page.
-  Das *computergestützte* Publizieren hat das Layout vereinfacht.
+  *Computer-aided* publishing has simplified the layout.
 
   Je dois racheter un *ordinateur personnel* car le mien est trop vieux.
-  Ich muss mir einen neuen *PC* kaufen, weil meiner zu alt ist.
+  I have to buy a new *PC* because mine is too old.
 
   Le langage de cet *ordinateur* est très complexe.
-  Die Sprache dieses *Computers* ist sehr komplex.
+  The language of this computer is very complex.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 890
 Wort: raconter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: raconter
 Femininum / Plural: ''
 IPA: \ʁa.kɔ̃.te\
-Definition: erzählen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Tell
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne *raconte* plus de blagues.
-  Ich *erzähle* keine Witze mehr.
+  I don't *tell* jokes anymore.
 
   Pendant la veillée, ma grand-mère nous *racontait* des histoires fantastiques.
-  Am Lagerfeuer *erzählte* uns meine Großmutter fantastische Geschichten.
+  At the campfire, my grandmother told us fantastic stories.
 
   "Je te *raconte* pas la galère pour trouver une place de parking!"
-  "Ich kann dir *sagen*, was das für ein Stress war, einen Parkplatz zu finden!"
+  "I can tell you what stress it was to find a parking lot!"
 
   Les médias *racontent* n'importe quoi sur cette affaire.
-  Die Medien *erzählen* alles Mögliche über diesen Fall.
+  The media *tell* all kinds of stories about this case.
 
   Dans son nouveau livre, l'auteur se *raconte* avec une sincérité surprenante.
-  In seinem neuen Buch *erzählt* der Autor mit überraschender Aufrichtigkeit *von sich*.
+  In his new book, the author tells of himself with surprising sincerity.
 
   Cette histoire mérite d'être *racontée* aux générations futures.
-  Diese Geschichte ist es wert, den künftigen Generationen *erzählt* zu werden.
+  This story is worth telling to future generations.
 
   "Il passe son temps à *raconter* sa vie à tout le monde."
-  "Er verbringt seine Zeit damit, jedem sein ganzes Leben zu *erzählen*."
+  "He spends his time telling everyone his whole life."
 
   Les peintures de la grotte *racontent* une histoire vieille de milliers d'années.
-  Die Höhlenmalereien *erzählen* eine jahrtausendealte Geschichte.
+  The cave paintings *tell* a millennia-old story.
 
   Sophie m'a *raconté* que tu as trouvé un nouveau travail.
-  Sophie hat mir *erzählt*, dass du eine neue Arbeit gefunden hast.
+  Sophie told me you found a new job.
 
   Il nous a *raconté* son voyage en détail.
-  Er hat uns seine Reise ausführlich *geschildert*.
+  He gave us a detailed account of his journey.
 
   "Ne crois pas tout ce qui se *raconte* sur Internet."
-  "Glaub nicht alles, was im Internet *erzählt* wird."
+  "Don't believe everything that's being told on the Internet."
 
   Les témoins *racontent* avoir vu une lumière étrange dans le ciel.
-  Die Zeugen *berichten*, ein seltsames Licht am Himmel gesehen zu haben.
+  The Witnesses *report* seeing a strange light in the sky.
 
   Elle *racontait* toujours ses aventures avec beaucoup d'humour.
-  Sie *erzählte* ihre Abenteuer immer mit viel Humor.
+  She always told her adventures with a lot of humor.
 
   "Tu te *racontes* des histoires si tu penses qu'il va changer."
-  "Du *machst dir etwas vor*, wenn du glaubst, dass er sich ändern wird."
+  "You're fooling yourself if you think he's gonna change."
 
   Ce roman *raconte* l'histoire d'une famille sur trois générations.
-  Dieser Roman *erzählt* die Geschichte einer Familie über drei Generationen.
+  This novel tells the story of a family over three generations.
 
   Les enfants adorent quand je leur *raconte* des contes avant de dormir.
-  Die Kinder lieben es, wenn ich ihnen vor dem Schlafengehen Märchen *erzähle*.
+  The kids love it when I *tell* them fairy tales before going to bed.
 
   "Qu'est-ce que tu me *racontes* là?"
-  "Was *erzählst* du mir da für einen Unsinn?"
+  "What nonsense are you telling me?"
 
   Il ne faut pas *raconter* tous ses secrets.
-  Man sollte nicht alle seine Geheimnisse *ausplaudern*.
+  You shouldn't tell all your secrets.
 
   Cette fresque *raconte* la vie du saint en plusieurs scènes.
-  Dieses Fresko *erzählt* das Leben des Heiligen in mehreren Szenen.
+  This fresco tells the life of the saint in several scenes.
 
   Les survivants ont *raconté* leur terrible expérience aux journalistes.
-  Die Überlebenden haben den Journalisten von ihren schrecklichen Erlebnissen *berichtet*.
+  The survivors have told the journalists about their terrible experiences.
 
   La légende *raconte* que ce château est hanté.
-  Die Legende *besagt*, dass dieses Schloss von Geistern heimgesucht wird.
+  Legend has it that this castle is haunted by ghosts.
 
   "Il *raconte* n'importe quoi pour impressionner les filles."
-  "Er *erzählt* allen möglichen Unsinn, um die Mädchen zu beeindrucken."
+  "He tells all sorts of nonsense to impress the girls."
 
   Mon père nous *racontait* toujours cette histoire quand nous étions petits.
-  Mein Vater hat uns diese Geschichte immer *erzählt*, als wir klein waren.
+  My father used to tell us this story when we were little.
 
   Les anciens *racontent* que ce lac cache un trésor.
-  Die Alten *erzählen*, dass dieser See einen Schatz verbirgt.
+  The ancients *tell* us that this lake is hiding a treasure.
 
   Je vais te *raconter* ce qui s'est vraiment passé ce soir-là.
-  Ich werde dir *erzählen*, was an diesem Abend wirklich passiert ist.
+  I'll *tell* you what really happened that night.
 
   "On *raconte* qu'il est immensément riche."
-  "Man *erzählt sich*, dass er unermesslich reich sei."
+  "It is said that he is immeasurably rich."
 
   Elle s'est mise à *raconter* sa journée en détail.
-  Sie fing an, ihren Tag detailliert zu *schildern*.
+  She began to describe her day in detail.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

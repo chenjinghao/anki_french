@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3093
 Wort: abuser
 Wortart: vi, vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: abuser
 Femininum / Plural: ''
 IPA: \a.by.ze\
-Definition: missbrauchen, übertreiben; [sich] irren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: abuse, exaggerate; [to be] mistaken
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai été injuste, j'ai *abusé* de ma force.
-  Ich war ungerecht, ich habe meine Kraft *missbraucht*.
+  I was unjust, I *abused* my strength.
 
   "Tu *abuses* vraiment des bonbons ces derniers temps !"
-  "Du *übertreibst* es in letzter Zeit wirklich mit den Süßigkeiten!"
+  "You've really been exaggerating with the candy lately!"
 
   Le gouvernement a *abusé* de son autorité pendant la crise.
-  Die Regierung hat ihre Macht während der Krise *missbraucht*.
+  The government *abused* its power during the crisis.
 
   Si je ne m'*abuse*, nous nous sommes déjà rencontrés l'année dernière.
-  Wenn ich mich nicht *irre*, sind wir uns letztes Jahr schon begegnet.
+  If I'm not mistaken, we met last year.
 
   Marie *abuse* de la gentillesse de ses parents pour obtenir tout ce qu'elle veut.
-  Marie *nutzt* die Freundlichkeit ihrer Eltern *aus*, um alles zu bekommen, was sie will.
+  Marie *uses* the kindness of her parents to get everything she wants.
 
   Il *abuse* tellement du café qu'il ne peut plus dormir la nuit.
-  Er *übertreibt* es so sehr mit dem Kaffee, dass er nachts nicht mehr schlafen kann.
+  He overdoes it so much with the coffee that he can't sleep at night.
 
   Les publicités trompeuses *abusent* les consommateurs.
-  Irreführende Werbung *täuscht* die Verbraucher.
+  Misleading advertising deceives consumers.
 
   Je ne voudrais pas *abuser* de votre temps, je serai bref.
-  Ich möchte Ihre Zeit nicht zu sehr in Anspruch *nehmen*, ich fasse mich kurz.
+  I don't want to *take* your time too much, I'm short.
 
   Thomas s'est complètement *abusé* sur les intentions de son collègue.
-  Thomas hat sich über die Absichten seines Kollegen völlig *getäuscht*.
+  Thomas was completely wrong about his colleague's intentions.
 
   Le patron *abuse* de la situation précaire de ses employés.
-  Der Chef *nutzt* die prekäre Situation seiner Angestellten *aus*.
+  The boss takes advantage of the precarious situation of his employees.
 
   "Il faut arrêter d'*abuser* des jeux vidéo, mon fils !"
-  "Du musst aufhören, es mit den Videospielen zu *übertreiben*, mein Sohn!"
+  "You have to stop exaggerating with the video games, son!"
 
   Les journalistes ont *abusé* des métaphores dans cet article.
-  Die Journalisten haben es in diesem Artikel mit den Metaphern *übertrieben*.
+  Journalists have exaggerated the metaphors in this article.
 
   Notre voisin *abuse* vraiment avec sa musique tard le soir.
-  Unser Nachbar *übertreibt* es wirklich mit seiner Musik am späten Abend.
+  Our neighbor really exaggerates with his music in the late evening.
 
   Elle *abuse* des médicaments pour dormir depuis son divorce.
-  Sie *übertreibt* es seit ihrer Scheidung mit den Schlaftabletten.
+  She's been overdoing it since she divorced her sleeping pills.
 
   Les escrocs ont *abusé* de la confiance des personnes âgées.
-  Die Betrüger haben das Vertrauen der älteren Menschen *missbraucht*.
+  The fraudsters have *abused* the trust of the elderly.
 
   Paul *abuse* des plaisirs de la table pendant les fêtes.
-  Paul *übertreibt* es während der Feiertage mit dem Essen.
+  Paul exaggerates it during the holidays with the food.
 
   Le vendeur a *abusé* de notre crédulité avec ses fausses promesses.
-  Der Verkäufer hat unsere Leichtgläubigkeit mit seinen falschen Versprechungen *ausgenutzt*.
+  The seller took advantage of our credulity with his false promises.
 
   Sophie s'*abuse* complètement sur ses chances de réussite.
-  Sophie *täuscht* sich völlig über ihre Erfolgschancen.
+  Sophie is completely wrong about her chances of success.
 
   Il *abuse* de son crédit pour obtenir des faveurs injustifiées.
-  Er *missbraucht* seinen Einfluss, um ungerechtfertigte Gefälligkeiten zu erhalten.
+  He misuses his influence to obtain unjustified favors.
 
   Ces adolescents *abusent* de la patience de leur professeur.
-  Diese Jugendlichen *strapazieren* die Geduld ihres Lehrers über alle Maßen.
+  These young people *strain* their teacher's patience to a great extent.
 
   Le général a *abusé* l'ennemi par une fausse manœuvre.
-  Der General hat den Feind durch ein Scheinmanöver *getäuscht*.
+  The general deceived the enemy by a mocking maneuver.
 
   Michel *abuse* vraiment du tabac ces derniers temps.
-  Michel *übertreibt* es in letzter Zeit wirklich mit dem Rauchen.
+  Michel's really been overdoing smoking lately.
 
   "Tu *abuses* de ma bonté, et ça commence à bien faire !"
-  "Du *nutzt* meine Güte *aus*, und das geht mir langsam zu weit!"
+  "You're taking advantage of my goodness, and I'm getting too far!"
 
   Les sportifs ne devraient pas *abuser* de leurs forces pendant l'entraînement.
-  Sportler sollten ihre Kräfte beim Training nicht *überfordern*.
+  Athletes should not overtax their strength during training.
 
   L'homme politique a *abusé* de son pouvoir à des fins personnelles.
-  Der Politiker hat seine Macht für persönliche Zwecke *missbraucht*.
+  The politician has *abused* his power for personal purposes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

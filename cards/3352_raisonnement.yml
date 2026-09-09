@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3352
 Wort: raisonnement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le raisonnement
 Femininum / Plural: ''
 IPA: \ʁɛ.zɔn.mɑ̃\
-Definition: Denkweise, Schlussfolgerung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Thinking, Conclusion
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le livre explique en détail ce *raisonnement* assez simple.
-  Das Buch erklärt diesen ziemlich einfachen *Gedankengang* ausführlich.
+  The book explains this rather simple thought in detail.
 
   Son *raisonnement* est fondé sur l'expérience plutôt que sur l'intuition.
-  Seine *Denkweise* basiert eher auf Erfahrung als auf Intuition.
+  His thinking is based on experience rather than intuition.
 
   Les mathématiques exigent un *raisonnement* rigoureux.
-  Die Mathematik erfordert logisches *Denken*.
+  Mathematics requires logical *thinking*.
 
   Suivez bien mon *raisonnement* : si A égale B, et B égale C, alors A égale C.
-  Folgen Sie meiner *Schlussfolgerung*: Wenn A gleich B ist und B gleich C ist, dann ist A gleich C.
+  Follow my *conclusion*: if A is equal to B and B is equal to C, then A is equal to C.
 
   Il a présenté un *raisonnement* analogique pour expliquer ce phénomène complexe.
-  Er hat einen Analogie*schluss* vorgestellt, um dieses komplexe Phänomen zu erklären.
+  He presented an analogy to explain this complex phenomenon.
 
   La faiblesse de son *raisonnement* était évidente pour tout le monde.
-  Die Schwäche seiner *Argumentation* war für alle offensichtlich.
+  The weakness of his reasoning was obvious to all.
 
   Les enfants développent leur capacité de *raisonnement* progressivement.
-  Kinder entwickeln ihr *Denk*vermögen schrittweise.
+  Children develop their thinking abilities gradually.
 
   Le professeur nous a montré un exemple de *raisonnement* déductif.
-  Der Lehrer hat uns ein Beispiel für einen deduktiven *Schluss* gezeigt.
+  The teacher has shown us an example of a deductive *conclusion*.
 
   Arrêtez vos *raisonnements* et passons à l'action !
-  Hört auf mit euren endlosen *Diskussionen* und lasst uns handeln!
+  Stop your endless *discussions* and let's act!
 
   Son *raisonnement* était juste, même si la conclusion était fausse.
-  Ihre *Gedankengänge* waren richtig, auch wenn die Schlussfolgerung falsch war.
+  Their *thoughts* were correct, even if the conclusion was wrong.
 
   La logique est l'étude des règles du *raisonnement*.
-  Die Logik ist die Lehre von den Regeln des *Denkens*.
+  Logic is the doctrine of the rules of thought.
 
   Il a démontré sa théorie par un *raisonnement par l'absurde*.
-  Er hat seine Theorie durch einen *Beweis durch Widerspruch* belegt.
+  He proved his theory by proof by contradiction.
 
   Cette découverte est le fruit d'un long *raisonnement*.
-  Diese Entdeckung ist das Ergebnis einer langen *Gedanken*führung.
+  This discovery is the result of a long thought.
 
   J'admire la clarté de son *raisonnement*.
-  Ich bewundere die Klarheit ihrer *Denkweise*.
+  I admire the clarity of their thinking.
 
   Les prémisses de ce *raisonnement* sont incorrectes.
-  Die Prämissen dieser *Schlussfolgerung* sind falsch.
+  The premises of this *conclusion* are wrong.
 
   Elle a un *raisonnement* très intuitif.
-  Sie hat eine sehr intuitive *Denkweise*.
+  She has a very intuitive mindset.
 
   Les *raisonnements* spécieux peuvent sembler logiques au premier abord.
-  Irreführende *Argumentationen* können zunächst logisch erscheinen.
+  Misleading *arguments* may appear logical at first.
 
   Son *raisonnement* mathématique est impressionnant.
-  Seine mathematische *Denkweise* ist beeindruckend.
+  His mathematical thinking is impressive.
 
   Le philosophe a construit son *raisonnement* étape par étape.
-  Der Philosoph hat seine *Gedankengänge* Schritt für Schritt aufgebaut.
+  The philosopher has built up his *thoughts* step by step.
 
   L'enfant commence à développer son *raisonnement* logique.
-  Das Kind beginnt, sein logisches *Denken* zu entwickeln.
+  The child begins to develop his logical *thinking*.
 
   Cette méthode de *raisonnement* est utilisée en philosophie depuis l'Antiquité.
-  Diese *Denk*methode wird in der Philosophie seit der Antike verwendet.
+  This method of thinking has been used in philosophy since ancient times.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

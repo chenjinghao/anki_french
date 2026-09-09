@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4737
 Wort: fillette
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la fillette
 Femininum / Plural: ''
 IPA: \fi.jɛt\
-Definition: kleines Mädchen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Little girl
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Certes la *fillette* semblait précoce.
-  Gewiss schien das *Mädchen* frühreif.
+  Of course, the girl seemed premature.
 
   Les *fillettes* jouaient à la marelle dans la cour.
-  Die *Mädchen* spielten Himmel und Hölle auf dem Hof.
+  The *girls* played heaven and hell in the yard.
 
   Cette *fillette* de huit ans lit déjà des romans.
-  Dieses acht Jahre alte *Mädchen* liest schon Romane.
+  This eight-year-old girl is already reading novels.
 
   "Viens ici, *fillette*, je vais te raconter une histoire."
-  "Komm her, *Mädchen*, ich erzähle dir eine Geschichte."
+  "Come here, girl, I'll tell you a story."
 
   Ma sœur n'est plus une *fillette*, elle va bientôt avoir quinze ans.
-  Meine Schwester ist kein *kleines Mädchen* mehr, sie wird bald fünfzehn.
+  My sister's not a *little girl* anymore, she's about to be fifteen.
 
   Une *fillette* aux nattes rousses dessinait sur le trottoir.
-  Ein *Mädchen* mit roten Zöpfen malte auf dem Gehweg.
+  A girl with red braids painted on the sidewalk.
 
   Les *fillettes* de sa classe ont organisé une fête surprise.
-  Die *Mädchen* aus ihrer Klasse haben eine Überraschungsparty organisiert.
+  The *girls* in her class organized a surprise party.
 
   La timide *fillette* s'est finalement fait des amies.
-  Das schüchterne *Mädchen* hat endlich Freundinnen gefunden.
+  The shy girl finally found friends.
 
   Notre voisine garde des *fillettes* après l'école.
-  Unsere Nachbarin betreut nach der Schule *kleine Mädchen*.
+  Our neighbor looks after *little girls* after school.
 
   Une petite *fillette* aux yeux verts m'a souri dans le bus.
-  Ein kleines *Mädchen* mit grünen Augen hat mich im Bus angelächelt.
+  A little girl with green eyes smiled at me on the bus.
 
   Deux *fillettes* en uniforme attendaient devant l'école.
-  Zwei *Mädchen* in Uniform warteten vor der Schule.
+  Two *girls* in uniform were waiting outside school.
 
   As-tu vu la *fillette* qui vient d'emménager à côté ?
-  Hast du das *Mädchen* gesehen, das gerade nebenan eingezogen ist?
+  Did you see the girl who just moved in next door?
 
   Il servait le vin dans des *fillettes* pour le déjeuner.
-  Er servierte den Wein zum Mittagessen in Drittelliter-*Flaschen*.
+  He served the wine for lunch in third-liter *bottles*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

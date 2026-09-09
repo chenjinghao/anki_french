@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1831
 Wort: régner
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: régner
 Femininum / Plural: ''
 IPA: \ʁe.ɲe\
-Definition: herrschen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Rule
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Un silence de mort *règne* dans la salle.
-  Eine Totenstille *herrscht* im Saal.
+  There's a dead silence in the hall.
 
   Le roi Louis XIV a *régné* pendant plus de soixante-dix ans.
-  König Ludwig XIV. hat mehr als siebzig Jahre *regiert*.
+  King Louis XIV has *ruled* for more than seventy years.
 
   Elle *règne* en maîtresse absolue dans sa cuisine.
-  Sie *schwingt* in ihrer Küche das *Zepter*.
+  She *swings* the *scepter* in her kitchen.
 
   La corruption *règne* depuis longtemps dans cette administration.
-  In dieser Verwaltung *herrscht* seit langem Korruption.
+  Corruption has long been a feature of this administration.
 
   Une parfaite harmonie *règne* entre les deux familles.
-  Zwischen den beiden Familien *herrscht* perfekte Harmonie.
+  Between the two families there is perfect harmony.
 
   Napoléon a *régné* sous le titre d'empereur des Français.
-  Napoleon hat als Kaiser der Franzosen *geherrscht*.
+  Napoleon *ruled* as the Emperor of the French.
 
   Cette dynastie a *régné* sur l'Europe pendant trois siècles.
-  Diese Dynastie hat drei Jahrhunderte lang über Europa *geherrscht*.
+  This dynasty has dominated Europe for three centuries.
 
   Le chaos *règne* dans les rues depuis les manifestations.
-  Seit den Demonstrationen *herrscht* Chaos in den Straßen.
+  Since the demonstrations, there has been chaos in the streets.
 
   Une belle ambiance *règne* pendant toute la soirée.
-  Den ganzen Abend *herrscht* eine schöne Stimmung.
+  There's a good mood all evening.
 
   Le directeur *règne* sur son entreprise d'une main de fer.
-  Der Direktor *herrscht* mit eiserner Hand über sein Unternehmen.
+  The director rules his company with an iron hand.
 
   La peur *règne* dans le quartier depuis les cambriolages.
-  Seit den Einbrüchen *herrscht* Angst im Viertel.
+  Since the break-ins, fear has been in the neighborhood.
 
   Cette mode *règne* depuis plusieurs années.
-  Diese Mode *herrscht* seit mehreren Jahren *vor*.
+  This fashion has been in place for several years.
 
   Un calme inquiétant *règne* dans la ville.
-  Eine beunruhigende Stille *herrscht* in der Stadt.
+  A disturbing silence reigns in the city.
 
   La reine Victoria a *régné* sur l'Empire britannique pendant 63 ans.
-  Königin Victoria hat 63 Jahre lang über das britische Empire *geherrscht*.
+  Queen Victoria *ruled* the British Empire for 63 years.
 
   Une confusion totale *règne* dans son esprit.
-  In seinem Kopf *herrscht* totale Verwirrung.
+  There's total confusion in his head.
 
   Cette entreprise *règne* sur le marché depuis des décennies.
-  Dieses Unternehmen *beherrscht* den Markt seit Jahrzehnten.
+  This company has dominated the market for decades.
 
   Le désordre *règne* dans sa chambre.
-  In seinem Zimmer *herrscht* Unordnung.
+  There's a mess in his room.
 
   La paix *règne* enfin dans la région.
-  Endlich *herrscht* Frieden in der Region.
+  At last peace reigns in the region.
 
   Cette famille royale *règne* depuis plus de mille ans.
-  Diese königliche Familie *herrscht* seit mehr als tausend Jahren.
+  This royal family has ruled for more than a thousand years.
 
   Un froid glacial *règne* dans la maison.
-  Eine eisige Kälte *herrscht* im Haus.
+  There's an icy cold in the house.
 
   La justice doit *régner* dans une société démocratique.
-  In einer demokratischen Gesellschaft muss Gerechtigkeit *herrschen*.
+  Justice must prevail in a democratic society.
 
   Son influence *règne* encore sur la littérature moderne.
-  Sein Einfluss *herrscht* noch immer über die moderne Literatur.
+  His influence still prevails over modern literature.
 
   "Tu vérifies tout ce que je fais ? La confiance *règne* !"
-  "Du kontrollierst alles, was ich mache? Das nenne ich *herrschendes* Vertrauen!"
+  "You control everything I do? That's what I call a dominant trust!"
 
   Cette philosophie *régnait* en France au XVIII<sup>e</sup> siècle.
-  Diese Philosophie *herrschte* im 18. Jahrhundert in Frankreich *vor*.
+  This philosophy prevailed in France in *the* 18th century.
 
   Il *règne* sur les cœurs par sa gentillesse.
-  Er *herrscht* durch seine Freundlichkeit über die Herzen.
+  He rules the hearts through his kindness.
 
   La tension *règne* entre les deux pays.
-  Zwischen den beiden Ländern *herrscht* Spannung.
+  There is tension between the two countries.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

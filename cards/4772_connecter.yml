@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4772
 Wort: connecter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: connecter
 Femininum / Plural: ''
 IPA: \kɔ.nɛk.te\
-Definition: anschließen; einloggen
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: connect; log in
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tous les pays sont *connectés* à internet.
-  Alle Länder sind ans Internet *angeschlossen*.
+  All countries are *connected* to the Internet.
 
   Pour suivre le cours en ligne, il faut se *connecter* avant 9 heures.
-  Um dem Online-Kurs zu folgen, muss man sich vor 9 Uhr *einloggen*.
+  To follow the online course, you have to log in before 9 a.m.
 
   L'électricien a *connecté* les fils selon le schéma.
-  Der Elektriker hat die Drähte nach Plan *verbunden*.
+  The electrician *connected* the wires according to plan.
 
   Je n'arrive pas à *connecter* mon clavier sans fil.
-  Ich schaffe es nicht, meine kabellose Tastatur *anzuschließen*.
+  I can't *connect* my wireless keyboard.
 
   Elle s'est *connectée* au réseau WiFi du café.
-  Sie hat sich ins WLAN des Cafés *eingeloggt*.
+  She has *logged in* to the WiFi of the café.
 
   Le technicien doit *connecter* l'imprimante au système.
-  Der Techniker muss den Drucker ans System *anschließen*.
+  The technician must *connect* the printer to the system.
 
   Les deux bâtiments sont *connectés* par un tunnel souterrain.
-  Die beiden Gebäude sind durch einen unterirdischen Tunnel *verbunden*.
+  The two buildings are *connected* by an underground tunnel.
 
   Mon smartphone ne peut pas se *connecter* automatiquement.
-  Mein Smartphone kann sich nicht automatisch *verbinden*.
+  My smartphone can't *connect* automatically.
 
   L'assistant va vous aider à *connecter* vos appareils.
-  Der Assistent wird Ihnen helfen, Ihre Geräte *anzuschließen*.
+  The assistant will help you *connect* your devices.
 
   Il faut *connecter* le tuyau à la source d'eau.
-  Man muss das Rohr an die Wasserquelle *anschließen*.
+  You have to *connect* the pipe to the water source.
 
   Les étudiants doivent se *connecter* à la plateforme d'apprentissage.
-  Die Studenten müssen sich auf der Lernplattform *einloggen*.
+  Students must log on to the learning platform.
 
   Le câble USB *connecte* la souris à l'ordinateur.
-  Das USB-Kabel *verbindet* die Maus mit dem Computer.
+  The USB cable *connects* the mouse to the computer.
 
   Nous avons *connecté* tous les ordinateurs en réseau.
-  Wir haben alle Computer miteinander *vernetzt*.
+  We've all connected computers.
 
   Le nouveau routeur permet de *connecter* plus d'appareils.
-  Der neue Router ermöglicht es, mehr Geräte *anzuschließen*.
+  The new router allows you to *connect* more devices.
 
   Une fois *connecté*, vous aurez accès à toutes les ressources.
-  Sobald Sie *online* sind, haben Sie Zugriff auf alle Ressourcen.
+  Once you are *online*, you have access to all resources.
 
   Les deux lignes électriques ont été *connectées* hier.
-  Die beiden Stromleitungen wurden gestern *verbunden*.
+  The two power lines were *connected* yesterday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

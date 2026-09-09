@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1669
 Wort: hypothèse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une hypothèse
 Femininum / Plural: ''
 IPA: \i.pɔ.tɛz\
-Definition: Hypothese
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Hypothesis
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette *hypothèse* était tellement invraisemblable.
-  Diese *Hypothese* war so unwahrscheinlich.
+  This *hypothesis* was so unlikely.
 
   Le chercheur a formulé une nouvelle *hypothèse* sur l'origine de l'univers.
-  Der Forscher hat eine neue *Hypothese* über den Ursprung des Universums aufgestellt.
+  The researcher has established a new *hypothesis* about the origin of the universe.
 
   Dans la meilleure des *hypothèses*, nous arriverons à temps pour le spectacle.
-  Im besten *Fall* werden wir rechtzeitig zur Vorstellung kommen.
+  At best, we'll get to the show in time.
 
   Les élèves doivent vérifier leur *hypothèse* par l'expérimentation.
-  Die Schüler müssen ihre *Hypothese* durch Experimente überprüfen.
+  The students have to test their *hypothesis* by experiments.
 
   Les détectives font des *hypothèses* sur le déroulement du crime.
-  Die Detektive stellen *Vermutungen* über den Ablauf des Verbrechens an.
+  The detectives are making assumptions about the course of the crime.
 
   Cette *hypothèse* de travail nous servira de point de départ.
-  Diese Arbeits*hypothese* wird uns als Ausgangspunkt dienen.
+  This working *hypothesis* will serve as a starting point for us.
 
   Dans l'*hypothèse* où il pleuvrait demain, nous resterons à la maison.
-  Für den *Fall*, dass es morgen regnet, bleiben wir zu Hause.
+  In *case* it rains tomorrow, we'll stay home.
 
   Son *hypothèse* a été confirmée par les résultats de l'expérience.
-  Seine *Hypothese* wurde durch die Versuchsergebnisse bestätigt.
+  His *hypothesis* was confirmed by the test results.
 
   On ne peut pas écarter l'*hypothèse* d'un accident.
-  Die *Möglichkeit* eines Unfalls kann man nicht ausschließen.
+  The *possibility* of an accident cannot be ruled out.
 
   Les scientifiques ont émis l'*hypothèse* que l'eau existait sur Mars.
-  Die Wissenschaftler haben die *Annahme* geäußert, dass es Wasser auf dem Mars gab.
+  The scientists have suggested that there was water on Mars.
 
   En toute *hypothèse*, nous devrons être prêts à partir demain.
-  In jedem *Fall* müssen wir morgen bereit sein aufzubrechen.
+  In any *case*, we must be ready to leave tomorrow.
 
   Cette théorie repose sur des *hypothèses* fragiles.
-  Diese Theorie basiert auf schwachen *Annahmen*.
+  This theory is based on weak *assumptions*.
 
   Marie avance une *hypothèse* intéressante sur la disparition des abeilles.
-  Marie äußert eine interessante *Vermutung* über das Bienensterben.
+  Marie makes an interesting guess about the bee's death.
 
   Les mathématiciens ont posé l'*hypothèse* que ce nombre était premier.
-  Die Mathematiker haben die *Hypothese* aufgestellt, dass diese Zahl eine Primzahl sei.
+  The mathematicians have put forward the *hypothesis* that this number is a prime number.
 
   Dans l'*hypothèse* la plus favorable, nous gagnerons le tournoi.
-  Im günstigsten *Fall* werden wir das Turnier gewinnen.
+  In the best *case*, we will win the tournament.
 
   Nous en sommes réduits aux *hypothèses* sur les causes de sa démission.
-  Wir sind auf *Vermutungen* über die Gründe für seinen Rücktritt angewiesen.
+  We depend on assumptions about the reasons for his resignation.
 
   Son *hypothèse* a été démentie par les faits.
-  Seine *Hypothese* wurde durch die Tatsachen widerlegt.
+  His *hypothesis* was refuted by the facts.
 
   Les chercheurs échafaudent des *hypothèses* sur le réchauffement climatique.
-  Die Forscher entwickeln *Hypothesen* über die Klimaerwärmung.
+  The researchers develop *hypotheses* about global warming.
 
   Cette *hypothèse* n'est pas fondée sur des preuves concrètes.
-  Diese *Annahme* basiert nicht auf konkreten Beweisen.
+  This assumption is not based on concrete evidence.
 
   L'*hypothèse* d'une coïncidence semble peu probable.
-  Die *Möglichkeit* eines Zufalls erscheint unwahrscheinlich.
+  The *possibility* of chance seems unlikely.
 
   Je refuse catégoriquement cette *hypothèse*.
-  Ich lehne diese *Annahme* kategorisch ab.
+  I categorically reject this assumption.
 
   Les étudiants doivent formuler des *hypothèses* avant de commencer l'expérience.
-  Die Studenten müssen *Hypothesen* aufstellen, bevor sie mit dem Experiment beginnen.
+  The students must make *hypotheses* before they start the experiment.
 
   Dans cette *hypothèse*, nous devrons modifier notre stratégie.
-  In diesem *Fall* müssen wir unsere Strategie ändern.
+  In this *case*, we need to change our strategy.
 
   L'*hypothèse* du professeur a révolutionné la physique quantique.
-  Die *Hypothese* des Professors hat die Quantenphysik revolutioniert.
+  The professor's *hypothesis* has revolutionized quantum physics.
 
   Une simple *hypothèse* de travail peut mener à une découverte majeure.
-  Eine einfache Arbeits*hypothese* kann zu einer bedeutenden Entdeckung führen.
+  A simple working *hypothesis* can lead to a significant discovery.
 
   Par *hypothèse*, supposons que la Terre est parfaitement sphérique.
-  Als *Annahme* gehen wir davon aus, dass die Erde perfekt kugelförmig ist.
+  As an assumption, we assume that the Earth is perfectly spherical.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

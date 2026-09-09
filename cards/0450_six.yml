@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 450
 Wort: six
 Wortart: num, nmi, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: six
 Femininum / Plural: ''
 IPA: \ˈsɪks\
-Definition: sechs
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: six
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle était enceinte de *six* mois.
-  Sie war im *sechsten* Monat schwanger.
+  She was pregnant in the sixth month.
 
   Le concours commence à *six* heures précises.
-  Der Wettbewerb beginnt um genau *sechs* Uhr.
+  The competition starts at exactly *six* o'clock.
 
   Ma sœur aura *six* ans la semaine prochaine.
-  Meine Schwester wird nächste Woche *sechs* Jahre alt.
+  My sister's gonna be *six* years old next week.
 
   Les *Six* Jours de Berlin sont une course cycliste légendaire.
-  Die Berliner *Sechs*tagerennen sind ein legendäres Radrennen.
+  The Berlin *Six*-Day Races are a legendary cycle race.
 
   "*Six* sur vingt ? Je dois vraiment améliorer mes notes !"
-  "Eine *Sechs*? Ich muss meine Noten wirklich verbessern!"
+  "A *six*? I really need to improve my grades!"
 
   Le petit Thomas habite au numéro *six* de la rue des Fleurs.
-  Der kleine Thomas wohnt in der Blumenstraße Nummer *sechs*.
+  Little Thomas lives on Blumenstraße number *six*.
 
   Les enfants ont partagé le gâteau en *six* parts égales.
-  Die Kinder haben den Kuchen in *sechs* gleiche Stücke geteilt.
+  The children divided the cake into *six* equal pieces.
 
   Prenez le bus ligne *six* jusqu'au terminus.
-  Nehmen Sie die Buslinie *sechs* bis zur Endstation.
+  Take bus number *six* to the terminal.
 
   Le roi Charles *Six* souffrait de crises de folie.
-  König Karl der *Sechste* litt unter Wahnvorstellungen.
+  King Charles the *Sixth* suffered from delusions.
 
   Dans ce jeu, il faut lancer les dés jusqu'à obtenir un *six*.
-  In diesem Spiel muss man die Würfel werfen, bis man eine *Sechs* würfelt.
+  In this game you have to throw the dice until you roll a *six*.
 
   La guerre des *Six* Jours a changé la géopolitique du Moyen-Orient.
-  Der *Sechs*tagekrieg veränderte die Geopolitik des Nahen Ostens.
+  The *Six*-Day War changed the geopolitics of the Middle East.
 
   Les *Six* Nations est le plus ancien tournoi de rugby.
-  Die *Sechs* Nationen sind das älteste Rugbyturnier.
+  The *Six* Nations are the oldest rugby tournament.
 
   "Ce travail est fait *à la six-quatre-deux*."
-  "Diese Arbeit ist *schlampig* gemacht."
+  "This work is *sloppy*."
 
   Le *six* de cœur est sa carte porte-bonheur.
-  Die Herz-*Sechs* ist seine Glückskarte.
+  The *six* of hearts is his lucky card.
 
   L'Europe des *Six* a été fondée en 1957.
-  Die *Sechser*gemeinschaft wurde 1957 gegründet.
+  The *Six* Community was founded in 1957.
 
   J'ai rendez-vous avec le docteur le *six* mars.
-  Ich habe am *sechsten* März einen Termin beim Arzt.
+  I have an appointment with the doctor on March 6th.
 
   Il ne reste plus que *six* places disponibles.
-  Es sind nur noch *sechs* Plätze frei.
+  There's only *six* seats left.
 
   Nous étions *six* à table pour le dîner de Noël.
-  Wir waren zu *sechst* beim Weihnachtsessen.
+  We were six at the Christmas dinner.
 
   Le petit garçon de *six* ans joue dans le jardin.
-  Der *sechs*jährige Junge spielt im Garten.
+  The *six*-year-old boy plays in the garden.
 
   Ils ont gagné *six* matchs consécutifs.
-  Sie haben *sechs* Spiele in Folge gewonnen.
+  They won *six* consecutive games.
 
   Le pape Paul *Six* a dirigé l'Église catholique pendant quinze ans.
-  Papst Paul der *Sechste* leitete die katholische Kirche fünfzehn Jahre lang.
+  Pope Paul the *Sixth* led the Catholic Church for fifteen years.
 
   Il repose maintenant *six pieds sous terre*.
-  Er ruht jetzt *unter der Erde*.
+  He's resting under the ground now.
 
   L'alphabet français a *six* voyelles différentes.
-  Das französische Alphabet hat *sechs* verschiedene Vokale.
+  The French alphabet has *six* different vowels.
 
   Le chiffre *six* s'écrit VI en nombres romains.
-  Die Zahl *sechs* wird in römischen Zahlen als VI geschrieben.
+  The number *six* is written in Roman numbers as VI.
 
   Elle a obtenu les *six* huitièmes de l'héritage.
-  Sie hat *sechs* Achtel des Erbes erhalten.
+  She has received *six* eighths of the inheritance.
 
   Le tome *six* de cette série est le meilleur.
-  Band *sechs* dieser Reihe ist der beste.
+  Volume *six* of this series is the best.
 
   Le cours dure de quatre à *six*.
-  Der Kurs geht von vier bis *sechs*.
+  Course's from four to *six*.
 
   "Ça vaut *trois francs six sous*."
-  "Das ist einen *Sechser* wert."
+  "That's worth a *six*."
 
   Le Groupe des *Six* a révolutionné la musique française.
-  Die Gruppe der *Sechs* revolutionierte die französische Musik.
+  The group of *six* revolutionized French music.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

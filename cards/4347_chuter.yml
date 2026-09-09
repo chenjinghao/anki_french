@@ -1,108 +1,108 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4347
 Wort: chuter
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: chuter
 Femininum / Plural: ''
 IPA: \ʃy.te\
-Definition: stürzen, fallen
-Register: ↗Sachtext
+Definition: fall, fall
+Register: ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La tempête m'a fait *chuter*.
-  Der Sturm hat mich zum *Fallen* gebracht.
+  The storm made me fall.
 
   "Il a *chuté* dans les escaliers et s'est cassé la jambe."
-  "Er ist die Treppe hinunter*gestürzt* und hat sich das Bein gebrochen."
+  "He fell down the stairs and broke his leg."
 
   Les ventes ont *chuté* de 30% le mois dernier.
-  Die Verkäufe sind im letzten Monat um 30% *gesunken*.
+  Sales fell by 30% last month.
 
   Le champion en titre a *chuté* contre un inconnu au premier tour.
-  Der Titelverteidiger hat in der ersten Runde gegen einen Unbekannten *verloren*.
+  The defending champion *lost* to an unknown in the first round.
 
   La température va *chuter* cette nuit.
-  Die Temperatur wird heute Nacht *fallen*.
+  The temperature will *fall* tonight.
 
   Marie a *chuté* de son vélo en évitant un chat.
-  Marie ist vom Fahrrad *gestürzt*, als sie einer Katze ausgewichen ist.
+  Marie fell off the bike when she evaded a cat.
 
   Le candidat a *chuté* sur une question d'histoire.
-  Der Kandidat ist bei einer Geschichtsfrage *durchgefallen*.
+  The candidate *failed* on a history issue.
 
   Les actions de l'entreprise ont *chuté* après l'annonce des résultats.
-  Die Aktien des Unternehmens sind nach der Bekanntgabe der Ergebnisse *gefallen*.
+  The Company's shares have *fallen* after the disclosure of the results.
 
   "Fais attention, tu vas *chuter* !"
-  "Pass auf, du wirst *stürzen*!"
+  "Look out, you're going to fall!"
 
   L'équipe locale a *chuté* contre les visiteurs.
-  Die Heimmannschaft hat gegen die Gäste eine Niederlage *erlitten*.
+  The home team has *suffered* a defeat against the guests.
 
   La popularité du président *chute* dans les sondages.
-  Die Beliebtheit des Präsidenten *sinkt* in den Umfragen.
+  The President's popularity is falling in the polls.
 
   Le spectacle a *chuté* dès la première représentation.
-  Die Show ist bereits bei der Premiere *durchgefallen*.
+  The show *failed* at the premiere.
 
   Paul a *chuté* de tout son long sur le verglas.
-  Paul ist der Länge nach auf dem Glatteis *gestürzt*.
+  Paul fell long on the ice.
 
   Le prix du pétrole *chute* depuis plusieurs semaines.
-  Der Ölpreis *fällt* seit mehreren Wochen.
+  Oil prices have been falling for several weeks.
 
   L'ancien régime a *chuté* après la révolution.
-  Das alte Regime ist nach der Revolution *gestürzt*.
+  The old regime fell after the revolution.
 
   La pression atmosphérique va *chuter* avant l'orage.
-  Der Luftdruck wird vor dem Gewitter *fallen*.
+  The air pressure will *fall* before the thunderstorm.
 
   Thomas a *chuté* trois fois pendant le match de tennis.
-  Thomas ist während des Tennisspiels dreimal *gestürzt*.
+  Thomas fell three times during the tennis game.
 
   Notre équipe a *chuté* en quart de finale.
-  Unsere Mannschaft ist im Viertelfinale *gescheitert*.
+  Our team *failed* in the quarterfinals.
 
   Les notes de Julie *chutent* depuis la rentrée.
-  Julies Noten *fallen* seit Schuljahresbeginn.
+  Julie's grades have been falling since the beginning of the school year.
 
   Au bridge, nous avons *chuté* de deux levées.
-  Beim Bridge haben wir zwei Stiche zu wenig *gemacht*.
+  We didn't do two stitches at the bridge.
 
   Le taux de chômage continue à *chuter* dans la région.
-  Die Arbeitslosenquote *sinkt* weiterhin in der Region.
+  The unemployment rate continues to fall in the region.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>tomber</i> und <i>chuter</i></div>
+    <div class="section-title"><i>tomber</i> and <i>chuter</i></div>
     <div class="section-content">
-      <p><span class="fr">Tomber</span> (#547) bedeutet <span class="de">"fallen"</span> im allgemeinen Sinne. Es kann sowohl für Menschen und Objekte als auch im übertragenen Sinne verwendet werden, wenn jemand in einen bestimmten Zustand <span class="de">"fällt"</span>.</p>
+      <p><span class="fr">Tomber</span> (#547) means <span class="de">"fallen"</span> in the general sense. It can be used both for humans and objects as well as in the figurative sense, if someone is in a certain state <span class="de">"falls"</span>.</p>
       <div class="examples">
         <div class="fr">Il est tombé par terre après avoir glissé sur la peau de banane.</div>
-        <div class="de spoiler">Er fiel zu Boden, nachdem er auf der Bananenschale ausgerutscht war.</div>
+        <div class="de spoiler">He fell to the ground after slipping on the banana shell.</div>
         <div class="fr">Les feuilles commencent à tomber en automne.</div>
-        <div class="de spoiler">Die Blätter beginnen im Herbst zu fallen.</div>
+        <div class="de spoiler">The leaves begin to fall in autumn.</div>
         <div class="fr">Elle est tombée amoureuse dès leur première rencontre.</div>
-        <div class="de spoiler">Sie verliebte sich bei ihrer ersten Begegnung.</div>
+        <div class="de spoiler">She fell in love at her first meeting.</div>
       </div>
 
-      <p><span class="fr">Chuter</span> beschreibt einen abrupteren oder schwerwiegenderen Sturz, oft aus der Höhe oder mit bedeutenden Konsequenzen. Es wird häufig in formelleren Kontexten verwendet und kann auch einen starken Rückgang von Zahlen oder Statistiken beschreiben.</p>
+      <p><span class="fr">Chuter</span> describes a more abrupt or serious fall, often from height or with significant consequences. It is often used in more formal contexts and can also describe a sharp decline in numbers or statistics.</p>
       <div class="examples">
         <div class="fr">Le skieur a chuté de façon spectaculaire lors de la compétition.</div>
-        <div class="de spoiler">Der Skifahrer stürzte spektakulär während des Wettkampfs.</div>
+        <div class="de spoiler">The skier crashed spectacularly during the competition.</div>
         <div class="fr">Les prix de l'immobilier ont chuté considérablement pendant la crise.</div>
-        <div class="de spoiler">Die Immobilienpreise sind während der Krise erheblich gefallen.</div>
+        <div class="de spoiler">Real estate prices fell significantly during the crisis.</div>
         <div class="fr">La température va chuter brusquement ce soir.</div>
-        <div class="de spoiler">Die Temperatur wird heute Abend stark fallen.</div>
+        <div class="de spoiler">The temperature is going to fall sharply tonight.</div>
       </div>
     </div>
   </div>

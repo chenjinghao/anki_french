@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4863
 Wort: sécuritaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sécuritaire
 Femininum / Plural: ''
 IPA: \se.ky.ʁi.tɛʁ\
-Definition: Sicherheits-, sicher
-Register: ↘Fiktion
+Definition: Safety, safe
+Register: ↘fiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le niveau de décontamination sera totalement *sécuritaire*.
-  Der Dekontaminationsgrad wird absolut *sicher* sein.
+  The level of decontamination will be absolutely *safe*.
 
   Le gouvernement a mis en place des mesures *sécuritaires* strictes dans les aéroports.
-  Die Regierung hat strenge *Sicherheits*maßnahmen an den Flughäfen eingeführt.
+  The government has introduced strict *security* measures at airports.
 
   La politique *sécuritaire* du maire fait débat dans notre ville.
-  Die *Sicherheits*politik des Bürgermeisters sorgt in unserer Stadt für Diskussionen.
+  The mayor's *security* policy is responsible for discussions in our city.
 
   Les médias critiquent le discours *sécuritaire* du ministre de l'Intérieur.
-  Die Medien kritisieren die *sicherheitsorientierte* Rede des Innenministers.
+  The media criticizes the security-oriented speech of the Minister of the Interior.
 
   Cette approche *sécuritaire* néglige les aspects sociaux du problème.
-  Dieser *Sicherheits*ansatz vernachlässigt die sozialen Aspekte des Problems.
+  This approach to *security* neglects the social aspects of the problem.
 
   L'opposition dénonce la dérive *sécuritaire* du gouvernement.
-  Die Opposition prangert den *sicherheitspolitischen* Kurs der Regierung an.
+  The opposition denounces the government's *security policy* stance.
 
   Ce parking souterrain n'est pas assez *sécuritaire* pour les voitures.
-  Dieses Parkhaus ist nicht *sicher* genug für die Autos.
+  This parking garage is not *safe* enough for the cars.
 
   L'idéologie *sécuritaire* domine le débat politique actuel.
-  Die *Sicherheits*ideologie dominiert die aktuelle politische Debatte.
+  *Security* ideology dominates the current political debate.
 
   Les nouvelles technologies *sécuritaires* sont très coûteuses.
-  Die neuen *Sicherheits*technologien sind sehr teuer.
+  The new *security* technologies are very expensive.
 
   Le caractère *sécuritaire* de ces propositions inquiète les associations.
-  Der *sicherheitsorientierte* Charakter dieser Vorschläge beunruhigt die Verbände.
+  The *safety-oriented* nature of these proposals is worrying to the associations.
 
   Ce dispositif *sécuritaire* protège efficacement contre les intrusions.
-  Diese *Sicherheits*vorrichtung schützt wirksam vor Eindringlingen.
+  This safety device effectively protects against intruders.
 
   L'aspect *sécuritaire* ne doit pas primer sur les libertés individuelles.
-  Der *Sicherheits*aspekt darf nicht Vorrang vor den individuellen Freiheiten haben.
+  The *security* aspect must not take precedence over individual freedoms.
 
   La tendance *sécuritaire* s'est renforcée après les attentats.
-  Die *Sicherheits*tendenz hat sich nach den Anschlägen verstärkt.
+  The *security* trend has intensified after the attacks.
 
   Les syndicats s'opposent à cette logique *sécuritaire*.
-  Die Gewerkschaften widersetzen sich dieser *Sicherheits*logik.
+  The unions oppose this *security* logic.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>sécuritaire</i> und <i>sûr</i></div>
+    <div class="section-title"><i>sécuritaire</i> and <i>sûr</i></div>
     <div class="section-content">
-      <p><span class="fr">Sécuritaire</span> bedeutet <span class="de">"sicherheitsbezogen"</span> oder <span class="de">"die Sicherheit betreffend"</span>. Es beschreibt etwas, das mit Sicherheitsmaßnahmen oder Sicherheitspolitik zu tun hat.</p>
+      <p><span class="fr">Sécuritaire</span> means <span class="de">"sicherheitsbezogen"</span> or <span class="de">"concerning security"</span>It describes something that has to do with security measures or security policy.</p>
       <div class="examples">
         <div class="fr">Le gouvernement a adopté une politique sécuritaire stricte.</div>
-        <div class="de spoiler">Die Regierung hat eine strenge Sicherheitspolitik angenommen.</div>
+        <div class="de spoiler">The government has adopted a strict security policy.</div>
         <div class="fr">Les mesures sécuritaires ont été renforcées à l'aéroport.</div>
-        <div class="de spoiler">Die Sicherheitsmaßnahmen am Flughafen wurden verstärkt.</div>
+        <div class="de spoiler">Security measures at the airport have been strengthened.</div>
       </div>
-      <p><span class="fr">Sûr</span> (#270) bedeutet <span class="de">"sicher"</span> im Sinne von <span class="de">"ungefährlich"</span> oder <span class="de">"gewiss"</span>. Es beschreibt einen Zustand der Sicherheit oder Gewissheit.</p>
+      <p><span class="fr">Sûr</span> (#270) means <span class="de">"sicher"</span> For the purposes of: <span class="de">"unhazardous"</span> or <span class="de">"gewiss"</span>It describes a state of security or certainty.</p>
       <div class="examples">
         <div class="fr">Ce quartier est très sûr la nuit.</div>
-        <div class="de spoiler">Dieses Viertel ist nachts sehr sicher.</div>
+        <div class="de spoiler">This neighborhood is very safe at night.</div>
         <div class="fr">Je suis sûr qu'il viendra demain.</div>
-        <div class="de spoiler">Ich bin sicher, dass er morgen kommen wird.</div>
+        <div class="de spoiler">I'm sure he'll come tomorrow.</div>
       </div>
     </div>
   </div>

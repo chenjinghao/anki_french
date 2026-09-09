@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2957
 Wort: gravement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: gravement
 Femininum / Plural: ''
 IPA: \ɡʁav.mɑ̃\
-Definition: ernst(-haft), schwer(-wiegend)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: serious(-haft), severe(-major)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Deux maisons ont été *gravement* endommagées.
-  Zwei Häuser wurden *schwer* beschädigt.
+  Two houses were badly damaged.
 
   Le juge a parlé *gravement* avant de prononcer la sentence.
-  Der Richter sprach *würdevoll*, bevor er das Urteil verkündete.
+  The judge spoke dignifiedly before he pronounced the verdict.
 
   Sa santé s'est *gravement* détériorée ces derniers mois.
-  Seine Gesundheit hat sich in den letzten Monaten *ernsthaft* verschlechtert.
+  His health has deteriorated seriously in recent months.
 
   Elle a *gravement* sous-estimé les conséquences de ses actes.
-  Sie hat die Folgen ihrer Handlungen *schwerwiegend* unterschätzt.
+  She has seriously underestimated the consequences of her actions.
 
   Le patient est *gravement* malade et nécessite des soins intensifs.
-  Der Patient ist *schwer* krank und benötigt intensivmedizinische Behandlung.
+  The patient is seriously ill and requires intensive medical treatment.
 
   L'orateur s'est adressé *gravement* à son auditoire.
-  Der Redner wandte sich *ernst* an sein Publikum.
+  The speaker turned seriously to his audience.
 
   Cette décision pourrait *gravement* affecter l'avenir de l'entreprise.
-  Diese Entscheidung könnte die Zukunft des Unternehmens *ernsthaft* beeinflussen.
+  This decision could seriously affect the future of the company.
 
   Le conducteur a été *gravement* blessé dans l'accident.
-  Der Fahrer wurde bei dem Unfall *schwer* verletzt.
+  The driver was seriously injured in the accident.
 
   Il a *gravement* offensé son collègue avec cette remarque.
-  Er hat seinen Kollegen mit dieser Bemerkung *schwer* beleidigt.
+  He has offended his colleagues with this remark.
 
   Les diplomates discutaient *gravement* de la situation internationale.
-  Die Diplomaten diskutierten *ernsthaft* über die internationale Lage.
+  The diplomats were seriously discussing the international situation.
 
   La pollution menace *gravement* l'écosystème de cette région.
-  Die Verschmutzung bedroht das Ökosystem dieser Region *ernsthaft*.
+  Pollution is seriously threatening the region's ecosystem.
 
   Elle marchait *gravement* vers l'autel le jour de son mariage.
-  Sie schritt am Tag ihrer Hochzeit *würdevoll* zum Altar.
+  She walked gracefully to the altar on the day of her wedding.
 
   Le virus a *gravement* perturbé l'économie mondiale.
-  Das Virus hat die Weltwirtschaft *schwer* gestört.
+  The virus has severely disrupted the global economy.
 
   Le pianiste jouait *gravement* la sonate de Beethoven.
-  Der Pianist spielte Beethovens Sonate *getragen*.
+  The pianist played Beethoven's sonata *worn*.
 
   Nous avons *gravement* sous-estimé le temps nécessaire pour ce projet.
-  Wir haben die für dieses Projekt benötigte Zeit *gravierend* unterschätzt.
+  We have seriously underestimated the time needed for this project.
 
   Sa réputation a été *gravement* compromise par ce scandale.
-  Sein Ruf wurde durch diesen Skandal *schwer* beschädigt.
+  His reputation was severely damaged by this scandal.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

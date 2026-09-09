@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2170
 Wort: célébrer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: célébrer
 Femininum / Plural: ''
 IPA: \se.le.bʁe\
-Definition: feiern, rühmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: celebrate, boast
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous venons *célébrer* le mariage de mon frère.
-  Wir kommen, um die Hochzeit meines Bruders zu *feiern*.
+  We're here to *celebrate* my brother's wedding.
 
   Le prêtre *célébrera* la messe de minuit à Noël.
-  Der Priester wird die Mitternachtsmesse an Weihnachten *abhalten*.
+  The priest will hold the midnight Mass at Christmas.
 
   Toute la ville *célèbre* la victoire de l'équipe locale.
-  Die ganze Stadt *feiert* den Sieg der lokalen Mannschaft.
+  The whole city *celebrates* the victory of the local team.
 
   Les critiques *célèbrent* le talent du jeune artiste dans leurs articles.
-  Die Kritiker *preisen* das Talent des jungen Künstlers in ihren Artikeln.
+  The critics praise the talent of the young artist in their articles.
 
   "On va *célébrer* ça avec un bon repas !" s'est-il exclamé après sa promotion.
-  "Das werden wir mit einem guten Essen *feiern*!" rief er nach seiner Beförderung aus.
+  "We'll *celebrate* with a good meal!" he exclaimed after his promotion.
 
   Le pays *célébrera* demain le centenaire de son indépendance.
-  Das Land wird morgen den hundertsten Jahrestag seiner Unabhängigkeit *begehen*.
+  The country will celebrate the hundredth anniversary of its independence tomorrow.
 
   Les poètes ont souvent *célébré* la beauté de la nature dans leurs œuvres.
-  Dichter haben oft die Schönheit der Natur in ihren Werken *gepriesen*.
+  Poets have often *praised* the beauty of nature in their works.
 
   Chaque année, nous *célébrons* l'anniversaire de la fondation de notre entreprise.
-  Jedes Jahr *feiern* wir den Jahrestag der Gründung unseres Unternehmens.
+  Every year we *celebrate* the anniversary of the founding of our company.
 
   Le maire *célébrera* les noces d'or de ses parents ce week-end.
-  Der Bürgermeister wird dieses Wochenende die goldene Hochzeit seiner Eltern *feiern*.
+  The mayor will *celebrate* his parents' golden wedding this weekend.
 
   Les fidèles se sont réunis pour *célébrer* Pâques à l'église.
-  Die Gläubigen haben sich versammelt, um Ostern in der Kirche zu *feiern*.
+  The faithful gathered to *celebrate* Easter in the Church.
 
   L'académie a décidé de *célébrer* la mémoire de ce grand écrivain par une exposition.
-  Die Akademie hat beschlossen, das Andenken dieses großen Schriftstellers mit einer Ausstellung zu *würdigen*.
+  The Academy has decided to honour the memory of this great writer with an exhibition.
 
   Nous allons *célébrer* nos fiançailles avec nos amis proches.
-  Wir werden unsere Verlobung mit unseren engen Freunden *feiern*.
+  We'll *celebrate* our engagement with our close friends.
 
   Le journal local *célèbre* les exploits des athlètes olympiques de la région.
-  Die Lokalzeitung *rühmt* die Leistungen der olympischen Athleten aus der Region.
+  The local newspaper boasts the achievements of Olympic athletes from the region.
 
   Les historiens *célèbrent* les grandes actions des héros nationaux dans leurs livres.
-  Die Historiker *preisen* die großen Taten der nationalen Helden in ihren Büchern.
+  Historians praise the great deeds of national heroes in their books.
 
   La communauté scientifique *célèbre* les avancées médicales récentes.
-  Die wissenschaftliche Gemeinschaft *feiert* die jüngsten medizinischen Fortschritte.
+  The scientific community is celebrating recent medical progress.
 
   Les étudiants ont *célébré* la fin des examens par une grande fête.
-  Die Studenten haben das Ende der Prüfungen mit einer großen Party *gefeiert*.
+  The students *celebrated* the end of the exams with a big party.
 
   Le festival annuel *célèbre* la diversité culturelle de notre ville.
-  Das jährliche Festival *feiert* die kulturelle Vielfalt unserer Stadt.
+  The annual festival *celebrates* the cultural diversity of our city.
 
   L'entreprise *célébrera* son cinquantième anniversaire l'année prochaine.
-  Das Unternehmen wird nächstes Jahr sein fünfzigjähriges Jubiläum *feiern*.
+  The company will *celebrate* its 50th anniversary next year.
 
   Les médias *célèbrent* les mérites du nouveau lauréat du prix Nobel.
-  Die Medien *preisen* die Verdienste des neuen Nobelpreisträgers.
+  The media praises the merits of the new Nobel Prize winner.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

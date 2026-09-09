@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1755
 Wort: confusion
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la confusion
 Femininum / Plural: ''
 IPA: \kɔ̃.fy.zjɔ̃\
-Definition: Verwirrung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Confusion
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai cru mourir de *confusion*.
-  Ich dachte, ich müsste vor *Verlegenheit* sterben.
+  I thought I had to die of *embarrassment*.
 
   Elle rougit de *confusion* en réalisant son erreur.
-  Sie wurde vor *Verlegenheit* rot, als sie ihren Fehler bemerkte.
+  She became red with *embarrassment* when she noticed her mistake.
 
   À ma grande *confusion*, j'avais complètement oublié son anniversaire.
-  Zu meiner großen *Beschämung* hatte ich seinen Geburtstag völlig vergessen.
+  To my great *shame*, I had completely forgotten his birthday.
 
   Une *confusion* de dates a causé ce malentendu.
-  Eine *Verwechslung* der Termine hat dieses Missverständnis verursacht.
+  A mistake in appointments has caused this misunderstanding.
 
   Il y a eu une *confusion* : je ne suis pas la personne que vous cherchez.
-  Da liegt eine *Verwechslung* vor: Ich bin nicht die Person, die Sie suchen.
+  There's a confusion: I'm not the person you're looking for.
 
   Cette formulation peut *prêter à confusion*.
-  Diese Formulierung kann *verwirrend sein*.
+  This formulation can *be confusing*.
 
   La *confusion* régnait dans les rues après l'incident.
-  Nach dem Vorfall herrschte *Verwirrung* auf den Straßen.
+  After the incident, there was *confusion* on the streets.
 
   Le changement soudain des règles a jeté la *confusion* parmi les participants.
-  Die plötzliche Regeländerung hat *Verwirrung* unter den Teilnehmern gestiftet.
+  The sudden change of rules has created *confusion* among the participants.
 
   Une grande *confusion* règne dans son bureau.
-  In seinem Büro herrscht ein großes *Durcheinander*.
+  There's a big mess in his office.
 
   Le patient montre des signes de *confusion* mentale.
-  Der Patient zeigt Anzeichen von geistiger *Verwirrtheit*.
+  The patient shows signs of mental *confusion*.
 
   Cette *confusion* de noms m'a causé beaucoup d'ennuis.
-  Diese Namen*verwechslung* hat mir viele Probleme bereitet.
+  This *confusion* of names has caused me many problems.
 
   Sa réponse ambiguë a semé la *confusion*.
-  Seine zweideutige Antwort hat *Verwirrung* gestiftet.
+  His ambiguous answer has caused *confusion*.
 
   Dans la *confusion* générale, personne n'a entendu l'annonce.
-  Im allgemeinen *Durcheinander* hat niemand die Ankündigung gehört.
+  In general *confusion*, no one has heard the announcement.
 
   Les événements ont créé une *confusion* totale dans son esprit.
-  Die Ereignisse haben völlige *Verwirrung* in seinem Kopf verursacht.
+  The events have caused total *confusion* in his head.
 
   La *confusion* s'est installée après la panne d'électricité.
-  Nach dem Stromausfall brach *Chaos* aus.
+  After the blackout, *chaos* broke out.
 
   Sa présentation était d'une grande *confusion*.
-  Seine Präsentation war sehr *verworren*.
+  His presentation was very *confused*.
 
   Pour éviter toute *confusion*, expliquons les règles clairement.
-  Um jegliche *Verwirrung* zu vermeiden, erklären wir die Regeln deutlich.
+  To avoid any *confusion*, we clearly explain the rules.
 
   La *confusion* des pouvoirs mène souvent à des abus.
-  Die *Vermischung* der Gewalten führt oft zu Missbrauch.
+  The *mixing* of the powers often leads to abuse.
 
   Une *confusion* s'est produite entre les deux dossiers.
-  Es kam zu einer *Verwechslung* zwischen den beiden Akten.
+  There was a confusion between the two files.
 
   Cette situation *prête à confusion*.
-  Diese Situation *ist verwirrend*.
+  This situation *is confusing*.
 
   La *confusion* régnait dans la salle après l'annonce.
-  Nach der Ankündigung herrschte *Verwirrung* im Saal.
+  After the announcement there was *confusion* in the hall.
 
   Il a mis fin à la *confusion* en clarifiant les choses.
-  Er beendete die *Verwirrung*, indem er die Dinge klarstellte.
+  He ended the *confusion* by clarifying things.
 
   La *confusion* dans ses explications a perdu tout le monde.
-  Die *Unklarheit* in seinen Erklärungen hat alle verwirrt.
+  The ambiguity in his explanations has confused everyone.
 
   Cette *confusion* des genres ne plaît pas à tout le monde.
-  Diese *Vermischung* der Genres gefällt nicht jedem.
+  This mixture of genres does not please everyone.
 
   Une certaine *confusion* s'est installée dans les esprits.
-  Eine gewisse *Verwirrung* machte sich in den Köpfen breit.
+  A certain *confusion* spread in the heads.
 
   Cette *confusion* des rôles complique la situation.
-  Diese *Vermischung* der Rollen verkompliziert die Situation.
+  This *mixing* of roles complicates the situation.
 
   La *confusion* s'est répandue comme une traînée de poudre.
-  Die *Verwirrung* breitete sich wie ein Lauffeuer aus.
+  The *confusion* spread like wildfire.
 
   Dans la *confusion* du moment, j'ai oublié son nom.
-  In der *Verwirrung* des Augenblicks habe ich ihren Namen vergessen.
+  In the *confusion* of the moment, I forgot her name.
 
   Les enfants ont semé la *confusion* pendant la fête.
-  Die Kinder haben während der Feier *Chaos* gestiftet.
+  The children have created *chaos* during the celebration.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 166
 Wort: soit
 Wortart: adv, conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: soit
 Femininum / Plural: ''
 IPA: \swa\
-Definition: entweder ... oder; einverstanden; d.h.
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: either ... or; agree; i.e.
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Soit* il est une star, *soit* il n'est rien.
-  *Entweder* er ist ein Star, *oder* er ist nichts.
+  *Either* he's a star, *or* he's nothing.
 
   *Soit* qu'il pleuve, *soit* qu'il neige, nous irons à la montagne.
-  *Egal ob* es regnet *oder* schneit, wir fahren in die Berge.
+  Whether it's raining *or* snowing, we're going to the mountains.
 
   *Soit* ! Je vais accepter ta proposition.
-  *Einverstanden*! Ich werde deinen Vorschlag annehmen.
+  All right, I'll take your suggestion.
 
   Il faut choisir : *soit* tu restes, *soit* tu pars.
-  Du musst dich entscheiden: *entweder* du bleibst *oder* du gehst.
+  You have to decide: *either* you stay *or* you leave.
 
   L'incendie a détruit la forêt, *soit* 500 hectares de bois.
-  Das Feuer hat den Wald zerstört, *das heißt* 500 Hektar Wald.
+  The fire destroyed the forest, which means 500 hectares of forest.
 
   *Soit* deux droites parallèles qui ne se croisent jamais.
-  *Gegeben seien* zwei parallele Linien, die sich nie schneiden.
+  There are two parallel lines that never cut.
 
   *Soit* que tu viennes, *soit* que tu restes, je serai content.
-  *Egal ob* du kommst *oder* bleibst, ich werde zufrieden sein.
+  Whether you're coming *or* staying, I'll be happy.
 
   Il a lu *soit* des romans, *soit* des essais pendant ses vacances.
-  Er hat im Urlaub *entweder* Romane *oder* Essays gelesen.
+  He read *either* novels *or* essays on vacation.
 
   *Soit* ! Je vais essayer de comprendre.
-  *Gut*! Ich werde versuchen, es zu verstehen.
+  I'll try to understand.
 
   Il a acheté trois livres, *soit* un total de 50 euros.
-  Er hat drei Bücher gekauft, *das heißt* insgesamt 50 Euro.
+  He bought three books, that is 50 euros in total.
 
   *Soit* qu'il soit malade, *soit* qu'il n'ait pas envie, il ne viendra pas.
-  *Entweder* ist er krank *oder* er hat keine Lust, er wird nicht kommen.
+  *Either* he's sick *or* he doesn't want to, he won't come.
 
   *Soit* ! Mais n'oublie pas de me prévenir la prochaine fois.
-  *Einverstanden*! Aber vergiss nicht, mir das nächste Mal Bescheid zu sagen.
+  All right, but don't forget to let me know next time.
 
   Vous pouvez venir *soit* aujourd'hui, *soit* demain.
-  Ihr könnt *entweder* heute *oder* morgen kommen.
+  You can come *either* today *or* tomorrow.
 
   Il a commandé deux pizzas, *soit* une pour chacun.
-  Er hat zwei Pizzen bestellt, *das heißt* eine für jeden.
+  He ordered two pizzas, that is one for everyone.
 
   *Soit* que tu aies raison, *soit* que tu te trompes, il faut agir.
-  *Egal ob* du recht hast *oder* dich irrst, wir müssen handeln.
+  Whether you're right *or* wrong, we have to act.
 
   *Soit* ! Je vais le faire moi-même.
-  *Gut*! Ich werde es selbst machen.
+  All right, I'll do it myself.
 
   Il a pris *soit* le train, *soit* l'avion pour aller à Paris.
-  Er ist *entweder* mit dem Zug *oder* mit dem Flugzeug nach Paris gefahren.
+  He went to Paris *either* by train *or* by plane.
 
   *Soit* un cercle de rayon 5 cm.
-  *Gegeben sei* ein Kreis mit einem Radius von 5 cm.
+  There is a circle with a radius of 5 cm.
 
   *Soit* ! Mais je ne suis pas convaincu.
-  *Einverstanden*! Aber ich bin nicht überzeugt.
+  All right, but I'm not convinced.
 
   Il a dépensé 100 euros, *soit* tout son argent de poche.
-  Er hat 100 Euro ausgegeben, *das heißt* sein ganzes Taschengeld.
+  He spent 100 euros, that is, all his pocket money.
 
   *Soit* que tu sois fatigué, *soit* que tu n'aies pas envie, repose-toi.
-  *Egal ob* du müde bist *oder* keine Lust hast, ruh dich aus.
+  Whether you're tired *or* not, get some rest.
 
   Il a acheté *soit* des pommes, *soit* des poires au marché.
-  Er hat auf dem Markt *entweder* Äpfel *oder* Birnen gekauft.
+  He bought *either* apples *or* pears at the market.
 
   *Soit* ! Mais tu me dois une explication.
-  *Gut*! Aber du schuldest mir eine Erklärung.
+  *Good*, but you owe me an explanation.
 
   Il a choisi *soit* de partir, *soit* de rester.
-  Er hat sich entschieden, *entweder* zu gehen *oder* zu bleiben.
+  He decided to *either* go *or* stay.
 
   *Soit* ! Fais comme tu veux.
-  *Einverstanden*! Mach, was du willst.
+  All right, do whatever you want.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

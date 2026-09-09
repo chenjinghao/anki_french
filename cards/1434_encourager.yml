@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1434
 Wort: encourager
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: encourager
 Femininum / Plural: ''
 IPA: \ɑ̃.ku.ʁa.ʒe\
-Definition: ermutigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: encourage
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Allez, *encouragez* notre petit gars.
-  Los, *feuert* unseren Kleinen an.
+  Come on, cheer on our little one.
 
   Le professeur *encourage* ses élèves d'un sourire bienveillant.
-  Der Lehrer *ermuntert* seine Schüler mit einem wohlwollenden Lächeln.
+  The teacher encourages his students with a benevolent smile.
 
   Ses parents l'ont toujours *encouragée* à poursuivre ses rêves.
-  Ihre Eltern haben sie immer *ermutigt*, ihre Träume zu verfolgen.
+  Her parents have always *encouraged* her to pursue her dreams.
 
   Cette bourse *encourage* les jeunes talents artistiques.
-  Dieses Stipendium *fördert* junge künstlerische Talente.
+  This scholarship *promotes* young artistic talents.
 
   La foule *encourageait* les marathoniens avec enthousiasme.
-  Die Menge *feuerte* die Marathonläufer enthusiastisch an.
+  The crowd enthusiastically cheered the marathon runners.
 
   Son mentor l'a *encouragé* à postuler pour ce poste.
-  Sein Mentor hat ihn *ermutigt*, sich auf diese Stelle zu bewerben.
+  His mentor *encouraged* him to apply for this position.
 
   Ces résultats positifs nous *encouragent* à continuer nos recherches.
-  Diese positiven Ergebnisse *ermutigen* uns, unsere Forschung fortzusetzen.
+  These positive results *encourage* us to continue our research.
 
   Le gouvernement *encourage* les énergies renouvelables.
-  Die Regierung *unterstützt* erneuerbare Energien.
+  The government supports renewable energies.
 
   Marie *encourage* toujours ses amis dans les moments difficiles.
-  Marie *muntert* ihre Freunde in schwierigen Momenten immer auf.
+  Marie always *cheers* up her friends in difficult moments.
 
   Les spectateurs *encourageaient* l'équipe par leurs cris.
-  Die Zuschauer *feuerten* die Mannschaft durch ihre Rufe an.
+  The spectators cheered the team by their calls.
 
   Cette politique *encourage* l'innovation dans le secteur privé.
-  Diese Politik *begünstigt* Innovationen im privaten Sektor.
+  This policy encourages innovation in the private sector.
 
   Le coach nous a *encouragés* avant le match décisif.
-  Der Trainer hat uns vor dem entscheidenden Spiel *Mut gemacht*.
+  The coach gave us courage before the decisive game.
 
   Sa réussite *encourage* d'autres à suivre son exemple.
-  Sein Erfolg *ermutigt* andere dazu, seinem Beispiel zu folgen.
+  His success encourages others to follow his example.
 
   Les parents doivent *encourager* la créativité de leurs enfants.
-  Eltern sollten die Kreativität ihrer Kinder *fördern*.
+  Parents should *promote* the creativity of their children.
 
   Cette récompense va *encourager* les jeunes chercheurs.
-  Diese Auszeichnung wird junge Forscher *anspornen*.
+  This award will encourage young researchers.
 
   Le médecin m'a *encouragé* à faire plus d'exercice.
-  Der Arzt hat mich *ermuntert*, mehr Sport zu treiben.
+  The doctor *encouraged* me to do more exercise.
 
   Son frère l'*encourageait* d'un geste discret.
-  Ihr Bruder *ermutigte* sie mit einer dezenten Geste.
+  Her brother *encouraged* her with a subtle gesture.
 
   Cette mesure *encourage* l'épargne des ménages.
-  Diese Maßnahme *fördert* das Sparen der Haushalte.
+  This measure *promotes* the saving of households.
 
   Je t'*encourage* vivement à accepter cette opportunité.
-  Ich *rate* dir dringend, diese Gelegenheit anzunehmen.
+  I strongly advise you to take this opportunity.
 
   Les bonnes notes *encouragent* les étudiants à travailler davantage.
-  Gute Noten *spornen* die Studenten an, noch mehr zu arbeiten.
+  Good grades encourage students to work even more.
 
   La critique *encourageante* l'a poussée à continuer.
-  Die *aufmunternde* Kritik hat sie dazu gebracht weiterzumachen.
+  The *encouraging* criticism has led them to continue.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

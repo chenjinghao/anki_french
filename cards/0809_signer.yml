@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 809
 Wort: signer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: signer
 Femininum / Plural: ''
 IPA: \si.ɲe\
-Definition: unterschreiben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Sign
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu voulais que je *signe* les papiers.
-  Du wolltest, dass ich die Papiere *unterschreibe*.
+  You wanted me to *sign* the papers.
 
   Elle a *signé* tous les documents sans même les lire.
-  Sie hat alle Dokumente *unterschrieben*, ohne sie überhaupt zu lesen.
+  She *signed* all the documents without even reading them.
 
   L'artiste a *signé* son tableau d'un pseudonyme.
-  Der Künstler hat sein Gemälde mit einem Pseudonym *signiert*.
+  The artist *signed* his painting with a pseudonym.
 
   Le président *signera* le traité de paix demain matin.
-  Der Präsident wird morgen früh den Friedensvertrag *unterzeichnen*.
+  The president will *sign* the peace treaty tomorrow morning.
 
   Marie doit *signer* son chèque avant de le donner à la banque.
-  Marie muss ihren Scheck *unterschreiben*, bevor sie ihn zur Bank bringt.
+  Marie has to *sign* her check before she takes him to the bank.
 
   "C'est *signé*" - tout le monde savait que c'était son œuvre.
-  "Das trägt eindeutig seinen *Stempel*" - jeder wusste, dass es sein Werk war.
+  "This clearly bears its stamp" - everyone knew it was his work.
 
   La vieille dame s'est *signée* en passant devant l'église.
-  Die alte Dame hat sich beim Vorbeigehen an der Kirche *bekreuzigt*.
+  The old lady *crucified* herself as she passed the church.
 
   Il faut *signer* ici, en bas de la page.
-  Sie müssen hier unten auf der Seite *unterschreiben*.
+  You need to *sign* down here on the page.
 
   Le jeune peintre a enfin *signé* sa première grande œuvre.
-  Der junge Maler hat endlich sein erstes großes Werk *signiert*.
+  The young painter finally *signed* his first large work.
 
   Je refuse de *signer* un contrat en blanc.
-  Ich weigere mich, einen Vertrag blanko zu *unterschreiben*.
+  I refuse to *sign* a contract blanko.
 
   Cette méthode criminelle était *signée* : c'était forcément lui.
-  Diese kriminelle Methode trug seine *Handschrift*: Es musste er gewesen sein.
+  This criminal method bore his *handwriting*: it must have been him.
 
   Les deux pays ont *signé* un accord commercial important.
-  Die beiden Länder haben ein wichtiges Handelsabkommen *unterzeichnet*.
+  The two countries have *signed* an important trade agreement.
 
   L'interprète *signe* rapidement pour les personnes sourdes.
-  Die Dolmetscherin *gebärdet* schnell für die gehörlosen Menschen.
+  The interpreter is quick to beg for the deaf people.
 
   La star *signait* des autographes après le concert.
-  Der Star *unterschrieb* nach dem Konzert Autogramme.
+  The star *signed* autographs after the concert.
 
   Je *signerai* de mon sang que c'est la vérité !
-  Ich würde dafür meine Hand ins Feuer legen, dass das die Wahrheit ist!
+  I'd put my hand in the fire for that, that's the truth!
 
   Le groupe de rock a *signé* avec une nouvelle maison de disques.
-  Die Rockband hat bei einer neuen Plattenfirma *unterschrieben*.
+  The rock band *signed* to a new record company.
 
   Veuillez *signer* votre déposition au commissariat.
-  Bitte *unterschreiben* Sie Ihre Aussage auf dem Polizeirevier.
+  Please *sign* your statement at the police station.
 
   Les enfants ont *signé* la carte d'anniversaire pour leur professeur.
-  Die Kinder haben die Geburtstagskarte für ihren Lehrer *unterschrieben*.
+  The children *signed* the birthday card for their teacher.
 
   Cette sculpture n'est pas *signée* par l'artiste.
-  Diese Skulptur ist vom Künstler nicht *signiert*.
+  This sculpture is not *signed* by the artist.
 
   Il persiste et *signe* : il n'était pas là ce soir-là.
-  Er bleibt dabei und *lässt sich nicht umstimmen*: Er war an diesem Abend nicht dort.
+  He stays with it and cannot be changed: He was not there that evening.
 
   La jeune femme *signe* toujours avec ses initiales.
-  Die junge Frau *unterschreibt* immer mit ihren Initialen.
+  The young woman always signs her initials.
 
   En faisant cela, tu as *signé* ton arrêt de mort professionnel.
-  Damit hast du dir beruflich selbst das Grab ge*schaufelt*.
+  You used it to dig your own grave.
 
   Le notaire nous attend : nous *signons* mardi.
-  Der Notar wartet auf uns: Wir *unterschreiben* am Dienstag.
+  The notary is waiting for us: We *sign* on Tuesday.
 
   Ces pièces de mobilier sont toutes *signées* par des designers célèbres.
-  Diese Möbelstücke sind alle von berühmten Designern *signiert*.
+  These pieces of furniture are all *signed* by famous designers.
 
   Le réalisateur vient de *signer* son meilleur film.
-  Der Regisseur hat gerade seinen besten Film *geschaffen*.
+  The director just made his best movie.
 
   L'ambassadeur a *signé* le document de sa propre main.
-  Der Botschafter hat das Dokument eigenhändig *unterschrieben*.
+  The Ambassador *signed* the document by himself.
 
   Les témoins doivent *signer* le registre de mariage.
-  Die Trauzeugen müssen das Hochzeitsregister *unterschreiben*.
+  The best witnesses must *sign* the wedding register.
 
   Ce roman est *signé* par un auteur inconnu.
-  Dieser Roman *stammt* von einem unbekannten Autor.
+  This novel was written by an unknown author.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

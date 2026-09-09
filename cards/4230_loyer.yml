@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4230
 Wort: loyer
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le loyer
 Femininum / Plural: ''
 IPA: \lwa.je\
-Definition: Miete
-Register: ↗Sachtext
+Definition: Rent
+Register: ↗nonfiction
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai pas payé le *loyer* du mois prochain.
-  Ich habe die *Miete* für nächsten Monat nicht bezahlt.
+  I didn't pay the *rent* for next month.
 
   Le *loyer* de ce local commercial est vraiment très élevé.
-  Die *Miete* für dieses Geschäftslokal ist wirklich sehr hoch.
+  The *rent* for this place is really very high.
 
   Les propriétaires ont augmenté le *loyer* de 10 % cette année.
-  Die Vermieter haben die *Miete* dieses Jahr um 10 % erhöht.
+  The landlords have increased the *rent* this year by 10%.
 
   Le *loyer* de référence dans ce quartier est de 800 euros.
-  Die Vergleichs*miete* in diesem Viertel beträgt 800 Euro.
+  The comparison *rent* in this quarter is 800 euros.
 
   Cette famille habite dans un immeuble à *loyer* modéré.
-  Diese Familie wohnt in einem Sozialwohnungsbau mit günstiger *Miete*.
+  This family lives in a social housing building with cheap *rent*.
 
   Marc doit trois mois de *loyer* à son propriétaire.
-  Marc schuldet seinem Vermieter drei Monate *Miete*.
+  Marc owes his landlord three months' *rent*.
 
   Les fermiers paient un *loyer* annuel de 5000 euros.
-  Die Bauern zahlen eine jährliche *Pacht* von 5000 Euro.
+  The farmers pay an annual *rent* of 5000 euros.
 
   Le *loyer* de cet appartement est vraiment usuraire.
-  Die *Miete* für diese Wohnung ist wirklich Wucher.
+  The *rent* for this apartment is really usury.
 
   La quittance de *loyer* est nécessaire pour le dossier.
-  Die *Miet*quittung ist für die Unterlagen erforderlich.
+  The *rental* receipt is required for the documents.
 
   L'échéance du *loyer* est fixée au premier du mois.
-  Der *Miet*termin ist auf den Ersten des Monats festgelegt.
+  The *rental* date is set at the first of the month.
 
   Le propriétaire craint une perte de *loyer* à cause de la crise.
-  Der Vermieter befürchtet einen *Miet*ausfall wegen der Krise.
+  The landlord fears a rent loss due to the crisis.
 
   Le *loyer* limité réglementé protège les locataires.
-  Die *Miet*preisbindung schützt die Mieter.
+  The *rental* price fix protects the tenants.
 
   Son *loyer* mensuel représente la moitié de son salaire.
-  Seine monatliche *Miete* macht die Hälfte seines Gehalts aus.
+  His monthly *rent* is half his salary.
 
   Le taux du *loyer* de l'argent a baissé récemment.
-  Der *Zins*satz ist kürzlich gesunken.
+  The *interest rate* has recently fallen.
 
   Les banques ont fixé un nouveau *loyer* de l'argent.
-  Die Banken haben einen neuen *Zins*satz festgelegt.
+  The banks have fixed a new *interest rate*.
 
   Le *loyer* est encaissé automatiquement chaque mois.
-  Die *Miete* wird jeden Monat automatisch eingezogen.
+  The *rent* is collected automatically every month.
 
   La mairie contrôle les *loyers* exorbitants dans le centre-ville.
-  Die Stadtverwaltung kontrolliert die Wucher*mieten* in der Innenstadt.
+  The city administration controls the usury rentals in the city center.
 
   Le *loyer* inclut les charges de chauffage.
-  Die *Miete* enthält die Heizkosten.
+  The *rent* includes the heating costs.
 
   Nous avons négocié un *loyer* raisonnable pour notre boutique.
-  Wir haben eine vernünftige *Miete* für unseren Laden ausgehandelt.
+  We negotiated a reasonable *rent* for our store.
 
   Le *loyer* moyen a augmenté de 5 % dans cette région.
-  Die durchschnittliche *Miete* ist in dieser Region um 5 % gestiegen.
+  The average *rent* in this region has increased by 5%.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

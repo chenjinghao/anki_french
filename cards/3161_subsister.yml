@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3161
 Wort: subsister
 Wortart: vi, vi(imp)
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: subsister
 Femininum / Plural: ''
 IPA: \syb.zis.te\
-Definition: (fort-)bestehen, (über-)leben
-Register: ↘Mündlich
+Definition: (continuing) living (surviving)
+Register: ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le racisme, lui, *subsiste* encore.
-  Der Rassismus *besteht* immer noch.
+  Racism still exists.
 
   Après leur divorce, un lien d'amitié *subsiste* entre eux.
-  Nach ihrer Scheidung *besteht* zwischen ihnen noch eine freundschaftliche Verbindung.
+  After their divorce, they still have a friendly relationship.
 
   Cette espèce rare *subsiste* uniquement dans quelques régions isolées.
-  Diese seltene Art *überlebt* nur noch in einigen abgelegenen Gebieten.
+  This rare species survives only in some remote areas.
 
   Comment peut-elle *subsister* avec un salaire aussi bas ?
-  Wie kann sie von so einem niedrigen Gehalt *leben*?
+  How can she *live* on such a low salary?
 
   Il ne *subsiste* que des ruines de l'ancien château.
-  Von der alten Burg *sind* nur noch Ruinen *übrig*.
+  There *are* only ruins left of the old castle.
 
   Le doute *subsiste* quant à la cause exacte de l'accident.
-  Der Zweifel über die genaue Unfallursache *besteht weiter*.
+  There is still doubt about the exact cause of the accident.
 
   La famille a réussi à *subsister* pendant la crise économique.
-  Die Familie hat es geschafft, während der Wirtschaftskrise zu *überleben*.
+  The family managed to survive during the economic crisis.
 
   Malgré les années, leur amour *subsiste*.
-  Trotz der Jahre *überdauert* ihre Liebe.
+  Despite the years, her love endures.
 
   Sans confiance, aucune relation ne peut *subsister*.
-  Ohne Vertrauen kann keine Beziehung *bestehen*.
+  Without trust, there can be no relationship.
 
   Les traditions ancestrales *subsistent* dans ce village reculé.
-  Die alten Traditionen *überdauern* in diesem abgelegenen Dorf.
+  The old traditions *survive* in this remote village.
 
   Certaines traces de peinture *subsistent* sur les murs de la grotte.
-  Einige Spuren von Malerei sind an den Höhlenwänden *erhalten geblieben*.
+  Some traces of painting have been preserved on the cave walls.
 
   La petite entreprise *subsiste* tant bien que mal.
-  Das kleine Unternehmen *überlebt* mehr schlecht als recht.
+  The small company survives more badly than right.
 
   Il *subsiste* encore des désaccords entre les deux parties.
-  Zwischen den beiden Parteien *bestehen* noch Meinungsverschiedenheiten.
+  There are still differences of opinion between the two parties.
 
   Cette coutume *subsiste* depuis des siècles.
-  Dieser Brauch *besteht* seit Jahrhunderten.
+  This custom has existed for centuries.
 
   Les paysans *subsistaient* grâce à leur potager.
-  Die Bauern konnten dank ihres Gemüsegartens *überleben*.
+  The farmers could survive thanks to their vegetable garden.
 
   Peu d'espoir *subsiste* de retrouver des survivants.
-  Es *bleibt* wenig Hoffnung, Überlebende zu finden.
+  There is little hope of finding survivors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4781
 Wort: notoire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: notoire
 Femininum / Plural: ''
 IPA: \nɔ.twaʁ\
-Definition: offenkundig, notorisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: obvious, notorious
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous détenons en ce moment un meurtrier *notoire*.
-  Wir haben gerade einen *berüchtigten* Mörder in Gewahrsam.
+  We just got a notorious killer in custody.
 
   Son incompétence *notoire* a finalement conduit à son licenciement.
-  Seine *offenkundige* Inkompetenz führte schließlich zu seiner Entlassung.
+  His apparent incompetence eventually led to his dismissal.
 
   Il est *notoire* que le directeur détourne de l'argent depuis des années.
-  Es ist *offenkundig*, dass der Direktor seit Jahren Geld unterschlägt.
+  It is *obvious* that the director has been embezzling money for years.
 
   Cette journaliste *notoire* a reçu de nombreux prix pour ses reportages.
-  Diese *bekannte* Journalistin hat viele Preise für ihre Reportagen erhalten.
+  This well-*known* journalist has received many awards for her reports.
 
   Les abus *notoires* dans cette entreprise ont été signalés aux autorités.
-  Die *offensichtlichen* Missstände in dieser Firma wurden den Behörden gemeldet.
+  The *obvious* maladministration in this company has been reported to the authorities.
 
   Sa maladresse *notoire* lui cause souvent des problèmes au travail.
-  Seine *notorische* Ungeschicklichkeit bereitet ihm bei der Arbeit oft Probleme.
+  His notorious clumsiness often causes him problems at work.
 
   C'est un fait *notoire* que l'exercice physique améliore la santé mentale.
-  Es ist eine *erwiesene* Tatsache, dass körperliche Bewegung die mentale Gesundheit verbessert.
+  It is a proven fact that physical exercise improves mental health.
 
   Cette preuve *notoire* a permis de résoudre l'affaire.
-  Dieser *eindeutige* Beweis hat zur Lösung des Falls geführt.
+  This *clear* evidence has led to the resolution of the case.
 
   Le menteur *notoire* a encore une fois tenté de tromper ses collègues.
-  Der *notorische* Lügner hat wieder einmal versucht, seine Kollegen zu täuschen.
+  The notorious liar has once again tried to deceive his colleagues.
 
   L'injustice *notoire* du système a provoqué des manifestations.
-  Die *offenkundige* Ungerechtigkeit des Systems hat Proteste ausgelöst.
+  The obvious injustice of the system has triggered protests.
 
   Il est *notoire* que Pierre arrive toujours en retard aux réunions.
-  Es ist *allgemein bekannt*, dass Pierre immer zu spät zu den Besprechungen kommt.
+  It is well known that Pierre is always late for the meetings.
 
   Ce restaurant est *notoire* pour ses plats exceptionnels.
-  Dieses Restaurant ist für seine außergewöhnlichen Gerichte *bekannt*.
+  This restaurant is *known* for its exceptional dishes.
 
   La générosité *notoire* de cette famille a beaucoup aidé notre communauté.
-  Die *allseits bekannte* Großzügigkeit dieser Familie hat unserer Gemeinde sehr geholfen.
+  The well-known generosity of this family has greatly helped our community.
 
   Son talent *notoire* pour les mathématiques lui a valu une bourse d'études.
-  Sein *offenkundiges* Talent für Mathematik hat ihm ein Stipendium eingebracht.
+  His obvious talent for mathematics has earned him a scholarship.
 
   Cette région est *notoire* pour son climat instable.
-  Diese Region ist für ihr unstetes Wetter *bekannt*.
+  This region is *known* for its weather.
 
   Les problèmes *notoires* du bâtiment nécessitent des réparations urgentes.
-  Die *offensichtlichen* Probleme des Gebäudes erfordern dringende Reparaturen.
+  The *obvious* problems of the building require urgent repairs.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 235
 Wort: surtout
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: surtout
 Femininum / Plural: ''
 IPA: \syʁ.tu\
-Definition: vor allem, besonders
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: especially, especially:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai *surtout* besoin d'argent.
-  Ich brauche *vor allem* Geld.
+  I need money first and foremost.
 
   "*Surtout* pas maintenant !" s'est-il exclamé avec impatience.
-  "*Bloß* nicht jetzt!" rief er ungeduldig aus.
+  "Not now!" he exclaimed impatiently.
 
   Elle aime *surtout* lire des romans d'aventure.
-  Sie liest *besonders* gerne Abenteuerromane.
+  She likes to read adventure novels.
 
   Ne dis *surtout* rien à personne !
-  Sag es *bloß* niemandem!
+  Don't tell anyone!
 
   J'ai peur de lui, *surtout* qu'il est très agressif.
-  Ich habe Angst vor ihm, *besonders* weil er so aggressiv ist.
+  I'm afraid of him, especially because he's so aggressive.
 
   Il y avait *surtout* des étudiants à cette manifestation.
-  Bei dieser Demonstration waren *hauptsächlich* Studenten.
+  This demonstration was mainly attended by students.
 
   *Surtout*, n'oublie pas de prendre tes médicaments.
-  Vergiss *vor allem* nicht, deine Medikamente zu nehmen.
+  Remember, above all, to take your medication.
 
   Cette région est connue *surtout* pour ses vins.
-  Diese Region ist *vor allem* für ihre Weine bekannt.
+  This region is especially known for its wines.
 
   Je me souviens *surtout* des bons moments passés ensemble.
-  Ich erinnere mich *besonders* an die schönen gemeinsamen Momente.
+  I especially remember the beautiful moments together.
 
   Les enfants adorent *surtout* jouer dans le jardin.
-  Die Kinder spielen *am liebsten* im Garten.
+  The children prefer to play in the garden.
 
   Ce plat contient *surtout* des légumes frais.
-  Dieses Gericht enthält *hauptsächlich* frisches Gemüse.
+  This dish mainly contains fresh vegetables.
 
   Elle travaille *surtout* le soir.
-  Sie arbeitet *vor allem* abends.
+  She works mostly at night.
 
   "*Surtout*, ne fais pas la même erreur que moi," m'a-t-il conseillé.
-  "*Vor allem* mach nicht denselben Fehler wie ich", riet er mir.
+  "First of all, don't make the same mistake I did," he told me.
 
   Je voyage *surtout* en été.
-  Ich reise *hauptsächlich* im Sommer.
+  I travel mostly in the summer.
 
   Ce qui m'inquiète *surtout*, c'est son silence.
-  Was mich *besonders* beunruhigt, ist sein Schweigen.
+  What worries me particularly is his silence.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

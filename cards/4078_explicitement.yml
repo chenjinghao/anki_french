@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4078
 Wort: explicitement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: explicitement
 Femininum / Plural: ''
 IPA: \ɛk.spli.sit.mɑ̃\
-Definition: ausdrücklich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: express
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Se séparer *explicitement* de l'amour.
-  Sich *ausdrücklich* von der Liebe trennen.
+  To separate oneself explicitly from love.
 
   Le contrat stipule *explicitement* que vous ne pouvez pas sous-louer l'appartement.
-  Der Vertrag legt *unmissverständlich* fest, dass Sie die Wohnung nicht untervermieten dürfen.
+  The contract clearly states that you may not sublet the apartment.
 
   J'ai *explicitement* demandé à Marie de ne pas venir à la fête.
-  Ich habe Marie *deutlich* gesagt, dass sie nicht zur Party kommen soll.
+  I told Marie not to come to the party.
 
   Les règles du jeu doivent être *explicitement* énoncées avant de commencer.
-  Die Spielregeln müssen vor Beginn *ausdrücklich* erklärt werden.
+  The rules of the game must be explicitly stated before the start.
 
   Le professeur a *explicitement* interdit l'utilisation des téléphones pendant l'examen.
-  Der Lehrer hat die Nutzung von Handys während der Prüfung *erklärtermaßen* verboten.
+  The teacher has declaredly forbidden the use of mobile phones during the exam.
 
   Il faut mentionner *explicitement* vos sources dans votre travail de recherche.
-  Sie müssen Ihre Quellen in Ihrer Forschungsarbeit *unmissverständlich* angeben.
+  You must clearly indicate your sources in your research work.
 
   La loi précise *explicitement* les droits des consommateurs.
-  Das Gesetz definiert die Rechte der Verbraucher *deutlich*.
+  The law clearly defines the rights of consumers.
 
   Les participants doivent *explicitement* accepter les conditions de participation.
-  Die Teilnehmer müssen den Teilnahmebedingungen *ausdrücklich* zustimmen.
+  Participants must expressly agree to the terms of participation.
 
   Le document ne mentionne pas *explicitement* la date limite.
-  Das Dokument erwähnt den Stichtag nicht *explizit*.
+  The document does not explicitly mention the deadline.
 
   Les instructions ont été *explicitement* données à tous les employés.
-  Die Anweisungen wurden allen Mitarbeitern *unmissverständlich* mitgeteilt.
+  The instructions were clearly communicated to all employees.
 
   Il a *explicitement* refusé notre offre d'aide.
-  Er hat unser Hilfsangebot *deutlich* abgelehnt.
+  He clearly rejected our offer of help.
 
   Le manuel indique *explicitement* comment utiliser cette fonction.
-  Das Handbuch erklärt *ausdrücklich*, wie diese Funktion zu benutzen ist.
+  The manual explicitly explains how to use this function.
 
   La politique de l'entreprise *explicitement* interdit la discrimination.
-  Die Unternehmenspolitik verbietet Diskriminierung *erklärtermaßen*.
+  Enterprise policy is *declared* to prohibit discrimination.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

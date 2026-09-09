@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4864
 Wort: famine
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la famine
 Femininum / Plural: ''
 IPA: \fa.min\
-Definition: Hungersnot
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Famine
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une grande *famine* venait de dévaster la Chine.
-  Eine große *Hungersnot* hatte China verwüstet.
+  A great *famine* had devastated China.
 
   La *famine* qui a suivi la sécheresse a causé beaucoup de souffrances.
-  Die *Hungersnot* nach der Dürre hat viel Leid verursacht.
+  The *famine* after the drought has caused a lot of suffering.
 
   Les organisations humanitaires luttent contre la *famine* dans plusieurs régions du monde.
-  Die Hilfsorganisationen kämpfen in mehreren Regionen der Welt gegen die *Hungersnot*.
+  The aid organizations are fighting the *famine* in several regions of the world.
 
   "Arrête de *crier famine*, ton frigo est plein !"
-  "Hör auf zu *jammern, dass du nichts zu essen hast*, dein Kühlschrank ist voll!"
+  "Stop whining that you have nothing to eat, your fridge is full!"
 
   Cette région souffre d'une *famine* endémique depuis des années.
-  Diese Region leidet seit Jahren unter einer endemischen *Hunger*katastrophe.
+  This region has been suffering from an endemic famine for years.
 
   Des millions de personnes sont menacées par la *famine*.
-  Millionen Menschen sind von der *Hungersnot* bedroht.
+  Millions of people are threatened by *famine*.
 
   Les historiens ont étudié les grandes *famines* du Moyen Âge.
-  Die Historiker haben die großen *Hungersnöte* des Mittelalters untersucht.
+  Historians have investigated the great *famines* of the Middle Ages.
 
   Il travaille pour un *salaire de famine*.
-  Er arbeitet für einen *Hungerlohn*.
+  He works for a *hunger pay*.
 
   La guerre a provoqué une terrible *famine*.
-  Der Krieg hat eine schreckliche *Hungersnot* ausgelöst.
+  The war has caused a terrible *famine*.
 
   Après trois ans de disette, la *famine* s'est installée dans le pays.
-  Nach drei Jahren Mangel brach im Land die *Hungersnot* aus.
+  After three years of shortages, *famine* broke out in the country.
 
   Les Nations Unies ont averti du risque de *famine*.
-  Die Vereinten Nationen haben vor der Gefahr einer *Hunger*katastrophe gewarnt.
+  The United Nations has warned against the danger of a famine.
 
   "Tu *cries famine sur un tas de blé*!"
-  "Du *jammerst auf hohem Niveau*!"
+  "You're complaining at a high level!"
 
   La *famine* a forcé des milliers de personnes à fuir leur village.
-  Die *Hungersnot* zwang Tausende Menschen zur Flucht aus ihren Dörfern.
+  The *famine* forced thousands of people to flee their villages.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

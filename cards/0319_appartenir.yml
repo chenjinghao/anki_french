@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 319
 Wort: appartenir
 Wortart: vi, vi(imp)
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: appartenir
 Femininum / Plural: ''
 IPA: \a.paʁ.tə.niʁ\
-Definition: gehören
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: belong
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cet argent n'*appartient* pas au gouvernement.
-  Dieses Geld *gehört* nicht der Regierung.
+  This money is not government money.
 
   Cette voiture *appartient* à mon voisin depuis dix ans.
-  Dieses Auto *gehört* seit zehn Jahren meinem Nachbarn.
+  This car's been my neighbor's for ten years.
 
   Les chiens *appartiennent* à la famille des canidés.
-  Hunde *gehören* zur Familie der Hundeartigen.
+  Dogs *belong* to the family of dog species.
 
   Le nombre 5 *appartient* à l'ensemble des nombres impairs.
-  Die Zahl 5 ist in der Menge der ungeraden Zahlen *enthalten*.
+  The number 5 is contained in the amount of odd numbers.
 
   Il *appartient* aux parents de fixer des règles pour leurs enfants.
-  Es ist die *Aufgabe* der Eltern, Regeln für ihre Kinder festzulegen.
+  It is the responsibility of parents to lay down rules for their children.
 
   "Je ne m'*appartiens* plus depuis que j'ai eu des enfants," soupira-t-elle.
-  "Ich *gehöre* mir nicht mehr, seit ich Kinder habe," seufzte sie.
+  "I haven't belonged to myself since I had kids," she sighed.
 
   Cette décision *appartient* au directeur général.
-  Diese Entscheidung *liegt* beim Generaldirektor.
+  This decision shall be taken by the Director-General.
 
   L'avenir *appartient* à ceux qui se lèvent tôt.
-  Die Zukunft *gehört* den Frühaufstehern.
+  The future belongs to the early risers.
 
   Ces terres *appartenaient* autrefois à la noblesse.
-  Diese Ländereien *gehörten* früher dem Adel.
+  These lands used to belong to the nobility.
 
   Le droit de veto *appartient* au président dans certains pays.
-  Das Vetorecht *steht* in manchen Ländern dem Präsidenten *zu*.
+  In some countries, the right of veto is the responsibility of the President.
 
   Cette espèce de plante *appartient* à la famille des Rosacées.
-  Diese Pflanzenart *gehört* zur Familie der Rosengewächse.
+  This plant species belongs to the family of roses.
 
   Il *appartiendra* au jury de décider du sort de l'accusé.
-  Es wird *Aufgabe* der Jury sein, über das Schicksal des Angeklagten zu entscheiden.
+  It will be up to the jury to decide the fate of the defendant.
 
   "Je t'*appartiendrai* pour toujours," promit-elle dans un murmure.
-  "Ich werde für immer *dir gehören*," versprach sie flüsternd.
+  "I'll be *yours* forever," she promised whispering.
 
   Cette île *appartenait* jadis à un royaume voisin.
-  Diese Insel *gehörte* einst zu einem benachbarten Königreich.
+  This island once belonged to a neighbouring kingdom.
 
   Les œuvres de Shakespeare *appartiennent* au patrimoine mondial.
-  Die Werke von Shakespeare *gehören* zum Weltkulturerbe.
+  Shakespeare's works are part of the World Heritage Site.
 
   Ce tableau *appartiendra* bientôt au musée national.
-  Dieses Gemälde wird bald dem Nationalmuseum *gehören*.
+  This painting will soon be part of the National Museum.
 
   "À qui *appartient* ce sac abandonné ?" demanda l'agent de sécurité.
-  "Wem *gehört* diese verlassene Tasche?" fragte der Sicherheitsbeamte.
+  "Who owns this abandoned bag?" asked the security officer.
 
   Les baleines *appartiennent* au groupe des mammifères marins.
-  Wale *gehören* zur Gruppe der Meeressäugetiere.
+  Whales *belong* to the group of marine mammals.
 
   Il *appartient* à chacun de décider de son propre avenir.
-  Es *liegt* an jedem Einzelnen, über seine eigene Zukunft zu entscheiden.
+  It *is* up to each individual to decide his or her own future.
 
   Cette méthode *appartient* au domaine de la psychologie moderne.
-  Diese Methode *gehört* zum Bereich der modernen Psychologie.
+  This method belongs to the field of modern psychology.
 
   Les clés de la voiture *appartiennent* à mon frère.
-  Die Autoschlüssel *gehören* meinem Bruder.
+  The car keys are my brother's.
 
   "Je m'*appartiendrai* toujours," dit-elle fièrement.
-  "Ich werde immer *mir selbst gehören*," sagte sie stolz.
+  "I will always be mine," she said proudly.
 
   Ce moment nous *appartiendra* pour l'éternité.
-  Dieser Moment wird für immer *uns gehören*.
+  This moment will be *ours* forever.
 
   Les dinosaures *appartenaient* à un monde disparu depuis longtemps.
-  Die Dinosaurier *gehörten* zu einer längst vergangenen Welt.
+  The dinosaurs were part of a world long past.
 
   Il *appartient* au chef d'équipe de motiver ses collaborateurs.
-  Es *ist Aufgabe* des Teamleiters, seine Mitarbeiter zu motivieren.
+  It *is the task* of the team leader to motivate his employees.
 
   Cette responsabilité *appartient* désormais à la nouvelle génération.
-  Diese Verantwortung *liegt* nun bei der neuen Generation.
+  This responsibility now lies with the new generation.
 
   Le choix vous *appartient* : que décidez-vous ?
-  Die Entscheidung *liegt* bei Ihnen: Was beschließen Sie?
+  The decision *is* yours: What do you decide?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

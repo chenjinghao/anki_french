@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3853
 Wort: char
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le char
 Femininum / Plural: ''
 IPA: \ʃaʁ\
-Definition: Panzer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Tanks
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'entends vaguement les *chars* qui s'approchent.
-  Ich höre undeutlich die *Panzer*, die sich nähern.
+  I can't hear the *tanks* approaching.
 
   Le *char* d'assaut a pénétré les lignes ennemies.
-  Der Kampf*panzer* ist durch die feindlichen Linien gebrochen.
+  The battle tank is broken by the enemy lines.
 
   Un *char* de combat moderne peut coûter plusieurs millions d'euros.
-  Ein moderner Kampf*panzer* kann mehrere Millionen Euro kosten.
+  A modern battle tank can cost several million euros.
 
   Les anciens Égyptiens utilisaient des *chars* lors des batailles.
-  Die alten Ägypter benutzten *Streitwagen* in den Schlachten.
+  The ancient Egyptians used chariots in battles.
 
   Le *char* de carnaval était décoré de fleurs colorées.
-  Der Karnevals*wagen* war mit bunten Blumen geschmückt.
+  The carnival car was decorated with colorful flowers.
 
   Les enfants admiraient le grand *char* allégorique.
-  Die Kinder bestaunten den großen Festzugs*wagen*.
+  The children marveled at the big float.
 
   Dans la mythologie grecque, Apollon conduisait le *char* du Soleil.
-  In der griechischen Mythologie lenkte Apollo den Sonnen*wagen*.
+  In Greek mythology Apollo steered the sun carriage.
 
   Le *char à voile* glissait rapidement sur la plage.
-  Der *Strandsegler* glitt schnell über den Strand.
+  The beach sailor glided quickly over the beach.
 
   Des *chars* légers patrouillaient le long de la frontière.
-  Leichte *Panzer* patrouillierten entlang der Grenze.
+  Light *tanks* patrolled along the border.
 
   Le *char* à bœufs transportait la récolte vers le village.
-  Der Ochsen*wagen* transportierte die Ernte zum Dorf.
+  The ox truck transported the harvest to the village.
 
   Les spectateurs applaudissaient le défilé des *chars* fleuris.
-  Die Zuschauer klatschten Beifall für die Parade der geschmückten *Wagen*.
+  The spectators clapped applause for the parade of decorated carriages.
 
   "Arrête ton *char*, Boris !"
-  "Hör auf zu *übertreiben*, Boris!"
+  "Stop exaggerating, Boris!"
 
   Le conducteur du *char* portait une couronne de laurier.
-  Der *Streitwagen*lenker trug einen Lorbeerkranz.
+  The chariot handlebar wore a laurel wreath.
 
   Un *char* démineur ouvrait la voie aux troupes.
-  Ein Minenräum*panzer* bahnte den Truppen den Weg.
+  A mine clearance tank paved the way for the troops.
 
   Les agriculteurs remplissaient le *char* à foin.
-  Die Bauern beluden den Heu*wagen*.
+  The farmers loaded the hay truck.
 
   Le *char* funèbre avançait lentement dans les rues.
-  Der Leichen*wagen* bewegte sich langsam durch die Straßen.
+  The hearse was slowly moving through the streets.
 
   Les touristes montent dans le *char* à bancs pour la visite guidée.
-  Die Touristen steigen in den Bank*wagen* für die Führung.
+  The tourists get into the bank car for the tour.
 
   Le commandant coordonne les mouvements des *chars* lourds.
-  Der Kommandant koordiniert die Bewegungen der schweren *Panzer*.
+  The commander coordinates the movements of the heavy *tanks*.
 
   Le *char* de la déesse était tiré par des colombes blanches.
-  Der *Wagen* der Göttin wurde von weißen Tauben gezogen.
+  The goddess's car was pulled by white pigeons.
 
   Une course de *chars* était l'attraction principale des jeux antiques.
-  Ein *Streitwagen*rennen war die Hauptattraktion der antiken Spiele.
+  A chariot race was the main attraction of the ancient games.
 
   Le *char* de vendange descendait la colline chargé de raisins.
-  Der Wein*wagen* fuhr vollbeladen mit Trauben den Hügel hinunter.
+  The wine car drove down the hill full of grapes.
 
   Le régiment de *chars* se préparait pour l'exercice militaire.
-  Das *Panzer*regiment bereitete sich auf die Militärübung vor.
+  The tank regiment was preparing for the military exercise.
 
   Les enfants suivaient le *char* de la Reine des Neiges.
-  Die Kinder folgten dem *Wagen* der Schneekönigin.
+  The children followed the car of the Snow Queen.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

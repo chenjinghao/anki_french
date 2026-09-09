@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3430
 Wort: faille
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la faille
 Femininum / Plural: ''
 IPA: \faj\
-Definition: Schwachstelle
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Vulnerability
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'était un homme avec des *failles*.
-  Er war ein Mann mit *Schwächen*.
+  He was a man with *weaknesses*.
 
   Une *faille* géologique traverse toute la région.
-  Eine geologische *Verwerfung* durchzieht die ganze Region.
+  A geological fault runs through the whole region.
 
   Les experts ont découvert une *faille* de sécurité dans le système informatique.
-  Die Experten haben eine *Schwachstelle* im Computersystem entdeckt.
+  The experts have discovered a *vulnerability* in the computer system.
 
   La *faille* dans leur relation est devenue de plus en plus visible.
-  Der *Riss* in ihrer Beziehung wurde immer sichtbarer.
+  The *crack* in their relationship has become more and more visible.
 
   Malgré les difficultés, il a montré une détermination sans *faille*.
-  Trotz der Schwierigkeiten zeigte er eine un*erschütterliche* Entschlossenheit.
+  Despite the difficulties, he showed unshakable determination.
 
   Une profonde *faille* s'est formée après le tremblement de terre.
-  Nach dem Erdbeben hat sich eine tiefe *Spalte* gebildet.
+  After the earthquake, a deep fissure has formed.
 
   Son raisonnement présente plusieurs *failles* logiques.
-  Seine Argumentation weist mehrere logische *Schwächen* auf.
+  His reasoning has several logical *weaknesses*.
 
   Les scientifiques étudient la ligne de *faille* depuis des années.
-  Die Wissenschaftler untersuchen die *Verwerfungs*linie seit Jahren.
+  The scientists have been investigating the fault line for years.
 
   Cette entreprise a su identifier et corriger toutes ses *failles*.
-  Dieses Unternehmen konnte all seine *Schwachstellen* erkennen und beheben.
+  This company was able to detect and fix all its *vulnerabilities*.
 
   Sa volonté sans *faille* l'a conduit au succès.
-  Sein un*beugsamer* Wille hat ihn zum Erfolg geführt.
+  His indomitable will has led him to success.
 
   La *faille* dans le rocher mesure plusieurs mètres de profondeur.
-  Die *Spalte* im Felsen ist mehrere Meter tief.
+  The crevice in the rock is several meters deep.
 
   Les hackers exploitent souvent les *failles* de sécurité.
-  Hacker nutzen oft *Schwachstellen* in der Sicherheit aus.
+  Hackers often exploit security *vulnerabilities*.
 
   Cette *faille* dans son discours n'a échappé à personne.
-  Diese *Schwäche* in seiner Rede ist niemandem entgangen.
+  This *weakness* in his speech has not escaped anyone.
 
   Leur amitié sans *faille* dure depuis vingt ans.
-  Ihre *makel*lose Freundschaft hält seit zwanzig Jahren.
+  Her impeccable friendship has held for twenty years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

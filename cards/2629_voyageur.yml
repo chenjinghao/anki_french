@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2629
 Wort: voyageur
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le voyageur
 Femininum / Plural: voyageuse
 IPA: \vwa.ja.ʒœʁ\
-Definition: Reisender, Passagier
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Traveler, passenger
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un *voyageur* chevronné.
-  Er ist ein erfahrener *Reisender*.
+  He's an experienced *traveller*.
 
   Les *voyageurs* doivent se présenter deux heures avant le décollage.
-  Die *Fluggäste* müssen sich zwei Stunden vor dem Abflug einfinden.
+  *Passengers* must arrive two hours before departure.
 
   Notre fils est très *voyageur*, il adore découvrir de nouveaux pays.
-  Unser Sohn ist sehr *reiselustig*, er liebt es, neue Länder zu entdecken.
+  Our son is very keen on travel, he loves to discover new countries.
 
   Tous les *voyageurs* sont priés de descendre du train.
-  Alle *Fahrgäste* werden gebeten, den Zug zu verlassen.
+  All *passengers* are asked to leave the train.
 
   Attention, un *voyageur* a oublié sa valise sur le quai.
-  Achtung, ein *Passagier* hat seinen Koffer auf dem Bahnsteig vergessen.
+  Attention, a *passenger* forgot his suitcase on the platform.
 
   Elle est une *voyageuse* passionnée qui parcourt le monde depuis vingt ans.
-  Sie ist eine leidenschaftliche *Reisende*, die seit zwanzig Jahren die Welt bereist.
+  She is a passionate traveller who has been travelling the world for twenty years.
 
   Les *voyageurs* en direction de Lyon doivent changer de voie.
-  Die *Fahrgäste* nach Lyon müssen das Gleis wechseln.
+  The *passengers* to Lyon must change track.
 
   Marc travaille comme *voyageur* de commerce depuis dix ans.
-  Marc arbeitet seit zehn Jahren als Handels*reisender*.
+  Marc has been working as a merchant traveller for ten years.
 
   Ces anciens *voyageurs* ont écrit des récits fascinants sur leurs explorations.
-  Diese ehemaligen *Entdecker* haben faszinierende Berichte über ihre Erkundungen geschrieben.
+  These former explorers have written fascinating reports of their explorations.
 
   La compagnie aérienne rembourse les *voyageurs* en cas d'annulation.
-  Die Fluggesellschaft erstattet den *Passagieren* den Preis bei Stornierung.
+  The airline will refund the *passengers* the price in case of cancellation.
 
   D'une nature *voyageuse*, elle ne reste jamais longtemps au même endroit.
-  Von *reiselustiger* Natur bleibt sie nie lange am selben Ort.
+  She never stays in the same place for long, with a keen trip.
 
   Les *voyageurs* de première classe peuvent accéder au salon VIP.
-  Die *Passagiere* der ersten Klasse haben Zugang zur VIP-Lounge.
+  First class *passengers* have access to the VIP lounge.
 
   Cette *voyageuse* intrépide a traversé l'Afrique à pied.
-  Diese unerschrockene *Reisende* hat Afrika zu Fuß durchquert.
+  These intrepid travelers have crossed Africa on foot.
 
   Le bateau peut accueillir jusqu'à 3000 *voyageurs*.
-  Das Schiff kann bis zu 3000 *Passagiere* aufnehmen.
+  The ship can accommodate up to 3000 *passengers*.
 
   En tant que *voyageur* de commerce, il visite des clients dans toute la France.
-  Als Handels*reisender* besucht er Kunden in ganz Frankreich.
+  As a merchant, he visits customers all over France.
 
   Une vie *voyageuse* l'a menée aux quatre coins du monde.
-  Ein *Reise*leben hat sie in alle Ecken der Welt geführt.
+  A *travel* life has led them to all corners of the world.
 
   La gare était bondée de *voyageurs* en cette veille de Noël.
-  Der Bahnhof war an diesem Heiligabend voller *Reisender*.
+  The train station was full of travellers on this Christmas Eve.
 
   Cette exposition présente les photos d'une *voyageuse* du XIX<sup>e</sup> siècle.
-  Diese Ausstellung zeigt die Fotos einer *Reisenden* aus dem 19. Jahrhundert.
+  This exhibition shows the photos of a 19th century traveller.
 
   Son âme *voyageuse* ne lui permet pas de s'installer définitivement.
-  Seine *reiselustige* Seele erlaubt es ihm nicht, sich dauerhaft niederzulassen.
+  His lustful soul does not allow him to settle down permanently.
 
   Les *voyageurs* doivent présenter leur billet avant d'embarquer.
-  Die *Fahrgäste* müssen vor dem Einsteigen ihre Fahrkarte vorzeigen.
+  *Passengers* must show their ticket before boarding.
 
   Cette jeune *voyageuse* documente ses aventures sur les réseaux sociaux.
-  Diese junge *Reisende* dokumentiert ihre Abenteuer in den sozialen Medien.
+  These young travelers document their adventures on social media.
 
   Le train a du retard, et les *voyageurs* s'impatientent.
-  Der Zug hat Verspätung, und die *Fahrgäste* werden ungeduldig.
+  The train is delayed, and the *passengers* become impatient.
 
   Les *voyageurs* fréquents accumulent des points de fidélité.
-  Viel*reisende* sammeln Treuepunkte.
+  Many *travelers* collect loyalty points.
 
   Une application permet aux *voyageurs* de suivre leur vol en temps réel.
-  Eine App ermöglicht es den *Fluggästen*, ihren Flug in Echtzeit zu verfolgen.
+  An app allows *passengers* to track their flight in real time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

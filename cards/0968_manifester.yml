@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 968
 Wort: manifester
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: manifester
 Femininum / Plural: ''
 IPA: \ma.ni.fɛs.te\
-Definition: zeigen, äußern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: show, express
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il avait *manifesté* son hostilité contre elle.
-  Er hatte seine Feindseligkeit gegen sie *zum Ausdruck gebracht*.
+  He had *expressed* his hostility to them.
 
   Les étudiants *manifestent* devant l'université pour de meilleures conditions d'études.
-  Die Studenten *demonstrieren* vor der Universität für bessere Studienbedingungen.
+  The students *demonstrate* in front of the university for better study conditions.
 
   Des symptômes se sont *manifestés* après quelques heures.
-  Die Symptome sind nach einigen Stunden *aufgetreten*.
+  Symptoms have *occurred* after a few hours.
 
   Plusieurs candidats qualifiés se sont *manifestés* pour le poste vacant.
-  Mehrere qualifizierte Kandidaten haben *sich* für die freie Stelle *gemeldet*.
+  Several qualified candidates have registered for *the* vacancy.
 
   La crise économique s'est *manifestée* par une hausse du chômage.
-  Die Wirtschaftskrise hat *sich* durch einen Anstieg der Arbeitslosigkeit *geäußert*.
+  *The* economic crisis has been expressed by an increase in unemployment.
 
   Il a *manifesté* sa joie en apprenant la nouvelle.
-  Er hat seine Freude über die Nachricht *gezeigt*.
+  He showed his joy at the news.
 
   Personne ne s'est *manifesté* quand nous avons demandé des volontaires.
-  Niemand ist *erschienen*, als wir nach Freiwilligen gefragt haben.
+  No one appeared when we asked for volunteers.
 
   Elle n'a pas *manifesté* le moindre intérêt pour mon projet.
-  Sie hat nicht das geringste Interesse an meinem Projekt *gezeigt*.
+  She didn't show any interest in my project.
 
   Les premiers signes de fatigue se sont *manifestés* vers midi.
-  Die ersten Anzeichen von Müdigkeit haben *sich* gegen Mittag *bemerkbar gemacht*.
+  *The* first signs of fatigue have become apparent around noon.
 
   Plus de mille personnes *manifestent* pour la protection de l'environnement.
-  Mehr als tausend Menschen *demonstrieren* für den Umweltschutz.
+  More than a thousand people are demonstrating for environmental protection.
 
   Il a clairement *manifesté* son désaccord lors de la réunion.
-  Er hat in der Sitzung deutlich seine Ablehnung *zum Ausdruck gebracht*.
+  He clearly *expressed* his opposition at the sitting.
 
   Le virus se *manifeste* généralement par de la fièvre.
-  Das Virus *äußert sich* gewöhnlich durch Fieber.
+  The virus is usually expressed by fever.
 
   Son silence *manifeste* son mécontentement.
-  Sein Schweigen *bringt* seine Unzufriedenheit *zum Ausdruck*.
+  His silence expresses his dissatisfaction.
 
   Marie ne s'est pas *manifestée* depuis des semaines.
-  Marie hat *sich* seit Wochen nicht *gemeldet*.
+  Marie hasn't been in touch for weeks.
 
   Les syndicats ont appelé à *manifester* contre la réforme.
-  Die Gewerkschaften haben zum *Demonstrieren* gegen die Reform aufgerufen.
+  Trade unions have called for a demonstration against reform.
 
   Comment puis-je *manifester* ma gratitude envers vous ?
-  Wie kann ich meine Dankbarkeit Ihnen gegenüber *zum Ausdruck bringen*?
+  How can I *express* my gratitude to you?
 
   Le talent de l'artiste se *manifeste* dans chacune de ses œuvres.
-  Das Talent des Künstlers *zeigt sich* in jedem seiner Werke.
+  The artist's talent is evident in each of his works.
 
   Il a *manifesté* un grand courage face au danger.
-  Er hat große Tapferkeit angesichts der Gefahr *gezeigt*.
+  He has *shown* great bravery in the face of danger.
 
   Aucun témoin ne s'est *manifesté* après l'accident.
-  Kein Zeuge hat *sich* nach dem Unfall *gemeldet*.
+  No witness *reported* after *the* accident.
 
   La population *manifeste* son mécontentement dans les rues.
-  Die Bevölkerung *bringt* ihren Unmut auf den Straßen *zum Ausdruck*.
+  *The* people express their displeasure on the streets.
 
   Des différences d'opinion se sont *manifestées* pendant le débat.
-  Meinungsunterschiede haben *sich* während der Debatte *gezeigt*.
+  Differences of opinion have emerged during *the* debate.
 
   Elle a *manifesté* son soutien en signant la pétition.
-  Sie hat ihre Unterstützung durch das Unterschreiben der Petition *bekundet*.
+  She *expressed* her support by signing the petition.
 
   Le problème s'est *manifesté* dès le début du projet.
-  Das Problem hat *sich* gleich zu Beginn des Projekts *gezeigt*.
+  *The* problem was evident right at the beginning of the project.
 
   Les citoyens *manifestent* pour défendre leurs droits.
-  Die Bürger *demonstrieren* zur Verteidigung ihrer Rechte.
+  Citizens *demonstrate* to defend their rights.
 
   L'anxiété se *manifeste* souvent par des troubles du sommeil.
-  Angst *äußert sich* oft durch Schlafstörungen.
+  Fear often manifests itself through sleep disorders.
 
   Son sourire *manifeste* sa joie de vivre.
-  Sein Lächeln *bringt* seine Lebensfreude *zum Ausdruck*.
+  His smile expresses his joy in life.
 
   Les premiers signes de printemps se sont *manifestés* en mars.
-  Die ersten Anzeichen des Frühlings haben *sich* im März *gezeigt*.
+  *The* first signs of spring were seen in March.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

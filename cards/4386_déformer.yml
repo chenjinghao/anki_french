@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4386
 Wort: déformer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déformer
 Femininum / Plural: ''
 IPA: \de.fɔʁ.me\
-Definition: verformen, verzerren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: deform, distort
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont *déformé* les faits.
-  Sie haben die Tatsachen *verdreht*.
+  You've *twisted* the facts.
 
   Les médias ont complètement *déformé* ses propos.
-  Die Medien haben seine Aussagen völlig *verzerrt*.
+  The media have completely *distorted* his statements.
 
   L'humidité a *déformé* les portes en bois.
-  Die Feuchtigkeit hat die Holztüren *verzogen*.
+  The moisture has *distorted* the wooden doors.
 
   La chaleur a *déformé* le plastique.
-  Die Hitze hat den Kunststoff *verformt*.
+  The heat *deformed* the plastic.
 
   Sa voix était *déformée* par le téléphone portable.
-  Seine Stimme wurde durch das Handy *verzerrt*.
+  His voice was *distorted* by the cell phone.
 
   Les nouvelles chaussures se sont *déformées* après quelques semaines.
-  Die neuen Schuhe sind nach einigen Wochen *ausgetreten*.
+  The new shoes left after a few weeks.
 
   Le miroir *déforme* les images.
-  Der Spiegel *verzerrt* die Bilder.
+  The mirror distorts the images.
 
   Son pull s'est *déformé* au lavage.
-  Sein Pullover hat beim Waschen *die Form verloren*.
+  His sweater lost shape when washing.
 
   Cette photo *déforme* la réalité de la situation.
-  Dieses Foto gibt ein *verzerrtes* Bild der Situation wieder.
+  This photo shows a *distorted* picture of the situation.
 
   Le temps a *déformé* ses souvenirs d'enfance.
-  Die Zeit hat seine Kindheitserinnerungen *verzerrt*.
+  Time has *distorted* his childhood memories.
 
   La maladie a *déformé* ses doigts.
-  Die Krankheit hat ihre Finger *verformt*.
+  The disease has *deformed* her fingers.
 
   L'étagère s'est *déformée* sous le poids des livres.
-  Das Regal hat sich unter dem Gewicht der Bücher *verzogen*.
+  The shelf has spread under the weight of books.
 
   Les années de travail ont *déformé* son dos.
-  Die Jahre der Arbeit haben seinen Rücken *verformt*.
+  The years of work have *deformed* his back.
 
   Le journaliste a *déformé* la vérité dans son article.
-  Der Journalist hat in seinem Artikel die Wahrheit *verdreht*.
+  The journalist has *twisted* the truth in his article.
 
   La douleur *déformait* son visage.
-  Der Schmerz *verzerrte* ihr Gesicht.
+  The pain *distorted* her face.
 
   Son style d'écriture s'est *déformé* au fil des années.
-  Sein Schreibstil hat sich im Laufe der Jahre *verändert*.
+  His writing style has *changed* over the years.
 
   Les lunettes *déforment* légèrement sa vision.
-  Die Brille *verzerrt* seine Sicht leicht.
+  The glasses slightly distort his vision.
 
   Le casque audio *déforme* le son original.
-  Der Kopfhörer *verzerrt* den Originalton.
+  The headphones distort the original tone.
 
   La mauvaise posture a *déformé* sa colonne vertébrale.
-  Die schlechte Haltung hat seine Wirbelsäule *verformt*.
+  The bad posture has *deformed* his spine.
 
   Le message a été *déformé* pendant la transmission.
-  Die Nachricht wurde während der Übertragung *verzerrt*.
+  The message was *distorted* during transmission.
 
   La pluie a *déformé* le carton.
-  Der Regen hat den Karton *verformt*.
+  The rain has *deformed* the carton.
 
   Son chapeau s'est *déformé* avec le temps.
-  Sein Hut hat mit der Zeit *die Form verloren*.
+  His hat has lost shape over time.
 
   La pression constante a *déformé* le métal.
-  Der ständige Druck hat das Metall *verformt*.
+  The constant pressure has *deformed* the metal.
 
   Les préjugés ont *déformé* son jugement.
-  Vorurteile haben sein Urteilsvermögen *verzerrt*.
+  Prejudices have *distorted* his judgment.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

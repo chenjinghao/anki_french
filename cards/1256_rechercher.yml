@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1256
 Wort: rechercher
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rechercher
 Femininum / Plural: ''
 IPA: \ʁə.ʃɛʁ.ʃe\
-Definition: suchen, recherchieren
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: search, research
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Des dirigeants africains *recherchent* une solution à la crise.
-  Afrikanische Führungskräfte *suchen* eine Lösung für die Krise.
+  African leaders are looking for a solution to the crisis.
 
   La police *recherche* le suspect depuis trois jours.
-  Die Polizei *fahndet* seit drei Tagen nach dem Verdächtigen.
+  The police have been searching for the suspect for three days.
 
   Les scientifiques *recherchent* l'origine de cette maladie rare.
-  Die Wissenschaftler *erforschen* den Ursprung dieser seltenen Krankheit.
+  The scientists explore the origin of this rare disease.
 
   "Je vais te *rechercher* à la gare demain soir."
-  "Ich werde dich morgen Abend vom Bahnhof *abholen*."
+  "I'll pick you up from the station tomorrow night."
 
   Les tableaux de cet artiste sont très *recherchés*.
-  Die Gemälde dieses Künstlers sind sehr *gesucht*.
+  The paintings of this artist are very much sought after.
 
   Marie *recherche* un appartement dans le centre-ville.
-  Marie *sucht* eine Wohnung in der Innenstadt.
+  Marie's looking for an apartment in downtown.
 
   Le laboratoire *recherche* des traces d'ADN dans les échantillons.
-  Das Labor *untersucht* die Proben auf DNA-Spuren.
+  The lab's testing the samples for DNA traces.
 
   Il *recherche* activement un nouveau travail depuis sa démission.
-  Er *sucht* seit seiner Kündigung aktiv nach einer neuen Arbeit.
+  He's been actively looking for a new job since his resignation.
 
   Cette entreprise *recherche* un traducteur expérimenté.
-  Dieses Unternehmen *sucht* einen erfahrenen Übersetzer.
+  This company is looking for an experienced translator.
 
   Les historiens *recherchent* encore la vérité sur cet événement.
-  Die Historiker *forschen* noch nach der Wahrheit über dieses Ereignis.
+  Historians are still searching for the truth about this event.
 
   Je dois *rechercher* mes clés, je les ai perdues ce matin.
-  Ich muss meine Schlüssel *suchen*, ich habe sie heute Morgen verloren.
+  I have to find my keys. I lost them this morning.
 
   Les archéologues *recherchent* des vestiges de civilisations anciennes.
-  Die Archäologen *suchen* nach Überresten alter Zivilisationen.
+  Archaeologists are looking for remains of ancient civilizations.
 
   Paul *recherche* toujours la perfection dans son travail.
-  Paul *strebt* in seiner Arbeit stets nach Perfektion.
+  Paul always strives for perfection in his work.
 
   "Je viendrai vous *rechercher* après le spectacle."
-  "Ich werde Sie nach der Vorstellung *abholen*."
+  "I'll pick you up after the show."
 
   Cette association *recherche* des bénévoles pour l'été.
-  Dieser Verein *sucht* Freiwillige für den Sommer.
+  This association is looking for volunteers for the summer.
 
   Les détectives *recherchent* des indices sur la scène du crime.
-  Die Detektive *suchen* am Tatort nach Hinweisen.
+  The detectives are looking for clues at the scene.
 
   Il est *recherché* pour vol dans trois pays.
-  Er wird in drei Ländern wegen Diebstahls *gesucht*.
+  He's wanted in three countries for theft.
 
   Les étudiants *recherchent* des informations pour leur thèse.
-  Die Studenten *recherchieren* Informationen für ihre Abschlussarbeit.
+  The students *research* information for their thesis.
 
   Elle *recherche* la compagnie des artistes.
-  Sie *sucht* die Gesellschaft von Künstlern.
+  She's looking for the company of artists.
 
   Nous devons *rechercher* la cause de cette panne.
-  Wir müssen die Ursache für diesen Defekt *ergründen*.
+  We need to figure out the cause of this defect.
 
   Le médecin *recherche* d'éventuels symptômes de la maladie.
-  Der Arzt *untersucht* mögliche Symptome der Krankheit.
+  The doctor examines possible symptoms of the disease.
 
   Ces vins rares sont très *recherchés* par les collectionneurs.
-  Diese seltenen Weine sind bei Sammlern sehr *begehrt*.
+  These rare wines are very popular with collectors.
 
   L'équipe *recherche* une nouvelle stratégie pour gagner.
-  Das Team *sucht* nach einer neuen Strategie zum Gewinnen.
+  The team is looking for a new strategy to win.
 
   Il faut aller *rechercher* du bois pour le feu.
-  Wir müssen Holz für das Feuer *holen* gehen.
+  We have to go get some wood for the fire.
 
   Les investisseurs *recherchent* des opportunités prometteuses.
-  Die Investoren *suchen* nach vielversprechenden Gelegenheiten.
+  Investors are looking for promising opportunities.
 
   Je *recherche* encore mon style en tant qu'écrivain.
-  Ich *suche* als Schriftsteller noch nach meinem Stil.
+  I'm still looking for my style as a writer.
 
   La start-up *recherche* des financements pour son projet.
-  Das Start-up *sucht* nach Finanzierung für sein Projekt.
+  The start-up is looking for funding for its project.
 
   Les journalistes *recherchent* la vérité derrière le scandale.
-  Die Journalisten *ergründen* die Wahrheit hinter dem Skandal.
+  Journalists are exploring the truth behind the scandal.
 
   Son style *recherché* impressionne tous ses lecteurs.
-  Sein *ausgefeilter* Stil beeindruckt alle seine Leser.
+  His sophisticated style impresses all his readers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

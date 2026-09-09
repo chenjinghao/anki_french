@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4512
 Wort: maintenance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la maintenance
 Femininum / Plural: ''
 IPA: \mɛ̃.tə.nɑ̃s\
-Definition: Wartung, Instandhaltung
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: Maintenance, maintenance
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *maintenance* des bateaux est moins bien assurée.
-  Die *Wartung* der Boote ist weniger gut gewährleistet.
+  The *maintenance* of the boats is less well guaranteed.
 
   Le coût de la *maintenance* informatique augmente chaque année.
-  Die Kosten für die IT-*Wartung* steigen jedes Jahr.
+  The cost of IT *maintenance* increases every year.
 
   Notre équipe assure la *maintenance* permanente des équipements.
-  Unser Team gewährleistet die laufende *Instandhaltung* der Geräte.
+  Our team ensures the ongoing *maintenance* of the equipment.
 
   La *maintenance* du programme a été confiée à une entreprise externe.
-  Die Programm*wartung* wurde an eine externe Firma vergeben.
+  The program *maintenance* was given to an external company.
 
   L'entreprise propose un contrat de *maintenance* avantageux.
-  Die Firma bietet einen günstigen *Wartungs*vertrag an.
+  The company offers a favorable *maintenance* contract.
 
   Les visites de *maintenance* sont prévues tous les six mois.
-  Die *Wartungs*besuche sind alle sechs Monate geplant.
+  *Maintenance* visits are scheduled every six months.
 
   La *maintenance* technique de l'ascenseur est obligatoire.
-  Die technische *Wartung* des Aufzugs ist vorgeschrieben.
+  The technical *maintenance* of the lift is mandatory.
 
   Les opérations de *maintenance* doivent être effectuées régulièrement.
-  Die *Wartungs*arbeiten müssen regelmäßig durchgeführt werden.
+  *Maintenance* work must be carried out regularly.
 
   La *maintenance* préventive permet d'éviter les pannes.
-  Die vorbeugende *Instandhaltung* verhindert Ausfälle.
+  Preventive *maintenance* prevents failures.
 
   Le service de *maintenance* est disponible 24 heures sur 24.
-  Der *Wartungs*dienst ist rund um die Uhr verfügbar.
+  The *maintenance* service is available 24 hours a day.
 
   Les frais de *maintenance* sont inclus dans le contrat.
-  Die *Wartungs*kosten sind im Vertrag enthalten.
+  *Maintenance* costs are included in the contract.
 
   Une *maintenance* régulière prolonge la durée de vie des machines.
-  Eine regelmäßige *Wartung* verlängert die Lebensdauer der Maschinen.
+  Regular *maintenance* extends the service life of the machines.
 
   La *maintenance* du réseau sera effectuée ce soir.
-  Die Netzwerk*wartung* wird heute Abend durchgeführt.
+  Network *maintenance* is scheduled for tonight.
 
   L'équipe de *maintenance* interviendra demain matin.
-  Das *Wartungs*team wird morgen früh eingreifen.
+  The *maintenance* team will intervene in the morning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2664
 Wort: progressif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: progressif
 Femininum / Plural: progressive
 IPA: \pʁɔ.ɡʁɛ.sif\
-Definition: fortschrittlich, allmählich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: progressive, gradual
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons effectivement un système *progressif*.
-  Wir haben in der Tat ein *progressives* System.
+  We do indeed have a *progressive* system.
 
   La météo a annoncé une augmentation *progressive* des températures pour la semaine prochaine.
-  Der Wetterbericht kündigte einen *allmählichen* Temperaturanstieg für nächste Woche an.
+  The weather forecast announced a *gradual* temperature rise for next week.
 
   L'apprentissage d'une langue étrangère est un processus *progressif*.
-  Das Erlernen einer Fremdsprache ist ein *schrittweiser* Prozess.
+  Learning a foreign language is a gradual process.
 
   Mes grands-parents ont besoin de verres *progressifs* pour bien voir.
-  Meine Großeltern brauchen *Gleitsicht*gläser, um gut sehen zu können.
+  My grandparents need sliding lenses to be able to see well.
 
   La *progressive* détérioration de l'environnement nous inquiète tous.
-  Die *fortschreitende* Umweltzerstörung beunruhigt uns alle.
+  The progressive environmental destruction is troubling us all.
 
   Les exercices deviennent de plus en plus difficiles - c'est un entraînement *progressif*.
-  Die Übungen werden immer schwieriger - es ist ein *progressives* Training.
+  The exercises are becoming more and more difficult - it is a *progressive* workout.
 
   L'enfant montre une amélioration *progressive* dans son comportement.
-  Das Kind zeigt eine *allmähliche* Verbesserung in seinem Verhalten.
+  The child shows a *gradual* improvement in his behavior.
 
   Le remboursement *progressif* du prêt s'étale sur vingt ans.
-  Die *schrittweise* Rückzahlung des Kredits erstreckt sich über zwanzig Jahre.
+  The gradual repayment of the loan will last for twenty years.
 
   Cette maladie provoque une paralysie *progressive* des muscles.
-  Diese Krankheit verursacht eine *fortschreitende* Lähmung der Muskeln.
+  This disease causes progressive paralysis of the muscles.
 
   L'entreprise a mis en place une automatisation *progressive* de ses services.
-  Das Unternehmen hat eine *schrittweise* Automatisierung seiner Dienste eingeführt.
+  The company has introduced a gradual automation of its services.
 
   La pollution *progressive* de l'océan menace les écosystèmes marins.
-  Die *fortschreitende* Verschmutzung des Ozeans bedroht die Meeresökosysteme.
+  The increasing pollution of the ocean threatens the marine ecosystems.
 
   Le gouvernement a introduit un impôt *progressif* sur le revenu.
-  Die Regierung hat eine *progressive* Einkommensteuer eingeführt.
+  The government has introduced a *progressive* income tax.
 
   Notre société connaît une transformation *progressive* vers le numérique.
-  Unsere Gesellschaft erfährt eine *allmähliche* Transformation hin zum Digitalen.
+  Our society is experiencing a *gradual* transformation towards the digital.
 
   L'adaptation *progressive* au changement climatique est nécessaire.
-  Die *schrittweise* Anpassung an den Klimawandel ist notwendig.
+  Gradual adaptation to climate change is necessary.
 
   Les symptômes montrent une aggravation *progressive*.
-  Die Symptome zeigen eine *zunehmende* Verschlechterung.
+  The symptoms show an *increasing* deterioration.
 
   Le développement *progressif* des compétences est important dans l'éducation.
-  Die *schrittweise* Entwicklung der Kompetenzen ist wichtig in der Bildung.
+  The gradual development of skills is important in education.
 
   L'intégration *progressive* des nouvelles technologies prend du temps.
-  Die *allmähliche* Integration neuer Technologien braucht Zeit.
+  The *gradual* integration of new technologies takes time.
 
   Une augmentation *progressive* des prix est prévue pour l'année prochaine.
-  Eine *schrittweise* Preiserhöhung ist für nächstes Jahr geplant.
+  A gradual price increase is planned for next year.
 
   La diminution *progressive* du bruit a amélioré notre qualité de vie.
-  Die *allmähliche* Lärmreduzierung hat unsere Lebensqualität verbessert.
+  *Gradual* noise reduction has improved our quality of life.
 
   Son retour *progressif* au travail s'est bien passé.
-  Seine *schrittweise* Rückkehr zur Arbeit verlief gut.
+  His gradual return to work went well.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

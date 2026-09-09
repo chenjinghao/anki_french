@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3522
 Wort: motivation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la motivation
 Femininum / Plural: ''
 IPA: \mɔ.ti.va.sjɔ̃\
 Definition: Motivation
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cet assassinat n'aurait pas de *motivations* politiques.
-  Dieser Mordanschlag hätte keine politischen *Motive*.
+  This assassination attempt would have no political *motives*.
 
   Sa *motivation* principale était d'apprendre le japonais.
-  Seine wichtigste *Motivation* war es, Japanisch zu lernen.
+  His main *motivation* was to learn Japanese.
 
   La *motivation* du refus doit être clairement expliquée dans la lettre.
-  Die *Begründung* der Ablehnung muss im Brief klar erklärt werden.
+  The *reasons* for the rejection must be clearly explained in the letter.
 
   J'ai envoyé ma lettre de *motivation* hier soir.
-  Ich habe gestern Abend mein *Bewerbungs*schreiben verschickt.
+  I sent my *application* letter last night.
 
   Sans *motivation*, il est difficile d'atteindre ses objectifs.
-  Ohne *Motivation* ist es schwer, seine Ziele zu erreichen.
+  Without *motivation*, it's hard to achieve your goals.
 
   La *motivation* des élèves augmente quand ils voient leurs progrès.
-  Die *Motivation* der Schüler steigt, wenn sie ihre Fortschritte sehen.
+  The *motivation* of the students increases when they see their progress.
 
   Les chercheurs étudient la *motivation* des consommateurs.
-  Die Forscher untersuchen die *Motivation* der Verbraucher.
+  The researchers investigate the *motivation* of consumers.
 
   Elle a perdu toute sa *motivation* après cet échec.
-  Sie hat nach diesem Misserfolg ihre ganze *Motivation* verloren.
+  She lost all her *motivation* after this failure.
 
   La *motivation* du jugement sera communiquée la semaine prochaine.
-  Die *Begründung* des Urteils wird nächste Woche mitgeteilt.
+  The *reasons* for the judgment will be communicated next week.
 
   Quelle est ta *motivation* pour devenir médecin ?
-  Was ist deine *Motivation*, Arzt zu werden?
+  What is your *motivation* to become a doctor?
 
   Les professeurs cherchent à stimuler la *motivation* des étudiants.
-  Die Lehrer versuchen, die *Motivation* der Studenten zu fördern.
+  The teachers try to promote the *motivation* of the students.
 
   Une forte *motivation* est la clé du succès.
-  Eine starke *Motivation* ist der Schlüssel zum Erfolg.
+  A strong *motivation* is the key to success.
 
   La *motivation* de cette décision n'est pas claire.
-  Der *Grund* für diese Entscheidung ist nicht klar.
+  The *reason* for this decision is not clear.
 
   Notre équipe manque de *motivation* ces derniers temps.
-  Unserem Team fehlt in letzter Zeit die *Motivation*.
+  Our team's been missing the *motivation* lately.
 
   Les études de *motivation* montrent que les clients préfèrent les produits locaux.
-  Die *Motiv*forschung zeigt, dass die Kunden lokale Produkte bevorzugen.
+  Motivational research shows that customers prefer local products.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3640
 Wort: abolir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: abolir
 Femininum / Plural: ''
 IPA: \a.bɔ.liʁ\
-Definition: abschaffen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: abolish
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'esclavage n'a jamais vraiment été *aboli*.
-  Die Sklaverei wurde nie wirklich *abgeschafft*.
+  Slavery has never really been *abolished*.
 
   La peine de mort fut *abolie* en France en 1981.
-  Die Todesstrafe wurde 1981 in Frankreich *abgeschafft*.
+  The death penalty was *abolished* in France in 1981.
 
   Cette nouvelle technologie *abolit* toutes les barrières de communication.
-  Diese neue Technologie *hebt* alle Kommunikationsbarrieren *auf*.
+  This new technology removes all communication barriers.
 
   Le Parlement a voté pour *abolir* cette loi controversée.
-  Das Parlament hat dafür gestimmt, dieses umstrittene Gesetz zu *abzuschaffen*.
+  Parliament has voted to abolish this controversial law.
 
   Les frontières entre les pays européens ont été progressivement *abolies*.
-  Die Grenzen zwischen den europäischen Ländern wurden nach und nach *aufgehoben*.
+  The borders between European countries have gradually been lifted.
 
   Cette réforme vise à *abolir* les privilèges injustes.
-  Diese Reform zielt darauf ab, die ungerechten Privilegien *abzuschaffen*.
+  This reform aims to abolish unfair privileges.
 
   Internet a pratiquement *aboli* les distances entre les gens.
-  Das Internet hat die Entfernungen zwischen den Menschen praktisch *aufgehoben*.
+  The Internet has practically lifted the distances between people.
 
   Ces anciennes coutumes se sont *abolies* au fil du temps.
-  Diese alten Bräuche haben sich im Laufe der Zeit *abgeschafft*.
+  These ancient customs have been *abolished* over time.
 
   Le gouvernement envisage d'*abolir* cette taxe impopulaire.
-  Die Regierung erwägt, diese unpopuläre Steuer *abzuschaffen*.
+  The government is considering abolishing this unpopular tax.
 
   Ce médicament peut temporairement *abolir* les réflexes.
-  Dieses Medikament kann die Reflexe vorübergehend *aufheben*.
+  This medication can temporarily lift the reflexes.
 
   Les citoyens ont manifesté pour *abolir* cette restriction.
-  Die Bürger haben demonstriert, um diese Einschränkung *abzuschaffen*.
+  The citizens have demonstrated to abolish this restriction.
 
   Le temps ne peut pas *abolir* nos souvenirs d'enfance.
-  Die Zeit kann unsere Kindheitserinnerungen nicht *auslöschen*.
+  Time cannot erase our childhood memories.
 
   La discrimination raciale a été officiellement *abolie*.
-  Die Rassendiskriminierung wurde offiziell *abgeschafft*.
+  Racial discrimination has been officially *abolished*.
 
   Cette décision va *abolir* toutes les anciennes règles.
-  Diese Entscheidung wird alle alten Regeln *aufheben*.
+  This decision will repeal all the old rules.
 
   Le progrès technique a presque *aboli* les limites de la communication.
-  Der technische Fortschritt hat die Grenzen der Kommunikation fast *aufgehoben*.
+  Technical progress has almost removed the boundaries of communication.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

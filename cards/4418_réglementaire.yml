@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4418
 Wort: réglementaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: réglementaire
 Femininum / Plural: ''
 IPA: \ʁɛ.ɡlə.mɑ̃.tɛʁ\
-Definition: vorgeschrieben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Mandatory
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il démantèle la structure *réglementaire* de la loi actuellement en vigueur.
-  Er zerlegt die *Regelungs*struktur des derzeit geltenden Gesetzes.
+  It breaks down the regulatory structure of the current law.
 
   Les employés doivent porter l'uniforme *réglementaire* pendant leurs heures de travail.
-  Die Angestellten müssen während der Arbeitszeit die *vorschriftsmäßige* Uniform tragen.
+  Employees must wear the standard uniform during working hours.
 
   La longueur de ta jupe n'est pas *réglementaire* pour l'école.
-  Die Länge deines Rocks ist nicht *vorschriftsmäßig* für die Schule.
+  The length of your skirt is not proper for school.
 
   L'entreprise n'a pas respecté le délai *réglementaire* pour déposer sa demande.
-  Das Unternehmen hat die *vorgeschriebene* Frist für die Einreichung des Antrags nicht eingehalten.
+  *The* company did not comply with the prescribed deadline for submitting the application.
 
   Le temps *réglementaire* pour cet examen est de trois heures.
-  Die *vorgeschriebene* Zeit für diese Prüfung beträgt drei Stunden.
+  *The* prescribed time for this test shall be three hours.
 
   Cette décision *réglementaire* affecte tous les employés de l'entreprise.
-  Diese *Verwaltungs*entscheidung betrifft alle Mitarbeiter des Unternehmens.
+  This administrative decision concerns all employees of the company.
 
   Le pouvoir *réglementaire* appartient au gouvernement.
-  Die *Verordnungs*gewalt liegt bei der Regierung.
+  The power of *regulation* lies with the government.
 
   "Ce n'est pas très *réglementaire*, mais je vais fermer les yeux pour cette fois."
-  "Das ist nicht gerade *vorschriftsmäßig*, aber ich werde dieses Mal ein Auge zudrücken."
+  "That's not exactly the way it is, but I'm gonna keep an eye on it this time."
 
   Les dispositions *réglementaires* seront appliquées à partir du mois prochain.
-  Die *gesetzlich geregelten* Bestimmungen werden ab nächstem Monat angewendet.
+  The statutory provisions will apply from next month.
 
   Tous les documents ont été traités de manière *réglementaire*.
-  Alle Dokumente wurden *ordnungsgemäß* bearbeitet.
+  All documents have been properly processed.
 
   La taille *réglementaire* des bagages en cabine a été modifiée.
-  Die *vorschriftsmäßige* Größe für Handgepäck wurde geändert.
+  The correct size for hand luggage has been changed.
 
   Les soldats portent leur tenue *réglementaire* lors de la cérémonie.
-  Die Soldaten tragen ihre *vorschriftsmäßige* Uniform bei der Zeremonie.
+  The soldiers wear their proper uniform at the ceremony.
 
   Le cadre *réglementaire* pour cette procédure est très strict.
-  Der *Regelungs*rahmen für dieses Verfahren ist sehr streng.
+  The regulatory framework for this procedure is very strict.
 
   La hauteur *réglementaire* de la clôture ne doit pas dépasser deux mètres.
-  Die *vorschriftsmäßige* Höhe des Zauns darf zwei Meter nicht überschreiten.
+  The height of the fence shall not exceed two metres.
 
   La procédure *réglementaire* doit être suivie à la lettre.
-  Das *vorgeschriebene* Verfahren muss genau befolgt werden.
+  *The* prescribed procedure must be followed closely.
 
   Les compétences *réglementaires* ont été transférées à la nouvelle agence.
-  Die *Verordnungs*befugnisse wurden auf die neue Behörde übertragen.
+  The powers of the *Regulation* have been delegated to the new Authority.
 
   L'équipement n'est pas *réglementaire* selon les nouvelles normes de sécurité.
-  Die Ausrüstung ist nach den neuen Sicherheitsnormen nicht *vorschriftsmäßig*.
+  The equipment is not in accordance with the new safety standards.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

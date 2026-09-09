@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3559
 Wort: flic
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le flic
 Femininum / Plural: fliquette
 IPA: \flik\
-Definition: Bulle, Polizist
-Register: ↘Sachtext ↗Mündlich
+Definition: Cop, cop
+Register: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Si tu vois des *flics*, appelle-moi."
-  "Wenn du *Bullen* siehst, ruf mich an."
+  "If you see cops, call me."
 
   "Trois *flics* en civil surveillaient l'entrée du bâtiment."
-  "Drei *Polizisten* in Zivil bewachten den Eingang des Gebäudes."
+  "Three plainclothes policemen guarded the entrance of the building."
 
   "La nouvelle *fliquette* a commencé son service hier."
-  "Die neue *Polizistin* hat gestern ihren Dienst angetreten."
+  "The new *policewoman* started her duty yesterday."
 
   "Les *flics* ont bouclé le quartier après l'incident."
-  "Die *Bullen* haben nach dem Vorfall das Viertel abgeriegelt."
+  "The cops locked down the neighborhood after the incident."
 
   "Notre voisine est devenue *fliquette* il y a deux ans."
-  "Unsere Nachbarin ist vor zwei Jahren *Polizistin* geworden."
+  "Our neighbor became a *policewoman* two years ago."
 
   "Je ne supporte pas sa manie de faire le *flic* avec tout le monde."
-  "Ich kann es nicht ertragen, wie er bei allen den *Aufpasser* spielt."
+  "I can't stand the way he's playing the watchdog with everyone."
 
   "Les jeunes ont aperçu deux *flics* qui patrouillaient dans la rue."
-  "Die Jugendlichen haben zwei *Polizisten* gesehen, die in der Straße patrouillierten."
+  "The young people saw two policemen patrolling the street."
 
   "Ma sœur sort avec un *flic* depuis six mois."
-  "Meine Schwester geht seit sechs Monaten mit einem *Polizisten* aus."
+  "My sister's been dating a cop for six months."
 
   "Cette *fliquette* m'a sauvé la vie lors de l'accident."
-  "Diese *Polizistin* hat mir bei dem Unfall das Leben gerettet."
+  "That cop saved my life in the accident."
 
   "Il y a toujours des *flics* qui surveillent cette intersection."
-  "An dieser Kreuzung stehen immer *Polizisten*, die aufpassen."
+  "There are always *police officers* at this intersection who are careful."
 
   "Notre prof se prend pour un *flic* à nous surveiller comme ça."
-  "Unser Lehrer spielt sich wie ein *Aufpasser* auf, wie er uns so überwacht."
+  "Our teacher acts like a *watcher*, watching us like this."
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

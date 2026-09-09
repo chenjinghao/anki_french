@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2361
 Wort: décennie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la décennie
 Femininum / Plural: ''
 IPA: \de.se.ni\
-Definition: Jahrzehnt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Decade
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cet objectif sera atteint en quelques *décennies*.
-  Dieses Ziel wird in einigen *Jahrzehnten* erreicht werden.
+  This goal will be achieved in a few *decades*.
 
   La *décennie* 2010-2020 a vu l'essor des réseaux sociaux.
-  Das *Jahrzehnt* 2010-2020 erlebte den Aufstieg der sozialen Medien.
+  The *decade* 2010-2020 saw the rise of social media.
 
   Au cours de la dernière *décennie*, le climat a beaucoup changé.
-  Im Laufe des letzten *Jahrzehnts* hat sich das Klima stark verändert.
+  Over the last decade, the climate has changed considerably.
 
   Les nouvelles technologies évoluent rapidement d'une *décennie* à l'autre.
-  Neue Technologien entwickeln sich von *Jahrzehnt* zu *Jahrzehnt* rasant weiter.
+  New technologies are developing rapidly from *decade* to decade.
 
   Voilà maintenant une *décennie* que nous habitons dans cette ville.
-  Wir wohnen jetzt seit einem *Jahrzehnt* in dieser Stadt.
+  We've been living in this city for a *decade* now.
 
   Cette entreprise existe depuis plus de trois *décennies*.
-  Dieses Unternehmen besteht seit mehr als drei *Jahrzehnten*.
+  This company has existed for more than three *decades*.
 
   La prochaine *décennie* sera cruciale pour l'environnement.
-  Das nächste *Jahrzehnt* wird entscheidend für die Umwelt sein.
+  The next *decade* will be crucial to the environment.
 
   Les chercheurs ont étudié ce phénomène pendant deux *décennies*.
-  Die Forscher haben dieses Phänomen zwei *Jahrzehnte* lang untersucht.
+  The researchers have studied this phenomenon for two *decades*.
 
   Une *décennie* s'est écoulée depuis notre dernière rencontre.
-  Ein *Jahrzehnt* ist seit unserem letzten Treffen vergangen.
+  A *decade* has passed since our last meeting.
 
   Durant cette *décennie*, les habitudes de consommation ont radicalement changé.
-  In diesem *Jahrzehnt* haben sich die Konsumgewohnheiten grundlegend verändert.
+  In this *decade*, consumption habits have changed fundamentally.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

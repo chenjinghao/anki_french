@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4080
 Wort: vigilance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la vigilance
 Femininum / Plural: ''
 IPA: \vi.ʒi.lɑ̃s\
-Definition: Wachsamkeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Vigilance
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le pinot demande une *vigilance* constante.
-  Der Pinot verlangt ständige *Wachsamkeit*.
+  The Pinot demands constant *vigilance*.
 
   Il faut redoubler de *vigilance* pendant la nuit.
-  Man muss nachts doppelt *wachsam* sein.
+  You have to be twice alert at night.
 
   La *vigilance* des parents a empêché l'accident.
-  Die *Wachsamkeit* der Eltern hat den Unfall verhindert.
+  Parents' *vigilance* prevented the accident.
 
   Les gardes ont manqué de *vigilance* ce soir-là.
-  Die Wachen waren an diesem Abend nicht *wachsam* genug.
+  The guards weren't alert enough that night.
 
   Le département est en *vigilance* orange pour les orages.
-  Für das Département gilt wegen Gewitter die *Warnstufe* Orange.
+  For the département the *warning level* Orange is valid due to thunderstorms.
 
   Les médecins surveillent la *vigilance* du patient après l'opération.
-  Die Ärzte überwachen die *Wachheit* des Patienten nach der Operation.
+  The doctors monitor the patient's alertness after surgery.
 
   Malgré notre *vigilance*, le chat s'est échappé.
-  Trotz unserer *Wachsamkeit* ist die Katze entwischt.
+  Despite our *vigilance*, the cat escaped.
 
   La *vigilance* est de mise face aux arnaques en ligne.
-  *Wachsamkeit* ist gegenüber Online-Betrug geboten.
+  *Vigilance* is required against online fraud.
 
   J'ai réussi à tromper la *vigilance* du gardien.
-  Es ist mir gelungen, die *Aufmerksamkeit* des Wächters zu täuschen.
+  I managed to deceive the watchman's *attention*.
 
   Le niveau de *vigilance* est au maximum dans l'aéroport.
-  Die *Wachsamkeits*stufe am Flughafen ist maximal.
+  The *vigilance* level at the airport is maximum.
 
   Une baisse de *vigilance* peut avoir des conséquences graves.
-  Nachlassende *Wachsamkeit* kann schwerwiegende Folgen haben.
+  Decreasing *vigilance* can have serious consequences.
 
   La fatigue diminue notre niveau de *vigilance*.
-  Müdigkeit verringert unseren *Wachheits*grad.
+  Fatigue reduces our alertness.
 
   Sa *vigilance* naturelle en fait un excellent garde du corps.
-  Seine natürliche *Wachsamkeit* macht ihn zu einem ausgezeichneten Leibwächter.
+  His natural *vigilance* makes him an excellent bodyguard.
 
   Les chasseurs font preuve d'une grande *vigilance*.
-  Die Jäger zeigen große *Wachsamkeit*.
+  The hunters show great *vigilance*.
 
   La *vigilance* des citoyens a permis d'éviter le pire.
-  Die *Wachsamkeit* der Bürger hat Schlimmeres verhindert.
+  The *vigilance* of citizens has prevented worse things.
 
   Cette mission exige une *vigilance* extrême.
-  Diese Mission erfordert äußerste *Wachsamkeit*.
+  This mission requires extreme *vigilance*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

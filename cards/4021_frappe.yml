@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4021
 Wort: frappe
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la frappe
 Femininum / Plural: ''
 IPA: \fʁɑp\
-Definition: Schlag, Schuss
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Hit, shot
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *frappes* aériennes ne vont résoudre aucun problème.
-  Die Luft*schläge* werden kein Problem lösen.
+  The air strikes will not solve a problem.
 
   La *frappe* de cette pièce de monnaie commémorative est magnifique.
-  Die *Prägung* dieser Gedenkmünze ist wunderschön.
+  The minting of this commemorative coin is beautiful.
 
   Sa *frappe* au piano est délicate et précise.
-  Sein Tasten*anschlag* am Klavier ist zart und präzise.
+  His keystroke on the piano is delicate and precise.
 
   Le boxeur a une *frappe* puissante qui impressionne ses adversaires.
-  Der Boxer hat einen kraftvollen *Schlag*, der seine Gegner beeindruckt.
+  The boxer has a powerful blow that impresses his opponents.
 
   Sa *frappe* du ballon était parfaite et a surpris le gardien.
-  Sein *Schuss* war perfekt und überraschte den Torwart.
+  His *shot* was perfect and surprised the goalkeeper.
 
   Chaque *frappe* sur le clavier doit être précise pour éviter les erreurs.
-  Jeder Tasten*druck* muss präzise sein, um Fehler zu vermeiden.
+  Every keystroke must be precise to avoid errors.
 
   Le manuscrit est encore à la *frappe*, il sera prêt demain.
-  Das Manuskript wird gerade ge*tippt*, es wird morgen fertig sein.
+  The manuscript is being *typed*, it will be ready tomorrow.
 
   "Cette petite *frappe* traîne toujours dans le quartier."
-  "Dieser kleine *Halunke* treibt sich immer in der Gegend herum."
+  "This little scoundrel is always in the neighborhood."
 
   Une *frappe* préventive a été lancée contre les installations militaires.
-  Ein Präventiv*schlag* wurde gegen die militärischen Anlagen geführt.
+  A preventive strike was carried out against the military facilities.
 
   J'ai remarqué une faute de *frappe* dans ton message.
-  Mir ist ein *Tipp*fehler in deiner Nachricht aufgefallen.
+  I noticed a typo in your message.
 
   La *frappe* sur clavier d'ordinateur demande de la pratique.
-  Das *Tippen* auf der Computertastatur erfordert Übung.
+  Taping the computer keyboard requires exercise.
 
   Le footballeur est connu pour sa *frappe* précise.
-  Der Fußballer ist für seinen präzisen *Schuss* bekannt.
+  The footballer is known for his precise *shot*.
 
   Voici la première *frappe* de l'article, il faut encore la relire.
-  Hier ist die erste *Niederschrift* des Artikels, sie muss noch Korrektur gelesen werden.
+  Here is the first transcript of the article, it still needs to be read correction.
 
   La *frappe* des médailles d'or olympiques a déjà commencé.
-  Die *Prägung* der olympischen Goldmedaillen hat bereits begonnen.
+  The *embossing* of the Olympic gold medals has already begun.
 
   Sa technique de *frappe* en boxe s'est beaucoup améliorée.
-  Seine *Schlag*technik beim Boxen hat sich stark verbessert.
+  His punching technique in boxing has greatly improved.
 
   La *frappe* de cette lettre prendra quelques minutes.
-  Das *Tippen* dieses Briefes wird einige Minuten dauern.
+  The typing of this letter will take a few minutes.
 
   Cette *frappe* de caractères italiques est très élégante.
-  Dieser *Schriftsatz* in Kursivschrift ist sehr elegant.
+  This italic font is very elegant.
 
   La dernière *frappe* du document contient encore des erreurs.
-  Die letzte *Fassung* des Dokuments enthält noch Fehler.
+  The last *version* of the document still contains errors.
 
   Le joueur de tennis a une *frappe* remarquable au service.
-  Der Tennisspieler hat einen bemerkenswerten *Schlag* beim Aufschlag.
+  The tennis player has a remarkable impact on the top.
 
   La *frappe* des nouvelles pièces en euros commence aujourd'hui.
-  Die *Prägung* der neuen Euro-Münzen beginnt heute.
+  The minting of the new euro coins begins today.
 
   "Ces *frappes* du quartier causent beaucoup de problèmes."
-  "Diese *Gauner* aus dem Viertel verursachen viele Probleme."
+  "These crooks from the neighborhood are causing a lot of problems."
 
   Sa *frappe* de balle est devenue légendaire dans le club.
-  Sein Ball*schlag* ist im Verein legendär geworden.
+  His ball strike has become legendary in the club.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

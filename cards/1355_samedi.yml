@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1355
 Wort: samedi
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le samedi
 Femininum / Plural: ''
 IPA: \sam.di\
-Definition: Samstag
-Register: ↗Sachtext ↘Mündlich
+Definition: Saturday
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle organisera une fête *samedi*.
-  Sie organisiert am *Samstag* eine Party.
+  She's organizing a party on *Saturday*.
 
   Je ne suis jamais libre le *samedi* matin.
-  Ich habe *samstags* morgens nie Zeit.
+  I don't have time on Saturday mornings.
 
   Les magasins ferment plus tard le *samedi* que les autres jours.
-  Die Geschäfte schließen *samstags* später als an anderen Tagen.
+  The shops close on *Saturdays* later than on other days.
 
   Nous faisons toujours les courses le *samedi*.
-  Wir gehen immer *samstags* einkaufen.
+  We always go shopping on *Saturdays*.
 
   La nuit du *samedi* au dimanche, il y a eu un orage terrible.
-  In der Nacht von *Samstag* auf Sonntag gab es ein schreckliches Gewitter.
+  On the night of *Saturday* to Sunday there was a terrible thunderstorm.
 
   Le *samedi* est mon jour préféré de la semaine.
-  Der *Samstag* ist mein Lieblingstag in der Woche.
+  *Saturday* is my favorite day of the week.
 
   Tous les premiers *samedis* du mois, le musée est gratuit.
-  Jeden ersten *Samstag* im Monat ist der Museumseintritt kostenlos.
+  Every first *Saturday* of the month the museum entrance is free.
 
   Le *Samedi* saint est un jour important pour les chrétiens.
-  Der Kar*samstag* ist ein wichtiger Tag für Christen.
+  Holy *Saturday* is an important day for Christians.
 
   J'ai rendez-vous chez le dentiste *samedi* prochain.
-  Ich habe nächsten *Samstag* einen Termin beim Zahnarzt.
+  I have an appointment with the dentist next *Saturday*.
 
   Les enfants n'ont pas école le *samedi*.
-  Die Kinder haben *samstags* keine Schule.
+  The children don't have a school on *Saturdays*.
 
   À partir de *samedi*, je serai en vacances pendant deux semaines.
-  Ab *Samstag* habe ich zwei Wochen Urlaub.
+  From *Saturday*, I have two weeks' leave.
 
   Ils se marient *samedi* dans une petite chapelle.
-  Sie heiraten am *Samstag* in einer kleinen Kapelle.
+  They get married on *Saturday* in a small chapel.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,86 +1,86 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4923
 Wort: allouer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: allouer
 Femininum / Plural: ''
 IPA: \a.lwe\
-Definition: zuteilen, bewilligen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Assignment, grant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cinq minutes sont *allouées* pour deux questions.
-  Für zwei Fragen sind fünf Minuten *vorgesehen*.
+  There are two questions that are scheduled for five minutes.
 
   Le gouvernement a *alloué* des fonds supplémentaires pour la recherche scientifique.
-  Die Regierung hat zusätzliche Mittel für die wissenschaftliche Forschung *bewilligt*.
+  The government has granted additional funding for scientific research.
 
   On lui a *alloué* un délai supplémentaire pour finir son travail.
-  Man hat ihr eine zusätzliche Frist *eingeräumt*, um ihre Arbeit zu beenden.
+  She was given an additional deadline to finish her work.
 
   La banque nous a *alloué* un crédit pour acheter notre maison.
-  Die Bank hat uns einen Kredit *gewährt*, um unser Haus zu kaufen.
+  The bank gave us a loan to buy our house.
 
   Le temps *alloué* à cet exercice est de trente minutes.
-  Die für diese Übung *vorgesehene* Zeit beträgt dreißig Minuten.
+  The time required for this exercise is thirty minutes.
 
   L'entreprise *alloue* une prime de Noël à tous ses employés.
-  Das Unternehmen *gewährt* allen Mitarbeitern ein Weihnachtsgeld.
+  The company grants all employees a Christmas money.
 
   Combien de temps sera *alloué* à chaque présentation ?
-  Wie viel Zeit wird für jeden Vortrag *eingeräumt*?
+  How much time is given for each talk?
 
   Le conseil municipal a *alloué* un budget pour rénover l'école.
-  Der Stadtrat hat ein Budget für die Renovierung der Schule *bewilligt*.
+  The city council has *approved* a budget for the renovation of the school.
 
   Une bourse d'études lui a été *allouée* par l'université.
-  Die Universität hat ihr ein Stipendium *gewährt*.
+  The university has *granted* her a scholarship.
 
   Le département informatique s'est vu *allouer* de nouveaux ordinateurs.
-  Der IT-Abteilung wurden neue Computer *zugewiesen*.
+  New computers have been assigned to the IT department.
 
   La subvention *allouée* au projet culturel a été augmentée.
-  Der für das Kulturprojekt *bewilligte* Zuschuss wurde erhöht.
+  *The* grant granted for the cultural project has been increased.
 
   Le jury *alloue* trois minutes à chaque candidat pour se présenter.
-  Die Jury *räumt* jedem Kandidaten drei Minuten *ein*, um sich vorzustellen.
+  The jury will give each candidate three minutes to introduce themselves.
 
   Une aide financière sera *allouée* aux familles dans le besoin.
-  Bedürftigen Familien wird eine finanzielle Hilfe *gewährt*.
+  The needy families are provided with financial assistance.
 
   L'association s'est fait *allouer* des locaux par la mairie.
-  Der Verein hat von der Stadtverwaltung Räumlichkeiten *zugewiesen* bekommen.
+  The association has been assigned premises by the city administration.
 
   Le comité a *alloué* des ressources supplémentaires au projet.
-  Das Komitee hat dem Projekt zusätzliche Ressourcen *zugeteilt*.
+  The committee has *allocated* additional resources to the project.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>octroyer</i> und <i>allouer</i></div>
+    <div class="section-title"><i>octroyer</i> and <i>allouer</i></div>
     <div class="section-content">
-      <p><span class="fr">Octroyer</span> (#4232) bedeutet <span class="de">"gewähren"</span> oder <span class="de">"bewilligen"</span> und wird verwendet, wenn eine Autorität oder Institution etwas offiziell zugesteht oder verleiht, oft als Gunst oder Privileg.</p>
+      <p><span class="fr">Octroyer</span> (#4232) means <span class="de">"guarantee"</span> or <span class="de">"bewilligen"</span> and is used when an authority or institution officially grants or lends something, often as a favor or privilege.</p>
       <div class="examples">
         <div class="fr">Le roi a octroyé une charte à la ville.</div>
-        <div class="de spoiler">Der König hat der Stadt eine Charte gewährt.</div>
+        <div class="de spoiler">The king has granted the city a charter.</div>
         <div class="fr">L'université lui a octroyé un doctorat honorifique.</div>
-        <div class="de spoiler">Die Universität hat ihm einen Ehrendoktor verliehen.</div>
+        <div class="de spoiler">The university awarded him an honorary doctorate.</div>
       </div>
-      <p><span class="fr">Allouer</span> bedeutet <span class="de">"zuteilen"</span> oder <span class="de">"bewilligen"</span> und bezieht sich auf die Verteilung von Ressourcen, Mitteln oder Zeit nach bestimmten Kriterien oder Bedürfnissen.</p>
+      <p><span class="fr">Allouer</span> means <span class="de">"zuteilen"</span> or <span class="de">"bewilligen"</span> and refers to the distribution of resources, resources or time according to certain criteria or needs.</p>
       <div class="examples">
         <div class="fr">Le gouvernement a alloué un budget considérable à l'éducation.</div>
-        <div class="de spoiler">Die Regierung hat der Bildung ein beträchtliches Budget zugeteilt.</div>
+        <div class="de spoiler">The government has allocated a considerable budget to education.</div>
         <div class="fr">Il faut allouer plus de temps à cette tâche importante.</div>
-        <div class="de spoiler">Man muss dieser wichtigen Aufgabe mehr Zeit zuweisen.</div>
+        <div class="de spoiler">You have to allocate more time to this important task.</div>
       </div>
-      <p><span class="fr">Octroyer</span> hat eine feierlichere Konnotation und impliziert oft eine Autorität, die etwas Besonderes gewährt, während <span class="fr">allouer</span> neutraler ist und sich auf die praktische Verteilung von Ressourcen konzentriert.</p>
+      <p><span class="fr">Octroyer</span> has a more solemn connotation and often implies an authority that grants something special, while <span class="fr">allouer</span> is more neutral and focuses on the practical distribution of resources.</p>
     </div>
   </div>

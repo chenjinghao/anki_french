@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4546
 Wort: restituer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: restituer
 Femininum / Plural: ''
 IPA: \ʁɛs.ti.tɥe\
-Definition: zurückgeben, wiederherstellen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: return, restore
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En cas de rupture, il ne *restituera* rien.
-  Im Falle einer Trennung wird er nichts *zurückgeben*.
+  In the event of separation, he will not *return* anything.
 
   Il faut *restituer* les livres empruntés avant la fin du mois.
-  Die ausgeliehenen Bücher müssen vor Monatsende *zurückgegeben* werden.
+  The borrowed books must be *returned* before the end of the month.
 
   Le musée a enfin *restitué* le tableau volé à son propriétaire légitime.
-  Das Museum hat das gestohlene Gemälde endlich seinem rechtmäßigen Besitzer *zurückgegeben*.
+  The museum finally *returned* the stolen painting to its rightful owner.
 
   Ces panneaux solaires *restituent* l'énergie sous forme d'électricité.
-  Diese Solarzellen *setzen* die Energie in Form von Elektrizität *frei*.
+  These solar cells release the energy in the form of electricity.
 
   L'archéologue a *restitué* l'aspect du temple antique grâce aux vestiges.
-  Der Archäologe hat das Aussehen des antiken Tempels anhand der Überreste *rekonstruiert*.
+  The archaeologist *reconstructed* the appearance of the ancient temple from the remains.
 
   Ces enceintes *restituent* parfaitement les basses fréquences.
-  Diese Lautsprecher *geben* die tiefen Frequenzen perfekt *wieder*.
+  These loudspeakers perfectly reflect the low frequencies.
 
   Les chercheurs ont *restitué* le texte original à partir de fragments.
-  Die Forscher haben den Originaltext aus Fragmenten *rekonstruiert*.
+  The researchers *reconstructed* the original text from fragments.
 
   Le radiateur *restitue* la chaleur pendant plusieurs heures.
-  Der Heizkörper *gibt* die Wärme über mehrere Stunden *ab*.
+  The radiator releases the heat over several hours.
 
   L'écrivain *restitue* parfaitement l'ambiance du Paris des années 20.
-  Der Schriftsteller *gibt* die Atmosphäre des Paris der 20er Jahre perfekt *wieder*.
+  The writer perfectly reflects the atmosphere of Paris in the 1920s.
 
   Le locataire doit *restituer* l'appartement dans son état initial.
-  Der Mieter muss die Wohnung in ihrem ursprünglichen Zustand *zurückgeben*.
+  The tenant must *return* the apartment in its original condition.
 
   Les experts ont *restitué* la fresque selon les techniques anciennes.
-  Die Experten haben das Fresko nach den alten Techniken *restauriert*.
+  The experts *restored* the fresco according to the old techniques.
 
   Ce microphone *restitue* fidèlement les nuances de sa voix.
-  Dieses Mikrofon *gibt* die Nuancen ihrer Stimme originalgetreu *wieder*.
+  This microphone reproduces the nuances of her voice faithfully.
 
   L'Allemagne a dû *restituer* les œuvres d'art volées pendant la guerre.
-  Deutschland musste die während des Krieges gestohlenen Kunstwerke *zurückgeben*.
+  Germany had to *return* the stolen works of art during the war.
 
   Les scientifiques ont *restitué* l'apparence du dinosaure.
-  Die Wissenschaftler haben das Aussehen des Dinosauriers *rekonstruiert*.
+  The scientists have *reconstructed* the appearance of the dinosaur.
 
   Le ressort comprimé *restitue* son énergie d'un coup.
-  Die zusammengedrückte Feder *setzt* ihre Energie auf einmal *frei*.
+  The compressed spring releases its energy at once.
 
   L'écran 3D *restitue* parfaitement la profondeur de l'image.
-  Der 3D-Bildschirm *gibt* die Bildtiefe perfekt *wieder*.
+  The 3D screen perfectly reflects the depth of the image.
 
   Les historiens ont *restitué* la prononciation du latin classique.
-  Die Historiker haben die Aussprache des klassischen Lateins *rekonstruiert*.
+  Historians have *reconstructed* the pronunciation of classical Latin.
 
   La batterie *restitue* l'énergie stockée pendant la journée.
-  Die Batterie *gibt* die tagsüber gespeicherte Energie *ab*.
+  The battery emits the energy stored during the day.
 
   L'ordinateur *restitue* les données sauvegardées hier.
-  Der Computer *gibt* die gestern gespeicherten Daten *wieder*.
+  The computer returns the data stored yesterday.
 
   Ce roman *restitue* bien l'atmosphère de l'époque victorienne.
-  Dieser Roman *gibt* die Atmosphäre der viktorianischen Zeit gut *wieder*.
+  This novel reflects the atmosphere of Victorian times well.
 
   Les archéologues ont *restitué* la ville antique en 3D.
-  Die Archäologen haben die antike Stadt in 3D *rekonstruiert*.
+  The archaeologists *reconstructed* the ancient city in 3D.
 
   Le jugement lui a *restitué* tous ses droits.
-  Das Urteil hat ihm alle seine Rechte *zurückgegeben*.
+  The verdict gave him all his rights.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

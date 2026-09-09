@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2308
 Wort: fabrication
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la fabrication
 Femininum / Plural: ''
 IPA: \fa.bʁi.ka.sjɔ̃\
-Definition: Herstellung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Production
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Après ces deux échecs, la *fabrication* fut abandonnée.
-  Nach diesen zwei Misserfolgen wurde die *Herstellung* eingestellt.
+  After these two failures, the *production* was discontinued.
 
   La *fabrication* de ce fromage est une tradition qui se transmet de génération en génération.
-  Die *Herstellung* dieses Käses ist eine Tradition, die von Generation zu Generation weitergegeben wird.
+  The *production* of this cheese is a tradition passed on from generation to generation.
 
   Ce bijou de *fabrication* artisanale est unique en son genre.
-  Dieser in handwerklicher *Fertigung* hergestellte Schmuck ist einzigartig.
+  This jewellery made in artisanal production is unique.
 
   L'usine a modernisé sa ligne de *fabrication* industrielle.
-  Die Fabrik hat ihre industrielle *Fertigungs*linie modernisiert.
+  The factory has modernized its industrial production line.
 
   Le coût de *fabrication* à la chaîne est beaucoup plus bas.
-  Die Kosten der Fließ*fertigung* sind deutlich niedriger.
+  The costs of the production are significantly lower.
 
   Cette confiture de *fabrication* maison est vraiment délicieuse.
-  Diese in Eigen*herstellung* gemachte Marmelade ist wirklich köstlich.
+  This homemade jam is really delicious.
 
   La *fabrication* en grande série permet de réduire les coûts.
-  Die Großserien*fertigung* ermöglicht es, die Kosten zu senken.
+  The large-scale production allows to reduce costs.
 
   Le secret de *fabrication* de cette recette est bien gardé.
-  Das *Betriebs*geheimnis dieses Rezepts wird gut gehütet.
+  The trade secret of this recipe is well protected.
 
   La *fabrication* assistée par ordinateur améliore la précision.
-  Die computergestützte *Fertigung* verbessert die Präzision.
+  Computer-assisted *manufacturing* improves precision.
 
   Il y a un défaut de *fabrication* sur ce modèle.
-  Dieses Modell hat einen *Produktions*fehler.
+  This model has a *production* error.
 
   La police a découvert la *fabrication* de faux documents.
-  Die Polizei hat die *Herstellung* gefälschter Dokumente aufgedeckt.
+  The police have uncovered the *production* of fake documents.
 
   La *fabrication* de ce gâteau prend environ deux heures.
-  Die *Zubereitung* dieses Kuchens dauert ungefähr zwei Stunden.
+  The *preparation* of this cake takes about two hours.
 
   Nous suivons toutes les étapes de la *fabrication* d'un livre.
-  Wir folgen allen Schritten der *Herstellung* eines Buches.
+  We follow all steps of making a book.
 
   Les *fabrications* de fausses nouvelles sont dangereuses pour la démocratie.
-  Die *Erfindung* von Falschnachrichten ist gefährlich für die Demokratie.
+  The *invention* of false news is dangerous for democracy.
 
   Le menuisier commence la *fabrication* du meuble sur mesure.
-  Der Schreiner beginnt mit der *Anfertigung* des maßgeschneiderten Möbelstücks.
+  The carpenter begins with the *production* of the custom furniture.
 
   Voici une soupe de ma *fabrication*.
-  Hier ist eine Suppe aus meiner *Herstellung*.
+  Here's a soup from my making.
 
   La *fabrication* des étoffes se fait dans cette région depuis des siècles.
-  Die *Herstellung* von Stoffen wird in dieser Region seit Jahrhunderten betrieben.
+  The *production* of fabrics has been in operation in this region for centuries.
 
   Les frais de *fabrication* ont considérablement augmenté.
-  Die *Herstellungs*kosten sind erheblich gestiegen.
+  *Production* costs have increased considerably.
 
   C'est un produit de *fabrication* française.
-  Das ist ein Produkt aus französischer *Fertigung*.
+  This is a product from French production.
 
   La *fabrication* de ce prototype a pris six mois.
-  Die *Herstellung* dieses Prototyps hat sechs Monate gedauert.
+  The *production* of this prototype took six months.
 
   Les procédés de *fabrication* ont beaucoup évolué.
-  Die *Herstellungs*verfahren haben sich stark weiterentwickelt.
+  The *production* processes have developed considerably.
 
   La *fabrication* pièce par pièce garantit une meilleure qualité.
-  Die Einzelteil*fertigung* garantiert eine bessere Qualität.
+  The individual parts production guarantees a better quality.
 
   Cette boulangerie privilégie la *fabrication* artisanale du pain.
-  Diese Bäckerei bevorzugt die handwerkliche *Herstellung* von Brot.
+  This bakery prefers the artisanal *production* of bread.
 
   La *fabrication* de la monnaie est strictement réglementée.
-  Die Geld*herstellung* ist streng reguliert.
+  Money production is strictly regulated.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

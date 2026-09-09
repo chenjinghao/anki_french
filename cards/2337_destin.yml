@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2337
 Wort: destin
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le destin
 Femininum / Plural: ''
 IPA: \dɛs.tɛ̃\
-Definition: Schicksal
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Destiny
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *destin* joue parfois de sales tours.
-  Das *Schicksal* spielt manchmal üble Streiche.
+  Fate sometimes plays bad tricks.
 
   Le *destin* a voulu qu'ils se rencontrent dans le train.
-  Das *Schicksal* wollte es, dass sie sich im Zug trafen.
+  Fate wanted them to meet on the train.
 
   On ne peut pas échapper à son *destin*.
-  Man kann seinem *Schicksal* nicht entfliehen.
+  You can't escape your fate.
 
   Je refuse d'accepter ce *destin* tragique !
-  Ich weigere mich, dieses tragische *Schicksal* zu akzeptieren!
+  I refuse to accept this tragic fate!
 
   Les anciens Grecs croyaient que même les dieux étaient soumis au *destin*.
-  Die alten Griechen glaubten, dass selbst die Götter dem *Schicksal* unterworfen waren.
+  The ancient Greeks believed that even the gods were subject to fate.
 
   Elle a pris son *destin* en main et a commencé une nouvelle vie.
-  Sie nahm ihr *Schicksal* selbst in die Hand und begann ein neues Leben.
+  She took her own *destiny* into her own hands and began a new life.
 
   Le *destin* de cette civilisation reste incertain.
-  Das *Schicksal* dieser Zivilisation bleibt ungewiss.
+  The fate of this civilization remains uncertain.
 
   Un terrible *destin* l'attendait à son retour.
-  Bei seiner Rückkehr erwartete ihn ein schreckliches *Schicksal*.
+  On his return, a terrible fate awaited him.
 
   C'est à nous de forger notre *destin*.
-  Es liegt an uns, unser *Schicksal* zu schmieden.
+  It's up to us to forge our *destiny*.
 
   Les *destins* de nos deux pays sont étroitement liés.
-  Die *Schicksale* unserer beiden Länder sind eng miteinander verbunden.
+  The fates of our two countries are closely linked.
 
   Cette découverte scientifique aura un *destin* extraordinaire.
-  Diese wissenschaftliche Entdeckung wird ein außergewöhnliches *Schicksal* haben.
+  This scientific discovery will have an extraordinary fate.
 
   "C'est le *destin* !", s'écria-t-elle en haussant les épaules.
-  "Das ist das *Schicksal*!", rief sie achselzuckend.
+  "That's fate!" she shouted shrugging.
 
   Le *destin* lui sourit enfin après tant d'années difficiles.
-  Das *Schicksal* lächelte ihr nach so vielen schwierigen Jahren endlich zu.
+  Fate finally smiled at her after so many difficult years.
 
   Qui aurait pu prédire le *destin* glorieux de cette petite entreprise ?
-  Wer hätte das ruhmreiche *Schicksal* dieses kleinen Unternehmens vorhersagen können?
+  Who could have predicted the glorious fate of this small business?
 
   Les *destins* favorables nous ont réunis ce soir.
-  Die günstigen *Schicksale* haben uns heute Abend zusammengeführt.
+  The favorable fates brought us together tonight.
 
   Je ne crois pas au *destin*, mais aux choix que nous faisons.
-  Ich glaube nicht an das *Schicksal*, sondern an die Entscheidungen, die wir treffen.
+  I don't believe in fate, but in the decisions we make.
 
   Par un coup du *destin*, il a retrouvé son portefeuille perdu.
-  Durch eine *Schicksals*fügung fand er seine verlorene Brieftasche wieder.
+  He found his lost wallet by a fateful decree.
 
   Les philosophes débattent depuis toujours du rôle du *destin*.
-  Philosophen diskutieren seit jeher über die Rolle des *Schicksals*.
+  Philosophers have always discussed the role of *fate*.
 
   Cette rencontre va changer son *destin*.
-  Diese Begegnung wird ihr *Schicksal* verändern.
+  This encounter will change their fate.
 
   Le *destin* de l'humanité dépend de nos actions aujourd'hui.
-  Das *Schicksal* der Menschheit hängt von unseren heutigen Handlungen ab.
+  The fate of humanity depends on our actions today.
 
   Personne ne peut prédire les arrêts du *destin*.
-  Niemand kann die *Schicksals*fügungen vorhersagen.
+  No one can predict the fates.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>destin</i> und <i>sort</i></div>
+    <div class="section-title"><i>destin</i> and <i>sort</i></div>
     <div class="section-content">
-      <p><span class="fr">Destin</span> bezieht sich auf das vorherbestimmte Schicksal oder die <span class="de">"Bestimmung"</span> eines Menschen, einer Gruppe oder einer Linie von Individuen, das von einer höheren Instanz festgelegt wurde. Es entspricht dem deutschen Begriff <span class="de">"Schicksal"</span> im umfassenden Sinne.</p>
+      <p><span class="fr">Destin</span> refers to the predetermined fate or the <span class="de">"Bestimmung"</span> a person, a group or a line of individuals defined by a higher instance. It corresponds to the German term <span class="de">"Schicksal"</span> in the broad sense.</p>
       <div class="examples">
         <div class="fr">Il croit que son destin est d'être un grand artiste.</div>
-        <div class="de spoiler">Er glaubt, dass es seine Bestimmung ist, ein großer Künstler zu werden.</div>
+        <div class="de spoiler">He believes that it is his destiny to become a great artist.</div>
         <div class="fr">Quel que soit notre destin, nous devons l'accepter.</div>
-        <div class="de spoiler">Was auch immer unser Schicksal ist, wir müssen es akzeptieren.</div>
+        <div class="de spoiler">Whatever our fate is, we must accept it.</div>
       </div>
-      <p><span class="fr">Sort</span> (#1780) bezieht sich eher auf einzelne Ereignisse oder Umstände, die als zufällig oder vom Schicksal bestimmt erscheinen. Es kann sowohl positive als auch negative Bedeutungen haben, wird aber oft für ungünstige Situationen verwendet.</p>
+      <p><span class="fr">Sort</span> (#1780) refers more to individual events or circumstances that appear to be accidental or determined by fate. It may have both positive and negative meanings, but is often used for adverse situations.</p>
       <div class="examples">
         <div class="fr">Il a subi un sort cruel.</div>
-        <div class="de spoiler">Er erlitt ein grausames Schicksal.</div>
+        <div class="de spoiler">He suffered a cruel fate.</div>
         <div class="fr">Le sort en est jeté.</div>
-        <div class="de spoiler">Das Los ist gefallen.</div>
+        <div class="de spoiler">The lot has fallen.</div>
       </div>
     </div>
   </div>

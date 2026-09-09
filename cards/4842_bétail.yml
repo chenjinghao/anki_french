@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4842
 Wort: bétail
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le bétail
 Femininum / Plural: ''
 IPA: \be.taj\
-Definition: Vieh
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Livestock
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vos chevaux sont là-bas, avec votre *bétail*.
-  Ihre Pferde sind dort drüben, bei Ihrem *Vieh*.
+  Your horses are over there with your cattle.
 
   Le *bétail* est rentré dans l'étable pour la nuit.
-  Das *Vieh* ist für die Nacht in den Stall gebracht worden.
+  The cattle were taken to the stable for the night.
 
   Notre voisin possède vingt têtes de *bétail*.
-  Unser Nachbar besitzt zwanzig Stück *Vieh*.
+  Our neighbor owns twenty cattle.
 
   Le marché au *bétail* se tient chaque premier lundi du mois.
-  Der *Vieh*markt findet jeden ersten Montag im Monat statt.
+  The cattle market takes place every first Monday of the month.
 
   Les éleveurs de gros *bétail* ont manifesté devant le ministère.
-  Die Groß*vieh*züchter haben vor dem Ministerium demonstriert.
+  The *livestock* farmers demonstrated in front of the ministry.
 
   Marie s'occupe du petit *bétail* pendant que Paul soigne les chevaux.
-  Marie kümmert sich um das Klein*vieh*, während Paul die Pferde versorgt.
+  Marie takes care of the sheep while Paul takes care of the horses.
 
   Le vétérinaire examine régulièrement tout le *bétail* de la ferme.
-  Der Tierarzt untersucht regelmäßig das gesamte *Vieh* des Hofes.
+  The veterinarian regularly inspects the entire *livestock* of the farm.
 
   La sécheresse a rendu difficile de nourrir le *bétail* cet été.
-  Die Dürre hat es diesen Sommer schwer gemacht, das *Vieh* zu füttern.
+  The drought has made it difficult this summer to feed the cattle.
 
   Le commerce de *bétail* représente une part importante de l'économie locale.
-  Der *Vieh*handel macht einen wichtigen Teil der lokalen Wirtschaft aus.
+  The cattle trade is an important part of the local economy.
 
   Ils ont perdu la moitié de leur *bétail* pendant l'épidémie.
-  Sie haben während der Epidemie die Hälfte ihres *Viehs* verloren.
+  They lost half of their *livestock* during the epidemic.
 
   Les bergers conduisent leur *bétail* vers les pâturages d'été.
-  Die Hirten treiben ihr *Vieh* zu den Sommerweiden.
+  The shepherds drive their cattle to the summer pastures.
 
   L'assurance couvre la perte accidentelle du *bétail*.
-  Die Versicherung deckt den versehentlichen Verlust des *Viehs* ab.
+  The insurance covers the accidental loss of the *livestock*.
 
   "Les réfugiés ont été transportés comme du *bétail*."
-  "Die Flüchtlinge wurden wie *Vieh* transportiert."
+  "The refugees were transported like cattle."
 
   Le prix du *bétail* a considérablement augmenté cette année.
-  Der *Vieh*preis ist dieses Jahr erheblich gestiegen.
+  The price of cattle has risen considerably this year.
 
   Cette clôture électrique protège le *bétail* des prédateurs.
-  Dieser Elektrozaun schützt das *Vieh* vor Raubtieren.
+  This electric fence protects the cattle from predators.
 
   Mon grand-père a commencé avec cinq têtes de *bétail* il y a quarante ans.
-  Mein Großvater hat vor vierzig Jahren mit fünf Stück *Vieh* angefangen.
+  My grandfather started with five cattle forty years ago.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

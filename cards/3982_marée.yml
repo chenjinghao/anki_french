@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3982
 Wort: marée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la marée
 Femininum / Plural: ''
 IPA: \ma.ʁe\
-Definition: Gezeiten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Tidal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est à *marée* haute qu'il faut venir.
-  Man muss bei *Flut* kommen.
+  You have to come at high tide.
 
   Les horaires des *marées* sont affichés au port.
-  Die *Gezeiten*zeiten sind im Hafen ausgehängt.
+  The tides are suspended in the port.
 
   La lune influence les *marées* sur terre.
-  Der Mond beeinflusst die *Gezeiten* auf der Erde.
+  The moon influences the tides on Earth.
 
   Nous ne pouvons traverser qu'à *marée* basse.
-  Wir können nur bei *Ebbe* überqueren.
+  We can only cross at *low tide*.
 
   Une *marée* noire menace les côtes bretonnes.
-  Eine Öl*flut* bedroht die bretonische Küste.
+  An oil *flood* threatens the Breton coast.
 
   La *marée* montante arrive plus vite qu'on ne le pense.
-  Die steigende *Flut* kommt schneller als man denkt.
+  The rising tide comes faster than you think.
 
   Le coefficient de *marée* est particulièrement élevé aujourd'hui.
-  Der *Gezeiten*koeffizient ist heute besonders hoch.
+  The *tidal* coefficient is particularly high today.
 
   Les grandes *marées* d'équinoxe attirent toujours les touristes.
-  Die Spring*fluten* zur Tag-und-Nacht-Gleiche ziehen immer Touristen an.
+  The spring tides to the day-and-night-like always attract tourists.
 
   Ce port à *marée* n'est accessible qu'à certaines heures.
-  Dieser *Gezeiten*hafen ist nur zu bestimmten Zeiten zugänglich.
+  This *tidal* port is only accessible at certain times.
 
   Une *marée* humaine envahissait les rues pendant le carnaval.
-  Eine Menschen*flut* strömte während des Karnevals durch die Straßen.
+  A *flood* of people flowed through the streets during the carnival.
 
   Il continue son projet *contre vents et marées*.
-  Er verfolgt sein Projekt *gegen alle Widerstände*.
+  He's following his project against all resistance.
 
   Le moulin à *marée* est un vestige du patrimoine maritime.
-  Die *Gezeiten*mühle ist ein Überbleibsel des maritimen Erbes.
+  The *tidal* mill is a remnant of the maritime heritage.
 
   La *marée* descendante a laissé des coquillages sur la plage.
-  Die ablaufende *Flut* hat Muscheln am Strand hinterlassen.
+  The running tide left shells on the beach.
 
   Le marchand de *marée* ouvre très tôt le matin.
-  Der Frisch*fisch*händler öffnet sehr früh am Morgen.
+  The fresh *fish* dealer opens very early in the morning.
 
   Cette *marée* est arrivée *comme marée en carême*.
-  Diese *Lieferung* kam *genau zum richtigen Zeitpunkt*.
+  This *delivery* came at just the right time.
 
   Le pêcheur est parti pour une *marée* de trois semaines.
-  Der Fischer ist zu einem dreiwöchigen *Fangzug* aufgebrochen.
+  The fisherman has left for a three-week *fishing train*.
 
   La *marée* du siècle est prévue pour demain.
-  Die Jahrhundert*flut* wird für morgen erwartet.
+  The *flood* of the century is expected for tomorrow.
 
   Les enfants jouent dans les flaques à *marée* basse.
-  Die Kinder spielen bei *Ebbe* in den Pfützen.
+  The children play at *low tide* in the puddles.
 
   Le train de *marée* arrive directement de Boulogne.
-  Der Frisch*fisch*zug kommt direkt aus Boulogne.
+  The fresh *fish* train comes directly from Boulogne.
 
   La *marée* montante du chômage inquiète les économistes.
-  Die steigende *Flut* der Arbeitslosigkeit beunruhigt die Ökonomen.
+  The rising tide of unemployment worries economists.
 
   Les tables de *marées* sont indispensables aux navigateurs.
-  Die *Gezeiten*tafeln sind für Seefahrer unentbehrlich.
+  The *tidal* tables are indispensable for seafarers.
 
   Le bassin à *marée* se remplit progressivement.
-  Das *Gezeiten*becken füllt sich allmählich.
+  The *tidal* basin is gradually filling.
 
   L'annuaire des *marées* indique les coefficients journaliers.
-  Der *Gezeiten*kalender zeigt die täglichen Koeffizienten an.
+  The *tidal* calendar shows the daily coefficients.
 
   Une *marée* exceptionnelle est attendue ce week-end.
-  Eine außergewöhnliche Spring*flut* wird dieses Wochenende erwartet.
+  An extraordinary spring tide is expected this weekend.
 
   La *marée* est à huit heures ce soir.
-  Die *Flut* ist heute Abend um acht.
+  The tide's at eight tonight.
 
   Les bateaux attendent la *marée* pour sortir du port.
-  Die Boote warten auf die *Flut*, um aus dem Hafen auszulaufen.
+  The boats are waiting for the *flood* to leave the port.
 
   Le fleuve sans *marée* garde toujours le même niveau.
-  Der *gezeiten*freie Fluss behält immer denselben Wasserstand.
+  The tide-free river always keeps the same water level.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

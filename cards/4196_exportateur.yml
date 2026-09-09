@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4196
 Wort: exportateur
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un exportateur
 Femininum / Plural: exportatrice
 IPA: \ɛk.spɔʁ.ta.tœʁ\
-Definition: Exporteur
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Exporter
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tous les pays *exportateurs* profitent de la situation.
-  Alle *Export*länder profitieren von der Situation.
+  All exporting countries benefit from the situation.
 
   L'Australie est devenue le plus grand pays *exportateur* de vin dans l'hémisphère sud.
-  Australien ist zum größten Wein*export*land der südlichen Hemisphäre geworden.
+  Australia has become the largest wine export country in the southern hemisphere.
 
   Cette société *exportatrice* a doublé son chiffre d'affaires l'année dernière.
-  Dieses *Export*unternehmen hat seinen Umsatz im letzten Jahr verdoppelt.
+  This export company has doubled its sales last year.
 
   Marie travaille comme *exportatrice* de fruits et légumes biologiques.
-  Marie arbeitet als *Exporteurin* für Bio-Obst und -Gemüse.
+  Marie works as an *exporter* of organic fruit and vegetables.
 
   Le Brésil reste le principal *exportateur* de café au monde.
-  Brasilien bleibt der wichtigste Kaffee*exporteur* der Welt.
+  Brazil remains the world's most important coffee *exporter*.
 
   Notre entreprise recherche un(e) *exportateur*/*exportatrice* expérimenté(e).
-  Unser Unternehmen sucht eine(n) erfahrene(n) *Exporteur*/*Exporteurin*.
+  Our company is looking for an experienced *exporter*.
 
   Les pays *exportateurs* de pétrole ont décidé de réduire leur production.
-  Die Erdöl*export*länder haben beschlossen, ihre Produktion zu reduzieren.
+  The oil-exporting countries have decided to reduce their production.
 
   Marc est devenu un *exportateur* de voitures de luxe très respecté.
-  Marc ist ein sehr angesehener Luxusauto*exporteur* geworden.
+  Marc has become a very respected luxury car *exporter*.
 
   Cette région est historiquement *exportatrice* de fromages traditionnels.
-  Diese Region ist traditionell *export*stark im Bereich Käse.
+  This region is traditionally highly export-oriented in the cheese sector.
 
   Le Canada est un pays *exportateur* de blé depuis plus d'un siècle.
-  Kanada ist seit über einem Jahrhundert ein Getreide*export*land.
+  Canada has been a cereal export country for over a century.
 
   L'industrie *exportatrice* chinoise continue de se développer rapidement.
-  Die chinesische *Export*industrie entwickelt sich weiterhin schnell.
+  The Chinese export industry continues to develop rapidly.
 
   Notre secteur *exportateur* a connu une forte croissance cette année.
-  Unser *export*intensiver Sektor hat dieses Jahr ein starkes Wachstum verzeichnet.
+  Our export-intensive sector has experienced strong growth this year.
 
   L'entreprise *exportatrice* a dû s'adapter aux nouvelles réglementations.
-  Das *Export*unternehmen musste sich an die neuen Vorschriften anpassen.
+  The export company had to adapt to the new rules.
 
   Les petits *exportateurs* ont du mal à concurrencer les grandes entreprises.
-  Die kleinen *Exporteure* haben Schwierigkeiten, mit den großen Unternehmen zu konkurrieren.
+  Small *exporters* have difficulty competing with large companies.
 
   La Nouvelle-Zélande est un important pays *exportateur* de produits laitiers.
-  Neuseeland ist ein wichtiges *Export*land für Milchprodukte.
+  New Zealand is an important export country for dairy products.
 
   Notre coopérative *exportatrice* de miel a reçu plusieurs prix internationaux.
-  Unsere Honig*export*genossenschaft hat mehrere internationale Preise erhalten.
+  Our honey export cooperative has received several international prizes.
 
   La société *exportatrice* a ouvert de nouveaux marchés en Asie.
-  Das *Export*unternehmen hat neue Märkte in Asien erschlossen.
+  The export company has opened up new markets in Asia.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

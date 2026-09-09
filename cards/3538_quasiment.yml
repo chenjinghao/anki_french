@@ -1,80 +1,80 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3538
 Wort: quasiment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quasiment
 Femininum / Plural: ''
 IPA: \ka.zi.mɑ̃\
-Definition: fast, praktisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Almost, practically
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a *quasiment* tout gagné.
-  Er hat *fast* alles gewonnen.
+  He won *almost* everything.
 
   "Je suis *quasiment* sûr que c'est la bonne réponse."
-  "Ich bin mir *fast* sicher, dass das die richtige Antwort ist."
+  "I'm *almost* sure that's the right answer."
 
   La salle était *quasiment* vide ce soir-là.
-  Der Saal war an diesem Abend *beinahe* leer.
+  The hall was almost empty that night.
 
   Elle a *quasiment* terminé ses études.
-  Sie hat ihr Studium *fast* beendet.
+  She *almost* finished her studies.
 
   "J'ai *quasiment* fini mon travail."
-  "Ich bin mit meiner Arbeit *fast* fertig."
+  "I'm *almost* done with my work."
 
   Le projet est *quasiment* terminé.
-  Das Projekt ist *beinahe* abgeschlossen.
+  The project is almost complete.
 
   Il ne sort *quasiment* plus depuis son accident.
-  Er geht seit seinem Unfall *fast gar* nicht mehr aus.
+  He hasn't been running out since his accident.
 
   – "Es-tu prêt ?"<br>– "*Quasiment*."
-  – "Bist du fertig?"<br>– "*Fast*."
+  - "Are you done?" - "*Almost*."
 
   La bouteille est *quasiment* vide.
-  Die Flasche ist *beinahe* leer.
+  The bottle is almost empty.
 
   On a *quasiment* atteint notre objectif.
-  Wir haben unser Ziel *fast* erreicht.
+  We've *almost* reached our goal.
 
   Le restaurant était *quasiment* complet hier soir.
-  Das Restaurant war gestern Abend *fast* voll.
+  The restaurant was *almost* full last night.
 
   Il pleut *quasiment* tous les jours en ce moment.
-  Es regnet momentan *beinahe* jeden Tag.
+  It's raining almost every day right now.
 
   Nous sommes *quasiment* arrivés à destination.
-  Wir sind *fast* am Ziel angekommen.
+  We *almost* got to the finish line.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>presque</i> und <i>quasiment</i></div>
+    <div class="section-title"><i>presque</i> and <i>quasiment</i></div>
     <div class="section-content">
-      <p><span class="fr">Presque</span> (#481) bedeutet <span class="de">"fast"</span> oder <span class="de">"beinahe"</span> und ist der gebräuchlichere und neutralere Ausdruck in der französischen Sprache.</p>
+      <p><span class="fr">Presque</span> (#481) means <span class="de">"fast"</span> or <span class="de">"beinahe"</span> and is the more common and neutral expression in the French language.</p>
       <div class="examples">
         <div class="fr">Il est presque midi.</div>
-        <div class="de spoiler">Es ist fast Mittag.</div>
+        <div class="de spoiler">It's almost noon.</div>
         <div class="fr">J'ai mangé presque tout le gâteau.</div>
-        <div class="de spoiler">Ich habe fast den ganzen Kuchen gegessen.</div>
+        <div class="de spoiler">I ate almost the whole cake.</div>
       </div>
-      <p><span class="fr">Quasiment</span> bedeutet ebenfalls <span class="de">"fast"</span> oder <span class="de">"beinahe"</span>, hat aber oft eine etwas stärkere oder nachdrücklichere Konnotation. Es wird häufiger in informellen Kontexten oder in der gesprochenen Sprache verwendet.</p>
+      <p><span class="fr">Quasiment</span> means ebenfalls <span class="de">"fast"</span> or <span class="de">"beinahe"</span>However, it often has a somewhat stronger or stronger connotation. It is used more often in informal contexts or in the spoken language.</p>
       <div class="examples">
         <div class="fr">Il a quasiment terminé son travail.</div>
-        <div class="de spoiler">Er hat seine Arbeit so gut wie beendet.</div>
+        <div class="de spoiler">He's finished his work.</div>
         <div class="fr">La salle était quasiment vide.</div>
-        <div class="de spoiler">Der Saal war praktisch leer.</div>
+        <div class="de spoiler">The hall was practically empty.</div>
       </div>
-      <p>Beide Adverbien können in vielen Kontexten austauschbar verwendet werden, wobei <span class="fr">presque</span> etwas formeller und <span class="fr">quasiment</span> etwas umgangssprachlicher wirkt.</p>
+      <p>Both adverbs can be used interchangeably in many contexts, whereby <span class="fr">presque</span> a little more formal, and <span class="fr">quasiment</span> It's a little more colloquial.</p>
     </div>
   </div>

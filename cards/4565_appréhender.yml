@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4565
 Wort: appréhender
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: appréhender
 Femininum / Plural: ''
 IPA: \a.pʁe.ɑ̃.de\
-Definition: fassen, festnehmen; Angst haben vor
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: arrest, arrest; be afraid of
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   15.000 clandestins ont été *appréhendés*.
-  15.000 illegale Einwanderer wurden *gefasst*.
+  15,000 illegal immigrants were captured.
 
   La police a *appréhendé* le suspect à la gare.
-  Die Polizei hat den Verdächtigen am Bahnhof *festgenommen*.
+  The police *arrested* the suspect at the station.
 
   J'*appréhende* les examens finaux depuis des semaines.
-  Ich habe seit Wochen *Angst* vor den Abschlussprüfungen.
+  I've been afraid of the final exams for weeks.
 
   Il faut du temps pour *appréhender* la complexité de la situation.
-  Es braucht Zeit, um die Komplexität der Situation zu *erfassen*.
+  It takes time to grasp the complexity of the situation.
 
   Les enfants *appréhendent* souvent leur premier jour d'école.
-  Kinder haben oft *Angst* vor ihrem ersten Schultag.
+  Children are often afraid of their first day at school.
 
   Le cambrioleur s'est laissé *appréhender* sans résistance.
-  Der Einbrecher ließ sich ohne Widerstand *festnehmen*.
+  The burglar was arrested without any resistance.
 
   Marie *appréhende* de prendre l'avion pour la première fois.
-  Marie hat *Angst* davor, zum ersten Mal zu fliegen.
+  Marie is afraid to fly for the first time.
 
   J'*appréhende* que mes parents ne soient pas contents de mes notes.
-  Ich *befürchte*, dass meine Eltern mit meinen Noten nicht zufrieden sind.
+  I'm afraid my parents aren't happy with my grades.
 
   Les scientifiques cherchent à mieux *appréhender* ce phénomène naturel.
-  Die Wissenschaftler versuchen, dieses Naturphänomen besser zu *begreifen*.
+  The scientists try to *understand* this natural phenomenon better.
 
   Le voleur a été *appréhendé* en flagrant délit.
-  Der Dieb wurde auf frischer Tat *ertappt*.
+  The thief was *caught* in the act.
 
   Il est difficile d'*appréhender* tous les enjeux de cette décision.
-  Es ist schwierig, alle Konsequenzen dieser Entscheidung zu *erfassen*.
+  It is difficult to grasp all the consequences of this decision.
 
   Les débutants *appréhendent* souvent de parler en public.
-  Anfänger haben oft *Angst* davor, in der Öffentlichkeit zu sprechen.
+  Beginners are often afraid to speak in public.
 
   Le fugitif a été *appréhendé* après trois jours de recherche.
-  Der Flüchtige wurde nach drei Tagen Suche *gefasst*.
+  The fugitive was caught after three days of searching.
 
   J'*appréhende* les conséquences de ce changement climatique.
-  Ich *fürchte* die Folgen dieses Klimawandels.
+  I *fear* the consequences of this climate change.
 
   Les élèves doivent *appréhender* ces concepts mathématiques progressivement.
-  Die Schüler müssen diese mathematischen Konzepte schrittweise *begreifen*.
+  Students must gradually *understand* these mathematical concepts.
 
   Thomas *appréhende* de rencontrer ses beaux-parents pour la première fois.
-  Thomas hat *Angst* davor, seine Schwiegereltern zum ersten Mal zu treffen.
+  Thomas is afraid to meet his parents-in-law for the first time.
 
   La brigade anti-criminalité a *appréhendé* trois suspects hier soir.
-  Die Kriminalpolizei hat gestern Abend drei Verdächtige *festgenommen*.
+  The criminal police *arrested* three suspects last night.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

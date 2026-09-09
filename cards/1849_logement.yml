@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1849
 Wort: logement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le logement
 Femininum / Plural: ''
 IPA: \lɔ.ʒə.mɑ̃\
-Definition: Unterkunft
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Accommodation
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont trouvé un *logement* et fait venir leur famille.
-  Sie haben eine *Wohnung* gefunden und ihre Familie nachgeholt.
+  They found an apartment and got their family back.
 
   J'ai visité un *logement* de deux pièces hier après-midi.
-  Ich habe gestern Nachmittag eine Zweizimmer*wohnung* besichtigt.
+  I visited a two-room *apartment* yesterday afternoon.
 
   Le directeur a droit à un *logement* de fonction dans l'école.
-  Der Direktor hat Anspruch auf eine Dienst*wohnung* in der Schule.
+  The director is entitled to a service home at school.
 
   Après l'incendie, on leur a fourni un *logement* provisoire.
-  Nach dem Brand hat man ihnen eine Not*unterkunft* zur Verfügung gestellt.
+  After the fire, they were provided with an emergency shelter.
 
   La ville doit assurer le *logement* des réfugiés.
-  Die Stadt muss die *Unterbringung* der Flüchtlinge sicherstellen.
+  The city must ensure the *accommodation* of the refugees.
 
   Les soldats ont reçu leur billet de *logement* pour la nuit.
-  Die Soldaten haben ihre *Einquartierungs*scheine für die Nacht erhalten.
+  The soldiers have received their overnight lodging permits.
 
   La *crise du logement* touche surtout les jeunes.
-  Die *Wohnungs*krise trifft vor allem junge Menschen.
+  The *housing* crisis is particularly affecting young people.
 
   Le gouvernement a annoncé une nouvelle politique du *logement*.
-  Die Regierung hat eine neue *Wohnungs*politik angekündigt.
+  The government has announced a new *housing* policy.
 
   Le *logement* du pêne de cette serrure est usé.
-  Das *Gehäuse* des Riegels dieses Schlosses ist abgenutzt.
+  The casing of the lock is worn out.
 
   Il faut remplacer le *logement* des billes du vélo.
-  Das Kugel*lager* des Fahrrads muss ersetzt werden.
+  The ball bearing of the bicycle must be replaced.
 
   Ce *logement* social est réservé aux familles nombreuses.
-  Diese Sozial*wohnung* ist für kinderreiche Familien reserviert.
+  This social *apartment* is reserved for families with children.
 
   Les prix des *logements* ont doublé en dix ans.
-  Die *Wohnungs*preise haben sich in zehn Jahren verdoppelt.
+  *Housing* prices doubled in ten years.
 
   Notre *logement* est situé au dernier étage.
-  Unsere *Wohnung* befindet sich im obersten Stock.
+  Our apartment is on the top floor.
 
   Le marché du *logement* est très tendu dans cette ville.
-  Der *Wohnungs*markt ist in dieser Stadt sehr angespannt.
+  The *housing* market is very tense in this city.
 
   Ils cherchent un *logement* plus spacieux pour l'année prochaine.
-  Sie suchen für nächstes Jahr eine geräumigere *Wohnung*.
+  They're looking for a more spacious apartment next year.
 
   L'indemnité de *logement* couvre à peine le loyer.
-  Das *Wohnungs*geld deckt kaum die Miete.
+  The flat money barely covers the rent.
 
   Le *logement* étudiant devient de plus en plus cher.
-  Studenten*wohnungen* werden immer teurer.
+  Student apartments are getting more expensive.
 
   L'association aide les sans-abri à trouver un *logement*.
-  Der Verein hilft Obdachlosen, eine *Unterkunft* zu finden.
+  The association helps homeless people to find *accommodation*.
 
   Ce *logement* insalubre doit être rénové.
-  Diese baufällige *Wohnung* muss renoviert werden.
+  This dilapidated apartment has to be renovated.
 
   Il a aménagé un petit *logement* sous les combles.
-  Er hat eine kleine *Wohnung* unter dem Dach eingerichtet.
+  He's set up a small apartment under the roof.
 
   Le *logement* du ressort est endommagé.
-  Das Feder*lager* ist beschädigt.
+  The spring bearing is damaged.
 
   La carte graphique occupe deux *logements* sur la carte mère.
-  Die Grafikkarte belegt zwei *Steckplätze* auf dem Motherboard.
+  The graphics card occupies two *slots* on the motherboard.
 
   Le ministère du *Logement* a présenté son nouveau plan.
-  Das *Wohnungs*ministerium hat seinen neuen Plan vorgestellt.
+  The Department of *Housing* has presented its new plan.
 
   Nous devons améliorer les conditions de *logement* des étudiants.
-  Wir müssen die *Wohn*verhältnisse der Studenten verbessern.
+  We need to improve student *housing*.
 
   Mon *logement* dispose d'une belle vue sur le parc.
-  Meine *Wohnung* hat einen schönen Blick auf den Park.
+  My apartment has a beautiful view of the park.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

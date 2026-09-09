@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2602
 Wort: football
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le football
 Femininum / Plural: ''
 IPA: \fut.bol\
-Definition: Fußball
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Football
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai beaucoup joué au *football*.
-  Ich habe viel *Fußball* gespielt.
+  I've played a lot of *football*.
 
   Le *football* professionnel exige beaucoup d'entraînement et de discipline.
-  Der Profi*fußball* erfordert viel Training und Disziplin.
+  Professional *football* requires a lot of training and discipline.
 
   Mon frère s'entraîne au *football* en salle tous les mercredis.
-  Mein Bruder trainiert jeden Mittwoch Hallen*fußball*.
+  My brother trains indoor *football* every Wednesday.
 
   Notre club de *football* local a remporté le championnat régional.
-  Unser lokaler *Fußball*verein hat die Regionalmeisterschaft gewonnen.
+  Our local *football* club won the regional championship.
 
   Le *football* américain est très populaire aux États-Unis.
-  American *Football* ist in den USA sehr beliebt.
+  American *football* is very popular in the US.
 
   Le terrain de *football* était complètement boueux après la pluie.
-  Der *Fußball*platz war nach dem Regen völlig verschlammt.
+  The *football* pitch was completely muddy after the rain.
 
   La finale de la Coupe du monde de *football* aura lieu dimanche prochain.
-  Das *Fußball*-Weltmeisterschaftsfinale findet nächsten Sonntag statt.
+  The World Cup final will take place next Sunday.
 
   Les règles du *football* interdisent de toucher le ballon avec les mains.
-  Die *Fußball*regeln verbieten es, den Ball mit den Händen zu berühren.
+  The *football* rules forbid touching the ball with your hands.
 
   Elle rêve de devenir une star du *football* professionnel.
-  Sie träumt davon, ein Profi*fußball*star zu werden.
+  She dreams of becoming a professional *football* star.
 
   Les enfants jouent au *football* dans la cour de récréation.
-  Die Kinder spielen auf dem Schulhof *Fußball*.
+  The children play *football* at the schoolyard.
 
   Le *football* amateur permet à tout le monde de pratiquer ce sport.
-  Amateur*fußball* ermöglicht es jedem, diesen Sport auszuüben.
+  Amateur *football* allows everyone to practice this sport.
 
   Mon oncle m'emmène voir un match de *football* ce week-end.
-  Mein Onkel nimmt mich dieses Wochenende zu einem *Fußball*spiel mit.
+  My uncle's taking me to a *football* match this weekend.
 
   L'équipe nationale de *football* s'est qualifiée pour le tournoi.
-  Die nationale *Fußball*mannschaft hat sich für das Turnier qualifiziert.
+  The national *football* team has qualified for the tournament.
 
   "Tu regardes le match de *football* ce soir ?"
-  "Schaust du dir heute Abend das *Fußball*spiel an?"
+  "Are you going to watch the *football* game tonight?"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

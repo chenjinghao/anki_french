@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1901
 Wort: statistique
 Wortart: adj, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la statistique
 Femininum / Plural: ''
 IPA: \sta.tis.tik\
-Definition: Statistik
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Statistics
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis tombé sur une *statistique* très intéressante.
-  Ich bin auf eine interessante *Statistik* gestoßen.
+  I've come across interesting *statistics*.
 
   Les *statistiques* montrent une augmentation du nombre de lecteurs.
-  Die *Statistiken* zeigen einen Anstieg der Leserzahlen.
+  The *statistics* show an increase in the number of readers.
 
   L'analyse *statistique* des données prend beaucoup de temps.
-  Die *statistische* Datenanalyse nimmt viel Zeit in Anspruch.
+  *Statistical* data analysis takes a lot of time.
 
   Elle travaille à l'Institut national de la *statistique*.
-  Sie arbeitet beim nationalen *Statistik*-Institut.
+  She works at the National Statistical Institute.
 
   Le professeur nous a appris les méthodes *statistiques* de base.
-  Der Professor hat uns die grundlegenden *statistischen* Methoden beigebracht.
+  The professor taught us the basic *statistical* methods.
 
   Les *statistiques* de chômage ont baissé ce mois-ci.
-  Die Arbeitslosen*statistiken* sind diesen Monat gesunken.
+  Unemployment *statistics* have fallen this month.
 
   Il faut interpréter ces *statistiques* avec prudence.
-  Diese *Statistiken* müssen mit Vorsicht interpretiert werden.
+  These *statistics* must be interpreted with caution.
 
   La *statistique* lexicale aide à comprendre l'évolution de la langue.
-  Die Wort*statistik* hilft, die Entwicklung der Sprache zu verstehen.
+  Word *statistics* help to understand the development of language.
 
   Les étudiants devront faire une étude *statistique* sur ce phénomène.
-  Die Studenten werden eine *statistische* Studie zu diesem Phänomen durchführen müssen.
+  The students will have to carry out a *statistical* study on this phenomenon.
 
   "On peut manipuler les *statistiques* comme on veut !"
-  "Man kann *Statistiken* so drehen, wie man will!"
+  "You can turn *statistics* as you want!"
 
   Selon les *statistiques*, la population mondiale continue d'augmenter.
-  Laut *Statistiken* wächst die Weltbevölkerung weiter.
+  According to *statistics*, the world's population continues to grow.
 
   La *statistique* est devenue un outil indispensable en recherche.
-  Die *Statistik* ist zu einem unverzichtbaren Forschungswerkzeug geworden.
+  *Statistics* have become an indispensable research tool.
 
   Ces résultats ne sont pas *statistiquement* significatifs.
-  Diese Ergebnisse sind nicht *statistisch* signifikant.
+  These results are not statistically significant.
 
   Les *statistiques* de vente du dernier trimestre sont encourageantes.
-  Die Verkaufs*statistiken* des letzten Quartals sind ermutigend.
+  Sales *statistics* for the last quarter are encouraging.
 
   Notre équipe compile des *statistiques* sur les habitudes alimentaires.
-  Unser Team erstellt *Statistiken* über Ernährungsgewohnheiten.
+  Our team compiles *statistics* on eating habits.
 
   La mécanique *statistique* est une branche fascinante de la physique.
-  Die *statistische* Mechanik ist ein faszinierender Zweig der Physik.
+  *Statistical* mechanics is a fascinating branch of physics.
 
   Les *statistiques* démographiques révèlent des changements sociaux importants.
-  Die demografischen *Statistiken* zeigen wichtige gesellschaftliche Veränderungen.
+  Demographic *statistics* show important societal changes.
 
   Il a utilisé des méthodes *statistiques* avancées pour son analyse.
-  Er hat fortgeschrittene *statistische* Methoden für seine Analyse verwendet.
+  He used advanced *statistical* methods for his analysis.
 
   Nous devons présenter ces *statistiques* lors de la prochaine réunion.
-  Wir müssen diese *Statistiken* bei der nächsten Sitzung vorstellen.
+  We must present these *statistics* at the next meeting.
 
   La *statistique* peut nous aider à prendre de meilleures décisions.
-  Die *Statistik* kann uns helfen, bessere Entscheidungen zu treffen.
+  *Statistics* can help us make better decisions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

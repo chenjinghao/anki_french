@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3591
 Wort: approprié
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: approprié
 Femininum / Plural: appropriée
 IPA: \a.pʁɔ.pʁi.je\
-Definition: passend, geeignet
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: suitable, suitable
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faudra prendre des mesures *appropriées*.
-  Man wird *geeignete* Maßnahmen ergreifen müssen.
+  *Appropriate* measures will have to be taken.
 
   Je cherche le style *approprié* pour écrire cette lettre de motivation.
-  Ich suche den *passenden* Stil für dieses Bewerbungsschreiben.
+  I'm looking for the right style for this application letter.
 
   Cette réponse n'est pas du tout *appropriée* à la situation.
-  Diese Antwort ist für die Situation überhaupt nicht *angemessen*.
+  This answer is not at all *appropriate* for the situation.
 
   Le traitement doit être *approprié* à chaque patient.
-  Die Behandlung muss auf jeden Patienten *abgestimmt* sein.
+  Treatment must be tailored to each patient.
 
   Nous devons utiliser la méthode *appropriée* pour résoudre ce problème.
-  Wir müssen die *geeignete* Methode verwenden, um dieses Problem zu lösen.
+  We must use the *appropriate* method to solve this problem.
 
   Son discours était parfaitement *approprié* aux circonstances.
-  Seine Rede war den Umständen vollkommen *angemessen*.
+  His speech was perfectly *appropriate* to the circumstances.
 
   Les vêtements doivent être *appropriés* au lieu de travail.
-  Die Kleidung muss dem Arbeitsplatz *angemessen* sein.
+  The clothing must be *appropriate* to the workplace.
 
   Cette solution n'est pas *appropriée* à nos besoins.
-  Diese Lösung ist für unsere Bedürfnisse nicht *geeignet*.
+  This solution is not *suitable* for our needs.
 
   Le niveau de difficulté est parfaitement *approprié* pour des débutants.
-  Der Schwierigkeitsgrad ist für Anfänger absolut *passend*.
+  The difficulty level is absolutely *suitable* for beginners.
 
   Les experts ont choisi l'équipement le plus *approprié* pour l'expédition.
-  Die Experten haben die für die Expedition am besten *geeignete* Ausrüstung gewählt.
+  The experts have chosen the most suitable equipment for the expedition.
 
   Le conseil d'administration n'a pas pris les décisions *appropriées*.
-  Der Vorstand hat nicht die *angemessenen* Entscheidungen getroffen.
+  The board did not make the *appropriate* decisions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>adéquat</i>, <i>approprié</i> und <i>convenable</i></div>
+    <div class="section-title"><i>adéquat</i>, <i>approprié</i> and <i>convenable</i></div>
     <div class="section-content">
-      <p><span class="fr">Adéquat</span> (#3525) bedeutet <span class="de">"angemessen"</span> oder <span class="de">"entsprechend"</span> und bezieht sich auf etwas, das genau den Anforderungen oder dem Zweck entspricht. Es betont die präzise Übereinstimmung.</p>
+      <p><span class="fr">Adéquat</span> (#3525) means <span class="de">"angemessen"</span> or <span class="de">"entsprechend"</span> and refers to something that exactly meets the requirements or purpose. It emphasizes the precise conformity.</p>
       <div class="examples">
         <div class="fr">Cette solution n'est pas adéquate pour résoudre le problème.</div>
-        <div class="de spoiler">Diese Lösung ist nicht angemessen, um das Problem zu lösen.</div>
+        <div class="de spoiler">This solution is not appropriate to solve the problem.</div>
         <div class="fr">Il faut trouver un financement adéquat pour ce projet.</div>
-        <div class="de spoiler">Man muss eine angemessene Finanzierung für dieses Projekt finden.</div>
+        <div class="de spoiler">It is important to find adequate funding for this project.</div>
       </div>
-      <p><span class="fr">Approprié</span> bedeutet <span class="de">"passend"</span> oder <span class="de">"geeignet"</span> und bezeichnet etwas, das für eine bestimmte Situation oder einen bestimmten Kontext richtig gewählt ist.</p>
+      <p><span class="fr">Approprié</span> means <span class="de">"passend"</span> or <span class="de">"geeignet"</span> and denotes something that is correctly chosen for a particular situation or context.</p>
       <div class="examples">
         <div class="fr">Ce cadeau est très approprié pour l'occasion.</div>
-        <div class="de spoiler">Dieses Geschenk ist sehr passend für den Anlass.</div>
+        <div class="de spoiler">This gift is very suitable for the occasion.</div>
         <div class="fr">Il a choisi des mots appropriés pour s'excuser.</div>
-        <div class="de spoiler">Er wählte passende Worte für seine Entschuldigung.</div>
+        <div class="de spoiler">He chose appropriate words for his apology.</div>
       </div>
     </div>
   </div>

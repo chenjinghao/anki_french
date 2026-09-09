@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4742
 Wort: démographique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: démographique
 Femininum / Plural: ''
 IPA: \de.mɔ.ɡʁa.fik\
-Definition: demographisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: demographic
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous vivons en une époque d'évolution *démographique*.
-  Wir leben in einer Zeit des *demografischen* Wandels.
+  We live in a time of *demographic* change.
 
   Les données *démographiques* montrent que la population vieillit.
-  Die *demografischen* Daten zeigen, dass die Bevölkerung altert.
+  *Demographic* data show that the population is ageing.
 
   L'explosion *démographique* en Asie pose de nouveaux défis.
-  Die *Bevölkerungs*explosion in Asien stellt neue Herausforderungen dar.
+  The *population* explosion in Asia presents new challenges.
 
   Cette région connaît actuellement une forte croissance *démographique*.
-  Diese Region erlebt derzeit ein starkes *Bevölkerungs*wachstum.
+  This region is currently experiencing strong *population* growth.
 
   Le bilan *démographique* de l'année dernière était inquiétant.
-  Die *demografische* Bilanz des letzten Jahres war besorgniserregend.
+  Last year's *demographic* record was worrying.
 
   Les chercheurs ont publié une nouvelle étude *démographique*.
-  Die Forscher haben eine neue *demografische* Studie veröffentlicht.
+  The researchers have published a new *demographic* study.
 
   La courbe *démographique* montre une tendance à la baisse.
-  Die *demografische* Kurve zeigt einen Abwärtstrend.
+  The *demographic* curve shows a downward trend.
 
   Les changements *démographiques* affectent notre système de retraite.
-  Die *demografischen* Veränderungen beeinflussen unser Rentensystem.
+  *Demographic* changes affect our pension system.
 
   Cette poussée *démographique* n'était pas prévue par les experts.
-  Dieser *Bevölkerungs*zuwachs war von den Experten nicht vorhergesehen worden.
+  The experts did not foresee this increase in *population*.
 
   L'institut lance une nouvelle recherche *démographique*.
-  Das Institut startet eine neue *demografische* Forschung.
+  The institute is launching a new *demographic* research.
 
   L'analyse *démographique* révèle des disparités régionales importantes.
-  Die *demografische* Analyse zeigt wichtige regionale Unterschiede auf.
+  The *demographic* analysis shows important regional differences.
 
   Le développement *démographique* varie selon les continents.
-  Die *demografische* Entwicklung unterscheidet sich je nach Kontinent.
+  *Demographic* trends vary according to continent.
 
   Les statistiques *démographiques* seront publiées demain.
-  Die *demografischen* Statistiken werden morgen veröffentlicht.
+  *Demographic* statistics will be published tomorrow.
 
   La transition *démographique* s'accélère dans les pays émergents.
-  Der *demografische* Übergang beschleunigt sich in den Schwellenländern.
+  The *demographic* transition is accelerating in emerging economies.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3842
 Wort: amende
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une amende
 Femininum / Plural: ''
 IPA: \a.mɑ̃d\
-Definition: Bußgeld, Strafe
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Penalty, penalty
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il devra payer l'*amende*.
-  Er wird die *Strafe* zahlen müssen.
+  He'll have to pay the *penalty*.
 
   Le juge a fixé l'*amende* à mille euros.
-  Der Richter hat die *Geldstrafe* auf tausend Euro festgesetzt.
+  The judge has set the *fine* at a thousand euros.
 
   Cette infraction est sanctionnée par une *amende* de 50 euros.
-  Dieser Verstoß wird mit einem *Bußgeld* von 50 Euro geahndet.
+  This infringement is punishable by a fine of 50 euros.
 
   L'*amende* pour stationnement interdit a été augmentée.
-  Die *Geldbuße* für Falschparken wurde erhöht.
+  The *fine* for false parking has been increased.
 
   "Tu seras à l'*amende* si tu arrives encore en retard !"
-  "Du bekommst eine *Strafe*, wenn du noch mal zu spät kommst!"
+  "You'll get a *penalty* if you're late again!"
 
   Elle a dû faire *amende honorable* devant toute l'équipe.
-  Sie musste vor dem ganzen Team *Abbitte* leisten.
+  She had to make a *request* in front of the whole team.
 
   Les *amendes* routières peuvent être payées en ligne.
-  Die Verkehrs*bußgelder* können online bezahlt werden.
+  Traffic *fines* can be paid online.
 
   La société risque une *amende* record pour pollution.
-  Dem Unternehmen droht eine Rekord*geldstrafe* wegen Umweltverschmutzung.
+  The company is facing a record *fine* for pollution.
 
   Le policier m'a mis à l'*amende* pour excès de vitesse.
-  Der Polizist hat mir ein *Bußgeld* wegen zu schnellen Fahrens auferlegt.
+  The policeman imposed a fine on me for driving too fast.
 
   Après avoir fait *amende honorable*, il a été pardonné.
-  Nachdem er *seine Schuld* eingestanden hatte, wurde ihm vergeben.
+  After he confessed *his guilt*, he was forgiven.
 
   Les *amendes* peuvent être majorées en cas de récidive.
-  Die *Geldbußen* können bei Wiederholungstaten erhöht werden.
+  The *fines* may be increased in the case of repetition.
 
   J'ai reçu une *amende* pour avoir garé ma voiture ici.
-  Ich habe ein *Bußgeld* bekommen, weil ich mein Auto hier geparkt habe.
+  I got a fine because I parked my car here.
 
   Une *amende* forfaitaire lui a été envoyée par la poste.
-  Ein pauschales *Bußgeld* wurde ihm per Post zugestellt.
+  A flat-rate fine was sent to him by post.
 
   Il a été condamné à une lourde *amende*.
-  Er wurde zu einer hohen *Geldstrafe* verurteilt.
+  He was sentenced to a high *fine*.
 
   Le montant de l'*amende* dépend de la gravité de l'infraction.
-  Die Höhe des *Bußgelds* hängt von der Schwere des Verstoßes ab.
+  The amount of the fine depends on the seriousness of the infringement.
 
   Ils ont fait *amende honorable* pour leurs erreurs passées.
-  Sie haben für ihre vergangenen Fehler *Reue* gezeigt.
+  They have shown remorse for their past mistakes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

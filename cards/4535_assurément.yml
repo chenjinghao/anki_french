@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4535
 Wort: assurément
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: assurément
 Femininum / Plural: ''
 IPA: \a.sy.ʁe.mɑ̃\
-Definition: gewiss, zweifelsohne
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Surely,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La thèse se discute, *assurément*.
-  Die These lässt sich *gewiss* diskutieren.
+  The thesis can *certainly* be discussed.
 
   *Assurément*, cette solution ne plaira pas à tout le monde.
-  *Gewiss* wird diese Lösung nicht allen gefallen.
+  *Of course*, this solution will not please everyone.
 
   Il a *assurément* raté son train ce matin.
-  Er hat heute Morgen *zweifellos* seinen Zug verpasst.
+  He certainly missed his train this morning.
 
   Cette méthode est *assurément* la meilleure pour apprendre une langue.
-  Diese Methode ist *zweifelsohne* die beste, um eine Sprache zu lernen.
+  This method is undoubtedly the best to learn a language.
 
   – "Vas-tu venir à la fête ?"<br>– "*Assurément* !"
-  – "Kommst du zur Party?"<br>– "Aber *sicher*!"
+  – "Are you coming to the party?"<br>– "But sure!"
 
   C'est *assurément* un expert dans son domaine, mais il manque parfois d'humilité.
-  Er ist *zweifellos* ein Experte auf seinem Gebiet, aber es fehlt ihm manchmal an Bescheidenheit.
+  He is *undoubtedly* an expert in his field, but sometimes he lacks modesty.
 
   Le candidat marchait *assurément* vers la victoire.
-  Der Kandidat schritt *gewiss* dem Sieg entgegen.
+  The candidate *certainly* stepped up to victory.
 
   *Assurément*, nous devrons modifier notre approche.
-  Wir werden unseren Ansatz *gewiss* ändern müssen.
+  We will *certainly* have to change our approach.
 
   Cette décision aura *assurément* des conséquences importantes.
-  Diese Entscheidung wird *sicherlich* wichtige Folgen haben.
+  This decision will *certainly* have important consequences.
 
   *Assurément non*, je ne peux pas accepter ces conditions.
-  *Keinesfalls* kann ich diese Bedingungen akzeptieren.
+  By no means can I accept these conditions.
 
   Il s'agit *assurément* d'une erreur de jugement.
-  Es handelt sich *zweifellos* um einen Urteilsfehler.
+  This is *undoubtedly* a judgment error.
 
   Le projet avancera *assurément* plus vite avec son aide.
-  Das Projekt wird mit seiner Hilfe *gewiss* schneller vorankommen.
+  The project will *certainly* make progress faster with its help.
 
   *Assurément*, personne ne s'attendait à ce résultat.
-  *Sicherlich* hatte niemand mit diesem Ergebnis gerechnet.
+  *Certainly* no one had expected this result.
 
   Cette exposition sera *assurément* l'événement culturel de l'année.
-  Diese Ausstellung wird *zweifellos* das kulturelle Ereignis des Jahres sein.
+  This exhibition will *undoubtedly* be the cultural event of the year.
 
   Le changement climatique aura *assurément* un impact sur notre avenir.
-  Der Klimawandel wird *sicherlich* Auswirkungen auf unsere Zukunft haben.
+  Climate change will *certainly* have an impact on our future.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

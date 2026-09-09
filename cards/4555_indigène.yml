@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4555
 Wort: indigène
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: indigène
 Femininum / Plural: ''
 IPA: \ɛ̃.di.ʒɛn\
-Definition: einheimisch; Einheimischer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: local; local
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il reste à convaincre les *indigènes* de vendre leurs terres.
-  Die *Einheimischen* müssen noch davon überzeugt werden, ihr Land zu verkaufen.
+  The *locals* still have to be convinced to sell their land.
 
   La population *indigène* de cette région cultive le riz depuis des siècles.
-  Die *einheimische* Bevölkerung dieser Region baut seit Jahrhunderten Reis an.
+  The *local* population of this region has been growing rice for centuries.
 
   Cette plante *indigène* ne pousse que dans les forêts tropicales.
-  Diese *heimische* Pflanze wächst nur in tropischen Wäldern.
+  This native plant grows only in tropical forests.
 
   Les *indigènes* ont transmis leurs connaissances médicinales de génération en génération.
-  Die *Eingeborenen* haben ihr medizinisches Wissen von Generation zu Generation weitergegeben.
+  The *natives* have passed on their medical knowledge from generation to generation.
 
   Cette espèce *indigène* de poisson est menacée par la pollution.
-  Diese *heimische* Fischart ist durch Verschmutzung bedroht.
+  This native fish species is threatened by pollution.
 
   L'artisanat *indigène* attire de nombreux touristes.
-  Das *einheimische* Handwerk zieht viele Touristen an.
+  The *local* crafts attract many tourists.
 
   Les *indigènes* ont leur propre système d'écriture.
-  Die *Einheimischen* haben ihr eigenes Schriftsystem.
+  The *locals* have their own writing system.
 
   Cette danse *indigène* raconte l'histoire de leurs ancêtres.
-  Dieser *einheimische* Tanz erzählt die Geschichte ihrer Vorfahren.
+  This *local* dance tells the story of their ancestors.
 
   Les coutumes *indigènes* sont encore pratiquées aujourd'hui.
-  Die *einheimischen* Bräuche werden heute noch praktiziert.
+  The *local* customs are still practiced today.
 
   Cette langue *indigène* n'est plus parlée que par quelques personnes âgées.
-  Diese *einheimische* Sprache wird nur noch von einigen älteren Menschen gesprochen.
+  This native language is only spoken by some older people.
 
   Les oiseaux *indigènes* migrent vers le sud en hiver.
-  Die *heimischen* Vögel ziehen im Winter nach Süden.
+  The native birds move south in winter.
 
   La communauté *indigène* a élu un nouveau chef.
-  Die *einheimische* Gemeinschaft hat einen neuen Anführer gewählt.
+  The *local* community has chosen a new leader.
 
   Les plantes *indigènes* résistent mieux au climat local.
-  Die *heimischen* Pflanzen widerstehen dem lokalen Klima besser.
+  The native plants resist the local climate better.
 
   Cette musique *indigène* utilise des instruments traditionnels.
-  Diese *einheimische* Musik verwendet traditionelle Instrumente.
+  This *local* music uses traditional instruments.
 
   La médecine *indigène* utilise des herbes locales.
-  Die *einheimische* Medizin verwendet lokale Kräuter.
+  The *local* medicine uses local herbs.
 
   Les religions *indigènes* ont survécu malgré les changements.
-  Die *einheimischen* Religionen haben trotz der Veränderungen überlebt.
+  The native religions survived despite the changes.
 
   La faune *indigène* s'adapte aux changements climatiques.
-  Die *heimische* Tierwelt passt sich dem Klimawandel an.
+  *Domestic* wildlife adapts to climate change.
 
   Ces fruits *indigènes* sont riches en vitamines.
-  Diese *einheimischen* Früchte sind reich an Vitaminen.
+  These native fruits are rich in vitamins.
 
   Les contes *indigènes* fascinent les enfants du monde entier.
-  Die *einheimischen* Geschichten faszinieren Kinder auf der ganzen Welt.
+  The *local* stories fascinate children all over the world.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

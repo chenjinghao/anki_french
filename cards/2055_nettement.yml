@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2055
 Wort: nettement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: nettement
 Femininum / Plural: ''
 IPA: \nɛt.mɑ̃\
-Definition: deutlich, unmissverständlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: clear, unambiguous
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il savait *nettement* ce qu'il devait et voulait faire.
-  Er wusste *genau*, was er tun musste und wollte.
+  He knew *exactly* what to do and wanted to do.
 
   Les contours des montagnes se détachaient *nettement* sur le ciel bleu.
-  Die Bergkonturen hoben sich *scharf* vom blauen Himmel ab.
+  The mountain contours rose sharply from the blue sky.
 
   On voit *nettement* la différence entre les deux versions du document.
-  Man sieht *deutlich* den Unterschied zwischen den beiden Versionen des Dokuments.
+  One clearly sees the difference between the two versions of the document.
 
   Le nouveau traitement a *nettement* amélioré son état de santé.
-  Die neue Behandlung hat seinen Gesundheitszustand *deutlich* verbessert.
+  The new treatment has significantly improved his health.
 
   Les résultats sont *nettement* supérieurs à ceux de l'année dernière.
-  Die Ergebnisse sind *eindeutig* besser als die vom letzten Jahr.
+  The results are *clearly* better than those of last year.
 
   Elle a *nettement* refusé notre proposition.
-  Sie hat unseren Vorschlag *unmissverständlich* abgelehnt.
+  She has unequivocally rejected our proposal.
 
   Je me souviens *nettement* de cette journée d'été.
-  Ich erinnere mich *genau* an diesen Sommertag.
+  I remember *exactly* this summer day.
 
   Le candidat a *nettement* exposé ses idées pendant le débat.
-  Der Kandidat hat seine Ideen während der Debatte *klar* dargelegt.
+  The candidate has made his ideas *clear* during the debate.
 
   Les prix ont *nettement* augmenté ces derniers mois.
-  Die Preise sind in den letzten Monaten *deutlich* gestiegen.
+  Prices have risen significantly in recent months.
 
   Il faut *nettement* séparer les faits des opinions.
-  Man muss Fakten und Meinungen *eindeutig* trennen.
+  You have to *clearly* separate facts and opinions.
 
   La qualité de l'image est *nettement* meilleure avec ce nouveau téléviseur.
-  Die Bildqualität ist mit diesem neuen Fernseher *deutlich* besser.
+  The image quality is much better with this new TV.
 
   Son attitude a *nettement* changé depuis notre dernière rencontre.
-  Seine Haltung hat sich seit unserem letzten Treffen *deutlich* verändert.
+  His attitude has changed significantly since our last meeting.
 
   Les spectateurs pouvaient *nettement* entendre chaque mot du discours.
-  Die Zuschauer konnten jedes Wort der Rede *deutlich* hören.
+  The audience could clearly hear every word of the speech.
 
   Elle s'est *nettement* positionnée contre cette décision.
-  Sie hat *unmissverständlich* Stellung gegen diese Entscheidung bezogen.
+  It has taken a clear position against this decision.
 
   La situation s'est *nettement* améliorée depuis l'année dernière.
-  Die Situation hat sich seit letztem Jahr *deutlich* verbessert.
+  The situation has improved significantly since last year.
 
   On distingue *nettement* les étoiles par cette nuit claire.
-  Man kann die Sterne in dieser klaren Nacht *deutlich* erkennen.
+  One can clearly see the stars during this *clear* night.
 
   Il a *nettement* pris l'avantage dans la dernière partie du match.
-  Er hat im letzten Teil des Spiels *eindeutig* die Oberhand gewonnen.
+  He *clearly* won the upper hand in the last part of the game.
 
   Cette version est *nettement* plus efficace que la précédente.
-  Diese Version ist *deutlich* effizienter als die vorherige.
+  This version is much more efficient than the previous version.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

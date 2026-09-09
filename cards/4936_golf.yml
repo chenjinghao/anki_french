@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4936
 Wort: golf
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le golf
 Femininum / Plural: ''
 IPA: \ˈɡɔlf\
-Definition: Golf [Sport]
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Golf [Sports]
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils jouent au *golf* ensemble.
-  Sie spielen zusammen *Golf*.
+  They play golf together.
 
   Le *golf* demande beaucoup de concentration et de patience.
-  *Golf* erfordert viel Konzentration und Geduld.
+  Golf requires a lot of concentration and patience.
 
   As-tu déjà joué au *golf miniature* avec les enfants ?
-  Hast du schon *Minigolf* mit den Kindern gespielt?
+  Have you played mini golf with the kids yet?
 
   Le terrain de *golf* s'étend sur plus de 70 hectares.
-  Der *Golf*platz erstreckt sich über mehr als 70 Hektar.
+  The golf course covers more than 70 hectares.
 
   Marie s'entraîne au *golf* tous les weekends depuis deux ans.
-  Marie trainiert seit zwei Jahren jedes Wochenende *Golf*.
+  Marie has been training golf every weekend for two years.
 
   Les règles du *golf* peuvent sembler compliquées au début.
-  Die *Golf*regeln können am Anfang kompliziert erscheinen.
+  The golf rules can seem complicated at the beginning.
 
   Il porte une culotte de *golf* très élégante.
-  Er trägt eine elegante *Golf*hose.
+  He wears elegant golf pants.
 
   Nous avons ouvert un nouveau *golf* près du lac.
-  Wir haben einen neuen *Golfplatz* am See eröffnet.
+  We have opened a new *golf course* by the lake.
 
   Le parcours de *golf* est fermé à cause de la pluie.
-  Der *Golf*kurs ist wegen Regen geschlossen.
+  The golf course is closed due to rain.
 
   Sophie est devenue championne de *golf* à seulement 16 ans.
-  Sophie wurde mit nur 16 Jahren *Golf*meisterin.
+  Sophie became a golfer at the age of 16.
 
   Les accidents sur le parcours de *golf* rendent le jeu plus difficile.
-  Die Hindernisse auf dem *Golf*platz machen das Spiel schwieriger.
+  The obstacles on the golf course make the game more difficult.
 
   Le *golf miniature* est parfait pour une sortie en famille.
-  *Minigolf* ist perfekt für einen Familienausflug.
+  Minigolf is perfect for a family trip.
 
   Les clubs de *golf* sont très chers.
-  Die *Golf*schläger sind sehr teuer.
+  The golf clubs are very expensive.
 
   Elle donne des cours de *golf* aux débutants.
-  Sie gibt *Golf*unterricht für Anfänger.
+  She gives golf lessons for beginners.
 
   Je préfère le *golf* à tous les autres sports.
-  Ich bevorzuge *Golf* gegenüber allen anderen Sportarten.
+  I prefer golf over all other sports.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

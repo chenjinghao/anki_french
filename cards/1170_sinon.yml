@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1170
 Wort: sinon
 Wortart: conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sinon
 Femininum / Plural: ''
 IPA: \si.nɔ̃\
-Definition: sonst
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: other
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mais n'anticipons pas, *sinon* nous n'arriverons jamais.
-  Aber greifen wir nicht vor, *sonst* kommen wir nie ans Ziel.
+  But let's not go ahead, or we'll never get to the target.
 
   Il faut partir maintenant, *sinon* nous serons en retard.
-  Wir müssen jetzt los, *sonst* kommen wir zu spät.
+  We have to go now, or we'll be late.
 
   *Sinon* tu perds ton emploi, tu dois respecter les horaires.
-  *Andernfalls* verlierst du deinen Job - du musst dich an die Arbeitszeiten halten.
+  *Otherwise*, you lose your job - you have to stick to the working hours.
 
   Que pouvons-nous faire *sinon* attendre le train suivant ?
-  Was können wir *außer* auf den nächsten Zug warten tun?
+  What can we do *except* wait for the next train?
 
   Je ne lis aucun magazine *sinon* "Paris Match".
-  Ich lese keine Zeitschrift *außer* "Paris Match".
+  I don't read a magazine *except* Paris Match.
 
   Elle ne s'intéresse à rien *sinon* au sport.
-  Sie interessiert sich für nichts *außer* für Sport.
+  She's not interested in anything but sports.
 
   *Sinon* parfait, au moins très bon.
-  *Wenn nicht* perfekt, so doch sehr gut.
+  *If not* perfect, but very good.
 
   C'est un bon élève, *sinon* le meilleur de sa classe.
-  Er ist ein guter Schüler, *wenn nicht* gar der beste seiner Klasse.
+  He's a good student, *if not* the best of his class.
 
   Je ne sais rien de lui, *sinon* qu'il habite à Paris.
-  Ich weiß nichts von ihm, *außer* dass er in Paris wohnt.
+  I don't know anything about him *except* that he lives in Paris.
 
   Range ta chambre, *sinon* pas de dessert !
-  Räum dein Zimmer auf, *sonst* gibt es keinen Nachtisch!
+  Clean up your room or there's no dessert!
 
   Il n'a pas reçu mon message, *sinon* il m'aurait répondu.
-  Er hat meine Nachricht nicht bekommen, *sonst* hätte er mir geantwortet.
+  He didn't get my message or he would have answered me.
 
   Que cherches-tu *sinon* l'amour ?
-  Was suchst du *wenn nicht* die Liebe?
+  What do you want if you don't love?
 
   Je ne vois pas d'autre solution *sinon* de recommencer.
-  Ich sehe keine andere Lösung, *als* von vorn anzufangen.
+  I see no other solution than to start over.
 
   Elle est appréciée *sinon* aimée de tous ses collègues.
-  Sie wird von allen Kollegen geschätzt, *wenn nicht* gar geliebt.
+  It is appreciated by all colleagues, *if not* loved.
 
   *Sinon* moi, qui pourrait t'aider ?
-  Wer *außer* mir könnte dir helfen?
+  Who but me could help you?
 
   Baisse le son, *sinon* les voisins vont se plaindre.
-  Mach die Musik leiser, *sonst* werden sich die Nachbarn beschweren.
+  Turn the music down, or the neighbors will complain.
 
   Je n'ai pas d'autre choix *sinon* d'accepter cette offre.
-  Ich habe keine andere Wahl, *als* dieses Angebot anzunehmen.
+  I have no choice but to accept this offer.
 
   Personne ne comprend ces mathématiques, *sinon* Marie.
-  Niemand versteht diese Mathematik *außer* Marie.
+  No one understands this math *except* Marie.
 
   On le considère, *sinon* comme un génie, du moins comme un grand talent.
-  Man sieht ihn, *wenn nicht* als Genie, so doch als großes Talent.
+  You see him, *if not* as a genius, as a great talent.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

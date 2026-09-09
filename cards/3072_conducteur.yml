@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3072
 Wort: conducteur
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le conducteur
 Femininum / Plural: conductrice
 IPA: \kɔ̃.dyk.tœʁ\
-Definition: Fahrer
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Driver
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *conducteur* a été tué sur le coup.
-  Der *Fahrer* war sofort tot.
+  The *driver* was dead immediately.
 
   Le *conducteur* d'autobus a demandé aux passagers de ne pas fumer.
-  Der Bus*fahrer* hat die Fahrgäste gebeten, nicht zu rauchen.
+  The bus driver asked the passengers not to smoke.
 
   Sophie est une excellente *conductrice*.
-  Sophie ist eine ausgezeichnete *Fahrerin*.
+  Sophie is an excellent *driver*.
 
   Les *conducteurs* doivent respecter la limitation de vitesse.
-  Die *Fahrer* müssen sich an die Geschwindigkeitsbegrenzung halten.
+  Drivers must adhere to the speed limit.
 
   Un *conducteur* de train expérimenté prend sa retraite demain.
-  Ein erfahrener Zug*führer* geht morgen in den Ruhestand.
+  An experienced train leader retires tomorrow.
 
   Le *conducteur* des travaux supervise une équipe de 50 ouvriers.
-  Der Bau*leiter* beaufsichtigt ein Team von 50 Arbeitern.
+  The construction manager oversees a team of 50 workers.
 
   La *conductrice* de taxi connaît tous les raccourcis de la ville.
-  Die Taxi*fahrerin* kennt alle Abkürzungen in der Stadt.
+  The taxi driver knows all the abbreviations in the city.
 
   Pierre est *conducteur* de presse dans une imprimerie locale.
-  Pierre ist Druckmaschinen*führer* in einer örtlichen Druckerei.
+  Pierre is a printing machine leader in a local printing plant.
 
   Le cuivre est un excellent *conducteur* d'électricité.
-  Kupfer ist ein ausgezeichneter *Leiter* für Elektrizität.
+  Copper is an excellent conductor for electricity.
 
   Ces matériaux sont de mauvais *conducteurs* de chaleur.
-  Diese Materialien sind schlechte Wärme*leiter*.
+  These materials are bad heat conductors.
 
   Napoléon était un grand *conducteur* d'hommes.
-  Napoleon war ein großer *Anführer* von Menschen.
+  Napoleon was a great leader of people.
 
   Le *conducteur* du troupeau guidait ses moutons vers les pâturages.
-  Der *Hirte* führte seine Schafe zu den Weiden.
+  The *shepherd* led his sheep to the pastures.
 
   La *conductrice* de la barque nous a fait traverser la rivière.
-  Die *Steuerfrau* hat uns über den Fluss gebracht.
+  The tax lady took us across the river.
 
   Le *conducteur* du tracteur laboure le champ depuis ce matin.
-  Der Traktor*fahrer* pflügt seit heute Morgen das Feld.
+  The tractor driver's been plowing the field since this morning.
 
   Le fil *conducteur* de cette histoire est l'amour fraternel.
-  Der *rote* Faden dieser Geschichte ist die brüderliche Liebe.
+  The thread of this story is brotherly love.
 
   La nouvelle *conductrice* des Ponts et Chaussées inspecte le chantier.
-  Die neue *Leiterin* der Straßenbaubehörde inspiziert die Baustelle.
+  The new *head* of the road construction department inspects the construction site.
 
   Le *conducteur* de la manœuvre coordonne les mouvements du train.
-  Der Rangier*führer* koordiniert die Bewegungen des Zuges.
+  The marshalling leader coordinates the movements of the train.
 
   Cette gaine est faite d'un matériau *conducteur*.
-  Diese Ummantelung besteht aus *leitendem* Material.
+  This casing is made of conductive material.
 
   Le *conducteur* de l'émission détaille le déroulement minute par minute.
-  Das *Drehbuch* der Sendung beschreibt den Ablauf minutengenau.
+  The *screenplay* describes the sequence of minutes exactly.
 
   Le *conducteur* d'orchestre utilise une version simplifiée de la partition.
-  Der Orchester*leiter* verwendet eine vereinfachte Version der Partitur.
+  The orchestra *director* uses a simplified version of the score.
 
   Un bon *conducteur* doit toujours anticiper les dangers.
-  Ein guter *Fahrer* muss Gefahren immer vorausahnen.
+  A good *driver* must always anticipate dangers.
 
   La *conductrice* du camion fait une pause obligatoire.
-  Die Lastwagen*fahrerin* macht eine vorgeschriebene Pause.
+  The truck driver takes a prescribed break.
 
   Les tissus *conducteurs* transportent la sève dans la plante.
-  Das *leitende* Gewebe transportiert den Pflanzensaft.
+  The conductive tissue transports the plant juice.
 
   Le *conducteur* fantôme roulait à contresens sur l'autoroute.
-  Der Geister*fahrer* fuhr auf der Autobahn in die falsche Richtung.
+  The ghost driver went the wrong way on the highway.
 
   Le *conducteur* de la presse rotative vérifie la qualité d'impression.
-  Der Rotations*drucker* überprüft die Druckqualität.
+  The rotary *printer* checks the print quality.
 
   La *conductrice* de travaux organise le planning du chantier.
-  Die Bau*leiterin* organisiert den Zeitplan der Baustelle.
+  The construction manager organizes the schedule of the construction site.
 
   L'aluminium est un bon *conducteur* thermique.
-  Aluminium ist ein guter Wärme*leiter*.
+  Aluminium is a good heat conductor.
 
   Le *conducteur* de la manifestation négocie avec la police.
-  Der *Anführer* der Demonstration verhandelt mit der Polizei.
+  The leader of the demonstration is negotiating with the police.
 
   Les semi-*conducteurs* sont essentiels dans l'électronique moderne.
-  Halb*leiter* sind in der modernen Elektronik unerlässlich.
+  Semiconductors are indispensable in modern electronics.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

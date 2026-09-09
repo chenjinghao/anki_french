@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1366
 Wort: téléphone
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le téléphone
 Femininum / Plural: ''
 IPA: \te.le.fɔn\
-Definition: Telefon
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Telephone
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *téléphones* ne marchent pas.
-  Die *Telefone* funktionieren nicht.
+  The phones don't work.
 
   J'ai oublié mon *téléphone* portable à la maison.
-  Ich habe mein *Handy* zu Hause vergessen.
+  I forgot my phone at home.
 
   Elle passe des heures au *téléphone* avec sa meilleure amie.
-  Sie verbringt stundenlang am *Telefon* mit ihrer besten Freundin.
+  She spends hours on the phone with her best friend.
 
   Le *téléphone* sans fil ne capte plus le signal.
-  Das schnurlose *Telefon* empfängt kein Signal mehr.
+  The wireless phone is no longer receiving signal.
 
   "Par le *téléphone arabe*, les nouvelles se répandent très vite dans le bureau."
-  "Über die *Buschtrommel* verbreiten sich die Neuigkeiten sehr schnell im Büro."
+  "The news spreads very quickly in the office via the *bush drum*."
 
   Mon nouveau *téléphone* satellite fonctionne même dans le désert.
-  Mein neues Satelliten*telefon* funktioniert sogar in der Wüste.
+  My new satellite phone even works in the desert.
 
   As-tu noté son numéro de *téléphone* ?
-  Hast du seine *Telefon*nummer aufgeschrieben?
+  Did you write down his phone number?
 
   Les frais de *téléphone* ont considérablement augmenté ce mois-ci.
-  Die *Telefon*kosten sind diesen Monat erheblich gestiegen.
+  *Telephone* costs have risen considerably this month.
 
   Il y a une cabine *téléphone* au coin de la rue.
-  An der Straßenecke ist eine *Telefon*zelle.
+  There's a phone booth on the street corner.
 
   Le *téléphone* visuel facilite la communication avec les personnes sourdes.
-  Das Bild*telefon* erleichtert die Kommunikation mit gehörlosen Menschen.
+  The picture phone facilitates communication with deaf people.
 
   Tu peux me *donner un coup de téléphone* quand tu arrives ?
-  Kannst du mich *anrufen*, wenn du ankommst?
+  Can you *call* me when you get here?
 
   Sophie *est au téléphone* depuis une heure.
-  Sophie *telefoniert* seit einer Stunde.
+  Sophie's been on the phone for an hour.
 
   J'ai perdu mon *téléphone* mobile à cartes hier soir.
-  Ich habe gestern Abend mein Karten*telefon* verloren.
+  I lost my phone last night.
 
   Le *téléphone* sonne depuis ce matin.
-  Das *Telefon* klingelt seit heute Morgen.
+  The phone has been ringing since this morning.
 
   Marc n'a pas encore payé sa facture de *téléphone*.
-  Marc hat seine *Telefon*rechnung noch nicht bezahlt.
+  Marc hasn't paid his phone bill yet.
 
   Je ne peux pas vivre sans mon *téléphone* portable.
-  Ich kann ohne mein *Handy* nicht leben.
+  I can't live without my phone.
 
   Le vieux *téléphone* noir appartenait à mes grands-parents.
-  Das alte schwarze *Telefon* gehörte meinen Großeltern.
+  The old black phone belonged to my grandparents.
 
   Paul cherche son *téléphone* partout dans l'appartement.
-  Paul sucht überall in der Wohnung nach seinem *Handy*.
+  Paul's looking all over the apartment for his cell phone.
 
   Le *téléphone* public ne prend plus les pièces.
-  Die öffentliche *Telefon*zelle nimmt keine Münzen mehr an.
+  The public phone booth no longer accepts coins.
 
   Elle a changé son numéro de *téléphone* la semaine dernière.
-  Sie hat letzte Woche ihre *Telefon*nummer geändert.
+  She changed her phone number last week.
 
   Je n'ai plus de batterie sur mon *téléphone* mobile.
-  Mein *Handy* hat keinen Akku mehr.
+  My phone's out of battery.
 
   Le *téléphone* n'arrête pas de sonner aujourd'hui.
-  Das *Telefon* hört heute nicht auf zu klingeln.
+  The phone won't stop ringing today.
 
   Il faut que je recharge mon *téléphone* portable.
-  Ich muss mein *Handy* aufladen.
+  I have to charge my phone.
 
   Mon *téléphone* est tombé dans l'eau.
-  Mein *Telefon* ist ins Wasser gefallen.
+  My phone fell into the water.
 
   L'invention du *téléphone* a révolutionné la communication.
-  Die Erfindung des *Telefons* hat die Kommunikation revolutioniert.
+  The invention of the phone has revolutionized communication.
 
   Marie ne répond jamais au *téléphone* quand elle travaille.
-  Marie geht nie ans *Telefon*, wenn sie arbeitet.
+  Marie never goes to the phone when she works.
 
   Le réseau *téléphone* est en panne dans tout le quartier.
-  Das *Telefon*netz ist im ganzen Viertel ausgefallen.
+  The phone network's down in the whole neighborhood.
 
   Je dois acheter un nouveau *téléphone* portable.
-  Ich muss mir ein neues *Handy* kaufen.
+  I need to buy a new phone.
 
   Tu as son *téléphone* mobile ?
-  Hast du seine *Handy*nummer?
+  Do you have his cell phone number?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

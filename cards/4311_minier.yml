@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4311
 Wort: minier
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: minier
 Femininum / Plural: minière
 IPA: \mi.nje\
-Definition: Bergbau-
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Mining
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les dépenses de prospection *minière* ont augmenté.
-  Die *Bergbau*-Prospektionskosten sind gestiegen.
+  *Mining* prospecting costs have increased.
 
   L'industrie *minière* est très importante pour l'économie de cette région.
-  Die *Bergbau*industrie ist sehr wichtig für die Wirtschaft dieser Region.
+  The *mining* industry is very important for the economy of this region.
 
   Le bassin *minier* du Nord emploie des milliers de personnes.
-  Das *Bergbau*gebiet im Norden beschäftigt tausende Menschen.
+  The *mining* area in the north employs thousands of people.
 
   Une terrible catastrophe *minière* a eu lieu hier dans la mine de charbon.
-  Gestern ereignete sich ein schreckliches *Gruben*unglück in der Kohlemine.
+  Yesterday a terrible mine accident occurred in the coal mine.
 
   Le petit train *minier* transporte le minerai jusqu'à l'usine.
-  Die kleine *Gruben*bahn transportiert das Erz bis zur Fabrik.
+  The small mine railway transports the ore to the factory.
 
   Cette société *minière* investit beaucoup dans la sécurité.
-  Diese *Bergwerks*gesellschaft investiert viel in die Sicherheit.
+  This *mining* company invests a lot in safety.
 
   Le nouveau code *minier* définit les règles d'exploitation.
-  Das neue *Bergbau*gesetz definiert die Abbauvorschriften.
+  The new *Mining* Act defines the mining regulations.
 
   Ce pays *minier* exporte beaucoup de cuivre.
-  Dieses *Bergbau*land exportiert viel Kupfer.
+  This *mining* land exports a lot of copper.
 
   L'exploitation *minière* respectueuse de l'environnement est possible.
-  Umweltfreundlicher *Bergbau* ist möglich.
+  Environmentally friendly *mining* is possible.
 
   La compagnie *minière* a découvert un nouveau gisement d'or.
-  Die *Bergbau*firma hat eine neue Goldlagerstätte entdeckt.
+  The *mining* company has discovered a new gold deposit.
 
   Le gisement *minier* contient principalement du fer.
-  Die *Bergbau*lagerstätte enthält hauptsächlich Eisen.
+  The *mining* deposit contains mainly iron.
 
   Les conditions de travail dans l'industrie *minière* se sont améliorées.
-  Die Arbeitsbedingungen in der *Bergbau*industrie haben sich verbessert.
+  Working conditions in the *mining* industry have improved.
 
   Cette région *minière* a une longue histoire industrielle.
-  Diese *Bergbau*region hat eine lange industrielle Geschichte.
+  This *mining* region has a long industrial history.
 
   La productivité *minière* a doublé depuis l'année dernière.
-  Die *Bergbau*produktivität hat sich seit letztem Jahr verdoppelt.
+  *Mining* productivity has doubled since last year.
 
   L'activité *minière* représente 30% du PIB national.
-  Die *Bergbau*aktivität macht 30% des nationalen BIP aus.
+  *Mining* activity accounts for 30% of national GDP.
 
   Les ingénieurs ont optimisé le processus d'extraction *minière*.
-  Die Ingenieure haben den *Bergbau*prozess optimiert.
+  The engineers have optimized the *mining* process.
 
   La ville s'est développée grâce à l'exploitation *minière*.
-  Die Stadt hat sich dank des *Bergbaus* entwickelt.
+  The city has developed thanks to *mining*.
 
   L'entreprise *minière* a modernisé ses équipements.
-  Das *Bergbau*unternehmen hat seine Ausrüstung modernisiert.
+  The *mining* company has modernized its equipment.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

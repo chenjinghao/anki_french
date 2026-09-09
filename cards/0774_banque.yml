@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 774
 Wort: banque
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la banque
 Femininum / Plural: ''
 IPA: \bɑ̃k\
 Definition: Bank
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai obtenu auprès d'une *banque* un prêt personnel habitat de 90 000 euros.
-  Ich habe bei einer *Bank* einen privaten Wohnungskredit über 90.000 Euro aufgenommen.
+  I took a private apartment loan of 90,000 euros from a *bank*.
 
   Elle travaille comme directrice dans une *banque* depuis vingt ans.
-  Sie arbeitet seit zwanzig Jahren als Direktorin bei einer *Bank*.
+  She's been working as a director at a *bank* for twenty years.
 
   La *Banque* centrale européenne a décidé de maintenir ses taux d'intérêt.
-  Die Europäische Zentral*bank* hat beschlossen, ihre Zinssätze beizubehalten.
+  The European Central *Bank* has decided to maintain its interest rates.
 
   Je dois passer à la *banque* pour déposer un chèque.
-  Ich muss zur *Bank* gehen, um einen Scheck einzulösen.
+  I have to go to the *bank* to cash a check.
 
   Les *banques* ont adopté des mesures de sécurité plus strictes.
-  Das *Bank*wesen hat strengere Sicherheitsmaßnahmen eingeführt.
+  Banking has introduced stricter security measures.
 
   Notre entreprise a changé de *banque* habituelle l'année dernière.
-  Unser Unternehmen hat letztes Jahr die Haus*bank* gewechselt.
+  Our company changed the *bank* last year.
 
   La *banque* des yeux a permis de sauver la vue de nombreux patients.
-  Die Augen*bank* hat vielen Patienten das Sehvermögen gerettet.
+  The eye bench has saved many patients' vision.
 
   Cette *banque* de données contient des millions d'informations.
-  Diese Daten*bank* enthält Millionen von Informationen.
+  This database contains millions of information.
 
   Il a retiré tout son argent de sa *banque*.
-  Er hat sein ganzes Geld von seiner *Bank* abgehoben.
+  He took all his money from his *bank*.
 
   La *Banque* mondiale finance des projets de développement.
-  Die Welt*bank* finanziert Entwicklungsprojekte.
+  The World *Bank* finances development projects.
 
   Les petites *banques* locales fusionnent avec les grandes.
-  Die kleinen lokalen *Bank*en fusionieren mit den großen.
+  The small local banks merge with the large ones.
 
   Ma *banque* propose des services en ligne pratiques.
-  Meine *Bank* bietet praktische Online-Dienste an.
+  My *bank* offers practical online services.
 
   La *banque* du sang a besoin de nouveaux donneurs.
-  Die Blut*bank* braucht neue Spender.
+  The blood *bank* needs new donors.
 
   Cette *banque* d'investissement gère des milliards d'euros.
-  Diese Investment*bank* verwaltet Milliarden von Euro.
+  This investment *bank* manages billions of euros.
 
   Le directeur de la *banque* m'a accordé un rendez-vous.
-  Der *Bank*direktor hat mir einen Termin gegeben.
+  The *bank* manager gave me an appointment.
 
   Les *banques* intérieures doivent respecter la réglementation nationale.
-  Die Inlands*bank*en müssen die nationalen Vorschriften einhalten.
+  The domestic banks must comply with national rules.
 
   La *banque* municipale propose des taux avantageux aux habitants.
-  Die Kommunal*bank* bietet den Einwohnern günstige Zinssätze an.
+  The municipal *bank* offers favourable interest rates to the inhabitants.
 
   Cette *banque* d'organes dessert toute la région.
-  Diese Organ*bank* versorgt die ganze Region.
+  This organ *bank* is supplying the whole region.
 
   Les employés de *banque* sont en grève aujourd'hui.
-  Die *Bank*angestellten streiken heute.
+  *Bank* employees are on strike today.
 
   La *banque* a refusé de lui accorder un crédit.
-  Die *Bank* hat ihm einen Kredit verweigert.
+  The *bank* denied him a loan.
 
   J'ai oublié ma carte de *banque* à la maison.
-  Ich habe meine *Bank*karte zu Hause vergessen.
+  I forgot my *bank* card at home.
 
   La *banque* a gelé son compte suite à une activité suspecte.
-  Die *Bank* hat sein Konto wegen verdächtiger Aktivitäten eingefroren.
+  The *bank* frozen his account for suspicious activities.
 
   Cette *banque* offre les meilleurs taux d'épargne.
-  Diese *Bank* bietet die besten Sparzinsen.
+  This *bank* offers the best savings rates.
 
   Au casino, il a fait sauter la *banque*.
-  Im Casino hat er die *Bank* gesprengt.
+  He blew up the *bank* at the casino.
 
   La *banque* populaire soutient les petites entreprises.
-  Die Volks*bank* unterstützt kleine Unternehmen.
+  Volksbank supports small businesses.
 
   Les *banques* européennes suivent les directives de Bruxelles.
-  Die europäischen *Bank*en folgen den Richtlinien aus Brüssel.
+  European banks follow the Brussels guidelines.
 
   La *banque* a installé un nouveau distributeur automatique.
-  Die *Bank* hat einen neuen Geldautomaten installiert.
+  The *bank* has installed a new ATM.
 
   Cette *banque* de terminologie aide les traducteurs.
-  Diese Terminologie*bank* hilft den Übersetzern.
+  This terminology *bank* helps translators.
 
   Notre *banque* propose des coffres-forts à louer.
-  Unsere *Bank* bietet Schließfächer zur Miete an.
+  Our *bank* offers lockers for rent.
 
   La *Banque* de France a émis de nouveaux billets.
-  Die französische *Notenbank* hat neue Geldscheine ausgegeben.
+  The French *central bank* has issued new notes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2029
 Wort: partisan
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le partisan
 Femininum / Plural: partisane
 IPA: \paʁ.ti.zɑ̃\
-Definition: Befürworter
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Supporters
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne suis pas un ardent *partisan*.
-  Ich bin kein leidenschaftlicher *Anhänger*.
+  I'm not a passionate follower.
 
   Les *partisans* du président ont manifesté dans les rues.
-  Die *Anhänger* des Präsidenten haben auf den Straßen demonstriert.
+  The president's supporters demonstrated on the streets.
 
   Elle est *partisane* d'une réforme du système éducatif.
-  Sie *befürwortet* eine Reform des Bildungssystems.
+  It advocates reform of the education system.
 
   Les *partisans* se sont cachés dans les montagnes pendant la guerre.
-  Die *Partisanen* haben sich während des Kriegs in den Bergen versteckt.
+  *Partisans* hid in the mountains during the war.
 
   Cette décision *partisane* a créé beaucoup de tensions.
-  Diese *parteiische* Entscheidung hat viele Spannungen verursacht.
+  This partial decision has caused many tensions.
 
   Il s'est révélé être un fervent *partisan* du changement climatique.
-  Er hat sich als überzeugter *Verfechter* des Klimawandels erwiesen.
+  He has proven to be a convinced advocate of climate change.
 
   Les *partisans* de la paix se sont rassemblés devant le parlement.
-  Die *Befürworter* des Friedens haben sich vor dem Parlament versammelt.
+  The advocates of peace have gathered before Parliament.
 
   Sa vision trop *partisane* des événements pose problème.
-  Seine zu *voreingenommene* Sicht der Ereignisse ist problematisch.
+  His too biased view of events is problematic.
 
   Les *partisans* ont mené une guerre de guérilla pendant des années.
-  Die *Partisanen* haben jahrelang einen Guerillakrieg geführt.
+  The guerrillas have waged a guerrilla war for years.
 
   Je suis *partisan* de prendre des vacances en été.
-  Ich *befürworte* es, im Sommer Urlaub zu machen.
+  I am in favour of going on vacation in the summer.
 
   Les *partisanes* ont joué un rôle crucial dans la résistance.
-  Die *Partisaninnen* haben eine entscheidende Rolle im Widerstand gespielt.
+  The partisans played a decisive role in the resistance.
 
   Cette haine *partisane* nuit au débat démocratique.
-  Dieser *kleinliche* Hass schadet der demokratischen Debatte.
+  This petty hatred harms the democratic debate.
 
   Les *partisans* du nucléaire citent ses avantages économiques.
-  Die Kernkraft*befürworter* nennen ihre wirtschaftlichen Vorteile.
+  Nuclear power advocates are calling for their economic benefits.
 
   Son esprit *partisan* l'empêche de voir la vérité.
-  Seine *parteiische* Einstellung hindert ihn daran, die Wahrheit zu sehen.
+  His partial attitude prevents him from seeing the truth.
 
   Les *partisans* de la monarchie restent minoritaires.
-  Die *Anhänger* der Monarchie bleiben in der Minderheit.
+  The followers of the monarchy remain in the minority.
 
   Cette querelle *partisane* divise le parti depuis des mois.
-  Dieser *parteiische* Streit spaltet die Partei seit Monaten.
+  This partial dispute has split the party for months.
 
   Les *partisans* du libéralisme défendent le libre-échange.
-  Die *Verfechter* des Liberalismus verteidigen den Freihandel.
+  The advocates of liberalism defend free trade.
 
   Je ne suis pas *partisan* du moindre effort.
-  Ich bin kein *Anhänger* des geringsten Widerstands.
+  I'm not a supporter of the least resistance.
 
   Les *partisans* ont saboté les lignes ennemies.
-  Die *Partisanen* haben die feindlichen Linien sabotiert.
+  *Partisans* sabotaged enemy lines.
 
   Cette analyse *partisane* manque d'objectivité.
-  Diese *voreingenommene* Analyse mangelt an Objektivität.
+  This biased analysis lacks objectivity.
 
   Les *partisans* de la tradition s'opposent au changement.
-  Die *Verfechter* der Tradition widersetzen sich der Veränderung.
+  The advocates of tradition oppose change.
 
   Le "Chant des *partisans*" est devenu un symbole de résistance.
-  Das "Lied der *Partisanen*" wurde zu einem Symbol des Widerstands.
+  The "Song of the *Partisans*" became a symbol of resistance.
 
   Ces choix *partisans* ont divisé la communauté.
-  Diese *parteiischen* Entscheidungen haben die Gemeinschaft gespalten.
+  These partial decisions divided the Community.
 
   Les *partisans* de la réforme ont gagné le vote.
-  Die *Befürworter* der Reform haben die Abstimmung gewonnen.
+  *Supporters* of the reform have won the vote.
 
   Elle est devenue une fidèle *partisane* de cette cause.
-  Sie wurde zu einer treuen *Anhängerin* dieser Sache.
+  She became a faithful follower of this matter.
 
   Les *partisans* de César ont remporté la bataille.
-  Die *Anhänger* Caesars haben die Schlacht gewonnen.
+  The followers of Caesar won the battle.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

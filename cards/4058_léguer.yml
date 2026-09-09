@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4058
 Wort: léguer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: léguer
 Femininum / Plural: ''
 IPA: \le.ɡe\
-Definition: vermachen, hinterlassen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: forged, left behind
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il aurait dû me *léguer* la maison tout entière.
-  Er hätte mir das ganze Haus *vererben* sollen.
+  He should have *inherited* the whole house.
 
   Son grand-père lui a *légué* une importante collection de timbres.
-  Sein Großvater hat ihm eine wichtige Briefmarkensammlung *vermacht*.
+  His grandfather left him an important collection of stamps.
 
   Elle a *légué* tous ses bijoux à sa petite-fille.
-  Sie hat ihrem Enkelkind all ihren Schmuck *hinterlassen*.
+  She left all her jewelry to her grandchild.
 
   Les parents nous ont *légué* des traditions familiales précieuses.
-  Die Eltern haben uns wertvolle Familientraditionen *vererbt*.
+  Parents have *inherited* precious family traditions.
 
   Cette artiste a *légué* toutes ses œuvres au musée national.
-  Diese Künstlerin hat alle ihre Werke dem Nationalmuseum *vermacht*.
+  This artist has left all her works to the National Museum.
 
   Mon oncle m'a *légué* sa passion pour la musique classique.
-  Mein Onkel hat mir seine Leidenschaft für klassische Musik *vererbt*.
+  My uncle gave me his passion for classical music.
 
   Je vais *léguer* ma bibliothèque à l'université.
-  Ich werde meine Bibliothek der Universität *vermachen*.
+  I'm gonna get my library out of the university.
 
   Les Romains nous ont *légué* un riche patrimoine culturel.
-  Die Römer haben uns ein reiches kulturelles Erbe *hinterlassen*.
+  The Romans have left us a rich cultural heritage.
 
   Cette génération nous a *légué* une planète malade.
-  Diese Generation hat uns einen kranken Planeten *hinterlassen*.
+  This generation has left us a sick planet.
 
   Mozart a *légué* au monde une musique immortelle.
-  Mozart hat der Welt unsterbliche Musik *hinterlassen*.
+  Mozart has left immortal music to the world.
 
   Elle a *légué* sa fortune à des associations caritatives.
-  Sie hat ihr Vermögen wohltätigen Organisationen *vermacht*.
+  She left her fortune to charitable organizations.
 
   Nos ancêtres nous ont *légué* cette belle langue.
-  Unsere Vorfahren haben uns diese schöne Sprache *vererbt*.
+  Our ancestors have *inherited* this beautiful language.
 
   Le professeur a *légué* ses archives à la bibliothèque municipale.
-  Der Professor hat sein Archiv der Stadtbibliothek *vermacht*.
+  The professor left his archive to the city library.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

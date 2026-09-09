@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4103
 Wort: chaleureux
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: chaleureux
 Femininum / Plural: chaleureuse
 IPA: \ʃa.lœ.ʁø\
-Definition: herzlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: heartily
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'était quand même un accueil très *chaleureux*.
-  Es war trotzdem ein sehr *herzlicher* Empfang.
+  It was still a very warm welcome.
 
   La soirée était très *chaleureuse*, tout le monde s'est bien amusé.
-  Der Abend war sehr *gemütlich*, alle hatten viel Spaß.
+  The evening was very *cozy*, everyone had a lot of fun.
 
   Elle a toujours des mots *chaleureux* pour ses étudiants.
-  Sie hat immer *warme* Worte für ihre Studenten.
+  She always has *warm* words for her students.
 
   Ses parents lui ont fait leurs félicitations les plus *chaleureuses*.
-  Seine Eltern haben ihm ihre *herzlichsten* Glückwünsche ausgesprochen.
+  His parents congratulated him.
 
   L'atmosphère était particulièrement *chaleureuse* pendant le dîner de Noël.
-  Die Atmosphäre war besonders *warm* beim Weihnachtsessen.
+  The atmosphere was particularly *warm* at Christmas dinner.
 
   Marie est une personne très *chaleureuse* qui met tout le monde à l'aise.
-  Marie ist eine sehr *herzliche* Person, die jeden zur Ruhe kommen lässt.
+  Marie is a very *warm* person who makes everyone rest.
 
   Le public a manifesté son approbation *chaleureuse* par des applaudissements.
-  Das Publikum zeigte seine *begeisterte* Zustimmung durch Applaus.
+  The audience showed its enthusiastic approval by applause.
 
   J'ai reçu une lettre de remerciement très *chaleureuse* de sa part.
-  Ich habe einen sehr *herzlichen* Dankesbrief von ihm erhalten.
+  I have received a very cordial letter of thanks from him.
 
   Tous les invités ont parlé en termes *chaleureux* de la fête d'anniversaire.
-  Alle Gäste haben in *warmen* Worten von der Geburtstagsfeier gesprochen.
+  All guests spoke in *warm* words about the birthday party.
 
   Ces amis *chaleureux* nous ont accueillis comme si nous étions de la famille.
-  Diese *herzlichen* Freunde haben uns wie Familie aufgenommen.
+  These warm friends have welcomed us like family.
 
   L'ambiance *chaleureuse* du café nous a donné envie d'y rester plus longtemps.
-  Die *gemütliche* Atmosphäre des Cafés hat uns dazu gebracht, länger zu bleiben.
+  The *cozy* atmosphere of the café has made us stay longer.
 
   Le nouveau professeur a reçu un accueil particulièrement *chaleureux* de ses collègues.
-  Der neue Lehrer erhielt einen besonders *herzlichen* Empfang von seinen Kollegen.
+  The new teacher received a warm welcome from his colleagues.
 
   Les critiques ont fait des commentaires très *chaleureux* sur son dernier livre.
-  Die Kritiker haben sehr *warme* Kommentare zu seinem letzten Buch abgegeben.
+  The critics have made very *warm* comments on his last book.
 
   Son sourire *chaleureux* met immédiatement les gens en confiance.
-  Ihr *herzliches* Lächeln gibt den Menschen sofort Vertrauen.
+  Her warm smile immediately gives people confidence.
 
   La réception *chaleureuse* des habitants nous a fait nous sentir chez nous.
-  Der *warme* Empfang der Einwohner hat uns ein Gefühl von Zuhause gegeben.
+  The *warm* welcome of the inhabitants gave us a feeling of home.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

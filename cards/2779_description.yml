@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2779
 Wort: description
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la description
 Femininum / Plural: ''
 IPA: \dɛs.kʁip.sjɔ̃\
-Definition: Beschreibung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Description
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous commençons par une brève *description* de mon père.
-  Wir beginnen mit einer kurzen *Beschreibung* meines Vaters.
+  We start with a brief *description* of my father.
 
   La *description* du jardin botanique occupe trois pages dans son carnet.
-  Die *Beschreibung* des botanischen Gartens nimmt drei Seiten in seinem Notizbuch ein.
+  The *description* of the botanical garden contains three pages in his notebook.
 
   L'auteur excelle dans la *description* des paysages montagneux.
-  Der Autor ist ein Meister in der *Schilderung* von Berglandschaften.
+  The author is a master in the depiction of mountain landscapes.
 
   Sa *description* de la tempête était si vivante qu'on pouvait presque entendre le tonnerre.
-  Seine *Schilderung* des Sturms war so lebendig, dass man den Donner fast hören konnte.
+  His *description* of the storm was so vivid that you could almost hear the thunder.
 
   Il nous a fait une *description* détaillée de son voyage en Asie.
-  Er hat uns eine ausführliche Reise*schilderung* von seiner Asienreise gegeben.
+  He has given us a detailed travel *description* of his trip to Asia.
 
   La *description* du poste exige cinq ans d'expérience minimum.
-  Die Stellen*beschreibung* verlangt mindestens fünf Jahre Erfahrung.
+  The job *description* requires at least five years of experience.
 
   Le manuel contient une *description* complète du nouveau système d'exploitation.
-  Das Handbuch enthält eine vollständige *Beschreibung* des neuen Betriebssystems.
+  The manual contains a full *description* of the new operating system.
 
   Voici la *description* provisoire de notre invention.
-  Hier ist die vorläufige *Beschreibung* unserer Erfindung.
+  Here is the preliminary *description* of our invention.
 
   Cette *description* fonctionnelle ne correspond pas à la réalité du terrain.
-  Diese Leistungs*beschreibung* entspricht nicht der Realität vor Ort.
+  This *description* does not correspond to the reality on the ground.
 
   La *description* de ses états d'âme occupe tout son journal intime.
-  Die *Schilderung* ihrer Gefühlswelt füllt ihr ganzes Tagebuch.
+  The *description* of her emotional world fills her entire diary.
 
   J'ai donné aux policiers une *description* précise du voleur.
-  Ich habe der Polizei eine genaue *Beschreibung* des Diebes gegeben.
+  I gave the police a detailed *description* of the thief.
 
   La *description* exhaustive des symptômes aidera le médecin.
-  Die ausführliche *Beschreibung* der Symptome wird dem Arzt helfen.
+  The detailed *description* of the symptoms will help the doctor.
 
   Cette *description* imagée m'a fait voyager sans bouger de mon fauteuil.
-  Diese bildhafte *Schilderung* ließ mich reisen, ohne mich von meinem Sessel zu bewegen.
+  This pictorial *description* let me travel without moving me from my chair.
 
   La *description* du mobilier doit être faite avant le déménagement.
-  Die *Beschreibung* der Möbel muss vor dem Umzug gemacht werden.
+  The *description* of the furniture must be made before moving.
 
   Sa *description* de la machine est trop technique pour moi.
-  Seine *Beschreibung* der Maschine ist zu technisch für mich.
+  His *description* of the machine is too technical for me.
 
   Les biologistes travaillent sur la *description* d'une nouvelle espèce.
-  Die Biologen arbeiten an der *Beschreibung* einer neuen Art.
+  The biologists are working on the *description* of a new species.
 
   Cette *description* sommaire ne suffit pas pour comprendre le phénomène.
-  Diese knappe *Beschreibung* reicht nicht aus, um das Phänomen zu verstehen.
+  This brief *description* is not enough to understand the phenomenon.
 
   La *description* des personnages est un point fort de ce roman.
-  Die *Beschreibung* der Charaktere ist eine Stärke dieses Romans.
+  The *description* of the characters is a strength of this novel.
 
   Je cherche une *description* plus détaillée de ce programme informatique.
-  Ich suche eine ausführlichere *Beschreibung* dieses Computerprogramms.
+  I'm looking for a more detailed *description* of this computer program.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

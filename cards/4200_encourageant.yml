@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4200
 Wort: encourageant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: encourageant
 Femininum / Plural: encourageante
 IPA: \ɑ̃.ku.ʁa.ʒɑ̃\
-Definition: ermutigend
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: encouraging
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La situation ne semble guère *encourageante*.
-  Die Situation scheint kaum *ermutigend*.
+  The situation seems hardly *encouraging*.
 
   Les résultats sont très *encourageants* : nous avons doublé nos ventes.
-  Die Ergebnisse sind sehr *ermutigend*: Wir haben unsere Verkäufe verdoppelt.
+  The results are very *encouraging*: we have doubled our sales.
 
   Son professeur lui a adressé des paroles *encourageantes*.
-  Ihre Lehrerin hat ihr *ermutigende* Worte gesagt.
+  Her teacher told her *encouraging* words.
 
   "Ce n'est pas très *encourageant* comme début !"
-  "Das ist ja kein besonders *ermutigendes* Start!"
+  "This is not a particularly *encouraging* start!"
 
   Les premiers retours des clients sont *encourageants*.
-  Die ersten Kundenrückmeldungen sind *ermutigend*.
+  The first customer feedbacks are *encouraging*.
 
   Voici des nouvelles *encourageantes* pour l'avenir de notre projet.
-  Das sind *ermutigende* Nachrichten für die Zukunft unseres Projekts.
+  These are *encouraging* news for the future of our project.
 
   Ces statistiques sont vraiment *encourageantes* pour notre équipe.
-  Diese Statistiken sind wirklich *ermutigend* für unser Team.
+  These statistics are really *encouraging* for our team.
 
   Les prévisions météorologiques ne sont pas très *encourageantes*.
-  Die Wettervorhersagen sind nicht sehr *ermutigend*.
+  The weather forecasts are not very *encouraging*.
 
   Elle a reçu un message très *encourageant* de son mentor.
-  Sie hat eine sehr *ermutigende* Nachricht von ihrem Mentor erhalten.
+  She has received a very *encouraging* message from her mentor.
 
   Les progrès de Pierre sont *encourageants*.
-  Pierres Fortschritte sind *ermutigend*.
+  Pierre's progress is *encouraging*.
 
   "*Voilà qui est encourageant* !" dit-elle en souriant ironiquement.
-  "*Das sind ja schöne Aussichten*!" sagte sie mit ironischem Lächeln.
+  "These are beautiful prospects," she said with an ironic smile.
 
   Ces signes de reprise économique sont très *encourageants*.
-  Diese Anzeichen für einen wirtschaftlichen Aufschwung sind sehr *ermutigend*.
+  These signs of economic recovery are very *encouraging*.
 
   Le médecin trouve que l'évolution de la maladie est *encourageante*.
-  Der Arzt findet, dass der Krankheitsverlauf *ermutigend* ist.
+  The doctor believes that the course of the disease is *encouraging*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2270
 Wort: intense
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: intense
 Femininum / Plural: ''
 IPA: \ɛ̃.tɑ̃s\
-Definition: intensiv, stark
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: intense, strong
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle me faisait vivre des moments *intenses*.
-  Sie ließ mich *intensive* Momente erleben.
+  She made me experience intense moments.
 
   La lumière *intense* du soleil m'éblouissait.
-  Das *intensive* Sonnenlicht blendete mich.
+  The intense sunlight blinded me.
 
   Le rouge *intense* de sa robe attirait tous les regards.
-  Das *kräftige* Rot ihres Kleides zog alle Blicke auf sich.
+  The *strong* red of her dress drew all eyes.
 
   Nous avons ressenti une joie *intense* à la naissance de notre fils.
-  Wir empfanden eine *große* Freude bei der Geburt unseres Sohnes.
+  We felt a great joy in the birth of our son.
 
   La chaleur *intense* de l'été nous épuisait.
-  Die *starke* Sommerhitze erschöpfte uns.
+  The *strong* summer heat exhausted us.
 
   Un froid *intense* s'est abattu sur la ville cette nuit.
-  Eine *eisige* Kälte ist heute Nacht über die Stadt hereingebrochen.
+  An *icy* cold broke into the city tonight.
 
   Les vibrations *intenses* faisaient trembler tout l'immeuble.
-  Die *heftigen* Vibrationen ließen das ganze Gebäude erzittern.
+  The violent vibrations made the whole building tremble.
 
   La circulation est particulièrement *intense* aux heures de pointe.
-  Der Verkehr ist besonders *dicht* zu den Stoßzeiten.
+  Traffic is particularly close to peak times.
 
   Une activité *intense* règne dans les rues du marché.
-  Eine *rege* Aktivität herrscht in den Marktstraßen.
+  There is a lot of activity on the market roads.
 
   Le parfum *intense* des fleurs embaumait toute la pièce.
-  Der *intensive* Duft der Blumen durchströmte den ganzen Raum.
+  The intense scent of the flowers flowed through the whole room.
 
   Son regard *intense* m'a fait frissonner.
-  Sein *durchdringender* Blick ließ mich erschaudern.
+  His *penetrating* gaze made me shudder.
 
   La douleur était si *intense* qu'elle ne pouvait plus bouger.
-  Der Schmerz war so *heftig*, dass sie sich nicht mehr bewegen konnte.
+  The pain was so intense that she couldn't move anymore.
 
   Une soif *intense* nous torturait pendant la randonnée.
-  Ein *starker* Durst quälte uns während der Wanderung.
+  A *strong* thirst tormented us during the hike.
 
   Le bleu *intense* du ciel annonçait une belle journée.
-  Das *intensive* Blau des Himmels kündigte einen schönen Tag an.
+  The intense blue of the sky announced a beautiful day.
 
   Son désir *intense* de réussir l'a poussé à travailler jour et nuit.
-  Sein *starker* Wunsch nach Erfolg trieb ihn dazu, Tag und Nacht zu arbeiten.
+  His *strong* desire for success drove him to work day and night.
 
   L'émotion *intense* l'empêchait de parler.
-  Die *heftige* Emotion hinderte ihn am Sprechen.
+  The violent emotion prevented him from speaking.
 
   Une pluie *intense* s'est mise à tomber.
-  Ein *starker* Regen setzte ein.
+  A heavy rain began.
 
   Le bruit *intense* de l'orage réveilla tout le village.
-  Der *intensive* Lärm des Gewitters weckte das ganze Dorf.
+  The intense noise of the thunderstorm awakened the whole village.
 
   Le plaisir *intense* de retrouver sa famille le submergeait.
-  Die *große* Freude, seine Familie wiederzusehen, überwältigte ihn.
+  The great joy of seeing his family again overwhelmed him.
 
   Une odeur *intense* de café se répandait dans la cuisine.
-  Ein *intensiver* Kaffeeduft breitete sich in der Küche aus.
+  An intense coffee fragrance spread in the kitchen.
 
   La musique devenait de plus en plus *intense*.
-  Die Musik wurde immer *intensiver*.
+  The music became increasingly intense.
 
   Les couleurs deviennent plus *intenses* au coucher du soleil.
-  Die Farben werden *kräftiger* bei Sonnenuntergang.
+  The colors become *stronger* at sunset.
 
   Le silence était si *intense* qu'on pouvait entendre une mouche voler.
-  Die Stille war so *intensiv*, dass man eine Fliege hätte fliegen hören können.
+  The silence was so *intense* that you could have heard a fly flying.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

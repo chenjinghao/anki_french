@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4373
 Wort: repère
 Wortart: nm, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le repère
 Femininum / Plural: ''
 IPA: \ʁǝ.pɛʁ\
-Definition: Orientierungspunkt
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Reference point
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les chrétiens ont besoin de *repères*, sinon ils sont perdus.
-  Die Christen brauchen *Orientierung*, sonst sind sie verloren.
+  Christians need guidance, otherwise they are lost.
 
   Le professeur a tracé des *repères* sur la carte pour indiquer les frontières historiques.
-  Der Lehrer hat *Markierungen* auf der Karte eingezeichnet, um die historischen Grenzen anzuzeigen.
+  The teacher has marked marks on the map to show the historical boundaries.
 
   L'architecte place des *repères* sur les murs avant de commencer la construction.
-  Der Architekt bringt *Markierungs*striche an den Wänden an, bevor er mit dem Bau beginnt.
+  The architect affixs marking marks on the walls before starting construction.
 
   La poste me sert de *repère* pour retrouver mon chemin dans ce nouveau quartier.
-  Die Post dient mir als Orientierungs*punkt*, um meinen Weg in diesem neuen Viertel zu finden.
+  The post serves as a *point* of reference for me to find my way into this new neighborhood.
 
   En mathématiques, nous utilisons un *repère* orthonormé pour représenter les fonctions.
-  In der Mathematik verwenden wir ein orthonormiertes Koordinaten*system*, um Funktionen darzustellen.
+  In mathematics, we use an orthonormated coordinate *system* to represent functions.
 
   Sans *repères* culturels, il est difficile de s'intégrer dans un nouveau pays.
-  Ohne kulturelle Orientierungs*punkte* ist es schwierig, sich in einem neuen Land zu integrieren.
+  Without cultural orientations, it is difficult to integrate into a new country.
 
   Les bouées servent de *repères* aux bateaux qui entrent dans le port.
-  Die Bojen dienen den Schiffen, die in den Hafen einlaufen, als Orientierungs*punkte*.
+  The buoys serve as orientation *points* for ships entering the port.
 
   Cette borne *repère* indique l'altitude exacte de la montagne.
-  Dieser *Markierungs*stein zeigt die genaue Höhe des Berges an.
+  This *marker* indicates the exact height of the mountain.
 
   La Révolution française est un *repère* historique majeur.
-  Die Französische Revolution ist ein wichtiger historischer *Orientierungspunkt*.
+  The French Revolution is an important historical landmark.
 
   Les adolescents cherchent souvent des *repères* auprès de leurs parents.
-  Jugendliche suchen oft nach *Orientierung* bei ihren Eltern.
+  Teenagers often look for guidance from their parents.
 
   Le menuisier a fait des *repères* sur les planches avant de les assembler.
-  Der Tischler hat *Markierungen* auf den Brettern angebracht, bevor er sie zusammenfügte.
+  The carpenter put *markings* on the boards before he put them together.
 
   Ces trois dates *repères* sont essentielles pour comprendre cette période.
-  Diese drei *Schlüssel*daten sind wichtig, um diese Periode zu verstehen.
+  These three *key* dates are important to understand this period.
 
   L'imprimeur vérifie les *repères* de coupe avant l'impression finale.
-  Der Drucker überprüft die Schnitt*marken* vor dem endgültigen Druck.
+  The printer checks the cutting marks before final printing.
 
   Les étoiles servaient de *repères* aux navigateurs anciens.
-  Die Sterne dienten den alten Seefahrern als Orientierungs*punkte*.
+  The stars served as orientation *points* for the old sailors.
 
   Il faut placer des *repères* tous les dix mètres pour mesurer le terrain.
-  Man muss alle zehn Meter *Markierungen* setzen, um das Gelände zu vermessen.
+  You have to put every ten meters of *markings* to measure the terrain.
 
   Notre société moderne manque cruellement de *repères* moraux.
-  Unserer modernen Gesellschaft fehlt es schmerzlich an moralischer *Orientierung*.
+  Our modern society is painfully lacking moral *orientation*.
 
   Le géologue a identifié un horizon *repère* dans cette couche rocheuse.
-  Der Geologe hat in dieser Gesteinsschicht einen *Leit*horizont identifiziert.
+  The geologist has identified a guiding horizon in this rock layer.
 
   Le charpentier trace des *repères* sur les poutres avant de les couper.
-  Der Zimmermann zeichnet *Markierungen* auf den Balken, bevor er sie schneidet.
+  The carpenter draws *markings* on the beam before cutting them.
 
   Marie n'a plus aucun *repère* temporel depuis qu'elle travaille de nuit.
-  Marie hat keinerlei zeitliche *Orientierung* mehr, seit sie nachts arbeitet.
+  Marie hasn't had any time *orientation* since she worked at night.
 
   Les panneaux routiers sont des *repères* essentiels pour les automobilistes.
-  Verkehrsschilder sind wichtige Orientierungs*punkte* für Autofahrer.
+  Road signs are important *points* of reference for drivers.
 
   Cette crise économique est devenue un *repère* dans l'histoire du pays.
-  Diese Wirtschaftskrise ist zu einem Orientierungs*punkt* in der Geschichte des Landes geworden.
+  This economic crisis has become a landmark in the country's history.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

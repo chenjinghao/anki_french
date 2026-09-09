@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4802
 Wort: excéder
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: excéder
 Femininum / Plural: ''
 IPA: \ɛk.se.de\
-Definition: überschreiten, übersteigen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: exceed, exceed
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le total ne peut pas *excéder* 55 000 francs.
-  Die Gesamtsumme darf 55 000 Franken nicht *übersteigen*.
+  The total amount may not exceed CHF 55 000.
 
   Le poids des bagages ne doit pas *excéder* vingt kilos.
-  Das Gepäckgewicht darf zwanzig Kilo nicht *überschreiten*.
+  The baggage weight shall not exceed 20 kilos.
 
   Ses dépenses *excèdent* largement son budget mensuel.
-  Seine Ausgaben *übersteigen* sein monatliches Budget bei weitem.
+  Its expenditures far exceed its monthly budget.
 
   La durée du film ne devrait pas *excéder* deux heures.
-  Die Filmlänge sollte zwei Stunden nicht *überschreiten*.
+  The film length should not exceed two hours.
 
   Cette tâche *excède* malheureusement mes capacités actuelles.
-  Diese Aufgabe *übersteigt* leider meine derzeitigen Fähigkeiten.
+  Unfortunately, this task exceeds my current abilities.
 
   Le bruit constant des travaux finit par m'*excéder*.
-  Der ständige Baulärm *bringt* mich zur Verzweiflung.
+  *The* constant building noise makes me despair.
 
   Marie était visiblement *excédée* par les remarques de son collègue.
-  Marie war von den Bemerkungen ihres Kollegen sichtlich *genervt*.
+  Marie was visibly *annoyed* by her colleague's remarks.
 
   Les frais de réparation *excèdent* la valeur de la voiture.
-  Die Reparaturkosten *übersteigen* den Wert des Autos.
+  The repair costs exceed the value of the car.
 
   Le directeur a *excédé* ses pouvoirs en prenant cette décision.
-  Der Direktor hat seine Befugnisse *überschritten*, als er diese Entscheidung traf.
+  The Director has *exceeded* his powers when he took that decision.
 
   "Tu m'*excèdes* avec tes excuses permanentes !"
-  "Du *bringst* mich mit deinen ständigen Ausreden auf die Palme!"
+  "You're putting me on the ground with your constant excuses!"
 
   Les températures ont *excédé* les normales saisonnières.
-  Die Temperaturen haben die jahreszeitlichen Durchschnittswerte *überschritten*.
+  Temperatures have *exceeded* the seasonal averages.
 
   Son comportement *excède* ma patience.
-  Sein Verhalten *bringt* mich zur Verzweiflung.
+  His behavior makes me despair.
 
   Cette proposition *excède* mes attentes.
-  Dieser Vorschlag *übertrifft* meine Erwartungen.
+  This proposal *exceeds* my expectations.
 
   Le nombre de participants ne doit pas *excéder* la capacité de la salle.
-  Die Teilnehmerzahl darf die Raumkapazität nicht *überschreiten*.
+  The number of participants shall not exceed the space capacity.
 
   La vitesse du véhicule a *excédé* la limite autorisée.
-  Die Geschwindigkeit des Fahrzeugs hat das erlaubte Limit *überschritten*.
+  The speed of the vehicle has *exceeded* the permitted limit.
 
   Les enfants l'ont tellement *excédé* qu'il est parti plus tôt.
-  Die Kinder haben ihn so *genervt*, dass er früher gegangen ist.
+  The kids so pissed him off that he left early.
 
   Cette somme *excède* largement nos moyens financiers.
-  Diese Summe *übersteigt* unsere finanziellen Möglichkeiten bei weitem.
+  This amount is far beyond our financial resources.
 
   Je suis complètement *excédé* par cette situation absurde.
-  Ich bin von dieser absurden Situation völlig *entnervt*.
+  I'm totally unnerved by this absurd situation.
 
   La hauteur du bâtiment ne doit pas *excéder* trente mètres.
-  Die Gebäudehöhe darf dreißig Meter nicht *überschreiten*.
+  The height of the building shall not exceed 30 metres.
 
   Son arrogance finit par *excéder* tout le monde.
-  Seine Arroganz *bringt* am Ende alle zur Verzweiflung.
+  His arrogance ultimately leads everyone to despair.
 
   Les coûts du projet ont *excédé* toutes les estimations initiales.
-  Die Projektkosten haben alle ursprünglichen Schätzungen *überstiegen*.
+  Project costs have *exceeded* all initial estimates.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

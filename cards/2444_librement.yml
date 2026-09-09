@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2444
 Wort: librement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: librement
 Femininum / Plural: ''
 IPA: \li.bʁə.mɑ̃\
-Definition: frei, ungehindert
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: free, unhindered
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Seuls les piétons peuvent passer *librement*.
-  Nur Fußgänger können *frei* passieren.
+  Only pedestrians can pass freely.
 
   Dans une démocratie, les citoyens peuvent s'exprimer *librement*.
-  In einer Demokratie können sich die Bürger *frei* äußern.
+  In a democracy, citizens can express themselves freely.
 
   Il a *librement* choisi de quitter son emploi.
-  Er hat *freiwillig* entschieden, seinen Job zu kündigen.
+  He decided voluntarily to quit his job.
 
   Les oiseaux volent *librement* dans le ciel.
-  Die Vögel fliegen *frei* am Himmel.
+  The birds fly *free* in the sky.
 
   Après l'opération, elle peut enfin respirer plus *librement*.
-  Nach der Operation kann sie endlich *freier* atmen.
+  After the surgery, she can finally breathe more freely.
 
   "Je peux te parler *librement* ?" demanda-t-elle à son amie.
-  "Kann ich *offen* mit dir reden?", fragte sie ihre Freundin.
+  "Can I talk to you openly?" she asked her girlfriend.
 
   Le traité permet aux marchandises de circuler *librement* entre les pays.
-  Der Vertrag erlaubt es Waren, *frei* zwischen den Ländern zu zirkulieren.
+  The contract allows goods to circulate freely between countries.
 
   Les journalistes peuvent-ils vraiment écrire *librement* dans ce pays ?
-  Können Journalisten in diesem Land wirklich *frei* schreiben?
+  Can journalists really write freely in this country?
 
   Elle a traduit le poème assez *librement*.
-  Sie hat das Gedicht recht *frei* übersetzt.
+  She translated the poem quite freely.
 
   Le film est *librement* inspiré d'événements réels.
-  Der Film ist *frei* von realen Ereignissen inspiriert.
+  The film is *free* of real events.
 
   Nous devrions pouvoir choisir *librement* notre religion.
-  Wir sollten unsere Religion *frei* wählen können.
+  We should be *free* to choose our religion.
 
   Le prisonnier rêvait de marcher à nouveau *librement*.
-  Der Gefangene träumte davon, wieder *frei* gehen zu können.
+  The prisoner dreamed of being *free* again.
 
   Les enfants jouent *librement* dans le parc.
-  Die Kinder spielen *frei* im Park.
+  The children play freely in the park.
 
   Il faut laisser les idées circuler *librement*.
-  Man muss Ideen *frei* zirkulieren lassen.
+  You have to let ideas circulate freely.
 
   L'artiste a *librement* interprété le thème de l'exposition.
-  Der Künstler hat das Thema der Ausstellung *frei* interpretiert.
+  The artist has freely interpreted the theme of the exhibition.
 
   Dans ce groupe, chacun peut s'exprimer *librement*.
-  In dieser Gruppe kann sich jeder *ungezwungen* ausdrücken.
+  In this group, everyone can express himself informally.
 
   Elle a avoué *librement* ses erreurs.
-  Sie hat ihre Fehler *freimütig* eingestanden.
+  She openly acknowledged her mistakes.
 
   Le contrat a été *librement* consenti par les deux parties.
-  Der Vertrag wurde von beiden Parteien *freiwillig* vereinbart.
+  The contract was agreed voluntarily by both parties.
 
   Les électeurs ont voté *librement* lors des élections.
-  Die Wähler haben bei den Wahlen *frei* abgestimmt.
+  The voters voted freely in the elections.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

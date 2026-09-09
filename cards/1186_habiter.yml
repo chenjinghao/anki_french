@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1186
 Wort: habiter
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: habiter
 Femininum / Plural: ''
 IPA: \a.bi.te\
-Definition: wohnen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: living
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai *habité* dix ans la France.
-  Ich habe zehn Jahre in Frankreich *gewohnt*.
+  I lived in France for ten years.
 
   Marie *habite* toute seule depuis son divorce.
-  Marie *wohnt* seit ihrer Scheidung allein.
+  Marie has been living alone since she divorced.
 
   Les pandas géants *habitent* principalement les forêts de bambous.
-  Die Großen Pandas *leben* hauptsächlich in Bambuwäldern.
+  The Great Pandas *live* mainly in Bambu forests.
 
   Nous *habitons* dans un petit appartement au centre-ville.
-  Wir *wohnen* in einer kleinen Wohnung im Stadtzentrum.
+  We live in a small apartment in the city center.
 
   Cette maison n'est plus *habitée* depuis des années.
-  Dieses Haus ist seit Jahren nicht mehr *bewohnt*.
+  This house hasn't been *inhabited* in years.
 
   Un sentiment de culpabilité *habite* son esprit jour et nuit.
-  Ein Schuldgefühl *wohnt* Tag und Nacht in seinem Geist.
+  A sense of guilt *lives* day and night in his mind.
 
   Pierre *habite* chez ses parents jusqu'à la fin de ses études.
-  Pierre *wohnt* bis zum Ende seines Studiums bei seinen Eltern.
+  Pierre *lives* with his parents until the end of his studies.
 
   La tristesse qui *habite* son regard me brise le cœur.
-  Die Traurigkeit, die in seinem Blick *wohnt*, bricht mir das Herz.
+  The sadness that *lives* in his gaze breaks my heart.
 
   Est-ce que tu voudrais *habiter* avec moi ?
-  Möchtest du mit mir zusammen*wohnen*?
+  Would you like to live with me?
 
   Mes grands-parents ont *habité* cette ferme pendant cinquante ans.
-  Meine Großeltern haben fünfzig Jahre lang auf diesem Bauernhof *gewohnt*.
+  My grandparents lived on this farm for fifty years.
 
   Les colibris *habitent* exclusivement les Amériques.
-  Kolibris *leben* ausschließlich in Nord- und Südamerika.
+  Kolibris *live* exclusively in North and South America.
 
   Elle *habitera* au quatrième étage sans ascenseur.
-  Sie wird im vierten Stock ohne Aufzug *wohnen*.
+  She will live on the fourth floor without an elevator.
 
   Tu *habites* toujours au numéro 23 ?
-  *Wohnst* du noch in Nummer 23?
+  You still live in number 23?
 
   Cette région est peu *habitée* en hiver.
-  Diese Region ist im Winter kaum *bewohnt*.
+  This region is hardly *inhabited* in winter.
 
   La passion de la musique *habite* ce jeune violoniste.
-  Die Leidenschaft für Musik *wohnt* in diesem jungen Geiger.
+  The passion for music *lives* in this young violinist.
 
   Nos voisins *habitent* la maison d'en face.
-  Unsere Nachbarn *bewohnen* das Haus gegenüber.
+  Our neighbors live in the house across the street.
 
   Je préfère *habiter* en ville plutôt qu'à la campagne.
-  Ich *wohne* lieber in der Stadt als auf dem Land.
+  I prefer to live in the city rather than in the countryside.
 
   Ces oiseaux migrateurs *habitent* nos régions en été.
-  Diese Zugvögel *leben* im Sommer in unseren Regionen.
+  These migratory birds *live* in our regions in the summer.
 
   Les étudiants *habitent* souvent en colocation.
-  Studenten *wohnen* oft in Wohngemeinschaften.
+  Students often live in residential communities.
 
   La grâce divine *habite* en vous.
-  Die göttliche Gnade *wohnt* in euch.
+  Divine grace dwells in you.
 
   Nous avons *habité* ensemble pendant trois ans.
-  Wir haben drei Jahre zusammen*gewohnt*.
+  We lived together for three years.
 
   Cette planète pourrait être *habitée* par des microorganismes.
-  Dieser Planet könnte von Mikroorganismen *bewohnt* sein.
+  This planet could be *inhabited* by microorganisms.
 
   Mon frère *habite* dans un quartier tranquille.
-  Mein Bruder *wohnt* in einem ruhigen Viertel.
+  My brother *lives* in a quiet neighborhood.
 
   Les loups *habitaient* autrefois toute l'Europe.
-  Früher *lebten* Wölfe in ganz Europa.
+  In the past, wolves *lived* all over Europe.
 
   Une force mystérieuse semblait *habiter* ce lieu.
-  Eine mysteriöse Kraft schien diesen Ort zu *bewohnen*.
+  A mysterious force seemed to *inhabit* this place.
 
   Elle *habite* à deux pas de son travail.
-  Sie *wohnt* nur einen Katzensprung von ihrer Arbeit entfernt.
+  She *lives* a stone's throw from her work.
 
   Thomas *habite* au 17, rue des Lilas.
-  Thomas *wohnt* in der Rue des Lilas Nummer 17.
+  Thomas *lives* on Rue des Lilas No. 17.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

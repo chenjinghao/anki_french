@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4062
 Wort: détecter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: détecter
 Femininum / Plural: ''
 IPA: \de.tɛk.te\
-Definition: aufspüren
-Register: ↘Fiktion ↗Sachtext ↘Mündlich
+Definition: Tracking
+Register: ↘fiction ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les fuites sont difficiles à *détecter*.
-  Lecks sind schwer zu *aufzuspüren*.
+  Leaks are hard to track.
 
   Le radar a *détecté* un avion inconnu au-dessus de la ville.
-  Das Radar hat ein unbekanntes Flugzeug *geortet*.
+  The radar has detected an unknown plane.
 
   L'appareil permet de *détecter* les ondes radioélectriques à grande distance.
-  Das Gerät ermöglicht es, elektromagnetische Wellen auf große Entfernung zu *aufzuspüren*.
+  The device allows to detect electromagnetic waves at a long distance.
 
   Les chiens peuvent *détecter* des drogues cachées dans les bagages.
-  Hunde können versteckte Drogen im Gepäck *aufspüren*.
+  Dogs can track hidden drugs in their luggage.
 
   Les médecins ont *détecté* sa maladie très tôt.
-  Die Ärzte haben seine Krankheit sehr früh *aufgedeckt*.
+  The doctors discovered his illness very early.
 
   La police a réussi à *détecter* le réseau criminel après des mois d'enquête.
-  Der Polizei ist es nach monatelangen Ermittlungen gelungen, das kriminelle Netzwerk *ausfindig zu machen*.
+  After months of investigation, the police managed to locate the criminal network.
 
   Un nouveau système pour *détecter* les mines terrestres a été développé.
-  Ein neues System zur *Ortung* von Landminen wurde entwickelt.
+  A new system for the *location* of landmines has been developed.
 
   Les satellites peuvent *détecter* les mouvements des bateaux en mer.
-  Die Satelliten können die Bewegungen der Schiffe auf See *orten*.
+  The satellites can locate the movements of the ships at sea.
 
   L'audit a *détecté* plusieurs erreurs dans la comptabilité.
-  Die Prüfung hat mehrere Fehler in der Buchhaltung *aufgedeckt*.
+  The audit revealed several errors in the accounting.
 
   Les géologues ont *détecté* un nouveau filon d'or dans la montagne.
-  Die Geologen haben eine neue Goldader im Berg *aufgespürt*.
+  Geologists have *tracked* a new gold vein in the mountain.
 
   Une fissure a été *détectée* dans le mur de la centrale.
-  Ein Riss wurde in der Kraftwerksmauer *entdeckt*.
+  A crack was *discovered* in the power plant wall.
 
   Le système a *détecté* une intrusion dans le réseau informatique.
-  Das System hat einen Einbruch ins Computernetzwerk *aufgedeckt*.
+  The system revealed a break-in to the computer network.
 
   Les chercheurs ont *détecté* des traces de vie sur la planète.
-  Die Forscher haben Lebensspuren auf dem Planeten *aufgespürt*.
+  The researchers have *tracked* down traces of life on the planet.
 
   L'appareil peut *détecter* la présence de rayonnements radioactifs.
-  Das Gerät kann das Vorhandensein radioaktiver Strahlung *aufspüren*.
+  The device can detect the presence of radioactive radiation.
 
   Le mentor a rapidement *détecté* le talent de son élève.
-  Der Mentor hat das Talent seines Schülers schnell *entdeckt*.
+  The mentor quickly *discovered* his student's talent.
 
   J'ai tout de suite *détecté* le mensonge dans sa voix.
-  Ich habe die Lüge in seiner Stimme sofort *aufgedeckt*.
+  I immediately exposed the lie in his voice.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

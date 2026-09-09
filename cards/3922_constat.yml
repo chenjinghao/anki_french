@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3922
 Wort: constat
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le constat
 Femininum / Plural: ''
 IPA: \kɔ̃s.ta\
-Definition: Feststellung, Protokoll
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Protocol, Protocol
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces associations en sont arrivées à ce *constat*.
-  Die Verbände sind zu dieser *Feststellung* gekommen.
+  The associations have come to this conclusion.
 
   Après l'accident, j'ai dû faire un *constat* avec l'autre conducteur.
-  Nach dem Unfall musste ich mit dem anderen Fahrer ein *Protokoll* aufnehmen.
+  After the accident, I had to record with the other driver.
 
   Le *constat* d'échec de cette politique est évident pour tout le monde.
-  Das *Scheitern* dieser Politik ist für alle offensichtlich.
+  The *failure* of this policy is obvious to all.
 
   Pour éviter tout malentendu, nous avons fait établir un *constat* d'huissier.
-  Um Missverständnisse zu vermeiden, haben wir einen Gerichtsvollzieher ein *Protokoll* erstellen lassen.
+  To avoid misunderstandings, we had a bailiff draw up a record.
 
   Le juge a demandé un *constat* détaillé des dégâts.
-  Der Richter hat eine detaillierte *Bestandsaufnahme* der Schäden verlangt.
+  The judge has requested a detailed inventory of the damage.
 
   Avant de partir en vacances, nous avons fait un *constat* des lieux avec notre nouveau locataire.
-  Vor unserem Urlaub haben wir mit unserem neuen Mieter ein Übergabe*protokoll* gemacht.
+  Before our holiday we made a transfer *protocol* with our new tenant.
 
   Le *constat* d'impuissance face à cette situation est alarmant.
-  Die *Feststellung* der Machtlosigkeit angesichts dieser Situation ist alarmierend.
+  The determination of powerlessness in the face of this situation is alarming.
 
   Suite à l'inspection, les experts ont dressé un *constat* inquiétant.
-  Nach der Inspektion haben die Experten eine beunruhigende *Bestandsaufnahme* erstellt.
+  After the inspection, the experts have prepared a worrying inventory.
 
   Le rapport présente un *constat* détaillé de la situation économique.
-  Der Bericht enthält eine detaillierte *Analyse* der wirtschaftlichen Situation.
+  The report contains a detailed *analysis* of the economic situation.
 
   Un *constat* amiable a été signé par les deux parties.
-  Ein Unfall*bericht* wurde von beiden Parteien unterschrieben.
+  An accident *report* was signed by both parties.
 
   Le chercheur a partagé ses *constats* lors de la conférence.
-  Der Forscher teilte seine *Erkenntnisse* während der Konferenz mit.
+  The researcher shared his *findings* during the conference.
 
   Les *constats* de cette étude sont vraiment surprenants.
-  Die *Ergebnisse* dieser Studie sind wirklich überraschend.
+  The *results* of this study are really surprising.
 
   Le propriétaire a fait établir un *constat* avant les travaux.
-  Der Eigentümer ließ vor den Arbeiten ein *Protokoll* anfertigen.
+  The owner had a *protocol* drawn up before the work.
 
   Son *constat* sur l'état de l'environnement est alarmant.
-  Seine *Einschätzung* des Umweltzustands ist alarmierend.
+  His *assessment* of the environmental condition is alarming.
 
   La police a dressé un *constat* immédiatement après l'incident.
-  Die Polizei hat unmittelbar nach dem Vorfall ein *Protokoll* aufgenommen.
+  The police recorded a record immediately after the incident.
 
   Les scientifiques ont partagé leurs *constats* préliminaires.
-  Die Wissenschaftler haben ihre vorläufigen *Befunde* mitgeteilt.
+  The scientists have reported their preliminary *findings*.
 
   Ce *constat* de carence doit être transmis au tribunal.
-  Dieser Mangel*bericht* muss dem Gericht übermittelt werden.
+  This deficiency *report* must be transmitted to the court.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

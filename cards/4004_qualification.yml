@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4004
 Wort: qualification
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la qualification
 Femininum / Plural: ''
 IPA: \ka.li.fi.ka.sjɔ̃\
-Definition: Qualifikation
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Qualification
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On n'a pas passé les *qualifications*.
-  Wir haben die *Qualifikation* nicht geschafft.
+  We didn't get the *qualification*.
 
   Les *qualifications* pour la Coupe du monde commencent la semaine prochaine.
-  Die *Qualifikations*spiele für die Weltmeisterschaft beginnen nächste Woche.
+  The qualifying games for the World Cup will start next week.
 
   Sa *qualification* professionnelle lui a permis de trouver rapidement un emploi.
-  Seine berufliche *Qualifikation* hat ihm geholfen, schnell einen Job zu finden.
+  His professional qualifications helped him find a job quickly.
 
   L'entreprise exige une *qualification* en informatique.
-  Das Unternehmen verlangt *Qualifikationen* in der Informatik.
+  The company requires *qualifications* in computer science.
 
   Le juge a retenu la *qualification* de meurtre avec préméditation.
-  Der Richter legte die *Einstufung* als Mord mit Vorsatz fest.
+  The judge determined the *classification* as murder with intent.
 
   La *qualification* d'aventurier lui convient parfaitement.
-  Die *Bezeichnung* Abenteurer passt perfekt zu ihm.
+  The name adventurer fits perfectly with him.
 
   Cette *qualification* injurieuse a provoqué un scandale.
-  Diese beleidigende *Bezeichnung* hat einen Skandal ausgelöst.
+  This insulting term has caused a scandal.
 
   Il manque de *qualification* pour ce poste de direction.
-  Ihm fehlt die *Qualifikation* für diese Führungsposition.
+  He lacks the *qualification* for this leadership position.
 
   La *qualification* du cheval pour le Grand Prix est compromise.
-  Die *Qualifikation* des Pferdes für den Grand Prix ist gefährdet.
+  The *qualification* of the horse for the Grand Prix is at risk.
 
   La grille de salaires dépend du niveau de *qualification*.
-  Die Gehaltstabelle hängt vom *Qualifikations*niveau ab.
+  The salary table depends on the level of qualification.
 
   Sa *qualification* en mathématiques est impressionnante.
-  Seine *Qualifizierung* in Mathematik ist beeindruckend.
+  His *qualification* in mathematics is impressive.
 
   Le temps n'était pas suffisant pour obtenir la *qualification*.
-  Die Zeit reichte nicht für die *Qualifikation*.
+  The time was not enough for the *qualification*.
 
   Les joueurs doivent passer par les *qualifications* pour participer au tournoi.
-  Die Spieler müssen die *Qualifikation* durchlaufen, um am Turnier teilzunehmen.
+  Players must pass the *qualification* to participate in the tournament.
 
   Cette *qualification* flatteuse ne reflète pas la réalité.
-  Diese schmeichelhafte *Bezeichnung* entspricht nicht der Realität.
+  This flattering term does not correspond to reality.
 
   La *qualification* de l'accord en tant que contrat est contestée.
-  Die rechtliche *Einstufung* der Vereinbarung als Vertrag wird angefochten.
+  The legal *classification* of the agreement as a contract is challenged.
 
   La *qualification* professionnelle des employés s'améliore constamment.
-  Die berufliche *Qualifikation* der Mitarbeiter verbessert sich ständig.
+  The professional qualifications of the employees are constantly improving.
 
   Il n'a pas la *qualification* requise pour exercer ce métier.
-  Er hat nicht die erforderliche *Qualifikation* für diesen Beruf.
+  He does not have the necessary qualifications for this profession.
 
   La *qualification* pour les Jeux olympiques était son objectif principal.
-  Die *Qualifikation* für die Olympischen Spiele war sein Hauptziel.
+  The *qualification* for the Olympic Games was his main goal.
 
   L'équipe a obtenu sa *qualification* pour la finale hier soir.
-  Die Mannschaft hat gestern Abend die *Qualifikation* für das Finale erreicht.
+  The team reached the final *qualification* last night.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

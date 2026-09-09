@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1566
 Wort: médical
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: médical
 Femininum / Plural: médicale
 IPA: \me.di.kal\
-Definition: medizinisch
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: medical
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Sans aide *médicale*, je vais mourir.
-  Ohne *ärztliche* Hilfe werde ich sterben.
+  Without *medical* help, I'm gonna die.
 
   Les soins *médicaux* dans cet hôpital sont excellents.
-  Die *medizinische* Versorgung in diesem Krankenhaus ist ausgezeichnet.
+  The *medical* care at this hospital is excellent.
 
   Elle a passé une visite *médicale* pour son nouveau travail.
-  Sie hat für ihre neue Arbeit eine *ärztliche* Untersuchung gemacht.
+  She did a *medical* examination for her new job.
 
   Le secret *médical* est une obligation pour tous les médecins.
-  Die *ärztliche* Schweigepflicht ist eine Verpflichtung für alle Ärzte.
+  *Medical* confidentiality is an obligation for all doctors.
 
   Mes études *médicales* ont duré six ans.
-  Mein *Medizin*studium hat sechs Jahre gedauert.
+  My medical studies took six years.
 
   Mon frère travaille dans un cabinet *médical* au centre-ville.
-  Mein Bruder arbeitet in einer *Arzt*praxis im Stadtzentrum.
+  My brother works at a *doctor*'s office in the city centre.
 
   Le corps *médical* a protesté contre les nouvelles réformes.
-  Die *Ärzte*schaft hat gegen die neuen Reformen protestiert.
+  The medical profession has protested against the new reforms.
 
   Il faut un certificat *médical* pour justifier ton absence.
-  Du brauchst ein *ärztliches* Attest, um dein Fehlen zu rechtfertigen.
+  You need a *medical* certificate to justify your absence.
 
   Le délégué *médical* nous a présenté de nouveaux médicaments.
-  Der *Pharma*referent hat uns neue Medikamente vorgestellt.
+  The pharmaceutical officer introduced us to new drugs.
 
   La recherche *médicale* a fait d'énormes progrès ces dernières années.
-  Die *medizinische* Forschung hat in den letzten Jahren enorme Fortschritte gemacht.
+  *Medical* research has made enormous progress in recent years.
 
   Son traitement *médical* dure depuis trois mois.
-  Seine *medizinische* Behandlung dauert seit drei Monaten.
+  His *medical* treatment lasts for three months.
 
   Ses succès *médicaux* sont remarquables pour son âge.
-  Seine *ärztlichen* Erfolge sind bemerkenswert für sein Alter.
+  His *medical* achievements are remarkable for his age.
 
   Je ne comprends pas ce jargon *médical*.
-  Ich verstehe diesen *Mediziner*jargon nicht.
+  I don't understand this *medical* jargon.
 
   Les professions *médicales* sont très respectées dans notre société.
-  *Medizinische* Berufe werden in unserer Gesellschaft sehr respektiert.
+  *Medical* professions are very respected in our society.
 
   L'équipement *médical* de cette clinique est ultramoderne.
-  Die *medizinische* Ausstattung dieser Klinik ist hochmodern.
+  The *medical* equipment of this clinic is highly modern.
 
   Un dossier *médical* a été créé pour chaque patient.
-  Für jeden Patienten wurde eine *medizinische* Akte angelegt.
+  A *medical* file was created for each patient.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

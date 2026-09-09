@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2739
 Wort: exclusivement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exclusivement
 Femininum / Plural: ''
 IPA: \ɛk.skly.ziv.mɑ̃\
-Definition: ausschließlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Excluding:
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils avaient des ventes *exclusivement* au Japon.
-  Sie hatten Verkäufe *ausschließlich* in Japan.
+  They had sales exclusively in Japan.
 
   Cette boutique vend *exclusivement* des produits de luxe.
-  Dieser Laden verkauft *ausschließlich* Luxusprodukte.
+  This store only sells luxury products.
 
   Le concert est réservé *exclusivement* aux membres du club.
-  Das Konzert ist *exklusiv* für Clubmitglieder reserviert.
+  The concert is reserved exclusively for club members.
 
   Elle se nourrit *exclusivement* de fruits et de légumes.
-  Sie ernährt sich *ausschließlich* von Obst und Gemüse.
+  It feeds exclusively on fruits and vegetables.
 
   Ce train est destiné *exclusivement* aux voyageurs pour Paris.
-  Dieser Zug ist *ausschließlich* für Reisende nach Paris bestimmt.
+  This train is intended exclusively for travellers to Paris.
 
   La conférence s'adresse *exclusivement* aux professionnels du secteur.
-  Die Konferenz richtet sich *ausschließlich* an Fachleute der Branche.
+  The conference is aimed exclusively at professionals in the industry.
 
   "Je ne bois *exclusivement* que du thé vert."
-  "Ich trinke *ausschließlich* grünen Tee."
+  "I only drink green tea."
 
   Le musée sera ouvert *exclusivement* les week-ends pendant l'hiver.
-  Das Museum wird im Winter *ausschließlich* an den Wochenenden geöffnet sein.
+  The museum will be open only on weekends in winter.
 
   Cette offre est valable *exclusivement* en ligne, pas en magasin.
-  Dieses Angebot gilt *ausschließlich* online, nicht im Geschäft.
+  This offer applies exclusively online, not in business.
 
   Il se consacre *exclusivement* à sa carrière depuis son divorce.
-  Er widmet sich seit seiner Scheidung *ausschließlich* seiner Karriere.
+  He has devoted himself exclusively to his career since his divorce.
 
   L'accès à la salle VIP est *exclusivement* réservé aux clients premium.
-  Der Zugang zum VIP-Raum ist *exklusiv* für Premium-Kunden reserviert.
+  Access to the VIP room is reserved exclusively for premium customers.
 
   Ces informations sont destinées *exclusivement* à un usage interne.
-  Diese Informationen sind *ausschließlich* für den internen Gebrauch bestimmt.
+  This information is intended exclusively for internal use.
 
   La promotion est valable du 1er au 30 juin *exclusivement*.
-  Die Aktion gilt *ausschließlich* vom 1. bis zum 30. Juni.
+  The action shall apply exclusively from 1 to 30 June.
 
   Elle lit *exclusivement* des romans policiers pour se détendre.
-  Sie liest zur Entspannung *ausschließlich* Kriminalromane.
+  She reads only crime novels for relaxation.
 
   Notre entreprise travaille *exclusivement* avec des fournisseurs locaux.
-  Unser Unternehmen arbeitet *ausschließlich* mit lokalen Lieferanten zusammen.
+  Our company works exclusively with local suppliers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

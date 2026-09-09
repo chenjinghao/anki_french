@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1605
 Wort: incapable
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: incapable
 Femininum / Plural: ''
 IPA: \ɛ̃.ka.pabl\
-Definition: unfähig
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Incapacitated
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est *incapable* de rentrer dans des détails concrets.
-  Er ist *unfähig*, auf konkrete Details einzugehen.
+  He is unable to respond to specific details.
 
   Elle est *incapable* de rester concentrée plus de cinq minutes.
-  Sie ist *unfähig*, länger als fünf Minuten konzentriert zu bleiben.
+  She's unable to stay focused for more than five minutes.
 
   Cette vieille voiture est *incapable* de démarrer par temps froid.
-  Dieses alte Auto ist bei kaltem Wetter *nicht fähig* zu starten.
+  This old car is not able to start in cold weather.
 
   Mon petit frère est *incapable* de dormir sans sa peluche préférée.
-  Mein kleiner Bruder ist *unfähig*, ohne sein Lieblingskuscheltier zu schlafen.
+  My little brother is unable to sleep without his favorite cuddly toy.
 
   Pierre s'est montré *incapable* de tenir sa promesse.
-  Pierre hat sich als *unfähig* erwiesen, sein Versprechen zu halten.
+  Pierre has proved incapable of keeping his promise.
 
   Le nouveau stagiaire est totalement *incapable*.
-  Der neue Praktikant ist völlig *unfähig*.
+  The new intern is completely incapable.
 
   Je suis *incapable* de comprendre son comportement.
-  Ich bin *außerstande*, sein Verhalten zu verstehen.
+  I'm unable to understand his behavior.
 
   Cette imprimante est *incapable* de produire des documents en couleur.
-  Dieser Drucker ist *nicht imstande*, farbige Dokumente zu drucken.
+  This printer is *unable to* print colored documents.
 
   Les experts l'ont déclaré *incapable* de gérer ses propres affaires.
-  Die Experten haben ihn für geschäfts*unfähig* erklärt.
+  The experts have declared him *incapacitated*.
 
   Son anxiété la rend *incapable* de parler en public.
-  Ihre Angst macht sie *unfähig*, öffentlich zu sprechen.
+  Their fear makes them unable to speak publicly.
 
   Cet ordinateur est *incapable* de faire tourner les nouveaux jeux.
-  Dieser Computer ist *nicht fähig*, die neuen Spiele laufen zu lassen.
+  This computer is not capable of running the new games.
 
   Marie est *incapable* de mentir à ses parents.
-  Marie ist *unfähig*, ihre Eltern anzulügen.
+  Marie is incapable of lying to her parents.
 
   Le robot est *incapable* de reconnaître les visages humains.
-  Der Roboter ist *nicht fähig*, menschliche Gesichter zu erkennen.
+  The robot is unable to recognize human faces.
 
   Cette terre aride est *incapable* de nourrir les cultures.
-  Dieser trockene Boden ist *unfähig*, die Pflanzen zu ernähren.
+  This dry soil is unable to feed the plants.
 
   L'équipe s'est révélée *incapable* d'atteindre ses objectifs.
-  Das Team hat sich als *unfähig* erwiesen, seine Ziele zu erreichen.
+  The team has proved incapable of achieving its goals.
 
   Après l'accident, il était *incapable* de marcher.
-  Nach dem Unfall war er *unfähig* zu gehen.
+  After the accident, he was unable to leave.
 
   Son fils est *incapable* de rester assis tranquillement.
-  Ihr Sohn ist *unfähig*, ruhig sitzen zu bleiben.
+  Your son is unable to sit still.
 
   Le patient est temporairement *incapable* de travailler.
-  Der Patient ist vorübergehend arbeits*unfähig*.
+  The patient is temporarily unable to work.
 
   Je me sens *incapable* de prendre une décision maintenant.
-  Ich fühle mich *unfähig*, jetzt eine Entscheidung zu treffen.
+  I feel unable to make a decision now.
 
   Cette machine est *incapable* de fonctionner correctement.
-  Diese Maschine ist *nicht fähig*, richtig zu funktionieren.
+  This machine is not capable of working properly.
 
   Le chien est *incapable* de suivre des ordres simples.
-  Der Hund ist *unfähig*, einfache Befehle zu befolgen.
+  The dog is unable to follow simple commands.
 
   Les juges l'ont déclaré *incapable* d'exercer ses droits civiques.
-  Die Richter haben ihn für *unfähig* erklärt, seine Bürgerrechte auszuüben.
+  The judges have declared him incapable of exercising his civil rights.
 
   Mon collègue est *incapable* d'accepter les critiques.
-  Mein Kollege ist *unfähig*, Kritik anzunehmen.
+  My colleague is unable to accept criticism.
 
   Cette batterie est *incapable* de tenir plus de deux heures.
-  Diese Batterie ist *nicht fähig*, länger als zwei Stunden zu halten.
+  This battery is not capable of holding for more than two hours.
 
   Le nouveau directeur s'est montré *incapable* de gérer la crise.
-  Der neue Direktor hat sich als *unfähig* erwiesen, die Krise zu bewältigen.
+  The new director has proved incapable of coping with the crisis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

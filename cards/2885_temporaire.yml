@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2885
 Wort: temporaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: temporaire
 Femininum / Plural: ''
 IPA: \tɑ̃.pɔ.ʁɛʁ\
-Definition: befristet, auf Zeit
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: temporary,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La célébrité de tout président est *temporaire*.
-  Der Ruhm jedes Präsidenten ist *vorübergehend*.
+  The glory of every president is *temporary*.
 
   Elle a trouvé un emploi *temporaire* dans un bureau.
-  Sie hat eine *befristete* Anstellung in einem Büro gefunden.
+  She found a *temporary* job in an office.
 
   L'entreprise a embauché du personnel *temporaire* pour la période des fêtes.
-  Das Unternehmen hat für die Ferienzeit *vorübergehend* Personal eingestellt.
+  The company has temporarily hired staff for the holiday period.
 
   Cette exposition *temporaire* ne durera que deux mois.
-  Diese *Sonder*ausstellung wird nur zwei Monate dauern.
+  This *special* exhibition will only take two months.
 
   Le juge a prononcé une injonction *temporaire* contre l'entreprise.
-  Der Richter hat eine *einstweilige* Verfügung gegen das Unternehmen erlassen.
+  The judge has issued an injunction against the company.
 
   "Ce n'est qu'une douleur *temporaire*, ça va passer", a dit le médecin.
-  "Das ist nur ein *vorübergehender* Schmerz, er wird vergehen", sagte der Arzt.
+  "It's just a *temporary* pain, it's going to pass," the doctor said.
 
   Les réfugiés vivent dans des abris *temporaires* en attendant une solution permanente.
-  Die Flüchtlinge leben in *vorläufigen* Unterkünften, während sie auf eine dauerhafte Lösung warten.
+  The refugees live in temporary shelters while waiting for a permanent solution.
 
   Il a été nommé directeur *temporaire* pendant l'absence du titulaire.
-  Er wurde zum *vorübergehenden* Direktor während der Abwesenheit des Amtsinhabers ernannt.
+  He was appointed *temporary* director during the absence of the incumbent.
 
   Le gouvernement a mis en place des mesures *temporaires* pour faire face à la crise.
-  Die Regierung hat *vorübergehende* Maßnahmen zur Bewältigung der Krise eingeführt.
+  The government has introduced *temporary* measures to deal with the crisis.
 
   Cette route *temporaire* sera fermée dès que les travaux seront terminés.
-  Diese *provisorische* Straße wird geschlossen, sobald die Bauarbeiten abgeschlossen sind.
+  This *provisional* road will be closed as soon as the construction works are completed.
 
   Les étudiants cherchent souvent du travail *temporaire* pendant l'été.
-  Studenten suchen oft *Zeit*arbeit während des Sommers.
+  Students often seek temporary work during the summer.
 
   La ville a installé des toilettes *temporaires* pour le festival.
-  Die Stadt hat für das Festival *temporäre* Toiletten aufgestellt.
+  The city has set up *temporary* toilets for the festival.
 
   Cette loi *temporaire* expirera à la fin de l'année.
-  Dieses *befristete* Gesetz läuft am Ende des Jahres aus.
+  This *temporary* law expires at the end of the year.
 
   Le parking *temporaire* sera converti en parc public l'année prochaine.
-  Der *vorübergehende* Parkplatz wird nächstes Jahr in einen öffentlichen Park umgewandelt.
+  The *temporary* parking lot will be converted into a public park next year.
 
   L'agence de travail *temporaire* lui a trouvé un poste dans l'informatique.
-  Die *Zeit*arbeitsagentur hat ihm eine Stelle in der IT-Branche vermittelt.
+  The temporary employment agency has provided him with a job in the IT industry.
 
   Ces conteneurs servent d'hébergement *temporaire* aux sinistrés.
-  Diese Container dienen als *vorübergehende* Unterkunft für die Katastrophenopfer.
+  These containers serve as *temporary* shelter for disaster victims.
 
   Le permis de conduire *temporaire* est valable pendant trois mois.
-  Der *vorläufige* Führerschein ist drei Monate lang gültig.
+  The *provisional* licence is valid for three months.
 
   Une solution *temporaire* a été trouvée en attendant la réparation définitive.
-  Eine *vorübergehende* Lösung wurde gefunden, bis die endgültige Reparatur erfolgt.
+  A *temporary* solution was found until final repair.
 
   Les ouvriers *temporaires* ont été embauchés pour la saison des récoltes.
-  Die *Saison*arbeiter wurden für die Erntezeit eingestellt.
+  The seasonal workers were hired for harvest time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

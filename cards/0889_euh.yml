@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 889
 Wort: euh
 Wortart: intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: euh
 Femininum / Plural: ''
 IPA: \ø(ː)\
-Definition: äh
-Register: ↘Fiktion ↘Sachtext ↗Mündlich
+Definition: um
+Register: ↘fiction ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut *euh* avoir *euh* une intention particulière.
-  Man braucht *äh* eine *äh* bestimmte Absicht.
+  You need a certain intention.
 
   "*Euh*, je ne sais pas comment dire ça..."
-  "*Ähm*, ich weiß nicht, wie ich das sagen soll..."
+  "Oh, I don't know how to say that..."
 
   "*Euh*, vous êtes sûr de vouloir faire ça ?"
-  "*Hm*, sind Sie sicher, dass Sie das tun wollen?"
+  "*Hm*, are you sure you want to do this?"
 
   Le professeur a demandé : "*Euh*, qui peut répondre à cette question ?"
-  Der Lehrer fragte: "*Äh*, wer kann diese Frage beantworten?"
+  The teacher asked, "Eh, who can answer this question?"
 
   "*Euh*... en fait, j'ai complètement oublié ce que je voulais dire."
-  "*Ähm*... eigentlich habe ich völlig vergessen, was ich sagen wollte."
+  "Um... actually, I completely forgot what I was going to say."
 
   "Comment s'appelle-t-il déjà ? *Euh*... Jean, je crois."
-  "Wie heißt er noch mal? *Äh*... Jean, glaube ich."
+  "What's his name again?
 
   "*Euh*, non, ce n'est pas exactement ce que je voulais dire."
-  "*Ach*, nein, das ist nicht genau das, was ich sagen wollte."
+  "*Oh*, no, that's not exactly what I wanted to say."
 
   - "Est-ce qu'il est compétent ?"<br>- "*Euh*..."
-  - "Ist er kompetent?"<br>- "*Hm*..."
+  - "Is he competent?" - "*Hm*..."
 
   "*Euh*, attendez, laissez-moi réfléchir une minute."
-  "*Äh*, warten Sie, lassen Sie mich kurz nachdenken."
+  "*Uh*, wait, let me think for a minute."
 
   "*Euh*, c'est-à-dire que... la situation est compliquée."
-  "*Nun ja*, also... die Situation ist kompliziert."
+  "Well, well... the situation is complicated."
 
   "Je voudrais *euh*... trois croissants, s'il vous plaît."
-  "Ich hätte gerne *äh*... drei Croissants, bitte."
+  "I'd like to have three croissants, please."
 
   "*Euh*, bon... Comment dire ? Ce n'est pas si simple."
-  "*Tja*, also... Wie soll ich sagen? Es ist nicht so einfach."
+  "*Well*, so... how can I say it's not that simple?"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

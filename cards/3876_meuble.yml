@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3876
 Wort: meuble
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le meuble
 Femininum / Plural: ''
 IPA: \mœbl\
-Definition: Möbel
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Furniture
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On me cache derrière un *meuble*.
-  Man versteckt mich hinter einem *Möbelstück*.
+  They're hiding me behind a piece of *furniture*.
 
   Le *meuble* en chêne est devenu trop vieux pour être utilisé.
-  Das *Möbelstück* aus Eichenholz ist zu alt geworden, um es zu benutzen.
+  The piece of *furniture* made of oak has become too old to use it.
 
   Les nouveaux *meubles* de bureau sont arrivés ce matin.
-  Die neuen *Möbel* fürs Büro sind heute Morgen angekommen.
+  The new *furniture* for the office arrived this morning.
 
   Ma grand-mère m'a légué ses *meubles* anciens.
-  Meine Großmutter hat mir ihre antiken *Möbel* vererbt.
+  My grandmother gave me her antique *furniture*.
 
   Julie a acheté des *meubles* de jardin en plastique blanc.
-  Julie hat weiße Garten*möbel* aus Plastik gekauft.
+  Julie bought white plastic garden *furniture*.
 
   Il faut déplacer les *meubles* pour nettoyer derrière.
-  Man muss die *Möbel* verschieben, um dahinter zu putzen.
+  You have to move the *furniture* to clean it.
 
   Les *meubles* de cuisine sont en cours de livraison.
-  Die Küchen*möbel* werden gerade geliefert.
+  The kitchen *furniture* is just being delivered.
 
   "Il faut *sauver les meubles* avant la faillite de l'entreprise."
-  "Wir müssen *retten, was noch zu retten ist*, bevor die Firma pleitegeht."
+  "We have to save what's still to be saved before the company goes bankrupt."
 
   Ce *meuble hi-fi* vintage est parfait pour mon salon.
-  Dieser vintage *Stereoturm* ist perfekt für mein Wohnzimmer.
+  This vintage *stereo tower* is perfect for my living room.
 
   Le jardinier préfère travailler une terre *meuble*.
-  Der Gärtner arbeitet lieber mit *lockerem* Boden.
+  The gardener prefers to work with *loose* ground.
 
   Nos *meubles* de salle de bain sont résistants à l'humidité.
-  Unsere Badezimmer*möbel* sind feuchtigkeitsbeständig.
+  Our bathroom *furniture* is moisture resistant.
 
   Les *meubles de rangement* occupent tout le mur.
-  Die *Schränke* nehmen die ganze Wand ein.
+  The *cabinets* take the whole wall.
 
   Paul a hérité de plusieurs biens *meubles* de son oncle.
-  Paul hat mehrere *bewegliche* Güter von seinem Onkel geerbt.
+  Paul has inherited several movable goods from his uncle.
 
   Ce magasin vend des *meubles* rustiques faits main.
-  Dieser Laden verkauft handgemachte rustikale *Möbel*.
+  This shop sells handmade rustic *furniture*.
 
   Les *meubles* modernes ne correspondent pas au style de la maison.
-  Die modernen *Möbel* passen nicht zum Stil des Hauses.
+  The modern *furniture* does not match the style of the house.
 
   Le sol *meuble* permet aux plantes de bien s'enraciner.
-  Der *lockere* Boden ermöglicht es den Pflanzen, gut zu wurzeln.
+  The *loose* soil allows the plants to root well.
 
   Nous devons assurer tous nos biens *meubles*.
-  Wir müssen all unsere *beweglichen* Güter versichern.
+  We must insure all our movable goods.
 
   Ces *meubles* Empire valent une fortune.
-  Diese Empire-*Möbel* sind ein Vermögen wert.
+  These empire *furniture* is worth a fortune.
 
   Le *meuble* en merisier est magnifique dans cette pièce.
-  Das *Möbelstück* aus Kirschholz sieht in diesem Raum wunderschön aus.
+  The piece of *furniture* made of cherry wood looks beautiful in this room.
 
   Les *meubles* design attirent beaucoup de clients.
-  Die Design-*Möbel* ziehen viele Kunden an.
+  The design *furniture* attracts many customers.
 
   Les sables sont des formations *meubles*.
-  Sandböden sind *lockere* Formationen.
+  Sand soils are *loose* formations.
 
   "Nous avons réussi à *sauver les meubles* après l'inondation."
-  "Wir haben es geschafft, nach der Überschwemmung *zu retten, was noch zu retten war*."
+  "We managed to save after the flood, which was still to be saved."
 
   Ces *meubles* en acajou sont très élégants.
-  Diese *Möbel* aus Mahagoni sind sehr elegant.
+  These mahogany *furniture* are very elegant.
 
   Marie vend tous ses *meubles* avant de déménager à l'étranger.
-  Marie verkauft alle ihre *Möbel*, bevor sie ins Ausland zieht.
+  Marie sells all her *furniture* before moving abroad.
 
   Le notaire a fait l'inventaire des biens *meubles* et immeubles.
-  Der Notar hat ein Inventar der *beweglichen* und unbeweglichen Güter erstellt.
+  The notary has prepared an inventory of movable and immovable goods.
 
   Les dépôts calcaires *meubles* s'érodent facilement.
-  Die *lockeren* Kalkablagerungen erodieren leicht.
+  The *loose* lime deposits erod easily.
 
   Les *meubles* de haute époque sont très recherchés.
-  *Möbel* aus frühen Epochen sind sehr gefragt.
+  *Furniture* from early eras is in great demand.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

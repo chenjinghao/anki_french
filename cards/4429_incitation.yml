@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4429
 Wort: incitation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une incitation
 Femininum / Plural: ''
 IPA: \ɛ̃.si.ta.sjɔ̃\
-Definition: Anreiz, Ansporn
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Incentive, incentive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a eu de l'*incitation* au piratage.
-  Es gab *Anstiftung* zur Softwarepiraterie.
+  There was incitement to software piracy.
 
   Ces mesures sont une *incitation* à la création d'emplois.
-  Diese Maßnahmen sind ein *Anreiz* zur Schaffung von Arbeitsplätzen.
+  These measures are an *incentive* for job creation.
 
   Le gouvernement a mis en place des *incitations* fiscales pour les petites entreprises.
-  Die Regierung hat steuerliche *Anreize* für kleine Unternehmen eingeführt.
+  The government has introduced tax *incentives* for small businesses.
 
   Son comportement constitue une *incitation* à la violence.
-  Sein Verhalten stellt eine *Anstiftung* zur Gewalt dar.
+  His behavior is a incitement to violence.
 
   Les *incitations* de l'État ont encouragé l'investissement dans les énergies renouvelables.
-  Die staatlichen *Anreize* haben Investitionen in erneuerbare Energien gefördert.
+  Government *incentives* have encouraged investment in renewable energy.
 
   Ses paroles étaient une *incitation* au courage pour toute l'équipe.
-  Seine Worte waren ein *Ansporn* für das ganze Team.
+  His words were an *incentive* for the whole team.
 
   Le procureur a prouvé l'*incitation* au faux témoignage.
-  Der Staatsanwalt hat die *Verleitung* zur Falschaussage bewiesen.
+  The DA has proven misconduct.
 
   Cette récompense servira d'*incitation* pour les autres élèves.
-  Diese Belohnung wird als *Ansporn* für die anderen Schüler dienen.
+  This reward will serve as an *incentive* for the other students.
 
   L'*incitation* à la haine raciale est un délit grave.
-  Die *Anstiftung* zu rassistischem Hass ist eine schwere Straftat.
+  Incitement to racist hatred is a serious crime.
 
   Il a cédé à l'*incitation* de ses amis.
-  Er hat dem *Ansporn* seiner Freunde nachgegeben.
+  He gave in to the encouragement of his friends.
 
   Les nouvelles *incitations* fiscales favorisent l'innovation.
-  Die neuen steuerlichen *Anreize* fördern die Innovation.
+  The new tax *incentives* promote innovation.
 
   Cette prime représente une *incitation* à la performance.
-  Diese Prämie stellt einen *Anreiz* zur Leistung dar.
+  This premium is an *incentive* to benefit.
 
   L'*incitation* au repentir est un thème central de ce roman.
-  Der *Ansporn* zur Reue ist ein zentrales Thema dieses Romans.
+  The *incentive* to repentance is a central theme of this novel.
 
   Le juge l'a condamné pour *incitation* au crime.
-  Der Richter verurteilte ihn wegen *Anstiftung* zum Verbrechen.
+  The judge sentenced him for incitement to crime.
 
   Ces déclarations sont une *incitation* à la désobéissance civile.
-  Diese Erklärungen sind eine *Anstiftung* zum zivilen Ungehorsam.
+  These statements are an incitement to civil disobedience.
 
   L'*incitation* à la rupture du contrat lui a coûté son emploi.
-  Die *Verleitung* zum Vertragsbruch kostete ihn seinen Job.
+  He had a job to do when he got involved with breaking the contract.
 
   Le programme offre des *incitations* pour économiser l'énergie.
-  Das Programm bietet *Anreize* zum Energiesparen.
+  The programme provides *incentives* to save energy.
 
   Cette publicité constitue une *incitation* à la consommation excessive.
-  Diese Werbung stellt einen *Anreiz* zu übermäßigem Konsum dar.
+  This advertising is an *incentive* to excessive consumption.
 
   Son discours contenait des *incitations* à la révolte.
-  Seine Rede enthielt *Aufrufe* zum Aufstand.
+  His speech contained appeals for insurrection.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3862
 Wort: ultérieur
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ultérieur
 Femininum / Plural: ultérieure
 IPA: \yl.te.ʁjœʁ\
-Definition: spätere(-r/s), weitere(-r/s)
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: later(-r/s), further(-r/s)
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Sauvegardez-la pour un traitement *ultérieur*.
-  Speichern Sie sie zur *späteren* Bearbeitung.
+  Save it for *later* editing.
 
   Une édition *ultérieure* de ce livre contiendra un nouveau chapitre.
-  Eine *spätere* Ausgabe dieses Buches wird ein neues Kapitel enthalten.
+  A *later* edition of this book will contain a new chapter.
 
   Je vous transmettrai des informations *ultérieures* dès que possible.
-  Ich werde Ihnen *weitere* Informationen sobald wie möglich zukommen lassen.
+  I will provide you with further information as soon as possible.
 
   Toute modification *ultérieure* du contrat doit être approuvée par écrit.
-  Jede *spätere* Änderung des Vertrags muss schriftlich genehmigt werden.
+  Any subsequent amendment of the contract must be approved in writing.
 
   Dans une phase *ultérieure*, nous développerons ce projet.
-  In einer *späteren* Phase werden wir dieses Projekt entwickeln.
+  In a *later* phase, we will develop this project.
 
   Ces détails seront précisés lors d'une communication *ultérieure*.
-  Diese Details werden in einer *weiteren* Mitteilung präzisiert.
+  These details will be clarified in a further communication.
 
   La date *ultérieure* n'a pas encore été fixée.
-  Der *spätere* Termin steht noch nicht fest.
+  The *later* date is not yet fixed.
 
   Les développements *ultérieurs* ont montré qu'il avait raison.
-  Die *weiteren* Entwicklungen haben gezeigt, dass er Recht hatte.
+  Further developments have shown that he was right.
 
   Nous reportons la réunion à une date *ultérieure*.
-  Wir verschieben das Treffen auf einen *späteren* Zeitpunkt.
+  We'll postpone the meeting until *later*.
 
   Des études *ultérieures* seront nécessaires pour confirmer ces résultats.
-  *Weitere* Studien werden nötig sein, um diese Ergebnisse zu bestätigen.
+  Further studies will be necessary to confirm these results.
 
   Les analyses *ultérieures* ont révélé une erreur dans les calculs.
-  Die *späteren* Analysen haben einen Fehler in den Berechnungen aufgedeckt.
+  The *later* analyses have revealed an error in the calculations.
 
   Pour toute question *ultérieure*, n'hésitez pas à me contacter.
-  Für *weitere* Fragen können Sie sich jederzeit an mich wenden.
+  For further questions you can contact me at any time.
 
   Les événements *ultérieurs* ont prouvé que sa décision était sage.
-  Die *späteren* Ereignisse haben bewiesen, dass seine Entscheidung klug war.
+  *Later* events have proved that his decision was wise.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

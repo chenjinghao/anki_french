@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3099
 Wort: séquence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la séquence
 Femininum / Plural: ''
 IPA: \se.kɑ̃s\
-Definition: Sequenz, Abfolge
-Register: ↗Sachtext ↘Mündlich
+Definition: Sequence, sequence
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Certaines *séquences* virales protègent les cellules.
-  Bestimmte virale *Sequenzen* schützen die Zellen.
+  Certain viral *sequences* protect the cells.
 
   La *séquence* d'ADN détermine les caractéristiques génétiques.
-  Die DNA-*Sequenz* bestimmt die genetischen Merkmale.
+  The DNA *sequence* determines the genetic characteristics.
 
   Cette *séquence* de mouvements doit être répétée trois fois.
-  Diese Bewegungs*folge* muss dreimal wiederholt werden.
+  This movement sequence must be repeated three times.
 
   Une magnifique *séquence* de danse ouvre le film.
-  Eine wunderschöne Tanz*sequenz* eröffnet den Film.
+  A beautiful dance *sequence* opens the film.
 
   J'ai une *séquence* de cœur du six au dix.
-  Ich habe eine Herz*folge* von sechs bis zehn.
+  I have a heart sequence of six to ten.
 
   Le programme exécute la *séquence* d'instructions automatiquement.
-  Das Programm führt die Befehls*folge* automatisch aus.
+  The program executes the command sequence automatically.
 
   La *séquence* de la poursuite a été tournée à Paris.
-  Die Verfolgungs*sequenz* wurde in Paris gedreht.
+  The chase *sequence* was filmed in Paris.
 
   Le chercheur analyse la *séquence* peptidique de la protéine.
-  Der Forscher analysiert die Peptid*sequenz* des Proteins.
+  The researcher analyses the peptide *sequence* of the protein.
 
   Cette *séquence* vidéo montre les moments les plus importants.
-  Diese Video*sequenz* zeigt die wichtigsten Momente.
+  This video *sequence* shows the most important moments.
 
   La parade nuptiale suit toujours la même *séquence*.
-  Das Balzverhalten folgt immer der gleichen *Sequenz*.
+  Balt behavior always follows the same *sequence*.
 
   Le monteur a coupé plusieurs *séquences* du film.
-  Der Editor hat mehrere Film*sequenzen* herausgeschnitten.
+  The editor has cut out several movie sequences.
 
   Les joueurs ont tous une *séquence* de trèfle.
-  Die Spieler haben alle eine Kreuz*folge*.
+  The players all have a crucifixion.
 
   La *séquence* rythmique se répète tout au long du morceau.
-  Die rhythmische *Folge* wiederholt sich durch das ganze Stück.
+  The rhythmic sequence repeats through the whole piece.
 
   Cette *séquence* d'images raconte une histoire poignante.
-  Diese Bilder*sequenz* erzählt eine ergreifende Geschichte.
+  This *sequence* of images tells a gripping story.
 
   Le robot suit une *séquence* d'actions préprogrammée.
-  Der Roboter folgt einer vorprogrammierten Aktions*folge*.
+  The robot follows a preprogrammed action sequence.
 
   Les *séquences* codantes du gène ont été identifiées.
-  Die kodierenden *Sequenzen* des Gens wurden identifiziert.
+  The encoded *sequences* of the gene have been identified.
 
   La *séquence* des événements reste mystérieuse.
-  Die *Folge* der Ereignisse bleibt mysteriös.
+  The consequence of the events remains mysterious.
 
   Cette *séquence* d'apprentissage dure environ deux heures.
-  Diese Lern*sequenz* dauert ungefähr zwei Stunden.
+  This learning *sequence* takes about two hours.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

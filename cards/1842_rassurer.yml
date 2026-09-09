@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1842
 Wort: rassurer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rassurer
 Femininum / Plural: ''
 IPA: \ʁa.sy.ʁe\
-Definition: beruhigen, sicher fühlen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: calm, feel safe
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le premier travail consiste à *rassurer* le gosse.
-  Die erste Aufgabe besteht darin, das Kind zu *beruhigen*.
+  The first task is to calm the child.
 
   Le médecin a *rassuré* la patiente sur son état de santé.
-  Der Arzt hat die Patientin über ihren Gesundheitszustand *beruhigt*.
+  The doctor *calmed* the patient's health.
 
   "*Rassurez-vous*, tout se passera bien pendant l'examen," a dit le professeur.
-  "*Seien Sie unbesorgt*, alles wird gut gehen während der Prüfung," sagte der Lehrer.
+  "*Don't worry*, everything will go well during the exam," said the teacher.
 
   Après l'accident, les parents ont essayé de se *rassurer* mutuellement.
-  Nach dem Unfall versuchten die Eltern, sich gegenseitig zu *beruhigen*.
+  After the accident, the parents tried to calm each other down.
 
   Son discours a *rassuré* la population inquiète.
-  Seine Rede hat die besorgte Bevölkerung *beruhigt*.
+  His speech has *calmed* the troubled population.
 
   Je ne me sens pas très *rassuré* dans ce quartier la nuit.
-  Ich fühle mich nachts in dieser Gegend nicht sehr *sicher*.
+  I don't feel very *safe* in this area at night.
 
   Les nouvelles mesures ont *rassuré* les investisseurs sur l'avenir de l'entreprise.
-  Die neuen Maßnahmen haben die Investoren über die Zukunft des Unternehmens *beruhigt*.
+  The new measures have reassured investors about the future of the company.
 
   Il faut *rassurer* les enfants avant leur premier jour d'école.
-  Man muss die Kinder vor ihrem ersten Schultag *beruhigen*.
+  You have to calm the children before their first day of school.
 
   La présence de la police a *rassuré* les habitants du village.
-  Die Anwesenheit der Polizei hat die Dorfbewohner *beruhigt*.
+  The presence of the police has *calmed* the villagers.
 
   "Que les étudiants se *rassurent*, l'examen ne sera pas si difficile," a annoncé le professeur.
-  "Die Studenten können *ganz beruhigt sein*, die Prüfung wird nicht so schwer sein," kündigte der Professor an.
+  "The students can be quite calm, the exam won't be so difficult," the professor announced.
 
   Elle a essayé de *se rassurer* en respirant profondément avant son entretien d'embauche.
-  Sie versuchte, sich durch tiefes Atmen vor ihrem Vorstellungsgespräch zu *beruhigen*.
+  She tried to *calm down* by breathing deeply before her interview.
 
   Le succès de son premier livre l'a *rassuré* sur ses capacités d'écrivain.
-  Der Erfolg seines ersten Buches hat ihn hinsichtlich seiner Fähigkeiten als Schriftsteller *beruhigt*.
+  The success of his first book has reassured him with regard to his skills as a writer.
 
   Les explications du guide ont *rassuré* les touristes inquiets.
-  Die Erklärungen des Führers haben die besorgten Touristen *beruhigt*.
+  The statements of the guide have *calmed* the worried tourists.
 
   "*Rassurez-vous*, vos données personnelles sont en sécurité avec nous," a déclaré l'entreprise.
-  "*Seien Sie unbesorgt*, Ihre persönlichen Daten sind bei uns sicher," erklärte das Unternehmen.
+  "*Don't worry*, your personal data is safe with us," the company explained.
 
   Le sourire de sa mère a *rassuré* l'enfant effrayé.
-  Das Lächeln seiner Mutter hat das verängstigte Kind *beruhigt*.
+  His mother's smile *calmed* the frightened child.
 
   Malgré les efforts de ses amis pour le *rassurer*, il n'avait pas l'air très *rassuré* avant son examen de conduite.
-  Trotz der Bemühungen seiner Freunde, ihn zu *beruhigen*, wirkte er vor seiner Fahrprüfung nicht sehr *beruhigt*.
+  Despite his friends' efforts to calm him down, he did not seem very calm before his driving test.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

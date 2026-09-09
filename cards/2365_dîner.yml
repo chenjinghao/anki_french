@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2365
 Wort: dîner
 Wortart: vi, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le dîner
 Femininum / Plural: ''
 IPA: \di.ne\
-Definition: Abendessen; zu Abend essen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Dinner; dinner
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *dîner* sera bientôt prêt.
-  Das *Abendessen* wird bald fertig sein.
+  *Dinner* will be ready soon.
 
   Nous *dînons* toujours à sept heures.
-  Wir *essen* immer um sieben Uhr zu *Abend*.
+  We always have dinner at seven o'clock.
 
   Elle a préparé un *dîner* romantique aux chandelles.
-  Sie hat ein romantisches *Abendessen* bei Kerzenlicht vorbereitet.
+  She prepared a romantic candlelight *dinner*.
 
   Je vous invite à *dîner* chez moi vendredi soir.
-  Ich lade Sie am Freitagabend zum *Abendessen* zu mir ein.
+  I'll invite you to *dinner* on Friday night.
 
   Marc et Sophie ont *dîné* de pain et de fromage.
-  Marc und Sophie haben Brot und Käse zu *Abend* *gegessen*.
+  Marc and Sophie *ate* bread and cheese.
 
   Le *dîner* de gala aura lieu dans la grande salle.
-  Das Gala-*dinner* wird im großen Saal stattfinden.
+  The gala dinner will take place in the large hall.
 
   Les enfants, venez, le *dîner* est servi !
-  Kinder, kommt, das *Abendessen* ist fertig!
+  Kids, come on, *dinner*'s ready!
 
   Nous organisons un *dîner*-spectacle samedi prochain.
-  Wir organisieren am nächsten Samstag ein *Dinner* mit Show.
+  We'll organize a *dinner* with a show next Saturday.
 
   "Qui dort *dîne*", dit le proverbe.
-  "Wer schläft, *hat keinen Hunger*", sagt das Sprichwort.
+  "He who sleeps *is not hungry*," says the proverb.
 
   J'ai réservé une table pour le *dîner*.
-  Ich habe einen Tisch fürs *Abendessen* reserviert.
+  I've reserved a table for *dinner*.
 
   Elle a commandé un *dîner* pour deux personnes.
-  Sie hat ein *Abendessen* für zwei Personen bestellt.
+  She ordered a *dinner* for two people.
 
   Ils *dînent* souvent au restaurant.
-  Sie *essen* oft im Restaurant zu *Abend*.
+  They often have dinner at the restaurant.
 
   Le *dîner* de Noël rassemble toute la famille.
-  Das Weihnachts*essen* bringt die ganze Familie zusammen.
+  The Christmas dinner brings the whole family together.
 
   Nous avons été invités à un *dîner* officiel.
-  Wir wurden zu einem offiziellen *Dinner* eingeladen.
+  We were invited to an official *dinner*.
 
   As-tu déjà préparé le *dîner* ?
-  Hast du das *Abendessen* schon vorbereitet?
+  Have you prepared *dinner* yet?
 
   Pierre *dîne* toujours devant la télévision.
-  Pierre *isst* immer vor dem Fernseher zu *Abend*.
+  Pierre always *eats* dinner in front of the TV.
 
   Le *dîner*-débat commence à 20 heures précises.
-  Das Diskussions*dinner* beginnt um Punkt 20 Uhr.
+  The discussion dinner starts at 8 p.m.
 
   Nous devons annuler le *dîner* de ce soir.
-  Wir müssen das heutige *Abendessen* absagen.
+  We have to cancel tonight's *dinner*.
 
   Elle aime *dîner* tôt le soir.
-  Sie *isst* gerne früh zu *Abend*.
+  She likes to have dinner early.
 
   C'est l'heure du *dîner*, rentrons à la maison.
-  Es ist Zeit fürs *Abendessen*, lass uns nach Hause gehen.
+  It's time for *dinner*, let's go home.
 
   Le *dîner* aux chandelles était très romantique.
-  Das Kerzen*dinner* war sehr romantisch.
+  The candle dinner was very romantic.
 
   Je préfère *dîner* léger le soir.
-  Ich *esse* abends lieber leicht.
+  I prefer to *eat* lightly in the evening.
 
   Le chef prépare un *dîner* succulent.
-  Der Koch bereitet ein köstliches *Abendessen* zu.
+  The chef prepares a delicious *dinner*.
 
   Ils ont organisé un *dîner* placé pour cent personnes.
-  Sie haben ein *Dinner* mit Sitzordnung für hundert Personen organisiert.
+  You have organized a *dinner* with seating arrangements for a hundred people.
 
   Nous *dînons* en famille tous les soirs.
-  Wir *essen* jeden Abend mit der Familie zu *Abend*.
+  We have dinner with the family every night.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

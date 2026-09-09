@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 990
 Wort: effectuer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: effectuer
 Femininum / Plural: ''
 IPA: \e.fɛk.tɥe\
-Definition: ausführen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Run
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle avait *effectué* trois jours de prison.
-  Sie hatte drei Tage Gefängnis *abgesessen*.
+  She had been in prison for three days.
 
   L'entreprise *effectue* un investissement de 500 000 euros.
-  Das Unternehmen *tätigt* eine Investition von 500.000 Euro.
+  The company invests 500,000 euros.
 
   Le client doit *effectuer* le paiement avant la fin du mois.
-  Der Kunde muss die Zahlung vor Monatsende *leisten*.
+  The customer must make the payment before the end of the month.
 
   Notre avion *effectuera* un parcours de 8000 kilomètres.
-  Unser Flugzeug wird eine Strecke von 8000 Kilometern *zurücklegen*.
+  Our plane will cover a distance of 8000 kilometres.
 
   Le gouvernement *effectue* des réformes importantes dans l'éducation.
-  Die Regierung *führt* wichtige Reformen im Bildungswesen *durch*.
+  *The* government is carrying out important reforms in education.
 
   La livraison s'*effectuera* dans les trois jours ouvrables.
-  Die Lieferung wird innerhalb von drei Werktagen *erfolgen*.
+  The delivery will take place within three working days.
 
   Cette transaction s'*effectue* uniquement en ligne.
-  Diese Transaktion wird ausschließlich online *abgewickelt*.
+  This transaction will only be processed online.
 
   Le mouvement s'*effectue* lentement mais sûrement.
-  Die Bewegung wird langsam aber sicher *ausgeführt*.
+  The movement is carried out slowly but safely.
 
   La police *effectue* une enquête approfondie sur l'incident.
-  Die Polizei *führt* eine gründliche Untersuchung des Vorfalls *durch*.
+  *The* police are conducting a thorough investigation of the incident.
 
   Il a *effectué* toutes ses promesses de campagne.
-  Er hat alle seine Wahlversprechen *eingehalten*.
+  He kept all his election promises.
 
   Le chirurgien *effectue* une opération délicate.
-  Der Chirurg *führt* eine heikle Operation *durch*.
+  *The* surgeon is performing a delicate operation.
 
   La rentrée scolaire s'est *effectuée* sans problèmes.
-  Der Schulbeginn ist reibungslos *verlaufen*.
+  School starts smoothly.
 
   Les étudiants *effectuent* des calculs complexes.
-  Die Studenten *führen* komplexe Berechnungen *aus*.
+  *The* students perform complex calculations.
 
   Le conducteur *effectue* une manœuvre dangereuse.
-  Der Fahrer *führt* ein gefährliches Manöver *aus*.
+  *The* driver is carrying out a dangerous maneuver.
 
   La mise à jour du système s'*effectue* automatiquement.
-  Die Systemaktualisierung *erfolgt* automatisch.
+  The system update is done automatically.
 
   L'équipe *effectue* des tests rigoureux sur le nouveau produit.
-  Das Team *führt* gründliche Tests am neuen Produkt *durch*.
+  *The* team conducts thorough tests on the new product.
 
   Le transfert d'argent s'*effectuera* instantanément.
-  Die Geldüberweisung wird sofort *erfolgen*.
+  The money transfer will take place immediately.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

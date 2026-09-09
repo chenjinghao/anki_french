@@ -1,95 +1,95 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2548
 Wort: décès
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le décès
 Femininum / Plural: ''
 IPA: \de.sɛ\
-Definition: Tod, Ableben
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Death, death
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le suicide est une forme de *décès*.
-  Selbstmord ist eine Form des *Todes*.
+  Suicide is a form of *death*.
 
   Le médecin légiste a confirmé l'heure du *décès* à 3h45 du matin.
-  Der Gerichtsmediziner bestätigte den *Todes*zeitpunkt um 3:45 Uhr morgens.
+  The coroner confirmed the time of *death* at 3:45 a.m.
 
   Un *décès* causé par le sida est toujours une tragédie évitable.
-  Ein durch Aids verursachter *Tod* ist immer eine vermeidbare Tragödie.
+  A *death* caused by AIDS is always an avoidable tragedy.
 
   La mairie conserve tous les actes de *décès* depuis 1850.
-  Das Rathaus bewahrt alle *Sterbe*urkunden seit 1850 auf.
+  The town hall has kept all *death* certificates since 1850.
 
   Le magasin restera fermé pour cause de *décès* jusqu'à lundi.
-  Das Geschäft bleibt wegen eines *Todes*falls bis Montag geschlossen.
+  The business will be closed until Monday due to a *death*.
 
   Suite au *décès* de sa tante, elle a hérité d'une maison.
-  Nach dem *Ableben* ihrer Tante hat sie ein Haus geerbt.
+  After her aunt's *death*, she inherited a house.
 
   Les pompes funèbres ont envoyé le faire-part de *décès* aux proches.
-  Das Bestattungsunternehmen hat die *Todes*anzeige an die Angehörigen verschickt.
+  The funeral company sent the *death* notice to the relatives.
 
   Le nombre de *décès* a considérablement augmenté pendant la pandémie.
-  Die Zahl der *Sterbe*fälle ist während der Pandemie erheblich gestiegen.
+  The number of deaths has increased significantly during the pandemic.
 
   La cause du *décès* n'a pas encore été déterminée par les experts.
-  Die *Todes*ursache wurde von den Experten noch nicht ermittelt.
+  The cause of *death* has not yet been determined by the experts.
 
   La famille paie chaque mois une cotisation à la caisse de *décès*.
-  Die Familie zahlt jeden Monat einen Beitrag in die *Sterbe*kasse.
+  The family pays a contribution to the *death* fund each month.
 
   Le registre des *décès* montre une augmentation des cas de cancer.
-  Das *Sterbe*register zeigt einen Anstieg der Krebsfälle.
+  The *death* register shows an increase in cancer cases.
 
   Je dois déclarer le *décès* de mon père à la mairie aujourd'hui.
-  Ich muss heute den *Tod* meines Vaters beim Standesamt melden.
+  I have to report my father's *death* to the registry office today.
 
   Les statistiques montrent une baisse des *décès* sur les routes.
-  Die Statistiken zeigen einen Rückgang der *Todes*fälle im Straßenverkehr.
+  The statistics show a decrease in road deaths.
 
   L'infirmière a immédiatement constaté le *décès* du patient.
-  Die Krankenschwester stellte sofort den *Tod* des Patienten fest.
+  The nurse immediately noticed the patient's *death*.
 
   La succession sera réglée trois mois après le *décès*.
-  Der Nachlass wird drei Monate nach dem *Ableben* geregelt.
+  The estate is regulated three months after *death*.
 
   Le juge doit être notifié du *décès* dans les 24 heures.
-  Der Richter muss innerhalb von 24 Stunden über den *Todes*fall benachrichtigt werden.
+  The judge must be notified of the *death* within 24 hours.
 
   La police a ouvert une enquête pour déterminer les circonstances du *décès*.
-  Die Polizei hat eine Untersuchung eingeleitet, um die Umstände des *Todes* zu ermitteln.
+  The police have opened an investigation to investigate the circumstances of *death*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>mort</i> und <i>décès</i></div>
+    <div class="section-title"><i>mort</i> and <i>décès</i></div>
     <div class="section-content">
-      <p><span class="fr">Mort</span> (#276) bezieht sich auf den Zustand des Totseins oder das Konzept des Todes im weitesten Sinne. Es kann verwendet werden, um den Tod einer Person, eines Tieres oder sogar das Ende von etwas Nicht-Wörtlichem, wie einem Gefühl oder einer Ära, zu beschreiben.</p>
+      <p><span class="fr">Mort</span> (#276) refers to the state of death or the concept of death in the broadest sense. It can be used to describe the death of a person, an animal, or even the end of something non-literal, such as a feeling or an era.</p>
       <div class="examples">
         <div class="fr">Elle pleure la mort de son chat.</div>
-        <div class="de spoiler">Sie trauert um den Tod ihrer Katze.</div>
+        <div class="de spoiler">She mourns the death of her cat.</div>
         <div class="fr">La mort de l'empire a marqué l'histoire.</div>
-        <div class="de spoiler">Der Untergang des Reiches hat die Geschichte geprägt.</div>
+        <div class="de spoiler">The demise of the empire has shaped history.</div>
         <div class="fr">La mort lui semble moins effrayante maintenant.</div>
-        <div class="de spoiler">Der Tod erscheint ihm jetzt weniger beängstigend.</div>
+        <div class="de spoiler">Death now seems less scary to him.</div>
       </div>
-      <p><span class="fr">Décès</span> bezieht sich speziell auf den Akt des Sterbens oder Verscheidens und wird häufig in formellen oder administrativen Kontexten verwendet. Es impliziert den Prozess oder das Ereignis, das zum Tod führt, und nicht den Zustand des Totseins.</p>
+      <p><span class="fr">Décès</span> refers specifically to the act of dying or passing away and is often used in formal or administrative contexts. It implies the process or event leading to death, not the state of death.</p>
       <div class="examples">
         <div class="fr">Le certificat de décès a été signé par le médecin.</div>
-        <div class="de spoiler">Die Sterbeurkunde wurde vom Arzt unterzeichnet.</div>
+        <div class="de spoiler">The death certificate was signed by the doctor.</div>
         <div class="fr">Le nombre de décès dus à la maladie continue d'augmenter.</div>
-        <div class="de spoiler">Die Zahl der Todesfälle aufgrund der Krankheit steigt weiter an.</div>
+        <div class="de spoiler">The number of deaths due to the disease continues to increase.</div>
         <div class="fr">Ils ont annoncé le décès de leur président.</div>
-        <div class="de spoiler">Sie haben das Ableben ihres Präsidenten bekanntgegeben.</div>
+        <div class="de spoiler">They announced the death of their president.</div>
       </div>
     </div>
   </div>

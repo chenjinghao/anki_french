@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2767
 Wort: éventuellement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: éventuellement
 Femininum / Plural: ''
 IPA: \e.vɑ̃.tɥɛl.mɑ̃\
-Definition: eventuell, möglicherweise
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: possibly, possibly
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Des sanctions seront *éventuellement* prises.
-  *Gegebenenfalls* werden Sanktionen verhängt.
+  *Where appropriate*, sanctions shall be imposed.
 
   Je pourrais *éventuellement* te prêter ma voiture demain.
-  Ich könnte dir *eventuell* morgen mein Auto leihen.
+  I might be able to lend you my car tomorrow.
 
   La réunion pourrait *éventuellement* être reportée à la semaine prochaine.
-  Die Besprechung könnte *möglicherweise* auf nächste Woche verschoben werden.
+  The meeting could *possibly* be postponed until next week.
 
   Si tu as faim, il reste *éventuellement* un peu de soupe dans le frigo.
-  Falls du Hunger hast, ist *vielleicht* noch etwas Suppe im Kühlschrank.
+  If you're hungry, *maybe* there's some soup in the fridge.
 
   Nous pourrons *éventuellement* organiser une fête surprise pour son anniversaire.
-  Wir könnten *unter Umständen* eine Überraschungsparty für seinen Geburtstag organisieren.
+  We might be able to organize a surprise party for his birthday.
 
   Le musée fermera *éventuellement* plus tôt pendant les vacances.
-  Das Museum wird während der Ferien *eventuell* früher schließen.
+  The museum may close earlier during the holidays.
 
   *Éventuellement*, nous pourrions nous retrouver au café vers midi.
-  Wir könnten uns *gegebenenfalls* gegen Mittag im Café treffen.
+  We could meet at the café around noon.
 
   As-tu *éventuellement* vu mes lunettes quelque part ?
-  Hast du *zufällig* irgendwo meine Brille gesehen?
+  Did you happen to see my glasses somewhere?
 
   Le train aura *éventuellement* du retard à cause de la neige.
-  Der Zug wird sich *möglicherweise* wegen des Schnees verspäten.
+  The train may be late because of the snow.
 
   Si le temps le permet, nous irons *éventuellement* à la plage dimanche.
-  Wenn das Wetter es zulässt, gehen wir am Sonntag *eventuell* an den Strand.
+  If the weather allows, we may go to the beach on Sunday.
 
   Marie viendra *éventuellement* dîner avec nous ce soir.
-  Marie kommt *vielleicht* heute Abend mit uns essen.
+  Marie may be coming to dinner with us tonight.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

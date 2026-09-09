@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4203
 Wort: épidémie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une épidémie
 Femininum / Plural: ''
 IPA: \e.pi.de.mi\
-Definition: Seuche
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Disease
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*épidémie* de sida en Afrique est au pire.
-  Die AIDS-*Seuche* in Afrika ist am schlimmsten.
+  The AIDS *disease* in Africa is the worst.
 
   Les grandes *épidémies* de peste ont ravagé l'Europe médiévale.
-  Die großen *Seuchen* der Pest verwüsteten das mittelalterliche Europa.
+  The great plagues of the plague devastated medieval Europe.
 
   Une nouvelle *épidémie* de grippe s'est propagée dans tout le pays.
-  Eine neue Grippe-*Epidemie* hat sich im ganzen Land ausgebreitet.
+  A new flu *epidemic* has spread throughout the country.
 
   Les médecins ont réussi à enrayer l'*épidémie* avant qu'elle ne devienne une pandémie.
-  Die Ärzte konnten die *Seuche* eindämmen, bevor sie zur Pandemie wurde.
+  The doctors were able to contain the *disease* before it became a pandemic.
 
   Cette *épidémie* animale menace tout le bétail de la région.
-  Diese Tier*seuche* bedroht das gesamte Vieh in der Region.
+  This animal disease threatens the entire livestock in the region.
 
   La maladie s'est répandue à la façon d'une *épidémie*.
-  Die Krankheit breitete sich *seuchen*artig aus.
+  The disease spread like a disease.
 
   Une *épidémie* de suicides a frappé cette ville industrielle.
-  Eine Selbstmord*welle* hat diese Industriestadt getroffen.
+  A suicide *wave* hit this industrial city.
 
   L'*épidémie* de grippe espagnole a fait des millions de victimes.
-  Die spanische Grippe-*Epidemie* forderte Millionen Opfer.
+  The Spanish flu *epidemic* claimed millions of victims.
 
   Cette *épidémie* de divorces inquiète les sociologues.
-  Diese Scheidungs*welle* beunruhigt die Soziologen.
+  This *wave* of divorce worries the sociologists.
 
   Les autorités surveillent de près cette nouvelle *épidémie*.
-  Die Behörden überwachen diese neue *Seuche* genau.
+  The authorities are closely monitoring this new *disease*.
 
   Une *épidémie* de désinformation se propage sur les réseaux sociaux.
-  Eine Falschinformations*welle* breitet sich in den sozialen Medien aus.
+  A *wave* of false information spreads on social media.
 
   Cette maladie ressemble à une *épidémie* par sa propagation rapide.
-  Diese Krankheit ähnelt durch ihre schnelle Ausbreitung einer *Seuche*.
+  This *disease* is similar to a disease due to its rapid spread.
 
   L'*épidémie* recule grâce aux mesures sanitaires strictes.
-  Die *Epidemie* geht dank der strengen Hygienemaßnahmen zurück.
+  The *epidemic* is declining thanks to the strict hygiene measures.
 
   Les scientifiques étudient l'origine de cette mystérieuse *épidémie*.
-  Die Wissenschaftler untersuchen den Ursprung dieser mysteriösen *Seuche*.
+  The scientists are investigating the origin of this mysterious *disease*.
 
   Une *épidémie* de vandalisme touche notre quartier depuis des semaines.
-  Eine Vandalismus*welle* plagt seit Wochen unser Viertel.
+  A *wave* of vandalism has plagued our neighborhood for weeks.
 
   L'*épidémie* s'étend maintenant aux pays voisins.
-  Die *Seuche* breitet sich jetzt auf die Nachbarländer aus.
+  The *disease* is now spreading to neighbouring countries.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

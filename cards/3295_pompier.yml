@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3295
 Wort: pompier
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le pompier
 Femininum / Plural: pompière
 IPA: \pɔ̃.pje\
-Definition: Feuerwehrmann
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Fireman
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *pompiers* restaient pessimistes.
-  Die *Feuerwehrleute* blieben pessimistisch.
+  The firemen remained pessimistic.
 
   Le *pompier* volontaire a sauvé trois personnes du feu.
-  Der freiwillige *Feuerwehrmann* hat drei Menschen aus dem Feuer gerettet.
+  The volunteer *fireman* saved three people from the fire.
 
   Une *pompière* professionnelle doit s'entraîner régulièrement.
-  Eine professionelle *Feuerwehrfrau* muss regelmäßig trainieren.
+  A professional *firefighter* must train regularly.
 
   À Paris, les *pompiers* sont des militaires.
-  In Paris sind die *Feuerwehrleute* Soldaten.
+  In Paris, the firemen are soldiers.
 
   Le *pompier* de service surveille attentivement la salle de concert.
-  Der diensthabende *Feuerwehrmann* überwacht aufmerksam den Konzertsaal.
+  The *fireman* on duty is watching the concert hall carefully.
 
   "Il *fume comme un pompier*, ce garçon !"
-  "Dieser Junge *qualmt wie ein Schlot*!"
+  "This boy's been smoking like a vent!"
 
   Ce *pompier* pyromane a été condamné à dix ans de prison.
-  Dieser *Feuerwehrmann*, der selbst Brände legte, wurde zu zehn Jahren Gefängnis verurteilt.
+  This *fireman*, who himself fired, was sentenced to ten years in prison.
 
   La grande échelle des *pompiers* atteint le dixième étage.
-  Die große Leiter der *Feuerwehr* reicht bis in den zehnten Stock.
+  The big *fire department*'s head goes up to the tenth floor.
 
   Le bal des *pompiers* attire toujours beaucoup de monde le 14 juillet.
-  Der Ball der *Feuerwehr* zieht am 14. Juli immer viele Menschen an.
+  The *fire department* ball attracts a lot of people on July 14th.
 
   Les *pompiers* ont réussi à maîtriser l'incendie en deux heures.
-  Die *Feuerwehrleute* haben es geschafft, den Brand in zwei Stunden unter Kontrolle zu bringen.
+  The firemen managed to control the fire in two hours.
 
   Marc est notre *pompier de service* quand il y a des problèmes à résoudre.
-  Marc ist unser *Retter in der Not*, wenn es Probleme zu lösen gibt.
+  Marc is our savior in need when there are problems to solve.
 
   Les sirènes des voitures de *pompiers* résonnent dans toute la ville.
-  Die Sirenen der *Feuerwehr*wagen hallen durch die ganze Stadt.
+  The sirens of the fire trucks are ringing all over the city.
 
   Cette *pompière* travaille dans une caserne à Marseille.
-  Diese *Feuerwehrfrau* arbeitet in einer Wache in Marseille.
+  This *firefighter* works in a guard in Marseille.
 
   Les *pompiers* ont évacué tout l'immeuble par précaution.
-  Die *Feuerwehrleute* haben das ganze Gebäude vorsorglich evakuiert.
+  The firemen evacuated the whole building as a precaution.
 
   La *pompière* a reçu une médaille pour son courage exceptionnel.
-  Die *Feuerwehrfrau* hat für ihren außergewöhnlichen Mut eine Medaille erhalten.
+  The firewoman has received a medal for her extraordinary courage.
 
   Les critiques ont qualifié son style de *pompier*.
-  Die Kritiker haben seinen Stil als *gestelzt* bezeichnet.
+  Critics have described his style as *stilted*.
 
   Cet artiste *pompier* ne fait que des tableaux conventionnels.
-  Dieser *konventionelle* Künstler malt nur akademische Bilder.
+  This *conventional* artist only paints academic pictures.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3874
 Wort: alléger
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: alléger
 Femininum / Plural: ''
 IPA: \a(l).le.ʒe\
-Definition: leichter machen, entlasten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: make it easier to relieve
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est temps d'*alléger* les impôts.
-  Es ist Zeit, die Steuern zu *senken*.
+  It's time to cut taxes.
 
   Les blancs battus en neige vont *alléger* la mousse au chocolat.
-  Das geschlagene Eiweiß wird die Schokoladenmousse *leichter machen*.
+  The beaten protein will make the chocolate mousse easier.
 
   "Il m'a *allégé* de mon portefeuille pendant que je dormais dans le train."
-  "Er hat mich im Zug während des Schlafens um meine Geldbörse *erleichtert*."
+  "He made me easier on the train while sleeping around my wallet."
 
   J'ai dû *alléger* ma valise de cinq kilos avant le vol.
-  Ich musste meinen Koffer vor dem Flug um fünf Kilo *erleichtern*.
+  I had to ease my suitcase by five kilos before the flight.
 
   Le nouveau programme scolaire *allégé* permet aux élèves de mieux se concentrer.
-  Der neue *reduzierte* Lehrplan ermöglicht es den Schülern, sich besser zu konzentrieren.
+  The new *reduced* curriculum allows students to concentrate better.
 
   Marie préfère le fromage *allégé* pour sa santé.
-  Marie bevorzieht den fett*reduzierten* Käse für ihre Gesundheit.
+  Marie prefers the low-fat cheese for her health.
 
   Pour *alléger* le texte, nous avons supprimé quelques paragraphes.
-  Um den Text zu *entlasten*, haben wir einige Absätze gestrichen.
+  In order to relieve the text, we have deleted a few paragraphs.
 
   Ses mots gentils ont *allégé* ma peine.
-  Seine freundlichen Worte haben meinen Kummer *gelindert*.
+  His kind words have eased my grief.
 
   Le constructeur a réussi à *alléger* la voiture de 200 kilos.
-  Dem Hersteller ist es gelungen, das Auto um 200 Kilo *leichter* zu machen.
+  The manufacturer has succeeded in making the car 200 kilos *lighter*.
 
   Cette sauce est trop épaisse, il faut l'*alléger* avec un peu de crème.
-  Diese Sauce ist zu dick, wir müssen sie mit etwas Sahne *verdünnen*.
+  This sauce is too thick, we have to *dilute* it with some cream.
 
   Le navire doit être *allégé* avant d'entrer dans le port.
-  Das Schiff muss vor der Einfahrt in den Hafen *entladen* werden.
+  The ship must be unloaded before entering the port.
 
   Le mécanicien va *alléger* cette pièce métallique.
-  Der Mechaniker wird dieses Metallteil *dünner machen*.
+  The mechanic will make this metal part *thinner*.
 
   La confession a *allégé* sa conscience.
-  Die Beichte hat sein Gewissen *erleichtert*.
+  Confession has eased his conscience.
 
   Pour *alléger* son cheval, Paul s'est penché en arrière.
-  Um sein Pferd zu *entlasten*, lehnte sich Paul nach hinten.
+  To relieve his horse, Paul leaned backwards.
 
   Le colis était trop lourd, nous avons dû l'*alléger*.
-  Das Paket war zu schwer, wir mussten es *leichter machen*.
+  The package was too heavy, we had to *make it easier*.
 
   Cette réforme va *alléger* les charges administratives des entreprises.
-  Diese Reform wird den Verwaltungsaufwand der Unternehmen *verringern*.
+  This reform will *reduce* the administrative burden on businesses.
 
   Les médicaments ont *allégé* ses douleurs.
-  Die Medikamente haben ihre Schmerzen *gelindert*.
+  The medication has eased her pain.
 
   Je dois *alléger* mon sac à dos avant la randonnée.
-  Ich muss meinen Rucksack vor der Wanderung *leichter machen*.
+  I have to make my backpack easier before the hike.
 
   Le professeur a *allégé* le programme du semestre.
-  Der Professor hat den Semesterplan *entlastet*.
+  The professor has *relieved* the semester plan.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

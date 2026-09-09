@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3163
 Wort: voleur
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le voleur
 Femininum / Plural: voleuse
 IPA: \vɔ.lœʁ\
-Definition: Dieb
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Thief
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne suis pas un *voleur*.
-  Ich bin kein *Dieb*.
+  I'm not a *thief*.
 
   "*Au voleur* !" a crié la vieille dame quand on lui a volé son sac.
-  "*Haltet den Dieb*!" rief die alte Dame, als man ihr die Tasche stahl.
+  "*Hold the thief*!" cried the old lady when she was stolen.
 
   La police recherche les *voleurs* qui ont cambriolé la banque hier soir.
-  Die Polizei sucht nach den *Dieben*, die gestern Abend die Bank ausgeraubt haben.
+  The police are looking for the *thieves* who robbed the bank last night.
 
   Ce chat *voleur* a encore pris du poisson dans la cuisine !
-  Diese *diebische* Katze hat schon wieder Fisch aus der Kücher geklaut!
+  This thieving cat has stolen fish from the kitchenr again!
 
   Il est parti *comme un voleur* après la réunion.
-  Er hat sich nach dem Meeting *wie ein Dieb* davongeschlichen.
+  He snuck away *like a thief* after the meeting.
 
   Les *voleurs* se sont organisés en bande pour dévaliser le musée.
-  Die *Diebe* haben sich zu einer Bande zusammengeschlossen, um das Museum auszurauben.
+  The *thieves* have joined forces to rob the museum.
 
   La *voleuse* a été arrêtée en flagrant délit.
-  Die *Diebin* wurde auf frischer Tat ertappt.
+  The *thief* was caught in the act.
 
   Les enfants adorent jouer au gendarme et au *voleur* dans la cour.
-  Die Kinder spielen gerne *Räuber* und Gendarm auf dem Hof.
+  The children like to play *robbers* and gendarme in the yard.
 
   Ce commerçant est un *voleur*, il vend tout deux fois plus cher !
-  Dieser Händler ist ein *Betrüger*, er verkauft alles doppelt so teuer!
+  This dealer is a fraud, he sells everything twice as expensive!
 
   Les *voleurs d'enfants* ont été condamnés à vingt ans de prison.
-  Die *Kindesentführer* wurden zu zwanzig Jahren Gefängnis verurteilt.
+  The kidnappers were sentenced to twenty years in prison.
 
   La police a arrêté un *voleur* à la tire dans le métro.
-  Die Polizei hat einen Taschen*dieb* in der U-Bahn festgenommen.
+  The police arrested a pickpocket on the subway.
 
   Mon petit frère est un vrai *voleur* de bonbons !
-  Mein kleiner Bruder ist ein richtiger Bonbon*dieb*!
+  My little brother is a real candy *thief*!
 
   Cette *voleuse* professionnelle n'a jamais été attrapée.
-  Diese professionelle *Diebin* wurde nie gefasst.
+  This professional *thief* was never caught.
 
   Les *voleurs* ont pénétré par effraction dans la maison.
-  Die *Einbrecher* sind gewaltsam in das Haus eingedrungen.
+  The *burglars* have forcibly invaded the house.
 
   Ce restaurant est géré par des *voleurs*.
-  Dieses Restaurant wird von *Betrügern* geführt.
+  This restaurant is run by fraudsters.
 
   Paul *est parti comme un voleur* sans dire au revoir.
-  Paul hat sich *heimlich davongemacht*, ohne sich zu verabschieden.
+  Paul has secretly gone away without saying goodbye.
 
   Notre chien est devenu un petit *voleur* de chaussures.
-  Unser Hund ist zu einem kleinen Schuh*dieb* geworden.
+  Our dog has become a little shoe *thief*.
 
   Les *voleurs* de grand chemin attendaient les voyageurs dans la forêt.
-  Die Straßen*räuber* lauerten den Reisenden im Wald auf.
+  The *robbers* lurked at the traveler in the woods.
 
   "*Au voleur* !" ont crié les témoins en le voyant s'enfuir.
-  "*Haltet den Dieb*!" riefen die Zeugen, als sie ihn fliehen sahen.
+  "*Hold the thief*!" cried the witnesses when they saw him flee.
 
   Cette *voleuse* a réussi à s'échapper par la fenêtre.
-  Diese *Diebin* konnte durch das Fenster entkommen.
+  This *thief* escaped through the window.
 
   Les *voleurs* ont emporté tous nos bijoux.
-  Die *Diebe* haben all unseren Schmuck mitgenommen.
+  The *thieves* took all our jewelry.
 
   Marc *est parti comme un voleur* après avoir cassé le vase.
-  Marc *hat sich davongeschlichen*, nachdem er die Vase zerbrochen hatte.
+  Marc sneaked away after he broke the vase.
 
   Cette pie *voleuse* collectionne des objets brillants.
-  Diese *diebische* Elster sammelt glänzende Gegenstände.
+  This thieving magpie collects shiny objects.
 
   On a retrouvé le *voleur* grâce aux caméras de surveillance.
-  Man hat den *Dieb* dank der Überwachungskameras gefunden.
+  They found the *thief* thanks to the surveillance cameras.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3046
 Wort: fondement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fondement
 Femininum / Plural: ''
 IPA: \fɔ̃d.mɑ̃\
-Definition: Grundlage
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Basis
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'avenir reposait sur ces *fondements*.
-  Die Zukunft beruhte auf diesen *Grundlagen*.
+  The future was based on these principles.
 
   Nous devons jeter les *fondements* d'une société plus juste.
-  Wir müssen die *Grundlagen* für eine gerechtere Gesellschaft legen.
+  We must lay the foundations for a more just society.
 
   Cette théorie scientifique repose sur des *fondements* solides.
-  Diese wissenschaftliche Theorie basiert auf soliden *Grundlagen*.
+  This scientific theory is based on solid foundations.
 
   Les *fondements* de notre démocratie sont menacés par la corruption.
-  Die *Grundlagen* unserer Demokratie sind durch Korruption bedroht.
+  The foundations of our democracy are threatened by corruption.
 
   Cette accusation est dénuée de tout *fondement*.
-  Diese Anschuldigung entbehrt jeglicher *Grundlage*.
+  This accusation has no *basis* whatsoever.
 
   Le respect mutuel est le *fondement* de toute relation saine.
-  Gegenseitiger Respekt ist die *Grundlage* jeder gesunden Beziehung.
+  Mutual respect is the *basis* of any healthy relationship.
 
   Les *fondements* de la géométrie euclidienne ont été établis il y a des siècles.
-  Die *Grundlagen* der euklidischen Geometrie wurden vor Jahrhunderten gelegt.
+  The foundations of Euclidean geometry were laid centuries ago.
 
   Cette rumeur ne repose sur aucun *fondement* factuel.
-  Dieses Gerücht hat keinerlei faktische *Grundlage*.
+  This rumor has no factual *basis*.
 
   Le *fondement* philosophique de son argumentation est discutable.
-  Die philosophische *Grundlage* seiner Argumentation ist fragwürdig.
+  The philosophical *basis* of his argumentation is questionable.
 
   Les droits de l'homme sont le *fondement* de notre système juridique.
-  Die Menschenrechte sind die *Grundlage* unseres Rechtssystems.
+  Human rights are the *basis* of our legal system.
 
   Cette décision manque de *fondement* logique.
-  Dieser Entscheidung fehlt die logische *Begründung*.
+  This decision lacks the logical justification.
 
   Le *fondement* de sa théorie économique a été remis en question.
-  Die *Grundlage* seiner Wirtschaftstheorie wurde in Frage gestellt.
+  The *basis* of his economic theory was questioned.
 
   Les *fondements* de l'éthique varient selon les cultures.
-  Die *Grundlagen* der Ethik variieren je nach Kultur.
+  The *basics* of ethics vary according to culture.
 
   Cette loi pose les *fondements* d'une nouvelle politique environnementale.
-  Dieses Gesetz legt den *Grundstein* für eine neue Umweltpolitik.
+  This law lays the foundation for a new environmental policy.
 
   Les mathématiques sont le *fondement* de nombreuses sciences appliquées.
-  Die Mathematik ist die *Grundlage* vieler angewandter Wissenschaften.
+  Mathematics is the *basis* of many applied sciences.
 
   Le *fondement* de sa demande n'est pas clair pour le tribunal.
-  Die *Grundlage* seines Antrags ist für das Gericht nicht klar.
+  The *basis* of his application is not clear to the court.
 
   Cette entreprise a posé les *fondements* de son succès il y a des décennies.
-  Dieses Unternehmen hat vor Jahrzehnten den *Grundstein* für seinen Erfolg gelegt.
+  This company laid the foundation for its success decades ago.
 
   La confiance est le *fondement* de toute collaboration efficace.
-  Vertrauen ist die *Grundlage* jeder effektiven Zusammenarbeit.
+  Trust is the *basis* of any effective cooperation.
 
   Les *fondements* de cette tradition remontent à l'Antiquité.
-  Die *Grundlagen* dieser Tradition reichen bis in die Antike zurück.
+  The foundations of this tradition go back to ancient times.
 
   Cette hypothèse scientifique manque de *fondement* empirique.
-  Dieser wissenschaftlichen Hypothese fehlt die empirische *Grundlage*.
+  This scientific hypothesis lacks the empirical *basis*.
 
   Le *fondement* constitutionnel de cette loi est contesté par l'opposition.
-  Die verfassungsmäßige *Grundlage* dieses Gesetzes wird von der Opposition angefochten.
+  The constitutional *basis* of this law is challenged by the opposition.
 
   Les principes éthiques sont le *fondement* de la pratique médicale.
-  Ethische Prinzipien sind die *Grundlage* der medizinischen Praxis.
+  Ethical principles are the *basis* of medical practice.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

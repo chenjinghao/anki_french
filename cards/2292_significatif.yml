@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2292
 Wort: significatif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: significatif
 Femininum / Plural: significative
 IPA: \si.ɲi.fi.ka.tif\
-Definition: bedeutsam
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: significant
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le mystère me paraît plus *significatif* que le secret.
-  Das Mysterium scheint mir *bedeutsamer* als das Geheimnis.
+  The mystery seems more *important* to me than the mystery.
 
   Son silence est plus *significatif* qu'un long discours.
-  Sein Schweigen ist *aussagekräftiger* als eine lange Rede.
+  His silence is more meaningful than a long speech.
 
   Cette augmentation *significative* des ventes indique une reprise économique.
-  Dieser *bedeutende* Anstieg der Verkäufe deutet auf eine wirtschaftliche Erholung hin.
+  This significant increase in sales indicates an economic recovery.
 
   Le sourire *significatif* de ma collègue m'a fait comprendre qu'elle était au courant.
-  Das *vielsagende* Lächeln meiner Kollegin ließ mich verstehen, dass sie Bescheid wusste.
+  My colleague's telling smile made me understand that she knew.
 
   Ces résultats sont statistiquement *significatifs* avec une marge d'erreur de 5%.
-  Diese Ergebnisse sind statistisch *signifikant* mit einer Fehlerquote von 5%.
+  These results are statistically *significant* with an error rate of 5%.
 
   La baisse *significative* de la pollution est attribuable aux nouvelles réglementations.
-  Der *erhebliche* Rückgang der Verschmutzung ist auf die neuen Vorschriften zurückzuführen.
+  The *significant* reduction in pollution is due to the new rules.
 
   Son absence à la réunion est *significative* de son mécontentement.
-  Seine Abwesenheit bei der Besprechung ist *bezeichnend* für seine Unzufriedenheit.
+  His absence at the meeting is indicative of his dissatisfaction.
 
   Choisissez des exemples *significatifs* pour illustrer votre point de vue.
-  Wählen Sie *aussagekräftige* Beispiele, um Ihren Standpunkt zu veranschaulichen.
+  Select meaningful examples to illustrate your point of view.
 
   Le geste *significatif* du politicien a été largement commenté dans les médias.
-  Die *bedeutungsvolle* Geste des Politikers wurde in den Medien ausführlich kommentiert.
+  The important gesture of the politician was commented in detail in the media.
 
   Cette découverte représente une avancée *significative* dans le domaine de la médecine.
-  Diese Entdeckung stellt einen *bedeutenden* Fortschritt auf dem Gebiet der Medizin dar.
+  This discovery represents a significant advance in the field of medicine.
 
   Les chiffres *significatifs* après la virgule sont cruciaux pour la précision du calcul.
-  Die *signifikanten* Nachkommastellen sind entscheidend für die Genauigkeit der Berechnung.
+  The *significant* decimal places are crucial for the accuracy of the calculation.
 
   Un changement *significatif* de comportement a été observé chez les participants.
-  Eine *signifikante* Verhaltensänderung wurde bei den Teilnehmern beobachtet.
+  A *significant* change in behaviour was observed in the participants.
 
   Cette date *significative* marque un tournant dans l'histoire de notre pays.
-  Dieses *bedeutsame* Datum markiert einen Wendepunkt in der Geschichte unseres Landes.
+  This significant date marks a turning point in our country's history.
 
   Le regard *significatif* qu'ils ont échangé n'a échappé à personne.
-  Der *vielsagende* Blick, den sie austauschten, ist niemandem entgangen.
+  No one has missed the eloquent look they exchanged.
 
   Cette décision aura un impact *significatif* sur l'avenir de l'entreprise.
-  Diese Entscheidung wird *erhebliche* Auswirkungen auf die Zukunft des Unternehmens haben.
+  This decision will have a *significant* impact on the future of the company.
 
   Les différences *significatives* entre les deux groupes ont influencé les résultats de l'étude.
-  Die *signifikanten* Unterschiede zwischen den beiden Gruppen haben die Studienergebnisse beeinflusst.
+  The *significant* differences between the two groups have influenced the study results.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

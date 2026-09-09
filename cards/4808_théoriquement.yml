@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4808
 Wort: théoriquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: théoriquement
 Femininum / Plural: ''
 IPA: \te.ɔ.ʁik.mɑ̃\
-Definition: in der Theorie
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: in theory
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'accès en resterait *théoriquement* interdit aux femmes seules.
-  Der Zugang bliebe *theoretisch* für alleinstehende Frauen verboten.
+  Access would theoretically be prohibited for single women.
 
   *Théoriquement*, je devrais terminer ce projet avant vendredi.
-  *Theoretisch* sollte ich dieses Projekt vor Freitag abschließen.
+  *Theoretically*, I should finish this project before Friday.
 
   Cette solution est *théoriquement* possible, mais difficile à mettre en pratique.
-  Diese Lösung ist *theoretisch* möglich, aber schwer umzusetzen.
+  This solution is theoretically possible, but difficult to implement.
 
   *Théoriquement*, nous aurions dû recevoir une réponse hier.
-  *Theoretisch* hätten wir gestern eine Antwort erhalten sollen.
+  *Theoretically*, we should have received an answer yesterday.
 
   Le moteur devrait *théoriquement* fonctionner avec ce carburant.
-  Der Motor sollte mit diesem Kraftstoff *theoretisch* funktionieren.
+  The engine should function theoretically with this fuel.
 
   *Théoriquement*, tous les citoyens ont les mêmes droits.
-  *Theoretisch* haben alle Bürger die gleichen Rechte.
+  *Theoretically*, all citizens have the same rights.
 
   Cette méthode n'est validée que *théoriquement*.
-  Diese Methode ist nur *theoretisch* validiert.
+  This method is only theoretically validated.
 
   *Théoriquement*, le train arrive dans cinq minutes.
-  *Theoretisch* kommt der Zug in fünf Minuten.
+  *Theoretically*, the train comes in five minutes.
 
   Le problème est *théoriquement* résolu depuis longtemps.
-  Das Problem ist *theoretisch* seit langem gelöst.
+  The problem has been solved theoretically for a long time.
 
   *Théoriquement*, ce médicament ne provoque pas d'effets secondaires.
-  *Theoretisch* verursacht dieses Medikament keine Nebenwirkungen.
+  *Theoretically*, this drug does not cause any side effects.
 
   Cette hypothèse n'est prouvée que *théoriquement*.
-  Diese Hypothese ist nur *theoretisch* bewiesen.
+  This hypothesis is only theoretically proven.
 
   *Théoriquement*, il y a assez de places pour tout le monde.
-  *Theoretisch* gibt es genug Plätze für alle.
+  *Theoretically*, there are plenty of places for everyone.
 
   Les résultats sont *théoriquement* corrects, mais pas applicables.
-  Die Ergebnisse sind *theoretisch* korrekt, aber nicht anwendbar.
+  The results are theoretically correct but not applicable.
 
   *Théoriquement*, nous devrions économiser 30% d'énergie.
-  *Theoretisch* sollten wir 30% Energie einsparen.
+  *Theoretically*, we should save 30% of energy.
 
   Le système est *théoriquement* capable de gérer mille utilisateurs.
-  Das System ist *theoretisch* in der Lage, tausend Benutzer zu verwalten.
+  The system is theoretically able to manage a thousand users.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

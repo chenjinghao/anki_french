@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 917
 Wort: client
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le client
 Femininum / Plural: cliente
 IPA: \kli.jɑ̃\
-Definition: Kunde
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Customer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *client* contrôle toujours la destination de la marchandise.
-  Der *Kunde* kontrolliert immer den Bestimmungsort der Ware.
+  The *customer* always checks the destination of the goods.
 
   Notre cabinet médical accueille de nouveaux *clients* tous les jours.
-  Unsere Arztpraxis nimmt jeden Tag neue *Patienten* auf.
+  Our doctor's office receives new *patients* every day.
 
   La *cliente* a demandé un rendez-vous avec son avocat pour lundi.
-  Die *Klientin* hat einen Termin mit ihrem Anwalt für Montag vereinbart.
+  The *client* arranged an appointment with her lawyer for Monday.
 
   Les *clients* du restaurant ont commandé trois bouteilles de vin.
-  Die *Gäste* des Restaurants haben drei Flaschen Wein bestellt.
+  The *guests* of the restaurant have ordered three bottles of wine.
 
   Cette banque propose des services personnalisés à chaque *client*.
-  Diese Bank bietet jedem *Kunden* personalisierte Dienstleistungen an.
+  This bank offers every customer personalized services.
 
   Le service *client* sera fermé pendant les jours fériés.
-  Der *Kunden*service wird während der Feiertage geschlossen sein.
+  Customer service will be closed during the holidays.
 
   Notre entreprise est devenue le premier *client* de ce fournisseur local.
-  Unser Unternehmen ist zum wichtigsten *Abnehmer* dieses lokalen Lieferanten geworden.
+  Our company has become the main customer of this local supplier.
 
   La *cliente* privée a investi une somme importante dans son compte.
-  Die Privat*kundin* hat eine beträchtliche Summe auf ihr Konto eingezahlt.
+  The private customer has paid a considerable amount into her account.
 
   Les *clients* du réseau Internet peuvent accéder au site 24/7.
-  Die Internet-*User* können rund um die Uhr auf die Website zugreifen.
+  The Internet users can access the website around the clock.
 
   "C'est un drôle de *client*, celui-là !"
-  "Das ist ja ein seltsamer *Kunde*!"
+  "That's a strange *customer*!"
 
   Le *client débiteur* doit régler sa facture avant la fin du mois.
-  Der *Debitor* muss seine Rechnung vor Ende des Monats begleichen.
+  The *debitor* must settle his bill before the end of the month.
 
   La nouvelle *cliente* de la poste envoie beaucoup de colis.
-  Die neue Post*kundin* verschickt viele Pakete.
+  The new mail customer sends many packages.
 
   Ce taxi n'a pas eu un seul *client* de toute la matinée.
-  Dieses Taxi hatte den ganzen Morgen keinen einzigen *Fahrgast*.
+  This taxi didn't have a single passenger all morning.
 
   Notre *client* le plus fidèle vient dans ce magasin depuis vingt ans.
-  Unser treuester *Kunde* kommt seit zwanzig Jahren in diesen Laden.
+  Our most loyal *customer* has been in this store for twenty years.
 
   La *cliente* de la maison de vente par correspondance a retourné sa commande.
-  Die Versandhaus*kundin* hat ihre Bestellung zurückgeschickt.
+  The mail order office customer sent her order back.
 
   Le dentiste reçoit son dernier *client* à 18 heures.
-  Der Zahnarzt empfängt seinen letzten *Patienten* um 18 Uhr.
+  The dentist receives his last patient at 6:00.
 
   Ce contrat favorable aux *clients* garantit un excellent service.
-  Dieser *kunden*freundliche Vertrag garantiert einen ausgezeichneten Service.
+  This customer-friendly contract guarantees excellent service.
 
   La première *cliente* du jour était très satisfaite du service.
-  Die erste *Kundin* des Tages war mit dem Service sehr zufrieden.
+  The first *customer* of the day was very satisfied with the service.
 
   Nous devons protéger les données de nos *clients* sur Internet.
-  Wir müssen die Daten unserer *Kunden* im Internet schützen.
+  We need to protect the data of our *customers* on the Internet.
 
   Le programme *client* se connecte automatiquement au serveur.
-  Das *Client*-Programm verbindet sich automatisch mit dem Server.
+  The *client* program automatically connects to the server.
 
   Le notaire a beaucoup de nouveaux *clients* depuis son déménagement.
-  Der Notar hat seit seinem Umzug viele neue *Klienten*.
+  The notary has many new *clients* since he moved.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

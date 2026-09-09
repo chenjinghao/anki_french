@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4753
 Wort: dévouer
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: se dévouer
 Femininum / Plural: ''
 IPA: \de.vwe\
-Definition: sich (auf-)opfern
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: to be sacrificed
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle se *dévoua* à la gloire de son ami.
-  Sie *opferte* sich für den Ruhm ihres Freundes.
+  She sacrificed herself for the glory of her friend.
 
   Il a *dévoué* toute sa vie à la recherche scientifique.
-  Er hat sein Leben der wissenschaftlichen Forschung *gewidmet*.
+  He *dedicated* his life to scientific research.
 
   Marie se *dévoue* corps et âme à ses patients.
-  Marie *opfert* sich mit Leib und Seele für ihre Patienten.
+  Marie *sacrifices* herself with body and soul for her patients.
 
   "Qui se *dévoue* pour faire la vaisselle ?"
-  "Wer *opfert* sich für den Abwasch?"
+  "Who's sacrificing himself for the washing-up?"
 
   Les parents se *dévouent* pour donner une bonne éducation à leurs enfants.
-  Die Eltern *opfern* sich *auf*, um ihren Kindern eine gute Ausbildung zu ermöglichen.
+  The parents *sacrifice* themselves to give their children a good education.
 
   Je reste votre très *dévoué* serviteur.
-  Ich verbleibe Ihr treu *ergebener* Diener.
+  I will remain your faithful servant.
 
   Cette infirmière se *dévoue* aux malades jour et nuit.
-  Diese Krankenschwester *widmet* sich Tag und Nacht den Kranken.
+  This nurse devotes herself day and night to the sick.
 
   Il a *dévoué* son existence à aider les autres.
-  Er hat seine Existenz dem Helfen anderer *gewidmet*.
+  He has *dedicated* his existence to helping others.
 
   Ces bénévoles se *dévouent* sans compter pour les sans-abris.
-  Diese Freiwilligen *opfern* sich selbstlos für die Obdachlosen.
+  These volunteers *sacrifice* themselves unselfishly for the homeless.
 
   Elle s'est entièrement *dévouée* à l'éducation de ses enfants.
-  Sie hat sich ganz der Erziehung ihrer Kinder *gewidmet*.
+  She has devoted herself entirely to the education of her children.
 
   Pierre est un collaborateur très *dévoué*.
-  Pierre ist ein sehr *ergebener* Mitarbeiter.
+  Pierre is a very devoted employee.
 
   "Je me *dévoue* pour aller chercher le pain."
-  "Ich *opfere* mich und hole das Brot."
+  "I sacrifice myself and get the bread."
 
   Les pompiers se *dévouent* pour sauver des vies.
-  Die Feuerwehrleute *opfern* sich, um Leben zu retten.
+  The firemen *sacrifice* themselves to save lives.
 
   Il se *dévoue* à ses études avec passion.
-  Er *widmet* sich leidenschaftlich seinem Studium.
+  He devotes himself passionately to his studies.
 
   Ces militants se *dévouent* à la protection de l'environnement.
-  Diese Aktivisten *widmen* sich dem Umweltschutz.
+  These activists are *dedicated* to environmental protection.
 
   Notre professeur est vraiment *dévoué* à ses élèves.
-  Unser Lehrer ist seinen Schülern wirklich *ergeben*.
+  Our teacher is truly devoted to his students.
 
   Elle se *dévoue* aux causes humanitaires depuis des années.
-  Sie *widmet* sich seit Jahren humanitären Zwecken.
+  It has been *dedicated* to humanitarian purposes for years.
 
   Paul se *dévoue* toujours pour les tâches difficiles.
-  Paul *opfert* sich immer für die schwierigen Aufgaben.
+  Paul always *sacrifices* himself for the difficult tasks.
 
   Les grands frères se sont *dévoués* pour élever leurs cadets.
-  Die älteren Brüder haben sich *aufgeopfert*, um ihre jüngeren Geschwister großzuziehen.
+  The older brothers have *sacrificed* themselves to raise their younger siblings.
 
   Cette artiste a *dévoué* sa carrière à la musique classique.
-  Diese Künstlerin hat ihre Karriere der klassischen Musik *gewidmet*.
+  This artist has *dedicated* her career to classical music.
 
   Les parents se *dévouent* pour assurer l'avenir de leurs enfants.
-  Die Eltern *opfern* sich *auf*, um die Zukunft ihrer Kinder zu sichern.
+  The parents *sacrifice* themselves to secure the future of their children.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

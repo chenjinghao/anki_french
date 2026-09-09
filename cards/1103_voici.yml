@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1103
 Wort: voici
 Wortart: adv, prep, intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: voici
 Femininum / Plural: ''
 IPA: \vwa.si\
-Definition: hier ist/sind
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: here is/are
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Voici* le résultat de l'essai.
-  *Hier ist* das Ergebnis des Versuchs.
+  Here is the result of the experiment.
 
   *Voici* mon frère Thomas, il vient d'arriver de Paris.
-  *Hier ist* mein Bruder Thomas, er ist gerade aus Paris angekommen.
+  *Here's* my brother Thomas, he just arrived from Paris.
 
   *Voici* ce que je pense de cette situation délicate.
-  *Hier ist*, was ich von dieser heiklen Situation halte.
+  *Here's* what I think of this delicate situation.
 
   *Voici* trois mois que je travaille sur ce projet.
-  Ich arbeite *seit* drei Monaten an diesem Projekt.
+  I've been working on this project for three months.
 
   *Voici* comment procéder pour installer le logiciel.
-  *Hier ist*, wie man die Software installiert.
+  *Here's* how to install the software.
 
   Les *voici* enfin réunis après tant d'années.
-  *Da sind sie* endlich nach so vielen Jahren wieder vereint.
+  They are finally reunited after so many years.
 
   *Voici* la raison pour laquelle j'ai refusé leur offre.
-  *Hier ist* der Grund, warum ich ihr Angebot abgelehnt habe.
+  *Here's* why I rejected her offer.
 
   *Voici* venir le printemps avec ses belles journées.
-  Der Frühling *naht* mit seinen schönen Tagen.
+  Spring is approaching with its beautiful days.
 
   *Voici* ma carte d'identité, Monsieur l'agent.
-  *Hier ist* mein Personalausweis, Herr Polizist.
+  *Here's* my ID, Mr. Policeman.
 
   Me *voici* prêt à commencer l'entretien.
-  *Hier bin ich* bereit, mit dem Gespräch zu beginnen.
+  *Here I am* ready to start the conversation.
 
   Nous *voici* arrivés à destination.
-  *Hier sind wir* am Ziel angekommen.
+  Here we have arrived at the destination.
 
   *Voici* l'été qui arrive avec ses longues soirées.
-  Der Sommer *kommt* mit seinen langen Abenden.
+  Summer comes with its long evenings.
 
   *Voici* une semaine que j'attends sa réponse.
-  Ich warte *seit* einer Woche auf seine Antwort.
+  I've been waiting a week for his answer.
 
   *Voici* pourquoi je ne viendrai pas à la fête.
-  *Hier ist*, warum ich nicht zur Party kommen werde.
+  *Here's* why I'm not coming to the party.
 
   *Voici* mes clés et voilà les tiennes.
-  *Hier sind* meine Schlüssel und dort sind deine.
+  *Here are* my keys and there are yours.
 
   *Voici* venir le moment que nous attendions tous.
-  *Jetzt kommt* der Moment, auf den wir alle gewartet haben.
+  Now comes the moment we've all been waiting for.
 
   *Voici* l'explication de son comportement étrange.
-  *Hier ist* die Erklärung für sein seltsames Verhalten.
+  *Here's* the explanation for his strange behavior.
 
   *Voici* ma contribution au projet collectif.
-  *Hier ist* mein Beitrag zum Gemeinschaftsprojekt.
+  Here is my contribution to the joint project.
 
   Te *voici* enfin rentré de ton long voyage !
-  *Da bist du* endlich von deiner langen Reise zurück!
+  You're finally back from your long journey!
 
   *Voici* deux heures que j'essaie de te joindre.
-  Ich versuche *seit* zwei Stunden, dich zu erreichen.
+  I've been trying to reach you for two hours.
 
   *Voici* les documents que vous m'avez demandés.
-  *Hier sind* die Unterlagen, die Sie von mir angefordert haben.
+  *Here are* the documents you requested from me.
 
   *Voici* ce dont nous avons discuté hier.
-  *Hier ist*, worüber wir gestern gesprochen haben.
+  *Here's* what we talked about yesterday.
 
   *Voici* ma proposition pour résoudre ce problème.
-  *Hier ist* mein Vorschlag zur Lösung dieses Problems.
+  Here is my proposal to solve this problem.
 
   Nous *voici* au début d'une nouvelle aventure.
-  *Hier sind wir* am Beginn eines neuen Abenteuers.
+  *Here we are* at the beginning of a new adventure.
 
   *Voici* vos billets de train, bon voyage !
-  *Hier sind* Ihre Zugtickets, gute Reise!
+  *Here are* your train tickets, good trip!
 
   Les *voici* qui arrivent pour la réunion.
-  *Da kommen sie* zur Besprechung.
+  *Here they come* to the meeting.
 
   *Voici* un exemple concret de ce que je veux dire.
-  *Hier ist* ein konkretes Beispiel für das, was ich meine.
+  Here is a concrete example of what I mean.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

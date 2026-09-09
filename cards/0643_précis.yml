@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 643
 Wort: précis
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: précis
 Femininum / Plural: précise
 IPA: \pʁe.si\
-Definition: genau, klar
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Exactly, clear
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est à cet instant *précis* que je suis devenu adulte.
-  In diesem *genauen* Moment wurde ich erwachsen.
+  At this exact moment, I grew up.
 
   Le thermomètre est un instrument très *précis* pour mesurer la température.
-  Das Thermometer ist ein sehr *präzises* Instrument zum Messen der Temperatur.
+  The thermometer is a very *precise* instrument for measuring the temperature.
 
   Le rendez-vous est fixé à midi *précis*.
-  Der Termin ist auf *Punkt* zwölf festgelegt.
+  The deadline is set at *point* 12.
 
   Son diagnostic était parfaitement *précis*.
-  Seine Diagnose war absolut *genau*.
+  His diagnosis was absolutely accurate.
 
   Les contours de l'ombre étaient *précis* sur le mur.
-  Die Umrisse des Schattens waren *deutlich* an der Wand zu sehen.
+  The outlines of the shadow were clearly visible on the wall.
 
   Elle dessine avec des traits *précis*.
-  Sie zeichnet mit *präzisen* Strichen.
+  She draws with *precise* strokes.
 
   J'ai besoin d'une réponse *précise* à ma question.
-  Ich brauche eine *klare* Antwort auf meine Frage.
+  I need a *clear* answer to my question.
 
   Le pilote a effectué un atterrissage *précis*.
-  Der Pilot hat eine punkt*genaue* Landung durchgeführt.
+  The pilot has made an *accurate* landing.
 
   Les données scientifiques doivent être *précises*.
-  Wissenschaftliche Daten müssen *exakt* sein.
+  Scientific data must be accurate.
 
   Il n'y avait pas de raison *précise* pour son absence.
-  Es gab keinen *bestimmten* Grund für seine Abwesenheit.
+  There was no particular reason for his absence.
 
   Le chirurgien fait des gestes *précis*.
-  Der Chirurg macht *präzise* Bewegungen.
+  The surgeon makes *precise* movements.
 
   Le *précis* de grammaire française est très utile pour les débutants.
-  Das französische Grammatik*handbuch* ist sehr nützlich für Anfänger.
+  The French grammar *manual* is very useful for beginners.
 
   Les mesures doivent être *précises* au millimètre près.
-  Die Messungen müssen auf den Millimeter *genau* sein.
+  The measurements shall be accurate to the millimetre.
 
   Son style d'écriture est remarquablement *précis*.
-  Sein Schreibstil ist bemerkenswert *präzise*.
+  His writing style is remarkably *precise*.
 
   Elle est toujours *précise* dans ses horaires.
-  Sie ist in Bezug auf Zeiten immer sehr *genau*.
+  It is always very accurate in terms of times.
 
   Le tir du footballeur était parfaitement *précis*.
-  Der Schuss des Fußballspielers war absolut *präzise*.
+  The shot of the football player was absolutely *precise*.
 
   Les calculs astronomiques doivent être *précis*.
-  Astronomische Berechnungen müssen *exakt* sein.
+  Astronomical calculations must be accurate.
 
   Le *précis* d'histoire couvre toute la période médiévale.
-  Das Geschichte*handbuch* deckt die gesamte mittelalterliche Periode ab.
+  The history *manual* covers the entire medieval period.
 
   Je garde un souvenir très *précis* de cette journée.
-  Ich habe eine sehr *genaue* Erinnerung an diesen Tag.
+  I have a very *accurate* memory of this day.
 
   Les instructions doivent être *précises* pour éviter toute erreur.
-  Die Anweisungen müssen *eindeutig* sein, um Fehler zu vermeiden.
+  The instructions must be clear to avoid errors.
 
   L'horloger travaille avec des outils *précis*.
-  Der Uhrmacher arbeitet mit *präzisen* Werkzeugen.
+  The watchmaker works with *precise* tools.
 
   La balance donne des mesures *précises* au gramme près.
-  Die Waage gibt *genaue* Messungen bis auf das Gramm.
+  The scale gives *accurate* measurements up to the gram.
 
   Le microscope permet une observation *précise* des cellules.
-  Das Mikroskop ermöglicht eine *präzise* Beobachtung der Zellen.
+  The microscope allows *precise* observation of the cells.
 
   Son raisonnement était parfaitement *précis*.
-  Seine Argumentation war vollkommen *klar*.
+  His argument was perfectly *clear*.
 
   La carte indique l'emplacement *précis* du trésor.
-  Die Karte zeigt den *genauen* Standort des Schatzes.
+  The map shows the exact location of the treasure.
 
   Les prévisions météorologiques sont de plus en plus *précises*.
-  Die Wettervorhersagen werden immer *präziser*.
+  The weather forecasts are getting more and *more precise*.
 
   L'artisan fait des découpes *précises* dans le bois.
-  Der Handwerker macht *präzise* Schnitte im Holz.
+  The craftsman makes *precise* cuts in the wood.
 
   Le professeur donne des explications *précises*.
-  Der Lehrer gibt *genaue* Erklärungen.
+  The teacher gives precise explanations.
 
   Nous avons besoin d'informations plus *précises*.
-  Wir brauchen *genauere* Informationen.
+  We need more information.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

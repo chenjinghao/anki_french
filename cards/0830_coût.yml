@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 830
 Wort: coût
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le coût
 Femininum / Plural: ''
 IPA: \ku\
-Definition: Kosten, Preis
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cost, price
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *coûts* de production seront réduits.
-  Die Produktions*kosten* werden gesenkt.
+  Production costs will be reduced.
 
   Le *coût* du logement devient un problème majeur dans les grandes villes.
-  Die Wohn*kosten* werden in den Großstädten zu einem großen Problem.
+  Housing costs are becoming a major problem in large cities.
 
   Les *coûts* fixes de l'entreprise s'élèvent à 50.000 euros par mois.
-  Die Fix*kosten* des Unternehmens belaufen sich auf 50.000 Euro pro Monat.
+  The company's fixed costs amount to 50,000 euros per month.
 
   Les *coûts* directs comprennent les matériaux et la main-d'œuvre.
-  Die direkten *Kosten* umfassen Material und Arbeitskraft.
+  Direct *costs* include material and labour.
 
   Le *coût* moyen par unité diminue quand la production augmente.
-  Die Durchschnitts*kosten* pro Einheit sinken bei steigender Produktion.
+  The average *cost* per unit decreases with increasing production.
 
   Les *coûts* publicitaires ont doublé cette année.
-  Der Werbe*aufwand* hat sich dieses Jahr verdoppelt.
+  Advertising expenditure doubled this year.
 
   Le *coût* total du projet dépassera le budget prévu.
-  Die Gesamt*kosten* des Projekts werden das geplante Budget übersteigen.
+  The total *cost* of the project will exceed the planned budget.
 
   Les *coûts* du déménagement étaient plus élevés que prévu.
-  Die Umzugs*kosten* waren höher als erwartet.
+  The removal costs were higher than expected.
 
   Le *coût* de la vie ne cesse d'augmenter chaque année.
-  Die Lebenshaltungs*kosten* steigen jedes Jahr weiter.
+  The *cost* of living continues to rise every year.
 
   Cette imprudence au volant lui a *coûté* très cher.
-  Diese Unvorsichtigkeit am Steuer *kam* ihn teuer *zu stehen*.
+  This imprudence at the wheel cost him dearly.
 
   Les *coûts* initiaux de ce projet sont considérables.
-  Die Anfangs*kosten* dieses Projekts sind beträchtlich.
+  The initial costs of this project are considerable.
 
   Les *coûts* juridiques seront pris en charge par l'entreprise.
-  Die Rechts*kosten* werden von der Firma übernommen.
+  The legal costs are covered by the company.
 
   Le *coût* unitaire baisse avec la quantité commandée.
-  Die Stück*kosten* sinken mit der bestellten Menge.
+  Unit costs fall with the quantity ordered.
 
   Les *coûts* supplémentaires doivent être justifiés.
-  Der *Kosten*zuschlag muss begründet werden.
+  The cost supplement must be justified.
 
   Le *coût de revient* inclut toutes les dépenses de fabrication.
-  Die *Selbstkosten* beinhalten alle Herstellungsausgaben.
+  The *cost of production* includes all production expenditure.
 
   Le *coût* de cette assurance dépend de plusieurs facteurs.
-  Die *Kosten* dieser Versicherung hängen von mehreren Faktoren ab.
+  The cost of this insurance depends on several factors.
 
   Les *coûts* liés à la qualité sont un investissement nécessaire.
-  Die Qualitäts*kosten* sind eine notwendige Investition.
+  Quality costs are a necessary investment.
 
   Le *coût* d'un service peut varier selon la région.
-  Der *Preis* einer Dienstleistung kann je nach Region variieren.
+  The *price* of a service may vary depending on the region.
 
   Les *coûts* du contrat seront partagés entre les parties.
-  Die Vertrags*kosten* werden zwischen den Parteien aufgeteilt.
+  The contract costs are divided between the parties.
 
   Le calcul des *coûts* doit être précis et détaillé.
-  Die *Kosten*rechnung muss präzise und detailliert sein.
+  The cost calculation must be precise and detailed.
 
   Cette négligence a eu un *coût* humain considérable.
-  Diese Nachlässigkeit hatte erhebliche menschliche *Folgen*.
+  This negligence had significant human *consequences*.
 
   Le *coût* de cette offensive militaire fut dramatique.
-  Die *Kosten* dieser Militäroffensive waren dramatisch.
+  The cost of this military offensive was dramatic.
 
   Les *coûts* réels ont dépassé les estimations initiales.
-  Die Real*kosten* haben die ursprünglichen Schätzungen überschritten.
+  Real costs have exceeded the initial estimates.
 
   Le *coût* de cette marchandise inclut la livraison.
-  Der *Preis* dieser Ware schließt die Lieferung ein.
+  The *price* of this product includes delivery.
 
   Les *coûts* d'extraction du minerai sont très élevés.
-  Die Förder*kosten* des Erzes sind sehr hoch.
+  The production costs of the ore are very high.
 
   Cette erreur aura un *coût* politique important.
-  Dieser Fehler wird einen hohen politischen *Preis* haben.
+  This mistake will have a high political *price*.
 
   Le *coût* de fabrication varie selon les matériaux utilisés.
-  Die Herstellungs*kosten* variieren je nach verwendeten Materialien.
+  Production costs vary depending on the materials used.
 
   Il faut évaluer le *coût* environnemental de ce projet.
-  Die Umwelt*kosten* dieses Projekts müssen bewertet werden.
+  The environmental costs of this project must be assessed.
 
   Les *coûts* indirects sont difficiles à calculer précisément.
-  Die indirekten *Kosten* sind schwer genau zu berechnen.
+  The indirect *costs* are difficult to calculate precisely.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

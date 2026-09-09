@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 816
 Wort: souligner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: souligner
 Femininum / Plural: ''
 IPA: \su.li.ɲe\
-Definition: unterstreichen, betonen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: underscore, emphasize
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai deux points à *souligner*.
-  Ich habe zwei Punkte zu *betonen*.
+  I have two points to *stress*.
 
   Le professeur a *souligné* les fautes d'orthographe en rouge.
-  Der Lehrer hat die Rechtschreibfehler rot *unterstrichen*.
+  The teacher *underlined* the spelling errors in red.
 
   Cette robe noire *souligne* parfaitement sa silhouette.
-  Dieses schwarze Kleid *betont* perfekt ihre Silhouette.
+  This black dress perfectly *emphasizes* her silhouette.
 
   Elle *soulignait* toujours ses yeux d'un trait de crayon noir.
-  Sie *betonte* ihre Augen stets mit einem schwarzen Kajalstrich.
+  She always emphasized her eyes with a black cajal stroke.
 
   Je dois *souligner* l'importance de cette décision.
-  Ich muss die Wichtigkeit dieser Entscheidung *unterstreichen*.
+  I must stress the importance of this decision.
 
   Les élèves ont *souligné* tous les verbes du texte.
-  Die Schüler haben alle Verben im Text *unterstrichen*.
+  The students *underlined* all the verbs in the text.
 
   Son sourire ironique *soulignait* le sarcasme de ses paroles.
-  Sein ironisches Lächeln *unterstrich* den Sarkasmus seiner Worte.
+  His ironic smile *underscored* the sarcasm of his words.
 
   Il faut *souligner* ce passage en bleu.
-  Diese Stelle muss blau *unterstrichen* werden.
+  This place must be *underlined* blue.
 
   La lumière douce *soulignait* les contours de son visage.
-  Das sanfte Licht *betonte* ihre Gesichtskonturen.
+  The soft light emphasized her facial contours.
 
   Les journalistes ont *souligné* les contradictions dans son discours.
-  Die Journalisten haben die Widersprüche in seiner Rede *hervorgehoben*.
+  The journalists highlighted the contradictions in his speech.
 
   Elle *souligna* sa remarque d'un clin d'œil complice.
-  Sie *unterstrich* ihre Bemerkung mit einem verschwörerischen Augenzwinkern.
+  She underlined her remark with a conspiratorial wink.
 
   Le maquilleur a *souligné* ses paupières d'un trait bleu.
-  Der Visagist hat ihre Augenlider mit einem blauen Strich *betont*.
+  The visagist has emphasized her eyelids with a blue line.
 
   Veuillez *souligner* les mots-clés dans le document.
-  Bitte *unterstreichen* Sie die Schlüsselwörter im Dokument.
+  Please underline the keywords in the document.
 
   Cette ceinture *souligne* bien ta taille.
-  Dieser Gürtel *betont* deine Taille sehr gut.
+  This belt *emphasizes* your waist very well.
 
   L'architecte a *souligné* les fenêtres d'un cadre noir.
-  Der Architekt hat die Fenster mit einem schwarzen Rahmen *betont*.
+  The architect emphasized the windows with a black frame.
 
   Le jury a *souligné* la qualité exceptionnelle de sa performance.
-  Die Jury hat die außergewöhnliche Qualität ihrer Leistung *hervorgehoben*.
+  The jury has highlighted the exceptional quality of its performance.
 
   Il a *souligné* deux fois les phrases importantes.
-  Er hat die wichtigen Sätze doppelt *unterstrichen*.
+  He has *underlined* the important sentences twice.
 
   La musique *soulignait* parfaitement l'ambiance de la scène.
-  Die Musik *unterstrich* perfekt die Stimmung der Szene.
+  The music perfectly *underscored* the mood of the scene.
 
   Cette expérience *souligne* l'importance de la recherche scientifique.
-  Dieses Experiment *unterstreicht* die Bedeutung der wissenschaftlichen Forschung.
+  This experiment *underlines* the importance of scientific research.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

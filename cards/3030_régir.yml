@@ -1,101 +1,101 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3030
 Wort: régir
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: régir
 Femininum / Plural: ''
 IPA: \ʁe.ʒiʁ\
-Definition: regeln, bestimmen
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: regulation.
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons des lois pour *régir* les activités de la presse.
-  Wir haben Gesetze, um die Aktivitäten der Presse zu *regeln*.
+  We have laws to regulate the activities of the press.
 
   Les règles qui *régissent* notre société évoluent avec le temps.
-  Die Regeln, die unsere Gesellschaft *bestimmen*, entwickeln sich mit der Zeit.
+  The rules that govern our society develop over time.
 
   Le conseil d'administration *régit* les affaires de l'entreprise.
-  Der Vorstand *leitet* die Geschäfte des Unternehmens.
+  The Board of Management manages the business of the company.
 
   La constitution *régit* le fonctionnement de notre démocratie.
-  Die Verfassung *regelt* das Funktionieren unserer Demokratie.
+  The Constitution regulates the functioning of our democracy.
 
   Les principes éthiques *régissent* le comportement des médecins.
-  Ethische Prinzipien *bestimmen* das Verhalten von Ärzten.
+  Ethical principles *determine* the behavior of doctors.
 
   Cette loi *régit* l'utilisation des données personnelles en ligne.
-  Dieses Gesetz *regelt* die Verwendung persönlicher Daten im Internet.
+  This law regulates the use of personal data on the Internet.
 
   Les forces gravitationnelles *régissent* le mouvement des planètes.
-  Gravitationskräfte *bestimmen* die Bewegung der Planeten.
+  Gravity forces *determine* the movement of the planets.
 
   Le protocole diplomatique *régit* les relations entre les pays.
-  Das diplomatische Protokoll *regelt* die Beziehungen zwischen den Ländern.
+  The diplomatic protocol governs relations between the countries.
 
   Un ensemble complexe de règles *régit* le marché boursier.
-  Ein komplexes Regelwerk *bestimmt* den Aktienmarkt.
+  A complex set of rules determines the stock market.
 
   Les accords internationaux *régissent* le commerce mondial.
-  Internationale Abkommen *regeln* den Welthandel.
+  International agreements govern world trade.
 
   La grammaire *régit* la structure des phrases dans une langue.
-  Die Grammatik *bestimmt* die Struktur der Sätze in einer Sprache.
+  Grammar determines the structure of the sentences in a language.
 
   Les hormones *régissent* de nombreuses fonctions dans notre corps.
-  Hormone *steuern* viele Funktionen in unserem Körper.
+  Hormones *control* many functions in our body.
 
   Le règlement intérieur *régit* la vie quotidienne dans l'école.
-  Die Schulordnung *regelt* den Alltag in der Schule.
+  The school regulations regulate everyday life in school.
 
   Les lois de la physique *régissent* l'univers tel que nous le connaissons.
-  Die Gesetze der Physik *bestimmen* das Universum, wie wir es kennen.
+  The laws of physics *determine* the universe as we know it.
 
   Le contrat de travail *régit* les relations entre l'employeur et l'employé.
-  Der Arbeitsvertrag *regelt* die Beziehungen zwischen Arbeitgeber und Arbeitnehmer.
+  The contract of employment regulates relations between employer and employee.
 
   Les traditions familiales *régissent* souvent les célébrations de mariage.
-  Familientraditionen *bestimmen* oft die Hochzeitsfeiern.
+  Family traditions often *determine* weddings.
 
   La mode *régit* les tendances vestimentaires chaque saison.
-  Die Mode *bestimmt* die Bekleidungstrends jede Saison.
+  Fashion determines the clothing trends every season.
 
   Les algorithmes *régissent* de plus en plus notre vie numérique.
-  Algorithmen *bestimmen* zunehmend unser digitales Leben.
+  Algorithms are increasingly determining our digital life.
 
   Le droit international *régit* les relations entre les États souverains.
-  Das Völkerrecht *regelt* die Beziehungen zwischen souveränen Staaten.
+  International law regulates relations between sovereign states.
 
   Les statuts de l'association *régissent* son fonctionnement interne.
-  Die Satzung des Vereins *regelt* dessen interne Funktionsweise.
+  The statutes of the association regulate its internal functioning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>régir</i> und <i>gouverner</i></div>
+    <div class="section-title"><i>régir</i> and <i>gouverner</i></div>
     <div class="section-content">
-      <p><span class="fr">Régir</span> bedeutet <span class="de">"regeln"</span> oder <span class="de">"bestimmen"</span> und bezieht sich auf das Festlegen und Durchsetzen von Regeln, Gesetzen oder Prinzipien, die ein System oder eine Situation kontrollieren.</p>
+      <p><span class="fr">Régir</span> means <span class="de">"regeln"</span> or <span class="de">"bestimmen"</span> and refers to the establishment and enforcement of rules, laws or principles that control a system or a situation.</p>
       <div class="examples">
         <div class="fr">Ces lois régissent les relations commerciales internationales.</div>
-        <div class="de spoiler">Diese Gesetze regeln die internationalen Handelsbeziehungen.</div>
+        <div class="de spoiler">These laws govern international trade relations.</div>
         <div class="fr">Les principes qui régissent l'économie de marché.</div>
-        <div class="de spoiler">Die Prinzipien, die die Marktwirtschaft bestimmen.</div>
+        <div class="de spoiler">The principles that govern the market economy.</div>
       </div>
-      <p><span class="fr">Gouverner</span> (#2063) bedeutet <span class="de">"regieren"</span> oder <span class="de">"lenken"</span> und bezieht sich auf die Ausübung politischer Macht oder die Führung eines Landes, einer Organisation oder einer Gruppe von Menschen.</p>
+      <p><span class="fr">Gouverner</span> (#2063) means <span class="de">"regieren"</span> or <span class="de">"lenken"</span> and refers to the exercise of political power or the leadership of a country, an organization or a group of people.</p>
       <div class="examples">
         <div class="fr">Le président a gouverné le pays pendant deux mandats.</div>
-        <div class="de spoiler">Der Präsident hat das Land zwei Amtszeiten lang regiert.</div>
+        <div class="de spoiler">The President ruled the country for two terms.</div>
         <div class="fr">Elle gouverne sa vie selon des principes stricts.</div>
-        <div class="de spoiler">Sie lenkt ihr Leben nach strengen Prinzipien.</div>
+        <div class="de spoiler">She directs her life according to strict principles.</div>
       </div>
-      <p>Der Hauptunterschied liegt darin, dass <span class="fr">régir</span> eher auf Systeme, Regeln und abstrakte Konzepte angewendet wird, während <span class="fr">gouverner</span> typischerweise die direkte Führung oder Leitung von Menschen oder Organisationen beschreibt.</p>
+      <p>The main difference is that <span class="fr">régir</span> more applied to systems, rules and abstract concepts, while <span class="fr">gouverner</span> typically describes the direct leadership or direction of people or organizations.</p>
     </div>
   </div>

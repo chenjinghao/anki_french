@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2698
 Wort: distinct
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: distinct
 Femininum / Plural: distincte
 IPA: \dis.tɛ̃\
-Definition: verschieden; deutlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: different; clearly
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Henri et moi nous étions deux êtres *distincts*.
-  Henri und ich waren zwei *verschiedene* Menschen.
+  Henri and I were two *different* people.
 
   Les problèmes économiques et sociaux sont deux questions *distinctes*.
-  Die wirtschaftlichen und sozialen Probleme sind zwei *verschiedene* Fragen.
+  The economic and social problems are two *different* questions.
 
   Sa voix *distincte* résonnait dans toute la salle.
-  Seine *deutliche* Stimme hallte durch den ganzen Saal.
+  His *clear* voice echoed throughout the hall.
 
   Ces deux espèces de papillons sont bien *distinctes* l'une de l'autre.
-  Diese zwei Schmetterlingsarten sind deutlich *verschieden* voneinander.
+  These two species of butterflies are distinctly *different* from each other.
 
   J'ai une vision *distincte* de notre avenir ensemble.
-  Ich habe eine *klare* Vorstellung von unserer gemeinsamen Zukunft.
+  I have a *clear* idea of our common future.
 
   Le professeur a donné des instructions *distinctes* à chaque groupe.
-  Der Lehrer gab jeder Gruppe *separate* Anweisungen.
+  The teacher gave *separate* instructions to each group.
 
   Peu à peu, les contours du bâtiment devenaient plus *distincts* dans le brouillard.
-  Nach und nach wurden die Umrisse des Gebäudes im Nebel *deutlicher*.
+  Gradually the outlines of the building became clearer in the fog.
 
   Les jumeaux ont développé des personnalités tout à fait *distinctes*.
-  Die Zwillinge haben völlig *unterschiedliche* Persönlichkeiten entwickelt.
+  The twins have developed completely *different* personalities.
 
   Cette méthode présente trois avantages *distincts*.
-  Diese Methode hat drei *separate* Vorteile.
+  This method has three *separate* advantages.
 
   Il parlait d'une voix calme et *distincte*.
-  Er sprach mit ruhiger und *deutlicher* Stimme.
+  He spoke with a calm and clear voice.
 
   Dans ce roman, l'auteur développe deux intrigues *distinctes*.
-  In diesem Roman entwickelt der Autor zwei *separate* Handlungsstränge.
+  In this novel, the author develops two *separate* plot strands.
 
   Les deux cultures sont restées bien *distinctes* malgré leur proximité géographique.
-  Die beiden Kulturen blieben trotz ihrer geografischen Nähe deutlich *voneinander verschieden*.
+  Despite their geographical proximity, the two cultures remained distinctly *different*.
 
   Cette nouvelle difficulté est *distincte* de la précédente.
-  Diese neue Schwierigkeit ist von der vorherigen *verschieden*.
+  This new difficulty is *different* from the previous one.
 
   J'ai maintenant une idée *distincte* de ce que je veux faire.
-  Ich habe jetzt eine *klare* Vorstellung davon, was ich machen möchte.
+  I now have a *clear* idea of what I want to do.
 
   Les symptômes sont devenus plus *distincts* au fil du temps.
-  Die Symptome wurden mit der Zeit *deutlicher*.
+  The symptoms became clearer over time.
 
   Chaque région a ses traditions bien *distinctes*.
-  Jede Region hat ihre ganz *eigenen* Traditionen.
+  Each region has its own traditions.
 
   Ces deux propositions, bien que similaires, restent *distinctes*.
-  Diese zwei Vorschläge bleiben, obwohl ähnlich, *verschieden*.
+  These two proposals, although similar, remain *different*.
 
   Les sons devenaient de plus en plus *distincts* à mesure que nous approchions.
-  Die Geräusche wurden immer *deutlicher*, als wir uns näherten.
+  The sounds became more and more clear as we approached.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

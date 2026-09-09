@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1580
 Wort: adulte
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: adulte
 Femininum / Plural: ''
 IPA: \a.dylt\
-Definition: Erwachsener
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Adult
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je me suis sentie devenir une *adulte*.
-  Ich habe gefühlt, wie ich *erwachsen* wurde.
+  I felt myself grow up.
 
   L'*adulte* que je suis maintenant comprend mieux les décisions de mes parents.
-  Der *Erwachsene*, der ich jetzt bin, versteht die Entscheidungen meiner Eltern besser.
+  The adult I am now understands my parents' choices better.
 
   Cette tortue *adulte* pèse plus de 100 kilos.
-  Diese *ausgewachsene* Schildkröte wiegt über 100 Kilo.
+  This *adult* turtle weighs over 100 kilos.
 
   À l'âge *adulte*, on doit assumer ses responsabilités.
-  Im *Erwachsenen*alter muss man Verantwortung übernehmen.
+  In adulthood, you have to take responsibility.
 
   Le papillon *adulte* sort de sa chrysalide au printemps.
-  Der *ausgewachsene* Schmetterling schlüpft im Frühling aus seiner Puppe.
+  The *adult* butterfly slips out of its doll in spring.
 
   Les *adultes* doivent montrer l'exemple aux enfants.
-  Die *Erwachsenen* müssen den Kindern ein Vorbild sein.
+  The *adults* must be a model for the children.
 
   Ce site web est réservé aux *adultes*.
-  Diese Website ist nur für *Erwachsene*.
+  This site is for *adults* only.
 
   Son comportement n'est pas très *adulte*.
-  Sein Verhalten ist nicht sehr *erwachsen*.
+  His behavior is not very mature.
 
   Marie fait preuve d'une réflexion très *adulte* pour son âge.
-  Marie zeigt für ihr Alter ein sehr *erwachsenes* Denken.
+  Marie shows a very mature thinking for her age.
 
   Les cours du soir sont destinés aux *adultes* qui travaillent.
-  Die Abendkurse sind für berufstätige *Erwachsene* gedacht.
+  The evening courses are intended for working *adults*.
 
   Cette plante *adulte* atteint deux mètres de hauteur.
-  Diese *ausgewachsene* Pflanze erreicht eine Höhe von zwei Metern.
+  This *adult* plant reaches a height of two meters.
 
   Un lion *adulte* peut manger jusqu'à 7 kg de viande par jour.
-  Ein *ausgewachsener* Löwe kann bis zu 7 kg Fleisch pro Tag fressen.
+  An *adult* lion can eat up to 7 kg of meat per day.
 
   Nous proposons des activités pour enfants et *adultes*.
-  Wir bieten Aktivitäten für Kinder und *Erwachsene* an.
+  We offer activities for children and *adults*.
 
   Il n'a pas encore atteint l'âge *adulte*.
-  Er hat das *Erwachsenen*alter noch nicht erreicht.
+  He hasn't reached adulthood yet.
 
   Les *adultes* paient plein tarif, les enfants demi-tarif.
-  *Erwachsene* zahlen den vollen Preis, Kinder den halben.
+  *Adults* pay the full price, children pay the half.
 
   Un chat *adulte* dort environ seize heures par jour.
-  Eine *ausgewachsene* Katze schläft etwa sechzehn Stunden am Tag.
+  A fully grown cat sleeps about sixteen hours a day.
 
   Cette bibliothèque dispose d'une section jeunesse et d'une section *adultes*.
-  Diese Bibliothek hat eine Kinder- und eine *Erwachsenen*abteilung.
+  This library has a children's and an adult's department.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

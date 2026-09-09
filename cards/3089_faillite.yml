@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3089
 Wort: faillite
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la faillite
 Femininum / Plural: ''
 IPA: \fa.jit\
-Definition: Bankrott
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Bankruptcy
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Beaucoup d'entre eux devront déclarer *faillite*.
-  Viele von ihnen werden *Konkurs* anmelden müssen.
+  Many of them will have to file for *bankruptcy*.
 
   Cette entreprise est au bord de la *faillite* depuis des mois.
-  Diese Firma steht seit Monaten kurz vor dem *Bankrott*.
+  This company has been on the brink of *bankruptcy* for months.
 
   "Si ça continue comme ça, on va faire *faillite* !"
-  "Wenn das so weitergeht, gehen wir *pleite*!"
+  "If this goes on, we'll go *broke*!"
 
   La *faillite* de cette banque a eu des conséquences désastreuses.
-  Der *Bankrott* dieser Bank hatte katastrophale Folgen.
+  The *bankruptcy* of this bank had disastrous consequences.
 
   Leur entreprise familiale est en *faillite* depuis l'année dernière.
-  Ihr Familienunternehmen ist seit letztem Jahr *bankrott*.
+  Your family business has been bankrupt since last year.
 
   La *faillite* de mes espérances m'a profondément affecté.
-  Das *Scheitern* meiner Hoffnungen hat mich tief getroffen.
+  The *failure* of my hopes hit me deeply.
 
   Le tribunal a prononcé la *faillite* de l'entreprise hier.
-  Das Gericht hat gestern den *Konkurs* des Unternehmens festgestellt.
+  The court found the *bankruptcy* of the company yesterday.
 
   Cette *faillite* frauduleuse a fait la une des journaux.
-  Dieser betrügerische *Bankrott* war in allen Schlagzeilen.
+  This fraudulent *bankruptcy* was in all the headlines.
 
   La *faillite* du système éducatif devient de plus en plus évidente.
-  Das *Scheitern* des Bildungssystems wird immer offensichtlicher.
+  The *failure* of the education system is becoming increasingly evident.
 
   Son père a fait *faillite* pendant la crise économique.
-  Sein Vater ist während der Wirtschaftskrise *pleite* ge*gangen*.
+  His father went bankrupt during the economic crisis.
 
   La *faillite* de cette théorie scientifique était prévisible.
-  Das *Scheitern* dieser wissenschaftlichen Theorie war vorhersehbar.
+  The *failure* of this scientific theory was predictable.
 
   Le risque de *faillite* de l'État inquiète les économistes.
-  Die Gefahr eines Staats*bankrotts* beunruhigt die Ökonomen.
+  The danger of state *bankruptcy* worries the economists.
 
   Cette *faillite* a mis des centaines de personnes au chômage.
-  Diese *Pleite* hat Hunderte von Menschen arbeitslos gemacht.
+  This failure has made hundreds of people unemployed.
 
   La *faillite* de sa vie sentimentale l'a beaucoup marqué.
-  Das *Scheitern* seines Liebeslebens hat ihn stark geprägt.
+  The *failure* of his love life has strongly influenced him.
 
   Les créanciers ont demandé la mise en *faillite* de la société.
-  Die Gläubiger haben die *Insolvenz* der Firma beantragt.
+  The creditors have applied for the *insolvency* of the company.
 
   Après sa *faillite*, il a dû tout recommencer à zéro.
-  Nach seinem *Bankrott* musste er ganz von vorne anfangen.
+  After his *bankruptcy*, he had to start all over again.
 
   Cette petite boutique risque la *faillite* à cause des travaux.
-  Dieser kleine Laden ist wegen der Bauarbeiten *konkurs*gefährdet.
+  This little shop is at risk of concourse because of the construction work.
 
   La *faillite* morale de cette institution est complète.
-  Das moralische *Scheitern* dieser Institution ist vollständig.
+  The moral *failure* of this institution is complete.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

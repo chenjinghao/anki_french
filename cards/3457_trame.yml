@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3457
 Wort: trame
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la trame
 Femininum / Plural: ''
 IPA: \tʁam\
-Definition: Gerüst, Raster
-Register: ↗Sachtext ↘Mündlich
+Definition: Scaffolding, grid
+Register: ↗nonfiction ↘spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *trames* urbaine et péri-urbaine changent plus rapidement.
-  Die städtischen und vorstädtischen *Strukturen* verändern sich immer schneller.
+  Urban and suburban *structures* are changing faster and faster.
 
   La *trame* du tissu est très fine et régulière.
-  Der *Schussfaden* des Stoffes ist sehr fein und regelmäßig.
+  The thread of the fabric is very fine and regular.
 
   La *trame* narrative du film est assez simple mais efficace.
-  Das narrative *Gerüst* des Films ist recht einfach, aber wirkungsvoll.
+  The narrative framework of the film is quite simple, but effective.
 
   Cette vieille nappe montre déjà sa *trame*.
-  Bei dieser alten Tischdecke sieht man schon den *Einschlag*.
+  With this old tablecloth you can see the *impact*.
 
   La *trame* de ce roman policier repose sur une série de meurtres mystérieux.
-  Das *Grundgerüst* dieses Kriminalromans basiert auf einer Reihe mysteriöser Morde.
+  The *basic structure* of this crime novel is based on a series of mysterious murders.
 
   L'imprimeur a choisi une *trame* plus fine pour les photos.
-  Der Drucker hat für die Fotos einen feineren *Raster* gewählt.
+  The printer has chosen a finer *grid* for the photos.
 
   Les fils de *trame* sont généralement moins tordus que les fils de chaîne.
-  Die *Schuss*fäden sind normalerweise weniger verdreht als die Kettfäden.
+  The threads are usually less twisted than the warp threads.
 
   La *trame* de l'histoire se dévoile petit à petit.
-  Der *Handlungsfaden* der Geschichte enthüllt sich nach und nach.
+  The thread of the story gradually reveals itself.
 
   L'amour et l'amitié constituent la *trame* de sa vie.
-  Liebe und Freundschaft bilden die *Grundlage* seines Lebens.
+  Love and friendship form the *basis* of his life.
 
   Le tapis est tellement usé qu'on voit la *trame*.
-  Der Teppich ist so abgenutzt, dass man den *Einschlag* sieht.
+  The carpet is so worn that you can see the *impact*.
 
   Cette nouvelle technologie améliore la qualité des *trames* TV.
-  Diese neue Technologie verbessert die Qualität der TV-*Raster*.
+  This new technology improves the quality of the TV *grid*.
 
   Les architectes ont développé une *trame* innovante pour ce quartier.
-  Die Architekten haben für dieses Viertel eine innovative *Struktur* entwickelt.
+  The architects have developed an innovative *structure* for this quarter.
 
   La *trame* de ce tissu est composée de fils dorés.
-  Der *Schuss* dieses Stoffes besteht aus goldfarbenen Fäden.
+  The *shot* of this fabric is made of gold-coloured threads.
 
   Sur cette *trame* historique, l'auteur brode une fiction passionnante.
-  Vor diesem historischen *Hintergrund* entwickelt der Autor eine spannende Fiktion.
+  Against this historical *background*, the author develops an exciting fiction.
 
   Les biologistes étudient la *trame* des tissus musculaires.
-  Die Biologen untersuchen die *Grundstruktur* der Muskelgewebe.
+  The biologists examine the *basic structure* of the muscle tissue.
 
   La *trame* de ce document imprimé n'est pas assez fine.
-  Der *Raster* dieses gedruckten Dokuments ist nicht fein genug.
+  The *grid* of this printed document is not fine enough.
 
   Le réalisateur a construit une *trame* narrative complexe mais cohérente.
-  Der Regisseur hat ein komplexes, aber schlüssiges *Handlungsgerüst* aufgebaut.
+  The director has built up a complex but coherent framework for action.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

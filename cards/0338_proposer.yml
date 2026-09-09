@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 338
 Wort: proposer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: proposer
 Femininum / Plural: ''
 IPA: \pʁɔ.po.ze\
-Definition: vorschlagen, anbieten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: propose, offer
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le jeune français *propose* une promenade au parc.
-  Der junge Franzose *schlägt* einen Spaziergang im Park *vor*.
+  The young Frenchman proposes a walk in the park.
 
   Elle nous a *proposé* son aide pour déménager.
-  Sie hat uns ihre Hilfe beim Umzug *angeboten*.
+  She *offered* us her help with the move.
 
   Le gouvernement *propose* une nouvelle loi sur l'environnement.
-  Die Regierung *bringt* ein neues Umweltgesetz *ein*.
+  *The* government is introducing *a* new environmental law.
 
   Je me *propose* de finir ce projet avant la fin du mois.
-  Ich habe die *Absicht*, dieses Projekt vor Ende des Monats fertigzustellen.
+  I intend to complete this project before the end of the month.
 
   L'entreprise *propose* des salaires très compétitifs.
-  Das Unternehmen *bietet* sehr wettbewerbsfähige Gehälter.
+  The company *offers* very competitive salaries.
 
   Marie s'est *proposée* comme bénévole pour l'événement.
-  Marie hat sich als Freiwillige für die Veranstaltung *angeboten*.
+  Marie *offered* herself as a volunteer for the event.
 
   Le professeur *propose* trois sujets différents pour l'examen.
-  Der Professor *stellt* drei verschiedene Prüfungsthemen.
+  The professor presents three different examination topics.
 
   Je vous *propose* de reporter la réunion à la semaine prochaine.
-  Ich *schlage vor*, die Besprechung auf nächste Woche zu verschieben.
+  I suggest that the meeting be postponed until next week.
 
   Le vendeur m'a *proposé* un bon prix pour ma voiture.
-  Der Verkäufer hat mir einen guten Preis für mein Auto *angeboten*.
+  The salesman *offered* me a good price for my car.
 
   Ils se sont *proposé* un objectif ambitieux pour cette année.
-  Sie haben sich ein ehrgeiziges Ziel *gesetzt*.
+  They have *set* themselves an ambitious goal.
 
   Le restaurant *propose* un nouveau menu végétarien.
-  Das Restaurant *bietet* eine neue vegetarische Speisekarte.
+  The restaurant *offers* a new vegetarian menu.
 
   Pierre a été *proposé* pour le poste de directeur.
-  Pierre wurde für die Position des Direktors *vorgeschlagen*.
+  Pierre was *proposed* for the position of Director.
 
   Je *propose* que nous prenions une pause maintenant.
-  Ich *schlage vor*, dass wir jetzt eine Pause machen.
+  I suggest we take a break now.
 
   L'agence de voyage nous *propose* différentes destinations.
-  Das Reisebüro *bietet* uns verschiedene Reiseziele.
+  The travel agency *offers* us various destinations.
 
   Elle s'est *proposée* pour garder les enfants ce soir.
-  Sie hat sich *angeboten*, heute Abend auf die Kinder aufzupassen.
+  She *offered* to take care of the kids tonight.
 
   Le comité *propose* des changements dans le règlement.
-  Das Komitee *schlägt* Änderungen in der Regelung *vor*.
+  The Committee proposes changes to the rules.
 
   L'architecte nous a *proposé* plusieurs plans pour la maison.
-  Der Architekt hat uns mehrere Pläne für das Haus *vorgelegt*.
+  The architect has presented us with several plans for the house.
 
   Le cinéma *propose* une rétrospective de films classiques.
-  Das Kino *bietet* eine Retrospektive klassischer Filme.
+  The cinema *offers* a retrospective of classic films.
 
   Il m'a *proposé* un arrangement à l'amiable.
-  Er hat mir eine gütliche Einigung *vorgeschlagen*.
+  He *proposed* to me amicable agreement.
 
   Nous nous *proposons* de visiter Paris l'été prochain.
-  Wir *haben* *vor*, nächsten Sommer Paris zu besuchen.
+  We plan to visit Paris next summer.
 
   Le magasin *propose* des réductions importantes.
-  Das Geschäft *bietet* hohe Rabatte.
+  The business *offers* high discounts.
 
   On l'a *proposé* pour la médaille d'honneur.
-  Man hat ihn für die Ehrenmedaille *vorgeschlagen*.
+  He's been *proposed* for the Medal of Honour.
 
   La banque *propose* différents types de prêts.
-  Die Bank *bietet* verschiedene Arten von Krediten.
+  The bank *offers* various types of loans.
 
   Je me *propose* comme volontaire pour organiser la fête.
-  Ich *biete* mich als Freiwilliger für die Organisation der Feier *an*.
+  I'm volunteering for *the* organization of the celebration.
 
   L'opposition *propose* un amendement à la loi.
-  Die Opposition *bringt* einen Gesetzesänderungsantrag *ein*.
+  *The* opposition is bringing in *a* bill of amendment.
 
   Le jury a *proposé* trois finalistes pour le concours.
-  Die Jury hat drei Finalisten für den Wettbewerb *vorgeschlagen*.
+  The jury has *proposed* three finalists for the competition.
 
   Le musée *propose* une nouvelle exposition temporaire.
-  Das Museum *bietet* eine neue Sonderausstellung.
+  The museum *offers* a new special exhibition.
 
   Il s'est *proposé* comme candidat aux élections.
-  Er hat sich als Kandidat für die Wahlen *zur Verfügung gestellt*.
+  He made himself available as a candidate for the elections.
 
   Son ami lui a *proposé* un travail intéressant.
-  Sein Freund hat ihm eine interessante Arbeit *angeboten*.
+  His friend *offered* him an interesting job.
 
   Les scientifiques *proposent* une nouvelle théorie.
-  Die Wissenschaftler *stellen* eine neue Theorie *vor*.
+  The scientists present a new theory.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

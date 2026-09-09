@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1897
 Wort: norme
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la norme
 Femininum / Plural: ''
 IPA: \nɔʁm\
-Definition: Norm
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Standard
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous appliquons désormais les *normes* d'hygiène.
-  Wir befolgen jetzt die Hygiene*normen*.
+  We are now following the hygiene *standards*.
 
   La *norme* sociale veut qu'on se serre la main pour se saluer.
-  Die soziale *Norm* verlangt, dass man sich zur Begrüßung die Hand gibt.
+  The social norm requires that you give yourself the hand to greet.
 
   Cette voiture ne respecte pas les *normes* anti-pollution actuelles.
-  Dieses Auto erfüllt nicht die aktuellen Abgas*normen*.
+  This car does not meet the current exhaust emission *standards*.
 
   La *norme* linguistique évolue avec le temps.
-  Die sprachliche *Norm* verändert sich mit der Zeit.
+  The linguistic norm changes over time.
 
   Les fabricants doivent se conformer aux *normes* de sécurité européennes.
-  Die Hersteller müssen sich an die europäischen Sicherheits*normen* halten.
+  Manufacturers must comply with European safety *standards*.
 
   Cette entreprise a créé sa propre *norme* de qualité.
-  Dieses Unternehmen hat seine eigene Qualitäts*norm* entwickelt.
+  This company has developed its own quality *standard*.
 
   Les nouveaux bâtiments doivent respecter les *normes* d'isolation thermique.
-  Neue Gebäude müssen die Wärmedämmungs*normen* einhalten.
+  New buildings must comply with the thermal insulation *standards*.
 
   Marie refuse de suivre la *norme* vestimentaire au bureau.
-  Marie weigert sich, die Kleider*norm* im Büro zu befolgen.
+  Marie refuses to follow the dress *standard* in the office.
 
   La *norme* ISO garantit la qualité des produits.
-  Die ISO-*Norm* garantiert die Qualität der Produkte.
+  The ISO *standard* guarantees the quality of the products.
 
   Ces comportements s'écartent de la *norme* habituelle.
-  Diese Verhaltensweisen weichen von der üblichen *Norm* ab.
+  These behaviours differ from the usual norm.
 
   Les *normes* environnementales deviennent de plus en plus strictes.
-  Die Umwelt*normen* werden immer strenger.
+  Environmental *standards* are becoming increasingly stringent.
 
   Il faut mettre l'installation électrique aux *normes*.
-  Die elektrische Anlage muss auf den neuesten *Stand* gebracht werden.
+  The electrical system must be updated.
 
   Les *normes* d'accessibilité facilitent la vie des personnes handicapées.
-  Die Zugangs*normen* erleichtern Menschen mit Behinderungen das Leben.
+  Access *standards* make life easier for people with disabilities.
 
   Cette pièce ne correspond pas à la *norme* française NF.
-  Dieses Teil entspricht nicht der französischen *Norm* NF.
+  This part does not comply with the French *standard* NF.
 
   Les *normes* morales varient selon les cultures.
-  Die moralischen *Normen* unterscheiden sich je nach Kultur.
+  The moral norms differ according to culture.
 
   Les *normes* de construction ont changé depuis le séisme.
-  Die Bau*normen* haben sich seit dem Erdbeben geändert.
+  Construction *standards* have changed since the earthquake.
 
   Cette pratique est devenue la *norme* dans notre société.
-  Diese Praxis ist zur *Norm* in unserer Gesellschaft geworden.
+  This practice has become the norm in our society.
 
   Les *normes* acoustiques protègent contre le bruit excessif.
-  Die Schall*normen* schützen vor übermäßigem Lärm.
+  The sound *standards* protect against excessive noise.
 
   L'entreprise doit respecter les *normes* relatives aux stocks.
-  Das Unternehmen muss die Bestands*normen* einhalten.
+  The company must comply with the stock *standards*.
 
   Chaque pays définit ses propres *normes* alimentaires.
-  Jedes Land legt seine eigenen Lebensmittel*normen* fest.
+  Each country sets its own food *standards*.
 
   Cette machine est conforme aux *normes* en vigueur.
-  Diese Maschine entspricht den geltenden *Normen*.
+  This machine complies with the applicable *standards*.
 
   Les *normes* d'hygiène sont très strictes dans les hôpitaux.
-  Die Hygiene*normen* sind in Krankenhäusern sehr streng.
+  Hygiene *standards* are very strict in hospitals.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

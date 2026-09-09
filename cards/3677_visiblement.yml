@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3677
 Wort: visiblement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: visiblement
 Femininum / Plural: ''
 IPA: \vi.zi.blə.mɑ̃\
-Definition: sichtlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Visible
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il se tait, se domine *visiblement*.
-  Er schweigt und beherrscht sich *sichtlich*.
+  He is silent and visibly controlling himself.
 
   Elle est *visiblement* fatiguée après cette longue journée.
-  Sie ist nach diesem langen Tag *sichtlich* müde.
+  She is visibly tired after this long day.
 
   *Visiblement* inquiet, Pierre faisait les cent pas dans la salle d'attente.
-  *Sichtlich* beunruhigt lief Pierre im Wartezimmer auf und ab.
+  Visually disturbed, Pierre walked up and down the waiting room.
 
   Les enfants sont *visiblement* heureux de retrouver leurs grands-parents.
-  Die Kinder sind *sichtlich* glücklich, ihre Großeltern wiederzusehen.
+  The children are visibly happy to see their grandparents again.
 
   *Visiblement*, il n'a pas compris mes instructions.
-  Er hat meine Anweisungen *offensichtlich* nicht verstanden.
+  He obviously didn't understand my instructions.
 
   La situation s'est *visiblement* améliorée depuis notre dernière visite.
-  Die Situation hat sich seit unserem letzten Besuch *offensichtlich* verbessert.
+  The situation has obviously improved since our last visit.
 
   Sophie était *visiblement* touchée par ce geste d'amitié.
-  Sophie war von dieser freundschaftlichen Geste *sichtlich* gerührt.
+  Sophie was visibly moved by this friendly gesture.
 
   Le chien était *visiblement* mal à l'aise chez le vétérinaire.
-  Der Hund war beim Tierarzt *sichtlich* unwohl.
+  The dog was visibly uncomfortable with the vet.
 
   *Visiblement*, nous n'arriverons pas à temps pour le concert.
-  Wir werden es *offensichtlich* nicht rechtzeitig zum Konzert schaffen.
+  We're obviously not gonna make it to the concert in time.
 
   Ces plantes ont *visiblement* besoin d'être arrosées.
-  Diese Pflanzen müssen *offensichtlich* gegossen werden.
+  These plants must obviously be watered.
 
   Le nouveau stagiaire est *visiblement* nerveux pour son premier jour.
-  Der neue Praktikant ist an seinem ersten Tag *sichtlich* nervös.
+  The new intern is visibly nervous on his first day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

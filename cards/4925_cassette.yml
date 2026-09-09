@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4925
 Wort: cassette
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la cassette
 Femininum / Plural: ''
 IPA: \ka.sɛt\
-Definition: Kassette
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Cassette
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *cassette* vidéo a été retrouvée.
-  Die Video*kassette* wurde gefunden.
+  The video *cassette* has been found.
 
   J'ai enregistré notre chanson préférée sur une *cassette*.
-  Ich habe unser Lieblingslied auf eine *Kassette* aufgenommen.
+  I recorded our favorite song on a tape.
 
   Pour mon anniversaire, j'ai reçu une *cassette* digitale toute neuve.
-  Zu meinem Geburtstag habe ich eine neue Digital*kassette* bekommen.
+  For my birthday, I got a new digital *cassette*.
 
   La *cassette* de nettoyage permet d'entretenir le magnétoscope.
-  Die Reinigungs*kassette* dient zur Wartung des Videorekorders.
+  The cleaning *cassette* is used to maintain the video recorder.
 
   Il garde ses bijoux dans une *cassette* en bois précieux.
-  Er bewahrt seinen Schmuck in einem *Schmuckkästchen* aus wertvollem Holz.
+  He keeps his jewelry in a *jewelry box* made of valuable wood.
 
   Marie a trouvé une vieille *cassette* vierge dans le grenier.
-  Marie hat im Dachboden eine alte leere *Kassette* gefunden.
+  Marie found an old empty *cassette* in the attic.
 
   Le roi conservait ses documents importants dans sa *cassette* particulière.
-  Der König bewahrte seine wichtigen Dokumente in seiner privaten *Geldkassette* auf.
+  The king kept his important documents in his private *cash box*.
 
   Cette *cassette* D.A.T. contient l'enregistrement original du concert.
-  Diese DAT-*Kassette* enthält die Original-Aufnahme des Konzerts.
+  This DAT *cassette* contains the original recording of the concert.
 
   La *cassette* en argent appartenait à ma grand-mère.
-  Die silberne *Schatulle* gehörte meiner Großmutter.
+  The silver *box* belonged to my grandmother.
 
   Il faut absolument nettoyer la tête de lecture avec une *cassette* de nettoyage.
-  Man muss unbedingt den Lesekopf mit einer Reinigungs*kassette* säubern.
+  It is essential to clean the reading head with a cleaning *cassette*.
 
   Le lecteur de *cassettes* ne fonctionne plus depuis hier.
-  Der *Kassetten*spieler funktioniert seit gestern nicht mehr.
+  The tape player hasn't worked since yesterday.
 
   Cette *cassette* numérique peut stocker beaucoup plus de données.
-  Diese Digital*kassette* kann viel mehr Daten speichern.
+  This digital *cassette* can store much more data.
 
   La *cassette* royale finançait les artistes de la cour.
-  Die königliche *Geldkassette* finanzierte die Hofkünstler.
+  The royal *cash box* financed the court artists.
 
   J'ai retrouvé une vieille *cassette* vidéo de mes vacances d'enfance.
-  Ich habe eine alte Video*kassette* von meinen Kinderferien gefunden.
+  I found an old videotape of my kids' vacation.
 
   Une *cassette* en ivoire contenait les lettres d'amour.
-  Eine *Schatulle* aus Elfenbein enthielt die Liebesbriefe.
+  An ivory *box* contained the love letters.
 
   Thomas enregistre l'émission sur une *cassette*.
-  Thomas nimmt die Sendung auf *Kassette* auf.
+  Thomas is recording the broadcast on tape.
 
   La *cassette* était cachée dans un tiroir secret.
-  Die *Geldkassette* war in einer Geheimschublade versteckt.
+  The *cash box* was hidden in a secret drawer.
 
   Cette *cassette* contient des enregistrements très rares.
-  Diese *Kassette* enthält sehr seltene Aufnahmen.
+  This *cassette* contains very rare recordings.
 
   Le prince gardait ses économies dans sa *cassette* particulière.
-  Der Prinz bewahrte seine Ersparnisse in seiner privaten *Geldkassette* auf.
+  The prince kept his savings in his private *cash box*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

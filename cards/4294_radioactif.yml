@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4294
 Wort: radioactif
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: radioactif
 Femininum / Plural: radioactive
 IPA: \ʁa.djo.ak.tif\
-Definition: radioaktiv
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: radioactive
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les particules *radioactives* tombent avec les gouttes de pluie.
-  Die *radioaktiven* Teilchen fallen mit den Regentropfen.
+  The *radioactive* particles fall with the raindrops.
 
   Les scientifiques ont découvert un nouvel élément *radioactif* dans le laboratoire.
-  Die Wissenschaftler haben im Labor ein neues *radioaktives* Element entdeckt.
+  The scientists discovered a new *radioactive* element in the lab.
 
   Le plutonium est considéré comme l'un des matériaux les plus *radioactifs* connus.
-  Plutonium gilt als eines der am stärksten *radioaktiven* Materialien, die bekannt sind.
+  Plutonium is considered one of the most *radioactive* materials known.
 
   L'uranium *radioactif* est stocké dans des conteneurs spéciaux.
-  Das *radioaktive* Uran wird in speziellen Behältern gelagert.
+  The *radioactive* uranium is stored in special containers.
 
   Un nuage *radioactif* s'est déplacé au-dessus de l'Europe.
-  Eine *radioaktive* Wolke zog über Europa hinweg.
+  A *radioactive* cloud moved across Europe.
 
   Les déchets *radioactifs* doivent être stockés pendant des milliers d'années.
-  *Radioaktiver* Abfall muss über Jahrtausende gelagert werden.
+  *Radioactive* waste must be stored for millennia.
 
   Les chercheurs utilisent des isotopes *radioactifs* pour étudier les processus biologiques.
-  Die Forscher verwenden *radioaktive* Isotope, um biologische Prozesse zu untersuchen.
+  The researchers use *radioactive* isotopes to investigate biological processes.
 
   La période *radioactive* de cet élément est de cinquante ans.
-  Die *radioaktive* Halbwertszeit dieses Elements beträgt fünfzig Jahre.
+  The *radioactive* half-life of this element is fifty years.
 
   Une source *radioactive* a été détectée près de l'usine.
-  Eine *radioaktive* Quelle wurde in der Nähe der Fabrik entdeckt.
+  A *radioactive* source was discovered near the factory.
 
   Les boues *radioactives* ont contaminé la rivière.
-  Der *radioaktive* Schlamm hat den Fluss verseucht.
+  The *radioactive* mud contaminated the river.
 
   Le rayonnement *radioactif* peut endommager les cellules du corps.
-  *Radioaktive* Strahlung kann Körperzellen schädigen.
+  *Radioactive* radiation can damage body cells.
 
   Les retombées *radioactives* ont affecté une vaste région.
-  Der *radioaktive* Niederschlag hat ein großes Gebiet betroffen.
+  *Radioactive* precipitation has affected a large area.
 
   Les traceurs *radioactifs* permettent de suivre le mouvement des molécules.
-  *Radioaktive* Marker ermöglichen es, die Bewegung von Molekülen zu verfolgen.
+  *Radioactive* markers allow to track the movement of molecules.
 
   La contamination *radioactive* a persisté pendant plusieurs décennies.
-  Die *radioaktive* Verseuchung hielt mehrere Jahrzehnte an.
+  *Radioactive* contamination continued for several decades.
 
   Les poussières *radioactives* se sont dispersées dans l'atmosphère.
-  Der *radioaktive* Staub hat sich in der Atmosphäre verteilt.
+  The *radioactive* dust has spread in the atmosphere.
 
   La désintégration du noyau *radioactif* libère de l'énergie.
-  Der Zerfall des *radioaktiven* Kerns setzt Energie frei.
+  The decay of the *radioactive* nucleus releases energy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

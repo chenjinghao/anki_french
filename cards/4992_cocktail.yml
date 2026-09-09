@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4992
 Wort: cocktail
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le cocktail
 Femininum / Plural: ''
 IPA: \kɔk.tɛl\
 Definition: Cocktail
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu es capable de faire des *cocktails* assez élaborés ?
-  Kannst du ziemlich aufwendige *Cocktails* mixen?
+  Can you mix some pretty elaborate *cocktails*?
 
   Je vais préparer un *cocktail* sans alcool pour les enfants.
-  Ich werde einen alkoholfreien *Cocktail* für die Kinder zubereiten.
+  I'll make a non-alcoholic *cocktail* for the kids.
 
   La fête d'été est l'occasion parfaite pour servir des *cocktails* aux fruits frais.
-  Die Sommerparty ist die perfekte Gelegenheit, *Cocktails* mit frischen Früchten zu servieren.
+  The summer party is the perfect opportunity to serve *cocktails* with fresh fruits.
 
   Le *cocktail* de bienvenue aura lieu dans le jardin à 18 heures.
-  Der *Cocktail*empfang findet um 18 Uhr im Garten statt.
+  The *cocktail* reception is held at 6 pm in the garden.
 
   Elle portait une élégante robe de *cocktail* en soie noire.
-  Sie trug ein elegantes schwarzes *Cocktail*kleid aus Seide.
+  She wore an elegant black silk *cocktail* dress.
 
   Ce restaurant propose un délicieux *cocktail* au gin et au citron vert.
-  Dieses Restaurant bietet einen köstlichen *Cocktail* mit Gin und Limette an.
+  This restaurant offers a delicious *cocktail* with gin and lime.
 
   Le *cocktail* publicitaire a attiré de nombreux journalistes.
-  Der Werbe*cocktail* hat viele Journalisten angezogen.
+  The advertising *cocktail* has attracted many journalists.
 
   Son spectacle est un *cocktail* explosif de musique et de danse.
-  Seine Show ist eine explosive *Mischung* aus Musik und Tanz.
+  His show is an explosive mix of music and dance.
 
   Les invités sirotaient leurs *cocktails* sur la terrasse.
-  Die Gäste nippten an ihren *Cocktails* auf der Terrasse.
+  Guests sipped their *cocktails* on the terrace.
 
   Le barman a créé un nouveau *cocktail* à base de fruits exotiques.
-  Der Barkeeper hat einen neuen *Cocktail* aus exotischen Früchten kreiert.
+  The bartender has created a new *cocktail* of exotic fruits.
 
   C'est un dangereux *cocktail* d'émotions qui peut mener à la violence.
-  Das ist eine gefährliche *Mischung* von Emotionen, die zu Gewalt führen kann.
+  This is a dangerous *mixture* of emotions that can lead to violence.
 
   Paul préfère commander des *cocktails* classiques comme le Mojito.
-  Paul bestellt lieber klassische *Cocktails* wie Mojito.
+  Paul prefers to order classic *cocktails* like Mojito.
 
   Le *cocktail* littéraire réunira plusieurs écrivains célèbres.
-  Der literarische Cocktail*empfang* wird mehrere berühmte Schriftsteller zusammenbringen.
+  The literary cocktail *reception* will bring together several famous writers.
 
   Les manifestants ont utilisé des *cocktails* Molotov lors des émeutes.
-  Die Demonstranten haben Molotow*cocktails* während der Unruhen eingesetzt.
+  The demonstrators used Molotov *cocktails* during the riots.
 
   Ce livre est un *cocktail* détonnant d'aventure et de romance.
-  Dieses Buch ist eine explosive *Mischung* aus Abenteuer und Romantik.
+  This book is an explosive *mixture* of adventure and romance.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

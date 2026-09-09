@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1591
 Wort: guère
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: guère
 Femininum / Plural: ''
 IPA: \ɡɛʁ\
-Definition: '[verneint] kaum, wenig'
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: '[does not] hardly, little'
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mon travail n'avançait *guère*.
-  Meine Arbeit kam *kaum* voran.
+  My work has barely progressed.
 
   Je ne vois *guère* de solution à ce problème.
-  Ich sehe *kaum* eine Lösung für dieses Problem.
+  I *hardly* see any solution to this problem.
 
   Elle ne sort *guère* depuis son accident.
-  Sie geht seit ihrem Unfall *kaum* aus.
+  She's barely been out since her accident.
 
   Ce restaurant n'est *guère* fréquenté le soir.
-  Dieses Restaurant wird abends *kaum* besucht.
+  This restaurant is *hardly* visited in the evening.
 
   Il n'y a *guère* que toi qui puisses m'aider.
-  *Nur* du kannst mir helfen.
+  *Only* you can help me.
 
   La réunion n'a *guère* duré plus d'une heure.
-  Die Besprechung hat *kaum* länger als eine Stunde gedauert.
+  The meeting lasted *hardly* more than an hour.
 
   Ce film n'est *guère* original.
-  Dieser Film ist nicht *besonders* originell.
+  This film is not very original.
 
   Je ne mange *guère* de viande.
-  Ich esse *kaum* Fleisch.
+  I *hardly* eat meat.
 
   Il ne reste *guère* de temps avant le départ.
-  Es bleibt *kaum noch* Zeit bis zur Abreise.
+  There's *hardly* any time left to leave.
 
   Cette méthode n'est *guère* efficace.
-  Diese Methode ist nicht *sehr* effektiv.
+  This method is not *very* effective.
 
   Nous n'avons *guère* progressé dans nos recherches.
-  Wir haben in unserer Forschung *kaum* Fortschritte gemacht.
+  We have made little progress in our research.
 
   Le temps n'a *guère* changé depuis hier.
-  Das Wetter hat sich seit gestern *kaum* geändert.
+  The weather hasn't changed much since yesterday.
 
   Je ne connais *guère* les coutumes locales.
-  Ich kenne die örtlichen Bräuche *kaum*.
+  I *hardly* know the local customs.
 
   Cette décision ne me plaît *guère*.
-  Diese Entscheidung gefällt mir nicht *sonderlich*.
+  I don't like that decision very much.
 
   Il n'y a *guère* de différence entre ces deux modèles.
-  Es gibt *kaum* einen Unterschied zwischen diesen beiden Modellen.
+  There is *hardly* any difference between these two models.
 
   L'entreprise ne fait *guère* de bénéfices.
-  Das Unternehmen macht *kaum* Gewinne.
+  The company makes *hardly* any profits.
 
   Je ne lui parle *guère* depuis notre dispute.
-  Ich spreche *kaum* mit ihm seit unserem Streit.
+  I've *hardly* spoken to him since we fought.
 
   Cette explication n'est *guère* convaincante.
-  Diese Erklärung ist nicht *sehr* überzeugend.
+  This explanation is not *very* convincing.
 
   Il ne se soucie *guère* des conséquences.
-  Er kümmert sich *kaum* um die Konsequenzen.
+  He *hardly* cares about the consequences.
 
   La situation n'a *guère* évolué ces derniers mois.
-  Die Situation hat sich in den letzten Monaten *kaum* verändert.
+  The situation has *hardly* changed in recent months.
 
   Ces nouvelles ne sont *guère* rassurantes.
-  Diese Nachrichten sind nicht *gerade* beruhigend.
+  These messages aren't exactly reassuring.
 
   Je ne lis *guère* plus de romans.
-  Ich lese *kaum* noch Romane.
+  I *hardly* read any novels anymore.
 
   Son comportement n'est *guère* approprié.
-  Sein Verhalten ist nicht *sehr* angemessen.
+  His behavior is not *very* appropriate.
 
   Cette région n'attire *guère* de touristes.
-  Diese Region zieht *kaum* Touristen an.
+  This region attracts *hardly* any tourists.
 
   Il ne reste *guère* d'espoir de le retrouver.
-  Es bleibt *kaum* Hoffnung, ihn zu finden.
+  There's *hardly* any hope of finding him.
 
   Je ne comprends *guère* son raisonnement.
-  Ich verstehe seine Argumentation *kaum*.
+  I *hardly* understand his argument.
 
   Le spectacle n'a *guère* impressionné le public.
-  Die Vorstellung hat das Publikum nicht *sonderlich* beeindruckt.
+  The performance did not impress the audience very much.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

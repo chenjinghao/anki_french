@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4238
 Wort: fatal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fatal
 Femininum / Plural: fatale,fatals
 IPA: \fa.tal\
-Definition: verhängnisvoll, tödlich
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: fatal, fatal
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une maladie du foie *fatale*.
-  Eine tödliche Leber*erkrankung*.
+  A fatal liver disease.
 
   Cette décision lui a été *fatale*.
-  Diese Entscheidung wurde ihm zum *Verhängnis*.
+  This decision became a disaster to him.
 
   Le moment *fatal* approchait rapidement.
-  Der *schicksalhafte* Moment rückte schnell näher.
+  The *fateful* moment quickly approached.
 
   C'était *fatal* qu'ils se rencontrent un jour.
-  Es war *unausweichlich*, dass sie sich eines Tages begegnen würden.
+  It was inevitable that one day they would meet.
 
   Marie est devenue une *femme fatale* qui fait tourner toutes les têtes.
-  Marie ist zu einer *verhängnisvollen Frau* geworden, die alle Köpfe verdreht.
+  Marie has become a fatal woman who twists all her heads.
 
   L'accident de voiture a porté un *coup fatal* à sa carrière sportive.
-  Der Autounfall hat seiner Sportlerkarriere den *Todesstoß* versetzt.
+  The car accident caused his sports career to die.
 
   Cette erreur s'est révélée *fatale* pour l'entreprise.
-  Dieser Fehler erwies sich für das Unternehmen als *verhängnisvoll*.
+  This error proved fatal to the company.
 
   Son regard *fatal* annonçait de mauvaises nouvelles.
-  Sein *unglückseliger* Blick kündigte schlechte Nachrichten an.
+  His unfortunate glance announced bad news.
 
   L'évolution *fatale* de sa maladie nous inquiétait tous.
-  Der *tödliche* Verlauf seiner Krankheit beunruhigte uns alle.
+  The *fatal* course of his illness troubled all of us.
 
   "C'était *fatal* !" s'est-elle exclamée en voyant la voiture en panne.
-  "Das war ja *unvermeidlich*!" rief sie aus, als sie das kaputte Auto sah.
+  "That was inevitable!" she exclaimed when she saw the broken car.
 
   Cette bataille fut *fatale* à l'armée.
-  Diese Schlacht wurde für die Armee zum *Verhängnis*.
+  This battle became a disaster for the army.
 
   Le virus s'est avéré *fatal* pour les personnes âgées.
-  Das Virus erwies sich für ältere Menschen als *tödlich*.
+  The virus proved fatal to the elderly.
 
   Sa beauté *fatale* attirait tous les regards.
-  Ihre *verhängnisvolle* Schönheit zog alle Blicke auf sich.
+  Her *fateful* beauty drew all eyes.
 
   L'instant *fatal* où tout a basculé restera gravé dans nos mémoires.
-  Der *schicksalhafte* Moment, als alles kippte, wird uns in Erinnerung bleiben.
+  The *fateful* moment, when everything was falling, will remain in our memory.
 
   Cette conséquence *fatale* était prévisible depuis le début.
-  Diese *zwangsläufige* Folge war von Anfang an vorhersehbar.
+  This *inevitable* consequence was predictable from the beginning.
 
   Le diagnostic *fatal* a bouleversé toute la famille.
-  Die *tödliche* Diagnose hat die ganze Familie erschüttert.
+  The *fatal* diagnosis has shaken the whole family.
 
   L'accident a eu des conséquences *fatales*.
-  Der Unfall hatte *verhängnisvolle* Folgen.
+  The accident had fatal consequences.
 
   Son ambition démesurée lui fut *fatale*.
-  Sein übermäßiger Ehrgeiz wurde ihm zum *Verhängnis*.
+  His excessive ambition became a disaster for him.
 
   Le destin *fatal* du héros émeut les spectateurs.
-  Das *tragische* Schicksal des Helden bewegt die Zuschauer.
+  The *tragic* fate of the hero moves the audience.
 
   La guerre n'est pas *fatale*, nous pouvons l'éviter.
-  Der Krieg ist nicht *unausweichlich*, wir können ihn verhindern.
+  The war is not inevitable, we can prevent it.
 
   Cette décision sera *fatale* à notre économie.
-  Diese Entscheidung wird für unsere Wirtschaft *verhängnisvoll* sein.
+  This decision will be disastrous for our economy.
 
   L'issue *fatale* de la maladie était inévitable.
-  Der *tödliche* Ausgang der Krankheit war unvermeidbar.
+  The *fatal* outcome of the disease was inevitable.
 
   Le *coup fatal* a été porté pendant la dernière minute du match.
-  Der *entscheidende Schlag* wurde in der letzten Minute des Spiels ausgeführt.
+  The *decisive blow* was made at the last minute of the game.
 
   Un enchaînement *fatal* d'événements a conduit à la catastrophe.
-  Eine *verhängnisvolle* Verkettung von Ereignissen führte zur Katastrophe.
+  A fatal chain of events led to disaster.
 
   Cette rencontre *fatale* a changé le cours de sa vie.
-  Diese *schicksalhafte* Begegnung hat den Lauf seines Lebens verändert.
+  This *fateful* encounter has changed the course of his life.
 
   Le poison s'est révélé *fatal* pour la victime.
-  Das Gift erwies sich für das Opfer als *tödlich*.
+  The poison proved fatal to the victim.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

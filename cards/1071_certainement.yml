@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1071
 Wort: certainement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: certainement
 Femininum / Plural: ''
 IPA: \sɛʁ.tɛn.mɑ̃\
-Definition: bestimmt, (ganz) sicher
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Surely,
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce n'est *certainement* pas nous qui ferons cela.
-  Das werden *bestimmt* nicht wir sein, die das tun werden.
+  That won't be us who will.
 
   Il viendra *certainement* à la fête demain soir.
-  Er kommt morgen Abend *sicher* zur Party.
+  He'll be at the party tomorrow night.
 
   As-tu bien dormi ? - *Certainement* !
-  Hast du gut geschlafen? - Aber *sicher*!
+  - Did you sleep well?
 
   Elle est *certainement* la meilleure joueuse de l'équipe.
-  Sie ist *zweifelsohne* die beste Spielerin der Mannschaft.
+  She is undoubtedly the best player in the team.
 
   Je ne peux pas vous dire *certainement* quand il rentrera.
-  Ich kann Ihnen nicht mit *Sicherheit* sagen, wann er zurückkommt.
+  I can't tell you for sure when he's coming back.
 
   *Certainement* pas avant midi, il dort toujours très tard.
-  *Bestimmt* nicht vor zwölf Uhr, er schläft immer sehr lange.
+  Not until 12 o'clock, he sleeps very long.
 
   Cette robe coûte *certainement* plus de cent euros.
-  Dieses Kleid kostet *sicherlich* mehr als hundert Euro.
+  This dress *certainly* costs more than a hundred euros.
 
   Le train aura *certainement* du retard avec ce temps.
-  Der Zug wird bei diesem Wetter *bestimmt* Verspätung haben.
+  The train will be delayed in this weather.
 
   Voulez-vous encore du café ? - *Certainement* !
-  Möchten Sie noch Kaffee? - Aber *sicher*!
+  - Would you like some more coffee?
 
   Il a *certainement* oublié notre rendez-vous.
-  Er hat unser Treffen *bestimmt* vergessen.
+  He must have forgotten our meeting.
 
   Cette solution résoudra *certainement* le problème.
-  Diese Lösung wird das Problem *sicher* lösen.
+  This solution will surely solve the problem.
 
   C'est *certainement* la décision la plus difficile de ma vie.
-  Das ist *zweifellos* die schwierigste Entscheidung meines Lebens.
+  This is *undoubtedly* the most difficult decision of my life.
 
   Le médecin viendra *certainement* dans l'après-midi.
-  Der Arzt kommt *sicherlich* am Nachmittag.
+  The doctor will be here in the afternoon.
 
   Tu as *certainement* raison de te méfier.
-  Du hast *bestimmt* Recht damit, misstrauisch zu sein.
+  I'm sure you're right to be suspicious.
 
   Ces fruits sont *certainement* trop mûrs.
-  Diese Früchte sind *ganz sicher* überreif.
+  These fruits are certainly overripe.
 
   Elle a *certainement* déjà lu ce livre trois fois.
-  Sie hat dieses Buch *sicherlich* schon dreimal gelesen.
+  She's probably read this book three times.
 
   *Certainement*, nous devrons reporter la réunion.
-  *Zweifellos* werden wir die Besprechung verschieben müssen.
+  No doubt we will have to postpone the meeting.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>certes</i> und <i>certainement</i></div>
+    <div class="section-title"><i>certes</i> and <i>certainement</i></div>
     <div class="section-content">
-      <p><span class="fr">Certes</span> (#1021) bedeutet <span class="de">"gewiss"</span> oder <span class="de">"sicherlich"</span> und wird oft verwendet, um eine Zustimmung auszudrücken, die später durch einen Einwand relativiert wird. Es leitet häufig eine Einräumung ein, die mit "aber" oder "jedoch" fortgesetzt wird.</p>
+      <p><span class="fr">Certes</span> (#1021) means <span class="de">"gewiss"</span> or <span class="de">"Sure"</span> and is often used to express an agreement that is later relativized by an objection. It often initiates a grant that is continued with "but" or "but".</p>
       <div class="examples">
         <div class="fr">Certes, il est intelligent, mais il manque de motivation.</div>
-        <div class="de spoiler">Gewiss, er ist intelligent, aber es fehlt ihm an Motivation.</div>
+        <div class="de spoiler">Of course, he's intelligent, but he lacks motivation.</div>
         <div class="fr">C'est certes un problème difficile, néanmoins nous devons le résoudre.</div>
-        <div class="de spoiler">Es ist sicherlich ein schwieriges Problem, dennoch müssen wir es lösen.</div>
+        <div class="de spoiler">It is certainly a difficult problem, but we must resolve it.</div>
       </div>
-      <p><span class="fr">Certainement</span> bedeutet <span class="de">"bestimmt"</span> oder <span class="de">"mit Sicherheit"</span> und drückt eine stärkere, uneingeschränkte Gewissheit aus. Es wird oft als einfache Bekräftigung verwendet.</p>
+      <p><span class="fr">Certainement</span> means <span class="de">"bestimmt"</span> or <span class="de">"with certainty"</span> and expresses a stronger, unqualified certainty. It is often used as a simple affirmation.</p>
       <div class="examples">
         <div class="fr">Il viendra certainement à la fête demain.</div>
-        <div class="de spoiler">Er wird bestimmt morgen zur Party kommen.</div>
+        <div class="de spoiler">He'll be at the party tomorrow.</div>
         <div class="fr">As-tu fini ton travail? - Certainement!</div>
-        <div class="de spoiler">Hast du deine Arbeit beendet? - Selbstverständlich!</div>
+        <div class="de spoiler">- Did you finish your job?</div>
       </div>
     </div>
   </div>

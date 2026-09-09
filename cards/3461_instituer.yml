@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3461
 Wort: instituer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: instituer
 Femininum / Plural: ''
 IPA: \ɛ̃s.ti.tɥe\
-Definition: einsetzen, einrichten
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: set up, set up
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont *institué* un plan de réduction du déficit.
-  Sie haben einen Plan zur Defizitreduzierung *eingeführt*.
+  They have put in place a deficit reduction plan.
 
   L'université a *institué* un nouveau système d'examens en ligne.
-  Die Universität hat ein neues Online-Prüfungssystem *eingerichtet*.
+  The university has *set up* a new online exam system.
 
   Le conseil municipal a *institué* une commission d'enquête.
-  Der Gemeinderat hat eine Untersuchungskommission *eingesetzt*.
+  The council has set up a commission of inquiry.
 
   Elle a *institué* son neveu comme héritier unique.
-  Sie hat ihren Neffen als alleinigen Erben *eingesetzt*.
+  She *used* her nephew as her sole heir.
 
   Une nouvelle tradition s'est *instituée* dans notre famille.
-  Eine neue Tradition hat sich in unserer Familie *eingebürgert*.
+  A new tradition has become a commonplace in our family.
 
   Il s'est *institué* défenseur des droits humains sans aucun mandat officiel.
-  Er hat sich ohne offizielles Mandat zum Menschenrechtsverteidiger *gemacht*.
+  He has *made* himself a human rights defender without an official mandate.
 
   Le gouvernement a *institué* des mesures sanitaires strictes.
-  Die Regierung hat strenge Gesundheitsmaßnahmen *eingeführt*.
+  The government has introduced strict health measures.
 
   L'évêque a été *institué* lors d'une cérémonie solennelle.
-  Der Bischof wurde in einer feierlichen Zeremonie *eingesetzt*.
+  The bishop was appointed in a solemn ceremony.
 
   Une nouvelle taxe a été *instituée* pour financer les transports publics.
-  Eine neue Steuer wurde zur Finanzierung des öffentlichen Verkehrs *eingeführt*.
+  A new tax was introduced to finance public transport.
 
   Le roi a *institué* un nouvel ordre de chevalerie.
-  Der König hat einen neuen Ritterorden *eingerichtet*.
+  The King has established a new Order of Knights.
 
   Des relations diplomatiques se sont *instituées* entre les deux nations.
-  Diplomatische Beziehungen haben sich zwischen den beiden Nationen *etabliert*.
+  Diplomatic relations have *established* themselves between the two nations.
 
   Le parlement a *institué* une journée nationale du souvenir.
-  Das Parlament hat einen nationalen Gedenktag *eingeführt*.
+  Parliament has introduced a national commemoration day.
 
   La société a *institué* un comité d'éthique.
-  Die Gesellschaft hat einen Ethikausschuss *eingerichtet*.
+  Society has established an ethics committee.
 
   Le testament *instituait* sa fille comme héritière principale.
-  Das Testament *setzte* seine Tochter als Haupterbin *ein*.
+  The will used his daughter as the chief heiress.
 
   Un dialogue constructif s'est *institué* entre les deux parties.
-  Ein konstruktiver Dialog hat sich zwischen den beiden Parteien *etabliert*.
+  A constructive dialogue has *established* itself between the two parties.
 
   L'entreprise a *institué* un nouveau système de bonus.
-  Das Unternehmen hat ein neues Bonussystem *eingeführt*.
+  The company has introduced a new bonus system.
 
   Le maire a *institué* une réunion mensuelle avec les citoyens.
-  Der Bürgermeister hat ein monatliches Treffen mit den Bürgern *eingeführt*.
+  The mayor has introduced a monthly meeting with the citizens.
 
   La loi a *institué* de nouvelles protections pour les consommateurs.
-  Das Gesetz hat neue Verbraucherschutzmaßnahmen *eingeführt*.
+  The law has introduced new consumer protection measures.
 
   Le directeur s'est *institué* responsable du projet.
-  Der Direktor hat sich zum Projektverantwortlichen *gemacht*.
+  The director has *made* himself the project manager.
 
   L'assemblée a *institué* un nouveau règlement intérieur.
-  Die Versammlung hat eine neue Geschäftsordnung *eingeführt*.
+  The Assembly has introduced a new Rules of Procedure.
 
   Une collaboration étroite s'est *instituée* entre les deux équipes.
-  Eine enge Zusammenarbeit hat sich zwischen den beiden Teams *etabliert*.
+  Close cooperation has *established* between the two teams.
 
   Le ministère a *institué* des bourses d'études pour les étudiants défavorisés.
-  Das Ministerium hat Stipendien für benachteiligte Studierende *eingeführt*.
+  The Ministry has introduced scholarships for disadvantaged students.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

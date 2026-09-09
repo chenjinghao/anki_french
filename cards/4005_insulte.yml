@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4005
 Wort: insulte
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une insulte
 Femininum / Plural: ''
 IPA: \ɛ̃.sylt\
-Definition: Beleidigung
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: Insult
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je m'enfuis, poursuivie par ses *insultes*.
-  Ich floh, verfolgt von seinen *Beleidigungen*.
+  I fled, haunted by his *insults*.
 
   Il ne supporte pas les *insultes* envers sa famille.
-  Er duldet keine *Beleidigungen* gegen seine Familie.
+  He does not tolerate *insults* against his family.
 
   Une telle décision serait une *insulte* à la mémoire des victimes.
-  Eine solche Entscheidung wäre eine *Verunglimpfung* des Andenkens der Opfer.
+  Such a decision would be a defamation of the victims' memory.
 
   Marie *a fait insulte* à mon intelligence en me mentant ainsi.
-  Marie hat meine Intelligenz *beleidigt*, indem sie mich so angelogen hat.
+  Marie insulted my intelligence by lying to me like that.
 
   Cette pollution est une *insulte* à notre belle nature.
-  Diese Verschmutzung ist ein *Affront* gegen unsere schöne Natur.
+  This pollution is an *affront* to our beautiful nature.
 
   Les *insultes* fusent de toutes parts pendant le débat.
-  Während der Debatte flogen von allen Seiten *Beleidigungen*.
+  During the debate, *insults* flew from all sides.
 
   Son comportement constitue une *insulte* à notre religion.
-  Sein Verhalten stellt eine *Verunglimpfung* unseres Glaubens dar.
+  His behavior is a defamation of our faith.
 
   Pierre n'a pas voulu *faire insulte* à ses hôtes en refusant le repas.
-  Pierre wollte seine Gastgeber nicht *beleidigen*, indem er das Essen ablehnte.
+  Pierre didn't want to *insult* his hosts by rejecting the food.
 
   Cette réponse simpliste est une *insulte* au bon sens.
-  Diese vereinfachende Antwort ist ein *Hohn* auf den gesunden Menschenverstand.
+  This simplistic answer is a mockery of common sense.
 
   Les murs étaient couverts d'*insultes* racistes.
-  Die Wände waren mit rassistischen *Beleidigungen* bedeckt.
+  The walls were covered with racist *insults*.
 
   Son silence était la pire des *insultes*.
-  Sein Schweigen war die schlimmste *Kränkung*.
+  His silence was the worst insult.
 
   Ces dépenses excessives sont une *insulte* à la pauvreté.
-  Diese übermäßigen Ausgaben sind ein *Affront* gegen die Armut.
+  These excessive expenditures are an *affront* to poverty.
 
   Elle a proféré des *insultes* graves contre le directeur.
-  Sie hat schwere *Beleidigungen* gegen den Direktor ausgestoßen.
+  She's been throwing out serious *insults* against the director.
 
   Cette exposition est une *insulte* à l'art moderne.
-  Diese Ausstellung ist eine *Verhöhnung* der modernen Kunst.
+  This exhibition is a mockery of modern art.
 
   Les *insultes* pleuvaient des deux côtés de la manifestation.
-  Von beiden Seiten der Demonstration hagelte es *Beleidigungen*.
+  From both sides of the demonstration, *insults* were hailed.
 
   Sans vouloir vous *faire insulte*, votre travail manque de rigueur.
-  Ohne Sie *beleidigen* zu wollen, Ihrer Arbeit fehlt es an Sorgfalt.
+  Without insulting you, your work lacks care.
 
   Cette remarque n'était pas une *insulte*, mais une simple observation.
-  Diese Bemerkung war keine *Beleidigung*, sondern eine einfache Beobachtung.
+  This remark was not an *insult*, but a simple observation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

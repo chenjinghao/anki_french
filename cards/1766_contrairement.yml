@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1766
 Wort: contrairement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: contrairement
 Femininum / Plural: ''
 IPA: \kɔ̃.tʁɛʁ.mɑ̃\
-Definition: im Gegensatz zu, anders als
-Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+Definition: in contrast to, unlike
+Register: '' # Beispiel: ↘nonfiction ↗spoken
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Contrairement à* une idée couramment répandue, le café n'empêche pas la croissance.
-  *Im Gegensatz zu* einer weit verbreiteten Meinung verhindert Kaffee nicht das Wachstum.
+  Unlike a widespread opinion, coffee does not prevent growth.
 
   *Contrairement à* Paul, Marie aime beaucoup voyager en train.
-  *Im Gegensatz zu* Paul reist Marie gerne mit dem Zug.
+  Unlike Paul, Marie likes to travel by train.
 
   *Contrairement à* mes attentes, l'examen s'est très bien passé.
-  *Entgegen* meinen Erwartungen verlief die Prüfung sehr gut.
+  *Contrary* to my expectations, the test went very well.
 
   Le spectacle commencera à 20h, *contrairement à* ce qui était prévu initialement.
-  Die Show beginnt um 20 Uhr, *entgegen* der ursprünglichen Planung.
+  The show starts at 8 p.m., contrary to the original planning.
 
   *Contrairement aux* années précédentes, nous fêterons Noël chez mes parents.
-  *Anders als* in den vergangenen Jahren werden wir Weihnachten bei meinen Eltern feiern.
+  Unlike in recent years, we will celebrate Christmas with my parents.
 
   *Contrairement à* ce qu'on pourrait penser, les pandas ne sont pas très sociables.
-  *Entgegen* der allgemeinen Annahme sind Pandas nicht sehr gesellig.
+  *Contrary* to the general assumption, Pandas are not very social.
 
   Les enfants ont agi *contrairement aux* instructions de leur professeur.
-  Die Kinder haben *entgegen* den Anweisungen ihres Lehrers gehandelt.
+  The children acted contrary to the instructions of their teacher.
 
   *Contrairement à* mes habitudes, je me suis levé très tôt ce matin.
-  *Entgegen* meiner Gewohnheiten bin ich heute Morgen sehr früh aufgestanden.
+  *Contrary* to my habits, I got up very early this morning.
 
   Le restaurant était excellent, *contrairement à* ce que disaient les critiques.
-  Das Restaurant war ausgezeichnet, *im Gegensatz zu* dem, was die Kritiker sagten.
+  The restaurant was excellent, unlike what the critics said.
 
   *Contrairement à* la météo annoncée, il a fait beau tout le weekend.
-  *Entgegen* der Wettervorhersage war es das ganze Wochenende schön.
+  *Contrary* to the weather forecast, it was nice all weekend.
 
   Elle a réussi *contrairement à* toute attente.
-  Sie hat *entgegen* aller Erwartungen Erfolg gehabt.
+  It has been successful, contrary to all expectations.
 
   *Contrairement à* sa sœur, Thomas n'a jamais aimé le sport.
-  *Im Gegensatz zu* seiner Schwester hat Thomas Sport nie gemocht.
+  Unlike his sister, Thomas never liked sports.
 
   Les prix ont baissé, *contrairement à* la tendance générale du marché.
-  Die Preise sind gesunken, *entgegen* dem allgemeinen Markttrend.
+  Prices have fallen, contrary to the general market trend.
 
   *Contrairement à* ce que tu penses, je n'ai pas oublié ton anniversaire.
-  *Anders als* du denkst, habe ich deinen Geburtstag nicht vergessen.
+  Unlike you think, I haven't forgotten your birthday.
 
   *Contrairement à* mes collègues, j'ai décidé de travailler pendant les vacances.
-  *Im Gegensatz zu* meinen Kollegen habe ich beschlossen, während der Ferien zu arbeiten.
+  Unlike my colleagues, I decided to work during the holidays.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
