@@ -63,7 +63,6 @@ def german_score(text: str) -> int:
 
 
 def example_blocks(text: str) -> list[list[str]]:
-    """Return non-empty line blocks under Beispielsätze; each block must be [FR, translation]."""
     blocks: list[list[str]] = []
     current: list[str] = []
     in_examples = False
@@ -98,7 +97,6 @@ def immutable_fields(text: str) -> dict[str, str]:
 
 
 def _class_stack_nodes(html_text: str, *, protected: bool) -> list[str]:
-    """Extract visible nodes either inside or outside .fr/.ipa regions across line boundaries."""
     nodes: list[str] = []
     protect_stack: list[bool] = []
     for part in TAG_SPLIT_RE.split(html_text):
@@ -136,6 +134,22 @@ def visible_non_french_nodes(html_text: str) -> list[str]:
 
 def protected_french_nodes(html_text: str) -> list[str]:
     return _class_stack_nodes(html_text, protected=True)
+
+
+def finalize_templates() -> None:
+    """Apply deterministic English-only template fixes after shard patches are combined."""
+    common = ROOT / "card_templates" / "common.js"
+    if common.exists():
+        text = common.read_text(encoding="utf-8")
+        text = text.replace('if (lang === "de-DE") {', 'if (lang === "en-US") {')
+        text = text.replace('languageCode: "de-DE"', 'languageCode: "en-US"')
+        text = text.replace('"de-DE-Chirp3-HD-"', '"en-US-Chirp3-HD-"')
+        text = text.replace('// replace with German quote marks »...«', '// replace with English quote marks “...”')
+        text = text.replace(
+            'text = text.replaceAll(/"(?![^<]*>)(.+?)"(?![^<]*>)/g, "»\\u2060$1\\u2060«");',
+            'text = text.replaceAll(/"(?![^<]*>)(.+?)"(?![^<]*>)/g, "“\\u2060$1\\u2060”");',
+        )
+        common.write_text(text, encoding="utf-8")
 
 
 def validate_cards() -> list[str]:
@@ -191,12 +205,10 @@ def validate_grammar() -> list[str]:
             errors.append(f"{path}: corrupted placeholder token")
             continue
 
-        # Tags and all attributes (including grammar IDs and French classes) must stay exact.
         if TAG_RE.findall(current) != TAG_RE.findall(original):
             errors.append(f"{path}: HTML tags/attributes changed during translation")
             continue
 
-        # Text inside .fr/.ipa regions is source material and must remain exact too.
         if protected_french_nodes(current) != protected_french_nodes(original):
             errors.append(f"{path}: French/IPA grammar content changed during translation")
             continue
@@ -218,7 +230,7 @@ def validate_templates() -> list[str]:
         text = path.read_text(encoding="utf-8")
         if "ZXQ" in text:
             errors.append(f"{path}: corrupted placeholder token")
-        if 'lang: "de-DE"' in text:
+        if '"de-DE"' in text:
             errors.append(f"{path}: German TTS locale remains")
         if "autoPlaySentenceInGerman" in text:
             errors.append(f"{path}: German-facing autoplay option remains")
@@ -294,6 +306,7 @@ See the [complete word list](WORDS.md).
 
 
 if __name__ == "__main__":
+    finalize_templates()
     validate_translation()
     sync_words()
     write_readme()
