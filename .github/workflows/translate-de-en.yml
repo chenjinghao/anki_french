@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
 
+# Translation pipeline v2: markup-safe sentence and HTML handling plus a quality gate.
 jobs:
   translate:
     if: contains(github.event.head_commit.message, '[run english translation]')
@@ -60,7 +61,7 @@ jobs:
             echo "Applying $patch"
             git apply --whitespace=nowarn "$patch"
           done
-      - name: Finalize English docs
+      - name: Validate and finalize English docs
         run: python scripts/finalize_english.py
       - name: Commit translated corpus
         run: |
