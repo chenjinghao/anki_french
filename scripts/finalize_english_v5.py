@@ -51,6 +51,10 @@ def repair_final_residuals() -> None:
     replacements = {
         "cards/1890_foutre.yml": [
             ("viel bedeuten", "mean"),
+            ('wie "machen", "tun",', 'things like "do", "make",'),
+            ('"geben", "stecken" oder "ficken".', '"give", "put", or "fuck".'),
+            ("so viel wie", "means"),
+            ('"vögeln"', '"fuck"'),
         ],
         "grammar/07 Pronomen/13 Die Indefinitbegleiter.html": [
             ("<u>alle</u>", "<u>all</u>"),
@@ -60,6 +64,7 @@ def repair_final_residuals() -> None:
         ],
         "grammar/10 Zeitformen und Modi/12 Subjonctif.html": [
             ("-Frage + Indikativ im", "-question + indicative in the"),
+            ("wieder aufgenommen.", "taken up again."),
         ],
         "grammar/99 Vokabeln/26 Bewegungsverben.html": [
             ("wieder hinaufsteigen", "climb up again"),
