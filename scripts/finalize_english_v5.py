@@ -2,6 +2,7 @@
 """Run the existing English finalizer with isolated semantic example parsing for v5."""
 from __future__ import annotations
 
+import html
 import re
 
 import yaml
@@ -25,6 +26,21 @@ base.GERMAN_SOURCE_EXACT.update({
     "Jahr", "keine", "schon wieder", "weder ... noch", "Wechsel des Hilfsverbs",
     "Adverbien des Ortes:", "Ort des Geschehens",
 })
+
+KNOWN_NON_GERMAN = {
+    "Harry Potter à l'école des sorciers (1997)",
+}
+_original_source_likely_german = base.source_likely_german
+
+
+def source_likely_german_v5(text: str) -> bool:
+    value = html.unescape(text).strip()
+    if value in KNOWN_NON_GERMAN:
+        return False
+    return _original_source_likely_german(text)
+
+
+base.source_likely_german = source_likely_german_v5
 
 
 def _example_field_yaml(text: str) -> str:
