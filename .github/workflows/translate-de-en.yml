@@ -8,8 +8,8 @@ on:
 permissions:
   contents: write
 
-# Translation pipeline v4: full-card parsing, improved short-label translation,
-# markup-safe HTML, and false-positive-resistant QA gates.
+# Translation pipeline v5: normalize semantic YAML before translation, repair known
+# residuals after combining, and validate cards by parsed example pairs.
 jobs:
   translate:
     if: contains(github.event.head_commit.message, '[run english translation]')
@@ -30,12 +30,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install --index-url https://download.pytorch.org/whl/cpu torch
-          pip install transformers==4.56.1 sentencepiece==0.2.1 sacremoses==0.1.1
-      - name: Translate shard
+          pip install transformers==4.56.1 sentencepiece==0.2.1 sacremoses==0.1.1 pyyaml==6.0.2
+      - name: Normalize and translate shard
         env:
           HF_HOME: ${{ runner.temp }}/hf-cache
           TOKENIZERS_PARALLELISM: 'false'
         run: |
+          python scripts/normalize_examples.py --shard ${{ matrix.shard }} --shards 10
           python scripts/translate_de_to_en.py --shard ${{ matrix.shard }} --shards 10 --batch-size 48
           git diff --binary > "translation-${{ matrix.shard }}.patch"
       - uses: actions/upload-artifact@v4
@@ -52,6 +53,11 @@ jobs:
         with:
           ref: english-translation
           fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install validation runtime
+        run: pip install pyyaml==6.0.2
       - uses: actions/download-artifact@v4
         with:
           pattern: translation-*
@@ -64,8 +70,10 @@ jobs:
           done
       - name: Finalize deterministic fields
         run: python scripts/finalize_registers.py
+      - name: Repair known residuals
+        run: python scripts/repair_v5.py
       - name: Validate and finalize English docs
-        run: python scripts/finalize_english.py
+        run: python scripts/finalize_english_v5.py
       - name: Commit translated corpus
         run: |
           git config user.name "github-actions[bot]"
