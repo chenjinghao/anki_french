@@ -4,11 +4,14 @@ from __future__ import annotations
 
 import html
 import re
+from pathlib import Path
 
 import yaml
 
 import finalize_english as base
 
+
+ROOT = Path(__file__).resolve().parents[1]
 
 EXTRA_GERMAN_SOURCE_WORDS = {
     "man", "verwendet", "benutzt", "braucht", "wurde", "geboren", "jahr", "ort",
@@ -41,6 +44,33 @@ def source_likely_german_v5(text: str) -> bool:
 
 
 base.source_likely_german = source_likely_german_v5
+
+
+def repair_final_residuals() -> None:
+    """Apply the final path-specific v5 substitutions before strict QA."""
+    replacements = {
+        "cards/1890_foutre.yml": [
+            ("viel bedeuten", "mean"),
+        ],
+        "grammar/07 Pronomen/13 Die Indefinitbegleiter.html": [
+            ("<u>alle</u>", "<u>all</u>"),
+        ],
+        "grammar/09 Verben/10 Unpersönliche Verben.html": [
+            ("noch Zweifel.", "still doubts."),
+        ],
+        "grammar/10 Zeitformen und Modi/12 Subjonctif.html": [
+            ("-Frage + Indikativ im", "-question + indicative in the"),
+        ],
+        "grammar/99 Vokabeln/26 Bewegungsverben.html": [
+            ("wieder hinaufsteigen", "climb up again"),
+        ],
+    }
+    for rel, pairs in replacements.items():
+        path = ROOT / rel
+        text = path.read_text(encoding="utf-8")
+        for old, new in pairs:
+            text = text.replace(old, new)
+        path.write_text(text, encoding="utf-8")
 
 
 def _example_field_yaml(text: str) -> str:
@@ -88,6 +118,7 @@ base.example_blocks = semantic_example_blocks
 
 
 if __name__ == "__main__":
+    repair_final_residuals()
     base.finalize_templates()
     base.validate_translation()
     base.sync_words()
