@@ -14,15 +14,44 @@ GERMAN_WORDS = {
     "ein", "eine", "einen", "einem", "einer", "mit", "für", "von", "aus",
     "zu", "zur", "zum", "auf", "bei", "wenn", "dass", "auch", "nur", "sehr",
     "wie", "was", "wer", "wen", "wem", "wo", "hier", "dort", "mein", "dein",
+    "sein", "unser", "euer", "dies", "diese", "dieser", "dieses", "man", "noch",
+    "schon", "kein", "keine", "ohne", "über", "unter", "zwischen", "seit", "durch",
 }
 WORD_RE = re.compile(r"[A-Za-zÄÖÜäöüß]+")
+TAG_RE = re.compile(r"<[^>]+>")
+TAG_SPLIT_RE = re.compile(r"(<[^>]+>)")
+OPEN_TAG_RE = re.compile(r"^<\s*([A-Za-z][\w:-]*)\b")
+CLOSE_TAG_RE = re.compile(r"^<\s*/\s*([A-Za-z][\w:-]*)\s*>")
+CLASS_RE = re.compile(r"\bclass\s*=\s*(['\"])(.*?)\1", re.I)
+IMMUTABLE_CARD_FIELDS = (
+    "Rang:", "Wort:", "Wortart:", "Wort mit Artikel:", "Femininum / Plural:", "IPA:"
+)
 
 
-def card_definition(path: Path) -> str:
-    for line in path.read_text(encoding="utf-8").splitlines():
+def git_show(path: Path, ref: str = "origin/main") -> str:
+    rel = path.relative_to(ROOT).as_posix()
+    proc = subprocess.run(
+        ["git", "show", f"{ref}:{rel}"],
+        cwd=ROOT,
+        check=False,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+    )
+    if proc.returncode != 0:
+        raise RuntimeError(f"Could not read {rel} from {ref}: {proc.stderr.strip()}")
+    return proc.stdout
+
+
+def card_definition_text(text: str) -> str:
+    for line in text.splitlines():
         if line.startswith("Definition:"):
             return line.split(":", 1)[1].strip()
     return ""
+
+
+def card_definition(path: Path) -> str:
+    return card_definition_text(path.read_text(encoding="utf-8"))
 
 
 def german_score(text: str) -> int:
@@ -33,42 +62,159 @@ def german_score(text: str) -> int:
     return score
 
 
-def validate_cards() -> None:
+def example_blocks(text: str) -> list[list[str]]:
+    """Return non-empty line blocks under Beispielsätze; each block must be [FR, translation]."""
+    blocks: list[list[str]] = []
+    current: list[str] = []
+    in_examples = False
+    for line in text.splitlines():
+        if not line.startswith(" "):
+            if in_examples and current:
+                blocks.append(current)
+                current = []
+            in_examples = line.startswith("Beispielsätze:")
+            continue
+        if not in_examples:
+            continue
+        if not line.strip():
+            if current:
+                blocks.append(current)
+                current = []
+            continue
+        current.append(line.strip())
+    if in_examples and current:
+        blocks.append(current)
+    return blocks
+
+
+def immutable_fields(text: str) -> dict[str, str]:
+    out: dict[str, str] = {}
+    for line in text.splitlines():
+        for prefix in IMMUTABLE_CARD_FIELDS:
+            if line.startswith(prefix):
+                out[prefix] = line
+                break
+    return out
+
+
+def visible_non_french_nodes(html_text: str) -> list[str]:
+    """Extract visible text outside .fr/.ipa nodes, preserving a tiny HTML stack."""
+    nodes: list[str] = []
+    skip_stack: list[bool] = []
+    for part in TAG_SPLIT_RE.split(html_text):
+        if not part:
+            continue
+        if part.startswith("<"):
+            if part.startswith("<!--") or part.startswith("<!") or part.startswith("<?"):
+                continue
+            if CLOSE_TAG_RE.match(part):
+                if skip_stack:
+                    skip_stack.pop()
+                continue
+            m = OPEN_TAG_RE.match(part)
+            if m and not part.rstrip().endswith("/>"):
+                classes = ""
+                cm = CLASS_RE.search(part)
+                if cm:
+                    classes = cm.group(2)
+                own_skip = any(c in {"fr", "ipa"} for c in classes.split())
+                skip_stack.append((skip_stack[-1] if skip_stack else False) or own_skip)
+            continue
+        if skip_stack and skip_stack[-1]:
+            continue
+        value = re.sub(r"\s+", " ", part).strip()
+        if value:
+            nodes.append(value)
+    return nodes
+
+
+def validate_cards() -> list[str]:
     errors: list[str] = []
     for path in sorted((ROOT / "cards").glob("*.yml")):
-        text = path.read_text(encoding="utf-8")
-        if "ZXQ" in text:
+        current = path.read_text(encoding="utf-8")
+        original = git_show(path)
+
+        if "ZXQ" in current:
             errors.append(f"{path}: corrupted placeholder token")
             continue
 
-        lines = text.splitlines()
-        in_examples = False
-        pair_index = 0
-        for line_no, line in enumerate(lines, 1):
-            if not line.startswith(" "):
-                in_examples = line.startswith("Beispielsätze:")
-                pair_index = 0
-                continue
-            if not in_examples or not line.strip():
-                if in_examples and not line.strip():
-                    pair_index = 0
-                continue
-            if pair_index % 2 == 1:
-                value = line.strip()
-                # Two or more German indicators in a learner-facing translation is a hard failure.
-                if german_score(value) >= 2:
-                    errors.append(f"{path}:{line_no}: likely German remains: {value[:120]}")
-            pair_index += 1
+        # French-side invariants: immutable fields and every French example line must remain exact.
+        if immutable_fields(current) != immutable_fields(original):
+            errors.append(f"{path}: compatibility-sensitive card fields changed")
 
-        definition = card_definition(path)
+        current_blocks = example_blocks(current)
+        original_blocks = example_blocks(original)
+        if len(current_blocks) != len(original_blocks):
+            errors.append(
+                f"{path}: example block count changed ({len(original_blocks)} -> {len(current_blocks)})"
+            )
+            continue
+
+        for block_no, (new_block, old_block) in enumerate(zip(current_blocks, original_blocks), 1):
+            if len(new_block) != 2:
+                errors.append(f"{path}: example block {block_no} has {len(new_block)} lines instead of 2")
+                continue
+            if len(old_block) != 2:
+                errors.append(f"{path}: original example block {block_no} is unexpectedly malformed")
+                continue
+            if new_block[0] != old_block[0]:
+                errors.append(f"{path}: French text changed in example block {block_no}")
+            if german_score(new_block[1]) >= 2:
+                errors.append(
+                    f"{path}: likely German remains in example block {block_no}: {new_block[1][:120]}"
+                )
+
+        definition = card_definition_text(current)
         if german_score(definition) >= 2:
             errors.append(f"{path}: likely German remains in definition: {definition}")
 
-        if len(errors) >= 30:
+        if len(errors) >= 50:
             break
+    return errors
 
+
+def validate_grammar() -> list[str]:
+    errors: list[str] = []
+    for path in sorted((ROOT / "grammar").rglob("*.html")):
+        current = path.read_text(encoding="utf-8")
+        original = git_show(path)
+        if "ZXQ" in current:
+            errors.append(f"{path}: corrupted placeholder token")
+            continue
+
+        # Tags and all attributes (including grammar IDs and French classes) must stay exact.
+        if TAG_RE.findall(current) != TAG_RE.findall(original):
+            errors.append(f"{path}: HTML tags/attributes changed during translation")
+            continue
+
+        suspicious = [n for n in visible_non_french_nodes(current) if german_score(n) >= 2]
+        if suspicious:
+            errors.append(f"{path}: likely German remains: {suspicious[0][:140]}")
+
+        if len(errors) >= 25:
+            break
+    return errors
+
+
+def validate_templates() -> list[str]:
+    errors: list[str] = []
+    for path in sorted((ROOT / "card_templates").glob("*")):
+        if not path.is_file() or path.suffix not in {".html", ".js", ".scss"}:
+            continue
+        text = path.read_text(encoding="utf-8")
+        if "ZXQ" in text:
+            errors.append(f"{path}: corrupted placeholder token")
+        if 'lang: "de-DE"' in text:
+            errors.append(f"{path}: German TTS locale remains")
+        if "autoPlaySentenceInGerman" in text:
+            errors.append(f"{path}: German-facing autoplay option remains")
+    return errors
+
+
+def validate_translation() -> None:
+    errors = validate_cards() + validate_grammar() + validate_templates()
     if errors:
-        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors))
+        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors[:100]))
 
 
 def sync_words() -> None:
@@ -134,6 +280,6 @@ See the [complete word list](WORDS.md).
 
 
 if __name__ == "__main__":
-    validate_cards()
+    validate_translation()
     sync_words()
     write_readme()
