@@ -1,11 +1,21 @@
 #!/usr/bin/env python3
-"""Finalize English-facing repository docs from translated card sources."""
+"""Finalize English-facing repository docs and reject broken translations."""
 from __future__ import annotations
 
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+GERMAN_WORDS = {
+    "ich", "du", "wir", "ihr", "sie", "er", "nicht", "und", "oder", "aber",
+    "ist", "sind", "war", "waren", "wird", "werden", "hat", "haben", "kann",
+    "können", "muss", "müssen", "der", "die", "das", "den", "dem", "des",
+    "ein", "eine", "einen", "einem", "einer", "mit", "für", "von", "aus",
+    "zu", "zur", "zum", "auf", "bei", "wenn", "dass", "auch", "nur", "sehr",
+    "wie", "was", "wer", "wen", "wem", "wo", "hier", "dort", "mein", "dein",
+}
+WORD_RE = re.compile(r"[A-Za-zÄÖÜäöüß]+")
 
 
 def card_definition(path: Path) -> str:
@@ -13,6 +23,52 @@ def card_definition(path: Path) -> str:
         if line.startswith("Definition:"):
             return line.split(":", 1)[1].strip()
     return ""
+
+
+def german_score(text: str) -> int:
+    words = [w.lower() for w in WORD_RE.findall(text)]
+    score = sum(1 for w in words if w in GERMAN_WORDS)
+    if re.search(r"[äöüß]", text, re.I):
+        score += 2
+    return score
+
+
+def validate_cards() -> None:
+    errors: list[str] = []
+    for path in sorted((ROOT / "cards").glob("*.yml")):
+        text = path.read_text(encoding="utf-8")
+        if "ZXQ" in text:
+            errors.append(f"{path}: corrupted placeholder token")
+            continue
+
+        lines = text.splitlines()
+        in_examples = False
+        pair_index = 0
+        for line_no, line in enumerate(lines, 1):
+            if not line.startswith(" "):
+                in_examples = line.startswith("Beispielsätze:")
+                pair_index = 0
+                continue
+            if not in_examples or not line.strip():
+                if in_examples and not line.strip():
+                    pair_index = 0
+                continue
+            if pair_index % 2 == 1:
+                value = line.strip()
+                # Two or more German indicators in a learner-facing translation is a hard failure.
+                if german_score(value) >= 2:
+                    errors.append(f"{path}:{line_no}: likely German remains: {value[:120]}")
+            pair_index += 1
+
+        definition = card_definition(path)
+        if german_score(definition) >= 2:
+            errors.append(f"{path}: likely German remains in definition: {definition}")
+
+        if len(errors) >= 30:
+            break
+
+    if errors:
+        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors))
 
 
 def sync_words() -> None:
@@ -78,5 +134,6 @@ See the [complete word list](WORDS.md).
 
 
 if __name__ == "__main__":
+    validate_cards()
     sync_words()
     write_readme()
