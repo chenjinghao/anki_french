@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Repair known v4 residuals without touching French text or HTML attributes."""
+"""Repair known v5 residuals without touching French text or HTML attributes."""
 from __future__ import annotations
 
 import html
@@ -22,6 +22,25 @@ EXACT = {
     "Geschlecht": "Gender",
     "Bildung": "Formation",
     "Morgen": "Morning",
+    "bedeutet": "means",
+    "verwendet": "used",
+    "verwendet.": "is used.",
+    "verwendet:": "is used:",
+    "benutzt": "used",
+    "benutzt.": "is used.",
+    "abgeleitet": "derived",
+    "Angst": "fear",
+    '"Angst"': '"fear"',
+    "Adverbien": "adverbs",
+    "Handlung": "action",
+    "schon": "already",
+    "gehen": "go",
+    "wurde": "was",
+    "verschiedene": "various",
+    "Hilfsverbs": "auxiliary verb",
+    "Alle": "All",
+    "weder": "neither",
+    "Monat.": "month.",
 }
 
 PHRASES = {
@@ -29,12 +48,20 @@ PHRASES = {
     "Man benutzt": "One uses",
     "Man braucht": "One needs",
     "verwendet man": "one uses",
+    "bedeutet bereits": "already means",
+    "bedeutet eher": "rather means",
+    "Es gibt jedoch einige subtile Unterschiede:": "However, there are some subtle differences:",
     "Ludwig XIV. wurde im Jahr 1638 geboren.": "Louis XIV was born in 1638.",
+    "Victor Hugo wurde 1802 in Besançon geboren.": "Victor Hugo was born in Besançon in 1802.",
     "Ort des Geschehens": "scene of the action",
     "im vollen Sinne des Wortes": "in the full sense of the word",
-    "verschiedene Bedeutungen haben kann. Im Allgemeinen drückt es eine grobe, unhöfliche oder überaus lässige Handlung aus.": "can have different meanings. In general, it expresses a crude, impolite, or extremely casual action.",
+    "im umfassenden Sinne.": "in the broad sense.",
+    "verschiedene Bedeutungen haben kann.": "can have different meanings.",
+    "Im Allgemeinen drückt es eine grobe, unhöfliche oder überaus lässige Handlung aus.": "In general, it expresses a crude, impolite, or extremely casual action.",
     "die alle aus seiner Grundbedeutung": "all of which derive from its basic meaning",
-    "abgeleitet sind. Diese Grundbedeutung entwickelte sich in verschiedene Kontexte, z.B. als „Partisan“ oder „Verfechter“,": "are derived from it. This basic meaning developed into different contexts, e.g. as “partisan” or “advocate”,",
+    "abgeleitet sind.": "are derived.",
+    "Diese Grundbedeutung entwickelte sich in verschiedene Kontexte, z.B. als „Partisan“ oder „Verfechter“ ,": "This basic meaning developed into different contexts, e.g. as “partisan” or “advocate”,",
+    "Diese Grundbedeutung entwickelte sich in verschiedene Kontexte, z.B. als „Partisan“ oder „Verfechter“,": "This basic meaning developed into different contexts, e.g. as “partisan” or “advocate”,",
     "(= Irgendwann im Laufe des Vormittags → Zeitspanne)": "(= at some point during the morning → time span)",
     "des Substantivs": "of the noun",
     "Mitglied des Teams": "member of the team",
@@ -52,6 +79,27 @@ PHRASES = {
     "Es gibt keine(s).": "There is none.",
     "Man musste gehen.": "One had to leave.",
     "Du verstehst schon,": "You know,",
+    "Bereich verwendet.": "is used in this area.",
+    ") gibt es folgende Bezeichnungen:": ") there are the following terms:",
+    "letzten Monat": "last month",
+    "Film des Jahres.": "film of the year.",
+    "Er gibt": "He gives",
+    "spazieren gehen": "go for a walk",
+    "es gibt": "there is",
+    "Lass uns jetzt gehen!": "Let's go now!",
+    "gibt sich damit zufrieden": "is content with that",
+    "Gibt genaue Zeitpunkte an:": "Indicates exact points in time:",
+    "du ja fertig bist, kannst du gehen.": "since you're already finished, you can go.",
+}
+
+WORD_REPLACEMENTS = {
+    "bedeutet": "means",
+    "verwendet": "used",
+    "benutzt": "used",
+    "abgeleitet": "derived",
+    "Adverbien": "adverbs",
+    "Handlung": "action",
+    "Hilfsverbs": "auxiliary verb",
 }
 
 
@@ -93,6 +141,10 @@ def repair_visible_text(text: str) -> str:
             continue
         for old, new in PHRASES.items():
             value = value.replace(old, new)
+        value = re.sub(r"(\(#\d+\))\s+bedeutet\b", r"\1 means", value)
+        value = re.sub(r"\bbedeutet\s+allgemein\b", "generally means", value)
+        for old, new in WORD_REPLACEMENTS.items():
+            value = re.sub(rf"\b{re.escape(old)}\b", new, value)
         parts[i] = leading + value + trailing
     return "".join(parts)
 
