@@ -65,6 +65,7 @@ def repair_final_residuals() -> None:
         "grammar/10 Zeitformen und Modi/12 Subjonctif.html": [
             ("-Frage + Indikativ im", "-question + indicative in the"),
             ("wieder aufgenommen.", "taken up again."),
+            ("(hoffen) + Indikativ:", "(hope) + indicative:"),
         ],
         "grammar/99 Vokabeln/26 Bewegungsverben.html": [
             ("wieder hinaufsteigen", "climb up again"),
