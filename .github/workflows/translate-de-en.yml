@@ -8,7 +8,8 @@ on:
 permissions:
   contents: write
 
-# Translation pipeline v3: full-card parsing, markup-safe HTML, and strict QA gates.
+# Translation pipeline v4: full-card parsing, improved short-label translation,
+# markup-safe HTML, and false-positive-resistant QA gates.
 jobs:
   translate:
     if: contains(github.event.head_commit.message, '[run english translation]')
