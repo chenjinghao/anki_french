@@ -97,10 +97,10 @@ def immutable_fields(text: str) -> dict[str, str]:
     return out
 
 
-def visible_non_french_nodes(html_text: str) -> list[str]:
-    """Extract visible text outside .fr/.ipa nodes, preserving a tiny HTML stack."""
+def _class_stack_nodes(html_text: str, *, protected: bool) -> list[str]:
+    """Extract visible nodes either inside or outside .fr/.ipa regions across line boundaries."""
     nodes: list[str] = []
-    skip_stack: list[bool] = []
+    protect_stack: list[bool] = []
     for part in TAG_SPLIT_RE.split(html_text):
         if not part:
             continue
@@ -108,8 +108,8 @@ def visible_non_french_nodes(html_text: str) -> list[str]:
             if part.startswith("<!--") or part.startswith("<!") or part.startswith("<?"):
                 continue
             if CLOSE_TAG_RE.match(part):
-                if skip_stack:
-                    skip_stack.pop()
+                if protect_stack:
+                    protect_stack.pop()
                 continue
             m = OPEN_TAG_RE.match(part)
             if m and not part.rstrip().endswith("/>"):
@@ -117,15 +117,25 @@ def visible_non_french_nodes(html_text: str) -> list[str]:
                 cm = CLASS_RE.search(part)
                 if cm:
                     classes = cm.group(2)
-                own_skip = any(c in {"fr", "ipa"} for c in classes.split())
-                skip_stack.append((skip_stack[-1] if skip_stack else False) or own_skip)
+                own_protected = any(c in {"fr", "ipa"} for c in classes.split())
+                protect_stack.append((protect_stack[-1] if protect_stack else False) or own_protected)
             continue
-        if skip_stack and skip_stack[-1]:
+
+        in_protected = bool(protect_stack and protect_stack[-1])
+        if in_protected != protected:
             continue
         value = re.sub(r"\s+", " ", part).strip()
         if value:
             nodes.append(value)
     return nodes
+
+
+def visible_non_french_nodes(html_text: str) -> list[str]:
+    return _class_stack_nodes(html_text, protected=False)
+
+
+def protected_french_nodes(html_text: str) -> list[str]:
+    return _class_stack_nodes(html_text, protected=True)
 
 
 def validate_cards() -> list[str]:
@@ -138,7 +148,6 @@ def validate_cards() -> list[str]:
             errors.append(f"{path}: corrupted placeholder token")
             continue
 
-        # French-side invariants: immutable fields and every French example line must remain exact.
         if immutable_fields(current) != immutable_fields(original):
             errors.append(f"{path}: compatibility-sensitive card fields changed")
 
@@ -185,6 +194,11 @@ def validate_grammar() -> list[str]:
         # Tags and all attributes (including grammar IDs and French classes) must stay exact.
         if TAG_RE.findall(current) != TAG_RE.findall(original):
             errors.append(f"{path}: HTML tags/attributes changed during translation")
+            continue
+
+        # Text inside .fr/.ipa regions is source material and must remain exact too.
+        if protected_french_nodes(current) != protected_french_nodes(original):
+            errors.append(f"{path}: French/IPA grammar content changed during translation")
             continue
 
         suspicious = [n for n in visible_non_french_nodes(current) if german_score(n) >= 2]
