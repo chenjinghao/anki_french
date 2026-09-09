@@ -2,37 +2,55 @@
 """Finalize English-facing repository docs and reject broken translations."""
 from __future__ import annotations
 
+import html
 import re
 import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-GERMAN_WORDS = {
-    "ich", "du", "wir", "ihr", "sie", "er", "nicht", "und", "oder", "aber",
-    "ist", "sind", "war", "waren", "wird", "werden", "hat", "haben", "kann",
-    "können", "muss", "müssen", "der", "die", "das", "den", "dem", "des",
-    "ein", "eine", "einen", "einem", "einer", "mit", "für", "von", "aus",
-    "zu", "zur", "zum", "auf", "bei", "wenn", "dass", "auch", "nur", "sehr",
-    "wie", "was", "wer", "wen", "wem", "wo", "hier", "dort", "mein", "dein",
-    "sein", "unser", "euer", "dies", "diese", "dieser", "dieses", "man", "noch",
-    "schon", "kein", "keine", "ohne", "über", "unter", "zwischen", "seit", "durch",
-    "präposition", "artikel", "substantiv", "adjektiv", "adverb", "pronomen", "verb",
-    "satz", "sätze", "gebrauch", "beispiel", "beispiele", "jahr", "jahre", "morgen",
-    "vormittag", "nachmittag", "abend", "nacht", "wort", "sprache", "geschlecht",
-    "zahl", "plural", "singular", "männlich", "weiblich",
-}
-WORD_RE = re.compile(r"[A-Za-zÄÖÜäöüß]+")
-GERMAN_SHAPE_RE = re.compile(
-    r"\b[A-Za-zÄÖÜäöüß]+(?:ung|ungen|keit|keiten|heit|heiten|lich|liche|lichen|licher|liches|isch|ische|ischen|ischer|isches|erweise|weise|schaft|schaften)\b",
-    re.I,
-)
+
+WORD_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿŒœÇç’'-]+")
 TAG_RE = re.compile(r"<[^>]+>")
 TAG_SPLIT_RE = re.compile(r"(<[^>]+>)")
 OPEN_TAG_RE = re.compile(r"^<\s*([A-Za-z][\w:-]*)\b")
 CLOSE_TAG_RE = re.compile(r"^<\s*/\s*([A-Za-z][\w:-]*)\s*>")
 CLASS_RE = re.compile(r"\bclass\s*=\s*(['\"])(.*?)\1", re.I)
+
 IMMUTABLE_CARD_FIELDS = (
     "Rang:", "Wort:", "Wortart:", "Wort mit Artikel:", "Femininum / Plural:", "IPA:"
+)
+
+# Deliberately excludes forms that are ordinary English words (man, war, was, die,
+# hat, in, am) and cross-language cognates (verb, adverb, singular, plural).
+GERMAN_OUTPUT_WORDS = {
+    "der", "den", "dem", "des", "das", "ein", "eine", "einen", "einem", "einer",
+    "und", "oder", "aber", "nicht", "mit", "für", "von", "aus", "zu", "zur", "zum",
+    "auf", "bei", "ist", "sind", "wird", "werden", "kann", "können", "muss", "müssen",
+    "haben", "wenn", "dass", "auch", "nur", "sehr", "mehr", "weniger", "vor", "nach",
+    "ohne", "über", "unter", "zwischen", "seit", "durch", "gegen", "wegen", "beim",
+    "vom", "ins", "ich", "sie", "wir", "ihr", "wer", "wen", "wem", "wo", "wie",
+    "mein", "dein", "sein", "unser", "euer", "dies", "diese", "dieser", "dieses",
+    "führer", "führerin", "geschlecht", "weiblich", "männlich", "verwendung",
+    "gebrauch", "bildung", "etymologisch", "paradoxerweise", "unterschiedlich",
+    "keiner", "einziger", "wohnung",
+}
+
+GERMAN_SOURCE_EXACT = {
+    "Verwendung", "Gebrauch", "Geschlecht", "Weiblich", "weiblich", "Männlich",
+    "männlich", "Bildung", "Morgen", "Vormittag", "Nachmittag", "Abend", "Nacht",
+    "Wort", "Sprache", "Zahl", "Aussprache", "Stellung", "Bedeutung", "Schreibweise",
+    "Hinweis", "Achtung", "Ausnahme", "Ausnahmen", "Regel", "Regeln", "Beispiel",
+    "Beispiele", "Etymologie",
+}
+GERMAN_SOURCE_WORDS = GERMAN_OUTPUT_WORDS | {
+    "die", "hat", "waren", "war", "man", "noch", "schon", "kein", "keine", "hier",
+    "zehn", "jahre", "jahr", "steht", "eigene", "seine", "präposition", "artikel",
+    "substantiv", "adjektiv", "pronomen", "satz", "sätze",
+}
+GERMAN_SOURCE_SHAPE_RE = re.compile(
+    r"\b[A-Za-zÄÖÜäöüß]+(?:keit|keiten|heit|heiten|lich|liche|lichen|licher|liches|"
+    r"isch|ische|ischen|ischer|isches|erweise|schaft|schaften)\b",
+    re.I,
 )
 
 
@@ -51,6 +69,60 @@ def git_show(path: Path, ref: str = "origin/main") -> str:
     return proc.stdout
 
 
+def collect_french_terms() -> set[str]:
+    terms = {
+        "le", "la", "les", "un", "une", "des", "de", "du", "au", "aux", "à",
+        "en", "y", "ce", "cet", "cette", "ces", "je", "j'", "tu", "il", "elle",
+        "nous", "vous", "ils", "elles", "me", "te", "se", "lui", "leur", "que",
+        "qui", "dont", "où", "ne", "pas", "plus", "et", "ou", "mais", "si", "hier",
+    }
+    for path in (ROOT / "cards").glob("*.yml"):
+        original = git_show(path)
+        for line in original.splitlines():
+            if line.startswith(("Wort: ", "Wort mit Artikel: ", "Femininum / Plural: ")):
+                value = line.split(":", 1)[1]
+                for token in WORD_RE.findall(value):
+                    terms.add(token.lower().replace("’", "'"))
+    return terms
+
+
+FRENCH_TERMS: set[str] | None = None
+
+
+def french_terms() -> set[str]:
+    global FRENCH_TERMS
+    if FRENCH_TERMS is None:
+        FRENCH_TERMS = collect_french_terms()
+    return FRENCH_TERMS
+
+
+def is_french_fragment(text: str) -> bool:
+    tokens = [t.lower().replace("’", "'") for t in WORD_RE.findall(html.unescape(text))]
+    return bool(tokens and len(tokens) <= 4 and all(t in french_terms() for t in tokens))
+
+
+def output_german_score(text: str) -> int:
+    words = [w.lower().replace("’", "'") for w in WORD_RE.findall(html.unescape(text))]
+    score = sum(1 for w in words if w in GERMAN_OUTPUT_WORDS)
+    if any(w in {"führer", "führerin"} for w in words):
+        score += 1
+    return score
+
+
+def source_likely_german(text: str) -> bool:
+    value = html.unescape(text).strip()
+    if not value or is_french_fragment(value):
+        return False
+    if value in GERMAN_SOURCE_EXACT:
+        return True
+    words = [w.lower().replace("’", "'") for w in WORD_RE.findall(value)]
+    if any(w in GERMAN_SOURCE_WORDS for w in words):
+        return True
+    if GERMAN_SOURCE_SHAPE_RE.search(value):
+        return True
+    return False
+
+
 def card_definition_text(text: str) -> str:
     for line in text.splitlines():
         if line.startswith("Definition:"):
@@ -60,16 +132,6 @@ def card_definition_text(text: str) -> str:
 
 def card_definition(path: Path) -> str:
     return card_definition_text(path.read_text(encoding="utf-8"))
-
-
-def german_score(text: str) -> int:
-    words = [w.lower() for w in WORD_RE.findall(text)]
-    score = sum(1 for w in words if w in GERMAN_WORDS)
-    if re.search(r"[äöüß]", text, re.I):
-        score += 2
-    if GERMAN_SHAPE_RE.search(text):
-        score += 1
-    return score
 
 
 def example_blocks(text: str) -> list[list[str]]:
@@ -144,7 +206,7 @@ def _class_stack_nodes(html_text: str, *, protected: bool) -> list[str]:
                 cm = CLASS_RE.search(part)
                 if cm:
                     classes = cm.group(2)
-                own_protected = any(c in {"fr", "ipa"} for c in classes.split())
+                own_protected = any(c in {"fr", "ipa"} for c in classes.split()) or m.group(1).lower() == "code"
                 protect_stack.append((protect_stack[-1] if protect_stack else False) or own_protected)
             continue
 
@@ -174,10 +236,16 @@ def unchanged_german_nodes(current: str, original: str) -> list[str]:
     for new, old in zip(current_nodes, original_nodes):
         if new != old:
             continue
-        word_count = len(WORD_RE.findall(old))
-        if german_score(old) >= 1 or (word_count >= 3 and GERMAN_SHAPE_RE.search(old)):
+        stripped = html.unescape(old).strip()
+        if len(WORD_RE.findall(stripped)) <= 1 and len(re.sub(r"\W", "", stripped)) <= 3:
+            continue
+        if source_likely_german(old):
             bad.append(old)
     return bad
+
+
+def suspicious_output_nodes(text: str) -> list[str]:
+    return [node for node in visible_non_french_nodes(text) if output_german_score(node) >= 2]
 
 
 def finalize_templates() -> None:
@@ -204,16 +272,13 @@ def validate_cards() -> list[str]:
         if "ZXQ" in current:
             errors.append(f"{path}: corrupted placeholder token")
             continue
-
         if immutable_fields(current) != immutable_fields(original):
             errors.append(f"{path}: compatibility-sensitive card fields changed")
 
         current_blocks = example_blocks(current)
         original_blocks = example_blocks(original)
         if len(current_blocks) != len(original_blocks):
-            errors.append(
-                f"{path}: example block count changed ({len(original_blocks)} -> {len(current_blocks)})"
-            )
+            errors.append(f"{path}: example block count changed ({len(original_blocks)} -> {len(current_blocks)})")
             continue
 
         for block_no, (new_block, old_block) in enumerate(zip(current_blocks, original_blocks), 1):
@@ -225,17 +290,23 @@ def validate_cards() -> list[str]:
                 continue
             if new_block[0] != old_block[0]:
                 errors.append(f"{path}: French text changed in example block {block_no}")
-            if new_block[1] == old_block[1] and german_score(old_block[1]) >= 1:
-                errors.append(f"{path}: untranslated example block {block_no}: {new_block[1][:120]}")
-            elif german_score(new_block[1]) >= 2:
-                errors.append(
-                    f"{path}: likely German remains in example block {block_no}: {new_block[1][:120]}"
-                )
+
+            translated = new_block[1]
+            original_de = old_block[1]
+            if translated == original_de and source_likely_german(original_de):
+                errors.append(f"{path}: untranslated example block {block_no}: {translated[:120]}")
+            elif output_german_score(translated) >= 2:
+                errors.append(f"{path}: likely German remains in example block {block_no}: {translated[:120]}")
+            if translated.count("*") % 2:
+                errors.append(f"{path}: unmatched emphasis marker in example block {block_no}")
+            if "**" in translated:
+                errors.append(f"{path}: doubled emphasis marker in example block {block_no}")
 
         definition = card_definition_text(current)
-        if definition == card_definition_text(original) and german_score(definition) >= 1:
+        original_definition = card_definition_text(original)
+        if definition == original_definition and source_likely_german(original_definition):
             errors.append(f"{path}: definition was not translated: {definition}")
-        elif german_score(definition) >= 2:
+        elif output_german_score(definition) >= 2:
             errors.append(f"{path}: likely German remains in definition: {definition}")
 
         current_note = note_payload(current)
@@ -248,8 +319,11 @@ def validate_cards() -> list[str]:
             unchanged = unchanged_german_nodes(current_note, original_note)
             if unchanged:
                 errors.append(f"{path}: untranslated note text remains: {unchanged[0][:120]}")
+            suspicious = suspicious_output_nodes(current_note)
+            if suspicious:
+                errors.append(f"{path}: likely German remains in note: {suspicious[0][:120]}")
 
-        if len(errors) >= 60:
+        if len(errors) >= 80:
             break
     return errors
 
@@ -262,11 +336,9 @@ def validate_grammar() -> list[str]:
         if "ZXQ" in current:
             errors.append(f"{path}: corrupted placeholder token")
             continue
-
         if TAG_RE.findall(current) != TAG_RE.findall(original):
             errors.append(f"{path}: HTML tags/attributes changed during translation")
             continue
-
         if protected_french_nodes(current) != protected_french_nodes(original):
             errors.append(f"{path}: French/IPA grammar content changed during translation")
             continue
@@ -275,12 +347,11 @@ def validate_grammar() -> list[str]:
         if unchanged:
             errors.append(f"{path}: untranslated grammar text remains: {unchanged[0][:140]}")
             continue
-
-        suspicious = [n for n in visible_non_french_nodes(current) if german_score(n) >= 2]
+        suspicious = suspicious_output_nodes(current)
         if suspicious:
             errors.append(f"{path}: likely German remains: {suspicious[0][:140]}")
 
-        if len(errors) >= 30:
+        if len(errors) >= 40:
             break
     return errors
 
@@ -303,7 +374,7 @@ def validate_templates() -> list[str]:
 def validate_translation() -> None:
     errors = validate_cards() + validate_grammar() + validate_templates()
     if errors:
-        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors[:120]))
+        raise SystemExit("Translation quality gate failed:\n" + "\n".join(errors[:160]))
 
 
 def sync_words() -> None:
