@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Translate learner-facing German in the anki_french sources to English.
 
-French source text and compatibility-sensitive German field/CSS/grammar identifiers
-are preserved. Markdown emphasis is translated without placeholder tokens, and HTML
-text nodes are translated while tags and attribute values remain byte-for-byte intact.
+The translator preserves French source text plus compatibility-sensitive German
+field/CSS/grammar identifiers. Card examples are translated as complete sentences;
+HTML is translated by visible text node while tags/attributes and French fragments
+remain untouched.
 """
 from __future__ import annotations
 
@@ -70,13 +71,24 @@ POST_REPLACEMENTS = {
     "[locally]": "[place]",
     "[temporal]": "[time]",
     "[temporarily]": "[time]",
-    "[partitive article]": "[partitive article]",
-    "[relative pronoun]": "[relative pronoun]",
-    "[negation]": "[negation]",
+    "[Articles of division]": "[partitive article]",
+    "[Article of division]": "[partitive article]",
+    "Articles of division": "partitive article",
+    "Article of division": "partitive article",
+    "==References==": "or",
+}
+
+EXACT_NODE_REPLACEMENTS = {
+    "bzw.": "or",
+    "bzw": "or",
+    "z. B.": "e.g.",
+    "z.B.": "e.g.",
+    "d. h.": "i.e.",
+    "d.h.": "i.e.",
 }
 
 GERMAN_HINTS = re.compile(
-    r"\b(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|und|oder|aber|nicht|mit|für|von|aus|zu|im|in|auf|bei|ist|sind|wird|werden|kann|können|muss|müssen|hat|haben|als|wenn|dass|dies|diese|dieser|dieses|auch|nur|sehr|mehr|weniger|vor|nach|ohne|über|unter|zwischen|seit|durch|gegen|wegen|beim|zum|zur|vom|ins|am|man|ich|du|er|sie|wir|ihr|wer|wen|wem|wo|wie|was|mein|dein|sein|unser|euer|bzw)\b|[äöüß]",
+    r"\b(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|und|oder|aber|nicht|mit|für|von|aus|zu|im|in|auf|bei|ist|sind|wird|werden|kann|können|muss|müssen|hat|haben|als|wenn|dass|dies|diese|dieser|dieses|auch|nur|sehr|mehr|weniger|vor|nach|ohne|über|unter|zwischen|seit|durch|gegen|wegen|beim|zum|zur|vom|ins|am|man|ich|du|er|sie|wir|ihr|wer|wen|wem|wo|wie|was|mein|dein|sein|unser|euer|bzw|präposition|artikel|substantiv|adjektiv|adverb|pronomen|verb|satz|sätze|gebrauch|beispiel|beispiele)\b|[äöüß]",
     re.IGNORECASE,
 )
 
@@ -85,11 +97,29 @@ OPEN_TAG_RE = re.compile(r"^<\s*([A-Za-z][\w:-]*)\b")
 CLOSE_TAG_RE = re.compile(r"^<\s*/\s*([A-Za-z][\w:-]*)\s*>")
 CLASS_RE = re.compile(r"\bclass\s*=\s*(['\"])(.*?)\1", re.I)
 EMPH_RE = re.compile(r"\*([^*]+)\*")
+TOKEN_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿŒœÇç’'-]+")
+
+
+def collect_french_terms(root: Path) -> set[str]:
+    terms = {
+        "le", "la", "les", "un", "une", "des", "de", "du", "au", "aux", "à",
+        "en", "y", "ce", "cet", "cette", "ces", "je", "j'", "tu", "il", "elle",
+        "nous", "vous", "ils", "elles", "me", "te", "se", "lui", "leur", "que",
+        "qui", "dont", "où", "ne", "pas", "plus", "et", "ou", "mais", "si",
+    }
+    for path in (root / "cards").glob("*.yml"):
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if line.startswith(("Wort: ", "Wort mit Artikel: ", "Femininum / Plural: ")):
+                value = line.split(":", 1)[1]
+                for token in TOKEN_RE.findall(value):
+                    terms.add(token.lower().replace("’", "'"))
+    return terms
 
 
 class Translator:
-    def __init__(self, batch_size: int = 48):
+    def __init__(self, root: Path, batch_size: int = 48):
         self.batch_size = batch_size
+        self.french_terms = collect_french_terms(root)
         self.tokenizer = MarianTokenizer.from_pretrained(MODEL_NAME)
         self.model = MarianMTModel.from_pretrained(MODEL_NAME)
         self.model.eval()
@@ -101,7 +131,9 @@ class Translator:
         out: List[str] = []
         for start in range(0, len(texts), self.batch_size):
             batch = texts[start : start + self.batch_size]
-            encoded = self.tokenizer(batch, return_tensors="pt", padding=True, truncation=True, max_length=384)
+            encoded = self.tokenizer(
+                batch, return_tensors="pt", padding=True, truncation=True, max_length=384
+            )
             with torch.inference_mode():
                 generated = self.model.generate(**encoded, max_new_tokens=384, num_beams=2)
             decoded = self.tokenizer.batch_decode(generated, skip_special_tokens=True)
@@ -121,25 +153,17 @@ def find_and_mark(text: str, phrase: str) -> str:
     phrase = phrase.strip().strip('"“”„.,;:!?()[]')
     if not phrase:
         return text
-    # Prefer a case-insensitive word/phrase match.
     pattern = re.compile(r"(?<!\w)" + re.escape(phrase) + r"(?!\w)", re.I)
-    m = pattern.search(text)
-    if not m:
-        m = re.search(re.escape(phrase), text, re.I)
+    m = pattern.search(text) or re.search(re.escape(phrase), text, re.I)
     if not m:
         return text
-    return text[:m.start()] + "*" + text[m.start():m.end()] + "*" + text[m.end():]
+    return text[: m.start()] + "*" + text[m.start() : m.end()] + "*" + text[m.end() :]
 
 
 def translate_sentences(translator: Translator, texts: List[str]) -> List[str]:
-    """Translate full sentences first, then restore emphasis by translated phrase match.
-
-    If an emphasized phrase cannot be located in the English sentence, emphasis is
-    omitted rather than risking mixed-language or corrupted output.
-    """
+    """Translate complete German sentences, then restore translated emphasis when matchable."""
     clean = [EMPH_RE.sub(lambda m: m.group(1), text) for text in texts]
     translated_full = translator.translate(clean)
-
     span_lists = [EMPH_RE.findall(text) for text in texts]
     flat_spans = [span for spans in span_lists for span in spans]
     translated_spans = translator.translate(flat_spans)
@@ -154,55 +178,74 @@ def translate_sentences(translator: Translator, texts: List[str]) -> List[str]:
     return out
 
 
-def translate_html_lines(translator: Translator, lines: List[str]) -> List[str]:
-    """Translate visible German text nodes while preserving tags and attributes."""
-    split_lines: List[List[str]] = []
-    jobs: List[tuple[int, int, str]] = []
+def is_french_fragment(text: str, french_terms: set[str]) -> bool:
+    tokens = [t.lower().replace("’", "'") for t in TOKEN_RE.findall(html.unescape(text))]
+    return bool(tokens and len(tokens) <= 4 and all(t in french_terms for t in tokens))
 
-    for line_index, line in enumerate(lines):
-        parts = TAG_SPLIT_RE.split(line)
-        split_lines.append(parts)
-        skip_stack: List[bool] = []
-        for part_index, part in enumerate(parts):
-            if not part:
-                continue
-            if part.startswith("<"):
-                if part.startswith("<!--") or part.startswith("<!") or part.startswith("<?"):
-                    continue
-                if CLOSE_TAG_RE.match(part):
-                    if skip_stack:
-                        skip_stack.pop()
-                    continue
-                m = OPEN_TAG_RE.match(part)
-                if m and not part.rstrip().endswith("/>"):
-                    classes = ""
-                    cm = CLASS_RE.search(part)
-                    if cm:
-                        classes = cm.group(2)
-                    own_skip = any(c in {"fr", "ipa"} for c in classes.split())
-                    skip_stack.append((skip_stack[-1] if skip_stack else False) or own_skip)
-                continue
 
-            if skip_stack and skip_stack[-1]:
-                continue
-            if looks_german(part):
-                jobs.append((line_index, part_index, part))
+def translate_html_text(translator: Translator, text: str) -> str:
+    """Translate visible German text nodes with HTML parsing state preserved across lines."""
+    parts = TAG_SPLIT_RE.split(text)
+    stack: list[tuple[str, bool]] = []
+    jobs: list[tuple[int, str, str, str]] = []
 
-    translated = translator.translate([job[2] for job in jobs])
-    for (line_index, part_index, _), value in zip(jobs, translated):
-        split_lines[line_index][part_index] = value
-    return ["".join(parts) for parts in split_lines]
+    for i, part in enumerate(parts):
+        if not part:
+            continue
+        if part.startswith("<"):
+            if part.startswith("<!--") or part.startswith("<!") or part.startswith("<?"):
+                continue
+            if CLOSE_TAG_RE.match(part):
+                if stack:
+                    stack.pop()
+                continue
+            m = OPEN_TAG_RE.match(part)
+            if m and not part.rstrip().endswith("/>"):
+                tag = m.group(1).lower()
+                classes = ""
+                cm = CLASS_RE.search(part)
+                if cm:
+                    classes = cm.group(2)
+                own_protected = any(c in {"fr", "ipa"} for c in classes.split()) or tag == "code"
+                stack.append((tag, (stack[-1][1] if stack else False) or own_protected))
+            continue
+
+        if stack and stack[-1][1]:
+            continue
+        stripped = html.unescape(part).strip()
+        if not stripped:
+            continue
+
+        parent_tag = stack[-1][0] if stack else ""
+        if parent_tag in {"b", "strong", "u", "em"} and is_french_fragment(stripped, translator.french_terms):
+            continue
+
+        if stripped in EXACT_NODE_REPLACEMENTS:
+            leading = part[: len(part) - len(part.lstrip())]
+            trailing = part[len(part.rstrip()) :]
+            parts[i] = leading + EXACT_NODE_REPLACEMENTS[stripped] + trailing
+            continue
+
+        if looks_german(part):
+            leading = part[: len(part) - len(part.lstrip())]
+            trailing = part[len(part.rstrip()) :]
+            jobs.append((i, leading, trailing, part.strip()))
+
+    translated = translator.translate([job[3] for job in jobs])
+    for (i, leading, trailing, _), value in zip(jobs, translated):
+        parts[i] = leading + value.strip() + trailing
+    return "".join(parts)
 
 
 def process_card(path: Path, translator: Translator) -> None:
-    raw_lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
-    lines = list(raw_lines)
+    lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
     sentence_jobs: List[tuple[int, str, str]] = []
     plain_jobs: List[tuple[int, str, str]] = []
-    note_line_indices: List[int] = []
     in_examples = False
     in_note = False
     example_block_line = 0
+    note_start: int | None = None
+    note_end: int | None = None
 
     for i, raw in enumerate(lines):
         newline = "\n" if raw.endswith("\n") else ""
@@ -211,9 +254,14 @@ def process_card(path: Path, translator: Translator) -> None:
         stripped = line.strip()
         lines[i] = line + newline
 
-        if not line.startswith(" "):
+        # Blank lines inside block scalars are not top-level YAML fields.
+        if line and not line.startswith(" "):
+            if in_note and not stripped.startswith("Notiz:") and note_end is None:
+                note_end = i
             in_examples = stripped.startswith("Beispielsätze:")
             in_note = stripped.startswith("Notiz:")
+            if in_note:
+                note_start = i + 1
             example_block_line = 0
 
         if stripped.startswith("#"):
@@ -231,23 +279,23 @@ def process_card(path: Path, translator: Translator) -> None:
 
         if line.startswith("Register:"):
             value = line.split(":", 1)[1].strip()
-            if value and not value.startswith(("''", '\"\"')) and looks_german(value):
+            if value and not value.startswith(("''", '""')) and looks_german(value):
                 plain_jobs.append((i, "Register: ", value))
             continue
 
-        if in_examples and line.startswith("  "):
+        if in_examples:
             if not stripped:
                 example_block_line = 0
                 continue
-            if example_block_line % 2 == 1:
-                indent = line[: len(line) - len(line.lstrip())]
-                sentence_jobs.append((i, indent, line.strip()))
-            example_block_line += 1
-            continue
+            if line.startswith("  "):
+                if example_block_line % 2 == 1:
+                    indent = line[: len(line) - len(line.lstrip())]
+                    sentence_jobs.append((i, indent, line.strip()))
+                example_block_line += 1
+                continue
 
-        if in_note and line.startswith("  ") and stripped:
-            if not re.fullmatch(r"<grammar\b[^>]*></grammar>", stripped):
-                note_line_indices.append(i)
+    if in_note and note_start is not None and note_end is None:
+        note_end = len(lines)
 
     if plain_jobs:
         translated = translator.translate([j[2] for j in plain_jobs])
@@ -261,34 +309,19 @@ def process_card(path: Path, translator: Translator) -> None:
             newline = "\n" if lines[line_index].endswith("\n") else ""
             lines[line_index] = f"{prefix}{value}{newline}"
 
-    if note_line_indices:
-        fragments = []
-        for idx in note_line_indices:
-            newline = "\n" if lines[idx].endswith("\n") else ""
-            line = lines[idx][:-1] if newline else lines[idx]
-            indent = line[: len(line) - len(line.lstrip())]
-            fragments.append(line[len(indent):])
-        translated_fragments = translate_html_lines(translator, fragments)
-        for idx, value in zip(note_line_indices, translated_fragments):
-            newline = "\n" if lines[idx].endswith("\n") else ""
-            line = lines[idx][:-1] if newline else lines[idx]
-            indent = line[: len(line) - len(line.lstrip())]
-            lines[idx] = indent + value + newline
+    if note_start is not None and note_end is not None and note_start < note_end:
+        note_text = "".join(lines[note_start:note_end])
+        translated_note = translate_html_text(translator, note_text)
+        replacement = translated_note.splitlines(keepends=True)
+        if len(replacement) == note_end - note_start:
+            lines[note_start:note_end] = replacement
 
     path.write_text("".join(lines), encoding="utf-8")
 
 
 def process_html_file(path: Path, translator: Translator) -> None:
     text = path.read_text(encoding="utf-8")
-    lines = text.splitlines(keepends=True)
-    payloads: List[str] = []
-    newlines: List[str] = []
-    for raw in lines:
-        newline = "\n" if raw.endswith("\n") else ""
-        payloads.append(raw[:-1] if newline else raw)
-        newlines.append(newline)
-    translated = translate_html_lines(translator, payloads)
-    path.write_text("".join(v + nl for v, nl in zip(translated, newlines)), encoding="utf-8")
+    path.write_text(translate_html_text(translator, text), encoding="utf-8")
 
 
 def process_template_file(path: Path) -> None:
@@ -315,7 +348,7 @@ def main() -> None:
     args = parser.parse_args()
 
     root = Path(args.root).resolve()
-    translator = Translator(batch_size=args.batch_size)
+    translator = Translator(root=root, batch_size=args.batch_size)
     for path in select_shard((root / "cards").glob("*.yml"), args.shard, args.shards):
         process_card(path, translator)
     for path in select_shard((root / "grammar").rglob("*.html"), args.shard, args.shards):
