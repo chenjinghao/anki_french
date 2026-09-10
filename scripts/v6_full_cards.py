@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 """Select and validate the complete 5,000-card v6 French-source dry run.
 
-Run revision 1. This intentionally excludes grammar. Selection is deterministic
-and shardable. Validation fails closed unless exactly 5,000 unique card paths
-are present, then reuses the strongest card-quality gate accumulated during the
-500-card pilots.
+Run revision 2. This intentionally excludes grammar. Selection and sharding are
+dependency-free so preflight cannot fail because of the later QA/model runtime.
+Validation fails closed unless exactly 5,000 unique card paths are present, then
+loads the strongest card-quality gate accumulated during the 500-card pilots.
 """
 from __future__ import annotations
 
 import argparse
 from pathlib import Path
-
-import v6_scale_pilot as scale
-import v6_scale_pilot_v5 as gate
 
 EXPECTED_CARDS = 5000
 
@@ -28,6 +25,12 @@ def card_sort_key(path: Path) -> tuple[int, str]:
 def select_all_cards(root: Path) -> list[str]:
     paths = sorted((root / "cards").glob("*.yml"), key=card_sort_key)
     return [path.relative_to(root).as_posix() for path in paths]
+
+
+def shard_paths(paths: list[str], shard: int, shards: int) -> list[str]:
+    if shards < 1 or not 0 <= shard < shards:
+        raise ValueError("invalid shard")
+    return [path for i, path in enumerate(paths) if i % shards == shard]
 
 
 def validate_full(root: Path, paths: list[str], report: Path) -> int:
@@ -60,8 +63,11 @@ def validate_full(root: Path, paths: list[str], report: Path) -> int:
             print(error)
         return 1
 
+    # Lazy import: selection/preflight must not depend on PyYAML, transformers,
+    # PyTorch, or any other validation/model runtime.
+    import v6_scale_pilot_v5 as gate
+
     result = gate.validate(root, paths, report)
-    # Make the scope unmistakable in the report produced by the reused gate.
     text = report.read_text(encoding="utf-8")
     report.write_text(
         "V6 FULL 5000-CARD FRENCH-SOURCE DRY RUN\n"
@@ -97,7 +103,7 @@ def main() -> None:
         if (args.shard is None) != (args.shards is None):
             parser.error("--shard and --shards must be supplied together")
         if args.shard is not None:
-            paths = scale.shard_paths(paths, args.shard, args.shards)
+            paths = shard_paths(paths, args.shard, args.shards)
         Path(args.output).write_text("\n".join(paths) + "\n", encoding="utf-8")
         print(f"Selected {len(paths)} full-run cards")
         return
