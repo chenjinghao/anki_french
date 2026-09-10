@@ -22,7 +22,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install QA runtime
-        run: pip install pyyaml==6.0.2
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
       - name: Download revision 4 pilot artifact
         uses: actions/download-artifact@v4
         with:
@@ -50,4 +52,4 @@ jobs:
           path: v6-r4-qa-only-report.txt
           if-no-files-found: warn
 
-# [run v6 qa-only] Validate revision 4 artifact after note-boundary repair.
+# QA-only rerun validates the existing revision-4 artifact; it does not rerun NLLB.
