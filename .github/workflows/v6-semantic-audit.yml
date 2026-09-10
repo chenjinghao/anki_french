@@ -1,0 +1,54 @@
+name: V6 500-card semantic similarity audit
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  audit:
+    if: contains(github.event.head_commit.message, '[run v6 semantic audit]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install audit runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install sentence-transformers==5.1.0 transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Download French-source scale artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-500-card-french-source-pilot
+          path: audit
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: chenjinghao/anki_french
+          run-id: 34500069784
+      - name: Apply all reviewed repairs
+        run: |
+          python scripts/repair_v6.py --root audit/v6-scale2-combined --paths-file audit/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale.py --root audit/v6-scale2-combined --paths-file audit/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale_extra.py --root audit/v6-scale2-combined --paths-file audit/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale_manual100.py --root audit/v6-scale2-combined --paths-file audit/v6-scale2-all-paths.txt
+      - name: Rank semantic outliers
+        run: |
+          python scripts/v6_semantic_audit.py \
+            --root audit/v6-scale2-combined \
+            --paths-file audit/v6-scale2-all-paths.txt \
+            --report audit/v6-semantic-audit.txt \
+            --limit 250
+      - name: Upload semantic audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-500-card-semantic-audit
+          path: audit/v6-semantic-audit.txt
+          retention-days: 7
