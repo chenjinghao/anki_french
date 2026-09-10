@@ -49,3 +49,5 @@ jobs:
           name: v6-r4-qa-only-report
           path: v6-r4-qa-only-report.txt
           if-no-files-found: warn
+
+# [run v6 qa-only] Validate revision 4 artifact after note-boundary repair.
