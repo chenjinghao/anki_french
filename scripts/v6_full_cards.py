@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Select and validate the complete 5,000-card v6 French-source dry run.
 
-Run revision 2. This intentionally excludes grammar. Selection and sharding are
+Run revision 3. This intentionally excludes grammar. Selection and sharding are
 dependency-free so preflight cannot fail because of the later QA/model runtime.
 Validation fails closed unless exactly 5,000 unique card paths are present, then
 loads the strongest card-quality gate accumulated during the 500-card pilots.
