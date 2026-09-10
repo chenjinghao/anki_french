@@ -1,0 +1,132 @@
+name: V6 500-card French-source scale pilot
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  preflight:
+    if: contains(github.event.head_commit.message, '[run v6 scale2]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile v6 scale2 scripts
+        run: |
+          python -m py_compile \
+            scripts/translate_cards_fr_en_v6.py \
+            scripts/repair_v6.py \
+            scripts/repair_v6_scale.py \
+            scripts/v6_scale_pilot_v2.py
+
+  translate:
+    needs: preflight
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install NLLB runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Restore German card source
+        run: |
+          git checkout origin/main -- cards
+          python scripts/normalize_examples.py --shard 0 --shards 1
+      - name: Select scale2 shard
+        run: |
+          python scripts/v6_scale_pilot_v2.py select \
+            --output v6-scale2-paths.txt \
+            --shard ${{ matrix.shard }} --shards 5
+      - name: Translate examples from French source
+        env:
+          HF_HOME: ${{ runner.temp }}/hf-cache
+          TOKENIZERS_PARALLELISM: 'false'
+        run: |
+          python scripts/translate_cards_fr_en_v6.py \
+            --paths-file v6-scale2-paths.txt --batch-size 16
+      - name: Apply reviewed semantic repairs
+        run: |
+          python scripts/repair_v6.py --paths-file v6-scale2-paths.txt
+          python scripts/repair_v6_scale.py --paths-file v6-scale2-paths.txt
+      - name: Bundle translated shard
+        run: |
+          python scripts/v6_pilot.py bundle \
+            --paths-file v6-scale2-paths.txt \
+            --output v6-scale2-output
+      - name: Upload translated shard
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-scale2-shard-${{ matrix.shard }}
+          path: |
+            v6-scale2-paths.txt
+            v6-scale2-output
+          retention-days: 7
+
+  combine-and-qa:
+    needs: translate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install QA runtime
+        run: pip install pyyaml==6.0.2
+      - name: Download all translated shards
+        uses: actions/download-artifact@v4
+        with:
+          pattern: v6-scale2-shard-*
+          path: v6-scale2-artifacts
+          merge-multiple: false
+      - name: Recombine 500-card sample
+        run: |
+          mkdir -p v6-scale2-combined/cards
+          : > v6-scale2-all-paths.txt
+          for shard in v6-scale2-artifacts/v6-scale2-shard-*; do
+            cat "$shard/v6-scale2-paths.txt" >> v6-scale2-all-paths.txt
+            cp -a "$shard/v6-scale2-output/cards/." v6-scale2-combined/cards/
+          done
+          sort -u -o v6-scale2-all-paths.txt v6-scale2-all-paths.txt
+          count="$(grep -c . v6-scale2-all-paths.txt)"
+          echo "Recombined $count cards"
+          test "$count" -eq 500
+      - name: Run strengthened 500-card gate
+        run: |
+          python scripts/v6_scale_pilot_v2.py validate \
+            --root v6-scale2-combined \
+            --paths-file v6-scale2-all-paths.txt \
+            --report v6-scale2-report.txt
+      - name: Upload scale2 report and translated sample
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-500-card-french-source-pilot
+          path: |
+            v6-scale2-report.txt
+            v6-scale2-all-paths.txt
+            v6-scale2-combined
+          if-no-files-found: warn
+          retention-days: 7
