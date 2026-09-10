@@ -21,6 +21,68 @@ FOUTRE_NOTE = """Notiz: >-
   “to fuck” and is therefore considered vulgar French.
 """
 
+AIMER_NOTE = """Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>aimer</i> vs <i>aimer bien/beaucoup</i></div>
+    <div class="section-content">
+      <p>In French, <span class="fr">aimer</span> on its own and with modifiers such as <span class="fr">bien</span> or <span class="fr">beaucoup</span> can have surprisingly different degrees of intensity.</p>
+
+      <p><span class="fr">Aimer</span> without a modifier expresses strong, deep affection — often romantic love or very strong feelings. So <span class="fr">"Je t'aime"</span> means <span class="de">"I love you"</span> in the full sense of the word.</p>
+
+      <div class="examples">
+        <div class="fr">Je t'aime.</div>
+        <div class="de spoiler">I love you.</div>
+        <div class="fr">J'aime mes enfants plus que tout.</div>
+        <div class="de spoiler">I love my children more than anything.</div>
+      </div>
+
+      <p>Paradoxically, adding <span class="fr">bien</span> or <span class="fr">beaucoup</span> can weaken the statement. <span class="fr">Aimer bien</span> usually means <span class="de">"to like"</span> or <span class="de">"to be fond of"</span>, while <span class="fr">aimer beaucoup</span> means <span class="de">"to like very much"</span> — still without necessarily expressing romantic love.</p>
+
+      <div class="examples">
+        <div class="fr">Je t'aime bien, mais seulement comme ami.</div>
+        <div class="de spoiler">I like you, but only as a friend.</div>
+        <div class="fr">J'aime beaucoup le chocolat.</div>
+        <div class="de spoiler">I like chocolate very much.</div>
+        <div class="fr">Elle aime bien son nouveau collègue.</div>
+        <div class="de spoiler">She likes her new colleague.</div>
+      </div>
+
+      <p>This distinction is especially important with people: <span class="fr">"Je t'aime"</span> is a declaration of love, whereas <span class="fr">"Je t'aime bien"</span> expresses friendly affection and can even be understood as a gentle rejection of romantic feelings.</p>
+    </div>
+  </div>
+  <!-- Grammar automatically added -->
+  <grammar data-id="Modal- und Hilfsverben"></grammar>
+  <grammar data-id="Der Infinitiv ohne Präposition"></grammar>
+"""
+
+REGARDER_NOTE = """Notiz: |-
+  <div><span class="fr">Regarder</span> means <span class="de">to look at / watch</span>: to direct your gaze deliberately at something or observe it for a period of time. The verb describes an active act of looking.</div>
+  <div class="examples">
+    <div class="fr">Madame Rose <span class="fr">regarde</span> le coucher de soleil.</div>
+    <div class="de spoiler">Mrs. Rose is watching the sunset.</div>
+  </div>
+  <div>Use <span class="fr">regarder</span> in the imperative to draw someone's attention to something.</div>
+  <div class="examples">
+    <div class="fr">Regarde ! Le chat est monté tout en haut de l'arbre!</div>
+    <div class="de spoiler">Look! The cat climbed all the way to the top of the tree! (<span class="de">not:</span> Vois! Le chat...)</div>
+  </div>
+  <div class="attention">For the expression <span class="de">to watch a film/program</span>, French normally uses <span class="fr">regarder</span> in the present and future, but <span class="fr">voir</span> is common when referring to having seen a film in the past.</div>
+  <div class="examples">
+    <div class="fr">Ce soir, je vais rester à la maison et regarder un film à la télévision.</div>
+    <div class="de spoiler">Tonight I'm staying home and watching a film on TV.</div>
+    <div class="fr">Hier, j'ai <span class="fr">vu</span> un très bon film.</div>
+    <div class="de spoiler">Yesterday I saw a very good film.</div>
+  </div>
+  <!-- Grammar automatically added -->
+  <hr>
+  <grammar data-id="Verben mit direktem Objekt"></grammar>
+  <grammar data-id="Der Infinitiv ohne Präposition"></grammar>
+"""
+
+TENANT_NOTE = """Notiz: |-
+  <p>The French word <span class="fr">tenant</span> has several meanings that developed from the basic idea of <i>holding</i>. It can refer to a supporter or advocate who “holds” a particular position. In sports, a <span class="fr">tenant</span> or <span class="fr">tenante</span> can be the defending champion or title holder. The expression <i>les tenants et les aboutissants</i> means the ins and outs, background, or full circumstances of a matter. Finally, <i>d’un seul tenant</i> means “in one continuous piece” or “contiguous”.</p>
+"""
+
 ECROULER_NOTE = """Notiz: |-
   <div class="celebration">
     <p><b>🏁 GOAL REACHED: 5,000 WORDS!</b></p>
@@ -64,6 +126,30 @@ TEXT_REPLACEMENTS = {
     "I don't recognize this place.": "Where am I? I don't recognize this place.",
     "She *missed* him by ear.": "She *slapped* him across the face.",
     "She missed him by ear.": "She slapped him across the face.",
+    "You did it by all means.": "They succeeded by every possible means.",
+    "The window goes *to the sea*.": "The window *faces the sea*.",
+    "The window goes to the sea.": "The window faces the sea.",
+    '"*How to see yourself again*!"': '"*Fancy meeting you here*!"',
+    '"How to see yourself again!"': '"Fancy meeting you here!"',
+    "Did you find my keys again?": "Did you *find* my keys? I've been looking everywhere for them!",
+    "She's been getting used to smoking for three months.": "She has been *out of the habit of smoking* for three months.",
+    "We've received thousands upon thousands of requests.": "We've received *millions and millions* of requests.",
+    "This million euro will be used to renovate the school.": "This *one million euros* will be used to renovate the school.",
+    "The cat was gradually purified in a very short time.": "The cat became *house-trained* very quickly.",
+    "You have conducted a clean matter without any scandal.": "They conducted a *clean operation* without any scandal.",
+    "We don't keep this article in business all the time.": "We don't *stock* this item in the store.",
+    "They insist *too much* on details and neglect the essentials.": "You focus *too much* on details and neglect the essentials.",
+    "Then they reconciled.": "After that, they reconciled.",
+    "The guard set up a guard at the door.": "The guard *posted* a sentry at the door.",
+    "She never speaks at family meetings.": "She never manages to *get a word in* during family meetings.",
+    "The player *placed* his shot perfectly into the left corner of the gate.": "The player *placed* his shot perfectly in the left corner of the goal.",
+    "The author moved the story to the 1920s.": "The author *set* the story in the 1920s.",
+    "I forgot how to make a cake.": "I forgot how to make a tart.",
+    "They found him dead, drowned in the bathroom.": "They found him dead, *slumped* in the bathroom.",
+    "The big oak has *collapsed* on the street.": "The large oak *fell* across the road.",
+    "The government has been overthrown after a vote of no confidence.": "The government *collapsed* after a vote of no confidence.",
+    "The business offers convenient payment facilities.": "The store offers attractive *payment options*.",
+    "School offers all the possibilities for success.": "The school provides all the *facilities* needed for success.",
     "The preposition de Mixed with the definite article le or les In one word:":
         "The preposition de combines with the definite articles le and les to form a single word:",
     "The preposition de mixes with the definite article le or les in one word:":
@@ -138,13 +224,18 @@ def main() -> None:
         for line in Path(args.paths_file).read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
+    note_replacements = {
+        "cards/0242_aimer.yml": AIMER_NOTE,
+        "cards/0425_regarder.yml": REGARDER_NOTE,
+        "cards/1890_foutre.yml": FOUTRE_NOTE,
+        "cards/2516_tenant.yml": TENANT_NOTE,
+        "cards/5000_écrouler.yml": ECROULER_NOTE,
+    }
     for rel in paths:
         path = root / rel
         text = repair_text(path.read_text(encoding="utf-8"))
-        if rel == "cards/1890_foutre.yml":
-            text = replace_note_field(text, FOUTRE_NOTE)
-        elif rel == "cards/5000_écrouler.yml":
-            text = replace_note_field(text, ECROULER_NOTE)
+        if rel in note_replacements:
+            text = replace_note_field(text, note_replacements[rel])
         path.write_text(text, encoding="utf-8")
 
 
