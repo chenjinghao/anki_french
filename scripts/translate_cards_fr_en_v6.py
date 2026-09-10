@@ -2,8 +2,8 @@
 """Card-only v6 translator using French as the source for example sentences.
 
 French example sentences are the semantic source of truth. Definitions and notes
-still originate in German, so they are translated German->English. Learner-facing
-French lines and compatibility-sensitive YAML/HTML structure are preserved.
+originate in German and are translated German->English. Learner-facing French
+lines and compatibility-sensitive YAML/HTML structure are preserved.
 """
 from __future__ import annotations
 
@@ -34,6 +34,16 @@ from translate_de_to_en_v6 import (
 )
 
 FR_LANG = "fra_Latn"
+BAD_GLOSS = re.compile(
+    r"\b(?:commission|member states?|standing committee|manufacture|former yugoslav|"
+    r"cold-rolled|what are you(?: doing)?|official journal)\b",
+    re.I,
+)
+GLOSS_PREFIX = re.compile(
+    r"^(?:(?:the )?french word (?:means|signifies)|meaning(?: of the french word)?|"
+    r"translation|definition)\s*[:—-]?\s*",
+    re.I,
+)
 
 
 class CardTranslator:
@@ -80,6 +90,106 @@ class CardTranslator:
             value = re.sub(r"\*{2,}", "*", value)
             out.append(value)
         return out
+
+    def translate_definition(self, german: str, french_headword: str) -> str:
+        """Translate a short German gloss robustly, with context and FR fallback."""
+        source = clean_definition_source(german)
+        direct = normalize_gloss(self.de.translate([source])[0]) if source else ""
+        if not suspicious_gloss(source, direct):
+            return direct
+
+        framed = f"Das französische Wort bedeutet: {source}"
+        contextual = normalize_gloss(self.de.translate([framed])[0])
+        if not suspicious_gloss(source, contextual):
+            return contextual
+
+        # A French headword is less informative for polysemy, but much safer than
+        # a hallucinated institutional sentence. Use it only as a final fallback.
+        fallback = normalize_gloss(self.translate_fr([french_headword])[0])
+        if fallback and not suspicious_gloss(french_headword, fallback):
+            return fallback
+        return direct or contextual or fallback or source
+
+
+def normalize_gloss(value: str) -> str:
+    value = html.unescape(value).strip()
+    value = GLOSS_PREFIX.sub("", value).strip(" .")
+    value = re.sub(r"\s+([,;])", r"\1", value)
+    value = re.sub(r"\s+", " ", value)
+    # Avoid YAML plain-scalar colon ambiguity in a learner gloss.
+    value = re.sub(r":\s+", "; ", value)
+
+    parts = re.split(r"([;,])", value)
+    seen: set[str] = set()
+    out: list[str] = []
+    sep = ""
+    for part in parts:
+        if part in {",", ";"}:
+            sep = part
+            continue
+        gloss = part.strip()
+        if not gloss:
+            continue
+        key = re.sub(r"[^a-z0-9]+", " ", gloss.lower()).strip()
+        if key in seen:
+            continue
+        if out:
+            out.append((sep or ";") + " ")
+        out.append(gloss)
+        seen.add(key)
+        sep = ""
+    return "".join(out).strip()
+
+
+def suspicious_gloss(source: str, value: str) -> bool:
+    if not value:
+        return True
+    if "?" in value or BAD_GLOSS.search(value):
+        return True
+    if len(value) > max(70, 5 * max(1, len(source))):
+        return True
+    return False
+
+
+def clean_definition_source(value: str) -> str:
+    value = re.sub(r"<br\s*/?>", "; ", value, flags=re.I)
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
+def definition_bounds(lines: list[str]) -> tuple[int, int, str] | None:
+    start = next((i for i, line in enumerate(lines) if line.startswith("Definition:")), None)
+    if start is None:
+        return None
+    first = lines[start].rstrip("\n").split(":", 1)[1].strip()
+    if first not in {"|-", "|", ">-", ">"}:
+        return start, start + 1, first
+
+    end = start + 1
+    while end < len(lines):
+        line = lines[end]
+        if line.strip() and not line.startswith((" ", "\t")):
+            break
+        end += 1
+    raw = textwrap.dedent("".join(lines[start + 1 : end])).strip()
+    return start, end, raw
+
+
+def translate_definition_field(lines: list[str], translator: CardTranslator) -> list[str]:
+    bounds = definition_bounds(lines)
+    if not bounds:
+        return lines
+    start, end, source = bounds
+    if not source:
+        return lines
+    headword = next(
+        (line.split(":", 1)[1].strip() for line in lines if line.startswith("Wort:")),
+        "",
+    )
+    translated = translator.translate_definition(source, headword)
+    replacement = f"Definition: {translated}\n"
+    return lines[:start] + [replacement] + lines[end:]
 
 
 def translate_note_markup(translator: CardTranslator, markup: str) -> str:
@@ -168,9 +278,10 @@ def serialize_note(markup: str) -> list[str]:
 def process_card(path: Path, translator: CardTranslator) -> None:
     lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
 
-    # Translate every non-empty definition. Source cards are restored from main,
-    # where Definition is German; short entries must not depend on language hints.
-    def_jobs: list[tuple[int, str]] = []
+    # Definitions are handled before line-indexed example jobs because replacing
+    # a block-scalar definition can change physical line count.
+    lines = translate_definition_field(lines, translator)
+
     for i, raw in enumerate(lines):
         line = raw.rstrip("\n")
         stripped = line.strip()
@@ -180,16 +291,6 @@ def process_card(path: Path, translator: CardTranslator) -> None:
                 indent = line[: len(line) - len(line.lstrip())]
                 newline = "\n" if raw.endswith("\n") else ""
                 lines[i] = f"{indent}# {COMMENT_REPLACEMENTS[body]}{newline}"
-        if line.startswith("Definition:"):
-            value = line.split(":", 1)[1].strip()
-            if value:
-                def_jobs.append((i, value))
-
-    if def_jobs:
-        translated_defs = translator.de.translate([value for _, value in def_jobs])
-        for (idx, _), value in zip(def_jobs, translated_defs):
-            newline = "\n" if lines[idx].endswith("\n") else ""
-            lines[idx] = f"Definition: {value}{newline}"
 
     # Translate English example lines directly from their preceding French lines.
     example_jobs: list[tuple[int, str, str]] = []
