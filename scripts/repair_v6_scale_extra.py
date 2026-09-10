@@ -12,6 +12,7 @@ from pathlib import Path
 
 EXAMPLES = {
     "Vive *la* politique, vive *l'*amour.": "Long live politics, long live love.",
+    "Nous dansions *contre contre*, perdus dans la musique.": "We danced close together, lost in the music.",
     "Nous ne *suivons* pas cet article en magasin.": "We don't *stock* this item in the store.",
     "La fenêtre donne *du côté de* la mer.": "The window *faces the sea*.",
     "Le chat est devenu *propre* en très peu de temps.": "The cat became *house-trained* very quickly.",
@@ -26,6 +27,9 @@ EXAMPLES = {
     "Je pourrai en *témoigner*, au besoin, dit-elle.": "I can *testify* to that if necessary, she said.",
     '"Si tu refuses son invitation, *automatiquement*, elle ne t\'invitera plus."': '"If you turn down her invitation, *naturally*, she won\'t invite you again."',
     "Ils inventent les *regroupements* de populations.": "They devise ways of *grouping* populations.",
+    "*C'est avec plaisir que nous acceptons votre invitation.": "We are pleased to accept your invitation.",
+    "Il a *fait un bon *score* à l'examen.": "He *got a good score* on the exam.",
+    "*Vous* *vous* trompez complètement !": "*You're* completely wrong!",
 }
 
 DEFINITIONS = {
@@ -44,6 +48,13 @@ DEFINITIONS = {
     "cards/3741_masculin.yml": "masculine; male",
     "cards/4185_réciproque.yml": "reciprocal; counterpart",
     "cards/4784_acceptation.yml": "acceptance; approval",
+}
+
+TEXT_REPLACEMENTS = {
+    "The preposition de Mixed with the definite article le or les In one word:":
+        "The preposition de combines with the definite articles le and les to form a single word:",
+    "The preposition de mixed with the definite article le or les in one word:":
+        "The preposition de combines with the definite articles le and les to form a single word:",
 }
 
 
@@ -84,6 +95,8 @@ def repair_card(path: Path, rel: str) -> None:
             lines[i] = f"{indent}{EXAMPLES[current_fr]}{newline}"
         pair_pos += 1
     text = "".join(lines)
+    for old, new in TEXT_REPLACEMENTS.items():
+        text = text.replace(old, new)
     if rel in DEFINITIONS:
         text = replace_definition(text, DEFINITIONS[rel])
     path.write_text(text, encoding="utf-8")
