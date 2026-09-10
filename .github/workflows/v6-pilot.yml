@@ -40,7 +40,7 @@ jobs:
         run: python scripts/repair_v6.py --paths-file v6-card-pilot-paths.txt
       - name: Bundle card pilot output
         run: python scripts/v6_pilot.py bundle --paths-file v6-card-pilot-paths.txt --output v6-card-pilot-output
-      - name: Run card quality gate revision 3
+      - name: Run card quality gate revision 4
         run: python scripts/v6_card_pilot.py validate --paths-file v6-card-pilot-paths.txt --report v6-card-pilot-report.txt
       - name: Upload card pilot report and translated samples
         if: always()
@@ -53,4 +53,4 @@ jobs:
             v6-card-pilot-output
           if-no-files-found: warn
 
-# Pilot trigger revision 3: cards only; grammar is now a separate review track.
+# Pilot trigger revision 4: reviewed note translations and expanded semantic regression gate.
