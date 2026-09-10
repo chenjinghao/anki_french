@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Select and validate the complete 5,000-card v6 French-source dry run.
 
-This intentionally excludes grammar. Selection is deterministic and shardable.
-Validation fails closed unless exactly 5,000 unique card paths are present, then
-reuses the strongest card-quality gate accumulated during the 500-card pilots.
+Run revision 1. This intentionally excludes grammar. Selection is deterministic
+and shardable. Validation fails closed unless exactly 5,000 unique card paths
+are present, then reuses the strongest card-quality gate accumulated during the
+500-card pilots.
 """
 from __future__ import annotations
 
