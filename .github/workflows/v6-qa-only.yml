@@ -1,0 +1,51 @@
+name: V6 card pilot QA-only
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  qa:
+    if: contains(github.event.head_commit.message, '[run v6 qa-only]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install QA runtime
+        run: pip install pyyaml==6.0.2
+      - name: Download revision 4 pilot artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-card-pilot-output
+          path: v6-r4-artifact
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: chenjinghao/anki_french
+          run-id: 34440841304
+      - name: Apply final note-boundary repair
+        run: |
+          python scripts/repair_v6_note_tail.py \
+            --root v6-r4-artifact/v6-card-pilot-output \
+            --paths-file v6-r4-artifact/v6-card-pilot-paths.txt
+      - name: Run revision 4 semantic QA on repaired artifact
+        run: |
+          python scripts/v6_card_pilot.py validate \
+            --root v6-r4-artifact/v6-card-pilot-output \
+            --paths-file v6-r4-artifact/v6-card-pilot-paths.txt \
+            --report v6-r4-qa-only-report.txt
+      - name: Upload repaired QA report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-r4-qa-only-report
+          path: v6-r4-qa-only-report.txt
+          if-no-files-found: warn
