@@ -9,8 +9,9 @@ from pathlib import Path
 import v6_pilot as base
 import v6_scale_pilot as scale
 import v6_card_pilot as pilot
+import repair_v6_scale as repairs
 
-MANUAL_SAMPLE_COUNT = 60
+MANUAL_SAMPLE_COUNT = 80
 
 SCALE_EXPECTATIONS = {
     "cards/0121_contre.yml": [
@@ -60,28 +61,83 @@ SCALE_EXPECTATIONS = {
     ],
 }
 
+FUNCTION_SPANS = {
+    "le", "la", "l'", "les", "de", "d'", "du", "des", "un", "une", "à", "au", "aux",
+    "en", "y", "que", "qu'", "qui", "dont", "où", "je", "j'", "tu", "il", "elle", "nous",
+    "vous", "ils", "elles", "me", "m'", "te", "t'", "se", "s'", "lui", "leur", "ce", "cet",
+    "cette", "ces", "son", "sa", "ses", "mon", "ma", "mes", "ton", "ta", "tes", "notre", "nos",
+    "votre", "vos", "on", "ne", "n'", "pas", "et", "ou", "mais", "si", "pour", "par", "avec",
+    "sans", "sur", "sous", "chez", "dans", "vers", "entre", "comme",
+}
+
+
+def sentence_marks(text: str) -> int:
+    return len(re.findall(r'[.!?](?:["”»)]*)?(?=\s|$)', text))
+
+
+def compact_len(text: str) -> int:
+    return len(re.sub(r'[^A-Za-zÀ-ÖØ-öø-ÿ0-9]+', '', text))
+
+
+def definition_continuations(text: str) -> list[str]:
+    lines = text.splitlines()
+    start = next((i for i, line in enumerate(lines) if line.startswith("Definition:")), None)
+    if start is None:
+        return []
+    out: list[str] = []
+    i = start + 1
+    while i < len(lines):
+        line = lines[i]
+        if line.strip() and not line.startswith((" ", "\t")):
+            break
+        if line.startswith((" ", "\t")) and line.strip():
+            out.append(line.strip())
+        i += 1
+    return out
+
 
 def strict_extra_checks(path: str, current: str, original: str, errors: list[str]) -> None:
     cur_def = base.definition(current)
     old_def = base.definition(original)
     if old_def and cur_def == old_def and re.search(r"[A-Za-zÀ-ÖØ-öø-ÿÄÖÜäöüß]", old_def):
         errors.append(f"{path}: definition unchanged from German source: {cur_def[:140]}")
+    if definition_continuations(current):
+        errors.append(f"{path}: malformed/leftover Definition continuation: {definition_continuations(current)[:2]}")
+    if cur_def and ("?" in cur_def or len(cur_def) > 100):
+        errors.append(f"{path}: suspicious definition output: {cur_def[:140]}")
+    if path in repairs.DEFINITION_REVIEWED and cur_def != repairs.DEFINITION_REVIEWED[path]:
+        errors.append(f"{path}: reviewed definition regression: {cur_def[:140]}")
 
     try:
         pairs = base.example_pairs(current)
     except ValueError:
         return
     pair_map = {fr: en for fr, en in pairs}
+
     for fr, expected in SCALE_EXPECTATIONS.get(path, []):
         en = pair_map.get(fr, "")
         if not en or not expected.search(en):
             errors.append(f"{path}: scale semantic regression for {fr[:90]} -> {en[:140]}")
 
-    # Preserve the learner cue: a highlighted French target should normally have
-    # at least one highlighted span in its English translation as well.
+    # Every manually reviewed repair is a hard regression check whenever that
+    # French sentence occurs in the current sample.
+    for fr, expected in repairs.REVIEWED.items():
+        if fr in pair_map and pair_map[fr] != expected:
+            errors.append(f"{path}: reviewed semantic regression for {fr[:90]} -> {pair_map[fr][:140]}")
+
+    # Catch severe dropped-clause translations without rejecting normal cases
+    # where two French clauses are naturally combined into one English sentence.
     for i, (fr, en) in enumerate(pairs, 1):
-        if "*" in fr and "*" not in en:
-            errors.append(f"{path}: emphasis lost in example {i}: {en[:140]}")
+        fr_marks = sentence_marks(fr)
+        en_marks = sentence_marks(en)
+        ratio = compact_len(en) / max(1, compact_len(fr))
+        if fr_marks >= 2 and en_marks < fr_marks and ratio < 0.55:
+            errors.append(f"{path}: likely dropped clause in example {i}: {fr[:90]} -> {en[:140]}")
+
+        spans = [s.strip().lower() for s in re.findall(r"\*([^*]+)\*", fr)]
+        lexical = [s for s in spans if s not in FUNCTION_SPANS and len(re.sub(r"\W", "", s)) >= 3]
+        if lexical and "*" not in en:
+            errors.append(f"{path}: lexical emphasis lost in example {i}: {en[:140]}")
 
 
 def validate(root: Path, paths: list[str], report_path: Path) -> int:
@@ -106,7 +162,7 @@ def validate(root: Path, paths: list[str], report_path: Path) -> int:
                 continue
             manual_samples.append(f"## SCALE2 SAMPLE {rel}")
             manual_samples.append("Definition: " + base.definition(current))
-            for fr, en in pairs[:4]:
+            for fr, en in pairs[:5]:
                 manual_samples.append(f"FR: {fr}\nEN: {en}")
 
     lines = [
