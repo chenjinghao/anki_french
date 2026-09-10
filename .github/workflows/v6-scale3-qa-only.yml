@@ -1,0 +1,55 @@
+name: V6 French-source 500-card semantic QA
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  qa:
+    if: contains(github.event.head_commit.message, '[run v6 scale3 qa]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile QA scripts
+        run: python -m py_compile scripts/repair_v6_scale.py scripts/repair_v6_scale_extra.py scripts/v6_scale_pilot_v3.py scripts/translate_cards_fr_en_v6.py
+      - name: Install validation runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Download original French-source scale artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-500-card-french-source-pilot
+          path: scale3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: chenjinghao/anki_french
+          run-id: 34500069784
+      - name: Apply all reviewed repairs
+        run: |
+          python scripts/repair_v6.py --root scale3/v6-scale2-combined --paths-file scale3/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale.py --root scale3/v6-scale2-combined --paths-file scale3/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale_extra.py --root scale3/v6-scale2-combined --paths-file scale3/v6-scale2-all-paths.txt
+      - name: Run semantic revision-3 gate
+        run: |
+          python scripts/v6_scale_pilot_v3.py validate \
+            --root scale3/v6-scale2-combined \
+            --paths-file scale3/v6-scale2-all-paths.txt \
+            --report scale3/v6-scale3-report.txt
+      - name: Upload repaired review corpus
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-500-card-semantic-qa
+          path: scale3
+          retention-days: 7
