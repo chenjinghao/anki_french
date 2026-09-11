@@ -51,6 +51,7 @@ jobs:
         run: |
           python scripts/repair_grammar_english_safe.py
           python scripts/repair_grammar_targets_v4.py
+          python scripts/repair_grammar_reviewed_v5.py
       - name: Restore protected French and IPA
         run: |
           python scripts/restore_grammar_invariants.py --baseline "$SOURCE_SHA"
