@@ -1,0 +1,100 @@
+name: V6 full 5000-card artifact repair QA
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  repair-and-qa:
+    if: contains(github.event.head_commit.message, '[run v6 full repair]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install validation runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Download original 5000-card dry-run artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-full-5000-card-dry-run
+          path: v6-full-repaired
+          run-id: 34534089456
+          github-token: ${{ github.token }}
+      - name: Verify downloaded corpus
+        run: |
+          test "$(grep -c . v6-full-repaired/v6-full-all-paths.txt)" -eq 5000
+          test "$(find v6-full-repaired/v6-full-combined/cards -maxdepth 1 -type f -name '*.yml' | wc -l)" -eq 5000
+      - name: Apply reviewed hard-gate and semantic repairs
+        run: |
+          python scripts/repair_v6_full_audit.py \
+            --root v6-full-repaired/v6-full-combined
+      - name: Assert reviewed repairs exactly
+        run: |
+          python scripts/repair_v6_full_audit.py \
+            --root v6-full-repaired/v6-full-combined \
+            --check \
+            --report v6-full-repair-regressions.txt
+      - name: Run strongest full-card gate
+        run: |
+          python scripts/v6_full_cards.py validate \
+            --root v6-full-repaired/v6-full-combined \
+            --paths-file v6-full-repaired/v6-full-all-paths.txt \
+            --report v6-full-repaired-report.txt
+      - name: Upload repaired corpus and QA reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-full-5000-card-repaired
+          path: |
+            v6-full-repaired/v6-full-all-paths.txt
+            v6-full-repaired/v6-full-combined
+            v6-full-repaired-report.txt
+            v6-full-repair-regressions.txt
+          if-no-files-found: warn
+          retention-days: 7
+
+  semantic-reaudit:
+    needs: repair-and-qa
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install semantic audit runtime
+        run: |
+          pip install sentence-transformers==5.1.0 pyyaml==6.0.2
+      - name: Download repaired corpus
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-full-5000-card-repaired
+          path: v6-full-repaired-artifact
+      - name: Rerank whole-corpus semantic outliers
+        run: |
+          python scripts/v6_semantic_audit.py \
+            --root v6-full-repaired-artifact/v6-full-repaired/v6-full-combined \
+            --paths-file v6-full-repaired-artifact/v6-full-repaired/v6-full-all-paths.txt \
+            --report v6-full-repaired-semantic-audit.txt \
+            --limit 1000
+      - name: Upload repaired semantic audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-full-5000-repaired-semantic-audit
+          path: v6-full-repaired-semantic-audit.txt
+          if-no-files-found: warn
+          retention-days: 7
