@@ -116,6 +116,68 @@ def normalize_field_value(value: object) -> str:
     return str(value)
 
 
+def parse_source_card(path: Path) -> dict[str, object]:
+    """Parse the repository's deliberately simple YAML-like card format.
+
+    Translation can introduce unquoted colons into scalar values (for example
+    ``Definition: of which:``), which strict YAML rejects. The card files only
+    use top-level ``key: value`` entries plus indented literal blocks, so a
+    purpose-built parser is safer and preserves learner text verbatim.
+    """
+    lines = read_text(path).splitlines()
+    data: dict[str, object] = {}
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if not line or line.lstrip().startswith("#"):
+            i += 1
+            continue
+        if line[:1].isspace():
+            raise RuntimeError(f"{path}:{i + 1}: unexpected indentation outside a block")
+        if ":" not in line:
+            raise RuntimeError(f"{path}:{i + 1}: expected top-level key: value")
+        key, raw_value = line.split(":", 1)
+        key = key.strip()
+        value = raw_value.lstrip()
+
+        if value in {"|", "|-", "|+", ">", ">-", ">+"}:
+            block: list[str] = []
+            i += 1
+            while i < len(lines):
+                child = lines[i]
+                if child and not child[:1].isspace():
+                    break
+                if child.startswith("  "):
+                    block.append(child[2:])
+                elif child.startswith("\t"):
+                    block.append(child[1:])
+                elif child == "":
+                    block.append("")
+                else:
+                    block.append(child.lstrip())
+                i += 1
+            text = "\n".join(block)
+            if value in {"|", "|+"}:
+                text += "\n"
+            data[key] = text
+            continue
+
+        if " #" in value:
+            value = value.split(" #", 1)[0].rstrip()
+
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+            try:
+                parsed = yaml.safe_load(value)
+                value = "" if parsed is None else str(parsed)
+            except yaml.YAMLError:
+                value = value[1:-1]
+
+        data[key] = value
+        i += 1
+
+    return data
+
+
 def load_cards(repo_root: Path) -> dict[int, dict[str, object]]:
     files = sorted((repo_root / "cards").glob("*.yml"))
     if len(files) != 5000:
@@ -123,9 +185,7 @@ def load_cards(repo_root: Path) -> dict[int, dict[str, object]]:
 
     cards: dict[int, dict[str, object]] = {}
     for path in files:
-        data = yaml.safe_load(read_text(path))
-        if not isinstance(data, dict):
-            raise RuntimeError(f"{path}: YAML root is not a mapping")
+        data = parse_source_card(path)
         if "Rang" not in data:
             raise RuntimeError(f"{path}: missing Rang")
         rank = int(data["Rang"])
@@ -295,11 +355,9 @@ def compile_templates(repo_root: Path, version: str) -> dict[str, tuple[str, str
     front_fr_raw = read_text(root / "front_FRDE.html")
     front_en_raw = read_text(root / "front_DEFR.html")
 
-    # Keep internal German field names for compatibility with the donor notetype.
     back_html_raw = back_html_raw.replace(
         "{{Wort mit article}}", "{{Wort mit Artikel}}"
     )
-    # Never direct English users to the original German AnkiWeb deck for updates.
     back_html_raw = back_html_raw.replace(
         'https://ankiweb.net/shared/info/1677131827',
         'https://github.com/chenjinghao/anki_french/releases',
@@ -329,7 +387,6 @@ def compile_templates(repo_root: Path, version: str) -> dict[str, tuple[str, str
     def back(config_name: str) -> str:
         config = read_text(root / config_name)
         back_js = back_js_raw.replace("___CONFIG___", config)
-        # Function declarations from common/cloze are needed by back.js.
         bundle = cloze + "\n" + common + "\n" + back_js + "\n" + dictionary
         return replace_all(
             back_html_raw,
@@ -368,7 +425,6 @@ def patch_notetype(col: Collection, model: dict, repo_root: Path, version: str) 
     found_en_fr = 0
     for tmpl in model["tmpls"]:
         qfmt = tmpl.get("qfmt", "")
-        # The English->French card exposes Definition on the question.
         if "{{Definition}}" in qfmt:
             front, back = compiled["en-fr"]
             tmpl["name"] = "English → French"
