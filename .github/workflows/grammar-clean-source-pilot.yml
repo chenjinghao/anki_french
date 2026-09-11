@@ -31,9 +31,9 @@ jobs:
       - name: Compile clean-source grammar tooling
         run: |
           python -m py_compile \
-            scripts/translate_grammar_clean_source_v1.py \
-            scripts/translate_grammar_prose_de_en_v2.py \
-            scripts/translate_grammar_examples_fr_en_v3.py \
+            scripts/translate_grammar_clean_source_v2.py \
+            scripts/translate_grammar_prose_de_en_v3.py \
+            scripts/translate_grammar_examples_hybrid_v4.py \
             scripts/repair_grammar_english_safe.py \
             scripts/repair_grammar_targets_v4.py \
             scripts/validate_grammar_candidate.py \
@@ -49,7 +49,7 @@ jobs:
           git checkout "$SOURCE_SHA" -- grammar
       - name: Translate grammar from clean source
         run: |
-          python scripts/translate_grammar_clean_source_v1.py \
+          python scripts/translate_grammar_clean_source_v2.py \
             --shard ${{ matrix.shard }} --shards 12 --batch-size 16
       - name: Keep only this shard and apply reviewed repairs
         env:
