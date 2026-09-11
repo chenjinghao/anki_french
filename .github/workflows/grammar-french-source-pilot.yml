@@ -55,7 +55,7 @@ jobs:
               except OSError: pass
           print('kept',len(list(Path('grammar').rglob('*.html'))),'pages')
           PY
-          python scripts/repair_grammar_english.py
+          python scripts/repair_grammar_english_safe.py
       - uses: actions/upload-artifact@v4
         with:
           name: grammar-fr-shard-${{ matrix.shard }}
@@ -88,7 +88,7 @@ jobs:
           assert len(paths)==156, len(paths)
           PY
       - name: Reapply deterministic reviewed prose repairs
-        run: python scripts/repair_grammar_english.py
+        run: python scripts/repair_grammar_english_safe.py
       - name: Fail-closed grammar QA
         id: qa
         continue-on-error: true
