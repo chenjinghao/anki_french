@@ -60,6 +60,7 @@ jobs:
           print('kept',len(list(Path('grammar').rglob('*.html'))),'pages')
           PY
           python scripts/repair_grammar_english_safe.py
+          python scripts/repair_grammar_pages_v2.py
       - uses: actions/upload-artifact@v4
         with:
           name: grammar-fr-v2-shard-${{ matrix.shard }}
@@ -97,8 +98,10 @@ jobs:
           print('combined grammar pages',len(candidate),'baseline pages',len(baseline))
           assert candidate == baseline, 'candidate grammar path set differs from merged main'
           PY
-      - name: Reapply deterministic reviewed prose repairs
-        run: python scripts/repair_grammar_english_safe.py
+      - name: Reapply reviewed grammar repairs
+        run: |
+          python scripts/repair_grammar_english_safe.py
+          python scripts/repair_grammar_pages_v2.py
       - name: Fail-closed grammar QA
         id: qa
         continue-on-error: true
