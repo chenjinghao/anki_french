@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from adapt_grammar_clean_source_en import apply_all as apply_source_adaptations
+from adapt_grammar_clean_source_en_v2 import apply_all as apply_source_adaptations
 from translate_cards_fr_en_v6 import CardTranslator
 from translate_grammar_examples_hybrid_v4 import card_lemma_memory, translate_page as translate_examples
 from translate_grammar_prose_de_en_v3 import translate_page as translate_prose
