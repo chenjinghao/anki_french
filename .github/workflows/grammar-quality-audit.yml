@@ -28,7 +28,7 @@ jobs:
       - name: Audit grammar against German baseline
         run: |
           python scripts/audit_grammar_english.py \
-            --baseline 03644402701805a1b8dd074cfcbb54ba7e7bf15e \
+            --baseline 0067f49b930558aab2e18208d5654a7dd8655918 \
             --report grammar-quality-audit.txt \
             --json grammar-quality-audit.json
       - uses: actions/upload-artifact@v4
