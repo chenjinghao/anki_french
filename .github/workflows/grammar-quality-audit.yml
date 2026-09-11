@@ -37,4 +37,5 @@ jobs:
           path: |
             grammar-quality-audit.txt
             grammar-quality-audit.json
+            grammar/
           if-no-files-found: error
