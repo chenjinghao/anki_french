@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Audit learner-facing grammar HTML against the pre-translation German baseline.
+"""Audit learner-facing grammar HTML against the original German source.
 
-This is intentionally read-only.  It inventories every grammar page, extracts visible
-text for review, and verifies compatibility-sensitive structure (French/IPA spans and
-internal attributes) has not drifted.
+The audit is deliberately conservative about compatibility: grammar page paths,
+French/IPA text, and internal class/id/grammar/data-id attributes must remain stable.
+Learner-facing text includes the legacy `.de` spans because those classes are internal
+compatibility hooks even though their displayed content should now be English.
 """
 from __future__ import annotations
 
@@ -17,21 +18,22 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
 
-DEFAULT_BASELINE = "32d97f127c8439c9b6cd50fa67636c1bdd8af47a"
+DEFAULT_BASELINE = "03644402701805a1b8dd074cfcbb54ba7e7bf15e"
 SENSITIVE_ATTRS = {"class", "id", "grammar", "data-id"}
 SKIP_VISIBLE_TAGS = {"script", "style"}
 
-# High-signal German learner-facing words/fragments.  This is deliberately not a
-# general language detector; French examples and German compatibility attributes are
-# excluded before this check.
+# High-signal German fragments that should not remain in learner-facing English.
+# Do not use single ambiguous words such as "hat", "in", "die", or "der" alone.
 GERMAN_PATTERNS = [
-    r"\b(?:der|die|das)\s+(?:Artikel|Substantiv|Adjektiv|Adverb|Pronomen|Verb)\b",
+    r"\b(?:der|die|das)\s+(?:bestimmte[nrms]?\s+|unbestimmte[nrms]?\s+)?(?:Artikel|Substantiv|Adjektiv|Adverb|Pronomen|Verb)\b",
     r"\b(?:bestimmte|unbestimmte|Teilungsartikel|Substantiv|Substantive|Adjektive|Adverbien|Pronomen|Präposition|Präpositionen)\b",
-    r"\b(?:wird|werden|wurde|wurden|ist|sind)\s+(?:verwendet|gebildet|ausgesprochen|geschrieben|gesetzt)\b",
-    r"\b(?:bedeutet|bezeichnet|entspricht|folgt|folgen|steht|stehen|verwendet|gebildet|ausgesprochen|geschrieben)\b",
-    r"\b(?:männlich|weiblich|männliche|weibliche|Plural|Singular)\b",
+    r"\b(?:wird|werden|wurde|wurden)\s+(?:verwendet|gebildet|ausgesprochen|geschrieben|gesetzt|gebraucht)\b",
+    r"\b(?:bedeutet|bezeichnet|entspricht|folgt|folgen|verwendet|gebildet|ausgesprochen|geschrieben|gebraucht)\b",
+    r"\b(?:männlich|weiblich|männliche|weibliche|männlichen|weiblichen)\b",
     r"\b(?:stummem|stummen|Bindung|Endung|Endungen|Ausnahme|Ausnahmen|Beispiel|Beispiele|Aussprache|Schreibung)\b",
-    r"\b(?:im|am|beim|vom|zum|zur|des|eines|einer)\s+(?:Französischen|Französisch|Substantivs|Verbs|Adjektivs|Satzes)\b",
+    r"\b(?:steht|stehen)\s+(?:vor|nach|im|in|am|beim)\b",
+    r"\b(?:im|am|beim|vom|zum|zur|des|eines|einer)\s+(?:Französischen|Französisch|Substantivs|Verbs|Adjektivs|Satzes|Infinitivs)\b",
+    r"\b(?:wenn|wird|werden|dann|immer|meistens|häufig|außer|sondern|obwohl|während)\b.*\b(?:ist|sind|steht|stehen|verwendet|gebraucht|gebildet|ausgesprochen)\b",
 ]
 GERMAN_RE = re.compile("|".join(f"(?:{p})" for p in GERMAN_PATTERNS), re.I)
 
@@ -39,13 +41,18 @@ KNOWN_BAD = [
     "specific article",
     "particular article",
     "certain article",
+    "indeterminate article",
     "the friends",
     "liaison (bindung)",
     "stummem h",
+    "stummen h",
     "elimination before",
     "elimination of the vowel",
-    "in the german language",
-    "in german,",
+    "the tribe of the",
+    "plural presence",
+    "annexing of a",
+    "adapt to the noun in the sex",
+    "conjunctiv",
 ]
 
 
@@ -62,7 +69,7 @@ def baseline_paths(commit: str) -> list[str]:
     return sorted(p for p in out.splitlines() if p.endswith(".html"))
 
 
-def normalize_text(s: str) -> str:
+def norm(s: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
@@ -74,12 +81,10 @@ class GrammarParser(HTMLParser):
         self.fr: list[str] = []
         self.ipa: list[str] = []
         self.attrs: list[tuple[str, str, str]] = []
-        self.errors: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         amap = {k: (v or "") for k, v in attrs}
-        classes = set(amap.get("class", "").split())
-        self.stack.append((tag, classes))
+        self.stack.append((tag, set(amap.get("class", "").split())))
         for key, value in attrs:
             if key in SENSITIVE_ATTRS:
                 self.attrs.append((tag, key, value or ""))
@@ -90,21 +95,16 @@ class GrammarParser(HTMLParser):
                 self.attrs.append((tag, key, value or ""))
 
     def handle_endtag(self, tag: str) -> None:
-        if not self.stack:
-            self.errors.append(f"unexpected closing tag </{tag}>")
-            return
-        # HTML in the deck is not always strict XML.  Pop through the matching tag,
-        # recording a structural warning if nesting is malformed.
+        # Legacy HTML contains optional/misnested tags.  Keep enough ancestry for
+        # class-aware text extraction without treating browser-tolerated markup as a
+        # regression; exact sensitive attributes are compared separately.
         for idx in range(len(self.stack) - 1, -1, -1):
             if self.stack[idx][0] == tag:
-                if idx != len(self.stack) - 1:
-                    self.errors.append(f"misnested closing tag </{tag}>")
                 del self.stack[idx:]
-                return
-        self.errors.append(f"unmatched closing tag </{tag}>")
+                break
 
     def handle_data(self, data: str) -> None:
-        text = normalize_text(data)
+        text = norm(data)
         if not text:
             return
         tags = {tag for tag, _ in self.stack}
@@ -117,10 +117,8 @@ class GrammarParser(HTMLParser):
         if "ipa" in classes:
             self.ipa.append(text)
             return
-        # Learner-facing audit excludes German target/source helper spans if present;
-        # current English should instead live in normal visible text or .en spans.
-        if "de" in classes:
-            return
+        # `.de` is intentionally NOT excluded.  Its class name is compatibility
+        # metadata; the visible content now needs to be English.
         self.visible.append(text)
 
 
@@ -133,13 +131,10 @@ def parse(text: str) -> GrammarParser:
 
 def suspicious(texts: Iterable[str]) -> list[str]:
     out: list[str] = []
-    for t in texts:
-        if GERMAN_RE.search(t):
-            out.append(t)
-            continue
-        low = t.lower()
-        if any(bad in low for bad in KNOWN_BAD):
-            out.append(t)
+    for text in texts:
+        low = text.lower()
+        if GERMAN_RE.search(text) or any(bad in low for bad in KNOWN_BAD):
+            out.append(text)
     return out
 
 
@@ -164,8 +159,7 @@ def main() -> int:
             continue
         now_raw = Path(path).read_text(encoding="utf-8")
         old_raw = baseline_text(args.baseline, path)
-        now = parse(now_raw)
-        before = parse(old_raw)
+        now, before = parse(now_raw), parse(old_raw)
 
         page_errors: list[str] = []
         if Counter(now.attrs) != Counter(before.attrs):
@@ -174,11 +168,9 @@ def main() -> int:
             page_errors.append("French .fr text changed")
         if now.ipa != before.ipa:
             page_errors.append("IPA .ipa text changed")
-        if now.errors:
-            page_errors.extend(f"HTML structure: {x}" for x in now.errors)
-        suspects = suspicious(now.visible)
         for msg in page_errors:
             errors.append(f"{path}: {msg}")
+        suspects = suspicious(now.visible)
 
         records.append({
             "path": path,
@@ -200,23 +192,17 @@ def main() -> int:
     ]
     if errors:
         report_lines += ["INVARIANT ERRORS", *[f"- {e}" for e in errors], ""]
-
     for rec in records:
-        report_lines.append("=" * 88)
-        report_lines.append(rec["path"])
+        report_lines += ["=" * 88, rec["path"]]
         if rec.get("missing"):
-            report_lines.append("MISSING IN ONE SIDE")
+            report_lines += ["MISSING IN ONE SIDE", ""]
             continue
         if rec["suspicious_current"]:
-            report_lines.append("SUSPICIOUS CURRENT TEXT:")
-            report_lines += [f"  ! {x}" for x in rec["suspicious_current"]]
-        report_lines.append("CURRENT LEARNER-FACING TEXT:")
-        report_lines += [f"  EN? {x}" for x in rec["visible_current"]]
-        report_lines.append("GERMAN BASELINE TEXT:")
-        report_lines += [f"  DE  {x}" for x in rec["visible_german_baseline"]]
+            report_lines += ["SUSPICIOUS CURRENT TEXT:", *[f"  ! {x}" for x in rec["suspicious_current"]]]
+        report_lines += ["CURRENT LEARNER-FACING TEXT:", *[f"  EN? {x}" for x in rec["visible_current"]]]
+        report_lines += ["GERMAN BASELINE TEXT:", *[f"  DE  {x}" for x in rec["visible_german_baseline"]]]
         if rec["french"]:
-            report_lines.append("PRESERVED FRENCH:")
-            report_lines += [f"  FR  {x}" for x in rec["french"]]
+            report_lines += ["PRESERVED FRENCH:", *[f"  FR  {x}" for x in rec["french"]]]
         report_lines.append("")
 
     Path(args.report).write_text("\n".join(report_lines) + "\n", encoding="utf-8")
@@ -230,9 +216,7 @@ def main() -> int:
     print(f"Grammar pages: {len(current)}")
     print(f"Invariant errors: {len(errors)}")
     print(f"Suspicious pages: {sum(bool(r.get('suspicious_current')) for r in records)}")
-    if args.strict and errors:
-        return 1
-    return 0
+    return 1 if args.strict and errors else 0
 
 
 if __name__ == "__main__":
