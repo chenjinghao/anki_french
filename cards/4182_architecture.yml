@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4182
 Wort: architecture
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une architecture
 Femininum / Plural: ''
 IPA: \aʁ.ʃi.tɛk.tyʁ\
-Definition: Architektur
+Definition: Architecture
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*architecture* doit beaucoup aux arabes.
-  Die *Baukunst* verdankt den Arabern viel.
+  *Architecture* owes a lot to the Arabs.
 
   Les étudiants en *architecture* ont exposé leurs projets.
-  Die *Architektur*studenten haben ihre Projekte ausgestellt.
+  *Architecture* students presented their projects.
 
   Cette ville combine *architecture* moderne et bâtiments historiques.
-  Diese Stadt verbindet moderne *Architektur* mit historischen Gebäuden.
+  This city combines modern *architecture* with historic buildings.
 
   Elle travaille dans un bureau d'*architecture* renommé.
-  Sie arbeitet in einem renommierten *Architektur*büro.
+  She works for a renowned architectural firm.
 
   L'*architecture* gothique se caractérise par ses arcs-boutants.
-  Die gotische *Baukunst* zeichnet sich durch ihre Strebepfeiler aus.
+  Gothic *architecture* is characterized by its arched spires.
 
   L'*architecture* du roman est très complexe.
-  Der *Aufbau* des Romans ist sehr komplex.
+  The *architecture* of the novel is very complex.
 
   L'*architecture* du réseau doit être sécurisée.
-  Die Netzwerk*architektur* muss sicher sein.
+  The network *architecture* must be secure.
 
   L'*architecture* baroque domine le centre-ville.
-  Der barocke *Baustil* dominiert die Innenstadt.
+  Baroque *architecture* dominates the city centre.
 
   L'*architecture* navale a beaucoup évolué.
-  Die Schiffs*architektur* hat sich stark weiterentwickelt.
+  Naval *architecture* has changed a lot.
 
   Cette *architecture* industrielle a été transformée en musée.
-  Diese Industrie*architektur* wurde in ein Museum umgewandelt.
+  This industrial *architecture* has been turned into a museum.
 
   L'*architecture* du processeur définit sa performance.
-  Die Prozessor*architektur* bestimmt seine Leistung.
+  The *architecture* of the processor defines its performance.
 
   L'*architecture* romaine influençait toute l'Europe.
-  Die römische *Baukunst* beeinflusste ganz Europa.
+  Roman *architecture* was influential throughout Europe.
 
   Je suis fasciné par l'*architecture* byzantine.
-  Ich bin von der byzantinischen *Architektur* fasziniert.
+  I'm fascinated by Byzantine *architecture*.
 
   L'*architecture* de ce bâtiment reflète son époque.
-  Die *Architektur* dieses Gebäudes spiegelt seine Zeit wider.
+  The *architecture* of this building reflects his time.
 
   Cette cathédrale est un chef-d'œuvre de l'*architecture* religieuse.
-  Diese Kathedrale ist ein Meisterwerk religiöser *Baukunst*.
+  This cathedral is a masterpiece of religious *architecture*.
 
   L'*architecture* du corps humain est fascinante.
-  Der *Aufbau* des menschlichen Körpers ist faszinierend.
+  The *architecture* of the human body is fascinating.
 
   L'*architecture* contemporaine privilégie les lignes épurées.
-  Die zeitgenössische *Architektur* bevorzugt klare Linien.
+  Modern *architecture* favors clean lines.
 
   L'*architecture* militaire servait à protéger les villes.
-  Die Militär*architektur* diente dem Schutz der Städte.
+  Military *architecture* was used to protect cities.
 
   L'*architecture* du spectacle était impressionnante.
-  Der *Aufbau* der Show war beeindruckend.
+  The *architecture* of the show was impressive.
 
   L'*architecture* durable devient de plus en plus importante.
-  Nachhaltige *Architektur* wird immer wichtiger.
+  Sustainable *architecture* is becoming increasingly important.
 
   Cette *architecture* ionique date du V<sup>e</sup> siècle avant J.-C.
-  Diese ionische *Baukunst* stammt aus dem 5. Jahrhundert v. Chr.
+  This ionic *architecture* dates from the 5th century BC.
 
   L'*architecture* du système permet une grande flexibilité.
-  Die System*architektur* ermöglicht große Flexibilität.
+  The *architecture* of the system allows for great flexibility.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

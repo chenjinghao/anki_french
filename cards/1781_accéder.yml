@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1781
 Wort: accéder
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: accéder
 Femininum / Plural: ''
 IPA: \ak.se.de\
-Definition: zugreifen, gelangen
+Definition: to access, to reach
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai besoin d'*accéder* à ces données.
-  Ich muss auf diese Daten *zugreifen*.
+  I need access to that data.
 
   Par ce chemin, vous pouvez *accéder* facilement au château.
-  Auf diesem Weg können Sie leicht zum Schloss *gelangen*.
+  This way you can easily access the castle.
 
   Un long couloir permet d'*accéder* aux chambres.
-  Ein langer Flur *führt* zu den Zimmern.
+  A long corridor gives access to the rooms.
 
   On *accède* au grenier par une échelle en bois.
-  Man *gelangt* über eine Holzleiter zum Dachboden.
+  There's a wooden staircase to the attic.
 
   Grâce à ses efforts, elle a *accédé* à un poste important.
-  Dank ihrer Anstrengungen hat sie eine wichtige Stelle *erlangt*.
+  Thanks to her efforts, she gained a prominent position.
 
   La nouvelle route *accède* directement au centre-ville.
-  Die neue Straße *führt* direkt ins Stadtzentrum.
+  The new road leads directly to the city centre.
 
   Le jeune couple espère *accéder* à la propriété l'année prochaine.
-  Das junge Paar hofft, nächstes Jahr Wohnungseigentümer zu *werden*.
+  The young couple hopes to gain access to the property next year.
 
   Après vingt ans de travail, il a finalement *accédé* à la direction.
-  Nach zwanzig Jahren Arbeit ist er endlich in die Führungsposition *aufgestiegen*.
+  After twenty years of work, he finally took over management.
 
   L'équipe nationale a *accédé* en finale du championnat.
-  Die Nationalmannschaft ist ins Finale der Meisterschaft *gekommen*.
+  The national team has reached the final of the championship.
 
   Les parents ont *accédé* au désir de leur fille d'étudier à l'étranger.
-  Die Eltern haben dem Wunsch ihrer Tochter *zugestimmt*, im Ausland zu studieren.
+  The parents agreed to their daughter's desire to study abroad.
 
   Une rampe permet aux personnes handicapées d'*accéder* au bâtiment.
-  Eine Rampe ermöglicht es Menschen mit Behinderung, das Gebäude zu *betreten*.
+  A ramp gives disabled people access to the building.
 
   Internet permet d'*accéder* à une multitude d'informations.
-  Das Internet ermöglicht es, auf eine Vielzahl von Informationen zu*zugreifen*.
+  The Internet provides access to a wealth of information.
 
   Comment peut-on *accéder* à la terrasse ?
-  Wie kann man zur Terrasse *gelangen*?
+  How do we get to the terrace?
 
   Plusieurs pays africains ont *accédé* à l'indépendance dans les années 60.
-  Mehrere afrikanische Länder haben in den 60er Jahren die Unabhängigkeit *erlangt*.
+  Several African countries gained independence in the 1960s.
 
   Les étudiants peuvent *accéder* à la bibliothèque avec leur carte.
-  Die Studenten können mit ihrer Karte die Bibliothek *betreten*.
+  Students can access the library with their card.
 
   Le nouveau système permet d'*accéder* aux fichiers plus rapidement.
-  Das neue System ermöglicht es, schneller auf die Dateien zu*zugreifen*.
+  The new system allows faster access to files.
 
   Elle a enfin *accédé* à son rêve de devenir médecin.
-  Sie hat sich ihren Traum endlich *erfüllt*, Ärztin zu werden.
+  She finally achieved her dream of becoming a doctor.
 
   Les chercheurs ont *accédé* à des documents historiques importants.
-  Die Forscher haben Zugang zu wichtigen historischen Dokumenten *erhalten*.
+  Researchers have gained access to important historical documents.
 
   Pour *accéder* au sommet, il faut marcher pendant trois heures.
-  Um den Gipfel zu *erreichen*, muss man drei Stunden wandern.
+  To reach the summit, you have to walk for three hours.
 
   Le gouvernement a *accédé* aux demandes des manifestants.
-  Die Regierung ist den Forderungen der Demonstranten *nachgekommen*.
+  The government has granted the demands of the protesters.
 
   Seuls les employés autorisés peuvent *accéder* à cette zone.
-  Nur befugte Mitarbeiter dürfen diesen Bereich *betreten*.
+  Only authorised employees can access this area.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

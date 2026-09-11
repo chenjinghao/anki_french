@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1464
 Wort: durée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la durée
 Femininum / Plural: ''
 IPA: \dy.ʁe\
-Definition: Dauer
+Definition: Duration
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faudrait alors augmenter la *durée* du travail.
-  Man müsste dann die Arbeits*zeit* erhöhen.
+  It would be necessary to increase the *duration* of the work.
 
   La *durée* moyenne d'une vie humaine a considérablement augmenté depuis 1950.
-  Die durchschnittliche Lebens*dauer* hat sich seit 1950 erheblich verlängert.
+  The average human life expectancy has increased dramatically since 1950.
 
   Ces piles de longue *durée* fonctionnent pendant plus de deux ans.
-  Diese Lang*zeit*batterien funktionieren über zwei Jahre lang.
+  These long-lasting batteries operate for more than two years.
 
   Sarah a perdu la notion de la *durée* pendant sa méditation.
-  Sarah hat während ihrer Meditation das *Zeit*gefühl verloren.
+  Sarah lost her sense of *duration* while meditating.
 
   Le médecin l'a mis en arrêt de longue *durée*.
-  Der Arzt hat ihn zum Lang*zeit*kranken erklärt.
+  The doctor put him in long-term detention.
 
   La *durée* de vie de ce nouveau smartphone est estimée à quatre ans.
-  Die Lebens*dauer* dieses neuen Smartphones wird auf vier Jahre geschätzt.
+  The lifespan of this new smartphone is estimated to be four years.
 
   Pierre est un chômeur de longue *durée*.
-  Pierre ist ein Lang*zeit*arbeitsloser.
+  Pierre has been unemployed for a long time.
 
   Quelle est la *durée* du spectacle ?
-  Wie lange *dauert* die Vorstellung?
+  How long will the show last?
 
   Mon entreprise ne propose que des contrats à *durée* déterminée.
-  Meine Firma bietet nur be*fristete* Verträge an.
+  My company only offers fixed-term contracts.
 
   La *durée* de stationnement est limitée à deux heures.
-  Die Park*dauer* ist auf zwei Stunden begrenzt.
+  Parking time is limited to two hours.
 
   Pour une *durée* de trois mois, le musée présente une exposition spéciale.
-  Für eine *Dauer* von drei Monaten zeigt das Museum eine Sonderausstellung.
+  For a period of three months, the museum presents a special exhibition.
 
   La *durée* minimale du stage est de six semaines.
-  Die Mindest*dauer* des Praktikums beträgt sechs Wochen.
+  The minimum *duration* of the internship is six weeks.
 
   J'ai signé un contrat à *durée* indéterminée.
-  Ich habe einen un*befristeten* Vertrag unterschrieben.
+  I signed an indefinite contract.
 
   La *durée* de la procédure peut varier selon les cas.
-  Die Verfahrens*dauer* kann je nach Fall unterschiedlich sein.
+  The *duration* of the procedure may vary from case to case.
 
   Pendant toute la *durée* des travaux, la rue sera fermée.
-  Während der gesamten Bau*zeit* wird die Straße gesperrt sein.
+  For the *duration* of the work, the street will be closed.
 
   La *durée* du règne de Louis XIV fut exceptionnelle.
-  Die *Dauer* der Herrschaft von Ludwig XIV. war außergewöhnlich.
+  The *duration* of Louis XIV's reign was exceptional.
 
   Cette formation est un programme de longue *durée*.
-  Diese Ausbildung ist eine Lang*zeit*maßnahme.
+  This training is a long-term programme.
 
   La *durée* journalière du travail ne doit pas dépasser dix heures.
-  Die tägliche Arbeits*zeit* darf zehn Stunden nicht überschreiten.
+  The daily *duration* of work shall not exceed ten hours.
 
   La *durée* de conservation de ce produit est de deux ans.
-  Die Haltbarkeits*dauer* dieses Produkts beträgt zwei Jahre.
+  The shelf life of this product is two years.
 
   Elle s'est absentée pour une *durée* indéterminée.
-  Sie ist für unbestimmte *Zeit* abwesend.
+  She's been away indefinitely.
 
   La *durée* de la garantie est de cinq ans.
-  Die Garantie*zeit* beträgt fünf Jahre.
+  The warranty period is five years.
 
   Je dois calculer la *durée* totale de mon voyage.
-  Ich muss die Gesamt*dauer* meiner Reise berechnen.
+  I have to calculate the total length of my journey.
 
   La *durée* du film est de deux heures et demie.
-  Die *Länge* des Films beträgt zweieinhalb Stunden.
+  The *duration* of the film is two and a half hours.
 
   Une ronde a une *durée* quatre fois plus longue qu'une noire.
-  Eine ganze Note hat eine *Dauer*, die viermal so lang ist wie eine Viertelnote.
+  A round has a *duration* four times longer than a black one.
 
   Cette mesure est limitée dans sa *durée*.
-  Diese Maßnahme ist zeitlich be*fristet*.
+  This measure is limited in *duration*.
 
   La *durée* du séjour dépend de la saison.
-  Die Aufenthalts*dauer* hängt von der Saison ab.
+  The length of stay depends on the season.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

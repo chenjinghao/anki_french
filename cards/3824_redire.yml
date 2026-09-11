@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3824
 Wort: redire
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: redire
 Femininum / Plural: ''
 IPA: \ʁə.diʁ\
-Definition: erneut sagen, weitererzählen
+Definition: Say it again
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je te l'ai dit et *redit*.
-  Ich habe es dir gesagt und *wiederholt*.
+  I've told you and *repeated* it.
 
   Je dois vous *redire* que ce n'est pas possible aujourd'hui.
-  Ich muss Ihnen *wiederholen*, dass das heute nicht möglich ist.
+  I have to tell you, that's not possible today.
 
   Il m'a fallu *redire* mon nom trois fois au téléphone.
-  Ich musste meinen Namen am Telefon dreimal *wiederholen*.
+  I had to say my name three times on the phone.
 
   Les enfants *redisent* la phrase après leur professeur.
-  Die Kinder *sprechen* den Satz nach ihrem Lehrer *nach*.
+  Children repeat the sentence after their teacher.
 
   Ne lui *redis* pas ce que je viens de te confier !
-  *Erzähl* ihm nicht *weiter*, was ich dir gerade anvertraut habe!
+  Don't tell him what I just told you.
 
   Elle *redit* toujours les mêmes histoires à ses petits-enfants.
-  Sie *erzählt* ihren Enkeln immer *wieder* dieselben Geschichten.
+  She always tells the same stories to her grandchildren.
 
   Marie ne fait que *redire* ce qu'elle entend à la radio.
-  Marie *wiederholt* nur, was sie im Radio hört.
+  Marie just repeats what she hears on the radio.
 
   Je vous *redis* combien votre aide a été précieuse.
-  Ich möchte Ihnen *noch einmal* *sagen*, wie wertvoll Ihre Hilfe war.
+  I'll tell you again how valuable your help has been.
 
   Peux-tu *redire* la dernière phrase plus lentement ?
-  Kannst du den letzten Satz langsamer *wiederholen*?
+  Can you repeat the last sentence more slowly?
 
   Il n'y a rien à *redire* sur son travail.
-  An seiner Arbeit gibt es nichts *auszusetzen*.
+  There's nothing wrong with his work.
 
   Tout le monde trouve à *redire* à ses décisions.
-  Jeder hat an seinen Entscheidungen etwas *auszusetzen*.
+  Everyone finds fault with their decisions.
 
   Je vous *redis* ma gratitude pour votre soutien.
-  Ich möchte Ihnen *erneut* meine Dankbarkeit für Ihre Unterstützung *aussprechen*.
+  I want to thank you again for your support.
 
   N'allez pas *redire* partout ce que je vous ai raconté.
-  *Erzählen* Sie nicht überall *weiter*, was ich Ihnen erzählt habe.
+  Don't go anywhere and repeat what I told you.
 
   L'élève *redit* la poésie sans faire d'erreur.
-  Der Schüler *trägt* das Gedicht fehlerlos *vor*.
+  The student repeats the poem without making a mistake.
 
   Je te *redis* une dernière fois : fais attention !
-  Ich *sage* dir *ein letztes Mal*: Pass auf!
+  I 'll tell you one last time: be careful !
 
   Qu'est-ce que tu trouves à *redire* à ma proposition ?
-  Was hast du an meinem Vorschlag *auszusetzen*?
+  What do you think of my proposal?
 
   Il faut tout lui *redire* dix fois.
-  Man muss ihm alles zehnmal *wiederholen*.
+  You have to tell him everything ten times.
 
   Je vous *redis* que c'est urgent.
-  Ich *wiederhole*, dass es dringend ist.
+  I'm telling you again, it's urgent.
 
   Elle *redit* mot pour mot ce qu'il lui avait confié.
-  Sie *wiederholte* wortwörtlich, was er ihr anvertraut hatte.
+  She *repeated* word for word what he had entrusted to her.
 
   Le professeur fait *redire* la conjugaison aux élèves.
-  Der Lehrer lässt die Schüler die Konjugation *wiederholen*.
+  The teacher rebukes the students about marriage.
 
   L'historien *redit* les événements avec précision.
-  Der Historiker *gibt* die Ereignisse präzise *wieder*.
+  The historian recounts the events accurately.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

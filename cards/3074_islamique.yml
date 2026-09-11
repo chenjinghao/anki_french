@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3074
 Wort: islamique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: islamique
 Femininum / Plural: ''
 IPA: \is.la.mik\
-Definition: islamisch
+Definition: Muslims
 Register: ↗Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous incarnons un mouvement *islamique* révolutionnaire.
-  Wir verkörpern eine revolutionäre *islamische* Bewegung.
+  We are embodying a revolutionary Islamic movement.
 
   L'architecture *islamique* est caractérisée par des motifs géométriques complexes.
-  Die *islamische* Architektur zeichnet sich durch komplexe geometrische Muster aus.
+  Islamic architecture is characterized by complex geometric patterns.
 
   Les étudiants suivent des cours dans une université *islamique* traditionnelle.
-  Die Studenten besuchen Kurse an einer traditionellen *islamischen* Universität.
+  Students attend classes at a traditional Islamic university.
 
   La calligraphie *islamique* est un art très apprécié dans le monde entier.
-  Die *islamische* Kalligrafie ist eine weltweit geschätzte Kunstform.
+  Islamic calligraphy is a very popular art all over the world.
 
   Le centre *islamique* organise des événements culturels chaque mois.
-  Das *islamische* Zentrum organisiert jeden Monat kulturelle Veranstaltungen.
+  The Islamic Centre organizes cultural events every month.
 
   La philosophie *islamique* a grandement influencé la pensée médiévale.
-  Die *islamische* Philosophie hat das mittelalterliche Denken stark beeinflusst.
+  Islamic philosophy has greatly influenced medieval thought.
 
   Les manuscrits *islamiques* sont conservés dans cette bibliothèque historique.
-  Die *islamischen* Handschriften werden in dieser historischen Bibliothek aufbewahrt.
+  Islamic manuscripts are kept in this historic library.
 
   L'art *islamique* se caractérise par l'absence de représentations figuratives.
-  Die *islamische* Kunst zeichnet sich durch das Fehlen figurativer Darstellungen aus.
+  Islamic art is characterized by the absence of figurative representations.
 
   La civilisation *islamique* a contribué au développement des mathématiques.
-  Die *islamische* Zivilisation hat zur Entwicklung der Mathematik beigetragen.
+  Islamic civilization has contributed to the development of mathematics.
 
   Le calendrier *islamique* est basé sur les cycles lunaires.
-  Der *islamische* Kalender basiert auf den Mondzyklen.
+  The Islamic calendar is based on lunar cycles.
 
   Les jardins *islamiques* sont conçus selon des principes géométriques précis.
-  Die *islamischen* Gärten werden nach präzisen geometrischen Prinzipien gestaltet.
+  Islamic gardens are designed according to precise geometric principles.
 
   La période *islamique* médiévale a vu naître de nombreuses innovations scientifiques.
-  Die mittelalterliche *islamische* Periode brachte zahlreiche wissenschaftliche Innovationen hervor.
+  The medieval Islamic period saw the birth of many scientific innovations.
 
   Les motifs *islamiques* décorent les murs de cette mosquée historique.
-  *Islamische* Muster schmücken die Wände dieser historischen Moschee.
+  Islamic motifs decorate the walls of this historic mosque.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

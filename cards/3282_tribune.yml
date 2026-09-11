@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3282
 Wort: tribune
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la tribune
 Femininum / Plural: ''
 IPA: \tʁi.byn\
-Definition: Tribüne
+Definition: Stage
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Divers orateurs défilèrent à la *tribune*.
-  Verschiedene Redner traten nacheinander an die Redner*tribüne*.
+  Several speakers marched to the stage.
 
   Le député est monté à la *tribune* pour présenter son projet de loi.
-  Der Abgeordnete ist auf die Redner*bühne* gestiegen, um seinen Gesetzentwurf vorzustellen.
+  The deputy went up to the stage to present his bill.
 
   La *tribune présidentielle* était richement décorée pour la cérémonie.
-  Die Präsidenten*tribüne* war für die Zeremonie reich geschmückt.
+  *The presidential podium* was richly decorated for the ceremony.
 
   Les supporters dans la *tribune* nord ont chanté pendant tout le match.
-  Die Fans auf der Nord*tribüne* haben das ganze Spiel über gesungen.
+  The fans in the north court sang throughout the game.
 
   Les journalistes ont une *tribune* réservée pour suivre le débat.
-  Die Journalisten haben eine eigene Presse*tribüne*, um die Debatte zu verfolgen.
+  The journalists have a room reserved for the debate.
 
   L'orgue résonnait depuis la *tribune* de l'église.
-  Die Orgel erklang von der *Empore* der Kirche.
+  The organ resonated from the church stage.
 
   Ce journal m'a offert une *tribune* pour exprimer mon point de vue.
-  Diese Zeitung hat mir ein *Forum* geboten, um meinen Standpunkt darzulegen.
+  This newspaper gave me a platform to express my point of view.
 
   La *tribune libre* du journal publie des opinions diverses.
-  Die *Leserbriefkolumne* der Zeitung veröffentlicht verschiedene Meinungen.
+  The newspaper's free press publishes various opinions.
 
   Les étudiants occupaient toute la *tribune* est du stade.
-  Die Studenten besetzten die gesamte Ost*tribüne* des Stadions.
+  The students occupied the entire stage east of the stadium.
 
   La chorale chantait depuis la *tribune* de l'église médiévale.
-  Der Chor sang von der *Empore* der mittelalterlichen Kirche.
+  The choir was singing from the stage of the medieval church.
 
   Cette émission radio offre une *tribune* aux artistes émergents.
-  Diese Radiosendung bietet aufstrebenden Künstlern eine eigene *Sendung*.
+  This radio show provides a platform for emerging artists.
 
   Les spectateurs de la *tribune* officielle applaudissaient poliment.
-  Die Zuschauer auf der offiziellen *Tribüne* klatschten höflich.
+  The audience in the official stadium applauded politely.
 
   La *tribune* des invités était pleine à craquer.
-  Die Gäste*tribüne* war zum Bersten gefüllt.
+  The guest stand was full of cracks.
 
   Internet est devenu une *tribune* importante pour le débat public.
-  Das Internet ist zu einer wichtigen *Plattform* für die öffentliche Debatte geworden.
+  The Internet has become an important forum for public debate.
 
   Les experts participaient à une *tribune* sur le changement climatique.
-  Die Experten nahmen an einer *Podiumsdiskussion* über den Klimawandel teil.
+  The experts were attending a panel discussion on climate change.
 
   La *tribune* de presse offrait une vue parfaite sur le terrain.
-  Von der Presse*tribüne* hatte man einen perfekten Blick auf das Spielfeld.
+  The newsstand offered a perfect view of the field.
 
   Le ministre s'approcha de la *tribune* pour son discours.
-  Der Minister näherte sich der Redner*bühne* für seine Rede.
+  The minister approached the stage for his speech.
 
   Cette *tribune* hebdomadaire attire de nombreux lecteurs.
-  Diese wöchentliche *Kolumne* zieht viele Leser an.
+  This weekly newsstand attracts many readers.
 
   Les juges observaient la compétition depuis leur *tribune*.
-  Die Richter beobachteten den Wettkampf von ihrer *Tribüne* aus.
+  The judges watched the competition from their stands.
 
   La *tribune* des commentateurs surplombe la ligne d'arrivée.
-  Die Kommentatoren*tribüne* überragt die Ziellinie.
+  The panel of commentators is overlooking the finish line.
 
   Les musiciens se sont installés dans la *tribune* pour le concert.
-  Die Musiker haben sich für das Konzert auf der *Empore* eingerichtet.
+  The musicians sat in the stands for the concert.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

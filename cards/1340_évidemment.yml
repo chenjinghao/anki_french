@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1340
 Wort: évidemment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: évidemment
 Femininum / Plural: ''
 IPA: \e.vi.da.mɑ̃\
-Definition: natürlich, offensichtlich
+Definition: Of course, obviously
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En tout cas, *évidemment*, elles vous connaissent.
-  Jedenfalls kennen sie Sie *natürlich*.
+  At least, *of course*, they know you.
 
   – "Tu viendras à la fête ?"<br>– "*Évidemment* !"
-  – "Kommst du zur Party?"<br>– "*Na klar*!"
+  "Will you come to the party?"<br> "Of course!"
 
   Cette toux persistante indique *évidemment* un problème respiratoire.
-  Dieser anhaltende Husten deutet *offensichtlich* auf ein Atemproblem hin.
+  This persistent cough is obviously an indication of a respiratory problem.
 
   *Évidemment* que je vais t'aider avec tes devoirs !
-  *Natürlich* helfe ich dir bei den Hausaufgaben!
+  Of course I'll help you with your homework!
 
   L'eau qui coule du plafond est *évidemment* due à une fuite.
-  Das von der Decke tropfende Wasser ist *offensichtlich* auf ein Leck zurückzuführen.
+  The water flowing from the ceiling is obviously due to a leak.
 
   *Évidemment*, ce n'est pas une solution parfaite, mais c'est la meilleure option.
-  Das ist *natürlich* keine perfekte Lösung, aber es ist die beste Option.
+  Obviously, this is not a perfect solution, but it is the best option.
 
   Le nouveau stagiaire est *évidemment* très motivé.
-  Der neue Praktikant ist *offenbar* sehr motiviert.
+  The new trainee is obviously very motivated.
 
   – "Tu as faim ?"<br>– "*Évidemment*, je n'ai rien mangé depuis ce matin !"
-  – "Hast du Hunger?"<br>– "*Klar*, ich habe seit heute Morgen nichts gegessen!"
+  "Are you hungry?" "Of course, I haven't eaten anything since this morning!"
 
   Cette baisse des ventes est *évidemment* liée à la crise économique.
-  Dieser Rückgang der Verkäufe hängt *offensichtlich* mit der Wirtschaftskrise zusammen.
+  This decline in sales is obviously linked to the economic crisis.
 
   *Évidemment*, personne n'a pensé à m'en informer.
-  *Natürlich* hat niemand daran gedacht, mich darüber zu informieren.
+  Of course, no one thought to tell me.
 
   Son retard est *évidemment* dû aux embouteillages.
-  Seine Verspätung ist *offensichtlich* auf den Stau zurückzuführen.
+  Obviously, its delay is due to traffic jams.
 
   – "Tu as compris ?"<br>– "*Évidemment* que oui !"
-  – "Hast du verstanden?"<br>– "Aber *klar* doch!"
+  "Do you understand?"<br> "Of course I do!"
 
   *Évidemment*, il pleut le jour où j'ai oublié mon parapluie.
-  *Natürlich* regnet es ausgerechnet an dem Tag, an dem ich meinen Regenschirm vergessen habe.
+  Of course, it's raining the day I forgot my umbrella.
 
   Cette situation va *évidemment* nécessiter beaucoup de patience.
-  Diese Situation wird *offensichtlich* viel Geduld erfordern.
+  *Of course*, this will require a lot of patience.
 
   *Évidemment*, tous les billets étaient déjà vendus quand nous sommes arrivés.
-  *Natürlich* waren alle Karten schon ausverkauft, als wir ankamen.
+  Of course, all tickets were already sold when we arrived.
 
   Son sourire montre *évidemment* qu'elle est heureuse de la surprise.
-  Ihr Lächeln zeigt *offensichtlich*, dass sie sich über die Überraschung freut.
+  Her smile obviously shows that she's happy about the surprise.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

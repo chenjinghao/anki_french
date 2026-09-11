@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1739
 Wort: monétaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: monétaire
 Femininum / Plural: ''
 IPA: \mɔ.ne.tɛʁ\
-Definition: Währungs-, monetär
+Definition: monetary
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le travailleur désire une élévation de salaire *monétaire*.
-  Der Arbeiter wünscht sich eine *Geld*lohnerhöhung.
+  The worker wants a *monetary* wage increase.
 
   La banque centrale contrôle la masse *monétaire* pour lutter contre l'inflation.
-  Die Zentralbank kontrolliert die *Geld*menge, um die Inflation zu bekämpfen.
+  The central bank controls the money supply to fight inflation.
 
   L'euro est l'unité *monétaire* de la plupart des pays européens.
-  Der Euro ist die *Währungs*einheit der meisten europäischen Länder.
+  The euro is the currency of most European countries.
 
   Le système *monétaire* international a beaucoup changé depuis les années 70.
-  Das internationale *Währungs*system hat sich seit den 70er Jahren stark verändert.
+  The international *monetary* system has changed a lot since the 1970s.
 
   La stabilité *monétaire* est importante pour l'économie d'un pays.
-  Die *Geld*stabilität ist wichtig für die Wirtschaft eines Landes.
+  *Monetary* stability is important for a country's economy.
 
   La politique *monétaire* restrictive freine la croissance économique.
-  Die restriktive *Geld*politik bremst das Wirtschaftswachstum.
+  Restrictive *monetary* policy is holding back economic growth.
 
   Le marché *monétaire* est très sensible aux changements politiques.
-  Der *Geld*markt reagiert sehr empfindlich auf politische Veränderungen.
+  The money market is very sensitive to political changes.
 
   Une crise *monétaire* peut affecter plusieurs pays en même temps.
-  Eine *Währungs*krise kann mehrere Länder gleichzeitig betreffen.
+  A currency crisis can affect several countries at the same time.
 
   La zone *monétaire* européenne comprend 20 pays.
-  Die europäische *Währungs*zone umfasst 20 Länder.
+  The European *Monetary* Area comprises 20 countries.
 
   Les réserves *monétaires* du pays ont diminué cette année.
-  Die *Währungs*reserven des Landes sind dieses Jahr gesunken.
+  The country's *monetary* reserves have declined this year.
 
   L'union *monétaire* facilite les échanges commerciaux.
-  Die *Währungs*union erleichtert den Handelsaustausch.
+  *Monetary* union facilitates trade.
 
   La circulation *monétaire* augmente pendant les fêtes.
-  Der *Geld*umlauf steigt während der Feiertage.
+  Money circulation increases during the holidays.
 
   Le stock *monétaire* doit être contrôlé régulièrement.
-  Der *Währungs*bestand muss regelmäßig kontrolliert werden.
+  The money supply must be checked regularly.
 
   Les autorités *monétaires* ont décidé de baisser les taux d'intérêt.
-  Die *Währungs*behörden haben beschlossen, die Zinssätze zu senken.
+  The *monetary* authorities have decided to lower interest rates.
 
   La dépréciation *monétaire* inquiète les investisseurs.
-  Die *Währungs*abwertung beunruhigt die Investoren.
+  *Monetary* depreciation is a concern for investors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2350
 Wort: contradiction
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la contradiction
 Femininum / Plural: ''
 IPA: \kɔ̃.tʁa.dik.sjɔ̃\
-Definition: Widerspruch
+Definition: Opposition
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a une *contradiction* entre les deux.
-  Es gibt einen *Widerspruch* zwischen den beiden.
+  There's a *contradiction* between the two.
 
   Les scientifiques ont trouvé une *contradiction* flagrante dans leurs données.
-  Die Wissenschaftler haben einen krassen *Widerspruch* in ihren Daten gefunden.
+  Scientists have found a flagrant *contradiction* in their data.
 
   Marie s'est perdue dans ses *contradictions* pendant l'entretien.
-  Marie hat sich während des Gesprächs in *Widersprüche* verstrickt.
+  Marie got lost in her *contradictions* during the interview.
 
   Cette décision est en *contradiction* avec nos valeurs fondamentales.
-  Diese Entscheidung steht im *Widerspruch* zu unseren grundlegenden Werten.
+  This decision is contrary to our basic values.
 
   Thomas ne supporte pas la moindre *contradiction*.
-  Thomas verträgt keinerlei *Widerspruch*.
+  Thomas can't stand the slightest *contradiction*.
 
   Par esprit de *contradiction*, elle fait toujours l'inverse de ce qu'on lui conseille.
-  Aus reinem *Widersprechungs*drang macht sie immer das Gegenteil von dem, was man ihr rät.
+  In a spirit of *contradiction*, she always does the opposite of what she is advised to do.
 
   Il a relevé plusieurs *contradictions* dans le témoignage du suspect.
-  Er hat mehrere *Widersprüche* in der Aussage des Verdächtigen festgestellt.
+  He found several *contradictions* in the witness' testimony.
 
   Les *contradictions* du cœur humain sont parfois difficiles à comprendre.
-  Die *Widersprüche* des menschlichen Herzens sind manchmal schwer zu verstehen.
+  The *contradictions* of the human heart are sometimes difficult to understand.
 
   Cette théorie comporte trop de *contradictions* pour être crédible.
-  Diese Theorie enthält zu viele *Widersprüche*, um glaubwürdig zu sein.
+  This theory has too many *contradictions* to be credible.
 
   Le projet a été adopté sans *contradiction* lors de la réunion.
-  Das Projekt wurde in der Sitzung ohne *Widerspruch* angenommen.
+  The draft was adopted without *contradiction* at the meeting.
 
   Sa déposition contenait de nombreuses *contradictions* évidentes.
-  Seine Aussage enthielt viele offensichtliche *Widersprüche*.
+  His testimony contained many obvious *contradictions*.
 
   Les *contradictions* internes du système ont mené à son échec.
-  Die internen *Widersprüche* des Systems haben zu seinem Scheitern geführt.
+  The internal *contradictions* of the system have led to its failure.
 
   Elle s'est heurtée à une *contradiction* énergique de la part de ses collègues.
-  Sie stieß auf energischen *Widerspruch* von Seiten ihrer Kollegen.
+  She encountered a vigorous *contradiction* from her colleagues.
 
   Son comportement est en *contradiction* avec ses principes affichés.
-  Sein Verhalten steht im *Widerspruch* zu seinen öffentlich vertretenen Prinzipien.
+  His behavior is contrary to his stated principles.
 
   Les *contradictions* de son récit ont éveillé nos soupçons.
-  Die *Widersprüche* in seiner Erzählung haben unseren Verdacht geweckt.
+  The *contradictions* in his account aroused our suspicions.
 
   Le philosophe a porté la *contradiction* dans le débat avec élégance.
-  Der Philosoph hat elegant *Widerspruch* in die Debatte eingebracht.
+  The philosopher elegantly carried the *contradiction* into the debate.
 
   Cette mesure est en *contradiction* directe avec la loi existante.
-  Diese Maßnahme steht in direktem *Widerspruch* zum bestehenden Gesetz.
+  This measure is in direct *contradiction* with the existing law.
 
   Les *contradictions* économiques ont conduit à une réforme majeure.
-  Die wirtschaftlichen *Widersprüche* haben zu einer großen Reform geführt.
+  Economic *contradictions* have led to major reforms.
 
   Je ne peux pas ignorer cette *contradiction* dans votre raisonnement.
-  Ich kann diesen *Widerspruch* in Ihrer Argumentation nicht ignorieren.
+  I cannot ignore this *contradiction* in your reasoning.
 
   La *contradiction* entre ses paroles et ses actes était évidente.
-  Der *Widerspruch* zwischen seinen Worten und Taten war offensichtlich.
+  The *contradiction* between his words and actions was evident.
 
   Il est constamment en *contradiction* avec lui-même.
-  Er *widerspricht* sich ständig selbst.
+  He's always in *contradiction* with himself.
 
   Nous devons résoudre cette *contradiction* avant de continuer.
-  Wir müssen diesen *Widerspruch* lösen, bevor wir weitermachen.
+  We need to resolve this *contradiction* before we move on.
 
   Les *contradictions* apparentes de cette théorie peuvent être expliquées.
-  Die scheinbaren *Widersprüche* dieser Theorie können erklärt werden.
+  The apparent *contradictions* of this theory can be explained.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

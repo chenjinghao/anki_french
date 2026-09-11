@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2230
 Wort: revendication
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la revendication
 Femininum / Plural: ''
 IPA: \ʁə.vɑ̃.di.ka.sjɔ̃\
-Definition: Anspruch, Forderung
+Definition: Claim
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On parle souvent de *revendications* historiques.
-  Man spricht oft von historischen *Forderungen*.
+  We often talk about historical *claims*.
 
   Les syndicats ont présenté leurs *revendications* salariales au directeur.
-  Die Gewerkschaften haben ihre Lohn*forderungen* dem Direktor vorgelegt.
+  The unions submitted their pay *claims* to the director.
 
   Les *revendications* des étudiants pour de meilleures conditions d'étude sont justifiées.
-  Die *Forderungen* der Studenten nach besseren Studienbedingungen sind gerechtfertigt.
+  The students' demands for better study conditions are justified.
 
   La principale *revendication* du mouvement est l'égalité des salaires.
-  Die Haupt*forderung* der Bewegung ist die Lohngleichheit.
+  The main demand of the movement is equal pay.
 
   Il a déposé une *revendication* pour récupérer son terrain.
-  Er hat einen *Anspruch* auf die Rückgabe seines Grundstücks geltend gemacht.
+  He filed a *claim* to get his land back.
 
   La *revendication* d'indépendance est au cœur du débat politique.
-  Die *Forderung* nach Unabhängigkeit steht im Zentrum der politischen Debatte.
+  The demand for independence is at the heart of the political debate.
 
   Les manifestants ont exprimé leurs *revendications* pacifiquement.
-  Die Demonstranten haben ihre *Forderungen* friedlich zum Ausdruck gebracht.
+  The protesters expressed their demands peacefully.
 
   Cette *revendication* de brevet protège notre innovation.
-  Dieser Patent*anspruch* schützt unsere Innovation.
+  This patent *claim* protects our innovation.
 
   La lettre de *revendication* contenait cinq points essentiels.
-  Der *Forderungs*katalog enthielt fünf wesentliche Punkte.
+  The *claim* letter contained five essential points.
 
   Leur *revendication* principale concerne les horaires de travail.
-  Ihre Haupt*forderung* betrifft die Arbeitszeiten.
+  Their main *claim* relates to working hours.
 
   Les employés ont organisé une *journée de revendication*.
-  Die Mitarbeiter haben einen *Aktionstag* organisiert.
+  The employees have organized a day of reclaim.
 
   Cette *revendication* salariale a été acceptée par la direction.
-  Diese Lohn*forderung* wurde von der Geschäftsleitung akzeptiert.
+  This salary *claim* has been accepted by management.
 
   Le groupe a présenté ses *revendications* lors de la réunion.
-  Die Gruppe hat ihre *Forderungen* während der Sitzung vorgestellt.
+  The group presented its demands at the meeting.
 
   La *revendication* de justice sociale reste d'actualité.
-  Die *Forderung* nach sozialer Gerechtigkeit bleibt aktuell.
+  The demand for social justice remains relevant.
 
   Les *revendications* syndicales ont été entendues.
-  Die gewerkschaftlichen *Forderungen* wurden gehört.
+  The union's demands have been heard.
 
   Cette *revendication* de propriété doit être examinée par le tribunal.
-  Dieser Eigentums*anspruch* muss vom Gericht geprüft werden.
+  This *claim* of ownership must be examined by the court.
 
   Les citoyens ont formulé de nouvelles *revendications*.
-  Die Bürger haben neue *Forderungen* formuliert.
+  Citizens have made new demands.
 
   Toutes les *revendications* doivent être soumises par écrit.
-  Alle *Ansprüche* müssen schriftlich eingereicht werden.
+  All *claims* must be submitted in writing.
 
   La *revendication* d'égalité est un combat permanent.
-  Die *Forderung* nach Gleichheit ist ein dauerhafter Kampf.
+  The demand for equality is a constant struggle.
 
   Les *revendications* des agriculteurs concernent les prix minimums.
-  Die *Forderungen* der Landwirte betreffen die Mindestpreise.
+  The farmers' *claims* relate to minimum prices.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>revendication</i> und <i>exigence</i></div>
+    <div class="section-title"><i>revendication</i> and <i>exigence</i></div>
     <div class="section-content">
-      <p><span class="fr">Revendication</span> bezieht sich auf eine Forderung, die häufig mit einem Anspruch oder einer Beanspruchung verbunden ist. Sie drückt oft einen Anspruch auf ein Recht, eine Anerkennung oder eine Entschädigung aus.</p>
+      <p><span class="fr">Revendication</span> It often expresses a claim for a right, recognition or compensation.</p>
       <div class="examples">
         <div class="fr">Les ouvriers ont présenté leurs revendications lors de la grève.</div>
-        <div class="de spoiler">Die Arbeiter haben ihre Forderungen während des Streiks vorgebracht.</div>
+        <div class="de spoiler">The workers made their demands during the strike.</div>
         <div class="fr">Les revendications des droits civiques ont marqué les années 1960.</div>
-        <div class="de spoiler">Die Forderungen nach Bürgerrechten prägten die 1960er Jahre.</div>
+        <div class="de spoiler">The 1960s were marked by demands for civil rights.</div>
       </div>
-      <p><span class="fr">Exigence</span> (#1312) ist eine Anforderung oder eine Erwartung, die oft mit einem hohen Maß an Dringlichkeit oder Unvermeidlichkeit verbunden ist. Es bezieht sich auf etwas, das notwendig oder unerlässlich ist.</p>
+      <p><span class="fr">Exigence</span> (#1312) is a requirement or expectation that is often associated with a high degree of urgency or inevitability.</p>
       <div class="examples">
         <div class="fr">Les exigences du poste sont très élevées.</div>
-        <div class="de spoiler">Die Anforderungen an die Stelle sind sehr hoch.</div>
+        <div class="de spoiler">The demands on the job are very high.</div>
         <div class="fr">Il a des exigences très strictes concernant la qualité.</div>
-        <div class="de spoiler">Er hat sehr strenge Anforderungen an die Qualität.</div>
+        <div class="de spoiler">He has very strict quality requirements.</div>
       </div>
     </div>
   </div>

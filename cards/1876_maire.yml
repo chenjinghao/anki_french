@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1876
 Wort: maire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le maire
 Femininum / Plural: ''
 IPA: \mɛʁ\
-Definition: Bürgermeister
+Definition: Mayor of the city
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a fait 3 mandats comme *maire*.
-  Er hat 3 Amtszeiten als *Bürgermeister* absolviert.
+  He served three terms as *mayor*.
 
   Notre *maire* a inauguré le nouveau centre culturel hier soir.
-  Unser *Bürgermeister* hat gestern Abend das neue Kulturzentrum eingeweiht.
+  Our *mayor* inaugurated the new cultural center last night.
 
   Le conseil municipal a élu une femme comme *maire* de la ville.
-  Der Gemeinderat hat eine Frau zur *Bürgermeisterin* der Stadt gewählt.
+  The city council elected a woman *mayor* of the city.
 
   Les *maires* des communes voisines se réunissent chaque mois.
-  Die *Bürgermeister* der Nachbargemeinden treffen sich jeden Monat.
+  The *mayors* of the neighbouring municipalities meet monthly.
 
   Le *maire* et ses adjoints travaillent sur le nouveau budget.
-  Der *Bürgermeister* und seine Stellvertreter arbeiten am neuen Haushalt.
+  The *mayor* and his deputies are working on the new budget.
 
   "On va passer devant le *maire* samedi prochain !"
-  "Wir werden nächsten Samstag zum *Standesamt* gehen!"
+  "We're going to the *mayor*'s office next Saturday!"
 
   Madame la *maire* tiendra une permanence ce jeudi.
-  Frau *Bürgermeisterin* hat am Donnerstag Sprechstunde.
+  Mrs. *Mayor* will be holding a residency this Thursday.
 
   L'ancien *maire* du palais, Pépin le Bref, devint roi des Francs.
-  Der ehemalige Haus*meier* Pippin der Kurze wurde König der Franken.
+  The former *mayor* of the palace, Pepin the Short, became king of the Franks.
 
   Le *maire* d'arrondissement organise une fête de quartier.
-  Der Bezirks*bürgermeister* organisiert ein Stadtteilfest.
+  The district *mayor*'s throwing a neighborhood party.
 
   Les administrés peuvent rencontrer leur *maire* sur rendez-vous.
-  Die Bürger können ihren *Bürgermeister* nach Terminvereinbarung treffen.
+  Officials can meet with their *mayor* by appointment.
 
   Comment s'appelle le nouveau *maire* de votre commune ?
-  Wie heißt der neue *Bürgermeister* Ihrer Gemeinde?
+  What's the name of the new *mayor* of your township?
 
   L'*Oberbürgermeister* de Munich sera présent à la cérémonie.
-  Der *Oberbürgermeister* von München wird bei der Zeremonie anwesend sein.
+  The *mayor* of Munich will be present at the ceremony.
 
   Le *maire* porte son écharpe tricolore lors des cérémonies officielles.
-  Der *Bürgermeister* trägt bei offiziellen Zeremonien seine dreifarbige Schärpe.
+  The *mayor* wears his tricolor scarves at official ceremonies.
 
   Ce député-*maire* cumule deux fonctions importantes.
-  Dieser *Bürgermeister* ist gleichzeitig Abgeordneter und übt damit zwei wichtige Ämter aus.
+  This deputy *mayor* has two important functions.
 
   Les *maires* de France se réunissent chaque année à Paris.
-  Die *Bürgermeister* Frankreichs treffen sich jedes Jahr in Paris.
+  The *mayors* of France meet every year in Paris.
 
   Notre *maire* a reçu la légion d'honneur pour ses services.
-  Unser *Bürgermeister* hat für seine Verdienste den Orden der Ehrenlegion erhalten.
+  Our *mayor* was awarded the Legion of Honor for his service.
 
   Le nouveau *maire* prendra ses fonctions lundi prochain.
-  Der neue *Bürgermeister* wird nächsten Montag sein Amt antreten.
+  The new *mayor* will take office next Monday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

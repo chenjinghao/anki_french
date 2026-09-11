@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3830
 Wort: complexité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la complexité
 Femininum / Plural: ''
 IPA: \kɔ̃.plɛk.si.te\
-Definition: Komplexität
+Definition: Complexity
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le livre explore la *complexité* de la société de l'information.
-  Das Buch untersucht die *Komplexität* der Informationsgesellschaft.
+  The book explores the *complexity* of the information society.
 
   La *complexité* de cette formule chimique demande une attention particulière.
-  Die *Komplexität* dieser chemischen Formel erfordert besondere Aufmerksamkeit.
+  The *complexity* of this chemical formula requires special attention.
 
   Face à la *complexité* du problème, nous avons dû faire appel à des experts.
-  Angesichts der *Vielschichtigkeit* des Problems mussten wir Experten hinzuziehen.
+  Given the *complexity* of the problem, we had to call on experts.
 
   La *complexité* de sa personnalité se révèle au fil du roman.
-  Die *Vielschichtigkeit* seiner Persönlichkeit offenbart sich im Laufe des Romans.
+  The *complexity* of his personality is revealed in the course of the novel.
 
   Cette procédure administrative est d'une *complexité* surprenante.
-  Dieses Verwaltungsverfahren ist von überraschender *Komplexität*.
+  This administrative procedure is surprisingly complex.
 
   Les étudiants ont sous-estimé la *complexité* de l'exercice.
-  Die Studenten haben die *Komplexität* der Aufgabe unterschätzt.
+  The students underestimated the *complexity* of the exercise.
 
   La *complexité* croissante des technologies modernes pose de nouveaux défis.
-  Die zunehmende *Komplexität* moderner Technologien stellt uns vor neue Herausforderungen.
+  The increasing *complexity* of modern technology poses new challenges.
 
   J'apprécie la *complexité* des arômes de ce vin.
-  Ich schätze die *Vielschichtigkeit* der Aromen dieses Weins.
+  I appreciate the *complexity* of the aromas of this wine.
 
   La *complexité* de ses phrases rend le texte difficile à comprendre.
-  Die *Komplexität* seiner Sätze macht den Text schwer verständlich.
+  The *complexity* of its sentences makes the text difficult to understand.
 
   Cette histoire familiale est d'une grande *complexité*.
-  Diese Familiengeschichte ist von großer *Vielschichtigkeit*.
+  This family history is very complex.
 
   Les chercheurs étudient la *complexité* des écosystèmes marins.
-  Die Forscher untersuchen die *Komplexität* mariner Ökosysteme.
+  Researchers are studying the *complexity* of marine ecosystems.
 
   La *complexité* du projet a entraîné des retards importants.
-  Die *Komplexität* des Projekts hat zu erheblichen Verzögerungen geführt.
+  The *complexity* of the project has led to significant delays.
 
   Il ne faut pas confondre *complexité* et complication.
-  Man darf *Komplexität* nicht mit Kompliziertheit verwechseln.
+  *Complexity* should not be confused with complication.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

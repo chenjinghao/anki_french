@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3575
 Wort: opter
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: opter
 Femininum / Plural: ''
 IPA: \ɔp.te\
-Definition: sich entscheiden
+Definition: to decide
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai donc *opté* pour une coiffure simple.
-  Ich habe mich also für eine einfache Frisur *entschieden*.
+  So I chose a simple hairstyle.
 
   Elle a *opté* pour des études littéraires à l'université.
-  Sie hat sich an der Universität für ein Literaturstudium *entschieden*.
+  She chose to study literature at the university.
 
   Après réflexion, nous avons *opté* pour la solution la moins chère.
-  Nach reiflicher Überlegung haben wir uns für die günstigere Lösung *entschieden*.
+  After we thought about it, we decided on the cheapest solution.
 
   Les habitants peuvent *opter* pour la nationalité française avant la fin de l'année.
-  Die Einwohner können bis zum Ende des Jahres für die französische Staatsangehörigkeit *optieren*.
+  Residents can opt for French citizenship before the end of the year.
 
   Mon frère a *opté* pour une carrière dans l'enseignement.
-  Mein Bruder hat sich für eine Karriere im Lehrberuf *entschieden*.
+  My brother chose a career in teaching.
 
   Pourquoi as-tu *opté* pour cette approche plus risquée ?
-  Warum hast du dich für diesen riskanteren Ansatz *entschieden*?
+  Why did you choose this more risky approach?
 
   La famille a finalement *opté* pour un appartement en centre-ville.
-  Die Familie hat sich schlussendlich für eine Wohnung in der Innenstadt *entschieden*.
+  The family finally *opted for* an apartment in the city center.
 
   Les investisseurs ont *opté* pour une stratégie prudente.
-  Die Investoren haben eine vorsichtige Strategie *gewählt*.
+  Investors have chosen a cautious strategy.
 
   Marie devra *opter* entre ces deux propositions d'emploi.
-  Marie wird zwischen diesen beiden Jobangeboten *wählen* müssen.
+  Marie will have *to choose* between these two job offers.
 
   Nous avons *opté* pour une politique de transparence totale.
-  Wir haben uns für eine Politik der vollständigen Transparenz *entschieden*.
+  We have *opted for* a policy of total transparency.
 
   Le comité a *opté* pour le candidat le plus expérimenté.
-  Das Komitee hat sich für den erfahrensten Kandidaten *entschieden*.
+  The committee chose the most experienced candidate.
 
   Les jeunes couples *optent* souvent pour des mariages simples.
-  Junge Paare *entscheiden* sich oft für einfache Hochzeiten.
+  Young couples often opt for simple marriages.
 
   L'entreprise a *opté* pour des solutions écologiques.
-  Das Unternehmen hat sich für umweltfreundliche Lösungen *entschieden*.
+  The company has *opted for* environmentally friendly solutions.
 
   Il faut *opter* pour ce qui nous semble juste.
-  Man muss das *wählen*, was einem richtig erscheint.
+  We have *to choose* what we think is right.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

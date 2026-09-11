@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3117
 Wort: légume
 Wortart: nm, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le légume
 Femininum / Plural: ''
 IPA: \le.ɡym\
-Definition: Gemüse
+Definition: Fruit and vegetables
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne mange pas de *légumes* non plus.
-  Ich esse auch kein *Gemüse*.
+  I don't eat *vegetables* either.
 
   Mon père cultive des *légumes* dans son jardin.
-  Mein Vater baut *Gemüse* in seinem Garten an.
+  My father grows *vegetables* in his garden.
 
   Les enfants devraient manger plus de *légumes* verts.
-  Kinder sollten mehr grünes *Gemüse* essen.
+  Children should eat more green *vegetables*.
 
   J'ai préparé un délicieux bouillon de *légumes*.
-  Ich habe eine leckere *Gemüse*brühe zubereitet.
+  I made a delicious vegetable soup.
 
   Nous achetons uniquement des *légumes* biologiques.
-  Wir kaufen nur Bio*gemüse*.
+  We only buy organic *vegetables*.
 
   "C'est une *grosse légume* dans cette entreprise."
-  "Er ist ein *hohes Tier* in dieser Firma."
+  "It's a big vegetable in this business".
 
   Les *légumes secs* se conservent très longtemps.
-  *Hülsenfrüchte* sind sehr lange haltbar.
+  Dry vegetables are stored for a very long time.
 
   Cette nouvelle sorte de *légumes* est très résistante aux parasites.
-  Diese neue *Gemüse*sorte ist sehr widerstandsfähig gegen Schädlinge.
+  This new kind of vegetable is very resistant to parasites.
 
   Malheureusement, après son accident, il *n'est plus qu'un légume*.
-  Leider *vegetiert er* nach seinem Unfall nur noch *vor sich hin*.
+  Unfortunately, after his accident, he's just a vegetable.
 
   Le prix des *légumes* a beaucoup augmenté cette année.
-  Der *Gemüse*preis ist dieses Jahr stark gestiegen.
+  The price of *vegetables* has risen a lot this year.
 
   As-tu déjà goûté cette macédoine de *légumes* ?
-  Hast du diesen *Gemüse*salat schon probiert?
+  Have you ever tasted this Macedonian vegetable?
 
   Les *légumes en conserve* sont pratiques quand on manque de temps.
-  *Gemüse aus der Dose* ist praktisch, wenn man wenig Zeit hat.
+  *Canned vegetables* are convenient when you're short of time.
 
   Il faut faire revenir les *légumes* dans l'huile d'olive.
-  Man muss das *Gemüse* in Olivenöl andünsten.
+  You have to get the *vegetables* back in the olive oil.
 
   "Tu ne deviendras jamais une *grosse légume* si tu continues comme ça !"
-  "Du wirst nie ein *hohes Tier*, wenn du so weitermachst!"
+  "You'll never be a big vegetable if you keep on like this!"
 
   Le marché aux fruits et *légumes* est ouvert tous les samedis.
-  Der Obst- und *Gemüse*markt ist jeden Samstag geöffnet.
+  The fruit and vegetable market is open every Saturday.
 
   Les *légumes* surgelés conservent mieux leurs vitamines que les conserves.
-  Tiefkühl*gemüse* behält seine Vitamine besser als Konserven.
+  Frozen *vegetables* retain their vitamins better than canned ones.
 
   Ces *légumes* verts viennent directement de mon potager.
-  Dieses grüne *Gemüse* kommt direkt aus meinem Gemüsegarten.
+  These green *vegetables* come straight from my vegetable garden.
 
   La soupe de *légumes* mijote doucement sur le feu.
-  Die *Gemüse*suppe köchelt langsam auf dem Herd.
+  The vegetable soup melts gently on the fire.
 
   Les carottes sont mes *légumes* préférés.
-  Karotten sind mein Lieblings*gemüse*.
+  Carrots are my favorite *vegetables*.
 
   Nous avons stocké beaucoup de *légumes secs* pour l'hiver.
-  Wir haben viele *Hülsenfrüchte* für den Winter eingelagert.
+  We stored a lot of dry vegetables for the winter.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

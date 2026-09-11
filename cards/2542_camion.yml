@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2542
 Wort: camion
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le camion
 Femininum / Plural: ''
 IPA: \ka.mjɔ̃\
-Definition: Lastwagen
+Definition: truck
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont trouvé le *camion* stationné à l'extérieur.
-  Sie haben den *Lastwagen* draußen geparkt gefunden.
+  They found the *truck* parked outside.
 
   Le *camion* de déménagement arrivera demain matin à huit heures.
-  Der Umzugs*lkw* kommt morgen früh um acht Uhr.
+  The *moving truck* will arrive tomorrow morning at eight.
 
   Ce *camion* frigorifique transporte des produits surgelés vers les supermarchés.
-  Dieser Kühl*lastwagen* transportiert Tiefkühlprodukte zu den Supermärkten.
+  This refrigerated *truck* carries frozen products to supermarkets.
 
   Les *camions*-citernes livrent le carburant aux stations-service.
-  Die Tank*lastwagen* liefern den Treibstoff an die Tankstellen.
+  Tank *trucks* deliver fuel to the gas stations.
 
   Un *camion* de dix tonnes a percuté la barrière de sécurité.
-  Ein zehn Tonnen schwerer *Lkw* ist gegen die Sicherheitsbarriere geprallt.
+  A ten-ton *truck* hit the security fence.
 
   Le peintre prépare sa peinture dans un grand *camion* en métal.
-  Der Maler bereitet seine Farbe in einem großen Farb*behälter* aus Metall vor.
+  The painter is preparing his painting in a large metal *truck*.
 
   La dentellière utilise des *camions* pour fixer délicatement la dentelle.
-  Die Klöpplerin verwendet feine *Stecknadeln*, um die Spitze vorsichtig zu befestigen.
+  The lace maker uses *trucks* to fine-tune the lace.
 
   Le *camion* bâché protège les marchandises de la pluie.
-  Der Plan*lastwagen* schützt die Waren vor dem Regen.
+  The padded *truck* protects the goods from the rain.
 
   Nous avons commandé deux *camions* de sable pour le chantier.
-  Wir haben zwei Lkw-*Ladungen* Sand für die Baustelle bestellt.
+  We ordered two sand *trucks* for the construction site.
 
   Au XIX<sup>e</sup> siècle, les *camions* étaient tirés par des chevaux.
-  Im 19. Jahrhundert wurden die Transport*wagen* von Pferden gezogen.
+  In the 19th century, *trucks* were pulled by horses.
 
   Le chauffeur du *camion* fait une pause toutes les quatre heures.
-  Der *Lkw*-Fahrer macht alle vier Stunden eine Pause.
+  The *truck* driver takes a break every four hours.
 
   Les *camions* à benne transportent les déchets vers la décharge.
-  Die Kipper*lastwagen* transportieren den Müll zur Deponie.
+  The dump *trucks* carry the waste to the landfill.
 
   Un *camion* isotherme assure la livraison des produits frais.
-  Ein Isolier*lastwagen* gewährleistet die Lieferung der frischen Produkte.
+  An isothermal *truck* ensures the delivery of fresh produce.
 
   Les collectionneurs de papillons utilisent des *camions* très fins.
-  Die Schmetterlingssammler verwenden sehr feine *Nadeln*.
+  Butterfly collectors use very fine *trucks*.
 
   Le vieux *camion* de pompiers est exposé au musée.
-  Der alte Feuerwehr*lastwagen* wird im Museum ausgestellt.
+  The old fire *truck* is on display at the museum.
 
   La société de transport possède une flotte de vingt *camions*.
-  Das Transportunternehmen besitzt eine Flotte von zwanzig *Lastwagen*.
+  The transport company has a fleet of twenty *trucks*.
 
   Les *camions* de livraison ne peuvent pas entrer dans le centre-ville après midi.
-  Die Liefer*lastwagen* dürfen nach mittags nicht in die Innenstadt fahren.
+  Delivery *trucks* can't enter downtown after noon.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

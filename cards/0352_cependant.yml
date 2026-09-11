@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 352
 Wort: cependant
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: cependant
 Femininum / Plural: ''
 IPA: \sə.pɑ̃.dɑ̃\
-Definition: jedoch, allerdings
+Definition: However
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette sécurité se trouve *cependant* menacée.
-  Diese Sicherheit ist *jedoch* bedroht.
+  *However*, this security is under threat.
 
   Le film était long, *cependant* il restait captivant jusqu'à la fin.
-  Der Film war lang, *dennoch* blieb er bis zum Ende fesselnd.
+  The film was long, yet it remained captivating until the end.
 
   *Cependant que* Marie étudiait, Pierre préparait le dîner.
-  *Während* Marie lernte, bereitete Pierre das Abendessen vor.
+  While Marie was studying, Pierre was preparing dinner.
 
   La solution paraît simple, *cependant* personne n'y avait pensé avant.
-  Die Lösung scheint einfach, *trotzdem* hatte vorher niemand daran gedacht.
+  The solution seems simple, but no one had thought of it before.
 
   Son histoire semblait incroyable, et *cependant* elle disait la vérité.
-  Ihre Geschichte schien unglaublich, und *dennoch* sagte sie die Wahrheit.
+  Her story seemed incredible, yet she was telling the truth.
 
   Les prix augmentent, *cependant* les salaires restent les mêmes.
-  Die Preise steigen, die Gehälter bleiben *jedoch* gleich.
+  Prices are rising, but wages remain the same.
 
   Elle a beaucoup travaillé, *cependant* elle n'a pas réussi l'examen.
-  Sie hat viel gearbeitet, ist *jedoch* durch die Prüfung gefallen.
+  She worked hard, but she didn't pass the exam.
 
   *Cependant que* l'orage grondait, nous restions à l'abri.
-  *Während* das Gewitter grollte, blieben wir im Schutz.
+  But as the storm raged, we were safe.
 
   Le temps passe vite, *cependant* nous n'avançons pas.
-  Die Zeit vergeht schnell, wir kommen *allerdings* nicht voran.
+  Time passes quickly, but we're not moving forward.
 
   Nous pensions qu'il ne viendrait pas, *cependant* le voilà.
-  Wir dachten, er würde nicht kommen, *jedoch* ist er da.
+  We thought he wouldn't come, but here he is.
 
   Il pleuvait fort, *cependant* nous avons continué notre randonnée.
-  Es regnete stark, wir haben unsere Wanderung *trotzdem* fortgesetzt.
+  It was raining hard, but we continued our hike.
 
   La maison est petite, *cependant* elle est très confortable.
-  Das Haus ist klein, *dennoch* ist es sehr gemütlich.
+  The house is small, yet very comfortable.
 
   *Cependant que* les enfants jouaient, les parents discutaient.
-  *Während* die Kinder spielten, unterhielten sich die Eltern.
+  *However*, while the children were playing, the parents were discussing.
 
   Le chemin était difficile, *cependant* nous sommes arrivés à l'heure.
-  Der Weg war schwierig, wir sind *aber* pünktlich angekommen.
+  The road was hard, but we arrived on time.
 
   Elle ne parle pas français couramment, *cependant* elle se fait comprendre.
-  Sie spricht nicht fließend Französisch, kann sich *aber* verständlich machen.
+  She doesn't speak French fluently, yet she makes herself understood.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

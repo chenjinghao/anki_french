@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3751
 Wort: décliner
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: décliner
 Femininum / Plural: ''
 IPA: \de.kli.ne\
-Definition: zurückweisen, ablehnen, sinken
+Definition: Reject, sink
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez *décliné* notre offre.
-  Sie haben unser Angebot *abgelehnt*.
+  You *declined* our offer.
 
   Je dois *décliner* votre invitation à dîner, je suis désolé.
-  Ich muss Ihre Einladung zum Essen leider *ablehnen*.
+  I have to *decline* your dinner invitation, I'm sorry.
 
   Le soleil *décline* lentement à l'horizon.
-  Die Sonne *sinkt* langsam am Horizont.
+  The sun is slowly setting on the horizon.
 
   Sa santé *décline* progressivement depuis l'accident.
-  Seine Gesundheit *nimmt* seit dem Unfall allmählich *ab*.
+  His health has been slowly declining since the accident.
 
   Les enfants *déclinent* les noms latins à l'école.
-  Die Kinder *deklinieren* die lateinischen Nomen in der Schule.
+  Children refuse Latin names at school.
 
   Le professeur nous a demandé de *décliner* nos noms et prénoms.
-  Der Lehrer hat uns aufgefordert, unsere Vor- und Nachnamen *anzugeben*.
+  The teacher asked us to *decline* our names and surnames.
 
   L'entreprise *décline* ce modèle en cinq couleurs différentes.
-  Die Firma *bietet* dieses Modell in fünf verschiedenen Farben *an*.
+  The company declines this model in five different colors.
 
   Ses forces *déclinent* de jour en jour.
-  Seine Kräfte *schwinden* von Tag zu Tag.
+  His strength is declining day by day.
 
   La popularité du président *décline* dans les sondages.
-  Die Beliebtheit des Präsidenten *nimmt* in den Umfragen *ab*.
+  The president's popularity is declining in the polls.
 
   L'adjectif "beau" se *décline* différemment au féminin.
-  Das Adjektiv "beau" wird im Femininum anders *dekliniert*.
+  The adjective "beautiful" differs from the feminine.
 
   Il a *décliné* toute responsabilité dans cette affaire.
-  Er hat jede Verantwortung in dieser Angelegenheit *zurückgewiesen*.
+  He has *declined* any liability in this case.
 
   Le jour *décline* déjà, nous devrions rentrer.
-  Der Tag *neigt* sich bereits, wir sollten zurückgehen.
+  It's getting dark. We should go home.
 
   Les ventes *déclinent* depuis trois mois consécutifs.
-  Die Verkäufe *nehmen* seit drei Monaten in Folge *ab*.
+  Sales have been declining for three consecutive months.
 
   L'agent de police m'a demandé de *décliner* mon identité.
-  Der Polizist hat mich aufgefordert, meine Personalien *anzugeben*.
+  The police officer asked me to *decline* my identity.
 
   Cette marque *décline* ses produits pour tous les âges.
-  Diese Marke *bietet* ihre Produkte für alle Altersgruppen *an*.
+  This brand declines its products for all ages.
 
   Sa mémoire commence à *décliner*.
-  Sein Gedächtnis beginnt *nachzulassen*.
+  His memory is starting to *decline*.
 
   Les étudiants doivent *décliner* ce mot dans tous les cas.
-  Die Studenten müssen dieses Wort in allen Fällen *deklinieren*.
+  Students must *decline* this word in any case.
 
   Elle a poliment *décliné* le poste qu'on lui proposait.
-  Sie hat die angebotene Stelle höflich *abgelehnt*.
+  She politely *declined* the job she was offered.
 
   Le prestige de l'entreprise *décline* rapidement.
-  Das Ansehen der Firma *schwindet* rasch.
+  The prestige of the company is rapidly declining.
 
   La lune *décline* vers l'ouest.
-  Der Mond *sinkt* gen Westen.
+  The moon is declining to the west.
 
   Il a dû *décliner* l'honneur qui lui était fait.
-  Er musste die ihm erwiesene Ehre *ablehnen*.
+  He must have declined the honor that had been bestowed upon him.
 
   Les températures *déclinent* progressivement en automne.
-  Die Temperaturen *nehmen* im Herbst allmählich *ab*.
+  Temperatures gradually *decline* in autumn.
 
   Il faut *décliner* son nom et son adresse sur ce formulaire.
-  Man muss seinen Namen und seine Adresse auf diesem Formular *angeben*.
+  The applicant's name and address must be declined on this form.
 
   Sa vue *décline* avec l'âge.
-  Seine Sehkraft *lässt* mit dem Alter *nach*.
+  His eyesight declines with age.
 
   Le candidat a *décliné* l'invitation au débat.
-  Der Kandidat hat die Einladung zur Debatte *abgelehnt*.
+  The candidate *declined* the invitation to debate.
 
   L'influence de ce pays *décline* sur la scène internationale.
-  Der Einfluss dieses Landes *schwindet* auf internationaler Ebene.
+  The influence of this country is declining on the international stage.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

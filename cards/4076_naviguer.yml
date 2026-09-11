@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4076
 Wort: naviguer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: naviguer
 Femininum / Plural: ''
 IPA: \na.vi.ɡe\
-Definition: fahren, navigieren
+Definition: driving, navigating
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *naviguait* sur internet en quête de sujets scientifiques.
-  Er *surfte* im Internet auf der Suche nach wissenschaftlichen Themen.
+  He used to browse the Internet looking for scientific topics.
 
   Le bateau *navigue* le long de la côte méditerranéenne.
-  Das Boot *fährt* entlang der Mittelmeerküste.
+  The ship sails along the Mediterranean coast.
 
   "Tu *navigues* beaucoup entre Paris et Lyon ces derniers temps ?"
-  "*Pendelst* du in letzter Zeit viel zwischen Paris und Lyon?"
+  "Have you been sailing a lot between Paris and Lyon lately?"
 
   L'avion *navigue* à une altitude de 10 000 mètres.
-  Das Flugzeug *fliegt* in einer Höhe von 10.000 Metern.
+  The plane sails at an altitude of 10,000 meters.
 
   Elle *navigue* habilement dans les cercles politiques.
-  Sie *manövriert* geschickt in politischen Kreisen.
+  She's a skilled navigator in political circles.
 
   Le voilier n'est plus en état de *naviguer*.
-  Das Segelboot ist nicht mehr see*tüchtig*.
+  The sailboat is no longer capable of navigation.
 
   Les astronautes *naviguent* dans l'espace depuis trois mois.
-  Die Astronauten *fliegen* seit drei Monaten im Weltraum.
+  Astronauts have been sailing in space for three months.
 
   Pierre *navigue* entre les stands du marché à la recherche de légumes frais.
-  Pierre *schlängelt* sich zwischen den Marktständen auf der Suche nach frischem Gemüse *durch*.
+  Pierre sails through the market stalls looking for fresh vegetables.
 
   Ce marin a *navigué* sur toutes les mers du monde.
-  Dieser Seemann ist auf allen Weltmeeren *gefahren*.
+  This sailor has sailed all the seas of the world.
 
   Marie *navigue* à contre-courant des tendances actuelles.
-  Marie *schwimmt* gegen den aktuellen Trend.
+  Marie navigates against current trends.
 
   Le capitaine *navigue* au compas depuis que le GPS est en panne.
-  Der Kapitän *steuert* mit dem Kompass, seit das GPS ausgefallen ist.
+  Captain's been navigating the compass since the GPS went down.
 
   Les premiers pilotes *naviguaient* à la boussole.
-  Die ersten Piloten *flogen* mit dem Kompass.
+  The first pilots sailed on the compass.
 
   Son petit bateau *navigue* bien, même par gros temps.
-  Sein kleines Boot *fährt* gut, auch bei schwerem Wetter.
+  His little boat sails well, even in bad weather.
 
   "Je *navigue* sur ce site depuis des heures sans trouver l'information."
-  "Ich *browse* seit Stunden auf dieser Seite, ohne die Information zu finden."
+  "I've been browsing this site for hours without finding the information".
 
   Elle *navigue* à vue dans ce nouveau projet.
-  Sie *steuert* in diesem neuen Projekt auf Sicht.
+  She's sailing in sight on this new project.
 
   Le jeune couple *navigue* dans les démarches administratives.
-  Das junge Paar *kämpft* sich *durch* die Verwaltungsformalitäten.
+  The young couple navigates the administrative steps.
 
   Les deux navires *navigueront* de conserve jusqu'au port.
-  Die beiden Schiffe werden gemeinsam bis zum Hafen *fahren*.
+  Both ships will sail from container to port.
 
   Sophie *navigue* seule à la voile depuis trois ans.
-  Sophie ist seit drei Jahren Einhand*seglerin*.
+  Sophie's been sailing alone for three years.
 
   "Il faut savoir *naviguer* dans la vie."
-  "Man muss sich im Leben zu *helfen* wissen."
+  "You have to know how to navigate life".
 
   L'avion *navigue* à basse altitude à cause du mauvais temps.
-  Das Flugzeug *fliegt* wegen des schlechten Wetters in niedriger Höhe.
+  The plane is flying at low altitude because of bad weather.
 
   Le bateau *naviguera* vers le sud dès que la tempête sera passée.
-  Das Boot wird nach dem Ende des Sturms nach Süden *fahren*.
+  The ship *will sail* south as soon as the storm passes.
 
   La voiture *navigue* dangereusement sur la route verglacée.
-  Das Auto *schwankt* gefährlich auf der vereisten Straße.
+  The car is traveling dangerously on the icy road.
 
   Thomas *navigue* entre plusieurs emplois pour joindre les deux bouts.
-  Thomas *jongliert* mit mehreren Jobs, um über die Runden zu kommen.
+  Thomas sails between different jobs to get to both ends.
 
   Ce pilote *navigue* avec une grande assurance.
-  Dieser Pilot *fliegt* mit großer Sicherheit.
+  This pilot sails with great confidence.
 
   Les étudiants *naviguent* facilement dans la nouvelle interface du site.
-  Die Studenten *navigieren* mühelos durch die neue Benutzeroberfläche der Website.
+  Students can easily navigate the new interface of the site.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

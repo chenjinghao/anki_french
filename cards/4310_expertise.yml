@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4310
 Wort: expertise
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une expertise
 Femininum / Plural: ''
 IPA: \ɛk.spɛʁ.tiz\
-Definition: Gutachten, Schätzung
+Definition: Assessment and estimate
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a également beaucoup d'*expertise*.
-  Es gibt auch viel *Sachverstand*.
+  There's also a lot of *expertise*.
 
   L'*expertise* du tableau a révélé qu'il s'agissait d'une copie.
-  Die *Begutachtung* des Gemäldes ergab, dass es sich um eine Kopie handelte.
+  The *expertise* of the painting revealed that it was a copy.
 
   Le juge a ordonné une *expertise* psychiatrique avant le procès.
-  Der Richter ordnete vor dem Prozess ein psychiatrisches *Gutachten* an.
+  The judge ordered a psychiatric examination before the trial.
 
   L'*expertise* médicale a confirmé son incapacité de travail.
-  Die ärztliche *Untersuchung* bestätigte seine Arbeitsunfähigkeit.
+  Medical *expertise* has confirmed his inability to work.
 
   Les enquêteurs attendent le résultat de l'*expertise* balistique.
-  Die Ermittler warten auf das Ergebnis der ballistischen *Untersuchung*.
+  Investigators are awaiting the results of the ballistic *expertise*.
 
   Son *expertise* en matière de vins est reconnue dans le monde entier.
-  Sein *Sachverstand* in Weinfragen ist weltweit anerkannt.
+  His *expertise* in wine is recognized worldwide.
 
   Une *expertise* du bâtiment sera nécessaire avant la vente.
-  Vor dem Verkauf wird eine *Schätzung* des Gebäudes erforderlich sein.
+  An *expertise* in the building will be required before the sale.
 
   L'*expertise* comptable a révélé plusieurs irrégularités.
-  Die Buch*prüfung* brachte mehrere Unregelmäßigkeiten ans Licht.
+  The accounting expert revealed several irregularities.
 
   Nous avons demandé une *expertise* juridique sur cette question.
-  Wir haben zu dieser Frage ein juristisches *Gutachten* eingeholt.
+  We asked for legal *expertise* on this matter.
 
   L'*expertise* a estimé la valeur du bijou à plus de 10 000 euros.
-  Die *Schätzung* bewertete den Schmuck auf über 10.000 Euro.
+  The expert estimated the value of the jewel at more than 10,000 euros.
 
   Le certificat d'*expertise* médicale confirme son état de santé.
-  Das ärztliche *Gutachten* bestätigt seinen Gesundheitszustand.
+  The certificate of medical *expertise* confirms his medical condition.
 
   Une *expertise* approfondie du manuscrit est en cours.
-  Eine gründliche *Begutachtung* des Manuskripts läuft gerade.
+  A thorough examination of the manuscript is underway.
 
   L'*expertise* technique a identifié la cause de l'accident.
-  Das technische *Gutachten* hat die Unfallursache ermittelt.
+  Technical *expertise* has identified the cause of the accident.
 
   Les résultats de l'*expertise* ADN seront disponibles demain.
-  Die Ergebnisse der DNA-*Untersuchung* werden morgen vorliegen.
+  The results of the DNA *expertise* will be available tomorrow.
 
   Ils ont fait appel à une *expertise* indépendante.
-  Sie haben eine unabhängige *Begutachtung* in Auftrag gegeben.
+  They've asked for independent *expertise*.
 
   L'*expertise* immobilière a fixé le prix du loyer.
-  Die Immobilien*schätzung* hat den Mietpreis festgelegt.
+  Real estate experts have fixed the price of the rent.
 
   Une deuxième *expertise* a confirmé les conclusions de la première.
-  Eine zweite *Begutachtung* bestätigte die Schlussfolgerungen der ersten.
+  A second examination confirmed the conclusions of the first.
 
   L'*expertise* du mobilier ancien nécessite beaucoup d'expérience.
-  Die *Schätzung* von antiken Möbeln erfordert viel Erfahrung.
+  The *expertise* of old furniture requires a lot of experience.
 
   Le rapport d'*expertise* sera présenté la semaine prochaine.
-  Das *Gutachten* wird nächste Woche vorgelegt.
+  The expert report will be presented next week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1426
 Wort: identifier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: identifier
 Femininum / Plural: ''
 IPA: \i.dɑ̃.ti.fje\
-Definition: identifizieren
+Definition: identifying
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Pouvez-vous *identifier* cet homme ?
-  Können Sie diesen Mann *identifizieren*?
+  Can you identify this man?
 
   La police a réussi à *identifier* le voleur grâce aux caméras de sécurité.
-  Die Polizei konnte den Dieb dank der Sicherheitskameras *identifizieren*.
+  The police were able to identify the thief with security cameras.
 
   Les experts ont rapidement *identifié* la cause de la panne.
-  Die Experten haben die Ursache der Störung schnell *identifiziert*.
+  Experts quickly *identified* the cause of the failure.
 
   Veuillez vous *identifier* pour accéder à votre compte bancaire en ligne.
-  Bitte *identifizieren* Sie sich, um auf Ihr Online-Bankkonto zuzugreifen.
+  Please identify yourself to access your online bank account.
 
   Le biologiste a *identifié* une nouvelle espèce de papillon.
-  Der Biologe hat eine neue Schmetterlingsart *bestimmt*.
+  The biologist has *identified* a new species of butterfly.
 
   Les secouristes ont dû *identifier* les victimes de l'accident.
-  Die Rettungskräfte mussten die Opfer des Unfalls *identifizieren*.
+  Rescue workers had to identify the victims of the accident.
 
   J'ai tout de suite *identifié* sa voix au téléphone.
-  Ich habe seine Stimme am Telefon sofort *erkannt*.
+  I immediately *identified* her voice on the phone.
 
   Les témoins n'ont pas pu *identifier* le véhicule qui s'est enfui.
-  Die Zeugen konnten das geflüchtete Fahrzeug nicht *identifizieren*.
+  Witnesses were unable to identify the vehicle that escaped.
 
   Le professeur aide les étudiants à *identifier* les formes verbales dans le texte.
-  Der Lehrer hilft den Schülern, die Verbformen im Text zu *bestimmen*.
+  The teacher helps students identify verbal forms in the text.
 
   Un objet volant non *identifié* a été aperçu dans le ciel.
-  Ein nicht *identifiziertes* Flugobjekt wurde am Himmel gesichtet.
+  An unidentified flying object has been spotted in the sky.
 
   Les adolescents s'*identifient* souvent à leurs idoles.
-  Jugendliche *identifizieren* sich oft mit ihren Idolen.
+  Teenagers often identify with their idols.
 
   Le détective a réussi à *identifier* les empreintes digitales sur l'arme.
-  Der Detektiv konnte die Fingerabdrücke auf der Waffe *identifizieren*.
+  The detective was able to identify the fingerprints on the weapon.
 
   Il est important d'*identifier* les signes avant-coureurs d'une maladie.
-  Es ist wichtig, die Vorzeichen einer Krankheit zu *erkennen*.
+  It is important to identify the warning signs of a disease.
 
   Le botaniste a *identifié* toutes les plantes de la région.
-  Der Botaniker hat alle Pflanzen der Region *bestimmt*.
+  The botanist *identified* all the plants in the area.
 
   Les chercheurs ont *identifié* un nouveau virus.
-  Die Forscher haben einen neuen Virus *identifiziert*.
+  Researchers have *identified* a new virus.
 
   Je ne peux pas m'*identifier* à ce personnage de roman.
-  Ich kann mich mit dieser Romanfigur nicht *identifizieren*.
+  I can't identify with this novel character.
 
   Les archéologues ont *identifié* l'origine de ces vestiges.
-  Die Archäologen haben die Herkunft dieser Überreste *bestimmt*.
+  Archaeologists have *identified* the origin of these remains.
 
   Comment avez-vous *identifié* la source du problème ?
-  Wie haben Sie die Quelle des Problems *identifiziert*?
+  How did you identify the source of the problem?
 
   Les experts ont *identifié* plusieurs facteurs de risque.
-  Die Experten haben mehrere Risikofaktoren *identifiziert*.
+  Experts have *identified* several risk factors.
 
   Le système n'arrive pas à *identifier* votre mot de passe.
-  Das System kann Ihr Passwort nicht *verifizieren*.
+  The system can't identify your password.
 
   L'enfant s'*identifie* beaucoup à son grand frère.
-  Das Kind *identifiziert* sich stark mit seinem großen Bruder.
+  The child is very much like his older brother.
 
   Les ornithologues ont *identifié* cette espèce d'oiseau rare.
-  Die Ornithologen haben diese seltene Vogelart *bestimmt*.
+  Ornithologists have *identified* this rare species of bird.
 
   Il faut d'abord *identifier* les besoins des clients.
-  Man muss zunächst die Bedürfnisse der Kunden *ermitteln*.
+  First, we need to identify the needs of the customers.
 
   Les médecins ont rapidement *identifié* les symptômes.
-  Die Ärzte haben die Symptome schnell *erkannt*.
+  Doctors quickly *identified* the symptoms.
 
   Elle s'est complètement *identifiée* à son rôle.
-  Sie hat sich völlig mit ihrer Rolle *identifiziert*.
+  She's completely *identified* with her role.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

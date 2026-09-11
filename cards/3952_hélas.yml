@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3952
 Wort: hélas
 Wortart: intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hélas
 Femininum / Plural: ''
 IPA: \e.las\
-Definition: ach, leider
+Definition: Oh, I'm sorry about that
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Hélas*, je ne pourrai pas.
-  *Leider* kann ich nicht.
+  Unfortunately, I won't be able to.
 
   *Hélas*, notre équipe a perdu le match final.
-  *Leider* hat unsere Mannschaft das Finale verloren.
+  Unfortunately, our team lost the final game.
 
   *Hélas*, trois fois *hélas* ! Le restaurant est fermé aujourd'hui.
-  *Ach*, dreimal *ach*! Das Restaurant ist heute geschlossen.
+  Alas, three times Alas, the restaurant is closed today.
 
   - « Viendras-tu à la fête ? »<br>- « *Hélas* non ! »
-  - "Kommst du zur Party?"<br>- "*Leider* nein!"
+  - Will you come to the party?
 
   *Hélas*, il est trop tard pour changer d'avis maintenant.
-  *Leider* ist es jetzt zu spät, um die Meinung zu ändern.
+  Unfortunately, it's too late to change your mind now.
 
   Sa grand-mère, *hélas*, est décédée la semaine dernière.
-  Seine Großmutter ist *leider* letzte Woche verstorben.
+  *Unfortunately*, his grandmother passed away last week.
 
   - « As-tu réussi l'examen ? »<br>- « *Hélas*, je l'ai raté. »
-  - "Hast du die Prüfung bestanden?"<br>- "*Ach*, ich bin durchgefallen."
+  -  Did you pass the exam? <br>-  Unfortunately, I missed it.
 
   *Hélas*, la pluie a gâché notre pique-nique.
-  *Leider* hat der Regen unser Picknick verdorben.
+  Unfortunately, the rain ruined our picnic.
 
   Cette belle journée, *hélas*, touche déjà à sa fin.
-  Dieser schöne Tag geht *leider* schon zu Ende.
+  This beautiful day, *unfortunately*, is already coming to an end.
 
   Les vacances sont, *hélas*, déjà terminées.
-  Die Ferien sind *leider* schon vorbei.
+  *Unfortunately*, the holidays are already over.
 
   *Hélas*, nous avons manqué le dernier train.
-  *Leider* haben wir den letzten Zug verpasst.
+  Unfortunately, we missed the last train.
 
   Le concert était, *hélas*, complet depuis des semaines.
-  Das Konzert war *leider* seit Wochen ausverkauft.
+  The concert was, *unfortunately*, complete for weeks.
 
   *Hélas*, je n'ai plus assez d'argent pour acheter ce livre.
-  *Leider* habe ich nicht mehr genug Geld, um dieses Buch zu kaufen.
+  Unfortunately, I no longer have enough money to buy this book.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

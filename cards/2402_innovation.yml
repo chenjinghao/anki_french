@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2402
 Wort: innovation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une innovation
 Femininum / Plural: ''
 IPA: \i.nɔ.va.sjɔ̃\
 Definition: Innovation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les entreprises maintiennent leurs efforts d'*innovation*.
-  Die Unternehmen halten ihre *Innovations*bemühungen aufrecht.
+  Companies are continuing their efforts to innovate.
 
   L'*innovation* technique a révolutionné notre façon de travailler.
-  Die technische *Innovation* hat unsere Arbeitsweise revolutioniert.
+  Technological *innovation* has revolutionized the way we work.
 
   Cette start-up est connue pour ses *innovations* constantes.
-  Dieses Start-up ist für seine ständigen *Neuerungen* bekannt.
+  This start-up is known for its constant innovation.
 
   L'*innovation* produit est essentielle pour rester compétitif.
-  Die Produkt*innovation* ist entscheidend, um wettbewerbsfähig zu bleiben.
+  Product *innovation* is essential to remain competitive.
 
   "J'en ai assez de toutes ces *innovations* ! Ça change trop vite."
-  "Ich habe genug von all diesen *Neuerungen*! Es ändert sich zu schnell."
+  "I've had enough of all this innovation! It's changing too fast".
 
   L'*innovation* pédagogique peut améliorer l'apprentissage des élèves.
-  Pädagogische *Innovation* kann das Lernen der Schüler verbessern.
+  Educational *innovation* can improve pupils' learning.
 
   Cette mesure constitue une *innovation* majeure dans notre politique.
-  Diese Maßnahme stellt eine bedeutende *Neuerung* in unserer Politik dar.
+  This measure is a major *innovation* in our policy.
 
   Les *innovations* dangereuses doivent être soigneusement évaluées.
-  Gefährliche *Innovationen* müssen sorgfältig bewertet werden.
+  Dangerous *innovations* must be carefully assessed.
 
   Le processus d'*innovation* commence souvent par une simple idée.
-  Der *Innovations*prozess beginnt oft mit einer einfachen Idee.
+  The process of *innovation* often starts with a simple idea.
 
   L'*innovation* sociale vise à résoudre les problèmes de la communauté.
-  Soziale *Innovation* zielt darauf ab, Probleme in der Gemeinschaft zu lösen.
+  Social *innovation* aims to solve the problems of the community.
 
   Certains craignent que l'*innovation* ne remplace les emplois traditionnels.
-  Manche befürchten, dass *Innovation* traditionelle Arbeitsplätze ersetzen könnte.
+  Some fear that *innovation* will replace traditional jobs.
 
   L'*innovation* heureuse a transformé l'entreprise en leader du marché.
-  Die gelungene *Innovation* hat das Unternehmen zum Marktführer gemacht.
+  Happy *innovation* has transformed the company into a market leader.
 
   Le département recherche et développement est le moteur de l'*innovation*.
-  Die Forschungs- und Entwicklungsabteilung ist der Motor der *Innovation*.
+  The research and development department is the engine of *innovation*.
 
   L'*innovation* dans le processus de production a réduit les coûts de 30%.
-  Die *Innovation* im Produktionsprozess hat die Kosten um 30% gesenkt.
+  *Innovation* in the production process has reduced costs by 30%.
 
   Cette *innovation* a rejeté les normes sociales existantes.
-  Diese *Neuerung* hat bestehende soziale Normen abgelehnt.
+  This *innovation* has rejected existing social norms.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

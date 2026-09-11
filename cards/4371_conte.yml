@@ -1,101 +1,101 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4371
 Wort: conte
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le conte
 Femininum / Plural: ''
 IPA: \kɔ̃t\
-Definition: Märchen
+Definition: Fairy tales
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vis un rêve, un *conte* de fées, un miracle.
-  Ich lebe einen Traum, ein *Märchen*, ein Wunder.
+  I have a dream, a fairy tale, a miracle.
 
   Le petit garçon adorait qu'on lui lise des *contes* avant de dormir.
-  Der kleine Junge liebte es, wenn man ihm vor dem Schlafengehen *Märchen* vorlas.
+  The little boy loved to be read *stories* before he went to bed.
 
   Les *contes* des frères Grimm sont pleins de créatures magiques.
-  Die *Märchen* der Brüder Grimm sind voller magischer Kreaturen.
+  Brothers Grimm's fairy tales are full of magical creatures.
 
   Ce *conte* animalier enseigne aux enfants l'importance de l'amitié.
-  Dieses Tier*märchen* bringt Kindern die Bedeutung von Freundschaft bei.
+  This animal tale teaches children the importance of friendship.
 
   Le professeur nous a demandé d'écrire un *conte* littéraire pour le cours de français.
-  Der Lehrer hat uns gebeten, ein Kunst*märchen* für den Französischunterricht zu schreiben.
+  The professor asked us to write a literary tale for the French class.
 
   "Arrête de me raconter des *contes* à dormir debout !"
-  "Hör auf, mir solche *Märchen* zu erzählen!"
+  "Stop telling me *stories* when I'm sleeping up!"
 
   Les enfants écoutaient le *conte* fantastique avec des yeux émerveillés.
-  Die Kinder hörten dem fantastischen *Märchen* mit strahlenden Augen zu.
+  The children listened to the fantastic tale with astonished eyes.
 
   Dans ce *conte* philosophique, l'auteur critique la société moderne.
-  In diesem philosophischen *Märchen* kritisiert der Autor die moderne Gesellschaft.
+  In this philosophical tale, the author is critical of modern society.
 
   Le *conte* cruel se terminait par une fin inattendue.
-  Das grausame *Märchen* endete mit einem unerwarteten Schluss.
+  The cruel tale ended with an unexpected ending.
 
   Ce n'est pas un *conte*, c'est une histoire vraie !
-  Das ist kein *Märchen*, das ist eine wahre Geschichte!
+  It's not a fairy tale, it's a true story!
 
   Les *contes* de Perrault ont été traduits dans de nombreuses langues.
-  Perraults *Märchen* wurden in viele Sprachen übersetzt.
+  Perrault's short *stories* have been translated into many languages.
 
   Ma grand-mère connaissait des dizaines de *contes* traditionnels.
-  Meine Großmutter kannte Dutzende traditionelle *Märchen*.
+  My grandmother knew dozens of traditional fairy tales.
 
   Ce vieux *conte* populaire existe en plusieurs versions.
-  Dieses alte Volks*märchen* existiert in mehreren Versionen.
+  This old folk tale exists in several versions.
 
   Les *contes* humoristiques de cet auteur font rire petits et grands.
-  Die humorvollen *Märchen* dieses Autors bringen Groß und Klein zum Lachen.
+  This author's humorous *stories* make everyone laugh.
 
   Sophie a écrit un *conte* satirique sur la dépendance aux réseaux sociaux.
-  Sophie hat ein satirisches *Märchen* über die Abhängigkeit von sozialen Medien geschrieben.
+  Sophie wrote a satirical tale about social media addiction.
 
   Le nouveau film est basé sur un ancien *conte* oriental.
-  Der neue Film basiert auf einem alten orientalischen *Märchen*.
+  The new film is based on an old oriental tale.
 
   Ce *conte* réaliste aborde des thèmes sociaux importants.
-  Dieses realistische *Märchen* behandelt wichtige soziale Themen.
+  This realistic tale deals with important social themes.
 
   Les illustrations de ce *conte* pour enfants sont magnifiques.
-  Die Illustrationen in diesem Kinder*märchen* sind wunderschön.
+  The illustrations in this children's story are beautiful.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>histoire</i>, <i>récit</i> und <i>conte</i></div>
+    <div class="section-title"><i>histoire</i>, <i>récit</i> and <i>conte</i></div>
     <div class="section-content">
-      <p><span class="fr">Histoire</span> (#263) wird verwendet für verschiedene Arten von Geschichten, einschließlich historischer Ereignisse, Mythen, persönlicher Berichte oder fiktiver Erzählungen. Es kann auch spezifisch „Geschichte“ im Sinne der akademischen Disziplin oder tatsächlicher vergangener Ereignisse bedeuten.</p>
+      <p><span class="fr">Histoire</span> (#263) is used for various types of stories, including historical events, myths, personal accounts or fictional narratives.</p>
       <div class="examples">
         <div class="fr">L'histoire de la Révolution française est fascinante.</div>
-        <div class="de spoiler">Die Geschichte der Französischen Revolution ist faszinierend.</div>
+        <div class="de spoiler">The history of the French Revolution is fascinating.</div>
         <div class="fr">Mon grand-père aime raconter des histoires de sa jeunesse.</div>
-        <div class="de spoiler">Mein Großvater erzählt gerne Geschichten aus seiner Jugend.</div>
+        <div class="de spoiler">My grandfather likes to tell stories from his youth.</div>
       </div>
-      <p><span class="fr">Récit</span> (#2229) bezeichnet eine Erzählung oder einen Bericht von Ereignissen und betont den Akt des Erzählens oder Berichtens. Es kann fiktiv oder nicht-fiktiv sein und bietet oft mehr Details über Situationen oder Handlungen.</p>
+      <p><span class="fr">Récit</span> (#2229) refers to a narrative or account of events and emphasizes the act of telling or reporting. It can be fictional or non-fictional and often provides more detail about situations or actions.</p>
       <div class="examples">
         <div class="fr">Le récit de son voyage en Asie était captivant et plein de détails.</div>
-        <div class="de spoiler">Der Bericht über seine Reise durch Asien war fesselnd und voller Details.</div>
+        <div class="de spoiler">The account of his trip through Asia was captivating and full of details.</div>
         <div class="fr">Le témoignage qu'elle a donné au procès constituait un récit poignant et sincère des événements.</div>
-        <div class="de spoiler">Ihre Aussage vor Gericht war eine ergreifende und aufrichtige Schilderung der Ereignisse.</div>
+        <div class="de spoiler">Her testimony in court was a gripping and truthful account of the events.</div>
       </div>
-      <p><span class="fr">Conte</span> bezieht sich auf eine Erzählung, oft mit fantastischen Elementen. Es hat typischerweise eine klare Struktur mit Anfang, Mitte und Ende und vermittelt häufig eine moralische Botschaft. <b>Contes</b> sind besonders beliebt als Gute-Nacht-Geschichten für Kinder.</p>
+      <p><span class="fr">Conte</span> It typically has a clear structure with a beginning, middle and end and often conveys a moral message. <b>Contes</b> They're especially popular as good-night stories for kids.</p>
       <div class="examples">
         <div class="fr">Le Petit Chaperon Rouge est un conte populaire pour enfants.</div>
-        <div class="de spoiler">Rotkäppchen ist ein beliebtes Märchen für Kinder.</div>
+        <div class="de spoiler">Little Red Riding Hood is a popular children's fairy tale.</div>
         <div class="fr">Il inventait un conte chaque soir pour endormir ses enfants.</div>
-        <div class="de spoiler">Er erfand jeden Abend ein Märchen, um seine Kinder einschlafen zu lassen.</div>
+        <div class="de spoiler">He invented a fairy tale every night to put his children to sleep.</div>
       </div>
     </div>
   </div>

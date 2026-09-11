@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4095
 Wort: symptôme
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le symptôme
 Femininum / Plural: ''
 IPA: \sɛ̃p.tom\
-Definition: Symptom
+Definition: Symptoms of the disease
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *symptômes* se sont nettement aggravés.
-  Die *Symptome* haben sich deutlich verschlimmert.
+  The *symptoms* have worsened markedly.
 
   Son principal *symptôme* est une fatigue constante.
-  Sein wichtigstes *Symptom* ist eine anhaltende Müdigkeit.
+  His main symptom is constant fatigue.
 
   La montée des prix est un *symptôme* de l'inflation.
-  Der Preisanstieg ist ein *Anzeichen* für die Inflation.
+  Rising prices are a symptom of inflation.
 
   Le médecin lui a demandé de décrire tous ses *symptômes*.
-  Der Arzt bat sie, alle ihre *Symptome* zu beschreiben.
+  The doctor asked her to describe all her *symptoms*.
 
   La violence dans les rues est un *symptôme* du malaise social.
-  Die Gewalt auf den Straßen ist ein *Zeichen* des sozialen Unbehagens.
+  Violence in the streets is a symptom of social unrest.
 
   Ces *symptômes* allergiques apparaissent chaque printemps.
-  Diese allergischen *Symptome* treten jeden Frühling auf.
+  These allergic *symptoms* appear every spring.
 
   Les premiers *symptômes* de la maladie sont apparus hier soir.
-  Die ersten *Symptome* der Krankheit traten gestern Abend auf.
+  The first *symptoms* of the disease appeared last night.
 
   Le stress peut provoquer des *symptômes* physiques.
-  Stress kann körperliche *Symptome* verursachen.
+  Stress can cause physical *symptoms*.
 
   Cette toux est un *symptôme* typique de la bronchite.
-  Dieser Husten ist ein typisches *Symptom* der Bronchitis.
+  This cough is a typical symptom of bronchitis.
 
   Les *symptômes* avant-coureurs de la crise étaient évidents.
-  Die *Anzeichen* der kommenden Krise waren offensichtlich.
+  The warning *symptoms* of the crisis were obvious.
 
   Le patient présente des *symptômes* inquiétants depuis une semaine.
-  Der Patient zeigt seit einer Woche beunruhigende *Symptome*.
+  The patient has been experiencing worrisome *symptoms* for a week.
 
   Les *symptômes* du réchauffement climatique deviennent de plus en plus visibles.
-  Die *Anzeichen* der Klimaerwärmung werden immer sichtbarer.
+  The *symptoms* of global warming are becoming increasingly visible.
 
   Son irritabilité est un *symptôme* de fatigue chronique.
-  Seine Reizbarkeit ist ein *Symptom* chronischer Müdigkeit.
+  Her irritability is a symptom of chronic fatigue.
 
   Les médecins surveillent attentivement les *symptômes* du patient.
-  Die Ärzte überwachen sorgfältig die *Symptome* des Patienten.
+  Doctors carefully monitor the patient's *symptoms*.
 
   Ces comportements sont des *symptômes* d'une profonde anxiété.
-  Diese Verhaltensweisen sind *Anzeichen* tiefer Angst.
+  These behaviors are *symptoms* of deep anxiety.
 
   Le médecin a noté tous les *symptômes* objectifs dans le dossier.
-  Der Arzt notierte alle objektiven *Symptome* in der Akte.
+  The doctor noted all the objective *symptoms* in the file.
 
   La fièvre n'est qu'un *symptôme* parmi d'autres.
-  Das Fieber ist nur eines von vielen *Symptomen*.
+  Fever is just one of many *symptoms*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

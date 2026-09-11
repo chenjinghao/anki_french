@@ -1,124 +1,124 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1859
 Wort: strict
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: strict
 Femininum / Plural: stricte
 IPA: \stʁikt\
-Definition: strikt, streng
+Definition: strict; rigorous
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce serait son *strict* devoir.
-  Es wäre seine *strikte* Pflicht.
+  It would be his *strict* duty.
 
   Pendant le carême, il suit un régime *strict*.
-  Während der Fastenzeit hält er eine *strikte* Diät ein.
+  During Lent, he follows a *strict* diet.
 
   Elle a reçu une éducation très *stricte*.
-  Sie hat eine sehr *strenge* Erziehung genossen.
+  She got a very *strict* education.
 
   Le professeur est *strict* avec ses élèves.
-  Der Lehrer ist *streng* mit seinen Schülern.
+  The teacher is *strict* with his students.
 
   Dans la plus *stricte* intimité, ils se sont mariés hier.
-  Sie haben gestern im *engsten* Familienkreis geheiratet.
+  They were married yesterday in the *strictest privacy*.
 
   C'est la *stricte* vérité, je vous assure !
-  Das ist die *reine* Wahrheit, das versichere ich Ihnen!
+  It's the *strict* truth, I assure you!
 
   Les patients doivent respecter un isolement *strict*.
-  Die Patienten müssen eine *strikte* Isolation einhalten.
+  Patients must observe *strict* isolation.
 
   Elle portait une robe noire très *stricte*.
-  Sie trug ein sehr *streng geschnittenes* schwarzes Kleid.
+  She was wearing a very *strict* black dress.
 
   Au sens *strict* du terme, ce n'est pas correct.
-  Im *engeren* Sinne ist das nicht korrekt.
+  In the *strict* sense of the word, it's not right.
 
   Il faut observer une discipline *stricte*.
-  Man muss eine *strikte* Disziplin einhalten.
+  *Strict* discipline is required.
 
   Les horaires de travail sont très *stricts*.
-  Die Arbeitszeiten sind sehr *strikt*.
+  Working hours are very *strict*.
 
   Je me contente du *strict* minimum.
-  Ich begnüge mich mit dem *absoluten* Minimum.
+  I'm content with the *strict* minimum.
 
   La directrice est particulièrement *stricte* sur le règlement.
-  Die Direktorin nimmt es mit den Vorschriften besonders *streng*.
+  The Director is particularly *strict* about the regulations.
 
   Ces principes *stricts* nous protègent.
-  Diese *strengen* Prinzipien schützen uns.
+  These *strict* principles protect us.
 
   Il a toujours été *strict* dans sa gestion financière.
-  Er war in seiner Finanzverwaltung immer *strikt*.
+  He's always been *strict* about his financial management.
 
   Nous devons maintenir un contrôle *strict* des entrées.
-  Wir müssen eine *strikte* Kontrolle der Eingänge aufrechterhalten.
+  We must maintain *strict* control of the entrances.
 
   La *stricte* application de la loi est nécessaire.
-  Die *strikte* Anwendung des Gesetzes ist notwendig.
+  *Strict* enforcement of the law is necessary.
 
   Ses parents ont toujours été très *stricts*.
-  Seine Eltern waren immer sehr *streng*.
+  Her parents were always very *strict*.
 
   Elle garde une neutralité *stricte* dans ce conflit.
-  Sie bewahrt in diesem Konflikt *strikte* Neutralität.
+  It maintains *strict* neutrality in this conflict.
 
   Son allure *stricte* intimidait les visiteurs.
-  Seine *strenge* Erscheinung schüchterte die Besucher ein.
+  His *strict* pace intimidated the visitors.
 
   Il faut une interprétation *stricte* de ces règles.
-  Diese Regeln erfordern eine *strikte* Auslegung.
+  There is a need for a *strict* interpretation of these rules.
 
   Le règlement est devenu plus *strict* cette année.
-  Die Vorschriften sind dieses Jahr *strenger* geworden.
+  The regulations have become stricter this year.
 
   Cette école suit des principes très *stricts*.
-  Diese Schule folgt sehr *strengen* Prinzipien.
+  This school follows very *strict* principles.
 
   Une surveillance *stricte* sera mise en place.
-  Eine *strikte* Überwachung wird eingeführt werden.
+  *Strict* supervision will be put in place.
 
   Il porte toujours des costumes très *stricts*.
-  Er trägt immer sehr *streng geschnittene* Anzüge.
+  He always wears very *strict* costumes.
 
   La nouvelle loi impose des mesures plus *strictes*.
-  Das neue Gesetz führt *strengere* Maßnahmen ein.
+  The new law imposes stricter measures.
 
   Ils suivent un programme d'entraînement *strict*.
-  Sie folgen einem *strengen* Trainingsprogramm.
+  They follow a *strict* training program.
 
   Les conditions d'admission sont *strictes*.
-  Die Aufnahmebedingungen sind *streng*.
+  Admission requirements are strict.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>sévère</i> und <i>strict</i></div>
+    <div class="section-title"><i>sévère</i> and <i>strict</i></div>
     <div class="section-content">
-      <p><span class="fr">Sévère</span> (#1733) bedeutet <span class="de">"streng"</span> oder <span class="de">"hart"</span> und hat oft eine negative Konnotation von Härte oder mangelnder Nachsicht.</p>
+      <p><span class="fr">Sévère</span> #1733) means <span class="de">'Strictly'</span> or <span class="de">"hard"</span> and often has a negative connotation of harshness or lack of forgiveness.</p>
       <div class="examples">
         <div class="fr">Le professeur est très sévère avec les élèves qui arrivent en retard.</div>
-        <div class="de spoiler">Der Lehrer ist sehr streng mit Schülern, die zu spät kommen.</div>
+        <div class="de spoiler">The teacher is very strict with students who are late.</div>
         <div class="fr">Elle a reçu une punition sévère pour sa faute.</div>
-        <div class="de spoiler">Sie erhielt eine harte Strafe für ihren Fehler.</div>
+        <div class="de spoiler">She was severely punished for her mistake.</div>
       </div>
-      <p><span class="fr">Strict</span> bedeutet <span class="de">"strikt"</span> oder <span class="de">"genau"</span> und bezieht sich auf die genaue Einhaltung von Regeln oder Vorschriften.</p>
+      <p><span class="fr">Strict</span> means <span class="de">'Strictly'</span> or <span class="de">"exactly"</span> and refers to the precise observance of rules or regulations.</p>
       <div class="examples">
         <div class="fr">Il respecte les règles de façon stricte.</div>
-        <div class="de spoiler">Er hält sich strikt an die Regeln.</div>
+        <div class="de spoiler">He adheres strictly to the rules.</div>
         <div class="fr">Au sens strict du terme, ce n'est pas correct.</div>
-        <div class="de spoiler">Im strengen Sinne des Wortes ist das nicht korrekt.</div>
+        <div class="de spoiler">In the strict sense of the word, this is not correct.</div>
       </div>
     </div>
   </div>

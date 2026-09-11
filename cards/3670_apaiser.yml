@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3670
 Wort: apaiser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: apaiser
 Femininum / Plural: ''
 IPA: \a.pe.ze\
-Definition: besänftigen, beruhigen
+Definition: Reassuring
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Officiellement, les tensions s'*apaisent*.
-  Offiziell *legen* sich die Spannungen.
+  Officially, the tensions have eased.
 
   Les médicaments ont *apaisé* sa douleur.
-  Die Medikamente haben seinen Schmerz *gelindert*.
+  The medication relieved her pain.
 
   La musique douce *apaise* l'esprit.
-  Sanfte Musik *beruhigt* den Geist.
+  Sweet music calms the mind.
 
   Il faut *apaiser* sa curiosité avant de partir.
-  Man muss seine Neugier *stillen*, bevor man geht.
+  We need to calm his curiosity before we leave.
 
   Le temps a finalement *apaisé* sa colère.
-  Die Zeit hat seinen Zorn schließlich *gedämpft*.
+  Time finally calmed his anger.
 
   Cette explication a *apaisé* mes craintes.
-  Diese Erklärung hat meine Ängste *zerstreut*.
+  That explanation calmed my fears.
 
   Les anciens faisaient des offrandes pour *apaiser* les dieux.
-  Die Alten brachten Opfer dar, um die Götter *versöhnlich zu stimmen*.
+  The elders offered sacrifices to appease the gods.
 
   Après quelques minutes, l'enfant s'est *apaisé*.
-  Nach ein paar Minuten hat sich das Kind *beruhigt*.
+  After a few minutes, the child *calmed down*.
 
   La douleur s'est *apaisée* pendant la nuit.
-  Der Schmerz hat während der Nacht *nachgelassen*.
+  The pain *calmed down* during the night.
 
   Peu à peu, la tempête s'*apaise*.
-  Nach und nach *legt* sich der Sturm.
+  Little by little, the storm is calming down.
 
   Le professeur essaie d'*apaiser* les esprits dans sa classe.
-  Der Lehrer versucht, die Gemüter in seiner Klasse zu *beruhigen*.
+  The teacher tries to calm the minds of his class.
 
   Ces mots ont *apaisé* les rancœurs entre les deux familles.
-  Diese Worte haben die Verbitterung zwischen den beiden Familien *gemildert*.
+  Those words calmed the resentment between the two families.
 
   Il a mangé un sandwich pour *apaiser* sa faim.
-  Er hat ein Sandwich gegessen, um seinen Hunger zu *stillen*.
+  He ate a sandwich to quench his hunger.
 
   Une conversation franche a *apaisé* la querelle.
-  Ein offenes Gespräch hat den Streit *beigelegt*.
+  A frank conversation settled the quarrel.
 
   Le malade s'*apaise* grâce aux médicaments.
-  Der Kranke *beruhigt* sich dank der Medikamente.
+  The patient calms down with medication.
 
   Les parents ont réussi à *apaiser* leur bébé qui pleurait.
-  Die Eltern haben es geschafft, ihr weinendes Baby zu *beruhigen*.
+  The parents were able to soothe their crying baby.
 
   Cette bonne nouvelle a *apaisé* mon inquiétude.
-  Diese gute Nachricht hat meine Sorgen *zerstreut*.
+  That good news calmed my anxiety.
 
   Un verre d'eau fraîche *apaise* la soif.
-  Ein Glas frisches Wasser *stillt* den Durst.
+  A glass of cold water will quench your thirst.
 
   Les manifestations se sont *apaisées* après l'annonce du gouvernement.
-  Die Demonstrationen haben sich nach der Ankündigung der Regierung *gelegt*.
+  The protests have *calmed down* after the government's announcement.
 
   La mer s'*apaise* au coucher du soleil.
-  Das Meer *beruhigt* sich bei Sonnenuntergang.
+  The sea calms down at sunset.
 
   Le temps *apaise* toutes les blessures.
-  Die Zeit *heilt* alle Wunden.
+  Time soothes all wounds.
 
   Un câlin maternel *apaise* souvent les peurs des enfants.
-  Eine mütterliche Umarmung *beruhigt* oft die Ängste der Kinder.
+  A mother's hug often calms children's fears.
 
   Elle boit une tisane pour *apaiser* ses nerfs avant l'examen.
-  Sie trinkt einen Kräutertee, um ihre Nerven vor der Prüfung zu *beruhigen*.
+  She drinks a teaspoon to calm her nerves before the exam.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

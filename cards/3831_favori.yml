@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3831
 Wort: favori
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le favori
 Femininum / Plural: favorite
 IPA: \fa.vɔ.ʁi\
-Definition: Favorit
+Definition: My favourite
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *favori* a gagné. Nous le félicitons.
-  Der *Favorit* hat gewonnen. Wir gratulieren ihm.
+  The *favourite* has won, we congratulate him.
 
   Tu es mon *favori* parmi tous mes élèves.
-  Du bist mein *Liebling* von allen meinen Schülern.
+  You're my favorite of all my students.
 
   La cuisine italienne est sa cuisine *favorite*.
-  Die italienische Küche ist seine *Lieblings*küche.
+  Italian cuisine is his *favorite*.
 
   J'ai ajouté ce site dans mes *favoris* pour le retrouver plus tard.
-  Ich habe diese Seite zu meinen *Lesezeichen* hinzugefügt, um sie später wiederzufinden.
+  I added this site to my favorites so I could find it later.
 
   Le Real Madrid est considéré comme le grand *favori* de la Ligue des Champions.
-  Real Madrid gilt als der große *Favorit* der Champions League.
+  Real Madrid is considered the biggest *favourite* of the Champions League.
 
   La lecture est son occupation *favorite* depuis son enfance.
-  Lesen ist seit seiner Kindheit seine *Lieblings*beschäftigung.
+  Reading has been her *favorite* occupation since childhood.
 
   Il porte toujours son t-shirt *favori* le week-end.
-  Er trägt am Wochenende immer sein *Lieblings*shirt.
+  He always wears his favorite t-shirt on weekends.
 
   Dans les années 1960, beaucoup d'hommes portaient des *favoris*.
-  In den 1960er Jahren trugen viele Männer *Koteletten*.
+  In the 1960's, many men wore favorites.
 
   Le café du coin est devenu notre restaurant *favori*.
-  Das Café an der Ecke ist unser *Lieblings*restaurant geworden.
+  The local coffee shop has become our favorite restaurant.
 
   Les critiques considèrent ce film comme le *favori* pour les Oscars.
-  Die Kritiker sehen diesen Film als *Favoriten* für die Oscars.
+  Critics consider this film a favorite for the Oscars.
 
   Cette chanson est rapidement devenue ma mélodie *favorite*.
-  Dieses Lied wurde schnell zu meiner *Lieblings*melodie.
+  That song quickly became my *favorite* tune.
 
   Le cheval *favori* de la course n'a pas gagné aujourd'hui.
-  Das *Favoriten*pferd hat heute das Rennen nicht gewonnen.
+  The race's favorite horse didn't win today.
 
   La plage est leur destination *favorite* pour les vacances.
-  Der Strand ist ihr *Lieblings*ziel für den Urlaub.
+  The beach is their *favorite* vacation destination.
 
   Le jazz est son genre musical *favori*.
-  Jazz ist sein *Lieblings*musikgenre.
+  Jazz is his favorite musical genre.
 
   Cette équipe part *favorite* pour le championnat.
-  Diese Mannschaft geht als *Favoritin* in die Meisterschaft.
+  This team is a *favorite* for the championship.
 
   Le chocolat noir reste son dessert *favori*.
-  Dunkle Schokolade bleibt sein *Lieblings*dessert.
+  Black chocolate is still his favorite dessert.
 
   Paul est le *favori* de sa grand-mère depuis toujours.
-  Paul ist schon immer der *Liebling* seiner Großmutter.
+  Paul's always been his grandmother's favorite.
 
   Le parc municipal est leur lieu de rendez-vous *favori*.
-  Der Stadtpark ist ihr *Lieblings*treffpunkt.
+  The city park is their favorite meeting place.
 
   Cette application se trouve dans mes *favoris* depuis des mois.
-  Diese App ist seit Monaten in meinen *Lesezeichen*.
+  This app has been one of my favorites for months.
 
   Les roses sont ses fleurs *favorites*.
-  Rosen sind ihre *Lieblings*blumen.
+  Roses are her favorite flowers.
 
   Mon moment *favori* de la journée, c'est le petit-déjeuner.
-  Das Frühstück ist meine *Lieblings*zeit des Tages.
+  My favorite time of day is breakfast.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

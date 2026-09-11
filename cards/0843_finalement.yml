@@ -1,89 +1,89 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 843
 Wort: finalement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: finalement
 Femininum / Plural: ''
 IPA: \fi.nal.mɑ̃\
-Definition: schließlich, letztendlich
+Definition: Finally, in the end
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Finalement*, la porte s'ouvrit.
-  *Schließlich* öffnete sich die Tür.
+  Finally, the door opened.
 
   *Finalement*, après trois heures d'attente, le train est arrivé.
-  *Letztendlich* kam der Zug nach drei Stunden Wartezeit an.
+  Finally, after three hours of waiting, the train arrived.
 
   Elle a *finalement* accepté notre proposition hier soir.
-  Sie hat gestern Abend *schließlich* unserem Vorschlag zugestimmt.
+  She *finally* accepted our offer last night.
 
   *Finalement*, je ne regrette pas d'avoir fait ce choix.
-  *Letzten Endes* bereue ich diese Entscheidung nicht.
+  In the end, I don't regret making that choice.
 
   J'ai *finalement* trouvé les clés sous le tapis.
-  Ich habe die Schlüssel *endlich* unter der Fußmatte gefunden.
+  I *finally* found the keys under the carpet.
 
   *Finalement*, qu'est-ce que tu en penses ?
-  Was denkst du *letztlich* darüber?
+  Finally, what do you think?
 
   Cette solution s'est *finalement* révélée être la meilleure.
-  Diese Lösung hat sich *schlussendlich* als die beste erwiesen.
+  This ultimately proved to be the best solution.
 
   Les enfants se sont *finalement* endormis vers minuit.
-  Die Kinder sind *schließlich* gegen Mitternacht eingeschlafen.
+  The children *finally* fell asleep around midnight.
 
   *Finalement*, nous avons dû annuler nos vacances.
-  Wir mussten unseren Urlaub *letztendlich* absagen.
+  Eventually, we had to cancel our vacation.
 
   Il a *finalement* réussi son examen de conduite à la troisième tentative.
-  Er hat seine Führerscheinprüfung beim dritten Versuch *endlich* bestanden.
+  He *finally* passed his driving test on the third attempt.
 
   *Finalement*, ce n'était pas si difficile que ça.
-  Es war *letzten Endes* gar nicht so schwierig.
+  In the end, it wasn't that hard.
 
   Vas-tu *finalement* nous dire la vérité ?
-  Wirst du uns *endlich* die Wahrheit sagen?
+  Are you *finally* going to tell us the truth?
 
   Elle est *finalement* rentrée à la maison après une longue journée.
-  Sie ist nach einem langen Tag *schließlich* nach Hause gekommen.
+  She *finally* came home after a long day.
 
   *Finalement*, tout s'est bien passé.
-  *Letztlich* ist alles gut gegangen.
+  Eventually, it all worked out.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>finalement</i> und <i>enfin</i></div>
+    <div class="section-title"><i>finalement</i> and <i>enfin</i></div>
     <div class="section-content">
-      <p><span class="fr">Finalement</span> bedeutet <span class="de">"schließlich"</span> oder <span class="de">"letztendlich"</span> und impliziert oft ein unerwartetes Ergebnis oder eine Meinungsänderung.</p>
+      <p><span class="fr">Finalement</span> means <span class="de">"Finally"</span> or <span class="de">'Finally'</span> and often implies an unexpected outcome or a change of opinion.</p>
       <div class="examples">
         <div class="fr">Puis finalement j'ai compris que c'était pour mon bien.</div>
-        <div class="de spoiler">Dann habe ich schließlich verstanden, dass es zu meinem Besten war.</div>
+        <div class="de spoiler">Then I finally realized it was for my own good.</div>
         <div class="fr">Alors demain, finalement, on ira pas au château.</div>
-        <div class="de spoiler">Also morgen werden wir letztendlich nicht zum Schloss gehen.</div>
+        <div class="de spoiler">So tomorrow we're not going to the castle.</div>
       </div>
-      <p><span class="fr">Enfin</span> (#349) bedeutet ebenfalls <span class="de">"endlich"</span> oder <span class="de">"schließlich"</span>, impliziert aber oft ein erwartetes oder ersehntes Ergebnis.</p>
+      <p><span class="fr">Enfin</span> (#349) also means <span class="de">"Finally"</span> or <span class="de">"Finally"</span>However, it often implies an expected or anticipated outcome.</p>
       <div class="examples">
         <div class="fr">Le grand jour est enfin arrivé.</div>
-        <div class="de spoiler">Der große Tag ist endlich gekommen.</div>
+        <div class="de spoiler">The big day has finally come.</div>
         <div class="fr">Je suis enchanté(e) de vous rencontrer enfin.</div>
-        <div class="de spoiler">Ich freue mich, Sie endlich kennenzulernen.</div>
+        <div class="de spoiler">It's nice to finally meet you.</div>
       </div>
-      <p><span class="fr">Enfin</span> wird in der Umgangssprache auch als Füllwort verwendet und kann je nach Kontext <span class="de">"nun"</span>, <span class="de">"also"</span> oder <span class="de">"ich meine"</span> bedeuten:</p>
+      <p><span class="fr">Enfin</span> It is also used as a filling word in the colloquial language and can be used depending on the context. <span class="de">"now"</span>, <span class="de">"so"</span> or <span class="de">"I mean"</span> means:</p>
       <div class="examples">
         <div class="fr">Oui, enfin, non, euh... quelques-uns, quoi.</div>
-        <div class="de spoiler">Ja, also, nein, äh... ein paar, weißt du.</div>
+        <div class="de spoiler">Yeah, well, no, uh... a few, you know.</div>
         <div class="fr">Mais enfin, relève-toi!</div>
-        <div class="de spoiler">Nun komm schon, steh auf!</div>
+        <div class="de spoiler">Now come on, get up!</div>
       </div>
     </div>
   </div>

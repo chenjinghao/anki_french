@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4466
 Wort: répliquer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: répliquer
 Femininum / Plural: ''
 IPA: \ʁe.pli.ke\
-Definition: erwidern, entgegnen
+Definition: to reply
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'orateur *répliqua* que c'était presque fait.
-  Der Redner *erwiderte*, dass es fast fertig sei.
+  The speaker replied that it was almost done.
 
   « Je ne veux plus que tu me *répliques* comme ça ! »
-  "Ich will nicht, dass du mir so *widersprichst*!"
+  I don't want you to answer me like that anymore!
 
   Il n'a pas osé *répliquer* quand son patron l'a critiqué.
-  Er wagte nicht zu *protestieren*, als sein Chef ihn kritisierte.
+  He didn't dare respond when his boss criticized him.
 
   Les scientifiques ont réussi à *répliquer* l'ADN en laboratoire.
-  Den Wissenschaftlern gelang es, die DNA im Labor zu *replizieren*.
+  Scientists have succeeded in replicating DNA in a lab.
 
   Elle a immédiatement *répliqué* à cette attaque verbale.
-  Sie hat auf diesen verbalen Angriff sofort *reagiert*.
+  She immediately responded to the verbal attack.
 
   Sans *répliquer*, il a accepté toutes les conditions du contrat.
-  Ohne zu *widersprechen* hat er alle Vertragsbedingungen akzeptiert.
+  Without *answering*, he accepted all the terms of the contract.
 
   L'armée a *répliqué* aux tirs ennemis dans la nuit.
-  Das Militär hat in der Nacht auf den feindlichen Beschuss *geantwortet*.
+  The army responded to enemy fire in the night.
 
   Que pouvait-elle *répliquer* face à ces accusations ?
-  Was konnte sie auf diese Anschuldigungen *erwidern*?
+  How could she respond to these accusations?
 
   Il *répliqua* du tac au tac à cette remarque désobligeante.
-  Er *konterte* sofort auf diese unhöfliche Bemerkung.
+  He responded tactlessly to that derogatory remark.
 
   Le virus peut se *répliquer* rapidement dans les cellules.
-  Das Virus kann sich in den Zellen schnell *vermehren*.
+  The virus can replicate quickly in cells.
 
   Je lui ai *répliqué* que ce n'était pas mon problème.
-  Ich habe ihm *entgegnet*, dass das nicht mein Problem sei.
+  I told him it wasn't my problem.
 
   Les diplomates ont *répliqué* en expulsant trois ambassadeurs.
-  Die Diplomaten haben mit der Ausweisung von drei Botschaftern *reagiert*.
+  The diplomats responded by expelling three ambassadors.
 
   Sophie *répliqua* avec impertinence à sa grand-mère.
-  Sophie *antwortete* ihrer Großmutter vorlaut.
+  Sophie answered her grandmother with impudence.
 
   « Non, ce n'est pas vrai ! », *répliqua-t-il* fermement.
-  "Nein, das stimmt nicht!", *entgegnete* er bestimmt.
+  "No, it's not true! " he said firmly.
 
   Cet enfant *réplique* toujours quand on lui donne un ordre.
-  Dieses Kind *widerspricht* immer, wenn man ihm einen Befehl gibt.
+  This kid always responds when he's given an order.
 
   Notre avocat va *répliquer* à leurs arguments demain.
-  Unser Anwalt wird morgen auf ihre Argumente *antworten*.
+  Our lawyer will answer their arguments tomorrow.
 
   Elle n'admet pas qu'on lui *réplique*.
-  Sie duldet nicht, dass man ihr *widerspricht*.
+  She won't let anyone answer her.
 
   Le gouvernement a *répliqué* par des sanctions économiques.
-  Die Regierung hat mit Wirtschaftssanktionen *geantwortet*.
+  The government responded by imposing economic sanctions.
 
   Je ne savais pas quoi lui *répliquer* après cette révélation.
-  Ich wusste nicht, was ich ihm nach dieser Enthüllung *erwidern* sollte.
+  I didn't know what to say to him after that revelation.
 
   Les cellules doivent *répliquer* leur matériel génétique avant la division.
-  Die Zellen müssen vor der Teilung ihr genetisches Material *verdoppeln*.
+  Cells must replicate their genetic material before they divide.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

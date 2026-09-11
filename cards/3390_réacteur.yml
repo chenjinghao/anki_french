@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3390
 Wort: réacteur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le réacteur
 Femininum / Plural: ''
 IPA: \ʁe.ak.tœʁ\
-Definition: Reaktor
+Definition: Reactors
 Register: ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le conduit mène directement au *réacteur*.
-  Die Leitung führt direkt zum *Reaktor*.
+  The conduit leads directly to the *reactor*.
 
   Les ingénieurs ont conçu un nouveau type de *réacteur* nucléaire.
-  Die Ingenieure haben einen neuen Typ von Kern*reaktor* entwickelt.
+  Engineers have designed a new type of nuclear *reactor*.
 
   La sécurité du *réacteur* est notre principale préoccupation.
-  Die *Reaktor*sicherheit ist unsere wichtigste Sorge.
+  The safety of the *reactor* is our main concern.
 
   Un des *réacteurs* de l'avion a pris feu pendant le vol.
-  Eines der *Triebwerke* des Flugzeugs fing während des Flugs Feuer.
+  One of the aircraft's *reactors* caught fire during the flight.
 
   La centrale électrique dispose de quatre *réacteurs* en activité.
-  Das Kraftwerk verfügt über vier aktive *Reaktoren*.
+  The power plant has four active *reactors*.
 
   Les techniciens surveillent constamment la température du *réacteur*.
-  Die Techniker überwachen ständig die *Reaktor*temperatur.
+  Technicians are constantly monitoring the *reactor*'s temperature.
 
   Le *réacteur* chimique permet de contrôler précisément la réaction.
-  Der chemische *Reaktor* ermöglicht eine präzise Kontrolle der Reaktion.
+  The chemical *reactor* allows the reaction to be precisely controlled.
 
   Les anciens *réacteurs* utilisaient du plutonium comme combustible.
-  Die alten *Reaktoren* verwendeten Plutonium als Brennstoff.
+  Ancient *reactors* used plutonium as fuel.
 
   La fusion se produit au cœur du *réacteur* thermonucléaire.
-  Die Fusion findet im Kern des thermonuklearen *Reaktors* statt.
+  The fusion occurs at the core of the thermonuclear *reactor*.
 
   Un problème technique a forcé l'arrêt du *réacteur*.
-  Ein technisches Problem zwang zur Abschaltung des *Reaktors*.
+  A technical problem forced the *reactor* to shut down.
 
   Le pilote a dû couper le *réacteur* droit après le décollage.
-  Der Pilot musste das rechte *Triebwerk* nach dem Start abschalten.
+  The pilot must have cut off the *reactor* right after takeoff.
 
   Les scientifiques étudient un nouveau modèle de *réacteur* à fusion.
-  Die Wissenschaftler untersuchen ein neues Fusions*reaktor*modell.
+  Scientists are studying a new fusion *reactor* model.
 
   La maintenance des *réacteurs* est effectuée tous les six mois.
-  Die Wartung der *Reaktoren* wird alle sechs Monate durchgeführt.
+  Maintenance of the *reactors* shall be carried out every six months.
 
   Le bruit des *réacteurs* de l'avion était assourdissant.
-  Der Lärm der *Triebwerke* des Flugzeugs war ohrenbetäubend.
+  The noise from the aircraft's *reactors* was deafening.
 
   Les tests du nouveau *réacteur* ont donné des résultats prometteurs.
-  Die Tests des neuen *Reaktors* haben vielversprechende Ergebnisse geliefert.
+  The tests of the new *reactor* gave promising results.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

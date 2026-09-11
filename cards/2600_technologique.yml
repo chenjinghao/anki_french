@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2600
 Wort: technologique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: technologique
 Femininum / Plural: ''
 IPA: \tɛk.nɔ.lɔ.ʒik\
-Definition: technologisch
+Definition: technological
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il en résultera un influx *technologique*.
-  Daraus wird sich ein *technologischer* Fortschritt ergeben.
+  The result will be an influx of *technology*.
 
   Le parc *technologique* de la ville attire de nombreuses entreprises innovantes.
-  Der *Technologie*park der Stadt zieht viele innovative Unternehmen an.
+  The city's *technology* park attracts many innovative companies.
 
   Les avancées *technologiques* ont révolutionné notre façon de communiquer.
-  Die *technologischen* Fortschritte haben unsere Art zu kommunizieren revolutioniert.
+  Advances in *technology* have revolutionized the way we communicate.
 
   Ce centre *technologique* est spécialisé dans la recherche sur l'intelligence artificielle.
-  Dieses *Technologie*zentrum ist auf die Erforschung künstlicher Intelligenz spezialisiert.
+  This *technology* centre specializes in artificial intelligence research.
 
   L'évolution *technologique* s'accélère d'année en année.
-  Die *technologische* Entwicklung beschleunigt sich von Jahr zu Jahr.
+  Technological developments are accelerating from year to year.
 
   Notre dépendance *technologique* devient de plus en plus préoccupante.
-  Unsere *technologische* Abhängigkeit wird zunehmend besorgniserregender.
+  Our dependence on *technology* is becoming increasingly worrying.
 
   Le développement *technologique* doit aller de pair avec le progrès social.
-  Die *technologische* Entwicklung muss mit dem sozialen Fortschritt Hand in Hand gehen.
+  Technological development must go hand in hand with social progress.
 
   Les innovations *technologiques* ont transformé le secteur médical.
-  Die *technologischen* Innovationen haben den medizinischen Sektor verändert.
+  Technological innovations have transformed the medical sector.
 
   Le transfert *technologique* entre les universités et l'industrie s'intensifie.
-  Der *Technologie*transfer zwischen Universitäten und Industrie verstärkt sich.
+  The transfer of *technology* between universities and industry is intensifying.
 
   La révolution *technologique* a créé de nouveaux métiers.
-  Die *technologische* Revolution hat neue Berufe geschaffen.
+  The technological revolution has created new jobs.
 
   Le gap *technologique* entre les pays se réduit progressivement.
-  Die *technologische* Kluft zwischen den Ländern verringert sich allmählich.
+  The technological gap between countries is gradually narrowing.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3543
 Wort: prénom
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le prénom
 Femininum / Plural: ''
 IPA: \pʁe.nɔ̃\
-Definition: Vorname
+Definition: First name
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il appelle les journalistes par leur *prénom*.
-  Er spricht die Journalisten mit ihrem *Vornamen* an.
+  He calls reporters by their first names.
 
   Mon *prénom usuel* est Chris, mais je m'appelle Christopher.
-  Mein *Rufname* ist Chris, aber ich heiße Christopher.
+  My usual name is Chris, but my name is Christopher.
 
   Je ne me souviens plus de son *prénom*.
-  Ich kann mich nicht mehr an ihren *Vornamen* erinnern.
+  I can't remember her *first name*.
 
   Les parents ont choisi un *prénom* original pour leur fille.
-  Die Eltern haben einen ausgefallenen *Vornamen* für ihre Tochter gewählt.
+  The parents chose an original name for their daughter.
 
   En France, on ne peut pas donner n'importe quel *prénom* à son enfant.
-  In Frankreich darf man seinem Kind nicht jeden beliebigen *Vornamen* geben.
+  In France, you can't give your child any name.
 
   Son *prénom* figure sur la liste des invités.
-  Ihr *Vorname* steht auf der Gästeliste.
+  Her name is on the guest list.
 
   Dans certaines cultures, le *prénom* est placé après le nom de famille.
-  In manchen Kulturen steht der *Vorname* nach dem Familiennamen.
+  In some cultures, the *first name* is placed after the family name.
 
   Le *prénom* Claude peut être utilisé pour une fille ou un garçon.
-  Der *Vorname* Claude kann für ein Mädchen oder einen Jungen verwendet werden.
+  The *first name* Claude can be used for a girl or a boy.
 
   Elle a trois *prénoms*, mais utilise seulement le premier.
-  Sie hat drei *Vornamen*, benutzt aber nur den ersten.
+  She's got three names, but she only uses the first one.
 
   Mon grand-père a reçu ce *prénom* lors de son baptême.
-  Mein Großvater erhielt diesen *Vornamen* bei seiner Taufe.
+  My grandfather got that name when he got baptized.
 
   Les élèves doivent écrire leur *prénom* sur leurs cahiers.
-  Die Schüler müssen ihren *Vornamen* auf ihre Hefte schreiben.
+  Students must write their *first name* on their notebooks.
 
   Quel joli *prénom* vous avez !
-  Was für einen schönen *Vornamen* Sie haben!
+  What a lovely name you have .
 
   Dans l'Antiquité romaine, le *prénom* servait à distinguer les membres d'une même famille.
-  Im antiken Rom diente der *Vorname* dazu, die Mitglieder einer Familie zu unterscheiden.
+  In ancient Rome, the *first name* was used to distinguish members of the same family.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

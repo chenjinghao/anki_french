@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1192
 Wort: université
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une université
 Femininum / Plural: ''
 IPA: \y.ni.vɛʁ.si.te\
-Definition: Universität
+Definition: University of the Netherlands
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La grève se généralise dans les *universités*.
-  Der Streik breitet sich an den *Universitäten* aus.
+  The strike is widespread in *universities*.
 
   L'*université* de Paris est l'une des plus anciennes d'Europe.
-  Die *Universität* von Paris ist eine der ältesten in Europa.
+  The University of Paris is one of the oldest in Europe.
 
   Les frais d'inscription à l'*université* privée sont très élevés.
-  Die Studiengebühren an der privaten *Universität* sind sehr hoch.
+  The cost of enrolling in a private university is very high.
 
   Paul travaille comme professeur à l'*université* depuis vingt ans.
-  Paul arbeitet seit zwanzig Jahren als Professor an der *Universität*.
+  Paul has been a professor at the university for twenty years.
 
   L'*université* d'été sur le changement climatique commence lundi prochain.
-  Die Sommer*universität* zum Klimawandel beginnt nächsten Montag.
+  The summer *college* on climate change starts next Monday.
 
   Le nouveau bâtiment de l'*université* sera inauguré en septembre.
-  Das neue Gebäude der *Universität* wird im September eingeweiht.
+  The new university building will be inaugurated in September.
 
   Marie a choisi cette *université* pour sa réputation en recherche.
-  Marie hat diese *Universität* wegen ihres Forschungsrufs gewählt.
+  Marie chose this university for her reputation in research.
 
   L'*université* propose désormais des cours en ligne.
-  Die *Universität* bietet jetzt Online-Kurse an.
+  The university now offers online courses.
 
   Le personnel de l'*université* manifeste pour de meilleures conditions de travail.
-  Das Personal der *Universität* demonstriert für bessere Arbeitsbedingungen.
+  The staff at the university are protesting for better working conditions.
 
   Les étudiants de l'*université* organisent un festival culturel.
-  Die Studierenden der *Universität* organisieren ein Kulturfestival.
+  The university students are organizing a cultural festival.
 
   L'*université* a signé un accord d'échange avec plusieurs pays.
-  Die *Universität* hat ein Austauchabkommen mit mehreren Ländern unterzeichnet.
+  The university has signed an exchange agreement with several countries.
 
   Le recteur dirige l'*université* depuis trois ans.
-  Der Rektor leitet die *Universität* seit drei Jahren.
+  The rector has been running the university for three years.
 
   Cette *université* est réputée pour sa faculté de médecine.
-  Diese *Universität* ist bekannt für ihre medizinische Fakultät.
+  This university is renowned for its medical faculty.
 
   Les bibliothèques de l'*université* sont ouvertes 24 heures sur 24.
-  Die Bibliotheken der *Universität* sind rund um die Uhr geöffnet.
+  The university libraries are open 24 hours a day.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

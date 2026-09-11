@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4970
 Wort: interaction
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une interaction
 Femininum / Plural: ''
 IPA: \ɛ̃.tɛ.ʁak.sjɔ̃\
-Definition: Wechselwirkung
+Definition: Interaction
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On est en *interaction* avec les membres de l'équipe des émissions.
-  Wir stehen in *Wechselwirkung* mit den Mitgliedern des Sendungsteams.
+  We're interacting with members of the broadcast team.
 
   Les *interactions* sociales sont essentielles pour le développement de l'enfant.
-  Soziale *Wechselwirkungen* sind für die Entwicklung des Kindes wichtig.
+  Social *interactions* are essential for the child's development.
 
   L'*interaction* entre l'eau et le sel produit une solution.
-  Die *Wechselwirkung* zwischen Wasser und Salz erzeugt eine Lösung.
+  The *interaction* between water and salt produces a solution.
 
   Cette nouvelle application permet une meilleure *interaction* avec les utilisateurs.
-  Diese neue App ermöglicht eine bessere *Interaktion* mit den Nutzern.
+  This new app enables better *interaction* with users.
 
   L'*interaction* électromagnétique joue un rôle fondamental dans notre univers.
-  Die elektromagnetische *Wechselwirkung* spielt eine grundlegende Rolle in unserem Universum.
+  Electromagnetic *interaction* plays a fundamental role in our universe.
 
   Les chercheurs étudient l'*interaction* des médicaments entre eux.
-  Die Forscher untersuchen die *Wechselwirkung* der Medikamente untereinander.
+  Researchers are studying how drugs interact with each other.
 
   Il existe une forte *interaction* entre le climat et la végétation.
-  Es besteht eine starke *Wechselwirkung* zwischen Klima und Vegetation.
+  There is a strong *interaction* between climate and vegetation.
 
   L'*interaction* forte maintient la cohésion des noyaux atomiques.
-  Die starke *Wechselwirkung* hält die Atomkerne zusammen.
+  The strong *interaction* maintains the cohesion of atomic nuclei.
 
   Les *interactions* entre les élèves favorisent l'apprentissage.
-  Die *Wechselwirkungen* zwischen den Schülern fördern das Lernen.
+  *Interactions* between pupils promote learning.
 
   Cette exposition permet une *interaction* directe avec les œuvres d'art.
-  Diese Ausstellung ermöglicht eine direkte *Interaktion* mit den Kunstwerken.
+  This exhibition enables direct *interaction* with works of art.
 
   L'*interaction* des forces naturelles façonne notre planète.
-  Das *Zusammenspiel* der Naturkräfte formt unseren Planeten.
+  The *interaction* of natural forces shapes our planet.
 
   Les *interactions* entre l'économie et la politique sont complexes.
-  Die *Wechselwirkungen* zwischen Wirtschaft und Politik sind komplex.
+  The *interactions* between economics and politics are complex.
 
   Cette expérience montre l'*interaction* entre la lumière et la matière.
-  Dieses Experiment zeigt die *Wechselwirkung* zwischen Licht und Materie.
+  This experiment shows the *interaction* between light and matter.
 
   Le jeu vidéo propose de nombreuses *interactions* avec l'environnement.
-  Das Videospiel bietet zahlreiche *Interaktionen* mit der Umgebung.
+  Video games have many *interactions* with the environment.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

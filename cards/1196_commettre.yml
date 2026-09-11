@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1196
 Wort: commettre
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: commettre
 Femininum / Plural: ''
 IPA: \kɔ.mɛtʁ\
-Definition: begehen, verüben
+Definition: to commit
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez *commis* presque tous les crimes informatiques.
-  Sie haben fast alle Computerverbrechen *begangen*.
+  You've *committed* almost every cybercrime.
 
   Il a *commis* un délit dans l'exercice de sa fonction.
-  Er hat im Dienst ein Amtsdelikt *begangen*.
+  He *committed* a crime in the line of duty.
 
   Elle s'est *commise* avec des personnes louches.
-  Sie hat sich mit zweifelhaften Personen *eingelassen*.
+  She *committed* it with shady people.
 
   "Il a encore *commis* un roman médiocre !"
-  "Er hat schon wieder einen mittelmäßigen Roman *verbrochen*!"
+  "He wrote another poor novel!"
 
   Les agressions se *commettent* surtout la nuit.
-  Die Übergriffe werden vor allem nachts *begangen*.
+  Attacks are most often committed at night.
 
   Le juge l'a *commis* d'office pour défendre l'accusé.
-  Der Richter hat ihn als Pflichtverteidiger für den Angeklagten *bestellt*.
+  The judge commissioned him to defend the accused.
 
   Ne vous *commettez* pas avec ces gens méprisables.
-  *Lassen* Sie sich nicht mit diesen verachtenswerten Menschen *ein*.
+  Do not associate with these despicable people.
 
   Les voleurs ont *commis* plusieurs cambriolages cette semaine.
-  Die Diebe haben diese Woche mehrere Einbrüche *verübt*.
+  The thieves *committed* several burglaries this week.
 
   J'ai *commis* une grave erreur en lui faisant confiance.
-  Ich habe einen schweren Fehler *begangen*, als ich ihm vertraute.
+  I made a big mistake trusting him.
 
   Il s'est *commis* beaucoup d'atrocités pendant la guerre.
-  Während des Krieges wurden viele Gräueltaten *verübt*.
+  He *committed* many atrocities during the war.
 
   L'huissier a été *commis* pour procéder à la saisie.
-  Der Gerichtsvollzieher wurde mit der Pfändung *beauftragt*.
+  The officer has been assigned to carry out the seizure.
 
   Ces fautes se *commettent* souvent par étourderie.
-  Diese Fehler werden oft aus Unachtsamkeit *begangen*.
+  These mistakes are often made out of dizziness.
 
   "Il a *commis* une terrible tragédie en vers !"
-  "Er hat eine schreckliche Tragödie in Versen *verbrochen*!"
+  "He *committed* a terrible tragedy in worms!"
 
   Je vous ai *commis* à la surveillance des locaux.
-  Ich habe Sie mit der Überwachung der Räume *beauftragt*.
+  I've put you in charge of the premises.
 
   En agissant ainsi, vous *commettez* votre réputation.
-  Durch dieses Handeln *gefährden* Sie Ihren Ruf.
+  By doing so, you are damaging your reputation.
 
   Le terroriste a *commis* un attentat à la gare.
-  Der Terrorist hat am Bahnhof einen Anschlag *verübt*.
+  The terrorist carried out an attack on the train station.
 
   Elle s'est *commise* de la complicité dans cette affaire.
-  Sie hat sich in dieser Sache der Beihilfe *schuldig gemacht*.
+  She's complicit in this case.
 
   Les enfants *commettent* parfois des bêtises.
-  Kinder *begehen* manchmal Dummheiten.
+  Children sometimes do stupid things.
 
   Le banquier a *commis* une fraude massive.
-  Der Banker hat einen massiven Betrug *begangen*.
+  The banker *committed* a massive fraud.
 
   Un expert sera *commis* pour évaluer les dégâts.
-  Ein Gutachter wird zur Bewertung der Schäden *bestellt*.
+  An expert will be assigned to assess the damage.
 
   J'ai *commis* cela à vos soins.
-  Ich habe das Ihrer Obhut *anvertraut*.
+  I *committed* this to your care.
 
   Ils ont *commis* une imprudence en sortant sans parapluie.
-  Sie haben eine Unvorsichtigkeit *begangen*, als sie ohne Regenschirm hinausgingen.
+  They were unwise to go out without an umbrella.
 
   L'accusé a *commis* un péché impardonnable.
-  Der Angeklagte hat eine unverzeihliche Sünde *begangen*.
+  The accused has *committed* an unforgivable sin.
 
   Le gouvernement a *commis* une injustice envers les citoyens.
-  Die Regierung hat den Bürgern gegenüber ein Unrecht *begangen*.
+  The government has done an injustice to its citizens.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

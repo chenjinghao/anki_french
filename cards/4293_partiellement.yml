@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4293
 Wort: partiellement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: partiellement
 Femininum / Plural: ''
 IPA: \paʁ.sjɛl.mɑ̃\
-Definition: teilweise
+Definition: in part
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le ciel était *partiellement* dégagé.
-  Der Himmel war *teilweise* aufgeklart.
+  The sky was *partially* clear.
 
   Les pertes ont été *partiellement* compensées par l'assurance.
-  Die Verluste wurden durch die Versicherung *teilweise* ausgeglichen.
+  The losses were *partially* offset by the insurance.
 
   Le document n'a été *partiellement* traduit en anglais.
-  Das Dokument wurde nur *teilweise* ins Englische übersetzt.
+  The document has not been *partially* translated into English.
 
   Cette théorie n'est *partiellement* vraie que dans certains cas.
-  Diese Theorie ist nur in bestimmten Fällen *teilweise* richtig.
+  This theory is only *partially* true in some cases.
 
   Le projet a été *partiellement* financé par des dons privés.
-  Das Projekt wurde durch private Spenden *teilweise* finanziert.
+  The project was partly financed by private donations.
 
   Les données sont *partiellement* cryptées pour plus de sécurité.
-  Die Daten sind aus Sicherheitsgründen *teilweise* verschlüsselt.
+  The data is *partially* encrypted for added security.
 
   Le bâtiment a été *partiellement* détruit pendant la tempête.
-  Das Gebäude wurde während des Sturms *teilweise* zerstört.
+  The building was *partially* destroyed during the storm.
 
   Son raisonnement n'est que *partiellement* correct.
-  Seine Überlegung ist nur *teilweise* korrekt.
+  His reasoning is only *partially* correct.
 
   La ville a été *partiellement* reconstruite après la guerre.
-  Die Stadt wurde nach dem Krieg *teilweise* wiederaufgebaut.
+  The city was *partially* rebuilt after the war.
 
   Les résultats ne sont que *partiellement* satisfaisants.
-  Die Ergebnisse sind nur *teilweise* zufriedenstellend.
+  The results are only *partially* satisfactory.
 
   Le musée est *partiellement* fermé pour rénovation.
-  Das Museum ist wegen Renovierung *teilweise* geschlossen.
+  The museum is *partially* closed for renovation.
 
   L'entreprise n'a *partiellement* repris ses activités.
-  Das Unternehmen hat seine Tätigkeiten nur *teilweise* wieder aufgenommen.
+  The company did not partly resume its activities.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

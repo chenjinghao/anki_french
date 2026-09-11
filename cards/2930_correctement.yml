@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2930
 Wort: correctement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: correctement
 Femininum / Plural: ''
 IPA: \kɔ.ʁɛk.tə.mɑ̃\
-Definition: korrekt, richtig
+Definition: correctly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Faisons les choses *correctement*.
-  Lasst uns die Dinge *richtig* machen.
+  Let's do things right.
 
   Il est important de s'habiller *correctement* pour un entretien d'embauche.
-  Es ist wichtig, sich für ein Vorstellungsgespräch *korrekt* zu kleiden.
+  It is important to dress properly for a job interview.
 
   Elle a *correctement* répondu à toutes les questions de l'examen.
-  Sie hat alle Prüfungsfragen *richtig* beantwortet.
+  She answered all the questions in the exam *correctly*.
 
   "Tiens-toi *correctement* à table !" a dit la mère à son enfant.
-  "Benimm dich *ordentlich* am Tisch!", sagte die Mutter zu ihrem Kind.
+  "Stand well at the table!" said the mother to her child.
 
   Cet ingénieur gagne *correctement* sa vie.
-  Dieser Ingenieur verdient *recht ordentlich*.
+  This engineer makes a good living.
 
   Le nouveau logiciel fonctionne *correctement* depuis la mise à jour.
-  Die neue Software funktioniert seit dem Update *einwandfrei*.
+  The new software has been working properly since the update.
 
   Il faut apprendre à parler *correctement* en public.
-  Man muss lernen, in der Öffentlichkeit *korrekt* zu sprechen.
+  You have to learn to speak properly in public.
 
   L'appareil photo n'a pas *correctement* enregistré les images.
-  Die Kamera hat die Bilder nicht *richtig* aufgenommen.
+  The camera didn't record the footage properly.
 
   Assurez-vous de remplir *correctement* tous les champs du formulaire.
-  Stellen Sie sicher, dass Sie alle Felder des Formulars *korrekt* ausfüllen.
+  Make sure you fill out all the fields in the form *correctly*.
 
   Le chef a *correctement* assaisonné le plat.
-  Der Koch hat das Gericht *richtig* gewürzt.
+  The chef has spiced the dish properly.
 
   Nous devons traiter *correctement* les données personnelles de nos clients.
-  Wir müssen die persönlichen Daten unserer Kunden *ordnungsgemäß* behandeln.
+  We must properly process the personal data of our clients.
 
   L'élève a *correctement* résolu l'équation mathématique.
-  Der Schüler hat die mathematische Gleichung *richtig* gelöst.
+  The student *correctly* solved the mathematical equation.
 
   Il est essentiel de recycler *correctement* nos déchets.
-  Es ist wichtig, unseren Müll *ordnungsgemäß* zu recyceln.
+  It is essential to properly recycle our waste.
 
   Le musicien a *correctement* interprété la partition.
-  Der Musiker hat die Partitur *korrekt* interpretiert.
+  The musician interpreted the score *correctly*.
 
   Nous avons été *correctement* informés des changements à venir.
-  Wir wurden über die bevorstehenden Änderungen *ordnungsgemäß* informiert.
+  We were *correctly* informed of the upcoming changes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4262
 Wort: extraction
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une extraction
 Femininum / Plural: ''
 IPA: \ɛk.stʁak.sjɔ̃\
-Definition: Gewinnung, Abbau
+Definition: Mining and extraction
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce projet d'*extraction* minière constitue une agréable occasion de développement.
-  Dieses Berg*bau*projekt stellt eine gute Entwicklungsmöglichkeit dar.
+  This mining project is a pleasant opportunity for development.
 
   L'*extraction* du pétrole en mer du Nord est en baisse depuis dix ans.
-  Die Öl*förderung* in der Nordsee ist seit zehn Jahren rückläufig.
+  Oil production in the North Sea has been declining for the last ten years.
 
   Les coûts d'*extraction* du cuivre ont considérablement augmenté.
-  Die *Förderungs*kosten für Kupfer sind erheblich gestiegen.
+  The costs of copper *extraction* have increased considerably.
 
   Cette nouvelle méthode d'*extraction* de l'uranium est plus écologique.
-  Diese neue Uran*gewinnungs*methode ist umweltfreundlicher.
+  This new method of extracting uranium is more environmentally friendly.
 
   L'*extraction* du sable de cette rivière est interdite depuis mai.
-  Die Sand*entnahme* aus diesem Fluss ist seit Mai verboten.
+  Mining of sand from this river has been prohibited since May.
 
   Le dentiste a programmé l'*extraction* de mes dents de sagesse pour lundi.
-  Der Zahnarzt hat das *Ziehen* meiner Weisheitszähne für Montag geplant.
+  The dentist scheduled my wisdom teeth *extraction* for Monday.
 
   L'*extraction* de la balle s'est déroulée sans complications.
-  Die *Entfernung* der Kugel verlief ohne Komplikationen.
+  The *extraction* of the bullet went without complications.
 
   Le processus d'*extraction* du sucre de la betterave est complexe.
-  Der Zucker*gewinnungs*prozess aus Rüben ist komplex.
+  The process of extracting sugar from beets is complex.
 
   La nouvelle machine facilite l'*extraction* des données sensibles.
-  Die neue Maschine erleichtert die Daten*extraktion* sensibler Informationen.
+  The new machine makes it easier to extract sensitive data.
 
   L'*extraction* du miel demande beaucoup de précautions.
-  Die Honig*gewinnung* erfordert große Vorsicht.
+  Honey *extraction* requires a lot of precautions.
 
   L'*extraction* de cette racine carrée peut se faire mentalement.
-  Die *Berechnung* dieser Quadratwurzel kann im Kopf erfolgen.
+  The *extraction* of this square root can be done mentally.
 
   Notre équipe travaille sur l'*extraction* de métaux précieux.
-  Unser Team arbeitet an der *Gewinnung* von Edelmetallen.
+  Our team is working on precious metals mining.
 
   L'*extraction* du prisonnier s'est faite sous haute surveillance.
-  Die *Überführung* des Gefangenen erfolgte unter strenger Bewachung.
+  The *extraction* of the prisoner was carried out under strict supervision.
 
   Les techniques d'*extraction* du marbre ont peu changé depuis un siècle.
-  Die Marmor*abbau*techniken haben sich seit einem Jahrhundert kaum verändert.
+  The techniques used to extract marble have changed little in the last century.
 
   L'*extraction* des matières premières doit respecter l'environnement.
-  Die Rohstoff*förderung* muss umweltverträglich sein.
+  The *extraction* of raw materials must be environmentally friendly.
 
   La procédure d'*extraction* de la tumeur était délicate.
-  Die *Entfernung* des Tumors war ein heikler Eingriff.
+  The procedure for removing the tumor was delicate.
 
   L'*extraction* des fichiers compressés prend quelques minutes.
-  Das *Entpacken* der komprimierten Dateien dauert einige Minuten.
+  It takes a few minutes to extract the compressed files.
 
   L'*extraction* de l'eau de la chaudière doit être régulière.
-  Das *Ablassen* des Wassers aus dem Kessel muss regelmäßig erfolgen.
+  The *extraction* of water from the boiler must be regular.
 
   Le rendement d'*extraction* de la mine a dépassé les prévisions.
-  Die *Förder*leistung der Mine hat die Erwartungen übertroffen.
+  The mine's *extraction* yield has exceeded forecasts.
 
   Les coûts d'*extraction* dentaire sont partiellement remboursés.
-  Die Zahn*extraktions*kosten werden teilweise erstattet.
+  Dental *extraction* costs are partially reimbursed.
 
   L'*extraction* sélective permet d'isoler les composants souhaités.
-  Die selektive *Extraktion* ermöglicht die Isolierung der gewünschten Komponenten.
+  Selective *extraction* makes it possible to isolate the desired components.
 
   La nouvelle technologie d'*extraction* réduit la consommation d'énergie.
-  Die neue *Förder*technologie reduziert den Energieverbrauch.
+  The new *extraction* technology reduces energy consumption.
 
   L'*extraction* automatique des métadonnées facilite l'archivage.
-  Die automatische *Extraktion* der Metadaten erleichtert die Archivierung.
+  The automatic *extraction* of metadata makes archiving easier.
 
   Le puits d'*extraction* principal nécessite des réparations urgentes.
-  Der Haupt*förder*schacht benötigt dringende Reparaturen.
+  The main *extraction* well needs urgent repairs.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

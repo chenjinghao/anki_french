@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2158
 Wort: laboratoire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le laboratoire
 Femininum / Plural: ''
 IPA: \la.bɔ.ʁa.twaʁ\
-Definition: Labor
+Definition: Laboratory
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les gros *laboratoires* n'ont pas toujours cette éthique-là.
-  Die großen *Labore* haben nicht immer diese Ethik.
+  Big labs don't always have that ethic.
 
   Dans ce *laboratoire* de physique, nous étudions les particules élémentaires.
-  In diesem Physik*labor* erforschen wir die Elementarteilchen.
+  In this physics lab, we study elementary particles.
 
   Le *laboratoire* secret a été découvert dans une ancienne mine.
-  Das Geheim*labor* wurde in einer alten Mine entdeckt.
+  The secret *laboratory* was discovered in an old mine.
 
   Le *laboratoire* spatial effectue des expériences en apesanteur.
-  Das Raum*labor* führt Experimente in der Schwerelosigkeit durch.
+  The space lab is conducting experiments in gravity.
 
   As-tu déjà travaillé dans un *laboratoire* de langues ?
-  Hast du schon mal in einem Sprach*labor* gearbeitet?
+  Have you ever worked in a language lab?
 
   Notre *laboratoire* de recherche compte plus de cinquante chercheurs.
-  Unser Forschungs*labor* hat mehr als fünfzig Wissenschaftler.
+  Our research *laboratory* has more than fifty researchers.
 
   Le *laboratoire* d'analyses médicales est fermé le dimanche.
-  Das medizinische *Labor* ist sonntags geschlossen.
+  The medical analysis lab is closed on Sundays.
 
   Les résultats du *laboratoire* confirment le diagnostic du médecin.
-  Die *Labor*befunde bestätigen die Diagnose des Arztes.
+  The lab results confirm the doctor's diagnosis.
 
   Elle passe ses journées au *laboratoire* à analyser des échantillons.
-  Sie verbringt ihre Tage im *Labor* damit, Proben zu analysieren.
+  She spends her days in the lab analyzing samples.
 
   J'ai envoyé mes photos au *laboratoire* pour les faire développer.
-  Ich habe meine Fotos ins *Labor* geschickt, um sie entwickeln zu lassen.
+  I sent my photos to the lab to develop them.
 
   Le *laboratoire* pharmaceutique a mis au point un nouveau médicament.
-  Das Pharma*labor* hat ein neues Medikament entwickelt.
+  The pharmaceutical lab has developed a new drug.
 
   Ce *laboratoire d'idées* réunit des experts du monde entier.
-  Diese *Denkfabrik* versammelt Experten aus der ganzen Welt.
+  This idea lab brings together experts from all over the world.
 
   Le nouveau *laboratoire* dispose d'équipements très modernes.
-  Das neue *Labor* verfügt über sehr moderne Ausrüstung.
+  The new *laboratory* is equipped with very modern equipment.
 
   Les étudiants font leurs expériences en *laboratoire*.
-  Die Studenten machen ihre Experimente im *Labor*.
+  The students do their experiments in the lab.
 
   Notre *laboratoire* de fabrication numérique propose des formations.
-  Unser digitales *Labor* bietet Schulungen an.
+  Our digital manufacturing lab offers training.
 
   Le *laboratoire* de chimie a besoin de nouveaux microscopes.
-  Das Chemie*labor* braucht neue Mikroskope.
+  The chemistry lab needs new microscopes.
 
   Un assistant de *laboratoire* m'a montré comment utiliser l'équipement.
-  Ein *Labor*assistent hat mir gezeigt, wie man die Geräte benutzt.
+  A lab assistant showed me how to use the equipment.
 
   Ce *laboratoire* de contrôle vérifie la qualité des produits.
-  Dieses Test*labor* überprüft die Qualität der Produkte.
+  This control *laboratory* checks the quality of the products.
 
   La ferme-*laboratoire* teste de nouvelles méthodes d'agriculture.
-  Der *Labor*-Bauernhof testet neue landwirtschaftliche Methoden.
+  The farm-lab is testing new farming methods.
 
   Les *laboratoires* doivent respecter des normes de sécurité strictes.
-  Die *Labore* müssen strenge Sicherheitsvorschriften einhalten.
+  *Laboratories* must comply with strict safety standards.
 
   Le chef du *laboratoire* présente les résultats de recherche.
-  Der *Labor*leiter präsentiert die Forschungsergebnisse.
+  The head of the *laboratory* presents the results of the research.
 
   Cette ville est devenue un véritable *laboratoire* de création artistique.
-  Diese Stadt ist zu einem wahren *Labor* für künstlerisches Schaffen geworden.
+  This city has become a real *laboratory* of artistic creation.
 
   Les nouveaux *laboratoires* seront construits près de l'université.
-  Die neuen *Labore* werden in der Nähe der Universität gebaut werden.
+  The new labs will be built near the university.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

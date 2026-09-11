@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2475
 Wort: week-end
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le week-end
 Femininum / Plural: week-ends
 IPA: \wik.ɛnd\
-Definition: Wochenende
+Definition: The weekend
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Que fais-tu, ce *week-end* ?
-  Was machst du dieses *Wochenende*?
+  What are you doing this weekend?
 
   Je pars en *week-end* à la montagne avec des amis.
-  Ich fahre mit Freunden übers *Wochenende* in die Berge.
+  I'm going to the mountains with some friends this weekend.
 
   Le *week-end* dernier, nous sommes allés à la plage.
-  Letztes *Wochenende* sind wir an den Strand gefahren.
+  Last weekend, we went to the beach.
 
   Bon *week-end* à tous !
-  Schönes *Wochenende* euch allen!
+  Have a nice weekend , everybody .
 
   Elle travaille tous les *week-ends* pour gagner plus d'argent.
-  Sie arbeitet jedes *Wochenende*, um mehr Geld zu verdienen.
+  She works every weekend to make more money.
 
   Le *week-end* commence vendredi après-midi pour moi.
-  Das *Wochenende* beginnt für mich am Freitagnachmittag.
+  The weekend starts Friday afternoon for me.
 
   As-tu déjà des projets pour le *week-end* prochain ?
-  Hast du schon Pläne für nächstes *Wochenende*?
+  Do you already have plans for next weekend?
 
   Pendant les *week-ends*, je fais la grasse matinée.
-  An den *Wochenenden* schlafe ich lange aus.
+  On the *weekends*, I do the morning fat.
 
   Notre maison de *week-end* se trouve au bord d'un lac.
-  Unser *Wochenend*haus liegt an einem See.
+  Our weekend home is by a lake.
 
   C'était un *week-end* très reposant.
-  Es war ein sehr erholsames *Wochenende*.
+  It was a very restful weekend.
 
   Les *week-ends* sont toujours trop courts.
-  Die *Wochenenden* sind immer zu kurz.
+  The *weekends* are always too short.
 
   Il préfère passer ses *week-ends* à la maison.
-  Er verbringt seine *Wochenenden* lieber zu Hause.
+  He prefers to spend his *weekends* at home.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

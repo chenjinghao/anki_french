@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2052
 Wort: censé
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: censé
 Femininum / Plural: censée
 IPA: \sɑ̃.se\
-Definition: eigentlich (sollen)
+Definition: Actually (should)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle est *censée* donner une réponse.
-  Sie *soll* eine Antwort geben.
+  She's supposed to give an answer.
 
   Je suis *censé* être à la réunion dans une heure.
-  Ich *sollte* in einer Stunde beim Meeting sein.
+  I'm supposed to be at the meeting in an hour.
 
   Nous étions *censés* partir en vacances, mais nos plans ont changé.
-  Wir *sollten eigentlich* in den Urlaub fahren, aber unsere Pläne haben sich geändert.
+  We were supposed to go on vacation, but our plans changed.
 
   "*Censée* connaître la réponse, j'ai pourtant hésité."
-  "Obwohl ich die Antwort *eigentlich wissen müsste*, habe ich gezögert."
+  "I thought I knew the answer, but I hesitated".
 
   Le train est *censé* arriver à 15h, mais il a du retard.
-  Der Zug *soll* um 15 Uhr ankommen, hat aber Verspätung.
+  The train was supposed to arrive at 3:00, but it's late.
 
   Tu n'étais pas *censé* être au courant de cette surprise !
-  Du *solltest eigentlich* nicht von dieser Überraschung wissen!
+  You weren't supposed to know about this surprise!
 
   Les experts sont *censés* trouver une solution à ce problème.
-  Die Experten *sollen* eine Lösung für dieses Problem finden.
+  Experts are supposed to find a solution to this problem.
 
   Nul n'est *censé* ignorer la loi.
-  Niemand *kann sich darauf berufen*, das Gesetz nicht zu kennen.
+  No one is supposed to ignore the law.
 
   Que suis-je *censé* faire dans cette situation ?
-  Was *soll* ich in dieser Situation tun?
+  What am I supposed to do in this situation?
 
   Les étudiants sont *censés* rendre leur devoir demain.
-  Die Studenten *sollen* ihre Hausaufgaben morgen abgeben.
+  The students are supposed to return home tomorrow.
 
   Elle était *censée* m'appeler hier soir, mais je n'ai pas eu de nouvelles.
-  Sie *sollte* mich gestern Abend anrufen, aber ich habe nichts von ihr gehört.
+  She was supposed to call me last night, but I didn't hear from her.
 
   Ce nouveau logiciel est *censé* améliorer notre productivité.
-  Diese neue Software *soll* unsere Produktivität verbessern.
+  This new software is supposed to improve our productivity.
 
   Vous êtes *censé* avoir lu le rapport avant la réunion.
-  Sie *sollten* den Bericht vor dem Meeting gelesen haben.
+  You're supposed to have read the report before the meeting.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

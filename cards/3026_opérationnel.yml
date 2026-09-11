@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3026
 Wort: opérationnel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: opérationnel
 Femininum / Plural: opérationnelle
 IPA: \o.pe.ʁa.sjɔ.nɛl\
-Definition: einsatzfähig, einsatzbereit
+Definition: Ready for use
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tous les systèmes sont *opérationnels*.
-  Alle Systeme sind *einsatzbereit*.
+  All systems are *operational*.
 
   La nouvelle usine sera *opérationnelle* dès la rentrée.
-  Die neue Fabrik wird ab Schulbeginn *betriebsbereit* sein.
+  The new plant will be *operational* as soon as we get home.
 
   Notre équipe de secours est *opérationnelle* 24 heures sur 24.
-  Unser Rettungsteam ist rund um die Uhr *einsatzfähig*.
+  Our first responders are on call 24 hours a day.
 
   Le commandement *opérationnel* a donné l'ordre d'évacuer la zone.
-  Das *operative* Kommando hat den Befehl zur Evakuierung des Gebiets gegeben.
+  *Operational* Command has ordered an evacuation of the area.
 
   "Ce collaborateur n'est pas encore *opérationnel*, il a besoin de plus de formation."
-  "Dieser Mitarbeiter ist noch nicht *einsatzfähig*, er braucht mehr Schulung."
+  "This employee is not yet *operational*, he needs further training".
 
   La base *opérationnelle* se trouve à 50 kilomètres de la frontière.
-  Die *Operations*basis befindet sich 50 Kilometer von der Grenze entfernt.
+  The *operational* base is 50 kilometers from the border.
 
   Le nouveau logiciel de gestion sera *opérationnel* la semaine prochaine.
-  Die neue Verwaltungssoftware wird nächste Woche *betriebsbereit* sein.
+  The new management software will be *operational* next week.
 
   Les chercheurs utilisent la *recherche opérationnelle* pour optimiser les processus industriels.
-  Die Forscher nutzen *Operations Research*, um industrielle Prozesse zu optimieren.
+  Researchers use *operational research* to optimize industrial processes.
 
   Notre réserve *opérationnelle* peut être mobilisée en cas d'urgence.
-  Unsere *operative* Reserve kann im Notfall mobilisiert werden.
+  Our *operational* reserve can be mobilized in case of an emergency.
 
   Le sous-marin nucléaire sera *opérationnel* d'ici deux ou trois ans.
-  Das Atom-U-Boot wird in zwei bis drei Jahren *einsatzbereit* sein.
+  The nuclear submarine will be *operational* in two or three years.
 
   La défense *opérationnelle* du territoire est une priorité pour l'armée.
-  Die *operative* Landesverteidigung ist eine Priorität für die Armee.
+  *Operational* defence of the territory is a priority for the army.
 
   "Cet aéroport n'est pas encore *opérationnel*, les travaux sont toujours en cours."
-  "Dieser Flughafen ist noch nicht *betriebsbereit*, die Arbeiten laufen noch."
+  "This airport is not yet *operational*, work is still underway".
 
   Les unités *opérationnelles* se préparent à une éventuelle intervention.
-  Die *einsatzfähigen* Einheiten bereiten sich auf einen möglichen Einsatz vor.
+  *Operational* units are preparing for possible intervention.
 
   Le centre de contrôle reste *opérationnel* même en cas de panne d'électricité.
-  Das Kontrollzentrum bleibt auch bei einem Stromausfall *funktionsfähig*.
+  The control centre remains *operational* even in the event of a power failure.
 
   Notre équipe marketing n'est pas encore *opérationnelle* pour la nouvelle campagne.
-  Unser Marketingteam ist für die neue Kampagne noch nicht *einsatzbereit*.
+  Our marketing team is not yet *operational* for the new campaign.
 
   La zone *opérationnelle* a été délimitée pour les exercices militaires.
-  Das *Operations*gebiet wurde für die militärischen Übungen abgegrenzt.
+  The *operational* area has been delimited for military exercises.
 
   Le nouveau système de surveillance sera *opérationnel* dès demain matin.
-  Das neue Überwachungssystem wird ab morgen früh *einsatzfähig* sein.
+  The new surveillance system will be *operational* by tomorrow morning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

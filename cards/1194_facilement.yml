@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1194
 Wort: facilement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: facilement
 Femininum / Plural: ''
 IPA: \fa.sil.mɑ̃\
-Definition: leicht, mühelos
+Definition: Easy, effortless
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai retrouvé *facilement* le carton.
-  Ich habe den Karton *leicht* gefunden.
+  I found the card *easily*.
 
   Le nouveau logiciel s'installe très *facilement*.
-  Die neue Software lässt sich sehr *leicht* installieren.
+  The new software is very easy to install.
 
   Les enfants apprennent à nager *facilement* dans l'eau chaude.
-  Die Kinder lernen im warmen Wasser *leicht* schwimmen.
+  Children learn to swim in warm water with ease.
 
   Cette chaise peut *facilement* supporter 150 kilos.
-  Dieser Stuhl kann *locker* 150 Kilo tragen.
+  This chair can *easily* hold 150 kilos.
 
   Marie se laisse *facilement* convaincre par ses amis.
-  Marie lässt sich von ihren Freunden *leicht* überzeugen.
+  Marie is *easily* persuaded by her friends.
 
   "Il s'énerve *facilement* quand on le contredit."
-  "Er regt sich *schnell* auf, wenn man ihm widerspricht."
+  "He's *easily* upset when you disagree with him".
 
   Cette voiture coûte *facilement* 50 000 euros.
-  Dieses Auto kostet *mindestens* 50.000 Euro.
+  This car costs 50,000 euros *easily*.
 
   Les jeunes s'adaptent *facilement* aux nouvelles technologies.
-  Junge Menschen passen sich *leicht* an neue Technologien an.
+  Young people adapt *easily* to new technologies.
 
   Tu peux *facilement* faire ce gâteau en moins d'une heure.
-  Du kannst diesen Kuchen *problemlos* in weniger als einer Stunde backen.
+  You can *easily* make this cake in under an hour.
 
   Elle a *facilement* réussi son examen de conduite.
-  Sie hat ihre Führerscheinprüfung *mühelos* bestanden.
+  She passed her driving test *easily*.
 
   Mon petit frère pleure *facilement* quand on le taquine.
-  Mein kleiner Bruder weint *schnell*, wenn man ihn neckt.
+  My little brother cries *easily* when he's mocked.
 
   Ce problème peut être résolu *facilement*.
-  Dieses Problem lässt sich *leicht* lösen.
+  This problem can be solved *easily*.
 
   La peinture s'enlève *facilement* avec ce produit.
-  Die Farbe lässt sich mit diesem Produkt *leicht* entfernen.
+  The paint is *easily* removed with this product.
 
   On peut *facilement* perdre son chemin dans cette forêt.
-  Man kann sich in diesem Wald *leicht* verlaufen.
+  You can *easily* get lost in this forest.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

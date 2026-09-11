@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2285
 Wort: nourriture
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la nourriture
 Femininum / Plural: ''
 IPA: \nu.ʁi.tyʁ\
-Definition: Essen, Nahrung
+Definition: Food
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Leur *nourriture*, c'est l'herbe.
-  Ihre *Nahrung* ist das Gras.
+  Their *food* is grass.
 
   La *nourriture* des pandas est principalement le bambou.
-  Die *Nahrung* der Pandas besteht hauptsächlich aus Bambus.
+  The panda's *food* is mainly bamboo.
 
   Il faut absolument changer la *nourriture* du chat, elle est trop grasse.
-  Das Katzen*futter* muss unbedingt gewechselt werden, es ist zu fettig.
+  You have to change the cat's *food*, it's too fat.
 
   Cette *nourriture* pour nourrissons est enrichie en vitamines.
-  Diese Säuglings*nahrung* ist mit Vitaminen angereichert.
+  This infant *food* is rich in vitamins.
 
   La *nourriture* de la cantine n'est vraiment pas terrible aujourd'hui.
-  Das Kantinen*essen* ist heute wirklich nicht besonders gut.
+  The *food* in the cafeteria is really not terrible today.
 
   Les oiseaux cherchent leur *nourriture* dans le jardin.
-  Die Vögel suchen ihre *Nahrung* im Garten.
+  Birds look for their *food* in the garden.
 
   Le berger s'occupe de la *nourriture* du bétail tous les matins.
-  Der Hirte kümmert sich jeden Morgen um die *Fütterung* der Rinder.
+  The shepherd takes care of the cattle's *food* every morning.
 
   Une bonne lecture est une excellente *nourriture* pour l'esprit.
-  Ein gutes Buch ist eine ausgezeichnete *Nahrung* für den Geist.
+  Good reading is an excellent *food* for the mind.
 
   Il n'a pas pris de *nourriture* depuis deux jours.
-  Er hat seit zwei Tagen keine *Nahrung* zu sich genommen.
+  He hasn't eaten in two days.
 
   La *nourriture* saine est essentielle pour notre santé.
-  Gesunde *Nahrung* ist wesentlich für unsere Gesundheit.
+  Healthy *food* is essential to our health.
 
   Je dois acheter de la *nourriture* pour poissons.
-  Ich muss Fisch*futter* kaufen.
+  I have to buy fish *food*.
 
   Les médecins recommandent une *nourriture* équilibrée.
-  Die Ärzte empfehlen eine ausgewogene *Ernährung*.
+  Doctors recommend a balanced diet.
 
   Cette *nourriture* principale ne convient pas aux végétariens.
-  Diese Haupt*nahrung* ist nicht für Vegetarier geeignet.
+  This staple *food* is not suitable for vegetarians.
 
   Les voyageurs ont épuisé leur réserve de *nourriture*.
-  Die Reisenden haben ihren *Nahrungs*vorrat aufgebraucht.
+  The travelers have exhausted their *food* supply.
 
   La *nourriture* du restaurant est vraiment raffinée.
-  Das *Essen* im Restaurant ist wirklich raffiniert.
+  The *food* at the restaurant is really refined.
 
   Le lion se jette sur sa *nourriture*.
-  Der Löwe stürzt sich auf seine *Beute*.
+  The lion is jumping on its *food*.
 
   Il refuse toute *nourriture* depuis sa maladie.
-  Er verweigert seit seiner Krankheit jegliche *Nahrung*.
+  He's refused any *food* since his illness.
 
   La musique est une *nourriture* pour l'âme.
-  Musik ist *Nahrung* für die Seele.
+  Music is *food* for the soul.
 
   Par son nouveau travail, il peut assurer la *nourriture* de sa famille.
-  Durch seine neue Arbeit kann er die *Ernährung* seiner Familie sicherstellen.
+  With his new job, he can provide *food* for his family.
 
   Le zoo dépense beaucoup d'argent pour la *nourriture* des animaux.
-  Der Zoo gibt viel Geld für die Tier*fütterung* aus.
+  The zoo spends a lot of money on animal *food*.
 
   Les experts conseillent d'éviter la *nourriture* trop salée.
-  Die Experten raten von zu salziger *Nahrung* ab.
+  Experts advise against eating too much salt.
 
   L'art est une *nourriture* intellectuelle indispensable.
-  Kunst ist eine unverzichtbare geistige *Nahrung*.
+  Art is an indispensable intellectual *food*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

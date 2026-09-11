@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2242
 Wort: franchement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: franchement
 Femininum / Plural: ''
 IPA: \fʁɑ̃ʃ.mɑ̃\
-Definition: ehrlich, offen gesagt
+Definition: Honestly, frankly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Franchement*, cela ne m'étonne pas.
-  *Offen gesagt* überrascht mich das nicht.
+  Frankly, I'm not surprised.
 
   Je vous le dis *franchement* : je n'approuve pas votre décision.
-  Ich sage es Ihnen *ganz offen*: Ich stimme Ihrer Entscheidung nicht zu.
+  I can tell you *frankly* that I do not agree with your decision.
 
   Allons, parlez-moi *franchement* de ce qui vous préoccupe.
-  Nun, sprechen Sie *ehrlich* mit mir darüber, was Sie beschäftigt.
+  Come on, tell me *frankly* what you're worried about.
 
   Il faut aborder *franchement* le problème si nous voulons le résoudre.
-  Wir müssen das Problem *direkt* angehen, wenn wir es lösen wollen.
+  If we want to solve the problem, we have to be frank about it.
 
   "*Franchement*, tu aurais pu faire un effort !" s'est-elle exclamée.
-  "*Ehrlich*, du hättest dich mehr anstrengen können!", rief sie aus.
+  "Frankly, you could have made an effort!" she exclaimed.
 
   Le candidat a répondu *franchement* à toutes les questions des journalistes.
-  Der Kandidat hat *offen* auf alle Fragen der Journalisten geantwortet.
+  The candidate answered all the questions of the journalists *frankly*.
 
   Cette situation devient *franchement* inquiétante.
-  Diese Situation wird *regelrecht* beunruhigend.
+  This situation is becoming *frankly* troubling.
 
   *Franchement*, je préfère rester chez moi ce soir.
-  *Ehrlich gesagt* bleibe ich heute Abend lieber zu Hause.
+  Frankly, I'd rather stay home tonight.
 
   Il faut entrer *franchement* dans le vif du sujet.
-  Wir müssen *direkt* zum Kern der Sache kommen.
+  We need to get straight to the heart of the matter.
 
   Le cheval a sauté l'obstacle *franchement*, sans hésitation.
-  Das Pferd ist *entschlossen* über das Hindernis gesprungen, ohne zu zögern.
+  The horse jumped the obstacle *frankly*, without hesitation.
 
   Cette solution me paraît *franchement* mauvaise.
-  Diese Lösung erscheint mir *wirklich* schlecht.
+  This solution seems to me *frankly* wrong.
 
   Dites-moi *franchement* ce que vous en pensez.
-  Sagen Sie mir *frei heraus*, was Sie davon halten.
+  Tell me *frankly* what you think.
 
   Il s'est prononcé *franchement* en faveur de cette réforme.
-  Er hat sich *eindeutig* für diese Reform ausgesprochen.
+  He was openly in favour of this reform.
 
   *Franchement*, je ne comprends pas votre point de vue.
-  *Ganz ehrlich*, ich verstehe Ihren Standpunkt nicht.
+  Frankly, I don't understand your point of view.
 
   Son attitude est devenue *franchement* désagréable ces derniers temps.
-  Seine Haltung ist in letzter Zeit *regelrecht* unangenehm geworden.
+  His attitude has become *frankly* unpleasant in recent times.
 
   Allez-y *franchement*, n'ayez pas peur de dire ce que vous pensez.
-  Gehen Sie es *direkt* an, haben Sie keine Angst zu sagen, was Sie denken.
+  Go straight to it, don't be afraid to say what you think.
 
   À parler *franchement*, je ne suis pas satisfait du résultat.
-  *Offen gestanden* bin ich mit dem Ergebnis nicht zufrieden.
+  To be honest, I'm not happy with the result.
 
   Elle m'a regardé droit dans les yeux et m'a dit *franchement* la vérité.
-  Sie sah mir direkt in die Augen und sagte mir *unverblümt* die Wahrheit.
+  She looked me straight in the eye and told me the truth.
 
   *Franchement*, votre proposition mérite d'être examinée plus en détail.
-  *Aufrichtig gesagt* verdient Ihr Vorschlag eine genauere Betrachtung.
+  Frankly, your proposal deserves further consideration.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

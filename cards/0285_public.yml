@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 285
 Wort: public
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le public
 Femininum / Plural: ''
 IPA: \py.blik\
-Definition: Öffentlichkeit, Publikum
+Definition: The public
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je dois beaucoup au *public*.
-  Ich verdanke dem *Publikum* sehr viel.
+  I owe a lot to the *public*.
 
   Le *public* applaudit chaleureusement après le concert.
-  Das *Publikum* applaudierte herzlich nach dem Konzert.
+  The audience applauds warmly after the concert.
 
   Le théâtre était rempli d'un *public* nombreux.
-  Das Theater war mit einem großen *Publikum* gefüllt.
+  The theater was filled with a large audience.
 
   "Cette chanteuse a toujours son *public* fidèle."
-  "Diese Sängerin hat immer ihr treues *Publikum*."
+  "This singer always has a loyal audience".
 
   Les films d'horreur ne sont pas destinés au grand *public*.
-  Horrorfilme sind nicht für das breite *Publikum* gedacht.
+  Horror movies are not for the general *public*.
 
   Cet écrivain connaît bien son *public*.
-  Dieser Schriftsteller kennt sein *Publikum* gut.
+  This writer knows his audience well.
 
   Je n'aime pas parler en *public*.
-  Ich spreche nicht gerne in der *Öffentlichkeit*.
+  I don't like to talk in *public*.
 
   Le musée est ouvert au *public*.
-  Das Museum ist für die *Öffentlichkeit* geöffnet.
+  The museum is open to the *public*.
 
   Le *public* du festival était très jeune cette année.
-  Das *Publikum* des Festivals war dieses Jahr sehr jung.
+  The festival audience was very young this year.
 
   Le concert a été enregistré en *public*.
-  Das Konzert wurde vor *Publikum* aufgezeichnet.
+  The concert was recorded in *public*.
 
   Le *public* était très réceptif à la pièce.
-  Das *Publikum* war sehr empfänglich für das Stück.
+  The audience was very receptive to the play.
 
   Le *public* de la Bourse était nerveux aujourd'hui.
-  Das Börsen*publikum* war heute nervös.
+  The stock market was nervous today.
 
   Le *public* de ce cinéma est plutôt intellectuel.
-  Das *Publikum* dieses Kinos ist eher intellektuell.
+  The audience in this movie is quite intellectual.
 
   Le *public* était bon ce soir.
-  Das *Publikum* war heute Abend dankbar.
+  The audience was good tonight.
 
   Le *public* a hué l'arbitre pendant tout le match.
-  Das *Publikum* hat den Schiedsrichter während des ganzen Spiels ausgebuht.
+  The audience shouted at the referee throughout the game.
 
   Son spectacle attire un large *public*.
-  Seine Show zieht ein breites *Publikum* an.
+  His show attracts a wide audience.
 
   Le *public* a réagi avec enthousiasme.
-  Das *Publikum* reagierte mit Begeisterung.
+  The audience reacted enthusiastically.
 
   Le *public* de théâtre est très exigeant.
-  Das Theater*publikum* ist sehr anspruchsvoll.
+  The theater audience is very demanding.
 
   Le *public* était conquis dès la première chanson.
-  Das *Publikum* war schon beim ersten Lied begeistert.
+  The audience was overwhelmed by the first song.
 
   Le grand *public* ne connaît pas ces détails.
-  Die breite *Öffentlichkeit* kennt diese Details nicht.
+  The general *public* doesn't know these details.
 
   Le *public* est prié de ne pas fumer.
-  Das *Publikum* wird gebeten, nicht zu rauchen.
+  The *public* is advised not to smoke.
 
   Le *public* attend avec impatience son nouveau livre.
-  Das *Publikum* wartet ungeduldig auf sein neues Buch.
+  The *public* is looking forward to his new book.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

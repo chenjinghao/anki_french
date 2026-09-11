@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4171
 Wort: perpétuer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: perpétuer
 Femininum / Plural: ''
 IPA: \pɛʁ.pe.tɥe\
-Definition: aufrechterhalten, fortsetzen
+Definition: maintaining, continuing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces traditions se *perpétuent* au Moyen Âge.
-  Diese Traditionen *bleiben* im Mittelalter *erhalten*.
+  These traditions continue into the Middle Ages.
 
   Pour *perpétuer* son nom, il cherchait désespérément un héritier.
-  Um seinen Namen zu *bewahren*, suchte er verzweifelt nach einem Erben.
+  To preserve his name, he desperately sought an heir.
 
   Les espèces doivent se *perpétuer* pour survivre.
-  Die Arten müssen sich *fortpflanzen*, um zu überleben.
+  Species must perpetuate themselves to survive.
 
   Cette injustice continue à se *perpétuer* dans notre société.
-  Diese Ungerechtigkeit *setzt* sich in unserer Gesellschaft weiter *fort*.
+  This injustice persists in our society.
 
   Le musée aide à *perpétuer* la mémoire des victimes.
-  Das Museum hilft, die Erinnerung an die Opfer *wachzuhalten*.
+  The museum helps perpetuate the memory of the victims.
 
   La danse traditionnelle s'est *perpétuée* jusqu'à nos jours.
-  Der traditionelle Tanz ist bis heute *lebendig geblieben*.
+  The traditional dance has continued to this day.
 
   Son œuvre *perpétuera* sa mémoire.
-  Sein Werk wird sein Andenken *bewahren*.
+  His work will be remembered forever.
 
   Les grands-parents veulent *perpétuer* les coutumes familiales.
-  Die Großeltern möchten die Familienbräuche *weitergeben*.
+  Grandparents want *to perpetuate* family customs.
 
   Cette espèce rare a réussi à se *perpétuer* malgré les menaces.
-  Diese seltene Art hat es geschafft, sich trotz der Bedrohungen zu *erhalten*.
+  This rare species has managed to survive despite threats.
 
   Le festival annuel *perpétue* les traditions locales.
-  Das jährliche Festival *erhält* die lokalen Traditionen *aufrecht*.
+  The annual festival perpetuates local traditions.
 
   Sa passion pour la musique s'est *perpétuée* à travers ses enfants.
-  Seine Leidenschaft für Musik hat sich durch seine Kinder *fortgesetzt*.
+  His passion for music continued through his children.
 
   Nous devons *perpétuer* le souvenir de ces événements historiques.
-  Wir müssen die Erinnerung an diese historischen Ereignisse *wachhalten*.
+  We must perpetuate the memory of these historic events.
 
   Cette famille a réussi à *perpétuer* sa lignée pendant des siècles.
-  Diese Familie hat es geschafft, ihre Linie über Jahrhunderte zu *bewahren*.
+  This family succeeded in perpetuating its lineage for centuries.
 
   Les mythes se sont *perpétués* à travers les générations.
-  Die Mythen haben sich über Generationen hinweg *fortgesetzt*.
+  Myths have been passed down through the generations.
 
   L'association aide à *perpétuer* les savoir-faire traditionnels.
-  Der Verein hilft, traditionelles Handwerk *aufrechtzuerhalten*.
+  The association helps *to perpetuate* traditional know-how.
 
   Cette habitude s'est *perpétuée* dans notre famille.
-  Diese Gewohnheit ist in unserer Familie *erhalten geblieben*.
+  This habit persisted in our family.
 
   Les cérémonies *perpétuent* la culture ancestrale.
-  Die Zeremonien *bewahren* die überlieferte Kultur.
+  Ceremonies perpetuate the ancestral culture.
 
   Le dictionnaire aide à *perpétuer* la langue française.
-  Das Wörterbuch hilft, die französische Sprache *lebendig zu erhalten*.
+  The dictionary helps *to perpetuate* the French language.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2650
 Wort: chimique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: chimique
 Femininum / Plural: ''
 IPA: \ʃi.mik\
-Definition: chemisch
+Definition: chemical
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Aujourd'hui ce qui est *chimique* est ressenti comme dangereux.
-  Heutzutage wird alles *Chemische* als gefährlich empfunden.
+  Today, what's *chemical* is perceived as dangerous.
 
   Les *produits chimiques* doivent être stockés dans un endroit sûr.
-  Die *Chemikalien* müssen an einem sicheren Ort gelagert werden.
+  *Chemicals* must be stored in a safe place.
 
   La convention interdit l'usage des armes *chimiques* dans les conflits.
-  Die Konvention verbietet den Einsatz *chemischer* Waffen in Konflikten.
+  The convention prohibits the use of chemical weapons in conflicts.
 
   L'industrie *chimique* emploie des milliers de personnes dans notre région.
-  Die *chemische* Industrie beschäftigt Tausende Menschen in unserer Region.
+  The *chemical* industry employs thousands of people in our region.
 
   Le professeur nous a expliqué la formule *chimique* de l'eau.
-  Der Lehrer hat uns die *chemische* Formel von Wasser erklärt.
+  The professor explained to us the *chemical* formula of water.
 
   Cette réaction *chimique* produit une lumière bleue fascinante.
-  Diese *chemische* Reaktion erzeugt ein faszinierendes blaues Licht.
+  This *chemical* reaction produces a fascinating blue light.
 
   Les médecins ont dû provoquer un sommeil *chimique* pour le traitement.
-  Die Ärzte mussten einen *chemischen* Schlaf für die Behandlung einleiten.
+  The doctors had to induce a *chemical* sleep for the treatment.
 
   Elle étudie les propriétés *chimiques* des nouveaux matériaux.
-  Sie untersucht die *chemischen* Eigenschaften der neuen Materialien.
+  She studies the chemical properties of new materials.
 
   Le symbole *chimique* du fer est Fe.
-  Das *chemische* Symbol für Eisen ist Fe.
+  The *chemical* symbol of iron is Fe.
 
   L'analyse *chimique* a révélé la présence de polluants dans l'eau.
-  Die *chemische* Analyse hat das Vorhandensein von Schadstoffen im Wasser aufgedeckt.
+  *Chemical* analysis revealed the presence of pollutants in the water.
 
   Les engrais *chimiques* peuvent endommager les sols à long terme.
-  *Chemische* Düngemittel können den Boden langfristig schädigen.
+  Chemical fertilizers can damage soils in the long run.
 
   Le processus *chimique* de la photosynthèse fascine les scientifiques.
-  Der *chemische* Prozess der Photosynthese fasziniert die Wissenschaftler.
+  The *chemical* process of photosynthesis fascinates scientists.
 
   Notre laboratoire *chimique* dispose d'équipements modernes.
-  Unser *chemisches* Labor verfügt über moderne Ausrüstung.
+  Our *chemical* laboratory is equipped with modern equipment.
 
   La composition *chimique* de l'atmosphère change progressivement.
-  Die *chemische* Zusammensetzung der Atmosphäre verändert sich allmählich.
+  The *chemical* composition of the atmosphere is gradually changing.
 
   Les étudiants apprennent à manipuler les substances *chimiques* en toute sécurité.
-  Die Studenten lernen den sicheren Umgang mit *chemischen* Substanzen.
+  Students learn how to handle *chemicals* safely.
 
   Le nettoyage *chimique* n'est pas recommandé pour ce tissu délicat.
-  Die *chemische* Reinigung wird für diesen empfindlichen Stoff nicht empfohlen.
+  *Chemical* cleaning is not recommended for this delicate fabric.
 
   Les transformations *chimiques* se produisent constamment dans notre corps.
-  *Chemische* Umwandlungen finden ständig in unserem Körper statt.
+  Chemical transformations are constantly occurring in our bodies.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

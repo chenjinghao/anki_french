@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3967
 Wort: panne
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la panne
 Femininum / Plural: ''
 IPA: \pan\
-Definition: Panne
+Definition: Failure
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ton téléphone est *en panne*.
-  Dein Handy ist *kaputt*.
+  Your phone's down.
 
   Sa voiture est tombée en *panne* sur l'autoroute.
-  Sein Auto hatte eine *Panne* auf der Autobahn.
+  His car broke down on the freeway.
 
   "Je suis *en panne d'inspiration* pour mon roman."
-  "Mir *fehlt die Inspiration* für meinen Roman."
+  "I'm out of inspiration for my novel".
 
   Une *panne* de courant a plongé toute la ville dans l'obscurité.
-  Ein Strom*ausfall* hat die ganze Stadt ins Dunkel gestürzt.
+  A power outage plunged the entire city into darkness.
 
   Il y a eu une *panne* d'image pendant le match de football.
-  Während des Fußballspiels gab es einen Bild*ausfall*.
+  There was an image *failure* during the football game.
 
   Nous avons dû *mettre le bateau en panne* à cause de la tempête.
-  Wir mussten das Schiff wegen des Sturms *beidrehen*.
+  We had to break the ship because of the storm.
 
   Le système informatique a subi une *panne* totale hier soir.
-  Das Computersystem hatte gestern Abend einen Total*ausfall*.
+  The computer system suffered a complete breakdown last night.
 
   "Je suis *en panne de* café, tu peux m'en apporter ?"
-  "Mir *ist* der Kaffee *ausgegangen*, kannst du mir welchen mitbringen?"
+  "I'm out of coffee, can you get me some?"
 
   La vieille machine à laver est encore *en panne*.
-  Die alte Waschmaschine ist wieder *defekt*.
+  The old washing machine is still broken.
 
   Notre projet *est en panne* depuis des semaines.
-  Unser Projekt *kommt* seit Wochen *nicht mehr weiter*.
+  Our project has been on hold for weeks.
 
   Il est *tombé en panne d'essence* au milieu de nulle part.
-  Ihm *ist* mitten im Nirgendwo das *Benzin ausgegangen*.
+  He ran out of gas in the middle of nowhere.
 
   Les techniciens ont réparé la *panne* de moteur en deux heures.
-  Die Techniker haben den Motor*schaden* in zwei Stunden repariert.
+  Technicians fixed the engine *failure* in two hours.
 
   Une grande *panne* barrait l'horizon au coucher du soleil.
-  Eine große Wolken*bank* verdeckte den Horizont bei Sonnenuntergang.
+  A major breakdown blocked the horizon at sunset.
 
   On utilise la *panne* du porc pour faire du saindoux maison.
-  Man verwendet das Schweine*fett* zur Herstellung von hausgemachtem Schmalz.
+  We use the broken pork to make domestic lard.
 
   La *panne* d'électricité va durer encore quelques heures.
-  Die Strom*unterbrechung* wird noch einige Stunden andauern.
+  The power outage will last for a few more hours.
 
   L'équipe *est en panne* aujourd'hui car trois collègues sont malades.
-  Das Team *steckt* heute *fest*, weil drei Kollegen krank sind.
+  The team's down today because three colleagues are sick.
 
   La *panne* du piolet sert à tailler des marches dans la glace.
-  Die *Haue* des Eispickels dient zum Stufenschlagen im Eis.
+  The broken pilet is used to carve stairs in the ice.
 
   "C'est la *panne sèche*, on doit trouver une station-service !"
-  "Das *Benzin ist alle*, wir müssen eine Tankstelle finden!"
+  "It's a *dry break*, we need to find a gas station!"
 
   Elle a eu une *panne de réveil* ce matin.
-  Ihr *Wecker hat* heute Morgen *versagt*.
+  She didn't wake up this morning.
 
   Les travaux *sont en panne* depuis le départ de l'architecte.
-  Die Arbeiten *liegen* seit dem Weggang des Architekten *brack*.
+  The work has been broken since the architect left.
 
   La *panne* de chauffage est survenue pendant la nuit la plus froide.
-  Der Heizungs*ausfall* ereignete sich in der kältesten Nacht.
+  The heating *failure* occurred during the coldest night.
 
   Cette robe en *panne de velours* est magnifique.
-  Dieses Kleid aus *Samt* ist wunderschön.
+  This velvet-broken dress is gorgeous.
 
   Le marteau utilise sa *panne* pour arracher les clous.
-  Der Hammer verwendet seine *Finne* zum Herausziehen der Nägel.
+  The hammer uses its malfunction to pull out the nails.
 
   La charpente repose sur une *panne* en acier.
-  Das Dachgebälk ruht auf einer Stahl*pfette*.
+  The roof frame rests on a steel *purlin*.
 
   "Je suis *en panne d'idées* pour son cadeau d'anniversaire."
-  "Mir *fehlen die Ideen* für sein Geburtstagsgeschenk."
+  "I'm out of ideas for her birthday present".
 
   Les acteurs débutants n'ont que des *pannes* dans cette pièce.
-  Die Anfängerschauspieler haben in diesem Stück nur *Statistenrollen*.
+  Newcomer actors have only flaws in this play.
 
   Le navire *s'est mis en panne* pour secourir les naufragés.
-  Das Schiff *stoppte*, um die Schiffbrüchigen zu retten.
+  The ship broke down to rescue the shipwrecked.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

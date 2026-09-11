@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 432
 Wort: dollar
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le dollar
 Femininum / Plural: ''
 IPA: \dɔ.laʁ\
-Definition: Dollar
+Definition: US dollar
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu veux combien ? 10 *dollars*.
-  Wie viel willst du? 10 *Dollar*.
+  How much do you want?
 
   Le *dollar* australien a augmenté de valeur ces derniers mois.
-  Der australische *Dollar* ist in den letzten Monaten im Wert gestiegen.
+  The Australian *dollar* has risen in value in recent months.
 
   J'ai changé mes euros en *dollars* canadiens pour mon voyage.
-  Ich habe meine Euro in kanadische *Dollar* für meine Reise umgetauscht.
+  I exchanged my euros for Canadian *dollars* for my trip.
 
   Le prix du pétrole est toujours fixé en *dollars* américains.
-  Der Ölpreis wird immer in amerikanischen *Dollar* festgelegt.
+  The price of oil is always fixed in U.S. *dollars*.
 
   Les touristes peuvent payer en *dollars* ou en euros.
-  Die Touristen können in *Dollar* oder Euro bezahlen.
+  Tourists can pay in *dollars* or euros.
 
   Le cours du *dollar* est très favorable aujourd'hui.
-  Der *Dollar*-Kurs ist heute sehr günstig.
+  The price of the *dollar* is very favorable today.
 
   Elle a trouvé un billet de 20 *dollars* par terre.
-  Sie hat einen 20-*Dollar*-Schein auf dem Boden gefunden.
+  She found a $20 bill on the floor.
 
   Le *dollar* libérien n'est pas accepté dans ce magasin.
-  Der liberianische *Dollar* wird in diesem Geschäft nicht akzeptiert.
+  The Liberian *dollar* is not accepted in this store.
 
   Combien vaut un *dollar* en euros actuellement ?
-  Wie viel ist ein *Dollar* derzeit in Euro wert?
+  How much is a *dollar* worth in euros right now?
 
   J'ai besoin de quelques *dollars* pour mon voyage aux États-Unis.
-  Ich brauche ein paar *Dollar* für meine Reise in die USA.
+  I need a few *dollars* for my trip to the United States.
 
   Le taux de change entre l'euro et le *dollar* fluctue constamment.
-  Der Wechselkurs zwischen Euro und *Dollar* schwankt ständig.
+  The exchange rate between the euro and the *dollar* is constantly fluctuating.
 
   Ces prix sont indiqués en *dollars* canadiens, pas américains.
-  Diese Preise sind in kanadischen *Dollar* angegeben, nicht in amerikanischen.
+  These prices are indicated in Canadian *dollars*, not US dollars.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,75 +1,75 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4505
 Wort: cessez-le-feu
 Wortart: nmi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le cessez-le-feu
 Femininum / Plural: ''
 IPA: \sɛ.se l(ə) fø\
-Definition: Waffenstillstand⁠
+Definition: Cessation of hostilities
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces nouvelles violences menacent le fragile *cessez-le-feu*.
-  Diese neue Gewalt bedroht die fragile *Waffenruhe*.
+  This new violence threatens the fragile ceasefire.
 
   L'ONU a appelé à un *cessez-le-feu* immédiat dans la région.
-  Die UN hat zu einer sofortigen *Waffenruhe* in der Region aufgerufen.
+  The UN has called for an immediate ceasefire in the region.
 
   Le *cessez-le-feu* temporaire permettra l'acheminement de l'aide humanitaire.
-  Die temporäre *Waffenpause* wird die Lieferung humanitärer Hilfe ermöglichen.
+  The temporary ceasefire will allow humanitarian aid to be dispatched.
 
   Les deux parties ont finalement accepté un *cessez-le-feu* de 72 heures.
-  Beide Parteien haben schließlich einer 72-stündigen *Waffenruhe* zugestimmt.
+  The two sides finally agreed to a 72-hour ceasefire.
 
   Malgré le *cessez-le-feu*, des coups de feu isolés ont été entendus pendant la nuit.
-  Trotz der *Waffenruhe* wurden in der Nacht vereinzelte Schüsse gehört.
+  Despite the ceasefire, isolated gunfire was heard during the night.
 
   Un *cessez-le-feu* a été décidé hier soir lors des négociations.
-  Gestern Abend wurde bei den Verhandlungen eine *Waffenruhe* beschlossen.
+  A ceasefire was decided last night during the negotiations.
 
   Les civils espèrent que ce *cessez-le-feu* durera plus longtemps que le précédent.
-  Die Zivilisten hoffen, dass diese *Waffenruhe* länger anhält als die vorherige.
+  Civilians hope this ceasefire will last longer than the previous one.
 
   Le respect du *cessez-le-feu* sera surveillé par des observateurs internationaux.
-  Die Einhaltung der *Waffenruhe* wird von internationalen Beobachtern überwacht.
+  Compliance with the ceasefire will be monitored by international observers.
 
   Les négociateurs travaillent à la transformation du *cessez-le-feu* en paix durable.
-  Die Unterhändler arbeiten daran, die *Waffenruhe* in einen dauerhaften Frieden umzuwandeln.
+  The negotiators are working to transform the ceasefire into a lasting peace.
 
   Le *cessez-le-feu* entrera en vigueur demain à l'aube.
-  Die *Waffenruhe* tritt morgen bei Tagesanbruch in Kraft.
+  The ceasefire will take effect at dawn tomorrow.
 
   Suite au *cessez-le-feu*, les réfugiés peuvent enfin rentrer chez eux.
-  Nach der *Waffenruhe* können die Flüchtlinge endlich nach Hause zurückkehren.
+  Following the ceasefire, the refugees can finally return home.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>cessez-le-feu</i> und <i>trêve</i></div>
+    <div class="section-title"><i>cessez-le-feu</i> and <i>trêve</i></div>
     <div class="section-content">
-      <p><span class="fr">Cessez-le-feu</span> bedeutet <span class="de">"Waffenstillstand"</span> und bezeichnet das sofortige Einstellen von Kampfhandlungen. Es ist meist eine kurzfristige, temporäre Maßnahme zur Beendigung aktiver Gewalt.</p>
+      <p><span class="fr">Cessez-le-feu</span> means <span class="de">'A ceasefire'</span> It's usually a short-term, temporary measure to end active violence.</p>
       <div class="examples">
         <div class="fr">Les deux armées ont observé un cessez-le-feu de vingt-quatre heures.</div>
-        <div class="de spoiler">Die beiden Armeen hielten einen vierundzwanzigstündigen Waffenstillstand ein.</div>
+        <div class="de spoiler">The two armies maintained a 24-hour ceasefire.</div>
         <div class="fr">Le cessez-le-feu a été violé après seulement trois heures.</div>
-        <div class="de spoiler">Der Waffenstillstand wurde nach nur drei Stunden gebrochen.</div>
+        <div class="de spoiler">The ceasefire was broken after only three hours.</div>
       </div>
-      <p><span class="fr">Trêve</span> (#4455) bedeutet <span class="de">"Waffenruhe"</span> oder <span class="de">"Waffenstillstand"</span> und impliziert oft eine längere Unterbrechung der Feindseligkeiten, manchmal mit Verhandlungsabsicht oder zu bestimmten Anlässen.</p>
+      <p><span class="fr">Trêve</span> (#4455) means <span class="de">"A ceasefire"</span> or <span class="de">'A ceasefire'</span> It is also important to note that the Commission's proposal for a directive on the protection of workers' rights in the Member States is based on the principle of equal treatment for men and women, and often implies a prolonged cessation of hostilities, sometimes with the intention of negotiation or on specific occasions.</p>
       <div class="examples">
         <div class="fr">Une trêve de Noël a été déclarée pendant la guerre.</div>
-        <div class="de spoiler">Ein Weihnachtsfrieden wurde während des Krieges erklärt.</div>
+        <div class="de spoiler">A Christmas peace was declared during the war.</div>
         <div class="fr">Les négociateurs espèrent prolonger la trêve actuelle.</div>
-        <div class="de spoiler">Die Unterhändler hoffen, die aktuelle Waffenruhe zu verlängern.</div>
+        <div class="de spoiler">The negotiators hope to extend the current ceasefire.</div>
       </div>
-      <p>Während <span class="fr">cessez-le-feu</span> eher technisch und unmittelbar ist, hat <span class="fr">trêve</span> oft eine feierlichere oder formalere Konnotation und kann auch im übertragenen Sinne für eine Pause in Konflikten verwendet werden.</p>
+      <p>In the meantime <span class="fr">cessez-le-feu</span> It is more technical and immediate. <span class="fr">trêve</span> often a more solemn or formal connotation and can also be used in the conventional sense for a break in conflict.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

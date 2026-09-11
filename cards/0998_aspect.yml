@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 998
 Wort: aspect
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un aspect
 Femininum / Plural: ''
 IPA: \as.pɛ\
-Definition: Aspekt, Erscheinungsbild
+Definition: Aspect, appearance
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a oublié quelques *aspects* de la gastronomie.
-  Er hat einige *Aspekte* der Gastronomie vergessen.
+  He's forgotten some *aspects* of the cuisine.
 
   L'*aspect* de cette maison abandonnée fait peur aux enfants.
-  Der *Anblick* dieses verlassenen Hauses macht den Kindern Angst.
+  The sight of this abandoned house scares the children.
 
   Son *aspect* physique a beaucoup changé depuis notre dernière rencontre.
-  Sein *Aussehen* hat sich seit unserem letzten Treffen stark verändert.
+  His physical *appearance* has changed a lot since we last met.
 
   La vallée offre un *aspect* sauvage et mystérieux.
-  Das Tal bietet einen wildromantischen *Anblick*.
+  The valley offers a wild and mysterious *appearance*.
 
   Nous devons examiner tous les *aspects* du problème avant de prendre une décision.
-  Wir müssen alle *Aspekte* des Problems untersuchen, bevor wir eine Entscheidung treffen.
+  We need to consider all *aspects* of the problem before making a decision.
 
   Cette région montre un *aspect* complètement différent en hiver.
-  Diese Region zeigt sich im Winter von einer ganz anderen *Seite*.
+  This region shows a completely different *appearance* in winter.
 
   À l'*aspect* du ciel, je pense qu'il va pleuvoir.
-  Beim *Anblick* des Himmels denke ich, dass es regnen wird.
+  Looking at the sky, I think it's going to rain.
 
   Marie s'est montrée sous un nouvel *aspect* pendant les vacances.
-  Marie hat sich im Urlaub von einer neuen *Seite* gezeigt.
+  Marie showed up in a new way during the holidays.
 
   Au premier *aspect*, ce restaurant semble peu accueillant.
-  Beim ersten *Anblick* wirkt dieses Restaurant wenig einladend.
+  At first glance, this restaurant seems unwelcoming.
 
   Les *aspects* linguistiques de ce texte sont particulièrement intéressants.
-  Die sprachlichen *Aspekte* dieses Textes sind besonders interessant.
+  The linguistic *aspects* of this text are particularly interesting.
 
   Le parc présente un *aspect* totalement différent au printemps.
-  Der Park bietet im Frühling einen völlig anderen *Anblick*.
+  The park has a completely different look in the spring.
 
   Il faut considérer l'*aspect* économique de cette décision.
-  Man muss den wirtschaftlichen *Aspekt* dieser Entscheidung berücksichtigen.
+  The economic aspect of this decision must be considered.
 
   L'*aspect* de ce gâteau me donne envie d'en manger.
-  Der *Anblick* dieses Kuchens macht mir Appetit.
+  The *appearance* of this cake makes me want to eat it.
 
   Cet *aspect* de sa personnalité m'était totalement inconnu.
-  Diese *Seite* seiner Persönlichkeit war mir völlig unbekannt.
+  This aspect of his personality was completely unknown to me.
 
   Le projet présente plusieurs *aspects* positifs.
-  Das Projekt weist mehrere positive *Aspekte* auf.
+  The project has several positive *aspects*.
 
   L'*aspect* du ciel change rapidement avant l'orage.
-  Der *Anblick* des Himmels ändert sich schnell vor dem Gewitter.
+  The *appearance* of the sky changes quickly before the storm.
 
   Son *aspect* négligé inquiétait ses amis.
-  Sein vernachlässigtes *Aussehen* beunruhigte seine Freunde.
+  Her neglected *appearance* worried her friends.
 
   Les *aspects* pratiques sont plus importants que la théorie.
-  Die praktischen *Aspekte* sind wichtiger als die Theorie.
+  Practical *aspects* are more important than theory.
 
   L'*aspect* extérieur du bâtiment ne reflète pas sa beauté intérieure.
-  Das äußere *Erscheinungsbild* des Gebäudes spiegelt nicht seine innere Schönheit wider.
+  The exterior *appearance* of the building does not reflect its interior beauty.
 
   Je dois étudier cet *aspect* particulier de la question.
-  Ich muss diesen bestimmten *Aspekt* der Frage untersuchen.
+  I have to study this particular aspect of the question.
 
   Elle a changé d'*aspect* après sa maladie.
-  Ihr *Aussehen* hat sich nach ihrer Krankheit verändert.
+  She changed her *appearance* after she got sick.
 
   Sous cet *aspect*, le problème paraît plus simple.
-  Unter diesem *Aspekt* erscheint das Problem einfacher.
+  In this respect, the problem seems simpler.
 
   L'*aspect* moderne de la ville contraste avec son centre historique.
-  Das moderne *Erscheinungsbild* der Stadt steht im Kontrast zu ihrem historischen Zentrum.
+  The modern *appearance* of the city contrasts with its historic center.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

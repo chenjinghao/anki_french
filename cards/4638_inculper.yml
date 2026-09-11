@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4638
 Wort: inculper
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inculper
 Femininum / Plural: ''
 IPA: \ɛ̃.kyl.pe\
-Definition: Anklage erheben
+Definition: Prosecution
 Register: ↗Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les preuves étaient insuffisantes pour l'*inculper*.
-  Die Beweise reichten nicht aus, um gegen ihn *Anklage zu erheben*.
+  The evidence was insufficient to charge him.
 
   Le juge a *inculpé* trois suspects de meurtre hier soir.
-  Der Richter hat gestern Abend gegen drei Verdächtige *Anklage* wegen Mordes *erhoben*.
+  The judge *charged* three suspects with murder last night.
 
   Après l'enquête, on l'a *inculpé* d'escroquerie.
-  Nach der Untersuchung wurde er wegen Betrugs *angeklagt*.
+  After the investigation, he was *charged* with fraud.
 
   Le procureur a décidé de l'*inculper* pour vol qualifié.
-  Der Staatsanwalt beschloss, ihn wegen schweren Diebstahls *anzuklagen*.
+  Prosecutor decided to indict him for first-degree robbery.
 
   Marie sera probablement *inculpée* dans les prochains jours.
-  Gegen Marie wird in den nächsten Tagen wahrscheinlich *Anklage erhoben werden*.
+  Marie will likely be *charged* in the coming days.
 
   Les deux hommes ont été *inculpés* suite à l'agression.
-  Gegen die beiden Männer wurde nach dem Überfall *Anklage erhoben*.
+  Both men were charged in connection with the assault.
 
   Le suspect a été *inculpé* de fraude fiscale ce matin.
-  Der Verdächtige wurde heute Morgen wegen Steuerbetrugs *angeklagt*.
+  The suspect was *charged* with tax evasion this morning.
 
   Les autorités ont finalement décidé de ne pas l'*inculper*.
-  Die Behörden beschlossen schließlich, keine *Anklage* gegen ihn *zu erheben*.
+  The authorities finally decided not to charge him.
 
   Le tribunal pourrait *inculper* l'entreprise pour négligence.
-  Das Gericht könnte gegen das Unternehmen *Anklage* wegen Fahrlässigkeit *erheben*.
+  The court could charge the company with negligence.
 
   Tous les complices ont été *inculpés* dans cette affaire.
-  Gegen alle Komplizen wurde in diesem Fall *Anklage erhoben*.
+  All the accomplices were charged in this case.
 
   Le juge d'instruction a refusé de l'*inculper* faute de preuves.
-  Der Untersuchungsrichter lehnte es ab, ihn mangels Beweisen *anzuklagen*.
+  The investigating judge refused to indict him for lack of evidence.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

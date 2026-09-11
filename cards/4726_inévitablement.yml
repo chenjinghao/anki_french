@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4726
 Wort: inévitablement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inévitablement
 Femininum / Plural: ''
 IPA: \i.ne.vi.ta.blə.mɑ̃\
-Definition: zwangsläufig, unvermeidlich⁠
+Definition: It is inevitable, unavoidable
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le chômage augmenterait *inévitablement*.
-  Die Arbeitslosigkeit würde *zwangsläufig* steigen.
+  Unemployment would *inevitably* increase.
 
   Cette situation mènera *inévitablement* à des conflits.
-  Diese Situation wird *zwangsläufig* zu Konflikten führen.
+  This situation will *inevitably* lead to conflict.
 
   Quand on travaille tard, on commet *inévitablement* des erreurs.
-  Wenn man spät arbeitet, macht man *zwangsläufig* Fehler.
+  When you work late, you *inevitably* make mistakes.
 
   Les prix du pétrole vont *inévitablement* augmenter cet hiver.
-  Die Ölpreise werden im Winter *zwangsläufig* steigen.
+  Oil prices will *inevitably* rise this winter.
 
   Il tombera *inévitablement* dans le piège qu'on lui a tendu.
-  Er wird *zwangsläufig* in die Falle tappen, die man ihm gestellt hat.
+  He will *inevitably* fall into the trap we set for him.
 
   Le développement technologique conduit *inévitablement* à des changements sociaux.
-  Die technologische Entwicklung führt *zwangsläufig* zu gesellschaftlichen Veränderungen.
+  Technological developments *inevitably* lead to social changes.
 
   Un régime si strict mène *inévitablement* à l'échec.
-  Eine so strenge Diät führt *zwangsläufig* zum Scheitern.
+  Such a strict diet *inevitably* leads to failure.
 
   La pollution atmosphérique affectera *inévitablement* notre santé.
-  Die Luftverschmutzung wird *zwangsläufig* unsere Gesundheit beeinträchtigen.
+  Air pollution will *inevitably* affect our health.
 
   Les enfants grandissent *inévitablement* trop vite.
-  Kinder werden *zwangsläufig* zu schnell groß.
+  Children *inevitably* grow up too fast.
 
   Toute discussion sur ce sujet aboutit *inévitablement* à une dispute.
-  Jede Diskussion über dieses Thema führt *zwangsläufig* zu einem Streit.
+  Any discussion on this subject *inevitably* leads to a dispute.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>forcément</i> und <i>inévitablement</i></div>
+    <div class="section-title"><i>forcément</i> and <i>inévitablement</i></div>
     <div class="section-content">
-      <p><span class="fr">Forcément</span> (#2188) bedeutet <span class="de">"notwendigerweise"</span> oder <span class="de">"zwangsläufig"</span> und wird verwendet, um eine logische Konsequenz oder Schlussfolgerung auszudrücken. Es betont die Logik oder den vernünftigen Zusammenhang.</p>
+      <p><span class="fr">Forcément</span> (#2188) means <span class="de">'necessarily'</span> or <span class="de">'Certainly'</span> and is used to express a logical consequence or conclusion. It emphasizes logic or rational context.</p>
       <div class="examples">
         <div class="fr">Il pleut depuis ce matin, les rues sont forcément mouillées.</div>
-        <div class="de spoiler">Es regnet seit heute Morgen, die Straßen sind zwangsläufig nass.</div>
+        <div class="de spoiler">It's been raining since this morning, the streets are definitely wet.</div>
         <div class="fr">Si tu ne révises pas, tu vas forcément échouer à l'examen.</div>
-        <div class="de spoiler">Wenn du nicht lernst, wirst du notwendigerweise bei der Prüfung durchfallen.</div>
+        <div class="de spoiler">If you don't learn, you will necessarily fail the exam.</div>
       </div>
-      <p><span class="fr">Inévitablement</span> bedeutet <span class="de">"unvermeidlich"</span> oder <span class="de">"unausweichlich"</span> und drückt aus, dass etwas nicht verhindert werden kann, oft mit einer gewissen Resignation oder dem Gefühl der Unvermeidbarkeit.</p>
+      <p><span class="fr">Inévitablement</span> means <span class="de">"unavoidable"</span> or <span class="de">"inevitable"</span> and expresses that something cannot be prevented, often with a certain resignation or a sense of inevitability.</p>
       <div class="examples">
         <div class="fr">Avec l'âge, les rides apparaissent inévitablement.</div>
-        <div class="de spoiler">Mit dem Alter entstehen unvermeidlich Falten.</div>
+        <div class="de spoiler">With age, wrinkles inevitably arise.</div>
         <div class="fr">La technologie évolue, et certains métiers disparaîtront inévitablement.</div>
-        <div class="de spoiler">Die Technologie entwickelt sich weiter, und bestimmte Berufe werden unausweichlich verschwinden.</div>
+        <div class="de spoiler">Technology continues to evolve, and certain professions will inevitably disappear.</div>
       </div>
     </div>
   </div>

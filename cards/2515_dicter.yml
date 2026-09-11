@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2515
 Wort: dicter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dicter
 Femininum / Plural: ''
 IPA: \dik.te\
-Definition: diktieren
+Definition: to dictate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Écris ce que je te *dicte*, mot pour mot.
-  Schreibe auf, was ich dir *diktiere*, Wort für Wort.
+  Write down what I tell you, word for word.
 
   Le professeur *dictait* lentement pour que tous les élèves puissent suivre.
-  Der Lehrer *diktierte* langsam, damit alle Schüler folgen konnten.
+  The teacher *dictated* slowly so that all the students could follow.
 
   "Ne me *dictez* pas ce que je dois faire !" s'est-elle exclamée.
-  "*Schreiben* Sie mir nicht *vor*, was ich tun soll!" rief sie aus.
+  "Don't tell me what to do!" she exclaimed.
 
   Les circonstances nous ont *dicté* notre décision.
-  Die Umstände haben uns unsere Entscheidung *aufgezwungen*.
+  Circumstances *dictated* our decision.
 
   Il *dictait* son courrier à sa secrétaire chaque matin.
-  Er *diktierte* seiner Sekretärin jeden Morgen seine Post.
+  He *dictated* his letter to his secretary every morning.
 
   La raison d'État *dicte* parfois des choix difficiles.
-  Die Staatsräson *schreibt* manchmal schwierige Entscheidungen *vor*.
+  State reason sometimes dictates difficult choices.
 
   Les parents ne devraient pas *dicter* tous les choix de leurs enfants.
-  Eltern sollten nicht alle Entscheidungen ihrer Kinder *diktieren*.
+  Parents should not dictate all choices to their children.
 
   Elle a *dicté* ses dernières volontés à son avocat.
-  Sie hat ihrem Anwalt ihren letzten Willen *diktiert*.
+  She *dictated* her last wishes to her lawyer.
 
   La mode *dicte* souvent les tendances vestimentaires.
-  Die Mode *diktiert* oft die Bekleidungstrends.
+  Fashion often dictates clothing trends.
 
   Le jury a *dicté* son verdict après une longue délibération.
-  Die Jury hat nach langer Beratung ihr Urteil *verkündet*.
+  The jury has given its verdict after a long deliberation.
 
   "*Dictez*-moi votre numéro de téléphone, s'il vous plaît."
-  "*Diktieren* Sie mir bitte Ihre Telefonnummer."
+  "Tell me your phone number, please".
 
   La peur ne devrait pas *dicter* nos actions.
-  Angst sollte nicht unser Handeln *bestimmen*.
+  Fear should not dictate our actions.
 
   L'entreprise a *dicté* de nouvelles règles à ses employés.
-  Das Unternehmen hat seinen Mitarbeitern neue Regeln *vorgeschrieben*.
+  The company has *dictated* new rules to its employees.
 
   Le médecin lui a *dicté* un régime strict à suivre.
-  Der Arzt hat ihm eine strenge Diät *verordnet*.
+  The doctor *dictated* a strict diet.
 
   Les événements récents ont *dicté* la politique étrangère du pays.
-  Die jüngsten Ereignisse haben die Außenpolitik des Landes *diktiert*.
+  Recent events have *dictated* the country's foreign policy.
 
   "Je vais vous *dicter* la liste des ingrédients nécessaires."
-  "Ich werde Ihnen die Liste der benötigten Zutaten *diktieren*."
+  "I'll dictate to you the list of ingredients".
 
   Son instinct lui *dictait* de fuir le danger.
-  Sein Instinkt *gebot* ihm, die Gefahr zu meiden.
+  His instincts told him to run away from danger.
 
   Le chef d'orchestre *dictait* le tempo aux musiciens.
-  Der Dirigent *gab* den Musikern den Takt *vor*.
+  The conductor *dictated* the tempo to the musicians.
 
   Les conditions météorologiques *dictent* souvent le déroulement d'un match.
-  Die Wetterbedingungen *bestimmen* oft den Verlauf eines Spiels.
+  Weather conditions often *dictate* the course of a game.
 
   "Ne laissez pas vos émotions vous *dicter* vos décisions."
-  "Lassen Sie nicht zu, dass Ihre Gefühle Ihre Entscheidungen *diktieren*."
+  "Don't let your emotions dictate your decisions".
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

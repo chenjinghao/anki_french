@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3049
 Wort: détriment
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le détriment
 Femininum / Plural: ''
 IPA: \de.tʁi.mɑ̃\
-Definition: Nachteil, Schaden
+Definition: Disadvantages and Damage
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La mondialisation se fait au *détriment* des moins forts.
-  Die Globalisierung erfolgt auf *Kosten* der Schwächeren.
+  Globalization is at the expense of the weaker.
 
   Il a réussi sa carrière au *détriment* de sa vie familiale.
-  Er hat seine Karriere auf *Kosten* seines Familienlebens gemacht.
+  He succeeded in his career at the expense of his family life.
 
   Cette décision est prise à mon *détriment*.
-  Diese Entscheidung wird zu meinem *Nachteil* getroffen.
+  This decision is made to my detriment.
 
   L'entreprise favorise certains employés au *détriment* des autres.
-  Das Unternehmen bevorzugt bestimmte Mitarbeiter zum *Nachteil* der anderen.
+  The company favors some employees at the expense of others.
 
   Le développement urbain se fait souvent au *détriment* de l'environnement.
-  Die Stadtentwicklung erfolgt oft auf *Kosten* der Umwelt.
+  Urban development often takes place at the expense of the environment.
 
   Il a subi un grand *détriment* financier suite à cette transaction.
-  Er hat durch diese Transaktion einen großen finanziellen *Schaden* erlitten.
+  He suffered a major financial loss as a result of this transaction.
 
   Les nouvelles technologies progressent parfois au *détriment* des emplois traditionnels.
-  Neue Technologien schreiten manchmal auf *Kosten* traditioneller Arbeitsplätze voran.
+  New technologies sometimes progress at the expense of traditional jobs.
 
   Cette loi protège les consommateurs au *détriment* des grandes entreprises.
-  Dieses Gesetz schützt die Verbraucher zum *Nachteil* der großen Unternehmen.
+  This law protects consumers to the detriment of large companies.
 
   L'affaire a tourné au *détriment* de l'accusé.
-  Die Angelegenheit hat sich zum *Nachteil* des Angeklagten entwickelt.
+  The case went to the defendant's detriment.
 
   Les économies budgétaires se font souvent au *détriment* de l'éducation et de la santé.
-  Haushaltseinsparungen erfolgen oft auf *Kosten* von Bildung und Gesundheit.
+  Budgetary savings are often at the expense of education and health.
 
   Le constat d'accident a été signé au *détriment* de Marie.
-  Das Unfallprotokoll wurde zu Maries *Nachteil* unterschrieben.
+  The accident report was signed to the detriment of Maria.
 
   Il a acquis cette fortune au *détriment* de sa réputation.
-  Er hat dieses Vermögen auf *Kosten* seines Rufs erworben.
+  He acquired this fortune at the expense of his reputation.
 
   Les mesures d'austérité ont été appliquées au *détriment* des classes moyennes.
-  Die Sparmaßnahmen wurden zum *Nachteil* der Mittelschicht umgesetzt.
+  The austerity measures were applied to the detriment of the middle classes.
 
   Le temps consacré au travail est souvent au *détriment* des loisirs.
-  Die für die Arbeit aufgewendete Zeit geht oft auf *Kosten* der Freizeit.
+  Time spent at work is often at the expense of leisure.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

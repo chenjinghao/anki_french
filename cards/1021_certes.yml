@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1021
 Wort: certes
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: certes
 Femininum / Plural: ''
 IPA: \sɛʁt\
-Definition: zugegeben, zwar
+Definition: Admittedly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le rapport ne fournit *certes* pas de solution miracle.
-  Der Bericht liefert *zwar* keine Wunderlösung.
+  The report certainly does not provide a miraculous solution.
 
   *Certes*, ce n'est pas facile, mais ce n'est pas impossible non plus.
-  *Gewiss*, es ist nicht einfach, aber auch nicht unmöglich.
+  True, this is not easy, but it is also not impossible.
 
   Il a *certes* raison sur certains points, mais son argumentation globale est faible.
-  Er hat in einigen Punkten *sicher* Recht, aber seine Gesamtargumentation ist schwach.
+  It is true that he is right on some points, but his overall argument is weak.
 
   Le film était *certes* long, mais il valait vraiment le coup.
-  Der Film war *zwar* lang, aber er war es wirklich wert.
+  The movie was long, but it was really worth it.
 
   *Certes*, je comprends votre point de vue, néanmoins je ne peux pas l'approuver.
-  *Zugegeben*, ich verstehe Ihren Standpunkt, kann ihn aber trotzdem nicht gutheißen.
+  It is true that I understand your point of view, but I cannot agree with it.
 
   Cette solution n'est *certes* pas idéale, mais c'est la meilleure que nous ayons pour le moment.
-  Diese Lösung ist *gewiss* nicht ideal, aber es ist die beste, die wir im Moment haben.
+  This is certainly not the ideal solution, but it is the best one we have at the moment.
 
   – "Êtes-vous d'accord avec cette décision ?"<br>– "*Certes* non !"
-  – "Sind Sie mit dieser Entscheidung einverstanden?"<br>– "*Bestimmt* nicht!"
+  "Do you agree with this decision?"<br> "Certainly not!"
 
   *Certes*, il pleut, mais cela ne nous empêchera pas de sortir.
-  Es regnet *zwar*, aber das wird uns nicht davon abhalten, auszugehen.
+  Yes, it's raining, but it won't stop us from going out.
 
   La tâche est *certes* difficile, mais pas insurmontable.
-  Die Aufgabe ist *sicher* schwierig, aber nicht unüberwindbar.
+  The task is difficult, but not insurmountable.
 
   *Certes*, je n'irai pas jusqu'à dire qu'il a menti, mais il n'a pas été totalement honnête.
-  Ich würde *zwar* nicht so weit gehen zu sagen, dass er gelogen hat, aber er war nicht völlig ehrlich.
+  Of course, I will not go so far as to say that he lied, but he was not entirely honest.
 
   Cette théorie est *certes* intéressante, mais elle manque de preuves concrètes.
-  Diese Theorie ist *gewiss* interessant, aber es fehlen ihr konkrete Beweise.
+  This theory is interesting, but it lacks concrete evidence.
 
   Le candidat a *certes* de l'expérience, mais il lui manque certaines compétences clés.
-  Der Kandidat hat *zwar* Erfahrung, aber es fehlen ihm einige Schlüsselkompetenzen.
+  The candidate may have experience, but he lacks some key skills.
 
   *Certes*, le prix est élevé, mais la qualité est au rendez-vous.
-  Der Preis ist *zwar* hoch, aber die Qualität stimmt.
+  The price is high, but the quality is on the table.
 
   Il a *certes* fait des erreurs dans le passé, mais il s'est considérablement amélioré.
-  Er hat in der Vergangenheit *zwar* Fehler gemacht, hat sich aber erheblich verbessert.
+  He may have made mistakes in the past, but he has improved considerably.
 
   *Certes*, je suis fatigué, mais je vais quand même finir ce travail ce soir.
-  Ich bin *zwar* müde, werde diese Arbeit aber trotzdem heute Abend beenden.
+  Sure, I'm tired, but I'm still gonna finish this job tonight.
 
   La situation est *certes* compliquée, mais pas désespérée.
-  Die Situation ist *zwar* kompliziert, aber nicht hoffnungslos.
+  The situation is complicated, but not desperate.
 
   *Certes*, il n'est pas parfait, mais qui l'est ?
-  Er ist *gewiss* nicht perfekt, aber wer ist das schon?
+  He may not be perfect, but who is?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

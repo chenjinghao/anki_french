@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1324
 Wort: après-midi
 Wortart: nmf, adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un après-midi
 Femininum / Plural: ''
 IPA: \a.pʁɛ.mi.di\
-Definition: Nachmittag
+Definition: Afternoon
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai passé l'*après-midi* avec des amis.
-  Ich habe den *Nachmittag* mit Freunden verbracht.
+  I spent the *afternoon* with some friends.
 
   Les enfants jouent dans le jardin tous les *après-midi*.
-  Die Kinder spielen jeden *Nachmittag* im Garten.
+  The children play in the garden every *afternoon*.
 
   Nous irons au cinéma cet *après-midi*.
-  Wir werden heute *Nachmittag* ins Kino gehen.
+  We're going to the movies this *afternoon*.
 
   En fin d'*après-midi*, le soleil était particulièrement beau.
-  Am späten *Nachmittag* war die Sonne besonders schön.
+  In the late *afternoon*, the sun was particularly beautiful.
 
   Le musée est fermé le lundi *après-midi*.
-  Das Museum ist Montag*nachmittag* geschlossen.
+  The museum is closed on Monday afternoons.
 
   Il fait toujours la sieste l'*après-midi*.
-  Er macht am *Nachmittag* immer ein Nickerchen.
+  He always takes a nap in the *afternoon*.
 
   Marie viendra mardi *après-midi* pour le rendez-vous.
-  Marie kommt am Dienstag*nachmittag* zum Termin.
+  Marie will come on Tuesday *afternoon* for the appointment.
 
   Comment as-tu trouvé ton *après-midi* de shopping ?
-  Wie war dein Shopping-*Nachmittag*?
+  How did you find your *afternoon* shopping?
 
   Les *après-midi* d'automne sont de plus en plus courts.
-  Die Herbst*nachmittage* werden immer kürzer.
+  Autumn afternoons are getting shorter and shorter.
 
   Demain *après-midi*, nous aurons une réunion importante.
-  Morgen *Nachmittag* haben wir eine wichtige Besprechung.
+  We're having an important meeting tomorrow *afternoon*.
 
   Le programme de l'*après-midi* prévoit une visite guidée.
-  Das *Nachmittags*programm sieht eine Führung vor.
+  The *afternoon* program includes a guided tour.
 
   Hier *après-midi*, j'étais chez le dentiste.
-  Gestern *Nachmittag* war ich beim Zahnarzt.
+  Yesterday *afternoon*, I was at the dentist's.
 
   Il est déjà quatre heures de l'*après-midi*.
-  Es ist schon vier Uhr *nachmittags*.
+  It's already four o'clock in the *afternoon*.
 
   Les cours ont lieu le mercredi *après-midi*.
-  Der Unterricht findet Mittwoch*nachmittag* statt.
+  Classes are held on Wednesday afternoons.
 
   Cette *après-midi* sera consacrée au jardinage.
-  Dieser *Nachmittag* wird der Gartenarbeit gewidmet sein.
+  This *afternoon* will be devoted to gardening.
 
   Je préfère travailler l'*après-midi* plutôt que le matin.
-  Ich arbeite lieber am *Nachmittag* als am Morgen.
+  I'd rather work in the *afternoon* than in the morning.
 
   Les *après-midi* d'été sont souvent très chauds.
-  Die Sommer*nachmittage* sind oft sehr heiß.
+  Summer afternoons are often very hot.
 
   L'*après-midi* s'est terminé par un orage.
-  Der *Nachmittag* endete mit einem Gewitter.
+  The *afternoon* ended in a storm.
 
   Nous nous retrouverons samedi *après-midi* au parc.
-  Wir treffen uns am Samstag*nachmittag* im Park.
+  We'll meet Saturday *afternoon* in the park.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title">Das Genus von <i>après-midi</i></div>
+    <div class="section-title">The enjoyment of <i>après-midi</i></div>
     <div class="section-content">
-      <p><span class="fr">Après-midi</span> kann sowohl maskulin als auch feminin verwendet werden, wobei es feine Bedeutungs- und Stilunterschiede gibt.</p>
-      <p><span class="fr">un après-midi</span> wird von der <i>Académie française</i> aus zwei Gründen bevorzugt:</p>
+      <p><span class="fr">Après-midi</span> Both masculine and feminine can be used, although there are subtle differences in meaning and style.</p>
+      <p><span class="fr">un après-midi</span> is made by the <i>Academie française</i> preferred for two reasons:</p>
       <ul>
-        <li>Es ist die gebräuchlichere Form im alltäglichen Gebrauch.</li>
-        <li>Da das Wort <span class="fr">midi</span> maskulin ist, wird dieses Genus logischerweise im zusammengesetzten Wort beibehalten.</li>
+        <li>It's the most common form in everyday use.</li>
+        <li>Because the word <span class="fr">midi</span> If the sex is masculine, this genus is logically maintained in the compound word.</li>
       </ul>
-      <p><span class="fr">une après-midi</span> wird in zwei Hauptkontexten verwendet:</p>
+      <p><span class="fr">une après-midi</span> is used in two main contexts:</p>
       <ul>
-        <li>Um die Dauer zu betonen, ähnlich wie bei <span class="fr">matinée</span> (der Morgen) vs. <span class="fr">matin</span> oder <span class="fr">soirée</span> (der Abend) vs. <span class="fr">soir</span>:</li>
+        <li>In order to emphasize the duration, similar to that of the <span class="fr">matinée</span> (the morning) vs. <span class="fr">matin</span> or <span class="fr">soirée</span> (the evening) vs. <span class="fr">soir</span>:</li>
         <div class="examples">
           <div class="fr">Je t'ai attendu toute l'après-midi!</div>
-          <div class="de spoiler">Ich habe den ganzen Nachmittag auf dich gewartet!</div>
+          <div class="de spoiler">I've been waiting for you all afternoon!</div>
         </div>
-        <li>In der literarischen und poetischen Sprache, wie bei Zola:</li>
+        <li>In literary and poetic language, like Zola:</li>
         <div class="examples">
           <div class="fr">Par une après-midi grise et douce de novembre.</div>
-          <div class="de spoiler">An einem grauen und milden Novembernachmittag.</div>
+          <div class="de spoiler">On a gray and mild November afternoon.</div>
         </div>
       </ul>
       <ul>
       </ul>
-      <p>Wichtig zu beachten ist: Beide Formen sind korrekt, aber die Wahl des Genus kann subtile Bedeutungsunterschiede vermitteln.</p>
+      <p>It is important to note that both forms are correct, but the choice of genus can convey subtle differences in meaning.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

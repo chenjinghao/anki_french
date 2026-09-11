@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2921
 Wort: renseigner
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: renseigner
 Femininum / Plural: ''
 IPA: \ʁɑ̃.se.ɲe\
-Definition: Auskunft geben, informieren
+Definition: Providing information, informing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Renseigne*-moi, je veux savoir.
-  *Informiere* mich, ich möchte es wissen.
+  Tell me, I want to know.
 
   Le guide touristique nous a bien *renseignés* sur l'histoire de la ville.
-  Der Fremdenführer hat uns gut über die Geschichte der Stadt *informiert*.
+  The tour guide gave us a good overview of the city's history.
 
   Je vais me *renseigner* auprès de la banque sur les taux d'intérêt actuels.
-  Ich werde mich bei der Bank über die aktuellen Zinssätze *informieren*.
+  I'll check with the bank about the current interest rates.
 
   Cette brochure *renseigne* les visiteurs sur les heures d'ouverture du musée.
-  Diese Broschüre *informiert* die Besucher über die Öffnungszeiten des Museums.
+  This brochure provides visitors with information about the museum's opening hours.
 
   Pouvez-vous me *renseigner* sur le prix de ce produit ?
-  Können Sie mich über den Preis dieses Produkts *informieren*?
+  Can you tell me about the price of this product?
 
   Il faut toujours bien se *renseigner* avant d'acheter une maison.
-  Man sollte sich immer gut *informieren*, bevor man ein Haus kauft.
+  It's always a good idea to check before you buy a house.
 
   L'agent immobilier nous a mal *renseignés* sur l'état du bâtiment.
-  Der Immobilienmakler hat uns falsch über den Zustand des Gebäudes *informiert*.
+  The real estate agent misinformed us about the condition of the building.
 
   Ce document nous *renseigne* utilement sur les coutumes locales.
-  Dieses Dokument *gibt* uns nützliche *Informationen* über die örtlichen Bräuche.
+  This document provides useful information about local customs.
 
   "Peux-tu me *renseigner* sur les horaires des trains ?" a-t-elle demandé au guichet.
-  "Kannst du mich über die Zugfahrpläne *informieren*?" fragte sie am Schalter.
+  "Could you tell me about the train schedules?" she asked the counter.
 
   Les journalistes bien *renseignés* ont prédit le résultat de l'élection.
-  Die gut *informierten* Journalisten haben das Wahlergebnis vorhergesagt.
+  Well-informed journalists have predicted the outcome of the election.
 
   Elle s'est *renseignée* auprès de plusieurs universités avant de faire son choix.
-  Sie hat sich bei mehreren Universitäten *erkundigt*, bevor sie ihre Wahl traf.
+  She consulted several universities before making her choice.
 
   Ce rapport *renseigne* le gouvernement sur l'état de l'économie.
-  Dieser Bericht *informiert* die Regierung über den Zustand der Wirtschaft.
+  This report informs the government about the state of the economy.
 
   Nous devons *renseigner* tous les champs du formulaire avec précision.
-  Wir müssen alle Felder des Formulars genau *ausfüllen*.
+  We must fill out all the fields in the form accurately.
 
   L'hôtesse d'accueil est là pour vous *renseigner* sur les services de l'hôtel.
-  Die Empfangsdame ist da, um Sie über die Dienstleistungen des Hotels zu *informieren*.
+  The hostess is here *to inquire* about the hotel's services.
 
   Je me suis mal *renseigné* sur les conditions de vente.
-  Ich habe mich schlecht über die Verkaufsbedingungen *informiert*.
+  I misread the terms of sale.
 
   Cette étude *renseigne* sur les habitudes alimentaires des Français.
-  Diese Studie *gibt Aufschluss* über die Essgewohnheiten der Franzosen.
+  This study examines French food habits.
 
   "*Renseignez-vous* bien avant de prendre une décision", a conseillé l'expert.
-  "*Informieren* Sie sich gut, bevor Sie eine Entscheidung treffen", riet der Experte.
+  "Research well before making a decision", advised the expert.
 
   Les espions ont *renseigné* leur gouvernement sur les mouvements de l'ennemi.
-  Die Spione haben ihre Regierung über die Bewegungen des Feindes *informiert*.
+  The spies *informed* their government of the enemy's movements.
 
   Ce site web *renseigne* les consommateurs sur leurs droits.
-  Diese Website *informiert* die Verbraucher über ihre Rechte.
+  This website informs consumers about their rights.
 
   Il faut se *renseigner* sur les effets secondaires avant de prendre ce médicament.
-  Man sollte sich über die Nebenwirkungen *informieren*, bevor man dieses Medikament einnimmt.
+  You should know about any side effects before taking this medicine.
 
   Le panneau *renseigne* les automobilistes sur les travaux à venir.
-  Das Schild *informiert* die Autofahrer über die bevorstehenden Bauarbeiten.
+  The sign informs drivers of upcoming work.
 
   "Pouvez-vous me *renseigner* sur les tarifs ?" a demandé le client.
-  "Können Sie mich über die Preise *informieren*?" fragte der Kunde.
+  "Can you tell me about the rates?" asked the customer.
 
   Cette base de données *renseigne* les chercheurs sur l'évolution du climat.
-  Diese Datenbank *gibt* den Forschern *Auskunft* über die Klimaentwicklung.
+  This database provides researchers with information about climate change.
 
   Je me suis bien *renseigné* avant de choisir ma nouvelle voiture.
-  Ich habe mich gut *informiert*, bevor ich mein neues Auto ausgewählt habe.
+  I did a lot of research before choosing my new car.
 
   L'office de tourisme *renseigne* les visiteurs sur les attractions locales.
-  Das Touristenbüro *informiert* die Besucher über die örtlichen Sehenswürdigkeiten.
+  The tourism office informs visitors about the local attractions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

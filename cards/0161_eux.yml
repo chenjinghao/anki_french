@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 161
 Wort: eux
 Wortart: pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: eux
 Femininum / Plural: elles
 IPA: \ø\
-Definition: sie [Plural]
+Definition: they [plural]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est *eux* qui comptent.
-  Auf *sie* kommt es an.
+  *They*'re the ones who count.
 
   "*Eux*, ils n'ont jamais fait leurs devoirs !"
-  "*Die* haben nie ihre Hausaufgaben gemacht!"
+  "*They* never did their homework!"
 
   Sans *eux*, la fête ne serait pas la même.
-  Ohne *sie* wäre die Party nicht dieselbe.
+  Without them, the party wouldn't be the same.
 
   Est-ce qu'on peut compter sur *eux* ?
-  Können wir uns auf *sie* verlassen?
+  Can we count on them?
 
   *À elles seules*, ces deux filles ont organisé tout l'événement.
-  Diese zwei Mädchen haben *allein* die ganze Veranstaltung organisiert.
+  These two girls alone organized the whole event.
 
   *Eux-mêmes* ne savent pas pourquoi ils sont venus.
-  *Sie selbst* wissen nicht, warum sie gekommen sind.
+  They themselves don't know why they're here.
 
   Nous avons réussi, mais *eux* ont échoué.
-  Wir haben es geschafft, aber *sie* sind gescheitert.
+  We succeeded, but *they* failed.
 
   L'un d'*eux* m'a donné son numéro de téléphone.
-  Einer von *ihnen* hat mir seine Telefonnummer gegeben.
+  One of them gave me his phone number.
 
   Cette maison appartient à *eux* depuis des générations.
-  Dieses Haus gehört seit Generationen *ihnen*.
+  This house has been theirs for generations.
 
   Je ne pense pas à moi, mais à *eux*.
-  Ich denke nicht an mich, sondern an *sie*.
+  I'm not thinking about myself, I'm thinking about them.
 
   *Eux* aussi viendront à la fête d'anniversaire.
-  *Sie* werden auch zur Geburtstagsfeier kommen.
+  *They*'re coming to the birthday party too.
 
   Les enfants jouent entre *eux* dans le jardin.
-  Die Kinder spielen unter *sich* im Garten.
+  The children are playing with each other in the garden.
 
   Mes parents, *eux*, préfèrent rester à la maison.
-  Meine Eltern, *die* bleiben lieber zu Hause.
+  My parents, on the other hand, prefer to stay home.
 
   "*Eux*, monter une entreprise ? Impossible !"
-  "*Die* wollen ein Unternehmen gründen? Unmöglich!"
+  "*They*'re going to start a business?
 
   C'est à *eux* de prendre la décision finale.
-  *Sie* müssen die endgültige Entscheidung treffen.
+  It's up to them to make the final decision.
 
   Il est plus grand qu'*eux* tous.
-  Er ist größer als *sie* alle.
+  He's bigger than all of them.
 
   Je vais chez *eux* ce weekend.
-  Ich gehe dieses Wochenende zu *ihnen*.
+  I'm going to their house this weekend.
 
   *Eux-mêmes* ont reconnu leurs erreurs.
-  *Sie selbst* haben ihre Fehler eingesehen.
+  They themselves admitted their mistakes.
 
   Les chats, *eux*, dorment toute la journée.
-  Die Katzen, *die* schlafen den ganzen Tag.
+  Cats, on the other hand, sleep all day.
 
   Nous pensons différemment d'*eux*.
-  Wir denken anders als *sie*.
+  We think differently about them.
 
   Arrangez-vous avec *eux* pour les détails.
-  Besprechen Sie die Details mit *ihnen*.
+  Make arrangements with them for details.
 
   *À eux deux*, ils peuvent soulever cette table.
-  *Zu zweit* können sie diesen Tisch heben.
+  *Both of them* can lift this table.
 
   "*Eux*, ils n'ont rien compris !"
-  "*Die* haben gar nichts verstanden!"
+  "*They* didn't understand anything!"
 
   Cette décision dépend d'*eux*.
-  Diese Entscheidung hängt von *ihnen* ab.
+  That's up to them.
 
   Nous partirons avant *eux*.
-  Wir werden vor *ihnen* abreisen.
+  We'll leave before *they* do.
 
   Marie est comme *eux* : toujours en retard.
-  Marie ist wie *sie*: immer zu spät.
+  Marie is like them: always late.
 
   Ils sont très fiers d'*eux-mêmes*.
-  Sie sind sehr stolz auf *sich*.
+  They're very proud of *themselves*.
 
   C'est grâce à *eux* que nous avons réussi.
-  Dank *ihnen* haben wir es geschafft.
+  It's because of them that we've succeeded.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

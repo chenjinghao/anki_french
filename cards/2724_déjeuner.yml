@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2724
 Wort: déjeuner
 Wortart: vi, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le déjeuner
 Femininum / Plural: ''
 IPA: \de.ʒœ.ne\
-Definition: Mittagessen
+Definition: Lunch
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous achevons de *déjeuner* à la française.
-  Wir beenden unser *Mittagessen* auf französische Art.
+  We're finishing our French luncheon.
 
   J'ai invité Marie à *déjeuner* dimanche prochain.
-  Ich habe Marie für nächsten Sonntag zum *Mittagessen* eingeladen.
+  I invited Marie to *lunch* next Sunday.
 
   Nous aurons Pierre et Sophie à *déjeuner* demain.
-  Wir werden Pierre und Sophie morgen zum *Mittagessen* bei uns haben.
+  We'll have Pierre and Sophie for *lunch* tomorrow.
 
   Il ne *déjeune* que d'un café noir le matin.
-  Er *frühstückt* nur einen schwarzen Kaffee.
+  He only eats a black coffee in the morning.
 
   Le *déjeuner* d'affaires aura lieu dans un restaurant chic.
-  Das Geschäfts*mittagessen* wird in einem schicken Restaurant stattfinden.
+  The business *lunch* will take place in a fancy restaurant.
 
   "Je *déjeune* toujours sur le pouce pendant ma pause."
-  "Ich *esse* in meiner Pause immer schnell *zu Mittag*."
+  "I always have *lunch* on my thumb during my break".
 
   Elle *déjeune* d'une salade tous les midis.
-  Sie *isst* jeden Mittag einen Salat *zu Mittag*.
+  She eats a salad every morning.
 
   As-tu déjà préparé le *déjeuner* pour les enfants ?
-  Hast du das *Mittagessen* für die Kinder schon vorbereitet?
+  Have you ever cooked *lunch* for the kids?
 
   Son nouveau régime végétarien influence ses habitudes de *déjeuner*.
-  Seine neue vegetarische Ernährung beeinflusst seine *Mittags*gewohnheiten.
+  Her new vegetarian diet influences her eating habits.
 
   Pendant les vacances, nous aimons *déjeuner* sur l'herbe.
-  Im Urlaub *picknicken* wir gern.
+  During the holidays, we like to have *lunch* on the grass.
 
   Il faut que je *déjeune* avant mon rendez-vous.
-  Ich muss vor meinem Termin *zu Mittag essen*.
+  I have to have *lunch* before my appointment.
 
   Le *déjeuner* est servi dans la salle à manger.
-  Das *Mittagessen* wird im Esszimmer serviert.
+  *Lunch* is served in the dining room.
 
   Cette promesse n'aura été qu'un *déjeuner* de soleil.
-  Dieses Versprechen war nur von kurzer *Dauer*.
+  That promise would have been nothing but a sunny *lunch*.
 
   As-tu pris ton petit *déjeuner* ce matin ?
-  Hast du heute Morgen *gefrühstückt*?
+  Did you have your breakfast this morning?
 
   Je *déjeune* toujours au restaurant le vendredi.
-  Freitags *esse* ich immer im Restaurant *zu Mittag*.
+  I always have *lunch* at the restaurant on Fridays.
 
   Le *déjeuner* froid attend dans le frigo.
-  Das kalte *Mittagessen* wartet im Kühlschrank.
+  The cold *lunch* is waiting in the fridge.
 
   Nous organisons un *déjeuner*-débat la semaine prochaine.
-  Wir organisieren nächste Woche ein Diskussions*mittagessen*.
+  We're having a *lunch* debate next week.
 
   Il aime prendre son *déjeuner* dans son lit le dimanche.
-  Er *frühstückt* gerne sonntags im Bett.
+  He likes to have *lunch* in his bed on Sundays.
 
   La nouvelle tasse à *déjeuner* est en porcelaine fine.
-  Die neue *Frühstücks*tasse ist aus feinem Porzellan.
+  The new luncheon cup is fine porcelain.
 
   À quelle heure voulez-vous *déjeuner* demain ?
-  Wann möchten Sie morgen *zu Mittag essen*?
+  What time do you want *lunch* tomorrow?
 
   Les magasins ferment à l'heure du *déjeuner*.
-  Die Geschäfte schließen zur *Mittags*zeit.
+  Shops close at lunchtime.
 
   Un *déjeuner* copieux nous attend chez grand-mère.
-  Bei Großmutter wartet ein üppiges *Mittagessen* auf uns.
+  We'll have a nice *lunch* at Grandma's.
 
   Le *déjeuner* dînatoire se prolongera jusqu'au soir.
-  Das späte *Mittagessen* wird sich bis zum Abend hinziehen.
+  The luncheon will last until evening.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

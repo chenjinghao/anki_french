@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1271
 Wort: néanmoins
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: néanmoins
 Femininum / Plural: ''
 IPA: \ne.ɑ̃.mwɛ̃\
-Definition: nichtsdestotrotz
+Definition: Nevertheless
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Avez-vous *néanmoins* un code de discipline à respecter?
-  Gibt es *dennoch* einen Verhaltenskodex, den Sie einhalten müssen?
+  However, do you have a code of discipline to follow?
 
   Il pleuvait *néanmoins* nous sommes allés faire une promenade.
-  Es regnete, *trotzdem* sind wir spazieren gegangen.
+  It was raining, but we went for a walk.
 
   Le film était long, *néanmoins* il était captivant du début à la fin.
-  Der Film war lang, *dennoch* war er von Anfang bis Ende fesselnd.
+  The movie was long, yet it was captivating from start to finish.
 
   Malgré son jeune âge, elle était *néanmoins* très mature pour ses années.
-  Trotz ihres jungen Alters war sie *nichtsdestotrotz* sehr reif für ihr Alter.
+  Despite her young age, she was *nevertheless* very mature for her years.
 
   *Néanmoins*, je tiens à souligner l'importance de cette décision.
-  *Dennoch* möchte ich die Wichtigkeit dieser Entscheidung betonen.
+  *Nevertheless*, I would like to emphasize the importance of this decision.
 
   Le restaurant était cher, la nourriture était *néanmoins* excellente.
-  Das Restaurant war teuer, das Essen war *trotzdem* ausgezeichnet.
+  The restaurant was expensive, but the food was excellent.
 
   Bien que fatigué, il a *néanmoins* terminé son travail à temps.
-  Obwohl er müde war, hat er seine Arbeit *dennoch* pünktlich beendet.
+  Although tired, he finished his work on time.
 
   Elle n'aimait pas le sport, elle a *néanmoins* participé au marathon.
-  Sie mochte Sport nicht, hat *trotzdem* am Marathon teilgenommen.
+  She didn't like sports, but she did participate in the marathon.
 
   Le candidat a perdu l'élection, il reste *néanmoins* optimiste pour l'avenir.
-  Der Kandidat hat die Wahl verloren, bleibt *nichtsdestoweniger* optimistisch für die Zukunft.
+  The candidate lost the election, but he remains optimistic about the future.
 
   *Néanmoins*, nous devons considérer toutes les options avant de prendre une décision.
-  *Trotzdem* müssen wir alle Optionen in Betracht ziehen, bevor wir eine Entscheidung treffen.
+  *Nevertheless*, we must consider all options before making a decision.
 
   La route était longue et difficile, ils sont *néanmoins* arrivés à destination.
-  Die Strecke war lang und schwierig, sie sind *dennoch* am Ziel angekommen.
+  The journey was long and difficult, yet they reached their destination.
 
   Le projet était ambitieux, l'équipe a *néanmoins* réussi à le réaliser dans les délais.
-  Das Projekt war ehrgeizig, dem Team ist es *trotzdem* gelungen, es fristgerecht umzusetzen.
+  The project was ambitious, but the team was able to complete it on time.
 
   *Néanmoins*, il faut reconnaître que des progrès ont été réalisés.
-  *Nichtsdestotrotz* muss man anerkennen, dass Fortschritte erzielt wurden.
+  *Nevertheless*, it must be acknowledged that progress has been made.
 
   La situation est complexe, nous restons *néanmoins* confiants en l'avenir.
-  Die Situation ist komplex, wir bleiben *dennoch* zuversichtlich für die Zukunft.
+  The situation is complex, but we remain confident about the future.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>cependant</i>, <i>pourtant</i>, <i>néanmoins</i> und <i>toutefois</i></div>
+    <div class="section-title"><i>cependant</i>, <i>pourtant</i>, <i>néanmoins</i> and <i>toutefois</i></div>
     <div class="section-content">
-      <p>Diese vier französischen Konjunktionen drücken alle einen Gegensatz aus, ähnlich dem deutschen <span class="de">"jedoch"</span> oder <span class="de">"trotzdem"</span>. Trotz ihrer unterschiedlichen etymologischen Ursprünge werden sie oft synonym verwendet.</p>
+      <p>These four French conjunctions all express a contrast, similar to the German conjunction. <span class="de">"but"</span> or <span class="de">"even though"</span>Despite their different etymological origins, they are often used synonymously.</p>
 
-      <p><span class="fr">Cependant</span> (#352): etymologisch <span class="de">"während dessen"</span>. Es drückt aus, dass etwas parallel zu einer anderen Tatsache existiert.</p>
+      <p><span class="fr">Cependant</span> (#352): etymologically <span class="de">"in the meantime"</span>It expresses that something parallel to another fact exists.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, cependant il est malade.</div>
-        <div class="de spoiler">Er sieht gut aus, jedoch ist er krank.</div>
+        <div class="de spoiler">He looks good, but he's sick.</div>
       </div>
 
-      <p><span class="fr">Pourtant</span> (#460): etymologisch <span class="de">"für eine so große Sache"</span>. Es betont den Kontrast zwischen zwei Fakten.</p>
+      <p><span class="fr">Pourtant</span> #460): etymological <span class="de">"for such a great cause"</span>It emphasizes the contrast between two facts.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, pourtant il est malade.</div>
-        <div class="de spoiler">Er sieht gut aus, trotzdem ist er krank.</div>
+        <div class="de spoiler">He looks good, yet he's sick.</div>
       </div>
 
-      <p><span class="fr">Néanmoins</span>: etymologisch <span class="de">"keineswegs weniger"</span>. Es deutet an, dass der Gegensatz die Hauptaussage nicht mindert.</p>
+      <p><span class="fr">Néanmoins</span>: etymological <span class="de">"in no way less"</span>It suggests that the contrast does not diminish the main statement.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, néanmoins il est malade.</div>
-        <div class="de spoiler">Er sieht gut aus, nichtsdestotrotz ist er krank.</div>
+        <div class="de spoiler">He looks good, but he's still sick.</div>
       </div>
 
-      <p><span class="fr">Toutefois</span> (#770): etymologisch <span class="de">"unter allen Umständen"</span>. Es impliziert, dass die Aussage trotz aller anderen Faktoren gültig bleibt.</p>
+      <p><span class="fr">Toutefois</span> #770): etymological <span class="de">"under all circumstances"</span>It implies that the statement remains valid despite all other factors.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, toutefois il est malade.</div>
-        <div class="de spoiler">Er sieht gut aus, dennoch ist er krank.</div>
+        <div class="de spoiler">He looks good, yet he's sick.</div>
       </div>
-      <p>Trotz ihrer unterschiedlichen Ursprünge und Nuancen werden diese Konjunktionen in der modernen französischen Sprache oft austauschbar verwendet, ohne dass ein klarer Grund für die Bevorzugung des einen gegenüber dem anderen erkennbar wäre.</p>
+      <p>Despite their different origins and nuances, these conjunctions are often used interchangeably in modern French without a clear reason for preferring one over the other.</p>
     </div>
   </div>

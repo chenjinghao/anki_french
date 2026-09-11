@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2622
 Wort: provenance
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la provenance
 Femininum / Plural: ''
 IPA: \pʁɔv.nɑ̃s\
-Definition: Herkunft
+Definition: Where they come from
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les investissements *en provenance de* l'extérieur diminuent.
-  Die Investitionen *aus* dem Ausland gehen zurück.
+  Foreign investment is declining.
 
   Je ne connais pas la *provenance* exacte de ce tableau.
-  Ich kenne die genaue *Herkunft* dieses Gemäldes nicht.
+  I don't know the exact origin of this painting.
 
   Le vol *en provenance de* Paris atterrira dans une heure.
-  Der Flug *aus* Paris wird in einer Stunde landen.
+  The flight *from* Paris will land in an hour.
 
   Cette entreprise vérifie soigneusement la *provenance* de ses matières premières.
-  Dieses Unternehmen überprüft sorgfältig die *Herkunft* seiner Rohstoffe.
+  This company carefully checks the origin of its raw materials.
 
   Les douaniers ont examiné la *provenance* des marchandises importées.
-  Die Zöllner haben die *Herkunft* der importierten Waren untersucht.
+  Customs examined the origin of the imported goods.
 
   On peut retracer la *provenance* de ce mot jusqu'au latin.
-  Man kann die *Herkunft* dieses Wortes bis zum Lateinischen zurückverfolgen.
+  The origin of this word can be traced back to Latin.
 
   Les fruits et légumes de diverses *provenances* sont vendus sur ce marché.
-  Obst und Gemüse verschiedener *Herkünfte* werden auf diesem Markt verkauft.
+  Fruits and vegetables of various origins are sold in this market.
 
   La *provenance* des fonds pour ce projet reste mystérieuse.
-  Die *Herkunft* der Gelder für dieses Projekt bleibt mysteriös.
+  The source of funding for this project remains a mystery.
 
   Ces antiquités sont de *provenance* égyptienne.
-  Diese Antiquitäten sind ägyptischer *Herkunft*.
+  These antiquities are from Egypt.
 
   Le restaurant propose des vins *en provenance directe des* vignobles locaux.
-  Das Restaurant bietet Weine *direkt vom* lokalen Weinberg an.
+  The restaurant offers wines *directly from the* local vineyards.
 
   Les autorités enquêtent sur la *provenance* de ces documents confidentiels.
-  Die Behörden untersuchen den *Ursprung* dieser vertraulichen Dokumente.
+  The authorities are investigating the origin of these confidential documents.
 
   La *provenance* de cette information n'a pas été vérifiée.
-  Die *Quelle* dieser Information wurde nicht überprüft.
+  The origin of this information has not been verified.
 
   Le musée expose des œuvres d'art de *provenances* diverses.
-  Das Museum stellt Kunstwerke verschiedener *Herkunft* aus.
+  The museum displays works of art from various origins.
 
   Les passagers *en provenance de* zones à risque doivent se faire tester.
-  Passagiere *aus* Risikogebieten müssen sich testen lassen.
+  Passengers *from* hazardous areas must be tested.
 
   Cette méthode permet de déterminer la *provenance* géographique des aliments.
-  Diese Methode ermöglicht es, die geografische *Herkunft* von Lebensmitteln zu bestimmen.
+  This method is used to determine the geographical origin of foodstuffs.
 
   La *provenance* des graines est cruciale pour le succès du reboisement.
-  Die *Herkunft* der Samen ist entscheidend für den Erfolg der Wiederaufforstung.
+  The origin of the seeds is crucial to the success of reforestation.
 
   On a reçu un message *en provenance de* la station spatiale.
-  Wir haben eine Nachricht *von* der Raumstation erhalten.
+  We got a message *from* the space station.
 
   Les scientifiques étudient la *provenance* des particules cosmiques.
-  Die Wissenschaftler untersuchen den *Ursprung* der kosmischen Teilchen.
+  Scientists are studying the origin of cosmic particles.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

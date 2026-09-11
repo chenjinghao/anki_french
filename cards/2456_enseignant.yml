@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2456
 Wort: enseignant
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un enseignant
 Femininum / Plural: enseignante
 IPA: \ɑ̃.sɛ.ɲɑ̃\
-Definition: Lehrer, Lehrkraft
+Definition: Teachers, teaching power
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le métier d'*enseignant* n'est pas un métier comme les autres.
-  Der *Lehrer*beruf ist kein Beruf wie jeder andere.
+  Teaching is not a job like any other.
 
   La pénurie d'*enseignants* dans les écoles rurales devient préoccupante.
-  Der *Lehrer*mangel in ländlichen Schulen wird besorgniserregend.
+  The shortage of *teachers* in rural schools is becoming a concern.
 
   Tout le corps *enseignant* s'est réuni dans la salle des professeurs.
-  Der gesamte *Lehr*körper hat sich im Lehrerzimmer versammelt.
+  The entire teaching staff gathered in the *teacher*'s room.
 
   Marie travaille comme *enseignante* spécialisée auprès d'enfants autistes.
-  Marie arbeitet als Sonder*pädagogin* mit autistischen Kindern.
+  Marie works as a *teacher* specialising in children with autism.
 
   Le milieu *enseignant* a vivement réagi à cette nouvelle réforme.
-  Die *Lehrer*schaft hat stark auf diese neue Reform reagiert.
+  The teaching community reacted strongly to this new reform.
 
   Mon frère est devenu *enseignant*-chercheur à l'université.
-  Mein Bruder ist *Lehr*- und Forschungsbeauftragter an der Universität geworden.
+  My brother became a research professor at the university.
 
   Une nouvelle *enseignante* remplacera Madame Dupont pendant son congé.
-  Eine neue *Lehrerin* wird Frau Dupont während ihrer Auszeit vertreten.
+  A new *teacher* will replace Mrs. Dupont while she's on leave.
 
   Le personnel *enseignant* organise une sortie scolaire la semaine prochaine.
-  Das *Lehr*personal organisiert nächste Woche einen Schulausflug.
+  Teachers are organizing a school outing next week.
 
   Les *enseignants* auxiliaires jouent un rôle crucial dans notre école.
-  Die Hilfs*lehrer* spielen eine wichtige Rolle an unserer Schule.
+  Assistant *teachers* play a crucial role in our school.
 
   La fonction *enseignante* exige beaucoup de patience et d'empathie.
-  Die *Lehr*tätigkeit erfordert viel Geduld und Einfühlungsvermögen.
+  Teaching requires a lot of patience and empathy.
 
   Cette année, trois nouveaux *enseignants* ont rejoint notre équipe.
-  Dieses Jahr sind drei neue *Lehrer* zu unserem Team gestoßen.
+  This year, three new *teachers* joined our team.
 
   Les *enseignantes* de maternelle préparent la fête de fin d'année.
-  Die Kindergarten*lehrerinnen* bereiten das Jahresabschlussfest vor.
+  The kindergarten *teachers* are preparing for the end-of-year party.
 
   La grève des *enseignants* durera jusqu'à vendredi prochain.
-  Der *Lehrer*streik wird bis nächsten Freitag dauern.
+  The *teachers*' strike will last until next Friday.
 
   Mon père était *enseignant* de mathématiques pendant quarante ans.
-  Mein Vater war vierzig Jahre lang Mathematik*lehrer*.
+  My father was a math *teacher* for forty years.
 
   Une congrégation *enseignante* a fondé cette école en 1905.
-  Eine *lehrende* Ordensgemeinschaft gründete diese Schule 1905.
+  A teaching congregation founded this school in 1905.
 
   Être *enseignant*, c'est transmettre des connaissances mais aussi des valeurs.
-  *Lehrer* sein bedeutet, nicht nur Wissen, sondern auch Werte zu vermitteln.
+  To be a *teacher* is to pass on knowledge but also values.
 
   Les syndicats d'*enseignants* négocient de meilleures conditions de travail.
-  Die *Lehrer*gewerkschaften verhandeln über bessere Arbeitsbedingungen.
+  *Teachers*' unions are negotiating better working conditions.
 
   Les *enseignants* participent à une formation continue ce week-end.
-  Die *Lehrer* nehmen dieses Wochenende an einer Fortbildung teil.
+  *Teachers* are taking part in continuing training this weekend.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>enseignant</i> und <i>professeur</i></div>
+    <div class="section-title"><i>enseignant</i> and <i>professeur</i></div>
     <div class="section-content">
-      <p><span class="fr">Enseignant</span> ist der allgemeine Begriff für <span class="de">"Lehrkraft"</span> oder <span class="de">"Lehrperson"</span>. Er umfasst alle Personen, die in irgendeiner Form unterrichten.</p>
+      <p><span class="fr">Enseignant</span> is the general term for <span class="de">"Teaching power"</span> or <span class="de">"Teacher"</span>It encompasses all persons who teach in any form.</p>
 
-      <p>Für die Grundschule (<i>niveau primaire</i>) gibt es folgende Bezeichnungen:</p>
+      <p>For primary school (<i>niveau primaire</i>) are as follows:</p>
       <ul>
-        <li><span class="fr">Instituteur/institutrice</span>: offizielle Verwaltungssprache</li>
-        <li><span class="fr">Maître/maîtresse</span>: umgangssprachlich, <span class="de">"Lehrer/Lehrerin"</span></li>
+        <li><span class="fr">Instituteur/institutrice</span>: official administrative language</li>
+        <li><span class="fr">Maître/maîtresse</span>: in everyday language, <span class="de">"Teacher/Teacher"</span></li>
       </ul>
-      <p><span class="fr">Professeur</span> (#1150) bezeichnet Lehrpersonen in der Sekundarstufe, an Colleges, Universitäten oder privaten Bildungseinrichtungen.</p>
+      <p><span class="fr">Professeur</span> (#1150) refers to teachers in secondary schools, colleges, universities or private educational institutions.</p>
 
-      <p>Wichtiger Hinweis: Nur Universitätsprofessoren dürfen den Titel <span class="fr">"Professeur"</span> vor ihrem Namen tragen.</p>
+      <p>Important note: Only university professors are entitled to the title <span class="fr">"Professeur"</span> carrying her name.</p>
 
       <div class="examples">
         <div class="fr">M. le Professeur X enseigne à l'université.</div>
-        <div class="de spoiler">Professor X unterrichtet an der Universität.</div>
+        <div class="de spoiler">Professor X teaches at the university.</div>
         <div class="fr">M. Y est professeur au cégep. (et non M. le Professeur Y)</div>
-        <div class="de spoiler">Herr Y ist Lehrer am Cégep. (und nicht Professor Y)</div>
+        <div class="de spoiler">Mr Y is a teacher at Cégep.</div>
       </div>
     </div>
   </div>

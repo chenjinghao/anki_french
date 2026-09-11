@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2798
 Wort: signification
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la signification
 Femininum / Plural: ''
 IPA: \si.ɲi.fi.ka.sjɔ̃\
-Definition: Bedeutung
+Definition: Importance
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette appellation a une *signification* politique très claire.
-  Diese Bezeichnung hat eine klare politische *Bedeutung*.
+  This appellation has a very clear political significance.
 
   Les sondages n'ont pas de *signification* statistique fiable.
-  Die Umfragen haben keinen verlässlichen statistischen *Aussagewert*.
+  Surveys have no reliable statistical significance.
 
   La *signification* originelle de cette tradition s'est perdue au fil du temps.
-  Die ursprüngliche *Bedeutung* dieser Tradition ist im Laufe der Zeit verloren gegangen.
+  The original *meaning* of this tradition has been lost over time.
 
   Il faut comprendre la *signification* profonde de ce film d'art.
-  Man muss den tieferen *Sinngehalt* dieses Kunstfilms verstehen.
+  We need to understand the profound *meaning* of this art film.
 
   Je cherche la *signification* de son comportement étrange.
-  Ich suche nach einem *Sinn* in seinem seltsamen Verhalten.
+  I'm looking for the *meaning* of his strange behavior.
 
   La *signification* de jugement doit être faite dans les délais légaux.
-  Die *Zustellung* des Urteils muss innerhalb der gesetzlichen Fristen erfolgen.
+  The *meaning* of the judgment must be given within the legal time limits.
 
   Ce geste peut avoir plusieurs *significations* selon les cultures.
-  Diese Geste kann je nach Kultur verschiedene *Bedeutungen* haben.
+  This gesture can have several *meanings* depending on the culture.
 
   Les mots peuvent changer de *signification* avec le temps.
-  Wörter können ihre *Bedeutung* im Laufe der Zeit ändern.
+  Words can change their *meaning* over time.
 
   Son sourire avait une *signification* particulière ce jour-là.
-  Ihr Lächeln hatte an diesem Tag eine besondere *Bedeutung*.
+  Her smile had a special *meaning* that day.
 
   Les experts étudient la *signification* historique de cette découverte.
-  Die Experten untersuchen die historische *Bedeutung* dieser Entdeckung.
+  Experts are studying the historical significance of this discovery.
 
   Certains attribuent une *signification* mystique à ces symboles anciens.
-  Manche schreiben diesen alten Symbolen eine mystische *Bedeutung* zu.
+  Some attribute a mystical *meaning* to these ancient symbols.
 
   Les antonymes sont des mots de *signification* opposée.
-  Antonyme sind Wörter mit entgegengesetzter *Bedeutung*.
+  Anonyms are words with opposite meanings.
 
   La *signification* première du mot diffère de ses connotations.
-  Die primäre *Bedeutung* des Wortes unterscheidet sich von seinen Konnotationen.
+  The original *meaning* of the word differs from its connotations.
 
   J'aimerais connaître la *signification* de ce rêve étrange.
-  Ich würde gerne die *Bedeutung* dieses seltsamen Traums kennen.
+  I'd like to know the *meaning* of this strange dream.
 
   Les résultats n'ont pas atteint le seuil de *signification* requis.
-  Die Ergebnisse haben den erforderlichen *Aussagewert* nicht erreicht.
+  The results did not reach the required significance threshold.
 
   Nous devons analyser la *signification* sociale de ces changements.
-  Wir müssen die gesellschaftliche *Bedeutung* dieser Veränderungen analysieren.
+  We need to analyze the social significance of these changes.
 
   La *signification* du message était claire pour tout le monde.
-  Die *Bedeutung* der Nachricht war für alle klar.
+  The *meaning* of the message was clear to everyone.
 
   Il faut bien réfléchir à la *signification* de nos actes.
-  Man muss über die *Bedeutung* seiner Handlungen gut nachdenken.
+  We need to think carefully about the significance of our actions.
 
   La *signification* de ce symbole reste un mystère pour les archéologues.
-  Die *Bedeutung* dieses Symbols bleibt für die Archäologen ein Rätsel.
+  The *meaning* of this symbol remains a mystery to archaeologists.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

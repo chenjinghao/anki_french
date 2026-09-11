@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 883
 Wort: limiter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: limiter
 Femininum / Plural: ''
 IPA: \li.mi.te\
-Definition: beschränken, einschränken
+Definition: restrict
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les freins *limitent* les transactions informatisées.
-  Die Bremsen *beschränken* die computergestützten Transaktionen.
+  The brakes restrict computerised transactions.
 
   Des mers *limitent* la France à l'ouest et au sud.
-  Meere *begrenzen* Frankreich im Westen und im Süden.
+  Seas border France to the west and south.
 
   Le jury a *limité* à cent le nombre des reçus.
-  Die Jury hat die Zahl der Aufgenommenen auf hundert *begrenzt*.
+  The jury *limited* the number of receipts to a hundred.
 
   Cette loi *limite* la liberté d'association.
-  Dieses Gesetz *schränkt* die Vereinigungsfreiheit *ein*.
+  This law restricts freedom of association.
 
   Je me *limiterai* à quelques observations de détail.
-  Ich werde mich auf einige Detailbeobachtungen *beschränken*.
+  I shall confine myself to a few detailed observations.
 
   Je vais *limiter* mes dépenses au strict minimum.
-  Ich werde meine Ausgaben auf das absolute Minimum *beschränken*.
+  I'm going to keep my expenses to a minimum.
 
   Pour lui, le monde se *limite* à sa famille.
-  Für ihn *beschränkt* sich die Welt auf seine Familie.
+  For him, the world is limited to his family.
 
   Une clôture *limite* le terrain de jeu des enfants.
-  Ein Zaun *begrenzt* den Spielplatz der Kinder.
+  A fence limits the children's playground.
 
   Elle est contrainte de *limiter* son activité physique.
-  Sie ist gezwungen, ihre körperliche Aktivität zu *beschränken*.
+  She's forced to limit her physical activity.
 
   L'épidémie se *limite* au sud de la France.
-  Die Epidemie *beschränkt* sich auf den Süden Frankreichs.
+  The outbreak is confined to the south of France.
 
   Mon budget *limité* ne me permet pas d'acheter une voiture.
-  Mein *begrenztes* Budget erlaubt es mir nicht, ein Auto zu kaufen.
+  My *limited* budget doesn't allow me to buy a car.
 
   "Il faut *limiter* les dégâts avant qu'il ne soit trop tard !"
-  "Wir müssen den Schaden *begrenzen*, bevor es zu spät ist!"
+  "We need to limit the damage before it's too late!"
 
   Ses biens se *limitent* à peu de chose.
-  Sein Besitz *beschränkt* sich auf wenig.
+  His possessions are limited.
 
   Le gouvernement va *limiter* l'accès aux ressources naturelles.
-  Die Regierung wird den Zugang zu natürlichen Ressourcen *beschränken*.
+  The government will restrict access to natural resources.
 
   Je *limite* ma consommation de sucre depuis une semaine.
-  Ich *schränke* meinen Zuckerkonsum seit einer Woche *ein*.
+  I've been limiting my sugar intake for a week.
 
   Son rôle dans la pièce se *limite* à quelques répliques.
-  Seine Rolle im Stück *beschränkt* sich auf wenige Zeilen.
+  Her role in the play is limited to a few replicas.
 
   La ville a décidé de *limiter* la vitesse à 30 km/h.
-  Die Stadt hat beschlossen, die Geschwindigkeit auf 30 km/h zu *begrenzen*.
+  The city has decided to limit the speed to 30 km/h.
 
   Nous devons *limiter* notre impact sur l'environnement.
-  Wir müssen unseren Einfluss auf die Umwelt *begrenzen*.
+  We need to limit our impact on the environment.
 
   Il faut le *limiter* dans son désir d'étendre son domaine.
-  Man muss ihn in seinem Wunsch, sein Gebiet auszuweiten, *einschränken*.
+  It must be limited in its desire to expand its domain.
 
   Les parents *limitent* le temps d'écran de leurs enfants.
-  Die Eltern *begrenzen* die Bildschirmzeit ihrer Kinder.
+  Parents limit their children's screen time.
 
   Je n'ai en lui qu'une confiance *limitée*.
-  Ich habe nur *begrenztes* Vertrauen in ihn.
+  I have only *limited* confidence in him.
 
   Elle se *limite* au strict nécessaire pour économiser.
-  Sie *beschränkt* sich auf das absolut Notwendige, um zu sparen.
+  It is limited to what is strictly necessary to save.
 
   Cette mesure *limite* nos moyens d'action.
-  Diese Maßnahme *schränkt* unsere Handlungsmöglichkeiten *ein*.
+  This measure limits our means of action.
 
   Les médecins *limitent* les visites à une heure par jour.
-  Die Ärzte *beschränken* die Besuche auf eine Stunde pro Tag.
+  Doctors limit visits to one hour a day.
 
   La neige *limite* la visibilité sur la route.
-  Der Schnee *schränkt* die Sicht auf der Straße *ein*.
+  The snow limits visibility on the road.
 
   Nous devons nous *limiter* à une question par personne.
-  Wir müssen uns auf eine Frage pro Person *beschränken*.
+  We have to limit ourselves to one question per person.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

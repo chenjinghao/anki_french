@@ -166,7 +166,7 @@ function initClozeGame({
   const sortedWords = [...words].sort((a, b) =>
     a
       .replace("*", "")
-      .localeCompare(b.replace("*", ""), "de", { sensitivity: "base" })
+      .localeCompare(b.replace("*", ""), "en", { sensitivity: "base" })
   );
 
   let hasStarButton = false;

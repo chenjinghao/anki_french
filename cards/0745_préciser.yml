@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 745
 Wort: préciser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: préciser
 Femininum / Plural: ''
 IPA: \pʁe.si.ze\
-Definition: genau angeben, klarstellen
+Definition: specify exactly, clarify
 Register: ↗Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *préciserai* seulement deux choses.
-  Ich werde nur zwei Dinge *klarstellen*.
+  I'm just going to clarify two things.
 
   Pouvez-vous *préciser* l'heure de votre arrivée ?
-  Können Sie die Zeit Ihrer Ankunft genau *angeben*?
+  Can you specify the time of your arrival?
 
   La situation se *précise* de jour en jour.
-  Die Situation *zeichnet sich* von Tag zu Tag klarer *ab*.
+  The situation is becoming clearer every day.
 
   Dans son testament, il a *précisé* ses dernières volontés.
-  In seinem Testament hat er seinen letzten Willen *klargestellt*.
+  In his will, he *specified* his last wills.
 
   « Il faut *préciser* que je n'étais pas présent », a déclaré le témoin.
-  "Ich muss *klarstellen*, dass ich nicht anwesend war", erklärte der Zeuge.
+  It must be clarified that I was not present , the witness said.
 
   Le professeur a demandé à l'élève de *préciser* sa pensée.
-  Der Lehrer bat den Schüler, seinen Gedanken genauer zu *erklären*.
+  The teacher asked the student to *clarify* his thinking.
 
   Les contours du projet se *précisent* petit à petit.
-  Die Konturen des Projekts werden nach und nach *klarer*.
+  The outline of the project is gradually being clarified.
 
   Elle a *précisé* qu'elle viendrait en voiture.
-  Sie hat *deutlich gemacht*, dass sie mit dem Auto kommen würde.
+  She said she'd come by car.
 
   Le danger se *précise* à l'horizon.
-  Die Gefahr *zeichnet sich* am Horizont deutlicher *ab*.
+  The danger is clear on the horizon.
 
   Pourriez-vous *préciser* votre question ?
-  Könnten Sie Ihre Frage genauer *erläutern*?
+  Could you *clarify* your question?
 
   L'auteur *précise* dans une note de bas de page que ce passage est autobiographique.
-  Der Autor *stellt* in einer Fußnote *klar*, dass diese Passage autobiographisch ist.
+  The author states in a footnote that this passage is autobiographical.
 
   Les intentions de nos concurrents se *précisent*.
-  Die Absichten unserer Konkurrenten werden *deutlicher*.
+  The intentions of our competitors are clear.
 
   Il faut *préciser* le lieu de la réunion.
-  Der Ort des Treffens muss genau *angegeben* werden.
+  We need to specify the meeting place.
 
   Le directeur a *précisé* les objectifs du trimestre.
-  Der Direktor hat die Ziele des Quartals *konkretisiert*.
+  The director has set out the goals for the quarter.
 
   La méthode doit être *précisée* davantage.
-  Die Methode muss genauer *dargestellt* werden.
+  The method needs to be more specific.
 
   Les symptômes se *précisent* de plus en plus.
-  Die Symptome werden immer *deutlicher*.
+  The symptoms are getting clearer and clearer.
 
   Je dois *préciser* que ce n'est qu'une hypothèse.
-  Ich muss *klarstellen*, dass dies nur eine Hypothese ist.
+  I must *clarify* that this is only a hypothesis.
 
   L'image se *précise* dans mon esprit.
-  Das Bild wird in meinem Kopf *klarer*.
+  The picture is clear in my mind.
 
   Veuillez *préciser* vos intentions.
-  Bitte *erläutern* Sie Ihre Absichten.
+  Please state your intentions.
 
   Le commissaire a *précisé* les circonstances de l'accident.
-  Der Kommissar hat die Umstände des Unfalls *dargelegt*.
+  The Commissioner explained the circumstances of the accident.
 
   Les conséquences du changement climatique se *précisent* chaque année.
-  Die Folgen des Klimawandels *zeichnen sich* jedes Jahr deutlicher *ab*.
+  The consequences of climate change are becoming clearer every year.
 
   Il faudrait *préciser* les modalités de paiement.
-  Die Zahlungsmodalitäten müssen genauer *angegeben* werden.
+  Payment arrangements should be specified.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

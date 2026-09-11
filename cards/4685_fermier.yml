@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4685
 Wort: fermier
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le fermier
 Femininum / Plural: fermière
 IPA: \fɛʁ.mje\
-Definition: Bauer; Land-
+Definition: Farmers, farmers and farmers
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *fermiers* ont des journées très remplies.
-  Die *Bauern* haben sehr ausgefüllte Tage.
+  *Farmers* have busy days.
 
   Notre *fermière* élève des vaches laitières depuis vingt ans.
-  Unsere *Bäuerin* züchtet seit zwanzig Jahren Milchkühle.
+  Our *farmer* has been raising dairy cows for 20 years.
 
   Le *fermier* a décidé de renouveler son bail pour cinq ans.
-  Der *Pächter* hat beschlossen, seinen Pachtvertrag um fünf Jahre zu verlängern.
+  The *farmer* decided to renew his lease for five years.
 
   J'adore le goût authentique du beurre *fermier*.
-  Ich liebe den authentischen Geschmack der *Bauern*butter.
+  I love the authentic taste of *farmer*'s butter.
 
   Cette famille de *fermiers* cultive ces terres depuis trois générations.
-  Diese *Bauern*familie bewirtschaftet das Land seit drei Generationen.
+  This family of *farmers* has been farming these lands for three generations.
 
   La nouvelle *fermière* a modernisé toutes les installations.
-  Die neue *Pächterin* hat alle Anlagen modernisiert.
+  The new *farmer* has modernized all the facilities.
 
   Les œufs *fermiers* sont vendus directement aux clients.
-  Die *Bauernhof*eier werden direkt an die Kunden verkauft.
+  Farmer's eggs are sold directly to customers.
 
   Le *fermier* travaille dur pour nourrir ses animaux en hiver.
-  Der *Bauer* arbeitet hart, um seine Tiere im Winter zu füttern.
+  The *farmer* works hard to feed his animals in the winter.
 
   Cette *fermière* produit du fromage de chèvre artisanal.
-  Diese *Bäuerin* stellt handgemachten Ziegenkäse her.
+  This *farmer* produces artisanal goat cheese.
 
   Les poulets *fermiers* grandissent en plein air.
-  Die *Bauernhof*hühner wachsen im Freien auf.
+  Farm chickens grow outdoors.
 
   Je préfère acheter du lait *fermier* au marché.
-  Ich kaufe lieber *Bauern*milch auf dem Markt.
+  I'd rather buy *farmer*'s milk at the market.
 
   La jeune *fermière* a repris l'exploitation de ses parents.
-  Die junge *Bäuerin* hat den Hof ihrer Eltern übernommen.
+  The young *farmer* took over the farm from her parents.
 
   Les canards *fermiers* nagent dans la mare.
-  Die *Bauernhof*enten schwimmen im Teich.
+  Farmer ducks swim in the swamp.
 
   Ce *fermier* cultive uniquement des produits biologiques.
-  Dieser *Bauer* baut ausschließlich Bio-Produkte an.
+  This *farmer* grows only organic produce.
 
   La *fermière* vend ses légumes sur le marché local.
-  Die *Bäuerin* verkauft ihr Gemüse auf dem lokalen Markt.
+  The *farmer* sells her vegetables at the local market.
 
   Notre *fermier* a modernisé ses méthodes de culture.
-  Unser *Pächter* hat seine Anbaumethoden modernisiert.
+  Our *farmer* has modernized his cultivation methods.
 
   Les produits *fermiers* sont de plus en plus recherchés.
-  *Bauernhof*produkte sind immer gefragter.
+  Agricultural products are increasingly sought after.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>agriculteur</i> und <i>fermier</i></div>
+    <div class="section-title"><i>agriculteur</i> and <i>fermier</i></div>
     <div class="section-content">
-      <p><span class="fr">Agriculteur</span> (#2306) ist der allgemeine Begriff für <span class="de">"Landwirt"</span> oder <span class="de">"Bauer"</span>. Es bezeichnet jemanden, der professionell Landwirtschaft betreibt, unabhängig davon, ob er das Land besitzt oder pachtet.</p>
+      <p><span class="fr">Agriculteur</span> (#2306) is the general term for <span class="de">"Land owner"</span> or <span class="de">"Farmers"</span>It refers to a person who is engaged in professional farming, whether he owns or leases the land.</p>
       <div class="examples">
         <div class="fr">L'agriculteur moderne utilise des techniques avancées pour améliorer ses rendements.</div>
-        <div class="de spoiler">Der moderne Landwirt verwendet fortgeschrittene Techniken, um seine Erträge zu verbessern.</div>
+        <div class="de spoiler">The modern farmer uses advanced techniques to improve his yields.</div>
         <div class="fr">Elle est devenue agricultrice après ses études d'agronomie.</div>
-        <div class="de spoiler">Sie wurde Landwirtin nach ihrem Agronomie-Studium.</div>
+        <div class="de spoiler">She became a farmer after studying agronomy.</div>
       </div>
-      <p><span class="fr">Fermier</span> bezeichnet spezifisch einen <span class="de">"Pächter"</span> oder <span class="de">"Bauern"</span>, der Land oder einen Betrieb pachtet, anstatt ihn zu besitzen. Es kann auch allgemein für einen Landwirt verwendet werden, hat aber oft diese spezifische Konnotation.</p>
+      <p><span class="fr">Fermier</span> specifically refers to a <span class="de">"Property owners"</span> or <span class="de">"Farmers"</span>It can also be commonly used for a farmer, but often has this specific connotation.</p>
       <div class="examples">
         <div class="fr">Le fermier paie un loyer annuel au propriétaire du domaine.</div>
-        <div class="de spoiler">Der Pächter zahlt dem Eigentümer des Guts eine jährliche Pacht.</div>
+        <div class="de spoiler">The tenant pays an annual rent to the owner of the property.</div>
         <div class="fr">Cette fermière élève des vaches laitières depuis vingt ans.</div>
-        <div class="de spoiler">Diese Bäuerin züchtet seit zwanzig Jahren Milchkühe.</div>
+        <div class="de spoiler">This farmer has been raising dairy cows for twenty years.</div>
       </div>
     </div>
   </div>

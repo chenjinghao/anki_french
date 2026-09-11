@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1813
 Wort: faciliter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: faciliter
 Femininum / Plural: ''
 IPA: \fa.si.li.te\
-Definition: erleichtern
+Definition: to facilitate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je voudrais *faciliter* votre décision.
-  Ich möchte Ihnen die Entscheidung *erleichtern*.
+  I'd like *to facilitate* your decision.
 
   Les nouvelles technologies *facilitent* grandement la communication entre les équipes.
-  Die neuen Technologien *erleichtern* die Kommunikation zwischen den Teams erheblich.
+  New technologies greatly facilitate communication between teams.
 
   Cette application va *faciliter* les démarches administratives.
-  Diese App wird die Verwaltungsvorgänge *vereinfachen*.
+  This application will facilitate administrative procedures.
 
   Son obstination ne *facilite* pas les négociations.
-  Seine Sturheit macht die Verhandlungen nicht *leichter*.
+  His stubbornness doesn't *make it easy* to negotiate.
 
   Le nouveau système *facilitera* l'accès aux documents.
-  Das neue System wird den Zugang zu den Dokumenten *erleichtern*.
+  The new system will facilitate access to documents.
 
   Ces exercices *facilitent* l'apprentissage des langues étrangères.
-  Diese Übungen *erleichtern* das Erlernen von Fremdsprachen.
+  These exercises *make it easier* to learn foreign languages.
 
   Le professeur a *facilité* la compréhension du texte.
-  Der Lehrer hat das Textverständnis *erleichtert*.
+  The teacher made the text easier to understand.
 
   Cette tisane *facilite* la digestion après les repas.
-  Dieser Tee *fördert* die Verdauung nach den Mahlzeiten.
+  This teaspoon makes it easier to digest after meals.
 
   Elle essaie toujours de se *faciliter* la vie.
-  Sie versucht immer, sich das Leben *leichter* zu machen.
+  She's always trying to make her life easier.
 
   L'argent *facilitera* certainement les choses.
-  Das Geld wird die Sachen bestimmt *vereinfachen*.
+  Money will certainly make things easier.
 
   Le beau temps a *facilité* notre voyage.
-  Das schöne Wetter hat unsere Reise *erleichtert*.
+  The good weather made our trip easier.
 
   Je ne fais rien pour me *faciliter* la tâche.
-  Ich tue nichts, um mir die Aufgabe zu *erleichtern*.
+  I'm not doing anything to make it easier for me.
 
   Cette formation *facilitera* votre intégration dans l'entreprise.
-  Diese Schulung wird Ihre Integration ins Unternehmen *erleichtern*.
+  This training will facilitate your integration into the company.
 
   Les ponts *facilitent* le passage des rivières.
-  Brücken *erleichtern* die Überquerung von Flüssen.
+  Bridges *make it easier* to cross rivers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

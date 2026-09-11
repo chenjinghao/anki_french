@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3499
 Wort: formé
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: formé
 Femininum / Plural: formée
 IPA: \fɔʁ.me\
-Definition: gebildet, ausgebildet
+Definition: trained
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une fois *formé*, le profit est réglementé.
-  Sobald der Gewinn *gebildet* ist, wird er reguliert.
+  Once formed, the profit is regulated.
 
   Les lettres sont mal *formées* dans ce texte.
-  Die Buchstaben sind in diesem Text schlecht *geformt*.
+  The letters are poorly formed in this text.
 
   Cette pomme n'est pas encore *formée*.
-  Dieser Apfel ist noch nicht voll *ausgebildet*.
+  This apple hasn't formed yet.
 
   Les pêches seront bientôt *formées*.
-  Die Pfirsiche werden bald voll *ausgebildet* sein.
+  The fish will soon be formed.
 
   Son jugement est bien *formé*.
-  Sein Urteilsvermögen ist gut *ausgebildet*.
+  His judgment is well formed.
 
   Les mots sont bien *formés* dans son essai.
-  Die Wörter sind in seinem Aufsatz gut *gebildet*.
+  The words are well formed in his essay.
 
   Le mot « courriel » est un néologisme bien *formé*.
-  Das Wort "courriel" ist ein gut *gebildeter* Neologismus.
+  The word  email  is a well-formed neologism.
 
   Les épis de maïs sont déjà *formés*.
-  Die Maiskolben sind bereits voll *ausgebildet*.
+  The cornseeds are already formed.
 
   Cette idée s'est *formée* dans son esprit hier soir.
-  Diese Idee hat sich gestern Abend in seinem Geist *geformt*.
+  This idea formed in his mind last night.
 
   L'accusation a été mal *formée*.
-  Die Anklage wurde falsch *formuliert*.
+  The prosecution was ill-formed.
 
   Les grappes de raisin sont bien *formées* cette année.
-  Die Weintrauben sind dieses Jahr gut *ausgebildet*.
+  The grape clusters are well formed this year.
 
   Son goût artistique est bien *formé*.
-  Sein Kunstgeschmack ist gut *ausgebildet*.
+  His artistic taste is well formed.
 
   Ces caractères sont mal *formés* sur l'écran.
-  Diese Zeichen sind auf dem Bildschirm schlecht *geformt*.
+  These characters are poorly *trained* on the screen.
 
   Les bourgeons ne sont pas encore *formés*.
-  Die Knospen sind noch nicht voll *ausgebildet*.
+  The buds aren't formed yet.
 
   La phrase est correctement *formée*.
-  Der Satz ist korrekt *gebildet*.
+  The sentence is formatted correctly.
 
   Les fruits sont déjà *formés* sur l'arbre.
-  Die Früchte sind am Baum schon voll *ausgebildet*.
+  The fruit is already formed on the tree.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

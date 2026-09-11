@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 899
 Wort: insister
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: insister
 Femininum / Plural: ''
 IPA: \ɛ̃.sis.te\
-Definition: auf etw. bestehen
+Definition: to insist on, etc
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle *insistait* pour m'accompagner, je refusai.
-  Sie *bestand darauf*, mich zu begleiten, aber ich lehnte ab.
+  She *insisted* on coming with me, but I refused.
 
   Le professeur *insiste* sur l'importance de la pratique régulière.
-  Der Lehrer *betont* die Wichtigkeit regelmäßigen Übens.
+  The teacher emphasizes the importance of regular practice.
 
   Malgré son refus initial, Pierre a continué à *insister*.
-  Trotz seiner anfänglichen Ablehnung *beharrte* Pierre weiter *darauf*.
+  Despite his initial refusal, Pierre continued *to insist*.
 
   "*N'insistez pas*, s'il vous plaît, ma décision est prise."
-  "Bitte *drängen Sie nicht weiter*, meine Entscheidung steht fest."
+  "Please don't insist, my decision is made".
 
   Les parents *insistent* pour que leurs enfants mangent des légumes.
-  Die Eltern *bestehen darauf*, dass ihre Kinder Gemüse essen.
+  Parents insist that their children eat vegetables.
 
   Je dois *insister* sur le fait que cette information est confidentielle.
-  Ich muss *nachdrücklich betonen*, dass diese Information vertraulich ist.
+  I must insist that this information is confidential.
 
   Elle a *insisté* pour payer l'addition, alors j'ai accepté.
-  Sie *bestand darauf*, die Rechnung zu bezahlen, also habe ich es akzeptiert.
+  She *insisted* on paying the fee, so I agreed.
 
   Le médecin *insiste* sur l'importance d'une alimentation équilibrée.
-  Der Arzt *legt Nachdruck* auf die Bedeutung einer ausgewogenen Ernährung.
+  The doctor emphasizes the importance of a balanced diet.
 
   Pourquoi *insistes*-tu tant pour venir avec nous ?
-  Warum *bestehst* du so sehr *darauf*, mit uns zu kommen?
+  Why do you insist so much on coming with us?
 
   Il faut *insister* sur ce point lors de la prochaine réunion.
-  Wir müssen bei der nächsten Sitzung auf diesen Punkt *beharren*.
+  This point must be stressed at the next meeting.
 
   Les syndicats *insistent* pour obtenir de meilleures conditions de travail.
-  Die Gewerkschaften *drängen* auf bessere Arbeitsbedingungen.
+  Trade unions insist on better working conditions.
 
   J'ai dû *insister* plusieurs fois avant d'obtenir un rendez-vous.
-  Ich musste mehrmals *nachhaken*, bevor ich einen Termin bekam.
+  I had *to insist* several times before I got an appointment.
 
   Le directeur *insiste* pour que le rapport soit remis avant vendredi.
-  Der Direktor *besteht darauf*, dass der Bericht vor Freitag eingereicht wird.
+  The director *insists* that the report be delivered by Friday.
 
   Malgré mes explications, il continue à *insister*.
-  Trotz meiner Erklärungen *gibt* er nicht *nach*.
+  Despite my explanations, he keeps insisting.
 
   Elle *insiste* toujours sur la ponctualité lors des réunions.
-  Sie *legt* bei Besprechungen immer *Wert* auf Pünktlichkeit.
+  She always *insists* on being on time at the meetings.
 
   *N'insistez pas*, je ne changerai pas d'avis sur cette question.
-  *Drängen Sie nicht weiter*, ich werde meine Meinung zu dieser Frage nicht ändern.
+  Don't insist, I won't change my mind about this.
 
   Les chercheurs *insistent* sur la nécessité de poursuivre les études.
-  Die Forscher *betonen* die Notwendigkeit, die Studien fortzusetzen.
+  The researchers insist on the need for further studies.
 
   Il a *insisté* pour me raccompagner chez moi après la fête.
-  Er *bestand darauf*, mich nach der Party nach Hause zu bringen.
+  He *insisted* on taking me home after the party.
 
   Nous devons *insister* sur l'importance de la sécurité au travail.
-  Wir müssen die Bedeutung der Arbeitssicherheit *hervorheben*.
+  We must emphasize the importance of safety at work.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

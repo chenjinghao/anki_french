@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3745
 Wort: arbitre
 Wortart: nmf, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: arbitre
 Femininum / Plural: ''
 IPA: \aʁ.bitʁ\
-Definition: Schiedsrichter
+Definition: Arbitrators
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un bon *arbitre*. Il *arbitre* bien.
-  Er ist ein guter *Schiedsrichter*. Er *schiedsrichtert* gut.
+  He's a good referee.
 
   L'*arbitre* a sifflé la fin du match.
-  Der *Schiedsrichter* hat das Spielende abgepfiffen.
+  The referee whistled the end of the game.
 
   Les joueurs contestent la décision de l'*arbitre*.
-  Die Spieler fechten die Entscheidung des *Schiedsrichters* an.
+  The players challenge the referee's decision.
 
   Marie sera l'*arbitre* de touche pour le match de demain.
-  Marie wird morgen Linien*richterin* beim Spiel sein.
+  Marie will be the goalkeeper for tomorrow's game.
 
   L'*arbitre* de ligne a signalé que la balle était dehors.
-  Der Linien*richter* hat angezeigt, dass der Ball aus war.
+  The line referee reported that the bullet was out.
 
   L'*arbitre* de ring a arrêté le combat après trois rounds.
-  Der Ring*richter* hat den Kampf nach drei Runden beendet.
+  The ring referee stopped the fight after three rounds.
 
   Nous avons choisi Pierre comme *arbitre* pour résoudre notre conflit.
-  Wir haben Pierre als *Schlichter* für unseren Konflikt gewählt.
+  We chose Pierre as our arbiter to settle our dispute.
 
   Elle a été désignée comme *arbitre* dans cette affaire juridique.
-  Sie wurde in dieser rechtlichen Angelegenheit zur *Schiedsrichterin* ernannt.
+  She has been appointed as an *arbitrator* in this legal case.
 
   Le petit parti est devenu l'*arbitre* de la situation politique.
-  Die kleine Partei ist zum *Vermittler* in der politischen Situation geworden.
+  The small party has become the arbiter of the political situation.
 
   Le philosophe défend le *libre arbitre* comme principe fondamental.
-  Der Philosoph verteidigt den *freien Willen* als grundlegendes Prinzip.
+  The philosopher defends *free will* as a fundamental principle.
 
   L'*arbitre* principal communique avec ses assistants par radio.
-  Der Haupt*schiedsrichter* kommuniziert per Funk mit seinen Assistenten.
+  The head referee communicates with his assistants by radio.
 
   Cette femme *arbitre* des matchs internationaux depuis dix ans.
-  Diese Frau *leitet* seit zehn Jahren internationale Spiele.
+  This woman has been an international referee for ten years.
 
   Ils ont fait appel à un *arbitre* pour régler leur différend commercial.
-  Sie haben einen *Schlichter* hinzugezogen, um ihren Handelsstreit beizulegen.
+  They appealed to an *arbitrator* to settle their business dispute.
 
   L'*arbitre* a sorti un carton rouge dès la première minute.
-  Der *Schiedsrichter* zeigte schon in der ersten Minute die rote Karte.
+  The referee issued a red card from the first minute.
 
   Le syndicat a demandé un *arbitre* indépendant pour les négociations.
-  Die Gewerkschaft hat einen unabhängigen *Vermittler* für die Verhandlungen angefordert.
+  The union has requested an independent *arbitrator* for the negotiations.
 
   La décision de l'*arbitre* est définitive et sans appel.
-  Die Entscheidung des *Schiedsrichters* ist endgültig und nicht anfechtbar.
+  The *arbitrator*'s decision shall be final and without appeal.
 
   L'*arbitre* a été applaudi pour sa gestion équitable du match.
-  Der *Schiedsrichter* wurde für seine faire Spielleitung beklatscht.
+  The referee was applauded for his fair management of the match.
 
   Notre voisin *arbitre* souvent des matchs amateurs le weekend.
-  Unser Nachbar *pfeift* oft Amateurspiele am Wochenende.
+  Our neighbor often refers amateur games on the weekends.
 
   L'*arbitre* international a une grande expérience des matchs difficiles.
-  Der internationale *Schiedsrichter* hat viel Erfahrung mit schwierigen Spielen.
+  The international referee has extensive experience in difficult matches.
 
   Mon père était *arbitre* de football pendant vingt ans.
-  Mein Vater war zwanzig Jahre lang Fußball*schiedsrichter*.
+  My father was a football referee for twenty years.
 
   Les deux équipes ont accepté la décision de l'*arbitre* sans discussion.
-  Beide Mannschaften akzeptierten die Entscheidung des *Schiedsrichters* ohne Diskussion.
+  Both teams accepted the referee's decision without discussion.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

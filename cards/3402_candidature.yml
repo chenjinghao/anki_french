@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3402
 Wort: candidature
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la candidature
 Femininum / Plural: ''
 IPA: \kɑ̃.di.da.tyʁ\
-Definition: Bewerbung
+Definition: Applications to be submitted
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ma *candidature* ne pouvait pas être considérée.
-  Meine *Bewerbung* konnte nicht berücksichtigt werden.
+  My application could not be considered.
 
   Elle a retiré sa *candidature* à la présidence hier soir.
-  Sie hat gestern Abend ihre *Kandidatur* für das Präsidentenamt zurückgezogen.
+  She withdrew her candidacy for president last night.
 
   Je vais envoyer une *candidature* spontanée à cette entreprise.
-  Ich werde bei dieser Firma eine Blind*bewerbung* einreichen.
+  I'm going to send a spontaneous application to this company.
 
   Le maire sortant a officiellement annoncé sa *candidature* pour un second mandat.
-  Der amtierende Bürgermeister hat offiziell seine *Kandidatur* für eine zweite Amtszeit angekündigt.
+  The outgoing mayor has officially announced his candidacy for a second term.
 
   Sophie vient de déposer sa *candidature* pour le poste d'assistante.
-  Sophie hat gerade ihre *Bewerbung* für die Stelle als Assistentin eingereicht.
+  Sophie just applied for the assistant position.
 
   Plusieurs personnes ont renoncé à leur *candidature* après le scandale.
-  Mehrere Personen haben nach dem Skandal ihre *Kandidatur* zurückgezogen.
+  Several people have given up their candidacy after the scandal.
 
   Le comité va examiner votre *candidature* dans les prochains jours.
-  Der Ausschuss wird Ihre *Bewerbung* in den nächsten Tagen prüfen.
+  The committee will consider your application in the next few days.
 
   La *candidature* de Thomas a été rejetée faute d'expérience.
-  Die *Bewerbung* von Thomas wurde wegen mangelnder Erfahrung abgelehnt.
+  Thomas' application was rejected for lack of experience.
 
   Le parti a validé sa *candidature* pour les élections régionales.
-  Die Partei hat seine *Kandidatur* für die Regionalwahlen bestätigt.
+  The party has validated its candidacy for the regional elections.
 
   Il faut renouveler sa *candidature* chaque année pour ce programme.
-  Man muss seine *Bewerbung* für dieses Programm jährlich erneuern.
+  Applications for this programme must be renewed annually.
 
   Comment puis-je préparer ma *candidature* pour augmenter mes chances ?
-  Wie kann ich meine *Bewerbung* vorbereiten, um meine Chancen zu erhöhen?
+  How can I prepare my application to increase my chances?
 
   Marie hésite encore à soumettre sa *candidature* pour ce poste.
-  Marie zögert noch, ihre *Bewerbung* für diese Stelle einzureichen.
+  Marie is still hesitant to apply for this position.
 
   Cette *candidature* surprise a bouleversé tous les pronostics.
-  Diese überraschende *Kandidatur* hat alle Prognosen durcheinandergebracht.
+  This unexpected candidacy has upset all forecasts.
 
   Le délai pour déposer votre *candidature* expire demain.
-  Die Frist für das Einreichen Ihrer *Bewerbung* läuft morgen ab.
+  The deadline for filing your application expires tomorrow.
 
   Les électeurs n'ont pas pris sa *candidature* au sérieux.
-  Die Wähler haben seine *Kandidatur* nicht ernst genommen.
+  Voters didn't take his candidacy seriously.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

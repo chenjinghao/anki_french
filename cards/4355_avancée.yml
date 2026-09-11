@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4355
 Wort: avancée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une avancée
 Femininum / Plural: ''
 IPA: \a.vɑ̃.se\
-Definition: Vormarsch
+Definition: Moving forward
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Reculez. Vous empêchez notre *avancée*.
-  Gehen Sie zur Seite. Sie behindern unseren *Vormarsch*.
+  You're holding us back.
 
   L'*avancée* des troupes ennemies a été stoppée par nos forces.
-  Der *Vormarsch* der feindlichen Truppen wurde von unseren Kräften gestoppt.
+  The advancing enemy troops have been stopped by our forces.
 
   Les scientifiques ont fait une *avancée* spectaculaire dans le traitement du cancer.
-  Die Wissenschaftler haben einen spektakulären *Fortschritt* bei der Krebsbehandlung erzielt.
+  Scientists have made remarkable progress in treating cancer.
 
   L'*avancée* du toit protège les murs de la pluie.
-  Der *Vorsprung* des Daches schützt die Wände vor dem Regen.
+  The front of the roof protects the walls from the rain.
 
   Cette *avancée* technologique pourrait révolutionner l'industrie automobile.
-  Dieser technologische *Fortschritt* könnte die Automobilindustrie revolutionieren.
+  This technological breakthrough could revolutionize the automotive industry.
 
   Les syndicats ont obtenu une *avancée* significative sur les salaires.
-  Die Gewerkschaften haben eine bedeutende *Anhebung* der Löhne erreicht.
+  Trade unions have made a significant advance on wages.
 
   Le balcon crée une *avancée* de deux mètres sur la façade.
-  Der Balkon bildet einen *Vorsprung* von zwei Metern an der Fassade.
+  The balcony creates a two-meter advance on the façade.
 
   La drogue est *en pleine avancée* dans ce quartier.
-  Die Droge ist in diesem Viertel *auf dem Vormarsch*.
+  Drugs are on the rise in this neighborhood.
 
   Cette *avancée* majeure en intelligence artificielle fait la une des journaux.
-  Dieser bedeutende *Fortschritt* in künstlicher Intelligenz macht Schlagzeilen.
+  This major breakthrough in artificial intelligence is on the front page of newspapers.
 
   L'*avancée* du dollar sur les marchés inquiète les investisseurs.
-  Der *Vormarsch* des Dollars auf den Märkten beunruhigt die Investoren.
+  The dollar's rise in the markets is worrying investors.
 
   L'*avancée* du skieur était parfaite dans ce virage.
-  Die *Vorlage* des Skifahrers war in dieser Kurve perfekt.
+  The skier's advance was perfect in that turn.
 
   Une petite *avancée* fortifiée protégeait l'entrée du château.
-  Ein kleiner befestigter *Vorsprung* schützte den Eingang des Schlosses.
+  A small fortified fortress guarded the entrance to the castle.
 
   Il faut vérifier l'*avancée* de la ligne avant de commencer la pêche.
-  Man muss das *Vorfach* der Angelschnur überprüfen, bevor man mit dem Angeln beginnt.
+  It is necessary to check the progress of the line before starting fishing.
 
   Cette découverte représente une *avancée* majeure dans notre compréhension du cerveau.
-  Diese Entdeckung stellt einen bedeutenden *Fortschritt* in unserem Verständnis des Gehirns dar.
+  This discovery represents a major advance in our understanding of the brain.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

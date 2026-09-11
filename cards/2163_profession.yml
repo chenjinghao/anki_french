@@ -1,121 +1,121 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2163
 Wort: profession
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la profession
 Femininum / Plural: ''
 IPA: \pʁɔ.fɛ.sjɔ̃\
-Definition: Beruf
+Definition: Employment
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous faites honte à votre *profession* !
-  Sie machen Ihrer *Berufsgruppe* Schande!
+  You 're a disgrace to your profession !
 
   Quelle est votre *profession* ?
-  Was ist Ihr *Beruf*?
+  What's your profession?
 
   Elle exerce la *profession* d'avocate depuis dix ans.
-  Sie übt den *Beruf* der Rechtsanwältin seit zehn Jahren aus.
+  She's been practicing law for ten years.
 
   Les médecins font partie des *professions* libérales.
-  Ärzte gehören zu den freien *Berufen*.
+  Doctors are part of the liberal professions.
 
   "Je suis chanteur *de profession*", a-t-il déclaré lors de l'interview.
-  "Ich bin *von Beruf* Sänger", erklärte er während des Interviews.
+  "I'm a professional singer", he said in the interview.
 
   La *profession* médicale s'inquiète des nouvelles réformes de santé.
-  Der *Berufsstand* der Ärzte ist besorgt über die neuen Gesundheitsreformen.
+  The medical profession is concerned about new healthcare reforms.
 
   Il a choisi une *profession* à la mode : développeur d'applications mobiles.
-  Er hat einen Mode*beruf* gewählt: Entwickler für mobile Anwendungen.
+  He chose a fashionable profession: mobile app developer.
 
   La *profession* de boulanger exige de se lever tôt.
-  Der *Beruf* des Bäckers erfordert es, früh aufzustehen.
+  The baking profession requires getting up early.
 
   Elle fait *profession de foi* en tant que féministe engagée.
-  Sie legt ein *Bekenntnis* als engagierte Feministin ab.
+  She professes faith as a committed feminist.
 
   Toute la *profession* des enseignants est touchée par cette nouvelle loi.
-  Der gesamte *Berufsstand* der Lehrer ist von diesem neuen Gesetz betroffen.
+  The whole teaching profession is affected by this new law.
 
   Il n'a pas de *profession* fixe, il enchaîne les petits boulots.
-  Er hat keinen festen *Beruf*, er reiht einen Gelegenheitsjob an den anderen.
+  He doesn't have a fixed *occupation*. He's a little bit of a locksmith.
 
   La cérémonie de *profession religieuse* aura lieu demain à l'abbaye.
-  Die Zeremonie des religiösen *Gelübdes* findet morgen in der Abtei statt.
+  The *religious profession* ceremony will take place tomorrow at the abbey.
 
   "C'est un menteur de *profession*", a-t-elle dit en plaisantant.
-  "Er ist ein *Berufslügner*", sagte sie scherzhaft.
+  "He's a professional liar", she said jokingly.
 
   Les *professions* juridiques doivent s'adapter aux nouvelles technologies.
-  Die juristischen *Berufe* müssen sich an die neuen Technologien anpassen.
+  Legal professions must adapt to new technologies.
 
   Elle a embrassé la *profession* d'architecte par passion.
-  Sie hat den *Beruf* der Architektin aus Leidenschaft ergriffen.
+  She embraced the profession of architecture out of passion.
 
   La *profession* de journaliste est en pleine mutation à l'ère du numérique.
-  Der *Beruf* des Journalisten befindet sich im digitalen Zeitalter im Umbruch.
+  The profession of journalism is changing in the digital age.
 
   Il *fait profession* d'athéisme depuis son adolescence.
-  Er *bekennt* sich seit seiner Jugend zum Atheismus.
+  He's been an atheist since he was a teenager.
 
   Les *professions* artisanales sont essentielles à notre économie.
-  Die handwerklichen *Berufe* sind für unsere Wirtschaft unerlässlich.
+  Crafts are essential to our economy.
 
   Sa *profession de foi* politique a surpris ses collègues.
-  Sein politisches *Glaubensbekenntnis* hat seine Kollegen überrascht.
+  His profession of political belief surprised his colleagues.
 
   Elle exerce sa *profession* d'infirmière avec dévouement.
-  Sie übt ihren *Beruf* als Krankenschwester mit Hingabe aus.
+  She is a dedicated nurse.
 
   La *profession* d'expert-comptable requiert une grande rigueur.
-  Der *Beruf* des Wirtschaftsprüfers erfordert große Genauigkeit.
+  The profession of expert accountant requires a great deal of rigour.
 
   Il a changé de *profession* à l'âge de 40 ans pour devenir professeur.
-  Er hat mit 40 Jahren den *Beruf* gewechselt, um Lehrer zu werden.
+  He changed profession at the age of 40 to become a teacher.
 
   La *profession* bancaire doit faire face à de nombreux défis éthiques.
-  Das Bank*gewerbe* muss sich vielen ethischen Herausforderungen stellen.
+  The banking profession faces many ethical challenges.
 
   Elle a choisi une *profession* qui lui permet de voyager constamment.
-  Sie hat einen *Beruf* gewählt, der es ihr ermöglicht, ständig zu reisen.
+  She has chosen a profession that allows her to travel constantly.
 
   Les nouvelles technologies ont révolutionné de nombreuses *professions*.
-  Neue Technologien haben viele *Berufe* revolutioniert.
+  New technologies have revolutionized many professions.
 
   "Je *fais profession* de ne jamais mentir", a-t-il déclaré solennellement.
-  "Ich *bekenne* mich dazu, niemals zu lügen", erklärte er feierlich.
+  "I profess never to lie", he declared solemnly.
 
   La *profession* d'enseignant est noble mais souvent sous-estimée.
-  Der Lehrer*beruf* ist edel, wird aber oft unterschätzt.
+  The profession of teacher is noble but often underestimated.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>métier</i> und <i>profession</i></div>
+    <div class="section-title"><i>métier</i> and <i>profession</i></div>
     <div class="section-content">
-      <p><span class="fr">Métier</span> (#1582) bezieht sich auf einen Beruf oder eine Beschäftigung, oft mit Betonung auf handwerkliche Fähigkeiten oder Kunstfertigkeit. Es vermittelt auch die Idee einer Berufung und wird häufig mit handwerklichen Berufen oder Professionen in Verbindung gebracht, in denen Erfahrung und Expertise hoch geschätzt werden.</p>
+      <p><span class="fr">Métier</span> (#1582) refers to a profession or occupation, often with an emphasis on craftsmanship or skill.It also conveys the idea of a vocation and is often associated with crafts or professions in which experience and expertise are highly valued.</p>
       <div class="examples">
         <div class="fr">Il exerce le métier de menuisier depuis trente ans.</div>
-        <div class="de spoiler">Er übt den Beruf des Tischlers seit dreißig Jahren aus.</div>
+        <div class="de spoiler">He has been a carpenter for thirty years.</div>
         <div class="fr">La poterie est un métier traditionnel dans cette région.</div>
-        <div class="de spoiler">Töpferei ist ein traditionelles Handwerk in dieser Region.</div>
+        <div class="de spoiler">Pottery is a traditional craft in this region.</div>
       </div>
-      <p><span class="fr">Profession</span> bezieht sich typischerweise auf Berufe, die eine spezielle Ausbildung, Bildung oder Qualifikationen erfordern. Oft deutet es auf Bereiche wie Recht, Medizin oder Akademie hin und impliziert ein gewisses Maß an Prestige oder sozialem Status.</p>
+      <p><span class="fr">Profession</span> It typically refers to professions requiring special training, education or qualifications, often referring to fields such as law, medicine or academia, and implies a certain degree of prestige or social status.</p>
       <div class="examples">
         <div class="fr">Après ses études de droit, il a choisi la profession d'avocat.</div>
-        <div class="de spoiler">Nach seinem Jurastudium wählte er den Beruf des Anwalts.</div>
+        <div class="de spoiler">After graduating from law school, he chose the profession of lawyer.</div>
         <div class="fr">En France, la profession médicale est réglementée par l'ordre des médecins.</div>
-        <div class="de spoiler">In Frankreich wird der Ärzteberuf von der Ärztekammer reguliert.</div>
+        <div class="de spoiler">In France, the medical profession is regulated by the medical chamber.</div>
       </div>
     </div>
   </div>

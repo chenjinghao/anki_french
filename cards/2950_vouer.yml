@@ -1,116 +1,116 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2950
 Wort: vouer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: vouer
 Femininum / Plural: ''
 IPA: \vwe\
-Definition: widmen, verschreiben
+Definition: Dedicating, prescribing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous leur *vouons* un grand respect.
-  Wir *zollen* ihnen großen Respekt.
+  We have great respect for them.
 
   Il a *voué* sa vie à la recherche scientifique.
-  Er hat sein Leben der wissenschaftlichen Forschung *gewidmet*.
+  He *dedicated* his life to scientific research.
 
   Les parents ont *voué* leur enfant à la Vierge Marie.
-  Die Eltern haben ihr Kind der Jungfrau Maria *geweiht*.
+  The parents *dedicated* their child to the Virgin Marie.
 
   Elle *voue* une haine tenace à son ancien patron.
-  Sie *hegt* einen hartnäckigen Hass gegen ihren ehemaligen Chef.
+  She hates her ex-boss.
 
   Je me suis *voué* corps et âme à ce projet.
-  Ich habe mich mit Leib und Seele diesem Projekt *verschrieben*.
+  I've *dedicated* my soul and soul to this project.
 
   Cette décision l'a *voué* à l'échec.
-  Diese Entscheidung hat ihn zum Scheitern *verdammt*.
+  That decision was a failure.
 
   Les moines se sont *voués* au célibat.
-  Die Mönche haben sich dem Zölibat *verschrieben*.
+  The monks have committed themselves to celibacy.
 
   Elle *voue* une admiration sans bornes à son mentor.
-  Sie *bringt* ihrem Mentor grenzenlose Bewunderung *entgegen*.
+  She gives her mentor a boundless admiration.
 
   Nous nous sommes *voués* à la protection de l'environnement.
-  Wir haben uns dem Umweltschutz *gewidmet*.
+  We are committed to protecting the environment.
 
   Cette erreur l'a *voué* à la ruine financière.
-  Dieser Fehler hat ihn in den finanziellen Ruin *getrieben*.
+  This error led to his financial ruin.
 
   Il ne savait plus à quel saint se *vouer* pour résoudre ce problème.
-  Er wusste nicht mehr, an welchen Heiligen er sich *wenden* sollte, um dieses Problem zu lösen.
+  He didn't know which saint was going to solve the problem.
 
   Les bénévoles se sont *voués* à aider les sans-abri.
-  Die Freiwilligen haben sich der Hilfe für Obdachlose *verschrieben*.
+  Volunteers volunteered to help the homeless.
 
   Cette entreprise est *vouée* à l'échec dès le départ.
-  Dieses Unternehmen ist von Anfang an zum Scheitern *verurteilt*.
+  This venture is doomed to failure from the start.
 
   Il a *voué* un culte à sa défunte épouse.
-  Er hat seiner verstorbenen Frau einen Kult *gewidmet*.
+  He *dedicated* a cult to his late wife.
 
   Nous nous sommes *voués* à la cause des droits de l'homme.
-  Wir haben uns der Sache der Menschenrechte *verschrieben*.
+  We are committed to the cause of human rights.
 
   Elle *voue* une affection particulière à ses grands-parents.
-  Sie *hegt* eine besondere Zuneigung zu ihren Großeltern.
+  She has a special affection for her grandparents.
 
   Le politicien s'est *voué* à la lutte contre la corruption.
-  Der Politiker hat sich dem Kampf gegen die Korruption *verschrieben*.
+  The politician has *dedicated* himself to fighting corruption.
 
   Cette erreur de jugement l'a *voué* à l'opprobre public.
-  Dieser Fehleinschätzung hat ihn der öffentlichen Schmach *preisgegeben*.
+  This mistaken judgment brought public disgrace upon him.
 
   Les artistes se sont *voués* à la création d'œuvres novatrices.
-  Die Künstler haben sich der Schaffung innovativer Werke *gewidmet*.
+  The artists devoted themselves to creating innovative works.
 
   Il *voue* une passion dévorante à la musique classique.
-  Er *hegt* eine verzehrende Leidenschaft für klassische Musik.
+  He devotes a devouring passion to classical music.
 
   Nous nous sommes *voués* à l'éducation des enfants défavorisés.
-  Wir haben uns der Bildung benachteiligter Kinder *gewidmet*.
+  We are *dedicated* to the education of disadvantaged children.
 
   Cette décision l'a *voué* à une vie de solitude.
-  Diese Entscheidung hat ihn zu einem Leben in Einsamkeit *verdammt*.
+  This decision led him to live a lonely life.
 
   Elle s'est *vouée* à la défense des animaux en danger.
-  Sie hat sich dem Schutz gefährdeter Tiere *verschrieben*.
+  She's *dedicated* to protecting animals in danger.
 
   Le roi a *voué* le royaume à la prospérité.
-  Der König hat das Königreich dem Wohlstand *geweiht*.
+  The king pledged the kingdom to prosperity.
 
   Ils se sont *voués* un amour éternel lors de leur mariage.
-  Sie haben sich bei ihrer Hochzeit ewige Liebe *geschworen*.
+  They pledged eternal love to each other at their wedding.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>consacrer</i> und <i>vouer</i></div>
+    <div class="section-title"><i>consacrer</i> and <i>vouer</i></div>
     <div class="section-content">
-      <p><span class="fr">Consacrer</span> (#750) bedeutet <span class="de">"widmen"</span> oder <span class="de">"weihen"</span>. Es impliziert oft eine feierliche oder offizielle Zuweisung von Zeit, Energie oder Ressourcen für einen bestimmten Zweck.</p>
+      <p><span class="fr">Consacrer</span> #750 means <span class="de">'Dedicated'</span> or <span class="de">"worshipping"</span>It often involves a solemn or official allocation of time, energy or resources for a particular purpose.</p>
       <div class="examples">
         <div class="fr">Il a consacré sa vie à la recherche scientifique.</div>
-        <div class="de spoiler">Er hat sein Leben der wissenschaftlichen Forschung gewidmet.</div>
+        <div class="de spoiler">He has devoted his life to scientific research.</div>
         <div class="fr">Cette église a été consacrée au 12ème siècle.</div>
-        <div class="de spoiler">Diese Kirche wurde im 12. Jahrhundert geweiht.</div>
+        <div class="de spoiler">This church was consecrated in the 12th century.</div>
       </div>
 
-      <p><span class="fr">Vouer</span> (#2950) bedeutet <span class="de">"widmen"</span> oder <span class="de">"verschreiben"</span> im Sinne einer starken, oft emotionalen oder spirituellen Hingabe.</p>
+      <p><span class="fr">Vouer</span> (#2950) means <span class="de">'Dedicated'</span> or <span class="de">'writing'</span> In the sense of a strong, often emotional or spiritual commitment.</p>
       <div class="examples">
         <div class="fr">Elle s'est vouée à aider les plus démunis.</div>
-        <div class="de spoiler">Sie hat sich der Hilfe für die Bedürftigsten verschrieben.</div>
+        <div class="de spoiler">She was dedicated to helping the most needy.</div>
         <div class="fr">Il voue un culte à cet artiste.</div>
-        <div class="de spoiler">Er verehrt diesen Künstler geradezu.</div>
+        <div class="de spoiler">He almost worships this artist.</div>
       </div>
     </div>
   </div>

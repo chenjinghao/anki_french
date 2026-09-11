@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2956
 Wort: démonstration
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la démonstration
 Femininum / Plural: ''
 IPA: \de.mɔ̃s.tʁa.sjɔ̃\
-Definition: Beweis, Demonstration
+Definition: Proof, demonstration
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a répondu par une *démonstration* de force.
-  Er antwortete mit einer Macht*demonstration*.
+  He responded with a *demonstration* of strength.
 
   La *démonstration* du théorème de Pythagore est un classique en mathématiques.
-  Der *Beweis* des Satzes des Pythagoras ist ein Klassiker in der Mathematik.
+  The proof of Pythagorean theorem is a classic in mathematics.
 
   Le vendeur a fait une *démonstration* convaincante du nouveau robot ménager.
-  Der Verkäufer machte eine überzeugende *Vorführung* des neuen Küchenroboters.
+  The seller gave a convincing *demonstration* of the new home robot.
 
   Ses *démonstrations* d'affection étaient toujours excessives.
-  Seine *Bekundungen* der Zuneigung waren immer übertrieben.
+  His expressions of affection were always excessive.
 
   Le professeur a fait une *démonstration* pratique de l'expérience chimique.
-  Der Lehrer machte eine praktische *Demonstration* des chemischen Experiments.
+  The professor gave a practical *demonstration* of the chemical experiment.
 
   La flotte a effectué une *démonstration* navale près des côtes ennemies.
-  Die Flotte führte eine *Demonstration* in der Nähe der feindlichen Küsten durch.
+  The fleet conducted a naval *demonstration* near enemy shores.
 
   Cette preuve constitue une *démonstration* irréfutable de son innocence.
-  Dieser Beweis stellt eine unwiderlegbare *Demonstration* seiner Unschuld dar.
+  This evidence is irrefutable proof of his innocence.
 
   "J'en ai assez de tes *démonstrations* de jalousie !" s'est-elle exclamée.
-  "Ich habe genug von deinen Eifersuchts*bekundungen*!" rief sie aus.
+  "I've had enough of your *demonstrations* of jealousy!" she exclaimed.
 
   La *démonstration* du fonctionnement de l'appareil a convaincu les acheteurs potentiels.
-  Die *Vorführung* der Funktionsweise des Geräts überzeugte die potenziellen Käufer.
+  The *demonstration* of how the device works convinced potential buyers.
 
   Les manifestants ont organisé une *démonstration* pacifique devant le parlement.
-  Die Demonstranten organisierten eine friedliche *Kundgebung* vor dem Parlament.
+  The protesters organized a peaceful *demonstration* in front of the parliament.
 
   Sa *démonstration* logique a mis fin au débat.
-  Seine logische *Beweisführung* beendete die Debatte.
+  His logical *demonstration* ended the debate.
 
   Le magicien a fait une *démonstration* impressionnante de ses nouveaux tours.
-  Der Zauberer machte eine beeindruckende *Vorführung* seiner neuen Tricks.
+  The magician made an impressive *demonstration* of his new tricks.
 
   Les *démonstrations* d'amitié entre les deux pays ont renforcé leurs relations.
-  Die *Bekundungen* der Freundschaft zwischen den beiden Ländern haben ihre Beziehungen gestärkt.
+  The *demonstrations* of friendship between the two countries have strengthened their relations.
 
   Cette *démonstration* mathématique est trop complexe pour les débutants.
-  Dieser mathematische *Beweis* ist zu komplex für Anfänger.
+  This mathematical *demonstration* is too complex for beginners.
 
   Le salon automobile est l'occasion de faire des *démonstrations* de nouveaux modèles.
-  Die Automobilmesse ist eine Gelegenheit für *Vorführungen* neuer Modelle.
+  The car show is an opportunity to demonstrate new models.
 
   Sa *démonstration* de courage a impressionné tout le monde.
-  Seine *Demonstration* von Mut hat alle beeindruckt.
+  Her courageous *demonstration* impressed everyone.
 
   Les scientifiques ont fait une *démonstration* convaincante de leur théorie.
-  Die Wissenschaftler haben eine überzeugende *Demonstration* ihrer Theorie geliefert.
+  The scientists have made a convincing *demonstration* of their theory.
 
   Cette *démonstration* de force n'a pas intimidé les opposants.
-  Diese Macht*demonstration* hat die Gegner nicht eingeschüchtert.
+  This *demonstration* of strength did not intimidate the opponents.
 
   La *démonstration* du logiciel a révélé plusieurs bugs.
-  Die *Vorführung* der Software offenbarte mehrere Fehler.
+  The software *demonstration* revealed several bugs.
 
   Les *démonstrations* de joie dans les rues ont duré toute la nuit.
-  Die Freuden*bekundungen* auf den Straßen dauerten die ganze Nacht an.
+  The joyful *demonstrations* in the streets lasted all night.
 
   Le tribunal a exigé une *démonstration* concrète des faits allégués.
-  Das Gericht forderte einen konkreten *Beweis* für die behaupteten Tatsachen.
+  The court demanded a concrete *demonstration* of the alleged facts.
 
   Cette *démonstration* par l'absurde est particulièrement élégante.
-  Dieser *Beweis* durch Widerspruch ist besonders elegant.
+  This absurd *demonstration* is particularly elegant.
 
   La *démonstration* culinaire du chef a attiré une foule nombreuse.
-  Die kulinarische *Vorführung* des Kochs zog eine große Menge an.
+  The chef's culinary *demonstration* attracted a large crowd.
 
   Les *démonstrations* de gratitude des villageois ont ému les secouristes.
-  Die Dankes*bekundungen* der Dorfbewohner rührten die Rettungskräfte.
+  The villagers' expressions of gratitude moved the rescue workers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

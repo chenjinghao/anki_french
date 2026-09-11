@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 403
 Wort: souhaiter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: souhaiter
 Femininum / Plural: ''
 IPA: \swe.te\
-Definition: wünschen
+Definition: wishes
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'équipage vous *souhaite* un bon voyage.
-  Die Crew *wünscht* Ihnen eine gute Reise.
+  The crew *wishes* you a good trip.
 
   Je *souhaiterais* avoir plus de temps libre.
-  Ich *wünschte*, ich hätte mehr Freizeit.
+  I wish I had more free time.
 
   Les enfants se sont *souhaité* de joyeuses vacances.
-  Die Kinder haben sich schöne Ferien *gewünscht*.
+  The children wished each other happy holidays.
 
   Nous vous *souhaitons* la bienvenue dans notre école.
-  Wir *heißen* Sie an unserer Schule willkommen.
+  We welcome you to our school.
 
   "Je t'en *souhaite*!" a-t-il dit en riant.
-  "Na dann viel Spaß!" sagte er lachend.
+  "I wish you well!" he said with a laugh.
 
   Elle *souhaite* que ses parents soient fiers d'elle.
-  Sie *hofft*, dass ihre Eltern stolz auf sie sind.
+  She wants her parents to be proud of her.
 
   Je *souhaite* sincèrement votre réussite.
-  Ich *wünsche* Ihnen aufrichtig Erfolg.
+  I sincerely wish you success.
 
   *Souhaitez*-vous un café ?
-  *Möchten* Sie einen Kaffee?
+  Would you like a cup of coffee?
 
   Nous vous *souhaitons* tout le bonheur du monde.
-  Wir *wünschen* Ihnen alles Glück der Welt.
+  *We wish* you all the happiness in the world.
 
   Je ne *souhaite* pas sa mort, mais son bonheur.
-  Ich *wünsche* nicht seinen Tod, sondern sein Glück.
+  I don't want her to die, I want her to be happy.
 
   Le président *souhaite* présenter ses excuses.
-  Der Präsident *möchte* sich entschuldigen.
+  The president wants to apologize.
 
   Il n'a pas *souhaité* répondre à mes questions.
-  Er *wollte* nicht auf meine Fragen antworten.
+  He didn't want to answer my questions.
 
   Les élèves se *souhaitent* de bonnes vacances.
-  Die Schüler *wünschen* sich schöne Ferien.
+  The students wish each other a good vacation.
 
   Je vous *souhaite* une excellente année 2025.
-  Ich *wünsche* Ihnen ein ausgezeichnetes Jahr 2025.
+  I wish you a great year 2025.
 
   *Souhaitons*-lui un prompt rétablissement.
-  Lasst uns ihm eine schnelle Genesung *wünschen*.
+  Let's wish him a speedy recovery.
 
   Elle *souhaiterait* devenir médecin un jour.
-  Sie *möchte* eines Tages Ärztin werden.
+  She'd like to be a doctor someday.
 
   Je te *souhaite* tout ce que tu désires.
-  Ich *wünsche* dir alles, was du dir ersehnst.
+  I wish you everything you want.
 
   Que *souhaitez*-vous manger ce soir ?
-  Was *möchten* Sie heute Abend essen?
+  What *would you like to* eat tonight?
 
   Les résultats n'étaient pas ceux *souhaités*.
-  Die Ergebnisse waren nicht die *erwünschten*.
+  The results were not the desired ones.
 
   Je *souhaite* que tu comprennes ma décision.
-  Ich *hoffe*, dass du meine Entscheidung verstehst.
+  I want you to understand my decision.
 
   Ma famille vous *souhaite* de joyeuses fêtes.
-  Meine Familie *wünscht* Ihnen frohe Festtage.
+  My family *wishes* you happy holidays.
 
   Je ne *souhaite* rien tant que ton bonheur.
-  Ich *wünsche* mir nichts mehr als dein Glück.
+  I don't want anything more than your happiness.
 
   On vous *souhaite* bien du plaisir avec ce projet difficile !
-  Dann *wünschen* wir Ihnen viel Spaß mit diesem schwierigen Projekt!
+  We wish you all the best with this difficult project.
 
   Je lui ai *souhaité* son anniversaire ce matin.
-  Ich habe ihm heute Morgen zum Geburtstag *gratuliert*.
+  I wished him his birthday this morning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

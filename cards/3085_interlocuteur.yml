@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3085
 Wort: interlocuteur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un interlocuteur
 Femininum / Plural: interlocutrice
 IPA: \ɛ̃.tɛʁ.lɔ.ky.tœʁ\
-Definition: Gesprächspartner
+Definition: Interlocutors
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous aimez voir les yeux de vos *interlocuteurs*.
-  Sie mögen es, die Augen Ihrer *Gesprächspartner* zu sehen.
+  You like to see the eyes of your *interlocutors*.
 
   Il est important d'écouter attentivement son *interlocuteur* pour bien comprendre son point de vue.
-  Es ist wichtig, seinem *Gesprächspartner* aufmerksam zuzuhören, um seinen Standpunkt gut zu verstehen.
+  It is important to listen carefully to the speaker in order to understand his point of view.
 
   Notre *interlocutrice* au ministère nous a donné des informations précieuses.
-  Unsere *Verhandlungspartnerin* im Ministerium hat uns wertvolle Informationen gegeben.
+  Our *interlocutor* in the ministry gave us valuable information.
 
   Les *interlocuteurs* des dialogues philosophiques de Platon sont souvent des personnages historiques.
-  Die *Gesprächspartner* in Platons philosophischen Dialogen sind oft historische Persönlichkeiten.
+  Plato's philosophical dialogues were often interviewed by historical figures.
 
   Marie a trouvé en Paul un *interlocuteur* passionnant pour discuter de littérature.
-  Marie hat in Paul einen faszinierenden *Gesprächspartner* gefunden, um über Literatur zu diskutieren.
+  Marie found in Paul an exciting *interlocutor* to discuss literature.
 
   Comment réagiriez-vous si votre *interlocuteur* ne vous regardait jamais dans les yeux ?
-  Wie würden Sie reagieren, wenn Ihr *Gesprächspartner* Ihnen nie in die Augen schauen würde?
+  How would you react if your *interlocutor* never looked you in the eye?
 
   L'*interlocutrice* principale des négociations sera la directrice du département.
-  Die Haupt*verhandlungspartnerin* bei den Verhandlungen wird die Abteilungsleiterin sein.
+  The main negotiator will be the Director of the Department.
 
   Pendant la réunion en ligne, chaque *interlocuteur* a eu cinq minutes pour présenter ses idées.
-  Während des Online-Meetings hatte jeder *Gesprächspartner* fünf Minuten Zeit, seine Ideen zu präsentieren.
+  During the online meeting, each *interlocutor* had five minutes to present his or her ideas.
 
   Son *interlocuteur* resta silencieux pendant quelques secondes avant de répondre.
-  Sein *Gesprächspartner* schwieg einige Sekunden, bevor er antwortete.
+  His *interlocutor* remained silent for a few seconds before responding.
 
   Les syndicats cherchent des *interlocuteurs* sérieux pour négocier les conditions de travail.
-  Die Gewerkschaften suchen ernsthafte *Verhandlungspartner* für die Verhandlung der Arbeitsbedingungen.
+  Trade unions are looking for serious *interlocutors* to negotiate working conditions.
 
   Julie s'est rapidement adaptée au niveau de langue de son *interlocutrice*.
-  Julie hat sich schnell dem Sprachniveau ihrer *Gesprächspartnerin* angepasst.
+  Julie quickly adapted to the language level of her *interlocutor*.
 
   Nous avons besoin d'*interlocuteurs* qualifiés pour mener à bien ce projet international.
-  Wir brauchen qualifizierte *Verhandlungspartner*, um dieses internationale Projekt erfolgreich durchzuführen.
+  We need qualified *interlocutors* to carry out this international project.
 
   L'*interlocuteur* doit toujours être traité avec respect, même en cas de désaccord.
-  Der *Gesprächspartner* muss auch bei Meinungsverschiedenheiten immer mit Respekt behandelt werden.
+  The *interlocutor* should always be treated with respect, even when there is disagreement.
 
   Dans cette conversation à trois *interlocuteurs*, chacun défendait un point de vue différent.
-  In diesem Gespräch mit drei *Gesprächspartnern* vertrat jeder einen anderen Standpunkt.
+  In this conversation with three *interlocutors*, each defended a different point of view.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

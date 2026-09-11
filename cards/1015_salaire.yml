@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1015
 Wort: salaire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le salaire
 Femininum / Plural: ''
 IPA: \sa.lɛʁ\
-Definition: Gehalt, Lohn
+Definition: Salary and wages
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Beaucoup de travailleurs gagnent le *salaire* minimum.
-  Viele Arbeitnehmer verdienen den Mindest*lohn*.
+  Many workers earn the minimum wage.
 
   Le *salaire* brut est indiqué en haut de la fiche de paie.
-  Der Brutto*lohn* steht oben auf der Gehaltsabrechnung.
+  The gross salary is shown at the top of the pay sheet.
 
   Son *salaire* net s'élève à 2500 euros par mois.
-  Sein Netto*gehalt* beträgt 2500 Euro im Monat.
+  His net salary is 2,500 euros a month.
 
   Marie a reçu une augmentation de *salaire* de 5%.
-  Marie hat eine *Gehalts*erhöhung von 5% bekommen.
+  Marie received a 5 percent pay increase.
 
   Les employés toucheront leur *salaire* la semaine prochaine.
-  Die Angestellten werden nächste Woche ihr *Gehalt* bekommen.
+  Employees will get their salaries next week.
 
   Je préfère avoir un *salaire* fixe plutôt que des commissions.
-  Ich habe lieber ein festes *Gehalt* als Provisionen.
+  I'd rather have a fixed salary than commissions.
 
   Les *salaires* réels ont diminué à cause de l'inflation.
-  Die Effektiv*löhne* sind wegen der Inflation gesunken.
+  Real *wages* have fallen because of inflation.
 
   Il faut regarder ton bulletin de *salaire* attentivement.
-  Du musst deine *Gehalts*abrechnung sorgfältig prüfen.
+  You need to look carefully at your payroll.
 
   Les petits *salaires* sont les plus touchés par la crise.
-  Die Klein*verdiener* sind am stärksten von der Krise betroffen.
+  Low *wages* are the ones most affected by the crisis.
 
   Son *salaire* annuel dépasse les 50.000 euros.
-  Sein Jahres*gehalt* übersteigt 50.000 Euro.
+  His annual salary exceeds 50,000 euros.
 
   L'entreprise verse les *salaires* le 5 du mois.
-  Die Firma zahlt die *Gehälter* am 5. des Monats.
+  The company pays the salaries on the 5th of the month.
 
   "Ce n'est qu'un *salaire* de misère !"
-  "Das ist ja nur ein *Hunger*lohn!"
+  "It's only the *wages* of misery!"
 
   Toute peine mérite *salaire*.
-  Jede Mühe verdient ihren *Lohn*.
+  Every penalty deserves a reward.
 
   Le *salaire* conventionnel varie selon les branches.
-  Der Tarif*lohn* unterscheidet sich je nach Branche.
+  The conventional salary varies by branch.
 
   Elle a demandé une avance sur *salaire*.
-  Sie hat einen *Gehalts*vorschuss beantragt.
+  She asked for an advance on her salary.
 
   C'est le juste *salaire* de sa trahison.
-  Das ist der gerechte *Lohn* für seinen Verrat.
+  That's the fair reward for his betrayal.
 
   Les *salaires* sont versés par virement bancaire.
-  Die *Gehälter* werden per Überweisung ausgezahlt.
+  *Wages* are paid by bank transfer.
 
   Un *salaire* élevé n'est pas tout dans la vie.
-  Ein hohes *Gehalt* ist nicht alles im Leben.
+  A high salary is not everything in life.
 
   Les négociations sur les *salaires* continuent.
-  Die *Lohn*verhandlungen gehen weiter.
+  Negotiations on *wages* are ongoing.
 
   Le *salaire* horaire minimum augmentera en janvier.
-  Der Mindest*stunden*lohn wird im Januar steigen.
+  The minimum hourly wage will increase in January.
 
   Ils reçoivent un treizième mois de *salaire*.
-  Sie bekommen ein dreizehntes Monats*gehalt*.
+  They get a thirteenth month's salary.
 
   La grille des *salaires* a été révisée.
-  Die *Gehalts*tabelle wurde überarbeitet.
+  The salary grid has been revised.
 
   Son *salaire* lui permet à peine de vivre.
-  Sein *Lohn* reicht kaum zum Leben.
+  His salary barely allows him to live.
 
   Le nouveau *salaire* minimum est entré en vigueur.
-  Der neue Mindest*lohn* ist in Kraft getreten.
+  The new minimum wage has come into force.
 
   Les *salaires* nominaux ont augmenté de 3%.
-  Die Nominal*löhne* sind um 3% gestiegen.
+  Nominal *wages* have increased by 3%.
 
   Je dois vérifier mon bulletin de *salaire*.
-  Ich muss meine *Gehalts*abrechnung überprüfen.
+  I need to check my payroll.
 
   La différence entre *salaire* brut et net est importante.
-  Der Unterschied zwischen Brutto- und Netto*gehalt* ist groß.
+  The difference between gross and net *wages* is important.
 
   Son *salaire* comprend des avantages en nature.
-  Sein *Gehalt* beinhaltet Sachleistungen.
+  His salary includes benefits in kind.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

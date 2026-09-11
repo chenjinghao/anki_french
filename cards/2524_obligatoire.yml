@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2524
 Wort: obligatoire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: obligatoire
 Femininum / Plural: ''
 IPA: \ɔ.bli.ɡa.twaʁ\
-Definition: verpflichtend
+Definition: compulsory
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La quarantaine est *obligatoire*.
-  Die Quarantäne ist *verpflichtend*.
+  Quarantine is *compulsory*.
 
   À partir de cette année, le vaccin sera *obligatoire* pour tous les enfants.
-  Ab diesem Jahr wird die Impfung für alle Kinder *Pflicht* sein.
+  Starting this year, the vaccine will be mandatory for all children.
 
   Le port du masque reste *obligatoire* dans les hôpitaux.
-  Das Tragen einer Maske bleibt in Krankenhäusern *vorgeschrieben*.
+  Wearing a mask is still mandatory in hospitals.
 
   "Avec lui, c'est *obligatoire* qu'il arrive en retard."
-  "Bei ihm ist es ja *unvermeidlich*, dass er zu spät kommt."
+  "With him, he's bound to be late".
 
   La présence des parents à la réunion est *obligatoire*.
-  Die Anwesenheit der Eltern beim Treffen ist *verpflichtend*.
+  Parents' attendance at the meeting is *compulsory*.
 
   Le gouvernement a rendu le cours de natation *obligatoire* à l'école primaire.
-  Die Regierung hat den Schwimmunterricht in der Grundschule *obligatorisch* gemacht.
+  The government has made swimming *compulsory* in primary school.
 
   Les autorités vont rendre le tri des déchets *obligatoire*.
-  Die Behörden werden die Mülltrennung zur *Pflicht* machen.
+  The authorities will make the sorting of waste *compulsory*.
 
   Cette formation en ligne est *obligatoire* pour tous les employés.
-  Diese Online-Schulung ist für alle Mitarbeiter *verpflichtend*.
+  This online training is *compulsory* for all employees.
 
   Le casque est *obligatoire* pour faire du vélo.
-  Beim Fahrradfahren ist ein Helm *vorgeschrieben*.
+  The helmet is mandatory for cycling.
 
   Une visite médicale *obligatoire* est prévue avant la rentrée.
-  Vor Schulbeginn ist eine *pflichtmäßige* ärztliche Untersuchung vorgesehen.
+  A *compulsory* medical visit is scheduled before returning home.
 
   Le code vestimentaire *obligatoire* précise : costume et cravate.
-  Die *verbindliche* Kleiderordnung schreibt Anzug und Krawatte vor.
+  The mandatory dress code specifies: suit and tie.
 
   La ceinture de sécurité est *obligatoire* depuis 1973.
-  Der Sicherheitsgurt ist seit 1973 *Pflicht*.
+  Safety belts have been *compulsory* since 1973.
 
   L'assurance responsabilité civile est *obligatoire* pour les propriétaires de chiens.
-  Eine Haftpflichtversicherung ist für Hundebesitzer *vorgeschrieben*.
+  Civil liability insurance is *compulsory* for dog owners.
 
   "C'était *obligatoire* que ça finisse comme ça !"
-  "Das musste ja so *zwangsläufig* enden!"
+  "It was bound to end like this!"
 
   Les devoirs sont *obligatoires* pour tous les élèves.
-  Die Hausaufgaben sind für alle Schüler *verpflichtend*.
+  Homework is *compulsory* for all students.
 
   Le sens de circulation *obligatoire* est indiqué par des flèches.
-  Die *vorgeschriebene* Fahrtrichtung wird durch Pfeile angezeigt.
+  The mandatory direction of traffic is indicated by arrows.
 
   Les cookies *obligatoires* sont nécessaires au fonctionnement du site.
-  Die *erforderlichen* Cookies sind für die Funktionsweise der Website notwendig.
+  *Compulsory* cookies are necessary for the operation of the website.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

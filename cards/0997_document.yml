@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 997
 Wort: document
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le document
 Femininum / Plural: ''
 IPA: \dɔ.ky.mɑ̃\
-Definition: Dokument
+Definition: Documents and other documents
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis un *document* vivant !
-  Ich bin ein lebendiges *Dokument*!
+  I 'm a living *document* !
 
   Pour votre sécurité, gardez ce *document* dans un endroit sûr.
-  Bewahren Sie dieses *Dokument* zu Ihrer Sicherheit an einem sicheren Ort auf.
+  For your safety, keep this *document* in a safe place.
 
   Les *documents* historiques prouvent que cette ville existait déjà au Moyen Âge.
-  Die historischen *Quellen* beweisen, dass diese Stadt bereits im Mittelalter existierte.
+  Historical records prove that this city already existed in the Middle Ages.
 
   J'ai besoin de ce *document* comptable pour ma déclaration d'impôts.
-  Ich brauche diesen *Beleg* für meine Steuererklärung.
+  I need this accounting *document* for my tax return.
 
   Le service des archives numérise tous les vieux *documents*.
-  Das Archiv digitalisiert alle alten *Dokumente*.
+  The archives digitize all the old *documents*.
 
   N'oubliez pas d'apporter tous vos *documents* d'assurance.
-  Vergessen Sie nicht, alle Versicherungs*unterlagen* mitzubringen.
+  Don't forget to bring all your insurance *documents*.
 
   As-tu vérifié les *documents* d'expédition ?
-  Hast du die Versand*papiere* überprüft?
+  Have you checked the shipping *documents*?
 
   Ces *documents* d'accompagnement doivent être signés par le directeur.
-  Diese Begleit*papiere* müssen vom Direktor unterschrieben werden.
+  These accompanying *documents* must be signed by the Director.
 
   La police a trouvé un *document* qui prouve son innocence.
-  Die Polizei hat ein *Beweisstück* gefunden, das seine Unschuld beweist.
+  The police found a *document* proving his innocence.
 
   Le système a automatiquement sauvegardé le *document* source.
-  Das System hat das Original*dokument* automatisch gespeichert.
+  The system automatically saved the source *document*.
 
   Tous les *documents* comptables doivent être conservés pendant dix ans.
-  Alle Buchhaltungs*unterlagen* müssen zehn Jahre lang aufbewahrt werden.
+  All accounting *documents* must be kept for ten years.
 
   Avez-vous tous vos *documents* de voyage ?
-  Haben Sie alle Reise*unterlagen* dabei?
+  Do you have all your travel *documents*?
 
   Ce *document* sonore date des années cinquante.
-  Diese Ton*aufnahme* stammt aus den fünfziger Jahren.
+  This sound *document* is from the 1950s.
 
   Il faut archiver ce *document* important immédiatement.
-  Dieses wichtige *Dokument* muss sofort archiviert werden.
+  This important *document* must be filed immediately.
 
   Le musée expose des *documents* photographiques rares.
-  Das Museum stellt seltene fotografische *Dokumente* aus.
+  The museum displays rare photographic materials.
 
   As-tu imprimé le *document* pour la réunion ?
-  Hast du den *Ausdruck* für die Besprechung gemacht?
+  Did you print the meeting paper?
 
   Les *documents* d'embarquement doivent être présentés au port.
-  Die Verschiffungs*papiere* müssen im Hafen vorgelegt werden.
+  The boarding *documents* must be presented at the port.
 
   Ce *document* administratif doit être signé en trois exemplaires.
-  Dieses Verwaltungs*dokument* muss in dreifacher Ausfertigung unterschrieben werden.
+  This administrative *document* shall be signed in three copies.
 
   J'ai rangé tous les *documents* dans le classeur bleu.
-  Ich habe alle *Unterlagen* in den blauen Ordner eingeordnet.
+  I put all the *documents* in the blue ledger.
 
   Le *document* original est conservé aux archives nationales.
-  Das Original*dokument* wird im Nationalarchiv aufbewahrt.
+  The original *document* is kept in the national archives.
 
   Ces *documents* accablants ont été présentés au tribunal.
-  Diese belastenden *Beweisstücke* wurden dem Gericht vorgelegt.
+  These overwhelming *documents* have been submitted to the court.
 
   Les chercheurs ont découvert un *document* inédit du XVIII<sup>e</sup> siècle.
-  Die Forscher haben eine unveröffentlichte *Quelle* aus dem 18. Jahrhundert entdeckt.
+  Researchers have discovered an unpublished 18th-century *document*.
 
   Je dois rassembler tous les *documents* nécessaires pour ma demande de visa.
-  Ich muss alle erforderlichen *Unterlagen* für meinen Visumantrag zusammenstellen.
+  I need to gather all the *documents* necessary for my visa application.
 
   Ce *document* officiel porte le sceau de la République.
-  Dieses offizielle *Dokument* trägt das Siegel der Republik.
+  This official *document* bears the seal of the Republic.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

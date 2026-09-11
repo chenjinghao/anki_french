@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4374
 Wort: philosophique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: philosophique
 Femininum / Plural: ''
 IPA: \fi.lɔ.zɔ.fik\
-Definition: philosophisch
+Definition: Philosophical
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Son travail *philosophique* porte sur la responsabilité.
-  Seine *philosophische* Arbeit beschäftigt sich mit Verantwortung.
+  His philosophical work is about responsibility.
 
   Le doute *philosophique* est le début de toute réflexion profonde.
-  Der *philosophische* Zweifel ist der Beginn jeden tiefen Nachdenkens.
+  Philosophical doubt is the beginning of all profound reflection.
 
   Elle dirige un débat *philosophique* sur l'intelligence artificielle.
-  Sie leitet eine *philosophische* Diskussion über künstliche Intelligenz.
+  She leads a philosophical debate on artificial intelligence.
 
   Les concepts *philosophiques* de Kant sont difficiles à comprendre.
-  Kants *philosophische* Konzepte sind schwer zu verstehen.
+  Kant's *philosophical* concepts are difficult to understand.
 
   J'ai lu un roman *philosophique* sur le sens de la vie.
-  Ich habe einen *philosophischen* Roman über den Sinn des Lebens gelesen.
+  I read a philosophical novel about the meaning of life.
 
   Le mouvement *philosophique* des Lumières a changé la société.
-  Die *philosophische* Bewegung der Aufklärung hat die Gesellschaft verändert.
+  The philosophical movement of the Enlightenment changed society.
 
   Marie fait preuve d'un détachement *philosophique* face aux critiques.
-  Marie zeigt eine *philosophische* Gelassenheit gegenüber der Kritik.
+  Marie shows a philosophical detachment from criticism.
 
   Ce conte *philosophique* explore la nature du bonheur.
-  Dieses *philosophische* Märchen erkundet das Wesen des Glücks.
+  This philosophical tale explores the nature of happiness.
 
   Les étudiants suivent un cours d'analyse *philosophique*.
-  Die Studenten besuchen einen Kurs in *philosophischer* Analyse.
+  Students are taking a philosophical analysis course.
 
   Le système *philosophique* de Hegel est très complexe.
-  Hegels *philosophisches* System ist sehr komplex.
+  Hegel's philosophical system is very complex.
 
   Voltaire a écrit de nombreux essais *philosophiques*.
-  Voltaire hat viele *philosophische* Essays geschrieben.
+  Voltaire wrote many *philosophical* essays.
 
   Cette école *philosophique* s'inspire de la pensée grecque.
-  Diese *philosophische* Schule ist von griechischem Denken inspiriert.
+  This school of *philosophy* is inspired by Greek thought.
 
   La discussion *philosophique* a duré toute la nuit.
-  Die *philosophische* Diskussion dauerte die ganze Nacht.
+  The philosophical discussion lasted all night.
 
   Ce traité *philosophique* examine la nature de la conscience.
-  Diese *philosophische* Abhandlung untersucht das Wesen des Bewusstseins.
+  This philosophical treatise examines the nature of conscience.
 
   Elle aborde les problèmes quotidiens avec une attitude *philosophique*.
-  Sie geht die alltäglichen Probleme mit einer *philosophischen* Haltung an.
+  It addresses everyday problems with a philosophical attitude.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

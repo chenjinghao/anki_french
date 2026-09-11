@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4328
 Wort: souris
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la souris
 Femininum / Plural: ''
 IPA: \su.ʁi\
-Definition: Maus
+Definition: Mouse
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le chat mange la *souris*.
-  Die Katze frisst die *Maus*.
+  The cat eats the mouse.
 
   Ma *souris* d'ordinateur ne fonctionne plus depuis hier.
-  Meine Computer*maus* funktioniert seit gestern nicht mehr.
+  My computer mouse hasn't worked since yesterday.
 
   Les scientifiques font des expériences avec des *souris* blanches.
-  Die Wissenschaftler experimentieren mit weißen *Mäusen*.
+  Scientists are experimenting with white *mice*.
 
   Il a acheté une *souris* optique sans fil pour son ordinateur portable.
-  Er hat eine kabellose optische *Maus* für seinen Laptop gekauft.
+  He bought a wireless optical mouse for his laptop.
 
   Notre maison est infestée de *souris*.
-  Unser Haus ist von *Mäusen* befallen.
+  Our house is infested with *mice*.
 
   "Quand le chat n'est pas là, les *souris* dansent", dit le professeur aux élèves turbulents.
-  "Wenn die Katze aus dem Haus ist, tanzen die *Mäuse* auf dem Tisch", sagte der Lehrer zu den unruhigen Schülern.
+  "When the cat is not there, the *mice* are dancing", the teacher told the turbulent students.
 
   On peut cliquer sur ce bouton avec la *souris*.
-  Man kann mit der *Maus* auf diesen Button klicken.
+  We can click that button with the mouse.
 
   La *souris* naine construit son nid dans les hautes herbes.
-  Die Zwerg*maus* baut ihr Nest im hohen Gras.
+  The dwarf mouse builds its nest in the tall grass.
 
   Elle portait une robe d'un gris *souris*.
-  Sie trug ein maus*graues* Kleid.
+  She was wearing a gray mouse dress.
 
   Le silence était tel qu'on aurait entendu trotter une *souris*.
-  Es war so still, dass man eine *Maus* hätte trippeln hören können.
+  The silence was like the sound of a mouse trotting.
 
   J'ai dû me faufiler par un trou de *souris* pour récupérer mes clés.
-  Ich musste durch ein *Mäuse*loch kriechen, um meine Schlüssel wiederzubekommen.
+  I had to sneak through a mouse hole to get my keys.
 
   La *souris* mécanique accumule beaucoup de poussière.
-  Die mechanische *Maus* sammelt viel Staub an.
+  The mechanical mouse accumulates a lot of dust.
 
   Les enfants jouent au chat et à la *souris* dans la cour de récréation.
-  Die Kinder spielen auf dem Pausenhof Katz und *Maus*.
+  Kids are playing cat and mouse in the playground.
 
   Cette *souris* infrarouge est parfaite pour les présentations.
-  Diese Infrarot*maus* ist perfekt für Präsentationen.
+  This infrared mouse is perfect for presentations.
 
   Le boucher m'a recommandé la *souris* de gigot.
-  Der Metzger hat mir das zarte *Fleischstück am Hammelbein* empfohlen.
+  The butcher recommended the gigot mouse.
 
   Il y a une *souris* qui grignote nos provisions dans le placard.
-  Eine *Maus* knabbert an unseren Vorräten im Schrank.
+  There's a mouse eating our provisions in the closet.
 
   Les *souris* des champs causent des dégâts dans les cultures.
-  Die Feld*mäuse* richten Schäden in den Kulturen an.
+  Field *mice* are causing crop damage.
 
   Cette *souris* à trois boutons offre plus de fonctionnalités.
-  Diese Drei-Tasten-*Maus* bietet mehr Funktionen.
+  This three-button mouse offers more functionality.
 
   Le chat joue avec la *souris* avant de la tuer.
-  Die Katze spielt mit der *Maus*, bevor sie sie tötet.
+  The cat plays with the mouse before killing it.
 
   Je préfère travailler sans *souris* avec mon ordinateur.
-  Ich arbeite lieber ohne *Maus* an meinem Computer.
+  I prefer to work without a mouse on my computer.
 
   Les *souris* sont plus petites que les rats.
-  *Mäuse* sind kleiner als Ratten.
+  *Mice* are smaller than rats.
 
   Pour ce jeu vidéo, les commandes sont exécutées par la *souris*.
-  Bei diesem Videospiel werden die Befehle per *Maus* ausgeführt.
+  For this video game, the controls are executed by the mouse.
 
   On peut sélectionner le texte avec la *souris*.
-  Man kann den Text mit der *Maus* auswählen.
+  We can select the text with the mouse.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

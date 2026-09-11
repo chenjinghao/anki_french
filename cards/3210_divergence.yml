@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3210
 Wort: divergence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la divergence
 Femininum / Plural: ''
 IPA: \di.vɛʁ.ʒɑ̃s\
-Definition: Abweichung, Diskrepanz
+Definition: Difference, discrepancy
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *divergences* persistent entre les grandes puissances.
-  Die *Meinungsverschiedenheiten* zwischen den Großmächten bestehen weiter.
+  *Differences* persist between the great powers.
 
   La *divergence* d'intérêts entre les deux partenaires a conduit à la rupture du contrat.
-  Die *Divergenz* der Interessen zwischen den beiden Partnern führte zur Vertragsauflösung.
+  The divergence of interests between the two partners led to the termination of the contract.
 
   Les *divergences* d'opinions au sein du groupe ont enrichi le débat.
-  Die Meinungs*unterschiede* in der Gruppe haben die Debatte bereichert.
+  *Differences* of opinion within the group enriched the debate.
 
   Malgré leurs *divergences* de goûts musicaux, ils s'entendent très bien.
-  Trotz ihrer *unterschiedlichen* Musikvorlieben verstehen sie sich sehr gut.
+  Despite their *differences* in musical tastes, they get along very well.
 
   La *divergence* des deux lignes se produit à partir de ce point.
-  Die *Divergenz* der beiden Linien beginnt ab diesem Punkt.
+  The divergence of the two lines occurs from this point.
 
   Le physicien a mesuré la *divergence* des rayons lumineux.
-  Der Physiker hat die *Divergenz* der Lichtstrahlen gemessen.
+  The physicist measured the divergence of light rays.
 
   La *divergence* des voies ferrées nécessite un nouveau système de signalisation.
-  Das *Auseinanderlaufen* der Gleise erfordert ein neues Signalsystem.
+  The divergence of railways requires a new signalling system.
 
   La *divergence* oculaire de l'enfant a été corrigée par des exercices spécifiques.
-  Das *Schielen* des Kindes wurde durch spezielle Übungen korrigiert.
+  The divergence in the child's eyes was corrected by specific exercises.
 
   Cette lentille a une *divergence* de -2 dioptries.
-  Diese Linse hat eine *Divergenz* von -2 Dioptrien.
+  This lens has a divergence of -2 dioptries.
 
   Les *divergences* politiques n'ont pas empêché la formation d'une coalition.
-  Die politischen *Differenzen* haben die Bildung einer Koalition nicht verhindert.
+  Political *differences* have not prevented the formation of a coalition.
 
   Les météorologues ont observé une *divergence* des courants marins dans cette région.
-  Die Meteorologen haben eine *Divergenz* der Meeresströmungen in dieser Region beobachtet.
+  Meteorologists have observed a divergence in sea currents in this region.
 
   Le mathématicien a démontré la *divergence* de cette série.
-  Der Mathematiker hat die *Divergenz* dieser Reihe bewiesen.
+  The mathematician demonstrated the divergence of this series.
 
   La *divergence* du réacteur nucléaire est strictement contrôlée.
-  Die *Divergenz* des Kernreaktors wird streng überwacht.
+  The divergence of the nuclear reactor is strictly controlled.
 
   Nos *divergences* de vues sur ce projet sont irréconciliables.
-  Unsere Auffassungs*unterschiede* zu diesem Projekt sind unüberbrückbar.
+  Our *differences* of opinion on this project are irreconcilable.
 
   Cette *divergence* a été particulièrement marquée en Grèce, en Irlande, en Italie et au Royaume-Uni.
-  Besonders deutlich war diese *Diskrepanz* in Griechenland, Irland, Italien und dem Vereinigten Königreich.
+  This divergence was particularly marked in Greece, Ireland, Italy and the United Kingdom.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

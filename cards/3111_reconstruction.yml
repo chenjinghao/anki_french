@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3111
 Wort: reconstruction
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la reconstruction
 Femininum / Plural: ''
 IPA: \ʁə.kɔ̃s.tʁyk.sjɔ̃\
-Definition: Wiederaufbau
+Definition: Rebuilding
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Après notre victoire, la *reconstruction* sera très rapide.
-  Nach unserem Sieg wird der *Wiederaufbau* sehr schnell sein.
+  After our victory, the reconstruction will be very fast.
 
   La *reconstruction* de la cathédrale a duré plus de dix ans.
-  Der *Wiederaufbau* der Kathedrale hat mehr als zehn Jahre gedauert.
+  The reconstruction of the cathedral took more than ten years.
 
   Les habitants participent activement à la *reconstruction* de leur quartier.
-  Die Bewohner beteiligen sich aktiv am *Wiederaufbau* ihres Viertels.
+  Local people are actively involved in the reconstruction of their neighbourhood.
 
   La *reconstruction* de l'économie nécessite beaucoup d'efforts collectifs.
-  Der *Wiederaufbau* der Wirtschaft erfordert viele gemeinsame Anstrengungen.
+  The reconstruction of the economy requires a lot of collective effort.
 
   Les fonds pour la *reconstruction* des zones sinistrées ont été débloqués.
-  Die Mittel für den *Wiederaufbau* der Katastrophengebiete wurden freigegeben.
+  The funds for the reconstruction of the disaster areas have been unlocked.
 
   Cette *reconstruction* historique nous permet de mieux comprendre la vie au Moyen Âge.
-  Diese historische *Rekonstruktion* ermöglicht uns, das Leben im Mittelalter besser zu verstehen.
+  This historical reconstruction gives us a better understanding of life in the Middle Ages.
 
   La *reconstruction* du vieux pont commence au printemps prochain.
-  Der *Wiederaufbau* der alten Brücke beginnt nächstes Frühjahr.
+  The reconstruction of the old bridge will begin next spring.
 
   Les archéologues travaillent sur la *reconstruction* d'un ancien temple grec.
-  Die Archäologen arbeiten an der *Rekonstruktion* eines antiken griechischen Tempels.
+  Archaeologists are working on *rebuilding* an ancient Greek temple.
 
   Les linguistes proposent une *reconstruction* de la langue parlée il y a 5000 ans.
-  Die Linguisten schlagen eine *Rekonstruktion* der vor 5000 Jahren gesprochenen Sprache vor.
+  Linguists propose a reconstruction of the language spoken 5,000 years ago.
 
   Cette *reconstruction* mentale l'a beaucoup aidé après son accident.
-  Diese mentale *Wiederherstellung* hat ihm nach seinem Unfall sehr geholfen.
+  This mental reconstruction helped him a lot after his accident.
 
   Le plan de *reconstruction* prévoit la création de nouveaux espaces verts.
-  Der *Wiederaufbau*plan sieht die Schaffung neuer Grünflächen vor.
+  The reconstruction plan envisages the creation of new green spaces.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

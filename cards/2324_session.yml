@@ -1,96 +1,96 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2324
 Wort: session
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la session
 Femininum / Plural: ''
 IPA: \sɛ.sjɔ̃\
-Definition: Sitzung(-speriode)
+Definition: Meeting (period)
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a seulement eu une *session* de débriefing.
-  Es gab nur eine Nachbesprechungs*sitzung*.
+  There was only a briefing *session*.
 
   La *session* parlementaire d'automne a commencé hier.
-  Die parlamentarische Herbst*sitzungsperiode* begann gestern.
+  The autumn parliamentary *session* began yesterday.
 
   Le juge a décidé de reporter la *session* du tribunal à la semaine prochaine.
-  Der Richter beschloss, die Gerichts*sitzung* auf nächste Woche zu verschieben.
+  The judge has decided to postpone the court *session* to next week.
 
   Les étudiants se préparent pour la *session* d'examens de juin.
-  Die Studenten bereiten sich auf die Juni-Prüfungs*phase* vor.
+  Students are preparing for the June exam *session*.
 
   Après trois heures de travail, j'ai fermé ma *session* sur l'ordinateur.
-  Nach drei Stunden Arbeit habe ich meine Computer*sitzung* beendet.
+  After three hours of work, I closed my *session* on the computer.
 
   La *session* extraordinaire du Parlement a été convoquée pour discuter de la crise.
-  Die außerordentliche Parlaments*sitzung* wurde einberufen, um die Krise zu besprechen.
+  Parliament's extraordinary *session* has been convened to discuss the crisis.
 
   "J'ai raté la première *session*, je dois me rattraper en septembre."
-  "Ich habe den ersten Prüfungs*zeitraum* verpasst, ich muss das im September nachholen."
+  "I missed the first *session*, I have to catch up in September".
 
   Le concile s'est déroulé en trois *sessions* sur plusieurs années.
-  Das Konzil fand in drei *Sitzungsperioden* über mehrere Jahre statt.
+  The council was held in three *sessions* over several years.
 
   Notre entreprise organise une *session* de formation pour les nouveaux employés.
-  Unser Unternehmen organisiert eine Schulungs*sitzung* für neue Mitarbeiter.
+  Our company organizes a training *session* for new employees.
 
   N'oubliez pas de vous déconnecter de votre *session* lorsque vous quittez votre poste.
-  Vergessen Sie nicht, sich von Ihrer *Sitzung* abzumelden, wenn Sie Ihren Arbeitsplatz verlassen.
+  Don't forget to disconnect from your *session* when you leave your post.
 
   La prochaine *session* du conseil municipal aura lieu mardi prochain.
-  Die nächste *Sitzung* des Gemeinderats findet am nächsten Dienstag statt.
+  The next *session* of the municipal council will be held next Tuesday.
 
   Les députés ont voté plusieurs lois importantes lors de cette *session*.
-  Die Abgeordneten haben während dieser *Sitzungsperiode* mehrere wichtige Gesetze verabschiedet.
+  Members voted several important laws in this *session*.
 
   La *session* de rattrapage offre une seconde chance aux étudiants.
-  Die Nachprüfungs*phase* bietet den Studenten eine zweite Chance.
+  The catch-up *session* gives students a second chance.
 
   Le stage se compose de deux *sessions* intensives de trois jours chacune.
-  Der Kurs besteht aus zwei intensiven *Sitzungsblöcken* von jeweils drei Tagen.
+  The internship consists of two intensive *sessions* of three days each.
 
   Pendant la *session* d'ouverture, le président a présenté les objectifs de l'année.
-  Während der Eröffnungs*sitzung* stellte der Präsident die Ziele für das Jahr vor.
+  During the opening *session*, the President presented the year's objectives.
 
   Cette *session* de méditation guidée durera environ 30 minutes.
-  Diese geführte Meditations*sitzung* wird ungefähr 30 Minuten dauern.
+  This guided meditation *session* will last about 30 minutes.
 
   Les jurés ont délibéré pendant toute la *session* d'aujourd'hui.
-  Die Geschworenen haben während der gesamten heutigen *Sitzung* beraten.
+  The jury deliberated throughout today's *session*.
 
   Pour accéder à vos fichiers personnels, vous devez ouvrir votre propre *session*.
-  Um auf Ihre persönlichen Dateien zuzugreifen, müssen Sie Ihre eigene *Sitzung* öffnen.
+  To access your personal files, you must open your own *session*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>session</i> und <i>séance</i></div>
+    <div class="section-title"><i>session</i> and <i>séance</i></div>
     <div class="section-content">
-      <p><span class="fr">Session</span> bezeichnet eine Reihe von Sitzungen oder Veranstaltungen über einen bestimmten Zeitraum. Es entspricht im Deutschen oft dem Begriff <span class="de">"Sitzungsperiode"</span> oder <span class="de">"Tagungsperiode"</span>.</p>
+      <p><span class="fr">Session</span> It is often used in German to refer to a series of meetings or events over a period of time. <span class="de">'Sitting period'</span> or <span class="de">'Period of operation'</span>.</p>
       <div class="examples">
         <div class="fr">La session des examens s'étendra du 5 au 12 décembre.</div>
-        <div class="de spoiler">Die Prüfungsperiode erstreckt sich vom 5. bis 12. Dezember.</div>
+        <div class="de spoiler">The examination period shall run from 5 to 12 December.</div>
         <div class="fr">La session parlementaire reprendra sous peu.</div>
-        <div class="de spoiler">Die Sitzungsperiode des Parlaments wird in Kürze wieder aufgenommen.</div>
+        <div class="de spoiler">Parliament's session will resume shortly.</div>
       </div>
-      <p><span class="fr">Séance</span> (#1463) bezieht sich auf eine einzelne Sitzung oder Veranstaltung. Es entspricht im Deutschen dem Begriff <span class="de">"Sitzung"</span> oder <span class="de">"Veranstaltung"</span>.</p>
+      <p><span class="fr">Séance</span> #1463) refers to a single meeting or event. <span class="de">'Meeting'</span> or <span class="de">'Event'</span>.</p>
       <div class="examples">
         <div class="fr">Les séances de formation débutent la semaine prochaine.</div>
-        <div class="de spoiler">Die Schulungssitzungen beginnen nächste Woche.</div>
+        <div class="de spoiler">The training sessions start next week.</div>
         <div class="fr">Les séances du comité reprendront en septembre.</div>
-        <div class="de spoiler">Die Ausschusssitzungen werden im September wieder aufgenommen.</div>
+        <div class="de spoiler">The committee meetings will resume in September.</div>
       </div>
-      <p class="tip">Die Verwendung von <span class="fr">session</span> für eine einzelne Sitzung ist ein Anglizismus und sollte vermieden werden.</p>
+      <p class="tip">The use of <span class="fr">session</span> It is an Anglicism for a single session and should be avoided.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

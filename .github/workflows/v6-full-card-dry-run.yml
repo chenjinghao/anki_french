@@ -1,0 +1,187 @@
+name: V6 full 5000-card French-source dry run
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  preflight:
+    if: contains(github.event.head_commit.message, '[run v6 full cards]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile full-run scripts
+        run: |
+          python -m py_compile \
+            scripts/translate_cards_fr_en_v6.py \
+            scripts/repair_v6.py \
+            scripts/repair_v6_scale.py \
+            scripts/repair_v6_scale_extra.py \
+            scripts/repair_v6_scale_manual100.py \
+            scripts/repair_v6_scale_manual150.py \
+            scripts/v6_full_cards.py \
+            scripts/v6_semantic_audit.py
+      - name: Verify complete source selection
+        run: |
+          git checkout origin/main -- cards
+          python scripts/v6_full_cards.py select --output v6-full-preflight-paths.txt
+          test "$(grep -c . v6-full-preflight-paths.txt)" -eq 5000
+
+  translate:
+    needs: preflight
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install NLLB runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Restore German card source
+        run: |
+          git checkout origin/main -- cards
+          python scripts/normalize_examples.py --shard 0 --shards 1
+      - name: Select full-run shard
+        run: |
+          python scripts/v6_full_cards.py select \
+            --output v6-full-paths.txt \
+            --shard ${{ matrix.shard }} --shards 50
+          count="$(grep -c . v6-full-paths.txt)"
+          echo "Shard ${{ matrix.shard }} contains $count cards"
+          test "$count" -eq 100
+      - name: Translate examples from French source
+        env:
+          HF_HOME: ${{ runner.temp }}/hf-cache
+          TOKENIZERS_PARALLELISM: 'false'
+        run: |
+          python scripts/translate_cards_fr_en_v6.py \
+            --paths-file v6-full-paths.txt --batch-size 16
+      - name: Apply all reviewed card repairs
+        run: |
+          python scripts/repair_v6.py --paths-file v6-full-paths.txt
+          python scripts/repair_v6_scale.py --paths-file v6-full-paths.txt
+          python scripts/repair_v6_scale_extra.py --paths-file v6-full-paths.txt
+          python scripts/repair_v6_scale_manual100.py --paths-file v6-full-paths.txt
+          python scripts/repair_v6_scale_manual150.py --paths-file v6-full-paths.txt
+      - name: Bundle translated shard
+        run: |
+          python scripts/v6_pilot.py bundle \
+            --paths-file v6-full-paths.txt \
+            --output v6-full-output
+      - name: Upload translated shard
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-full-shard-${{ matrix.shard }}
+          path: |
+            v6-full-paths.txt
+            v6-full-output
+          retention-days: 7
+
+  combine-and-qa:
+    needs: translate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install validation runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Download all translated shards
+        uses: actions/download-artifact@v4
+        with:
+          pattern: v6-full-shard-*
+          path: v6-full-artifacts
+          merge-multiple: false
+      - name: Recombine exactly 5000 cards
+        run: |
+          mkdir -p v6-full-combined/cards
+          : > v6-full-all-paths.txt
+          for shard in v6-full-artifacts/v6-full-shard-*; do
+            cat "$shard/v6-full-paths.txt" >> v6-full-all-paths.txt
+            cp -a "$shard/v6-full-output/cards/." v6-full-combined/cards/
+          done
+          sort -u -o v6-full-all-paths.txt v6-full-all-paths.txt
+          count="$(grep -c . v6-full-all-paths.txt)"
+          files="$(find v6-full-combined/cards -maxdepth 1 -type f -name '*.yml' | wc -l)"
+          echo "Recombined $count unique paths and $files card files"
+          test "$count" -eq 5000
+          test "$files" -eq 5000
+      - name: Run strongest full-card gate
+        run: |
+          python scripts/v6_full_cards.py validate \
+            --root v6-full-combined \
+            --paths-file v6-full-all-paths.txt \
+            --report v6-full-report.txt
+      - name: Upload full dry-run corpus and report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-full-5000-card-dry-run
+          path: |
+            v6-full-report.txt
+            v6-full-all-paths.txt
+            v6-full-combined
+          if-no-files-found: warn
+          retention-days: 7
+
+  semantic-audit:
+    needs: combine-and-qa
+    if: always() && needs.combine-and-qa.result != 'skipped' && needs.combine-and-qa.result != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install semantic audit runtime
+        run: |
+          pip install sentence-transformers==5.1.0 pyyaml==6.0.2
+      - name: Download full dry-run artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-full-5000-card-dry-run
+          path: v6-full-audit
+      - name: Rank whole-corpus semantic outliers
+        run: |
+          python scripts/v6_semantic_audit.py \
+            --root v6-full-audit/v6-full-combined \
+            --paths-file v6-full-audit/v6-full-all-paths.txt \
+            --report v6-full-semantic-audit.txt \
+            --limit 1000
+      - name: Upload whole-corpus semantic audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-full-5000-semantic-audit
+          path: v6-full-semantic-audit.txt
+          if-no-files-found: warn
+          retention-days: 7

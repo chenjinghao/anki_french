@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4334
 Wort: brutalement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: brutalement
 Femininum / Plural: ''
 IPA: \bʁy.tal.mɑ̃\
-Definition: brutal, plötzlich
+Definition: Brutally, all of a sudden
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle referma *brutalement* la porte.
-  Sie schlug die Tür *brutal* zu.
+  She closed the door *abruptly*.
 
   Le directeur a *brutalement* mis fin à la réunion.
-  Der Direktor beendete die Sitzung *abrupt*.
+  The principal *abruptly* ended the meeting.
 
   La tempête s'est *brutalement* intensifiée pendant la nuit.
-  Das Unwetter verschärfte sich *plötzlich* in der Nacht.
+  The storm intensified sharply during the night.
 
   Il m'a dit *brutalement* la vérité sur mon travail.
-  Er sagte mir *unverblümt* die Wahrheit über meine Arbeit.
+  He brutally told me the truth about my job.
 
   La voiture s'est arrêtée *brutalement* au feu rouge.
-  Das Auto kam an der roten Ampel *abrupt* zum Stehen.
+  The car stopped *abruptly* at the red light.
 
   Son mari est mort *brutalement* d'une crise cardiaque.
-  Ihr Mann starb *plötzlich* an einem Herzinfarkt.
+  Her husband died suddenly of a heart attack.
 
   Le chef parle toujours *brutalement* à ses employés.
-  Der Chef spricht immer *brutal* mit seinen Angestellten.
+  The boss always speaks brutally to his employees.
 
   La température a *brutalement* chuté ce matin.
-  Die Temperatur ist heute Morgen *plötzlich* gefallen.
+  The temperature dropped sharply this morning.
 
   Il a *brutalement* rejeté ma proposition.
-  Er hat meinen Vorschlag *schroff* abgelehnt.
+  He brutally rejected my proposal.
 
   Les prix ont augmenté *brutalement* depuis janvier.
-  Die Preise sind seit Januar *drastisch* gestiegen.
+  Prices have risen sharply since January.
 
   Marie s'est réveillée *brutalement* en entendant le bruit.
-  Marie wachte von dem Geräusch *abrupt* auf.
+  Marie awoke *abruptly* when she heard the noise.
 
   Le chien s'est jeté *brutalement* sur le facteur.
-  Der Hund stürzte sich *brutal* auf den Briefträger.
+  The dog jumped on the driver.
 
   L'entreprise a *brutalement* licencié cinquante employés.
-  Die Firma entließ *brutal* fünfzig Mitarbeiter.
+  The company *abruptly* laid off fifty employees.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

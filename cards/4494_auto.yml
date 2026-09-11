@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4494
 Wort: auto
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une auto
 Femininum / Plural: ''
 IPA: \o.to\
-Definition: Auto(-mobil)
+Definition: Car (mobile)
 Register: ↗Fiktion ↘Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Des amis venaient nous chercher en *auto*.
-  Freunde haben uns mit dem *Auto* abgeholt.
+  Friends were picking us up by *car*.
 
   Le Salon de l'*auto* à Paris est un événement majeur dans l'industrie automobile.
-  Die *Auto*messe in Paris ist ein wichtiges Ereignis in der Automobilindustrie.
+  The Paris Motor Show is a major event in the automotive industry.
 
   Ma première *auto* était une petite Renault rouge.
-  Mein erstes *Auto* war ein kleiner roter Renault.
+  My first *car* was a little red Renault.
 
   Les enfants adorent faire un tour dans les *autos* tamponneuses à la fête foraine.
-  Die Kinder lieben es, im *Auto*skooter auf dem Jahrmarkt zu fahren.
+  Kids love to take a ride in the bumper *cars* at the party.
 
   Mon assurance *auto* couvre tous les dégâts possibles.
-  Meine *Auto*versicherung deckt alle möglichen Schäden ab.
+  My *car* insurance covers all possible damages.
 
   Elle préfère se déplacer en *auto* plutôt qu'en transport en commun.
-  Sie fährt lieber mit dem *Auto* als mit öffentlichen Verkehrsmitteln.
+  She prefers to travel by *car* rather than by public transport.
 
   Pierre a offert une petite *auto* en jouet à son fils.
-  Pierre hat seinem Sohn ein *Auto* zum Spielen geschenkt.
+  Pierre offered his son a little toy *car*.
 
   Je dois renouveler mes accessoires *auto* avant l'hiver.
-  Ich muss mein *Auto*zubehör vor dem Winter erneuern.
+  I have to renew my *car* accessories before winter.
 
   L'*auto*-école du quartier propose des cours intensifs.
-  Die *Fahr*schule im Viertel bietet Intensivkurse an.
+  The local self-school offers intensive classes.
 
   Cette *auto* de collection vaut une fortune.
-  Dieses Oldtimer-*Auto* ist ein Vermögen wert.
+  This collection *car* is worth a fortune.
 
   Les *autos* modernes consomment moins d'essence.
-  Moderne *Auto*s verbrauchen weniger Benzin.
+  Modern *cars* consume less fuel.
 
   J'ai fait réparer mon *auto* hier.
-  Ich habe gestern mein *Auto* reparieren lassen.
+  I had my *car* fixed yesterday.
 
   Cette grosse *auto* allemande est très confortable.
-  Dieses große deutsche *Auto* ist sehr komfortabel.
+  This big German *car* is very comfortable.
 
   Il faut ranger l'*auto* dans le garage ce soir.
-  Das *Auto* muss heute Abend in die Garage.
+  We have to park the *car* in the garage tonight.
 
   Nous avons fait une belle promenade en *auto* dans la campagne.
-  Wir haben eine schöne *Auto*fahrt aufs Land gemacht.
+  We took a nice drive through the countryside.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>auto</i> und <i>voiture</i></div>
+    <div class="section-title"><i>auto</i> and <i>voiture</i></div>
     <div class="section-content">
-      <p><span class="fr">Voiture</span> (#881) ist das standardmäßige und formelle Wort für <span class="de">"Auto"</span> oder <span class="de">"Wagen"</span>. Es wird in allen Kontexten verwendet und ist stilistisch neutral.</p>
+      <p><span class="fr">Voiture</span> #881 is the standard and formal word for <span class="de">"Auto"</span> or <span class="de">"Cars"</span>It is used in all contexts and is stylistically neutral.</p>
       <div class="examples">
         <div class="fr">Il a acheté une nouvelle voiture.</div>
-        <div class="de spoiler">Er hat ein neues Auto gekauft.</div>
+        <div class="de spoiler">He bought a new car.</div>
         <div class="fr">La voiture de police patrouille dans le quartier.</div>
-        <div class="de spoiler">Das Polizeiauto patrouilliert im Viertel.</div>
+        <div class="de spoiler">The police car is patrolling the neighborhood.</div>
       </div>
-      <p><span class="fr">Auto</span> ist eine umgangssprachliche Abkürzung von <span class="fr">automobile</span> und bedeutet ebenfalls <span class="de">"Auto"</span>. Es wird häufig in der gesprochenen Sprache und in zusammengesetzten Wörtern verwendet.</p>
+      <p><span class="fr">Auto</span> is a colloquial abbreviation of <span class="fr">automobile</span> and also means <span class="de">"Auto"</span>It is commonly used in spoken language and in compound words.</p>
       <div class="examples">
         <div class="fr">Je prends l'auto pour aller au travail.</div>
-        <div class="de spoiler">Ich nehme das Auto, um zur Arbeit zu fahren.</div>
+        <div class="de spoiler">I'll take the car to work.</div>
         <div class="fr">Il a obtenu son permis à l'auto-école.</div>
-        <div class="de spoiler">Er hat seinen Führerschein in der Fahrschule gemacht.</div>
+        <div class="de spoiler">He got his driver's license in driving school.</div>
       </div>
     </div>
   </div>

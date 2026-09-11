@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3667
 Wort: exhorter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exhorter
 Femininum / Plural: ''
 IPA: \ɛɡ.zɔʁ.te\
-Definition: (er-)mahnen
+Definition: and warnings
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je l'*exhorte* à retirer sa motion.
-  Ich *mahne* ihn, seinen Antrag zurückzuziehen.
+  I urge her to withdraw her motion.
 
   Le professeur *exhorte* ses élèves à la patience pendant l'examen.
-  Der Lehrer *ermahnt* seine Schüler zur Geduld während der Prüfung.
+  The teacher urges his students to be patient during the exam.
 
   Les parents *exhortent* leurs enfants à faire leurs devoirs.
-  Die Eltern *ermahnen* ihre Kinder, die Hausaufgaben zu machen.
+  Parents encourage their children to do their homework.
 
   Marie s'*exhorte* à la patience face aux provocations de son frère.
-  Marie *ermahnt* sich selbst zur Geduld angesichts der Provokationen ihres Bruders.
+  Marie urges her to be patient in the face of her brother's provocations.
 
   Le général *exhortait* ses soldats au combat avec passion.
-  Der General *ermutigte* seine Soldaten leidenschaftlich zum Kampf.
+  The general was passionate about encouraging his soldiers to fight.
 
   Son échec précédent l'avait *exhorté* à plus de prudence.
-  Sein vorheriges Scheitern hatte ihn zu mehr Vorsicht *angehalten*.
+  Her previous failure had urged her to be more cautious.
 
   Les manifestants s'*exhortaient* mutuellement au calme.
-  Die Demonstranten *ermahnten* sich gegenseitig zur Ruhe.
+  The protesters urged each other to remain calm.
 
   Le médecin *exhorte* son patient à arrêter de fumer.
-  Der Arzt *mahnt* seinen Patienten, mit dem Rauchen aufzuhören.
+  The doctor urges his patient to quit smoking.
 
   Je vous *exhorte* à réfléchir avant d'agir.
-  Ich *mahne* Sie, vor dem Handeln nachzudenken.
+  I urge you to think before you act.
 
   Le maire *exhorte* les citoyens à économiser l'eau.
-  Der Bürgermeister *mahnt* die Bürger zum Wassersparen.
+  The mayor urges citizens to save water.
 
   Les experts *exhortent* à la prudence face aux nouveaux investissements.
-  Die Experten *mahnen* zur Vorsicht bei neuen Investitionen.
+  The experts urge caution in the face of new investments.
 
   Sa mère l'*exhortait* toujours à l'obéissance.
-  Seine Mutter *ermahnte* ihn stets zum Gehorsam.
+  His mother always urged him to be obedient.
 
   Le coach *exhorte* son équipe à donner le meilleur d'elle-même.
-  Der Trainer *spornt* sein Team *an*, das Beste zu geben.
+  The coach urges his team to do their best.
 
   Je m'*exhorte* chaque jour à la persévérance.
-  Ich *ermahne* mich jeden Tag zur Beharrlichkeit.
+  I urge myself every day to persevere.
 
   Les dirigeants *exhortent* à la solidarité en temps de crise.
-  Die Führungskräfte *mahnen* in Krisenzeiten zur Solidarität.
+  Leaders urge solidarity in times of crisis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3750
 Wort: requête
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la requête
 Femininum / Plural: ''
 IPA: \ʁə.kɛt\
-Definition: Gesuch, Antrag
+Definition: Request
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *requête* iranienne bloque les négociations.
-  Der iranische *Antrag* blockiert die Verhandlungen.
+  The Iranian *request* blocks the negotiations.
 
   Le juge a rejeté la *requête* pour manque de preuves.
-  Der Richter hat den *Antrag* wegen mangelnder Beweise abgelehnt.
+  The judge dismissed the petition for lack of evidence.
 
   J'ai une *requête* à vous faire : pourriez-vous m'aider avec mes devoirs ?
-  Ich habe eine *Bitte* an Sie: Könnten Sie mir bei den Hausaufgaben helfen?
+  I have a *request* for you: could you help me with my homework?
 
   Il a soumis une *requête* au conseil municipal pour construire une piscine.
-  Er hat beim Gemeinderat ein *Gesuch* zum Bau eines Schwimmbads eingereicht.
+  He submitted a *request* to the city council to build a swimming pool.
 
   La *requête* en divorce a été déposée hier.
-  Der Scheidungs*antrag* wurde gestern eingereicht.
+  The divorce petition was filed yesterday.
 
   Le système traite automatiquement toutes les *requêtes* de recherche.
-  Das System verarbeitet automatisch alle Such*abfragen*.
+  The system processes all search queries automatically.
 
   Le directeur a accepté la *requête* des employés concernant les horaires flexibles.
-  Der Direktor hat dem *Gesuch* der Mitarbeiter bezüglich flexibler Arbeitszeiten zugestimmt.
+  The director accepted the employee's *request* for flexible working hours.
 
   Nous avons lancé une *requête* dans la base de données.
-  Wir haben eine Datenbank*abfrage* gestartet.
+  We launched a query into the database.
 
   La *requête* du patient pour changer de chambre a été approuvée.
-  Dem *Antrag* des Patienten auf einen Zimmerwechsel wurde stattgegeben.
+  The patient's *request* to change rooms has been approved.
 
   À la *requête* des parents, l'école a installé de nouveaux équipements sportifs.
-  Auf *Antrag* der Eltern hat die Schule neue Sportgeräte installiert.
+  At the parents' *request*, the school installed new sports equipment.
 
   Marie a formulé une *requête* pour obtenir une bourse d'études.
-  Marie hat ein *Gesuch* für ein Stipendium gestellt.
+  Marie applied for a scholarship.
 
   Les étudiants ont présenté leur *requête* au doyen de la faculté.
-  Die Studenten haben dem Dekan der Fakultät ihr *Gesuch* vorgelegt.
+  The students submitted their application to the dean of the faculty.
 
   Le moteur de recherche traite des millions de *requêtes* par seconde.
-  Die Suchmaschine verarbeitet Millionen von *Abfragen* pro Sekunde.
+  The search engine processes millions of queries per second.
 
   Sur *requête* du médecin, le patient a été transféré dans un autre hôpital.
-  Auf *Antrag* des Arztes wurde der Patient in ein anderes Krankenhaus verlegt.
+  At the doctor's *request*, the patient was transferred to another hospital.
 
   La *requête* en adoption a été acceptée par le tribunal.
-  Der Adoptions*antrag* wurde vom Gericht angenommen.
+  The *request* for adoption was accepted by the court.
 
   Les voisins ont déposé une *requête* contre le projet de construction.
-  Die Nachbarn haben einen *Antrag* gegen das Bauprojekt eingereicht.
+  Neighbors have filed a petition against the construction project.
 
   Cette *requête* de visa nécessite des documents supplémentaires.
-  Dieser Visa*antrag* erfordert zusätzliche Dokumente.
+  This visa application requires additional documentation.
 
   Le comité examine toutes les *requêtes* avec attention.
-  Das Komitee prüft alle *Anträge* sorgfältig.
+  The Committee shall examine all *requests* carefully.
 
   La *requête* d'accès aux archives a été refusée.
-  Der *Antrag* auf Zugang zu den Archiven wurde abgelehnt.
+  The *request* for access to the archives was refused.
 
   Il faut optimiser la *requête* SQL pour améliorer les performances.
-  Die SQL-*Abfrage* muss optimiert werden, um die Leistung zu verbessern.
+  We need to optimize the SQL query to improve performance.
 
   Le maire a reçu une *requête* pour rénover le parc municipal.
-  Der Bürgermeister hat ein *Gesuch* zur Renovierung des Stadtparks erhalten.
+  The mayor received a *request* to renovate the municipal park.
 
   Les citoyens ont soumis une *requête* pour plus d'espaces verts.
-  Die Bürger haben ein *Gesuch* für mehr Grünflächen eingereicht.
+  Citizens have submitted a *request* for more green space.
 
   J'ai envoyé ma *requête* de remboursement il y a deux semaines.
-  Ich habe meinen Erstattungs*antrag* vor zwei Wochen geschickt.
+  I sent my refund *request* two weeks ago.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

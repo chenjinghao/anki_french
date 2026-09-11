@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4306
 Wort: rayonnement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le rayonnement
 Femininum / Plural: ''
 IPA: \ʁɛ.jɔn.mɑ̃\
-Definition: Strahlung, Ausstrahlung
+Definition: Radiation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le danger des *rayonnements* pour l'homme est réel.
-  Die Gefahr der *Strahlung* für den Menschen ist real.
+  The danger of *radiation* to humans is real.
 
   Le *rayonnement* solaire est plus intense à midi.
-  Die Sonnen*strahlung* ist am Mittag am intensivsten.
+  The sun's rays are more intense at noon.
 
   Les scientifiques mesurent le *rayonnement* thermique de la Terre.
-  Die Wissenschaftler messen die thermische *Strahlung* der Erde.
+  Scientists are measuring the Earth's thermal *radiation*.
 
   L'appareil détecte le *rayonnement* infrarouge des objets.
-  Das Gerät erfasst die Infrarot*strahlung* der Objekte.
+  The device detects infrared *radiation* from objects.
 
   Le *rayonnement* X permet de voir à travers les tissus.
-  Die Röntgen*strahlung* ermöglicht es, durch Gewebe zu sehen.
+  X-rays allow us to see through the tissues.
 
   Les astronomes étudient le *rayonnement* cosmique.
-  Die Astronomen untersuchen die kosmische *Strahlung*.
+  Astronomers are studying cosmic *radiation*.
 
   Le *rayonnement* U.V. peut endommager la peau.
-  Die UV-*Strahlung* kann die Haut schädigen.
+  UV *radiation* can damage the skin.
 
   Le *rayonnement* culturel de Paris attire des millions de touristes.
-  Die kulturelle *Ausstrahlung* von Paris zieht Millionen Touristen an.
+  The cultural radiance of Paris attracts millions of tourists.
 
   Le *rayonnement* de la civilisation grecque influence encore notre monde moderne.
-  Der *Einfluss* der griechischen Zivilisation prägt noch heute unsere moderne Welt.
+  The radiance of Greek civilization still influences our modern world.
 
   Un *rayonnement* de bonheur illuminait son visage.
-  Eine *Ausstrahlung* von Glück erhellte ihr Gesicht.
+  A ray of happiness lit up his face.
 
   Le phare projette son *rayonnement* sur plusieurs kilomètres.
-  Der Leuchtturm wirft seine *Strahlen* über mehrere Kilometer.
+  The lighthouse projects its *radiation* over several kilometers.
 
   Le *rayonnement* du feu réchauffait doucement la pièce.
-  Die *Strahlung* des Feuers wärmte langsam den Raum.
+  The *radiation* of the fire gently heated the room.
 
   Le *rayonnement* de cette université s'étend dans toute l'Europe.
-  Der *Einfluss* dieser Universität erstreckt sich über ganz Europa.
+  The *radiation* of this university spreads throughout Europe.
 
   Les experts surveillent le *rayonnement* radioactif dans l'atmosphère.
-  Die Experten überwachen die radioaktive *Strahlung* in der Atmosphäre.
+  Experts are monitoring radioactive *radiation* in the atmosphere.
 
   Le *rayonnement* de sa personnalité attirait les gens vers lui.
-  Die *Ausstrahlung* seiner Persönlichkeit zog die Menschen zu ihm hin.
+  The radiance of his personality attracted people to him.
 
   Les chercheurs ont découvert un nouveau type de *rayonnement*.
-  Die Forscher haben eine neue Art von *Strahlung* entdeckt.
+  Researchers have discovered a new type of *radiation*.
 
   Le *rayonnement* de cette œuvre a traversé les siècles.
-  Die *Ausstrahlung* dieses Werkes hat die Jahrhunderte überdauert.
+  The radiance of this work has spanned the centuries.
 
   Un doux *rayonnement* émane de cette petite étoile.
-  Ein sanftes *Strahlen* geht von diesem kleinen Stern aus.
+  A gentle *radiation* is emanating from this little star.
 
   Le *rayonnement* international de cette entreprise ne cesse de croître.
-  Die internationale *Ausstrahlung* dieses Unternehmens wächst stetig.
+  The international reach of this enterprise is growing.
 
   Les capteurs mesurent le *rayonnement* électromagnétique.
-  Die Sensoren messen die elektromagnetische *Strahlung*.
+  The sensors measure the electromagnetic *radiation*.
 
   Le *rayonnement* de la langue française diminue dans certaines régions.
-  Der *Einfluss* der französischen Sprache nimmt in manchen Regionen ab.
+  The French language is declining in some areas.
 
   Le *rayonnement* de joie sur son visage était contagieux.
-  Der *Glanz* der Freude auf seinem Gesicht war ansteckend.
+  The radiance of joy on his face was contagious.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

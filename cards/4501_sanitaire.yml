@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4501
 Wort: sanitaire
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le sanitaire
 Femininum / Plural: ''
 IPA: \sa.ni.tɛʁ\
-Definition: Sanitär-, hygienisch
+Definition: Sanitary and hygienic
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'a pas respecté les règles *sanitaires*.
-  Er hat die *Hygiene*regeln nicht eingehalten.
+  He didn't follow the sanitary rules.
 
   Les nouvelles mesures *sanitaires* imposent le port du masque dans les espaces publics.
-  Die *Gesundheits*maßnahmen schreiben das Tragen einer Maske in öffentlichen Räumen vor.
+  The new sanitary measures require the wearing of masks in public spaces.
 
   Un train *sanitaire* a été déployé pour évacuer les blessés.
-  Ein *Lazarett*zug wurde eingesetzt, um die Verletzten zu evakuieren.
+  A medical train has been deployed to evacuate the wounded.
 
   Les *sanitaires* de ce restaurant sont impeccables.
-  Die *Sanitär*anlagen in diesem Restaurant sind tadellos.
+  The sanitation at this restaurant is impeccable.
 
   L'installation *sanitaire* de l'immeuble doit être rénovée.
-  Die *Sanitär*installation des Gebäudes muss renoviert werden.
+  The building's sanitary facilities need to be renovated.
 
   Le service *sanitaire* a fermé le restaurant après l'inspection.
-  Der *Gesundheits*dienst hat das Restaurant nach der Inspektion geschlossen.
+  The *health* department closed the restaurant after the inspection.
 
   Un cordon *sanitaire* a été établi autour de la zone infectée.
-  Ein *Sperr*gürtel wurde um das infizierte Gebiet errichtet.
+  A sanitary cord has been set up around the infected area.
 
   L'état *sanitaire* de la population s'est amélioré ces dernières années.
-  Der *Gesundheits*zustand der Bevölkerung hat sich in den letzten Jahren verbessert.
+  The *health* status of the population has improved in recent years.
 
   Les conditions *sanitaires* dans le camp de réfugiés sont préoccupantes.
-  Die *hygienischen* Bedingungen im Flüchtlingslager sind besorgniserregend.
+  The health conditions in the refugee camp are of concern.
 
   L'avion *sanitaire* a décollé pour une mission d'urgence.
-  Das *Sanitäts*flugzeug ist zu einem Notfalleinsatz gestartet.
+  The medical plane took off for an emergency mission.
 
   Le règlement *sanitaire* international exige la déclaration de certaines maladies.
-  Die internationale *Gesundheits*verordnung verlangt die Meldung bestimmter Krankheiten.
+  The International *Health* Regulations require the reporting of certain diseases.
 
   Les *sanitaires* de la gare sont fermés pour rénovation.
-  Die *Sanitär*räume des Bahnhofs sind wegen Renovierung geschlossen.
+  The sewers at the train station are closed for renovation.
 
   L'équipement *sanitaire* de l'hôpital est ultramoderne.
-  Die *Sanitär*ausstattung des Krankenhauses ist hochmodern.
+  The hospital's medical equipment is state-of-the-art.
 
   Un contrôle *sanitaire* strict est effectué à la frontière.
-  An der Grenze wird eine strenge *Gesundheits*kontrolle durchgeführt.
+  Strict *health* checks are carried out at the border.
 
   La plomberie *sanitaire* doit être remplacée dans tout le bâtiment.
-  Die *Sanitär*rohre müssen im ganzen Gebäude ersetzt werden.
+  The plumbing needs to be replaced throughout the building.
 
   Les normes *sanitaires* sont très strictes dans l'industrie alimentaire.
-  Die *Hygiene*standards sind in der Lebensmittelindustrie sehr streng.
+  Health standards are very strict in the food industry.
 
   Le convoi *sanitaire* transporte des fournitures médicales essentielles.
-  Der *Sanitäts*konvoi transportiert wichtige medizinische Versorgungsgüter.
+  The medical convoy carries essential medical supplies.
 
   L'établissement *sanitaire* accueille les patients atteints de maladies chroniques.
-  Die *Gesundheits*einrichtung nimmt Patienten mit chronischen Erkrankungen auf.
+  The *health* facility hosts patients with chronic diseases.
 
   La police *sanitaire* vétérinaire surveille l'état de santé des troupeaux.
-  Die *Veterinär*polizei überwacht den Gesundheitszustand der Herden.
+  The veterinary *health* police monitor the health of the herds.
 
   Un rapatriement *sanitaire* a été organisé pour les touristes malades.
-  Eine *sanitäre* Rückführung wurde für die erkrankten Touristen organisiert.
+  A medical repatriation was organised for the sick tourists.
 
   Les *sanitaires* publics sont nettoyés trois fois par jour.
-  Die öffentlichen *Sanitär*anlagen werden dreimal täglich gereinigt.
+  Public toilets are cleaned three times a day.
 
   Le secteur *sanitaire* emploie des milliers de personnes.
-  Der *Sanitär*sektor beschäftigt Tausende von Menschen.
+  The *health* sector employs thousands of people.
 
   La crise *sanitaire* a bouleversé notre façon de vivre.
-  Die *Gesundheits*krise hat unsere Lebensweise verändert.
+  The *health* crisis has changed our way of life.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

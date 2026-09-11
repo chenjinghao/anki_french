@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 269
 Wort: exister
 Wortart: vi, vi(imp)
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exister
 Femininum / Plural: ''
 IPA: \ɛɡ.zis.te\
-Definition: existieren
+Definition: to exist
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le risque n'*existe* plus.
-  Das Risiko *existiert* nicht mehr.
+  The risk is gone.
 
   Il *existe* plusieurs façons de résoudre ce problème.
-  Es *gibt* mehrere Möglichkeiten, dieses Problem zu lösen.
+  There are several ways to solve this problem.
 
   Cette espèce rare *existe* encore dans les montagnes.
-  Diese seltene Art *existiert* noch in den Bergen.
+  This rare species still lives in the mountains.
 
   "Je pense, donc j'*existe*."
-  "Ich denke, also *existiere* ich."
+  "I think, therefore I exist".
 
   Les dinosaures ont *existé* il y a des millions d'années.
-  Die Dinosaurier haben vor Millionen Jahren *existiert*.
+  Dinosaurs *existed* millions of years ago.
 
   Cette tradition *existe* depuis le Moyen Âge.
-  Diese Tradition *besteht* seit dem Mittelalter.
+  This tradition has existed since the Middle Ages.
 
   Pour lui, seul l'argent *existe*.
-  Für ihn *zählt* nur das Geld.
+  For him, only money exists.
 
   Je ne savais pas que ce mot *existait* en français.
-  Ich wusste nicht, dass es dieses Wort im Französischen *gibt*.
+  I didn't know that word *existed* in French.
 
   L'amour véritable *existe*-t-il encore ?
-  *Gibt* es die wahre Liebe noch?
+  Does true love still exist?
 
   Elle *existait* déjà quand j'étais petit.
-  Sie hat schon *gelebt*, als ich klein war.
+  It already *existed* when I was a kid.
 
   Il *existe* une solution à chaque problème.
-  Es *gibt* für jedes Problem eine Lösung.
+  There's a solution to every problem.
 
   Cette maladie n'*existe* plus en Europe.
-  Diese Krankheit *existiert* in Europa nicht mehr.
+  This disease no longer exists in Europe.
 
   Le monde virtuel et le monde réel peuvent *exister* ensemble.
-  Die virtuelle und die reale Welt können nebeneinander *existieren*.
+  The virtual world and the real world can exist together.
 
   Sans eau, la vie ne pourrait pas *exister*.
-  Ohne Wasser könnte Leben nicht *existieren*.
+  Without water, life could not exist.
 
   Cette coutume *existe* encore dans certains villages.
-  Dieser Brauch *besteht* noch in einigen Dörfern.
+  This custom still exists in some villages.
 
   Je veux *exister* par moi-même.
-  Ich will aus mir selbst heraus *existieren*.
+  I want *to exist* by myself.
 
   Ces problèmes ont toujours *existé*.
-  Diese Probleme haben schon immer *existiert*.
+  These problems have always *existed*.
 
   Il faut apprendre à *exister* sans lui.
-  Man muss lernen, ohne ihn zu *leben*.
+  You have to learn *to exist* without him.
 
   Cette entreprise *existe* depuis vingt ans.
-  Dieses Unternehmen *besteht* seit zwanzig Jahren.
+  This company has been around for twenty years.
 
   Pour mes parents, seules mes notes *existaient*.
-  Für meine Eltern *zählten* nur meine Noten.
+  For my parents, only my grades *existed*.
 
   Il *existe* encore des gens qui croient à la magie.
-  Es *gibt* noch Menschen, die an Magie glauben.
+  There are still people who believe in magic.
 
   Le dragon n'a jamais *existé*.
-  Der Drache hat nie *existiert*.
+  The dragon never *existed*.
 
   Ces difficultés n'*existent* que dans ta tête.
-  Diese Schwierigkeiten *existieren* nur in deinem Kopf.
+  These difficulties exist only in your head.
 
   Je suis heureuse d'*exister*.
-  Ich bin glücklich zu *leben*.
+  I'm happy *to exist*.
 
   Ces documents *existaient* avant l'incendie.
-  Diese Dokumente haben vor dem Brand *existiert*.
+  These documents *existed* before the fire.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

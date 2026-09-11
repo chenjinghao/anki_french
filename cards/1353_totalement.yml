@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1353
 Wort: totalement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: totalement
 Femininum / Plural: ''
 IPA: \tɔ.tal.mɑ̃\
-Definition: vollständig, total
+Definition: whole, total
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les tribunaux russes sont *totalement* engorgés.
-  Die russischen Gerichte sind *völlig* überlastet.
+  The Russian courts are overcrowded.
 
   La maison a été *totalement* détruite par l'incendie.
-  Das Haus wurde durch den Brand *vollständig* zerstört.
+  The house was completely destroyed by the fire.
 
   Je suis *totalement* d'accord avec votre proposition.
-  Ich stimme Ihrem Vorschlag *vollkommen* zu.
+  I *totally* agree with your proposal.
 
   Cette solution m'a *totalement* convaincu.
-  Diese Lösung hat mich *völlig* überzeugt.
+  This solution *totally* convinced me.
 
   Son comportement est *totalement* inacceptable.
-  Sein Verhalten ist *vollkommen* inakzeptabel.
+  His behavior is *totally* unacceptable.
 
   Le projet a été *totalement* abandonné.
-  Das Projekt wurde *vollständig* aufgegeben.
+  The project has been completely abandoned.
 
   Elle s'est *totalement* remise de sa maladie.
-  Sie hat sich von ihrer Krankheit *völlig* erholt.
+  She's completely recovered from her illness.
 
   Je suis *totalement* épuisé après cette longue journée.
-  Ich bin nach diesem langen Tag *vollkommen* erschöpft.
+  I'm *totally* exhausted after this long day.
 
   L'entreprise est *totalement* ruinée.
-  Das Unternehmen ist *völlig* ruiniert.
+  The company is *totally* ruined.
 
   Cette méthode est *totalement* inefficace.
-  Diese Methode ist *vollkommen* unwirksam.
+  This method is *totally* ineffective.
 
   Il a *totalement* oublié notre rendez-vous.
-  Er hat unseren Termin *völlig* vergessen.
+  He *totally* forgot our date.
 
   Le paysage était *totalement* différent il y a dix ans.
-  Die Landschaft war vor zehn Jahren *vollkommen* anders.
+  The landscape was *totally* different ten years ago.
 
   Le système a été *totalement* remanié.
-  Das System wurde *vollständig* überarbeitet.
+  The system has been completely redesigned.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2473
 Wort: insuffisant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: insuffisant
 Femininum / Plural: insuffisante
 IPA: \ɛ̃.sy.fi.zɑ̃\
-Definition: unzureichend
+Definition: inadequate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce que nous avons accompli reste *insuffisant*.
-  Was wir erreicht haben, bleibt *unzureichend*.
+  What we've accomplished is still *insufficient*.
 
   Nos ressources humaines sont *insuffisantes* pour gérer ce grand projet.
-  Unsere personellen Ressourcen sind *nicht ausreichend*, um dieses große Projekt zu bewältigen.
+  Our human resources are *insufficient* to handle this big project.
 
   Le nombre de places de stationnement est *insuffisant* dans ce quartier.
-  Die Anzahl der Parkplätze in diesem Viertel ist *nicht groß genug*.
+  The number of parking spaces in this neighbourhood is *insufficient*.
 
   La lumière est *insuffisante* pour lire confortablement dans cette pièce.
-  Das Licht ist *zu schwach*, um in diesem Raum bequem lesen zu können.
+  There's not enough light to read comfortably in this room.
 
   Les résultats de Pierre en mathématiques sont *insuffisants* pour passer en classe supérieure.
-  Peters Mathematikergebnisse sind *ungenügend* für die Versetzung.
+  Pierre's results in mathematics are not enough to get into the upper class.
 
   Le budget alloué à la recherche reste *insuffisant* cette année.
-  Das für die Forschung zugewiesene Budget bleibt dieses Jahr *zu gering*.
+  The budget for research is still *insufficient* this year.
 
   Son expérience professionnelle était *insuffisante* pour le poste de direction.
-  Seine Berufserfahrung war für die Führungsposition *unzulänglich*.
+  His professional experience was *insufficient* for the managerial position.
 
   La ventilation de cette salle est *insuffisante* pendant l'été.
-  Die Belüftung dieses Raums ist im Sommer *nicht ausreichend*.
+  The ventilation in this room is *insufficient* during the summer.
 
   Les mesures prises contre le changement climatique sont *insuffisantes*.
-  Die Maßnahmen gegen den Klimawandel sind *unzureichend*.
+  Measures taken against climate change are *insufficient*.
 
   La qualité de ce travail est vraiment *insuffisante*.
-  Die Qualität dieser Arbeit ist wirklich *mangelhaft*.
+  The quality of this work is really *insufficient*.
 
   Le nombre de médecins est *insuffisant* dans les zones rurales.
-  Die Anzahl der Ärzte in ländlichen Gebieten ist *zu gering*.
+  The number of doctors is *insufficient* in rural areas.
 
   Sa préparation pour l'examen s'est révélée *insuffisante*.
-  Seine Prüfungsvorbereitung erwies sich als *unzureichend*.
+  His preparation for the examination proved *insufficient*.
 
   Les explications données aux étudiants étaient *insuffisantes*.
-  Die den Studenten gegebenen Erklärungen waren *unzulänglich*.
+  The explanations given to the students were *insufficient*.
 
   Le temps accordé pour finir ce projet est *insuffisant*.
-  Die Zeit für die Fertigstellung dieses Projekts ist *nicht ausreichend*.
+  The time given to complete this project is *insufficient*.
 
   La protection contre le bruit s'est avérée *insuffisante*.
-  Der Lärmschutz erwies sich als *unzureichend*.
+  Noise protection proved to be *insufficient*.
 
   Son niveau en français est *insuffisant* pour suivre les cours.
-  Sein Französischniveau ist *zu schwach*, um dem Unterricht zu folgen.
+  His level of French is *insufficient* to take classes.
 
   Les précautions prises étaient *insuffisantes* pour garantir la sécurité.
-  Die getroffenen Vorsichtsmaßnahmen waren *unzureichend*, um die Sicherheit zu gewährleisten.
+  The precautions taken were *insufficient* to ensure safety.
 
   La connexion internet est *insuffisante* pour le télétravail.
-  Die Internetverbindung ist fürs Homeoffice *nicht ausreichend*.
+  Internet connectivity is *insufficient* for telecommuting.
 
   L'isolation thermique de ce bâtiment est *insuffisante*.
-  Die Wärmedämmung dieses Gebäudes ist *unzureichend*.
+  The thermal insulation of this building is *insufficient*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

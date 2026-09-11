@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3326
 Wort: restaurer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: restaurer
 Femininum / Plural: ''
 IPA: \ʁɛs.tɔ.ʁe\
-Definition: wiederherstellen, stärken
+Definition: Rehabilitation and strengthening
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous allons d'abord nous *restaurer*.
-  Wir werden uns erst einmal *stärken*.
+  We're going to restore ourselves first.
 
   Le château sera *restauré* l'année prochaine.
-  Das Schloss wird nächstes Jahr *restauriert*.
+  The castle will be *restored* next year.
 
   L'artiste *restaure* des tableaux anciens depuis vingt ans.
-  Die Künstlerin *restauriert* seit zwanzig Jahren alte Gemälde.
+  The artist has been restoring old paintings for twenty years.
 
   Il faut *restaurer* la confiance entre nos deux pays.
-  Das Vertrauen zwischen unseren beiden Ländern muss *wiederhergestellt* werden.
+  We need to restore trust between our two countries.
 
   La monarchie fut *restaurée* après la révolution.
-  Die Monarchie wurde nach der Revolution *wiederhergestellt*.
+  The monarchy was *restored* after the revolution.
 
   Le technicien va *restaurer* le système informatique.
-  Der Techniker wird das Computersystem *wiederherstellen*.
+  The technician will restore the computer system.
 
   Cette soupe chaude va vous *restaurer*.
-  Diese heiße Suppe wird Sie *stärken*.
+  This hot soup will make you feel better.
 
   Les médecins ont réussi à *restaurer* sa vision.
-  Die Ärzte konnten sein Sehvermögen *wiederherstellen*.
+  Doctors were able to restore her vision.
 
   Marie *restaure* les meubles anciens avec passion.
-  Marie *restauriert* alte Möbel mit Leidenschaft.
+  Marie restores the old furniture with passion.
 
   Nous devons *restaurer* l'ordre public.
-  Wir müssen die öffentliche Ordnung *wiederherstellen*.
+  We must restore public order.
 
   Le gouvernement souhaite *restaurer* la prospérité dans le pays.
-  Die Regierung möchte den Wohlstand im Land *wiederherstellen*.
+  The government wants to restore prosperity to the country.
 
   J'ai *restauré* mes forces grâce à une bonne nuit de sommeil.
-  Ich bin dank einer guten Nacht Schlaf *wieder zu Kräften gekommen*.
+  I regained my strength with a good night's sleep.
 
   Elle *restaure* sa santé dans un centre de repos.
-  Sie *erholt sich* in einem Erholungszentrum.
+  She's restoring her health in a rest center.
 
   Je vais *restaurer* mes invités avec un bon repas.
-  Ich werde meine Gäste mit einer guten Mahlzeit *bewirten*.
+  I'm going to restore my guests with a good meal.
 
   L'architecte a magnifiquement *restauré* cette abbaye.
-  Der Architekt hat diese Abtei wunderschön *restauriert*.
+  The architect has beautifully *restored* this abbey.
 
   Arrêtons-nous pour nous *restaurer* dans ce petit café.
-  Lass uns in diesem kleinen Café halt machen, um uns *zu stärken*.
+  Let's stop and get some rest in this little cafe.
 
   Les spécialistes ont *restauré* les anciennes fresques.
-  Die Spezialisten haben die alten Fresken *restauriert*.
+  Specialists have *restored* the old frescoes.
 
   Il faut *restaurer* ce fichier à partir de la sauvegarde.
-  Diese Datei muss aus dem Backup *wiederhergestellt* werden.
+  We need to restore this file from the backup.
 
   Le chirurgien a *restauré* la fonction de son genou.
-  Der Chirurg hat die Funktion seines Knies *wiederhergestellt*.
+  The surgeon *restored* the function of his knee.
 
   Les bénévoles ont *restauré* les vieux manuscrits.
-  Die Freiwilligen haben die alten Manuskripte *restauriert*.
+  Volunteers *restored* the old manuscripts.
 
   Cette ancienne grange a été parfaitement *restaurée*.
-  Diese alte Scheune wurde perfekt *restauriert*.
+  This old barn has been perfectly *restored*.
 
   Nous devons *restaurer* les anciennes traditions.
-  Wir müssen die alten Traditionen *wiederbeleben*.
+  We must restore the old traditions.
 
   Le traitement va *restaurer* ses forces petit à petit.
-  Die Behandlung wird seine Kräfte nach und nach *wiederherstellen*.
+  The treatment will gradually restore her strength.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

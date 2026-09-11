@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3633
 Wort: carburant
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le carburant
 Femininum / Plural: ''
 IPA: \kaʁ.by.ʁɑ̃\
-Definition: Kraftstoff, Treibstoff
+Definition: Fuel
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les prix élevés des *carburants* ont frappé tous les secteurs de l'économie.
-  Die hohen *Kraftstoff*preise haben alle Wirtschaftsbereiche getroffen.
+  High fuel prices have affected all sectors of the economy.
 
   La voiture consomme moins de *carburant* sur l'autoroute qu'en ville.
-  Das Auto verbraucht auf der Autobahn weniger *Treibstoff* als in der Stadt.
+  The car consumes less *fuel* on the highway than in the city.
 
   Il faut choisir le bon type de *carburant* pour votre moteur.
-  Sie müssen den richtigen *Kraftstoff*typ für Ihren Motor wählen.
+  You have to choose the right kind of *fuel* for your engine.
 
   Ce nouveau *carburant* vert est produit à partir de déchets organiques.
-  Dieser neue Bio*kraftstoff* wird aus organischen Abfällen hergestellt.
+  This new green *fuel* is produced from organic waste.
 
   Le réservoir de *carburant* est presque vide.
-  Der *Kraftstoff*tank ist fast leer.
+  The *fuel* tank is almost empty.
 
   Les avions militaires utilisent un *carburant* spécial pour leurs missions.
-  Militärflugzeuge verwenden einen speziellen *Treibstoff* für ihre Einsätze.
+  Military planes use special *fuel* for their missions.
 
   Le mélange *carburant* n'était pas optimal, ce qui a causé des problèmes au moteur.
-  Das *Kraftstoff*gemisch war nicht optimal, was zu Motorproblemen führte.
+  The *fuel* mix was not optimal, causing engine problems.
 
   Les chercheurs développent de nouveaux *carburants* synthétiques.
-  Die Forscher entwickeln neue synthetische *Treibstoffe*.
+  Researchers are developing new synthetic *fuels*.
 
   La station-service propose plusieurs types de *carburants*.
-  Die Tankstelle bietet verschiedene *Kraftstoff*arten an.
+  The gas station offers several types of fuel.
 
   Notre dépôt de *carburant* peut stocker jusqu'à mille litres.
-  Unser *Treibstoff*lager kann bis zu tausend Liter aufnehmen.
+  Our *fuel* tank can hold up to 1,000 litres.
 
   Ce moteur fonctionne uniquement avec du *carburant* sans plomb.
-  Dieser Motor läuft nur mit bleifreiem *Kraftstoff*.
+  This engine only runs on lead-free *fuel*.
 
   Le prix du *carburant* pour avions a doublé cette année.
-  Der Flugzeug*treibstoff*preis hat sich dieses Jahr verdoppelt.
+  The price of jet *fuel* has doubled this year.
 
   Les voitures modernes consomment moins de *carburant* que les anciennes.
-  Moderne Autos verbrauchen weniger *Kraftstoff* als alte.
+  Modern cars consume less *fuel* than old ones.
 
   L'industrie investit massivement dans les *carburants* de demain.
-  Die Industrie investiert stark in die *Kraftstoffe* der Zukunft.
+  The industry is investing heavily in tomorrow's *fuels*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

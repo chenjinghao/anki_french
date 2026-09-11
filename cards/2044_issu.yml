@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2044
 Wort: issu
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: issu
 Femininum / Plural: issue
 IPA: \i.sy\
-Definition: hervorgegangen, stammend
+Definition: originating from
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Hugh était *issu* d'une famille de cinq garçons.
-  Hugh *stammte* aus einer Familie mit fünf Jungen.
+  Hugh came from a family of five boys.
 
   Elle est *issue* d'une famille modeste mais a réussi grâce à son travail acharné.
-  Sie *stammt* aus einfachen Verhältnissen, hat es aber durch harte Arbeit geschafft.
+  She came from a modest family, but she was successful because of her hard work.
 
   Le roi actuel est *issu* d'une longue lignée de monarques.
-  Der aktuelle König *entstammt* einer langen Reihe von Monarchen.
+  The current king is descended from a long line of monarchs.
 
   Ce parti politique est *issu* d'un mouvement de protestation populaire.
-  Diese politische Partei ist aus einer Protestbewegung des Volkes *hervorgegangen*.
+  This political party grew out of a popular protest movement.
 
   Les progrès médicaux sont souvent *issus* de la recherche fondamentale.
-  Medizinische Fortschritte *gehen* oft aus der Grundlagenforschung *hervor*.
+  Medical advances are often the result of basic research.
 
   La plupart des langues romanes sont *issues* du latin.
-  Die meisten romanischen Sprachen *stammen* vom Lateinischen *ab*.
+  Most Romance languages are derived from Latin.
 
   Cette startup innovante est *issue* de l'incubateur de notre université.
-  Dieses innovative Startup ist aus dem Inkubator unserer Universität *entstanden*.
+  This innovative startup came out of our university incubator.
 
   Les tensions actuelles sont *issues* d'un long conflit historique.
-  Die aktuellen Spannungen *resultieren* aus einem langen historischen Konflikt.
+  The current tensions stem from a long historical conflict.
 
   Notre entreprise est *issue* de la fusion de deux sociétés concurrentes.
-  Unser Unternehmen ist aus der Fusion zweier konkurrierender Firmen *hervorgegangen*.
+  Our company emerged from the merger of two competing companies.
 
   Ces nouveaux matériaux sont *issus* de années de recherche en laboratoire.
-  Diese neuen Materialien sind das *Ergebnis* jahrelanger Laborforschung.
+  These new materials are the result of years of laboratory research.
 
   La théorie de la relativité est *issue* du génie d'Albert Einstein.
-  Die Relativitätstheorie *entspringt* dem Genie Albert Einsteins.
+  The theory of relativity came from the genius of Albert Einstein.
 
   Les deux cousins sont *issus de germain* et partagent les mêmes grands-parents.
-  Die beiden Cousins sind *Cousins zweiten Grades* und haben dieselben Großeltern.
+  The two cousins are of german descent and share the same grandparents.
 
   Cette coutume est *issue* d'une tradition ancestrale du village.
-  Dieser Brauch *stammt* von einer alten Tradition des Dorfes *ab*.
+  This custom is derived from an ancient village tradition.
 
   Les conflits actuels sont souvent *issus* de malentendus culturels.
-  Die aktuellen Konflikte *entstehen* oft aus kulturellen Missverständnissen.
+  Today's conflicts are often the result of cultural misunderstandings.
 
   Le scénario du film est *issu* d'une histoire vraie.
-  Das Drehbuch des Films *basiert* auf einer wahren Geschichte.
+  The film's script is based on a true story.
 
   Ces plantes sont *issues* de graines récoltées l'année dernière.
-  Diese Pflanzen sind aus Samen *gewachsen*, die im letzten Jahr geerntet wurden.
+  These plants come from seeds harvested last year.
 
   Les décisions prises sont *issues* d'un long processus de consultation.
-  Die getroffenen Entscheidungen sind das *Ergebnis* eines langen Beratungsprozesses.
+  The decisions taken are the result of a long process of consultation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

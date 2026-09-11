@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4050
 Wort: convaincant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: convaincant
 Femininum / Plural: convaincante
 IPA: \kɔ̃.vɛ̃.kɑ̃\
-Definition: überzeugend
+Definition: Convincing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tu as été *convaincant* à la télé aujourd'hui.
-  Du warst heute im Fernsehen sehr *überzeugend*.
+  You were *convincing* on TV today.
 
   Son argumentation était très *convaincante* lors du débat.
-  Ihre Argumentation war in der Debatte sehr *überzeugend*.
+  His argument was very *convincing* in the debate.
 
   La preuve n'était pas assez *convaincante* pour le jury.
-  Der Beweis war für die Jury nicht *eindeutig* genug.
+  The evidence wasn't *convincing* enough for the jury.
 
   Ces nouvelles preuves sont absolument *convaincantes*.
-  Diese neuen Beweise sind absolut *schlagend*.
+  This new evidence is absolutely *convincing*.
 
   L'avocat n'a pas été très *convaincant* dans sa plaidoirie finale.
-  Der Anwalt war in seinem Schlussplädoyer nicht sehr *überzeugend*.
+  The lawyer wasn't very persuasive in his final plea.
 
   Sa démonstration était particulièrement *convaincante*.
-  Seine Vorführung war besonders *überzeugend*.
+  His demonstration was particularly *convincing*.
 
   Je ne trouve pas vos explications très *convaincantes*.
-  Ich finde Ihre Erklärungen nicht sehr *überzeugend*.
+  I don't find your explanations very *convincing*.
 
   L'orateur était tellement *convaincant* que tout le monde l'a applaudi.
-  Der Redner war so *überzeugend*, dass alle applaudierten.
+  The speaker was so *convincing* that everyone applauded him.
 
   Ces résultats sont-ils vraiment *convaincants* ?
-  Sind diese Ergebnisse wirklich *eindeutig*?
+  Are these results really *convincing*?
 
   Elle donne toujours des exemples très *convaincants*.
-  Sie gibt immer sehr *überzeugende* Beispiele.
+  She always gives very compelling examples.
 
   Les raisons qu'il a présentées étaient très *convaincantes*.
-  Die Gründe, die er vorgebracht hat, waren sehr *überzeugend*.
+  The reasons he presented were very *convincing*.
 
   Votre exposé n'était pas du tout *convaincant*.
-  Ihr Vortrag war überhaupt nicht *überzeugend*.
+  Your presentation was not *convincing* at all.
 
   Cette théorie devient de plus en plus *convaincante*.
-  Diese Theorie wird immer *überzeugender*.
+  This theory is becoming more and more *convincing*.
 
   Il faut être *convaincant* pour réussir cet entretien d'embauche.
-  Man muss *überzeugend* sein, um dieses Vorstellungsgespräch zu meistern.
+  You have to be *convincing* to be successful in this job interview.
 
   La conclusion de son article était particulièrement *convaincante*.
-  Das Fazit seines Artikels war besonders *überzeugend*.
+  The conclusion of his article was particularly *convincing*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

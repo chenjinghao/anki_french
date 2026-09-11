@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3739
 Wort: vraisemblablement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: vraisemblablement
 Femininum / Plural: ''
 IPA: \vʁɛ.sɑ̃.bla.blə.mɑ̃\
-Definition: wahrscheinlich, vermutlich
+Definition: Probably
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les prix resteront *vraisemblablement* stables.
-  Die Preise bleiben *wahrscheinlich* stabil.
+  Prices are likely to remain stable.
 
   Il ne viendra *vraisemblablement* pas à la réunion demain.
-  Er kommt *wahrscheinlich* nicht zum Treffen morgen.
+  He *probably* won't come to the meeting tomorrow.
 
   *Vraisemblablement*, nous devrons reporter le pique-nique à cause de la pluie.
-  *Wahrscheinlich* müssen wir das Picknick wegen des Regens verschieben.
+  We'll probably have to postpone the picnic because of the rain.
 
   Le train arrivera *vraisemblablement* avec une heure de retard.
-  Der Zug wird *voraussichtlich* eine Stunde Verspätung haben.
+  The train will *probably* arrive an hour late.
 
   Les résultats seront *vraisemblablement* publiés la semaine prochaine.
-  Die Ergebnisse werden *wahrscheinlich* nächste Woche veröffentlicht.
+  The results are likely to be published next week.
 
   *Vraisemblablement*, elle a oublié notre rendez-vous.
-  Sie hat *vermutlich* unseren Termin vergessen.
+  She must have forgotten our date.
 
   Le nouveau magasin ouvrira *vraisemblablement* ses portes en septembre.
-  Das neue Geschäft wird *voraussichtlich* im September eröffnen.
+  The new store is likely to open in September.
 
   C'est *vraisemblablement* la dernière fois que nous nous voyons cette année.
-  Das ist *wahrscheinlich* das letzte Mal, dass wir uns dieses Jahr sehen.
+  This is *probably* the last time we'll see each other this year.
 
   Les travaux dureront *vraisemblablement* plus longtemps que prévu.
-  Die Arbeiten werden *vermutlich* länger dauern als geplant.
+  The work is likely to take longer than expected.
 
   *Vraisemblablement*, il faudra compter deux heures pour arriver à destination.
-  Man muss *wahrscheinlich* zwei Stunden für die Anfahrt einplanen.
+  It probably takes two hours to get there.
 
   Le concert sera *vraisemblablement* complet ce soir.
-  Das Konzert wird heute Abend *wahrscheinlich* ausverkauft sein.
+  The concert is likely to be complete tonight.
 
   *Vraisemblablement*, cette espèce d'oiseau aura disparu d'ici dix ans.
-  Diese Vogelart wird in zehn Jahren *vermutlich* ausgestorben sein.
+  It is likely that this species of bird will be extinct within ten years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>vraisemblablement</i> und <i>probablement</i></div>
+    <div class="section-title"><i>vraisemblablement</i> and <i>probablement</i></div>
     <div class="section-content">
-      <p><span class="fr">Vraisemblablement</span> bedeutet <span class="de">"wahrscheinlich"</span> oder <span class="de">"allem Anschein nach"</span> und drückt aus, dass etwas den Anschein der Wahrheit hat, basierend auf Beobachtungen oder logischen Schlussfolgerungen.</p>
+      <p><span class="fr">Vraisemblablement</span> means <span class="de">"probably"</span> or <span class="de">"seems to be".</span> and expresses that something appears to be true based on observations or logical conclusions.</p>
       <div class="examples">
         <div class="fr">Il arrivera vraisemblablement en retard, comme d'habitude.</div>
-        <div class="de spoiler">Er wird wahrscheinlich zu spät kommen, wie üblich.</div>
+        <div class="de spoiler">He'll probably be late, as usual.</div>
         <div class="fr">C'est vraisemblablement la meilleure solution dans ce cas.</div>
-        <div class="de spoiler">Das ist allem Anschein nach die beste Lösung in diesem Fall.</div>
+        <div class="de spoiler">That seems to be the best solution in this case.</div>
       </div>
-      <p><span class="fr">Probablement</span> (#903) bedeutet ebenfalls <span class="de">"wahrscheinlich"</span>, betont aber stärker die mathematische oder statistische Wahrscheinlichkeit und wird häufiger in alltäglichen Situationen verwendet.</p>
+      <p><span class="fr">Probablement</span> (#903) also means <span class="de">"probably"</span>However, it emphasizes more on mathematical or statistical probability and is more commonly used in everyday situations.</p>
       <div class="examples">
         <div class="fr">Il va probablement pleuvoir demain.</div>
-        <div class="de spoiler">Es wird morgen wahrscheinlich regnen.</div>
+        <div class="de spoiler">It's probably going to rain tomorrow.</div>
         <div class="fr">Je serai probablement en retard à la réunion.</div>
-        <div class="de spoiler">Ich werde wahrscheinlich zu spät zum Treffen kommen.</div>
+        <div class="de spoiler">I'll probably be late for the meeting.</div>
       </div>
     </div>
   </div>

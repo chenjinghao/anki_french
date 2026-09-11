@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2987
 Wort: pourcentage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le pourcentage
 Femininum / Plural: ''
 IPA: \puʁ.sɑ̃.taʒ\
-Definition: Prozentsatz
+Definition: Percentage
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elles calculent les *pourcentages* sur leurs profits.
-  Sie berechnen die *Prozentsätze* auf ihre Gewinne.
+  They calculate *percentages* on their profits.
 
   Un fort *pourcentage* de chômeurs inquiète le gouvernement.
-  Ein hoher *Prozentsatz* an Arbeitslosen beunruhigt die Regierung.
+  The government is concerned about a high *percentage* of unemployed people.
 
   Le vendeur touche un *pourcentage* sur chaque voiture vendue.
-  Der Verkäufer erhält einen *prozentualen Anteil* für jedes verkaufte Auto.
+  The seller gets a *percentage* on every car sold.
 
   Les *pourcentages* de réussite varient selon les filières universitaires.
-  Die Erfolgs*quoten* variieren je nach Studiengang.
+  Success rates vary according to academic fields.
 
   Notre entreprise a augmenté ses ventes de 5 *pourcents* ce trimestre.
-  Unser Unternehmen hat seine Verkäufe in diesem Quartal um 5 *Prozent* gesteigert.
+  Our company increased its sales by 5 *percent* this quarter.
 
   Il faut donner les résultats en *pourcentages* pour faciliter la comparaison.
-  Man muss die Ergebnisse in *Prozenten* angeben, um den Vergleich zu erleichtern.
+  The results must be given in *percentages* to facilitate comparison.
 
   Le *pourcentage* d'oxygène dans l'air est d'environ 21%.
-  Der *Prozentsatz* an Sauerstoff in der Luft beträgt etwa 21%.
+  The *percentage* of oxygen in the air is about 21%.
 
   "Quel *pourcentage* de la population a-t-il participé au sondage ?"
-  "Welcher *Prozentsatz* der Bevölkerung hat an der Umfrage teilgenommen?"
+  "What *percentage* of the population participated in the survey?"
 
   Les statisticiens analysent les *pourcentages* de croissance économique.
-  Die Statistiker analysieren die Wirtschaftswachstums*raten*.
+  Statistics analyze the *percentages* of economic growth.
 
   Le *pourcentage* de femmes en politique a considérablement augmenté.
-  Der *Anteil* der Frauen in der Politik ist erheblich gestiegen.
+  The *percentage* of women in politics has increased considerably.
 
   Ce produit contient un faible *pourcentage* d'alcool.
-  Dieses Produkt enthält einen geringen *Prozentsatz* Alkohol.
+  This product contains a small *percentage* of alcohol.
 
   Les enseignants observent une hausse du *pourcentage* d'élèves en difficulté.
-  Die Lehrer beobachten einen Anstieg des *Anteils* von Schülern mit Schwierigkeiten.
+  Teachers are seeing an increase in the *percentage* of pupils in difficulty.
 
   Le rapport indique les *pourcentages* de satisfaction des clients.
-  Der Bericht zeigt die Kundenzufriedenheits*raten* an.
+  The report shows the percentage of customer satisfaction.
 
   Ils travaillent *au pourcentage* dans cette boutique.
-  Sie arbeiten in diesem Geschäft *auf Provisionsbasis*.
+  They work as a percentage in this shop.
 
   Un grand *pourcentage* de la population ne s'est pas prononcé sur cette question.
-  Ein großer *Prozentsatz* der Bevölkerung hat sich zu dieser Frage nicht geäußert.
+  A large *percentage* of the population has not commented on this issue.
 
   La pente de cette route a un *pourcentage* élevé, faites attention en conduisant.
-  Diese Straße hat eine hohe *Steigungs*rate, seien Sie beim Fahren vorsichtig.
+  The slope of this road has a high *percentage*, so be careful when driving.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

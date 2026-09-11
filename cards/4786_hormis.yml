@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4786
 Wort: hormis
 Wortart: prep
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hormis
 Femininum / Plural: ''
 IPA: \ɔʁ.mi\
-Definition: mit Ausnahme von
+Definition: with the exception of:
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Hormis* vous, personne n'a vu ce gamin.
-  *Außer* Ihnen hat niemand diesen Jungen gesehen.
+  Except for you, nobody's seen this kid.
 
   *Hormis* les chats, tous les animaux sont interdits dans cet immeuble.
-  *Außer* Katzen sind alle Tiere in diesem Gebäude verboten.
+  All animals in this building are forbidden except cats.
 
   Le jardin était vide, *hormis* quelques oiseaux qui chantaient dans les arbres.
-  Der Garten war leer, *bis auf* ein paar Vögel, die in den Bäumen sangen.
+  The garden was empty, except for a few birds singing in the trees.
 
   *Hormis* le dimanche, je me lève toujours à six heures.
-  *Ausgenommen* sonntags stehe ich immer um sechs Uhr auf.
+  Except on Sundays, I always get up at six o'clock.
 
   *Hormis* les cas d'urgence, les visites sont interdites après 20 heures.
-  *Mit Ausnahme* von Notfällen sind Besuche nach 20 Uhr verboten.
+  Except for emergencies, visits are prohibited after 8 p.m.
 
   *Hormis* Marie et Pierre, tous les invités sont déjà partis.
-  *Bis auf* Marie und Pierre sind alle Gäste bereits gegangen.
+  All the guests had already left, except Marie and Pierre.
 
   Les élèves ont tous réussi l'examen, *hormis* deux qui étaient malades ce jour-là.
-  Die Schüler haben alle die Prüfung bestanden, *außer* zweien, die an diesem Tag krank waren.
+  All the students passed the exam except for two who were sick that day.
 
   *Hormis* la pluie du matin, nous avons eu une journée magnifique.
-  *Abgesehen von* dem Regen am Morgen hatten wir einen wunderschönen Tag.
+  Besides the morning rain, we had a beautiful day.
 
   Tout s'est bien passé pendant le voyage, *hormis* que nous avons raté notre correspondance.
-  Während der Reise lief alles gut, *nur* dass wir unseren Anschluss verpasst haben.
+  Everything went well during the trip, except we missed our correspondence.
 
   *Hormis* les frais de transport, tout est inclus dans le prix.
-  *Mit Ausnahme* der Transportkosten ist alles im Preis inbegriffen.
+  Except for transport costs, everything is included in the price.
 
   C'est un bon restaurant, *hormis* qu'il est un peu cher.
-  Es ist ein gutes Restaurant, *nur* dass es etwas teuer ist.
+  It's a good restaurant, except it's a little expensive.
 
   *Hormis* quelques détails, le projet est prêt à être lancé.
-  *Bis auf* einige Details ist das Projekt startbereit.
+  Except for a few details, the project is ready to start.
 
   La salle était complètement silencieuse, *hormis* le tic-tac de l'horloge.
-  Der Raum war völlig still, *abgesehen vom* Ticken der Uhr.
+  The room was completely silent, except for the ticking of the clock.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

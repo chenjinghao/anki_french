@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2034
 Wort: compléter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: compléter
 Femininum / Plural: ''
 IPA: \kɔ̃.ple.te\
-Definition: vervollständigen
+Definition: to be completed
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela *complète* notre présentation, mesdames et messieurs.
-  Das *vervollständigt* unsere Präsentation, meine Damen und Herren.
+  That completes our presentation, ladies and gentlemen.
 
   J'ai besoin de *compléter* mon dossier avec une pièce d'identité.
-  Ich muss meine Akte mit einem Ausweis *vervollständigen*.
+  I need to fill out my file with an I.D.
 
   Ma sœur et moi, nous nous *complétons* parfaitement en cuisine.
-  Meine Schwester und ich *ergänzen* uns perfekt beim Kochen.
+  My sister and I perfectly complement each other in the kitchen.
 
   Il faut *compléter* ce formulaire avant demain.
-  Dieses Formular muss bis morgen *ausgefüllt* werden.
+  We need to fill out this form by tomorrow.
 
   La police a dû *compléter* son enquête avec de nouveaux témoignages.
-  Die Polizei musste ihre Ermittlungen durch neue Zeugenaussagen *vervollständigen*.
+  The police had to complete their investigation with new evidence.
 
   Sa collection de timbres se *complète* peu à peu.
-  Seine Briefmarkensammlung *vervollständigt* sich nach und nach.
+  His stamp collection is gradually being completed.
 
   Marie doit encore *compléter* son travail avant de le rendre.
-  Marie muss ihre Arbeit noch *vervollständigen*, bevor sie sie abgibt.
+  Marie has yet to complete her work before returning it.
 
   Les deux équipes se *complètent* bien sur le terrain.
-  Die beiden Teams *ergänzen* sich gut auf dem Spielfeld.
+  Both teams complement each other well on the field.
 
   Pouvez-vous *compléter* votre adresse avec le code postal ?
-  Können Sie Ihre Adresse mit der Postleitzahl *vervollständigen*?
+  Can you fill out your address with the postal code?
 
   Cette bibliothèque a *complété* sa collection d'œuvres classiques.
-  Diese Bibliothek hat ihre Sammlung klassischer Werke *vervollständigt*.
+  This library has *completed* its collection of classical works.
 
   Le professeur a demandé aux élèves de *compléter* le texte à trous.
-  Der Lehrer hat die Schüler gebeten, den Lückentext zu *vervollständigen*.
+  The teacher asked the students to fill out the text with holes.
 
   Ces nouvelles informations *complètent* bien notre rapport.
-  Diese neuen Informationen *ergänzen* unseren Bericht gut.
+  This new information supplements our report well.
 
   Il faudra *compléter* le puzzle avec les pièces manquantes.
-  Das Puzzle muss mit den fehlenden Teilen *vervollständigt* werden.
+  We'll have to complete the puzzle with the missing pieces.
 
   Les graphiques vont *compléter* notre analyse des données.
-  Die Grafiken werden unsere Datenanalyse *ergänzen*.
+  The graphs will complement our analysis of the data.
 
   Paul et Julie se *complètent* parfaitement dans leur relation.
-  Paul und Julie *ergänzen* sich perfekt in ihrer Beziehung.
+  Paul and Julie complement each other perfectly in their relationship.
 
   Je dois *compléter* mes notes avant l'examen.
-  Ich muss meine Notizen vor der Prüfung *vervollständigen*.
+  I have to complete my grades before the exam.
 
   L'index *complète* utilement ce livre de référence.
-  Der Index *ergänzt* dieses Nachschlagewerk sinnvoll.
+  The index usefully completes this reference book.
 
   Cette expérience va *compléter* sa formation professionnelle.
-  Diese Erfahrung wird seine berufliche Ausbildung *vervollständigen*.
+  This experience will complement his vocational training.
 
   Nous devons *compléter* l'équipe avec deux nouveaux membres.
-  Wir müssen das Team um zwei neue Mitglieder *ergänzen*.
+  We need to supplement the team with two new members.
 
   Le nouveau système vient *compléter* l'installation existante.
-  Das neue System *ergänzt* die bestehende Anlage.
+  The new system complements the existing installation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

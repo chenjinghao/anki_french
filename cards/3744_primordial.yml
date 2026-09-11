@@ -1,86 +1,86 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3744
 Wort: primordial
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: primordial
 Femininum / Plural: primordiale
 IPA: \pʁi.mɔʁ.djal\
-Definition: grundlegend, ursprünglich⁠
+Definition: Basic, originally
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La citoyenneté revêt une importance *primordiale*.
-  Die Staatsbürgerschaft ist von *grundlegender* Bedeutung.
+  Citizenship is of paramount importance.
 
   Il est *primordial* que nous respections les délais.
-  Es ist *entscheidend*, dass wir die Fristen einhalten.
+  It is vital that we meet deadlines.
 
   La satisfaction du client joue un rôle *primordial* dans notre entreprise.
-  Die Kundenzufriedenheit spielt eine *wesentliche* Rolle in unserem Unternehmen.
+  Customer satisfaction plays a key role in our business.
 
   Le droit à l'éducation est un droit *primordial*.
-  Das Recht auf Bildung ist ein *Grund*recht.
+  The right to education is a fundamental right.
 
   La confiance est *primordiale* pour une relation durable.
-  Vertrauen ist *äußerst wichtig* für eine dauerhafte Beziehung.
+  Trust is essential to a lasting relationship.
 
   L'instinct *primordial* de survie nous pousse à agir.
-  Der *ursprüngliche* Überlebensinstinkt treibt uns zum Handeln.
+  The primordial instinct for survival moves us to action.
 
   Cette découverte a joué un rôle *primordial* dans l'histoire de la médecine.
-  Diese Entdeckung spielte eine *grundlegende* Rolle in der Geschichte der Medizin.
+  This discovery played a pivotal role in the history of medicine.
 
   La sécurité des enfants est *primordiale* pour les parents.
-  Die Sicherheit der Kinder ist für Eltern *von entscheidender Bedeutung*.
+  The safety of children is paramount for parents.
 
   Il sera *primordial* d'avoir tous les documents nécessaires.
-  Es wird *wesentlich* sein, alle erforderlichen Dokumente zu haben.
+  It will be essential to have all the necessary documents.
 
   Une bonne communication est *primordiale* pour éviter les malentendus.
-  Eine gute Kommunikation ist *grundlegend*, um Missverständnisse zu vermeiden.
+  Good communication is essential to avoid misunderstandings.
 
   Le sommeil joue un rôle *primordial* dans notre santé.
-  Schlaf spielt eine *entscheidende* Rolle für unsere Gesundheit.
+  Sleep plays a vital role in our health.
 
   La motivation est *primordiale* pour réussir ses études.
-  Motivation ist *äußerst wichtig* für den Studienerfolg.
+  Motivation is essential to success in school.
 
   L'état *primordial* de la matière fascine les scientifiques.
-  Der *ursprüngliche* Zustand der Materie fasziniert Wissenschaftler.
+  The primordial state of matter fascinates scientists.
 
   Une alimentation équilibrée est *primordiale* pour rester en bonne santé.
-  Eine ausgewogene Ernährung ist *von grundlegender Bedeutung* für die Gesundheit.
+  A balanced diet is essential to staying healthy.
 
   La protection de l'environnement est devenue *primordiale* pour notre survie.
-  Der Umweltschutz ist für unser Überleben *wesentlich* geworden.
+  Protecting the environment has become vital to our survival.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>primordial</i> und <i>fondamental</i></div>
+    <div class="section-title"><i>primordial</i> and <i>fondamental</i></div>
     <div class="section-content">
-      <p><span class="fr">Primordial</span> bedeutet <span class="de">"erstrangig"</span> oder <span class="de">"ursprünglich"</span> und betont die äußerste Wichtigkeit oder die zeitliche Priorität. Es bezieht sich oft auf etwas, das am Anfang steht oder grundlegend für weitere Entwicklungen ist.</p>
+      <p><span class="fr">Primordial</span> means <span class="de">"Strictly"</span> or <span class="de">'Originally'</span> It often refers to something that is at the beginning or fundamental to further developments.</p>
       <div class="examples">
         <div class="fr">La confiance est un élément primordial dans toute relation.</div>
-        <div class="de spoiler">Vertrauen ist ein erstrangiges Element in jeder Beziehung.</div>
+        <div class="de spoiler">Trust is an essential element in any relationship.</div>
         <div class="fr">Il est primordial de protéger l'environnement pour les générations futures.</div>
-        <div class="de spoiler">Es ist von größter Wichtigkeit, die Umwelt für zukünftige Generationen zu schützen.</div>
+        <div class="de spoiler">It is of the utmost importance to protect the environment for future generations.</div>
       </div>
-      <p><span class="fr">Fondamental</span> bedeutet <span class="de">"grundlegend"</span> oder <span class="de">"wesentlich"</span> und bezieht sich auf das, was die Basis oder das Fundament bildet. Es betont die strukturelle oder konzeptuelle Bedeutung.</p>
+      <p><span class="fr">Fondamental</span> means <span class="de">'Basic'</span> or <span class="de">"substantial"</span> It emphasizes the structural or conceptual significance.</p>
       <div class="examples">
         <div class="fr">Ces principes sont fondamentaux pour comprendre la théorie.</div>
-        <div class="de spoiler">Diese Prinzipien sind grundlegend für das Verständnis der Theorie.</div>
+        <div class="de spoiler">These principles are fundamental to understanding the theory.</div>
         <div class="fr">Le respect des droits humains est une valeur fondamentale de notre société.</div>
-        <div class="de spoiler">Die Achtung der Menschenrechte ist ein Grundwert unserer Gesellschaft.</div>
+        <div class="de spoiler">Respect for human rights is a fundamental value of our society.</div>
       </div>
-      <p>Beide Adjektive drücken große Wichtigkeit aus, aber <span class="fr">primordial</span> betont mehr die zeitliche Priorität oder die kritische Notwendigkeit, während <span class="fr">fondamental</span> eher die strukturelle Bedeutung als Basis oder Grundlage hervorhebt.</p>
+      <p>Both adjectives are of great importance, but <span class="fr">primordial</span> emphasizes the priority of time or the critical necessity, while <span class="fr">fondamental</span> the structural significance as a basis or basis.</p>
     </div>
   </div>

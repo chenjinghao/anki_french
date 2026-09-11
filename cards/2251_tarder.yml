@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2251
 Wort: tarder
 Wortart: vi, vi(imp)
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: tarder
 Femininum / Plural: ''
 IPA: \taʁ.de\
-Definition: trödeln, sich Zeit lassen
+Definition: I don't know what I'm going to do
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne vais pas *tarder* à y aller.
-  Ich werde mich nicht *verspäten* dorthin zu gehen.
+  I'll be there soon.
 
   Il me *tarde* de voir les résultats de l'examen.
-  Ich kann es kaum *erwarten*, die Prüfungsergebnisse zu sehen.
+  I can't wait to see the test results.
 
   Le train *tarde* à arriver en gare.
-  Der Zug lässt auf sich *warten*, in den Bahnhof einzufahren.
+  The train is late for the station.
 
   Nous devrions partir sans *tarder*.
-  Wir sollten un*verzüglich* aufbrechen.
+  We should leave as soon as possible.
 
   Elle n'a pas *tardé* à répondre à mon message.
-  Sie hat nicht lange *gezögert*, auf meine Nachricht zu antworten.
+  She didn't take long to respond to my message.
 
   Le printemps *tarde* à venir cette année.
-  Der Frühling lässt dieses Jahr auf sich *warten*.
+  Spring is late this year.
 
   "Ne *tarde* pas trop à rentrer !" lui dit sa mère.
-  "*Trödel* nicht zu lange, bevor du nach Hause kommst!", sagte seine Mutter zu ihm.
+  "Don't take too long to get home!" his mother told him.
 
   Il *tarde* à Paul que les vacances arrivent.
-  Paul kann es kaum *erwarten*, dass die Ferien beginnen.
+  Paul is looking forward to the holidays.
 
   Les secours n'ont pas *tardé* à arriver sur les lieux de l'accident.
-  Die Rettungskräfte *zögerten* nicht lange, am Unfallort einzutreffen.
+  Rescue workers soon arrived at the scene of the accident.
 
   Pourquoi *tardes*-tu à prendre une décision ?
-  Warum *zögerst* du, eine Entscheidung zu treffen?
+  Why are you taking so long to make a decision?
 
   Le médecin *tarde* un peu, mais il arrivera bientôt.
-  Der Arzt *verspätet* sich etwas, wird aber bald eintreffen.
+  The doctor's a little late, but he'll be here soon.
 
   Il ne *tardera* pas à comprendre son erreur.
-  Er wird nicht lange *brauchen*, um seinen Fehler zu verstehen.
+  He'll soon realize his mistake.
 
   La livraison *tarde* plus que prévu.
-  Die Lieferung *verzögert* sich länger als erwartet.
+  Delivery takes longer than expected.
 
   "*Tardez*-vous souvent à vos rendez-vous ?"
-  "*Verspäten* Sie sich oft zu Ihren Terminen?"
+  "Do you often be late for your appointments?"
 
   Il me *tardait* de te revoir après toutes ces années.
-  Ich konnte es kaum *erwarten*, dich nach all den Jahren wiederzusehen.
+  It took me so long to see you again after all these years.
 
   Les fleurs *tardent* à s'épanouir cette saison.
-  Die Blumen *zögern*, in dieser Saison aufzublühen.
+  The flowers are slow to bloom this season.
 
   Ne *tardons* pas à commencer le projet.
-  Lass uns nicht *zögern*, mit dem Projekt zu beginnen.
+  Let's start the project soon.
 
   La réponse à ma demande *tarde* à venir.
-  Die Antwort auf meine Anfrage lässt auf sich *warten*.
+  The answer to my question will be delayed.
 
   Il *tarde* à mon fils d'avoir son propre appartement.
-  Mein Sohn kann es kaum *erwarten*, seine eigene Wohnung zu haben.
+  My son longs to have his own apartment.
 
   Les effets du médicament ne *tarderont* pas à se faire sentir.
-  Die Wirkung des Medikaments wird nicht lange auf sich *warten* lassen.
+  The effects of the drug will soon be felt.
 
   Le soleil *tarde* à se lever en hiver.
-  Die Sonne *zögert* im Winter aufzugehen.
+  The sun is late in the winter.
 
   N'hésite pas à m'appeler si tu *tardes* à finir ton travail.
-  Zögere nicht, mich anzurufen, wenn du dich bei deiner Arbeit *verspätest*.
+  Don't hesitate to call me if you're late for your work.
 
   Le spectacle a *tardé* à commencer, mais ça valait le coup d'attendre.
-  Die Vorstellung hat sich *verzögert*, aber es hat sich gelohnt zu warten.
+  The show took a while to start, but it was worth the wait.
 
   Il ne faut pas *tarder* à s'inscrire, les places sont limitées.
-  Man sollte sich nicht *verspäten*, sich anzumelden, die Plätze sind begrenzt.
+  You have to sign up soon. Places are limited.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

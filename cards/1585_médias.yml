@@ -1,49 +1,49 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1585
 Wort: médias
 Wortart: nmpl
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: les médias
 Femininum / Plural: ''
 IPA: \me.dja\
-Definition: Medien
+Definition: Media
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *médias* vous ont comparée à Oprah Winfrey.
-  Die *Medien* haben Sie mit Oprah Winfrey verglichen.
+  The *media* compared you to Oprah Winfrey.
 
   Les *médias* sociaux font désormais partie de notre quotidien.
-  Die sozialen *Medien* sind jetzt Teil unseres Alltags.
+  Social *media* is now part of our daily lives.
 
   L'influence des *médias* sur l'opinion publique ne cesse de croître.
-  Der Einfluss der *Medien* auf die öffentliche Meinung wächst ständig.
+  The influence of the *media* on public opinion continues to grow.
 
   Dans les *médias* traditionnels, la publicité joue un rôle important.
-  In den traditionellen *Medien* spielt Werbung eine wichtige Rolle.
+  In traditional *media*, advertising plays an important role.
 
   Les jeunes préfèrent les nouveaux *médias* à la télévision classique.
-  Jugendliche bevorzugen neue *Medien* gegenüber dem klassischen Fernsehen.
+  Young people prefer new *media* to classical television.
 
   Comment les *médias* couvriront-ils cet événement historique ?
-  Wie werden die *Medien* über dieses historische Ereignis berichten?
+  How will the *media* cover this historic event?
 
   Les *médias* locaux ont bien couvert la fête du village.
-  Die lokalen *Medien* haben ausführlich über das Dorffest berichtet.
+  Local *media* covered the village party well.
 
   Tous les *médias* ont relayé cette information importante.
-  Alle *Medien* haben diese wichtige Information weitergegeben.
+  All the *media* has been relaying this important information.
 
   Les *médias* audiovisuels dominent le paysage médiatique actuel.
-  Die audiovisuellen *Medien* dominieren die heutige Medienlandschaft.
+  Audiovisual *media* dominates today's media landscape.
 
   La liberté des *médias* est un pilier de la démocratie.
-  Die *Medien*freiheit ist eine Säule der Demokratie.
+  Freedom of the press is a pillar of democracy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

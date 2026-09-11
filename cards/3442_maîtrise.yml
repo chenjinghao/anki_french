@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3442
 Wort: maîtrise
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la maîtrise
 Femininum / Plural: ''
 IPA: \mɛ.tʁiz\
-Definition: Beherrschung, Können
+Definition: Maintaining Mastery
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *maîtrise* de la douleur semblait être l'autre problème.
-  Die *Kontrolle* des Schmerzes schien das andere Problem zu sein.
+  Control of pain seemed to be the other problem.
 
   Elle fait preuve d'une excellente *maîtrise* de l'allemand.
-  Sie zeigt eine ausgezeichnete *Beherrschung* der deutschen Sprache.
+  She has an excellent command of German.
 
   La *maîtrise* de soi est essentielle dans les situations de stress.
-  Selbst*beherrschung* ist in Stresssituationen unerlässlich.
+  *Self-control* is essential in stressful situations.
 
   J'ai perdu la *maîtrise* de ma voiture sur la route glissante.
-  Ich habe die *Kontrolle* über mein Auto auf der glatten Straße verloren.
+  I lost control of my car on the slippery road.
 
   La *maîtrise* des mers était cruciale pendant la guerre.
-  Die See*herrschaft* war während des Krieges entscheidend.
+  The control of the seas was crucial during the war.
 
   Il a obtenu sa *maîtrise* en sciences politiques.
-  Er hat seinen *Magister* in Politikwissenschaft erworben.
+  He got his master's degree in political science.
 
   La *maîtrise* du territoire nécessite plus de troupes.
-  Die *Herrschaft* über das Gebiet erfordert mehr Truppen.
+  Control of the territory requires more troops.
 
   La *maîtrise* de l'inflation reste notre priorité économique.
-  Die *Beherrschung* der Inflation bleibt unsere wirtschaftliche Priorität.
+  Controlling inflation remains our economic priority.
 
   Il joue du piano avec une parfaite *maîtrise*.
-  Er spielt das Klavier mit perfekter *Beherrschung*.
+  He plays piano with perfect mastery.
 
   Sa *maîtrise* technique impressionne tous les experts.
-  Sein technisches *Können* beeindruckt alle Experten.
+  His technical prowess impresses all the experts.
 
   La *maîtrise* du marché par cette entreprise inquiète les autorités.
-  Die *Beherrschung* des Marktes durch dieses Unternehmen beunruhigt die Behörden.
+  The authorities are concerned about this company's dominance of the market.
 
   Elle a retrouvé sa *maîtrise* après quelques secondes de panique.
-  Sie gewann ihre *Selbstkontrolle* nach einigen Sekunden der Panik zurück.
+  She regained control after a few seconds of panic.
 
   La *maîtrise* de fabrication doit être améliorée.
-  Die Fertigungs*kontrolle* muss verbessert werden.
+  Manufacturing control needs to be improved.
 
   Cette *maîtrise* en mathématiques ouvre beaucoup de portes.
-  Dieser *Magister*abschluss in Mathematik eröffnet viele Türen.
+  This master's degree in mathematics opens many doors.
 
   La *maîtrise* de l'espace aérien est stratégiquement importante.
-  Die Luft*herrschaft* ist strategisch wichtig.
+  Control of airspace is strategically important.
 
   Sa *maîtrise* du sujet est impressionnante.
-  Seine *Beherrschung* des Themas ist beeindruckend.
+  His mastery of the subject is impressive.
 
   La *maîtrise* des coûts est essentielle pour notre entreprise.
-  Die *Kontrolle* der Kosten ist für unser Unternehmen essentiell.
+  Cost control is essential to our business.
 
   Il a montré une parfaite *maîtrise* de ses émotions pendant le débat.
-  Er zeigte eine perfekte *Beherrschung* seiner Gefühle während der Debatte.
+  He showed perfect control of his emotions during the debate.
 
   La *maîtrise* des nouvelles technologies est indispensable aujourd'hui.
-  Die *Beherrschung* der neuen Technologien ist heute unerlässlich.
+  Mastery of new technologies is essential today.
 
   Le candidat doit avoir une bonne *maîtrise* du français.
-  Der Kandidat muss gute *Kenntnisse* der französischen Sprache haben.
+  The candidate must have a good command of French.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

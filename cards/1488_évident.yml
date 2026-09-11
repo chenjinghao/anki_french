@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1488
 Wort: évident
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: évident
 Femininum / Plural: évidente
 IPA: \e.vi.dɑ̃\
-Definition: offensichtlich
+Definition: Obviously
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce n'était pas *évident* pour nous au début.
-  Es war für uns am Anfang nicht *offensichtlich*.
+  It wasn't obvious to us at first.
 
   La solution à ce problème est *évidente*.
-  Die Lösung für dieses Problem ist *offensichtlich*.
+  The solution to this problem is obvious.
 
   Il est *évident* qu'il a menti pendant l'interrogatoire.
-  Es ist *eindeutig*, dass er während des Verhörs gelogen hat.
+  It's obvious he lied during the interrogation.
 
   Les progrès de l'élève sont *évidents* pour tous ses professeurs.
-  Die Fortschritte des Schülers sind für all seine Lehrer *klar erkennbar*.
+  The student's progress is *obvious* to all his teachers.
 
   L'*évidente* bonne volonté du candidat a impressionné le jury.
-  Die *unbestreitbare* Bereitschaft des Kandidaten hat die Jury beeindruckt.
+  The candidate's obvious goodwill impressed the jury.
 
   Pour des raisons *évidentes*, nous ne pouvons pas révéler cette information.
-  Aus *offensichtlichen* Gründen können wir diese Information nicht preisgeben.
+  For *obvious* reasons, we cannot disclose this information.
 
   La différence de qualité entre les deux produits est *évidente*.
-  Der Qualitätsunterschied zwischen den beiden Produkten ist *deutlich*.
+  The difference in quality between the two products is obvious.
 
   *C'est évident* que nous devons changer notre stratégie.
-  *Es versteht sich von selbst*, dass wir unsere Strategie ändern müssen.
+  Obviously, we need to change our strategy.
 
   L'*évidente* disproportion entre les deux bâtiments choque les passants.
-  Die *offensichtliche* Unverhältnismäßigkeit zwischen den beiden Gebäuden schockiert die Passanten.
+  The apparent disproportion between the two buildings shocks passersby.
 
   Les signes de fatigue sur son visage étaient *évidents*.
-  Die Anzeichen von Müdigkeit in seinem Gesicht waren *eindeutig*.
+  The signs of fatigue on his face were *obvious*.
 
   Il a donné des marques *évidentes* de son embarras pendant la présentation.
-  Er zeigte während der Präsentation *deutliche* Anzeichen von Verlegenheit.
+  He gave *obvious* marks of his embarrassment during the presentation.
 
   La preuve de sa culpabilité est devenue *évidente* au cours du procès.
-  Der Beweis seiner Schuld wurde im Laufe des Prozesses *offensichtlich*.
+  The evidence of his guilt became apparent during the trial.
 
   Cette vérité *évidente* ne peut être ignorée plus longtemps.
-  Diese *offensichtliche* Wahrheit kann nicht länger ignoriert werden.
+  This obvious truth can no longer be ignored.
 
   L'erreur dans le calcul était tellement *évidente* que tout le monde l'a remarquée.
-  Der Fehler in der Berechnung war so *offensichtlich*, dass ihn jeder bemerkt hat.
+  The error in the calculation was so obvious that everyone noticed it.
 
   Il est *évident* que vous avez besoin de repos après ce long voyage.
-  Es ist *klar*, dass Sie nach dieser langen Reise Ruhe brauchen.
+  *Obviously*, you need to rest after that long journey.
 
   La mauvaise volonté du client était *évidente* dès le début de la négociation.
-  Die Unwilligkeit des Kunden war von Beginn der Verhandlung an *offensichtlich*.
+  The bad will of the client was evident from the beginning of the negotiation.
 
   Cette proposition *évidente* a été acceptée à l'unanimité.
-  Dieser *eindeutige* Vorschlag wurde einstimmig angenommen.
+  This obvious proposal was unanimously accepted.
 
   L'*évidente* supériorité de son équipe a surpris tous les spectateurs.
-  Die *offensichtliche* Überlegenheit seiner Mannschaft hat alle Zuschauer überrascht.
+  The obvious superiority of his team surprised all the spectators.
 
   "C'est *évident* !" s'est-il exclamé en trouvant enfin la solution.
-  "Das ist ja *klar*!", rief er aus, als er endlich die Lösung fand.
+  "It's obvious!" he exclaimed, finally finding the solution.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

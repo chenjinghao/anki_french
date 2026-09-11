@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 689
 Wort: processus
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le processus
 Femininum / Plural: ''
 IPA: \pʁɔ.se.sys\
-Definition: Prozess
+Definition: Proceedings of the Court of First Instance
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai été renseigné à chaque étape du *processus*.
-  Ich wurde in jeder Phase des *Prozesses* informiert.
+  I've been briefed at every step of the *process*.
 
   Le *processus* de paix au Moyen-Orient avance lentement mais sûrement.
-  Der Friedens*prozess* im Nahen Osten kommt langsam aber sicher voran.
+  The Middle East peace *process* is progressing slowly but surely.
 
   Un *processus* inflammatoire s'est développé après l'opération.
-  Nach der Operation entwickelte sich ein entzündlicher *Verlauf*.
+  An inflammatory *process* developed after the operation.
 
   Le *processus* de guérison prend du temps et de la patience.
-  Der Heilungs*prozess* braucht Zeit und Geduld.
+  The healing *process* takes time and patience.
 
   Le réchauffement climatique accélère le *processus* de désertification.
-  Die Klimaerwärmung beschleunigt den Wüstenbildungs*prozess*.
+  Global warming is accelerating the *process* of desertification.
 
   Comment optimiser le *processus* de fabrication ?
-  Wie kann man den Fertigungs*prozess* optimieren?
+  How to optimize the manufacturing *process*?
 
   Les scientifiques étudient ce *processus* biologique depuis des années.
-  Die Wissenschaftler untersuchen diesen biologischen *Prozess* seit Jahren.
+  Scientists have been studying this biological *process* for years.
 
   Le *processus* d'apprentissage est différent pour chaque élève.
-  Der Lern*prozess* ist für jeden Schüler anders.
+  The learning *process* is different for each student.
 
   Un *processus* cancéreux a été détecté à un stade précoce.
-  Ein Krebs*verlauf* wurde im Frühstadium erkannt.
+  A cancer *process* has been detected at an early stage.
 
   Nous devons revoir notre *processus* de recrutement.
-  Wir müssen unseren Einstellungs*prozess* überarbeiten.
+  We need to revise our recruitment *process*.
 
   Le *processus* inflationniste inquiète les économistes.
-  Der Inflations*prozess* beunruhigt die Ökonomen.
+  The inflationary *process* worries economists.
 
   Ce *processus* chimique nécessite une température constante.
-  Dieser chemische *Prozess* erfordert eine konstante Temperatur.
+  This chemical *process* requires a constant temperature.
 
   Le *processus* de vieillissement affecte chaque organisme vivant.
-  Der Alterungs*prozess* betrifft jeden lebenden Organismus.
+  The aging *process* affects every living organism.
 
   Un nouveau *processus* d'assemblage a été mis en place.
-  Ein neuer Montage*ablauf* wurde eingeführt.
+  A new assembly *process* has been put in place.
 
   Le *processus* électoral se déroulera sur trois jours.
-  Der Wahl*prozess* wird sich über drei Tage erstrecken.
+  The election *process* will take place over three days.
 
   Les entreprises doivent simplifier leurs *processus* administratifs.
-  Die Unternehmen müssen ihre Verwaltungs*abläufe* vereinfachen.
+  Companies must simplify their administrative processes.
 
   Le *processus* de deuil peut durer plusieurs mois.
-  Der Trauer*prozess* kann mehrere Monate dauern.
+  The grieving *process* can last for several months.
 
   Un *processus* infectieux s'est déclaré suite à la blessure.
-  Nach der Verletzung setzte ein Infektions*verlauf* ein.
+  An infectious *process* occurred as a result of the injury.
 
   Le *processus* de démocratisation continue dans plusieurs pays.
-  Der Demokratisierungs*prozess* geht in mehreren Ländern weiter.
+  The *process* of democratization is continuing in several countries.
 
   Ce *processus* naturel ne peut pas être accéléré artificiellement.
-  Dieser natürliche *Prozess* kann nicht künstlich beschleunigt werden.
+  This natural *process* cannot be artificially accelerated.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

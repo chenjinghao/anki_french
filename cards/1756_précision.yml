@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1756
 Wort: précision
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la précision
 Femininum / Plural: ''
 IPA: \pʁe.si.zjɔ̃\
-Definition: Genauigkeit, Präzision
+Definition: Accuracy
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut une certaine *précision* dans la loi.
-  Das Gesetz erfordert eine gewisse *Genauigkeit*.
+  There's got to be some clarity in the law.
 
   La *précision* de ses mouvements est remarquable.
-  Die *Präzision* seiner Bewegungen ist bemerkenswert.
+  The precision of its movements is remarkable.
 
   Le chirurgien opère avec une grande *précision*.
-  Der Chirurg operiert mit großer *Präzision*.
+  The surgeon operates with great precision.
 
   Cette montre suisse est réglée avec une *précision* absolue.
-  Diese Schweizer Uhr ist mit absoluter *Genauigkeit* eingestellt.
+  This Swiss watch is set with utmost precision.
 
   Les contours manquent de *précision*.
-  Die Konturen *fehlen* Deutlichkeit.
+  The contours are inaccurate.
 
   Pouvez-vous me donner plus de *précisions* sur votre projet ?
-  Können Sie mir nähere *Angaben* zu Ihrem Projekt machen?
+  Can you give me more details about your project?
 
   Cette *précision* est très importante pour comprendre l'histoire.
-  Dieses *Detail* ist sehr wichtig, um die Geschichte zu verstehen.
+  This precision is very important for understanding history.
 
   La *précision* de ses réponses m'a impressionné.
-  Die *Genauigkeit* seiner Antworten hat mich beeindruckt.
+  I was impressed by the *accuracy* of his answers.
 
   Notre nouvelle *balance de précision* peut mesurer au milligramme près.
-  Unsere neue *Präzisions*waage kann bis auf das Milligramm genau messen.
+  Our new accuracy scale can be measured in milligrams.
 
   Les *instruments de précision* doivent être manipulés avec soin.
-  Die *Fein*messgeräte müssen sorgfältig behandelt werden.
+  Precision instruments must be handled carefully.
 
   Ces renseignements sont d'une grande *précision*.
-  Diese Informationen sind von großer *Genauigkeit*.
+  This information is very accurate.
 
   Il effectue ses calculs avec une *précision* mathématique.
-  Er führt seine Berechnungen mit mathematischer *Präzision* durch.
+  He performs his calculations with mathematical precision.
 
   La *précision* du tir a été exceptionnelle.
-  Die *Genauigkeit* des Schusses war außergewöhnlich.
+  The *accuracy* of the shot was exceptional.
 
   Cette *mécanique de précision* nécessite beaucoup d'expérience.
-  Diese *Fein*mechanik erfordert viel Erfahrung.
+  This *precision machinery* requires a lot of experience.
 
   J'aurais besoin de quelques *précisions* sur ce point.
-  Ich bräuchte einige genauere *Angaben* zu diesem Punkt.
+  I'd need some clarification on that.
 
   Elle a dessiné la carte avec une excellente *précision*.
-  Sie hat die Karte mit ausgezeichneter *Genauigkeit* gezeichnet.
+  She drew the map with great precision.
 
   Je voudrais ajouter une petite *précision*.
-  Ich möchte eine kleine *Angabe* hinzufügen.
+  I'd like to add a little more precision.
 
   La *précision* de cet instrument est remarquable.
-  Die *Präzision* dieses Instruments ist bemerkenswert.
+  The precision of this instrument is remarkable.
 
   Cette brodeuse travaille avec une extrême *précision*.
-  Diese Stickerin arbeitet mit äußerster *Genauigkeit*.
+  This embroiderer works with extreme precision.
 
   La *précision* de la mise en scène était impressionnante.
-  Die *Präzision* der Inszenierung war beeindruckend.
+  The *accuracy* of the staging was impressive.
 
   Cette *précision* est de l'ordre du micromètre.
-  Diese *Genauigkeit* liegt im Bereich von Mikrometern.
+  This *accuracy* is on the order of the micrometer.
 
   Il a préparé son itinéraire avec *précision*.
-  Er hat seine Route mit *Genauigkeit* vorbereitet.
+  He prepared his route precisely.
 
   Sa traduction manque de *précision*.
-  Seiner Übersetzung fehlt es an *Genauigkeit*.
+  His translation is inaccurate.
 
   Il nous faut des *précisions* supplémentaires.
-  Wir brauchen zusätzliche *Angaben*.
+  We need more details.
 
   Elle a conclu son rapport sans autre *précision*.
-  Sie hat ihren Bericht ohne weitere *Angaben* abgeschlossen.
+  She concluded her report without further specification.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

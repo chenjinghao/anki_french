@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4518
 Wort: stipuler
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: stipuler
 Femininum / Plural: ''
 IPA: \sti.py.le\
-Definition: (vertraglich) festlegen, (ausdrücklich) sagen
+Definition: (contractual) specify, (expressly) say
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les vœux ne *stipulent* pas le bébé.
-  Die Gelübde *legen* das Baby nicht *fest*.
+  Wishes don't dictate the baby.
 
   Le contrat *stipule* que vous devez payer le loyer avant le 5 du mois.
-  Der Vertrag *legt fest*, dass Sie die Miete vor dem 5. des Monats zahlen müssen.
+  The contract stipulates that you must pay the rent before the 5th of the month.
 
   Notre règlement *stipule* clairement l'interdiction de fumer dans les locaux.
-  Unsere Hausordnung *sagt ausdrücklich*, dass das Rauchen in den Räumlichkeiten verboten ist.
+  Our regulations clearly state that smoking is prohibited in the premises.
 
   Dans sa lettre, elle *stipule* qu'elle arrivera dimanche prochain.
-  In ihrem Brief *teilt* sie *ausdrücklich mit*, dass sie nächsten Sonntag ankommt.
+  In her letter, she says she'll be arriving next Sunday.
 
   Il est *stipulé* dans le testament que la maison revient à sa fille.
-  Im Testament ist *festgelegt*, dass das Haus an seine Tochter geht.
+  It's *stipulated* in the will that the house belongs to his daughter.
 
   Le document *stipulait* que tous les employés devaient être vaccinés.
-  Das Dokument *legte fest*, dass alle Mitarbeiter geimpft sein mussten.
+  The document *stipulated* that all employees must be vaccinated.
 
   L'accord *stipule* expressément l'interdiction de revendre le produit.
-  Die Vereinbarung *legt* ausdrücklich *fest*, dass der Weiterverkauf des Produkts verboten ist.
+  The agreement expressly prohibits the resale of the product.
 
   Les parents ont *stipulé* que leurs enfants devaient étudier la musique.
-  Die Eltern haben *festgelegt*, dass ihre Kinder Musik studieren müssen.
+  The parents *stipulated* that their children should study music.
 
   La note de service *stipule* que les congés doivent être posés deux mois à l'avance.
-  Die Dienstanweisung *besagt ausdrücklich*, dass Urlaub zwei Monate im Voraus beantragt werden muss.
+  The service note states that leave must be given two months in advance.
 
   Le règlement intérieur *stipule* l'obligation du port du masque.
-  Die Betriebsordnung *legt* die Maskenpflicht *fest*.
+  Internal regulations stipulate the requirement to wear a mask.
 
   Comme *stipulé* dans le contrat, les heures supplémentaires seront payées double.
-  Wie im Vertrag *festgelegt*, werden Überstunden doppelt bezahlt.
+  As *stipulated* in the contract, overtime will be paid twice as much.
 
   L'assurance *stipule* que les dégâts causés par les catastrophes naturelles sont couverts.
-  Die Versicherung *legt fest*, dass Schäden durch Naturkatastrophen gedeckt sind.
+  The insurance policy states that damage caused by natural disasters is covered.
 
   La convention collective *stipule* un salaire minimum de 2500 euros.
-  Der Tarifvertrag *legt* einen Mindestlohn von 2500 Euro *fest*.
+  The collective agreement stipulates a minimum wage of 2500 euros.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

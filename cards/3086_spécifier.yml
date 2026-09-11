@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3086
 Wort: spécifier
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: spécifier
 Femininum / Plural: ''
 IPA: \spe.si.fje\
-Definition: genau angeben
+Definition: specify exactly
 Register: ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne peux pas *spécifier* l'année.
-  Ich kann das Jahr nicht *angeben*.
+  I can't *specify* the year.
 
   Le règlement *spécifie* clairement les règles à suivre.
-  Die Vorschrift *legt* die Regeln klar *fest*.
+  The regulation clearly *specifies* the rules to be followed.
 
   La loi *spécifie* qu'il est interdit de fumer dans les lieux publics.
-  Das Gesetz *verbietet* ausdrücklich das Rauchen in öffentlichen Räumen.
+  The law *specifies* that smoking in public places is prohibited.
 
   L'enseignante a *spécifié* les critères d'évaluation aux élèves.
-  Die Lehrerin hat den Schülern die Bewertungskriterien genau *angegeben*.
+  The teacher *specified* the evaluation criteria for the students.
 
   Le contrat *spécifie* les conditions de paiement.
-  Der Vertrag *legt* die Zahlungsbedingungen genau *fest*.
+  The contract *specifies* the terms of payment.
 
   L'entreprise doit *spécifier* les exigences techniques du projet.
-  Das Unternehmen muss die technischen Anforderungen des Projekts *spezifizieren*.
+  The company must *specify* the technical requirements of the project.
 
   Veuillez *spécifier* votre préférence lors de la réservation.
-  Bitte *geben* Sie Ihre Präferenz bei der Buchung *an*.
+  Please *specify* your preference when booking.
 
   Le médecin a *spécifié* la posologie du médicament.
-  Der Arzt hat die Dosierung des Medikaments genau *angegeben*.
+  The doctor *specified* the dosage of the medicine.
 
   Il faut *spécifier* la date et l'heure de la réunion.
-  Man muss Datum und Uhrzeit des Treffens genau *festlegen*.
+  The date and time of the meeting must be specified.
 
   Le professeur a *spécifié* les chapitres à réviser pour l'examen.
-  Der Professor hat die Kapitel für die Prüfung genau *angegeben*.
+  The professor *specified* the chapters to review for the exam.
 
   Les instructions *spécifient* comment assembler le meuble.
-  Die Anleitung *legt* genau *fest*, wie das Möbelstück zusammenzubauen ist.
+  The instructions *specify* how to assemble the furniture.
 
   L'architecte doit *spécifier* les dimensions exactes du bâtiment.
-  Der Architekt muss die genauen Maße des Gebäudes *angeben*.
+  The architect must *specify* the exact dimensions of the building.
 
   Le guide *spécifie* les consignes de sécurité à suivre.
-  Der Führer *legt* die zu befolgenden Sicherheitsanweisungen genau *fest*.
+  The guide *specifies* the safety guidelines to be followed.
 
   L'analyse grammaticale *spécifie* la fonction des mots dans la phrase.
-  Die grammatikalische Analyse *legt* die Funktion der Wörter im Satz *fest*.
+  The grammatical analysis *specifies* the function of the words in the sentence.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

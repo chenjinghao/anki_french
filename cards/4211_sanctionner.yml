@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4211
 Wort: sanctionner
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sanctionner
 Femininum / Plural: ''
 IPA: \sɑ̃k.sjɔ.ne\
-Definition: bestrafen, sanktionieren
+Definition: to punish, to sanction
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La décision a été *sanctionnée* par le secrétaire général des nations unies.
-  Die Entscheidung wurde vom UN-Generalsekretär *bestätigt*.
+  The decision was approved by the Secretary-General of the United Nations.
 
   L'assemblée a *sanctionné* la proposition à l'unanimité.
-  Die Versammlung hat den Vorschlag einstimmig *genehmigt*.
+  The assembly unanimously approved the proposal.
 
   Son travail acharné a été *sanctionné* par une promotion.
-  Seine harte Arbeit wurde mit einer Beförderung *belohnt*.
+  His hard work was sanctioned by a promotion.
 
   Les années d'études sont *sanctionnées* par un diplôme reconnu.
-  Die Studienjahre werden mit einem anerkannten Abschluss *bestätigt*.
+  The years of study are *sanctioned* by a recognised diploma.
 
   Le comité a *sanctionné* les résultats du vote.
-  Das Komitee hat die Wahlergebnisse *bestätigt*.
+  The committee approved the results of the vote.
 
   L'arbitre a *sanctionné* l'équipe pour jeu dangereux.
-  Der Schiedsrichter hat die Mannschaft wegen gefährlichen Spiels *bestraft*.
+  The referee sanctioned the team for dangerous play.
 
   Le gouvernement va *sanctionner* les entreprises qui polluent.
-  Die Regierung wird die umweltverschmutzenden Unternehmen *bestrafen*.
+  The government is going to punish companies that pollute.
 
   Cette formation est *sanctionnée* par un certificat professionnel.
-  Diese Ausbildung wird mit einem Berufszertifikat *abgeschlossen*.
+  This training is sanctioned by a professional certificate.
 
   Le parlement a *sanctionné* la nouvelle loi hier.
-  Das Parlament hat gestern das neue Gesetz *verabschiedet*.
+  Parliament passed the new law yesterday.
 
   L'usage a *sanctionné* cette expression au fil du temps.
-  Der Gebrauch hat diesen Ausdruck im Laufe der Zeit *legitimiert*.
+  Usage has sanctioned this expression over time.
 
   Le jury a *sanctionné* ce comportement antisportif.
-  Die Jury hat dieses unsportliche Verhalten *geahndet*.
+  The jury sanctioned this unsportsmanlike behavior.
 
   Les infractions au code de la route sont sévèrement *sanctionnées*.
-  Verstöße gegen die Straßenverkehrsordnung werden streng *geahndet*.
+  Highway code violations are severely punished.
 
   Le conseil d'administration a *sanctionné* le nouveau règlement.
-  Der Vorstand hat die neue Verordnung *genehmigt*.
+  The Board of Directors approved the new regulations.
 
   Les retards répétés seront *sanctionnés* par un avertissement.
-  Wiederholte Verspätungen werden mit einer Verwarnung *geahndet*.
+  Repeated delays will be *punished* by a warning.
 
   Le médiateur a vu ses propositions *sanctionnées* par les deux parties.
-  Die Vorschläge des Vermittlers wurden von beiden Parteien *bestätigt*.
+  The mediator saw his proposals *sanctioned* by both sides.
 
   Le règlement *sanctionne* toute forme de tricherie.
-  Die Vorschrift *ahndet* jede Form von Betrug.
+  The regulations sanction any form of cheating.
 
   Cette décision historique a été *sanctionnée* par la cour suprême.
-  Diese historische Entscheidung wurde vom obersten Gericht *bestätigt*.
+  This historic decision was upheld by the Supreme Court.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

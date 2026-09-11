@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4469
 Wort: advenir
 Wortart: vi, vi(imp)
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: advenir
 Femininum / Plural: ''
 IPA: \ad.və.niʁ\
-Definition: geschehen
+Definition: have occurred
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On ignore ce qui est *advenu* de lui.
-  Niemand weiß, was aus ihm *geworden* ist.
+  We don't know what happened to him.
 
   Il *advint* qu'elle tomba malade pendant ses vacances.
-  Es *geschah*, dass sie während ihres Urlaubs krank wurde.
+  It happened that she got sick during her vacation.
 
   "*Advienne que pourra*," dit-elle en signant le contrat.
-  "*Komme, was wolle*," sagte sie, als sie den Vertrag unterschrieb.
+  "Whatever happens", she says as she signs the contract.
 
   Que va-t-il *advenir* de notre planète si nous ne changeons rien ?
-  Was wird aus unserem Planeten *werden*, wenn wir nichts ändern?
+  What will happen to our planet if we don 't change anything ?
 
   Les événements qui sont *advenus* ces derniers jours ont choqué tout le monde.
-  Die Ereignisse, die in den letzten Tagen *geschehen* sind, haben alle schockiert.
+  The events that have taken place in these last days have shocked everyone.
 
   *Advienne que pourra*, je dois suivre mon cœur.
-  *Mag kommen, was kommen mag*, ich muss meinem Herzen folgen.
+  Whatever happens, I have to follow my heart.
 
   Personne ne pouvait prévoir ce qui allait *advenir*.
-  Niemand konnte vorhersehen, was *geschehen* würde.
+  No one could predict what would happen.
 
   Il *advint* qu'elle fit une prière silencieuse dans l'église.
-  Es *geschah*, dass sie in der Kirche ein stilles Gebet sprach.
+  It happened that she was praying silently in the church.
 
   Quoi qu'il *advienne*, nous resterons ensemble.
-  Was auch *geschehen* mag, wir bleiben zusammen.
+  No matter what happens, we'll stay together.
 
   Je me demande quel malheur a pu leur *advenir*.
-  Ich frage mich, welches Unglück ihnen *widerfahren* sein könnte.
+  I wonder what misfortune could have happened to them.
 
   De telles choses *adviennent* parfois dans la vie.
-  Solche Dinge *geschehen* manchmal im Leben.
+  Such things happen in life sometimes.
 
   Qu'est-il *advenu* de votre projet de déménagement ?
-  Was ist aus Ihren Umzugsplänen *geworden*?
+  What happened to your plan to move?
 
   Les incidents *advenus* pendant la manifestation ont été filmés.
-  Die Vorfälle, die während der Demonstration *geschehen* sind, wurden gefilmt.
+  The incidents that occurred during the protest were filmed.
 
   Il *adviendra* ce que le destin voudra.
-  Es wird *geschehen*, was das Schicksal will.
+  *It will happen* as fate wishes.
 
   Que serait-il *advenu* si nous avions pris l'autre chemin ?
-  Was wäre *geschehen*, wenn wir den anderen Weg genommen hätten?
+  What would have happened if we had taken the other way?
 
   J'ignore ce qui est *advenu* depuis notre dernière rencontre.
-  Ich weiß nicht, was seit unserem letzten Treffen *geschehen* ist.
+  I don't know what's happened since we last met.
 
   Les graves événements qui sont *advenus* ont changé le cours de l'histoire.
-  Die schwerwiegenden Ereignisse, die *eingetreten* sind, haben den Lauf der Geschichte verändert.
+  Serious events that have taken place have changed the course of history.
 
   "*Advienne que pourra*", dit le philosophe, "la vérité triomphera."
-  "*Komme, was wolle*", sagte der Philosoph, "die Wahrheit wird siegen."
+  "Whatever happens", says the philosopher, "the truth will triumph".
 
   Nul ne sait ce qu'il *adviendra* demain.
-  Niemand weiß, was morgen *geschehen* wird.
+  Nobody knows what's going to happen tomorrow.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

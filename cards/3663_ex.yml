@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3663
 Wort: ex
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ex
 Femininum / Plural: ''
 IPA: \ɛks\
-Definition: ehemalig
+Definition: Once upon a time
 Register: ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Mon *ex* serait ravie que je vous parle."
-  "Meine *Ex* würde sich freuen, wenn ich mit Ihnen spreche."
+  "My *ex* would love it if I could talk to you".
 
   "C'est bizarre de voir son *ex* au supermarché."
-  "Es ist seltsam, seine *Ex* im Supermarkt zu sehen."
+  "It's weird to see your *ex* at the supermarket".
 
   L'*ex*-président assistera à la cérémonie demain.
-  Der *ehemalige* Präsident wird morgen an der Zeremonie teilnehmen.
+  The former president will attend the ceremony tomorrow.
 
   "Je ne veux plus jamais revoir mon *ex*!"
-  "Ich will meine *Ex* nie wiedersehen!"
+  "I never want to see my *ex* again!"
 
   Son *ex*-femme habite maintenant à l'étranger.
-  Seine *Ex*-Frau wohnt jetzt im Ausland.
+  His *ex*-wife now lives abroad.
 
   L'*ex*-champion du monde fait maintenant du coaching sportif.
-  Der *ehemalige* Weltmeister arbeitet jetzt als Sporttrainer.
+  The former world champion is now a sports coach.
 
   "Tous mes *ex* sont restés mes amis."
-  "Alle meine *Ex* sind meine Freunde geblieben."
+  "All my exes are still my friends".
 
   L'*ex*-directrice a pris sa retraite il y a deux mois.
-  Die *ehemalige* Direktorin ist vor zwei Monaten in den Ruhestand gegangen.
+  The *ex*-director retired two months ago.
 
   Marie est la nouvelle compagne de mon *ex*.
-  Marie ist die neue Partnerin meiner *Ex*.
+  Marie is my *ex*'s new partner.
 
   L'*ex*-ministre de la Culture publiera ses mémoires.
-  Die *ehemalige* Kulturministerin wird ihre Memoiren veröffentlichen.
+  The former Minister of Culture will publish his memoirs.
 
   "J'ai croisé ton *ex* au café hier soir."
-  "Ich bin gestern Abend im Café deiner *Ex* begegnet."
+  "I ran into your *ex* at the cafe last night".
 
   L'*ex*-champion olympique entraîne maintenant des jeunes.
-  Der *ehemalige* Olympicsieger trainiert jetzt Jugendliche.
+  The former Olympic champion now trains young people.
 
   Les *ex*-colonies françaises sont maintenant des pays indépendants.
-  Die *ehemaligen* französischen Kolonien sind jetzt unabhängige Länder.
+  The former French colonies are now independent countries.
 
   "Il est toujours ami avec ses *ex*."
-  "Er ist immer noch mit seinen *Ex* befreundet."
+  "He's still friends with his exes".
 
   L'*ex*-propriétaire de la maison revient souvent dans le quartier.
-  Der *ehemalige* Besitzer des Hauses kommt noch oft in die Gegend.
+  The former owner of the house often comes back to the neighborhood.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

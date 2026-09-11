@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4756
 Wort: exclu
 Wortart: v, adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exclu
 Femininum / Plural: exclue
 IPA: \ɛks.kly\
-Definition: ausgeschlossen
+Definition: excluded
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne me suis jamais senti *exclu*.
-  Ich habe mich nie *ausgeschlossen* gefühlt.
+  I've never felt *excluded*.
 
   Il n'est pas *exclu* que Pierre vienne à la fête demain.
-  Es ist nicht *ausgeschlossen*, dass Pierre morgen zur Party kommt.
+  It is not out of the question that Pierre will come to the feast tomorrow.
 
   Cette boutique est ouverte tous les jours, jeudi *exclu*.
-  Dieser Laden ist jeden Tag geöffnet, *ausgenommen* Donnerstag.
+  This shop is open every day except Thursday.
 
   Les *exclus* du système scolaire ont souvent du mal à trouver un emploi.
-  Die vom Schulsystem *Ausgeschlossenen* haben oft Schwierigkeiten, eine Arbeit zu finden.
+  Those *excluded* from the school system often struggle to find employment.
 
   Marie a été *exclue* du groupe WhatsApp sans explication.
-  Marie wurde ohne Erklärung aus der WhatsApp-Gruppe *ausgeschlossen*.
+  Marie was *excluded* from the WhatsApp group without explanation.
 
   Cette option est totalement *exclue* pour le moment.
-  Diese Option ist momentan völlig *ausgeschlossen*.
+  This option is completely *excluded* for the time being.
 
   Les *exclus* de la société méritent notre attention.
-  Die gesellschaftlich *Ausgeschlossenen* verdienen unsere Aufmerksamkeit.
+  Those *excluded* from society deserve our attention.
 
   Le prix indiqué est valable jusqu'au 31 mars *exclu*.
-  Der angegebene Preis gilt bis zum 31. März *ausschließlich*.
+  The price indicated shall be valid until 31 March *excluded*.
 
   Les trois membres *exclus* du club ont fait appel de la décision.
-  Die drei *ausgeschlossenen* Mitglieder des Clubs haben gegen die Entscheidung Einspruch eingelegt.
+  The three *excluded* members of the club appealed the decision.
 
   Il est *exclu* que nous acceptions ces conditions.
-  Es ist *ausgeschlossen*, dass wir diese Bedingungen akzeptieren.
+  It is *excluded* that we accept these conditions.
 
   Les pages 5 à 8 sont *exclues* de l'examen.
-  Die Seiten 5 bis 8 sind von der Prüfung *ausgenommen*.
+  Pages 5 to 8 are *excluded* from the examination.
 
   Les *exclus* du numérique ont des difficultés au quotidien.
-  Die digital *Ausgeschlossenen* haben im Alltag Schwierigkeiten.
+  Those *excluded* from the digital world have daily difficulties.
 
   Elle se sentait *exclue* de toutes les conversations.
-  Sie fühlte sich von allen Gesprächen *ausgeschlossen*.
+  She felt *excluded* from all conversations.
 
   Ces dates sont *exclues* pour la réunion.
-  Diese Termine sind für das Meeting *ausgeschlossen*.
+  These dates are *excluded* for the meeting.
 
   Le samedi et dimanche sont *exclus* des jours de livraison.
-  Samstag und Sonntag sind von den Liefertagen *ausgeschlossen*.
+  Saturdays and Sundays are *excluded* from delivery days.
 
   Les *exclus* de la croissance économique manifestent leur mécontentement.
-  Die vom Wirtschaftswachstum *Ausgeschlossenen* zeigen ihre Unzufriedenheit.
+  Those *excluded* from economic growth express their discontent.
 
   Cette hypothèse est définitivement *exclue* de notre analyse.
-  Diese Hypothese ist von unserer Analyse definitiv *ausgeschlossen*.
+  This hypothesis is definitely *excluded* from our analysis.
 
   Le nombre d'*exclus* augmente chaque année dans notre société.
-  Die Zahl der *Ausgegrenzten* nimmt in unserer Gesellschaft jedes Jahr zu.
+  The number of *excluded* people in our society is increasing every year.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

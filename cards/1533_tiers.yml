@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1533
 Wort: tiers
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le tiers
 Femininum / Plural: tierce
 IPA: \tjɛʁ\
-Definition: Drittel, Dritter
+Definition: Third
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle est musulmane du *tiers* monde.
-  Sie ist eine Muslimin aus der *Dritten* Welt.
+  She's a Muslim from the *Third* World.
 
   Le *tiers* des étudiants a échoué à l'examen.
-  Ein *Drittel* der Studenten ist durch die Prüfung gefallen.
+  One-*third* of the students failed the exam.
 
   Les deux *tiers* des participants sont déjà arrivés.
-  Zwei *Drittel* der Teilnehmer sind bereits eingetroffen.
+  Two-thirds of the participants have already arrived.
 
   Une *tierce* personne nous a interrompus pendant la conversation.
-  Ein *Dritter* hat uns während des Gesprächs unterbrochen.
+  A *third* person interrupted us during the conversation.
 
   Je ne veux pas que des *tiers* entendent notre discussion.
-  Ich möchte nicht, dass *Außenstehende* unser Gespräch mithören.
+  I don't want any *third* parties to hear what we're talking about.
 
   Mon voisin est assuré au *tiers* pour sa voiture.
-  Mein Nachbar ist für sein Auto *haftpflicht*versichert.
+  My neighbor has a *third*-party insurance policy on his car.
 
   Cette affaire ne concerne pas les *tiers*.
-  Diese Angelegenheit geht *Dritte* nichts an.
+  This case does not concern *third* parties.
 
   J'ai appris la nouvelle par un *tiers*.
-  Ich habe die Neuigkeit von einem *Dritten* erfahren.
+  I got the news from a *third* party.
 
   Le contrat a été signé en présence d'une *tierce* personne.
-  Der Vertrag wurde in Anwesenheit eines *Dritten* unterzeichnet.
+  The contract was signed in the presence of a *third* party.
 
   Un *tiers* des revenus est consacré au loyer.
-  Ein *Drittel* des Einkommens wird für die Miete aufgewendet.
+  One *third* of the income is spent on rent.
 
   Cette information provient d'un *tiers* fiable.
-  Diese Information stammt von einem vertrauenswürdigen *Dritten*.
+  This information comes from a reliable *third* party.
 
   Le *tiers payant* est appliqué dans cette pharmacie.
-  In dieser Apotheke wird die *Eigenbeteiligung* angewendet.
+  The third payment is applied in this pharmacy.
 
   Nous avons mangé les deux *tiers* du gâteau.
-  Wir haben zwei *Drittel* des Kuchens gegessen.
+  We ate two-thirds of the cake.
 
   Une *tierce* partie devra valider l'accord.
-  Eine *dritte* Partei muss das Abkommen bestätigen.
+  A *third* party will have to validate the agreement.
 
   Le *tiers* de la population vit en ville.
-  Ein *Drittel* der Bevölkerung lebt in der Stadt.
+  A *third* of the population lives in cities.
 
   Cette décision affecte les droits des *tiers*.
-  Diese Entscheidung betrifft die Rechte *Dritter*.
+  This decision affects the rights of *third* parties.
 
   Un *tiers* des places est réservé aux étudiants.
-  Ein *Drittel* der Plätze ist für Studenten reserviert.
+  One *third* of the seats are reserved for students.
 
   La présence d'une *tierce* personne est obligatoire.
-  Die Anwesenheit eines *Dritten* ist verpflichtend.
+  The presence of a *third* party is compulsory.
 
   Le *tiers* des votants s'est abstenu.
-  Ein *Drittel* der Wähler hat sich enthalten.
+  One *third* of the voters abstained.
 
   Les droits des *tiers* doivent être respectés.
-  Die Rechte *Dritter* müssen respektiert werden.
+  The rights of *third* parties must be respected.
 
   Un *tiers* des employés travaille à distance.
-  Ein *Drittel* der Angestellten arbeitet von zu Hause aus.
+  One *third* of employees work remotely.
 
   Cette règle s'applique aux *tiers*.
-  Diese Regel gilt für *Dritte*.
+  This rule applies to *third* parties.
 
   Les deux *tiers* du temps sont consacrés à la pratique.
-  Zwei *Drittel* der Zeit werden für die Praxis verwendet.
+  Two thirds of the time is spent practicing.
 
   Une *tierce* personne pourrait mal interpréter ces paroles.
-  Ein *Dritter* könnte diese Worte falsch interpretieren.
+  A *third* person might misinterpret these words.
 
   Le *tiers* du budget est alloué à la recherche.
-  Ein *Drittel* des Budgets ist für die Forschung vorgesehen.
+  One *third* of the budget is allocated to research.
 
   Les *tiers* ne sont pas autorisés à entrer.
-  *Dritte* haben keinen Zutritt.
+  *Third* parties are not allowed in.
 
   Un *tiers* des membres a voté contre.
-  Ein *Drittel* der Mitglieder hat dagegen gestimmt.
+  One *third* of the members voted against.
 
   Cette information ne doit pas être divulguée à des *tiers*.
-  Diese Information darf nicht an *Dritte* weitergegeben werden.
+  This information shall not be disclosed to *third* parties.
 
   Le *tiers* du trajet reste à parcourir.
-  Ein *Drittel* der Strecke liegt noch vor uns.
+  One *third* of the way is still to go.
 
   Les *tiers* bénéficiaires seront informés demain.
-  Die *Dritt*begünstigten werden morgen informiert.
+  The *third*-party beneficiaries will be notified tomorrow.
 
   Une *tierce* personne a été témoin de l'accident.
-  Ein *Dritter* war Zeuge des Unfalls.
+  A *third* person witnessed the accident.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

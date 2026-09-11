@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3065
 Wort: arrestation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une arrestation
 Femininum / Plural: ''
 IPA: \a.ʁɛs.ta.sjɔ̃\
-Definition: Verhaftung
+Definition: Arrested
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous êtes *en état d'arrestation*.
-  Sie sind *verhaftet*.
+  You are under arrest.
 
   L'*arrestation* arbitraire du journaliste a provoqué un scandale international.
-  Die willkürliche *Verhaftung* des Journalisten hat einen internationalen Skandal ausgelöst.
+  The arbitrary *arrest* of the journalist caused an international scandal.
 
   La police a procédé à l'*arrestation* du suspect hier soir.
-  Die Polizei hat gestern Abend die *Festnahme* des Verdächtigen durchgeführt.
+  The police arrested the suspect last night.
 
   Son *arrestation* fut de courte durée car il a prouvé son innocence.
-  Seine *Haft* war nur von kurzer Dauer, da er seine Unschuld beweisen konnte.
+  His *arrest* was short-lived because he proved his innocence.
 
   Le juge a ordonné l'*arrestation* préventive du suspect.
-  Der Richter hat die Vorbeuge*haft* des Verdächtigen angeordnet.
+  The judge ordered the suspect's pre-trial *arrest*.
 
   Les manifestations ont conduit à des *arrestations* en masse.
-  Die Demonstrationen führten zu Massen*verhaftungen*.
+  The protests led to mass *arrests*.
 
   L'avocat conteste la légalité de cette *arrestation*.
-  Der Anwalt bestreitet die Rechtmäßigkeit dieser *Festnahme*.
+  The lawyer disputes the legality of this *arrest*.
 
   Le mandat d'*arrestation* a été émis ce matin.
-  Der *Haft*befehl wurde heute Morgen ausgestellt.
+  The *arrest* warrant was issued this morning.
 
   Une *arrestation* provisoire peut durer jusqu'à 48 heures.
-  Eine vorläufige *Festnahme* kann bis zu 48 Stunden dauern.
+  A provisional *arrest* can last up to 48 hours.
 
   Les témoins ont filmé l'*arrestation* avec leurs téléphones.
-  Die Zeugen haben die *Festnahme* mit ihren Handys gefilmt.
+  Witnesses videotaped the *arrest* with their phones.
 
   Suite à son *arrestation*, il a immédiatement demandé un avocat.
-  Nach seiner *Verhaftung* hat er sofort einen Anwalt verlangt.
+  After his *arrest*, he immediately asked for a lawyer.
 
   L'*arrestation* illégale a été condamnée par les organisations des droits de l'homme.
-  Die widerrechtliche *Verhaftung* wurde von Menschenrechtsorganisationen verurteilt.
+  The illegal *arrest* was condemned by human rights organizations.
 
   Les policiers ont procédé à l'*arrestation* sans violence.
-  Die Polizisten haben die *Festnahme* ohne Gewalt durchgeführt.
+  The police made the *arrest* without violence.
 
   Cette *arrestation* préventive vise à empêcher d'autres crimes.
-  Diese Vorbeuge*haft* soll weitere Verbrechen verhindern.
+  This preventive *arrest* is intended to prevent further crimes.
 
   L'*arrestation* a eu lieu en pleine rue, devant des dizaines de témoins.
-  Die *Festnahme* erfolgte mitten auf der Straße vor Dutzenden von Zeugen.
+  The *arrest* took place in the middle of the street in front of dozens of witnesses.
 
   Le suspect s'est rendu sans résistance lors de son *arrestation*.
-  Der Verdächtige ergab sich bei seiner *Verhaftung* widerstandslos.
+  The suspect surrendered without resistance when he was arrested.
 
   La nouvelle de son *arrestation* a fait la une des journaux.
-  Die Nachricht von seiner *Festnahme* machte Schlagzeilen.
+  The news of his *arrest* made headlines.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1384
 Wort: désirer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: désirer
 Femininum / Plural: ''
 IPA: \de.zi.ʁe\
-Definition: wünschen, begehren
+Definition: Desire
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce que l'on *désire*, c'est éviter une surpollution.
-  Was wir uns *wünschen*, ist eine Umweltverschmutzung zu vermeiden.
+  What we want is to avoid overpollution.
 
   Je *désire* une tasse de café bien chaud.
-  Ich *möchte* eine Tasse heißen Kaffee.
+  I'd like a hot cup of coffee.
 
   "Monsieur *désire* ?"
-  "Was *wünschen* Sie?"
+  "Sir, would you please?"
 
   L'exposé du nouveau stagiaire *laisse à désirer*.
-  Der Vortrag des neuen Praktikanten lässt zu *wünschen* übrig.
+  The presentation of the new trainee leaves much to be desired.
 
   Il *désire* voyager à travers le monde après ses études.
-  Er *wünscht* sich, nach dem Studium durch die Welt zu reisen.
+  He wants to travel around the world after graduation.
 
   Je *désire* sincèrement que tu réussisses ton examen.
-  Ich *wünsche* aufrichtig, dass du deine Prüfung bestehst.
+  I sincerely wish you to pass your exam.
 
   Nous *désirons* vous informer de notre décision.
-  Wir *möchten* Sie über unsere Entscheidung informieren.
+  We would like to inform you of our decision.
 
   Son comportement *laisse beaucoup à désirer*.
-  Sein Verhalten lässt sehr zu *wünschen* übrig.
+  His behavior *leaves much to be desired*.
 
   Emma *désire* ardemment devenir médecin.
-  Emma *begehrt* es sehr, Ärztin zu werden.
+  Emma is eager to become a doctor.
 
   "Il se fait *désirer* aujourd'hui !"
-  "Er lässt sich heute aber *ersehnen*!"
+  "He's being desired today!"
 
   Que *désirez*-vous manger ce soir ?
-  Was *möchten* Sie heute Abend essen?
+  What would you like to eat tonight?
 
   Les enfants *désirent* un chiot depuis longtemps.
-  Die Kinder *wünschen* sich schon lange einen Welpen.
+  Kids have long wanted a puppy.
 
   Je *désire* m'entretenir avec vous de ce projet.
-  Ich *möchte* mit Ihnen über dieses Projekt sprechen.
+  I want to talk to you about this project.
 
   Son travail ne *laisse rien à désirer*.
-  Seine Arbeit lässt nichts zu *wünschen* übrig.
+  His work leaves nothing to be desired.
 
   Nous *désirons* que vous participiez à la réunion.
-  Wir *wünschen*, dass Sie an der Besprechung teilnehmen.
+  We would like you to attend the meeting.
 
   Il *désire* plus que tout retrouver la santé.
-  Er *sehnt* sich mehr als alles andere nach Gesundheit.
+  He wants his health back more than anything.
 
   *Désirez*-vous encore du dessert ?
-  *Möchten* Sie noch Nachtisch?
+  Would you like some more dessert?
 
   Elle ne *désire* qu'une chose : la paix.
-  Sie *begehrt* nur eines: Frieden.
+  She only wants one thing: peace.
 
   Nous *désirons* vous remercier pour votre aide.
-  Wir *möchten* uns bei Ihnen für Ihre Hilfe bedanken.
+  We want to thank you for your help.
 
   Sa présentation *laisse encore à désirer*.
-  Seine Präsentation lässt noch zu *wünschen* übrig.
+  His presentation still leaves much to be desired.
 
   Je *désire* vivement réussir dans la vie.
-  Ich *möchte* unbedingt im Leben erfolgreich sein.
+  I have a strong *desire* to succeed in life.
 
   Il *désire* que nous finissions le projet avant vendredi.
-  Er *wünscht*, dass wir das Projekt vor Freitag beenden.
+  He wants us to finish the project by Friday.
 
   Marie *désire* apprendre le japonais depuis des années.
-  Marie *wünscht* sich seit Jahren, Japanisch zu lernen.
+  Marie has wanted to learn Japanese for years.
 
   La qualité de ce produit *laisse à désirer*.
-  Die Qualität dieses Produkts lässt zu *wünschen* übrig.
+  The quality of this product leaves much to be desired.
 
   *Désirez*-vous prendre rendez-vous ?
-  *Möchten* Sie einen Termin vereinbaren?
+  Would you like to make an appointment?
 
   Nous *désirons* acheter une maison l'année prochaine.
-  Wir *möchten* nächstes Jahr ein Haus kaufen.
+  We want to buy a house next year.
 
   Il *désire* avant tout le bonheur de ses enfants.
-  Er *wünscht* sich vor allem das Glück seiner Kinder.
+  He wants his children's happiness above all else.
 
   Paul *désire* changer de carrière.
-  Paul *möchte* seinen Beruf wechseln.
+  Paul wants to change career.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

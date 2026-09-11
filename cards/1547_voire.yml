@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1547
 Wort: voire
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: voire
 Femininum / Plural: ''
 IPA: \vwaʁ\
-Definition: (ja) sogar
+Definition: (Yes) even
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Deux, trois cent millions. *Voire* plus.
-  Zwei-, dreihundert Millionen. *Oder sogar* mehr.
+  Two, three hundred million or more.
 
   Les prix augmentent chaque mois, *voire* chaque semaine.
-  Die Preise steigen jeden Monat, *ja sogar* jede Woche.
+  Prices go up every month *or even* every week.
 
   Ce projet prendra des mois, *voire* des années à se réaliser.
-  Dieses Projekt wird Monate, *wenn nicht sogar* Jahre brauchen, um verwirklicht zu werden.
+  This project will take months *or even* years to complete.
 
   Il est difficile, *voire* impossible, de prédire l'avenir avec certitude.
-  Es ist schwierig, *wenn nicht sogar* unmöglich, die Zukunft mit Sicherheit vorherzusagen.
+  It is difficult, if not impossible, to predict the future with certainty.
 
   Son comportement est inapproprié, *voire* offensant dans certaines situations.
-  Sein Verhalten ist unangemessen, *ja sogar* beleidigend in manchen Situationen.
+  His behavior is inappropriate, even offensive, in some situations.
 
   Cette technologie pourrait révolutionner l'industrie, *voire* notre façon de vivre.
-  Diese Technologie könnte die Industrie revolutionieren, *oder sogar* unsere gesamte Lebensweise.
+  This technology could revolutionize industry, even our way of life.
 
   Les conséquences seront graves, *voire* catastrophiques, si nous n'agissons pas maintenant.
-  Die Folgen werden schwerwiegend, *wenn nicht sogar* katastrophal sein, wenn wir jetzt nicht handeln.
+  The consequences will be serious, even disastrous, if we do not act now.
 
   Cette méthode est inefficace, *voire* contre-productive dans certains cas.
-  Diese Methode ist ineffektiv, *ja sogar* kontraproduktiv in manchen Fällen.
+  This method is ineffective *or even* counterproductive in some cases.
 
   Son talent est reconnu nationalement, *voire* internationalement.
-  Sein Talent ist landesweit, *ja sogar* international anerkannt.
+  His talent is recognized nationally and even internationally.
 
   Cette décision pourrait être risquée, *voire* dangereuse pour l'entreprise.
-  Diese Entscheidung könnte riskant, *wenn nicht sogar* gefährlich für das Unternehmen sein.
+  This decision could be risky *or even* dangerous for the company.
 
   Les effets secondaires sont rares, *voire* inexistants pour la plupart des patients.
-  Die Nebenwirkungen sind selten, *ja sogar* nicht vorhanden für die meisten Patienten.
+  Side effects are rare or nonexistent in most patients.
 
   Cette loi est controversée, *voire* impopulaire dans certaines régions du pays.
-  Dieses Gesetz ist umstritten, *ja sogar* unpopulär in einigen Regionen des Landes.
+  This law is controversial and even unpopular in some parts of the country.
 
   – "C'est le meilleur restaurant de la ville."<br>– "*Voire* !" répondit-elle avec scepticisme.
-  – "Das ist das beste Restaurant der Stadt."<br>– "*Tatsächlich*?!" antwortete sie skeptisch.
+  "It's the best restaurant in town".<br> "Yes!" she replied skeptically.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

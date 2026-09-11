@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4130
 Wort: rubrique
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la rubrique
 Femininum / Plural: ''
 IPA: \ʁy.bʁik\
-Definition: Rubrik
+Definition: Subheading
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'émission propose également de nombreuses *rubriques*.
-  Die Sendung bietet auch viele *Rubriken* an.
+  The programme also has a number of headlines.
 
   Je cherche du travail dans la *rubrique* des petites annonces.
-  Ich suche in der *Rubrik* Kleinanzeigen nach Arbeit.
+  I'm looking for a job in the little ads section.
 
   La *rubrique* sportive occupe trois pages aujourd'hui.
-  Der Sport*teil* umfasst heute drei Seiten.
+  The sports headline now has three pages.
 
   Marie tient la *rubrique* littéraire depuis cinq ans.
-  Marie ist seit fünf Jahren für den Literatur*teil* verantwortlich.
+  Marie has been in the literary section for five years.
 
   Ces dépenses entrent dans la *rubrique* "frais de voyage".
-  Diese Ausgaben fallen unter die *Rubrik* "Reisekosten".
+  These expenses fall under the *heading* 'travel expenses'.
 
   Le journal a créé une nouvelle *rubrique* consacrée à l'environnement.
-  Die Zeitung hat eine neue *Rubrik* zum Thema Umwelt eingerichtet.
+  The newspaper has created a new column on the environment.
 
   La *rubrique* des spectacles annonce trois concerts ce weekend.
-  Der Veranstaltungs*kalender* kündigt dieses Wochenende drei Konzerte an.
+  The show headline announced three concerts this weekend.
 
   Pierre est chef de *rubrique* au Monde.
-  Pierre ist *Ressort*leiter bei Le Monde.
+  Pierre's the head of the World.
 
   Les lecteurs peuvent s'exprimer dans la *rubrique* "Courrier des lecteurs".
-  Die Leser können sich in der *Rubrik* "Leserbriefe" äußern.
+  Readers may comment under the *heading* "Reader's Correspondence".
 
   Toutes les *rubriques* du dictionnaire sont organisées par thème.
-  Alle *Rubriken* im Wörterbuch sind thematisch geordnet.
+  All *headings* in the dictionary are arranged according to themes.
 
   La *rubrique* scientifique traite des dernières découvertes.
-  Die Wissenschafts*rubrik* berichtet über die neuesten Entdeckungen.
+  The scientific section discusses the latest discoveries.
 
   Il faut classer ce document sous la *rubrique* "Administration".
-  Dieses Dokument muss unter der *Rubrik* "Verwaltung" eingeordnet werden.
+  This document should be classified under the *heading* 'Administration'.
 
   La *rubrique* nécrologique apparaît en dernière page.
-  Die Todes*anzeigen* erscheinen auf der letzten Seite.
+  The obituary appears on the last page.
 
   Les *rubriques* du journal sont faciles à repérer grâce aux codes couleur.
-  Die *Rubriken* der Zeitung sind dank der Farbcodes leicht zu finden.
+  Newspaper *headings* are easy to spot thanks to color codes.
 
   Cette revue propose une *rubrique* mensuelle sur le cinéma.
-  Diese Zeitschrift bietet eine monatliche Film*rubrik* an.
+  This magazine has a monthly feature on movies.
 
   La *rubrique* "conseils jardinage" paraît chaque samedi.
-  Die *Rubrik* "Gartentipps" erscheint jeden Samstag.
+  The "Gardening Tips" section is published every Saturday.
 
   J'aime particulièrement la *rubrique* gastronomique de ce magazine.
-  Mir gefällt besonders die Gastronomie*rubrik* dieser Zeitschrift.
+  I especially like the food section of this magazine.
 
   Les petites nouvelles locales sont dans la *rubrique* "vie du village".
-  Die lokalen Kurznachrichten befinden sich in der *Rubrik* "Dorfleben".
+  Small local news is in the "Village Life" section.
 
   Tu trouveras cette information dans la *rubrique* "Questions/Réponses".
-  Diese Information findest du in der *Rubrik* "Fragen/Antworten".
+  You can find this information in the "Questions/ Answers" section.
 
   Les *rubriques* du site web sont clairement indiquées dans le menu.
-  Die *Rubriken* der Website sind im Menü klar gekennzeichnet.
+  The *headings* of the website are clearly indicated in the menu.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4003
 Wort: précoce
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: précoce
 Femininum / Plural: ''
 IPA: \pʁe.kɔs\
-Definition: vorzeitig, früh(-reif)
+Definition: Precocious, early-mature)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous favorisons la détection *précoce* et la prévention.
-  Wir fördern die *Früh*erkennung und Prävention.
+  We promote *early* detection and prevention.
 
   Les pommes *précoces* sont déjà mûres en juillet.
-  Die *frühen* Äpfel sind schon im Juli reif.
+  The *early* apples are already ripe in July.
 
   Cette variété de blé *précoce* résiste bien au froid.
-  Diese *frühreifende* Weizensorte ist gut kälteresistent.
+  This *early* variety of wheat is very resistant to cold.
 
   Un hiver particulièrement *précoce* a surpris les agriculteurs.
-  Ein besonders *zeitiger* Winter hat die Landwirte überrascht.
+  A particularly *early* winter took the farmers by surprise.
 
   Sa calvitie *précoce* l'a beaucoup complexé pendant sa jeunesse.
-  Seine *vorzeitige* Glatzenbildung hat ihm in seiner Jugend große Komplexe bereitet.
+  His *early* baldness complicated him a lot during his youth.
 
   Marie montre des signes de vieillissement *précoce*.
-  Marie zeigt Anzeichen *vorzeitiger* Alterung.
+  Marie shows signs of *early* aging.
 
   Le développement *précoce* de ses capacités mathématiques a impressionné ses professeurs.
-  Die *frühe* Entwicklung ihrer mathematischen Fähigkeiten hat ihre Lehrer beeindruckt.
+  His *early* development of mathematical skills impressed his teachers.
 
   Les gelées *précoces* ont détruit une partie de la récolte.
-  Der *Früh*frost hat einen Teil der Ernte zerstört.
+  *Early* frosts destroyed some of the crops.
 
   Cette année, les cerises sont très *précoces*.
-  Die Kirschen sind dieses Jahr sehr *früh dran*.
+  This year, the cherries are very *early*.
 
   Un diagnostic *précoce* permet souvent un meilleur traitement.
-  Eine *frühe* Diagnose ermöglicht oft eine bessere Behandlung.
+  *Early* diagnosis often leads to better treatment.
 
   Cette race de poules est connue pour sa maturité *précoce*.
-  Diese Hühnerrasse ist für ihre *frühe* Reife bekannt.
+  This breed of chicken is known for its *early* maturity.
 
   Le printemps *précoce* a fait fleurir tous les arbres en mars.
-  Der *frühe* Frühling ließ alle Bäume im März blühen.
+  *Early* spring bloomed all the trees in March.
 
   Son talent musical *précoce* s'est manifesté dès l'âge de trois ans.
-  Ihr *frühes* musikalisches Talent zeigte sich bereits im Alter von drei Jahren.
+  His *early* musical talent was evident from the age of three.
 
   La puberté *précoce* peut être difficile à gérer pour certains enfants.
-  Die *Früh*pubertät kann für manche Kinder schwer zu bewältigen sein.
+  *Early* puberty can be difficult for some children to manage.
 
   Cette variété de haricots verts est particulièrement *précoce*.
-  Diese Sorte grüner Bohnen ist besonders *frühreifend*.
+  This variety of green beans is particularly *early*.
 
   Les enfants *précoces* ont parfois du mal à s'intégrer dans leur classe d'âge.
-  *Frühreife* Kinder haben manchmal Schwierigkeiten, sich in ihre Altersgruppe zu integrieren.
+  *Early* children sometimes have a hard time adjusting to their age group.
 
   La fructification *précoce* de ces pommiers est remarquable.
-  Die *frühe* Fruchtbildung dieser Apfelbäume ist bemerkenswert.
+  The *early* fruiting of these apple trees is remarkable.
 
   Les rides *précoces* sont souvent héréditaires.
-  *Vorzeitige* Faltenbildung ist oft erblich bedingt.
+  *Early* wrinkles are often hereditary.
 
   Son mariage *précoce* a surpris toute la famille.
-  Ihre *frühe* Heirat hat die ganze Familie überrascht.
+  Her *early* marriage surprised the whole family.
 
   Un été *précoce* a accéléré la maturation des fruits.
-  Ein *früher* Sommer hat die Reifung der Früchte beschleunigt.
+  An *early* summer accelerated the ripening of the fruit.
 
   La démence *précoce* est une condition médicale grave.
-  *Frühzeitige* Demenz ist eine ernste medizinische Erkrankung.
+  *Early* dementia is a serious medical condition.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>précoce</i> und <i>prématuré</i></div>
+    <div class="section-title"><i>précoce</i> and <i>prématuré</i></div>
     <div class="section-content">
-      <p><span class="fr">Précoce</span> bedeutet <span class="de">"frühreif"</span> oder <span class="de">"früh"</span> und bezieht sich auf etwas, das früher als üblich oder erwartet geschieht, oft im positiven oder neutralen Sinne.</p>
+      <p><span class="fr">Précoce</span> means <span class="de">"early ripe"</span> or <span class="de">"early"</span> and refers to something that happens earlier than usual or expected, often in a positive or neutral sense.</p>
       <div class="examples">
         <div class="fr">C'est un enfant précoce qui a appris à lire à trois ans.</div>
-        <div class="de spoiler">Das ist ein frühreifes Kind, das mit drei Jahren lesen gelernt hat.</div>
+        <div class="de spoiler">This is a precocious child who learned to read at the age of three.</div>
         <div class="fr">Cette année, nous avons eu un printemps précoce.</div>
-        <div class="de spoiler">Dieses Jahr hatten wir einen frühen Frühling.</div>
+        <div class="de spoiler">We had an early spring this year.</div>
       </div>
-      <p><span class="fr">Prématuré</span> (#3105) bedeutet <span class="de">"vorzeitig"</span> oder <span class="de">"verfrüht"</span> und bezieht sich auf etwas, das zu früh passiert, oft mit einer negativen Konnotation oder einem Hinweis auf Unreife.</p>
+      <p><span class="fr">Prématuré</span> (#3105) means <span class="de">"early"</span> or <span class="de">"premature"</span> And it refers to something that happens too early, often with a negative connotation or a hint of immaturity.</p>
       <div class="examples">
         <div class="fr">Le bébé est né prématuré à sept mois.</div>
-        <div class="de spoiler">Das Baby wurde als Frühgeburt im siebten Monat geboren.</div>
+        <div class="de spoiler">The baby was born prematurely in the seventh month.</div>
         <div class="fr">Il est prématuré de tirer des conclusions maintenant.</div>
-        <div class="de spoiler">Es ist verfrüht, jetzt Schlussfolgerungen zu ziehen.</div>
+        <div class="de spoiler">It's too early to draw any conclusions now.</div>
       </div>
     </div>
   </div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2966
 Wort: proclamer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: proclamer
 Femininum / Plural: ''
 IPA: \pʁɔ.kla.me\
-Definition: ausrufen, verkünden
+Definition: to proclaim
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les résultats officiels seront *proclamés* samedi.
-  Die offiziellen Ergebnisse werden am Samstag *verkündet*.
+  The official results will be announced on Saturday.
 
   Le président a *proclamé* l'état d'urgence suite aux manifestations.
-  Der Präsident hat nach den Demonstrationen den Notstand *ausgerufen*.
+  The president declared a state of emergency following the protests.
 
   L'assemblée a *proclamé* la nouvelle constitution à l'unanimité.
-  Die Versammlung hat die neue Verfassung einstimmig *proklamiert*.
+  The assembly unanimously *proclaimed* the new constitution.
 
   "Je *proclame* mon innocence devant tous !" s'est écrié l'accusé.
-  "Ich *beteuere* vor allen meine Unschuld!", rief der Angeklagte.
+  "I declare my innocence in front of everyone!" cried the accused.
 
   Le général s'est *proclamé* chef de l'État après le coup d'État.
-  Der General hat sich nach dem Putsch zum Staatschef *erklärt*.
+  The general declared himself head of state after the coup.
 
   La foule *proclamait* sa joie dans les rues.
-  Die Menge *verkündete* ihre Freude auf den Straßen.
+  The crowd *was proclaiming* joy in the streets.
 
   L'indépendance du pays a été *proclamée* le 1er janvier 1960.
-  Die Unabhängigkeit des Landes wurde am 1. Januar 1960 *proklamiert*.
+  The independence of the country was *proclaimed* on January 1, 1960.
 
   Les scientifiques ont *proclamé* leur découverte lors d'une conférence de presse.
-  Die Wissenschaftler haben ihre Entdeckung auf einer Pressekonferenz *verkündet*.
+  The scientists announced their discovery at a press conference.
 
   Le jury a *proclamé* le gagnant du concours littéraire.
-  Die Jury hat den Gewinner des Literaturwettbewerbs *bekanntgegeben*.
+  The jury has declared the winner of the literary competition.
 
   La région s'est *proclamée* république autonome.
-  Die Region hat sich zur autonomen Republik *erklärt*.
+  The region declared itself an autonomous republic.
 
   Le maire a *proclamé* la ville "capitale culturelle" pour l'année à venir.
-  Der Bürgermeister hat die Stadt für das kommende Jahr zur "Kulturhauptstadt" *ausgerufen*.
+  The mayor has declared the city "cultural capital" for the coming year.
 
   Les manifestants *proclamaient* leurs revendications dans la rue.
-  Die Demonstranten *verkündeten* ihre Forderungen auf der Straße.
+  Protesters were proclaiming their demands in the streets.
 
   L'artiste a *proclamé* son amour pour son pays natal dans son discours.
-  Der Künstler hat in seiner Rede seine Liebe zu seinem Heimatland *proklamiert*.
+  The artist *proclaimed* his love for his native country in his speech.
 
   Le tribunal a *proclamé* le verdict après trois jours de délibération.
-  Das Gericht hat nach drei Tagen Beratung das Urteil *verkündet*.
+  The court pronounced the verdict after three days of deliberation.
 
   La charte des droits de l'homme a été solennellement *proclamée* par l'ONU.
-  Die Charta der Menschenrechte wurde von der UNO feierlich *proklamiert*.
+  The Charter of Human Rights was solemnly *proclaimed* by the UN.
 
   Les révolutionnaires ont *proclamé* la fin de la monarchie.
-  Die Revolutionäre haben das Ende der Monarchie *ausgerufen*.
+  The revolutionaries *proclaimed* the end of the monarchy.
 
   L'entreprise *proclame* son engagement pour l'environnement dans sa nouvelle campagne.
-  Das Unternehmen *verkündet* in seiner neuen Kampagne sein Engagement für die Umwelt.
+  The company announces its commitment to the environment in its new campaign.
 
   Le poète *proclamait* son amour à travers ses vers.
-  Der Dichter *verkündete* seine Liebe durch seine Verse.
+  The poet proclaimed his love through his verses.
 
   La presse a *proclamé* le film comme le chef-d'œuvre de l'année.
-  Die Presse hat den Film zum Meisterwerk des Jahres *erklärt*.
+  The press *proclaimed* the film the masterpiece of the year.
 
   Les syndicats ont *proclamé* une grève générale pour la semaine prochaine.
-  Die Gewerkschaften haben für nächste Woche einen Generalstreik *ausgerufen*.
+  The unions have announced a general strike for next week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

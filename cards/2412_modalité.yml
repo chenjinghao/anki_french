@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2412
 Wort: modalité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la modalité
 Femininum / Plural: ''
 IPA: \mɔ.da.li.te\
-Definition: Modalität
+Definition: Modalities
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il semble donc exister deux *modalités* de la vision.
-  Es scheint also zwei *Modalitäten* des Sehens zu geben.
+  So there seem to be two modes of vision.
 
   Les *modalités* de paiement sont flexibles : vous pouvez payer en trois fois.
-  Die Zahlungs*weise* ist flexibel: Sie können in drei Raten zahlen.
+  The payment methods are flexible: you can pay three times.
 
   Nous devons discuter des *modalités* d'inscription à l'université.
-  Wir müssen über das Aufnahme*verfahren* an der Universität sprechen.
+  We need to discuss how to enroll in college.
 
   Le professeur nous a expliqué que "devoir" est un verbe de *modalité*.
-  Der Lehrer hat uns erklärt, dass "devoir" ein *Modal*verb ist.
+  The professor explained to us that "duty" is a *modality* verb.
 
   "Probablement" est un adverbe de *modalité*.
-  "Wahrscheinlich" ist ein *Modal*adverb.
+  "Probably" is a *modality* adverb.
 
   La *modalité* de ce morceau de musique est très particulière.
-  Die *Modalität* dieses Musikstücks ist sehr besonders.
+  The mode of this piece of music is very special.
 
   Les *modalités* d'application de cette loi seront précisées ultérieurement.
-  Die Anwendungs*arten* dieses Gesetzes werden später präzisiert.
+  The detailed rules for the application of this law will be clarified later.
 
   Chaque banque a ses propres *modalités* de crédit.
-  Jede Bank hat ihre eigenen Kredit*modalitäten*.
+  Each bank has its own credit arrangements.
 
   Nous devons respecter toutes les *modalités* du contrat.
-  Wir müssen alle *Modalitäten* des Vertrags einhalten.
+  We must respect all the terms of the contract.
 
   Les *modalités* d'entrée dans ce programme sont très strictes.
-  Das Aufnahme*verfahren* für dieses Programm ist sehr streng.
+  The procedures for admission to this programme are very strict.
 
   La *modalité* hypothétique s'exprime souvent avec "si".
-  Die hypothetische *Modalität* wird oft mit "wenn" ausgedrückt.
+  The hypothetical *modality* is often expressed as "if".
 
   Le compositeur a choisi une *modalité* qui rappelle la musique médiévale.
-  Der Komponist hat eine *Modalität* gewählt, die an mittelalterliche Musik erinnert.
+  The composer chose a style reminiscent of medieval music.
 
   Cette *modalité* de pensée est typique de la philosophie moderne.
-  Diese Denk*modalität* ist typisch für die moderne Philosophie.
+  This way of thinking is typical of modern philosophy.
 
   Les *modalités* d'organisation de l'événement ont été modifiées.
-  Die Organisations*modalitäten* der Veranstaltung wurden geändert.
+  The arrangements for organising the event have been amended.
 
   Le subjonctif est une *modalité* qui exprime souvent le doute.
-  Der Konjunktiv ist eine *Modalität*, die oft Zweifel ausdrückt.
+  The subjunctive is a *modality* that often expresses doubt.
 
   Veuillez lire attentivement les *modalités* d'utilisation.
-  Bitte lesen Sie die Nutzungs*modalitäten* aufmerksam durch.
+  Please read the terms of use carefully.
 
   Il faut définir précisément les *modalités* de collaboration entre nos équipes.
-  Die *Modalitäten* der Zusammenarbeit zwischen unseren Teams müssen genau definiert werden.
+  It is necessary to define precisely the *modalities* of cooperation between our teams.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

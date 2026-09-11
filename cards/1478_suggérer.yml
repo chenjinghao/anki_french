@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1478
 Wort: suggérer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: suggérer
 Femininum / Plural: ''
 IPA: \syɡ.ʒe.ʁe\
-Definition: vorschlagen, andeuten
+Definition: Proposal for a Council Regulation (EEC)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je voudrais *suggérer* de changer les horaires de travail.
-  Ich möchte *vorschlagen*, die Arbeitszeiten zu ändern.
+  I'd like to suggest changing working hours.
 
   Le guide nous a *suggéré* de faire une excursion en montagne.
-  Der Reiseleiter hat uns einen Ausflug in die Berge *vorgeschlagen*.
+  The guide *suggested* that we take a mountain tour.
 
   Sa remarque *suggère* qu'il n'est pas d'accord avec nous.
-  Seine Bemerkung *lässt durchblicken*, dass er nicht mit uns einverstanden ist.
+  His remark *suggests* that he disagrees with us.
 
   Cette musique me *suggère* des souvenirs d'enfance.
-  Diese Musik *lässt* bei mir Kindheitserinnerungen *wachrufen*.
+  This music reminds me of childhood memories.
 
   L'hypnothérapeute lui a *suggéré* d'arrêter de fumer.
-  Der Hypnosetherapeut hat ihm *suggeriert*, mit dem Rauchen aufzuhören.
+  The hypnotherapist *suggested* that he quit smoking.
 
   Je te *suggère* fortement de réfléchir avant d'agir.
-  Ich *rate* dir dringend, vor dem Handeln nachzudenken.
+  I strongly suggest you think before you act.
 
   La jalousie lui a *suggéré* des paroles qu'il regrette maintenant.
-  Die Eifersucht hat ihm Worte *eingegeben*, die er jetzt bereut.
+  Jealousy prompted him to say things he now regrets.
 
   Les circonstances m'ont *suggéré* une autre solution.
-  Die Umstände haben mir eine andere Lösung *nahegelegt*.
+  Circumstances *suggested* another solution.
 
   Son silence *suggérait* une profonde désapprobation.
-  Sein Schweigen *ließ* tiefe Missbilligung *erahnen*.
+  His silence *suggested* a deep disapproval.
 
   L'artiste *suggère* la profondeur par des jeux d'ombre.
-  Der Künstler *lässt* die Tiefe durch Schattenspiele *andeuten*.
+  The artist *suggests* depth through shadow games.
 
   Cette odeur *suggère* la présence d'une fuite de gaz.
-  Dieser Geruch *lässt* das Vorhandensein eines Gaslecks *vermuten*.
+  This smell *suggests* a gas leak.
 
   Permettez-moi de vous *suggérer* un excellent restaurant.
-  Lassen Sie mich Ihnen ein ausgezeichnetes Restaurant *empfehlen*.
+  Let me suggest a great restaurant.
 
   Le professeur m'a *suggéré* de reprendre mon devoir.
-  Der Lehrer hat mir *nahegelegt*, meine Hausaufgaben zu überarbeiten.
+  The professor *suggested* that I resume my duties.
 
   Son comportement *suggère* qu'il cache quelque chose.
-  Sein Verhalten *lässt darauf schließen*, dass er etwas verbirgt.
+  His behavior *suggests* he's hiding something.
 
   Cette phrase *suggère* plusieurs interprétations possibles.
-  Dieser Satz *lässt* mehrere mögliche Interpretationen *anklingen*.
+  This phrase *suggests* several possible interpretations.
 
   Je vous *suggère* d'agir immédiatement.
-  Ich *rate* Ihnen, sofort zu handeln.
+  I suggest you act immediately.
 
   Ce tableau *suggère* plus qu'il ne montre.
-  Dieses Gemälde *deutet* mehr *an*, als es zeigt.
+  This painting *suggests* more than it shows.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

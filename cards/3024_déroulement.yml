@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3024
 Wort: déroulement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le déroulement
 Femininum / Plural: ''
 IPA: \de.ʁul.mɑ̃\
-Definition: Ablauf, Verlauf
+Definition: Expiry
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons examiné le *déroulement* des événements.
-  Wir haben uns den *Ablauf* der Ereignisse angesehen.
+  We have examined the course of events.
 
   Le *déroulement* des événements nous a tous surpris.
-  Der *Ablauf* der Ereignisse hat uns alle überrascht.
+  The course of events surprised us all.
 
   Les témoins ont décrit le *déroulement* exact des faits à la police.
-  Die Zeugen haben der Polizei den genauen *Tathergang* geschildert.
+  Witnesses described the exact course of events to the police.
 
   Le *déroulement* du film s'est fait automatiquement dans le projecteur.
-  Der Film wurde im Projektor automatisch *abgespult*.
+  The film takes place automatically in the projector.
 
   Pendant le *déroulement* de la cérémonie, tout le monde est resté silencieux.
-  Während des *Verlaufs* der Zeremonie blieb alle still.
+  During the ceremony, everyone was silent.
 
   J'ai été fasciné par le *déroulement* de l'intrigue dans ce roman.
-  Ich war von dem Handlungs*ablauf* in diesem Roman fasziniert.
+  I was fascinated by the plot in this novel.
 
   Le *déroulement* de cette journée ne s'est pas passé comme prévu.
-  Der *Ablauf* dieses Tages verlief nicht wie geplant.
+  The day did not go as planned.
 
   Le conservateur supervise le *déroulement* du papyrus ancien avec précaution.
-  Der Konservator überwacht das vorsichtige *Abrollen* des alten Papyrus.
+  The preservationist carefully supervises the *development* of the ancient papyrus.
 
   Le *déroulement* de l'année scolaire suit un calendrier précis.
-  Der *Ablauf* des Schuljahres folgt einem genauen Zeitplan.
+  The course of the school year follows a precise timetable.
 
   Les spectateurs ont suivi le *déroulement* de l'action avec attention.
-  Die Zuschauer verfolgten den Handlungs*ablauf* aufmerksam.
+  The spectators watched the action carefully.
 
   Le *déroulement* de la cassette était bloqué par la poussière.
-  Das *Abspulen* der Kassette wurde durch Staub blockiert.
+  The roll of the tape was blocked by dust.
 
   Elle a expliqué le *déroulement* de l'attaque en détail.
-  Sie erklärte den *Ablauf* des Angriffs im Detail.
+  She explained the details of the attack.
 
   Le professeur nous a décrit le *déroulement* prévu du cours.
-  Der Lehrer beschrieb uns den geplanten *Ablauf* des Unterrichts.
+  The teacher described the planned course.
 
   Le *déroulement* naturel des saisons apporte des changements prévisibles.
-  Der natürliche *Ablauf* der Jahreszeiten bringt vorhersehbare Veränderungen.
+  The natural course of the seasons brings predictable changes.
 
   Les historiens ont étudié le *déroulement* précis de la bataille.
-  Die Historiker haben den genauen *Ablauf* der Schlacht untersucht.
+  Historians have studied the exact course of the battle.
 
   Le *déroulement* du manuscrit a révélé des textes fascinants.
-  Beim *Abrollen* der Handschrift kamen faszinierende Texte zum Vorschein.
+  The rolling of the manuscript revealed fascinating texts.
 
   Le public a apprécié le *déroulement* fluide du spectacle.
-  Das Publikum schätzte den flüssigen *Ablauf* der Aufführung.
+  The audience enjoyed the smooth running of the show.
 
   Nous avons filmé tout le *déroulement* de la manifestation.
-  Wir haben den gesamten *Verlauf* der Demonstration gefilmt.
+  We filmed the whole demonstration.
 
   Le *déroulement* du discours a captivé l'audience.
-  Der *Ablauf* der Rede fesselte das Publikum.
+  The flow of the talk captivated the audience.
 
   Je suis satisfait du *déroulement* de notre conversation.
-  Ich bin mit dem *Verlauf* unseres Gesprächs zufrieden.
+  I'm pleased with the way our conversation is going.
 
   Les enquêteurs ont reconstitué le *déroulement* exact du crime.
-  Die Ermittler haben den genauen *Tathergang* rekonstruiert.
+  Investigators have reconstructed the exact course of the crime.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

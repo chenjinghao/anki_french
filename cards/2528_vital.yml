@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2528
 Wort: vital
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: vital
 Femininum / Plural: vitale
 IPA: \vi.tal\
-Definition: lebenswichtig, Lebens-
+Definition: It is vital, vital
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Surveille les signes *vitaux*.
-  Überwache die *Vital*zeichen.
+  Keep an eye on the vital signs.
 
   Les médecins ont constaté que ses organes *vitaux* fonctionnaient normalement.
-  Die Ärzte stellten fest, dass seine *lebenswichtigen* Organe normal funktionierten.
+  The doctors found that his vital organs were functioning normally.
 
   La respiration est une fonction *vitale* de l'organisme.
-  Die Atmung ist eine *lebenswichtige* Funktion des Organismus.
+  Breathing is a vital function of the body.
 
   L'eau est un élément *vital* pour notre survie.
-  Wasser ist ein *lebenswichtiges* Element für unser Überleben.
+  Water is vital to our survival.
 
   Son pronostic *vital* n'est plus engagé.
-  Seine *Vital*prognose ist nicht mehr kritisch.
+  His vital prognosis is no longer engaged.
 
   La force *vitale* nous pousse à aller de l'avant.
-  Die *Lebens*kraft treibt uns voran.
+  The life force moves us forward.
 
   Cette découverte est d'une importance *vitale* pour la recherche médicale.
-  Diese Entdeckung ist von *existenzieller* Bedeutung für die medizinische Forschung.
+  This discovery is of vital importance for medical research.
 
   L'exercice physique maintient notre énergie *vitale*.
-  Bewegung erhält unsere *Lebens*energie.
+  Exercise keeps us alive.
 
   C'est un point *vital* de notre stratégie.
-  Das ist ein *wesentlicher* Punkt unserer Strategie.
+  It's a vital part of our strategy.
 
   La biodiversité est *vitale* pour l'équilibre de notre planète.
-  Die Biodiversität ist *lebenswichtig* für das Gleichgewicht unseres Planeten.
+  Biodiversity is vital to the balance of our planet.
 
   L'accès à l'éducation est *vital* pour le développement d'un pays.
-  Der Zugang zu Bildung ist *vital* für die Entwicklung eines Landes.
+  Access to education is vital for the development of a country.
 
   Il est *vital* de protéger nos ressources naturelles.
-  Es ist *lebensnotwendig*, unsere natürlichen Ressourcen zu schützen.
+  It is vital to protect our natural resources.
 
   Ces vitamines sont *vitales* pour notre santé.
-  Diese Vitamine sind *lebenswichtig* für unsere Gesundheit.
+  These vitamins are *vital* to our health.
 
   La créativité est *vitale* pour son bien-être.
-  Kreativität ist für sein Wohlbefinden *lebensnotwendig*.
+  Creativity is vital to its well-being.
 
   Ces investissements sont *vitaux* pour l'avenir de l'entreprise.
-  Diese Investitionen sind für die Zukunft des Unternehmens *existenziell*.
+  These investments are vital for the future of the company.
 
   Le sommeil joue un rôle *vital* dans notre récupération.
-  Schlaf spielt eine *lebenswichtige* Rolle bei unserer Erholung.
+  Sleep plays a vital role in our recovery.
 
   La confiance est *vitale* dans une relation.
-  Vertrauen ist in einer Beziehung *existenziell*.
+  Trust is vital in a relationship.
 
   Les abeilles sont *vitales* pour notre écosystème.
-  Bienen sind für unser Ökosystem *lebenswichtig*.
+  Bees are *vital* to our ecosystem.
 
   Cette réforme est d'une importance *vitale*.
-  Diese Reform ist von *vitaler* Bedeutung.
+  This reform is vitally important.
 
   L'innovation est *vitale* pour la survie d'une entreprise.
-  Innovation ist für das Überleben eines Unternehmens *lebensnotwendig*.
+  Innovation is vital to the survival of a business.
 
   La communication est *vitale* dans le travail d'équipe.
-  Kommunikation ist für die Teamarbeit *vital*.
+  Communication is vital in teamwork.
 
   Maintenir un minimum *vital* est une priorité sociale.
-  Ein *Existenz*minimum zu gewährleisten ist eine soziale Priorität.
+  Maintaining a minimum standard of living is a social priority.
 
   Les jeunes ont besoin d'un espace *vital* pour se développer.
-  Junge Menschen brauchen einen *Lebens*raum, um sich zu entwickeln.
+  Young people need a vital space to develop.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

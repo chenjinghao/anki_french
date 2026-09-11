@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3050
 Wort: unanime
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: unanime
 Femininum / Plural: ''
 IPA: \y.na.nim\
-Definition: einstimmig
+Definition: unanimously
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a reçu l'approbation *unanime* de l'opinion publique.
-  Sie erhielt die *einhellige* Zustimmung der Öffentlichkeit.
+  It was *unanimously* approved by the public.
 
   Le jury était *unanime* dans sa décision d'attribuer le premier prix à cette œuvre.
-  Die Jury war *einstimmig* in ihrer Entscheidung, den ersten Preis an dieses Werk zu vergeben.
+  The jury was unanimous in its decision to award the first prize to this work.
 
   Les critiques sont *unanimes* : ce film est un chef-d'œuvre.
-  Die Kritiker sind sich *einig*: Dieser Film ist ein Meisterwerk.
+  Critics are unanimous: this film is a masterpiece.
 
   Le conseil d'administration a pris une décision *unanime* concernant la nouvelle stratégie de l'entreprise.
-  Der Vorstand hat eine *einstimmige* Entscheidung bezüglich der neuen Unternehmensstrategie getroffen.
+  The Board of Directors adopted a unanimous decision on the new strategy of the company.
 
   Nous sommes *unanimes* à penser que cette réforme est nécessaire.
-  Wir sind uns *einig* darin, dass diese Reform notwendig ist.
+  We agree that this reform is necessary.
 
   La proposition a reçu un soutien *unanime* de la part des membres du comité.
-  Der Vorschlag erhielt *einhellige* Unterstützung von den Ausschussmitgliedern.
+  The proposal was *unanimously* supported by the members of the Committee.
 
   Les experts sont *unanimes* : le changement climatique est une menace réelle.
-  Die Experten sind sich *einig*: Der Klimawandel ist eine reelle Bedrohung.
+  Experts are unanimous: climate change is a real threat.
 
   Le vote *unanime* du conseil municipal a surpris tout le monde.
-  Die *einstimmige* Abstimmung des Gemeinderats hat alle überrascht.
+  The unanimous vote by the city council surprised everyone.
 
   La foule a exprimé son mécontentement *unanime* face à cette décision impopulaire.
-  Die Menge brachte ihre *einhellige* Unzufriedenheit mit dieser unpopulären Entscheidung zum Ausdruck.
+  The crowd *unanimously* expressed their dissatisfaction with this unpopular decision.
 
   Les députés ont adopté la loi *à l'unanime*.
-  Die Abgeordneten haben das Gesetz *einstimmig* verabschiedet.
+  MEPs passed the law *unanimously*.
 
   La réprobation *unanime* de la communauté internationale a forcé le pays à revoir sa position.
-  Die *einhellige* Missbilligung der internationalen Gemeinschaft zwang das Land dazu, seine Position zu überdenken.
+  The unanimous condemnation by the international community forced the country to reconsider its position.
 
   Un éclat de rire *unanime* a suivi sa blague.
-  Ein *einhelliges* Gelächter folgte auf seinen Witz.
+  A unanimous burst of laughter followed his joke.
 
   Les critiques littéraires sont *unanimes* : ce roman est le meilleur de l'année.
-  Die Literaturkritiker sind sich *einig*: Dieser Roman ist der beste des Jahres.
+  Literary critics are unanimous: this novel is the best of the year.
 
   La décision *unanime* du comité olympique a été saluée par tous les athlètes.
-  Die *einstimmige* Entscheidung des Olympischen Komitees wurde von allen Athleten begrüßt.
+  The unanimous decision of the Olympic Committee was welcomed by all the athletes.
 
   L'assemblée générale a voté *à l'unanime* pour le nouveau président.
-  Die Generalversammlung hat *einstimmig* für den neuen Präsidenten gestimmt.
+  The General Assembly voted *unanimously* for the new president.
 
   Les scientifiques sont *unanimes* quant à l'urgence de protéger la biodiversité.
-  Die Wissenschaftler sind sich *einig* über die Dringlichkeit, die Biodiversität zu schützen.
+  Scientists are unanimous about the urgency of protecting biodiversity.
 
   Le concert a reçu des éloges *unanimes* de la part des spectateurs.
-  Das Konzert erhielt *einhelligen* Beifall von den Zuschauern.
+  The concert was *unanimously* praised by the audience.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

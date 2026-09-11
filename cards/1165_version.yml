@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1165
 Wort: version
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la version
 Femininum / Plural: ''
 IPA: \vɛʁ.sjɔ̃\
-Definition: Version
+Definition: Version of the report
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous avez entendu les deux *versions* de l'incident.
-  Sie haben beide *Versionen* des Vorfalls gehört.
+  You've heard both *versions* of the incident.
 
   Le film est sorti en *version* originale sous-titrée en allemand.
-  Der Film kam in Original*fassung* mit deutschen Untertiteln heraus.
+  The film was released in an original German subtitled *version*.
 
   La *version* de Marie est complètement différente de celle de Pierre.
-  Maries *Version* unterscheidet sich völlig von Pierres.
+  Marie's *version* is completely different from Pierre's.
 
   J'ai acheté la *version* cinq portes de cette voiture.
-  Ich habe die fünftürige *Version* dieses Autos gekauft.
+  I bought the five-door *version* of this car.
 
   La nouvelle *version* de ce logiciel inclut de nombreuses améliorations.
-  Die neue *Version* dieser Software enthält viele Verbesserungen.
+  The new *version* of this software includes many improvements.
 
   Les élèves ont fait une *version* latine aujourd'hui.
-  Die Schüler haben heute eine *Übersetzung* aus dem Lateinischen gemacht.
+  The students made a Latin *version* today.
 
   Nous avons regardé le film en *version* française.
-  Wir haben uns den Film in der französischen *Fassung* angesehen.
+  We watched the French *version* of the film.
 
   Il existe plusieurs *versions* de cette légende.
-  Es gibt mehrere *Versionen* dieser Legende.
+  There are several *versions* of this legend.
 
   La *version* standard du modèle coûte moins cher.
-  Die Standard*version* des Modells ist günstiger.
+  The standard *version* of the model is cheaper.
 
   J'ai préféré sa *version* de la chanson à l'originale.
-  Seine *Version* des Liedes gefiel mir besser als das Original.
+  I preferred his *version* of the song to the original.
 
   La *version* bêta du jeu sera disponible la semaine prochaine.
-  Die Beta*version* des Spiels wird nächste Woche verfügbar sein.
+  The beta *version* of the game will be available next week.
 
   Quelle est votre *version* des faits ?
-  Was ist Ihre *Version* der Tatsachen?
+  What's your *version* of the facts?
 
   Je travaille sur la *version* réduite du projet.
-  Ich arbeite an der Spar*version* des Projekts.
+  I'm working on the shortened *version* of the project.
 
   La *version* originale du texte a été écrite en grec.
-  Die Original*version* des Textes wurde auf Griechisch geschrieben.
+  The original *version* of the text was written in Greek.
 
   Cette *version* du système d'exploitation n'est plus supportée.
-  Diese *Version* des Betriebssystems wird nicht mehr unterstützt.
+  This *version* of the operating system is no longer supported.
 
   Les deux *versions* de l'histoire ne correspondent pas.
-  Die beiden *Versionen* der Geschichte stimmen nicht überein.
+  The two *versions* of the story don't match.
 
   La *version* suivante corrigera ces bugs.
-  Die Nachfolge*version* wird diese Fehler beheben.
+  The next *version* will fix those bugs.
 
   J'ai téléchargé la dernière *version* de l'application.
-  Ich habe die neueste *Version* der App heruntergeladen.
+  I downloaded the latest *version* of the app.
 
   La *version* numérique du livre est gratuite.
-  Die Digital*version* des Buches ist kostenlos.
+  The digital *version* of the book is free.
 
   Cette *version* de Windows est plus stable.
-  Diese *Version* von Windows ist stabiler.
+  This *version* of Windows is more stable.
 
   Nous préférons voir les films en *version* originale.
-  Wir sehen Filme lieber in Original*fassung*.
+  We prefer to see the movies in the original *version*.
 
   La nouvelle *version* du spectacle dure deux heures.
-  Die neue *Fassung* der Show dauert zwei Stunden.
+  The new *version* of the show lasts two hours.
 
   Cette *version* du conte est moins connue.
-  Diese *Version* des Märchens ist weniger bekannt.
+  This *version* of the tale is less well known.
 
   Ils ont sorti une *version* actualisée du manuel.
-  Sie haben eine aktualisierte *Version* des Handbuchs herausgebracht.
+  They released an updated *version* of the manual.
 
   La *version* définitive sera publiée demain.
-  Die endgültige *Fassung* wird morgen veröffentlicht.
+  The final *version* will be published tomorrow.
 
   C'est une *version* simplifiée pour les débutants.
-  Das ist eine vereinfachte *Version* für Anfänger.
+  It's a simplified *version* for beginners.
 
   Il faut installer la dernière *version* du programme.
-  Man muss die neueste *Version* des Programms installieren.
+  We need to install the latest *version* of the program.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

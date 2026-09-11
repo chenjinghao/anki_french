@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1727
 Wort: suffisamment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: suffisamment
 Femininum / Plural: ''
 IPA: \sy.fi.za.mɑ̃\
-Definition: genug, ausreichend
+Definition: Enough
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne l'ai pas dit *suffisamment*.
-  Ich habe es nicht *genug* gesagt.
+  I didn't say it *enough*.
 
   Cette boîte est-elle *suffisamment* grande pour tout ranger ?
-  Ist diese Kiste *groß genug*, um alles zu verstauen?
+  Is this box big *enough* to store everything?
 
   Votre lettre n'était pas *suffisamment* affranchie pour l'envoi à l'étranger.
-  Ihr Brief war für den Auslandsversand nicht *ausreichend* frankiert.
+  Your letter wasn't clear *enough* to send overseas.
 
   As-tu *suffisamment* de temps pour finir ce projet ?
-  Hast du *genügend* Zeit, um dieses Projekt zu beenden?
+  Do you have *enough* time to finish this project?
 
   Il n'y avait pas *suffisamment* à boire pour tout le monde à la fête.
-  Es gab auf der Party nicht *genug* zu trinken für alle.
+  There wasn't *enough* to drink for everyone at the party.
 
   Nous avons été *suffisamment* patients avec les enfants aujourd'hui.
-  Wir waren heute *genug* geduldig mit den Kindern.
+  We've been patient *enough* with the kids today.
 
   Le professeur a-t-il *suffisamment* expliqué la leçon ?
-  Hat der Lehrer die Lektion *ausreichend* erklärt?
+  Has the teacher explained the lesson well *enough*?
 
   Elle gagne *suffisamment* d'argent pour partir en vacances deux fois par an.
-  Sie verdient *genug* Geld, um zweimal im Jahr in den Urlaub zu fahren.
+  She earns *enough* money to go on vacation twice a year.
 
   Les fenêtres ne sont pas *suffisamment* isolées contre le bruit.
-  Die Fenster sind nicht *ausreichend* gegen Lärm isoliert.
+  The windows are not sufficiently insulated from noise.
 
   Avez-vous *suffisamment* de place dans votre valise ?
-  Haben Sie *genug* Platz in Ihrem Koffer?
+  Do you have *enough* room in your suitcase?
 
   Marc n'a pas *suffisamment* réfléchi avant de prendre sa décision.
-  Marc hat vor seiner Entscheidung nicht *genügend* nachgedacht.
+  Mark did not think well *enough* before making his decision.
 
   La salle est-elle *suffisamment* chauffée pour les bébés ?
-  Ist der Raum für die Babys *ausreichend* geheizt?
+  Is the room warm *enough* for the babies?
 
   Les élèves ont *suffisamment* de livres pour commencer le cours.
-  Die Schüler haben *genügend* Bücher, um mit dem Unterricht zu beginnen.
+  The students have *enough* books to start the class.
 
   Je suis *suffisamment* préparée pour l'examen de demain.
-  Ich bin für die morgige Prüfung *ausreichend* vorbereitet.
+  I'm sufficiently prepared for tomorrow's exam.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

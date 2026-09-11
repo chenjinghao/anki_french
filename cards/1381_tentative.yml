@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1381
 Wort: tentative
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la tentative
 Femininum / Plural: ''
 IPA: \tɑ̃.ta.tiv\
-Definition: Versuch
+Definition: Try it
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   À la troisième *tentative*, l'homme part le premier.
-  Beim dritten *Versuch* geht der Mann als Erster los.
+  On the third attempt, the man leaves first.
 
   Leurs *tentatives* d'explication n'ont pas convaincu le professeur.
-  Ihre Erklärungs*versuche* haben den Lehrer nicht überzeugt.
+  Their *attempts* to explain failed to convince the professor.
 
   La première *tentative* de dépassement s'est avérée dangereuse.
-  Der erste Überhol*versuch* erwies sich als gefährlich.
+  The first attempt to get over it turned out to be dangerous.
 
   Toutes les *tentatives* de conciliation ont échoué entre les deux voisins.
-  Alle Schlichtungs*versuche* zwischen den beiden Nachbarn sind gescheitert.
+  All *attempts* at reconciliation between the two neighbors have failed.
 
   Sa *tentative* de suicide a bouleversé toute sa famille.
-  Sein Selbstmord*versuch* hat seine ganze Familie erschüttert.
+  His suicide attempt shocked his entire family.
 
   Cette *tentative* infructueuse l'a découragé de continuer.
-  Dieser erfolglose *Versuch* hat ihn entmutigt weiterzumachen.
+  This unsuccessful attempt discouraged him from continuing.
 
   Je ferai une dernière *tentative* pour la convaincre de venir.
-  Ich werde einen letzten *Versuch* unternehmen, sie zum Mitkommen zu überreden.
+  I'll make one last attempt to convince her to come.
 
   La *tentative* de vol a été déjouée par le système d'alarme.
-  Der *versuchte* Diebstahl wurde durch die Alarmanlage vereitelt.
+  The *attempted* theft was foiled by the alarm system.
 
   Cette *tentative* d'assassinat a choqué tout le pays.
-  Dieser Mord*versuch* hat das ganze Land schockiert.
+  This assassination attempt shocked the entire country.
 
   Les *tentatives* de négociation ont duré trois jours.
-  Die Verhandlungs*versuche* dauerten drei Tage.
+  *Attempts* to negotiate lasted three days.
 
   Chaque *tentative* nous rapproche un peu plus du succès.
-  Jeder *Versuch* bringt uns dem Erfolg ein Stück näher.
+  Every attempt brings us a little closer to success.
 
   Sa *tentative* de record du monde a échoué de peu.
-  Sein Weltrekord*versuch* ist knapp gescheitert.
+  His attempt at a world record had little success.
 
   Les premières *tentatives* de communication ont enfin abouti.
-  Die ersten Kommunikations*versuche* waren endlich erfolgreich.
+  The first *attempts* at communication have finally paid off.
 
   Plusieurs *tentatives* d'évasion ont été signalées cette semaine.
-  Diese Woche wurden mehrere Ausbruchs*versuche* gemeldet.
+  Several escape *attempts* have been reported this week.
 
   Après trois *tentatives* ratées, elle a finalement réussi l'examen.
-  Nach drei gescheiterten *Versuchen* hat sie die Prüfung endlich bestanden.
+  After three failed *attempts*, she finally passed the exam.
 
   La *tentative* de réconciliation a échoué malgré leurs efforts.
-  Der Versöhnungs*versuch* ist trotz ihrer Bemühungen gescheitert.
+  Their attempts at reconciliation failed.
 
   Cette *tentative* d'intimidation ne marchera pas avec moi.
-  Dieser Einschüchterungs*versuch* wird bei mir nicht funktionieren.
+  This attempt at intimidation won't work with me.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

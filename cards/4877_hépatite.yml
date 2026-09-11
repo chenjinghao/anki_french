@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4877
 Wort: hépatite
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une hépatite
 Femininum / Plural: ''
 IPA: \e.pa.tit\
 Definition: Hepatitis
 Register: ↘Fiktion ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*hépatite* C est très différente du VIH.
-  Die *Hepatitis* C unterscheidet sich stark von HIV.
+  *Hepatitis* C is very different from HIV.
 
   Les symptômes de l'*hépatite* aiguë peuvent inclure de la fièvre et des nausées.
-  Die Symptome der akuten *Hepatitis* können Fieber und Übelkeit umfassen.
+  Symptoms of acute *hepatitis* may include fever and nausea.
 
   Mon frère s'est remis d'une *hépatite* virale après trois mois de traitement.
-  Mein Bruder hat sich nach drei Monaten Behandlung von einer Virus*hepatitis* erholt.
+  My brother recovered from viral *hepatitis* after three months of treatment.
 
   L'*hépatite* chronique peut provoquer une cirrhose du foie.
-  Die chronische *Hepatitis* kann zu einer Leberzirrhose führen.
+  Chronic *hepatitis* can cause cirrhosis of the liver.
 
   Les médecins ont diagnostiqué une *hépatite* médicamenteuse chez Marie.
-  Die Ärzte haben bei Marie eine medikamenteninduzierte *Hepatitis* diagnostiziert.
+  Doctors diagnosed Marie with drug-induced *hepatitis*.
 
   Le vaccin contre l'*hépatite* B est recommandé dès l'enfance.
-  Die Impfung gegen *Hepatitis* B wird schon im Kindesalter empfohlen.
+  The *hepatitis* B vaccine is recommended from childhood.
 
   Une *hépatite* non traitée peut avoir des conséquences graves.
-  Eine unbehandelte *Hepatitis* kann schwerwiegende Folgen haben.
+  Untreated *hepatitis* can have serious consequences.
 
   L'*hépatite* A se transmet principalement par l'eau contaminée.
-  *Hepatitis* A wird hauptsächlich durch verunreinigtes Wasser übertragen.
+  *Hepatitis* A is mainly transmitted through contaminated water.
 
   Les tests sanguins ont confirmé que Julie avait une *hépatite*.
-  Die Bluttests haben bestätigt, dass Julie eine *Hepatitis* hat.
+  Blood tests confirmed that Julie had *hepatitis*.
 
   Cette forme d'*hépatite* est causée par une infection virale.
-  Diese Form der *Hepatitis* wird durch eine Virusinfektion verursacht.
+  This form of *hepatitis* is caused by a viral infection.
 
   Le nombre de cas d'*hépatite* a diminué grâce à la vaccination.
-  Die Anzahl der *Hepatitis*-Fälle ist dank der Impfung zurückgegangen.
+  The number of *hepatitis* cases has decreased thanks to vaccination.
 
   Une *hépatite* peut provoquer un jaunissement de la peau.
-  Eine *Hepatitis* kann eine Gelbfärbung der Haut verursachen.
+  *Hepatitis* can cause yellowing of the skin.
 
   L'infirmière m'a expliqué les différents types d'*hépatite*.
-  Die Krankenschwester hat mir die verschiedenen *Hepatitis*-Arten erklärt.
+  The nurse explained to me the different types of *hepatitis*.
 
   Les voyageurs devraient se faire vacciner contre l'*hépatite* A.
-  Reisende sollten sich gegen *Hepatitis* A impfen lassen.
+  Travellers should be vaccinated against *hepatitis* A.
 
   Le traitement de l'*hépatite* dépend de sa cause et de sa gravité.
-  Die Behandlung der *Hepatitis* hängt von ihrer Ursache und ihrem Schweregrad ab.
+  Treatment for *hepatitis* depends on its cause and severity.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

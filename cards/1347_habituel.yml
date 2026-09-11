@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1347
 Wort: habituel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: habituel
 Femininum / Plural: habituelle
 IPA: \a.bi.tɥɛl\
-Definition: gewöhnlich, üblich
+Definition: Commonly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils font leur routine *habituelle*.
-  Sie machen ihre *gewohnte* Routine.
+  They're doing their usual routine.
 
   À mon *habituelle* question sur sa santé, elle n'a pas répondu.
-  Auf meine *übliche* Frage nach ihrer Gesundheit hat sie nicht geantwortet.
+  She didn't answer my usual question about her health.
 
   Je ne le trouve pas dans son état *habituel* aujourd'hui.
-  Ich finde ihn heute nicht so, wie er *sonst* ist.
+  I don't find him in his usual condition today.
 
   La chaleur *habituelle* du mois d'août rend le travail difficile.
-  Die *gewohnte* Augusthitze macht das Arbeiten schwer.
+  The usual August heat makes the work difficult.
 
   Le restaurant est plein de nos clients *habituels*.
-  Das Restaurant ist voll mit unseren *Stamm*kunden.
+  The restaurant is full of our regulars.
 
   Marie a préparé le repas avec son excellence *habituelle*.
-  Marie hat das Essen mit ihrer *gewohnten* Exzellenz zubereitet.
+  Marie prepared the meal with her usual excellence.
 
   Il est *habituel* de se serrer la main en se saluant.
-  Es ist *üblich*, sich zur Begrüßung die Hand zu geben.
+  It's customary to shake hands and say hello.
 
   Le parc est devenu notre lieu de rendez-vous *habituel*.
-  Der Park ist zu unserem *gewohnten* Treffpunkt geworden.
+  The park has become our usual meeting place.
 
   As-tu remarqué son agressivité *habituelle* envers les nouveaux employés ?
-  Ist dir seine *übliche* Aggressivität gegenüber neuen Mitarbeitern aufgefallen?
+  Have you noticed his usual aggression towards new employees?
 
   Les membres du conseil se réunissent à l'heure *habituelle*.
-  Die Vorstandsmitglieder treffen sich zur *gewohnten* Zeit.
+  The members of the Council shall meet at the usual time.
 
   Cette réaction est tout à fait *habituelle* chez les enfants de cet âge.
-  Diese Reaktion ist bei Kindern in diesem Alter völlig *normal*.
+  This reaction is quite *common* in children of this age.
 
   Pierre n'a pas utilisé ses formules de politesse *habituelles*.
-  Pierre hat seine *üblichen* Höflichkeitsfloskeln nicht verwendet.
+  Pierre did not use his usual polite phrases.
 
   Le phénomène est devenu tellement *habituel* qu'on ne le remarque même plus.
-  Das Phänomen ist so *alltäglich* geworden, dass man es gar nicht mehr bemerkt.
+  The phenomenon has become so *common* that we don't even notice it anymore.
 
   Contrairement à son comportement *habituel*, il est resté calme.
-  Entgegen seinem *üblichen* Verhalten blieb er ruhig.
+  Unlike his usual behavior, he remained calm.
 
   Au sens *habituel* du terme, cela signifie autre chose.
-  Im *gewöhnlichen* Sinne des Wortes bedeutet das etwas anderes.
+  In the usual sense of the word, it means something else.
 
   Les fournisseurs *habituels* n'ont pas pu livrer cette semaine.
-  Die *üblichen* Lieferanten konnten diese Woche nicht liefern.
+  The usual suppliers couldn't deliver this week.
 
   La séance commence avec son retard *habituel* de dix minutes.
-  Die Sitzung beginnt mit ihrer *gewohnten* Verspätung von zehn Minuten.
+  The session begins with his usual ten minutes delay.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

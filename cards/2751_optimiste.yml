@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2751
 Wort: optimiste
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: optimiste
 Femininum / Plural: ''
 IPA: \ɔp.ti.mist\
-Definition: optimistisch
+Definition: Optimistic
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Êtes-vous *optimiste* quant à l'avenir des jeunes ?
-  Sind Sie *optimistisch* in Bezug auf die Zukunft der Jugend?
+  Are you *optimistic* about the future of young people?
 
   Je suis une *optimiste* de nature, je vois toujours le bon côté des choses.
-  Ich bin von Natur aus eine *Optimistin*, ich sehe immer die gute Seite der Dinge.
+  I'm an optimist by nature, I always see the bright side of things.
 
   Les médecins sont *optimistes* concernant son rétablissement.
-  Die Ärzte sind *optimistisch* bezüglich seiner Genesung.
+  Doctors are *optimistic* about her recovery.
 
   Malgré les difficultés, il reste résolument *optimiste*.
-  Trotz der Schwierigkeiten bleibt er entschieden *optimistisch*.
+  Despite the difficulties, he remains resolutely *optimistic*.
 
   Son attitude *optimiste* m'inspire beaucoup.
-  Seine *optimistische* Haltung inspiriert mich sehr.
+  Her *optimistic* attitude inspires me a lot.
 
   Elle a une vision très *optimiste* de la situation économique.
-  Sie hat eine sehr *optimistische* Sicht auf die wirtschaftliche Lage.
+  She has a very *optimistic* view of the economic situation.
 
   Les prévisions *optimistes* se sont finalement réalisées.
-  Die *optimistischen* Vorhersagen haben sich schließlich bewahrheitet.
+  The *optimistic* forecasts have finally come true.
 
   Je ne suis pas aussi *optimiste* que toi sur ce projet.
-  Ich bin nicht so *optimistisch* wie du bei diesem Projekt.
+  I'm not as *optimistic* about this project as you are.
 
   Les *optimistes* voient des opportunités là où d'autres voient des problèmes.
-  *Optimisten* sehen Chancen, wo andere Probleme sehen.
+  Optimists see opportunities where others see problems.
 
   Cette nouvelle m'a rendu plus *optimiste*.
-  Diese Nachricht hat mich *optimistisch*er gemacht.
+  This news made me more *optimistic*.
 
   En tant qu'*optimiste*, elle croit toujours en un meilleur lendemain.
-  Als *Optimistin* glaubt sie immer an eine bessere Zukunft.
+  As an optimist, she always believes in a better tomorrow.
 
   Son caractère *optimiste* l'aide à surmonter les obstacles.
-  Sein *optimistischer* Charakter hilft ihm, Hindernisse zu überwinden.
+  His optimism helps him to overcome obstacles.
 
   Les analystes restent *optimistes* pour le second semestre.
-  Die Analysten bleiben für das zweite Halbjahr *optimistisch*.
+  Analysts remain *optimistic* about the second half.
 
   Paul est un *optimiste* invétéré, rien ne peut le décourager.
-  Paul ist ein unverbesserlicher *Optimist*, nichts kann ihn entmutigen.
+  Paul is an unbridled optimist, nothing can discourage him.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

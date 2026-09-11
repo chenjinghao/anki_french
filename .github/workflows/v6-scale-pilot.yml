@@ -1,0 +1,119 @@
+name: V6 500-card scale pilot
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  translate:
+    if: contains(github.event.head_commit.message, '[run v6 scale]')
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install NLLB runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Restore German card source
+        run: |
+          git checkout origin/main -- cards
+          python scripts/normalize_examples.py --shard 0 --shards 1
+      - name: Select scale-pilot shard
+        run: |
+          python scripts/v6_scale_pilot.py select \
+            --output v6-scale-paths.txt \
+            --shard ${{ matrix.shard }} \
+            --shards 5
+          test "$(grep -c . v6-scale-paths.txt)" -ge 95
+          test "$(grep -c . v6-scale-paths.txt)" -le 105
+      - name: Translate shard with NLLB and glossary
+        env:
+          HF_HOME: ${{ runner.temp }}/hf-cache
+          TOKENIZERS_PARALLELISM: 'false'
+        run: |
+          python scripts/translate_de_to_en_v6.py \
+            --paths-file v6-scale-paths.txt \
+            --batch-size 16
+      - name: Apply deterministic semantic repairs
+        run: python scripts/repair_v6.py --paths-file v6-scale-paths.txt
+      - name: Bundle translated shard
+        run: |
+          python scripts/v6_pilot.py bundle \
+            --paths-file v6-scale-paths.txt \
+            --output v6-scale-output
+      - name: Upload translated shard
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-scale-shard-${{ matrix.shard }}
+          path: |
+            v6-scale-paths.txt
+            v6-scale-output
+          if-no-files-found: error
+          retention-days: 7
+
+  combine-and-qa:
+    if: contains(github.event.head_commit.message, '[run v6 scale]')
+    needs: translate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install QA runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Download all translated shards
+        uses: actions/download-artifact@v4
+        with:
+          pattern: v6-scale-shard-*
+          path: v6-scale-artifacts
+      - name: Recombine 500-card sample
+        run: |
+          mkdir -p v6-scale-combined/cards
+          : > v6-scale-all-paths.txt
+          for shard in v6-scale-artifacts/v6-scale-shard-*; do
+            cat "$shard/v6-scale-paths.txt" >> v6-scale-all-paths.txt
+            cp -a "$shard/v6-scale-output/cards/." v6-scale-combined/cards/
+          done
+          sort -u -o v6-scale-all-paths.txt v6-scale-all-paths.txt
+          count="$(grep -c . v6-scale-all-paths.txt)"
+          echo "Recombined $count cards"
+          test "$count" -eq 500
+      - name: Run 500-card structural and semantic gate
+        run: |
+          python scripts/v6_scale_pilot.py validate \
+            --root v6-scale-combined \
+            --paths-file v6-scale-all-paths.txt \
+            --report v6-scale-report.txt
+      - name: Upload scale-pilot report and translated sample
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-500-card-scale-pilot
+          path: |
+            v6-scale-report.txt
+            v6-scale-all-paths.txt
+            v6-scale-combined
+          if-no-files-found: warn
+          retention-days: 7

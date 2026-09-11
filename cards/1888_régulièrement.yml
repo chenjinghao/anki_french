@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1888
 Wort: régulièrement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: régulièrement
 Femininum / Plural: ''
 IPA: \ʁe.ɡy.ljɛʁ.mɑ̃\
-Definition: regelmäßig, immer wieder
+Definition: regularly, repeatedly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a promis de venir *régulièrement*.
-  Sie hat versprochen, *regelmäßig* zu kommen.
+  She promised to come *regularly*.
 
   Il faut prendre ses médicaments *régulièrement* pour guérir.
-  Man muss seine Medikamente *regelmäßig* einnehmen, um gesund zu werden.
+  You need to take your medication *regularly* to heal.
 
   Les trains circulent *régulièrement* entre Paris et Lyon.
-  Die Züge verkehren *turnusmäßig* zwischen Paris und Lyon.
+  Trains run *regularly* between Paris and Lyon.
 
   Le comité se réunit *régulièrement* le premier mardi du mois.
-  Das Komitee trifft sich *regelmäßig* am ersten Dienstag des Monats.
+  The committee meets *regularly* on the first Tuesday of the month.
 
   Cette horloge ne marche pas *régulièrement*.
-  Diese Uhr läuft nicht *gleichmäßig*.
+  This clock doesn't work *regularly*.
 
   La neige tombe *régulièrement* depuis ce matin.
-  Der Schnee fällt seit heute Morgen *gleichmäßig*.
+  The snow has been falling steadily since this morning.
 
   Les documents ont été *régulièrement* déposés auprès de l'administration.
-  Die Dokumente wurden *vorschriftsmäßig* bei der Verwaltung eingereicht.
+  The documents were *regularly* filed with the administration.
 
   Le nouveau maire a été *régulièrement* élu par les citoyens.
-  Der neue Bürgermeister wurde *vorschriftsmäßig* von den Bürgern gewählt.
+  The new mayor was *regularly* elected by the citizens.
 
   Je fais du sport *régulièrement* pour rester en forme.
-  Ich treibe *regelmäßig* Sport, um fit zu bleiben.
+  I exercise *regularly* to stay fit.
 
   Ces arbres ont été plantés *régulièrement* le long du chemin.
-  Diese Bäume wurden *gleichmäßig* entlang des Weges gepflanzt.
+  These trees were *regularly* planted along the road.
 
   Mon voisin sort son chien *régulièrement* trois fois par jour.
-  Mein Nachbar führt seinen Hund *regelmäßig* dreimal am Tag aus.
+  My neighbor *regularly* takes her dog out three times a day.
 
   La machine doit être entretenue *régulièrement*.
-  Die Maschine muss *regelmäßig* gewartet werden.
+  The machine must be maintained *regularly*.
 
   "*Régulièrement*, il devrait être là dans cinq minutes."
-  "*Normalerweise* müsste er in fünf Minuten hier sein."
+  "*Regularly*, he should be here in five minutes".
 
   Les étudiants sont *régulièrement* évalués pendant le semestre.
-  Die Studenten werden während des Semesters *regelmäßig* geprüft.
+  Students are *regularly* assessed during the semester.
 
   Le cœur du patient bat *régulièrement* maintenant.
-  Das Herz des Patienten schlägt jetzt *gleichmäßig*.
+  The patient's heart is beating steadily now.
 
   Elle vérifie *régulièrement* ses emails sur son téléphone.
-  Sie prüft *regelmäßig* ihre E-Mails auf ihrem Handy.
+  She checks her emails on her phone *regularly*.
 
   Les impôts doivent être payés *régulièrement*.
-  Die Steuern müssen *vorschriftsmäßig* gezahlt werden.
+  Taxes must be paid *regularly*.
 
   Ces exercices sont *régulièrement* pratiqués dans nos cours de français.
-  Diese Übungen werden in unserem Französischunterricht *regelmäßig* durchgeführt.
+  These exercises are *regularly* practiced in our French classes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

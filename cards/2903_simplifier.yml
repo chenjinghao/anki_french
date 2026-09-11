@@ -1,95 +1,95 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2903
 Wort: simplifier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: simplifier
 Femininum / Plural: ''
 IPA: \sɛ̃.pli.fje\
-Definition: vereinfachen
+Definition: Simplified
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je pourrais peut-être *simplifier* les choses pour vous.
-  Ich könnte die Dinge für Sie vielleicht *vereinfachen*.
+  Maybe I could *simplify* things for you.
 
   Notre nouveau logiciel *simplifie* grandement la gestion des stocks.
-  Unsere neue Software *vereinfacht* die Lagerverwaltung erheblich.
+  Our new software greatly simplifies inventory management.
 
   Il faut *simplifier* cette procédure administrative, elle est trop complexe.
-  Dieses Verwaltungsverfahren muss *vereinfacht* werden, es ist zu kompliziert.
+  This administrative procedure must be simplified, it is too complex.
 
   Les nouvelles technologies ont *simplifié* notre vie quotidienne.
-  Die neuen Technologien haben unser tägliches Leben *erleichtert*.
+  New technology has *simplified* our daily lives.
 
   Pour *simplifier* le problème, concentrons-nous sur les points essentiels.
-  Um das Problem zu *vereinfachen*, konzentrieren wir uns auf die wesentlichen Punkte.
+  To *simplify* the problem, let us focus on the essential points.
 
   Le gouvernement cherche à *simplifier* le code des impôts.
-  Die Regierung versucht, das Steuerrecht zu *vereinfachen*.
+  The government is trying to *simplify* the tax code.
 
   Cette application *simplifie* la réservation de billets d'avion.
-  Diese App *vereinfacht* die Buchung von Flugtickets.
+  This app simplifies the booking of airline tickets.
 
   Les mathématiciens cherchent souvent à *simplifier* les équations complexes.
-  Mathematiker versuchen oft, komplexe Gleichungen zu *vereinfachen*.
+  Mathematicians often seek to *simplify* complex equations.
 
   "J'essaie toujours de me *simplifier* la vie quand c'est possible."
-  "Ich versuche immer, mir das Leben zu *erleichtern*, wenn es möglich ist."
+  "I always try to *simplify* my life whenever possible".
 
   En *simplifiant* trop l'explication, on risque de perdre des nuances importantes.
-  Wenn man die Erklärung zu sehr *vereinfacht*, läuft man Gefahr, wichtige Nuancen zu verlieren.
+  If we simplify the explanation too much, we may lose some important nuances.
 
   Le chef a *simplifié* la recette pour la rendre accessible à tous.
-  Der Koch hat das Rezept *vereinfacht*, um es für alle zugänglich zu machen.
+  The chef has *simplified* the recipe to make it accessible to everyone.
 
   Il faut *simplifier* cette fraction en divisant le numérateur et le dénominateur par 2.
-  Man muss diesen Bruch *kürzen*, indem man Zähler und Nenner durch 2 teilt.
+  This fraction must be simplified by dividing the numerator and denominator by 2.
 
   La méditation peut vous aider à *simplifier* votre vie mentale.
-  Meditation kann Ihnen helfen, Ihr geistiges Leben zu *vereinfachen*.
+  Meditation can help you *simplify* your mental life.
 
   Nous devons *simplifier* notre message pour le rendre plus percutant.
-  Wir müssen unsere Botschaft *vereinfachen*, um sie einprägsamer zu machen.
+  We need to *simplify* our message to make it more powerful.
 
   Le nouveau système a considérablement *simplifié* les démarches administratives.
-  Das neue System hat die Verwaltungsabläufe erheblich *vereinfacht*.
+  The new system has considerably *simplified* administrative procedures.
 
   "Tu devrais *simplifier* ton discours pour que tout le monde comprenne."
-  "Du solltest deine Rede *vereinfachen*, damit sie jeder versteht."
+  "You should *simplify* your speech so everyone can understand".
 
   En *simplifiant* le processus, nous avons augmenté notre productivité.
-  Indem wir den Prozess *vereinfacht* haben, haben wir unsere Produktivität gesteigert.
+  By *simplifying* the process, we have increased our productivity.
 
   Les ingénieurs travaillent constamment à *simplifier* l'interface utilisateur.
-  Die Ingenieure arbeiten ständig daran, die Benutzeroberfläche zu *vereinfachen*.
+  Engineers are constantly working to *simplify* the user interface.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>simplifier</i> und <i>faciliter</i></div>
+    <div class="section-title"><i>simplifier</i> and <i>faciliter</i></div>
     <div class="section-content">
-      <p><span class="fr">Simplifier</span> bedeutet <span class="de">"vereinfachen"</span> und bezieht sich auf den Prozess, etwas weniger komplex oder kompliziert zu machen, indem man Elemente reduziert oder entfernt.</p>
+      <p><span class="fr">Simplifier</span> means <span class="de">'simplify'</span> And it refers to the process of making something less complex or complicated by reducing or removing elements.</p>
       <div class="examples">
         <div class="fr">Le professeur a simplifié l'explication pour que les enfants comprennent.</div>
-        <div class="de spoiler">Der Lehrer hat die Erklärung vereinfacht, damit die Kinder verstehen.</div>
+        <div class="de spoiler">The teacher simplified the explanation so that the children could understand.</div>
         <div class="fr">Cette application simplifie la gestion de vos finances.</div>
-        <div class="de spoiler">Diese Anwendung vereinfacht die Verwaltung Ihrer Finanzen.</div>
+        <div class="de spoiler">This application simplifies the management of your finances.</div>
       </div>
-      <p><span class="fr">Faciliter</span> (#1813) bedeutet <span class="de">"erleichtern"</span> und bezieht sich darauf, etwas leichter oder zugänglicher zu machen, ohne notwendigerweise dessen Komplexität zu reduzieren.</p>
+      <p><span class="fr">Faciliter</span> #1813) means <span class="de">'Easy to use'</span> and refers to making something easier or more accessible without necessarily reducing its complexity.</p>
       <div class="examples">
         <div class="fr">Les nouvelles technologies facilitent la communication à distance.</div>
-        <div class="de spoiler">Neue Technologien erleichtern die Kommunikation über Entfernungen.</div>
+        <div class="de spoiler">New technologies facilitate communication over long distances.</div>
         <div class="fr">Un bon éclairage facilite la lecture.</div>
-        <div class="de spoiler">Gute Beleuchtung erleichtert das Lesen.</div>
+        <div class="de spoiler">Good lighting makes reading easier.</div>
       </div>
-      <p>Der Hauptunterschied liegt darin, dass <span class="fr">simplifier</span> die Struktur oder Komplexität einer Sache verändert, während <span class="fr">faciliter</span> den Zugang oder die Ausführung erleichtert, ohne das Wesen der Sache selbst zu verändern.</p>
+      <p>The main difference is that <span class="fr">simplifier</span> changes the structure or complexity of a matter, while <span class="fr">faciliter</span> facilitates access or execution without altering the nature of the matter itself.</p>
     </div>
   </div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2128
 Wort: transférer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: transférer
 Femininum / Plural: ''
 IPA: \tʁɑ̃s.fe.ʁe\
-Definition: verlegen, übertragen
+Definition: Shameful, transferred
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le trafic est *transféré* d'un ou de plusieurs canaux sémaphores.
-  Der Verkehr wird von einem oder mehreren Signalkanälen *übertragen*.
+  Traffic is *transferred* from one or more semaphore channels.
 
   L'entreprise a *transféré* ses bureaux dans un nouveau quartier.
-  Die Firma hat ihre Büros in ein neues Viertel *verlegt*.
+  The company moved its offices to a new neighborhood.
 
   On va *transférer* le patient dans un hôpital spécialisé.
-  Wir werden den Patienten in ein Spezialkrankenhaus *überführen*.
+  We're *transferring* the patient to a specialized hospital.
 
   Les données sont *transférées* automatiquement vers le cloud.
-  Die Daten werden automatisch in die Cloud *überspielt*.
+  Data is automatically *transferred* to the cloud.
 
   La banque a *transféré* 5000 euros sur mon compte.
-  Die Bank hat 5000 Euro auf mein Konto *überwiesen*.
+  The bank *transferred* 5,000 euros to my account.
 
   Les enfants ont *transféré* leur amour pour leur chat sur le nouveau chiot.
-  Die Kinder haben ihre Liebe für ihre Katze auf den neuen Welpen *übertragen*.
+  The children *transferred* their love for their cat to the new puppy.
 
   Marie a été *transférée* dans une autre école.
-  Marie wurde an eine andere Schule *versetzt*.
+  Marie was *transferred* to another school.
 
   Le gouvernement sera *transféré* dans la nouvelle capitale.
-  Die Regierung wird in die neue Hauptstadt *verlegt*.
+  The government will be *transferred* to the new capital.
 
   Il faut *transférer* les documents dans le nouveau système.
-  Die Dokumente müssen in das neue System *umgelagert* werden.
+  The documents must be transferred to the new system.
 
   Les cendres seront *transférées* dans le caveau familial.
-  Die Asche wird in die Familiengruft *überführt*.
+  The ashes will be *transferred* to the family vault.
 
   Le juge a *transféré* la garde des enfants au père.
-  Der Richter hat das Sorgerecht für die Kinder auf den Vater *übertragen*.
+  The judge *transferred* custody of the children to the father.
 
   Pierre *transfère* son stress sur ses collègues.
-  Pierre *überträgt* seinen Stress auf seine Kollegen.
+  Pierre transferred his stress to his colleagues.
 
   J'ai *transféré* tous mes mails sur mon nouveau téléphone.
-  Ich habe alle meine E-Mails auf mein neues Handy *überspielt*.
+  I *transferred* all my emails to my new phone.
 
   Le prisonnier sera *transféré* dans une prison de haute sécurité.
-  Der Häftling wird in ein Hochsicherheitsgefängnis *verlegt*.
+  The prisoner will be *transferred* to a maximum security prison.
 
   Elle a *transféré* ses pouvoirs à son assistante pendant ses vacances.
-  Sie hat ihre Befugnisse während ihres Urlaubs an ihre Assistentin *übertragen*.
+  She *transferred* her powers to her assistant during her vacation.
 
   Le service client sera *transféré* à l'étranger.
-  Der Kundenservice wird ins Ausland *verlagert*.
+  Customer service will be *transferred* abroad.
 
   Nous devons *transférer* ces fichiers sur une clé USB.
-  Wir müssen diese Dateien auf einen USB-Stick *überspielen*.
+  We need to transfer these files to a USB drive.
 
   L'hôpital a *transféré* trois patients aux soins intensifs.
-  Das Krankenhaus hat drei Patienten auf die Intensivstation *verlegt*.
+  The hospital *transferred* three patients to the intensive care unit.
 
   Le propriétaire a *transféré* ses droits à son fils.
-  Der Eigentümer hat seine Rechte auf seinen Sohn *übertragen*.
+  The owner *transferred* his rights to his son.
 
   La société va *transférer* sa production en Asie.
-  Die Firma wird ihre Produktion nach Asien *verlagern*.
+  The company will move its production to Asia.
 
   Le système *transfère* automatiquement l'appel vers votre mobile.
-  Das System *leitet* den Anruf automatisch auf Ihr Handy *um*.
+  The system automatically transfers the call to your mobile.
 
   Les médecins ont décidé de *transférer* le patient dans un autre service.
-  Die Ärzte haben beschlossen, den Patienten auf eine andere Station zu *verlegen*.
+  The doctors decided to transfer the patient to another department.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

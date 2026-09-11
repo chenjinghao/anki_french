@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1051
 Wort: consister
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: consister
 Femininum / Plural: ''
 IPA: \kɔ̃.sis.te\
-Definition: aus etw. bestehen, ausmachen
+Definition: Containing, consisting of, or consisting of:
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En quoi *consiste* ton travail ?
-  Worin *besteht* deine Arbeit?
+  What's your job?
 
   Son bonheur *consiste* à rendre les autres heureux.
-  Sein Glück *besteht* darin, andere glücklich zu machen.
+  His happiness lies in making others happy.
 
   Notre maison de campagne *consiste* en trois chambres et un grand jardin.
-  Unser Landhaus *besteht* aus drei Zimmern und einem großen Garten.
+  Our country house *consists of* three bedrooms and a large garden.
 
   L'erreur principale *consiste* dans une mauvaise interprétation des données.
-  Der Hauptfehler *liegt* in einer falschen Interpretation der Daten.
+  The main error is a misinterpretation of the data.
 
   Le défi *consiste* à trouver l'équilibre entre travail et vie privée.
-  Die Herausforderung *besteht* darin, die Balance zwischen Arbeit und Privatleben zu finden.
+  The challenge is to find a balance between work and private life.
 
   Cette méthode *consiste* en quatre étapes simples.
-  Diese Methode *besteht* aus vier einfachen Schritten.
+  This method *consists of* four simple steps.
 
   La solution *consiste* à prendre son temps et réfléchir calmement.
-  Die Lösung *besteht* darin, sich Zeit zu nehmen und ruhig nachzudenken.
+  The solution is to take your time and think calmly.
 
   Mon régime alimentaire *consiste* principalement en fruits et légumes.
-  Meine Ernährung *besteht* hauptsächlich aus Obst und Gemüse.
+  My diet consists mainly of fruits and vegetables.
 
   Le problème ne *consiste* pas dans le manque d'argent, mais dans sa gestion.
-  Das Problem *liegt* nicht im Geldmangel, sondern in dessen Verwaltung.
+  The problem is not the lack of money, but how to manage it.
 
   L'art *consiste* à transformer les difficultés en opportunités.
-  Die Kunst *besteht* darin, Schwierigkeiten in Chancen zu verwandeln.
+  Art is about turning difficulties into opportunities.
 
   Son emploi du temps *consiste* en trois réunions par jour.
-  Sein Zeitplan *besteht* aus drei Besprechungen pro Tag.
+  His schedule *consists of* three meetings a day.
 
   La différence *consiste* dans l'approche adoptée.
-  Der Unterschied *liegt* in der gewählten Herangehensweise.
+  The difference lies in the approach taken.
 
   Le secret du succès *consiste* à ne jamais abandonner.
-  Das Erfolgsgeheimnis *besteht* darin, niemals aufzugeben.
+  The key to success is never giving up.
 
   Cette formation *consistera* en deux modules intensifs.
-  Diese Ausbildung wird aus zwei Intensivmodulen *bestehen*.
+  This training *will consist of* two intensive modules.
 
   Le repas *consiste* en une entrée, un plat principal et un dessert.
-  Die Mahlzeit *besteht* aus einer Vorspeise, einem Hauptgericht und einem Dessert.
+  The meal *consists of* an entrance, a main course and a dessert.
 
   La difficulté *consiste* à maintenir la motivation sur le long terme.
-  Die Schwierigkeit *besteht* darin, die Motivation langfristig aufrechtzuerhalten.
+  The difficulty is maintaining motivation in the long run.
 
   Son travail *consiste* à coordonner les différentes équipes.
-  Seine Arbeit *besteht* darin, die verschiedenen Teams zu koordinieren.
+  His job is to coordinate the different teams.
 
   Le projet *consistait* en une série d'ateliers hebdomadaires.
-  Das Projekt *bestand* aus einer Reihe wöchentlicher Workshops.
+  The project *consisted of* a series of weekly workshops.
 
   La clé du bonheur *consiste* dans l'acceptation de soi.
-  Der Schlüssel zum Glück *liegt* in der Selbstakzeptanz.
+  The key to happiness is self-acceptance.
 
   Le véritable défi *consiste* à adapter nos habitudes aux changements climatiques.
-  Die wahre Herausforderung *besteht* darin, unsere Gewohnheiten an den Klimawandel anzupassen.
+  The real challenge is adapting our habits to climate change.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

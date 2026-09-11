@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 275
 Wort: quant
 Wortart: prep
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quant
 Femininum / Plural: ''
 IPA: \kɑ̃t\
-Definition: in Bezug auf, was ... betrifft
+Definition: with regard to
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les vents tempétueux ont modifié la situation *quant* aux avalanches.
-  Die stürmischen Winde haben die Situation *bezüglich* der Lawinen verändert.
+  The stormy winds changed the situation regarding avalanches.
 
   *Quant à* moi, je préfère rester à la maison ce soir.
-  *Was mich betrifft*, bleibe ich heute Abend lieber zu Hause.
+  As for me, I'd rather stay home tonight.
 
   Le professeur est optimiste *quant* aux progrès de ses élèves.
-  Der Lehrer ist *hinsichtlich* der Fortschritte seiner Schüler optimistisch.
+  The teacher is optimistic about the progress of his students.
 
   *Quant à* Pierre, il arrivera plus tard dans la soirée.
-  *Was* Pierre *angeht*, er kommt später am Abend.
+  As for Pierre, he will arrive later in the evening.
 
   Les experts restent prudents *quant* à l'évolution des prix.
-  Die Experten bleiben *bezüglich* der Preisentwicklung vorsichtig.
+  Experts remain cautious about price developments.
 
   *Quant à* partir en vacances cet été, nous n'avons pas encore décidé.
-  *Was* den Sommerurlaub *betrifft*, haben wir noch keine Entscheidung getroffen.
+  As for going on vacation this summer, we haven't decided yet.
 
   Marie hésite encore *quant* au choix de ses études.
-  Marie ist sich *hinsichtlich* ihrer Studienwahl noch unsicher.
+  Marie is still hesitant about choosing her education.
 
   *Quant au* restaurant, j'ai déjà réservé une table.
-  *Was* das Restaurant *angeht*, habe ich bereits einen Tisch reserviert.
+  *As for the* restaurant, I've already booked a table.
 
   Les médecins sont inquiets *quant* à la propagation du virus.
-  Die Ärzte sind *bezüglich* der Virusausbreitung besorgt.
+  Doctors are concerned about the spread of the virus.
 
   *Quant à* prendre le train ou la voiture, je préfère le train.
-  *Was* die Wahl zwischen Zug und Auto *betrifft*, bevorzuge ich den Zug.
+  As for taking the train or the car, I prefer the train.
 
   *Quant aux* détails du projet, nous en discuterons demain.
-  *Was* die Projektdetails *angeht*, werden wir morgen darüber sprechen.
+  *As for the* details of the project, we'll discuss them tomorrow.
 
   Les chercheurs sont divisés *quant* aux résultats de l'étude.
-  Die Forscher sind *hinsichtlich* der Studienergebnisse geteilter Meinung.
+  Researchers are divided on the results of the study.
 
   *Quant à* lui, il préfère travailler seul.
-  *Was ihn betrifft*, arbeitet er lieber alleine.
+  As for him, he prefers to work alone.
 
   Les parents sont optimistes *quant* à l'adaptation de leur enfant à l'école.
-  Die Eltern sind *bezüglich* der Eingewöhnung ihres Kindes in der Schule optimistisch.
+  Parents are optimistic about their child's adaptation to school.
 
   *Quant à* déménager dans une autre ville, elle y réfléchit encore.
-  *Was* den Umzug in eine andere Stadt *betrifft*, denkt sie noch darüber nach.
+  She's still thinking about moving to another city.
 
   *Quant aux* vacances d'hiver, nous irons probablement au ski.
-  *Was* die Winterferien *angeht*, werden wir wahrscheinlich Ski fahren gehen.
+  *As for the* winter holidays, we'll probably go skiing.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

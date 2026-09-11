@@ -1,78 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 718
 Wort: davantage
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: davantage
 Femininum / Plural: ''
 IPA: \da.vɑ̃.taʒ\
-Definition: mehr; länger
+Definition: more; longer
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous sentons tous que nous devons travailler *davantage*.
-  Wir alle spüren, dass wir *mehr* arbeiten müssen.
+  We all feel we need to work harder.
 
   Il faut *davantage* de temps pour apprendre une langue étrangère.
-  Man braucht *mehr* Zeit, um eine Fremdsprache zu lernen.
+  It takes *more* time to learn a foreign language.
 
   Elle gagne *davantage* que son frère.
-  Sie verdient *mehr* als ihr Bruder.
+  She earns *more* than her brother.
 
   "J'aimerais en savoir *davantage* sur ce sujet."
-  "Ich würde gerne *mehr* über dieses Thema wissen."
+  "I'd like to know *more* about it".
 
   Les enfants ont besoin de dormir *davantage* que les adultes.
-  Kinder müssen *länger* schlafen als Erwachsene.
+  Children need *more* sleep than adults.
 
   Cette année, nous avons eu *davantage* de pluie que d'habitude.
-  Dieses Jahr hatten wir *mehr* Regen als gewöhnlich.
+  This year we had *more* rain than usual.
 
   Je ne peux pas attendre *davantage*, il faut partir maintenant.
-  Ich kann nicht *länger* warten, wir müssen jetzt los.
+  I can't wait any longer, we have to leave now.
 
   Il faudrait *davantage* de bénévoles pour organiser cet événement.
-  Wir bräuchten *mehr* Freiwillige, um dieses Event zu organisieren.
+  *More* volunteers would be needed to organize this event.
 
   Les experts recommandent de manger *davantage* de fruits et légumes.
-  Experten empfehlen, *mehr* Obst und Gemüse zu essen.
+  Experts recommend eating *more* fruits and vegetables.
 
   Cette nouvelle technologie nous permet d'économiser *davantage* d'énergie.
-  Diese neue Technologie erlaubt uns, *mehr* Energie zu sparen.
+  This new technology allows us to save *more* energy.
 
   Elle s'inquiète *davantage* pour les autres que pour elle-même.
-  Sie sorgt sich *mehr* um andere als um sich selbst.
+  She cares *more* about others than about herself.
 
   Avec l'expérience, on apprend à apprécier *davantage* les petites choses de la vie.
-  Mit der Erfahrung lernt man, die kleinen Dinge des Lebens *mehr* zu schätzen.
+  With experience, you learn to appreciate the little things in life *more*.
 
   Pour réussir, il faut parfois oser *davantage*.
-  Um erfolgreich zu sein, muss man manchmal *mehr* wagen.
+  Sometimes it takes *more* courage to succeed.
 
   Les citoyens demandent *davantage* de transparence de la part du gouvernement.
-  Die Bürger fordern *mehr* Transparenz von der Regierung.
+  Citizens are demanding *more* transparency from the government.
 
   Cette méthode est bien *davantage* efficace que l'ancienne.
-  Diese Methode ist *weitaus* effektiver als die alte.
+  This method is far *more* effective than the old one.
 
   Il faudrait consacrer *davantage* de ressources à la recherche médicale.
-  Man sollte *mehr* Ressourcen für die medizinische Forschung bereitstellen.
+  *More* resources should be devoted to medical research.
 
   Nous devrions nous concentrer *davantage* sur les solutions que sur les problèmes.
-  Wir sollten uns *mehr* auf die Lösungen als auf die Probleme konzentrieren.
+  We should focus *more* on solutions than on problems.
 
   Les jeunes d'aujourd'hui lisent-ils *davantage* ou moins qu'avant ?
-  Lesen die Jugendlichen von heute *mehr* oder weniger als früher?
+  Do young people today read *more* or less than before?
 
   Cette décision aura *davantage* de conséquences que nous ne le pensions.
-  Diese Entscheidung wird *mehr* Konsequenzen haben, als wir dachten.
+  This decision will have *more* consequences than we thought.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: Impliziter und eher vager Vergleich; kann nicht mit +que verwendet werden
+Notiz: |-
+  Implicit and rather vague comparison; cannot be used with +que

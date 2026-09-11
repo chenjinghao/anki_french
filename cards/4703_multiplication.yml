@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4703
 Wort: multiplication
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la multiplication
 Femininum / Plural: ''
 IPA: \myl.ti.pli.ka.sjɔ̃\
-Definition: Vermehrung, Vervielfachung
+Definition: Multiplication and multiplication
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'avais prédit une *multiplication* de travail pour l'automne.
-  Ich hatte eine *Vermehrung* der Arbeit für den Herbst vorhergesagt.
+  I had predicted an increase in work for the fall.
 
   Les élèves apprennent les *tables de multiplication* par cœur.
-  Die Schüler lernen das *Einmaleins* auswendig.
+  Students learn *multiplication tables* by heart.
 
   La *multiplication* cellulaire est à la base de la croissance des organismes.
-  Die Zell*vermehrung* ist die Grundlage für das Wachstum von Organismen.
+  Cell *multiplication* is the basis of organism growth.
 
   Le résultat de cette *multiplication* est incorrect.
-  Das Ergebnis dieser *Multiplikation* ist falsch.
+  The result of this *multiplication* is incorrect.
 
   La *multiplication* des accidents routiers inquiète les autorités.
-  Die *Zunahme* der Verkehrsunfälle beunruhigt die Behörden.
+  The increase in traffic accidents worries the authorities.
 
   Les bactéries se reproduisent par *multiplication* asexuée.
-  Bakterien pflanzen sich durch ungeschlechtliche *Vermehrung* fort.
+  Bacteria reproduce through asexual *multiplication*.
 
   La *multiplication* des options complique le choix.
-  Die *Vermehrung* der Optionen erschwert die Entscheidung.
+  The *multiplication* of options complicates the choice.
 
   Elle maîtrise parfaitement les *multiplications* de fractions.
-  Sie beherrscht das *Multiplizieren* von Brüchen perfekt.
+  She's perfectly good at multiplying fractions.
 
   La *multiplication* des cas de grippe a saturé les hôpitaux.
-  Die *Zunahme* der Grippefälle hat die Krankenhäuser überlastet.
+  The increase in flu cases has saturated hospitals.
 
   Le professeur explique la *multiplication* des nombres entiers.
-  Der Lehrer erklärt die *Multiplikation* von ganzen Zahlen.
+  The professor explains the *multiplication* of integers.
 
   La *multiplication* végétative permet de reproduire cette plante facilement.
-  Die vegetative *Vermehrung* erlaubt es, diese Pflanze einfach zu vermehren.
+  The *multiplication* of vegetation makes it easy to reproduce this plant.
 
   Le miracle de la *multiplication* des pains nourrit des milliers de personnes.
-  Das Wunder der Brot*vermehrung* ernährte Tausende von Menschen.
+  The miracle of the *multiplication* of the loaves feeds thousands.
 
   La *multiplication* des débats télévisés fatigue les électeurs.
-  Die *Zunahme* der Fernsehdebatten ermüdet die Wähler.
+  The increase in television debates is tiring voters.
 
   Les ingénieurs ont calculé le *rapport de multiplication* des poulies.
-  Die Ingenieure haben das *Übersetzungsverhältnis* der Riemenscheiben berechnet.
+  The engineers have calculated the ratio of the pollies multiplied.
 
   La *multiplication* des levures est visible au microscope.
-  Die *Vermehrung* der Hefen ist unter dem Mikroskop sichtbar.
+  The *multiplication* of yeasts is visible under a microscope.
 
   Cette *multiplication* à deux chiffres pose problème aux débutants.
-  Diese zweistellige *Multiplikation* bereitet Anfängern Schwierigkeiten.
+  This double-digit *multiplication* is a problem for beginners.
 
   La *multiplication* des miroirs crée une illusion d'infini.
-  Die *Vervielfachung* der Spiegel erzeugt eine unendliche Illusion.
+  The *multiplication* of mirrors creates an illusion of infinity.
 
   Le vélo utilise différents *rapports de multiplication* pour faciliter le pédalage.
-  Das Fahrrad verwendet verschiedene *Übersetzungsverhältnisse*, um das Treten zu erleichtern.
+  The bike uses different *multiplication ratios* to facilitate pedaling.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

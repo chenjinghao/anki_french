@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3340
 Wort: difficilement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: difficilement
 Femininum / Plural: ''
 IPA: \di.fi.sil.mɑ̃\
-Definition: mit Schwierigkeiten, kaum
+Definition: With difficulties, hardly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Leur insatiabilité les rend parfois *difficilement* supportables.
-  Ihre Unersättlichkeit macht sie manchmal *kaum* erträglich.
+  Their insatiability sometimes makes them hard to bear.
 
   Cette écriture est *difficilement* lisible à cause de sa petite taille.
-  Diese Schrift ist wegen ihrer kleinen Größe *schwer* lesbar.
+  This writing is difficult to read because of its small size.
 
   Il s'exprime *difficilement* en français, mais il fait des progrès.
-  Er drückt sich im Französischen *mit Schwierigkeiten* aus, aber er macht Fortschritte.
+  He has difficulty speaking French, but he is making progress.
 
   On peut *difficilement* lui refuser cette faveur après tout ce qu'il a fait.
-  Man kann ihm diese Gefälligkeit *kaum* verweigern nach allem, was er getan hat.
+  It's hard to deny him that favor after all he's done.
 
   Ma grand-mère marche *difficilement* depuis sa chute.
-  Meine Großmutter geht seit ihrem Sturz nur *mit großer Mühe*.
+  My grandmother has had a hard time walking since she fell.
 
   Les enfants acceptent *difficilement* le divorce de leurs parents.
-  Kinder akzeptieren die Scheidung ihrer Eltern nur *schwer*.
+  Children have a hard time accepting their parents' divorce.
 
   Elle entend *difficilement* depuis son infection à l'oreille.
-  Sie hört seit ihrer Ohreninfektion nur *mit Mühe*.
+  She's hard of hearing since her ear infection.
 
   Ces nouvelles règles sont *difficilement* applicables dans la pratique.
-  Diese neuen Regeln sind in der Praxis *schwer* anwendbar.
+  These new rules are difficult to apply in practice.
 
   Le petit Thomas mange *difficilement* ses légumes.
-  Der kleine Thomas isst sein Gemüse nur *mit Mühe*.
+  Little Thomas has a hard time eating his vegetables.
 
   On trouve *difficilement* un parking en centre-ville le samedi.
-  Man findet am Samstag in der Innenstadt *kaum* einen Parkplatz.
+  It's hard to find a parking space downtown on a Saturday.
 
   Ces conditions sont *difficilement* négociables.
-  Diese Bedingungen sind *schwer* verhandelbar.
+  These conditions are difficult to negotiate.
 
   Le train avançait *difficilement* dans la tempête de neige.
-  Der Zug kam im Schneesturm nur *mühsam* voran.
+  The train was moving with difficulty in the snowstorm.
 
   Je peux *difficilement* imaginer ma vie sans musique.
-  Ich kann mir mein Leben *kaum* ohne Musik vorstellen.
+  I can *hardly* imagine my life without music.
 
   Cette solution est *difficilement* envisageable pour notre budget.
-  Diese Lösung ist für unser Budget *schwer* vorstellbar.
+  This solution is *hardly* feasible for our budget.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

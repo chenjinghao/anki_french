@@ -1,92 +1,92 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4790
 Wort: médiation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la médiation
 Femininum / Plural: ''
 IPA: \me.dja.sjɔ̃\
-Definition: Schlichtung, Vermittlung
+Definition: Arbitration and mediation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les tentatives américaines de *médiation* ont continué.
-  Die amerikanischen *Vermittlungs*versuche wurden fortgesetzt.
+  U.S. *mediation* efforts have continued.
 
   Le service de *médiation* des dettes aide les gens à gérer leurs problèmes financiers.
-  Die Schuldner*beratung* hilft Menschen bei ihren finanziellen Problemen.
+  The debt *mediation* service helps people deal with their financial problems.
 
   La *médiation* entre les deux pays a été confiée à l'ONU.
-  Die *Vermittlung* zwischen den beiden Ländern wurde der UNO übertragen.
+  The *mediation* between the two countries has been entrusted to the UN.
 
   Grâce à la *médiation* du syndicat, la grève a pris fin.
-  Dank der *Schlichtung* durch die Gewerkschaft wurde der Streik beendet.
+  Thanks to the union's *mediation*, the strike ended.
 
   Le ministre des Affaires étrangères a proposé sa *médiation* dans ce conflit.
-  Der Außenminister bot seine *Vermittlung* in diesem Konflikt an.
+  The Minister of Foreign Affairs has proposed *mediation* in this conflict.
 
   La *médiation* culturelle permet aux jeunes de découvrir l'art moderne.
-  Durch die kulturelle *Vermittlung* können junge Menschen moderne Kunst entdecken.
+  Cultural *mediation* enables young people to discover modern art.
 
   L'association propose une *médiation* familiale pour les couples en difficulté.
-  Der Verein bietet *Schlichtung* für Paare in Schwierigkeiten an.
+  The association offers family *mediation* for couples in difficulty.
 
   La *médiation* par vidéoconférence devient de plus en plus courante.
-  *Schlichtung* per Videokonferenz wird immer häufiger.
+  *Mediation* by videoconference is becoming increasingly common.
 
   Sans *médiation* extérieure, les négociations n'auraient pas abouti.
-  Ohne externe *Vermittlung* wären die Verhandlungen nicht erfolgreich gewesen.
+  Without external *mediation*, the negotiations would not have been successful.
 
   La *médiation* scolaire aide à résoudre les conflits entre élèves.
-  Die schulische *Schlichtung* hilft bei der Lösung von Konflikten zwischen Schülern.
+  School *mediation* helps to resolve conflicts between students.
 
   Le processus de *médiation* a duré trois mois.
-  Der *Schlichtungs*prozess dauerte drei Monate.
+  The *mediation* process took three months.
 
   Une nouvelle proposition de *médiation* a été présentée hier.
-  Gestern wurde ein neuer *Vermittlungs*vorschlag vorgelegt.
+  A new proposal for *mediation* was tabled yesterday.
 
   La *médiation* par internet facilite la résolution des conflits.
-  Online-*Schlichtung* erleichtert die Konfliktlösung.
+  Internet *mediation* makes it easier to resolve conflicts.
 
   Le centre de *médiation* est ouvert du lundi au vendredi.
-  Die *Schlichtungs*stelle ist von Montag bis Freitag geöffnet.
+  The *mediation* centre is open from Monday to Friday.
 
   La *médiation* internationale a permis d'éviter une guerre.
-  Die internationale *Vermittlung* hat einen Krieg verhindert.
+  International *mediation* has prevented war.
 
   L'entreprise fait appel à la *médiation* pour régler ses différends.
-  Das Unternehmen nutzt *Schlichtung* zur Beilegung von Streitigkeiten.
+  The company applies to *mediation* to settle its disputes.
 
   Les services de *médiation* sont gratuits pour les citoyens.
-  Die *Schlichtungs*dienste sind für Bürger kostenlos.
+  *Mediation* services are free for citizens.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>arbitrage</i> und <i>médiation</i></div>
+    <div class="section-title"><i>arbitrage</i> and <i>médiation</i></div>
     <div class="section-content">
-      <p><span class="fr">Arbitrage</span> (#3443) bezeichnet ein <span class="de">"Schiedsverfahren"</span>, bei dem ein neutraler Schiedsrichter eine verbindliche Entscheidung zur Lösung eines Konflikts trifft.</p>
+      <p><span class="fr">Arbitrage</span> (#3443) refers to a <span class="de">'Arbitration proceedings'</span>, where a neutral arbitrator makes a binding decision to resolve a conflict.</p>
       <div class="examples">
         <div class="fr">Les deux entreprises ont eu recours à l'arbitrage pour résoudre leur différend commercial.</div>
-        <div class="de spoiler">Die beiden Unternehmen haben ein Schiedsverfahren zur Lösung ihres Handelsstreits eingeleitet.</div>
+        <div class="de spoiler">The two companies have initiated an arbitration procedure to resolve their trade dispute.</div>
         <div class="fr">La décision d'arbitrage est définitive et contraignante.</div>
-        <div class="de spoiler">Der Schiedsspruch ist endgültig und bindend.</div>
+        <div class="de spoiler">The arbitration is final and binding.</div>
       </div>
-      <p><span class="fr">Médiation</span> bezeichnet eine <span class="de">"Vermittlung"</span>, bei der ein neutraler Mediator die Parteien dabei unterstützt, selbst eine einvernehmliche Lösung zu finden.</p>
+      <p><span class="fr">Médiation</span> refers to a <span class="de">'Mediation'</span>A neutral mediator helps the parties to find a consensual solution themselves.</p>
       <div class="examples">
         <div class="fr">Le couple a choisi la médiation pour leur divorce à l'amiable.</div>
-        <div class="de spoiler">Das Paar entschied sich für eine Mediation für ihre einvernehmliche Scheidung.</div>
+        <div class="de spoiler">The couple decided to mediate for their consensual divorce.</div>
         <div class="fr">Le médiateur facilite le dialogue sans imposer de solution.</div>
-        <div class="de spoiler">Der Mediator erleichtert den Dialog, ohne eine Lösung aufzuzwingen.</div>
+        <div class="de spoiler">The mediator facilitates dialogue without imposing a solution.</div>
       </div>
-      <p>Der Hauptunterschied liegt darin, dass beim <span class="fr">arbitrage</span> eine bindende Entscheidung von außen getroffen wird, während bei der <span class="fr">médiation</span> die Parteien selbst zu einer Einigung gelangen sollen.</p>
+      <p>The main difference is that when <span class="fr">arbitrage</span> a binding decision is taken from outside, while the <span class="fr">médiation</span> the parties themselves to reach an agreement.</p>
     </div>
   </div>

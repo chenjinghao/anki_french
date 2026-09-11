@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 851
 Wort: commune
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la commune
 Femininum / Plural: ''
 IPA: \kɔ.myn\
-Definition: Gemeinde
+Definition: Municipality
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il s'agit là d'une responsabilité *commune*.
-  Das ist eine *gemeinsame* Verantwortung.
+  This is a shared responsibility.
 
   La *commune* de Bordeaux organise un festival de musique cet été.
-  Die *Gemeinde* Bordeaux organisiert diesen Sommer ein Musikfestival.
+  The municipality of Bordeaux is organising a music festival this summer.
 
   Le maire préside le conseil municipal de notre *commune*.
-  Der Bürgermeister leitet den Gemeinderat unserer *Kommune*.
+  The mayor presides over the municipal council of our municipality.
 
   Les habitants de cette petite *commune* rurale se connaissent tous.
-  Die Einwohner dieser kleinen ländlichen *Gemeinde* kennen sich alle.
+  The inhabitants of this small rural town all know each other.
 
   La *Commune* de Paris a marqué l'histoire de France en 1871.
-  Die Pariser *Kommune* hat 1871 die französische Geschichte geprägt.
+  The Paris Commune marked the history of France in 1871.
 
   "Notre *commune* manque de fonds pour rénover l'école", a déclaré le maire.
-  "Unserer *Gemeinde* fehlen die Mittel, um die Schule zu renovieren", erklärte der Bürgermeister.
+  "Our municipality lacks funds to renovate the school", said the mayor.
 
   La fusion des *communes* voisines a été votée par les conseils municipaux.
-  Die Fusion der benachbarten *Gemeinden* wurde von den Gemeinderäten beschlossen.
+  The merger of the neighbouring municipalities was approved by the municipal councils.
 
   Au Moyen Âge, certaines *communes* jouissaient de privilèges importants.
-  Im Mittelalter genossen einige *Kommunen* bedeutende Privilegien.
+  In the Middle Ages, some municipalities enjoyed important privileges.
 
   Les élections municipales déterminent qui dirigera la *commune* pour les six prochaines années.
-  Die Kommunalwahlen bestimmen, wer die *Gemeinde* für die nächsten sechs Jahre leiten wird.
+  Municipal elections determine who will lead the municipality for the next six years.
 
   La *Chambre des communes* a voté une nouvelle loi sur l'environnement.
-  Das *Unterhaus* hat ein neues Umweltgesetz verabschiedet.
+  The House of Commons has passed a new environmental law.
 
   Les services de la *commune* sont fermés aujourd'hui en raison d'une grève.
-  Die Dienststellen der *Gemeinde* sind heute wegen eines Streiks geschlossen.
+  Municipal services are closed today due to a strike.
 
   Cette *commune* a reçu un prix pour ses initiatives écologiques.
-  Diese *Gemeinde* hat einen Preis für ihre ökologischen Initiativen erhalten.
+  This municipality has received an award for its environmental initiatives.
 
   La *commune* a décidé d'investir dans la construction d'une nouvelle bibliothèque.
-  Die *Gemeinde* hat beschlossen, in den Bau einer neuen Bibliothek zu investieren.
+  The municipality decided to invest in the construction of a new library.
 
   Les citoyens peuvent consulter le budget de la *commune* en ligne.
-  Die Bürger können den Haushalt der *Gemeinde* online einsehen.
+  Citizens can consult the municipality's budget online.
 
   La fête de la *commune* aura lieu le premier week-end de juillet.
-  Das *Gemeinde*fest findet am ersten Juliwochenende statt.
+  The municipality's celebration will take place on the first weekend of July.
 
   *Les Communes* canadiennes ont débattu d'un projet de loi controversé.
-  Das kanadische *Unterhaus* hat über einen umstrittenen Gesetzentwurf debattiert.
+  The Canadian Commons debated a controversial bill.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

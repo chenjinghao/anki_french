@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3704
 Wort: détresse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la détresse
 Femininum / Plural: ''
 IPA: \de.tʁɛs\
-Definition: Not, Verzweiflung
+Definition: Hardship, Despair
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous répondons à votre signal de *détresse*.
-  Wir antworten auf Ihr *Not*signal.
+  We're responding to your *distress* signal.
 
   L'équipage a émis des signaux de *détresse* avant le crash.
-  Die Besatzung sendete *Not*signale vor dem Absturz.
+  The crew issued *distress* signals before the crash.
 
   Le navire en *détresse* dérivait depuis trois jours.
-  Das in See*not* befindliche Schiff trieb seit drei Tagen.
+  The ship had been in trouble for three days.
 
   Les feux de *détresse* de la voiture clignotaient sur l'autoroute.
-  Die *Warn*lichter des Autos blinkten auf der Autobahn.
+  The car's *distress* lights were flashing on the freeway.
 
   Le patient est en *détresse* respiratoire depuis ce matin.
-  Der Patient ist seit heute Morgen in *Not*atmung.
+  The patient has been in respiratory *distress* since this morning.
 
   Son cri de *détresse* a résonné dans tout le bâtiment.
-  Ihr *Hilfe*schrei hallte durch das ganze Gebäude.
+  His cry of *distress* resounded throughout the building.
 
   Cette âme en *détresse* cherche désespérément de l'aide.
-  Diese *verzweifelte* Seele sucht dringend Hilfe.
+  This distressed soul desperately seeks help.
 
   La *détresse* des réfugiés nous a profondément touchés.
-  Die *Not* der Flüchtlinge hat uns tief berührt.
+  We were deeply affected by the plight of refugees.
 
   Elle a ressenti une profonde *détresse* après la perte de son emploi.
-  Sie empfand tiefe *Verzweiflung* nach dem Verlust ihrer Arbeit.
+  She was deeply distressed after losing her job.
 
   Les secouristes ont reçu un appel de *détresse* à minuit.
-  Die Rettungskräfte erhielten um Mitternacht einen *Not*ruf.
+  Emergency responders received a *distress* call at midnight.
 
   La *détresse* psychologique des étudiants inquiète les professeurs.
-  Die psychische *Not* der Studenten beunruhigt die Lehrer.
+  The psychological *distress* of the students worries the teachers.
 
   Un pêcheur a aperçu la balise de *détresse* au large des côtes.
-  Ein Fischer entdeckte die *Not*bake vor der Küste.
+  A fisherman spotted the *distress* signal off the coast.
 
   La *détresse* des populations sinistrées empire chaque jour.
-  Die *Not* der Katastrophenopfer verschlimmert sich jeden Tag.
+  The plight of disaster victims is getting worse every day.
 
   Le pilote a signalé une *détresse* technique avant l'atterrissage.
-  Der Pilot meldete eine technische *Not*lage vor der Landung.
+  The pilot reported a technical problem before landing.
 
   Cette famille dans la *détresse* a besoin d'aide immédiate.
-  Diese Familie in *Not* braucht sofortige Hilfe.
+  This family in *distress* needs immediate help.
 
   Le médecin surveille la *détresse* cardiaque du patient.
-  Der Arzt überwacht die Herz*not* des Patienten.
+  The doctor monitors the patient's heart condition.
 
   Les associations luttent contre la *détresse* alimentaire.
-  Die Vereine kämpfen gegen die Ernährungs*not*.
+  Organisations are fighting against food insecurity.
 
   Sa *détresse* émotionnelle était visible sur son visage.
-  Ihre emotionale *Verzweiflung* war in ihrem Gesicht zu sehen.
+  Her emotional *distress* was visible on her face.
 
   Le train en *détresse* a été secouru rapidement.
-  Der *havarierende* Zug wurde schnell gerettet.
+  The train in *distress* was rescued quickly.
 
   La *détresse* des sans-abri s'aggrave pendant l'hiver.
-  Die *Not* der Obdachlosen verschlimmert sich im Winter.
+  The plight of the homeless increases during the winter.
 
   Ce poème exprime toute la *détresse* de l'auteur.
-  Dieses Gedicht drückt die ganze *Verzweiflung* des Autors aus.
+  This poem expresses all the author's *distress*.
 
   Il a lancé un signal de *détresse* sur les réseaux sociaux.
-  Er sendete ein *Not*signal in den sozialen Medien.
+  He sent out a *distress* signal on social media.
 
   Les bénévoles soulagent la *détresse* des personnes âgées isolées.
-  Die Freiwilligen lindern die *Not* der isolierten älteren Menschen.
+  Volunteers relieve the *distress* of isolated elderly people.
 
   La *détresse* financière pousse certains au désespoir.
-  Die finanzielle *Not* treibt manche in die Verzweiflung.
+  Financial *distress* has led some to despair.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

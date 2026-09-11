@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3383
 Wort: reconnaissant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: reconnaissant
 Femininum / Plural: reconnaissante
 IPA: \ʁə.kɔ.nɛ.sɑ̃\
-Definition: dankbar
+Definition: Thankful
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous avons de quoi être *reconnaissants*.
-  Wir haben Grund, *dankbar* zu sein.
+  We have something to be *thankful* for.
 
   Je vous suis très *reconnaissant* de votre aide précieuse.
-  Ich bin Ihnen für Ihre wertvolle Hilfe sehr *dankbar*.
+  I am very *grateful* for your valuable help.
 
   Elle sera toujours *reconnaissante* envers ses parents qui l'ont soutenue.
-  Sie wird ihren Eltern, die sie unterstützt haben, immer *dankbar* sein.
+  She will always be *grateful* to her parents for supporting her.
 
   Les enfants ne sont pas toujours *reconnaissants* des sacrifices de leurs parents.
-  Kinder sind nicht immer *dankbar* für die Opfer ihrer Eltern.
+  Children are not always grateful for their parents' sacrifices.
 
   Je vous serais *reconnaissant* de bien vouloir me répondre avant lundi.
-  Ich wäre Ihnen *dankbar*, wenn Sie mir bis Montag antworten könnten.
+  I'd appreciate it if you'd answer me by Monday.
 
   Marie s'est montrée très *reconnaissante* du cadeau.
-  Marie zeigte sich für das Geschenk sehr *dankbar*.
+  Marie was very *grateful* for the gift.
 
   Soyez *reconnaissant* pour les petites choses de la vie.
-  Seien Sie für die kleinen Dinge im Leben *dankbar*.
+  Be *grateful* for the little things in life.
 
   Je te suis *reconnaissante* d'avoir gardé mon secret.
-  Ich bin dir *dankbar*, dass du mein Geheimnis bewahrt hast.
+  I'm thankful you kept my secret.
 
   Nous sommes *reconnaissants* à tous ceux qui ont participé au projet.
-  Wir sind allen *dankbar*, die am Projekt mitgewirkt haben.
+  We are grateful to everyone who participated in the project.
 
   Il n'était pas très *reconnaissant* malgré tout ce qu'on avait fait pour lui.
-  Er war nicht sehr *dankbar*, trotz allem, was wir für ihn getan hatten.
+  He wasn't very *grateful* despite everything we had done for him.
 
   Je lui serai éternellement *reconnaissante* de m'avoir sauvé la vie.
-  Ich werde ihr ewig *dankbar* sein, dass sie mir das Leben gerettet hat.
+  I'll be forever *grateful* to him for saving my life.
 
   La population s'est montrée *reconnaissante* envers les médecins pendant la crise.
-  Die Bevölkerung zeigte sich während der Krise gegenüber den Ärzten *dankbar*.
+  The population was *grateful* to the doctors during the crisis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

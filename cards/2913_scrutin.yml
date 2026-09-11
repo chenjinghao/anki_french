@@ -1,98 +1,98 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2913
 Wort: scrutin
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le scrutin
 Femininum / Plural: ''
 IPA: \skʁy.tɛ̃\
-Definition: Wahl(-gang), Abstimmung
+Definition: vote
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous établirions des dates de *scrutin* fixes.
-  Wir würden feste *Wahl*termine einführen.
+  We'd set fixed voting dates.
 
   Le prochain *scrutin* présidentiel aura lieu dans deux ans.
-  Die nächste Präsidentschafts*wahl* findet in zwei Jahren statt.
+  The next presidential *election* will take place in two years.
 
   Les électeurs se sont rendus aux urnes pour participer au *scrutin* local.
-  Die Wähler gingen zu den Urnen, um an der lokalen *Abstimmung* teilzunehmen.
+  Voters went to the polls to participate in the local elections.
 
   Le mode de *scrutin* a une grande influence sur les résultats électoraux.
-  Das Wahl*system* hat einen großen Einfluss auf die Wahlergebnisse.
+  The voting system has a great influence on the *election* results.
 
   Les observateurs internationaux ont surveillé le déroulement du *scrutin*.
-  Internationale Beobachter überwachten den Ablauf der *Wahl*.
+  International observers have been monitoring the *election*.
 
   Le dépouillement du *scrutin* a commencé dès la fermeture des bureaux de vote.
-  Die Auszählung der *Stimmen* begann unmittelbar nach Schließung der Wahllokale.
+  The deprivation of voting rights began as soon as the polling stations were closed.
 
   La France utilise un *scrutin* majoritaire à deux tours pour les élections présidentielles.
-  Frankreich verwendet ein Mehrheits*wahl*system mit zwei Wahlgängen für die Präsidentschaftswahlen.
+  France uses a two-round majority vote for presidential elections.
 
   Le parti d'opposition a contesté la légitimité du *scrutin*.
-  Die Oppositionspartei hat die Rechtmäßigkeit der *Abstimmung* angefochten.
+  The opposition party challenged the legitimacy of the vote.
 
   Les résultats du *scrutin* seront annoncés demain matin.
-  Die Ergebnisse der *Wahl* werden morgen früh bekannt gegeben.
+  The results of the vote will be announced tomorrow morning.
 
   Le *scrutin* proportionnel favorise la représentation des petits partis.
-  Das Verhältnis*wahl*system begünstigt die Vertretung kleinerer Parteien.
+  Proportional voting promotes the representation of small parties.
 
   Les électeurs doivent présenter une pièce d'identité pour participer au *scrutin*.
-  Die Wähler müssen einen Ausweis vorlegen, um an der *Abstimmung* teilnehmen zu können.
+  Voters must present an identity document to participate in the vote.
 
   Le taux de participation au *scrutin* a été particulièrement élevé cette année.
-  Die *Wahl*beteiligung bei der Wahl war dieses Jahr besonders hoch.
+  The voter turnout rate was particularly high this year.
 
   Les candidats font campagne jusqu'à la veille du *scrutin*.
-  Die Kandidaten führen Wahlkampf bis zum Vorabend der *Abstimmung*.
+  Candidates campaign until the day before the *election*.
 
   Le changement de mode de *scrutin* a été vivement débattu au Parlement.
-  Die Änderung des Wahl*systems* wurde im Parlament heftig diskutiert.
+  The change in the voting system was hotly debated in Parliament.
 
   Les bulletins de vote seront comptés manuellement lors de ce *scrutin*.
-  Die Stimmzettel werden bei dieser *Wahl* manuell ausgezählt.
+  The ballots will be counted manually during this *election*.
 
   Le *scrutin* a été reporté en raison de conditions météorologiques exceptionnelles.
-  Die *Abstimmung* wurde aufgrund außergewöhnlicher Wetterbedingungen verschoben.
+  The vote was postponed due to exceptional weather conditions.
 
   Les sondages prédisent un *scrutin* serré entre les deux principaux candidats.
-  Die Umfragen sagen eine knappe *Wahl* zwischen den beiden Hauptkandidaten voraus.
+  The polls predict a close *election* between the top two candidates.
 
   Le Conseil constitutionnel a validé les résultats du *scrutin* législatif.
-  Der Verfassungsrat hat die Ergebnisse der Parlaments*wahl* bestätigt.
+  The Constitutional Council has validated the results of the legislative vote.
 
   L'introduction du vote électronique a modifié l'organisation du *scrutin*.
-  Die Einführung der elektronischen Stimmabgabe hat den Ablauf der *Wahl* verändert.
+  The introduction of electronic voting has changed the way voting is organised.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>scrutin</i> und <i>élection</i></div>
+    <div class="section-title"><i>scrutin</i> and <i>élection</i></div>
     <div class="section-content">
-      <p><span class="fr">Scrutin</span> bezieht sich auf den Wahlvorgang selbst oder die Art und Weise, wie eine Wahl durchgeführt wird. Es kann als <span class="de">"Abstimmung"</span> oder <span class="de">"Wahlgang"</span> übersetzt werden.</p>
+      <p><span class="fr">Scrutin</span> It refers to the electoral process itself or the way in which an election is conducted. <span class="de">'Voting'</span> or <span class="de">'Election'</span> I would like to see it translated.</p>
       <div class="examples">
         <div class="fr">Le scrutin se déroulera dimanche prochain.</div>
-        <div class="de spoiler">Die Abstimmung findet am nächsten Sonntag statt.</div>
+        <div class="de spoiler">The vote will take place next Sunday.</div>
         <div class="fr">On a procédé à un scrutin à bulletin secret.</div>
-        <div class="de spoiler">Es wurde eine geheime Abstimmung durchgeführt.</div>
+        <div class="de spoiler">There was a secret ballot.</div>
       </div>
-      <p><span class="fr">Élection</span> (#862) bezieht sich auf den gesamten Wahlprozess, einschließlich der Kampagne und des Ergebnisses. Es wird als <span class="de">"Wahl"</span> übersetzt.</p>
+      <p><span class="fr">Élection</span> #862 refers to the entire electoral process, including the campaign and the result. <span class="de">"Choose"</span> translated.</p>
       <div class="examples">
         <div class="fr">Les élections présidentielles auront lieu l'année prochaine.</div>
-        <div class="de spoiler">Die Präsidentschaftswahlen finden nächstes Jahr statt.</div>
+        <div class="de spoiler">The presidential election will take place next year.</div>
         <div class="fr">Son élection a surpris beaucoup d'observateurs politiques.</div>
-        <div class="de spoiler">Seine Wahl hat viele politische Beobachter überrascht.</div>
+        <div class="de spoiler">His election surprised many political observers.</div>
       </div>
-      <p>Während <span class="fr">scrutin</span> sich mehr auf den technischen Aspekt der Stimmabgabe konzentriert, umfasst <span class="fr">élection</span> den breiteren Kontext des Wahlprozesses.</p>
+      <p>In the meantime <span class="fr">scrutin</span> More focused on the technical aspect of voting, includes: <span class="fr">élection</span> the broader context of the electoral process.</p>
     </div>
   </div>

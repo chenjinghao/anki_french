@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2615
 Wort: file
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la file
 Femininum / Plural: ''
 IPA: \fil\
-Definition: Reihe
+Definition: Number of rows
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les fichiers seront placés dans la *file* d'attente.
-  Die Dateien werden in die Warte*schlange* eingereiht.
+  The files will be placed in the queue.
 
   Il y a une longue *file* devant la billetterie du musée.
-  Vor der Museumskasse steht eine lange *Schlange*.
+  There's a long line in front of the museum ticket office.
 
   La voiture est garée en double *file* devant le magasin.
-  Das Auto steht in zweiter *Reihe* vor dem Laden.
+  The car is parked in double queue in front of the store.
 
   Les enfants marchent *en file indienne* dans le couloir.
-  Die Kinder laufen *im Gänsemarsch* durch den Flur.
+  The children are walking *in the Indian queue* down the hall.
 
   Cette entreprise est le *chef de file* dans son secteur.
-  Dieses Unternehmen ist der *Vorreiter* in seiner Branche.
+  This company is a leader in its sector.
 
   Les voitures roulent sur trois *files* sur l'autoroute.
-  Die Autos fahren auf drei *Spuren* auf der Autobahn.
+  Cars are running in three *rows* on the freeway.
 
   Une *file* de maisons blanches longe la plage.
-  Eine *Reihe* weißer Häuser säumt den Strand.
+  There's a line of white houses along the beach.
 
   Veuillez vous mettre dans la *file* de droite pour sortir.
-  Bitte ordnen Sie sich auf der rechten *Spur* zum Ausfahren ein.
+  Please line up to the right to exit.
 
   Les étudiants se sont mis en *file* pour entrer dans l'amphithéâtre.
-  Die Studenten haben sich in einer *Reihe* aufgestellt, um in den Hörsaal zu gehen.
+  The students lined up to enter the amphitheater.
 
   Une longue *file* de fourmis traverse le jardin.
-  Eine lange *Reihe* Ameisen durchquert den Garten.
+  A long line of ants runs through the garden.
 
   Il a bu trois cafés *à la file*.
-  Er hat drei Kaffees *hintereinander* getrunken.
+  He drank three cups of coffee in a row.
 
   La *file* d'attente avance très lentement aujourd'hui.
-  Die Warte*schlange* bewegt sich heute sehr langsam.
+  The queue is moving very slowly today.
 
   Les manifestants forment une *file* qui s'étend sur plusieurs kilomètres.
-  Die Demonstranten bilden eine *Reihe*, die sich über mehrere Kilometer erstreckt.
+  Protesters are lined up for several kilometers.
 
   Ne coupez pas la *file*, s'il vous plaît.
-  Bitte drängeln Sie sich nicht in der *Schlange* vor.
+  Don't cut the line, please.
 
   Une *file* de spectateurs attend devant le théâtre depuis ce matin.
-  Eine *Schlange* von Zuschauern wartet seit heute Morgen vor dem Theater.
+  A line of spectators has been waiting outside the theater since this morning.
 
   Je préfère prendre la *file* de gauche, il y a moins de circulation.
-  Ich fahre lieber auf der linken *Spur*, da ist weniger Verkehr.
+  I'd rather take the left row, there's less traffic.
 
   Les oiseaux migrateurs volent *en file*.
-  Die Zugvögel fliegen *in Formation*.
+  Migratory birds are lined up.
 
   Une longue *file* de camions est bloquée à la frontière.
-  Eine lange *Kolonne* von Lastwagen steckt an der Grenze fest.
+  A long line of trucks is stuck at the border.
 
   Les clients font la *file* devant le nouveau restaurant.
-  Die Kunden stehen vor dem neuen Restaurant *Schlange*.
+  Guests line up in front of the new restaurant.
 
   Le policier demande aux voitures de serrer la *file*.
-  Der Polizist fordert die Autos auf, die *Reihe* enger zu machen.
+  The policeman asks the cars to line up.
 
   Les élèves se rangent *en file* dans la cour de récréation.
-  Die Schüler stellen sich auf dem Pausenhof *in Reih und Glied* auf.
+  The students line up in the recreation yard.
 
   Une *file* de panneaux publicitaires borde la route.
-  Eine *Reihe* von Werbetafeln säumt die Straße.
+  There's a line of billboards along the road.
 
   "Regardez cette *file* interminable !"
-  "Schaut euch diese endlose *Schlange* an!"
+  "Look at this endless line!"
 
   Les taxis attendent en *file* devant la gare.
-  Die Taxis warten in einer *Reihe* vor dem Bahnhof.
+  Taxis are lined up in front of the train station.
 
   Il faut respecter la *file* d'attente.
-  Man muss die Warte*schlange* respektieren.
+  The queue must be respected.
 
   La *file* de voitures s'étend jusqu'au prochain village.
-  Die Auto*schlange* reicht bis zum nächsten Dorf.
+  The line of cars extends to the next village.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

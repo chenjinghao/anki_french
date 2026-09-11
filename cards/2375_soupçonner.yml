@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2375
 Wort: soupçonner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: soupçonner
 Femininum / Plural: ''
 IPA: \sup.sɔ.ne\
-Definition: verdächtigen
+Definition: to suspect
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comme elle le *soupçonnait*, il souffrait de douleurs.
-  Wie sie *vermutet* hatte, litt er unter Schmerzen.
+  As she suspected, he was in pain.
 
   La police *soupçonne* le voisin d'avoir volé la voiture.
-  Die Polizei *verdächtigt* den Nachbarn, das Auto gestohlen zu haben.
+  Police suspect the neighbor stole the car.
 
   Je *soupçonne* qu'il y a un problème avec le moteur de ma voiture.
-  Ich *ahne*, dass es ein Problem mit dem Motor meines Autos gibt.
+  I suspect there's a problem with my car's engine.
 
   Les enquêteurs *soupçonnent* une fuite de gaz comme cause de l'explosion.
-  Die Ermittler *vermuten* ein Gasleck als Ursache der Explosion.
+  Investigators suspect a gas leak was the cause of the explosion.
 
   "Je te *soupçonne* d'avoir mangé le dernier cookie !" dit-elle en riant.
-  "Ich *verdächtige* dich, den letzten Keks gegessen zu haben!", sagte sie lachend.
+  "I suspect you ate the last cookie!" she laughed.
 
   On *soupçonnait* depuis longtemps que l'entreprise fraudait le fisc.
-  Man hatte schon lange *den Verdacht*, dass das Unternehmen Steuerbetrug beging.
+  The company has long been suspected of tax evasion.
 
   Les scientifiques *soupçonnent* que le changement climatique est la cause de ces phénomènes.
-  Die Wissenschaftler *vermuten*, dass der Klimawandel die Ursache für diese Phänomene ist.
+  Scientists suspect that climate change is the cause of these phenomena.
 
   Il a été *soupçonné* de meurtre, mais finalement innocenté.
-  Er war mord*verdächtig*, wurde aber schließlich freigesprochen.
+  He was *suspected* of murder, but ultimately acquitted.
 
   Je ne *soupçonnais* pas à quel point ce travail serait difficile.
-  Ich *ahnte* nicht, wie schwierig diese Arbeit sein würde.
+  I had no idea how difficult this job would be.
 
   Le jury *soupçonne* que le candidat a triché pendant l'examen.
-  Die Jury *hegt den Verdacht*, dass der Kandidat während der Prüfung betrogen hat.
+  The jury suspects the candidate cheated during the exam.
 
   Elle *soupçonnait* son mari d'avoir une liaison, mais n'en était pas certaine.
-  Sie *verdächtigte* ihren Mann, eine Affäre zu haben, war sich aber nicht sicher.
+  She suspected her husband was having an affair, but she wasn't sure.
 
   Les autorités *soupçonnent* une organisation criminelle d'être derrière ces attaques.
-  Die Behörden *vermuten*, dass eine kriminelle Organisation hinter diesen Angriffen steckt.
+  Authorities suspect a criminal organization was behind these attacks.
 
   Je commence à *soupçonner* que mon ami me cache quelque chose.
-  Ich beginne zu *ahnen*, dass mein Freund mir etwas verheimlicht.
+  I'm starting to suspect my friend is hiding something from me.
 
   Le patron *soupçonne* que certains employés volent dans la caisse.
-  Der Chef *hat den Verdacht*, dass einige Angestellte aus der Kasse stehlen.
+  The boss suspects some employees are stealing from the safe.
 
   Personne ne *soupçonnait* l'ampleur de la catastrophe à venir.
-  Niemand *ahnte* das Ausmaß der bevorstehenden Katastrophe.
+  No one suspected the magnitude of the coming disaster.
 
   Les médecins *soupçonnent* une allergie comme cause de ces symptômes.
-  Die Ärzte *vermuten* eine Allergie als Ursache dieser Symptome.
+  Doctors suspect allergies as the cause of these symptoms.
 
   On ne peut pas le condamner simplement parce qu'on le *soupçonne*.
-  Man kann ihn nicht verurteilen, nur weil man ihn *verdächtigt*.
+  You can't convict him just because you suspect him.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3723
 Wort: carnet
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le carnet
 Femininum / Plural: ''
 IPA: \kaʁ.nɛ\
-Definition: Heft, Notizbuch
+Definition: This booklet, notebook
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'inscrivais les rendez-vous sur mon *carnet*.
-  Ich schrieb die Termine in mein *Notizbuch*.
+  I put the appointments on my notebook.
 
   As-tu vu mon *carnet* d'adresses ? Je ne le trouve plus.
-  Hast du mein Adressen*heft* gesehen? Ich kann es nicht mehr finden.
+  Have you seen my address *book*?
 
   Son *carnet* de notes est rempli de dessins au lieu d'exercices.
-  Sein *Heft* ist voller Zeichnungen statt Übungen.
+  His notebook is filled with drawings instead of exercises.
 
   "J'ai perdu mon *carnet* de santé avant le rendez-vous chez le médecin."
-  "Ich habe meinen Gesundheits*pass* vor dem Arzttermin verloren."
+  "I lost my medical record before my doctor's appointment".
 
   Je dois acheter un nouveau *carnet* de tickets de métro.
-  Ich muss mir ein neues U-Bahn-*Heft* kaufen.
+  I have to buy a new subway ticket *book*.
 
   Pendant le voyage, il écrit dans son *carnet* de bord tous les soirs.
-  Während der Reise schreibt er jeden Abend in sein Bord*buch*.
+  During the journey, he wrote in his flight *book* every night.
 
   Le mécanicien note toutes les réparations dans le *carnet* de route de la voiture.
-  Der Mechaniker notiert alle Reparaturen im Wartungs*heft* des Autos.
+  The mechanic records all repairs in the car's driver's license.
 
   Le *carnet* de vaccinations de mon fils est à jour.
-  Der Impf*pass* meines Sohnes ist auf dem neuesten Stand.
+  My son's vaccination *book* is up to date.
 
   Dans son *carnet* de bal, elle a inscrit tous ses cavaliers.
-  In ihre Ball*karte* hat sie alle ihre Tanzpartner eingetragen.
+  In her ball *book*, she wrote down all her riders.
 
   Les *carnets* de Montherlant révèlent ses pensées les plus intimes.
-  Die Tage*bücher* von Montherlant offenbaren seine intimsten Gedanken.
+  Montherlant's *notebooks* reveal his most intimate thoughts.
 
   Notre entreprise a un *carnet* de commandes bien rempli pour les six prochains mois.
-  Unser Unternehmen hat ein gut gefülltes Auftrags*buch* für die nächsten sechs Monate.
+  Our company has a well-stocked order *book* for the next six months.
 
   Le *carnet* de change doit être présenté à la douane.
-  Das Devisen*heft* muss beim Zoll vorgelegt werden.
+  The exchange *book* must be presented to the customs office.
 
   Il a acheté un *carnet* de timbres à la poste.
-  Er hat ein Briefmarken*heftchen* bei der Post gekauft.
+  He bought a *book* of stamps at the post office.
 
   Le *carnet* scolaire de ma fille montre ses progrès en mathématiques.
-  Das Schul*heft* meiner Tochter zeigt ihre Fortschritte in Mathematik.
+  My daughter's school *book* shows her progress in math.
 
   Pour obtenir une réduction, utilisez votre *carnet* d'achat.
-  Um einen Rabatt zu erhalten, benutzen Sie Ihr Einkaufs*heft*.
+  To get a discount, use your shopping card.
 
   Elle note toutes ses dépenses dans un petit *carnet*.
-  Sie notiert alle ihre Ausgaben in einem kleinen *Heft*.
+  She writes down all her expenses in a little notebook.
 
   Les *carnets* de commandes sont vides depuis la crise.
-  Die Auftrags*bücher* sind seit der Krise leer.
+  The order books have been empty since the crisis.
 
   J'ai oublié mon *carnet* de chèques à la maison.
-  Ich habe mein Scheck*heft* zu Hause vergessen.
+  I forgot my checkbook at home.
 
   Le chauffeur routier doit toujours avoir son *carnet* TIR avec lui.
-  Der LKW-Fahrer muss sein TIR-*Carnet* immer dabei haben.
+  The driver must always have his TIR card with him.
 
   Le journal a annoncé la naissance dans son *carnet* rose.
-  Die Zeitung hat die Geburt in ihrer *Rubrik* für Geburtsanzeigen bekannt gegeben.
+  The paper announced the birth in its pink notebook.
 
   Pierre garde un petit *carnet* dans sa poche pour noter ses idées.
-  Pierre bewahrt ein kleines *Notizbuch* in seiner Tasche auf, um seine Ideen festzuhalten.
+  Pierre keeps a small notebook in his pocket to write down his thoughts.
 
   Mon vieux *carnet* est plein, je dois en acheter un nouveau.
-  Mein altes *Heft* ist voll, ich muss mir ein neues kaufen.
+  My old *book* is full, I have to buy a new one.
 
   Le professeur a sorti son *carnet* pour noter les absents.
-  Der Lehrer hat sein *Notizheft* herausgeholt, um die Fehlenden einzutragen.
+  The professor pulled out his notebook to write down the absentees.
 
   L'agent de change inscrit chaque transaction dans son *carnet*.
-  Der Börsenmakler trägt jede Transaktion in sein *Buch* ein.
+  The foreign exchange officer records every transaction in his ledger.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

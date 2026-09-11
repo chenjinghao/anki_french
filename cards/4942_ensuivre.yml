@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4942
 Wort: ensuivre
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: s’ensuivre
 Femininum / Plural: ''
 IPA: \ɑ̃.sɥivʁ\
-Definition: folgen, sich ergeben
+Definition: Following, surrendering
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il dit qu'il va *s'ensuivre* une augmentation du tourisme.
-  Er sagt, dass daraus ein Anstieg des Tourismus *folgen* wird.
+  He says there will be an increase in tourism.
 
   La crise économique qui *s'ensuivit* fut catastrophique pour l'entreprise.
-  Die Wirtschaftskrise, die daraus *folgte*, war katastrophisch für das Unternehmen.
+  The economic crisis that ensued was catastrophic for the company.
 
   Il *s'ensuit* que nous devons modifier notre stratégie.
-  Daraus *ergibt* sich, dass wir unsere Strategie ändern müssen.
+  *It follows* that we must change our strategy.
 
   Les jours qui *s'ensuivirent* furent pleins de joie et de rires.
-  Die Tage, die darauf *folgten*, waren voller Freude und Lachen.
+  The following days were filled with joy and laughter.
 
   Une longue période de sécheresse *s'ensuivit*.
-  Eine lange Dürreperiode *folgte*.
+  A long period of drought *followed*.
 
   De ces observations *s'ensuivent* plusieurs conclusions importantes.
-  Aus diesen Beobachtungen *ergeben* sich mehrere wichtige Schlussfolgerungen.
+  Several important conclusions follow from these observations.
 
   La tempête et tout ce qui *s'ensuit* ont causé beaucoup de dégâts.
-  Der Sturm und alles, was damit *einherging*, haben viele Schäden verursacht.
+  The storm and all that followed caused a lot of damage.
 
   Des complications graves peuvent *s'ensuivre* si vous ne prenez pas vos médicaments.
-  Schwere Komplikationen können sich daraus *ergeben*, wenn Sie Ihre Medikamente nicht nehmen.
+  Serious complications can occur if you do not take your medicines.
 
   L'année qui *s'ensuivit* fut marquée par de grands changements.
-  Das Jahr, das darauf *folgte*, war von großen Veränderungen geprägt.
+  The following year was marked by great changes.
 
   Il ne *s'ensuit* pas nécessairement que tu doives partir.
-  Daraus *ergibt* sich nicht unbedingt, dass du gehen musst.
+  It doesn't necessarily mean you have to leave.
 
   Les événements qui *s'ensuivirent* nous ont tous surpris.
-  Die Ereignisse, die darauf *folgten*, haben uns alle überrascht.
+  The events that followed surprised us all.
 
   De cette décision *s'ensuivront* de nombreuses conséquences.
-  Aus dieser Entscheidung werden sich viele Konsequenzen *ergeben*.
+  This decision will have many consequences.
 
   Une période de paix *s'ensuivit* après la guerre.
-  Eine Friedenszeit *folgte* nach dem Krieg.
+  A period of peace *followed* after the war.
 
   Les changements qui se sont *ensuivis* ont transformé la ville.
-  Die Veränderungen, die sich daraus *ergaben*, haben die Stadt verwandelt.
+  The changes that *followed* transformed the city.
 
   Il *s'ensuit* logiquement que nous devons annuler le projet.
-  Daraus *folgt* logischerweise, dass wir das Projekt absagen müssen.
+  *It follows* logically that we must cancel the project.
 
   Des négociations difficiles *s'ensuivirent*.
-  Schwierige Verhandlungen *folgten*.
+  Difficult negotiations ensued.
 
   Un grand chaos *s'ensuivit* après l'annonce.
-  Ein großes Chaos *folgte* auf die Ankündigung.
+  A great chaos ensued after the announcement.
 
   Les complications qui *s'ensuivirent* auraient pu être évitées.
-  Die Komplikationen, die sich daraus *ergaben*, hätten vermieden werden können.
+  The complications that followed could have been avoided.
 
   De cette situation *s'ensuit* une nouvelle opportunité.
-  Aus dieser Situation *ergibt* sich eine neue Gelegenheit.
+  A new opportunity arises from this situation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p class="warning">In der modernen Sprache wird <span class="fr">s'ensuivre</span> oft als <span class="fr">en + suivre</span> behandelt. Daher findet man in zusammengesetzten Zeiten häufig <span class="fr">il s'en est suivi</span> statt der theoretisch korrekten Form <span class="fr">il s'est ensuivi</span>.</p>
+  <p class="warning">In the modern language <span class="fr">s'ensuivre</span> Often referred to as <span class="fr">en + suivre</span> This is why it is often found in compound times. <span class="fr">il s'en est suivi</span> Instead of the theoretically correct form <span class="fr">il s'est ensuivi</span>.</p>
   <div class="examples">
     <div class="fr">Une discussion animée s'en est suivie.</div>
-    <div class="de spoiler">Eine lebhafte Diskussion folgte darauf.</div>
+    <div class="de spoiler">A lively discussion followed.</div>
   </div>
-  <p>Aus demselben Grund wird <span class="fr">s'ensuivre de quelque chose</span> selten verwendet, da die Präposition <span class="fr">de</span> als redundant mit <span class="fr">en</span> empfunden wird.</p>
+  <p>For the same reason <span class="fr">s'ensuivre de quelque chose</span> seldom used since the preposition <span class="fr">de</span> as redundant with <span class="fr">en</span> It's a feeling.</p>
   <hr>
   <div class="section">
-    <div class="section-title"><i>s’ensuivre</i> und <i>découler</i></div>
+    <div class="section-title"><i>s’ensuivre</i> and <i>découler</i></div>
     <div class="section-content">
-      <p><span class="fr">S'ensuivre</span> bedeutet <span class="de">"folgen"</span> oder <span class="de">"sich ergeben"</span> und beschreibt eine direkte, oft unmittelbare Folge oder Konsequenz. Es wird meist unpersönlich verwendet.</p>
+      <p><span class="fr">S'ensuivre</span> means <span class="de">'Following'</span> or <span class="de">"to surrender"</span> and describes a direct, often immediate consequence or consequence.</p>
       <div class="examples">
         <div class="fr">Il a plu toute la nuit, et il s'en est ensuivi des inondations.</div>
-        <div class="de spoiler">Es regnete die ganze Nacht, und daraus entstanden Überschwemmungen.</div>
+        <div class="de spoiler">It rained all night and caused flooding.</div>
         <div class="fr">Une dispute éclata, et tout ce qui s'ensuit.</div>
-        <div class="de spoiler">Ein Streit brach aus, und alles was daraus folgt.</div>
+        <div class="de spoiler">A fight broke out, and everything that followed.</div>
       </div>
-      <p><span class="fr">Découler</span> (#2866) bedeutet <span class="de">"herrühren"</span> oder <span class="de">"sich ableiten"</span> und bezeichnet eine logische Folge oder Ableitung aus einer Ursache. Es impliziert oft einen kausalen Zusammenhang.</p>
+      <p><span class="fr">Découler</span> #2866) means <span class="de">"touching"</span> or <span class="de">"to be derived"</span> And it's a logical consequence or derivation from a cause.</p>
       <div class="examples">
         <div class="fr">Ses difficultés financières découlent de ses mauvaises décisions.</div>
-        <div class="de spoiler">Seine finanziellen Schwierigkeiten rühren von seinen schlechten Entscheidungen her.</div>
+        <div class="de spoiler">His financial difficulties stem from his poor decisions.</div>
         <div class="fr">Cette conclusion découle logiquement de nos observations.</div>
-        <div class="de spoiler">Diese Schlussfolgerung ergibt sich logisch aus unseren Beobachtungen.</div>
+        <div class="de spoiler">This conclusion follows logically from our observations.</div>
       </div>
-      <p><span class="fr">S'ensuivre</span> betont die zeitliche Abfolge, während <span class="fr">découler</span> mehr den kausalen Ursprung hervorhebt.</p>
+      <p><span class="fr">S'ensuivre</span> emphasizes the sequence of time, while <span class="fr">découler</span> It is also important to emphasize the causal origin.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

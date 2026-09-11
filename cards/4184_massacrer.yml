@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4184
 Wort: massacrer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: massacrer
 Femininum / Plural: ''
 IPA: \ma.sa.kʁe\
-Definition: niedermetzeln
+Definition: to slaughter
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils *massacraient* des indigènes.
-  Sie *metzelten* die Eingeborenen *nieder*.
+  *They were slaughtering* indigenous people.
 
   Les envahisseurs ont *massacré* toute la population du village.
-  Die Eindringlinge haben die gesamte Dorfbevölkerung *niedergemetzelt*.
+  The invaders massacred the entire population of the village.
 
   Les braconniers *massacrent* les éléphants pour leur ivoire.
-  Die Wilderer *schlachten* die Elefanten für ihr Elfenbein *ab*.
+  Poachers slaughter elephants for their ivory.
 
   "Tu as complètement *massacré* ma voiture !"
-  "Du hast mein Auto total *verhunzt*!"
+  "You completely *slaughtered* my car!"
 
   L'équipe de Marie s'est fait *massacrer* lors du dernier match.
-  Maries Team hat sich im letzten Spiel *fertigmachen* lassen.
+  Marie's team got slaughtered in the last game.
 
   Les terroristes ont *massacré* les otages de sang-froid.
-  Die Terroristen haben die Geiseln kaltblütig *abgeschlachtet*.
+  The terrorists massacred the hostages in cold blood.
 
   Le boxeur a littéralement *massacré* son adversaire sur le ring.
-  Der Boxer hat seinen Gegner im Ring regelrecht *fertiggemacht*.
+  The boxer literally *slaughtered* his opponent in the ring.
 
   "Il a *massacré* la présentation devant le client."
-  "Er hat die Präsentation vor dem Kunden total *verhunzt*."
+  "He *slaughtered* the presentation in front of the client".
 
   Les critiques ont *massacré* son dernier film.
-  Die Kritiker haben seinen letzten Film *fertiggemacht*.
+  The critics massacred his last film.
 
   Pierre a complètement *massacré* la traduction de ce texte.
-  Pierre hat die Übersetzung dieses Textes völlig *verhunzt*.
+  Pierre completely destroyed the translation of this text.
 
   La dictature a *massacré* des milliers d'opposants.
-  Die Diktatur hat Tausende von Oppositionellen *hingemordet*.
+  The dictatorship massacred thousands of opponents.
 
   Les chasseurs *massacrent* les loups sans pitié.
-  Die Jäger *schlachten* die Wölfe erbarmungslos *ab*.
+  The hunters slaughter the wolves mercilessly.
 
   Le pianiste débutant a *massacré* la sonate de Mozart.
-  Der Anfänger am Klavier hat Mozarts Sonate *verhunzt*.
+  The beginner pianist *slaughtered* Mozart's sonata.
 
   L'armée a *massacré* tous les prisonniers de guerre.
-  Die Armee hat alle Kriegsgefangenen *niedergemetzelt*.
+  The army massacred all the prisoners of war.
 
   "Tu as complètement *massacré* ma coiffure !"
-  "Du hast meine Frisur total *verhunzt*!"
+  "You totally *slaughtered* my hair!"
 
   Les rénovations ont *massacré* le charme de ce vieil immeuble.
-  Die Renovierungen haben den Charme dieses alten Gebäudes *verhunzt*.
+  The renovations have wiped out the charm of this old building.
 
   Les soldats se sont fait *massacrer* dans cette embuscade.
-  Die Soldaten haben sich in diesem Hinterhalt *abschlachten* lassen.
+  The soldiers were massacred in this ambush.
 
   Le comédien a *massacré* son texte pendant la première.
-  Der Schauspieler hat seinen Text bei der Premiere *verhunzt*.
+  The comedian *slaughtered* his text during the premiere.
 
   Les braconniers *massacrent* les rhinocéros pour leurs cornes.
-  Die Wilderer *schlachten* die Nashörner für ihre Hörner *ab*.
+  The poachers slaughter the rhinoceros for their horns.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1869
 Wort: compliquer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: compliquer
 Femininum / Plural: ''
 IPA: \kɔ̃.pli.ke\
-Definition: erschweren, komplizierter machen
+Definition: to make it more difficult, more complicated
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le système actuel s'avère-t-il *compliqué* ?
-  Ist das aktuelle System *kompliziert*?
+  Is the current system *complicated*?
 
   "Ça se *complique* ! Je ne suis pas sûr de pouvoir y arriver."
-  "Jetzt wird's *schwierig*! Ich bin mir nicht sicher, ob ich das schaffe."
+  "It's *complicated*, I'm not sure I can do it".
 
   Les choses se sont *compliquées* après son départ.
-  Die Dinge sind nach seinem Weggang *komplizierter* geworden.
+  Things got *complicated* after he left.
 
   Tu *compliques* toujours tout avec tes questions !
-  Du *erschwerst* alles mit deinen Fragen!
+  You always complicate things with your questions!
 
   Sa bronchite s'est *compliquée* d'une pneumonie.
-  Seine Bronchitis hat sich durch eine Lungenentzündung *verschlimmert*.
+  His bronchitis was *complicated* by pneumonia.
 
   Ne vous *compliquez* pas la vie avec ces détails inutiles.
-  Machen Sie sich das Leben nicht unnötig *schwer* mit diesen unwichtigen Details.
+  Don't *complicate* your life with these unnecessary details.
 
   La situation politique s'est *compliquée* ces derniers mois.
-  Die politische Situation hat sich in den letzten Monaten *zugespitzt*.
+  The political situation has become more *complicated* in recent months.
 
   Son rhume s'est *compliqué* d'une otite.
-  Seine Erkältung hat sich durch eine Ohrenentzündung *verschlimmert*.
+  His cold got *complicated* by otitis.
 
   Pourquoi *compliquer* les choses quand on peut les simplifier ?
-  Warum die Dinge *verkomplizieren*, wenn man sie vereinfachen kann?
+  Why complicate things when you can simplify them?
 
   La procédure administrative s'est beaucoup *compliquée* depuis la réforme.
-  Das Verwaltungsverfahren ist seit der Reform viel *komplizierter* geworden.
+  The administrative procedure has become very *complicated* since the reform.
 
   Cette nouvelle règle va *compliquer* notre travail quotidien.
-  Diese neue Regel wird unsere tägliche Arbeit *erschweren*.
+  This new rule will complicate our daily work.
 
   Les relations entre les deux pays se sont *compliquées* après l'incident.
-  Die Beziehungen zwischen den beiden Ländern sind nach dem Vorfall *komplizierter* geworden.
+  Relations between the two countries became *complicated* after the incident.
 
   Il ne faut pas *compliquer* les explications pour les débutants.
-  Man sollte die Erklärungen für Anfänger nicht *verkomplizieren*.
+  The explanations should not be complicated for beginners.
 
   Sa grippe s'est *compliquée* d'une infection.
-  Seine Grippe hat sich durch eine Infektion *verschlimmert*.
+  His flu got *complicated* by an infection.
 
   Ces nouvelles directives vont *compliquer* la gestion du projet.
-  Diese neuen Richtlinien werden die Projektleitung *erschweren*.
+  These new guidelines will complicate the management of the project.
 
   La situation s'est encore *compliquée* hier soir.
-  Die Situation ist gestern Abend noch *schwieriger* geworden.
+  The situation got *complicated* again last night.
 
   Ses problèmes de santé se sont *compliqués* au fil des années.
-  Seine gesundheitlichen Probleme haben sich im Laufe der Jahre *verschlimmert*.
+  His health problems have become more *complicated* over the years.
 
   Tu te *compliques* trop la vie avec cette histoire.
-  Du machst dir das Leben mit dieser Geschichte zu *schwer*.
+  You're making your life too *complicated* with this story.
 
   Le malentendu a *compliqué* les négociations.
-  Das Missverständnis hat die Verhandlungen *erschwert*.
+  The misunderstanding *complicated* the negotiations.
 
   L'absence de documents va *compliquer* la procédure.
-  Das Fehlen der Unterlagen wird das Verfahren *erschweren*.
+  The lack of documents will complicate the proceedings.
 
   Cette intervention inutile ne fait que *compliquer* les choses.
-  Dieser unnötige Eingriff *verkompliziert* nur die Sache.
+  This unnecessary intervention only complicates matters.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

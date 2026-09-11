@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1681
 Wort: définitif
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: définitif
 Femininum / Plural: définitive
 IPA: \de.fi.ni.tif\
-Definition: endgültig
+Definition: of which:
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai pas pris de décision *définitive* à ce sujet.
-  Ich habe in dieser Sache noch keine *endgültige* Entscheidung getroffen.
+  I haven't made a final decision on this.
 
   Le juge a rendu un jugement *définitif* dans cette affaire.
-  Der Richter hat in diesem Fall ein *rechtskräftiges* Urteil gefällt.
+  The judge gave a final verdict in this case.
 
   Après trois mois d'essai, mon contrat est devenu *définitif*.
-  Nach drei Monaten Probezeit wurde mein Vertrag *fest*.
+  After three months of trial, my contract became final.
 
   "C'est du *définitif* entre nous maintenant !"
-  "Das ist jetzt was *Festes* zwischen uns!"
+  "It's final between us now!"
 
   La rupture entre les deux pays semble *définitive*.
-  Der Bruch zwischen den beiden Ländern scheint *endgültig* zu sein.
+  The break between the two countries seems definitive.
 
   En *définitive*, nous avons décidé de ne pas déménager.
-  *Letztendlich* haben wir beschlossen, nicht umzuziehen.
+  Eventually, we decided not to move.
 
   Cette victoire *définitive* a changé le cours de la guerre.
-  Dieser *entscheidende* Sieg hat den Verlauf des Krieges verändert.
+  This final victory changed the course of the war.
 
   Son argument était tellement *définitif* que personne n'a pu le contredire.
-  Sein Argument war so *überzeugend*, dass niemand ihm widersprechen konnte.
+  His argument was so *definitive* that no one could contradict it.
 
   Les résultats *définitifs* seront publiés demain matin.
-  Die *endgültigen* Ergebnisse werden morgen früh veröffentlicht.
+  The final results will be published tomorrow morning.
 
   Voici la version *définitive* du document.
-  Hier ist die *finale* Version des Dokuments.
+  This is *the final* version of the document.
 
   En *définitive*, qu'est-ce que tu en penses ?
-  Was denkst du nun *letztlich* darüber?
+  Anyway, what do you think?
 
   La solution *définitive* à ce problème n'existe pas encore.
-  Die *endgültige* Lösung für dieses Problem gibt es noch nicht.
+  There is no definitive solution to this problem yet.
 
   Son refus *définitif* m'a vraiment surpris.
-  Seine *definitive* Absage hat mich wirklich überrascht.
+  His final refusal really surprised me.
 
   Cette séparation est *définitive*, il n'y a plus d'espoir de réconciliation.
-  Diese Trennung ist *endgültig*, es gibt keine Hoffnung mehr auf Versöhnung.
+  This separation is final, there is no longer any hope of reconciliation.
 
   C'est l'ouvrage *définitif* sur l'histoire de la Révolution française.
-  Das ist das *maßgebliche* Werk über die Geschichte der Französischen Revolution.
+  This is the *definitive* book on the history of the French Revolution.
 
   En passant du provisoire au *définitif*, nous avons gagné en efficacité.
-  Beim Übergang vom Vorläufigen zum *Endgültigen* haben wir an Effizienz gewonnen.
+  As we went from provisional to *definitive*, we gained efficiency.
 
   L'accord *définitif* sera signé la semaine prochaine.
-  Das *endgültige* Abkommen wird nächste Woche unterzeichnet.
+  The final agreement will be signed next week.
 
   Cette résolution *définitive* a été adoptée à l'unanimité.
-  Diese *endgültige* Resolution wurde einstimmig angenommen.
+  This final resolution was adopted unanimously.
 
   Son départ semble *définitif* cette fois-ci.
-  Sein Weggang scheint diesmal *endgültig* zu sein.
+  His departure seems *definitive* this time.
 
   En *définitive*, nous devons accepter la situation telle qu'elle est.
-  *Letztlich* müssen wir die Situation so akzeptieren, wie sie ist.
+  Finally, we must accept the situation as it is.
 
   Cette preuve *définitive* a convaincu même les plus sceptiques.
-  Dieser *schlüssige* Beweis hat selbst die größten Skeptiker überzeugt.
+  This definitive evidence has convinced even the most sceptical.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

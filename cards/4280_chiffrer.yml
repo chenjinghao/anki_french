@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4280
 Wort: chiffrer
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: chiffrer
 Femininum / Plural: ''
 IPA: \ʃi.fʁe\
-Definition: beziffern, verschlüsseln
+Definition: Numbering, encrypting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tout ça est *chiffré* à chaque fois par les ministères.
-  All das wird jedes Mal von den Ministerien *beziffert*.
+  All of this is encrypted every time by the departments.
 
   Le comptable doit *chiffrer* les dépenses du projet.
-  Der Buchhalter muss die Projektausgaben *beziffern*.
+  The accountant must calculate the expenditure of the project.
 
   Les données de notre serveur sont *chiffrées* par un algorithme moderne.
-  Die Daten auf unserem Server werden durch einen modernen Algorithmus *verschlüsselt*.
+  The data on our server is encrypted by a modern algorithm.
 
   Il faut *chiffrer* chaque page du document avant de l'envoyer.
-  Jede Seite des Dokuments muss *nummeriert* werden, bevor wir es verschicken.
+  You have to encrypt every page of the document before you send it.
 
   La secrétaire a *chiffré* tous les draps avec mes initiales.
-  Die Sekretärin hat alle Laken mit meinem *Monogramm* versehen.
+  The secretary *numbered* all the sheets with my initials.
 
   Le professeur de musique nous a appris à *chiffrer* une partition.
-  Der Musiklehrer hat uns beigebracht, eine Partitur zu *beziffern*.
+  The music teacher taught us how to encrypt a score.
 
   "Ces réparations commencent à *chiffrer*!"
-  "Diese Reparaturen *läppern* sich ganz schön!"
+  "These repairs are starting to count!"
 
   Le coût total du projet se *chiffre* à plusieurs millions d'euros.
-  Die Gesamtkosten des Projekts *belaufen* sich auf mehrere Millionen Euro.
+  The total cost of the project is several million euros.
 
   Les pertes se *chiffrent* par milliards.
-  Die Verluste gehen in die *Milliarden*.
+  Losses are in the billions.
 
   Les experts ont *chiffré* les dommages causés par la tempête.
-  Die Experten haben die Sturmschäden *beziffert*.
+  Experts have calculated the damage caused by the storm.
 
   Le message *chiffré* n'a pas pu être décodé par l'ennemi.
-  Die *verschlüsselte* Nachricht konnte vom Feind nicht entschlüsselt werden.
+  The encrypted message could not be decoded by the enemy.
 
   Marie a fait *chiffrer* ses nouvelles serviettes.
-  Marie hat ihre neuen Handtücher mit einem *Monogramm* versehen lassen.
+  Marie had her new towels encrypted.
 
   L'employé doit *chiffrer* tous les dossiers confidentiels.
-  Der Angestellte muss alle vertraulichen Akten *verschlüsseln*.
+  The employee must encrypt all confidential records.
 
   Les agents secrets *chiffrent* leurs communications.
-  Die Geheimagenten *verschlüsseln* ihre Kommunikation.
+  Secret agents are encrypting their communications.
 
   Le compositeur a soigneusement *chiffré* la basse de sa symphonie.
-  Der Komponist hat den Bass seiner Symphonie sorgfältig *beziffert*.
+  The composer carefully encoded the bass of his symphony.
 
   Nous devons *chiffrer* tous les documents avant l'archivage.
-  Wir müssen alle Dokumente vor der Archivierung *nummerieren*.
+  We need to encrypt all the documents before they're filed.
 
   "Ces achats vont *chiffrer* à la fin du mois!"
-  "Diese Einkäufe werden sich am Monatsende ganz schön *summieren*!"
+  "These purchases will be counted toward the end of the month!"
 
   Les dégâts se *chiffrent* à des centaines de milliers d'euros.
-  Die Schäden *belaufen* sich auf Hunderttausende von Euro.
+  Damage is estimated at hundreds of thousands of euros.
 
   L'entreprise a *chiffré* ses objectifs pour l'année prochaine.
-  Das Unternehmen hat seine Ziele für das nächste Jahr *beziffert*.
+  The company has set a target for next year.
 
   Le pianiste étudie la basse *chiffrée* de Bach.
-  Der Pianist studiert den *bezifferten* Bass von Bach.
+  The pianist studies Bach's *numbered* bass.
 
   Les économistes ont *chiffré* l'impact de la crise.
-  Die Ökonomen haben die Auswirkungen der Krise *beziffert*.
+  Economists have calculated the impact of the crisis.
 
   La police a intercepté des messages *chiffrés* des criminels.
-  Die Polizei hat *verschlüsselte* Nachrichten der Kriminellen abgefangen.
+  The police intercepted encrypted messages from the criminals.
 
   Les revenus mensuels se *chiffrent* à plus de 5000 euros.
-  Die monatlichen Einnahmen *belaufen* sich auf mehr als 5000 Euro.
+  The monthly income is more than 5000 euros.
 
   L'architecte a *chiffré* le coût de la rénovation.
-  Der Architekt hat die Renovierungskosten *beziffert*.
+  The architect calculated the cost of the renovation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3913
 Wort: jury
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le jury
 Femininum / Plural: ''
 IPA: \ʒy.ʁi\
 Definition: Jury
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un *jury* exclusivement blanc.
-  Es ist eine ausschließlich weiße *Jury*.
+  It's an all-white *jury*.
 
   Le *jury* a délibéré pendant six heures avant de rendre son verdict.
-  Die *Geschworenen* haben sechs Stunden beraten, bevor sie ihr Urteil verkündeten.
+  The *jury* deliberated for six hours before rendering its verdict.
 
   Le président du *jury* a annoncé la décision finale hier soir.
-  Der *Geschworenen*vorsitzende hat gestern Abend die endgültige Entscheidung verkündet.
+  The chairman of the *jury* announced the final decision last night.
 
   Marie fait partie du *jury* pour le concours de danse.
-  Marie ist Mitglied der *Jury* beim Tanzwettbewerb.
+  Marie is on the *jury* for the dance competition.
 
   Le *jury* du prix Goncourt a choisi un roman extraordinaire cette année.
-  Die *Jury* des Prix Goncourt hat dieses Jahr einen außergewöhnlichen Roman ausgewählt.
+  The Goncourt Prize *jury* has chosen an extraordinary novel this year.
 
   Le *jury* de thèse lui a accordé les félicitations.
-  Die Prüfungs*kommission* hat ihr die höchste Auszeichnung verliehen.
+  The thesis *jury* congratulated him.
 
   Les membres du *jury* ont posé des questions très pertinentes pendant la soutenance.
-  Die Mitglieder der Prüfungs*kommission* stellten während der Verteidigung sehr relevante Fragen.
+  The members of the *jury* asked very relevant questions during the support.
 
   Un *jury* international décidera qui remportera la médaille d'or.
-  Eine internationale *Jury* wird entscheiden, wer die Goldmedaille gewinnt.
+  An international *jury* will decide who wins the gold medal.
 
   Le *jury* du baccalauréat se réunira la semaine prochaine.
-  Die Prüfungs*kommission* für das Abitur wird sich nächste Woche treffen.
+  The bachelor's *jury* will meet next week.
 
   Comment as-tu été sélectionné pour faire partie du *jury* ?
-  Wie wurdest du als *Geschworener* ausgewählt?
+  How did you get selected to be on the *jury*?
 
   Le *jury* criminel a déclaré l'accusé non coupable.
-  Die *Geschworenen* haben den Angeklagten für nicht schuldig erklärt.
+  The criminal *jury* found the defendant not guilty.
 
   Thomas présidera le *jury* du festival de cinéma.
-  Thomas wird den Vorsitz der *Jury* beim Filmfestival übernehmen.
+  Thomas will chair the *jury* for the film festival.
 
   La décision du *jury* est sans appel.
-  Die Entscheidung der *Jury* ist endgültig.
+  The *jury*'s decision is beyond appeal.
 
   Le *jury* d'honneur a examiné les plaintes avec attention.
-  Das Ehren*gericht* hat die Beschwerden sorgfältig geprüft.
+  The honorary *jury* examined the complaints carefully.
 
   Chaque membre du *jury* doit rester impartial.
-  Jedes *Jury*mitglied muss unparteiisch bleiben.
+  Each member of the *jury* must remain impartial.
 
   Notre *jury* de concours cherche des talents innovants.
-  Unsere Wettbewerbs*jury* sucht nach innovativen Talenten.
+  Our competition *jury* is looking for innovative talent.
 
   Le *jury* populaire joue un rôle essentiel dans notre système judiciaire.
-  Die *Geschworenen* spielen eine wichtige Rolle in unserem Rechtssystem.
+  The popular *jury* plays an essential role in our judicial system.
 
   Le *jury* d'agrégation a sélectionné trois excellents candidats.
-  Die Prüfungs*kommission* für die Agrégation hat drei hervorragende Kandidaten ausgewählt.
+  The judging panel has selected three excellent candidates.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

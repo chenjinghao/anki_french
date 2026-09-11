@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1316
 Wort: entièrement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: entièrement
 Femininum / Plural: ''
 IPA: \ɑ̃.tjɛʁ.mɑ̃\
-Definition: vollständig, ganz
+Definition: whole
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis *entièrement* d'accord avec vous.
-  Ich bin *völlig* einverstanden mit Ihnen.
+  I completely agree with you.
 
   Il faut *entièrement* recommencer le projet.
-  Wir müssen das Projekt *ganz* von vorn beginnen.
+  We have to start the project all over again.
 
   La bouteille est *entièrement* vide maintenant.
-  Die Flasche ist jetzt *völlig* leer.
+  The bottle is completely empty now.
 
   Elle s'est *entièrement* consacrée à ses études.
-  Sie hat sich *ganz* ihrem Studium gewidmet.
+  She devoted herself *entirely* to her studies.
 
   Paul n'est jamais *entièrement* concentré sur son travail.
-  Paul ist nie *ganz* bei der Arbeit.
+  Paul never focused *entirely* on his work.
 
   La famille est *entièrement* ruinée après cette catastrophe.
-  Die Familie ist nach dieser Katastrophe *völlig* ruiniert.
+  The family is completely ruined after this disaster.
 
   Tu n'as pas *entièrement* tort dans cette situation.
-  Du hast in dieser Situation nicht *ganz* unrecht.
+  You're not *entirely* wrong in this situation.
 
   Le musée sera *entièrement* rénové l'année prochaine.
-  Das Museum wird nächstes Jahr *vollständig* renoviert.
+  The museum will be completely renovated next year.
 
   J'ai *entièrement* confiance en toi.
-  Ich vertraue dir *völlig*.
+  I have complete confidence in you.
 
   La ville a été *entièrement* reconstruite après la guerre.
-  Die Stadt wurde nach dem Krieg *vollständig* wiederaufgebaut.
+  The city was completely rebuilt after the war.
 
   Marie s'est *entièrement* remise de sa maladie.
-  Marie hat sich von ihrer Krankheit *völlig* erholt.
+  Marie fully recovered from her illness.
 
   Le problème est *entièrement* résolu maintenant.
-  Das Problem ist jetzt *vollständig* gelöst.
+  The problem is completely solved now.
 
   Cette décision dépend *entièrement* de toi.
-  Diese Entscheidung liegt *ganz* bei dir.
+  That decision is *entirely* up to you.
 
   Le document a été *entièrement* traduit en trois langues.
-  Das Dokument wurde *vollständig* in drei Sprachen übersetzt.
+  The document was fully translated into three languages.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

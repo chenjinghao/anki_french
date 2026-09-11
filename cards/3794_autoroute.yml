@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3794
 Wort: autoroute
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une autoroute
 Femininum / Plural: ''
 IPA: \o.to.ʁut\
-Definition: Autobahn
+Definition: Highway
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   De nombreuses *autoroutes* ont dû être fermées.
-  Viele *Autobahnen* mussten gesperrt werden.
+  Many highways had to be closed.
 
   L'*autoroute* à péage coûte vingt euros pour ce trajet.
-  Die mautpflichtige *Autobahn* kostet zwanzig Euro für diese Strecke.
+  The toll *highway* costs twenty euros for this trip.
 
   Nous avons quitté l'*autoroute* pour prendre des petites routes de campagne.
-  Wir haben die *Autobahn* verlassen, um kleine Landstraßen zu nehmen.
+  We left the freeway to take small country roads.
 
   L'*autoroute* urbaine traverse le centre-ville de Paris.
-  Die Stadt*autobahn* führt durch das Zentrum von Paris.
+  The city *highway* runs through the centre of Paris.
 
   Cette *autoroute* à quatre voies est très fréquentée aux heures de pointe.
-  Diese vierspurige *Autobahn* ist in den Stoßzeiten stark befahren.
+  This four-lane *highway* is very busy during peak hours.
 
   Pierre déteste rouler sur l'*autoroute*, il préfère les routes nationales.
-  Pierre fährt ungern auf der *Autobahn*, er bevorzugt die Bundesstraßen.
+  Pierre hates driving on the *highway*, he prefers the national roads.
 
   L'*autoroute* est fermée entre les sorties 12 et 14 en raison d'un accident.
-  Die *Autobahn* ist zwischen den Ausfahrten 12 und 14 wegen eines Unfalls gesperrt.
+  The freeway is closed between Exits 12 and 14 due to an accident.
 
   Les vélos et les piétons ne sont pas autorisés sur l'*autoroute*.
-  Fahrräder und Fußgänger sind auf der *Autobahn* nicht erlaubt.
+  Bicycles and pedestrians are not allowed on the freeway.
 
   Il y a des bouchons sur l'*autoroute* à cause des départs en vacances.
-  Es gibt Staus auf der *Autobahn* wegen der beginnenden Ferien.
+  There's a traffic jam on the freeway because of the holiday departures.
 
   Cette nouvelle *autoroute* réduira considérablement le temps de trajet.
-  Diese neue *Autobahn* wird die Fahrzeit erheblich verkürzen.
+  This new *highway* will significantly reduce travel time.
 
   Les aires de repos sont espacées de 50 kilomètres sur cette *autoroute*.
-  Die Rastplätze auf dieser *Autobahn* liegen 50 Kilometer auseinander.
+  The rest areas are 50 kilometers apart on this *highway*.
 
   L'*autoroute* à trois voies sera élargie l'année prochaine.
-  Die dreispurige *Autobahn* wird nächstes Jahr erweitert.
+  The three-lane *highway* will be widened next year.
 
   La construction de cette *autoroute* a duré cinq ans.
-  Der Bau dieser *Autobahn* hat fünf Jahre gedauert.
+  The construction of this *highway* took five years.
 
   Les panneaux indiquent la prochaine sortie d'*autoroute* dans 2 kilomètres.
-  Die Schilder zeigen die nächste *Autobahn*ausfahrt in 2 Kilometern an.
+  The signs indicate the next *highway* exit in two kilometers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

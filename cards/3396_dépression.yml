@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3396
 Wort: dépression
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la dépression
 Femininum / Plural: ''
 IPA: \de.pʁɛ.sjɔ̃\
 Definition: Depression
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il ne se remettra pas de sa dernière *dépression*.
-  Er wird sich von seiner letzten *Depression* nicht erholen.
+  He won't recover from his last *depression*.
 
   Ma mère fait une *dépression* depuis la mort de mon père.
-  Meine Mutter hat seit dem Tod meines Vaters eine *Depression*.
+  My mother's been suffering from *depression* since my father died.
 
   Une *dépression* atlantique apportera de la pluie ce week-end.
-  Ein atlantisches *Tief* wird am Wochenende Regen bringen.
+  An Atlantic *depression* will bring rain this weekend.
 
   Le psychologue m'aide à surmonter ma *dépression* post-natale.
-  Der Psychologe hilft mir, meine Wochenbett*depression* zu überwinden.
+  The psychologist is helping me overcome my postpartum *depression*.
 
   Cette *dépression* économique a causé beaucoup de chômage.
-  Diese Wirtschafts*krise* hat viele Arbeitslose verursacht.
+  This economic *depression* has caused a lot of unemployment.
 
   Le baromètre indique une forte *dépression atmosphérique*.
-  Das Barometer zeigt ein starkes *Tiefdruckgebiet* an.
+  The barometer indicates a high atmospheric pressure.
 
   Il souffre d'une *dépression* endogène depuis deux ans.
-  Er leidet seit zwei Jahren an einer endogenen *Depression*.
+  He's been suffering from an endogenous *depression* for two years.
 
   Les géologues étudient la *dépression* d'origine glaciaire.
-  Die Geologen untersuchen die glaziale *Senke*.
+  Geologists are studying glacial *depression*.
 
   Une importante *dépression* est centrée sur le Nord de l'Europe.
-  Ein bedeutendes *Tief* liegt über Nordeuropa.
+  A major *depression* is centered in Northern Europe.
 
   Pendant la grande *dépression* des années trente, beaucoup de gens ont perdu leur emploi.
-  Während der großen *Depression* in den dreißiger Jahren haben viele Menschen ihre Arbeit verloren.
+  During the Great *Depression* of the 1930s, many people lost their jobs.
 
   Cette *dépression nerveuse* l'a beaucoup affaibli.
-  Dieser *Nervenzusammenbruch* hat ihn sehr geschwächt.
+  This *nervous breakdown* greatly weakened him.
 
   La *dépression* du terrain forme un petit lac en hiver.
-  Die *Senke* im Gelände bildet im Winter einen kleinen See.
+  The *depression* of the terrain forms a small lake in winter.
 
   Les symptômes de sa *dépression* s'aggravent en hiver.
-  Die Symptome ihrer *Depression* verschlimmern sich im Winter.
+  Her symptoms of *depression* worsen in the winter.
 
   Les météorologues suivent l'évolution de la *dépression barométrique*.
-  Die Meteorologen verfolgen die Entwicklung des *Tiefdruckgebiets*.
+  Meteorologists are tracking the evolution of *barometric depression*.
 
   Une *dépression* réactive peut survenir après un traumatisme.
-  Eine reaktive *Depression* kann nach einem Trauma auftreten.
+  Reactive *depression* can occur after trauma.
 
   La *dépression* marine atteint plusieurs milliers de mètres.
-  Die Meeres*senke* erreicht mehrere tausend Meter.
+  The sea *depression* reaches several thousand meters.
 
   Les experts prévoient une *dépression* économique pour l'année prochaine.
-  Die Experten sagen für nächstes Jahr ein Konjunktur*tief* voraus.
+  Experts predict an economic *depression* for next year.
 
   Une légère *dépression* est visible sur la voûte crânienne.
-  Eine leichte *Einsenkung* ist am Schädeldach sichtbar.
+  A slight *depression* is visible on the cranial vault.
 
   Elle traverse une grave *dépression* depuis son divorce.
-  Sie macht seit ihrer Scheidung eine schwere *Depression* durch.
+  She's been going through a lot of *depression* since her divorce.
 
   Le pays sort lentement de la *dépression* économique.
-  Das Land erholt sich langsam von der Wirtschafts*krise*.
+  The country is slowly emerging from the economic *depression*.
 
   La *dépression atmosphérique* provoque de violentes tempêtes.
-  Das *Tiefdruckgebiet* verursacht heftige Stürme.
+  The *atmospheric depression* causes violent storms.
 
   Le médecin lui a prescrit des médicaments contre sa *dépression*.
-  Der Arzt hat ihr Medikamente gegen ihre *Depression* verschrieben.
+  The doctor prescribed her medication for her *depression*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

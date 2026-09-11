@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2299
 Wort: affirmation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une affirmation
 Femininum / Plural: ''
 IPA: \a.fiʁ.ma.sjɔ̃\
-Definition: Behauptung
+Definition: Claim
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai été étonnée de cette *affirmation*.
-  Ich war über diese *Behauptung* erstaunt.
+  I was surprised by that statement.
 
   La presse a publié une *affirmation* sans fondement sur le président.
-  Die Presse veröffentlichte eine unbegründete *Behauptung* über den Präsidenten.
+  The press published an unsubstantiated claim about the president.
 
   Son *affirmation* catégorique a mis fin au débat.
-  Seine kategorische *Aussage* beendete die Debatte.
+  His categorical assertion ended the debate.
 
   "Cette *affirmation* est complètement fausse !" s'est-il exclamé.
-  "Diese *Behauptung* ist völlig falsch!" rief er aus.
+  "This statement is completely false!" he exclaimed.
 
   Malgré ses *affirmations*, nous n'avons aucune preuve concrète.
-  Trotz seiner *Beteuerungen* haben wir keine konkreten Beweise.
+  Despite his claims, we have no concrete evidence.
 
   L'*affirmation* de soi est importante dans le développement personnel.
-  Die Selbst*behauptung* ist wichtig für die persönliche Entwicklung.
+  Self-*affirmation* is important in personal development.
 
   Les scientifiques ont remis en question cette *affirmation*.
-  Die Wissenschaftler haben diese *Aussage* in Frage gestellt.
+  Scientists have questioned this assertion.
 
   Elle a fait une *affirmation* audacieuse lors de la conférence.
-  Sie machte während der Konferenz eine gewagte *Behauptung*.
+  She made a bold statement at the conference.
 
   Les *affirmations* du témoin ont été vérifiées par la police.
-  Die *Aussagen* des Zeugen wurden von der Polizei überprüft.
+  The witness's claims have been verified by the police.
 
   Cette *affirmation* nécessite des preuves supplémentaires.
-  Diese *Behauptung* erfordert zusätzliche Beweise.
+  This claim requires further evidence.
 
   L'avocat a présenté des *affirmations* convaincantes devant le jury.
-  Der Anwalt präsentierte der Jury überzeugende *Darlegungen*.
+  The lawyer made convincing claims before the jury.
 
   Ses *affirmations* répétées ont fini par convaincre l'audience.
-  Seine wiederholten *Beteuerungen* überzeugten schließlich das Publikum.
+  His repeated assertions eventually convinced the audience.
 
   L'*affirmation* de notre indépendance est cruciale pour l'avenir du pays.
-  Die *Bekräftigung* unserer Unabhängigkeit ist entscheidend für die Zukunft des Landes.
+  Affirming our independence is crucial for the future of the country.
 
   Il a fait une *affirmation* sous serment devant le tribunal.
-  Er machte eine eidliche *Aussage* vor Gericht.
+  He made an affidavit under oath in court.
 
   Votre *affirmation* contredit les faits présentés précédemment.
-  Ihre *Behauptung* widerspricht den zuvor präsentierten Fakten.
+  Your assertion contradicts the facts presented earlier.
 
   L'*affirmation* de ses droits lui a valu le respect de ses collègues.
-  Die *Behauptung* seiner Rechte brachte ihm den Respekt seiner Kollegen ein.
+  Assertion of her rights earned her the respect of her colleagues.
 
   Cette *affirmation* relève plus de l'opinion que du fait avéré.
-  Diese *Aussage* ist eher eine Meinung als eine bewiesene Tatsache.
+  This claim is more of an opinion than a proven fact.
 
   Les médias ont relayé cette *affirmation* sans la vérifier.
-  Die Medien haben diese *Behauptung* ungeprüft weitergegeben.
+  The media has relayed this claim without verifying it.
 
   L'*affirmation* "je pense, donc je suis" est célèbre en philosophie.
-  Die *Aussage* "Ich denke, also bin ich" ist in der Philosophie berühmt.
+  The statement "I think, therefore I am" is famous in philosophy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4012
 Wort: rassurant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rassurant
 Femininum / Plural: rassurante
 IPA: \ʁa.sy.ʁɑ̃\
-Definition: beruhigend, zuversichtlich
+Definition: Reassuring, confident
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est *rassurant* des bruits de cuisine.
-  Die Geräusche aus der Küche sind *beruhigend*.
+  It's *reassuring* to hear kitchen noises.
 
   Cette nouvelle n'est pas très *rassurante*.
-  Diese Nachricht ist nicht sehr *beruhigend*.
+  This news is not very *reassuring*.
 
   Le médecin s'est montré *rassurant* lors de la consultation.
-  Der Arzt zeigte sich während der Sprechstunde *zuversichtlich*.
+  The doctor was *reassuring* during the consultation.
 
   Son sourire *rassurant* m'a fait oublier mes craintes.
-  Ihr *beruhigendes* Lächeln ließ mich meine Ängste vergessen.
+  Her *reassuring* smile made me forget my fears.
 
   Les résultats des examens sont *rassurants*.
-  Die Untersuchungsergebnisse sind *ermutigend*.
+  The results of the exams are *reassuring*.
 
   Elle a pris un ton *rassurant* pour parler aux enfants.
-  Sie sprach in einem *beruhigenden* Ton mit den Kindern.
+  She took a *reassuring* tone to talk to the children.
 
   Ces statistiques ne sont guère *rassurantes*.
-  Diese Statistiken sind kaum *ermutigend*.
+  These statistics are hardly *reassuring*.
 
   La présence de Paul est toujours *rassurante*.
-  Pauls Anwesenheit ist immer *beruhigend*.
+  Paul's presence is always *reassuring*.
 
   L'expert se voulait *rassurant* face aux inquiétudes du public.
-  Der Experte versuchte angesichts der öffentlichen Besorgnisse *beschwichtigend* zu wirken.
+  The expert wanted to reassure himself of the public's concerns.
 
   Son expression *rassurante* m'a donné confiance.
-  Sein *zuversichtlicher* Gesichtsausdruck gab mir Vertrauen.
+  His *reassuring* expression gave me confidence.
 
   Les prévisions météorologiques sont plutôt *rassurantes* pour demain.
-  Die Wettervorhersagen für morgen sind recht *beruhigend*.
+  Weather forecasts are pretty *reassuring* for tomorrow.
 
   Je trouve sa voix très *rassurante*.
-  Ich finde seine Stimme sehr *beruhigend*.
+  I find her voice very *reassuring*.
 
   Les signes de reprise économique sont *rassurants*.
-  Die Anzeichen für eine wirtschaftliche Erholung sind *ermutigend*.
+  Signs of economic recovery are *reassuring*.
 
   L'ambiance n'était pas vraiment *rassurante* dans cette ruelle sombre.
-  Die Atmosphäre in dieser dunklen Gasse war nicht gerade *beruhigend*.
+  The atmosphere in that dark alley was not very *reassuring*.
 
   Son attitude *rassurante* a calmé tout le monde.
-  Seine *beschwichtigende* Haltung beruhigte alle.
+  His *reassuring* attitude calmed everyone down.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

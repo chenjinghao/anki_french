@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2540
 Wort: satisfaisant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: satisfaisant
 Femininum / Plural: satisfaisante
 IPA: \sa.tis.fə.zɑ̃\
-Definition: befriedigend, zufriedenstellend
+Definition: satisfactory
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne trouvais pas d'emploi *satisfaisant* en région.
-  Ich fand keine *zufriedenstellende* Arbeit in der Region.
+  I couldn't find a satisfying job in the area.
 
   Les résultats de l'enquête sont *satisfaisants* pour le gouvernement.
-  Die Ergebnisse der Umfrage sind für die Regierung *zufriedenstellend*.
+  The results of the survey are *satisfactory* for the government.
 
   Sa performance n'était pas *satisfaisante* lors de l'entretien d'embauche.
-  Seine Leistung war beim Vorstellungsgespräch nicht *befriedigend*.
+  His performance was not *satisfactory* at the job interview.
 
   Nous avons enfin trouvé une solution *satisfaisante* au problème.
-  Wir haben endlich eine *zufriedenstellende* Lösung für das Problem gefunden.
+  We finally found a *satisfactory* solution to the problem.
 
   L'état de santé du patient est *satisfaisant* selon le médecin.
-  Der Gesundheitszustand des Patienten ist laut dem Arzt *zufriedenstellend*.
+  The patient's health status is *satisfactory* according to the doctor.
 
   Ce compromis est-il *satisfaisant* pour les deux parties ?
-  Ist dieser Kompromiss für beide Parteien *zufriedenstellend*?
+  Is this compromise *satisfactory* to both parties?
 
   Les notes de l'élève sont à peine *satisfaisantes* ce trimestre.
-  Die Noten des Schülers sind in diesem Trimester kaum *befriedigend*.
+  The student's grades are barely *satisfactory* this quarter.
 
   Elle a fourni une explication *satisfaisante* pour son retard.
-  Sie hat eine *zufriedenstellende* Erklärung für ihre Verspätung geliefert.
+  She provided a *satisfactory* explanation for her delay.
 
   Le nouveau design du produit n'est pas *satisfaisant* pour les clients.
-  Das neue Design des Produkts ist für die Kunden nicht *zufriedenstellend*.
+  The new design of the product is not *satisfactory* to customers.
 
   Nous cherchons une qualité *satisfaisante* à un prix raisonnable.
-  Wir suchen eine *zufriedenstellende* Qualität zu einem vernünftigen Preis.
+  We seek a *satisfactory* quality at a reasonable price.
 
   Les conditions de travail sont-elles *satisfaisantes* dans cette entreprise ?
-  Sind die Arbeitsbedingungen in diesem Unternehmen *zufriedenstellend*?
+  Are the working conditions *satisfactory* in this company?
 
   Le rapport présente des résultats *satisfaisants* malgré les difficultés.
-  Der Bericht zeigt trotz der Schwierigkeiten *zufriedenstellende* Ergebnisse.
+  The report shows *satisfactory* results despite the difficulties.
 
   Sa réponse à mes questions n'était pas vraiment *satisfaisante*.
-  Seine Antwort auf meine Fragen war nicht wirklich *befriedigend*.
+  His answers to my questions were not very satisfying.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

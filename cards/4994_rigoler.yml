@@ -1,90 +1,90 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4994
 Wort: rigoler
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rigoler
 Femininum / Plural: ''
 IPA: \ʁi.ɡɔ.le\
-Definition: lachen; Spaß haben
+Definition: laugh; have fun
 Register: ↘Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ça ne *rigole* pas au labo !
-  Im Labor wird nicht *gescherzt*!
+  It's not funny in the lab!
 
   "Arrête de *rigoler*, c'est un sujet sérieux !"
-  "Hör auf zu *lachen*, das ist ein ernstes Thema!"
+  "Stop *laughing*, this is serious!"
 
   Les enfants ont beaucoup *rigolé* pendant le spectacle de marionnettes.
-  Die Kinder haben während der Puppenshow viel *gelacht*.
+  The children *laughed* a lot during the puppet show.
 
   "Je ne *rigole* pas, j'ai vraiment vu un ovni !"
-  "Ich mache keine *Witze*, ich habe wirklich ein UFO gesehen!"
+  "I'm not kidding, I really saw a UFO!"
 
   On a bien *rigolé* à son anniversaire hier soir.
-  Wir haben gestern Abend auf seiner Geburtstagsfeier viel *Spaß gehabt*.
+  We had a good laugh at her birthday last night.
 
   Marie *rigole* toujours de mes blagues, même les plus bêtes.
-  Marie *lacht* immer über meine Witze, selbst über die dümmsten.
+  Marie always laughs at my jokes, even the dumbest.
 
   C'était juste pour *rigoler*, je ne voulais pas te vexer.
-  Das war nur zum *Spaß*, ich wollte dich nicht beleidigen.
+  I was just kidding. I didn't want to piss you off.
 
   Cette vidéo m'a fait *rigoler* pendant des heures.
-  Dieses Video hat mich stundenlang zum *Lachen* gebracht.
+  This video made me laugh for hours.
 
   Il ne faut pas *rigoler* avec les règles de sécurité.
-  Mit Sicherheitsregeln darf man keinen *Spaß* machen.
+  Don't make fun of the safety rules.
 
   "Tu *rigoles* ou quoi ? Ce n'est pas possible !"
-  "*Machst* du *Witze* oder was? Das ist nicht möglich!"
+  "Are you kidding me or what?
 
   Nous avons bien *rigolé* ensemble pendant nos vacances.
-  Wir haben im Urlaub viel zusammen *gelacht*.
+  We had a good laugh together during our vacation.
 
   Les élèves n'arrêtaient pas de *rigoler* pendant le cours.
-  Die Schüler hörten während des Unterrichts nicht auf zu *lachen*.
+  The students laughed constantly during the class.
 
   Son histoire nous a fait *rigoler* toute la soirée.
-  Seine Geschichte hat uns den ganzen Abend zum *Lachen* gebracht.
+  His story made us laugh all night.
 
   "Parfois, il faut savoir *rigoler* un peu dans la vie."
-  "Manchmal muss man im Leben auch ein bisschen *lachen* können."
+  "Sometimes you have to know how to laugh a little bit in life".
 
   Thomas aime bien *rigoler* avec ses nouveaux collègues.
-  Thomas *scherzt* gerne mit seinen neuen Kollegen.
+  Thomas likes to laugh with his new colleagues.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>rire</i> und <i>rigoler</i></div>
+    <div class="section-title"><i>rire</i> and <i>rigoler</i></div>
     <div class="section-content">
-      <p><span class="fr">Rire</span> (#1193) bedeutet <span class="de">"lachen"</span> und ist das standardsprachliche, neutrale Verb für das Lachen. Es wird in allen Registern verwendet, von formell bis informell.</p>
+      <p><span class="fr">Rire</span> (#1193) means <span class="de">"laugh"</span> And it's the default, neutral verb for laughter. It's used in every record, from formal to informal.</p>
       <div class="examples">
         <div class="fr">Elle a ri de bon cœur à cette blague.</div>
-        <div class="de spoiler">Sie hat herzlich über diesen Witz gelacht.</div>
+        <div class="de spoiler">She laughed so hard at that joke.</div>
         <div class="fr">Il ne faut pas rire de ses malheurs.</div>
-        <div class="de spoiler">Man sollte nicht über sein Unglück lachen.</div>
+        <div class="de spoiler">You shouldn't laugh at your misfortune.</div>
       </div>
-      <p><span class="fr">Rigoler</span> bedeutet ebenfalls <span class="de">"lachen"</span>, ist jedoch umgangssprachlicher und informeller. Es wird hauptsächlich in der gesprochenen Sprache verwendet und hat oft eine spielerischere Konnotation.</p>
+      <p><span class="fr">Rigoler</span> also means <span class="de">"laugh"</span>It is mainly used in the spoken language and often has a more playful connotation.</p>
       <div class="examples">
         <div class="fr">On a bien rigolé hier soir chez Pierre.</div>
-        <div class="de spoiler">Wir haben gestern Abend bei Pierre gut gelacht.</div>
+        <div class="de spoiler">We had a good laugh at Pierre's last night.</div>
         <div class="fr">Tu rigoles ou tu es sérieux?</div>
-        <div class="de spoiler">Machst du Witze oder meinst du das ernst?</div>
+        <div class="de spoiler">Are you kidding me or are you serious?</div>
       </div>
-      <p><span class="fr">Rigoler</span> kann auch <span class="de">"Spaß haben"</span> oder <span class="de">"scherzen"</span> bedeuten, während <span class="fr">rire</span> sich spezifischer auf das Lachen als Handlung bezieht.</p>
+      <p><span class="fr">Rigoler</span> can also <span class="de">"Have fun"</span> or <span class="de">I'm not kidding.</span> mean while <span class="fr">rire</span> It's more specifically about laughter as an act.</p>
       <div class="examples">
         <div class="fr">Les enfants ont rigolé toute la journée au parc.</div>
-        <div class="de spoiler">Die Kinder hatten den ganzen Tag im Park Spaß.</div>
+        <div class="de spoiler">The kids had fun in the park all day.</div>
       </div>
     </div>
   </div>

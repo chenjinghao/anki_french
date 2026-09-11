@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4557
 Wort: indirectement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: indirectement
 Femininum / Plural: ''
 IPA: \ɛ̃.di.ʁɛk.tə.mɑ̃\
-Definition: auf indirekte Weise
+Definition: indirectly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'étais impliqué aussi bien directement qu'*indirectement*.
-  Ich war sowohl direkt als auch *indirekt* beteiligt.
+  I was involved both directly and *indirectly*.
 
   Le son nous parvient *indirectement* à travers les murs.
-  Der Schall erreicht uns *indirekt* durch die Wände.
+  The sound reaches us *indirectly* through the walls.
 
   Cette remarque s'adressait *indirectement* à Pierre.
-  Diese Bemerkung war *indirekt* an Pierre gerichtet.
+  This remark was directed to Pierre.
 
   Elle a *indirectement* contribué au succès du projet.
-  Sie hat *indirekt* zum Erfolg des Projekts beigetragen.
+  She *indirectly* contributed to the success of the project.
 
   Je n'ai appris la nouvelle qu'*indirectement*, par une collègue.
-  Ich habe die Nachricht nur *indirekt* durch eine Kollegin erfahren.
+  I only got the news *indirectly* from a colleague.
 
   L'accident a *indirectement* causé la fermeture de l'usine.
-  Der Unfall hat *indirekt* zur Schließung der Fabrik geführt.
+  The accident *indirectly* caused the factory to close.
 
   Il cherche *indirectement* à obtenir mon aide.
-  Er versucht auf *indirektem* Weg, meine Hilfe zu bekommen.
+  He's *indirectly* trying to get my help.
 
   Ces changements nous affectent tous *indirectement*.
-  Diese Veränderungen betreffen uns alle *indirekt*.
+  These changes affect us all *indirectly*.
 
   La pollution influence *indirectement* notre santé.
-  Die Verschmutzung beeinflusst unsere Gesundheit *indirekt*.
+  Pollution *indirectly* affects our health.
 
   Marie m'a *indirectement* fait comprendre qu'elle était déçue.
-  Marie hat mir *indirekt* zu verstehen gegeben, dass sie enttäuscht war.
+  Marie *indirectly* made it clear to me that she was disappointed.
 
   Les médias ont *indirectement* influencé le vote.
-  Die Medien haben die Abstimmung *indirekt* beeinflusst.
+  The media *indirectly* influenced the vote.
 
   Il m'a *indirectement* avoué ses intentions.
-  Er hat mir seine Absichten *indirekt* gestanden.
+  He *indirectly* confessed his intentions to me.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

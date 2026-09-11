@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3879
 Wort: suspens
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le suspens
 Femininum / Plural: ''
 IPA: \sys.pɑ̃\
-Definition: offen; Spannung
+Definition: open; voltage
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Trop de questions vont rester en *suspens*.
-  Zu viele Fragen werden *offen* bleiben.
+  Too many questions will remain unanswered.
 
   Le projet est en *suspens* depuis des mois.
-  Das Projekt ist seit Monaten in der *Schwebe*.
+  The project has been on hold for months.
 
   Sa réponse est restée en *suspens*.
-  Seine Antwort blieb *unentschieden*.
+  His answer remained unanswered.
 
   Ces négociations sont en *suspens* depuis longtemps.
-  Diese Verhandlungen *schweben* seit langem.
+  These negotiations have been on hold for a long time.
 
   Ma demande de visa est toujours en *suspens*.
-  Mein Visumsantrag ist noch *anhängig*.
+  My visa application is still pending.
 
   Je déteste être en *suspens* avant un examen important.
-  Ich hasse es, vor einer wichtigen Prüfung in *Ungewissheit* zu sein.
+  I hate being suspended before an important exam.
 
   Les travaux sont en *suspens* à cause du mauvais temps.
-  Die Arbeiten sind wegen des schlechten Wetters *ausgesetzt*.
+  The work is suspended because of bad weather.
 
   Laissant sa phrase en *suspens*, elle quitta la pièce.
-  Sie ließ ihren Satz *unvollendet* und verließ den Raum.
+  Leaving her sentence pending, she left the room.
 
   Notre déménagement est en *suspens* jusqu'à nouvel ordre.
-  Unser Umzug ist bis auf weiteres in der *Schwebe*.
+  Our move is pending until further notice.
 
   Le sort de l'entreprise reste en *suspens*.
-  Das Schicksal der Firma bleibt *ungewiss*.
+  The fate of the company remains to be seen.
 
   Cette décision me tient en *suspens* depuis des semaines.
-  Diese Entscheidung hält mich seit Wochen in *Spannung*.
+  This decision has been holding me back for weeks.
 
   L'avenir du projet est en *suspens*.
-  Die Zukunft des Projekts ist *unentschieden*.
+  The future of the project is on hold.
 
   Elle nous a gardés en *suspens* pendant toute la soirée.
-  Sie hielt uns den ganzen Abend in *Spannung*.
+  She kept us hanging out all night.
 
   Les rénovations sont en *suspens* faute de budget.
-  Die Renovierungen sind aus Geldmangel *ausgesetzt*.
+  The renovations are on hold due to budget constraints.
 
   La séance est en *suspens* jusqu'à l'arrivée du président.
-  Die Sitzung ist bis zur Ankunft des Vorsitzenden *unterbrochen*.
+  The meeting is adjourned until the President arrives.
 
   Le match est en *suspens* à cause de la pluie.
-  Das Spiel ist wegen des Regens *unterbrochen*.
+  The game is on hold because of the rain.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

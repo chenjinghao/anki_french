@@ -22,7 +22,7 @@ function render() {
   
   (async () => {
     if (options.autoPlaySentence) {
-      playAudio({text: de, lang: "de-DE"});
+      playAudio({text: de, lang: "en-US"});
     }
   })();
   

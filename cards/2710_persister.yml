@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2710
 Wort: persister
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: persister
 Femininum / Plural: ''
 IPA: \pɛʁ.sis.te\
-Definition: fortbestehen, beharren
+Definition: to persist
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous *persistez* à vouloir faire votre devoir ?
-  Sie *bestehen* darauf, Ihre Hausaufgaben zu machen?
+  Do you still want to do your duty?
 
   Malgré les difficultés, elle *persiste* dans ses efforts pour apprendre le français.
-  Trotz der Schwierigkeiten *beharrt* sie auf ihren Bemühungen, Französisch zu lernen.
+  Despite the difficulties, she *persists* in her efforts to learn French.
 
   Le mauvais temps *persiste* depuis une semaine.
-  Das schlechte Wetter *hält* seit einer Woche *an*.
+  The bad weather's been going on for a week.
 
   "Je *persiste* et je signe !" a-t-il déclaré fermement.
-  "Ich *bleibe* bei meiner Meinung und unterschreibe das!", erklärte er entschieden.
+  "I insist and sign!" he declared firmly.
 
   Les symptômes de la grippe peuvent *persister* pendant plusieurs jours.
-  Die Grippesymptome können mehrere Tage lang *anhalten*.
+  Flu symptoms may persist for several days.
 
   Il *persiste* à croire en son innocence malgré les preuves accablantes.
-  Er *besteht* trotz der erdrückenden Beweise weiterhin auf seiner Unschuld.
+  He *persists* in believing his innocence despite the overwhelming evidence.
 
   La mode des années 80 *persiste* encore aujourd'hui.
-  Der Modetrend der 80er Jahre *hält* sich bis heute.
+  The fashion of the 1980's still *persists* today.
 
   Le souvenir de cette journée *persiste* dans ma mémoire.
-  Die Erinnerung an diesen Tag *bleibt* in meinem Gedächtnis.
+  The memory of that day remains in my memory.
 
   Nous *persistons* dans notre projet malgré les obstacles.
-  Wir *halten* trotz der Hindernisse an unserem Projekt *fest*.
+  We persevere in our project despite the obstacles.
 
   Le bruit *persiste* même après minuit.
-  Der Lärm *dauert* auch nach Mitternacht *an*.
+  The noise *persists* even after midnight.
 
   Elle *persiste* à dire la vérité, quelles que soient les conséquences.
-  Sie *beharrt* darauf, die Wahrheit zu sagen, ungeachtet der Konsequenzen.
+  She keeps telling the truth no matter what the consequences.
 
   La sécheresse *persiste* dans la région depuis des mois.
-  Die Trockenheit in der Region *hält* seit Monaten *an*.
+  The drought has persisted in the area for months.
 
   *Persistez*-vous toujours dans votre décision ?
-  *Bestehen* Sie immer noch auf Ihrer Entscheidung?
+  Do you still insist on your decision?
 
   Le parfum *persiste* longtemps sur les vêtements.
-  Der Duft *hält* lange auf der Kleidung.
+  The perfume stays on clothes for a long time.
 
   Malgré nos efforts, le problème *persiste*.
-  Trotz unserer Bemühungen *besteht* das Problem weiterhin.
+  Despite our best efforts, the problem *persists*.
 
   Les inégalités *persistent* dans de nombreux domaines de la société.
-  Ungleichheiten *bestehen* in vielen Bereichen der Gesellschaft weiterhin.
+  Inequality persists in many areas of society.
 
   "*Persistez* dans vos efforts, et vous réussirez," a encouragé le professeur.
-  "*Bleiben* Sie bei Ihren Bemühungen, und Sie werden Erfolg haben," ermutigte der Lehrer.
+  "Continue your efforts, and you will succeed", the teacher encouraged.
 
   Le mystère *persiste* quant à l'origine de ces artefacts anciens.
-  Das Rätsel um den Ursprung dieser alten Artefakte *bleibt bestehen*.
+  The origin of these ancient artifacts remains a mystery.
 
   Bien que la douleur *persiste*, elle diminue progressivement.
-  Obwohl der Schmerz *anhält*, nimmt er allmählich ab.
+  Although the pain *persists*, it gradually subsides.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3320
 Wort: assortir
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: assortir
 Femininum / Plural: ''
 IPA: \a.sɔʁ.tiʁ\
-Definition: zusammenstellen, passend machen
+Definition: to assemble, make fit
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'essaye d'*assortir* votre visage avec vos cheveux.
-  Ich versuche, Ihr Gesicht mit Ihren Haaren *abzustimmen*.
+  I'm trying to match your face to your hair.
 
   Elle *assortit* soigneusement les couleurs de la décoration.
-  Sie *stimmte* die Farben der Dekoration sorgfältig *aufeinander ab*.
+  She carefully matches the colors of the decorations.
 
   Les tons bleus et verts ne s'*assortissent* pas bien ensemble.
-  Die blauen und grünen Töne *passen* nicht gut *zusammen*.
+  The shades of blue and green don't go well together.
 
   Il a *assorti* sa cravate à sa chemise pour l'entretien.
-  Er hat seine Krawatte für das Gespräch auf sein Hemd *abgestimmt*.
+  He matched his tie to his shirt for the interview.
 
   Le vendeur *assortit* le magasin de nouveaux produits.
-  Der Verkäufer *stattete* den Laden mit neuen Produkten *aus*.
+  The seller matches the store with new products.
 
   La robe s'*assortit* d'accessoires élégants.
-  Das Kleid wurde mit eleganten Accessoires *versehen*.
+  The dress comes with stylish accessories.
 
   Marie *assortit* les invités selon leurs centres d'intérêt.
-  Marie *brachte* die Gäste nach ihren Interessen *zusammen*.
+  Marie *matched* the guests according to their interests.
 
   Le roman s'*assortit* de belles illustrations.
-  Der Roman wurde mit schönen Illustrationen *versehen*.
+  The novel was packed with beautiful illustrations.
 
   Le professeur *assortit* son cours d'exemples pratiques.
-  Der Lehrer *ergänzte* seinen Unterricht mit praktischen Beispielen.
+  The teacher accompanies his class with practical examples.
 
   Ces deux personnes sont mal *assorties*.
-  Diese beiden Personen *passen* nicht *zusammen*.
+  These two people are mismatched.
 
   Elle *assortit* les fleurs du bouquet avec goût.
-  Sie *stellte* die Blumen des Straußes geschmackvoll *zusammen*.
+  She *matched* the flowers in the bouquet with taste.
 
   Le restaurant propose des desserts *assortis*.
-  Das Restaurant bietet eine *zusammengestellte* Dessertauswahl an.
+  The restaurant offers desserts.
 
   La bibliothèque est bien *assortie* en livres d'histoire.
-  Die Bibliothek ist gut mit Geschichtsbüchern *ausgestattet*.
+  The library is well equipped with history books.
 
   Le contrat s'*assortit* d'une clause particulière.
-  Der Vertrag wurde mit einer besonderen Klausel *versehen*.
+  The contract is accompanied by a specific clause.
 
   Cette boutique s'*assortit* régulièrement de nouvelles collections.
-  Diese Boutique *stattet* sich regelmäßig mit neuen Kollektionen *aus*.
+  This store is regularly adding new collections.
 
   Les rideaux s'*assortissent* parfaitement au canapé.
-  Die Vorhänge *passen* perfekt zum Sofa.
+  The curtains fit perfectly into the couch.
 
   Le musicien a *assorti* sa mélodie d'une belle harmonie.
-  Der Musiker hat seine Melodie mit einer schönen Harmonie *ergänzt*.
+  The musician matched his melody to a beautiful harmony.
 
   Les deux tableaux ne s'*assortissent* pas bien dans cette pièce.
-  Die beiden Gemälde *passen* in diesem Raum nicht gut *zusammen*.
+  The two paintings don't match well in this room.
 
   Le pâtissier *assortit* les chocolats dans la boîte.
-  Der Konditor *stellte* die Pralinen in der Schachtel *zusammen*.
+  The baker *matched* the chocolates in the box.
 
   Elle *assortit* son discours de citations pertinentes.
-  Sie *ergänzte* ihre Rede mit passenden Zitaten.
+  She accompanied her speech with relevant quotes.
 
   Ces deux caractères s'*assortissent* à merveille.
-  Diese beiden Charaktere *passen* wunderbar *zusammen*.
+  These two characters go together wonderfully.
 
   Le chef a *assorti* les vins aux plats du menu.
-  Der Koch hat die Weine auf die Gerichte der Speisekarte *abgestimmt*.
+  The chef matched the wines to the menu dishes.
 
   La présentation s'*assortit* de graphiques explicatifs.
-  Die Präsentation wurde mit erklärenden Grafiken *versehen*.
+  The presentation is accompanied by explanatory graphics.
 
   Le styliste *assortit* les différentes pièces de la collection.
-  Der Designer *stimmte* die verschiedenen Teile der Kollektion *aufeinander ab*.
+  The stylist matches the different pieces in the collection.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

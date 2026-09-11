@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1644
 Wort: exportation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une exportation
 Femininum / Plural: ''
 IPA: \ɛk.spɔʁ.ta.sjɔ̃\
-Definition: Export
+Definition: Exports
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *exportations* ont légèrement baissé.
-  Die *Ausfuhren* sind leicht zurückgegangen.
+  *Exports* declined slightly.
 
   Notre entreprise se spécialise dans l'*exportation* directe vers l'Asie.
-  Unser Unternehmen ist auf die Direkt*ausfuhr* nach Asien spezialisiert.
+  Our company specializes in direct *exports* to Asia.
 
   L'*exportation* de pétrole représente 60% de leur économie.
-  Der Öl*export* macht 60% ihrer Wirtschaft aus.
+  Oil *exports* account for 60% of their economy.
 
   L'*exportation* de blé vers l'Afrique a doublé cette année.
-  Der Weizen*export* nach Afrika hat sich dieses Jahr verdoppelt.
+  Wheat *exports* to Africa have doubled this year.
 
   Cette réglementation facilite l'*exportation* de marchandises.
-  Diese Regelung erleichtert die Waren*ausfuhr*.
+  This regulation facilitates the export of goods.
 
   L'*exportation* de viande doit respecter des normes strictes.
-  Der Fleisch*export* muss strenge Standards einhalten.
+  *Exports* of meat must comply with strict standards.
 
   Ces articles d'*exportation* génèrent beaucoup de profit.
-  Diese *Export*artikel generieren viel Gewinn.
+  These *exports* generate a great deal of profit.
 
   Cette marchandise d'*exportation* est très demandée à l'étranger.
-  Diese *Export*ware ist im Ausland sehr gefragt.
+  This export commodity is in high demand abroad.
 
   Ce modèle destiné à l'*exportation* inclut des fonctions spéciales.
-  Dieses *Export*modell enthält spezielle Funktionen.
+  This export model includes special functions.
 
   Le gouvernement a stoppé les *exportations* de pétrole vers ce pays.
-  Die Regierung hat dem Land den Öl*export* gesperrt.
+  The government has stopped oil *exports* to this country.
 
   Le volume des *exportations* a atteint un niveau record.
-  Das *Export*volumen hat einen Rekordstand erreicht.
+  The volume of *exports* reached a record level.
 
   Les *exportations* en valeur réelle ont augmenté de 5%.
-  Die reale *Export*leistung ist um 5% gestiegen.
+  *Exports* in real value increased by 5%.
 
   L'*exportation* des données doit être sécurisée.
-  Der Daten*export* muss gesichert sein.
+  The export of the data must be secured.
 
   Cette maison d'*exportation* existe depuis cinquante ans.
-  Dieses *Export*haus besteht seit fünfzig Jahren.
+  This export house has existed for fifty years.
 
   La chute des *exportations* inquiète les économistes.
-  Der Rückgang der *Ausfuhren* beunruhigt die Ökonomen.
+  The fall in *exports* worries economists.
 
   Le développement des *exportations* stimule la croissance économique.
-  Die Entwicklung der *Ausfuhren* stimuliert das Wirtschaftswachstum.
+  The development of *exports* stimulates economic growth.
 
   Notre licence d'*exportation* vient d'être renouvelée.
-  Unsere *Export*lizenz wurde gerade erneuert.
+  Our export licence has just been renewed.
 
   L'*exportation* de capitaux vers l'étranger est strictement contrôlée.
-  Der Kapital*export* ins Ausland wird streng kontrolliert.
+  *Exports* of capital abroad are strictly controlled.
 
   Le montant des *exportations* dépasse nos attentes.
-  Die Höhe der *Ausfuhren* übertrifft unsere Erwartungen.
+  The amount of *exports* exceeds our expectations.
 
   La valeur des *exportations* a triplé en dix ans.
-  Der Wert der *Ausfuhren* hat sich in zehn Jahren verdreifacht.
+  The value of *exports* has tripled in ten years.
 
   Cette *exportation* de mode française influence le style mondial.
-  Dieser *Export* französischer Mode beeinflusst den weltweiten Stil.
+  This export of French fashion influences the world style.
 
   L'*exportation* de produits agricoles soutient l'économie locale.
-  Der *Export* von Agrarprodukten stützt die lokale Wirtschaft.
+  The export of agricultural products supports the local economy.
 
   L'excédent des *exportations* renforce notre balance commerciale.
-  Der *Export*überschuss stärkt unsere Handelsbilanz.
+  The export surplus strengthens our trade balance.
 
   Le déficit des *exportations* pose un problème économique majeur.
-  Das *Export*defizit stellt ein großes wirtschaftliches Problem dar.
+  The export deficit is a major economic problem.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

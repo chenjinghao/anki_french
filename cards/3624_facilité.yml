@@ -1,64 +1,118 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3624
 Wort: facilité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la facilité
 Femininum / Plural: ''
 IPA: \fa.si.li.te\
-Definition: Leichtigkeit; Begabung
+Definition: ease; aptitude; facility
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Il lit avec *facilité*.\nEr liest mit *Leichtigkeit*.\n\nElle a réalisé\
-  \ tous les exercices avec *facilité*.\nSie hat alle Übungen mit *Leichtigkeit* gelöst.\n\
-  \nPour plus de *facilité*, nous avons préparé un guide détaillé.\nDer *Einfachheit*\
-  \ halber haben wir einen ausführlichen Leitfaden erstellt.\n\nCet enfant montre\
-  \ une grande *facilité* pour les langues étrangères.\nDieses Kind zeigt eine große\
-  \ *Begabung* für Fremdsprachen.\n\nLa *facilité* de cette méthode a convaincu tous\
-  \ les participants.\nDie *Einfachheit* dieser Methode hat alle Teilnehmer überzeugt.\n\
-  \nMarie a toujours eu des *facilités* en mathématiques.\nMarie war schon immer mathematisch\
-  \ *begabt*.\n\n\"Il ne faut pas céder à la *facilité*\", a dit le professeur.\n\"\
-  Man darf nicht den Weg der *Bequemlichkeit* wählen\", sagte der Lehrer.\n\nLe magasin\
-  \ propose des *facilités* de paiement intéressantes.\nDas Geschäft bietet günstige\
-  \ Zahlungs*erleichterungen* an.\n\nSa *facilité* d'expression impressionne tout\
-  \ le monde.\nSeine sprachliche *Gewandtheit* beeindruckt alle.\n\nL'école offre\
-  \ toutes les *facilités* pour réussir.\nDie Schule bietet alle *Möglichkeiten* zum\
-  \ Erfolg.\n\nCette tâche est d'une *facilité* déconcertante.\nDiese \tAufgabe ist\
-  \ von verblüffender *Leichtigkeit*.\n\nIl s'exprime avec une *facilité* remarquable\
-  \ en français.\nEr drückt sich mit bemerkenswerter *Leichtigkeit* auf Französisch\
-  \ aus.\n\nLa banque m'a accordé des *facilités* de caisse.\nDie Bank hat mir einen\
-  \ Überziehungs*kredit* gewährt.\n\nLes parents ont fourni toutes les *facilités*\
-  \ pour ses études.\nDie Eltern haben alle *Möglichkeiten* für sein Studium bereitgestellt.\n\
-  \nSa *facilité* à apprendre les langues est impressionnante.\nSeine *Begabung* beim\
-  \ Sprachenlernen ist beeindruckend.\n\n\"Ne choisis pas toujours la solution de\
-  \ *facilité*!\"\n\"Wähle nicht immer den Weg der *Bequemlichkeit*!\"\n\nLes *facilités*\
-  \ de transport ont beaucoup amélioré notre quotidien.\nDie Verkehrs*erleichterungen*\
-  \ haben unseren Alltag stark verbessert.\n\nSon style a une *facilité* naturelle.\n\
-  Sein Stil hat eine natürliche *Leichtigkeit*.\n\nLa *facilité* de son caractère\
-  \ le rend très populaire.\nSeine *Umgänglichkeit* macht ihn sehr beliebt.\n\nIl\
-  \ a une *facilité* déconcertante pour résoudre les problèmes.\nEr hat eine verblüffende\
-  \ *Leichtigkeit* beim Lösen von Problemen.\n\nLes étudiants apprécient la *facilité*\
-  \ d'utilisation du nouveau système.\nDie Studenten schätzen die Benutzer*freundlichkeit*\
-  \ des neuen Systems.\n\nThomas a toujours eu des *facilités* en sport.\nThomas war\
-  \ schon immer sportlich *begabt*.\n\nLa *facilité* apparente de l'exercice est trompeuse.\n\
-  Die scheinbare *Leichtigkeit* der Übung ist trügerisch.\n\nJe suis surpris par la\
-  \ *facilité* avec laquelle il a accepté.\nIch bin überrascht von der *Leichtigkeit*,\
-  \ mit der er zugestimmt hat.\n\nElle peint avec une *facilité* extraordinaire.\n\
-  Sie malt mit außergewöhnlicher *Leichtigkeit*.\n\nNous recherchons toutes les *facilités*\
-  \ possibles pour nos clients.\nWir suchen alle möglichen *Erleichterungen* für unsere\
-  \ Kunden.\n\nSa *facilité* d'adaptation est remarquable.\nSeine Anpassungs*fähigkeit*\
-  \ ist bemerkenswert.\n\nLes *facilités* de paiement sont valables trois mois.\n\
-  Die Zahlungs*erleichterungen* gelten drei Monate.\n\nIl nage avec une *facilité*\
-  \ impressionnante.\nEr schwimmt mit beeindruckender *Leichtigkeit*.\n\nLa *facilité*\
-  \ d'accès au bâtiment a été améliorée.\nDie Zugangs*möglichkeiten* zum Gebäude wurden\
-  \ verbessert.\n\nCette artiste crée avec une *facilité* déconcertante.\nDiese Künstlerin\
-  \ schafft mit verblüffender *Leichtigkeit*.\n\nSa *facilité* à communiquer lui ouvre\
-  \ toutes les portes.\nSeine *Begabung* zu kommunizieren öffnet ihm alle Türen.\n\
-  \nL'entreprise propose des *facilités* de remboursement.\nDas Unternehmen bietet\
-  \ Rückzahlungs*erleichterungen* an.\n\nIl a une *facilité* naturelle pour la musique.\n\
-  Er hat eine natürliche *Begabung* für Musik."
+Beispielsätze: |-
+  Il lit avec *facilité*.
+  He reads easily.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+  Elle a réalisé tous les exercices avec *facilité*.
+  She did all the exercises with ease.
+
+  Pour plus de *facilité*, nous avons préparé un guide détaillé.
+  To make it easier, we prepared a detailed guide.
+
+  Cet enfant montre une grande *facilité* pour les langues étrangères.
+  This child shows great ease in learning foreign languages.
+
+  La *facilité* de cette méthode a convaincu tous les participants.
+  The simplicity of this method convinced all the participants.
+
+  Marie a toujours eu des *facilités* en mathématiques.
+  Marie has always been *talented* at mathematics.
+
+  "Il ne faut pas céder à la *facilité*", a dit le professeur.
+  "We must not give in to ease", said the professor.
+
+  Le magasin propose des *facilités* de paiement intéressantes.
+  The store offers interesting payment facilities.
+
+  Sa *facilité* d'expression impressionne tout le monde.
+  His ease of expression impresses everyone.
+
+  L'école offre toutes les *facilités* pour réussir.
+  The school provides all the facilities to succeed.
+
+  Cette tâche est d'une *facilité* déconcertante.
+  This task is a puzzlingly easy one.
+
+  Il s'exprime avec une *facilité* remarquable en français.
+  He speaks French with remarkable ease.
+
+  La banque m'a accordé des *facilités* de caisse.
+  The bank gave me cash facilities.
+
+  Les parents ont fourni toutes les *facilités* pour ses études.
+  The parents provided all the facilities for his studies.
+
+  Sa *facilité* à apprendre les langues est impressionnante.
+  Its ease of learning languages is impressive.
+
+  "Ne choisis pas toujours la solution de *facilité*!"
+  "Don't always choose the easy solution!"
+
+  Les *facilités* de transport ont beaucoup amélioré notre quotidien.
+  Transportation facilities have greatly improved our daily lives.
+
+  Son style a une *facilité* naturelle.
+  His style has a natural ease.
+
+  La *facilité* de son caractère le rend très populaire.
+  Its simplicity of character makes it very popular.
+
+  Il a une *facilité* déconcertante pour résoudre les problèmes.
+  He has a disconcerting way of solving problems.
+
+  Les étudiants apprécient la *facilité* d'utilisation du nouveau système.
+  Students appreciate the *ease of use* of the new system.
+
+  Thomas a toujours eu des *facilités* en sport.
+  Thomas has always had facilities in sports.
+
+  La *facilité* apparente de l'exercice est trompeuse.
+  The apparent ease of exercise is deceptive.
+
+  Je suis surpris par la *facilité* avec laquelle il a accepté.
+  I'm amazed at how easily he accepted.
+
+  Elle peint avec une *facilité* extraordinaire.
+  She paints with extraordinary ease.
+
+  Nous recherchons toutes les *facilités* possibles pour nos clients.
+  We're looking for every possible convenience for our clients.
+
+  Sa *facilité* d'adaptation est remarquable.
+  Its adaptability is remarkable.
+
+  Les *facilités* de paiement sont valables trois mois.
+  Payment facilities shall be valid for three months.
+
+  Il nage avec une *facilité* impressionnante.
+  He swims with impressive ease.
+
+  La *facilité* d'accès au bâtiment a été améliorée.
+  The facility of access to the building has been improved.
+
+  Cette artiste crée avec une *facilité* déconcertante.
+  This artist creates with a disconcerting ease.
+
+  Sa *facilité* à communiquer lui ouvre toutes les portes.
+  His ease of communication opens doors for him.
+
+  L'entreprise propose des *facilités* de remboursement.
+  The company offers reimbursement facilities.
+
+  Il a une *facilité* naturelle pour la musique.
+  He has a natural aptitude for music.
+
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

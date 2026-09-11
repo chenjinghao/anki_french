@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3410
 Wort: fréquemment
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fréquemment
 Femininum / Plural: ''
 IPA: \fʁe.ka.mɑ̃\
-Definition: häufig, regelmäßig
+Definition: Frequently, regularly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les victimes sont *fréquemment* des femmes.
-  Die Opfer sind *häufig* Frauen.
+  The victims are often women.
 
   Il pleut *fréquemment* dans cette région en automne.
-  In dieser Region regnet es im Herbst *oft*.
+  It rains *frequently* in this area in the autumn.
 
   Ces erreurs apparaissent *fréquemment* dans les copies des élèves.
-  Diese Fehler tauchen in den Klassenarbeiten der Schüler *häufig* auf.
+  These errors often appear in students' copies.
 
   Ma grand-mère utilise *fréquemment* des expressions anciennes.
-  Meine Großmutter verwendet *oft* alte Ausdrücke.
+  My grandmother often uses old phrases.
 
   On trouve *fréquemment* des champignons dans cette forêt.
-  In diesem Wald findet man *häufig* Pilze.
+  Fungi are often found in this forest.
 
   Les bus passent moins *fréquemment* le dimanche.
-  Die Busse fahren sonntags weniger *häufig*.
+  Buses run less *frequently* on Sundays.
 
   Je me réveille *fréquemment* la nuit à cause du bruit.
-  Ich wache nachts wegen des Lärms *oft* auf.
+  I often wake up at night because of the noise.
 
   Ces questions sont *fréquemment* posées lors des entretiens.
-  Diese Fragen werden bei Vorstellungsgesprächen *häufig* gestellt.
+  These questions are often asked during interviews.
 
   Il voyage *fréquemment* à l'étranger pour son travail.
-  Er reist für seine Arbeit *oft* ins Ausland.
+  He *frequently* travels abroad for his work.
 
   Les enfants tombent *fréquemment* malades en hiver.
-  Kinder werden im Winter *häufig* krank.
+  Children often fall ill in the winter.
 
   Marie change *fréquemment* d'avis sur ce sujet.
-  Marie ändert bei diesem Thema *oft* ihre Meinung.
+  Marie often changes her mind about this subject.
 
   Les touristes visitent *fréquemment* ce musée en été.
-  Touristen besuchen dieses Museum im Sommer *häufig*.
+  Tourists *frequently* visit this museum in the summer.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

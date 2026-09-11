@@ -1,0 +1,57 @@
+name: V6 French-source 500-card full-150 QA
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  qa:
+    if: contains(github.event.head_commit.message, '[run v6 scale5 qa]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile QA scripts
+        run: python -m py_compile scripts/repair_v6_scale_manual150.py scripts/v6_scale_pilot_v5.py
+      - name: Install validation runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Download French-source scale artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: v6-500-card-french-source-pilot
+          path: scale5
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: chenjinghao/anki_french
+          run-id: 34500069784
+      - name: Apply all reviewed repairs
+        run: |
+          python scripts/repair_v6.py --root scale5/v6-scale2-combined --paths-file scale5/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale.py --root scale5/v6-scale2-combined --paths-file scale5/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale_extra.py --root scale5/v6-scale2-combined --paths-file scale5/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale_manual100.py --root scale5/v6-scale2-combined --paths-file scale5/v6-scale2-all-paths.txt
+          python scripts/repair_v6_scale_manual150.py --root scale5/v6-scale2-combined --paths-file scale5/v6-scale2-all-paths.txt
+      - name: Run full-150 revision-5 gate
+        run: |
+          python scripts/v6_scale_pilot_v5.py validate \
+            --root scale5/v6-scale2-combined \
+            --paths-file scale5/v6-scale2-all-paths.txt \
+            --report scale5/v6-scale5-report.txt
+      - name: Upload full-150 review corpus
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-500-card-full150-qa
+          path: scale5
+          retention-days: 7

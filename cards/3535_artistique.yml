@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3535
 Wort: artistique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: artistique
 Femininum / Plural: ''
 IPA: \aʁ.tis.tik\
-Definition: künstlerisch
+Definition: Artistically
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont une vraie vision *artistique*.
-  Sie haben eine echte *künstlerische* Vision.
+  They have a real *artistic* vision.
 
   Le patinage *artistique* demande beaucoup d'entraînement.
-  Das Eis*kunst*laufen erfordert viel Training.
+  Skateboarding requires a lot of training.
 
   Cette exposition présente les richesses *artistiques* de notre région.
-  Diese Ausstellung zeigt die *künstlerischen* Schätze unserer Region.
+  This exhibition presents the *artistic* richness of our region.
 
   Sa reliure *artistique* a remporté un prix au concours.
-  Sein *kunstvoller* Bucheinband hat einen Preis im Wettbewerb gewonnen.
+  Her *artistic* connection won a prize in the competition.
 
   Les milieux *artistiques* de Paris sont très dynamiques.
-  Die *Künstler*kreise in Paris sind sehr dynamisch.
+  The *artistic* circles of Paris are very dynamic.
 
   Elle a toujours eu un sens *artistique* très développé.
-  Sie hatte schon immer ein sehr ausgeprägtes *künstlerisches* Gespür.
+  She's always had a very developed *artistic* sense.
 
   Le cercle *artistique* se réunit tous les mercredis soir.
-  Der *Kunst*zirkel trifft sich jeden Mittwochabend.
+  The art circle meets every Wednesday night.
 
   Cette photo utilise l'effet du flou *artistique*.
-  Dieses Foto verwendet den Effekt der *künstlerischen* Unschärfe.
+  This photo uses the *artistic* blur effect.
 
   L'arrangement *artistique* des fleurs attire tous les regards.
-  Die *kunstvolle* Blumenarrangement zieht alle Blicke auf sich.
+  The *artistic* arrangement of the flowers attracts all eyes.
 
   La valeur *artistique* de cette sculpture est inestimable.
-  Der *künstlerische* Wert dieser Skulptur ist unbezahlbar.
+  The *artistic* value of this sculpture is invaluable.
 
   Les procédés *artistiques* qu'il utilise sont très innovants.
-  Die *künstlerischen* Techniken, die er verwendet, sind sehr innovativ.
+  The *artistic* methods he uses are very innovative.
 
   Notre société *artistique* organise des expositions mensuelles.
-  Unser *Kunst*verein organisiert monatliche Ausstellungen.
+  Our art society organizes monthly exhibitions.
 
   Son développement *artistique* a été influencé par ses voyages.
-  Seine *künstlerische* Entwicklung wurde von seinen Reisen beeinflusst.
+  His *artistic* development was influenced by his travels.
 
   La direction *artistique* du film est remarquable.
-  Die *künstlerische* Leitung des Films ist bemerkenswert.
+  The art direction of the film is remarkable.
 
   Cette soirée *artistique* réunira plusieurs talents locaux.
-  Dieser *Kunst*abend wird mehrere lokale Talente zusammenbringen.
+  This *artistic* evening will bring together several local talent.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

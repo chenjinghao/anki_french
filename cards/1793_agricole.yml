@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1793
 Wort: agricole
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: agricole
 Femininum / Plural: ''
 IPA: \a.ɡʁi.kɔl\
-Definition: landwirtschaftlich
+Definition: Agriculture
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les subventions *agricoles* sont des taxes.
-  Die *landwirtschaftlichen* Subventionen sind Steuern.
+  Agricultural subsidies are taxes.
 
   Cette région *agricole* produit principalement du blé et du maïs.
-  Diese *Agrar*region produziert hauptsächlich Weizen und Mais.
+  This agricultural region produces mainly wheat and maize.
 
   Le tracteur est la machine *agricole* la plus importante pour notre ferme.
-  Der Traktor ist die wichtigste *landwirtschaftliche* Maschine für unseren Hof.
+  The tractor is the most important agricultural machine on our farm.
 
   Les produits *agricoles* locaux sont vendus au marché tous les samedis.
-  Die lokalen *landwirtschaftlichen* Produkte werden jeden Samstag auf dem Markt verkaubt.
+  Local agricultural products are sold at the market every Saturday.
 
   Mon père travaille comme ouvrier *agricole* depuis vingt ans.
-  Mein Vater arbeitet seit zwanzig Jahren als *Land*arbeiter.
+  My father has been a farm worker for twenty years.
 
   L'enseignement *agricole* devient de plus en plus important dans notre société.
-  Die *landwirtschaftliche* Ausbildung wird in unserer Gesellschaft immer wichtiger.
+  Agricultural education is becoming increasingly important in our society.
 
   La France reste une grande nation *agricole* en Europe.
-  Frankreich bleibt eine große *Agrar*nation in Europa.
+  France remains a major agricultural nation in Europe.
 
   Les travaux *agricoles* commencent tôt le matin.
-  Die *Feld*arbeit beginnt früh am Morgen.
+  Agricultural work starts early in the morning.
 
   Notre exploitation *agricole* s'étend sur cent hectares.
-  Unser *landwirtschaftlicher* Betrieb erstreckt sich über hundert Hektar.
+  Our farm covers a hundred hectares.
 
   La population *agricole* diminue chaque année.
-  Die *landwirtschaftliche* Bevölkerung nimmt jedes Jahr ab.
+  The agricultural population is declining every year.
 
   Les industries *agricoles* transforment les produits bruts en aliments.
-  Die *Agrar*industrien verarbeiten Rohprodukte zu Lebensmitteln.
+  Agricultural industries turn raw products into food.
 
   Marie étudie pour devenir *ingénieure agricole*.
-  Marie studiert, um *Landwirtin* zu werden.
+  Marie is studying to become an *agricultural engineer*.
 
   Le matériel *agricole* coûte très cher aujourd'hui.
-  *Landwirtschaftliche* Geräte sind heute sehr teuer.
+  Agricultural equipment is very expensive today.
 
   Cette coopérative *agricole* regroupe cinquante fermiers.
-  Diese *landwirtschaftliche* Genossenschaft vereint fünfzig Bauern.
+  This agricultural cooperative has 50 farmers.
 
   Les richesses *agricoles* de cette région sont impressionnantes.
-  Der *landwirtschaftliche* Reichtum dieser Region ist beeindruckend.
+  The agricultural wealth of this region is impressive.
 
   Le syndicat *agricole* défend les intérêts des fermiers.
-  Die *Landwirtschafts*gewerkschaft verteidigt die Interessen der Bauern.
+  The agricultural union defends the interests of farmers.
 
   Cette école *agricole* forme les futurs agriculteurs.
-  Diese *landwirtschaftliche* Schule bildet die zukünftigen Bauern aus.
+  This agricultural school trains future farmers.
 
   Le salon *agricole* attire des milliers de visiteurs chaque année.
-  Die *Landwirtschafts*messe zieht jedes Jahr tausende Besucher an.
+  The farm fair attracts thousands of visitors every year.
 
   Les terres *agricoles* sont devenues très précieuses.
-  *Landwirtschaftliche* Flächen sind sehr wertvoll geworden.
+  Agricultural land became very valuable.
 
   La politique *agricole* européenne influence tous les pays membres.
-  Die europäische *Agrar*politik beeinflusst alle Mitgliedsländer.
+  The European agricultural policy affects all Member States.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

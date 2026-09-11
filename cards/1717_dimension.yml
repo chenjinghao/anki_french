@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1717
 Wort: dimension
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la dimension
 Femininum / Plural: ''
 IPA: \di.mɑ̃.sjɔ̃\
 Definition: Dimension
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous connaissions un univers à trois *dimensions*.
-  Wir kannten ein Universum mit drei *Dimensionen*.
+  We knew a three-dimensional universe.
 
   La table a une *dimension* impressionnante.
-  Der Tisch hat eine beeindruckende *Größe*.
+  The table has an impressive *size*.
 
   Les *dimensions* de cette armoire sont parfaites pour notre chambre.
-  Die *Maße* dieses Schranks sind perfekt für unser Zimmer.
+  The *dimensions* of this closet are perfect for our room.
 
   Il faut prendre les *dimensions* exactes avant d'acheter des rideaux.
-  Man muss die genauen *Maße* nehmen, bevor man Vorhänge kauft.
+  You have to take the exact *dimensions* before you buy curtains.
 
   Cette crise a pris une *dimension* internationale inquiétante.
-  Diese Krise hat ein besorgniserregendes internationales *Ausmaß* angenommen.
+  This crisis has taken on a worrying international dimension.
 
   Le problème a une *dimension* économique et sociale.
-  Das Problem hat eine wirtschaftliche und soziale *Dimension*.
+  The problem has an economic and social dimension.
 
   Les mathématiciens explorent des espaces à quatre *dimensions*.
-  Die Mathematiker erforschen Räume mit vier *Dimensionen*.
+  Mathematicians explore four-dimensional spaces.
 
   La *dimension* du paquet ne permet pas de l'envoyer par la poste.
-  Die *Größe* des Pakets erlaubt es nicht, es per Post zu verschicken.
+  The *size* of the package does not allow it to be sent by post.
 
   L'architecte a noté toutes les *dimensions* du bâtiment.
-  Der Architekt hat alle *Abmessungen* des Gebäudes notiert.
+  The architect wrote down all the *dimensions* of the building.
 
   Ce livre apporte une nouvelle *dimension* à l'histoire.
-  Dieses Buch verleiht der Geschichte eine neue *Bedeutung*.
+  This book brings a new dimension to history.
 
   Les *dimensions* extérieures du véhicule sont standards.
-  Die Außen*maße* des Fahrzeugs sind Standard.
+  The exterior *dimensions* of the vehicle are standard.
 
   Cet artiste travaille sur des toiles de petite *dimension*.
-  Dieser Künstler arbeitet auf Leinwänden von kleiner *Größe*.
+  This artist works on small canvases.
 
   Le jeu vidéo se déroule dans un monde à deux *dimensions*.
-  Das Videospiel spielt in einer zweidi*mensionalen* Welt.
+  The video game takes place in a two-dimensional world.
 
   Cette découverte donne une autre *dimension* à nos recherches.
-  Diese Entdeckung gibt unserer Forschung eine andere *Dimension*.
+  This discovery gives another dimension to our research.
 
   Les *dimensions* de la fenêtre correspondent au modèle.
-  Die *Maße* des Fensters entsprechen dem Modell.
+  The *dimensions* of the window correspond to the model.
 
   Le projet a pris une *dimension* inattendue.
-  Das Projekt hat eine unerwartete *Tragweite* angenommen.
+  The project took on an unexpected dimension.
 
   Cette entreprise est de moyenne *dimension*.
-  Dieses Unternehmen ist von mittlerer *Größe*.
+  This is a medium-sized enterprise.
 
   La *dimension* politique du débat ne peut pas être ignorée.
-  Die politische *Dimension* der Debatte kann nicht ignoriert werden.
+  The political dimension of the debate cannot be ignored.
 
   Il faut noter les *dimensions* précises de la pièce.
-  Man muss die genauen *Maße* des Raums notieren.
+  The exact *dimensions* of the room must be noted.
 
   Les objets de grande *dimension* sont difficiles à transporter.
-  Gegenstände von großer *Größe* sind schwer zu transportieren.
+  Large objects are difficult to transport.
 
   Cette théorie ajoute une cinquième *dimension* à l'espace-temps.
-  Diese Theorie fügt der Raumzeit eine fünfte *Dimension* hinzu.
+  This theory adds a fifth dimension to space-time.
 
   La *dimension* historique de l'événement est significative.
-  Die historische *Dimension* des Ereignisses ist bedeutsam.
+  The historical dimension of the event is significant.
 
   Le meuble doit avoir la même *dimension* que l'original.
-  Das Möbelstück muss die gleiche *Größe* wie das Original haben.
+  The furniture must be the same *size* as the original.
 
   Cette exposition a une *dimension* culturelle importante.
-  Diese Ausstellung hat eine wichtige kulturelle *Dimension*.
+  This exhibition has an important cultural dimension.
 
   Le scientifique étudie les *dimensions* de l'atome.
-  Der Wissenschaftler untersucht die *Dimensionen* des Atoms.
+  The scientist studies the *dimensions* of the atom.
 
   La *dimension* éducative du projet est primordiale.
-  Die erzieherische *Dimension* des Projekts ist von grundlegender Bedeutung.
+  The educational dimension of the project is paramount.
 
   Cette salle a des *dimensions* idéales pour notre réunion.
-  Dieser Saal hat ideale *Abmessungen* für unser Treffen.
+  This room has ideal *dimensions* for our meeting.
 
   Les *dimensions* du terrain permettent la construction prévue.
-  Die *Maße* des Grundstücks erlauben den geplanten Bau.
+  The size of the land allows for the planned construction.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

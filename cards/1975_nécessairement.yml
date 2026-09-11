@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1975
 Wort: nécessairement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: nécessairement
 Femininum / Plural: ''
 IPA: \ne.se.sɛʁ.mɑ̃\
-Definition: notwendigerweise
+Definition: necessarily
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le bien n'est pas *nécessairement* beau.
-  Das Gute ist nicht *unbedingt* schön.
+  Good is not *necessarily* beautiful.
 
   Cette solution n'est pas *nécessairement* la meilleure.
-  Diese Lösung ist nicht *zwangsläufig* die beste.
+  This is not *necessarily* the best solution.
 
   Plus cher ne signifie pas *nécessairement* meilleur.
-  Teurer bedeutet nicht *unbedingt* besser.
+  More expensive doesn't *necessarily* mean better.
 
   La vie en ville implique *nécessairement* certains compromis.
-  Das Leben in der Stadt bringt *zwangsläufig* gewisse Kompromisse mit sich.
+  Urban life *necessarily* involves some compromises.
 
   Il faudra *nécessairement* repenser notre stratégie.
-  Wir müssen unsere Strategie *unbedingt* überdenken.
+  We will *necessarily* have to rethink our strategy.
 
   Le succès entraîne *nécessairement* des responsabilités.
-  Erfolg bringt *notwendigerweise* Verantwortung mit sich.
+  Success *necessarily* entails responsibility.
 
   Un changement doit *nécessairement* se produire.
-  Eine Veränderung muss *zwangsläufig* eintreten.
+  A change must *necessarily* occur.
 
   Les erreurs font *nécessairement* partie de l'apprentissage.
-  Fehler gehören *zwangsläufig* zum Lernen dazu.
+  Mistakes are *necessarily* part of learning.
 
   Cette situation va *nécessairement* évoluer avec le temps.
-  Diese Situation wird sich mit der Zeit *zwangsläufig* verändern.
+  This situation will *necessarily* change over time.
 
   L'amour ne dure pas *nécessairement* toujours.
-  Liebe hält nicht *unbedingt* für immer.
+  Love does not *necessarily* last forever.
 
   Être intelligent ne signifie pas *nécessairement* être sage.
-  Intelligent zu sein bedeutet nicht *zwangsläufig* weise zu sein.
+  Being intelligent does not *necessarily* mean being wise.
 
   Les symptômes ne sont pas *nécessairement* graves.
-  Die Symptome sind nicht *unbedingt* ernst.
+  Symptoms are not *necessarily* severe.
 
   Il devra *nécessairement* partir avant midi.
-  Er muss *unbedingt* vor mittag los.
+  He'll have to leave by noon.
 
   Cette méthode aboutira *nécessairement* à un échec.
-  Diese Methode wird *zwangsläufig* zu einem Misserfolg führen.
+  This method will inevitably fail.
 
   Le progrès entraîne *nécessairement* des changements.
-  Fortschritt führt *notwendigerweise* zu Veränderungen.
+  Progress *necessarily* leads to change.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

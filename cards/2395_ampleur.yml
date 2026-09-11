@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2395
 Wort: ampleur
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une ampleur
 Femininum / Plural: ''
 IPA: \ɑ̃.plœʁ\
-Definition: Ausmaß, Umfang
+Definition: Amount, scope
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une réflexion de grande *ampleur* s'impose.
-  Eine Überlegung von großem *Ausmaß* ist erforderlich.
+  A large-scale reflection is needed.
 
   Le manteau n'avait pas assez d'*ampleur* aux épaules.
-  Der Mantel hatte nicht genug *Weite* an den Schultern.
+  The coat wasn't big enough for the shoulders.
 
   Nous avons été surpris par l'*ampleur* de la manifestation.
-  Wir waren überrascht vom *Ausmaß* der Demonstration.
+  We were surprised by the scale of the demonstration.
 
   Cette robe a trop d'*ampleur* pour moi.
-  Dieses Kleid hat zu viel *Weite* für mich.
+  This dress is too big for me.
 
   Sa voix d'une grande *ampleur* remplissait toute la salle.
-  Seine Stimme von großer *Reichweite* erfüllte den ganzen Saal.
+  His loud voice filled the whole room.
 
   L'*ampleur* du projet nécessite beaucoup de ressources.
-  Der *Umfang* des Projekts erfordert viele Ressourcen.
+  The scale of the project requires a lot of resources.
 
   L'*ampleur* de ses gestes trahissait sa nervosité.
-  Seine *ausladenden* Bewegungen verrieten seine Nervosität.
+  The magnitude of his gestures betrayed his nervousness.
 
   Le mouvement de protestation a pris de l'*ampleur*.
-  Die Protestbewegung hat an *Bedeutung* gewonnen.
+  The protest movement took hold.
 
   Les manches de cette chemise manquent d'*ampleur*.
-  Die Ärmel dieses Hemdes haben zu wenig *Weite*.
+  The sleeves on this shirt are too small.
 
   L'*ampleur* du récit m'a vraiment impressionné.
-  Die *Ausführlichkeit* der Erzählung hat mich wirklich beeindruckt.
+  I was really impressed by the scope of the story.
 
   Personne n'avait prévu l'*ampleur* de cette catastrophe.
-  Niemand hatte das *Ausmaß* dieser Katastrophe vorhergesehen.
+  No one had foreseen the extent of this disaster.
 
   La jupe a besoin de plus d'*ampleur* pour bien tomber.
-  Der Rock braucht mehr *Weite*, um gut zu fallen.
+  The skirt needs more *size* to fit properly.
 
   L'*ampleur* de sa pensée philosophique est remarquable.
-  Die *Reichweite* seines philosophischen Denkens ist bemerkenswert.
+  The extent of his philosophical thinking is remarkable.
 
   Le débat a pris une *ampleur* inattendue.
-  Die Debatte hat ein unerwartetes *Ausmaß* angenommen.
+  The debate has taken on unexpected proportions.
 
   L'*ampleur* des dégâts nous a laissés sans voix.
-  Das *Ausmaß* der Schäden hat uns sprachlos gemacht.
+  The extent of the damage has left us speechless.
 
   La couturière a donné plus d'*ampleur* aux manches.
-  Die Schneiderin hat den Ärmeln mehr *Weite* gegeben.
+  The seamstress made the sleeves bigger.
 
   Son style d'écriture gagne en *ampleur* avec chaque livre.
-  Sein Schreibstil gewinnt mit jedem Buch an *Reichweite*.
+  His writing style grows in *size* with each book.
 
   L'épidémie prend de l'*ampleur* dans la région.
-  Die Epidemie gewinnt in der Region an *Ausmaß*.
+  The epidemic is spreading in the region.
 
   Je n'avais pas imaginé l'*ampleur* du succès de ce film.
-  Ich hatte mir das *Ausmaß* des Erfolgs dieses Films nicht vorgestellt.
+  I had no idea how successful this movie was.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>ampleur</i> und <i>portée</i></div>
+    <div class="section-title"><i>ampleur</i> and <i>portée</i></div>
     <div class="section-content">
-      <p><span class="fr">Ampleur</span> bezieht sich auf <span class="de">"Ausmaß"</span> oder <span class="de">"Umfang"</span> im Sinne der physischen oder konzeptionellen Größe. Es beschreibt die Dimension oder Bedeutsamkeit von etwas, oft mit einer Konnotation von Eindrücklichkeit.</p>
+      <p><span class="fr">Ampleur</span> refers to: <span class="de">'To the extent'</span> or <span class="de">'Chapter'</span> It describes the dimension or significance of something, often with a connotation of impressiveness.</p>
       <div class="examples">
         <div class="fr">Personne n'avait prévu l'ampleur de la catastrophe.</div>
-        <div class="de spoiler">Niemand hatte das Ausmaß der Katastrophe vorhergesehen.</div>
+        <div class="de spoiler">No one had foreseen the extent of the disaster.</div>
         <div class="fr">Le projet a pris une ampleur considérable.</div>
-        <div class="de spoiler">Das Projekt hat einen beträchtlichen Umfang angenommen.</div>
+        <div class="de spoiler">The project has taken on a considerable scale.</div>
       </div>
-      <p><span class="fr">Portée</span> (#1067) bedeutet <span class="de">"Reichweite"</span> oder <span class="de">"Tragweite"</span> und bezieht sich auf die Auswirkungen oder den Einflussbereich von etwas. Es beschreibt, wie weit sich die Konsequenzen oder der Einfluss einer Sache erstrecken.</p>
+      <p><span class="fr">Portée</span> #1067) means <span class="de">"Reachable"</span> or <span class="de">"Large range"</span> It describes the extent to which the consequences or influence of a thing extend.</p>
       <div class="examples">
         <div class="fr">Cette décision aura une portée internationale.</div>
-        <div class="de spoiler">Diese Entscheidung wird internationale Tragweite haben.</div>
+        <div class="de spoiler">This decision will have an international impact.</div>
         <div class="fr">La portée de ses recherches dépasse le cadre universitaire.</div>
-        <div class="de spoiler">Die Reichweite seiner Forschung geht über den akademischen Rahmen hinaus.</div>
+        <div class="de spoiler">The scope of his research extends beyond the academic framework.</div>
       </div>
     </div>
   </div>

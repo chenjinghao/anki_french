@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4392
 Wort: handicaper
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: handicaper
 Femininum / Plural: ''
 IPA: \'ɑ̃.di.ka.pe\
-Definition: behindern, beeinträchtigen
+Definition: preventing, affecting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La croissance mondiale risque de *handicaper* leurs exportations.
-  Das globale Wachstum droht ihre Exporte zu *behindern*.
+  Global growth is likely to hamper their exports.
 
   Sa timidité l'a beaucoup *handicapé* dans sa carrière professionnelle.
-  Seine Schüchternheit hat ihn in seiner beruflichen Karriere stark *benachteiligt*.
+  His shyness severely crippled him in his professional career.
 
   Le manque d'expérience *handicape* sérieusement notre équipe.
-  Der Mangel an Erfahrung *benachteiligt* unser Team erheblich.
+  The lack of experience seriously impairs our team.
 
   Dans cette course, le cheval noir sera *handicapé* de cinq kilos.
-  Bei diesem Rennen wird das schwarze Pferd mit fünf Kilo *belastet*.
+  In this race, the black horse will be *disabled* by five kilograms.
 
   Pierre est temporairement *handicapé* à cause de sa jambe cassée.
-  Pierre ist wegen seines gebrochenen Beins vorübergehend *behindert*.
+  Pierre is temporarily *disabled* because of his broken leg.
 
   L'absence d'internet *handicape* fortement le développement de cette région rurale.
-  Das Fehlen von Internet *behindert* die Entwicklung dieser ländlichen Region stark.
+  The lack of internet has greatly hampered the development of this rural area.
 
   Son accident de ski l'a *handicapé* à vie.
-  Sein Skiunfall hat ihn lebenslang *behindert*.
+  His skiing accident crippled him for life.
 
   Le bruit constant *handicape* la concentration des élèves.
-  Der ständige Lärm *beeinträchtigt* die Konzentration der Schüler.
+  The constant noise hinders the concentration of the students.
 
   La petite entreprise est *handicapée* par les coûts élevés de l'énergie.
-  Das kleine Unternehmen wird durch die hohen Energiekosten *benachteiligt*.
+  The small enterprise is handicapped by high energy costs.
 
   Les conditions météorologiques ont *handicapé* la construction du nouveau stade.
-  Die Wetterbedingungen haben den Bau des neuen Stadions *behindert*.
+  Weather conditions hampered the construction of the new stadium.
 
   Marie sera *handicapée* dans la compétition à cause de sa blessure récente.
-  Marie wird im Wettkampf durch ihre kürzliche Verletzung *benachteiligt* sein.
+  Marie will be *disabled* in the competition because of her recent injury.
 
   Le manque de personnel qualifié *handicape* le développement de l'entreprise.
-  Der Mangel an qualifiziertem Personal *behindert* die Unternehmensentwicklung.
+  The lack of qualified personnel hinders the development of the enterprise.
 
   Les problèmes de transport *handicapent* sérieusement notre logistique.
-  Die Transportprobleme *beeinträchtigen* unsere Logistik erheblich.
+  Transport problems seriously hamper our logistics.
 
   La barrière de la langue *handicape* son intégration sociale.
-  Die Sprachbarriere *behindert* seine soziale Integration.
+  The language barrier hinders its social integration.
 
   Le favori du tournoi a été *handicapé* par une blessure au genou.
-  Der Turnierfavorit wurde durch eine Knieverletzung *beeinträchtigt*.
+  The tournament favourite was crippled by a knee injury.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

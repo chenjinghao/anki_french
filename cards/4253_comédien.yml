@@ -1,96 +1,96 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4253
 Wort: comédien
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le comédien
 Femininum / Plural: comédienne
 IPA: \kɔ.me.djɛ̃\
-Definition: Schauspieler [Theater]
+Definition: Actors [theater]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai pensé au métier de *comédien*.
-  Ich habe über den Beruf des *Schauspielers* nachgedacht.
+  I've been thinking about acting.
 
   Cette *comédienne* de théâtre joue Shakespeare depuis vingt ans.
-  Diese Theater*schauspielerin* spielt seit zwanzig Jahren Shakespeare.
+  This stage *actress* has been playing Shakespeare for twenty years.
 
   Les *comédiens* ambulants voyagent de ville en ville pour présenter leur spectacle.
-  Die wandernden *Schauspieler* reisen von Stadt zu Stadt, um ihre Show aufzuführen.
+  Walking *comedians* travel from town to town to put on their show.
 
   C'est une *comédienne* de talent qui a remporté plusieurs prix.
-  Sie ist eine talentierte *Schauspielerin*, die mehrere Preise gewonnen hat.
+  She's a talented *actress* who's won several awards.
 
   Il est devenu *comédien* après avoir abandonné ses études de droit.
-  Er wurde *Schauspieler*, nachdem er sein Jurastudium abgebrochen hatte.
+  He became an actor after dropping out of law school.
 
   "Ne le crois pas, c'est un vrai *comédien*!"
-  "Glaub ihm nicht, er ist ein richtiger *Heuchler*!"
+  "Don't believe it, he's a real *comedian*!"
 
   La troupe de *comédiens* répète tous les soirs.
-  Die *Schauspieler*truppe probt jeden Abend.
+  The comedy troupe rehearses every night.
 
   Cette petite fille est très *comédienne*, elle aime se donner en spectacle.
-  Dieses kleine Mädchen *spielt gerne Theater*, sie liebt es, sich zur Schau zu stellen.
+  This little girl is a very good comedian, she likes to show off.
 
   Les *comédiens* amateurs préparent leur première représentation.
-  Die Amateur*schauspieler* bereiten ihre erste Aufführung vor.
+  Amateur *comedians* are preparing their first performance.
 
   Cette célèbre *comédienne* vient de publier son autobiographie.
-  Diese berühmte *Schauspielerin* hat gerade ihre Autobiografie veröffentlicht.
+  This famous *actress* has just published her autobiography.
 
   Il est un peu trop *comédien* dans la vie de tous les jours.
-  Er *spielt* im Alltag zu sehr *Theater*.
+  He's a little too much of a *comedian* in everyday life.
 
   La jeune *comédienne* a impressionné tout le monde à son audition.
-  Die junge *Schauspielerin* hat bei ihrem Vorsprechen alle beeindruckt.
+  The young *actress* impressed everyone at her audition.
 
   Les *comédiens* du cinéma sont mieux payés que ceux du théâtre.
-  Film*schauspieler* werden besser bezahlt als Theater*schauspieler*.
+  The *comedians* in the movies are paid better than the actors in the theater.
 
   "Quel mauvais *comédien*, on voit qu'il joue!"
-  "Was für ein schlechter *Schauspieler*, man sieht, dass er schauspielert!"
+  "What a bad actor, you can see he's acting!"
 
   Elle est naturellement *comédienne* et aime être au centre de l'attention.
-  Sie *spielt* von Natur aus gerne *Theater* und steht gerne im Mittelpunkt.
+  She's naturally a comedian and likes to be the center of attention.
 
   Le métier de *comédien* demande beaucoup de discipline.
-  Der Beruf des *Schauspielers* erfordert viel Disziplin.
+  The job of a *comedian* requires a lot of discipline.
 
   Les *comédiens* en tournée dorment rarement dans le même lit deux nuits de suite.
-  Die auf Tournee befindlichen *Schauspieler* schlafen selten zwei Nächte hintereinander im selben Bett.
+  Touring *comedians* rarely sleep in the same bed two nights in a row.
 
   "Arrête d'être si *comédienne*, je sais que tu n'as pas vraiment mal!"
-  "Hör auf zu *schauspielern*, ich weiß, dass dir gar nicht wirklich weh tut!"
+  "Stop being such a comedian, I know you're not really sick!"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>acteur</i> und <i>comédien</i></div>
+    <div class="section-title"><i>acteur</i> and <i>comédien</i></div>
     <div class="section-content">
-      <p><span class="fr">Acteur</span> (#1552) ist der allgemeine Begriff für <span class="de">"Schauspieler"</span> und bezeichnet jeden, der in Film, Theater, Fernsehen oder anderen Medien schauspielert, unabhängig vom Genre.</p>
+      <p><span class="fr">Acteur</span> (#1552) is the general term for <span class="de">"Actor"</span> and refers to anyone who acts in film, theatre, television or any other medium, regardless of genre.</p>
       <div class="examples">
         <div class="fr">Cet acteur joue dans des films d'action et des drames.</div>
-        <div class="de spoiler">Dieser Schauspieler spielt in Actionfilmen und Dramen.</div>
+        <div class="de spoiler">This actor plays in action movies and dramas.</div>
         <div class="fr">Elle est une actrice reconnue internationalement.</div>
-        <div class="de spoiler">Sie ist eine international anerkannte Schauspielerin.</div>
+        <div class="de spoiler">She's an internationally recognized actress.</div>
       </div>
-      <p><span class="fr">Comédien</span> bezeichnet traditionell einen <span class="de">"Schauspieler"</span>, der hauptsächlich in Komödien oder im Theater auftritt. Der Begriff kann auch allgemein für Theaterschauspieler verwendet werden.</p>
+      <p><span class="fr">Comédien</span> traditionally refers to a <span class="de">"Actor"</span>The term can also be used in general terms for theatrical actors.</p>
       <div class="examples">
         <div class="fr">Ce comédien excelle dans les rôles comiques.</div>
-        <div class="de spoiler">Dieser Schauspieler glänzt in komischen Rollen.</div>
+        <div class="de spoiler">This actor shines in funny roles.</div>
         <div class="fr">Les comédiens de la Comédie-Française sont très respectés.</div>
-        <div class="de spoiler">Die Schauspieler der Comédie-Française sind sehr respektiert.</div>
+        <div class="de spoiler">The actors of the Comédie-Française are highly respected.</div>
       </div>
-      <p>Während <span class="fr">acteur</span> universell verwendet wird, hat <span class="fr">comédien</span> oft eine theatralischere oder traditionellere Konnotation und wird besonders im Kontext der klassischen französischen Theaterkultur verwendet.</p>
+      <p>In the meantime <span class="fr">acteur</span> It is widely used in the world. <span class="fr">comédien</span> often a more theatrical or traditional connotation and is used especially in the context of classical French theatre culture.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

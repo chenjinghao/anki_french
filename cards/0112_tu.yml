@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 112
 Wort: tu
 Wortart: pro, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: tu
 Femininum / Plural: ''
 IPA: \ty\
-Definition: du
+Definition: You
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   À ma place, *tu* ne le ferais pas.
-  An meiner Stelle würdest *du* es nicht tun.
+  *You* wouldn't do that if you were me.
 
   *Tu* es grand pour ton âge.
-  *Du* bist groß für dein Alter.
+  You're too old for your age.
 
   "*T'as* vu ça ?" s'est-il exclamé avec surprise.
-  "Hast *du* das gesehen?" rief er überrascht aus.
+  "Did you see that?" he exclaimed in surprise.
 
   "*T'as* du fric, *t'es* quelqu'un dans cette ville," a-t-il dit cyniquement.
-  "Wenn *du* Kohle hast, bist *du* wer in dieser Stadt," sagte er zynisch.
+  "You've got money, you're somebody in this town", he said cynically.
 
   Je suis *à tu et à toi* avec mon voisin depuis des années.
-  Ich stehe seit Jahren mit meinem Nachbarn *auf Du und Du*.
+  I've been yours and yours with my neighbor for years.
 
   Quand on *dit tu* à quelqu'un, ça change la relation.
-  Wenn man zu jemandem *du sagt*, verändert das die Beziehung.
+  When you tell someone who you are, it changes the relationship.
 
   *Tu* as tort de penser ainsi.
-  *Du* hast Unrecht, so zu denken.
+  You're wrong to think that.
 
   "*T'as* tort, mon vieux," lui ai-je dit gentiment.
-  "*Du* hast Unrecht, mein Lieber," sagte ich ihm freundlich.
+  "You're wrong, old man", I said gently.
 
   As-*tu* bien dormi cette nuit ?
-  Hast *du* heute Nacht gut geschlafen?
+  Did *you* sleep well last night?
 
   "*Tu* viens à la fête ce soir ?" demanda-t-elle avec espoir.
-  "Kommst *du* heute Abend zur Party?" fragte sie hoffnungsvoll.
+  "Are you coming to the party tonight?" she asked hopefully.
 
   On se *dit tu* depuis hier, c'est plus convivial.
-  Wir *duzen* uns seit gestern, das ist geselliger.
+  We've been saying since yesterday that you're more friendly.
 
   *Tu* ne devrais pas manger autant de sucreries.
-  *Du* solltest nicht so viele Süßigkeiten essen.
+  You shouldn't eat so much candy.
 
   Pourquoi *tu* ne m'as pas appelé hier soir ?
-  Warum hast *du* mich gestern Abend nicht angerufen?
+  Why didn't *you* call me last night?
 
   *Tu* sais que je serai toujours là pour toi.
-  *Du* weißt, dass ich immer für dich da sein werde.
+  You know I'll always be there for you.
 
   Quand *tu* auras fini tes devoirs, *tu* pourras jouer dehors.
-  Wenn *du* deine Hausaufgaben fertig hast, darfst *du* draußen spielen.
+  When *you* finish your homework, you can play outside.
 
   *Tu* te souviens de notre premier rendez-vous ?
-  Erinnerst *du* dich an unser erstes Date?
+  Do you remember our first date?
 
   Si *tu* veux réussir, *tu* dois travailler dur.
-  Wenn *du* Erfolg haben willst, musst *du* hart arbeiten.
+  If *you* want to succeed, you have to work hard.
 
   "*T'es* sûr que c'est une bonne idée ?" demanda-t-elle, sceptique.
-  "Bist *du* sicher, dass das eine gute Idee ist?" fragte sie skeptisch.
+  "Are you sure this is a good idea?" she asked, skeptical.
 
   *Tu* devrais essayer cette nouvelle recette, elle est délicieuse.
-  *Du* solltest dieses neue Rezept ausprobieren, es ist köstlich.
+  You should try this new recipe, it's delicious.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

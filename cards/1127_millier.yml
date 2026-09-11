@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1127
 Wort: millier
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le millier
 Femininum / Plural: ''
 IPA: \mi.lje\
-Definition: ≈Tausend(-e)
+Definition: ≈Thousand
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Des *milliers* d'entre eux refusent de partir.
-  *Tausende* von ihnen weigern sich zu gehen.
+  *Thousands* of them refuse to leave.
 
   Un *millier* de personnes ont assisté au concert hier soir.
-  Ungefähr *tausend* Menschen haben gestern Abend das Konzert besucht.
+  *A thousand* people attended the concert last night.
 
   Les manifestants se sont rassemblés par *milliers* dans les rues.
-  Die Demonstranten haben sich zu *Tausenden* auf den Straßen versammelt.
+  *Thousands* of protesters gathered in the streets.
 
   Cette entreprise emploie plusieurs *milliers* de travailleurs.
-  Dieses Unternehmen beschäftigt mehrere *tausend* Arbeitnehmer.
+  This company employs several thousand workers.
 
   Il y a des *milliers* et des *milliers* d'étoiles dans le ciel ce soir.
-  Es gibt *Tausende und Abertausende* Sterne am Himmel heute Abend.
+  There are *thousands* and thousands of stars in the sky tonight.
 
   Le nouveau jeu vidéo s'est vendu à des *milliers* d'exemplaires dès sa sortie.
-  Das neue Videospiel wurde gleich nach seiner Veröffentlichung *tausendfach* verkauft.
+  The new video game has sold *thousands* of copies since its release.
 
   Plusieurs dizaines de *milliers* de spectateurs ont assisté au match.
-  *Zehntausende* von Zuschauern haben das Spiel verfolgt.
+  Several tens of *thousands* of spectators attended the match.
 
   L'île compte environ un *millier* d'habitants permanents.
-  Die Insel hat ungefähr *tausend* ständige Einwohner.
+  The island has about *a thousand* permanent inhabitants.
 
   Des *milliers* de personnes ont été évacuées à cause des inondations.
-  *Tausende* von Menschen wurden wegen der Überschwemmungen evakuiert.
+  *Thousands* of people have been evacuated because of the floods.
 
   Le roman s'est vendu à des centaines de *milliers* d'exemplaires.
-  Der Roman wurde in *Hunderttausenden* von Exemplaren verkauft.
+  The novel sold hundreds of *thousands* of copies.
 
   "J'ai reçu je ne sais combien de *milliers* de messages de soutien."
-  "Ich habe *zigtausend* Unterstützungsnachrichten erhalten."
+  "I've received I don't know how many *thousands* of messages of support".
 
   Les oiseaux migrateurs parcourent des *milliers* de kilomètres chaque année.
-  Zugvögel legen jedes Jahr *Tausende* von Kilometern zurück.
+  Migratory birds travel *thousands* of miles each year.
 
   Cette facture s'élève à plusieurs *milliers* d'euros.
-  Diese Rechnung beläuft sich auf mehrere *tausend* Euro.
+  This bill amounts to several thousand euros.
 
   Un *millier* d'années se sont écoulées depuis la construction de ce château.
-  *Tausend* Jahre sind seit dem Bau dieses Schlosses vergangen.
+  *A thousand* years have passed since this castle was built.
 
   Les papillons volaient par *milliers* dans le champ fleuri.
-  Die Schmetterlinge flogen zu *Tausenden* über das blühende Feld.
+  Butterflies flew by the *thousands* in the flowery field.
 
   Ce fossile date d'il y a plusieurs *milliers* d'années.
-  Dieses Fossil stammt aus einer Zeit vor mehreren *tausend* Jahren.
+  This fossil dates back several thousand years.
 
   "Je pourrais vous citer des *milliers* d'exemples pour prouver mon point."
-  "Ich könnte Ihnen *tausende* Beispiele nennen, um meinen Standpunkt zu beweisen."
+  "I could give you *thousands* of examples to prove my point".
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

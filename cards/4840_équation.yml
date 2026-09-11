@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4840
 Wort: équation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une équation
 Femininum / Plural: ''
 IPA: \e.kwa.sjɔ̃\
-Definition: Gleichung
+Definition: Equation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette quantité se précise dans une *équation*.
-  Diese Menge wird in einer *Gleichung* präzisiert.
+  This quantity is specified in an *equation*.
 
   Les élèves doivent résoudre une *équation* du premier degré.
-  Die Schüler müssen eine *Gleichung* ersten Grades lösen.
+  Students must solve a first-degree *equation*.
 
   Le professeur a mis le problème en *équation* au tableau.
-  Der Lehrer hat das Problem an der Tafel als *Gleichung* dargestellt.
+  The professor put the problem in the *equation* on the board.
 
   Cette *équation* chimique décrit la réaction entre l'acide et la base.
-  Diese chemische *Gleichung* beschreibt die Reaktion zwischen Säure und Base.
+  This chemical *equation* describes the reaction between the acid and the base.
 
   Mon système d'*équations* a deux inconnues.
-  Mein *Gleichungs*system hat zwei Unbekannte.
+  My system of *equations* has two unknowns.
 
   L'*équation* exponentielle nécessite une approche différente.
-  Die Exponential*gleichung* erfordert einen anderen Ansatz.
+  The exponential *equation* requires a different approach.
 
   La racine de cette *équation* est un nombre négatif.
-  Die Lösung dieser *Gleichung* ist eine negative Zahl.
+  The root of this *equation* is a negative number.
 
   Chaque membre de l'*équation* doit être simplifié.
-  Jede Seite der *Gleichung* muss vereinfacht werden.
+  Each member of the *equation* must be simplified.
 
   L'*équation* du temps nous aide à comprendre les variations saisonnières.
-  Die Zeit*gleichung* hilft uns, die jahreszeitlichen Schwankungen zu verstehen.
+  The time *equation* helps us understand seasonal variations.
 
   Cette *équation* du second degré a deux solutions possibles.
-  Diese quadratische *Gleichung* hat zwei mögliche Lösungen.
+  This second-degree *equation* has two possible solutions.
 
   L'*équation* personnelle du chercheur influence ses observations.
-  Die persönliche *Gleichung* des Forschers beeinflusst seine Beobachtungen.
+  The researcher's personal *equation* influences his observations.
 
   Les astronomes utilisent l'*équation* du centre pour leurs calculs.
-  Die Astronomen verwenden die Mittelpunkts*gleichung* für ihre Berechnungen.
+  Astronomers use the center *equation* for their calculations.
 
   Son *équation* personnelle l'empêche d'être totalement objectif.
-  Seine persönliche *Gleichung* hindert ihn daran, völlig objektiv zu sein.
+  His personal *equation* prevents him from being entirely objective.
 
   L'*équation* entre ses ambitions et ses capacités n'est pas résolue.
-  Die *Gleichung* zwischen seinen Ambitionen und Fähigkeiten ist nicht gelöst.
+  The *equation* between his ambitions and his abilities is unresolved.
 
   Cette *équation* algébrique contient plusieurs variables.
-  Diese algebraische *Gleichung* enthält mehrere Variablen.
+  This algebraic *equation* contains several variables.
 
   L'*équation* chimique montre que la réaction est réversible.
-  Die chemische *Gleichung* zeigt, dass die Reaktion umkehrbar ist.
+  The chemical *equation* shows that the reaction is reversible.
 
   Nous devons résoudre ce système d'*équations* simultanément.
-  Wir müssen dieses *Gleichungs*system simultan lösen.
+  We need to solve this system of *equations* simultaneously.
 
   Les solutions de l'*équation* se trouvent sur le graphique.
-  Die Lösungen der *Gleichung* befinden sich auf der Grafik.
+  The solutions to the *equation* are on the graph.
 
   L'*équation* entre lecteur et écrivain doit être parfaite.
-  Die *Gleichung* zwischen Leser und Autor muss perfekt sein.
+  The *equation* between reader and writer must be perfect.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

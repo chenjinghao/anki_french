@@ -1,110 +1,110 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2358
 Wort: mec
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mec
 Femininum / Plural: ''
 IPA: \mæk\
-Definition: Kerl
+Definition: guy
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Vous faites quoi les *mecs*, ce soir ?"
-  "Was macht ihr *Jungs* heute Abend?"
+  "What are *you guys* doing tonight?"
 
   "C'est un super *mec*, il aide toujours ses amis."
-  "Er ist ein toller *Typ*, er hilft immer seinen Freunden."
+  "He's a great guy, he always helps his friends".
 
   "Je ne supporte plus ce pauvre *mec* qui se plaint tout le temps."
-  "Ich kann diesen armseligen *Kerl*, der sich die ganze Zeit beschwert, nicht mehr ertragen."
+  "I can't stand this poor guy complaining all the time".
 
   "Les *mecs* et les nanas se sont réunis pour faire la fête."
-  "Die *Jungs* und die Mädels haben sich zum Feiern getroffen."
+  "Boys and girls came together to party".
 
   "T'as vu le nouveau *mec* au bureau ?"
-  "Hast du den neuen *Typ* im Büro gesehen?"
+  "Did you see the new guy at the office?"
 
   "Elle sort avec son *mec* depuis deux ans."
-  "Sie ist seit zwei Jahren mit ihrem *Macker* zusammen."
+  "She's been dating her boyfriend for two years".
 
   "Ce *mec*-là, il est vraiment sympa."
-  "Dieser *Typ* da ist echt nett."
+  "That guy, he's really nice".
 
   "Les *mecs* de l'équipe de foot s'entraînent tous les jours."
-  "Die *Kerle* vom Fußballteam trainieren jeden Tag."
+  "The guys on the football team practice every day".
 
   "C'est un beau *mec*, mais il n'est pas très intelligent."
-  "Er ist ein gutaussehender *Typ*, aber nicht sehr intelligent."
+  "He's a handsome guy, but he's not very smart".
 
   "Mon *mec* m'a offert des fleurs pour mon anniversaire."
-  "Mein *Macker* hat mir zum Geburtstag Blumen geschenkt."
+  "My boyfriend gave me flowers for my birthday".
 
   "Regarde ce *mec*, il danse comme un fou !"
-  "Schau dir diesen *Kerl* an, er tanzt wie verrückt!"
+  "Look at this guy, he's dancing like crazy!"
 
   "Je connais un *mec* qui pourrait nous aider."
-  "Ich kenne einen *Typen*, der uns helfen könnte."
+  "I know a guy who could help us".
 
   "Ces *mecs*-là sont vraiment sympas."
-  "Diese *Kerle* sind echt nett."
+  "These guys are really nice".
 
   "Le *mec* de ma sœur est musicien."
-  "Der *Typ* meiner Schwester ist Musiker."
+  "My sister's boyfriend is a musician".
 
   "Tu connais le *mec* qui habite en face ?"
-  "Kennst du den *Kerl*, der gegenüber wohnt?"
+  "Do you know the guy who lives across the street?"
 
   "C'est un *mec* bien, tu peux lui faire confiance."
-  "Er ist ein guter *Typ*, du kannst ihm vertrauen."
+  "He's a good guy, you can trust him".
 
   "Les *mecs* du quartier se retrouvent souvent au café."
-  "Die *Kerle* aus dem Viertel treffen sich oft im Café."
+  "Neighborhood boys often meet at the cafe".
 
   "Son *mec* travaille dans l'informatique."
-  "Ihr *Macker* arbeitet in der IT."
+  "Her boyfriend works in computer science".
 
   "Je ne connais pas ce *mec*, mais il a l'air sympa."
-  "Ich kenne diesen *Typen* nicht, aber er scheint nett zu sein."
+  "I don't know this guy, but he looks nice".
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>mec</i>, <i>type</i> und <i>gars</i></div>
+    <div class="section-title"><i>mec</i>, <i>type</i> and <i>gars</i></div>
     <div class="section-content">
-      <p>Alle drei Wörter sind informelle Ausdrücke für <span class="de">"Mann"</span> oder <span class="de">"Typ"</span>, haben aber leicht unterschiedliche Verwendungen.</p>
+      <p>All three words are informal expressions for <span class="de">The man.</span> or <span class="de">"Type"</span>But they have slightly different uses.</p>
 
-      <p><span class="fr">Mec</span> kann <span class="de">"Freund"</span> im Sinne von <span class="de">"Partner"</span> bedeuten, wird aber auch allgemein für <span class="de">"Mann"</span> oder <span class="de">"Typ"</span> verwendet.</p>
+      <p><span class="fr">Mec</span> can <span class="de">"Friend"</span> within the meaning of <span class="de">'Partner' is defined as:</span> It is also commonly used to refer to: <span class="de">The man.</span> or <span class="de">"Type"</span> used.</p>
       <div class="examples">
         <div class="fr">Mon mec m'a acheté des fleurs.</div>
-        <div class="de spoiler">Mein Freund hat mir Blumen gekauft.</div>
+        <div class="de spoiler">My friend bought me flowers.</div>
         <div class="fr">C'est un mec cool.</div>
-        <div class="de spoiler">Er ist ein cooler Typ.</div>
+        <div class="de spoiler">He's a cool guy.</div>
       </div>
 
-      <p><span class="fr">Gars</span> (#2304) kann im Plural <span class="de">"Jungs"</span> oder <span class="de">"Leute"</span> bedeuten. Es wird auch für <span class="de">"Mann"</span> oder <span class="de">"Typ"</span> verwendet, oft austauschbar mit <span class="fr">mec</span>.</p>
+      <p><span class="fr">Gars</span> (#2304) can be used in the plural <span class="de">"Boys"</span> or <span class="de">"People"</span> It is also used to refer to <span class="de">The man.</span> or <span class="de">"Type"</span> used, often interchangeable with <span class="fr">mec</span>.</p>
       <div class="examples">
         <div class="fr">Salut les gars!</div>
-        <div class="de spoiler">Hallo Jungs!</div>
+        <div class="de spoiler">Hey, you guys!</div>
         <div class="fr">Le gars près de la porte est super sexy.</div>
-        <div class="de spoiler">Der Typ neben der Tür ist super sexy.</div>
+        <div class="de spoiler">The guy next door is super sexy.</div>
       </div>
 
-      <p><span class="fr">Type</span> (#440) wird oft verwendet, um einen Mann basierend auf einer bestimmten Eigenschaft zu beschreiben. Es kann auch einen zufälligen oder unbekannten Mann bezeichnen.</p>
+      <p><span class="fr">Type</span> (#440) is often used to describe a man based on a particular trait. It can also refer to a random or unknown man.</p>
       <div class="examples">
         <div class="fr">Un pauvre type.</div>
-        <div class="de spoiler">Ein armer Kerl.</div>
+        <div class="de spoiler">He's a poor guy.</div>
         <div class="fr">Un type chic.</div>
-        <div class="de spoiler">Ein schicker Typ.</div>
+        <div class="de spoiler">He's a good guy.</div>
         <div class="fr">Un type dans le métro m'a volé mon journal.</div>
-        <div class="de spoiler">Ein Typ in der U-Bahn hat mir meine Zeitung gestohlen.</div>
+        <div class="de spoiler">A guy in the subway stole my newspaper.</div>
       </div>
     </div>
   </div>

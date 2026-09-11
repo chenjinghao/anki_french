@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1974
 Wort: contester
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: contester
 Femininum / Plural: ''
 IPA: \kɔ̃.tɛs.te\
-Definition: bestreiten, anfechten
+Definition: to dispute
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'art *conteste* le réel.
-  Die Kunst *stellt* die Realität *in Frage*.
+  Art challenges the real thing.
 
   Le gouvernement ne peut pas *contester* le droit des citoyens à manifester.
-  Die Regierung kann das Demonstrationsrecht der Bürger nicht *anfechten*.
+  The government cannot challenge the right of citizens to demonstrate.
 
   Cette théorie scientifique est très *contestée* par les experts.
-  Diese wissenschaftliche Theorie ist bei den Experten sehr *umstritten*.
+  This scientific theory is highly disputed by experts.
 
   Les étudiants ont *contesté* dans la rue contre l'augmentation des frais.
-  Die Studenten sind gegen die Erhöhung der Gebühren auf die Straße *gegangen*.
+  Students protested in the streets against the increase in fees.
 
   Je ne *conteste* pas qu'il soit intelligent, mais il manque d'expérience.
-  Ich *bestreite* nicht, dass er intelligent ist, aber ihm fehlt die Erfahrung.
+  I'm not denying that he's smart, but he's inexperienced.
 
   Sa version des faits a été fortement *contestée* par les témoins.
-  Seine Version der Ereignisse wurde von den Zeugen stark *angezweifelt*.
+  His version of the facts was strongly disputed by witnesses.
 
   Personne ne peut *contester* son talent pour la musique.
-  Niemand kann sein Talent für Musik *bestreiten*.
+  No one can question his talent for music.
 
   Les manifestants *contestent* les nouvelles mesures économiques.
-  Die Demonstranten *stellen* die neuen Wirtschaftsmaßnahmen *in Frage*.
+  Protesters are challenging the new economic measures.
 
   "Je te *conteste* le droit de me parler ainsi !"
-  "Ich *bestreite* dein Recht, so mit mir zu reden!"
+  "I challenge your right to speak to me like that!"
 
   Cette décision sera certainement *contestée* devant le tribunal.
-  Diese Entscheidung wird sicherlich vor Gericht *angefochten* werden.
+  This decision will certainly be *challenged* in court.
 
   Les adolescents *contestent* souvent l'autorité de leurs parents.
-  Jugendliche *stellen* oft die Autorität ihrer Eltern *in Frage*.
+  Adolescents often challenge their parents' authority.
 
   Il est impossible de *contester* l'authenticité de ces documents.
-  Die Echtheit dieser Dokumente lässt sich nicht *anzweifeln*.
+  It is impossible to dispute the authenticity of these documents.
 
   Son leadership est de plus en plus *contesté* au sein du parti.
-  Seine Führung wird innerhalb der Partei zunehmend *infrage gestellt*.
+  His leadership is increasingly being *challenged* within the party.
 
   Les experts *contestent* la fiabilité de cette méthode.
-  Die Experten *zweifeln* die Zuverlässigkeit dieser Methode *an*.
+  Experts question the reliability of this method.
 
   Elle ne peut pas *contester* avoir reçu l'avertissement.
-  Sie kann nicht *bestreiten*, die Warnung erhalten zu haben.
+  She can't deny that she's been warned.
 
   Les critiques ont vivement *contesté* l'attribution du prix.
-  Die Kritiker haben die Preisvergabe heftig *angefochten*.
+  Critics strongly questioned the award.
 
   Plusieurs scientifiques *contestent* ces résultats.
-  Mehrere Wissenschaftler *zweifeln* diese Ergebnisse *an*.
+  Several scientists dispute these findings.
 
   Cette loi est largement *contestée* par la population.
-  Dieses Gesetz ist in der Bevölkerung weitgehend *umstritten*.
+  This law is widely disputed by the population.
 
   Nous devons *contester* cette fausse information.
-  Wir müssen dieser falschen Information *widersprechen*.
+  We must challenge this false information.
 
   Les syndicats *contestent* les nouvelles conditions de travail.
-  Die Gewerkschaften *fechten* die neuen Arbeitsbedingungen *an*.
+  Trade unions are challenging the new working conditions.
 
   Il a *contesté* la validité du contrat.
-  Er hat die Gültigkeit des Vertrags *angezweifelt*.
+  He *challenged* the validity of the contract.
 
   Cette artiste *contestée* est devenue célèbre après sa mort.
-  Diese *umstrittene* Künstlerin wurde nach ihrem Tod berühmt.
+  This controversial artist became famous after his death.
 
   Je ne peux pas *contester* que tu aies fait de ton mieux.
-  Ich kann nicht *bestreiten*, dass du dein Bestes gegeben hast.
+  I can't deny that you did your best.
 
   Personne n'ose *contester* son autorité dans ce domaine.
-  Niemand wagt es, seine Autorität auf diesem Gebiet *anzuzweifeln*.
+  No one dares to challenge his authority in this area.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

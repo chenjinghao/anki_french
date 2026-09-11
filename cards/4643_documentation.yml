@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4643
 Wort: documentation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la documentation
 Femininum / Plural: ''
 IPA: \dɔ.ky.mɑ̃.ta.sjɔ̃\
-Definition: Dokumentation
+Definition: Documentation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'écris aussi des *documentations* en français.
-  Ich schreibe auch *Dokumentationen* auf Französisch.
+  I also write documentaries in French.
 
   La *documentation* du logiciel n'est pas à jour.
-  Die *Dokumentation* der Software ist nicht aktuell.
+  The software *documentation* is not up to date.
 
   Pour ma thèse, j'ai besoin d'une *documentation* complète sur ce sujet.
-  Für meine Dissertation brauche ich eine vollständige *Dokumentation* zu diesem Thema.
+  For my thesis, I need comprehensive *documentation* on this subject.
 
   Le service de *documentation* est fermé aujourd'hui.
-  Die *Dokumentations*abteilung ist heute geschlossen.
+  The *documentation* department is closed today.
 
   Elle passe des heures à rassembler de la *documentation* pour son article.
-  Sie verbringt Stunden damit, *Unterlagen* für ihren Artikel zu sammeln.
+  She spends hours collecting *documentation* for her article.
 
   As-tu lu la *documentation* technique du nouveau système ?
-  Hast du die technische *Dokumentation* des neuen Systems gelesen?
+  Have you read the technical *documentation* of the new system?
 
   Notre guide contient toute la *documentation* touristique nécessaire.
-  Unser Führer enthält die gesamte notwendige Reise*dokumentation*.
+  Our tour guide contains all the necessary tourist *documentation*.
 
   Le centre de *documentation* propose des ressources en ligne.
-  Das *Dokumentations*zentrum bietet Online-Ressourcen an.
+  The *documentation* centre offers online resources.
 
   La *documentation* automatique facilite nos recherches.
-  Die automatische *Dokumentation* erleichtert unsere Recherchen.
+  Automated *documentation* makes our research easier.
 
   Il faut mettre à jour la *documentation* du programme chaque semaine.
-  Die *Dokumentation* des Programms muss wöchentlich aktualisiert werden.
+  The *documentation* of the programme must be updated weekly.
 
   Nous avons une excellente *documentation* sur l'histoire locale.
-  Wir haben eine ausgezeichnete *Dokumentation* zur lokalen Geschichte.
+  We have excellent *documentation* on local history.
 
   La *documentation* fournie avec l'appareil est très détaillée.
-  Die mitgelieferte *Dokumentation* des Geräts ist sehr ausführlich.
+  The *documentation* provided with the device is very detailed.
 
   Les étudiants ont accès à toute la *documentation* en ligne.
-  Die Studenten haben Zugang zu allen *Unterlagen* online.
+  Students have access to all the *documentation* online.
 
   Sa *documentation* sur ce projet est vraiment exhaustive.
-  Seine *Dokumentation* zu diesem Projekt ist wirklich umfassend.
+  His *documentation* on this project is really exhaustive.
 
   "Tu as la *doc* pour la nouvelle imprimante ?"
-  "Hast du die *Doku* für den neuen Drucker?"
+  "Do you have the paperwork for the new printer?"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

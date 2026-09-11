@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3925
 Wort: flagrant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: flagrant
 Femininum / Plural: flagrante
 IPA: \fla.ɡʁɑ̃\
-Definition: offenkundig
+Definition: Obviously
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est une contradiction *flagrante*.
-  Das ist ein *offensichtlicher* Widerspruch.
+  That's a blatant contradiction.
 
   Le voleur a été arrêté *en flagrant délit*.
-  Der Dieb wurde *auf frischer Tat* ertappt.
+  The thief was arrested for gross misdemeanor.
 
   Son mensonge était tellement *flagrant* que personne ne l'a cru.
-  Seine Lüge war so *offenkundig*, dass ihm niemand glaubte.
+  His lie was so blatant that no one believed him.
 
   Cette différence de salaire est une injustice *flagrante*.
-  Dieser Gehaltsunterschied ist eine *himmelschreiende* Ungerechtigkeit.
+  This pay gap is a blatant injustice.
 
   L'erreur était si *flagrante* qu'il a dû s'excuser immédiatement.
-  Der Fehler war so *offensichtlich*, dass er sich sofort entschuldigen musste.
+  The mistake was so blatant that he had to apologize immediately.
 
   Le juge a ordonné une procédure de *flagrant délit*.
-  Der Richter ordnete ein Schnellverfahren bei *offenkundiger Straftat* an.
+  The judge ordered a flagrant offence.
 
   Je l'ai pris *en flagrant délit* de tricherie pendant l'examen.
-  Ich habe ihn beim Schummeln während der Prüfung *auf frischer Tat* ertappt.
+  I caught him blatantly cheating during the exam.
 
   Il y a une différence *flagrante* entre ce qu'il dit et ce qu'il fait.
-  Es gibt einen *offensichtlichen* Unterschied zwischen dem, was er sagt und was er tut.
+  There's a stark difference between what he says and what he does.
 
   Cette violation des règles est *flagrante*.
-  Dieser Regelverstoß ist *offenkundig*.
+  This violation of the rules is flagrant.
 
   Les preuves étaient tellement *flagrantes* que le procès n'a pas duré longtemps.
-  Die Beweise waren so *eindeutig*, dass der Prozess nicht lange dauerte.
+  The evidence was so glaring that the trial didn't last long.
 
   L'incompétence du nouveau directeur est *flagrante*.
-  Die Inkompetenz des neuen Direktors ist *offensichtlich*.
+  The incompetence of the new director is flagrant.
 
   Il y a eu des cas *flagrants* de discrimination dans cette entreprise.
-  Es gab *offenkundige* Fälle von Diskriminierung in diesem Unternehmen.
+  There have been blatant cases of discrimination in this enterprise.
 
   Le manque de préparation était *flagrant* lors de sa présentation.
-  Der Mangel an Vorbereitung war bei seiner Präsentation *offensichtlich*.
+  The lack of preparation was evident in his presentation.
 
   Cette décision constitue une injustice *flagrante* envers les employés.
-  Diese Entscheidung stellt eine *himmelschreiende* Ungerechtigkeit gegenüber den Mitarbeitern dar.
+  This decision constitutes a flagrant injustice to employees.
 
   La police est intervenue dans un cas de *flagrant délit* de vol.
-  Die Polizei griff bei einem Fall von Diebstahl *auf frischer Tat* ein.
+  The police intervened in a case of blatant theft.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

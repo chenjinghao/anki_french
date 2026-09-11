@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1035
 Wort: modifier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: modifier
 Femininum / Plural: ''
 IPA: \mɔ.di.fje\
-Definition: ändern, modifizieren
+Definition: change, modify
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous pouvons *modifier* nos paramètres.
-  Wir können unsere Einstellungen *ändern*.
+  We can *change* our settings.
 
   Le gouvernement veut *modifier* la loi sur l'éducation.
-  Die Regierung will das Bildungsgesetz *ändern*.
+  The government wants to *change* the education law.
 
   Cette expérience a *modifié* ma façon de penser.
-  Diese Erfahrung hat meine Denkweise *verändert*.
+  This experience changed my thinking.
 
   L'adverbe "très" *modifie* l'adjectif "grand".
-  Das Adverb "sehr" *bestimmt* das Adjektiv "groß" näher.
+  The adverb "very" *changes* the adjective "big".
 
   Les travaux vont *modifier* l'aspect du quartier.
-  Die Bauarbeiten werden das Erscheinungsbild des Viertels *verändern*.
+  The work will *change* the look of the neighborhood.
 
   Le climat s'est *modifié* au cours des dernières années.
-  Das Klima hat sich in den letzten Jahren *gewandelt*.
+  The climate has changed in recent years.
 
   L'architecte a *modifié* les plans de la maison.
-  Der Architekt hat die Hauspläne *geändert*.
+  The architect altered the plans for the house.
 
   Son comportement s'est *modifié* depuis qu'il a un nouveau travail.
-  Sein Verhalten hat sich *verändert*, seit er eine neue Arbeit hat.
+  His behavior has changed since he got a new job.
 
   L'érosion a *modifié* le paysage au fil du temps.
-  Die Erosion hat die Landschaft im Laufe der Zeit *verändert*.
+  Erosion has changed the landscape over time.
 
   Je dois *modifier* mon emploi du temps pour la semaine prochaine.
-  Ich muss meinen Zeitplan für nächste Woche *ändern*.
+  I have to *change* my schedule for next week.
 
   Les conditions météorologiques se sont *modifiées* brusquement.
-  Die Wetterbedingungen haben sich plötzlich *geändert*.
+  The weather conditions changed abruptly.
 
   Il faut *modifier* le texte avant de l'envoyer.
-  Der Text muss *geändert* werden, bevor wir ihn verschicken.
+  You have to *change* the text before you send it.
 
   L'éducation peut *modifier* profondément une personne.
-  Bildung kann einen Menschen grundlegend *verändern*.
+  Education can profoundly *change* a person.
 
   Le programmeur a *modifié* le code source du logiciel.
-  Der Programmierer hat den Quellcode der Software *modifiziert*.
+  The programmer changed the source code of the software.
 
   La disposition des meubles s'est *modifiée* plusieurs fois.
-  Die Anordnung der Möbel wurde mehrmals *geändert*.
+  The layout of the furniture has changed several times.
 
   Ces événements ont *modifié* le cours de l'histoire.
-  Diese Ereignisse haben den Lauf der Geschichte *verändert*.
+  These events changed the course of history.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

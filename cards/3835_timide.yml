@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3835
 Wort: timide
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: timide
 Femininum / Plural: ''
 IPA: \ti.mid\
-Definition: schüchtern
+Definition: shy
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Sois pas *timide*, petit minou."
-  "Sei nicht *schüchtern*, kleine Katze."
+  "Don't be *shy*, you little prick".
 
   Paul est tellement *timide* qu'il n'ose pas parler en public.
-  Paul ist so *schüchtern*, dass er nicht in der Öffentlichkeit sprechen kann.
+  Paul is so *shy* that he dares not speak in public.
 
   Son *timide* sourire trahissait son incertitude.
-  Ihr *zaghaftes* Lächeln verriet ihre Unsicherheit.
+  His *shy* smile betrayed his uncertainty.
 
   Les *timides* ont souvent du mal à se faire des amis.
-  *Schüchterne* Menschen haben oft Schwierigkeiten, Freunde zu finden.
+  *Shy* people often have a hard time making friends.
 
   La jeune fille lança un regard *timide* vers son professeur.
-  Das Mädchen warf ihrem Lehrer einen *scheuen* Blick zu.
+  The girl looked timidly at her teacher.
 
   Cette *timide* tentative de réforme n'a pas abouti.
-  Dieser *zaghafte* Reformversuch ist gescheitert.
+  This *shy* attempt at reform has been unsuccessful.
 
   Marie fait des progrès, mais reste très *timide* en classe.
-  Marie macht Fortschritte, aber bleibt im Unterricht sehr *schüchtern*.
+  Marie is making progress, but she is still very *shy* in class.
 
   Le gouvernement a fait une *timide* protestation contre cette décision.
-  Die Regierung hat einen *zaghaften* Protest gegen diese Entscheidung eingelegt.
+  The government has made a timid protest against this decision.
 
   D'une voix *timide*, elle a demandé une augmentation.
-  Mit *zaghafter* Stimme hat sie um eine Gehaltserhöhung gebeten.
+  In a *shy* voice, she asked for a raise.
 
   L'économie montre des signes de reprise *timide*.
-  Die Wirtschaft zeigt Anzeichen einer *zaghaften* Erholung.
+  The economy is showing signs of a *shy* recovery.
 
   Sa critique *timide* n'a pas vraiment convaincu le public.
-  Seine *zaghafte* Kritik hat das Publikum nicht wirklich überzeugt.
+  His *shy* criticism didn't really convince the audience.
 
   Les premiers pas *timides* du bébé ont ému toute la famille.
-  Die ersten *zaghaften* Schritte des Babys haben die ganze Familie gerührt.
+  The baby's first *shy* steps moved the whole family.
 
   Même les plus *timides* peuvent réussir dans la vie.
-  Auch die *Schüchternsten* können im Leben erfolgreich sein.
+  Even the most timid can succeed in life.
 
   Il a fait une *timide* apparition à la fête.
-  Er machte einen *scheuen* Auftritt auf der Party.
+  He made a *shy* appearance at the party.
 
   Les manières *timides* de Thomas charment tout le monde.
-  Thomas' *schüchternes* Auftreten bezaubert alle.
+  Thomas' *shy* manners charm everyone.
 
   C'est un amoureux *timide* qui n'ose pas lui déclarer sa flamme.
-  Er ist ein *schüchterner* Verehrer, der ihr seine Liebe nicht zu gestehen wagt.
+  He's a *shy* lover who doesn't dare declare his flame to her.
 
   Une *timide* lueur d'espoir brillait dans ses yeux.
-  Ein *zaghafter* Hoffnungsschimmer leuchtete in ihren Augen.
+  A *shy* glimmer of hope shone through her eyes.
 
   Julie n'est *timide* qu'avec les inconnus.
-  Julie ist nur bei Fremden *schüchtern*.
+  Julie's only *shy* with strangers.
 
   La reprise économique reste *timide* au premier trimestre.
-  Die wirtschaftliche Erholung bleibt im ersten Quartal *zaghaft*.
+  The economic recovery remains *shy* in the first quarter.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

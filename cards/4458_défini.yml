@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4458
 Wort: défini
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: défini
 Femininum / Plural: définie
 IPA: \de.fi.ni\
-Definition: definiert
+Definition: defined
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous n'avez aucun rôle *défini* dans ce partenariat.
-  Sie haben keine klar *definierte* Rolle in dieser Partnerschaft.
+  You have no *defined* role in this partnership.
 
   Le concept n'est pas bien *défini* dans son livre.
-  Das Konzept ist in seinem Buch nicht gut *definiert*.
+  The concept is not well *defined* in his book.
 
   Cette mission a des objectifs clairement *définis*.
-  Diese Mission hat klar *definierte* Ziele.
+  This mission has clearly *defined* objectives.
 
   L'article *défini* « le » s'emploie devant un nom masculin singulier.
-  Der *bestimmte* Artikel "le" wird vor einem männlichen Substantiv im Singular verwendet.
+  The definite article  the  is used before a singular masculine name.
 
   Ces symptômes ne sont pas encore bien *définis*.
-  Diese Symptome sind noch nicht gut *definiert*.
+  These symptoms are not yet well *defined*.
 
   Le programme suit un emploi du temps bien *défini*.
-  Das Programm folgt einem genau *festgelegten* Zeitplan.
+  The programme follows a well-*defined* schedule.
 
   Dans des circonstances mal *définies*, l'accident s'est produit.
-  Unter nicht genau *definierten* Umständen geschah der Unfall.
+  Under ill-*defined* circumstances, the accident occurred.
 
   Les tâches sont *définies* au début de chaque projet.
-  Die Aufgaben werden zu Beginn jedes Projekts klar *definiert*.
+  The tasks are *defined* at the beginning of each project.
 
   Son intention *définie* est de partir à l'étranger.
-  Seine klar *definierte* Absicht ist es, ins Ausland zu gehen.
+  His definite intention is to go abroad.
 
   Elle a une position bien *définie* sur cette question.
-  Sie hat eine klar *definierte* Position zu dieser Frage.
+  She has a well-*defined* position on this matter.
 
   Les formes *définies* de l'article sont « le », « la » et « les ».
-  Die *bestimmten* Artikelformen sind "le", "la" und "les".
+  The definite forms of the article are  the ,  la , and  the.
 
   Ces proportions *définies* doivent être respectées.
-  Diese *festgelegten* Proportionen müssen eingehalten werden.
+  These *defined* proportions must be respected.
 
   Le terme doit être *défini* avant d'être utilisé.
-  Der Begriff muss *definiert* werden, bevor er verwendet wird.
+  The term must be *defined* before use.
 
   Leurs responsabilités sont bien *définies* dans le contrat.
-  Ihre Verantwortlichkeiten sind im Vertrag klar *definiert*.
+  Their responsibilities are well *defined* in the contract.
 
   Au *passé défini*, ce verbe est irrégulier.
-  Im *Passé simple* ist dieses Verb unregelmäßig.
+  In the definite past, this verb is irregular.
 
   Cette méthode n'est pas encore bien *définie*.
-  Diese Methode ist noch nicht gut *definiert*.
+  This method is not yet well *defined*.
 
   Les limites sont clairement *définies* dans ce cas.
-  Die Grenzen sind in diesem Fall klar *definiert*.
+  The limits are clearly *defined* in this case.
 
   Son rôle est mal *défini* dans l'équipe.
-  Seine Rolle im Team ist schlecht *definiert*.
+  His role on the team is poorly *defined*.
 
   Les critères ne sont pas bien *définis*.
-  Die Kriterien sind nicht gut *definiert*.
+  The criteria are not well *defined*.
 
   Cette stratégie suit un plan bien *défini*.
-  Diese Strategie folgt einem klar *definierten* Plan.
+  This strategy follows a well-*defined* plan.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,83 +1,83 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3115
 Wort: véritablement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: véritablement
 Femininum / Plural: ''
 IPA: \ve.ʁi.ta.blə.mɑ̃\
-Definition: wirklich, wahrhaftig
+Definition: Truly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle me démolit, *véritablement*. Elle vous démolit ?
-  Sie macht mich *wirklich* fertig. Macht sie Sie auch fertig?
+  She's *really* tearing me down.
 
   Je suis *véritablement* fatigué après cette longue journée de travail.
-  Ich bin nach diesem langen Arbeitstag *wirklich* müde.
+  I'm *really* tired after this long day of work.
 
   Es-tu *véritablement* sûr de vouloir partir maintenant ?
-  Bist du dir *ehrlich* sicher, dass du jetzt gehen willst?
+  Are you *really* sure you want to leave now?
 
   C'est une performance *véritablement* exceptionnelle qu'il nous a montrée hier soir.
-  Er hat uns gestern Abend eine *wirklich* außergewöhnliche Leistung gezeigt.
+  This is a truly exceptional performance he showed us last night.
 
   Je ne peux pas dire que je sois *véritablement* satisfait du résultat.
-  Ich kann nicht sagen, dass ich mit dem Ergebnis *eigentlich* zufrieden bin.
+  I cannot say that I am truly satisfied with the result.
 
   Cette solution n'est pas *véritablement* adaptée à nos besoins.
-  Diese Lösung ist für unsere Bedürfnisse nicht *wirklich* geeignet.
+  This solution is not *really* suited to our needs.
 
   Il était *véritablement* affligé par la nouvelle de son départ.
-  Er war von der Nachricht ihrer Abreise *wirklich* betrübt.
+  He was truly saddened by the news of his departure.
 
   Je commence *véritablement* à comprendre le français.
-  Ich fange an, Französisch *wirklich* zu verstehen.
+  I'm *really* starting to understand French.
 
   Marie est *véritablement* douée pour la musique.
-  Marie ist *ehrlich* begabt für Musik.
+  Marie is *really* good at music.
 
   Cette exposition est *véritablement* géniale !
-  Diese Ausstellung ist *wirklich* genial!
+  This exhibition is truly brilliant!
 
   As-tu *véritablement* besoin de trois téléphones portables ?
-  Brauchst du *eigentlich* drei Handys?
+  Do you *really* need three cell phones?
 
   Le projet a *véritablement* démarré quand Pierre est arrivé.
-  Das Projekt hat *wirklich* Fahrt aufgenommen, als Pierre dazukam.
+  The project *really* started when Pierre arrived.
 
   Je ne savais pas qu'il était *véritablement* parti sans dire au revoir.
-  Ich wusste nicht, dass er *tatsächlich* ohne Abschied gegangen war.
+  I didn't know he *really* left without saying goodbye.
 
   Les choses commencent *véritablement* à s'améliorer maintenant.
-  Die Dinge beginnen sich jetzt *wirklich* zu bessern.
+  Things are *really* starting to get better now.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>réellement</i> und <i>véritablement</i></div>
+    <div class="section-title"><i>réellement</i> and <i>véritablement</i></div>
     <div class="section-content">
-      <p><span class="fr">Réellement</span> (#1563) betont die konkrete Realität oder Existenz von etwas. Es wird häufig verwendet, um den Gegensatz zwischen dem Realen und dem Imaginären oder Hypothetischen hervorzuheben.</p>
+      <p><span class="fr">Réellement</span> (#1563) emphasizes the concrete reality or existence of something. It is often used to highlight the contrast between the real and the imaginary or hypothetical.</p>
       <div class="examples">
         <div class="fr">Est-ce que cela s'est réellement passé?</div>
-        <div class="de spoiler">Ist das wirklich passiert?</div>
+        <div class="de spoiler">Did this really happen?</div>
         <div class="fr">Je ne sais pas s'il est réellement malade ou s'il fait semblant.</div>
-        <div class="de spoiler">Ich weiß nicht, ob er wirklich krank ist oder nur so tut.</div>
+        <div class="de spoiler">I don't know if he's really sick or just acting.</div>
       </div>
 
-      <p><span class="fr">Véritablement</span> bezieht sich eher auf die Wahrhaftigkeit oder Authentizität einer Sache. Es wird oft verwendet, um die Echtheit oder die tiefere Wahrheit einer Situation zu betonen.</p>
+      <p><span class="fr">Véritablement</span> It is often used to emphasize the authenticity or deeper truth of a situation.</p>
       <div class="examples">
         <div class="fr">C'est un artiste véritablement talentueux.</div>
-        <div class="de spoiler">Er ist ein wahrhaft talentierter Künstler.</div>
+        <div class="de spoiler">He's a truly talented artist.</div>
         <div class="fr">Elle est véritablement passionnée par son travail.</div>
-        <div class="de spoiler">Sie ist wahrhaftig von ihrer Arbeit begeistert.</div>
+        <div class="de spoiler">She is truly enthusiastic about her work.</div>
       </div>
     </div>
   </div>

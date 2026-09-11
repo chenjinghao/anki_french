@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2605
 Wort: approprier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: approprier
 Femininum / Plural: ''
 IPA: \a.pʁɔ.pʁi.je\
-Definition: aneignen
+Definition: to acquire
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Dommage que les touristes anglais se l'*approprient*.
-  Schade, dass die englischen Touristen es sich *aneignen*.
+  It's a pity the English tourists are taking it.
 
   Je dois *approprier* mon discours à mon public.
-  Ich muss meine Rede dem Publikum *anpassen*.
+  I have to adapt my speech to my audience.
 
   Il faut *approprier* le traitement médical à chaque patient.
-  Die medizinische Behandlung muss jedem Patienten *angepasst* werden.
+  Medical treatment should be *appropriate* for each patient.
 
   Elle s'est *approprié* l'héritage de sa grand-mère sans en avoir le droit.
-  Sie hat sich das Erbe ihrer Großmutter widerrechtlich *erschlichen*.
+  She took over her grandmother's inheritance without the right to it.
 
   Le dictateur s'est *approprié* le pouvoir par la force.
-  Der Diktator hat die Macht gewaltsam an sich *gerissen*.
+  The dictator has seized power by force.
 
   Les étudiants doivent s'*approprier* les nouvelles connaissances.
-  Die Studenten müssen sich das neue Wissen zu *eigen* machen.
+  Students must *appropriate* the new knowledge.
 
   Il s'est *approprié* mon idée et l'a présentée comme la sienne.
-  Er hat sich meine Idee *angeeignet* und sie als seine eigene ausgegeben.
+  He appropriated my idea and presented it as his own.
 
   Le professeur a *approprié* son langage au niveau des élèves.
-  Der Lehrer hat seine Sprache dem Niveau der Schüler *angepasst*.
+  The teacher adapted his language to the level of the students.
 
   Les voleurs se sont *approprié* tous les bijoux du coffre-fort.
-  Die Diebe haben sich allen Schmuck aus dem Safe *angeeignet*.
+  The thieves seized all the jewelry in the safe.
 
   Cette entreprise s'est illégalement *approprié* le brevet.
-  Dieses Unternehmen hat sich das Patent illegal *angeeignet*.
+  This company illegally took possession of the patent.
 
   Elle s'*approprie* toujours le mérite du travail d'équipe.
-  Sie *maßt* sich immer das Verdienst der Teamarbeit *an*.
+  She always takes credit for teamwork.
 
   Le gouvernement s'est *approprié* les terres des paysans.
-  Die Regierung hat sich das Land der Bauern *angeeignet*.
+  The government has appropriated the land of the peasants.
 
   Nous devons *approprier* nos méthodes d'enseignement aux besoins actuels.
-  Wir müssen unsere Lehrmethoden den aktuellen Bedürfnissen *anpassen*.
+  We need to adapt our teaching methods to the needs of today.
 
   Le styliste a *approprié* les vêtements à la morphologie du mannequin.
-  Der Designer hat die Kleidung der Figur des Models *angepasst*.
+  The stylist adapted the clothes to the model's morphology.
 
   Les jeunes artistes se sont *approprié* ce style musical.
-  Die jungen Künstler haben sich diesen Musikstil zu *eigen* gemacht.
+  Young artists have adopted this musical style.
 
   Il faut *approprier* la punition à la faute.
-  Die Strafe muss dem Vergehen *angepasst* werden.
+  The punishment must be *appropriate* to the guilt.
 
   Le parti d'opposition s'est *approprié* ce slogan.
-  Die Oppositionspartei hat sich diesen Slogan *angeeignet*.
+  The opposition party has adopted this slogan.
 
   L'écrivain s'est habilement *approprié* les techniques narratives du roman noir.
-  Der Schriftsteller hat sich die Erzähltechniken des Kriminalromans geschickt zu *eigen* gemacht.
+  The writer skillfully appropriated the narrative techniques of the black novel.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

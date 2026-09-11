@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3859
 Wort: prôner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prôner
 Femininum / Plural: ''
 IPA: \pʁo.ne\
-Definition: anpreisen
+Definition: to praise
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'évangile *prône* la pauvreté.
-  Das Evangelium *preist* die Armut.
+  The gospel promotes poverty.
 
   Le gouvernement *prône* une politique d'austérité budgétaire.
-  Die Regierung *empfiehlt* eine Politik der Haushaltsdisziplin.
+  The government advocates a policy of fiscal austerity.
 
   Cette application mobile *prône* une alimentation plus saine.
-  Diese mobile App *preist* eine gesündere Ernährung *an*.
+  This mobile app promotes a healthier diet.
 
   Les experts *prônent* la prudence face à ces nouveaux médicaments.
-  Die Experten *empfehlen* Vorsicht bei diesen neuen Medikamenten.
+  Experts advise caution when dealing with these new medicines.
 
   Cette influenceuse *prône* des produits de beauté naturels sur ses réseaux sociaux.
-  Diese Influencerin *preist* auf ihren sozialen Medien natürliche Kosmetikprodukte *an*.
+  This influencer promotes natural beauty products on her social networks.
 
   Le professeur *prônait* toujours la lecture quotidienne.
-  Der Lehrer *pries* stets das tägliche Lesen *an*.
+  The teacher always advocated daily reading.
 
   Les médecins *prônent* une activité physique régulière.
-  Die Ärzte *empfehlen* regelmäßige körperliche Aktivität.
+  Doctors recommend regular physical activity.
 
   Ces philosophes *prônent* le retour à la nature.
-  Diese Philosophen *preisen* die Rückkehr zur Natur.
+  These philosophers advocate a return to nature.
 
   Le magazine *prône* des solutions écologiques pour le jardinage.
-  Die Zeitschrift *empfiehlt* umweltfreundliche Lösungen für die Gartenarbeit.
+  The magazine advocates ecological solutions for gardening.
 
   Son livre *prône* la méditation comme remède au stress.
-  Ihr Buch *preist* Meditation als Heilmittel gegen Stress *an*.
+  His book advocates meditation as a cure for stress.
 
   Les psychologues *prônent* une approche plus douce de l'éducation.
-  Die Psychologen *empfehlen* einen sanfteren Ansatz in der Erziehung.
+  Psychologists advocate a more gentle approach to education.
 
   Cette organisation *prône* la paix entre les nations.
-  Diese Organisation *setzt* sich für den Frieden zwischen den Nationen *ein*.
+  This organization promotes peace among the nations.
 
   Le chef d'entreprise *prône* le dialogue social.
-  Der Unternehmenschef *befürwortet* den sozialen Dialog.
+  The entrepreneur advocates social dialogue.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

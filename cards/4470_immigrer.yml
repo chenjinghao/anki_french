@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4470
 Wort: immigrer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: immigrer
 Femininum / Plural: ''
 IPA: \i.mi.ɡʁe\
-Definition: einwandern
+Definition: immigration
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mes grands-parents ont *immigré* au Canada.
-  Meine Großeltern sind nach Kanada *eingewandert*.
+  My grandparents immigrated to Canada.
 
   De nombreux Européens ont *immigré* aux États-Unis au XIX<sup>e</sup> siècle.
-  Viele Europäer sind im 19. Jahrhundert in die USA *eingewandert*.
+  Many Europeans immigrated to the United States in the 19th century.
 
   Sa famille a *immigré* en France il y a une dizaine d'années.
-  Seine Familie ist vor etwa zehn Jahren nach Frankreich *immigriert*.
+  His family immigrated to France about ten years ago.
 
   Les raisons pour lesquelles les gens *immigrent* sont souvent complexes.
-  Die Gründe, warum Menschen *einwandern*, sind oft komplex.
+  The reasons why people migrate are often complex.
 
   Quand est-ce que tes parents ont *immigré* en Suisse ?
-  Wann sind deine Eltern in die Schweiz *eingewandert*?
+  When did your parents immigrate to Switzerland?
 
   Elle rêve d'*immigrer* en Australie pour y commencer une nouvelle vie.
-  Sie träumt davon, nach Australien zu *immigrieren*, um dort ein neues Leben zu beginnen.
+  She dreams of immigrating to Australia to start a new life there.
 
   Chaque année, des milliers de personnes *immigrent* légalement dans notre pays.
-  Jedes Jahr *wandern* Tausende Menschen legal in unser Land *ein*.
+  Every year, thousands of people immigrate to our country legally.
 
   Il a décidé d'*immigrer* au Royaume-Uni pour poursuivre ses études.
-  Er hat beschlossen, für sein Studium in das Vereinigte Königreich zu *immigrieren*.
+  He decided to immigrate to the United Kingdom to further his education.
 
   Mes voisins ont *immigré* d'Italie dans les années 60.
-  Meine Nachbarn sind in den 60er Jahren aus Italien *eingewandert*.
+  My neighbors immigrated from Italy in the 1960's.
 
   De plus en plus de professionnels qualifiés *immigrent* vers les pays nordiques.
-  Immer mehr qualifizierte Fachkräfte *wandern* in die nordischen Länder *ein*.
+  More and more skilled workers are migrating to the Nordic countries.
 
   Les premiers colons ont *immigré* sur ce territoire au XVII<sup>e</sup> siècle.
-  Die ersten Siedler sind im 17. Jahrhundert in dieses Gebiet *eingewandert*.
+  The first settlers immigrated to this territory in the 17th century.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

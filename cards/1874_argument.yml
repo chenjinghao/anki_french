@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1874
 Wort: argument
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un argument
 Femininum / Plural: ''
 IPA: \aʁ.ɡy.mɑ̃\
-Definition: Argument
+Definition: The argument
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai entendu des *arguments* peu convaincants.
-  Ich habe wenig überzeugende *Argumente* gehört.
+  I've heard some unconvincing *arguments*.
 
   Pour défendre sa thèse, elle a présenté des *arguments* solides.
-  Um ihre These zu verteidigen, hat sie fundierte *Argumente* vorgebracht.
+  To defend her thesis, she presented strong *arguments*.
 
   Son dernier *argument* était irréfutable.
-  Sein letztes *Argument* war unwiderlegbar.
+  His last *argument* was irrefutable.
 
   L'*argument* principal de son discours portait sur le changement climatique.
-  Das Haupt*argument* seiner Rede betraf den Klimawandel.
+  The main topic of his talk was climate change.
 
   "Je suis complètement à court d'*arguments*!"
-  "Mir sind die *Argumente* völlig ausgegangen!"
+  "I'm completely out of *arguments*!"
 
   Elle a utilisé cet *argument* à double tranchant contre lui-même.
-  Sie hat dieses zweischneidige *Argument* gegen ihn selbst verwendet.
+  She used this double-edged *argument* against herself.
 
   L'enseignant développe ses *arguments* de manière systématique.
-  Der Lehrer entwickelt seine *Argumente* systematisch.
+  The teacher develops his *arguments* systematically.
 
   Voici l'*argument* du film en quelques phrases.
-  Hier ist die *Handlung* des Films in wenigen Sätzen.
+  Here's the point of the film in a few sentences.
 
   Les *arguments* de vente de ce produit sont sa durabilité et son prix.
-  Die Verkaufs*argumente* für dieses Produkt sind seine Haltbarkeit und sein Preis.
+  The reasons for selling this product are its durability and price.
 
   Il n'a pas d'autres *arguments* que la force.
-  Er kennt keine anderen *Argumente* als Gewalt.
+  He has no other argument than force.
 
   Marie et Pierre ont échangé des *arguments* pendant des heures.
-  Marie und Pierre haben stundenlang *Argumente* ausgetauscht.
+  Marie and Pierre argued for hours.
 
   L'*argument* a posteriori se base sur l'expérience directe.
-  Das A-posteriori-*Argument* basiert auf direkter Erfahrung.
+  The a posteriori *argument* is based on direct experience.
 
   Cet *argument* ad hominem n'a pas sa place dans un débat scientifique.
-  Dieses persönliche *Argument* hat in einer wissenschaftlichen Debatte nichts zu suchen.
+  This ad hominem *argument* has no place in a scientific debate.
 
   Les *arguments* pour et contre ont été soigneusement examinés.
-  Die *Argumente* dafür und dagegen wurden sorgfältig geprüft.
+  The *arguments* for and against have been carefully examined.
 
   Il a multiplié les *arguments* pour la convaincre.
-  Er hat die *Argumente* vervielfacht, um sie zu überzeugen.
+  He used multiple *arguments* to convince her.
 
   L'*argument* du ballet est assez simple à comprendre.
-  Die *Handlung* des Balletts ist recht einfach zu verstehen.
+  The ballet's *argument* is quite simple to understand.
 
   Elle a tiré *argument* de ce fait pour justifier sa décision.
-  Sie hat diesen Umstand als *Argument* benutzt, um ihre Entscheidung zu rechtfertigen.
+  She argued this fact to justify her decision.
 
   Ses larmes furent son dernier *argument*.
-  Ihre Tränen waren ihr letztes *Argument*.
+  Her tears were her last *argument*.
 
   L'*argument* de la partie adverse semblait faible.
-  Das *Argument* der Gegenseite schien schwach.
+  The opposing party's *argument* seemed weak.
 
   Les *arguments* mathématiques sont parfois difficiles à comprendre.
-  Mathematische *Argumente* sind manchmal schwer zu verstehen.
+  Mathematical *arguments* are sometimes difficult to understand.
 
   L'*argument* principal du roman se déroule au XIX<sup>e</sup> siècle.
-  Die Haupt*handlung* des Romans spielt im 19. Jahrhundert.
+  The main plot of the novel takes place in the 19th century.
 
   La qualité est notre meilleur *argument* de vente.
-  Die Qualität ist unser bestes Verkaufs*argument*.
+  Quality is our best selling point.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

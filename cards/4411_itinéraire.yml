@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4411
 Wort: itinéraire
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un itinéraire
 Femininum / Plural: ''
 IPA: \i.ti.ne.ʁɛʁ\
 Definition: Route
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Leur *itinéraire* n'est pas encore fixé.
-  Ihre *Route* steht noch nicht fest.
+  Their *route* has not yet been determined.
 
   Je cherche le meilleur *itinéraire* pour aller à la plage.
-  Ich suche die beste *Route* zum Strand.
+  I'm looking for the best *route* to the beach.
 
   L'application m'a proposé un *itinéraire* plus rapide.
-  Die App hat mir eine schnellere *Route* vorgeschlagen.
+  The app offered me a faster *route*.
 
   Nous devons suivre l'*itinéraire* touristique recommandé.
-  Wir müssen der empfohlenen Touristen*route* folgen.
+  We must follow the recommended tourist *route*.
 
   Son *itinéraire* spirituel l'a conduit du bouddhisme au christianisme.
-  Sein spiritueller *Werdegang* führte ihn vom Buddhismus zum Christentum.
+  His spiritual journey led him from Buddhism to Christianity.
 
   L'*itinéraire* politique de cette femme est impressionnant.
-  Der politische *Werdegang* dieser Frau ist beeindruckend.
+  The political trajectory of this woman is impressive.
 
   Les randonneurs ont choisi un *itinéraire* pédestre à travers les Alpes.
-  Die Wanderer haben eine Wander*route* durch die Alpen gewählt.
+  Hikers have chosen a hiking *route* through the Alps.
 
   L'*itinéraire bis* nous permettra d'éviter les embouteillages.
-  Die *alternative Route* wird uns helfen, Staus zu vermeiden.
+  *Route bis* will allow us to avoid traffic jams.
 
   Marc a modifié son *itinéraire* à cause des travaux.
-  Marc hat seine *Route* wegen der Bauarbeiten geändert.
+  Mark changed his *route* because of the work.
 
   Cet *itinéraire* gastronomique nous fait découvrir les meilleurs restaurants de la région.
-  Diese kulinarische *Route* führt uns zu den besten Restaurants der Region.
+  This gastronomic itinerary gives us a taste of the best restaurants in the area.
 
   L'*itinéraire* biographique de cet artiste est fascinant.
-  Der Lebens*weg* dieses Künstlers ist faszinierend.
+  The artist's biographical itinerary is fascinating.
 
   Le guide nous a tracé notre *itinéraire* sur la carte.
-  Der Führer hat uns unsere *Route* auf der Karte eingezeichnet.
+  The guide mapped our *route* on the map.
 
   Chaque voyageur suit son propre *itinéraire* dans la vie.
-  Jeder Reisende folgt seinem eigenen *Weg* im Leben.
+  Each traveler follows his own path in life.
 
   L'explorateur a soigneusement noté son *itinéraire* dans son carnet.
-  Der Forscher hat seine *Route* sorgfältig in seinem Notizbuch festgehalten.
+  The explorer carefully noted his *route* in his diary.
 
   Par quel *itinéraire* es-tu arrivé à ces conclusions ?
-  Auf welchem *Weg* bist du zu diesen Schlussfolgerungen gekommen?
+  How did you come to these conclusions?
 
   L'*itinéraire* de leurs vacances traverse trois pays différents.
-  Die *Route* ihres Urlaubs führt durch drei verschiedene Länder.
+  Their vacation itinerary runs through three different countries.
 
   Les pèlerins ont suivi l'*itinéraire* traditionnel vers Saint-Jacques-de-Compostelle.
-  Die Pilger sind der traditionellen *Route* nach Santiago de Compostela gefolgt.
+  The pilgrims followed the traditional *route* to Saint-Jacques-de-Compostelle.
 
   Cet *itinéraire* intellectuel reflète parfaitement l'évolution de sa pensée.
-  Dieser geistige *Werdegang* spiegelt die Entwicklung seines Denkens perfekt wider.
+  This intellectual path perfectly reflects the evolution of his thinking.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

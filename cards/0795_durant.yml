@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 795
 Wort: durant
 Wortart: prep
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: durant
 Femininum / Plural: ''
 IPA: \dy.ʁɑ̃\
-Definition: während
+Definition: Whereas
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai travaillé sur ce problème *durant* toute ma carrière.
-  Ich habe mich *während* meiner ganzen Karriere mit diesem Problem beschäftigt.
+  I've worked on this problem all my career.
 
   Il a neigé *durant* trois jours sans interruption.
-  Es hat drei Tage *lang* während der gesamten Zeit geschneit.
+  It snowed for three days without interruption.
 
   *Durant* l'été, nous avons voyagé à travers l'Europe.
-  *Während* des Sommers sind wir durch Europa gereist.
+  *During* the summer, we traveled through Europe.
 
   Elle est restée silencieuse des heures *durant*.
-  Sie blieb stunden*lang* still.
+  She was silent for hours.
 
   *Durant* son enfance, il habitait à la campagne.
-  *Während* seiner Kindheit wohnte er auf dem Land.
+  As a child, he lived in the countryside.
 
   Je vais méditer une heure *durant*.
-  Ich werde eine Stunde *lang* meditieren.
+  I'll meditate for an hour.
 
   *Durant* que les enfants dormaient, nous avons préparé leurs cadeaux.
-  *Während* die Kinder schliefen, haben wir ihre Geschenke vorbereitet.
+  While the children were sleeping, we prepared their gifts.
 
   La musique a joué la nuit *durant*.
-  Die Musik spielte die ganze Nacht *hindurch*.
+  The music played through the night.
 
   *Durant* le spectacle, personne n'a fait de bruit.
-  *Während* der Vorstellung hat niemand Lärm gemacht.
+  *During* the show, no one made any noise.
 
   Elle restera directrice sa carrière *durant*.
-  Sie wird ihre Karriere *lang* Direktorin bleiben.
+  She'll be a director for the rest of her career.
 
   *Durant* le repas, nous avons discuté de nos projets.
-  *Während* des Essens haben wir über unsere Pläne gesprochen.
+  *During* the meal, we discussed our plans.
 
   Il a plu des jours *durant*.
-  Es hat tage*lang* geregnet.
+  It rained for days.
 
   *Durant* le trajet, j'ai lu un livre passionnant.
-  *Während* der Fahrt habe ich ein spannendes Buch gelesen.
+  On the way, I read an exciting book.
 
   Les oiseaux ont chanté l'aube *durant*.
-  Die Vögel sangen die Morgendämmerung *hindurch*.
+  The birds sang at dawn.
 
   *Durant* ses vacances, elle a appris à faire du surf.
-  *Während* ihres Urlaubs hat sie surfen gelernt.
+  *During* her vacation, she learned to surf.
 
   Elle touchera cette pension sa vie *durant*.
-  Sie wird diese Rente ihr Leben *lang* beziehen.
+  She'll get this pension for the rest of her life.
 
   *Durant* tout l'hiver, nous avons dû chauffer la maison.
-  *Während* des ganzen Winters mussten wir das Haus heizen.
+  We had to heat the house all winter.
 
   Le chien a attendu son maître des minutes *durant*.
-  Der Hund wartete minuten*lang* auf seinen Herrn.
+  The dog waited for his master for minutes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  Formeller als <b>pendant</b> (#89).
+  Formulae as follows: <b>pendant</b> (#89).
   <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Präpositionen der Zeit"></grammar>

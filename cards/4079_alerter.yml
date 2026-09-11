@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4079
 Wort: alerter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: alerter
 Femininum / Plural: ''
 IPA: \a.lɛʁ.te\
-Definition: alarmieren, warnen
+Definition: to alert, to warn
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il ne faudrait pas *alerter* la population.
-  Man sollte die Bevölkerung nicht *alarmieren*.
+  There's no need to warn the public.
 
   Les pompiers ont été *alertés* d'un incendie dans l'immeuble.
-  Die Feuerwehr wurde über einen Brand im Gebäude *alarmiert*.
+  Firefighters have been alerted to a fire in the building.
 
   Son comportement étrange m'a *alerté* immédiatement.
-  Sein seltsames Verhalten hat mich sofort *aufmerksam gemacht*.
+  His strange behavior immediately *alerted* me.
 
   Les aboiements du chien ont *alerté* toute la maison.
-  Das Bellen des Hundes hat das ganze Haus *alarmiert*.
+  The dog's barking *alerted* the whole house.
 
   Je dois *alerter* les autorités de cette situation dangereuse.
-  Ich muss die Behörden über diese gefährliche Situation *in Kenntnis setzen*.
+  I have to warn the authorities of this dangerous situation.
 
   Le médecin a été *alerté* dès les premiers symptômes.
-  Der Arzt wurde bei den ersten Symptomen *alarmiert*.
+  The doctor was *alerted* at the first symptoms.
 
   Une odeur de fumée a *alerté* les voisins.
-  Ein Brandgeruch hat die Nachbarn *alarmiert*.
+  A smell of smoke *alerted* the neighbors.
 
   Le joueur a *alerté* son coéquipier d'une passe longue.
-  Der Spieler hat seinen Mitspieler mit einem langen Pass *aufmerksam gemacht*.
+  The player *alerted* his teammate to a long pass.
 
   La police a été *alertée* par des témoins.
-  Die Polizei wurde von Zeugen *alarmiert*.
+  The police were *alerted* by witnesses.
 
   Ces changements climatiques devraient nous *alerter*.
-  Diese Klimaveränderungen sollten uns *wachrütteln*.
+  These climate changes should warn us.
 
   Le système d'alarme va *alerter* la sécurité.
-  Das Alarmsystem wird die Sicherheit *alarmieren*.
+  The alarm system will alert the security.
 
   Les scientifiques ont *alerté* le public sur les risques.
-  Die Wissenschaftler haben die Öffentlichkeit vor den Risiken *gewarnt*.
+  Scientists have *alerted* the public to the risks.
 
   Un bruit suspect a *alerté* le gardien de nuit.
-  Ein verdächtiges Geräusch hat den Nachtwächter *alarmiert*.
+  A suspicious noise *alerted* the night watchman.
 
   Nous devons *alerter* les médias de cette découverte.
-  Wir müssen die Medien über diese Entdeckung *in Kenntnis setzen*.
+  We need to alert the media to this discovery.
 
   Il faut *alerter* les services d'urgence immédiatement.
-  Man muss sofort den Notdienst *alarmieren*.
+  We need to alert the emergency services immediately.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

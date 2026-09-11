@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3281
 Wort: préconiser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: préconiser
 Femininum / Plural: ''
 IPA: \pʁe.kɔ.ni.ze\
-Definition: befürworten, empfehlen
+Definition: Advocating and recommending
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *préconise* la souplesse plutôt que la ligne dure.
-  Ich *befürworte* Flexibilität statt einer harten Linie.
+  I'm for flexibility rather than the hard line.
 
   Les médecins *préconisent* une alimentation équilibrée pour prévenir les maladies cardiaques.
-  Die Ärzte *empfehlen* eine ausgewogene Ernährung zur Vorbeugung von Herzkrankheiten.
+  Doctors recommend a balanced diet to prevent heart disease.
 
   Le rapport *préconise* des changements radicaux dans le système éducatif.
-  Der Bericht *befürwortet* radikale Änderungen im Bildungssystem.
+  The report advocates radical changes in the education system.
 
   L'expert *préconise* l'utilisation d'énergies renouvelables pour lutter contre le changement climatique.
-  Der Experte *empfiehlt* die Nutzung erneuerbarer Energien im Kampf gegen den Klimawandel.
+  The expert advocates the use of renewable energy to combat climate change.
 
   Les chercheurs *préconisent* une approche plus prudente dans cette expérience.
-  Die Forscher *empfehlen* einen vorsichtigeren Ansatz bei diesem Experiment.
+  The researchers recommend a more cautious approach in this experiment.
 
   Elle a *préconisé* une réduction du temps de travail pour améliorer la productivité.
-  Sie hat eine Reduzierung der Arbeitszeit zur Verbesserung der Produktivität *befürwortet*.
+  She advocated a reduction in working time to improve productivity.
 
   Le psychologue *préconise* de faire plus d'exercice pour réduire le stress.
-  Der Psychologe *empfiehlt*, mehr Sport zu treiben, um Stress abzubauen.
+  The psychologist recommends more exercise to reduce stress.
 
   Nous *préconisons* l'adoption de nouvelles mesures de sécurité.
-  Wir *befürworten* die Einführung neuer Sicherheitsmaßnahmen.
+  We support the adoption of new security measures.
 
   Le comité *préconise* la construction d'un nouveau pont pour désengorger la circulation.
-  Das Komitee *empfiehlt* den Bau einer neuen Brücke zur Entlastung des Verkehrs.
+  The Committee recommends the construction of a new bridge to reduce traffic congestion.
 
   Les spécialistes *préconisent* huit heures de sommeil par nuit.
-  Die Experten *empfehlen* acht Stunden Schlaf pro Nacht.
+  Experts recommend eight hours of sleep a night.
 
   Le gouvernement *préconise* le port du masque dans les transports en commun.
-  Die Regierung *empfiehlt* das Tragen einer Maske in öffentlichen Verkehrsmitteln.
+  The government advocates the wearing of masks in public transport.
 
   Mon médecin m'a *préconisé* du repos pendant une semaine.
-  Mein Arzt hat mir eine Woche Ruhe *empfohlen*.
+  My doctor advised me to rest for a week.
 
   Cette étude *préconise* une réforme complète du système de santé.
-  Diese Studie *befürwortet* eine vollständige Reform des Gesundheitssystems.
+  This study advocates a complete reform of the health system.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

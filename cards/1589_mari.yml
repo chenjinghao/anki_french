@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1589
 Wort: mari
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le mari
 Femininum / Plural: ''
 IPA: \ma.ʁi\
-Definition: Ehemann
+Definition: Husband
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis un collègue de votre *mari*.
-  Ich bin ein Kollege Ihres *Mannes*.
+  I'm a colleague of your *husband*'s.
 
   Mon *mari* et moi avons décidé d'adopter un enfant.
-  Mein *Mann* und ich haben beschlossen, ein Kind zu adoptieren.
+  My *husband* and I decided to adopt a child.
 
   Elle cherche toujours un *mari* qui partage ses valeurs.
-  Sie sucht immer noch einen *Ehemann*, der ihre Werte teilt.
+  She's always looking for a *husband* who shares her values.
 
   Son *mari* lui a offert un bijou pour leur anniversaire de mariage.
-  Ihr *Mann* hat ihr zum Hochzeitstag ein Schmuckstück geschenkt.
+  Her *husband* gave her a jewelry for their wedding anniversary.
 
   Le *mari* de ma sœur est médecin depuis vingt ans.
-  Der *Mann* meiner Schwester ist seit zwanzig Jahren Arzt.
+  My sister's *husband* has been a doctor for twenty years.
 
   C'est difficile d'être une bonne épouse et un bon *mari* en même temps.
-  Es ist schwierig, gleichzeitig eine gute Ehefrau und ein guter *Ehemann* zu sein.
+  It's hard to be a good wife and a good *husband* at the same time.
 
   Ton ex-*mari* a appelé pendant que tu n'étais pas là.
-  Dein Ex-*Mann* hat angerufen, während du nicht da warst.
+  Your ex-*husband* called while you were away.
 
   Elle a épousé son *mari* il y a trois mois à Paris.
-  Sie hat ihren *Mann* vor drei Monaten in Paris geheiratet.
+  She married her *husband* three months ago in Paris.
 
   Mon *mari* rentre tard ce soir, il travaille.
-  Mein *Mann* kommt heute Abend spät nach Hause, er arbeitet.
+  My *husband* comes home late tonight, he's at work.
 
   Comment va votre *mari* depuis son opération ?
-  Wie geht es Ihrem *Mann* seit seiner Operation?
+  How's your *husband* doing since his surgery?
 
   Son *mari* l'accompagne toujours quand elle voyage.
-  Ihr *Mann* begleitet sie immer, wenn sie reist.
+  Her *husband* always accompanies her when she travels.
 
   Julie et son futur *mari* préparent leur mariage depuis des mois.
-  Julie und ihr zukünftiger *Ehemann* planen seit Monaten ihre Hochzeit.
+  Julie and her future *husband* have been preparing for their wedding for months.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

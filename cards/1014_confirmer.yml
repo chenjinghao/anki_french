@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1014
 Wort: confirmer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: confirmer
 Femininum / Plural: ''
 IPA: \kɔ̃.fiʁ.me\
-Definition: bestätigen
+Definition: Confirm
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette information n'a pas été *confirmée*.
-  Diese Information wurde nicht *bestätigt*.
+  This information has not been *confirmed*.
 
   Le médecin a *confirmé* le diagnostic initial.
-  Der Arzt hat die erste Diagnose *bestätigt*.
+  The doctor *confirmed* the initial diagnosis.
 
   La tendance à la hausse se *confirme* depuis plusieurs mois.
-  Der Aufwärtstrend *hält* seit mehreren Monaten *an*.
+  The upward trend has been confirmed for several months.
 
   Son témoignage *confirme* notre version des faits.
-  Seine Aussage *bestätigt* unsere Version der Ereignisse.
+  His testimony *confirms* our view of the facts.
 
   Je vous *confirme* notre rendez-vous pour demain à 15h.
-  Ich *bestätige* Ihnen unseren Termin für morgen um 15 Uhr.
+  I'm confirming our appointment for tomorrow at 3:00.
 
   L'évêque *confirmera* les enfants dimanche prochain.
-  Der Bischof wird die Kinder am nächsten Sonntag *firmen*.
+  The bishop *will confirm* the children next Sunday.
 
   Les résultats de l'analyse *confirment* nos soupçons.
-  Die Analyseergebnisse *bestätigen* unseren Verdacht.
+  The results of the analysis confirm our suspicions.
 
   L'exception *confirme* la règle.
-  Die Ausnahme *bestätigt* die Regel.
+  The exception *confirms* the rule.
 
   Ses actions n'ont fait que me *confirmer* dans mon opinion.
-  Seine Handlungen haben mich nur in meiner Meinung *bestätigt*.
+  His actions only confirmed my opinion.
 
   La cour d'appel a *confirmé* le jugement initial.
-  Das Berufungsgericht hat das ursprüngliche Urteil *bestätigt*.
+  The Court of Appeal upheld the original judgment.
 
   Les rumeurs sur son départ se sont *confirmées*.
-  Die Gerüchte über seinen Weggang haben sich *bewahrheitet*.
+  Rumors of his departure have been *confirmed*.
 
   Cette expérience l'a *confirmé* dans sa résolution.
-  Diese Erfahrung hat ihn in seinem Entschluss *bestärkt*.
+  This experience was *confirmed* in his resolution.
 
   Nous recherchons un ingénieur *confirmé* pour ce poste.
-  Wir suchen einen *erfahrenen* Ingenieur für diese Stelle.
+  We're looking for a certified engineer for this position.
 
   Pouvez-vous *confirmer* votre présence à la réunion ?
-  Können Sie Ihre Teilnahme an der Sitzung *bestätigen*?
+  Can you confirm your presence at the meeting?
 
   Les nouvelles découvertes *confirment* cette théorie.
-  Die neuen Entdeckungen *bestätigen* diese Theorie.
+  New discoveries confirm this theory.
 
   Il a été *confirmé* dans ses fonctions de directeur.
-  Er wurde in seiner Position als Direktor *bestätigt*.
+  He was *confirmed* to his duties as director.
 
   Tout *confirme* que nous avons pris la bonne décision.
-  Alles *bestätigt*, dass wir die richtige Entscheidung getroffen haben.
+  Everything *confirms* that we made the right decision.
 
   Les faits ont *confirmé* mes prédictions.
-  Die Tatsachen haben meine Vorhersagen *bestätigt*.
+  The facts *confirmed* my predictions.
 
   Je dois encore *confirmer* ma réservation d'hôtel.
-  Ich muss meine Hotelbuchung noch *bestätigen*.
+  I still have to confirm my hotel reservation.
 
   Ma fille sera *confirmée* au printemps prochain.
-  Meine Tochter wird im nächsten Frühling *konfirmiert*.
+  My daughter will be *confirmed* next spring.
 
   L'enquête policière a *confirmé* les soupçons initiaux.
-  Die polizeiliche Untersuchung hat den anfänglichen Verdacht *bestätigt*.
+  The police investigation *confirmed* the initial suspicions.
 
   Ses paroles m'ont *confirmé* dans mes craintes.
-  Seine Worte haben mich in meinen Befürchtungen *bestätigt*.
+  His words *confirmed* me in my fears.
 
   Il se *confirme* que le patient est hors de danger.
-  Es *bestätigt* sich, dass der Patient außer Gefahr ist.
+  It *confirms* that the patient is out of danger.
 
   Je vous *confirme* par écrit notre accord d'hier.
-  Ich *bestätige* Ihnen schriftlich unsere gestrige Vereinbarung.
+  I'm confirming in writing our agreement yesterday.
 
   Cette découverte *confirme* nos hypothèses de recherche.
-  Diese Entdeckung *bestätigt* unsere Forschungshypothesen.
+  This discovery *confirms* our research hypotheses.
 
   Les sondages se sont *confirmés* le jour de l'élection.
-  Die Umfragen haben sich am Wahltag *bestätigt*.
+  The polls were *confirmed* on election day.
 
   Les preuves *confirment* sa version des événements.
-  Die Beweise *bestätigen* seine Version der Ereignisse.
+  Evidence confirms his account of events.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

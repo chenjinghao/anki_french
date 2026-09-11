@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1176
 Wort: décrire
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: décrire
 Femininum / Plural: ''
 IPA: \de.kʁiʁ\
-Definition: beschreiben
+Definition: Describe
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'aurais qu'à *décrire* ce que je voyais.
-  Ich musste nur *beschreiben*, was ich sah.
+  All I have to do is *describe* what I saw.
 
   Pourrais-tu *décrire* les symptômes au médecin ?
-  Könntest du dem Arzt die Symptome *beschreiben*?
+  Could you *describe* the symptoms to the doctor?
 
   La rivière *décrit* une courbe gracieuse autour du village.
-  Der Fluss *macht* eine anmutige Kurve um das Dorf.
+  The river describes a graceful curve around the village.
 
   L'aigle *décrivait* des cercles au-dessus de sa proie.
-  Der Adler *kreiste* über seiner Beute.
+  The eagle *described* circles above its prey.
 
   Les mots ne peuvent pas *décrire* la beauté de ce paysage.
-  Worte können die Schönheit dieser Landschaft nicht *beschreiben*.
+  Words cannot *describe* the beauty of this landscape.
 
   Dans son roman, elle *décrit* la vie quotidienne en Provence.
-  In ihrem Roman *schildert* sie das Alltagsleben in der Provence.
+  In her novel, she describes everyday life in Provence.
 
   La comète *décrit* une orbite elliptique autour du soleil.
-  Der Komet *beschreibt* eine elliptische Bahn um die Sonne.
+  The comet describes an elliptical orbit around the sun.
 
   Comment *décrire* l'odeur d'une rose à quelqu'un qui n'en a jamais senti ?
-  Wie soll man jemandem den Duft einer Rose *beschreiben*, der noch nie eine gerochen hat?
+  How do you *describe* the smell of a rose to someone who's never felt it?
 
   Le professeur nous a demandé de *décrire* notre week-end en français.
-  Der Lehrer hat uns gebeten, unser Wochenende auf Französisch zu *beschreiben*.
+  The teacher asked us to *describe* our weekend in French.
 
   L'avion *décrivit* un large cercle avant d'atterrir.
-  Das Flugzeug *zog* vor der Landung einen weiten Kreis.
+  The plane *described* a wide circle before landing.
 
   Marie m'a *décrit* son nouvel appartement en détail.
-  Marie hat mir ihre neue Wohnung detailliert *beschrieben*.
+  Marie *described* her new apartment to me in detail.
 
   Les scientifiques ont *décrit* une nouvelle espèce de papillon.
-  Die Wissenschaftler haben eine neue Schmetterlingsart *beschrieben*.
+  Scientists have *described* a new species of butterfly.
 
   Le guide touristique *décrivait* l'histoire du château avec passion.
-  Der Fremdenführer *schilderte* leidenschaftlich die Geschichte des Schlosses.
+  The tour guide *described* the history of the castle with passion.
 
   La danseuse *décrivait* des cercles gracieux sur la scène.
-  Die Tänzerin *zog* anmutige Kreise auf der Bühne.
+  The dancer *described* graceful circles on the stage.
 
   Il est difficile de *décrire* ce que l'on ressent dans ces moments-là.
-  Es ist schwer zu *beschreiben*, was man in solchen Momenten empfindet.
+  It's hard to *describe* how you feel in those moments.
 
   Le témoin a *décrit* précisément ce qu'il avait vu ce soir-là.
-  Der Zeuge hat genau *geschildert*, was er an jenem Abend gesehen hatte.
+  The witness *described* exactly what he had seen that night.
 
   La route *décrit* des virages dangereux dans la montagne.
-  Die Straße *macht* gefährliche Kurven im Gebirge.
+  The road describes dangerous turns in the mountains.
 
   Dans son journal, elle *décrivait* ses impressions de voyage.
-  In ihrem Tagebuch *beschrieb* sie ihre Reiseeindrücke.
+  In her diary, she *described* her travel impressions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

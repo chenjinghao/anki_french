@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2617
 Wort: correct
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: correct
 Femininum / Plural: correcte
 IPA: \kɔ.ʁɛkt\
-Definition: richtig, annehmbar
+Definition: Right, acceptable
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   D'accord, ça me paraît *correct*.
-  Okay, das erscheint mir *korrekt*.
+  All right, that sounds right to me.
 
   Cette traduction n'est pas *correcte* du tout.
-  Diese Übersetzung ist überhaupt nicht *korrekt*.
+  This translation is not accurate at all.
 
   Mon professeur m'a dit que ma réponse était *correcte*.
-  Mein Lehrer sagte mir, dass meine Antwort *richtig* war.
+  My teacher told me my answer was *correct*.
 
   "Le prix n'est pas très élevé et la qualité est *correcte*."
-  "Der Preis ist nicht sehr hoch und die Qualität ist *annehmbar*."
+  "The price is not very high and the quality is *correct*".
 
   Elle s'est toujours montrée très *correcte* avec ses collègues.
-  Sie hat sich ihren Kollegen gegenüber immer sehr *korrekt* verhalten.
+  She's always been very *correct* with her colleagues.
 
   Il faut maintenir une distance *correcte* entre les véhicules.
-  Man muss einen *angemessenen* Abstand zwischen den Fahrzeugen einhalten.
+  A *correct* distance between vehicles must be maintained.
 
   Le *correct* fonctionnement de cet appareil est essentiel.
-  Die *einwandfreie* Funktion dieses Geräts ist wesentlich.
+  The proper functioning of this apparatus is essential.
 
   Pour entrer dans ce restaurant, une tenue *correcte* est exigée.
-  Für dieses Restaurant ist *angemessene* Kleidung erforderlich.
+  To enter this restaurant, proper clothing is required.
 
   Cette phrase n'est pas grammaticalement *correcte*.
-  Dieser Satz ist grammatikalisch nicht *korrekt*.
+  This sentence is not grammatically *correct*.
 
   Son comportement a toujours été *correct* en affaires.
-  Sein Verhalten war in geschäftlichen Dingen stets *korrekt*.
+  His behaviour was always right in business.
 
   Tous les calculs dans ce devoir sont *corrects*.
-  Alle Berechnungen in dieser Aufgabe sind *richtig*.
+  All the calculations in this assignment are *correct*.
 
   La température est maintenue à un niveau *correct*.
-  Die Temperatur wird auf einem *angemessenen* Niveau gehalten.
+  The temperature is maintained at the *correct* level.
 
   "Ce film était juste *correct*, rien de plus."
-  "Dieser Film war nur *passabel*, mehr nicht."
+  "This movie was just right, nothing more".
 
   Pour un trois étoiles, cet hôtel est très *correct*.
-  Für ein Drei-Sterne-Hotel ist dieses Hotel sehr *anständig*.
+  For a three-star, this hotel is very decent.
 
   Il est important d'avoir une vision *correcte* de la situation.
-  Es ist wichtig, eine *richtige* Sicht auf die Situation zu haben.
+  It is important to have a *correct* view of the situation.
 
   Le déroulement de l'événement était parfaitement *correct*.
-  Der Ablauf der Veranstaltung war vollkommen *korrekt*.
+  The course of the event was perfectly *correct*.
 
   Votre raisonnement n'est pas *correct*.
-  Ihre Argumentation ist nicht *schlüssig*.
+  Your reasoning is wrong.
 
   Cette copie est *correcte* et fidèle à l'original.
-  Diese Kopie ist *originalgetreu* und authentisch.
+  This copy is *correct* and faithful to the original.
 
   La rémunération proposée est tout à fait *correcte*.
-  Die angebotene Bezahlung ist durchaus *angemessen*.
+  The remuneration proposed is quite *correct*.
 
   Son français n'est pas très *correct*, mais on le comprend.
-  Sein Französisch ist nicht sehr *korrekt*, aber man versteht ihn.
+  His French isn't very good, but we understand him.
 
   Elle s'efforce toujours d'écrire de manière *correcte*.
-  Sie bemüht sich immer, *korrekt* zu schreiben.
+  She always tries to write correctly.
 
   Les résultats du test sont *corrects*.
-  Die Testergebnisse sind *richtig*.
+  The test results are *correct*.
 
   Cette édition est très *correcte* et respecte bien le texte original.
-  Diese Ausgabe ist sehr *genau* und respektiert den Originaltext.
+  This edition is very accurate and respects the original text.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

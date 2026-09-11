@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4147
 Wort: fiable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fiable
 Femininum / Plural: ''
 IPA: \fjabl\
-Definition: verlässlich, zuverlässig
+Definition: Reliable
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle est très *fiable*, croyez-moi.
-  Sie ist sehr *zuverlässig*, glauben Sie mir.
+  It's very *reliable*, believe me.
 
   Cette voiture d'occasion n'est pas très *fiable*.
-  Dieser Gebrauchtwagen ist nicht sehr *betriebssicher*.
+  This used car is not very *reliable*.
 
   Les sources que tu as utilisées pour ton exposé sont-elles *fiables* ?
-  Sind die Quellen, die du für deinen Vortrag verwendet hast, *zuverlässig*?
+  Are the sources you used for your presentation *reliable*?
 
   Notre nouveau système informatique s'est révélé particulièrement *fiable*.
-  Unser neues Computersystem hat sich als besonders *betriebssicher* erwiesen.
+  Our new computer system has proven to be particularly *reliable*.
 
   Sa mémoire n'est plus aussi *fiable* qu'avant.
-  Sein Gedächtnis ist nicht mehr so *zuverlässig* wie früher.
+  His memory isn't as *reliable* as it used to be.
 
   Nous recherchons un partenaire commercial *fiable*.
-  Wir suchen einen *vertrauenswürdigen* Geschäftspartner.
+  We're looking for a *reliable* business partner.
 
   Les statistiques montrent des résultats *fiables*.
-  Die Statistiken zeigen *zuverlässige* Ergebnisse.
+  Statistics show *reliable* results.
 
   Cette méthode de test s'est avérée *fiable* à 100%.
-  Diese Testmethode hat sich als zu 100% *zuverlässig* erwiesen.
+  This test method proved to be 100% *reliable*.
 
   Mon ancien téléphone était plus *fiable* que celui-ci.
-  Mein altes Handy war *betriebssicherer* als dieses.
+  My old phone was more *reliable* than this one.
 
   As-tu trouvé un baby-sitter *fiable* pour ce soir ?
-  Hast du einen *zuverlässigen* Babysitter für heute Abend gefunden?
+  Did you find a *reliable* babysitter for tonight ?
 
   Ces données ne sont pas suffisamment *fiables* pour tirer des conclusions.
-  Diese Daten sind nicht *vertrauenswürdig* genug, um Schlüsse zu ziehen.
+  These data are not *reliable* enough to draw conclusions.
 
   Le nouveau moteur est plus *fiable* que l'ancien modèle.
-  Der neue Motor ist *betriebssicherer* als das alte Modell.
+  The new engine is more *reliable* than the old model.
 
   Je cherche une montre *fiable* pour mes activités sportives.
-  Ich suche eine *zuverlässige* Uhr für meine sportlichen Aktivitäten.
+  I'm looking for a *reliable* watch for my sports activities.
 
   Les prévisions météorologiques sont rarement *fiables* à long terme.
-  Wettervorhersagen sind langfristig selten *zuverlässig*.
+  Weather forecasts are rarely *reliable* over the long term.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

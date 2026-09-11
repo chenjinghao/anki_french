@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1312
 Wort: exigence
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une exigence
 Femininum / Plural: ''
 IPA: \ɛɡ.zi.ʒɑ̃s\
-Definition: (An-)forderung, Erfordernis
+Definition: (Requirement) Requirement
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est une *exigence* impossible à respecter.
-  Das ist eine unmögliche *Forderung*.
+  It's an impossible *requirement* to meet.
 
   L'*exigence* de qualité est primordiale dans notre entreprise.
-  Der Qualitäts*anspruch* ist in unserem Unternehmen von höchster Bedeutung.
+  The quality *requirement* is paramount in our company.
 
   Les *exigences* techniques du projet dépassent nos capacités actuelles.
-  Die technischen *Erfordernisse* des Projekts übersteigen unsere derzeitigen Möglichkeiten.
+  The technical *requirements* of the project exceed our current capabilities.
 
   Il faut répondre aux *exigences* de sécurité avant d'ouvrir le bâtiment.
-  Die Sicherheits*vorschriften* müssen erfüllt sein, bevor das Gebäude eröffnet werden kann.
+  The safety *requirements* must be met before opening the building.
 
   Son *exigence* envers ses élèves les pousse à se surpasser.
-  Seine *Strenge* gegenüber seinen Schülern treibt sie zu Höchstleistungen an.
+  His demands on his students move them to surpass themselves.
 
   Les nouvelles *exigences* salariales des employés semblent raisonnables.
-  Die neuen Gehalts*forderungen* der Mitarbeiter erscheinen angemessen.
+  The new wage *requirements* for employees seem reasonable.
 
   Cette *exigence* supplémentaire n'était pas prévue dans le contrat.
-  Diese Zusatz*forderung* war im Vertrag nicht vorgesehen.
+  This additional *requirement* was not provided for in the contract.
 
   L'*exigence* du moment nous oblige à agir rapidement.
-  Die *Anforderung* der Situation zwingt uns zum schnellen Handeln.
+  The demands of the moment force us to act swiftly.
 
   Les *exigences* de la mode changent chaque saison.
-  Die Mode*zwänge* ändern sich jede Saison.
+  The demands on fashion change every season.
 
   Son *exigence* morale force le respect de tous.
-  Seine moralische *Strenge* nötigt allen Respekt ab.
+  His moral demands make everyone respect him.
 
   Nous devons nous adapter aux *exigences* du marché.
-  Wir müssen uns den *Anforderungen* des Marktes anpassen.
+  We must adapt to the demands of the market.
 
   Les *exigences* de la clientèle ne cessent d'augmenter.
-  Die *Ansprüche* der Kundschaft steigen ständig.
+  The demands of customers are constantly increasing.
 
   Je ne peux pas céder à toutes ses *exigences*.
-  Ich kann nicht allen seinen *Forderungen* nachgeben.
+  I can't give in to all his demands.
 
   L'*exigence* intellectuelle de ce cours est très élevée.
-  Der intellektuelle *Anspruch* dieses Kurses ist sehr hoch.
+  The intellectual demands of this course are very high.
 
   Ses *exigences* maximales ont compliqué les négociations.
-  Seine Maximal*forderungen* haben die Verhandlungen erschwert.
+  His extreme demands complicated the negotiations.
 
   Cette *exigence* de performance crée beaucoup de stress.
-  Dieser Leistungs*anspruch* erzeugt viel Stress.
+  This demand for performance creates a lot of stress.
 
   Les *exigences* du métier sont parfois difficiles à concilier avec la vie privée.
-  Die beruflichen *Anforderungen* sind manchmal schwer mit dem Privatleben zu vereinbaren.
+  Occupational demands are sometimes difficult to reconcile with private life.
 
   Son *exigence* envers lui-même est remarquable.
-  Seine *Ansprüche* an sich selbst sind bemerkenswert.
+  His demand for himself is remarkable.
 
   Les *exigences* de la nature doivent être respectées.
-  Die *Erfordernisse* der Natur müssen respektiert werden.
+  The demands of nature must be met.
 
   Quelles sont vos *exigences* en termes de salaire ?
-  Was sind Ihre Gehalts*vorstellungen*?
+  What are your salary *requirements*?
 
   Cette *exigence* du devoir guide toutes ses actions.
-  Dieser Pflicht*anspruch* leitet all seine Handlungen.
+  This *requirement* of duty guides all his actions.
 
   L'*exigence* de la situation nécessite une réponse immédiate.
-  Die *Dringlichkeit* der Situation erfordert eine sofortige Antwort.
+  The *requirement* of the situation requires an immediate response.
 
   Par son *exigence* insupportable, elle fait fuir tous ses collaborateurs.
-  Durch ihre unerträgliche *Anspruchshaltung* verscheucht sie alle ihre Mitarbeiter.
+  Because of her insupportable demands, she has forced all her employees to flee.
 
   Les *exigences* de la syntaxe française sont complexes pour les débutants.
-  Die *Anforderungen* der französischen Syntax sind für Anfänger komplex.
+  The *requirements* of French syntax are complex for beginners.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

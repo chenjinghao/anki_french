@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3066
 Wort: longuement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: longuement
 Femininum / Plural: ''
 IPA: \lɔ̃ɡ.mɑ̃\
-Definition: lange, ausführlich
+Definition: Long, detailed
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle m'a *longuement* regardé, sans colère.
-  Sie hat mich *lange* angeschaut, ohne Ärger.
+  She looked at me *for a long time*, not angry.
 
   Le professeur a *longuement* expliqué ce chapitre difficile.
-  Der Lehrer hat dieses schwierige Kapitel *ausführlich* erklärt.
+  The professor explained this difficult chapter at length.
 
   J'ai *longuement* réfléchi avant de prendre ma décision.
-  Ich habe *lange* nachgedacht, bevor ich meine Entscheidung getroffen habe.
+  I thought long and hard before I made my decision.
 
   Nous avons discuté *longuement* de nos projets d'avenir.
-  Wir haben *ausführlich* über unsere Zukunftspläne gesprochen.
+  We discussed our plans for the future at length.
 
   Il s'est *longuement* entraîné pour cette compétition.
-  Er hat *lange* für diesen Wettbewerb trainiert.
+  He's trained long enough for this competition.
 
   La commission a *longuement* étudié votre dossier.
-  Die Kommission hat Ihre Akte *eingehend* geprüft.
+  The committee has studied your case extensively.
 
   Elle a soupiré *longuement* avant de répondre.
-  Sie hat *lang* geseufzt, bevor sie antwortete.
+  She sighed *for a long time* before she answered.
 
   Cette question a été *longuement* débattue lors de la réunion.
-  Diese Frage wurde während der Sitzung *lang und breit* diskutiert.
+  This question was discussed extensively at the meeting.
 
   Les experts ont *longuement* analysé les résultats.
-  Die Experten haben die Ergebnisse *eingehend* analysiert.
+  The experts have analyzed the results extensively.
 
   Il m'a *longuement* parlé de ses voyages.
-  Er hat mir *ausführlich* von seinen Reisen erzählt.
+  He told me a lot about his travels.
 
   Sa réponse *longuement* méditée m'a surpris.
-  Seine *wohl*bedachte Antwort hat mich überrascht.
+  I was surprised by his long-meditated answer.
 
   Le guide s'est *longuement* attardé sur l'histoire du château.
-  Der Führer ist *ausführlich* auf die Geschichte des Schlosses eingegangen.
+  The guide stayed a long time on the history of the castle.
 
   Marie a *longuement* hésité avant d'accepter l'offre.
-  Marie hat *lange* gezögert, bevor sie das Angebot annahm.
+  Marie hesitated *for a long time* before accepting the offer.
 
   Les chercheurs ont *longuement* observé ce phénomène rare.
-  Die Forscher haben dieses seltene Phänomen *lange* beobachtet.
+  Researchers have long observed this rare phenomenon.
 
   Il a insisté *longuement* sur l'importance de la ponctualité.
-  Er hat *ausführlich* auf die Wichtigkeit der Pünktlichkeit hingewiesen.
+  He emphasized at length the importance of punctuality.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1939
 Wort: illustrer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: illustrer
 Femininum / Plural: ''
 IPA: \i.lys.tʁe\
-Definition: illustrieren, veranschaulichen
+Definition: illustrate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette manifestation *illustre* les craintes des citoyens.
-  Diese Demonstration *veranschaulicht* die Ängste der Bürger.
+  This demonstration illustrates the fears of the citizens.
 
   Le peintre a *illustré* le livre de contes avec de magnifiques aquarelles.
-  Der Maler hat das Märchenbuch mit wunderschönen Aquarellen *illustriert*.
+  The painter *illustrated* the fairy tale book with beautiful watercolors.
 
   Ses actes héroïques ont *illustré* le courage de notre nation.
-  Seine heldenhaften Taten haben den Mut unserer Nation *berühmt gemacht*.
+  His heroic actions demonstrated the courage of our nation.
 
   Le professeur a *illustré* son cours avec des exemples concrets.
-  Der Lehrer hat seinen Unterricht mit konkreten Beispielen *veranschaulicht*.
+  The teacher *illustrated* his lesson with concrete examples.
 
   Marie s'est *illustrée* dans le domaine de la recherche médicale.
-  Marie hat sich auf dem Gebiet der medizinischen Forschung einen *Namen gemacht*.
+  Marie was an example in the field of medical research.
 
   Ce graphique *illustre* parfaitement l'évolution des ventes.
-  Diese Grafik *veranschaulicht* die Entwicklung der Verkäufe perfekt.
+  This chart perfectly illustrates the evolution of sales.
 
   L'artiste a *illustré* le poème avec des gravures sur bois.
-  Der Künstler hat das Gedicht mit Holzschnitten *illustriert*.
+  The artist *illustrated* the poem with woodcuts.
 
   Son discours était *illustré* par des anecdotes personnelles.
-  Seine Rede wurde durch persönliche Anekdoten *veranschaulicht*.
+  His speech was *illustrated* by personal experiences.
 
   Cette exposition *illustre* l'histoire de notre ville.
-  Diese Ausstellung *illustriert* die Geschichte unserer Stadt.
+  This exhibition illustrates the history of our city.
 
   Le scientifique s'est *illustré* par ses découvertes révolutionnaires.
-  Der Wissenschaftler hat sich durch seine bahnbrechenden Entdeckungen *ausgezeichnet*.
+  The scientist was exemplified by his revolutionary discoveries.
 
   J'ai acheté une édition *illustrée* des fables de La Fontaine.
-  Ich habe eine *illustrierte* Ausgabe der Fabeln von La Fontaine gekauft.
+  I bought an *illustrated* edition of the Fables of La Fontaine.
 
   Cet incident *illustre* bien les problèmes de sécurité actuels.
-  Dieser Vorfall *veranschaulicht* die aktuellen Sicherheitsprobleme gut.
+  This incident illustrates the current security problems.
 
   Le journaliste a *illustré* son article avec des photographies saisissantes.
-  Der Journalist hat seinen Artikel mit eindrucksvollen Fotografien *illustriert*.
+  The journalist *illustrated* his article with striking photographs.
 
   Cette situation *illustre* parfaitement le dilemme auquel nous sommes confrontés.
-  Diese Situation *veranschaulicht* perfekt das Dilemma, mit dem wir konfrontiert sind.
+  This situation perfectly illustrates the dilemma we face.
 
   Les exemples du dictionnaire *illustrent* les différents sens du mot.
-  Die Beispiele im Wörterbuch *veranschaulichen* die verschiedenen Bedeutungen des Wortes.
+  Examples in the dictionary *illustrate* the different meanings of the word.
 
   Le roman *illustre* les défis de la vie moderne.
-  Der Roman *veranschaulicht* die Herausforderungen des modernen Lebens.
+  The novel illustrates the challenges of modern life.
 
   "Il s'est *illustré* par sa maladresse lors de la réunion," dit-elle en riant.
-  "Er ist durch seine Ungeschicklichkeit bei dem Treffen *aufgefallen*", sagte sie lachend.
+  "He showed off his clumsiness at the meeting", she said with a laugh.
 
   Cette expérience *illustre* le principe scientifique que nous étudions.
-  Dieses Experiment *veranschaulicht* das wissenschaftliche Prinzip, das wir untersuchen.
+  This experiment illustrates the scientific principle we are studying.
 
   Le musée présente une collection d'affiches *illustrées* du 20e siècle.
-  Das Museum zeigt eine Sammlung *illustrierter* Plakate aus dem 20. Jahrhundert.
+  The museum has a collection of 20th-century *illustrated* posters.
 
   Les victoires de Napoléon ont *illustré* la puissance militaire française.
-  Napoleons Siege haben die französische Militärmacht *berühmt gemacht*.
+  Napoleon's victories *illustrated* the French military might.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

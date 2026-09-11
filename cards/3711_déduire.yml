@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3711
 Wort: déduire
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déduire
 Femininum / Plural: ''
 IPA: \de.dɥiʁ\
-Definition: ableiten, abziehen
+Definition: Subtracting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'en ai *déduit* de façon certaine que je l'avais perdue.
-  Ich habe mit Sicherheit daraus *geschlossen*, dass ich sie verloren hatte.
+  I figured with certainty that I'd lost her.
 
   Les frais de transport seront *déduits* du montant total.
-  Die Transportkosten werden vom Gesamtbetrag *abgezogen*.
+  Transport costs shall be deducted from the total amount.
 
   De ses paroles ambiguës, on peut *déduire* qu'il cache quelque chose.
-  Aus seinen zweideutigen Worten lässt sich *schließen*, dass er etwas verbirgt.
+  From his ambiguous words, we can conclude that he's hiding something.
 
   La solution se *déduit* facilement des données du problème.
-  Die Lösung lässt sich leicht aus den Problemdaten *ableiten*.
+  The solution is easily deduced from the data of the problem.
 
   Vous pouvez *déduire* ces dépenses de vos impôts.
-  Sie können diese Ausgaben von Ihrer Steuer *abziehen*.
+  You can deduct these expenses from your taxes.
 
   Je *déduis* de son silence qu'il n'est pas d'accord.
-  Aus seinem Schweigen *folgere* ich, dass er nicht einverstanden ist.
+  I can tell from his silence that he disagrees.
 
   Les taxes seront *déduites* automatiquement de votre salaire.
-  Die Steuern werden automatisch von Ihrem Gehalt *abgezogen*.
+  Taxes will be automatically deducted from your salary.
 
   Comment as-tu *déduit* cette conclusion ?
-  Wie hast du diese Schlussfolgerung *abgeleitet*?
+  How did you come to that conclusion?
 
   Tous frais *déduits*, il nous reste 500 euros.
-  Nach *Abzug* aller Kosten bleiben uns 500 Euro.
+  All expenses deducted, we have 500 euros left.
 
   On peut *déduire* son âge d'après son apparence.
-  Man kann sein Alter von seinem Aussehen *ableiten*.
+  His age can be inferred from his appearance.
 
   L'entreprise a *déduit* les acomptes versés de la facture finale.
-  Die Firma hat die geleisteten Anzahlungen von der Endrechnung *abgezogen*.
+  The company deducted the instalments paid from the final invoice.
 
   Cette théorie se *déduit* naturellement des observations.
-  Diese Theorie lässt sich auf natürliche Weise aus den Beobachtungen *ableiten*.
+  This theory naturally follows from observations.
 
   Il faut *déduire* les arrhes de la somme totale.
-  Die Anzahlung muss von der Gesamtsumme *abgezogen* werden.
+  We have to deduct the arrears from the total amount.
 
   Que peut-on *déduire* de ces résultats ?
-  Was lässt sich aus diesen Ergebnissen *schließen*?
+  What can be deduced from these results?
 
   Les frais professionnels sont *déduits* des revenus imposables.
-  Die Berufskosten werden vom steuerpflichtigen Einkommen *abgezogen*.
+  Business expenses are deducted from taxable income.
 
   On peut *déduire* son intention de ses actions.
-  Man kann seine Absicht aus seinen Handlungen *ableiten*.
+  His intentions can be inferred from his actions.
 
   Cette conclusion ne peut pas se *déduire* logiquement des prémisses.
-  Diese Schlussfolgerung lässt sich nicht logisch aus den Prämissen *ableiten*.
+  This conclusion cannot be logically deduced from the premises.
 
   Une fois *déduits* les impôts, il ne reste plus grand-chose.
-  Nach *Abzug* der Steuern bleibt nicht mehr viel übrig.
+  Once the taxes are deducted, there's not much left.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

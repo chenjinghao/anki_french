@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 820
 Wort: précédent
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: précédent
 Femininum / Plural: précédente
 IPA: \pʁe.se.dɑ̃\
-Definition: vorhergehend
+Definition: previously
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le manège *précédent* a été construit en 1950.
-  Das *vorherige* Karussell wurde 1950 gebaut.
+  The *previous* ferry was built in 1950.
 
   Nous avons déjà traité ce sujet dans un *précédent* article.
-  Wir haben dieses Thema bereits in einem *vorherigen* Artikel behandelt.
+  We have already discussed this in a *previous* article.
 
   La *précédente* assemblée comptait moins de députés.
-  Die *vorherige* Versammlung hatte weniger Abgeordnete.
+  The *previous* assembly had fewer members.
 
   Les résultats du mois *précédent* sont très encourageants.
-  Die Ergebnisse des *vorigen* Monats sind sehr ermutigend.
+  The results of the *previous* month are very encouraging.
 
   Ma *précédente* voiture consommait beaucoup plus d'essence.
-  Mein *vorheriges* Auto hat viel mehr Benzin verbraucht.
+  My *previous* car used a lot more gasoline.
 
   Cette décision crée un *précédent* dangereux.
-  Diese Entscheidung schafft einen gefährlichen *Präzedenzfall*.
+  This decision sets a dangerous precedent.
 
   Vous devez lire le chapitre *précédent* pour comprendre celui-ci.
-  Sie müssen das *vorherige* Kapitel lesen, um dieses zu verstehen.
+  You need to read the *previous* chapter to understand this one.
 
   Les gouvernements *précédents* n'ont jamais osé faire cette réforme.
-  Die *vorherigen* Regierungen haben diese Reform nie gewagt.
+  Previous governments have never dared to make such a reform.
 
   Le site a connu une affluence *sans précédent* pendant les vacances.
-  Die Besucherzahl der Anlage war während der Ferien *beispiellos*.
+  The site experienced an *unprecedented* influx during the holidays.
 
   La réunion *précédente* a duré plus de trois heures.
-  Die *vorherige* Besprechung hat mehr als drei Stunden gedauert.
+  The *previous* meeting lasted more than three hours.
 
   Il s'appuie sur des *précédents* historiques pour justifier sa position.
-  Er stützt sich auf historische *Präzedenzfälle*, um seinen Standpunkt zu rechtfertigen.
+  He relies on historical precedents to justify his position.
 
   L'hiver *précédent* avait été particulièrement doux.
-  Der *vorherige* Winter war besonders mild gewesen.
+  The *previous* winter had been particularly mild.
 
   Cette crise économique est d'une ampleur *sans précédent*.
-  Diese Wirtschaftskrise hat ein *beispielloses* Ausmaß.
+  This economic crisis is on an *unprecedented* scale.
 
   Le *précédent* locataire a laissé l'appartement en parfait état.
-  Der *vorherige* Mieter hat die Wohnung in perfektem Zustand hinterlassen.
+  The *previous* tenant left the apartment in perfect condition.
 
   Au *précédent* arrêt, plusieurs passagers sont descendus.
-  An der *vorherigen* Haltestelle sind mehrere Fahrgäste ausgestiegen.
+  At the *previous* stop, several passengers got off.
 
   Les ventes ont doublé par rapport à l'année *précédente*.
-  Die Verkäufe haben sich im Vergleich zum *Vor*jahr verdoppelt.
+  Sales doubled from the *previous* year.
 
   Cette innovation technologique est *sans précédent* dans l'histoire.
-  Diese technologische Innovation ist in der Geschichte *beispiellos*.
+  This technological innovation is *unprecedented* in history.
 
   Le *précédent* propriétaire avait rénové toute la maison.
-  Der *vorherige* Besitzer hatte das ganze Haus renoviert.
+  The *previous* owner had renovated the whole house.
 
   La *précédente* version du logiciel était plus stable.
-  Die *vorherige* Version der Software war stabiler.
+  The *previous* version of the software was more stable.
 
   Ce jugement créera certainement un *précédent* juridique important.
-  Dieses Urteil wird sicherlich einen wichtigen rechtlichen *Präzedenzfall* schaffen.
+  This judgment will certainly set an important legal precedent.
 
   La température a chuté de dix degrés par rapport au jour *précédent*.
-  Die Temperatur ist im Vergleich zum *Vor*tag um zehn Grad gefallen.
+  The temperature dropped ten degrees from the *previous* day.
 
   Comme les années *précédentes*, le festival aura lieu en juin.
-  Wie in den *Vor*jahren wird das Festival im Juni stattfinden.
+  As in previous years, the festival will take place in June.
 
   Le film a connu un succès *sans précédent* au box-office.
-  Der Film hatte einen *beispiellosen* Erfolg an den Kinokassen.
+  The film was an *unprecedented* success at the box office.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

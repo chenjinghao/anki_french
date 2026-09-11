@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4178
 Wort: typique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: typique
 Femininum / Plural: ''
 IPA: \ti.pik\
-Definition: typisch
+Definition: Typical
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est *typique*. Cela ne m'étonne pas.
-  Das ist *typisch*. Das wundert mich nicht.
+  It's *typical*, and I'm not surprised.
 
   Cette réaction est *typique* des adolescents.
-  Diese Reaktion ist *typisch* für Jugendliche.
+  This reaction is *typical* of teenagers.
 
   *De manière tout à fait typique*, il est arrivé en retard.
-  *Typischerweise* kam er zu spät.
+  *In a very typical way*, he arrived late.
 
   Le coq au vin est un plat *typique* de la cuisine française.
-  Der Coq au vin ist ein *typisches* Gericht der französischen Küche.
+  Wine chicken is a *typical* dish of French cuisine.
 
   La ponctualité est un trait *typique* des Allemands.
-  Pünktlichkeit ist eine *typische* Eigenschaft der Deutschen.
+  Punctuality is a *typical* trait of Germans.
 
   Voici un exemple *typique* de ce style architectural.
-  Hier ist ein *typisches* Beispiel für diesen Architekturstil.
+  Here's a *typical* example of this architectural style.
 
   Cette méthode présente des caractères *typiques* d'une approche moderne.
-  Diese Methode weist *typische* Merkmale eines modernen Ansatzes auf.
+  This method is *typical* of a modern approach.
 
   Son comportement est *typique* d'une personne stressée.
-  Ihr Verhalten ist *typisch* für eine gestresste Person.
+  His behavior is *typical* of a stressed person.
 
   L'auteur a créé un personnage *typique* de cette époque.
-  Der Autor hat eine für diese Epoche *typische* Figur geschaffen.
+  The author created a character *typical* of that era.
 
   Ces symptômes sont *typiques* d'une grippe.
-  Diese Symptome sind *typisch* für eine Grippe.
+  These symptoms are *typical* of a flu.
 
   C'est un cas *typique* d'obsession.
-  Das ist ein *typischer* Fall von Obsession.
+  It's a *typical* case of obsession.
 
   La baguette est devenue un symbole *typique* de la France.
-  Das Baguette ist zu einem *typischen* Symbol Frankreichs geworden.
+  The wand has become a *typical* symbol of France.
 
   Cette erreur est *typique* des débutants.
-  Dieser Fehler ist *typisch* für Anfänger.
+  This mistake is *typical* of beginners.
 
   Les maisons à colombages sont *typiques* de l'Alsace.
-  Fachwerkhäuser sind *typisch* für das Elsass.
+  Collapsible houses are *typical* of Alsace.
 
   Ce comportement est *typique* de Marie, elle fait toujours ça.
-  Dieses Verhalten ist *typisch* für Marie, sie macht das immer so.
+  This behavior is *typical* of Marie, she always does this.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

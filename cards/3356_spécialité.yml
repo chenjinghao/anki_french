@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3356
 Wort: spécialité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la spécialité
 Femininum / Plural: ''
 IPA: \spe.sja.li.te\
-Definition: Spezialität
+Definition: Speciality
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La santé n'est pas ma *spécialité*.
-  Gesundheit ist nicht mein *Fachgebiet*.
+  Health is not my *specialty*.
 
   Les universités proposent de nombreuses *spécialités* en informatique.
-  Die Universitäten bieten viele *Fachgebiete* in der Informatik an.
+  Universities offer many *specialties* in computer science.
 
   La chirurgie esthétique est devenue sa *spécialité* après dix ans d'études.
-  Die ästhetische Chirurgie wurde nach zehn Jahren Studium zu seinem *Spezialgebiet*.
+  After ten years of study, cosmetic surgery became his *specialty*.
 
   Le cassoulet est une *spécialité* de Toulouse.
-  Cassoulet ist eine *Spezialität* aus Toulouse.
+  The cassoulet is a *specialty* of Toulouse.
 
   Cette nouvelle *spécialité* pharmaceutique sera bientôt disponible en pharmacie.
-  Dieses neue *Pharmazeutikum* wird bald in Apotheken erhältlich sein.
+  This new pharmaceutical *specialty* will soon be available in pharmacies.
 
   "La procrastination, c'est sa *spécialité*!"
-  "*Spezialität* ist bei ihm das Aufschieben!"
+  "His *specialty* is procrastination!"
 
   Ma grand-mère nous a préparé une de ses *spécialités*.
-  Meine Großmutter hat uns eine ihrer *Spezialitäten* zubereitet.
+  My grandmother made us one of her *specialties*.
 
   Chaque région française a ses *spécialités* gastronomiques.
-  Jede französische Region hat ihre kulinarischen *Spezialitäten*.
+  Each French region has its own gastronomic *specialties*.
 
   Il s'est fait une *spécialité* de raconter des histoires drôles.
-  Er hat es zu seiner *Spezialität* gemacht, lustige Geschichten zu erzählen.
+  He's made a *specialty* of telling funny stories.
 
   Cette *spécialité* médicale nécessite cinq ans de formation supplémentaire.
-  Dieses medizinische *Fachgebiet* erfordert fünf Jahre zusätzliche Ausbildung.
+  This medical *specialty* requires five years of additional training.
 
   Le laboratoire a développé une nouvelle *spécialité* contre l'arthrose.
-  Das Labor hat ein neues *Pharmazeutikum* gegen Arthrose entwickelt.
+  The lab has developed a new speciality against osteoarthritis.
 
   "Arriver en retard est devenu sa *spécialité*."
-  "Zu spät kommen ist seine *Spezialität* geworden."
+  "Later arrival has become his *specialty*".
 
   La cardiologie est une *spécialité* très demandée.
-  Kardiologie ist ein sehr gefragtes *Fachgebiet*.
+  Cardiology is a highly sought-after *specialty*.
 
   Ce restaurant est connu pour ses *spécialités* italiennes.
-  Dieses Restaurant ist bekannt für seine italienischen *Spezialitäten*.
+  This restaurant is known for its Italian *specialties*.
 
   Quelle est votre *spécialité* en tant que chercheur ?
-  Was ist Ihr *Fachgebiet* als Forscher?
+  What's your *specialty* as a researcher?
 
   Les *spécialités* maison attirent beaucoup de clients dans ce café.
-  Die Haus*spezialitäten* ziehen viele Kunden in dieses Café.
+  Home-made *specialties* attract many customers to this cafe.
 
   Cette boulangerie propose plusieurs *spécialités* régionales.
-  Diese Bäckerei bietet verschiedene regionale *Spezialitäten* an.
+  This bakery offers several regional specialities.
 
   "Critiquer les autres, c'est sa grande *spécialité*."
-  "Andere zu kritisieren ist seine große *Spezialität*."
+  "Criticism is his great *specialty*".
 
   La neurologie était sa *spécialité* avant sa retraite.
-  Neurologie war sein *Fachgebiet* vor der Pensionierung.
+  Neurology was his *specialty* before he retired.
 
   Le chef nous a fait goûter sa *spécialité* du jour.
-  Der Koch hat uns seine Tages*spezialität* probieren lassen.
+  The chef gave us a taste of his special of the day.
 
   Cette *spécialité* pharmaceutique n'est disponible que sur ordonnance.
-  Dieses *Pharmazeutikum* ist nur auf Rezept erhältlich.
+  This pharmaceutical *specialty* is only available on prescription.
 
   Les étudiants doivent choisir leur *spécialité* en deuxième année.
-  Die Studenten müssen im zweiten Jahr ihr *Fachgebiet* wählen.
+  Students must choose their *specialty* in the second year.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

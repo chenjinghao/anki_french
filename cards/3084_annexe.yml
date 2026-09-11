@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3084
 Wort: annexe
 Wortart: adj, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une annexe
 Femininum / Plural: ''
 IPA: \a.nɛks\
-Definition: Anhang; beiläufig
+Definition: Annex; occasional
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le texte du rapport figure à l'*annexe*.
-  Der Text des Berichts befindet sich im *Anhang*.
+  The text of the report is set out in the *Annex*.
 
   Les pièces *annexes* du dossier comprennent des photos et des plans.
-  Die *beigefügten* Unterlagen der Akte enthalten Fotos und Pläne.
+  The *annexes* to the dossier shall include photographs and drawings.
 
   J'ai envoyé le document principal et ses *annexes* par e-mail.
-  Ich habe das Hauptdokument und seine *Anlagen* per E-Mail geschickt.
+  I e-mailed the main document and its *annexes*.
 
   Cette chambre se trouve dans l'*annexe* de l'hôtel.
-  Dieses Zimmer befindet sich im *Nebengebäude* des Hotels.
+  This room is in the *annex* of the hotel.
 
   La bibliographie est placée en *annexe* du mémoire.
-  Die Bibliographie ist als *Anhang* zur Abschlussarbeit beigefügt.
+  The bibliography is attached to the memoir.
 
   Les frais *annexes* ne sont pas inclus dans le prix.
-  Die *Neben*kosten sind nicht im Preis enthalten.
+  Additional costs are not included in the price.
 
   Un petit local *annexe* sert de débarras.
-  Ein kleiner *Neben*raum dient als Abstellkammer.
+  There's a small place next door that serves as a drop-off point.
 
   L'*annexe* du lycée accueille les classes préparatoires.
-  Das *Nebengebäude* des Gymnasiums beherbergt die Vorbereitungsklassen.
+  The school's *annex* houses preparatory classes.
 
   Cette remarque *annexe* n'a pas grande importance.
-  Diese *beiläufige* Bemerkung ist nicht von großer Bedeutung.
+  This appendix is of little importance.
 
   Veuillez trouver ci-joint l'*annexe* au contrat.
-  Anbei finden Sie den *Anhang* zum Vertrag.
+  Please see the *annex* to the contract.
 
   Les considérations *annexes* peuvent attendre.
-  Die *zweitrangigen* Überlegungen können warten.
+  The annexed considerations may wait.
 
   Il travaille dans une mairie *annexe* du 15e arrondissement.
-  Er arbeitet in einem *Neben*standort des Rathauses im 15. Bezirk.
+  He works at an *annex* town hall in the 15th arrondissement.
 
   L'*annexe* de la bibliothèque est fermée pour travaux.
-  Das *Nebengebäude* der Bibliothek ist wegen Bauarbeiten geschlossen.
+  The library *annex* is closed for work.
 
   Cette question *annexe* mérite aussi notre attention.
-  Diese *nebensächliche* Frage verdient auch unsere Aufmerksamkeit.
+  This annexed question also deserves our attention.
 
   Les dépenses *annexes* ont dépassé nos prévisions.
-  Die *Neben*ausgaben haben unsere Erwartungen überschritten.
+  The additional expenses exceeded our forecasts.
 
   Nous avons construit une petite *annexe* dans le jardin.
-  Wir haben ein kleines *Nebengebäude* im Garten gebaut.
+  We built a small *annex* in the garden.
 
   Le fichier *annexe* est trop volumineux pour être envoyé.
-  Der *Anhang* der Datei ist zu groß zum Versenden.
+  The attachment file is too big to send.
 
   Les documents *annexes* doivent être signés également.
-  Die *beigefügten* Dokumente müssen ebenfalls unterschrieben werden.
+  The accompanying documents must also be signed.
 
   Une salle de sport *annexe* a été aménagée au sous-sol.
-  Ein *zusätzlicher* Fitnessraum wurde im Untergeschoss eingerichtet.
+  An *annex* gym has been set up in the basement.
 
   L'*annexe* du musée expose les œuvres contemporaines.
-  Das *Nebengebäude* des Museums stellt zeitgenössische Werke aus.
+  The museum's *annex* shows contemporary works.
 
   Cette *annexe* au traité définit les conditions techniques.
-  Dieser *Anhang* zum Vertrag legt die technischen Bedingungen fest.
+  This *Annex* to the Treaty defines the technical conditions.
 
   Les bureaux *annexes* seront rénovés l'année prochaine.
-  Die *Neben*büros werden nächstes Jahr renoviert.
+  The attached offices will be renovated next year.
 
   L'entreprise a ouvert une *annexe* dans le centre-ville.
-  Die Firma hat eine *Zweigstelle* in der Innenstadt eröffnet.
+  The company has opened an *annex* in the city centre.
 
   Tous les détails sont expliqués dans l'*annexe* du rapport.
-  Alle Details werden im *Anhang* des Berichts erläutert.
+  All details are set out in the *Annex* to the report.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

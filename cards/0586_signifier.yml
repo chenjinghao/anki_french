@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 586
 Wort: signifier
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: signifier
 Femininum / Plural: ''
 IPA: \si.ɲi.fje\
 Definition: bedeuten
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela ne *signifiait* rien pour moi.
-  Das hat für mich nichts *bedeutet*.
+  It didn't mean anything to me.
 
   Qu'est-ce que *signifie* ce mot en français ?
-  Was *bedeutet* dieses Wort auf Französisch?
+  What does this word mean in French?
 
   Le mot « bed » *signifie* « lit » en français.
-  Das Wort "bed" *bedeutet* "Bett" auf Französisch.
+  The word  bed  *means*  lit  in French.
 
   Il m'a clairement *signifié* ses intentions.
-  Er hat mir seine Absichten deutlich *zu verstehen gegeben*.
+  He made his intentions clear to me.
 
   Le vent d'est *signifie* qu'il fera beau demain.
-  Der Ostwind *bedeutet*, dass es morgen schön wird.
+  The east wind *means* it'll be nice tomorrow.
 
   Je ne comprends pas ce que *signifie* son comportement.
-  Ich verstehe nicht, was sein Verhalten *zu bedeuten hat*.
+  I don't understand what his behavior *means*.
 
   Elle lui a *signifié* son refus par écrit.
-  Sie hat ihm ihre Ablehnung schriftlich *mitgeteilt*.
+  She informed him in writing of her refusal.
 
   Son regard *signifiait* qu'il était d'accord.
-  Sein Blick *bedeutete*, dass er einverstanden war.
+  His look meant he agreed.
 
   Je vais lui *signifier* mon mécontentement.
-  Ich werde ihm mein Missfallen *zeigen*.
+  I'm going to tell him I'm unhappy.
 
   La fumée *signifie* qu'il y a un incendie.
-  Der Rauch *bedeutet*, dass es ein Feuer gibt.
+  The smoke *means* there's a fire.
 
   Le suffixe « -phile » *signifie* « qui aime ».
-  Die Endung "-phil" *bedeutet* "der/die/das ... liebt".
+  The suffix  -phil  *means*  who loves .
 
   Elle m'a *signifié* de partir immédiatement.
-  Sie hat mir *bedeutet*, sofort zu gehen.
+  She told me to leave immediately.
 
   Son absence *signifie* qu'il est malade.
-  Seine Abwesenheit *bedeutet*, dass er krank ist.
+  His absence *means* he's sick.
 
   Je lui ai *signifié* son congé hier.
-  Ich habe ihm gestern *gekündigt*.
+  I informed him of his leave yesterday.
 
   Cette promotion *signifie* plus de responsabilités.
-  Diese Beförderung *bedeutet* mehr Verantwortung.
+  This promotion *means* more responsibilities.
 
   "Que *signifie* cet accoutrement ?" demanda la mère.
-  "Was soll diese Aufmachung *bedeuten*?" fragte die Mutter.
+  "What does this suit mean?" the mother asked.
 
   Le symbole ∞ *signifie* l'infini en mathématiques.
-  Das Symbol ∞ *bedeutet* unendlich in der Mathematik.
+  The symbol ∞ *means* infinity in mathematics.
 
   Son silence ne *signifiait* pas grand-chose.
-  Sein Schweigen *hatte nicht viel zu bedeuten*.
+  His silence meant little.
 
   Il a fait une grimace pour *signifier* son désaccord.
-  Er hat eine Grimasse geschnitten, um sein Missfallen zu *zeigen*.
+  He made a grimace to indicate his disagreement.
 
   Nouveauté ne *signifie* pas toujours progrès.
-  Neu *bedeutet* nicht immer besser.
+  Innovation does not always mean progress.
 
   Je dois lui *signifier* ma décision avant demain.
-  Ich muss ihm meine Entscheidung bis morgen *mitteilen*.
+  I have to report my decision to him before tomorrow.
 
   L'adjectif « pulcher » *signifie* « beau ».
-  Das Adjektiv "pulcher" *bedeutet* "schön".
+  The adjective  pulcher  *means*  beautiful .
 
   Que peut bien *signifier* ce changement soudain ?
-  Was mag diese plötzliche Veränderung wohl *bedeuten*?
+  What could this sudden change mean?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

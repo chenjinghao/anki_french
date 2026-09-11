@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2076
 Wort: hein
 Wortart: intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hein
 Femininum / Plural: ''
 IPA: \ɛ̃\
-Definition: hä?, was?
+Definition: Hey hey
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un bon club, *hein* ?
-  Das ist ein guter Club, *oder* ?
+  It's a good club, isn't it?
 
   "Alors comme ça, tu pars demain, *hein* ?"
-  "Du fährst also morgen, *was* ?"
+  "So you're leaving tomorrow, huh?"
 
   "*Hein* ? Je n'ai pas bien compris."
-  "*Wie bitte* ? Das habe ich nicht richtig verstanden."
+  "Hein? I didn't get it right".
 
   Tu vas ranger ta chambre, *hein* !
-  Du räumst jetzt dein Zimmer auf, *verstanden* !
+  You're gonna clean up your room, huh?
 
   "*Hein* ? Qu'est-ce que tu fais là ?"
-  "*Hä* ? Was machst du da?"
+  "Hein, what are you doing here?"
 
   Elle était belle, cette soirée, *hein* ?
-  War ein schöner Abend, *nicht wahr* ?
+  She was beautiful that night, wasn't she?
 
   "*Hein* ? Répète un peu ça !"
-  "*Was* ? Sag das noch mal!"
+  "Hein, repeat that again".
 
   Vous serez là à l'heure, *hein* ?
-  Sie sind pünktlich da, *ja* ?
+  You'll be there on time, won't you?
 
   "Tu as vu son nouveau look, *hein* ?"
-  "Hast du seinen neuen Look gesehen, *oder was* ?"
+  "You've seen her new look, haven't you?"
 
   "*Hein* ? Je ne t'entends pas bien !"
-  "*Was* ? Ich verstehe dich nicht gut!"
+  "Hein, I can't hear you!"
 
   On se retrouve à huit heures, *hein* ?
-  Wir treffen uns um acht, *okay* ?
+  I'll see you at 8:00, huh?
 
   "*Hein* ? Comment ça, tu ne viens pas ?"
-  "*Wie bitte* ? Was soll das heißen, du kommst nicht?"
+  "Hein, what do you mean, you're not coming?"
 
   N'oublie pas de fermer la porte, *hein* !
-  Vergiss nicht, die Tür zuzumachen, *klar* !
+  Don't forget to close the door, huh?
 
   "*Hein* ? Qu'est-ce que c'est que ce bruit ?"
-  "*Nanu* ? Was ist das für ein Geräusch?"
+  "Hein, what's that noise?"
 
   C'était une bonne idée de venir, *hein* ?
-  Das war eine gute Idee herzukommen, *nicht* ?
+  It was a good idea to come, wasn't it?
 
   "Tu as fait tes devoirs, *hein* ?"
-  "Du hast deine Hausaufgaben gemacht, *oder* ?"
+  "You did your homework, didn't you?"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

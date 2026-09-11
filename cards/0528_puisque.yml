@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 528
 Wort: puisque
 Wortart: conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: puisque
 Femininum / Plural: ''
 IPA: \pɥisk\
-Definition: da (ja)
+Definition: That 's right
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne lui répondais pas *puisque* j'étais muet.
-  Ich antwortete ihm nicht, *da* ich stumm war.
+  I didn't answer him because I was mute.
 
   *Puisque* tu es là, aide-moi à porter ces cartons.
-  *Da* du schon mal hier bist, hilf mir beim Tragen dieser Kartons.
+  *Since* you're here, help me carry these boxes.
 
   *Puisque* vous insistez tant, je vais vous raconter toute l'histoire.
-  *Da* Sie so darauf bestehen, werde ich Ihnen die ganze Geschichte erzählen.
+  *Since* you insist so much, I'll tell you the whole story.
 
   "Mais *puisque* je te dis que j'ai déjà fait mes devoirs !"
-  "Aber ich sage dir *ja*, dass ich meine Hausaufgaben schon gemacht habe!"
+  "But *since* I'm telling you, I've already done my homework!"
 
   Il doit être riche, *puisqu*'il conduit une voiture de luxe.
-  Er muss reich sein, *da* er einen Luxuswagen fährt.
+  He must be rich, *since* he drives a luxury car.
 
   *Puisqu*'il pleut, nous annulons le pique-nique.
-  *Da* es regnet, sagen wir das Picknick ab.
+  Since it's raining, we canceled the picnic.
 
   Son déménagement, *puisque* déménagement il y a, est prévu pour juillet.
-  Sein Umzug, *wenn* es denn einer ist, ist für Juli geplant.
+  His move, *since* there's a move, is scheduled for July.
 
   *Puisque* personne ne peut venir, nous reportons la fête.
-  *Da* niemand kommen kann, verschieben wir die Party.
+  *Since* no one can come, we postpone the party.
 
   "*Puisque* c'est comme ça, je m'en vais !"
-  "*Wenn* das so ist, gehe ich!"
+  "Because that's the way it is, I'm leaving!"
 
   *Puisque* vous êtes si pressé, prenez ma place dans la file.
-  *Da* Sie es so eilig haben, nehmen Sie meinen Platz in der Schlange.
+  *Since* you're in such a hurry, take my place in the queue.
 
   *Puisqu*'on vous en prie, acceptez notre invitation.
-  *Da* wir Sie darum bitten, nehmen Sie unsere Einladung an.
+  Please accept our invitation.
 
   Nous devons partir maintenant, *puisqu*'il se fait tard.
-  Wir müssen jetzt gehen, *da* es spät wird.
+  We have to leave now, *since* it's getting late.
 
   *Puisque* tout le monde est d'accord, commençons la réunion.
-  *Da* alle einverstanden sind, lasst uns mit der Besprechung beginnen.
+  *Since* everyone agrees, let's start the meeting.
 
   *Puisque* vous le dites, je vous crois.
-  *Wenn* Sie das sagen, glaube ich Ihnen.
+  *Since* you say it, I believe you.
 
   *Puisqu*'il fait beau, allons nous promener.
-  *Da* das Wetter schön ist, lasst uns spazieren gehen.
+  Since the weather is nice, let's go for a walk.
 
   Ce restaurant doit être bon, *puisqu*'il y a toujours du monde.
-  Dieses Restaurant muss gut sein, *da* es immer voll ist.
+  This restaurant must be good, *since* there's always room.
 
   *Puisque* tu as fini ton travail, tu peux rentrer chez toi.
-  *Da* du mit deiner Arbeit fertig bist, kannst du nach Hause gehen.
+  Now that you've finished your work, you can go home.
 
   *Puisque* l'affaire est réglée, passons à autre chose.
-  *Da* die Sache erledigt ist, lass uns zum nächsten Punkt übergehen.
+  Now that the case is settled, let's move on to something else.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3131
 Wort: additionnel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: additionnel
 Femininum / Plural: additionnelle
 IPA: \a.di.sjɔ.nɛl\
-Definition: zusätzlich, Zusatz-
+Definition: In addition
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle n'a pas besoin de fonds *additionnels*.
-  Sie braucht keine *zusätzlichen* Gelder.
+  She doesn't need any extra money.
 
   Les frais *additionnels* ne sont pas inclus dans le prix initial.
-  Die *zusätzlichen* Kosten sind nicht im Anfangspreis enthalten.
+  Additional charges are not included in the initial price.
 
   Notre équipe a besoin d'un délai *additionnel* pour terminer le projet.
-  Unser Team braucht eine *zusätzliche* Frist, um das Projekt abzuschließen.
+  Our team needs an *additional* time to complete the project.
 
   Le professeur a donné des exercices *additionnels* aux élèves avancés.
-  Der Lehrer gab den fortgeschrittenen Schülern *zusätzliche* Übungen.
+  The teacher gave additional exercises to the advanced students.
 
   Une charge de travail *additionnelle* nous attend cette semaine.
-  Diese Woche erwartet uns eine *zusätzliche* Arbeitslast.
+  We've got an extra load of work to do this week.
 
   Voulez-vous une portion *additionnelle* de dessert ?
-  Möchten Sie eine *zusätzliche* Portion Dessert?
+  Would you like an extra serving of dessert?
 
   Le Parlement a voté un article *additionnel* à la loi sur l'environnement.
-  Das Parlament hat einen *Zusatz*artikel zum Umweltgesetz verabschiedet.
+  Parliament voted an *additional* article to the Environment Act.
 
   Une clause *additionnelle* a été ajoutée au contrat de location.
-  Eine *zusätzliche* Klausel wurde dem Mietvertrag hinzugefügt.
+  An *additional* clause has been added to the lease.
 
   Pour participer, il faut payer une taxe *additionnelle* de 5 euros.
-  Für die Teilnahme muss eine *zusätzliche* Gebühr von 5 Euro gezahlt werden.
+  To participate, you must pay an *additional* fee of 5 euros.
 
   L'installation d'une rampe *additionnelle* facilitera l'accès au bâtiment.
-  Der Einbau einer *zusätzlichen* Rampe wird den Zugang zum Gebäude erleichtern.
+  The installation of an *additional* ramp will facilitate access to the building.
 
   As-tu besoin d'informations *additionnelles* pour prendre ta décision ?
-  Brauchst du *zusätzliche* Informationen für deine Entscheidung?
+  Do you need any additional information to make your decision?
 
   Des mesures *additionnelles* de sécurité seront mises en place demain.
-  Morgen werden *zusätzliche* Sicherheitsmaßnahmen eingeführt.
+  Additional security measures will be put in place tomorrow.
 
   Le client demande une garantie *additionnelle* pour ce produit.
-  Der Kunde verlangt eine *zusätzliche* Garantie für dieses Produkt.
+  The customer requests an *additional* warranty for this product.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>supplémentaire</i> und <i>additionnel</i></div>
+    <div class="section-title"><i>supplémentaire</i> and <i>additionnel</i></div>
     <div class="section-content">
-      <p><span class="fr">Supplémentaire</span> (#1267) bedeutet <span class="de">"zusätzlich"</span> im Sinne von etwas, das zu einem bereits vollständigen Ganzen hinzugefügt wird. Es impliziert oft etwas Ergänzendes oder Extras, die über das Normale oder Erwartete hinausgehen.</p>
+      <p><span class="fr">Supplémentaire</span> #1267) means <span class="de">'additionally'</span> In the sense of something that is added to an already complete whole. It often implies something complementary or extras that go beyond what is normal or expected.</p>
       <div class="examples">
         <div class="fr">Il demande des heures supplémentaires pour finir le projet.</div>
-        <div class="de spoiler">Er beantragt Überstunden, um das Projekt fertigzustellen.</div>
+        <div class="de spoiler">He's requesting overtime to complete the project.</div>
         <div class="fr">Nous avons besoin d'une chambre supplémentaire pour les invités.</div>
-        <div class="de spoiler">Wir brauchen ein zusätzliches Zimmer für die Gäste.</div>
+        <div class="de spoiler">We need an extra room for the guests.</div>
       </div>
-      <p><span class="fr">Additionnel</span> bedeutet ebenfalls <span class="de">"zusätzlich"</span>, wird aber eher im technischen oder formellen Kontext verwendet. Es betont den Aspekt des Hinzufügens oder der Akkumulation und wird häufig in geschäftlichen oder administrativen Zusammenhängen gebraucht.</p>
+      <p><span class="fr">Additionnel</span> also means <span class="de">'additionally'</span>It emphasizes the aspect of addition or accumulation and is often used in business or administrative contexts.</p>
       <div class="examples">
         <div class="fr">Des coûts additionnels seront facturés pour ce service.</div>
-        <div class="de spoiler">Zusätzliche Kosten werden für diese Dienstleistung in Rechnung gestellt.</div>
+        <div class="de spoiler">Additional costs shall be charged for this service.</div>
         <div class="fr">Le contrat comporte une clause additionnelle.</div>
-        <div class="de spoiler">Der Vertrag enthält eine zusätzliche Klausel.</div>
+        <div class="de spoiler">The Treaty contains an additional clause.</div>
       </div>
     </div>
   </div>

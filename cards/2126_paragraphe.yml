@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2126
 Wort: paragraphe
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le paragraphe
 Femininum / Plural: ''
 IPA: \pa.ʁa.ɡʁaf\
-Definition: Absatz
+Definition: Paragraphs 1 and 2
 Register: ↘Fiktion ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'aimerais lire son dernier *paragraphe*.
-  Ich möchte seinen letzten *Absatz* lesen.
+  I'd like to read his last paragraph.
 
   Le texte est divisé en plusieurs *paragraphes* pour plus de clarté.
-  Der Text ist zur besseren Übersicht in mehrere *Abschnitte* unterteilt.
+  The text is divided into several paragraphs for clarity.
 
   Veuillez vous référer au *paragraphe* §3 de la page 12.
-  Bitte beziehen Sie sich auf *Paragraf* §3 auf Seite 12.
+  Please see paragraph 3 on page 12.
 
   Les élèves lisent le texte *paragraphe* par *paragraphe*.
-  Die Schüler lesen den Text *absatzweise*.
+  Students read the text paragraph by paragraph.
 
   Il a commencé un nouveau *paragraphe* après cette phrase.
-  Er hat nach diesem Satz einen neuen *Absatz* begonnen.
+  He started a new paragraph after that sentence.
 
   Elle a numéroté tous les *paragraphes* du document.
-  Sie hat alle *Abschnitte* des Dokuments nummeriert.
+  She's numbered every paragraph of the document.
 
   Le professeur nous a demandé de résumer chaque *paragraphe*.
-  Der Lehrer bat uns, jeden *Absatz* zusammenzufassen.
+  The teacher asked us to summarize each paragraph.
 
   Dans le deuxième *paragraphe*, l'auteur développe son argument principal.
-  Im zweiten *Abschnitt* entwickelt der Autor sein Hauptargument.
+  In the second paragraph, the author elaborates on his main argument.
 
   Le symbole *paragraphe* apparaît souvent dans les textes juridiques.
-  Das *Paragraphen*zeichen erscheint häufig in juristischen Texten.
+  The paragraph symbol is often used in legal texts.
 
   La structure en *paragraphes* rend le texte plus facile à lire.
-  Die *Absatz*struktur macht den Text leichter lesbar.
+  The paragraph structure makes the text easier to read.
 
   Ce *paragraphe* est trop long, il faudrait le diviser.
-  Dieser *Absatz* ist zu lang, man sollte ihn aufteilen.
+  This paragraph is too long, it should be divided.
 
   L'éditeur a ajouté des *paragraphes* pour améliorer la mise en page.
-  Der Herausgeber hat *Absätze* hinzugefügt, um das Layout zu verbessern.
+  The editor added paragraphs to improve the layout.
 
   Le premier *paragraphe* doit introduire le sujet clairement.
-  Der erste *Absatz* muss das Thema klar einführen.
+  The *first paragraph* should introduce the subject clearly.
 
   On peut voir le symbole *paragraphe* en bas de page.
-  Man kann das *Paragraphen*zeichen am Ende der Seite sehen.
+  You can see the paragraph symbol at the bottom of the page.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

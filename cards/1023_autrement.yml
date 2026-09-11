@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1023
 Wort: autrement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: autrement
 Femininum / Plural: ''
 IPA: \o.tʁə.mɑ̃\
-Definition: anders, sonst
+Definition: Otherwise
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les américains ont décidé d'agir *autrement*.
-  Die Amerikaner haben beschlossen, *anders* zu handeln.
+  The Americans decided to act differently.
 
   Si tu ne peux pas venir, dis-le-moi, *autrement* je t'attendrai toute la soirée.
-  Wenn du nicht kommen kannst, sag es mir, *sonst* warte ich den ganzen Abend auf dich.
+  If you can't come, tell me, or I'll wait for you all night.
 
   Elle est *autrement* plus intelligente que son frère.
-  Sie ist *weitaus* intelligenter als ihr Bruder.
+  She's way smarter than her brother.
 
   "Je ne suis pas *autrement* surpris par cette nouvelle."
-  "Ich bin von dieser Nachricht nicht *besonders* überrascht."
+  "I'm no differently surprised by this news".
 
   *Autrement* dit, vous refusez ma proposition ?
-  *Anders* ausgedrückt, Sie lehnen meinen Vorschlag ab?
+  In other words, you're rejecting my proposal?
 
   Je ne pouvais pas faire *autrement* que de partir tôt.
-  Mir blieb nichts *anderes* übrig, als früh zu gehen.
+  I couldn't help but leave early.
 
   Cette histoire s'est passée tout *autrement*.
-  Diese Geschichte hat sich ganz *anders* zugetragen.
+  This story happened differently.
 
   Il faut s'y prendre *autrement* pour résoudre ce problème.
-  Man muss *anders* an dieses Problem herangehen.
+  We need to do something different to solve this problem.
 
   La situation est *autrement* plus grave que prévu.
-  Die Situation ist *weitaus* ernster als erwartet.
+  The situation is *otherwise* more serious than expected.
 
   Range ta chambre, *autrement* tu seras privé de dessert.
-  Räum dein Zimmer auf, *andernfalls* gibt es keinen Nachtisch.
+  Reserve your room or you'll be deprived of dessert.
 
   Ce film est *autrement* meilleur que celui d'hier.
-  Dieser Film ist *weitaus* besser als der von gestern.
+  This movie is so much better than yesterday's.
 
   Il pense tout *autrement* que nous sur cette question.
-  Er denkt über diese Frage ganz *anders* als wir.
+  He thinks differently than we do about this.
 
   "Je ne suis pas *autrement* pressé aujourd'hui."
-  "Ich habe es heute nicht *sonderlich* eilig."
+  "I'm not in any other hurry today".
 
   *Autrement*, tout va bien dans votre vie ?
-  *Ansonsten* läuft alles gut in Ihrem Leben?
+  *Otherwise*, is everything okay in your life?
 
   On ne peut pas faire *autrement* : il faut accepter cette situation.
-  Es geht nicht *anders*: Wir müssen diese Situation akzeptieren.
+  There is no other way: we must accept this situation.
 
   Il n'en sera pas *autrement* cette fois-ci.
-  Es wird dieses Mal nicht *anders* sein.
+  It won't be any different this time.
 
   Cette recette peut se préparer *autrement*.
-  Dieses Rezept kann man auch *anders* zubereiten.
+  This recipe can be prepared differently.
 
   *Autrement*, je ne viendrai pas à la fête.
-  *Sonst* komme ich nicht zur Party.
+  *Otherwise*, I won't come to the party.
 
   Le nouveau professeur enseigne tout *autrement*.
-  Der neue Lehrer unterrichtet ganz *anders*.
+  The new teacher teaches completely differently.
 
   Ces événements m'ont fait voir les choses *autrement*.
-  Diese Ereignisse haben mich die Dinge *anders* sehen lassen.
+  These events made me see things differently.
 
   Il agit *autrement* qu'il ne parle.
-  Er handelt *anders* als er spricht.
+  He acts differently than he talks.
 
   La vie ici est *autrement* plus chère qu'à la campagne.
-  Das Leben ist hier *weitaus* teurer als auf dem Land.
+  Life here is far more expensive than in the countryside.
 
   Je ne peux pas te le dire *autrement* : c'est non.
-  Ich kann es dir nicht *anders* sagen: Die Antwort ist nein.
+  I can't tell you *otherwise*: it's no.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

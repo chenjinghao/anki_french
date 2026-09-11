@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3671
 Wort: sélectionner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sélectionner
 Femininum / Plural: ''
 IPA: \se.lɛk.sjɔ.ne\
-Definition: auswählen
+Definition: Select
 Register: ↗Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il faut avant tout *sélectionner* les rôles qui nous plaisent.
-  Vor allem müssen wir die Rollen *auswählen*, die uns gefallen.
+  First of all, we have to choose the roles we like.
 
   Le coach va *sélectionner* trois nouveaux joueurs pour le match de demain.
-  Der Trainer wird drei neue Spieler für das morgige Spiel *aufstellen*.
+  The coach will select three new players for tomorrow's game.
 
   Pour continuer, veuillez *sélectionner* votre langue préférée dans le menu.
-  Um fortzufahren, bitte *wählen* Sie Ihre bevorzugte Sprache im Menü *aus*.
+  To continue, please select your preferred language from the menu.
 
   L'université *sélectionne* les meilleurs étudiants pour ce programme d'échange.
-  Die Universität *wählt* die besten Studenten für dieses Austauschprogramm *aus*.
+  The university selects the best students for this exchange program.
 
   Le jury a *sélectionné* dix finalistes parmi plus de mille candidats.
-  Die Jury hat unter mehr als tausend Bewerbern zehn Finalisten *ausgewählt*.
+  The jury *selected* ten finalists from more than a thousand applicants.
 
   Cette machine *sélectionne* automatiquement les pommes selon leur taille.
-  Diese Maschine *sortiert* die Äpfel automatisch nach ihrer Größe.
+  This machine automatically selects apples according to their size.
 
   Les chercheurs ont *sélectionné* des graines particulièrement résistantes à la sécheresse.
-  Die Forscher haben besonders trockenheitsresistentes Saatgut *selektiert*.
+  Researchers have *selected* seeds that are particularly resistant to drought.
 
   Pour copier le texte, il faut d'abord le *sélectionner* avec la souris.
-  Um den Text zu kopieren, muss man ihn zuerst mit der Maus *markieren*.
+  To copy the text, you must first select it with the mouse.
 
   Marie a été *sélectionnée* pour représenter la France aux Jeux olympiques.
-  Marie wurde *ausgewählt*, um Frankreich bei den Olympischen Spielen zu vertreten.
+  Marie was *selected* to represent France at the Olympics.
 
   Le système *sélectionne* automatiquement les messages suspects.
-  Das System *filtert* verdächtige Nachrichten automatisch *heraus*.
+  The system automatically selects suspicious messages.
 
   Les experts ont *sélectionné* les meilleurs vins de la région.
-  Die Experten haben die besten Weine der Region *ausgewählt*.
+  The experts have *selected* the best wines in the region.
 
   L'algorithme *sélectionne* les contenus selon vos préférences.
-  Der Algorithmus *wählt* die Inhalte nach Ihren Vorlieben *aus*.
+  The algorithm selects the content according to your preferences.
 
   Le comité a *sélectionné* cinq projets innovants pour le concours.
-  Das Komitee hat fünf innovative Projekte für den Wettbewerb *ausgewählt*.
+  The Committee *selected* five innovative projects for the competition.
 
   L'école *sélectionne* ses élèves sur dossier et entretien.
-  Die Schule *wählt* ihre Schüler nach Bewerbungsmappe und Gespräch *aus*.
+  The school selects pupils on the basis of records and interviews.
 
   Les agriculteurs *sélectionnent* soigneusement leurs semences chaque année.
-  Die Landwirte *wählen* ihr Saatgut jedes Jahr sorgfältig *aus*.
+  Farmers carefully select their seeds each year.
 
   Pour voter, *sélectionnez* votre candidat préféré en cliquant sur son nom.
-  Um abzustimmen, *klicken* Sie auf den Namen Ihres bevorzugten Kandidaten.
+  To vote, *select* your favourite candidate by clicking on his name.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

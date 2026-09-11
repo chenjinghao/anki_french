@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3052
 Wort: élimination
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une élimination
 Femininum / Plural: ''
 IPA: \e.li.mi.na.sjɔ̃\
-Definition: Beseitigung, Ausschaltung
+Definition: Elimination, decommissioning
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il avait programmé l'*élimination* des paysans.
-  Er hatte die *Vernichtung* der Bauern geplant.
+  He had planned the *elimination* of the peasants.
 
   Les reins assurent l'*élimination* des toxines.
-  Die Nieren sorgen für die *Ausscheidung* der Giftstoffe.
+  The kidneys get rid of toxins.
 
   Le comité a procédé à l'*élimination* des dossiers incomplets.
-  Das Komitee hat die unvollständigen Akten *aussortiert*.
+  The Committee removed the incomplete files.
 
   L'*élimination* des déchets nucléaires pose un grand problème.
-  Die *Entsorgung* des Atommülls stellt ein großes Problem dar.
+  Disposal of nuclear waste is a major problem.
 
   L'*élimination* de notre équipe en demi-finale était décevante.
-  Das *Ausscheiden* unserer Mannschaft im Halbfinale war enttäuschend.
+  The *elimination* of our team in the semi-finals was disappointing.
 
   L'*élimination* progressive des barrières commerciales favorise les échanges.
-  Die schrittweise *Aufhebung* der Handelshemmnisse fördert den Austausch.
+  The gradual removal of barriers to trade promotes trade.
 
   Le contrôle qualité assure l'*élimination* des pièces défectueuses.
-  Die Qualitätskontrolle gewährleistet die *Aussonderung* der defekten Teile.
+  Quality control ensures the removal of defective parts.
 
   L'*élimination* des cafards nécessite un traitement professionnel.
-  Die *Vernichtung* der Kakerlaken erfordert eine professionelle Behandlung.
+  *Elimination* of cockroaches requires professional treatment.
 
   Cette tache résiste à toute tentative d'*élimination*.
-  Dieser Fleck widersteht jedem *Entfernungs*versuch.
+  This stain is resistant to any attempt at *elimination*.
 
   J'ai résolu ce problème par *élimination* des hypothèses impossibles.
-  Ich habe dieses Problem durch *Ausschließen* der unmöglichen Hypothesen gelöst.
+  I have solved this problem by eliminating the impossible hypotheses.
 
   Nous travaillons sur l'*élimination* des erreurs dans le système.
-  Wir arbeiten an der *Beseitigung* der Fehler im System.
+  We're working on eliminating errors in the system.
 
   Le tournoi se joue par *élimination directe*.
-  Das Turnier wird im *K.o.-System* gespielt.
+  The tournament is played by direct knockout.
 
   Son *élimination* du concours était due à une erreur technique.
-  Sein *Ausschluss* vom Wettbewerb war auf einen technischen Fehler zurückzuführen.
+  His *elimination* from the competition was due to a technical error.
 
   L'*élimination* de cette espèce menacée serait catastrophique.
-  Die *Ausrottung* dieser bedrohten Art wäre katastrophal.
+  Eliminating this endangered species would be catastrophic.
 
   Le processus d'*élimination* des variables est complexe en algèbre.
-  Der Prozess der *Eliminierung* der Variablen ist in der Algebra komplex.
+  The process of eliminating variables is complex in algebra.
 
   L'*élimination* naturelle des toxines prend du temps.
-  Die natürliche *Ausscheidung* der Giftstoffe braucht Zeit.
+  Natural removal of toxins takes time.
 
   L'*élimination* des possibilités de fraude est notre priorité.
-  Die *Beseitigung* von Betrugsmöglichkeiten ist unsere Priorität.
+  Eliminating the possibility of fraud is our priority.
 
   Le juge a ordonné l'*élimination* du vice de procédure.
-  Der Richter ordnete die *Beseitigung* des Verfahrensfehlers an.
+  The judge ordered the removal of the procedural misconduct.
 
   L'*élimination* progressive de la corruption prendra du temps.
-  Die schrittweise *Beseitigung* der Korruption wird Zeit brauchen.
+  The gradual *elimination* of corruption will take time.
 
   La sélection naturelle mène à l'*élimination* des espèces les plus faibles.
-  Die natürliche Selektion führt zur *Ausscheidung* der schwächsten Arten.
+  Natural selection leads to the *elimination* of the weaker species.
 
   L'*élimination* de cette erreur a amélioré le système.
-  Die *Beseitigung* dieses Fehlers hat das System verbessert.
+  The *elimination* of this error has improved the system.
 
   L'*élimination* des candidats se fait en plusieurs étapes.
-  Die *Aussortierung* der Kandidaten erfolgt in mehreren Schritten.
+  *Elimination* of candidates takes place in several stages.
 
   L'organisme procède à l'*élimination* naturelle des déchets.
-  Der Körper führt die natürliche *Ausscheidung* der Abfallstoffe durch.
+  The organism disposes of waste naturally.
 
   Cette technologie permet l'*élimination* rapide des impuretés.
-  Diese Technologie ermöglicht die schnelle *Beseitigung* von Verunreinigungen.
+  This technology enables the rapid removal of impurities.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

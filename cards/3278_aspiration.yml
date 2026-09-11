@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3278
 Wort: aspiration
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une aspiration
 Femininum / Plural: ''
 IPA: \as.pi.ʁa.sjɔ̃\
-Definition: Streben; Saugen
+Definition: Striving; sucking
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous devons répondre aux *aspirations* de ces pays.
-  Wir müssen den *Sehnsüchten* dieser Länder gerecht werden.
+  We must meet the *aspirations* of these countries.
 
   L'*aspiration* et l'expiration sont les deux mouvements de la respiration.
-  Das *Einatmen* und das Ausatmen sind die beiden Bewegungen der Atmung.
+  Inhaling and exhaling are the two movements of breathing.
 
   Le système d'*aspiration* de la cuisine est très efficace.
-  Das *Absaug*system der Küche ist sehr effizient.
+  The kitchen vacuum system is very efficient.
 
   Marie a une profonde *aspiration* à devenir médecin.
-  Marie hat ein tiefes *Streben* danach, Ärztin zu werden.
+  Marie has a deep *aspiration* to become a doctor.
 
   Les jeunes ont des *aspirations* légitimes pour leur avenir.
-  Die Jugendlichen haben legitime *Sehnsüchte* für ihre Zukunft.
+  Young people have legitimate *aspirations* for their future.
 
   L'*aspiration* des poussières doit être effectuée régulièrement.
-  Das *Absaugen* des Staubs muss regelmäßig durchgeführt werden.
+  Dust *aspiration* should be carried out regularly.
 
   La pompe d'*aspiration* est tombée en panne.
-  Die *Saug*pumpe ist ausgefallen.
+  The vacuum pump broke down.
 
   Cette génération a de nobles *aspirations*.
-  Diese Generation hat edle *Bestrebungen*.
+  This generation has noble *aspirations*.
 
   Le chirurgien a utilisé un tube d'*aspiration* pendant l'opération.
-  Der Chirurg hat während der Operation einen *Absaug*schlauch verwendet.
+  The surgeon used an *aspiration* tube during the operation.
 
   Leurs *aspirations* à la paix sont compréhensibles.
-  Ihr *Verlangen* nach Frieden ist verständlich.
+  Their desire for peace is understandable.
 
   Le moteur présente un problème d'*aspiration*.
-  Der Motor hat ein *Ansaug*problem.
+  The engine has an *aspiration* problem.
 
   L'*aspiration* de l'eau dans la pompe fait un bruit étrange.
-  Das *Ansaugen* des Wassers in der Pumpe macht ein seltsames Geräusch.
+  The suction of the water in the pump makes a strange noise.
 
   Les *aspirations* démocratiques du peuple sont évidentes.
-  Die demokratischen *Bestrebungen* des Volkes sind offensichtlich.
+  The democratic *aspirations* of the people are obvious.
 
   Le système d'*aspiration* central facilite le nettoyage.
-  Die zentrale *Absaug*anlage erleichtert die Reinigung.
+  The central *aspiration* system facilitates cleaning.
 
   Cette société ne correspond plus à mes *aspirations* professionnelles.
-  Diese Firma entspricht nicht mehr meinen beruflichen *Bestrebungen*.
+  This company no longer meets my professional *aspirations*.
 
   L'*aspiration* de l'air frais est essentielle pour la ventilation.
-  Das *Ansaugen* der frischen Luft ist für die Belüftung unerlässlich.
+  Breathing in fresh air is essential for ventilation.
 
   Ses *aspirations* artistiques l'ont conduit à Paris.
-  Seine künstlerischen *Bestrebungen* haben ihn nach Paris geführt.
+  His artistic *aspirations* led him to Paris.
 
   Le tuyau d'*aspiration* doit être changé régulièrement.
-  Der *Saug*schlauch muss regelmäßig ausgetauscht werden.
+  The *aspiration* pipe must be changed regularly.
 
   Les *aspirations* spirituelles font partie de la nature humaine.
-  *Sehnsüchte* nach Spiritualität gehören zur menschlichen Natur.
+  Spiritual *aspirations* are part of human nature.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

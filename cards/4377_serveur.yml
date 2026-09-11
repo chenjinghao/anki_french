@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4377
 Wort: serveur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le serveur
 Femininum / Plural: ''
 IPA: \sɛʁ.vœʁ\
-Definition: Kellner
+Definition: server; waiter; waitress
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne suis pas une *serveuse* de bar.
-  Ich bin keine Bar*kellnerin*.
+  I'm not a bartender.
 
   Le *serveur* nous a apporté la carte des vins.
-  Der *Kellner* hat uns die Weinkarte gebracht.
+  The *waiter* brought us the wine list.
 
   Les *serveurs* portaient tous un nœud papillon noir.
-  Die *Kellner* trugen alle eine schwarze Fliege.
+  The *waiters* all wore black bow ties.
 
   Notre *serveur* informatique est tombé en panne ce matin.
-  Unser *Server* ist heute Morgen ausgefallen.
+  Our computer *server* broke down this morning.
 
   Pierre est un excellent *serveur* au tennis.
-  Pierre ist ein ausgezeichneter *Aufschläger* im Tennis.
+  Pierre is an excellent *server* in tennis.
 
   Le *serveur* de messagerie ne répond plus depuis hier.
-  Der Mail*server* antwortet seit gestern nicht mehr.
+  The mail *server* hasn't responded since yesterday.
 
   Au poker, c'est Thomas qui sera le *serveur*.
-  Beim Poker wird Thomas der *Geber* sein.
+  In poker, Thomas will be the waiter.
 
   La *serveuse* a renversé du café sur ma chemise.
-  Die *Kellnerin* hat Kaffee auf mein Hemd verschüttet.
+  The *waitress* spilled coffee on my shirt.
 
   Notre équipe a perdu parce que notre *serveur* était blessé.
-  Unser Team hat verloren, weil unser *Aufgeber* verletzt war.
+  Our team lost because our *server* was injured.
 
   J'ai téléchargé ces fichiers directement du *serveur*.
-  Ich habe diese Dateien direkt vom *Server* heruntergeladen.
+  I downloaded these files directly from the *server*.
 
   Le restaurant cherche un *serveur* en extra pour ce soir.
-  Das Restaurant sucht einen Aushilfs*kellner* für heute Abend.
+  The restaurant is looking for an extra waiter for tonight.
 
   Le centre *serveur* traite des milliers de requêtes par seconde.
-  Der *Server*-Zentrale verarbeitet tausende Anfragen pro Sekunde.
+  The *server* center processes thousands of requests per second.
 
   Au volley-ball, Marie est notre meilleure *serveuse*.
-  Beim Volleyball ist Marie unsere beste *Aufgeberin*.
+  In volleyball, Marie is our best *waitress*.
 
   Les *serveurs* d'impression sont maintenant tous connectés.
-  Die Druck*server* sind jetzt alle verbunden.
+  The printer *servers* are now all connected.
 
   Le *serveur* vocal ne reconnaît pas mes commandes.
-  Der Sprach*server* erkennt meine Befehle nicht.
+  The voice *server* doesn't recognize my commands.
 
   Notre *serveur* de base de données doit être mis à jour.
-  Unser Datenbank*server* muss aktualisiert werden.
+  Our database *server* needs to be updated.
 
   Le *serveur* nous a recommandé le plat du jour.
-  Der *Kellner* hat uns das Tagesgericht empfohlen.
+  The waiter recommended us for lunch.
 
   Cette *serveuse* travaille ici depuis vingt ans.
-  Diese *Kellnerin* arbeitet seit zwanzig Jahren hier.
+  This *waitress* has been working here for 20 years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3844
 Wort: programmation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la programmation
 Femininum / Plural: ''
 IPA: \pʁɔ.ɡʁa.ma.sjɔ̃\
-Definition: Programmierung
+Definition: Programming
 Register: ↘Fiktion ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est trois heures de *programmation* par jour en direct.
-  Es sind drei Stunden tägliche *Programmgestaltung* live.
+  That's three hours of live *programming* a day.
 
   La *programmation* modulaire permet de développer des applications plus facilement.
-  Die modulare *Programmierung* ermöglicht eine einfachere Entwicklung von Anwendungen.
+  Modular *programming* makes it easier to develop applications.
 
   Le festival a modifié sa *programmation* à cause de la pluie.
-  Das Festival hat seine *Programmplanung* wegen des Regens geändert.
+  The festival changed its schedule because of the rain.
 
   J'ai commencé à apprendre un nouveau langage de *programmation*.
-  Ich habe angefangen, eine neue *Programmier*sprache zu lernen.
+  I started learning a new *programming* language.
 
   La *programmation* de cette chaîne de télévision vise un public jeune.
-  Die *Programmgestaltung* dieses Fernsehsenders richtet sich an ein junges Publikum.
+  The *programming* of this television channel is aimed at a young audience.
 
   Elle travaille sur la *programmation* d'un nouveau logiciel de sécurité.
-  Sie arbeitet an der *Programmierung* einer neuen Sicherheitssoftware.
+  She's working on *programming* a new security software.
 
   La *programmation* des vacances d'été prend beaucoup de temps.
-  Die *Planung* der Sommerferien nimmt viel Zeit in Anspruch.
+  Planning a summer vacation takes a lot of time.
 
   Les étudiants apprennent les bases de la *programmation* en Python.
-  Die Studenten lernen die Grundlagen der *Programmierung* in Python.
+  Students learn the basics of Python *programming*.
 
   La *programmation* du théâtre pour la saison prochaine vient d'être annoncée.
-  Die *Programmplanung* des Theaters für die nächste Saison wurde gerade bekannt gegeben.
+  The theater's schedule for next season has just been announced.
 
   Il faut revoir la *programmation* de cette machine automatique.
-  Die *Programmierung* dieser automatischen Maschine muss überarbeitet werden.
+  We need to revise the *programming* of this automated machine.
 
   La *programmation* économique prévoit une croissance modérée.
-  Die Wirtschafts*planung* sagt ein moderates Wachstum voraus.
+  Economic planning foresees moderate growth.
 
   La *programmation* du festival inclut des artistes internationaux.
-  Die *Programmgestaltung* des Festivals umfasst internationale Künstler.
+  The *programming* of the festival includes international artists.
 
   Les erreurs de *programmation* peuvent causer des bugs importants.
-  *Programmier*fehler können schwerwiegende Bugs verursachen.
+  *Programming* errors can cause significant bugs.
 
   La *programmation* linéaire nous aide à optimiser les ressources.
-  Die lineare *Programmierung* hilft uns, die Ressourcen zu optimieren.
+  Linear *programming* helps us optimize resources.
 
   La *programmation* de cette calculatrice est relativement simple.
-  Die *Programmierung* dieses Taschenrechners ist relativ einfach.
+  The *programming* of this calculator is relatively simple.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

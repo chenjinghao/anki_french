@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1720
 Wort: thème
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le thème
 Femininum / Plural: ''
 IPA: \tɛm\
-Definition: Thema, Motto
+Definition: Subject and motto
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous pouvez choisir un *thème*.
-  Sie können ein *Thema* auswählen.
+  You can choose a *theme*.
 
   La conférence aura pour *thème* principal l'intelligence artificielle.
-  Die Konferenz hat künstliche Intelligenz als Haupt*thema*.
+  The main *theme* of the conference will be artificial intelligence.
 
   Les élèves doivent faire un *thème* allemand pour demain.
-  Die Schüler müssen bis morgen eine *Übersetzung* ins Deutsche machen.
+  The students have a German *theme* for tomorrow.
 
   Le *thème* principal de cette symphonie est très mélancolique.
-  Das Haupt*thema* dieser Symphonie ist sehr melancholisch.
+  The main *theme* of this symphony is very melancholy.
 
   L'astrologue a fait le *thème astral* de Marie.
-  Der Astrologe hat Marie das *Horoskop* gestellt.
+  The astrologer made the *astral theme* of Marie.
 
   Le peintre développe le même *thème* dans toutes ses œuvres.
-  Der Maler entwickelt in allen seinen Werken das gleiche *Motiv*.
+  The painter develops the same *theme* in all his works.
 
   J'ai choisi ce roman pour son *thème* universel de l'amour.
-  Ich habe diesen Roman wegen seines universellen *Themas* der Liebe ausgewählt.
+  I chose this novel for its universal *theme* of love.
 
   Les *thèmes* abordés lors du débat étaient très variés.
-  Die beim Debattieren behandelten *Themen* waren sehr vielfältig.
+  The topics discussed in the debate were very varied.
 
   Cette agence propose des voyages à *thème*.
-  Diese Agentur bietet *Themen*reisen an.
+  This agency offers themed trips.
 
   "C'est un *fort en thème*, mais il manque de créativité."
-  "Er ist ein *Streber*, aber ihm fehlt es an Kreativität."
+  "It's a strong theme, but it lacks creativity".
 
   Le professeur nous fait pratiquer le *thème* et la version chaque semaine.
-  Der Lehrer lässt uns jede Woche *Hin*- und Herübersetzungen üben.
+  The teacher makes us practice the *theme* and the version every week.
 
   Le compositeur a écrit plusieurs variations sur ce *thème*.
-  Der Komponist hat mehrere Variationen zu diesem *Thema* geschrieben.
+  The composer wrote several variations on this *theme*.
 
   Quel est le *thème* central de votre dissertation ?
-  Was ist das zentrale *Thema* Ihrer Hausarbeit?
+  What is the central *theme* of your dissertation?
 
   Les *thèmes* de ses tableaux sont inspirés de la mythologie.
-  Die *Motive* seiner Gemälde sind von der Mythologie inspiriert.
+  The *themes* of his paintings are inspired by mythology.
 
   Le *thème* verbal permet de conjuguer le verbe correctement.
-  Der Verbal*stamm* ermöglicht die korrekte Konjugation des Verbs.
+  Verbal themes make it possible to combine the verb correctly.
 
   Son *thème astral* indique une personnalité complexe.
-  Ihr *Geburtshoroskop* deutet auf eine komplexe Persönlichkeit hin.
+  Its *astral theme* indicates a complex personality.
 
   Ces *thèmes* de recherche sont très prometteurs.
-  Diese Forschungs*themen* sind sehr vielversprechend.
+  These research topics are very promising.
 
   Le *thème* nominal en latin peut être difficile à identifier.
-  Der Nominal*stamm* im Lateinischen kann schwer zu erkennen sein.
+  The Latin noun *theme* can be difficult to identify.
 
   Les étudiants excellent en *thème* mais pas en version.
-  Die Studenten sind gut in der *Hinübersetzung*, aber nicht in der Herübersetzung.
+  The students excelled in *theme*, but not in version.
 
   Ce *thème* musical revient tout au long de l'opéra.
-  Dieses musikalische *Thema* kehrt während der ganzen Oper wieder.
+  This musical *theme* is repeated throughout the opera.
 
   L'écrivain explore plusieurs *thèmes* dans son nouveau roman.
-  Der Schriftsteller erforscht mehrere *Themen* in seinem neuen Roman.
+  The author explores several *themes* in his new novel.
 
   Le *thème* de la liberté est omniprésent dans son œuvre.
-  Das *Thema* der Freiheit ist in seinem Werk allgegenwärtig.
+  The *theme* of freedom is ubiquitous in his work.
 
   Nous devons choisir un *thème* pour notre exposé.
-  Wir müssen ein *Thema* für unser Referat wählen.
+  We need to choose a *theme* for our presentation.
 
   Cette soirée dansante avait pour *thème* les années 80.
-  Diese Tanzparty hatte die 80er Jahre als *Thema*.
+  The *theme* of this dancing evening was the 1980's.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,126 +1,126 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 5000
 Wort: écrouler
 Wortart: vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: s’écrouler
 Femininum / Plural: ''
 IPA: \e.kʁu.le\
-Definition: einstürzen, zusammenfallen, umkippen
+Definition: to collapse; fall down
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On le trouva mort, *écroulé* dans les w.c.
-  Man fand ihn tot, in der Toilette *zusammengesunken*.
+  He was found dead, *collapsed* in the bathroom.
 
   La vieille maison s'est *écroulée* pendant la tempête.
-  Das alte Haus ist während des Sturms *eingestürzt*.
+  The old house *collapsed* during the storm.
 
   Toutes ses théories se sont *écroulées* face aux nouvelles découvertes.
-  All seine Theorien sind angesichts der neuen Entdeckungen *zusammengebrochen*.
+  All his theories *collapsed* with the new discoveries.
 
   Le grand chêne s'est *écroulé* sur la route.
-  Die große Eiche ist auf die Straße *umgestürzt*.
+  The large oak *fell* across the road.
 
   Un énorme rocher s'est *écroulé* dans la vallée.
-  Ein riesiger Felsen ist ins Tal *herabgefallen*.
+  A huge rock *fell* into the valley.
 
   Les cours de la bourse se sont *écroulés* après l'annonce.
-  Die Börsenkurse sind nach der Ankündigung *zusammengebrochen*.
+  Stock prices *collapsed* after the announcement.
 
   L'empire romain s'est *écroulé* au V<sup>e</sup> siècle.
-  Das römische Reich ist im 5. Jahrhundert *zusammengebrochen*.
+  The Roman Empire *collapsed* in the 5th century.
 
   Son projet s'est *écroulé* quand son partenaire s'est retiré.
-  Sein Projekt hat sich *zerschlagen*, als sein Partner ausgestiegen ist.
+  His plan fell apart when his partner withdrew.
 
   La fortune familiale s'est *écroulée* en quelques mois.
-  Das Familienvermögen ist innerhalb weniger Monate *zusammengebrochen*.
+  The family fortune *collapsed* within a few months.
 
   Le gouvernement s'est *écroulé* après un vote de défiance.
-  Die Regierung ist nach einem Misstrauensvotum *gestürzt*.
+  The government *collapsed* after a vote of no confidence.
 
   "Je suis tellement fatigué que je vais *m'écrouler*."
-  "Ich bin so müde, dass ich gleich *zusammenbreche*."
+  "I'm so tired I'm going to collapse".
 
   Le château de cartes s'est *écroulé* au moindre souffle.
-  Das Kartenhaus ist beim kleinsten Luftzug *eingestürzt*.
+  The castle of cards *collapsed* at the slightest breath.
 
   La pile de livres s'est *écroulée* sur mon bureau.
-  Der Stapel Bücher ist auf meinem Schreibtisch *zusammengefallen*.
+  The stack of books *collapsed* on my desk.
 
   Le boxeur s'est *écroulé* après un coup violent.
-  Der Boxer ist nach einem heftigen Schlag *zusammengebrochen*.
+  The boxer *collapsed* after a violent blow.
 
   Elle s'est *écroulée* en sanglots en lisant la lettre.
-  Sie ist beim Lesen des Briefes *zusammengebrochen* und in Tränen ausgebrochen.
+  She burst into tears as she read the letter.
 
   "À cette blague, nous nous sommes tous *écroulés* de rire."
-  "Bei diesem Witz sind wir alle vor Lachen *zusammengebrochen*."
+  "To this joke, we all *collapsed* with laughter".
 
   Le candidat s'est *écroulé* pendant l'examen oral.
-  Der Kandidat ist während der mündlichen Prüfung *zusammengebrochen*.
+  The candidate *collapsed* during the oral exam.
 
   Épuisé, il s'est *écroulé* dans son lit.
-  Erschöpft ist er in sein Bett *gefallen*.
+  Exhausted, he *collapsed* in his bed.
 
   Après douze heures de travail, je me suis *écroulé* de fatigue.
-  Nach zwölf Stunden Arbeit bin ich vor Müdigkeit *umgefallen*.
+  After twelve hours of work, I *collapsed* from fatigue.
 
   Le pont s'est *écroulé* sous le poids des camions.
-  Die Brücke ist unter dem Gewicht der Lastwagen *eingestürzt*.
+  The bridge *collapsed* under the weight of the trucks.
 
   Tous ses rêves se sont *écroulés* d'un seul coup.
-  All seine Träume sind mit einem Schlag *zusammengebrochen*.
+  All her dreams *collapsed* in one fell swoop.
 
   "Je vais *m'écrouler* dans ce fauteuil pour cinq minutes."
-  "Ich werde mich für fünf Minuten in diesen Sessel *fallen lassen*."
+  "I'm going to crash in this chair for five minutes".
 
   L'équipe s'est *écroulée* en seconde mi-temps.
-  Die Mannschaft ist in der zweiten Halbzeit *eingebrochen*.
+  The team *collapsed* in the second half.
 
   La falaise s'est *écroulée* dans la mer.
-  Die Klippe ist ins Meer *gestürzt*.
+  The cliff *collapsed* into the sea.
 
   Le système financier s'est complètement *écroulé*.
-  Das Finanzsystem ist vollständig *zusammengebrochen*.
+  The financial system has completely *collapsed*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="celebration">
-    <p><b>🏁 ZIEL ERREICHT: 5.000 WÖRTER!</b></p>
-    <p>Herzlichen Glückwunsch, du hast das gesamte Deck abgeschlossen! Das ist das Ergebnis von unglaublicher Disziplin und Ausdauer. Dein Verständnis und deine Ausdrucksfähigkeit sind jetzt auf einem sehr hohen Niveau (B2/C1), auf das du stolz sein kannst.</p>
-    <p>Die Sprache gehört nun dir. Spiele mit ihr, entdecke ihre Schönheit in der Literatur, im Film und in der Musik. Dein Werkzeugkasten ist prall gefüllt – jetzt ist es an der Zeit, kreativ zu werden.</p>
-    <p>Erzähle der <a href="https://github.com/jacbz/anki_french/discussions/70">Community</a> von deinem Triumph und zeige allen deine finale Statistik aus dem <a href="https://ankiweb.net/shared/info/637361797">Add-on</a> – du hast es dir verdient!</p>
+    <p><b>🏁 GOAL REACHED: 5,000 WORDS!</b></p>
+    <p>Congratulations, you have completed the entire deck! This is the result of remarkable discipline and perseverance. Your comprehension and ability to express yourself are now at a very high level (B2/C1), something you can be proud of.</p>
+    <p>The language is yours now. Play with it and discover its beauty in literature, film, and music. Your toolbox is full — now it is time to get creative.</p>
+    <p>Tell the <a href="https://github.com/jacbz/anki_french/discussions/70">community</a> about your achievement and share your final statistics from the <a href="https://ankiweb.net/shared/info/637361797">add-on</a> — you earned it!</p>
   </div>
   <hr>
   <div class="section">
-    <div class="section-title"><i>effondrer</i> und <i>écrouler</i></div>
+    <div class="section-title"><i>effondrer</i> and <i>écrouler</i></div>
     <div class="section-content">
-      <p><span class="fr">S'effondrer</span> bedeutet <span class="de">"zusammenbrechen"</span> oder <span class="de">"einstürzen"</span> und kann sowohl für physische Strukturen als auch für abstrakte Konzepte verwendet werden. Es impliziert oft einen plötzlichen oder dramatischen Zusammenbruch.</p>
+      <p><span class="fr">S'effondrer</span> means <span class="de">"to collapse"</span> or <span class="de">"to cave in"</span> and can be used for both physical structures and abstract concepts. It often implies a sudden or dramatic collapse.</p>
       <div class="examples">
         <div class="fr">Le toit s'est effondré sous le poids de la neige.</div>
-        <div class="de spoiler">Das Dach ist unter dem Gewicht des Schnees eingestürzt.</div>
+        <div class="de spoiler">The roof collapsed under the weight of the snow.</div>
         <div class="fr">L'économie du pays s'est effondrée en quelques mois.</div>
-        <div class="de spoiler">Die Wirtschaft des Landes ist in wenigen Monaten zusammengebrochen.</div>
+        <div class="de spoiler">The country's economy collapsed within a few months.</div>
         <div class="fr">Elle s'est effondrée en larmes en apprenant la nouvelle.</div>
-        <div class="de spoiler">Sie brach in Tränen aus, als sie die Nachricht erfuhr.</div>
+        <div class="de spoiler">She burst into tears when she heard the news.</div>
       </div>
-      <p><span class="fr">S'écrouler</span> bedeutet ebenfalls <span class="de">"zusammenstürzen"</span> oder <span class="de">"einstürzen"</span>, wird aber hauptsächlich für physische Strukturen verwendet und betont mehr den Aspekt des Falls oder Sturzes.</p>
+      <p><span class="fr">S'écrouler</span> likewise means <span class="de">"to collapse"</span> or <span class="de">"to fall down"</span>, but it is used mainly for physical structures and places more emphasis on the act of falling.</p>
       <div class="examples">
         <div class="fr">Le vieux mur s'est écroulé pendant la tempête.</div>
-        <div class="de spoiler">Die alte Mauer ist während des Sturms zusammengestürzt.</div>
+        <div class="de spoiler">The old wall collapsed during the storm.</div>
         <div class="fr">Il s'est écroulé de fatigue après sa longue journée de travail.</div>
-        <div class="de spoiler">Er brach vor Erschöpfung zusammen nach seinem langen Arbeitstag.</div>
+        <div class="de spoiler">He collapsed from exhaustion after his long day at work.</div>
       </div>
-      <p>Beide Verben beschreiben einen Zusammenbruch, aber <span class="fr">s'effondrer</span> hat eine breitere Anwendung und wird häufiger für abstrakte Konzepte verwendet, während <span class="fr">s'écrouler</span> traditionell eher für konkrete, physische Zusammenstürze reserviert ist.</p>
+      <p>Both verbs describe a collapse, but <span class="fr">s'effondrer</span> has a broader range of uses and is more common for abstract concepts, whereas <span class="fr">s'écrouler</span> is traditionally used more for concrete, physical collapses.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

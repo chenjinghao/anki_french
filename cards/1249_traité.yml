@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1249
 Wort: traité
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le traité
 Femininum / Plural: ''
 IPA: \tʁɛ.te\
-Definition: Vertrag, Abkommen
+Definition: Treaty, agreements
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il s'agit d'élaborer des *traités* internationaux.
-  Es geht darum, internationale *Verträge* auszuarbeiten.
+  It is a matter of drawing up international treaties.
 
   L'historien a écrit un *traité* sur l'art de la Renaissance.
-  Der Historiker hat eine *Abhandlung* über die Kunst der Renaissance geschrieben.
+  The historian wrote a treatise on the art of the Renaissance.
 
   Le *traité* de paix a été signé hier à Genève.
-  Der Friedens*vertrag* wurde gestern in Genf unterzeichnet.
+  The peace *treaty* was signed yesterday in Geneva.
 
   Les deux pays ont conclu un *traité* secret en 1995.
-  Die beiden Länder haben 1995 einen geheimen *Vertrag* geschlossen.
+  The two countries signed a secret *treaty* in 1995.
 
   Ce *traité* de mathématiques est utilisé dans toutes les universités.
-  Diese Mathematik*abhandlung* wird in allen Universitäten verwendet.
+  This mathematical treatise is used in all universities.
 
   Le *traité* de Maastricht a marqué une étape importante dans l'histoire de l'UE.
-  Der Maastrichter *Vertrag* markierte einen wichtigen Meilenstein in der EU-Geschichte.
+  The Maastricht *Treaty* marked an important milestone in the history of the EU.
 
   Elle prépare un nouveau *traité* sur la psychologie cognitive.
-  Sie bereitet eine neue *Abhandlung* über kognitive Psychologie vor.
+  She's working on a new treatise on cognitive psychology.
 
   Le parlement doit encore ratifier ce *traité* commercial.
-  Das Parlament muss dieses Handels*abkommen* noch ratifizieren.
+  Parliament has yet to ratify this trade *treaty*.
 
   J'ai lu un excellent *traité* sur l'histoire de la musique baroque.
-  Ich habe eine ausgezeichnete *Abhandlung* über die Geschichte der Barockmusik gelesen.
+  I read an excellent treatise on the history of Baroque music.
 
   Les négociations pour ce *traité* environnemental ont duré trois ans.
-  Die Verhandlungen für dieses Umwelt*abkommen* dauerten drei Jahre.
+  Negotiations for this environmental *treaty* lasted three years.
 
   Son *traité* sur l'architecture médiévale fait référence.
-  Seine *Abhandlung* über mittelalterliche Architektur gilt als Standardwerk.
+  His treatise on medieval architecture makes reference.
 
   Le *traité* communautaire doit être approuvé par tous les États membres.
-  Der Gemeinschafts*vertrag* muss von allen Mitgliedstaaten genehmigt werden.
+  The Community *Treaty* must be approved by all Member States.
 
   Les experts analysent encore les implications de ce *traité*.
-  Die Experten analysieren noch die Auswirkungen dieses *Abkommens*.
+  Experts are still analysing the implications of this *treaty*.
 
   Ce *traité* de physique quantique est très complet.
-  Diese *Abhandlung* über Quantenphysik ist sehr umfassend.
+  This treatise on quantum physics is very comprehensive.
 
   Nous devons respecter les termes du *traité*.
-  Wir müssen die Bedingungen des *Vertrags* einhalten.
+  We must respect the terms of the *treaty*.
 
   Le nouveau *traité* sur le contrôle des armements entrera en vigueur l'année prochaine.
-  Das neue Rüstungskontroll*abkommen* tritt nächstes Jahr in Kraft.
+  The new arms control *treaty* will enter into force next year.
 
   Les étudiants consultent souvent ce *traité* de philosophie.
-  Die Studenten konsultieren häufig diese Philosophie*abhandlung*.
+  Students often consult this philosophical treatise.
 
   Le *traité* d'accession sera signé le mois prochain.
-  Der Beitritts*vertrag* wird nächsten Monat unterzeichnet.
+  The accession *treaty* will be signed next month.
 
   Plusieurs pays ont déjà ratifié ce *traité* bilatéral.
-  Mehrere Länder haben dieses bilaterale *Abkommen* bereits ratifiziert.
+  Several countries have already ratified this bilateral *treaty*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>traité</i> und <i>contrat</i></div>
+    <div class="section-title"><i>traité</i> and <i>contrat</i></div>
     <div class="section-content">
-      <p><b>Traité</b> ist formeller und offizieller als <b>contrat</b> (#832), oft ein völkerrechtlicher Vertrag zwischen Staaten.</p>
+      <p><b>Traité</b> is more formal and official than <b>contrat</b> (#832), often an international treaty between states.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

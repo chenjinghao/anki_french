@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3414
 Wort: préliminaire
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: préliminaire
 Femininum / Plural: ''
 IPA: \pʁe.li.mi.nɛʁ\
-Definition: vorbereitend, Vor-
+Definition: It is important to note that this is not the case
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les résultats *préliminaires* nous promettent une longue et difficile nuit.
-  Die *vorläufigen* Ergebnisse versprechen uns eine lange und schwierige Nacht.
+  The *preliminary* results promise us a long and difficult night.
 
   Une étude *préliminaire* montre que le vaccin est efficace.
-  Eine *Vor*studie zeigt, dass der Impfstoff wirksam ist.
+  A *preliminary* study shows that the vaccine is effective.
 
   La réunion *préliminaire* aura lieu demain matin à huit heures.
-  Die *vorbereitende* Besprechung findet morgen früh um acht Uhr statt.
+  The *preliminary* meeting will be held tomorrow morning at eight o'clock.
 
   Les *préliminaires* de paix ont duré plusieurs mois.
-  Die Friedens*vorverhandlungen* dauerten mehrere Monate.
+  *Preliminary* peace talks lasted several months.
 
   Cette remarque *préliminaire* m'a fait réfléchir.
-  Diese *einleitende* Bemerkung hat mich nachdenklich gemacht.
+  This *preliminary* remark made me think.
 
   Les discussions *préliminaires* entre les deux pays ont échoué.
-  Die *Vor*gespräche zwischen den beiden Ländern sind gescheitert.
+  *Preliminary* talks between the two countries failed.
 
   Je voudrais faire une observation *préliminaire*.
-  Ich möchte eine *einleitende* Bemerkung machen.
+  I'd like to make a *preliminary* observation.
 
   Les tests *préliminaires* ont révélé plusieurs problèmes techniques.
-  Die *Vor*tests haben mehrere technische Probleme aufgedeckt.
+  *Preliminary* tests revealed several technical problems.
 
   Sans plus de *préliminaires*, passons au sujet principal.
-  Ohne weitere *Vorrede* kommen wir zum Hauptthema.
+  Without further *preliminary* considerations, let us move on to the main subject.
 
   L'examen *préliminaire* du patient n'a rien révélé d'anormal.
-  Die *vorläufige* Untersuchung des Patienten hat nichts Auffälliges ergeben.
+  *Preliminary* examination of the patient showed no abnormalities.
 
   Une version *préliminaire* du rapport sera disponible lundi.
-  Eine *vorläufige* Version des Berichts wird am Montag verfügbar sein.
+  A *preliminary* version of the report will be available on Monday.
 
   Les *préliminaires* du traité ont été signés hier soir.
-  Die *Vorverhandlungen* zum Vertrag wurden gestern Abend unterzeichnet.
+  The *preliminary* draft treaty was signed last night.
 
   Le tour *préliminaire* du tournoi commence la semaine prochaine.
-  Die *Vor*runde des Turniers beginnt nächste Woche.
+  The *preliminary* round of the tournament starts next week.
 
   Cette phase *préliminaire* est cruciale pour le succès du projet.
-  Diese *Vor*phase ist entscheidend für den Erfolg des Projekts.
+  This *preliminary* phase is crucial to the success of the project.
 
   Le budget *préliminaire* doit encore être approuvé.
-  Der *vorläufige* Haushalt muss noch genehmigt werden.
+  The *preliminary* budget has yet to be approved.
 
   Les accords *préliminaires* ont été conclus ce matin.
-  Die *vorläufigen* Vereinbarungen wurden heute Morgen getroffen.
+  The *preliminary* agreements were reached this morning.
 
   Une analyse *préliminaire* des données suggère une tendance positive.
-  Eine *erste* Analyse der Daten deutet auf einen positiven Trend hin.
+  A *preliminary* analysis of the data suggests a positive trend.
 
   Les *préliminaires* à l'accord commercial sont terminés.
-  Die *Vorverhandlungen* zum Handelsabkommen sind abgeschlossen.
+  The *preliminary* negotiations for the trade agreement have been completed.
 
   Ces entretiens *préliminaires* nous ont beaucoup appris.
-  Diese *Vor*gespräche haben uns viel gelehrt.
+  We learned a lot from these *preliminary* interviews.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

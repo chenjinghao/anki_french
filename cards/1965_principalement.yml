@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1965
 Wort: principalement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: principalement
 Femininum / Plural: ''
 IPA: \pʁɛ̃.si.pal.mɑ̃\
-Definition: hauptsächlich, vorwiegend
+Definition: mainly, predominantly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est sur les femmes *principalement* qu'elle a exercé une grande influence.
-  Sie hat *hauptsächlich* auf Frauen einen großen Einfluss ausgeübt.
+  It has had a major influence on women in particular.
 
   Les revenus de l'entreprise proviennent *principalement* de la vente en ligne.
-  Die Einnahmen des Unternehmens stammen *hauptsächlich* aus dem Online-Verkauf.
+  The company's revenue comes *mainly* from online sales.
 
   Cette région est connue *principalement* pour ses vignobles.
-  Diese Region ist *vor allem* für ihre Weinberge bekannt.
+  This region is known *mainly* for its vineyards.
 
   Le festival attire *principalement* un public jeune et branché.
-  Das Festival zieht *vorwiegend* ein junges und trendiges Publikum an.
+  The festival *mainly* attracts a young and trendy audience.
 
   Les dépenses du gouvernement sont *principalement* consacrées à l'éducation et à la santé.
-  Die Ausgaben der Regierung sind *hauptsächlich* für Bildung und Gesundheit bestimmt.
+  Government expenditure is *mainly* devoted to education and health.
 
   Cette technologie est utilisée *principalement* dans l'industrie automobile.
-  Diese Technologie wird *vorrangig* in der Automobilindustrie eingesetzt.
+  This technology is *mainly* used in the automotive industry.
 
   Les touristes visitent ce pays *principalement* pour ses plages et son climat tropical.
-  Touristen besuchen dieses Land *in erster Linie* wegen seiner Strände und seines tropischen Klimas.
+  Tourists visit this country *mainly* for its beaches and tropical climate.
 
   Le succès de l'équipe repose *principalement* sur sa stratégie défensive.
-  Der Erfolg der Mannschaft beruht *hauptsächlich* auf ihrer Verteidigungsstrategie.
+  The success of the team is *mainly* based on its defensive strategy.
 
   Ce restaurant se spécialise *principalement* dans les fruits de mer.
-  Dieses Restaurant hat sich *vor allem* auf Meeresfrüchte spezialisiert.
+  This restaurant specializes *mainly* in seafood.
 
   Les passereaux se nourrissent *principalement* d'insectes et de graines.
-  Singvögel ernähren sich *überwiegend* von Insekten und Samen.
+  Birds feed *mainly* on insects and seeds.
 
   C'est *principalement* pour cette raison qu'il a décidé de démissionner.
-  *Hauptsächlich* aus diesem Grund hat er beschlossen zu kündigen.
+  It was *mainly* for this reason that he decided to resign.
 
   L'économie de cette ville repose *principalement* sur le tourisme.
-  Die Wirtschaft dieser Stadt basiert *vorwiegend* auf dem Tourismus.
+  The economy of this city is *mainly* based on tourism.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

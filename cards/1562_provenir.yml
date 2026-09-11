@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1562
 Wort: provenir
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: provenir
 Femininum / Plural: ''
 IPA: \pʁɔv.niʁ\
-Definition: stammen, herkommen
+Definition: from here, come here
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La balle *provient* d'un revolver britannique.
-  Die Kugel *stammt* von einem britischen Revolver.
+  The bullet came from a British revolver.
 
   D'où *provient* cette lettre mystérieuse ?
-  Woher *stammt* dieser mysteriöse Brief?
+  Where did this mysterious letter come from?
 
   Ces marchandises *proviennent* principalement de Chine.
-  Diese Waren *kommen* hauptsächlich aus China.
+  These goods are mainly sourced from China.
 
   Le plastique *provient* du pétrole brut.
-  Plastik *stammt* aus Rohöl.
+  The plastic *comes from* crude oil.
 
   Cet excellent vin rouge *provient* d'Italie.
-  Dieser ausgezeichnete Rotwein *kommt* aus Italien.
+  This excellent red wine *comes from* Italy.
 
   L'argent *provenait* de l'héritage de sa grand-mère.
-  Das Geld *stammte* aus dem Erbe ihrer Großmutter.
+  The money *came from* his grandmother's inheritance.
 
   Les pierres du château *proviennent* d'une carrière locale.
-  Die Steine des Schlosses *stammen* aus einem lokalen Steinbruch.
+  The castle's stones *come from* a local quarry.
 
   Le mot « fenêtre » *provient* du latin « fenestra ».
-  Das Wort "Fenster" *stammt* aus dem lateinischen "fenestra".
+  The word  window  *comes from* the Latin  fenestra .
 
   Ces magnifiques tableaux *proviennent* d'une collection privée.
-  Diese wunderschönen Gemälde *stammen* aus einer privaten Sammlung.
+  These magnificent paintings are from a private collection.
 
   Son mal de dos *provient* d'une mauvaise posture.
-  Seine Rückenschmerzen *rühren* von einer schlechten Haltung *her*.
+  His back aches from poor posture.
 
   La plupart de nos problèmes *proviennent* d'un manque de communication.
-  Die meisten unserer Probleme *stammen* von mangelnder Kommunikation.
+  Most of our problems *come from* a lack of communication.
 
   L'humus *provient* de la décomposition des feuilles mortes.
-  Humus *entsteht* aus der Zersetzung toter Blätter.
+  Humus *comes from* the decomposition of dead leaves.
 
   Les habitudes des enfants *proviennent* souvent de leurs parents.
-  Die Gewohnheiten der Kinder *stammen* oft von ihren Eltern.
+  Children's habits often *come from* their parents.
 
   Ses idées créatives *proviennent* de son imagination débordante.
-  Seine kreativen Ideen *entspringen* seiner überbordenden Fantasie.
+  His creative ideas *come from* his overflowing imagination.
 
   Le malentendu *provenait* d'une simple erreur de traduction.
-  Das Missverständnis *kam* von einem einfachen Übersetzungsfehler.
+  The misunderstanding was caused by a simple translation error.
 
   Ces échantillons *proviennent* du laboratoire central.
-  Diese Proben *stammen* aus dem Zentrallabor.
+  These samples are from the central laboratory.
 
   La lumière *provient* d'une source naturelle.
-  Das Licht *kommt* aus einer natürlichen Quelle.
+  Light *comes from* a natural source.
 
   Les fruits de ce marché *proviennent* directement des producteurs locaux.
-  Das Obst auf diesem Markt *kommt* direkt von lokalen Erzeugern.
+  The fruits of this market come directly from local producers.
 
   Notre succès *provient* de nos efforts constants.
-  Unser Erfolg *resultiert* aus unseren konstanten Bemühungen.
+  Our success *comes from* our constant efforts.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

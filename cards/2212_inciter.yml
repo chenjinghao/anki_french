@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2212
 Wort: inciter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inciter
 Femininum / Plural: ''
 IPA: \ɛ̃.si.te\
-Definition: '[zum Handeln] ermuntern'
+Definition: 'Encourage to Act'
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cela *incitera* les compagnies à poursuivre leurs recherches.
-  Das wird die Unternehmen zur Fortsetzung ihrer Forschung *anregen*.
+  This will encourage companies to continue their research.
 
   Cette publicité *incite* les clients à acheter plus qu'ils ne le souhaitent.
-  Diese Werbung *verführt* die Kunden dazu, mehr zu kaufen als sie möchten.
+  This advertising encourages customers to buy more than they want.
 
   Sa réponse évasive m'*incite* à la méfiance.
-  Seine ausweichende Antwort *flößt* mir Misstrauen *ein*.
+  His evasive response makes me suspicious.
 
   Le gouvernement *incite* les citoyens à économiser l'énergie.
-  Die Regierung *ermuntert* die Bürger zum Energiesparen.
+  The government encourages citizens to save energy.
 
   Les bonnes notes *incitent* Marie à travailler encore plus dur.
-  Die guten Noten *spornen* Marie dazu an, noch härter zu arbeiten.
+  Good grades motivate Marie to work even harder.
 
   Son comportement étrange m'*incite* à penser qu'il cache quelque chose.
-  Sein seltsames Verhalten *bringt* mich auf den Gedanken, dass er etwas verheimlicht.
+  His strange behavior makes me think he's hiding something.
 
   Les parents devraient *inciter* leurs enfants à la prudence sur internet.
-  Eltern sollten ihre Kinder zu vorsichtigem Verhalten im Internet *animieren*.
+  Parents should encourage their children to be cautious on the Internet.
 
   La première page de ce roman m'*incite* à continuer la lecture.
-  Die erste Seite dieses Romans *regt* mich dazu an, weiterzulesen.
+  The first page of this novel encourages me to continue reading.
 
   Ces nouvelles mesures *incitent* à l'investissement dans les énergies renouvelables.
-  Diese neuen Maßnahmen schaffen *Anreize* für Investitionen in erneuerbare Energien.
+  These new measures encourage investment in renewable energy.
 
   Son exemple positif *incite* les autres à bien faire.
-  Sein positives Beispiel *motiviert* andere dazu, es ihm gleichzutun.
+  His positive example encourages others to do good.
 
   Le professeur *incite* ses élèves à la réflexion critique.
-  Der Lehrer *regt* seine Schüler zum kritischen Denken *an*.
+  The teacher encourages his students to think critically.
 
   Cette ambiance chaleureuse *incite* à la conversation.
-  Diese warme Atmosphäre *lädt* zum Gespräch *ein*.
+  This warm atmosphere encourages conversation.
 
   Les résultats prometteurs nous *incitent* à poursuivre le projet.
-  Die vielversprechenden Ergebnisse *bewegen* uns dazu, das Projekt fortzusetzen.
+  The promising results motivate us to continue the project.
 
   Ce succès initial devrait vous *inciter* à persévérer.
-  Dieser erste Erfolg sollte Sie zum Weitermachen *ermutigen*.
+  This initial success should motivate you to persevere.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1666
 Wort: espagnol
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: espagnol
 Femininum / Plural: espagnole
 IPA: \ɛs.pa.ɲɔl\
-Definition: spanisch; Spanier
+Definition: Spanish
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous n'êtes pas *espagnole*, vous.
-  Sie sind keine *Spanierin*.
+  You're not *Spanish*.
 
   Mon ami va m'apprendre l'*espagnol* pendant les vacances.
-  Mein Freund wird mir während der Ferien *Spanisch* beibringen.
+  My friend is going to teach me *Spanish* during the holidays.
 
   Les danses *espagnoles* sont très populaires dans le monde entier.
-  *Spanische* Tänze sind weltweit sehr beliebt.
+  *Spanish* dances are very popular all over the world.
 
   "Il parle français comme une vache *espagnole*!"
-  "Er spricht ein furchtbares *Spanisch*!"
+  "He speaks French like a *Spanish* cow!"
 
   Sa grand-mère est une *Espagnole* qui vit en France depuis quarante ans.
-  Seine Großmutter ist eine *Spanierin*, die seit vierzig Jahren in Frankreich lebt.
+  His grandmother is a *Spanish* woman who has lived in France for forty years.
 
   L'*espagnol* est la deuxième langue la plus parlée au monde.
-  *Spanisch* ist die zweithäufigst gesprochene Sprache der Welt.
+  *Spanish* is the second most spoken language in the world.
 
   Le chef prépare une sauce *espagnole* pour le dîner de ce soir.
-  Der Koch bereitet eine *spanische* Sauce für das heutige Abendessen vor.
+  The chef is preparing a *Spanish* sauce for dinner tonight.
 
   Les *Espagnols* ont gagné le match de football hier soir.
-  Die *Spanier* haben gestern Abend das Fußballspiel gewonnen.
+  The *Spanish* won the football game last night.
 
   Elle porte un châle avec de la broderie *espagnole*.
-  Sie trägt einen Schal mit *spanischer* Stickerei.
+  She wears a shawl with *Spanish* embroidery.
 
   Notre université propose des cours en *espagnol* pour les débutants.
-  Unsere Universität bietet *spanisch*sprachigen Unterricht für Anfänger an.
+  Our university offers courses in *Spanish* for beginners.
 
   Le Siècle d'or *espagnol* a produit de nombreux chefs-d'œuvre.
-  Das *spanische* Goldene Zeitalter brachte viele Meisterwerke hervor.
+  The *Spanish* Golden Age produced many masterpieces.
 
   Mes connaissances en *espagnol* s'améliorent chaque jour.
-  Meine *Spanisch*kenntnisse verbessern sich jeden Tag.
+  My knowledge of *Spanish* is getting better every day.
 
   Cette auberge *espagnole* accueille des voyageurs du monde entier.
-  Diese bunte Herberge empfängt Reisende aus aller Welt.
+  This *Spanish* hostel welcomes travelers from all over the world.
 
   Le peuple *espagnol* célèbre la fête nationale en octobre.
-  Das *spanische* Volk feiert den Nationalfeiertag im Oktober.
+  The *Spanish* people celebrate the national holiday in October.
 
   La musique *espagnole* résonnait dans toute la rue.
-  Die *spanische* Musik hallte durch die ganze Straße.
+  *Spanish* music resonated all over the street.
 
   J'ai besoin d'améliorer mon *espagnol* avant mon voyage à Madrid.
-  Ich muss mein *Spanisch* vor meiner Reise nach Madrid verbessern.
+  I need to improve my *Spanish* before my trip to Madrid.
 
   L'art *espagnol* a beaucoup influencé la culture européenne.
-  Die *spanische* Kunst hat die europäische Kultur stark beeinflusst.
+  *Spanish* art has greatly influenced European culture.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

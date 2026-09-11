@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1710
 Wort: généralement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: généralement
 Femininum / Plural: ''
 IPA: \ʒe.ne.ʁal.mɑ̃\
-Definition: generell
+Definition: in general
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les conditions sont *généralement* favorables.
-  Die Bedingungen sind *im Allgemeinen* günstig.
+  Conditions are generally favourable.
 
   Cette hypothèse est *généralement* acceptée par les scientifiques.
-  Diese Hypothese wird von Wissenschaftlern *allgemein* akzeptiert.
+  This hypothesis is generally accepted by scientists.
 
   *Généralement* parlant, cette solution me semble la meilleure.
-  *Allgemein* gesprochen scheint mir diese Lösung die beste zu sein.
+  *Generally* speaking, this seems to me to be the best solution.
 
   Le petit-déjeuner est *généralement* servi entre 7h et 10h.
-  Das Frühstück wird *normalerweise* zwischen 7 und 10 Uhr serviert.
+  Breakfast is *usually* served between 7:00 and 10:00.
 
   Les chats sont *généralement* plus indépendants que les chiens.
-  Katzen sind *im Allgemeinen* unabhängiger als Hunde.
+  Cats are generally more independent than dogs.
 
   Il fait *généralement* chaud en été dans cette région.
-  In dieser Region ist es im Sommer *gewöhnlich* warm.
+  It's *usually* hot in the summer in this area.
 
   Cette pratique est *généralement* répandue dans tout le pays.
-  Diese Praxis ist im ganzen Land *allgemein* verbreitet.
+  This practice is generally widespread throughout the country.
 
   Les magasins sont *généralement* fermés le dimanche.
-  Die Geschäfte sind *normalerweise* sonntags geschlossen.
+  Shops are *usually* closed on Sundays.
 
   Ces règles sont *généralement* respectées par tous les élèves.
-  Diese Regeln werden von allen Schülern *im Allgemeinen* eingehalten.
+  These rules are generally followed by all students.
 
   La situation est *généralement* calme le soir.
-  Die Situation ist abends *normalerweise* ruhig.
+  The situation is *usually* calm at night.
 
   Le professeur arrive *généralement* à l'heure.
-  Der Lehrer kommt *gewöhnlich* pünktlich.
+  The teacher *usually* arrives on time.
 
   Les touristes sont *généralement* satisfaits de leur séjour.
-  Die Touristen sind mit ihrem Aufenthalt *im Allgemeinen* zufrieden.
+  Tourists are generally satisfied with their stay.
 
   Les résultats sont *généralement* meilleurs au printemps.
-  Die Ergebnisse sind im Frühling *üblicherweise* besser.
+  The results are *usually* better in the spring.
 
   On considère *généralement* que l'exercice est bon pour la santé.
-  Man ist *allgemein* der Ansicht, dass Bewegung gut für die Gesundheit ist.
+  Exercise is generally considered to be good for health.
 
   *Généralement*, les enfants aiment jouer dehors.
-  *Im Allgemeinen* spielen Kinder gerne draußen.
+  *Generally*, children like to play outside.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

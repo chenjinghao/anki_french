@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1692
 Wort: eh
 Wortart: intj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: eh
 Femininum / Plural: ''
 IPA: \e\
-Definition: na, nun, tja
+Definition: Well
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "*Eh bien*, j'ai changé d'avis."
-  "*Na gut*, ich habe meine Meinung geändert."
+  "Well, I changed my mind".
 
   "*Eh*, Thomas, tu as oublié ton sac !"
-  "*He*, Thomas, du hast deine Tasche vergessen!"
+  "Hey, Thomas, you forgot your bag!"
 
   "*Eh bien*, qu'est-ce qu'on fait maintenant ?"
-  "*Also*, was machen wir jetzt?"
+  "Well, what do we do now?"
 
   "*Eh oui*, c'est déjà l'heure de partir."
-  "*Tja*, es ist schon Zeit zu gehen."
+  "Well, yeah, it's time to go".
 
   "*Eh*, fais attention à la marche !"
-  "*He*, pass auf die Stufe auf!"
+  "Hey, watch your step!"
 
   "*Eh bien*, je dois avouer que je suis impressionné."
-  "*Nun ja*, ich muss zugeben, dass ich beeindruckt bin."
+  "Well, I have to admit I'm impressed".
 
   "*Eh*, Marie, vous venez avec nous ?"
-  "*He*, Marie, kommen Sie mit uns?"
+  "Hey, Marie, are you coming with us?"
 
   "*Eh bien*, si c'est comme ça, je m'en vais !"
-  "*Na gut*, wenn das so ist, gehe ich!"
+  "Well, if that's the way it is, I'm leaving!"
 
   "*Eh quoi* ! Vous partez déjà ?"
-  "*Was denn*! Sie gehen schon?"
+  "Hey, are you leaving already?"
 
   "*Eh là*, ne courez pas si vite !"
-  "*He da*, rennt nicht so schnell!"
+  "Hey, don't run that fast!"
 
   "*Eh bien*, c'est une surprise !"
-  "*Nanu*, das ist ja eine Überraschung!"
+  "Well, this is a surprise!"
 
   "*Eh*, l'ami, vous avez fait tomber votre portefeuille !"
-  "*He*, Freundchen, Sie haben Ihre Geldbörse fallen lassen!"
+  "Hey, buddy, you dropped your wallet!"
 
   "*Eh non*, ce n'est pas possible aujourd'hui."
-  "*Nein nein*, das geht heute nicht."
+  "Oh, no, that's not possible today".
 
   "*Eh bien*, soit, faisons comme tu veux."
-  "*Na schön*, machen wir es wie du willst."
+  "Well, well, let's do what you want".
 
   "*Eh* ! *Eh* ! Il y a quelque chose d'intéressant là-bas !"
-  "*Haha*! Da ist wohl etwas Interessantes!"
+  "Hey, hey, there's something interesting out there!"
 
   "*Eh bien*, qu'attendez-vous pour répondre ?"
-  "*Also*, worauf warten Sie mit Ihrer Antwort?"
+  "Well, what are you waiting for?"
 
   "*Eh*, vous là-bas, c'est une propriété privée !"
-  "*He*, Sie da drüben, das ist Privatgelände!"
+  "Hey, you there, it's private property!"
 
   "*Eh bien*, voilà qui est fait !"
-  "*So*, das wäre geschafft!"
+  "Well, that's it!"
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

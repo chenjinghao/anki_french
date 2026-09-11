@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3277
 Wort: asiatique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: asiatique
 Femininum / Plural: ''
 IPA: \a.zja.tik\
-Definition: asiatisch; Asiate
+Definition: Asian
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La russie n'est un pays ni *asiatique* ni européen.
-  Russland ist weder ein *asiatisches* noch ein europäisches Land.
+  Russia is not an *Asian* or European country.
 
   J'adore la cuisine *asiatique*, surtout les sushis et les nouilles.
-  Ich liebe *asiatisches* Essen, besonders Sushi und Nudeln.
+  I love *Asian* cuisine, especially sushi and noodles.
 
   Cette *Asiatique* a vécu en France pendant vingt ans.
-  Diese *Asiatin* hat zwanzig Jahre in Frankreich gelebt.
+  This Asian woman lived in France for twenty years.
 
   Le commerce avec les pays *asiatiques* ne cesse d'augmenter.
-  Der Handel mit *asiatischen* Ländern nimmt stetig zu.
+  Trade with *Asian countries* continues to increase.
 
   Les tigres sont des félins d'origine *asiatique*.
-  Tiger sind Raubkatzen *asiatischer* Herkunft.
+  Tigers are cats of *Asian* origin.
 
   Un *Asiatique* m'a appris à faire des rouleaux de printemps.
-  Ein *Asiate* hat mir beigebracht, wie man Frühlingsrollen macht.
+  An Asian taught me how to make spring rolls.
 
   Le continent *asiatique* est le plus grand du monde.
-  Der *asiatische* Kontinent ist der größte der Welt.
+  The continent of Asia is the largest in the world.
 
   La médecine traditionnelle *asiatique* utilise beaucoup de plantes.
-  Die traditionelle *asiatische* Medizin verwendet viele Pflanzen.
+  Traditional *Asian* medicine uses a lot of herbs.
 
   Les langues *asiatiques* sont très différentes des langues européennes.
-  Die *asiatischen* Sprachen unterscheiden sich stark von den europäischen.
+  Asian languages are very different from European languages.
 
   Plusieurs pays *asiatiques* ont connu une croissance économique rapide.
-  Mehrere *asiatische* Länder haben ein schnelles Wirtschaftswachstum erlebt.
+  Several *Asian countries* have experienced rapid economic growth.
 
   Les traditions *asiatiques* sont souvent mal comprises en Occident.
-  Die *asiatischen* Traditionen werden im Westen oft missverstanden.
+  Asian traditions are often misunderstood in the West.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 779
 Wort: particulièrement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: particulièrement
 Femininum / Plural: ''
 IPA: \paʁ.ti.ky.ljɛʁ.mɑ̃\
-Definition: besonders, vor allem
+Definition: In particular
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce sont là des problèmes *particulièrement* délicats.
-  Das sind *besonders* heikle Probleme.
+  These are particularly delicate problems.
 
   Elle a chanté *particulièrement* juste lors du concert.
-  Sie hat beim Konzert *besonders* rein gesungen.
+  She sang especially right at the concert.
 
   Je ne tiens pas *particulièrement* à sortir ce soir.
-  Ich lege keinen *besonderen* Wert darauf, heute Abend auszugehen.
+  I don't really want to go out tonight.
 
   Il aime tous les sports, et *particulièrement* le tennis.
-  Er mag alle Sportarten, und ganz *besonders* Tennis.
+  He loves all sports, especially tennis.
 
   Cette région est *particulièrement* belle en automne.
-  Diese Region ist im Herbst *besonders* schön.
+  This area is especially beautiful in the fall.
 
   Le professeur a *particulièrement* insisté sur ce chapitre.
-  Der Lehrer hat auf dieses Kapitel *besonders* viel Wert gelegt.
+  The professor emphasized this chapter *in particular*.
 
   Les conditions météorologiques sont *particulièrement* mauvaises aujourd'hui.
-  Die Wetterbedingungen sind heute *besonders* schlecht.
+  The weather is particularly bad today.
 
   Son fils a *particulièrement* bien travaillé ce semestre.
-  Ihr Sohn hat dieses Semester *besonders* gut gearbeitet.
+  His son has done particularly well this semester.
 
   J'attire *particulièrement* votre attention sur ce détail important.
-  Ich lenke Ihre Aufmerksamkeit *besonders* auf dieses wichtige Detail.
+  I would like to draw your attention to this important detail.
 
   Elle aime les animaux, *particulièrement* les chats.
-  Sie mag Tiere, *besonders* Katzen.
+  She loves animals, especially cats.
 
   Je connais *particulièrement* bien cette partie de la ville.
-  Ich kenne diesen Teil der Stadt *besonders* gut.
+  I know this part of town particularly well.
 
   Cette recette est *particulièrement* appréciée par mes invités.
-  Dieses Rezept wird von meinen Gästen *besonders* geschätzt.
+  This recipe is especially appreciated by my guests.
 
   Le matin est *particulièrement* calme dans ce quartier.
-  Der Morgen ist in diesem Viertel *besonders* ruhig.
+  The morning is particularly quiet in this neighborhood.
 
   Cette nouvelle l'a *particulièrement* réjoui.
-  Diese Nachricht hat ihn *besonders* erfreut.
+  She was especially happy to hear this news.
 
   Je vous expliquerai cela plus *particulièrement* demain.
-  Ich werde Ihnen das morgen noch *genauer* erklären.
+  I will explain this to you more specifically tomorrow.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

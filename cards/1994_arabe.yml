@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1994
 Wort: arabe
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: arabe
 Femininum / Plural: ''
 IPA: \a.ʁab\
-Definition: arabisch; Araber
+Definition: Arabic
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le monde *arabe* devient bipolaire.
-  Die *arabische* Welt wird bipolar.
+  The Arab world is becoming bipolar.
 
   L'*arabe* est une langue fascinante à apprendre.
-  *Arabisch* ist eine faszinierende Sprache zum Lernen.
+  *Arabic* is a fascinating language to learn.
 
   Elle préfère utiliser les chiffres *arabes* plutôt que romains.
-  Sie verwendet lieber *arabische* Zahlen als römische.
+  She prefers to use *Arabic* rather than Roman numerals.
 
   Les chevaux *arabes* sont connus pour leur endurance exceptionnelle.
-  *Arabische* Pferde sind für ihre außergewöhnliche Ausdauer bekannt.
+  Arabian horses are known for their exceptional endurance.
 
   La calligraphie *arabe* est un art complexe et raffiné.
-  Die *arabische* Kalligraphie ist eine komplexe und raffinierte Kunst.
+  *Arabic* calligraphy is a complex and refined art.
 
   J'étudie l'*arabe* classique à l'université.
-  Ich studiere klassisches *Arabisch* an der Universität.
+  I'm studying classical *Arabic* at the university.
 
   Cette broderie *arabe* est magnifiquement colorée.
-  Diese *arabische* Stickerei ist wunderschön bunt.
+  This Arab embroidery is beautifully colorful.
 
   L'architecture *arabe* de Grenade est impressionnante.
-  Die *arabische* Architektur in Granada ist beeindruckend.
+  The Arab architecture of Granada is impressive.
 
   La musique *arabe* traditionnelle utilise des quarts de ton.
-  Die traditionelle *arabische* Musik verwendet Vierteltöne.
+  Traditional *Arabic* music uses quarters of tone.
 
   Mon professeur d'*arabe* vient du Caire.
-  Mein *Arabisch*lehrer kommt aus Kairo.
+  My *Arabic* teacher is from Cairo.
 
   Elle parle l'*arabe* égyptien couramment.
-  Sie spricht fließend ägyptisches *Arabisch*.
+  She speaks Egyptian *Arabic* fluently.
 
   Cette dentelle *arabe* a été faite à la main.
-  Diese *arabische* Spitze wurde von Hand gefertigt.
+  This *Arabic* lace was made by hand.
 
   La philosophie *arabe* a influencé la pensée européenne.
-  Die *arabische* Philosophie hat das europäische Denken beeinflusst.
+  Arab philosophy influenced European thought.
 
   L'*arabe* littéraire diffère des dialectes parlés.
-  Das literarische *Arabisch* unterscheidet sich von den gesprochenen Dialekten.
+  Literary *Arabic* differs from spoken dialects.
 
   Les manuscrits *arabes* sont conservés dans ce musée.
-  Die *arabischen* Handschriften werden in diesem Museum aufbewahrt.
+  The *Arabic* manuscripts are kept in this museum.
 
   Il traduit des textes de l'*arabe* vers le français.
-  Er übersetzt Texte aus dem *Arabischen* ins Französische.
+  He translates texts from *Arabic* into French.
 
   La civilisation *arabe* a contribué aux mathématiques.
-  Die *arabische* Zivilisation hat zur Mathematik beigetragen.
+  The Arab civilization has contributed to mathematics.
 
   L'*arabe* dialectal varie selon les régions.
-  Das dialektale *Arabisch* variiert je nach Region.
+  Dialectical *Arabic* varies from region to region.
 
   Les contes *arabes* fascinent les enfants.
-  *Arabische* Märchen faszinieren die Kinder.
+  *Arabic* fairy tales fascinate children.
 
   Elle enseigne l'*arabe* coranique dans une école.
-  Sie unterrichtet koranisches *Arabisch* in einer Schule.
+  She teaches *Arabic* in a school.
 
   Cette poésie *arabe* date du Moyen Âge.
-  Diese *arabische* Poesie stammt aus dem Mittelalter.
+  This *Arabic* poetry dates back to the Middle Ages.
 
   Les motifs *arabes* décorent les murs du palais.
-  *Arabische* Motive schmücken die Palastwände.
+  *Arabic* patterns decorate the palace walls.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

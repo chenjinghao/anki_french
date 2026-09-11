@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2513
 Wort: océan
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un océan
 Femininum / Plural: ''
 IPA: \ɔ.se.ɑ̃\
-Definition: Ozean
+Definition: Oceans
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il repose au fond de l'*océan*.
-  Er ruht auf dem Grund des *Ozeans*.
+  It rests at the bottom of the ocean.
 
   L'*océan* Arctique est le plus petit et le moins profond des océans.
-  Der Arktische *Ozean* ist der kleinste und flachste aller Ozeane.
+  The Arctic Ocean is the smallest and deepest of the oceans.
 
   Les biologistes marins étudient la biodiversité de l'*océan* Pacifique.
-  Die Meeresbiologen erforschen die Artenvielfalt des Pazifischen *Ozeans*.
+  Marine biologists study the biodiversity of the Pacific Ocean.
 
   L'*océan* Indien influence considérablement le climat de l'Asie du Sud.
-  Der Indische *Ozean* beeinflusst das Klima Südasiens erheblich.
+  The Indian Ocean greatly influences the climate of South Asia.
 
   Les vagues de l'*océan* s'écrasent contre les falaises.
-  Die Wellen des *Ozeans* brechen sich an den Klippen.
+  The ocean waves are crashing against the cliffs.
 
   L'expédition traversera l'*océan* glacial en hiver.
-  Die Expedition wird das Polar*meer* im Winter überqueren.
+  The expedition will cross the icy ocean in the winter.
 
   Demain, nous allons nager dans l'*océan*.
-  Morgen werden wir im *Ozean* schwimmen.
+  Tomorrow we're going to swim in the ocean.
 
   La pollution des *océans* est devenue un problème mondial.
-  Die Verschmutzung der *Ozeane* ist zu einem weltweiten Problem geworden.
+  Ocean pollution has become a global problem.
 
   La température des *océans* augmente chaque année.
-  Die Temperatur der *Ozeane* steigt jedes Jahr.
+  The temperature of the *oceans* is rising every year.
 
   Un *océan* de lumières s'étendait devant nous.
-  Ein Lichter*meer* erstreckte sich vor uns.
+  There was an ocean of lights before us.
 
   La ville est entourée d'un *océan* de verdure.
-  Die Stadt ist von einem Grün*meer* umgeben.
+  The city is surrounded by an ocean of greenery.
 
   Les scientifiques explorent les profondeurs de l'*océan*.
-  Die Wissenschaftler erforschen die Tiefen des *Ozeans*.
+  Scientists are exploring the depths of the ocean.
 
   La tempête fait rage sur l'*océan*.
-  Der Sturm tobt auf dem *Ozean*.
+  The storm is raging over the ocean.
 
   Les courants de l'*océan* transportent des nutriments essentiels.
-  Die Strömungen des *Ozeans* transportieren wichtige Nährstoffe.
+  The ocean currents carry vital nutrients.
 
   Un *océan* de sable s'étendait à perte de vue.
-  Eine riesige Sand*fläche* erstreckte sich bis zum Horizont.
+  A sandy ocean was spreading out of sight.
 
   La vie est apparue dans l'*océan* il y a des millions d'années.
-  Das Leben entstand vor Millionen Jahren im *Ozean*.
+  Life appeared in the ocean millions of years ago.
 
   Les baleines migrent à travers l'*océan* Atlantique chaque année.
-  Die Wale wandern jedes Jahr durch den Atlantischen *Ozean*.
+  Whales migrate across the Atlantic Ocean every year.
 
   Les marins ont navigué sur l'*océan* pendant des mois.
-  Die Seeleute sind monatelang über den *Ozean* gesegelt.
+  The sailors sailed the ocean for months.
 
   Le plastique pollue nos *océans* de manière alarmante.
-  Plastik verschmutzt unsere *Ozeane* in alarmierendem Maße.
+  Plastic is polluting our *oceans* alarmingly.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

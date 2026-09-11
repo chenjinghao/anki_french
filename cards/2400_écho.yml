@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2400
 Wort: écho
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un écho
 Femininum / Plural: ''
 IPA: \e.ko\
-Definition: Widerhall
+Definition: Repeatedly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'entendis l'*écho* d'un souvenir détesté.
-  Ich hörte das *Echo* einer verhassten Erinnerung.
+  I heard the *echo* of a hated memory.
 
   Dans cette vallée, l'*écho* résonne pendant plusieurs secondes.
-  In diesem Tal hallt das *Echo* mehrere Sekunden lang nach.
+  In this valley, the *echo* resonates for several seconds.
 
   Les enfants s'amusaient à crier pour entendre l'*écho* dans les montagnes.
-  Die Kinder hatten Spaß daran zu rufen, um das *Echo* in den Bergen zu hören.
+  The children were having fun screaming to hear the *echo* in the mountains.
 
   Notre protestation est restée sans *écho* auprès de la direction.
-  Unser Protest fand bei der Geschäftsleitung keine *Resonanz*.
+  Our protest remained unresolved by the management.
 
   Les *échos* du journal local rapportent les événements du weekend.
-  Die *Klatschspalte* der Lokalzeitung berichtet über die Ereignisse des Wochenendes.
+  The local newspaper *echoes* the events of the weekend.
 
   Je me suis fait l'*écho* de leurs préoccupations lors de la réunion.
-  Ich habe während der Besprechung ihren Bedenken *Ausdruck* *verliehen*.
+  I echoed their concerns at the meeting.
 
   Cette grotte fait beaucoup d'*écho*.
-  In dieser Höhle *hallt* es sehr stark.
+  This cave echoes a lot.
 
   As-tu eu des *échos* de leur conversation ?
-  Hast du etwas über ihr Gespräch *gehört*?
+  Did you get any *echoes* of their conversation?
 
   Son discours a trouvé un grand *écho* dans la presse.
-  Seine Rede fand in der Presse großen *Widerhall*.
+  His speech found a big *echo* in the press.
 
   L'*écho* de ses pas résonnait dans le couloir vide.
-  Das *Echo* seiner Schritte hallte durch den leeren Flur.
+  The *echo* of his footsteps resonated in the empty hallway.
 
   Cette salle de concert produit un *écho* désagréable.
-  Dieser Konzertsaal erzeugt ein unangenehmes *Echo*.
+  This concert hall produces an unpleasant *echo*.
 
   Les *échos* de la fusillade ont réveillé tout le quartier.
-  Der *Widerhall* der Schüsse weckte das ganze Viertel auf.
+  The *echoes* of the shooting woke up the whole neighborhood.
 
   Son roman fait *écho* aux événements de son enfance.
-  Sein Roman *spiegelt* die Ereignisse seiner Kindheit *wider*.
+  Her novel echoes the events of her childhood.
 
   Il y a trop d'*écho* dans cette pièce pour enregistrer.
-  Es gibt zu viel *Hall* in diesem Raum zum Aufnehmen.
+  There's too much *echo* in this room to record.
 
   Les *échos* de la dispute ont atteint les oreilles du directeur.
-  Die *Gerüchte* über den Streit sind bis zum Direktor vorgedrungen.
+  The *echoes* of the quarrel reached the director's ears.
 
   Cette nouvelle est restée sans *écho* dans les médias.
-  Diese Nachricht blieb in den Medien ohne *Echo*.
+  This news has remained unchallenged in the media.
 
   L'*écho* du tonnerre grondait au loin.
-  Das *Echo* des Donners grollte in der Ferne.
+  The *echo* of the thunder roared in the distance.
 
   Sa musique trouve un grand *écho* auprès des jeunes.
-  Seine Musik findet bei den Jugendlichen großen *Anklang*.
+  His music resonates with young people.
 
   Les *échos* de la fête résonnaient dans toute la ville.
-  Der *Widerhall* des Festes war in der ganzen Stadt zu hören.
+  The *echoes* of the celebration echoed throughout the city.
 
   On perçoit dans ce film l'*écho* des années soixante.
-  Man spürt in diesem Film den *Nachklang* der sechziger Jahre.
+  This film echoes the '60s.
 
   L'orgue possède un clavier d'*écho* pour les sons plus doux.
-  Die Orgel besitzt ein *Echo*-Manual für sanftere Töne.
+  The organ has an *echo* keyboard for softer sounds.
 
   Cette décision a eu un fort *écho* dans l'opinion publique.
-  Diese Entscheidung hatte in der Öffentlichkeit ein starkes *Echo*.
+  This decision was widely welcomed by the public.
 
   Les *échos* de leurs rires rebondissaient sur les murs.
-  Das *Echo* ihres Lachens prallte von den Wänden zurück.
+  The *echoes* of their laughter bounced off the walls.
 
   L'*écho* radar a détecté un obstacle devant le navire.
-  Das Radar*echo* hat ein Hindernis vor dem Schiff erkannt.
+  *Echo* radar detected an obstacle in front of the ship.
 
   Sa voix portait jusqu'aux *échos* les plus lointains.
-  Seine Stimme trug bis zum entferntesten *Widerhall*.
+  Her voice reached the furthest *echoes*.
 
   La manifestation a trouvé un grand *écho* dans la population.
-  Die Demonstration fand in der Bevölkerung großen *Widerhall*.
+  The demonstration found a great *echo* in the population.
 
   Les *échos* de la guerre résonnent encore dans la mémoire collective.
-  Die *Nachwirkungen* des Krieges hallen noch im kollektiven Gedächtnis nach.
+  The *echoes* of the war still resonate in the collective memory.
 
   Cette proposition n'a trouvé aucun *écho* favorable.
-  Dieser Vorschlag fand keinerlei positive *Resonanz*.
+  This proposal has not received any favourable response.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

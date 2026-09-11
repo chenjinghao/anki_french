@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 565
 Wort: parvenir
 Wortart: v
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: parvenir
 Femininum / Plural: ''
 IPA: \paʁ.və.niʁ\
-Definition: erreichen, gelangen
+Definition: to reach
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis content d'être *parvenu* au bout.
-  Ich bin froh, ans Ende *gelangt* zu sein.
+  I'm glad I made it to the end.
 
   Les randonneurs sont *parvenus* au sommet de la montagne vers midi.
-  Die Wanderer sind gegen Mittag auf dem Gipfel *angekommen*.
+  The hikers reached the top of the mountain about noon.
 
   Cette lettre ne m'est *parvenue* qu'hier.
-  Dieser Brief hat mich erst gestern *erreicht*.
+  I didn't get this letter until yesterday.
 
   Le bruit de la rue lui *parvenait* à peine.
-  Der Straßenlärm *drang* kaum zu ihm *durch*.
+  The noise of the street barely reached him.
 
   Elle est *parvenue* à convaincre ses parents de la laisser partir.
-  Es ist ihr *gelungen*, ihre Eltern zu überzeugen, sie gehen zu lassen.
+  She managed to convince her parents to let her go.
 
   Les nouvelles sont *parvenues* aux oreilles du directeur.
-  Die Nachrichten sind dem Direktor zu Ohren *gekommen*.
+  The news reached the director's ears.
 
   Je vous prie de faire *parvenir* ce document avant vendredi.
-  Bitte lassen Sie dieses Dokument bis Freitag *zukommen*.
+  Please have this document delivered by Friday.
 
   Ma grand-mère est *parvenue* à un âge très avancé.
-  Meine Großmutter hat ein sehr hohes Alter *erreicht*.
+  My grandmother has reached a very advanced age.
 
   L'incendie est *parvenu* jusqu'au dernier étage.
-  Das Feuer ist bis in den letzten Stock *vorgedrungen*.
+  The fire has reached the top floor.
 
   Il n'est pas *parvenu* à déchiffrer son écriture.
-  Er hat es nicht *geschafft*, seine Handschrift zu entziffern.
+  He couldn't decipher his handwriting.
 
   Après des années d'efforts, elle est *parvenue* à la gloire.
-  Nach Jahren der Anstrengung ist sie zu Ruhm *gelangt*.
+  After years of hard work, she came to prominence.
 
   Les fruits sont *parvenus* à maturité.
-  Die Früchte sind zur Reife *gelangt*.
+  The fruit is ripe.
 
   Comment êtes-vous *parvenu* jusqu'ici ?
-  Wie sind Sie hierher *gelangt*?
+  How did you get this far?
 
   Sa voix me *parvenait* distinctement à travers le mur.
-  Seine Stimme *drang* deutlich durch die Wand zu mir *durch*.
+  His voice reached me distinctly through the wall.
 
   Nous sommes *parvenus* à destination sans encombre.
-  Wir sind ohne Probleme am Ziel *angekommen*.
+  We arrived safely at our destination.
 
   Elle est finalement *parvenue* à ses fins.
-  Sie hat ihr Ziel schließlich *erreicht*.
+  She's finally reached her goal.
 
   Le message ne lui est jamais *parvenu*.
-  Die Nachricht hat ihn nie *erreicht*.
+  The message never got to him.
 
   Je ne suis pas *parvenu* à le joindre au téléphone.
-  Ich habe es nicht *geschafft*, ihn telefonisch zu erreichen.
+  I haven't been able to reach him on the phone.
 
   L'odeur du pain frais *parvenait* jusqu'à ma chambre.
-  Der Duft des frischen Brotes *drang* bis in mein Zimmer.
+  The smell of fresh bread reached my room.
 
   Nous sommes *parvenus* à un accord après plusieurs heures.
-  Wir sind nach mehreren Stunden zu einer Einigung *gelangt*.
+  We reached an agreement after several hours.
 
   L'entreprise est *parvenue* à doubler son chiffre d'affaires.
-  Dem Unternehmen ist es *gelungen*, seinen Umsatz zu verdoppeln.
+  The company has managed to double its turnover.
 
   Les secours sont *parvenus* sur les lieux en dix minutes.
-  Die Rettungskräfte sind in zehn Minuten am Ort *eingetroffen*.
+  Rescue arrived on the scene in ten minutes.
 
   Il est *parvenu* à s'échapper de justesse.
-  Es ist ihm gerade noch *gelungen* zu entkommen.
+  He managed to escape justice.
 
   La rumeur est *parvenue* jusqu'à la direction.
-  Das Gerücht ist bis zur Führung *durchgedrungen*.
+  The rumor has reached the management.
 
   Cette tradition est *parvenue* jusqu'à nous.
-  Diese Tradition ist bis zu uns *überliefert*.
+  This tradition has come down to us.
 
   L'enfant est *parvenu* à l'âge adulte.
-  Das Kind ist zum Erwachsenenalter *gelangt*.
+  The child has reached adulthood.
 
   Après beaucoup d'efforts, il est *parvenu* à résoudre le problème.
-  Nach vielen Bemühungen hat er es *geschafft*, das Problem zu lösen.
+  After much effort, he was able to solve the problem.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

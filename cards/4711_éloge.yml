@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4711
 Wort: éloge
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un éloge
 Femininum / Plural: ''
 IPA: \e.lɔʒ\
-Definition: Lob
+Definition: Praise
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ferai votre *éloge*.
-  Ich werde Sie *loben*.
+  I'll give you your *praise*.
 
   Son discours était un *éloge* funèbre émouvant pour sa grand-mère.
-  Seine Trauer*rede* für seine Großmutter war bewegend.
+  His speech was a moving funeral tribute to his grandmother.
 
   Le professeur ne tarit pas d'*éloges* sur le travail de Marie.
-  Der Professor ist des *Lobes* voll über Maries Arbeit.
+  The teacher was not tired of praising Marie's work.
 
   Pendant la cérémonie, le maire a fait l'*éloge* du courage des pompiers.
-  Während der Zeremonie hielt der Bürgermeister eine Lob*rede* auf den Mut der Feuerwehrleute.
+  During the ceremony, the mayor praised the courage of the firefighters.
 
   Elle a prononcé un *éloge* magnifique lors de la remise des prix.
-  Sie hielt eine wunderbare Lob*rede* bei der Preisverleihung.
+  She gave a beautiful commendation at the awards ceremony.
 
   Les critiques ont couvert ce film d'*éloges*.
-  Die Kritiker haben diesen Film mit *Lob* überhäuft.
+  Critics praised the film.
 
   Thomas parle toujours avec *éloge* de son ancien professeur.
-  Thomas äußert sich immer *lobend* über seinen ehemaligen Lehrer.
+  Thomas always speaks highly of his former teacher.
 
   Le nouvel académicien a prononcé l'*éloge* de son prédécesseur hier soir.
-  Der neue Akademiker hielt gestern Abend die Lob*rede* auf seinen Vorgänger.
+  The new academic praised his predecessor last night.
 
   Cette action est digne d'*éloge*.
-  Diese Tat ist *lobens*wert.
+  This action is commendable.
 
   L'*éloge* de la patience est un exercice de rhétorique classique.
-  Das *Lob* der Geduld ist eine klassische rhetorische Übung.
+  The *praise* of patience is a classic rhetorical exercise.
 
   C'est *tout à son éloge* d'avoir aidé ces personnes en difficulté.
-  Es *spricht für sie*, dass sie diesen Menschen in Not geholfen hat.
+  She is very commended for helping these people in need.
 
   Un concert d'*éloges* a suivi sa performance exceptionnelle.
-  Nach ihrer außergewöhnlichen Leistung gab es einen Chor des *Lobes*.
+  A concert of *praise* followed his outstanding performance.
 
   Les journaux ont adressé de vifs *éloges* à cette jeune artiste.
-  Die Zeitungen haben dieser jungen Künstlerin großes *Lob* ausgesprochen.
+  Newspapers have highly praised this young artist.
 
   Sa générosité est au-dessus de tout *éloge*.
-  Ihre Großzügigkeit ist über alles *Lob* erhaben.
+  His generosity is beyond *praise*.
 
   L'*éloge* de la lenteur devient de plus en plus populaire dans notre société stressée.
-  Das *Lob* der Langsamkeit wird in unserer gestressten Gesellschaft immer beliebter.
+  The *praise* of slowness is becoming increasingly popular in our stressful society.
 
   Le jury a décerné des *éloges* particuliers à ce candidat.
-  Die Jury sprach diesem Kandidaten besonderes *Lob* aus.
+  The jury gave special *praise* to this candidate.
 
   J'ai lu plusieurs *éloges* très touchants dans le livre d'or.
-  Ich habe mehrere sehr bewegende *Lobes*worte im Gästebuch gelesen.
+  I've read several very touching commendations in the golden book.
 
   Pierre rédige l'*éloge* pour la cérémonie de demain.
-  Pierre verfasst die Lob*rede* für die morgige Zeremonie.
+  Pierre's writing the tribute for tomorrow's ceremony.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

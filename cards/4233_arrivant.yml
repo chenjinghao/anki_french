@@ -1,61 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4233
 Wort: arrivant
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: arrivant
 Femininum / Plural: arrivante
 IPA: \a.ʁi.vɑ̃\
-Definition: |2-
-
-
-  Ankömmling
+Definition: newcomer; arrival
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a un nouvel *arrivant* dans le jeu.
-  Es gibt einen neuen *Spieler* in dem Spiel.
+  There's a newcomer in the game.
 
   Les *arrivants* doivent s'inscrire à l'accueil avant de monter dans leurs chambres.
-  Die *Ankömmlinge* müssen sich an der Rezeption anmelden, bevor sie auf ihre Zimmer gehen.
+  *Arrivals* must register at the reception before entering their rooms.
 
   La nouvelle *arrivante* cherchait encore son chemin dans les couloirs de l'école.
-  Die neue *Schülerin* suchte noch ihren Weg durch die Schulflure.
+  The new arrival was still looking for her way through the school hallways.
 
   Les premiers *arrivants* ont déjà pris les meilleures places au concert.
-  Die ersten *Ankömmlinge* haben sich bereits die besten Plätze beim Konzert gesichert.
+  The first *arrivals* have already taken the best seats at the concert.
 
   Comment accueillez-vous les nouveaux *arrivants* dans votre entreprise ?
-  Wie empfangen Sie neue *Mitarbeiter* in Ihrem Unternehmen?
+  How do you welcome newcomers to your company?
 
   Chaque *arrivant* reçoit un petit cadeau de bienvenue.
-  Jeder *Neuankömmling* erhält ein kleines Willkommensgeschenk.
+  Each arrival receives a small welcome gift.
 
   Les derniers *arrivants* devront attendre qu'une table se libère.
-  Die letzten *Gäste* werden warten müssen, bis ein Tisch frei wird.
+  The last *arrivals* will have to wait for a table to open.
 
   Notre nouvelle *arrivante* vient d'Espagne et ne parle pas encore français.
-  Unsere neue *Mitbewohnerin* kommt aus Spanien und spricht noch kein Französisch.
+  Our new arrival is from Spain and doesn't speak French yet.
 
   Les *arrivants* d'hier soir se sont déjà bien intégrés dans le groupe.
-  Die gestrigen *Neuankömmlinge* haben sich bereits gut in die Gruppe eingefügt.
+  The *arrivals* from last night have already integrated well into the group.
 
   En tant que première *arrivante*, elle a pu choisir son bureau.
-  Als erste *Angekommene* konnte sie sich ihr Büro aussuchen.
+  As the first to arrive, she was able to choose her own office.
 
   Les nouveaux *arrivants* seront accueillis par le directeur en personne.
-  Die neuen *Mitarbeiter* werden vom Direktor persönlich empfangen.
+  The new *arrivals* will be welcomed by the director himself.
 
   Le flot d'*arrivants* ne cesse d'augmenter depuis ce matin.
-  Der Strom der *Ankömmlinge* nimmt seit heute Morgen stetig zu.
+  The flow of *arrivals* has been steadily increasing since this morning.
 
   Nous devons préparer des dossiers pour tous les *arrivants* de demain.
-  Wir müssen für alle morgigen *Neuankömmlinge* Unterlagen vorbereiten.
+  We need to prepare records for all *arrivals* tomorrow.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4382
 Wort: miser
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: miser
 Femininum / Plural: ''
 IPA: \mi.ze\
-Definition: setzen, wetten
+Definition: betting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Si vous allez *miser* pour moi... alors on sera quittes.
-  Wenn Sie für mich *setzen*... dann sind wir quitt.
+  If you're gonna bet on me... then we're out of here.
 
   "Je vais *miser* gros sur ce nouveau projet."
-  "Ich werde bei diesem neuen Projekt hoch *pokern*."
+  "I'm going to bet big on this new project".
 
   La banque a décidé de *miser* sur les énergies renouvelables.
-  Die Bank hat beschlossen, auf erneuerbare Energien zu *setzen*.
+  The bank has decided to invest in renewable energy.
 
   Elle a *misé* cent euros sur le cheval numéro sept.
-  Sie hat hundert Euro auf Pferd Nummer sieben *gesetzt*.
+  She bet a hundred euros on horse number seven.
 
   Notre entreprise *mise* sur l'innovation pour rester compétitive.
-  Unser Unternehmen *setzt* auf Innovation, um wettbewerbsfähig zu bleiben.
+  Our company relies on innovation to stay competitive.
 
   Pierre a *misé* sur le mauvais cheval en soutenant ce candidat.
-  Pierre hat aufs falsche Pferd *gesetzt*, als er diesen Kandidaten unterstützte.
+  Pierre bet on the wrong horse to support this candidate.
 
   Les investisseurs *misent* sur la croissance du marché asiatique.
-  Die Investoren *setzen* auf das Wachstum des asiatischen Marktes.
+  Investors are *betting* on the growth of the Asian market.
 
   Il faut *miser* sur la jeunesse pour construire l'avenir.
-  Man muss auf die Jugend *setzen*, um die Zukunft zu gestalten.
+  You have to bet on the youth to build the future.
 
   Thomas a *misé* huit contre un sur cette course.
-  Thomas hat bei diesem Rennen acht zu eins *gewettet*.
+  Thomas bet eight against one on this race.
 
   L'équipe *mise* sur la vitesse de ses attaquants.
-  Das Team *setzt* auf die Schnelligkeit seiner Stürmer.
+  The team is focused on the speed of their attackers.
 
   Elle *mise* toujours sur le rouge à la roulette.
-  Sie *setzt* beim Roulette immer auf Rot.
+  She always bets on red at roulette.
 
   Le gouvernement *mise* sur l'éducation pour réduire le chômage.
-  Die Regierung *setzt* auf Bildung, um die Arbeitslosigkeit zu reduzieren.
+  The government is focusing on education to reduce unemployment.
 
   Nous avons *misé* sur la qualité plutôt que sur la quantité.
-  Wir haben auf Qualität statt auf Quantität *gesetzt*.
+  We've focused on quality rather than quantity.
 
   Il *mise* sur les deux tableaux pour maximiser ses chances.
-  Er *setzt* auf beiden Seiten, um seine Chancen zu maximieren.
+  He's betting on both tables to maximize his chances.
 
   Les scientifiques *misent* sur cette découverte pour guérir la maladie.
-  Die Wissenschaftler *setzen* auf diese Entdeckung, um die Krankheit zu heilen.
+  Scientists rely on this discovery to cure the disease.
 
   Tu as *misé* combien sur ce match ?
-  Wie viel hast du auf dieses Spiel *gesetzt*?
+  How much did you bet on this game?
 
   L'artiste *mise* sur son talent pour réussir.
-  Der Künstler *setzt* auf sein Talent, um Erfolg zu haben.
+  The artist puts his talent at stake to succeed.
 
   Marie *misait* sur la lassitude de ses adversaires.
-  Marie *setzte* auf die Ermüdung ihrer Gegner.
+  Marie relied on the fatigue of her opponents.
 
   Ils ont *misé* sur la technologie dès le début.
-  Sie haben von Anfang an auf die Technologie *gesetzt*.
+  They've relied on technology from the beginning.
 
   Notre stratégie est de *miser* sur le long terme.
-  Unsere Strategie ist es, auf langfristigen Erfolg zu *setzen*.
+  Our strategy is to bet on the long term.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

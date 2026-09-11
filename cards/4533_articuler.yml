@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4533
 Wort: articuler
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: articuler
 Femininum / Plural: ''
 IPA: \aʁ.ti.ky.le\
-Definition: artikulieren; verbunden sein
+Definition: articulate; be connected
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il parlait lentement et *articulait* avec soin.
-  Er sprach langsam und *artikulierte* sorgfältig.
+  He spoke slowly and *articulated* carefully.
 
   Le professeur demande aux élèves de bien *articuler* pendant la lecture.
-  Der Lehrer bittet die Schüler, beim Lesen deutlich zu *artikulieren*.
+  The teacher asks the students to *articulate* well during the reading.
 
   L'enfant ne pouvait pas *articuler* un seul mot tellement il était ému.
-  Das Kind war so aufgeregt, dass es kein einziges Wort *hervorbringen* konnte.
+  The child could not *articulate* a single word so moved.
 
   La mâchoire inférieure s'*articule* avec le crâne.
-  Der Unterkiefer ist durch ein Gelenk mit dem Schädel *verbunden*.
+  The lower jaw joins with the skull.
 
   Cette thèse s'*articule* autour de trois idées principales.
-  Diese These ist um drei Hauptideen herum *aufgebaut*.
+  This thesis revolves around three main ideas.
 
   Les différents chapitres de ce roman s'*articulent* parfaitement.
-  Die verschiedenen Kapitel dieses Romans sind gut *gegliedert*.
+  The various chapters of this novel are perfectly articulated.
 
   Sa gorge était si serrée qu'elle ne pouvait plus rien *articuler*.
-  Ihre Kehle war so zugeschnürt, dass sie kein Wort mehr *herausbringen* konnte.
+  Her throat was so tight that she couldn't *articulate* anything.
 
   "*Articule* mieux, je ne comprends rien à ce que tu dis !"
-  "*Sprich* deutlicher, ich verstehe nichts von dem, was du sagst!"
+  "I don't understand what you're saying!"
 
   Les phalanges s'*articulent* entre elles pour permettre les mouvements des doigts.
-  Die Fingerglieder sind untereinander *verbunden*, um die Bewegungen der Finger zu ermöglichen.
+  The phalanges *articulate* with each other to allow the movement of the fingers.
 
   Son argumentation s'*articule* logiquement.
-  Seine Argumentation ist logisch *gegliedert*.
+  His argument is logical.
 
   L'avocat a soigneusement *articulé* ses griefs devant le tribunal.
-  Der Anwalt hat seine Beschwerdepunkte vor Gericht sorgfältig *vorgebracht*.
+  The lawyer carefully *articulated* his grievances before the court.
 
   Les vertèbres s'*articulent* les unes avec les autres.
-  Die Wirbel sind miteinander *verbunden*.
+  The vertebrae *articulate* with each other.
 
   Le petit robot *articulé* peut bouger dans toutes les directions.
-  Der *bewegliche* kleine Roboter kann sich in alle Richtungen bewegen.
+  The little jointed robot can move in any direction.
 
   Les idées s'*articulent* naturellement dans son discours.
-  Die Ideen sind in seiner Rede natürlich *gegliedert*.
+  The ideas are naturally articulated in his speech.
 
   L'orthophoniste l'aide à mieux *articuler* les consonnes.
-  Die Logopädin hilft ihm, die Konsonanten besser zu *artikulieren*.
+  The speech-language pathologist helps her *articulate* consonants better.
 
   Les segments du corps de l'insecte s'*articulent* de façon complexe.
-  Die Körpersegmente des Insekts sind auf komplexe Weise *verbunden*.
+  The insect's body segments have complex joints.
 
   Le bus *articulé* permet de transporter plus de passagers.
-  Der *Gelenk*bus ermöglicht es, mehr Passagiere zu transportieren.
+  The *articulated* bus can carry more passengers.
 
   Elle n'arrivait même plus à *articuler* son prénom.
-  Sie konnte nicht einmal mehr ihren Vornamen *aussprechen*.
+  She couldn't even say her first name.
 
   La discussion s'*articule* autour du thème principal.
-  Die Diskussion ist um das Hauptthema herum *aufgebaut*.
+  The discussion revolves around the main theme.
 
   Le coude s'*articule* de manière à permettre la flexion et l'extension.
-  Der Ellbogen ist so *verbunden*, dass Beugung und Streckung möglich sind.
+  The elbow is articulated in such a way as to allow it to bend and extend.
 
   Les parties de sa présentation s'*articulent* bien entre elles.
-  Die Teile seiner Präsentation sind gut miteinander *verbunden*.
+  The parts of his presentation fit well together.
 
   Sous l'effet de la peur, il ne put *articuler* aucun son.
-  Vor Angst konnte er keinen Ton *hervorbringen*.
+  Under the influence of fear, he could not *articulate* any sound.
 
   Le mécanisme *articulé* permet des mouvements précis.
-  Der *bewegliche* Mechanismus ermöglicht präzise Bewegungen.
+  The joint mechanism allows for precise movements.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

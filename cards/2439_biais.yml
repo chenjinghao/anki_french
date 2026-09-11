@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2439
 Wort: biais
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le biais
 Femininum / Plural: ''
 IPA: \bjɛ\
-Definition: Schräge, Umweg, Verzerrung
+Definition: Curve, circumference, distortion
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le mur a été construit *de biais* par rapport à la route.
-  Die Mauer wurde *schräg* zur Straße gebaut.
+  The wall was built biased against the road.
 
   Nous devons attaquer ce problème par le *biais* de la législation.
-  Wir müssen dieses Problem auf dem *Umweg* über die Gesetzgebung angehen.
+  We must tackle this problem through legislation.
 
   Elle a trouvé un *biais* pour éviter cette tâche désagréable.
-  Sie hat einen *Ausweg* gefunden, um diese unangenehme Aufgabe zu vermeiden.
+  She found a way to avoid this unpleasant task.
 
   La couturière a coupé le tissu en *biais* pour créer un effet élégant.
-  Die Schneiderin hat den Stoff *diagonal* geschnitten, um einen eleganten Effekt zu erzielen.
+  The seamstress cut the fabric in a bias to create an elegant effect.
 
   Les chercheurs ont identifié plusieurs *biais* cognitifs dans leur étude.
-  Die Forscher haben in ihrer Studie mehrere kognitive *Verzerrungen* identifiziert.
+  The researchers identified several cognitive biases in their study.
 
   Il m'a regardé *de biais* pendant toute la conversation.
-  Er hat mich während des ganzen Gesprächs *von der Seite* angeschaut.
+  He looked at me with a bias throughout the conversation.
 
   J'ai dû traverser la place *en biais* pour gagner du temps.
-  Ich musste den Platz *diagonal* überqueren, um Zeit zu sparen.
+  I had to cross the square in a bias to save time.
 
   La porte est installée *de biais*, il faudra la redresser.
-  Die Tür ist *schief* eingebaut, sie muss begradigt werden.
+  The door is biased, so we'll have to straighten it out.
 
   On peut aborder cette question sous différents *biais*.
-  Man kann diese Frage von verschiedenen *Blickwinkeln* aus betrachten.
+  We can approach this question in different ways.
 
   Les *biais* statistiques peuvent influencer les résultats de l'enquête.
-  Statistische *Verzerrungen* können die Umfrageergebnisse beeinflussen.
+  Statistical biases can influence survey results.
 
   Cette étude présente un *biais* méthodologique important.
-  Diese Studie weist eine bedeutende methodische *Verzerrung* auf.
+  This study presents an important methodological bias.
 
   Marie a bordé l'encolure avec un *biais* en soie.
-  Marie hat den Ausschnitt mit einem seidenen *Schrägband* eingefasst.
+  Marie embroidered the necklace with a silk bias.
 
   Il faut trouver un *biais* pour lui annoncer la nouvelle.
-  Wir müssen einen geschickten *Weg* finden, ihm die Neuigkeit mitzuteilen.
+  We have to find a way to tell her the news.
 
   Les fenêtres *de biais* laissent entrer plus de lumière.
-  Die *schrägen* Fenster lassen mehr Licht herein.
+  The biased windows let more light in.
 
   Le pont a été construit *en biais* par rapport à la rivière.
-  Die Brücke wurde *schräg* zum Fluss gebaut.
+  The bridge was built in a bias against the river.
 
   Elle a cherché un *biais* pour aborder le sujet délicat.
-  Sie suchte nach einem *Umweg*, um das heikle Thema anzusprechen.
+  She sought a bias to address the delicate subject.
 
   Les architectes ont dû composer avec le *biais* du terrain.
-  Die Architekten mussten mit der *Schräge* des Geländes arbeiten.
+  The architects had to deal with the terrain bias.
 
   Ce *biais* culturel influence notre perception des événements.
-  Diese kulturelle *Voreingenommenheit* beeinflusst unsere Wahrnehmung der Ereignisse.
+  This cultural bias influences our perception of events.
 
   La jupe a été coupée *en biais* pour lui donner plus de mouvement.
-  Der Rock wurde *diagonal* geschnitten, um ihm mehr Bewegung zu verleihen.
+  The skirt was partially cut to give it more movement.
 
   Il faut tenir compte des *biais* possibles dans l'interprétation des données.
-  Man muss die möglichen *Verzerrungen* bei der Interpretation der Daten berücksichtigen.
+  Possible biases in the interpretation of data must be taken into account.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

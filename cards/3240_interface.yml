@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3240
 Wort: interface
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une interface
 Femininum / Plural: ''
 IPA: \ɛ̃.tɛʁ.fas\
-Definition: Schnittstelle
+Definition: Interface
 Register: ↘Fiktion ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Trois éléments d'*interface* sont définis pour le flux d'information.
-  Drei *Schnittstellen*-Elemente sind für den Informationsfluss definiert.
+  Three *interface* elements are defined for the information flow.
 
   Cette *interface* utilisateur est très intuitive et facile à utiliser.
-  Diese Benutzer*oberfläche* ist sehr intuitiv und einfach zu bedienen.
+  This user *interface* is very intuitive and easy to use.
 
   Le technicien a installé une nouvelle *interface* série sur mon ordinateur.
-  Der Techniker hat eine neue serielle *Schnittstelle* an meinem Computer installiert.
+  The technician installed a new serial *interface* on my computer.
 
   L'*interface* graphique du nouveau système d'exploitation est magnifique.
-  Die grafische Benutzer*oberfläche* des neuen Betriebssystems ist wunderschön.
+  The graphical *interface* of the new operating system is beautiful.
 
   Les chercheurs étudient l'*interface* entre l'eau et l'huile.
-  Die Forscher untersuchen die *Grenzfläche* zwischen Wasser und Öl.
+  Researchers are studying the *interface* between water and oil.
 
   Marie fait l'*interface* entre l'équipe technique et les clients.
-  Marie fungiert als *Vermittlerin* zwischen dem technischen Team und den Kunden.
+  Marie is the *interface* between the technical team and the customers.
 
   L'*interface* API permet aux développeurs d'accéder aux fonctionnalités du système.
-  Die API-*Schnittstelle* ermöglicht Entwicklern den Zugriff auf die Systemfunktionen.
+  The API *interface* allows developers to access the functionality of the system.
 
   Cette *interface* matérielle est compatible avec tous nos appareils.
-  Diese Hardware-*Schnittstelle* ist mit allen unseren Geräten kompatibel.
+  This hardware *interface* is compatible with all our devices.
 
   L'*interface* parallèle de l'imprimante ne fonctionne plus.
-  Die Parallel*schnittstelle* des Druckers funktioniert nicht mehr.
+  The parallel *interface* of the printer no longer works.
 
   Les scientifiques analysent l'*interface* entre la glace et l'eau liquide.
-  Die Wissenschaftler analysieren die *Grenzfläche* zwischen Eis und flüssigem Wasser.
+  Scientists are analyzing the *interface* between ice and liquid water.
 
   Notre équipe développe une nouvelle *interface* utilisateur pour l'application mobile.
-  Unser Team entwickelt eine neue Benutzer*oberfläche* für die mobile Anwendung.
+  Our team is developing a new user *interface* for the mobile app.
 
   Sophie assure l'*interface* avec nos partenaires internationaux.
-  Sophie ist die *Kontaktperson* zu unseren internationalen Partnern.
+  Sophie provides the *interface* with our international partners.
 
   L'*interface* ordinateur-imprimante doit être reconfigurée.
-  Die Drucker*schnittstelle* muss neu konfiguriert werden.
+  The computer-printer *interface* needs to be reconfigured.
 
   Les physiciens observent l'*interface* entre les deux phases du matériau.
-  Die Physiker beobachten die *Grenzfläche* zwischen den beiden Materialphasen.
+  Physicists observe the *interface* between the two phases of the material.
 
   Cette *interface* graphique facilite l'accès aux fonctionnalités avancées.
-  Diese grafische *Oberfläche* erleichtert den Zugang zu erweiterten Funktionen.
+  This graphical *interface* facilitates access to advanced features.
 
   L'*interface* entre les deux systèmes permet un échange de données rapide.
-  Die *Schnittstelle* zwischen den beiden Systemen ermöglicht einen schnellen Datenaustausch.
+  The *interface* between the two systems enables rapid data exchange.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

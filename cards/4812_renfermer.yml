@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4812
 Wort: renfermer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: renfermer
 Femininum / Plural: ''
 IPA: \ʁɑ̃.fɛʁ.me\
-Definition: einschließen, verschließen
+Definition: to close
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un homme *renfermé* et primitif, mais profondément loyal.
-  Er ist ein *verschlossener* und primitiver, aber zutiefst loyaler Mensch.
+  He's a private, primitive man, but deeply loyal.
 
   Cette cave *renferme* les meilleurs vins de la région.
-  Dieser Keller *enthält* die besten Weine der Region.
+  This cellar contains the best wines in the area.
 
   Le coffre-fort *renfermait* des documents confidentiels.
-  Der Safe *enthielt* vertrauliche Dokumente.
+  The safe contained confidential documents.
 
   Depuis la mort de son chat, elle s'est complètement *renfermée* sur elle-même.
-  Seit dem Tod ihrer Katze hat sie sich völlig in sich selbst *zurückgezogen*.
+  Ever since her cat died, she's completely locked herself in.
 
   Cette boîte mystérieuse *renferme* un trésor inestimable.
-  Diese geheimnisvolle Box *enthält* einen unschätzbaren Schatz.
+  This mysterious box contains an invaluable treasure.
 
   Le musée national *renferme* des œuvres d'art exceptionnelles.
-  Das Nationalmuseum *enthält* außergewöhnliche Kunstwerke.
+  The National Museum contains exceptional works of art.
 
   Cette montagne *renferme* d'importantes ressources minérales.
-  Dieser Berg *enthält* wichtige Mineralvorkommen.
+  This mountain is rich in mineral resources.
 
   Son poème *renferme* un message d'espoir.
-  Sein Gedicht *enthält* eine Botschaft der Hoffnung.
+  Her poem contains a message of hope.
 
   Le gardien a dû *renfermer* le lion qui s'était échappé.
-  Der Wärter musste den entlaufenen Löwen wieder *einsperren*.
+  The guard must have locked up the lion that escaped.
 
   Plus elle vieillit, plus elle se *renferme* dans sa solitude.
-  Je älter sie wird, desto mehr *zieht* sie sich in ihre Einsamkeit *zurück*.
+  The older she gets, the more lonely she gets.
 
   Ce texte ancien *renferme* de nombreux secrets.
-  Dieser alte Text *birgt* viele Geheimnisse.
+  This ancient text contains many secrets.
 
   La discussion s'est *renfermée* dans des limites trop étroites.
-  Die Diskussion wurde in zu enge Grenzen *eingeschlossen*.
+  The discussion was *confined* to too narrow a boundary.
 
   Marie *renferme* sa tristesse depuis des années.
-  Marie *verschließt* ihre Traurigkeit seit Jahren in sich.
+  Marie has held back her grief for years.
 
   Le garçon s'est *renfermé* dans un mutisme inquiétant.
-  Der Junge hat sich in ein beunruhigendes Schweigen *zurückgezogen*.
+  The boy locked himself in a disturbing mute.
 
   Cette région *renferme* des espèces rares d'oiseaux.
-  Diese Region *beherbergt* seltene Vogelarten.
+  This area is home to rare species of birds.
 
   Il *renfermait* toujours ses émotions, incapable de les exprimer.
-  Er *verschloss* seine Gefühle stets in sich, unfähig sie auszudrücken.
+  He kept his emotions to himself, unable to express them.
 
   La bibliothèque *renferme* plus de dix mille volumes.
-  Die Bibliothek *enthält* mehr als zehntausend Bände.
+  The library contains more than ten thousand volumes.
 
   Après le divorce, il s'est complètement *renfermé* en lui-même.
-  Nach der Scheidung hat er sich vollständig in sich selbst *zurückgezogen*.
+  After the divorce, he completely shut himself in.
 
   Cette phrase simple *renferme* une vérité profonde.
-  Dieser einfache Satz *enthält* eine tiefe Wahrheit.
+  This simple phrase contains a profound truth.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

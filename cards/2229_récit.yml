@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2229
 Wort: récit
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le récit
 Femininum / Plural: ''
 IPA: \ʁe.si\
-Definition: Erzählung, Bericht
+Definition: Reporting and reporting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le soir, j'écoutais les *récits* de Robert.
-  Abends hörte ich Roberts *Erzählungen* zu.
+  In the evenings, I listened to Robert's *stories*.
 
   Son *récit* d'aventures a captivé tout l'auditoire.
-  Seine Abenteuer*erzählung* hat das ganze Publikum gefesselt.
+  His story of adventure captivated the whole audience.
 
   Le journaliste a fait un *récit* détaillé des événements.
-  Der Journalist hat einen detaillierten *Bericht* über die Ereignisse gegeben.
+  The reporter gave a detailed account of the events.
 
   Elle a publié un *récit* de voyage fascinant sur son séjour en Asie.
-  Sie hat einen faszinierenden Reise*bericht* über ihren Aufenthalt in Asien veröffentlicht.
+  She published a fascinating travel account of her time in Asia.
 
   Le professeur nous a demandé d'écrire un court *récit* autobiographique.
-  Der Lehrer hat uns gebeten, eine kurze autobiografische *Erzählung* zu schreiben.
+  The professor asked us to write a short autobiographical account.
 
   Les enfants adorent écouter les *récits* fantastiques de leur grand-père.
-  Die Kinder lieben es, den fantastischen *Erzählungen* ihres Großvaters zuzuhören.
+  Kids love to listen to their grandfather's fantastic *stories*.
 
   Le *récit* historique de cette bataille est controversé.
-  Der historische *Bericht* über diese Schlacht ist umstritten.
+  The historical account of this battle is controversial.
 
   J'ai été ému par son *récit* poignant de survie.
-  Ich war von seiner ergreifenden Überlebens*erzählung* bewegt.
+  I was moved by her poignant story of survival.
 
   Le témoin a fait un *récit* circonstancié de l'accident.
-  Der Zeuge hat einen ausführlichen *Bericht* über den Unfall gegeben.
+  The witness gave a detailed account of the accident.
 
   Dans cette pièce de théâtre, le *récit* final révèle le dénouement.
-  In diesem Theaterstück enthüllt der abschließende Boten*bericht* die Auflösung.
+  In this play, the final account reveals the outcome.
 
   Son *récit* oral était beaucoup plus vivant que la version écrite.
-  Seine mündliche *Erzählung* war viel lebendiger als die schriftliche Version.
+  His oral account was much more vivid than the written version.
 
   Le jury a été convaincu par le *récit* cohérent du plaignant.
-  Die Jury wurde von der zusammenhängenden *Darstellung* des Klägers überzeugt.
+  The jury was convinced by the complainant's consistent narrative.
 
   Les médias ont donné des *récits* contradictoires de l'incident.
-  Die Medien haben widersprüchliche *Berichte* über den Vorfall geliefert.
+  The media reported conflicting accounts of the incident.
 
   Ce roman est un *récit* à la première personne d'une quête spirituelle.
-  Dieser Roman ist eine *Erzählung* in der ersten Person über eine spirituelle Suche.
+  This novel is a first-person account of a spiritual quest.
 
   L'exposition présente des *récits* de vie de migrants.
-  Die Ausstellung präsentiert Lebens*geschichten* von Migranten.
+  The exhibition presents the life *stories* of migrants.
 
   Le *récit* de ses exploits sportifs a inspiré de nombreux jeunes.
-  Der *Bericht* über seine sportlichen Leistungen hat viele junge Menschen inspiriert.
+  *The story* of his athletic achievements has inspired many young people.
 
   Dans ce film, le *récit* se déroule sur plusieurs décennies.
-  In diesem Film erstreckt sich die *Erzählung* über mehrere Jahrzehnte.
+  In this film, *the story* takes place over several decades.
 
   Les *récits* mythologiques ont souvent une signification symbolique.
-  Mythologische *Erzählungen* haben oft eine symbolische Bedeutung.
+  Mythological accounts often have symbolic meanings.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>histoire</i> und <i>récit</i></div>
+    <div class="section-title"><i>histoire</i> and <i>récit</i></div>
     <div class="section-content">
-      <p><span class="fr">Histoire</span> (#263) wird verwendet für verschiedene Arten von Geschichten, einschließlich historischer Ereignisse, Mythen, persönlicher Berichte oder fiktiver Erzählungen. Es kann auch spezifisch „Geschichte“ im Sinne der akademischen Disziplin oder tatsächlicher vergangener Ereignisse bedeuten.</p>
+      <p><span class="fr">Histoire</span> (#263) is used for various types of stories, including historical events, myths, personal accounts or fictional narratives.</p>
       <div class="examples">
         <div class="fr">L'histoire de la Révolution française est fascinante.</div>
-        <div class="de spoiler">Die Geschichte der Französischen Revolution ist faszinierend.</div>
+        <div class="de spoiler">The history of the French Revolution is fascinating.</div>
         <div class="fr">Mon grand-père aime raconter des histoires de sa jeunesse.</div>
-        <div class="de spoiler">Mein Großvater erzählt gerne Geschichten aus seiner Jugend.</div>
+        <div class="de spoiler">My grandfather likes to tell stories from his youth.</div>
       </div>
-      <p><span class="fr">Récit</span> bezeichnet eine Erzählung oder einen Bericht von Ereignissen und betont den Akt des Erzählens oder Berichtens. Es kann fiktiv oder nicht-fiktiv sein und bietet oft mehr Details über Situationen oder Handlungen.</p>
+      <p><span class="fr">Récit</span> is a narrative or account of events and emphasizes the act of telling or reporting. It can be fictional or non-fictional and often provides more detail about situations or actions.</p>
       <div class="examples">
         <div class="fr">Le récit de son voyage en Asie était captivant et plein de détails.</div>
-        <div class="de spoiler">Der Bericht über seine Reise durch Asien war fesselnd und voller Details.</div>
+        <div class="de spoiler">The account of his trip through Asia was captivating and full of details.</div>
         <div class="fr">Le témoignage qu'elle a donné au procès constituait un récit poignant et sincère des événements.</div>
-        <div class="de spoiler">Ihre Aussage vor Gericht war eine ergreifende und aufrichtige Schilderung der Ereignisse.</div>
+        <div class="de spoiler">Her testimony in court was a gripping and truthful account of the events.</div>
       </div>
     </div>
   </div>

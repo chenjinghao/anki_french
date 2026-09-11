@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3971
 Wort: confrère
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le confrère
 Femininum / Plural: consœur
 IPA: \kɔ̃.fʁɛʁ\
-Definition: (Berufs-)kollege
+Definition: (Professional) colleague
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mes *confrères* de classe ont bénéficié de ces bourses.
-  Meine Klassen*kollegen* haben diese Stipendien erhalten.
+  My classmates have benefited from these scholarships.
 
   J'ai recommandé à mon patient de consulter un *confrère* spécialiste.
-  Ich habe meinem Patienten empfohlen, einen Fach*kollegen* aufzusuchen.
+  I recommended that my patient consult a fellow specialist.
 
   Les *confrères* de l'Académie ont voté à l'unanimité pour son admission.
-  Die *Kollegen* der Akademie haben einstimmig für seine Aufnahme gestimmt.
+  The members of the Academy voted unanimously for his admission.
 
   Mon *confrère* en poésie m'a donné des conseils précieux sur mes vers.
-  Mein Dichter*kollege* hat mir wertvolle Ratschläge zu meinen Versen gegeben.
+  My poetry colleague gave me valuable advice on my verses.
 
   Je souhaite la bienvenue à notre nouveau *confrère* dans notre cabinet médical.
-  Ich heiße unseren neuen *Kollegen* in unserer Arztpraxis willkommen.
+  I'd like to welcome our new colleague to our medical practice.
 
   Cher *confrère*, je vous prie d'agréer l'expression de mes sentiments distingués.
-  Sehr geehrter *Kollege*, ich verbleibe mit freundlichen Grüßen.
+  Dear colleague, I ask you to accept the expression of my distinguished feelings.
 
   Les *confrères* de Saint-Vincent-de-Paul se réunissent chaque mardi.
-  Die *Mitbrüder* der Sankt-Vinzenz-Gemeinschaft treffen sich jeden Dienstag.
+  The fellows of St. Vincent de Paul meet every Tuesday.
 
   Un avocat respecté par ses *confrères* prendra la défense de l'accusé.
-  Ein von seinen *Kollegen* respektierter Anwalt wird die Verteidigung des Angeklagten übernehmen.
+  A lawyer who is respected by his *colleagues* will defend the accused.
 
   Tous mes *confrères* journalistes ont couvert cet événement important.
-  Alle meine Journalisten*kollegen* haben über dieses wichtige Ereignis berichtet.
+  All my fellow journalists have covered this important event.
 
   Le docteur Martin a transmis le dossier médical à son *confrère* de l'hôpital.
-  Dr. Martin hat die Krankenakte an seinen Krankenhaus*kollegen* weitergeleitet.
+  Dr. Martin handed over the medical file to his colleague at the hospital.
 
   Notre *confrère* de l'université donnera une conférence la semaine prochaine.
-  Unser Universitäts*kollege* wird nächste Woche einen Vortrag halten.
+  Our colleague at the university will be giving a lecture next week.
 
   Les *confrères* du conseil de l'ordre ont examiné la plainte avec attention.
-  Die *Kollegen* des Standesrats haben die Beschwerde sorgfältig geprüft.
+  The co-defendants of the orderly council examined the complaint carefully.
 
   Je salue mes *confrères* artistes qui exposent leurs œuvres ce soir.
-  Ich grüße meine Künstler*kollegen*, die heute Abend ihre Werke ausstellen.
+  I greet my fellow artists who are exhibiting their work tonight.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>collègue</i> und <i>confrère/consœur</i></div>
+    <div class="section-title"><i>collègue</i> and <i>confrère/consœur</i></div>
     <div class="section-content">
-      <p><span class="fr">Collègue</span> (#1099) bezeichnet eine Person, die <span class="de">"im gleichen Unternehmen arbeitet"</span> oder <span class="de">"die gleiche Funktion ausübt"</span> wie eine andere Person. Im weiteren Sinne bezeichnet es auch Personen, die ähnliche Tätigkeiten ausüben.</p>
+      <p><span class="fr">Collègue</span> #1099) refers to a person who <span class="de">"working in the same company"</span> or <span class="de">"exercises the same function"</span> In a broader sense, it also refers to persons engaged in similar activities.</p>
       <div class="examples">
         <div class="fr">Il mange avec ses collègues dans la salle des professeurs.</div>
-        <div class="de spoiler">Er isst mit seinen Kollegen im Lehrerzimmer.</div>
+        <div class="de spoiler">He's eating with his colleagues in the teacher's room.</div>
         <div class="fr">Elle partage la même passion que ses collègues musiciens.</div>
-        <div class="de spoiler">Sie teilt die gleiche Leidenschaft wie ihre Musikerkollegen.</div>
+        <div class="de spoiler">She shares the same passion as her fellow musicians.</div>
       </div>
 
-      <p><span class="fr">Confrère</span> (männlich) und <span class="fr">consœur</span> (weiblich) bezeichnen Personen, die <span class="de">"dem gleichen Berufsstand angehören"</span> oder <span class="de">"den gleichen freien Beruf ausüben"</span>, insbesondere bei freien Berufen wie Ärzten, Anwälten, Notaren, Architekten, Apothekern, Schriftstellern oder Journalisten. Der Begriff wird auch für Mitglieder derselben künstlerischen, literarischen oder wissenschaftlichen Gesellschaft verwendet.</p>
+      <p><span class="fr">Confrère</span> (male) and <span class="fr">consœur</span> (female) refer to persons who: <span class="de">'belonging to the same profession'</span> or <span class="de">"exercising the same freelance profession"</span>, especially in freelance professions such as doctors, lawyers, notaries, architects, pharmacists, writers or journalists.The term is also used for members of the same artistic, literary or scientific society.</p>
       <div class="examples">
         <div class="fr">Ma médecin m'a adressé à un de ses confrères.</div>
-        <div class="de spoiler">Meine Ärztin hat mich an einen ihrer Berufskollegen überwiesen.</div>
+        <div class="de spoiler">My doctor referred me to one of her colleagues.</div>
         <div class="fr">Ce grand architecte s'attire l'admiration de ses confrères et consœurs.</div>
-        <div class="de spoiler">Dieser große Architekt gewinnt die Bewunderung seiner Berufskollegen und -kolleginnen.</div>
+        <div class="de spoiler">This great architect is gaining the admiration of his colleagues.</div>
       </div>
 
-      <p>Im modernen Französisch wird <span class="fr">confrère</span> in der Regel nur für Männer verwendet, während <span class="fr">consœur</span> für Frauen verwendet wird, unabhängig davon, ob sie in Beziehung zu einem Mann oder einer anderen Frau betrachtet werden.</p>
+      <p>In modern French it is <span class="fr">confrère</span> Generally used only for men, whereas <span class="fr">consœur</span> It is used for women regardless of whether they are considered to be related to a man or another woman.</p>
       <div class="examples">
         <div class="fr">Mon confrère avocat est aussi mon collègue au Parlement.</div>
-        <div class="de spoiler">Mein Anwaltskollege ist auch mein Kollege im Parlament.</div>
+        <div class="de spoiler">My colleague of lawyers is also my colleague in Parliament.</div>
         <div class="fr">Ma consœur à l'Académie des lettres du Québec a rédigé un brillant essai.</div>
-        <div class="de spoiler">Meine Kollegin in der Literaturakademie von Québec hat einen brillanten Essay verfasst.</div>
+        <div class="de spoiler">My colleague at the Académie de littérature du Québec has written a brilliant essay.</div>
       </div>
     </div>
   </div>

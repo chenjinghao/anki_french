@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1752
 Wort: efficacité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une efficacité
 Femininum / Plural: ''
 IPA: \e.fi.ka.si.te\
-Definition: Wirksamkeit
+Definition: Effectiveness
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les chercheurs pourront vérifier l'*efficacité* du traitement.
-  Die Forscher werden die *Wirksamkeit* der Behandlung überprüfen können.
+  The researchers will be able to verify the *effectiveness* of the treatment.
 
   L'*efficacité* de cette nouvelle machine dépasse toutes nos attentes.
-  Die *Leistungsfähigkeit* dieser neuen Maschine übertrifft alle unsere Erwartungen.
+  The efficiency of this new machine exceeds all our expectations.
 
   Notre équipe travaille toujours avec une grande *efficacité*.
-  Unser Team arbeitet immer mit hoher *Effizienz*.
+  Our team is always working very efficiently.
 
   Sa réputation d'*efficacité* n'est plus à démontrer.
-  Seine *Tüchtigkeit* muss nicht mehr unter Beweis gestellt werden.
+  Its reputation for *effectiveness* is no longer to be demonstrated.
 
   La campagne publicitaire a montré une *efficacité* remarquable.
-  Die Werbekampagne zeigte eine bemerkenswerte *Schlagkraft*.
+  The advertising campaign has been remarkably effective.
 
   L'*efficacité* de ces antibiotiques diminue progressivement.
-  Die *Wirkung* dieser Antibiotika lässt allmählich nach.
+  The *effectiveness* of these antibiotics is gradually decreasing.
 
   Nous devons améliorer l'*efficacité* de notre système de production.
-  Wir müssen die *Effizienz* unseres Produktionssystems verbessern.
+  We must improve the efficiency of our production system.
 
   L'*efficacité* énergétique est une priorité pour notre entreprise.
-  Die Energie*effizienz* ist eine Priorität für unser Unternehmen.
+  Energy efficiency is a priority for our company.
 
   Le nouveau directeur a prouvé son *efficacité* dès le premier mois.
-  Der neue Direktor hat seine *Tüchtigkeit* bereits im ersten Monat bewiesen.
+  The new director proved his *effectiveness* in the first month.
 
   L'*efficacité* du vaccin a été confirmée par plusieurs études.
-  Die *Wirksamkeit* des Impfstoffs wurde durch mehrere Studien bestätigt.
+  The *effectiveness* of the vaccine has been confirmed by several studies.
 
   Je suis impressionné par l'*efficacité* de cette méthode d'apprentissage.
-  Ich bin von der *Wirksamkeit* dieser Lernmethode beeindruckt.
+  I am impressed by the *effectiveness* of this method of learning.
 
   Nous avons des doutes concernant l'*efficacité* de ces mesures.
-  Wir haben Zweifel an der *Wirkung* dieser Maßnahmen.
+  We have doubts about the *effectiveness* of these measures.
 
   L'*efficacité* de notre équipe commerciale s'améliore chaque année.
-  Die *Leistungsfähigkeit* unseres Verkaufsteams verbessert sich jedes Jahr.
+  The efficiency of our sales team is improving every year.
 
   Cette solution manque d'*efficacité* à long terme.
-  Dieser Lösung fehlt es an langfristiger *Wirksamkeit*.
+  This solution lacks long-term *effectiveness*.
 
   Son *efficacité* au travail lui a valu une promotion.
-  Seine *Tüchtigkeit* bei der Arbeit hat ihm eine Beförderung eingebracht.
+  His efficiency at work earned him a promotion.
 
   Nous recherchons constamment à optimiser l'*efficacité* de nos processus.
-  Wir streben ständig danach, die *Effizienz* unserer Prozesse zu optimieren.
+  We are constantly seeking to optimize the efficiency of our processes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4637
 Wort: copier
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: copier
 Femininum / Plural: ''
 IPA: \kɔ.pje\
-Definition: kopieren, abschreiben
+Definition: copying
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai *copié* l'article.
-  Ich habe den Artikel *abgeschrieben*.
+  I *copied* the article.
 
   Mon fils *copie* toujours les dessins de son grand frère.
-  Mein Sohn *macht* immer die Zeichnungen seines großen Bruders *nach*.
+  My son always copies his big brother's drawings.
 
   Elle a *copié* tous les poèmes dans son carnet.
-  Sie hat alle Gedichte in ihr Notizbuch *abgeschrieben*.
+  She *copied* all the poems in her notebook.
 
   "Tu as *copié* sur Marie pendant l'examen !"
-  "Du hast während der Prüfung bei Marie *abgeschrieben*!"
+  "You *copied* Marie during the exam!"
 
   Peux-tu *copier* ce document en trois exemplaires ?
-  Kannst du dieses Dokument dreimal *kopieren*?
+  Can you copy this document in three copies?
 
   Les élèves qui *copient* seront punis.
-  Schüler, die *abschreiben*, werden bestraft.
+  Students who copy will be punished.
 
   Cette entreprise *copie* tous nos produits.
-  Diese Firma *kopiert* alle unsere Produkte.
+  This company copies all our products.
 
   Je dois *copier* cent fois la phrase "Je ne parlerai plus en classe."
-  Ich muss hundertmal den Satz "Ich werde im Unterricht nicht mehr reden" *abschreiben*.
+  I have to copy the phrase "I won't talk in class anymore" a hundred times.
 
   Sa petite sœur *copie* tous ses gestes.
-  Seine kleine Schwester *ahmt* alle seine Gesten *nach*.
+  His little sister copied all his gestures.
 
   Il faut *copier* ce fichier avant de l'effacer.
-  Man muss diese Datei *kopieren*, bevor man sie löscht.
+  We need to copy this file before we delete it.
 
   Les artistes débutants *copient* souvent les œuvres des maîtres.
-  Anfänger*innen *kopieren* oft die Werke der Meister.
+  Beginner artists often copy the master's works.
 
   N'oublie pas de *copier* l'adresse exactement.
-  Vergiss nicht, die Adresse genau *abzuschreiben*.
+  Don't forget to copy the address exactly.
 
   Ces architectes ont *copié* le style du bâtiment historique.
-  Diese Architekten haben den Stil des historischen Gebäudes *kopiert*.
+  These architects *copied* the style of the historic building.
 
   Julie *copie* toujours les réponses de son voisin.
-  Julie *schreibt* immer die Antworten von ihrem Nachbarn *ab*.
+  Julie always copies her neighbor's answers.
 
   Le peintre a *copié* ce tableau mot pour mot.
-  Der Maler hat dieses Gemälde detailgetreu *kopiert*.
+  The painter *copied* this painting word for word.
 
   Nous devons *copier* ces données sur un disque dur externe.
-  Wir müssen diese Daten auf eine externe Festplatte *kopieren*.
+  We need to copy this data to an external hard drive.
 
   Cette série télé *copie* complètement une émission américaine.
-  Diese Fernsehserie *kopiert* komplett eine amerikanische Sendung.
+  This TV series is a complete *copy* of an American show.
 
   Les étudiants peuvent *copier* les notes du cours.
-  Die Studenten dürfen die Vorlesungsnotizen *abschreiben*.
+  Students can copy the notes of the course.
 
   Pierre *copie* toujours les vêtements de son idole.
-  Pierre *ahmt* immer den Kleidungsstil seines Idols *nach*.
+  Pierre always copied the clothes of his idol.
 
   Il faut *copier* le contrat en double exemplaire.
-  Der Vertrag muss zweifach *kopiert werden*.
+  You have to copy the contract in two copies.
 
   Ce jeune chanteur *copie* le style des années 80.
-  Dieser junge Sänger *kopiert* den Stil der 80er Jahre.
+  This young singer copied the style of the '80s.
 
   Je vais *copier* cette recette dans mon cahier de cuisine.
-  Ich werde dieses Rezept in mein Kochbuch *abschreiben*.
+  I'm going to copy this recipe into my cookbook.
 
   Le professeur nous a demandé de *copier* le vocabulaire trois fois.
-  Der Lehrer hat uns aufgefordert, das Vokabular dreimal *abzuschreiben*.
+  The teacher asked us to copy the vocabulary three times.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

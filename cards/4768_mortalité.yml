@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4768
 Wort: mortalité
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la mortalité
 Femininum / Plural: ''
 IPA: \mɔʁ.ta.li.te\
-Definition: Sterblichkeit
+Definition: Mortality
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *mortalité* par cancer continue à décroître aux États-Unis.
-  Die Krebs*sterblichkeit* in den USA nimmt weiterhin ab.
+  Cancer deaths continue to decline in the United States.
 
   Le taux de *mortalité* infantile a diminué de moitié en vingt ans.
-  Die Säuglings*sterblichkeits*rate hat sich in zwanzig Jahren halbiert.
+  The infant *mortality* rate has fallen by half in twenty years.
 
   Cette épidémie a causé une *mortalité* importante chez les oiseaux migrateurs.
-  Diese Epidemie hat eine hohe *Sterblichkeit* unter den Zugvögeln verursacht.
+  This outbreak has caused significant deaths among migratory birds.
 
   Les chercheurs étudient la *mortalité* liée aux maladies cardiovasculaires.
-  Die Forscher untersuchen die *Sterblichkeit* durch Herz-Kreislauf-Erkrankungen.
+  Researchers are studying the *mortality* associated with cardiovascular disease.
 
   La *mortalité* routière a atteint son niveau le plus bas depuis dix ans.
-  Die Verkehrs*sterblichkeit* hat ihren niedrigsten Stand seit zehn Jahren erreicht.
+  Road deaths have reached their lowest level in a decade.
 
   Ces nouvelles mesures visent à réduire la *mortalité* dans les hôpitaux.
-  Diese neuen Maßnahmen zielen darauf ab, die *Sterblichkeit* in Krankenhäusern zu reduzieren.
+  These new measures are aimed at reducing hospital *mortality*.
 
   La *mortalité* due à cette maladie varie selon les régions.
-  Die *Sterblichkeit* durch diese Krankheit variiert je nach Region.
+  *Mortality* from this disease varies from region to region.
 
   Les statistiques montrent une baisse de la *mortalité* chez les personnes âgées.
-  Die Statistiken zeigen einen Rückgang der *Sterblichkeit* bei älteren Menschen.
+  Statistics show a decrease in *mortality* among the elderly.
 
   La table de *mortalité* permet aux assureurs de calculer leurs primes.
-  Die *Sterblichkeits*tabelle ermöglicht es Versicherern, ihre Prämien zu berechnen.
+  The death table allows insurers to calculate their premiums.
 
   Le taux de *mortalité* est plus élevé en hiver qu'en été.
-  Die *Sterblichkeits*rate ist im Winter höher als im Sommer.
+  The *mortality* rate is higher in winter than in summer.
 
   La *mortalité* humaine nous rappelle l'importance de profiter de chaque jour.
-  Die menschliche *Sterblichkeit* erinnert uns daran, jeden Tag zu genießen.
+  Human *mortality* reminds us of the importance of enjoying every day.
 
   Les médecins ont réussi à réduire la *mortalité* après les opérations.
-  Die Ärzte konnten die *Sterblichkeit* nach Operationen senken.
+  Doctors have succeeded in reducing *mortality* after operations.
 
   La *mortalité* des abeilles inquiète les scientifiques depuis des années.
-  Die *Sterblichkeit* der Bienen beunruhigt Wissenschaftler seit Jahren.
+  The *mortality* of bees has been a concern for scientists for years.
 
   Une hausse de la *mortalité* a été observée pendant la canicule.
-  Während der Hitzewelle wurde eine erhöhte *Sterblichkeit* beobachtet.
+  An increase in *mortality* was observed during the heatwave.
 
   L'indice de *mortalité* varie considérablement selon les pays.
-  Die *Sterblichkeits*rate variiert erheblich zwischen den Ländern.
+  The *mortality* rate varies greatly from country to country.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

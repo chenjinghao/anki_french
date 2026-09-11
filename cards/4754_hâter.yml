@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4754
 Wort: hâter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hâter
 Femininum / Plural: ''
 IPA: \'ɑ.te\
-Definition: beeilen, beschleunigen
+Definition: speed up
 Register: ↗Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Hâte*-toi de revenir.
-  *Beeil* dich zurückzukommen.
+  Hurry up and come back.
 
   Le soleil *hâte* la croissance des fleurs au printemps.
-  Die Sonne *beschleunigt* das Blumenwachstum im Frühling.
+  The sun makes flowers grow faster in the spring.
 
   Il faut se *hâter* vers la gare pour ne pas rater le train.
-  Wir müssen zum Bahnhof *eilen*, um den Zug nicht zu verpassen.
+  We have to hurry to the station so we don't miss the train.
 
   La pluie se *hâte* de tomber avant l'orage.
-  Der Regen *eilt* sich, vor dem Gewitter zu fallen.
+  The rain hurries to fall before the storm.
 
   Le stress a *hâté* son vieillissement.
-  Der Stress hat seine Alterung *beschleunigt*.
+  Stress hastened his aging.
 
   Les étudiants se *hâtent* de finir leurs examens.
-  Die Studenten *beeilen* sich, ihre Prüfungen zu beenden.
+  Students hurry to finish their exams.
 
   Cette découverte va *hâter* les progrès de la médecine.
-  Diese Entdeckung wird den medizinischen Fortschritt *beschleunigen*.
+  This discovery will speed up the advancement of medicine.
 
   *Hâte*-toi lentement, comme disaient les Romains.
-  *Eile* mit Weile, wie die Römer sagten.
+  Hurry up slowly, as the Romans say.
 
   Elle se *hâte* vers la sortie dès la fin du spectacle.
-  Sie *eilt* nach Ende der Vorstellung zum Ausgang.
+  She rushes out at the end of the show.
 
   Le patron *hâte* ses employés pour finir le projet.
-  Der Chef *treibt* seine Mitarbeiter *an*, das Projekt zu beenden.
+  The boss is rushing his employees to finish the project.
 
   Je dois *hâter* mon départ à cause du mauvais temps.
-  Ich muss meine Abreise wegen des schlechten Wetters *beschleunigen*.
+  I have to hurry away because of the bad weather.
 
   Les enfants se *hâtent* de rentrer avant la nuit.
-  Die Kinder *beeilen* sich, vor der Dunkelheit nach Hause zu kommen.
+  The children hurry home before nightfall.
 
   Cette crise économique a *hâté* sa faillite.
-  Diese Wirtschaftskrise hat seinen Bankrott *beschleunigt*.
+  This economic crisis hastened its bankruptcy.
 
   *Hâtons* le pas, il commence à pleuvoir !
-  Lasst uns den Schritt *beschleunigen*, es fängt an zu regnen!
+  Let's hurry, it's starting to rain!
 
   Pierre se *hâte* d'ouvrir son cadeau d'anniversaire.
-  Pierre *beeilt* sich, sein Geburtstagsgeschenk zu öffnen.
+  Pierre is eager to open up his birthday present.
 
   Le gouvernement *hâte* l'envoi des secours aux sinistrés.
-  Die Regierung *beschleunigt* die Entsendung von Hilfe an die Opfer.
+  The government hastened to send aid to the disaster victims.
 
   Marie se *hâte* de terminer ses devoirs avant le dîner.
-  Marie *beeilt* sich, ihre Hausaufgaben vor dem Abendessen fertig zu machen.
+  Marie is in a hurry to finish her homework before dinner.
 
   Le changement climatique *hâte* la fonte des glaciers.
-  Der Klimawandel *beschleunigt* das Schmelzen der Gletscher.
+  Climate change is accelerating the melting of glaciers.
 
   Les pompiers se *hâtent* d'éteindre l'incendie.
-  Die Feuerwehrleute *beeilen* sich, den Brand zu löschen.
+  Firefighters are hurrying to put out the fire.
 
   Ce traitement va *hâter* sa guérison.
-  Diese Behandlung wird seine Genesung *beschleunigen*.
+  This treatment will speed up his recovery.
 
   Ne vous *hâtez* pas de juger la situation.
-  *Beeilen* Sie sich nicht damit, die Situation zu beurteilen.
+  Don't be quick to judge the situation.
 
   Sophie se *hâte* d'appeler les secours après l'accident.
-  Sophie *beeilt* sich, nach dem Unfall den Notruf zu wählen.
+  Sophie's in a hurry to call for help after the accident.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>dépêcher</i> und <i>hâter</i></div>
+    <div class="section-title"><i>dépêcher</i> and <i>hâter</i></div>
     <div class="section-content">
-      <p><span class="fr">Dépêcher</span> (#3771) bedeutet <span class="de">"beeilen"</span> und wird hauptsächlich reflexiv verwendet (<span class="fr">se dépêcher</span>). Es bezieht sich auf die Beschleunigung einer Handlung oder das schnelle Erledigen einer Aufgabe.</p>
+      <p><span class="fr">Dépêcher</span> #3771) means <span class="de">'shortly'</span> and is mainly used reflexively (<span class="fr">se dépêcher</span>It refers to the acceleration of an action or the rapid completion of a task.</p>
       <div class="examples">
         <div class="fr">Dépêche-toi, nous allons être en retard!</div>
-        <div class="de spoiler">Beeil dich, wir werden zu spät kommen!</div>
+        <div class="de spoiler">Hurry up, we'll be late!</div>
         <div class="fr">Elle se dépêche de finir son travail avant la réunion.</div>
-        <div class="de spoiler">Sie beeilt sich, ihre Arbeit vor der Besprechung zu beenden.</div>
+        <div class="de spoiler">She is in a hurry to finish her work before the meeting.</div>
       </div>
-      <p><span class="fr">Hâter</span> bedeutet <span class="de">"beschleunigen"</span> oder <span class="de">"vorantreiben"</span> und wird sowohl reflexiv (<span class="fr">se hâter</span>) als auch transitiv verwendet. Es hat oft eine formalere Konnotation als <span class="fr">dépêcher</span>.</p>
+      <p><span class="fr">Hâter</span> means <span class="de">'accelerated'</span> or <span class="de">'Promoting'</span> and is both reflective (<span class="fr">se hâter</span>It often has a more formal connotation than <span class="fr">dépêcher</span>.</p>
       <div class="examples">
         <div class="fr">Il faut hâter les préparatifs du mariage.</div>
-        <div class="de spoiler">Man muss die Hochzeitsvorbereitungen beschleunigen.</div>
+        <div class="de spoiler">We need to speed up the wedding preparations.</div>
         <div class="fr">Elle s'est hâtée vers la sortie.</div>
-        <div class="de spoiler">Sie eilte zum Ausgang.</div>
+        <div class="de spoiler">She hurried to the exit.</div>
       </div>
     </div>
   </div>

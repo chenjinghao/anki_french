@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 213
 Wort: plusieurs
 Wortart: adj, pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: plusieurs
 Femininum / Plural: ''
 IPA: \ply.zjœʁ\
-Definition: mehrere
+Definition: several
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il y a *plusieurs* formes d'humour.
-  Es gibt *mehrere* Arten von Humor.
+  There are many forms of humor.
 
   J'ai essayé *plusieurs fois* de l'appeler, mais il ne répond pas.
-  Ich habe *mehrmals* versucht, ihn anzurufen, aber er antwortet nicht.
+  I tried calling him *several times*, but he doesn't answer.
 
   *Plusieurs* personnes m'ont parlé de ce nouveau restaurant.
-  *Mehrere* Leute haben mir von diesem neuen Restaurant erzählt.
+  *Several* people told me about this new restaurant.
 
   Il faut attendre *plusieurs* heures avant le décollage.
-  Man muss *mehrere* Stunden vor dem Abflug warten.
+  We'll have to wait *several* hours before we take off.
 
   Je connais *plusieurs* façons de préparer ce plat.
-  Ich kenne *mehrere* Arten, dieses Gericht zuzubereiten.
+  I know *several* ways to prepare this dish.
 
   *Plusieurs* d'entre nous ne pourront pas venir à la fête.
-  *Einige* von uns werden nicht zur Party kommen können.
+  A lot of us won't be able to make it to the party.
 
   Elle a dû relire le texte *à plusieurs reprises* pour le comprendre.
-  Sie musste den Text *mehrmals* lesen, um ihn zu verstehen.
+  She must have read the text over and over again to understand it.
 
   *Plusieurs* de ces livres sont en anglais.
-  *Einige* dieser Bücher sind auf Englisch.
+  Many of these books are in English.
 
   Il faut être *à plusieurs* pour déplacer ce meuble.
-  Man muss *zu mehreren* sein, um dieses Möbelstück zu bewegen.
+  It takes several people to move this furniture.
 
   Cette tâche prendra *plusieurs* jours.
-  Diese Aufgabe wird *mehrere* Tage dauern.
+  This task will take *several* days.
 
   *Plusieurs* pensent que c'est une mauvaise idée.
-  *Einige* halten das für eine schlechte Idee.
+  A lot of people think it's a bad idea.
 
   L'accident s'est produit en *plusieurs* endroits.
-  Der Unfall ereignete sich an *mehreren* Stellen.
+  The accident happened in *several* places.
 
   *Plusieurs* de mes collègues sont en vacances.
-  *Einige* meiner Kollegen sind im Urlaum.
+  *Several* of my colleagues are on vacation.
 
   Nous avons exploré *plusieurs* options avant de prendre une décision.
-  Wir haben *mehrere* Optionen geprüft, bevor wir eine Entscheidung getroffen haben.
+  We explored *several* options before we made a decision.
 
   Il mène de front *plusieurs* projets en même temps.
-  Er bearbeitet gleichzeitig *mehrere* Projekte.
+  He's leading *several* projects at the same time.
 
   *Plusieurs* mains se sont levées pour répondre à la question.
-  *Mehrere* Hände gingen hoch, um die Frage zu beantworten.
+  *Several* hands rose to answer the question.
 
   La chute de *plusieurs* mètres aurait pu être fatale.
-  Der Sturz aus *mehreren* Metern Höhe hätte tödlich sein können.
+  The fall of *several* meters could have been fatal.
 
   *Plusieurs* parmi eux ont refusé l'offre.
-  *Einige* von ihnen haben das Angebot abgelehnt.
+  *Several* of them refused the offer.
 
   Il s'est écoulé *plusieurs* années depuis notre dernière rencontre.
-  Es sind *mehrere* Jahre seit unserem letzten Treffen vergangen.
+  It's been *several* years since we last met.
 
   Cette artiste a *plusieurs* cordes à son arc.
-  Diese Künstlerin hat *mehrere* Talente.
+  This artist has *several* strings on her bow.
 
   Ils étaient *plusieurs* à vouloir participer au concours.
-  *Mehrere* wollten an dem Wettbewerb teilnehmen.
+  There were many of them who wanted to compete.
 
   Ne courez pas *plusieurs* lièvres à la fois.
-  Verfolgen Sie nicht *mehrere* Ziele gleichzeitig.
+  Don't run more than one hare at a time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

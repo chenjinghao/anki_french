@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2130
 Wort: spécialement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: spécialement
 Femininum / Plural: ''
 IPA: \spe.sjal.mɑ̃\
-Definition: speziell, insbesondere
+Definition: specifically, in particular:
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Vous aimez les chats ? Pas *spécialement*.
-  Mögen Sie Katzen? Nicht *besonders*.
+  Do you like cats? Not *particularly*.
 
   Il est venu *spécialement* pour vous voir.
-  Er ist *extra* gekommen, um Sie zu sehen.
+  He came specifically to see you.
 
   Cette salle a été *spécialement* aménagée pour l'audiovisuel.
-  Dieser Raum wurde *speziell* für audiovisuelle Zwecke eingerichtet.
+  This room has been specially designed for audiovisual use.
 
   Ce cas doit être traité *spécialement*.
-  Dieser Fall muss *gesondert* behandelt werden.
+  This case must be dealt with in a special way.
 
   Ce film a été *spécialement* écrit pour la télévision.
-  Dieser Film wurde *eigens* für das Fernsehen geschrieben.
+  This movie was written specifically for television.
 
   Il vous estime *spécialement* depuis cette affaire.
-  Er schätzt Sie *besonders* seit dieser Angelegenheit.
+  He's given you special consideration since this case.
 
   Tous les savants, et *spécialement* les chimistes, se sont réjouis de cette découverte.
-  Alle Wissenschaftler, und *insbesondere* die Chemiker, haben sich über diese Entdeckung gefreut.
+  All scientists, *especially* chemists, rejoiced at this discovery.
 
   Au gouvernement, il est plus *spécialement* chargé des relations internationales.
-  In der Regierung ist er *speziell* für internationale Beziehungen zuständig.
+  In the government, he is more specifically responsible for international relations.
 
   L'adjectif « africain » se dit de ce qui est relatif à l'Afrique et, *spécialement*, à l'Afrique noire.
-  Das Adjektiv "afrikanisch" bezieht sich auf alles, was mit Afrika zu tun hat, und *insbesondere* mit Schwarzafrika.
+  The adjective  African  refers to what is related to Africa and, in particular, to black Africa.
 
   Il n'est pas *spécialement* sympathique.
-  Er ist nicht *besonders* sympathisch.
+  He's not particularly nice.
 
   Cette exposition est *spécialement* conçue pour les enfants.
-  Diese Ausstellung ist *speziell* für Kinder konzipiert.
+  This exhibition is specially designed for children.
 
   J'ai préparé ce plat *spécialement* pour toi.
-  Ich habe dieses Gericht *extra* für dich zubereitet.
+  I prepared this dish *especially* for you.
 
   Elle s'est *spécialement* entraînée pour cette compétition.
-  Sie hat *gezielt* für diesen Wettbewerb trainiert.
+  She trained herself specifically for this competition.
 
   Nous avons *spécialement* sélectionné ces produits pour nos clients fidèles.
-  Wir haben diese Produkte *eigens* für unsere treuen Kunden ausgewählt.
+  We have specially selected these products for our loyal customers.
 
   Ce logiciel a été *spécialement* développé pour répondre à vos besoins.
-  Diese Software wurde *speziell* entwickelt, um Ihren Bedürfnissen gerecht zu werden.
+  This software has been specially developed to meet your needs.
 
   La bibliothèque a une section *spécialement* dédiée à la littérature jeunesse.
-  Die Bibliothek hat einen *eigens* der Jugendliteratur gewidmeten Bereich.
+  The library has a section dedicated to youth literature.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

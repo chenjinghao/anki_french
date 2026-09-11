@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4257
 Wort: vérificateur
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le vérificateur
 Femininum / Plural: ''
 IPA: \ve.ʁi.fi.ka.tœʁ\
-Definition: Prüfer
+Definition: Inspectors
 Register: ↘Fiktion ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *vérificateur* général a lui-même porté ce jugement.
-  Der General*prüfer* hat dieses Urteil selbst gefällt.
+  This judgment was delivered by the Auditor General himself.
 
   Notre *vérificateur* des comptes a détecté plusieurs irrégularités dans le bilan.
-  Unser Abschluss*prüfer* hat mehrere Unregelmäßigkeiten in der Bilanz entdeckt.
+  Our accountant has detected several irregularities in the balance sheet.
 
   Le *vérificateur* orthographique m'a signalé trois erreurs dans ce texte.
-  Die Rechtschreib*prüfung* hat mir drei Fehler in diesem Text angezeigt.
+  The spell checker pointed out three errors in this text.
 
   La *vérificatrice* a constaté que tous les documents étaient en ordre.
-  Die *Prüferin* hat festgestellt, dass alle Dokumente in Ordnung waren.
+  The *verifier* found that all the documents were in order.
 
   Le nouveau *vérificateur* des poids et mesures passera demain matin.
-  Der neue Eich*beamte* kommt morgen Vormittag vorbei.
+  The new weights and measures inspector will pass in the morning.
 
   J'ai désactivé le *vérificateur* orthographique de mon traitement de texte.
-  Ich habe die Rechtschreib*kontrolle* in meinem Textverarbeitungsprogramm deaktiviert.
+  I deactivated the spell checker on my word processor.
 
   Une *vérificatrice* expérimentée a rejoint notre équipe la semaine dernière.
-  Eine erfahrene *Kontrolleurin* ist letzte Woche unserem Team beigetreten.
+  An experienced auditor joined our team last week.
 
   Le *vérificateur* a signé le rapport final hier soir.
-  Der *Prüfer* hat den Abschlussbericht gestern Abend unterschrieben.
+  The auditor signed the final report last night.
 
   Cette entreprise cherche un *vérificateur* qualifié pour un poste à temps plein.
-  Dieses Unternehmen sucht einen qualifizierten *Prüfer* für eine Vollzeitstelle.
+  This company is looking for a qualified auditor for a full-time position.
 
   Le *vérificateur* des comptes nous rendra visite jeudi prochain.
-  Der Abschluss*prüfer* wird uns nächsten Donnerstag besuchen.
+  The auditor will visit us next Thursday.
 
   Mon *vérificateur* orthographique ne reconnaît pas ce mot.
-  Meine Rechtschreib*prüfung* erkennt dieses Wort nicht.
+  My spell checker doesn't recognize that word.
 
   La *vérificatrice* a souligné plusieurs points positifs dans son rapport.
-  Die *Prüferin* hat in ihrem Bericht mehrere positive Punkte hervorgehoben.
+  The *verifier* highlighted several positive points in her report.
 
   Le *vérificateur* des poids et mesures a validé tous nos instruments.
-  Der Eich*beamte* hat alle unsere Instrumente validiert.
+  The weights and measures auditor has validated all our instruments.
 
   Notre ancien *vérificateur* part à la retraite le mois prochain.
-  Unser alter *Prüfer* geht nächsten Monat in den Ruhestand.
+  Our former auditor is retiring next month.
 
   La *vérificatrice* principale sera absente pendant deux semaines.
-  Die Haupt*prüferin* wird zwei Wochen lang abwesend sein.
+  The chief auditor will be absent for two weeks.
 
   Le *vérificateur* orthographique m'aide à éviter les fautes.
-  Das Rechtschreib*programm* hilft mir, Fehler zu vermeiden.
+  The spelling checker helps me avoid mistakes.
 
   Les mesures *vérificatrices* ont confirmé nos premiers résultats.
-  Die *Prüf*maßnahmen haben unsere ersten Ergebnisse bestätigt.
+  The verification measures confirmed our initial results.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

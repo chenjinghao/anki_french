@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4451
 Wort: interdit
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: interdit
 Femininum / Plural: interdite
 IPA: \ɛ̃.tɛʁ.di\
-Definition: verboten; Verbot
+Definition: prohibited
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'entrée était strictement *interdite*.
-  Der Eintritt war streng *verboten*.
+  The entrance was strictly forbidden.
 
   Il est *interdit* de fumer dans ce restaurant.
-  In diesem Restaurant ist Rauchen *verboten*.
+  It's forbidden to smoke in this restaurant.
 
   La circulation est *interdite* dans cette zone piétonne.
-  In dieser Fußgängerzone ist der Verkehr *verboten*.
+  Traffic is *prohibited* in this pedestrian zone.
 
   Ce film est *interdit* aux moins de 16 ans.
-  Dieser Film ist für Jugendliche unter 16 Jahren *verboten*.
+  This movie is forbidden to anyone under the age of 16.
 
   Les chiens sont *interdits* dans ce magasin.
-  Hunde sind in diesem Geschäft *verboten*.
+  Dogs are not allowed in this store.
 
   Le stationnement est *interdit* devant l'école.
-  Das Parken vor der Schule ist *verboten*.
+  Parking outside the school is *prohibited*.
 
   Cette substance *interdite* peut causer des problèmes de santé.
-  Diese *verbotene* Substanz kann gesundheitliche Probleme verursachen.
+  This banned substance can cause health problems.
 
   Le journaliste a été *interdit d'antenne* pendant un mois.
-  Der Journalist erhielt für einen Monat *Sendeverbot*.
+  The journalist was banned from broadcasting for a month.
 
   Elle est restée *interdite* devant cette nouvelle inattendue.
-  Sie blieb vor dieser unerwarteten Nachricht *sprachlos*.
+  She was banned from this unexpected news.
 
   Ces pratiques commerciales *interdites* ont conduit à des sanctions.
-  Diese *unerlaubten* Geschäftspraktiken führten zu Sanktionen.
+  These *prohibited* trade practices have led to sanctions.
 
   Le sujet est devenu *interdit* après l'incident.
-  Das Thema wurde nach dem Vorfall *unerwünscht*.
+  The subject became *prohibited* after the incident.
 
   Cette zone est *interdite* au public pour des raisons de sécurité.
-  Diese Zone ist aus Sicherheitsgründen für die Öffentlichkeit *gesperrt*.
+  This area is closed to the public for security reasons.
 
   Il a bravé tous les *interdits* de la société.
-  Er hat sich über alle gesellschaftlichen *Verbote* hinweggesetzt.
+  He defied all the restrictions of society.
 
   Les *interdits* moraux varient selon les cultures.
-  Die moralischen *Verbote* unterscheiden sich je nach Kultur.
+  Moral prohibitions vary from culture to culture.
 
   Le passage est *interdit* sauf aux riverains.
-  Die Durchfahrt ist *verboten* - Anlieger frei.
+  Passage is *prohibited* except for residents.
 
   L'accès au chantier est *interdit*.
-  Das Betreten der Baustelle ist *verboten*.
+  Access to the construction site is *prohibited*.
 
   Marie est restée *interdite* face à cette accusation.
-  Marie blieb angesichts dieser Anschuldigung *sprachlos*.
+  Marie was denied this accusation.
 
   L'église a été frappée d'*interdit* par l'évêque.
-  Die Kirche wurde vom Bischof mit einem *Interdikt* belegt.
+  The church was banned by the bishop.
 
   Il est *interdit* de photographier dans ce musée.
-  Fotografieren ist in diesem Museum *verboten*.
+  It's forbidden to photograph in this museum.
 
   Les *interdits alimentaires* font partie de nombreuses religions.
-  *Speiseverbote* sind Teil vieler Religionen.
+  *Food prohibitions* are part of many religions.
 
   Elle a transgressé tous les *interdits* de sa famille.
-  Sie hat alle familiären *Verbote* übertreten.
+  She violated all of her family's prohibitions.
 
   Les enfants de moins de 12 ans *sont interdits* dans cette salle.
-  Kinder unter 12 Jahren haben in diesem Saal *keinen Zutritt*.
+  Children under the age of 12 are not allowed in this room.
 
   Cette pratique est *interdite* par la loi.
-  Diese Praxis ist gesetzlich *verboten*.
+  This practice is *prohibited* by law.
 
   La baignade est *interdite* dans ce lac.
-  Das Baden ist in diesem See *verboten*.
+  Swimming is forbidden in this lake.
 
   Il *est resté interdit* de stupeur.
-  Er *blieb* vor Erstaunen *sprachlos*.
+  He's not allowed to be stunned.
 
   Cette route est *interdite* à la circulation.
-  Diese Straße ist für den Verkehr *gesperrt*.
+  This road is off-limits to traffic.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

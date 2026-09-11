@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 410
 Wort: parfois
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: parfois
 Femininum / Plural: ''
 IPA: \paʁ.fwa\
-Definition: manchmal
+Definition: Sometimes
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est *parfois* sage d'être un peu fou.
-  Es ist *manchmal* klug, ein bisschen verrückt zu sein.
+  *Sometimes* it's wise to be a little crazy.
 
   Elle est *parfois* gaie, *parfois* triste, on ne sait jamais comment elle va réagir.
-  Sie ist *manchmal* fröhlich, *manchmal* traurig, man weiß nie, wie sie reagieren wird.
+  *Sometimes* she's happy, sometimes she's sad, you never know how she'll react.
 
   Dans ces montagnes, il peut *parfois* neiger même en été.
-  In diesen Bergen kann es selbst im Sommer *manchmal* schneien.
+  In these mountains, it can *sometimes* snow even in summer.
 
   Ma grand-mère oublie *parfois* où elle a posé ses lunettes.
-  Meine Großmutter vergisst *manchmal*, wo sie ihre Brille hingelegt hat.
+  My grandmother *sometimes* forgets where she put her glasses.
 
   Les enfants peuvent se montrer *parfois* très créatifs dans leurs excuses.
-  Kinder können sich *mitunter* sehr kreativ in ihren Ausreden zeigen.
+  Children can *sometimes* be very creative when they apologize.
 
   Je me demande *parfois* ce que font mes anciens camarades de classe.
-  Ich frage mich *manchmal*, was meine ehemaligen Klassenkameraden machen.
+  *Sometimes* I wonder what my former classmates are doing.
 
   *Parfois*, les solutions les plus simples sont les meilleures.
-  *Manchmal* sind die einfachsten Lösungen die besten.
+  Sometimes the simplest solutions are the best.
 
   Mon chat est *parfois* très câlin, *parfois* complètement distant.
-  Meine Katze ist *mal* sehr verschmust, *mal* völlig distanziert.
+  My cat is *sometimes* very cuddly, sometimes completely distant.
 
   Les trains peuvent *parfois* avoir du retard en hiver.
-  Die Züge können im Winter *gelegentlich* Verspätung haben.
+  Trains can *sometimes* be late in winter.
 
   Je prends *parfois* le vélo pour aller au travail.
-  Ich fahre *manchmal* mit dem Fahrrad zur Arbeit.
+  *Sometimes* I ride my bike to work.
 
   *Parfois*, il suffit d'un sourire pour égayer toute une journée.
-  *Manchmal* reicht ein Lächeln, um den ganzen Tag aufzuhellen.
+  Sometimes a smile is enough to cheer up the whole day.
 
   Les adolescents peuvent être *parfois* difficiles à comprendre.
-  Jugendliche können *mitunter* schwer zu verstehen sein.
+  Adolescents can *sometimes* be difficult to understand.
 
   Mon ordinateur fait *parfois* des bruits étranges.
-  Mein Computer macht *manchmal* seltsame Geräusche.
+  My computer *sometimes* makes strange noises.
 
   Le temps peut changer très vite ici : il fait *parfois* beau le matin et il pleut l'après-midi.
-  Das Wetter kann hier sehr schnell umschlagen: *manchmal* ist es morgens schön und nachmittags regnet es.
+  The weather here can change very quickly: *sometimes* it's nice in the morning and it rains in the afternoon.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3920
 Wort: souhaitable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: souhaitable
 Femininum / Plural: ''
 IPA: \swɛ.tabl\
-Definition: wünschenswert
+Definition: desirable
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une dictature militaire n'est pas *souhaitable* dans ce pays.
-  Eine Militärdiktatur ist in diesem Land nicht *wünschenswert*.
+  A military dictatorship is not *desirable* in this country.
 
   Il serait *souhaitable* que tout le monde arrive à l'heure demain.
-  Es wäre *wünschenswert*, dass morgen alle pünktlich kommen.
+  It would be *desirable* for everyone to arrive on time tomorrow.
 
   La candidature de Marie présente toutes les qualités *souhaitables* pour ce poste.
-  Maries Bewerbung weist alle *wünschenswerten* Eigenschaften für diese Stelle auf.
+  Marie's candidacy has all the qualifications for this position.
 
   Un changement de stratégie serait *souhaitable* dans cette situation.
-  Eine Strategieänderung wäre in dieser Situation *erstrebenswert*.
+  A change in strategy would be *desirable* in this situation.
 
   Est-ce vraiment *souhaitable* d'organiser une fête maintenant ?
-  Ist es wirklich *wünschenswert*, jetzt eine Party zu organisieren?
+  Is it really *desirable* to throw a party now?
 
   Les conditions météorologiques ne sont pas *souhaitables* pour notre randonnée.
-  Die Wetterbedingungen sind für unsere Wanderung nicht *wünschenswert*.
+  Weather conditions are not *desirable* for our hike.
 
   Il serait *souhaitable* que vous preniez des notes pendant la conférence.
-  Es wäre *wünschenswert*, dass Sie während des Vortrags mitschreiben.
+  It would be *desirable* for you to take notes during the conference.
 
   Cette solution me semble la plus *souhaitable* parmi toutes les options.
-  Diese Lösung erscheint mir unter allen Optionen am *erstrebenswertesten*.
+  This solution seems to me to be the most *desirable* of all options.
 
   Pour un développement durable, des changements *souhaitables* sont nécessaires.
-  Für eine nachhaltige Entwicklung sind *wünschenswerte* Veränderungen notwendig.
+  For sustainable development, *desirable* changes are needed.
 
   Le résultat n'était pas aussi *souhaitable* que nous l'espérions.
-  Das Ergebnis war nicht so *wünschenswert* wie wir gehofft hatten.
+  The result was not as *desirable* as we had hoped.
 
   Une rénovation complète serait *souhaitable* avant l'hiver.
-  Eine komplette Renovierung wäre vor dem Winter *wünschenswert*.
+  A complete renovation would be *desirable* before winter.
 
   Les effets *souhaitables* du médicament se font sentir après quelques jours.
-  Die *erwünschten* Wirkungen des Medikaments zeigen sich nach einigen Tagen.
+  The desired effects of the medicine are felt after a few days.
 
   Il n'est pas *souhaitable* de reporter cette décision importante.
-  Es ist nicht *ratsam*, diese wichtige Entscheidung zu verschieben.
+  It is not *desirable* to postpone this important decision.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

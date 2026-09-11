@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4448
 Wort: entraver
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: entraver
 Femininum / Plural: ''
 IPA: \ɑ̃.tʁa.ve\
-Definition: behindern, erschweren
+Definition: to impede
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Son pantalon *entravait* la liberté de ses mouvements.
-  Seine Hose *behinderte* die Freiheit seiner Bewegungen.
+  His pants were restricting his freedom of movement.
 
   Les manifestants ont *entravé* la circulation dans le centre-ville.
-  Die Demonstranten haben den Verkehr im Stadtzentrum *behindert*.
+  Protesters blocked traffic in the city centre.
 
   Le fermier a dû *entraver* ses chevaux pour la nuit.
-  Der Bauer musste seinen Pferden für die Nacht Fesseln *anlegen*.
+  The farmer must have stopped his horses for the night.
 
   La crise sanitaire *entrave* le développement économique du pays.
-  Die Gesundheitskrise *erschwert* die wirtschaftliche Entwicklung des Landes.
+  The health crisis is hampering the country's economic development.
 
   Sa jupe étroite *entravait* sa marche dans les escaliers.
-  Ihr enger Rock *behinderte* ihren Gang auf der Treppe.
+  Her tight skirt prevented her from walking up the stairs.
 
   Les gardes ont *entravé* le prisonnier avant de le transporter.
-  Die Wächter haben den Gefangenen *gefesselt*, bevor sie ihn transportierten.
+  The guards blocked the prisoner before transporting him.
 
   Ces nouvelles règles *entravent* la créativité des artistes.
-  Diese neuen Regeln *behindern* die Kreativität der Künstler.
+  These new rules hinder the creativity of artists.
 
   La neige *entrave* le bon fonctionnement des trains.
-  Der Schnee *behindert* den reibungslosen Betrieb der Züge.
+  Snow hinders the proper operation of trains.
 
   Les préjugés *entravent* souvent le progrès social.
-  Vorurteile *behindern* oft den sozialen Fortschritt.
+  Prejudice often hinders social progress.
 
   "Je n'*entrave* que dalle à ce qu'il raconte."
-  "Ich *verstehe* überhaupt nichts von dem, was er erzählt."
+  "I don't care what he says".
 
   La bureaucratie excessive *entrave* l'innovation des entreprises.
-  Die übermäßige Bürokratie *behindert* die Innovation der Unternehmen.
+  Excessive bureaucracy is a barrier to business innovation.
 
   Le berger *entrave* ses moutons pendant la tonte.
-  Der Schäfer *fesselt* seine Schafe während der Schur.
+  The shepherd hinders his sheep during the shearing.
 
   Les travaux routiers *entravent* l'accès au centre commercial.
-  Die Straßenarbeiten *behindern* den Zugang zum Einkaufszentrum.
+  Road works prevented access to the shopping centre.
 
   Cette décision politique *entrave* nos plans d'expansion.
-  Diese politische Entscheidung *erschwert* unsere Expansionspläne.
+  This political decision is hampering our expansion plans.
 
   La peur de l'échec *entrave* souvent notre réussite.
-  Die Angst vor dem Scheitern *behindert* oft unseren Erfolg.
+  Fear of failure often hinders our success.
 
   Les mauvaises conditions météorologiques *entravent* le sauvetage.
-  Das schlechte Wetter *behindert* die Rettungsaktion.
+  Bad weather is hindering the rescue.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

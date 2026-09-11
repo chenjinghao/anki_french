@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1870
 Wort: assumer
 Wortart: vt, vr, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: assumer
 Femininum / Plural: ''
 IPA: \a.sy.me\
-Definition: übernehmen, auf sich nehmen
+Definition: Take on
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les autorités font *assumer* la responsabilité des troubles.
-  Die Behörden lassen die Verantwortung für die Unruhen *übernehmen*.
+  The authorities are taking responsibility for the unrest.
 
   Elle a décidé d'*assumer* pleinement son rôle de mère.
-  Sie hat beschlossen, ihre Rolle als Mutter voll zu *übernehmen*.
+  She decided to take full responsibility for her role as a mother.
 
   Il n'était pas prêt à *assumer* les conséquences de ses actes.
-  Er war nicht bereit, die Konséquenzen seiner Taten zu *tragen*.
+  He was not prepared to bear the consequences of his actions.
 
   Le nouveau directeur devra *assumer* des fonctions importantes dès demain.
-  Der neue Direktor wird ab morgen wichtige Funktionen *bekleiden*.
+  The new director will have to take on important duties tomorrow.
 
   Je dois *assumer* la douleur de cette perte.
-  Ich muss den Schmerz dieses Verlustes *ertragen*.
+  I must bear the pain of this loss.
 
   Sophie *assume* parfaitement son nouveau poste de cheffe d'équipe.
-  Sophie *füllt* ihre neue Position als Teamleiterin perfekt *aus*.
+  Sophie's taking on her new job as team leader.
 
   Il lui a fallu des années pour *assumer* le choc de l'accident.
-  Er brauchte Jahre, um den Schock des Unfalls zu *verarbeiten*.
+  It took him years to come to terms with the shock of the accident.
 
   "Je commence enfin à m'*assumer* tel que je suis."
-  "Ich beginne endlich, mich so zu *akzeptieren*, wie ich bin."
+  "I'm finally starting to take on myself as I am".
 
   Après vingt ans, elle *assume* enfin ses origines.
-  Nach zwanzig Jahren *steht* sie endlich *zu* ihren Wurzeln.
+  After twenty years, it finally takes on its origins.
 
   Le comité devra *assumer* les risques financiers du projet.
-  Das Komitee wird die finanziellen Risiken des Projekts *übernehmen* müssen.
+  The committee will have to assume the financial risks of the project.
 
   Paul refuse d'*assumer* les conditions du contrat.
-  Paul weigert sich, die Vertragsbedingungen zu *akzeptieren*.
+  Paul refuses to accept the terms of the contract.
 
   Cette équipe médicale *assume* une lourde responsabilité.
-  Dieses medizinische Team *trägt* eine schwere Verantwortung.
+  This medical team takes on a heavy responsibility.
 
   Vas-tu *assumer* cette tâche difficile ?
-  Wirst du diese schwierige Aufgabe *übernehmen*?
+  Are you going to take on this difficult task?
 
   Elle s'est rapidement mise à *assumer* ses nouvelles responsabilités.
-  Sie begann schnell, ihre neuen Verantwortlichkeiten zu *übernehmen*.
+  She soon took on her new responsibilities.
 
   Il n'a jamais voulu *assumer* ses erreurs de jeunesse.
-  Er wollte nie *zu* seinen Jugendfehlern *stehen*.
+  He never wanted to take on the mistakes of his youth.
 
   Marie *assume* courageusement son handicap.
-  Marie *akzeptiert* ihre Behinderung mutig.
+  Marie courageously takes on her disability.
 
   Les employés doivent *assumer* les changements organisationnels.
-  Die Mitarbeiter müssen die organisatorischen Änderungen *mittragen*.
+  Employees must take on the organizational changes.
 
   "Tu dois apprendre à t'*assumer* financièrement."
-  "Du musst lernen, finanziell auf eigenen Füßen zu *stehen*."
+  "You have to learn how to manage your finances".
 
   Le président devra *assumer* les conséquences de cette décision.
-  Der Präsident wird die Folgen dieser Entscheidung *tragen* müssen.
+  The President will have to bear the consequences of this decision.
 
   Il est temps d'*assumer* nos choix collectifs.
-  Es ist Zeit, *zu* unseren gemeinsamen Entscheidungen zu *stehen*.
+  It's time to make our collective choices.
 
   Cette artiste *assume* pleinement son style unique.
-  Diese Künstlerin *steht* voll und ganz *zu* ihrem einzigartigen Stil.
+  This artist fully embraces her unique style.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

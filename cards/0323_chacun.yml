@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 323
 Wort: chacun
 Wortart: pro
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: chacun
 Femininum / Plural: chacune
 IPA: \ʃa.kœ̃\
-Definition: jeder (Einzelne)
+Definition: each (individual)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ont *chacun* leurs intérêts, leurs passions.
-  *Jeder* von ihnen hat seine eigenen Interessen und Leidenschaften.
+  They each have their own interests, their own passions.
 
   *Chacune* de mes sœurs a préparé un gâteau différent.
-  *Jede* meiner Schwestern hat einen anderen Kuchen gebacken.
+  Each of my sisters made a different cake.
 
   Les invités sont partis *chacun* de leur côté après la fête.
-  Nach der Party ging *jeder* seiner Wege.
+  After the feast, the guests went their separate ways.
 
   *Chacun* est libre de choisir sa religion.
-  *Jeder* kann seine Religion frei wählen.
+  Everyone is free to choose their religion.
 
   Ces livres coûtent dix euros *chacun*.
-  Diese Bücher kosten *jeweils* zehn Euro.
+  These books cost ten euros each.
 
   Nous avons reçu *chacun* un cadeau pour Noël.
-  Wir haben *jeder* ein Weihnachtsgeschenk bekommen.
+  We each got a Christmas present.
 
   *Chacun* doit assumer ses responsabilités.
-  *Jeder* muss seine Verantwortung übernehmen.
+  Everyone has to take responsibility.
 
   *Chacune* des options présente des avantages et des inconvénients.
-  *Jede* der Optionen hat Vor- und Nachteile.
+  Each option has its advantages and disadvantages.
 
   Les enfants ont *chacun* leur chambre dans la nouvelle maison.
-  Die Kinder haben im neuen Haus *jeder* ihr eigenes Zimmer.
+  The children each have their own room in the new house.
 
   "*Chacun pour soi*" n'est pas une bonne philosophie de vie.
-  "*Jeder für sich*" ist keine gute Lebensphilosophie.
+  "*Everyone for themselves*" is not a good philosophy of life.
 
   *Chacun* voit les choses différemment.
-  *Jeder* sieht die Dinge anders.
+  Everyone sees things differently.
 
   Ces tableaux valent mille euros *chacun*.
-  Diese Gemälde sind *jeweils* tausend Euro wert.
+  These paintings are worth a thousand euros each.
 
   *Chacun* de nous devra voter demain.
-  *Jeder* von uns muss morgen wählen.
+  Each of us will have to vote tomorrow.
 
   Les deux équipes ont marqué *chacune* trois buts.
-  Beide Mannschaften haben *jeweils* drei Tore geschossen.
+  Both teams scored three goals each.
 
   *Chacun* prend son plaisir où il le trouve.
-  *Jeder* findet sein Glück auf seine Weise.
+  Everyone takes pleasure wherever he finds it.
 
   *Chacun* à son tour devra présenter son projet.
-  *Jeder* muss der Reihe nach sein Projekt vorstellen.
+  Each person in turn will have to present his or her own project.
 
   Nous avons *chacun* nos propres problèmes à résoudre.
-  Wir haben *jeder* unsere eigenen Probleme zu lösen.
+  We all have our own problems to solve.
 
   *Chacune* de ces traditions a une histoire unique.
-  *Jede* dieser Traditionen hat ihre eigene Geschichte.
+  Each of these traditions has a unique history.
 
   Ils marchaient *chacun* à leur rythme.
-  Sie gingen *jeder* in seinem eigenen Tempo.
+  They were walking at their own pace.
 
   *Chacun* doit ranger ses affaires après utilisation.
-  *Jeder* muss seine Sachen nach Gebrauch aufräumen.
+  Everyone has to put their stuff away after use.
 
   *Tout chacun* peut participer au concours.
-  *Jedermann* kann an dem Wettbewerb teilnehmen.
+  Anyone can take part in the competition.
 
   Ces plantes ont besoin *chacune* d'un environnement différent.
-  Diese Pflanzen brauchen *jeweils* eine andere Umgebung.
+  Each of these plants needs a different environment.
 
   *Chacun* voit midi à sa porte.
-  *Jeder* urteilt nach seinem eigenen Standpunkt.
+  Everyone sees noon at their doorstep.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

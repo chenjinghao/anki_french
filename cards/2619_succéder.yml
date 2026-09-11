@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2619
 Wort: succéder
 Wortart: vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: succéder
 Femininum / Plural: ''
 IPA: \syk.se.de\
-Definition: (nach-)folgen
+Definition: (subsequent) effects
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est extrêmement difficile de lui *succéder*.
-  Es ist äußerst schwierig, seine Nachfolge *anzutreten*.
+  It's extremely difficult to *succeed* him.
 
   Le jour *succède* à la nuit dans un cycle éternel.
-  Der Tag *folgt* auf die Nacht in einem ewigen Kreislauf.
+  Day follows night in an eternal cycle.
 
   Marie a *succédé* à son père comme directrice de l'entreprise familiale.
-  Marie hat die Nachfolge ihres Vaters als Leiterin des Familienunternehmens *angetreten*.
+  Marie succeeded her father as head of the family business.
 
   Les saisons se *succèdent*, chacune apportant ses propres beautés.
-  Die Jahreszeiten *folgen* *aufeinander*, jede bringt ihre eigenen Schönheiten mit sich.
+  The seasons are successive, each bringing its own beauty.
 
   Le nouveau roi *succédera* au trône après le décès de la reine.
-  Der neue König wird nach dem Tod der Königin den Thron *besteigen*.
+  The new king will take the throne after the queen's death.
 
   Dans ce musée, les tableaux impressionnistes *succèdent* aux œuvres classiques.
-  In diesem Museum *folgen* auf die klassischen Werke die impressionistischen Gemälde.
+  In this museum, the Impressionist paintings succeed the classical works.
 
   Les gouvernements se sont *succédé* rapidement pendant cette période instable.
-  Die Regierungen haben sich in dieser instabilen Zeit schnell *abgewechselt*.
+  The succession of governments took place quickly during this unstable period.
 
   Il a *succédé* à son oncle et hérité de toute sa fortune.
-  Er hat das Erbe seines Onkels *angetreten* und sein gesamtes Vermögen geerbt.
+  He succeeded his uncle and inherited his entire fortune.
 
   À la joie *succéda* une profonde tristesse quand ils apprirent la nouvelle.
-  Auf die Freude *folgte* tiefe Traurigkeit, als sie die Nachricht erfuhren.
+  When they heard the news, they were overjoyed and deeply saddened.
 
   Plusieurs générations se sont *succédé* dans cette maison familiale.
-  Mehrere Generationen haben sich in diesem Familienhaus *abgelöst*.
+  Several generations have passed on in this family home.
 
   Le calme *succède* toujours à la tempête, il faut être patient.
-  Auf den Sturm *folgt* immer die Ruhe, man muss geduldig sein.
+  Calmness always comes after the storm, you have to be patient.
 
   Elle *succédera* à son mentor comme professeur principal l'année prochaine.
-  Sie wird nächstes Jahr die Nachfolge ihres Mentors als Klassenlehrerin *antreten*.
+  She will succeed her mentor as principal next year.
 
   Les évènements se sont *succédé* à un rythme effréné cette semaine.
-  Die Ereignisse haben sich diese Woche in rasantem Tempo *abgewechselt*.
+  Things have been happening at an unprecedented pace this week.
 
   Dans ce paysage, les collines *succèdent* aux plaines verdoyantes.
-  In dieser Landschaft *folgen* auf die grünen Ebenen die Hügel.
+  In this landscape, the hills follow the green plains.
 
   Le nouveau chef d'orchestre a brillamment *succédé* au maestro légendaire.
-  Der neue Dirigent hat die Nachfolge des legendären Maestros glänzend *angetreten*.
+  The new conductor has brilliantly succeeded the legendary maestro.
 
   Les modes se *succèdent*, mais le style reste éternel.
-  Moden *wechseln* sich ab, aber Stil bleibt ewig.
+  Fashions follow one another, but the style stays forever.
 
   Il a *succédé* à son frère dans l'entreprise familiale après son départ à la retraite.
-  Er hat nach dessen Pensionierung die Nachfolge seines Bruders im Familienunternehmen *angetreten*.
+  He succeeded his brother in the family business after his retirement.
 
   Les chapitres se *succèdent* de manière fluide dans ce roman captivant.
-  Die Kapitel *folgen* in diesem fesselnden Roman flüssig *aufeinander*.
+  The chapters in this fascinating novel follow each other smoothly.
 
   À la période de sécheresse *succéda* une saison exceptionnellement pluvieuse.
-  Auf die Trockenperiode *folgte* eine außergewöhnlich regenreiche Jahreszeit.
+  The drought period was followed by an exceptionally rainy season.
 
   Le neveu *succédera* à sa tante comme propriétaire de la librairie.
-  Der Neffe wird die Nachfolge seiner Tante als Besitzer der Buchhandlung *antreten*.
+  The nephew will succeed his aunt as owner of the bookstore.
 
   Les civilisations se sont *succédé* sur ce site archéologique pendant des millénaires.
-  Die Zivilisationen haben sich an dieser archäologischen Stätte über Jahrtausende hinweg *abgelöst*.
+  Civilizations have followed each other on this archaeological site for millennia.
 
   Le silence *succéda* aux applaudissements nourris dans la salle de concert.
-  Auf den tosenden Applaus *folgte* Stille im Konzertsaal.
+  Silence followed the applause in the concert hall.
 
   Dans ce défilé, les robes colorées *succèdent* aux tenues plus sobres.
-  Bei dieser Modenschau *folgen* auf die schlichten Outfits die farbenfrohen Kleider.
+  In this parade, colorful dresses take the place of more sober outfits.
 
   Les jours se *succèdent* mais ne se ressemblent pas, comme dit le proverbe.
-  Die Tage *folgen* aufeinander, gleichen sich aber nicht, wie das Sprichwort sagt.
+  The days go by, but they're not the same, as the saying goes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3349
 Wort: brièvement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: brièvement
 Femininum / Plural: ''
 IPA: \bʁi.jɛv.mɑ̃\
-Definition: kurz, knapp
+Definition: Just a minute
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Messieurs, je voudrais intervenir très *brièvement*.
-  Meine Herren, ich möchte nur ganz *kurz* das Wort ergreifen.
+  Gentlemen, I'd like to speak very *briefly*.
 
   Le directeur a *brièvement* résumé la situation avant de partir.
-  Der Direktor hat die Situation *kurz* zusammengefasst, bevor er ging.
+  The director *briefly* summarized the situation before leaving.
 
   Elle s'est arrêtée *brièvement* devant la vitrine pour admirer les bijoux.
-  Sie blieb *kurz* vor dem Schaufenster stehen, um den Schmuck zu bewundern.
+  She stopped *briefly* in front of the window to admire the jewelry.
 
   Pouvez-vous expliquer *brièvement* votre point de vue ?
-  Können Sie Ihren Standpunkt *kurz und bündig* erklären?
+  Can you *briefly* explain your point of view?
 
   Il m'a salué *brièvement* avant de disparaître dans la foule.
-  Er grüßte mich *kurz*, bevor er in der Menge verschwand.
+  He greeted me *briefly* before disappearing from the crowd.
 
   J'aimerais vous présenter *brièvement* notre nouveau projet.
-  Ich möchte Ihnen unser neues Projekt *kurz* vorstellen.
+  I'd like to *briefly* introduce you to our new project.
 
   La pluie s'est *brièvement* arrêtée, puis a repris de plus belle.
-  Der Regen hörte *kurz* auf und setzte dann noch stärker wieder ein.
+  The rain stopped for a while, and then it started to get better.
 
   *Brièvement* dit, nous ne sommes pas d'accord avec cette proposition.
-  *Kurz* gesagt, wir sind mit diesem Vorschlag nicht einverstanden.
+  In short, we disagree with this proposal.
 
   Elle a mentionné *brièvement* son voyage en Italie pendant le dîner.
-  Sie erwähnte während des Essens *kurz* ihre Italienreise.
+  She *briefly* mentioned her trip to Italy during dinner.
 
   Le soleil est apparu *brièvement* entre les nuages cet après-midi.
-  Die Sonne kam heute Nachmittag *kurz* zwischen den Wolken hervor.
+  The sun appeared *briefly* in the clouds that afternoon.
 
   Je vais vous expliquer *brièvement* comment utiliser cette machine.
-  Ich werde Ihnen *kurz und bündig* erklären, wie man diese Maschine benutzt.
+  I'll *briefly* explain how to use this machine.
 
   Nous nous sommes *brièvement* rencontrés à la conférence la semaine dernière.
-  Wir haben uns letzte Woche auf der Konferenz *kurz* getroffen.
+  We *briefly* met at the conference last week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

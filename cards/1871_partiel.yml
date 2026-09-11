@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1871
 Wort: partiel
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: partiel
 Femininum / Plural: partielle
 IPA: \paʁ.sjɛl\
-Definition: Teil-
+Definition: Partly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle travaille à temps *partiel*.
-  Sie arbeitet in *Teil*zeit.
+  She works part-time.
 
   J'ai obtenu une note excellente au *partiel* d'histoire.
-  Ich habe eine ausgezeichnete Note in der *Klausur* in Geschichte bekommen.
+  I got an excellent grade in history.
 
   Les étudiants doivent passer trois *partiels* ce semestre.
-  Die Studierenden müssen dieses Semester drei *Klausuren* schreiben.
+  Students have to pass three semesters this semester.
 
   Une éclipse *partielle* de soleil aura lieu demain matin.
-  Morgen früh wird es eine *partielle* Sonnenfinsternis geben.
+  A *partial* solar eclipse will occur tomorrow morning.
 
   Je n'ai qu'une vision *partielle* du problème.
-  Ich habe nur eine *lückenhafte* Sicht des Problems.
+  I only have a *partial* view of the problem.
 
   L'entreprise a mis en place le chômage *partiel* pendant la crise.
-  Das Unternehmen hat während der Krise *Kurz*arbeit eingeführt.
+  The company introduced *partial* unemployment during the crisis.
 
   Les résultats *partiels* montrent que nous sommes en tête.
-  Die *Teil*ergebnisse zeigen, dass wir vorne liegen.
+  *Partial* results show we're ahead of the curve.
 
   Une élection *partielle* aura lieu le mois prochain.
-  Nächsten Monat findet eine *Nach*wahl statt.
+  A by-election will be held next month.
 
   Il n'a effectué qu'un paiement *partiel* de sa dette.
-  Er hat nur eine *Teil*zahlung seiner Schuld geleistet.
+  He paid only a *partial* payment of his debt.
 
   Nous n'avons reçu que des informations *partielles* sur l'incident.
-  Wir haben nur *lückenhafte* Informationen über den Vorfall erhalten.
+  We have received only *partial* information about the incident.
 
   Le succès n'a été que *partiel*, mais c'est déjà un début.
-  Der Erfolg war nur *teilweise*, aber es ist schon ein Anfang.
+  The success has been only *partial*, but it's just the beginning.
 
   La restauration *partielle* du bâtiment commencera bientôt.
-  Die *Teil*renovierung des Gebäudes wird bald beginnen.
+  *Partial* restoration of the building will begin soon.
 
   Mon père est passé d'un emploi à temps plein à un emploi à temps *partiel*.
-  Mein Vater ist von einer Vollzeitstelle zu einer *Teil*zeitstelle gewechselt.
+  My father went from a full-time job to a part-time job.
 
   Le remboursement *partiel* sera effectué dans les plus brefs délais.
-  Die *Teil*erstattung wird schnellstmöglich durchgeführt.
+  The *partial* repayment will be made as soon as possible.
 
   Les données *partielles* ne permettent pas de tirer des conclusions définitives.
-  Die *unvollständigen* Daten lassen keine endgültigen Schlüsse zu.
+  *Partial* data do not allow definitive conclusions to be drawn.
 
   La rénovation *partielle* de l'appartement prendra deux semaines.
-  Die *Teil*renovierung der Wohnung wird zwei Wochen dauern.
+  The *partial* renovation of the apartment will take two weeks.
 
   La couverture *partielle* des frais sera assurée par l'assurance.
-  Die *Teil*übernahme der Kosten wird von der Versicherung gewährleistet.
+  Part of the costs shall be covered by the insurance.
 
   Le système n'est que *partiellement* opérationnel aujourd'hui.
-  Das System ist heute nur *teilweise* funktionsfähig.
+  The system is only *partially* operational today.
 
   Les étudiants stressent beaucoup avant les *partiels* de fin de semestre.
-  Die Studierenden sind vor den *Klausuren* am Ende des Semesters sehr gestresst.
+  Students get a lot of stress before the end-of-semester classes.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 265
 Wort: ensuite
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: ensuite
 Femininum / Plural: ''
 IPA: \ɑ̃.sɥit\
-Definition: anschließend, danach
+Definition: Then, after that
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Ensuite*, il va au restaurant.
-  *Danach* geht er ins Restaurant.
+  Then he goes to the restaurant.
 
   Je vais ranger ma chambre et *ensuite* je ferai mes devoirs.
-  Ich werde mein Zimmer aufräumen und *dann* meine Hausaufgaben machen.
+  I'll clean up my room and *then* do my homework.
 
   Il a bu son café, *ensuite* il est parti travailler.
-  Er hat seinen Kaffee getrunken, *anschließend* ist er zur Arbeit gegangen.
+  He drank his coffee, *then* went to work.
 
   *Ensuite*, qu'est-ce que tu proposes de faire ?
-  Was *dann*, was schlägst du vor zu tun?
+  Then what do you propose to do?
 
   Le guide marchait devant, et nous venions *ensuite*.
-  Der Führer ging vorne, und wir kamen *dahinter*.
+  The guide walked ahead, and we followed.
 
   D'abord la théorie, *ensuite* la pratique.
-  Erst die Theorie, *dann* die Praxis.
+  First theory, *then* practice.
 
   On traverse le pont, et *ensuite* on tourne à droite.
-  Man überquert die Brücke, und *dann* biegt man rechts ab.
+  We cross the bridge, and *then* we turn right.
 
   *Ensuite* de quoi, ils se sont réconciliés.
-  *Daraufhin* haben sie sich versöhnt.
+  After that, they reconciled.
 
   Prenez l'escalier jusqu'au deuxième étage ; *ensuite*, c'est la première porte à gauche.
-  Nehmen Sie die Treppe bis in den zweiten Stock; *danach* ist es die erste Tür links.
+  Take the stairs to the second floor, and *then* the first door to the left.
 
   Il a lu le message, et *ensuite* il l'a effacé.
-  Er hat die Nachricht gelesen und sie *anschließend* gelöscht.
+  He read the message, and *then* he deleted it.
 
   D'abord écouter, réfléchir *ensuite*.
-  Erst zuhören, *dann* nachdenken.
+  Listen first, *then* think.
 
   La route passe *ensuite* par une forêt dense.
-  Die Straße führt *danach* durch einen dichten Wald.
+  The road *then* passes through a dense forest.
 
   J'ai fini mon travail ; que fait-on *ensuite* ?
-  Ich bin mit meiner Arbeit fertig; was machen wir *dann*?
+  I'm done with my work, what do we do next?
 
   *Ensuite*, nous avons visité le musée pendant deux heures.
-  *Anschließend* haben wir das Museum zwei Stunden lang besichtigt.
+  Then we visited the museum for two hours.
 
   Elle a préparé le dîner, *ensuite* elle s'est reposée.
-  Sie hat das Abendessen zubereitet, *danach* hat sie sich ausgeruht.
+  She made dinner, *then* she rested.
 
   D'abord je ne peux pas, et *ensuite* je n'en ai pas envie.
-  Erstens kann ich nicht, und *zweitens* habe ich keine Lust.
+  First I can't, and *then* I don't want to.
 
   Le président parlait, *ensuite* venaient les ministres.
-  Der Präsident sprach, *darauf* folgten die Minister.
+  The president spoke, *then* the ministers came.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

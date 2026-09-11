@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2432
 Wort: programmer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: programmer
 Femininum / Plural: ''
 IPA: \pʁɔ.ɡʁa.me\
-Definition: programmieren
+Definition: programming
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils mêleront sons acoustiques et *programmés*.
-  Sie werden akustische und *programmierte* Klänge mischen.
+  They'll mix acoustic and *programmed* sounds.
 
   Le cinéma *programme* des films d'auteur tous les jeudis.
-  Das Kino *setzt* jeden Donnerstag Autorenfilme *auf den Spielplan*.
+  The film *program* features writer's films every Thursday.
 
   J'ai *programmé* mes vacances pour juillet prochain.
-  Ich habe meinen Urlaub für nächsten Juli *geplant*.
+  I've scheduled my vacation for next July.
 
   La machine à laver est *programmée* pour démarrer à minuit.
-  Die Waschmaschine ist auf Mitternacht *eingestellt*.
+  The washing machine is scheduled to start at midnight.
 
   La réunion est *programmée* pour 10 heures précises.
-  Die Besprechung ist auf 10 Uhr genau *angesetzt*.
+  The meeting is scheduled for exactly 10 o'clock.
 
   Comment *programmer* le four à micro-ondes ?
-  Wie kann man die Mikrowelle *programmieren*?
+  How do you program the microwave?
 
   Cette chaîne *programme* des documentaires le dimanche soir.
-  Dieser Sender *nimmt* Dokumentarfilme für Sonntagabend *ins Programm*.
+  This channel broadcasts documentaries on Sunday nights.
 
   Il faut *programmer* un rendez-vous chez le dentiste.
-  Wir müssen einen Zahnarzttermin *planen*.
+  We need to schedule an appointment with the dentist.
 
   Le festival a *programmé* trois concerts pour ce weekend.
-  Das Festival hat drei Konzerte für dieses Wochenende *geplant*.
+  The festival has scheduled three concerts for this weekend.
 
   As-tu déjà *programmé* ton réveil pour demain ?
-  Hast du deinen Wecker für morgen schon *eingestellt*?
+  Have you already scheduled your wake-up for tomorrow?
 
   Le théâtre *programme* une nouvelle pièce chaque mois.
-  Das Theater *setzt* jeden Monat ein neues Stück *auf den Spielplan*.
+  The theater plans a new play every month.
 
   Les étudiants apprennent à *programmer* des robots simples.
-  Die Studenten lernen, einfache Roboter zu *programmieren*.
+  Students are learning how to program simple robots.
 
   La conférence est *programmée* en ligne pour la semaine prochaine.
-  Die Konferenz ist für nächste Woche online *geplant*.
+  The conference is scheduled online for next week.
 
   J'ai *programmé* le thermostat pour économiser l'énergie.
-  Ich habe den Thermostat zur Energieeinsparung *programmiert*.
+  I *programmed* the thermostat to save energy.
 
   Cette émission est *programmée* à une heure de grande écoute.
-  Diese Sendung *steht* zur Hauptsendezeit *auf dem Programm*.
+  This program is scheduled for one hour of broadcast time.
 
   Comment as-tu *programmé* ta journée demain ?
-  Wie hast du deinen Tag morgen *geplant*?
+  How did you schedule your day tomorrow?
 
   Le musée *programme* des visites guidées tous les weekends.
-  Das Museum *plant* jeden Wochenende Führungen.
+  The museum offers guided tours every weekend.
 
   L'appareil peut être *programmé* pour démarrer automatiquement.
-  Das Gerät kann für den automatischen Start *programmiert* werden.
+  The device can be *programmed* to start automatically.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

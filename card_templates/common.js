@@ -84,9 +84,9 @@ function processText(text, isFrench, processStars = true) {
       }
       text = formattedLines.join("<br>");
     }
-    // replace with German quote marks »...«
+    // replace with English quote marks “...”
     text = text.replaceAll("„", '"').replaceAll("“", '"');
-    text = text.replaceAll(/"(?![^<]*>)(.+?)"(?![^<]*>)/g, "»\u2060$1\u2060«");
+    text = text.replaceAll(/"(?![^<]*>)(.+?)"(?![^<]*>)/g, "“\u2060$1\u2060”");
   }
 
   // replace *...* with word-highlight span
@@ -214,11 +214,11 @@ async function getTTSUrl(
       name:
         "fr-FR-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
     };
-    if (lang === "de-DE") {
+    if (lang === "en-US") {
       voice = {
-        languageCode: "de-DE",
+        languageCode: "en-US",
         name:
-          "de-DE-Chirp3-HD-" +
+          "en-US-Chirp3-HD-" +
           voices[Math.floor(Math.random() * voices.length)],
       };
     }

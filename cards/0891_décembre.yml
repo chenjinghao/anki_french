@@ -1,52 +1,52 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 891
 Wort: décembre
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le décembre
 Femininum / Plural: ''
 IPA: \de.sɑ̃bʁ\
-Definition: Dezember
+Definition: December
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'était un samedi après-midi de *décembre*.
-  Es war ein *Dezember*nachmittag an einem Samstag.
+  It was a Saturday afternoon in *December*.
 
   En *décembre*, les jours sont les plus courts de l'année.
-  Im *Dezember* sind die Tage am kürzesten.
+  *December* is the shortest day of the year.
 
   Le 21 *décembre* marque le début de l'hiver.
-  Am 21. *Dezember* beginnt der Winter.
+  *December* 21 marks the beginning of winter.
 
   Nous nous sommes mariés le 8 *décembre* 2019.
-  Wir haben am 8. *Dezember* 2019 geheiratet.
+  We got married on *December* 8, 2019.
 
   Le marché de Noël ouvre ses portes début *décembre*.
-  Der Weihnachtsmarkt öffnet Anfang *Dezember*.
+  The Christmas market opens in early *December*.
 
   Il neige souvent en *décembre* dans cette région.
-  In dieser Region schneit es oft im *Dezember*.
+  It often snows in *December* in this area.
 
   Le loyer doit être payé avant le 5 *décembre*.
-  Die Miete muss vor dem 5. *Dezember* bezahlt werden.
+  The rent must be paid by *December* 5th.
 
   Mon contrat se termine fin *décembre*.
-  Mein Vertrag endet Ende *Dezember*.
+  My contract expires at the end of *December*.
 
   Les examens auront lieu mi-*décembre*.
-  Die Prüfungen finden Mitte *Dezember* statt.
+  The exams will take place in mid-*December*.
 
   En *décembre* dernier, j'ai voyagé au Canada.
-  Im letzten *Dezember* bin ich nach Kanada gereist.
+  Last *December*, I traveled to Canada.
 
   Le 25 *décembre* est un jour férié en France.
-  Der 25. *Dezember* ist in Frankreich ein Feiertag.
+  *December* 25 is a public holiday in France.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

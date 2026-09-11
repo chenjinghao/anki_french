@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4590
 Wort: inédit
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inédit
 Femininum / Plural: inédite
 IPA: \i.ne.di\
-Definition: unveröffentlicht, ganz neu
+Definition: Unpublished, entirely new
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Dix-sept films *inédits* seront en compétition.
-  Siebzehn *unveröffentlichte* Filme werden im Wettbewerb sein.
+  Seventeen unreleased films will compete.
 
   La bibliothèque a découvert des lettres *inédites* de Victor Hugo.
-  Die Bibliothek hat *unveröffentlichte* Briefe von Victor Hugo entdeckt.
+  The library discovered *unpublished* letters from Victor Hugo.
 
   Cette exposition présente des documents *inédits* sur la Révolution française.
-  Diese Ausstellung zeigt *unveröffentlichte* Dokumente über die Französische Revolution.
+  This exhibition presents *unpublished* documents on the French Revolution.
 
   L'éditeur a publié trois romans *inédits* de cet auteur décédé.
-  Der Verlag hat drei *unveröffentlichte* Romane dieses verstorbenen Autors herausgegeben.
+  The publisher has published three previously *unpublished* novels by the late author.
 
   Le musée expose des photographies *inédites* de Paris au XIX<sup>e</sup> siècle.
-  Das Museum stellt *nie gezeigte* Fotografien von Paris im 19. Jahrhundert aus.
+  The museum exhibits *unpublished* photographs of Paris in the 19th century.
 
   Cette chanteuse propose une approche *inédite* du jazz traditionnel.
-  Diese Sängerin bietet einen *völlig neuen* Ansatz zum traditionellen Jazz.
+  This singer offers an unprecedented approach to traditional jazz.
 
   Le chercheur a trouvé une solution *inédite* à ce problème mathématique.
-  Der Forscher hat eine *neuartige* Lösung für dieses mathematische Problem gefunden.
+  The researcher has found an unprecedented solution to this mathematical problem.
 
   Ces *inédits* de Baudelaire valent une fortune.
-  Diese *unveröffentlichten Werke* von Baudelaire sind ein Vermögen wert.
+  Baudelaire's new books are worth a fortune.
 
   Marie reste une auteure *inédite*, mais elle continue d'écrire.
-  Marie ist noch eine *unveröffentlichte* Autorin, aber sie schreibt weiter.
+  Marie remains an *unpublished* author, but she continues to write.
 
   Le festival présente des spectacles *inédits* chaque année.
-  Das Festival präsentiert jedes Jahr *völlig neue* Shows.
+  The festival presents unprecedented performances every year.
 
   Cette découverte offre des possibilités *inédites* en médecine.
-  Diese Entdeckung bietet *nie dagewesene* Möglichkeiten in der Medizin.
+  This discovery offers unprecedented opportunities in medicine.
 
   Les archives contiennent des témoignages *inédits* sur cette période.
-  Die Archive enthalten *unveröffentlichte* Zeugnisse aus dieser Zeit.
+  The archives contain unprecedented evidence of this period.
 
   Cette technologie propose une expérience utilisateur *inédite*.
-  Diese Technologie bietet ein *völlig neues* Benutzererlebnis.
+  This technology offers an unprecedented user experience.
 
   Le magazine a publié des entretiens *inédits* avec le président.
-  Das Magazin hat *unveröffentlichte* Interviews mit dem Präsidenten publiziert.
+  The magazine published *unpublished* interviews with the president.
 
   Le chef a créé un menu *inédit* pour l'ouverture du restaurant.
-  Der Koch hat ein *völlig neues* Menü für die Restauranteröffnung kreiert.
+  The chef created an unprecedented menu for the opening of the restaurant.
 
   Ces manuscrits *inédits* ont été retrouvés dans un grenier.
-  Diese *unveröffentlichten* Manuskripte wurden auf einem Dachboden gefunden.
+  These *unpublished* manuscripts were found in an attic.
 
   Les archéologues ont fait une découverte *inédite* sur ce site.
-  Die Archäologen haben eine *noch nie dagewesene* Entdeckung an dieser Stelle gemacht.
+  Archaeologists have made an unprecedented discovery at this site.
 
   Cette collection présente des œuvres *inédites* de l'artiste.
-  Diese Sammlung präsentiert *unveröffentlichte* Werke des Künstlers.
+  This collection features *unpublished* works by the artist.
 
   Le théâtre propose une mise en scène *inédite* de cette pièce classique.
-  Das Theater bietet eine *völlig neue* Inszenierung dieses klassischen Stücks.
+  The theater offers an unprecedented staging of this classic play.
 
   Cette compilation contient plusieurs *inédits* du groupe.
-  Diese Zusammenstellung enthält mehrere *unveröffentlichte Stücke* der Band.
+  This compilation contains several previously unreleased tracks from the band.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

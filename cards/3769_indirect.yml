@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3769
 Wort: indirect
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: indirect
 Femininum / Plural: indirecte
 IPA: \ɛ̃.di.ʁɛkt\
-Definition: indirekt
+Definition: indirectly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Est-ce une référence *indirecte* à la religion ?
-  Ist das eine *indirekte* Anspielung auf die Religion?
+  Is this an *indirect* reference to religion?
 
   L'*indirecte* critique de son travail l'a profondément blessé.
-  Die *indirekte* Kritik an seiner Arbeit hat ihn tief verletzt.
+  The *indirect* criticism of his work hurt him deeply.
 
   Le chemin *indirect* nous a fait perdre une heure.
-  Der *indirekte* Weg hat uns eine Stunde gekostet.
+  The indirect route cost us an hour.
 
   La lumière *indirecte* crée une ambiance plus douce dans la pièce.
-  Die *indirekte* Beleuchtung schafft eine sanftere Atmosphäre im Raum.
+  *Indirect* light creates a softer atmosphere in the room.
 
   Ces compliments *indirects* m'ont fait rougir.
-  Diese *indirekten* Komplimente haben mich erröten lassen.
+  Those *indirect* compliments made me red.
 
   La responsabilité *indirecte* du directeur ne peut pas être ignorée.
-  Die *indirekte* Verantwortung des Direktors kann nicht ignoriert werden.
+  The *indirect* responsibility of the Director cannot be ignored.
 
   La nouvelle m'est parvenue par une voie *indirecte*.
-  Die Nachricht erreichte mich auf *indirektem* Wege.
+  The news came to me indirectly.
 
   Dans cette phrase, "à mes parents" est un complément *indirect*.
-  In diesem Satz ist "meinen Eltern" ein *indirektes* Objekt.
+  In this sentence, "to my parents" is an indirect addition.
 
   Le Sénat est élu au suffrage universel *indirect*.
-  Der Senat wird durch *indirekte* Volkswahl gewählt.
+  The Senate is elected by universal indirect suffrage.
 
   La T.V.A. est un impôt *indirect* sur la consommation.
-  Die Mehrwertsteuer ist eine *indirekte* Verbrauchssteuer.
+  VAT is an indirect tax on consumption.
 
   Son influence *indirecte* sur la décision était considérable.
-  Sein *indirekter* Einfluss auf die Entscheidung war beträchtlich.
+  His *indirect* influence on the decision was considerable.
 
   Les conséquences *indirectes* de cette décision sont difficiles à prévoir.
-  Die *indirekten* Folgen dieser Entscheidung sind schwer vorherzusehen.
+  The *indirect* consequences of this decision are difficult to predict.
 
   Elle préfère utiliser des moyens *indirects* pour obtenir ce qu'elle veut.
-  Sie zieht es vor, auf *indirektem* Wege zu bekommen, was sie will.
+  She prefers to use *indirect* means to get what she wants.
 
   Le verbe "parler" est un verbe transitif *indirect*.
-  Das Verb "parler" ist ein *indirekt* transitives Verb.
+  The verb "speak" is an indirect transitive verb.
 
   La vente *indirecte* passe toujours par un intermédiaire.
-  Der *indirekte* Verkauf läuft immer über einen Zwischenhändler.
+  *Indirect* sales always go through an intermediary.
 
   Il m'a fait des reproches *indirects* pendant toute la soirée.
-  Er machte mir den ganzen Abend *indirekte* Vorwürfe.
+  He's been taunting me indirectly all night.
 
   Les causes *indirectes* de l'accident sont maintenant claires.
-  Die *indirekten* Ursachen des Unfalls sind jetzt klar.
+  The *indirect* causes of the accident are now clear.
 
   L'éclairage *indirect* se reflète sur les murs blancs.
-  Die *indirekte* Beleuchtung spiegelt sich an den weißen Wänden.
+  The indirect lighting is reflected on the white walls.
 
   Elle pose toujours des questions *indirectes*.
-  Sie stellt immer *indirekte* Fragen.
+  She always asks *indirect* questions.
 
   La démocratie *indirecte* fonctionne à travers des représentants élus.
-  Die *indirekte* Demokratie funktioniert durch gewählte Vertreter.
+  *Indirect* democracy operates through elected representatives.
 
   Les avantages *indirects* de ce poste sont nombreux.
-  Die *indirekten* Vorteile dieser Position sind zahlreich.
+  There are many *indirect* advantages to this position.
 
   Le discours *indirect* permet de rapporter les paroles de quelqu'un.
-  Die *indirekte* Rede ermöglicht es, die Worte von jemandem wiederzugeben.
+  Indirect speech is a way to convey someone's words.
 
   Le style *indirect* libre est très utilisé dans la littérature moderne.
-  Die freie *indirekte* Rede wird in der modernen Literatur häufig verwendet.
+  The indirect free style is widely used in modern literature.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

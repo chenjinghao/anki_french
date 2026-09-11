@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3292
 Wort: chantier
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le chantier
 Femininum / Plural: ''
 IPA: \ʃɑ̃.tje\
-Definition: Baustelle
+Definition: Construction site
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vais louer du matériel de *chantier*.
-  Ich werde *Bau*material mieten.
+  I'm going to rent some construction equipment.
 
   Le *chantier naval* de Saint-Nazaire emploie plus de 2000 personnes.
-  Die *Werft* in Saint-Nazaire beschäftigt über 2000 Menschen.
+  The Saint-Nazaire shipyard employs more than 2000 people.
 
   "Tu as vu le *chantier* dans sa chambre ?"
-  "Hast du das *Chaos* in seinem Zimmer gesehen?"
+  "Did you see the construction site in his room?"
 
   Notre maison est *en chantier* depuis trois mois.
-  Unser Haus ist seit drei Monaten *im Bau*.
+  Our house has been under construction for three months.
 
   Les ouvriers du *chantier* commencent tôt le matin.
-  Die *Bau*arbeiter fangen früh am Morgen an.
+  The builders start early in the morning.
 
   Le *chantier* de construction sera terminé avant l'hiver.
-  Die *Baustelle* wird vor dem Winter fertig sein.
+  The construction site will be completed before winter.
 
   Ils ont installé une grue sur le *chantier*.
-  Sie haben einen Kran auf der *Baustelle* aufgestellt.
+  They installed a crane on the construction site.
 
   "*CHANTIER* INTERDIT AU PUBLIC"
-  "BETRETEN DER *BAUSTELLE* VERBOTEN"
+  "*CONSTRUCTION SITE* — NO PUBLIC ACCESS"
 
   Le chef de *chantier* supervise les travaux.
-  Der *Bau*leiter überwacht die Arbeiten.
+  The project manager oversees the work.
 
   J'ai trois projets *en chantier* en ce moment.
-  Ich habe derzeit drei Projekte *in Arbeit*.
+  I have three projects under construction right now.
 
   Les *chantiers navals* ont fermé il y a vingt ans.
-  Die *Werften* wurden vor zwanzig Jahren geschlossen.
+  The *shipyards* closed 20 years ago.
 
   La circulation est perturbée à cause du *chantier*.
-  Der Verkehr ist wegen der *Baustelle* gestört.
+  Traffic is disrupted because of the construction site.
 
   "Quel *chantier* dans ton bureau !"
-  "Was für ein *Durcheinander* in deinem Büro!"
+  "What a construction site in your office!"
 
   Le nouveau *chantier* créera des emplois dans la région.
-  Die neue *Baustelle* wird Arbeitsplätze in der Region schaffen.
+  The new construction site will create jobs in the area.
 
   Il travaille sur un vieux *chantier* de démolition.
-  Er arbeitet auf einer alten Abbruch*baustelle*.
+  He's working on an old demolition site.
 
   Le *chantier* sera fermé pendant les vacances.
-  Die *Baustelle* wird während der Ferien geschlossen sein.
+  The construction site will be closed during the holidays.
 
   Les bruits du *chantier* réveillent tout le quartier.
-  Der Lärm von der *Baustelle* weckt die ganze Nachbarschaft auf.
+  The sounds of the construction site are waking up the whole neighborhood.
 
   Son roman est *en chantier* depuis deux ans.
-  Sein Roman ist seit zwei Jahren *in Arbeit*.
+  His novel has been in the works for two years.
 
   Le *chantier* de démolition des bateaux pollue l'environnement.
-  Die Schiffsabwrack*werft* verschmutzt die Umwelt.
+  Ship demolition sites are polluting the environment.
 
   Un nouveau *chantier* s'ouvrira au printemps.
-  Im Frühling wird eine neue *Baustelle* eröffnet.
+  A new construction site will open in the spring.
 
   Pendant toute la durée du *chantier*, le parking sera fermé.
-  Während der gesamten *Bauarbeiten* bleibt der Parkplatz geschlossen.
+  The parking lot will be closed for the duration of the project.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2189
 Wort: conformément
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: conformément
 Femininum / Plural: ''
 IPA: \kɔ̃.fɔʁ.me.mɑ̃\
-Definition: gemäß, entsprechend
+Definition: accordingly
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le débat se déroulera *conformément* au règlement.
-  Die Debatte wird regel*konform* ablaufen.
+  The debate will take place in accordance with the Rules of Procedure.
 
   J'ai agi *conformément* aux ordres reçus.
-  Ich habe *gemäß* den erhaltenen Anweisungen gehandelt.
+  I did as I was told.
 
   Nous devons vivre *conformément* à nos moyens.
-  Wir müssen *entsprechend* unseren Mitteln leben.
+  We must live according to our means.
 
   Les élèves doivent se comporter *conformément* au règlement de l'école.
-  Die Schüler müssen sich *gemäß* der Schulordnung verhalten.
+  Students must behave in accordance with the school regulations.
 
   La réunion a été organisée *conformément* à vos désirs.
-  Die Besprechung wurde *entsprechend* Ihren Wünschen organisiert.
+  The meeting was arranged according to your wishes.
 
   *Conformément* à nos attentes, les résultats sont excellents.
-  Die Ergebnisse sind, *wie* erwartet, hervorragend.
+  In line with our expectations, the results are excellent.
 
   Le restaurant change son menu *conformément* à la saison.
-  Das Restaurant ändert sein Menü saison*gemäß*.
+  The restaurant changes its menu according to the season.
 
   *Conformément* à la loi, nous devons porter un casque à moto.
-  *Nach* dem Gesetz müssen wir beim Motorradfahren einen Helm tragen.
+  According to the law, we have to wear a motorcycle helmet.
 
   Le conseil a voté *conformément* à la demande des citoyens.
-  Der Rat hat *gemäß* der Forderung der Bürger abgestimmt.
+  The Council voted in accordance with the citizens' request.
 
   *Conformément* aux instructions, j'ai rempli tous les formulaires.
-  Ich habe *entsprechend* den Anweisungen alle Formulare ausgefüllt.
+  In accordance with the instructions, I filled out all the forms.
 
   Nous avons procédé *conformément* aux règles de sécurité.
-  Wir sind *gemäß* den Sicherheitsvorschriften vorgegangen.
+  We have acted in accordance with the safety rules.
 
   Le bâtiment a été construit *conformément* aux plans.
-  Das Gebäude wurde *entsprechend* den Plänen gebaut.
+  The building was built according to the plans.
 
   *Conformément* à votre demande, nous vous envoyons les documents.
-  *Wie* gewünscht senden wir Ihnen die Unterlagen zu.
+  In accordance with your request, we will send you the documents.
 
   Les examens se dérouleront *conformément* au calendrier prévu.
-  Die Prüfungen werden *gemäß* dem vorgesehenen Zeitplan stattfinden.
+  The examinations will take place in accordance with the planned timetable.
 
   Le projet avance *conformément* au planning établi.
-  Das Projekt schreitet plan*gemäß* voran.
+  The project is progressing according to the established timetable.
 
   *Conformément* à la tradition, nous célébrons cette fête chaque année.
-  *Entsprechend* der Tradition feiern wir dieses Fest jedes Jahr.
+  According to tradition, we celebrate this holiday every year.
 
   Les travaux seront réalisés *conformément* au devis.
-  Die Arbeiten werden *entsprechend* dem Kostenvoranschlag ausgeführt.
+  The work will be carried out in accordance with the quotation.
 
   Veuillez agir *conformément* aux directives fournies.
-  Bitte handeln Sie *entsprechend* den bereitgestellten Richtlinien.
+  Please act in accordance with the instructions given.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

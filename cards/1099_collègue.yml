@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1099
 Wort: collègue
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: collègue
 Femininum / Plural: ''
 IPA: \kɔ.lɛg\
-Definition: Kollege
+Definition: 'colleague'
 Register: ↘Fiktion ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je remercie mon *collègue* pour sa contribution d'hier.
-  Ich danke meinem *Kollegen* für seinen gestrigen Beitrag.
+  I want to thank my *colleague* for his contribution yesterday.
 
   "Salut *collègue* ! On se voit au déjeuner ?"
-  "Hallo *Kollege*! Sehen wir uns beim Mittagessen?"
+  "Hello *colleague*, I'll see you at lunch".
 
   Ma *collègue* de bureau part à la retraite le mois prochain.
-  Meine *Kollegin* aus dem Büro geht nächsten Monat in Rente.
+  My office *colleague* is retiring next month.
 
   Tous mes *collègues* ont signé la carte d'anniversaire pour le chef.
-  Alle meine *Kollegen* haben die Geburtstagskarte für den Chef unterschrieben.
+  All my *colleagues* signed the birthday card for the chief.
 
   Les nouveaux *collègues* reçoivent une formation de deux semaines.
-  Die neuen *Kollegen* erhalten eine zweiwöchige Schulung.
+  The new *colleagues* are trained for two weeks.
 
   J'ai présenté le projet à mes *collègues* lors de la réunion.
-  Ich habe das Projekt meinen *Kollegen* in der Besprechung vorgestellt.
+  I introduced the project to my *colleagues* at the meeting.
 
   Notre *collègue* Julie a obtenu une promotion bien méritée.
-  Unsere *Kollegin* Julie hat eine wohlverdiente Beförderung bekommen.
+  Our *colleague* Julie got a well-deserved promotion.
 
   Les *collègues* du service marketing ont organisé un pot de départ.
-  Die *Kollegen* aus der Marketingabteilung haben eine Abschiedsfeier organisiert.
+  The *colleagues* in the marketing department organized a kick-off.
 
   Je remplace ma *collègue* pendant son congé maternité.
-  Ich vertrete meine *Kollegin* während ihrer Elternzeit.
+  I'm replacing my *colleague* on maternity leave.
 
   Son ancien *collègue* lui a proposé un nouveau poste.
-  Sein ehemaliger *Kollege* hat ihm eine neue Stelle angeboten.
+  His former *colleague* offered him a new job.
 
   Une *collègue* m'a aidé à résoudre ce problème technique.
-  Eine *Kollegin* hat mir geholfen, dieses technische Problem zu lösen.
+  A *colleague* helped me solve this technical problem.
 
   Mes *collègues* et moi allons fêter la fin du projet vendredi.
-  Meine *Kollegen* und ich werden am Freitag den Projektabschluss feiern.
+  My *colleagues* and I will celebrate the completion of the project on Friday.
 
   Pierre est devenu un *collègue* très apprécié dans l'équipe.
-  Pierre ist zu einem sehr geschätzten *Kollegen* im Team geworden.
+  Pierre became a very valued *colleague* in the team.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

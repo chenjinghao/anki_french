@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2323
 Wort: appartement
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un appartement
 Femininum / Plural: ''
 IPA: \a.paʁ.tə.mɑ̃\
-Definition: Wohnung
+Definition: Apartment
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'aimerais bien acheter un *appartement*.
-  Ich würde gerne eine *Wohnung* kaufen.
+  I'd like to buy an *apartment*.
 
   Mon *appartement* se trouve au dernier étage.
-  Meine *Wohnung* liegt im obersten Stock.
+  My *apartment* is on the top floor.
 
   Ils cherchent un *appartement* meublé à louer.
-  Sie suchen eine möblierte *Wohnung* zur Miete.
+  They're looking for a furnished *apartment* to rent.
 
   Les plantes d'*appartement* ont besoin de beaucoup de lumière.
-  *Zimmer*pflanzen brauchen viel Licht.
+  *Apartment* plants need a lot of light.
 
   Marie habite dans un petit *appartement* sur jardin.
-  Marie wohnt in einer kleinen *Wohnung* mit Gartenblick.
+  Marie lives in a small *apartment* in the garden.
 
   Le roi s'est retiré dans ses *appartements* privés.
-  Der König zog sich in seine privaten *Gemächer* zurück.
+  The king retreated to his private quarters.
 
   Les touristes ont réservé un *appartement* de luxe à l'hôtel.
-  Die Touristen haben eine *Suite* im Hotel gebucht.
+  The tourists have booked a luxury *apartment* at the hotel.
 
   "Je vais visiter un nouvel *appart*" dit-elle.
-  "Ich werde mir eine neue *Wohnung* ansehen", sagte sie.
+  "I'm going to visit a new *apartment*", she says.
 
   Mes grands-parents ont déménagé dans un *appartement* dans une résidence pour personnes âgées.
-  Meine Großeltern sind in eine Senioren*wohnung* gezogen.
+  My grandparents moved into an *apartment* in a nursing home.
 
   L'*appartement* est situé au premier étage d'un immeuble ancien.
-  Die *Wohnung* befindet sich im ersten Stock eines alten Gebäudes.
+  The *apartment* is located on the first floor of an old building.
 
   Les *appartements* de Versailles sont magnifiquement décorés.
-  Die *Gemächer* von Versailles sind wunderschön dekoriert.
+  The *apartments* in Versailles are beautifully decorated.
 
   Nous avons trouvé un bel *appartement* avec vue sur mer.
-  Wir haben eine schöne *Wohnung* mit Meerblick gefunden.
+  We found a nice *apartment* overlooking the sea.
 
   L'*appartement* dispose de trois pièces et d'un balcon.
-  Die *Wohnung* hat drei Zimmer und einen Balkon.
+  The *apartment* has three rooms and a balcony.
 
   Le loyer de cet *appartement* est vraiment trop élevé.
-  Die Miete für diese *Wohnung* ist wirklich zu hoch.
+  The rent for this *apartment* is really too high.
 
   Les grands *appartements* du château sont ouverts aux visiteurs.
-  Die großen *Gemächer* des Schlosses sind für Besucher geöffnet.
+  The large *apartments* of the castle are open to visitors.
 
   Notre *appartement* a besoin d'être rénové.
-  Unsere *Wohnung* muss renoviert werden.
+  Our *apartment* needs to be renovated.
 
   Il y a une fuite d'eau dans mon *appartement*.
-  Es gibt einen Wasserschaden in meiner *Wohnung*.
+  There's a leak in my *apartment*.
 
   Les visiteurs peuvent admirer les petits *appartements* de Trianon.
-  Die Besucher können die kleinen *Gemächer* von Trianon bewundern.
+  Visitors can admire the small *apartments* in Trianon.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

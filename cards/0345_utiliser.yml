@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 345
 Wort: utiliser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: utiliser
 Femininum / Plural: ''
 IPA: \y.ti.li.ze\
-Definition: benutzen, verwenden
+Definition: use
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *utilisait* une sorte de rasoir.
-  Er *benutzte* eine Art Rasierer.
+  He used some kind of razor.
 
   Pour faire ce gâteau, il faut *utiliser* du beurre et des œufs frais.
-  Für diesen Kuchen muss man frische Butter und Eier *verwenden*.
+  To make this cake, you have to *use* butter and fresh eggs.
 
   Comment *utilises*-tu ton nouveau smartphone ?
-  Wie *benutzt* du dein neues Smartphone?
+  How do you use your new smartphone?
 
   Nous *utiliserons* les transports en commun pour aller au travail.
-  Wir werden öffentliche Verkehrsmittel *nutzen*, um zur Arbeit zu kommen.
+  We'll use public transport to get to work.
 
   Elle *utilise* ses talents artistiques pour gagner sa vie.
-  Sie *setzt* ihre künstlerischen Fähigkeiten *ein*, um ihren Lebensunterhalt zu verdienen.
+  She uses her artistic talents to make a living.
 
   Les étudiants doivent *utiliser* un dictionnaire pendant l'examen.
-  Die Studenten müssen während der Prüfung ein Wörterbuch *benutzen*.
+  Students must *use* a dictionary during the exam.
 
   J'ai décidé d'*utiliser* mon droit de vote cette année.
-  Ich habe beschlossen, dieses Jahr von meinem Wahlrecht *Gebrauch zu machen*.
+  I've decided to exercise my right to vote this year.
 
   Pierre *utilise* toujours les bonnes expressions en français.
-  Pierre *gebraucht* immer die richtigen Ausdrücke auf Französisch.
+  Pierre always uses the right expressions in French.
 
   Je préfère *utiliser* l'huile d'olive pour la cuisine méditerranéenne.
-  Ich *verwende* für mediterrane Gerichte lieber Olivenöl.
+  I prefer to *use* olive oil for Mediterranean cuisine.
 
   Marie *utilise* ses relations pour trouver un meilleur emploi.
-  Marie *nutzt* ihre Beziehungen, um einen besseren Job zu finden.
+  Marie uses her relationships to find a better job.
 
   Nous devons *utiliser* nos ressources avec précaution.
-  Wir müssen mit unseren Ressourcen vorsichtig *umgehen*.
+  We must *use* our resources with caution.
 
   Il *utilise* l'avion pour ses déplacements professionnels.
-  Er *nutzt* das Flugzeug für seine Geschäftsreisen.
+  He uses the plane for his business travels.
 
   Cette entreprise *utilise* des méthodes modernes de production.
-  Dieses Unternehmen *verwendet* moderne Produktionsmethoden.
+  This company uses modern production methods.
 
   Comment peut-on *utiliser* les restes du repas d'hier ?
-  Wie können wir die Reste vom gestrigen Essen *verwerten*?
+  How can we *use* the leftovers from yesterday's meal?
 
   Les scientifiques *utilisent* des microscopes très puissants.
-  Die Wissenschaftler *benutzen* sehr leistungsstarke Mikroskope.
+  Scientists *use* very powerful microscopes.
 
   Nous *utilisons* l'eau de pluie pour arroser le jardin.
-  Wir *nutzen* Regenwasser zum Gießen des Gartens.
+  We use rainwater to water the garden.
 
   Le professeur nous a appris à *utiliser* cette formule mathématique.
-  Der Lehrer hat uns beigebracht, diese mathematische Formel *anzuwenden*.
+  The professor taught us how to *use* this mathematical formula.
 
   Elle *utilise* son temps libre pour apprendre le piano.
-  Sie *nutzt* ihre Freizeit, um Klavier zu lernen.
+  She uses her free time to learn piano.
 
   Les enfants ont *utilisé* toute la peinture pour leur projet d'art.
-  Die Kinder haben die ganze Farbe für ihr Kunstprojekt *verbraucht*.
+  The children *used* all the painting for their art project.
 
   Mon grand-père *utilise* encore son ancien appareil photo.
-  Mein Großvater *benutzt* noch seine alte Kamera.
+  My grandfather still uses his old camera.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

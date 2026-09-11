@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2388
 Wort: continent
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le continent
 Femininum / Plural: ''
 IPA: \kɔ̃.ti.nɑ̃\
-Definition: Kontinent
+Definition: Continent
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *continent* africain souffre de tous les maux.
-  Der afrikanische *Kontinent* leidet unter allen Übeln.
+  The African *continent* suffers from all sorts of ills.
 
   Les *continents* se déplacent de quelques centimètres par an.
-  Die *Kontinente* bewegen sich jährlich um einige Zentimeter.
+  The *continents* move a few centimeters a year.
 
   L'Antarctique est le seul *continent* inhabité.
-  Die Antarktis ist der einzige unbewohnte *Kontinent*.
+  Antarctica is the only uninhabited *continent*.
 
   Les scientifiques ont découvert des vallées sur les *continents* martiens.
-  Die Wissenschaftler haben Täler auf den Mars-*Kontinenten* entdeckt.
+  Scientists have discovered valleys on the Martian *continents*.
 
   Le *continent* asiatique compte plus de quatre milliards d'habitants.
-  Der asiatische *Kontinent* hat mehr als vier Milliarden Einwohner.
+  The Asian *continent* has more than four billion inhabitants.
 
   Pour se rendre sur le *continent*, les insulaires doivent prendre le ferry.
-  Um aufs *Festland* zu kommen, müssen die Inselbewohner die Fähre nehmen.
+  To get to the mainland, the islanders have to take the ferry.
 
   Le pont relie l'île au *continent* depuis 1995.
-  Die Brücke verbindet die Insel seit 1995 mit dem *Festland*.
+  The bridge has been connecting the island to the mainland since 1995.
 
   Un gigantesque amas de déchets forme un septième *continent* dans l'océan Pacifique.
-  Eine riesige Müllansammlung bildet einen siebten *Kontinent* im Pazifischen Ozean.
+  A gigantic garbage dump forms a seventh *continent* in the Pacific Ocean.
 
   Les Britanniques utilisent souvent l'expression "sur le *continent*" pour parler de l'Europe.
-  Die Briten verwenden oft den Ausdruck "auf dem *Kontinent*", wenn sie von Europa sprechen.
+  The British often use the expression "on the *continent*" to refer to Europe.
 
   L'Australie est à la fois un pays et un *continent*.
-  Australien ist sowohl ein Land als auch ein *Kontinent*.
+  Australia is both a country and a *continent*.
 
   Le cerveau humain reste un *continent* mystérieux à explorer.
-  Das menschliche Gehirn bleibt ein mysteriöser *Kontinent*, den es zu erforschen gilt.
+  The human brain remains a mysterious *continent* to explore.
 
   La Grande-Bretagne s'est séparée du *continent* il y a environ 8000 ans.
-  Großbritannien hat sich vor etwa 8000 Jahren vom *Festland* getrennt.
+  Great Britain broke away from the mainland about 8,000 years ago.
 
   Les cinq anneaux olympiques représentent les cinq *continents*.
-  Die fünf olympischen Ringe repräsentieren die fünf *Kontinente*.
+  The five Olympic rings represent the five *continents*.
 
   Le tunnel sous la Manche relie le Royaume-Uni au *continent* européen.
-  Der Kanaltunnel verbindet das Vereinigte Königreich mit dem europäischen *Festland*.
+  The Channel Tunnel connects the United Kingdom to the European *continent*.
 
   L'Eurasie est le plus grand *continent* de la Terre.
-  Eurasien ist der größte *Kontinent* der Erde.
+  Eurasia is the largest *continent* on Earth.
 
   Le *continent* américain s'étend du cercle polaire arctique à la Terre de Feu.
-  Der amerikanische *Kontinent* erstreckt sich vom arktischen Polarkreis bis zum Feuerland.
+  The American *continent* extends from the Arctic Circle to the Land of Fire.
 
   Les géologues étudient la formation des *continents*.
-  Die Geologen erforschen die Entstehung der *Kontinente*.
+  Geologists study the formation of *continents*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

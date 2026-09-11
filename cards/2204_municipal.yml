@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2204
 Wort: municipal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: municipal
 Femininum / Plural: municipale
 IPA: \my.ni.si.pal\
-Definition: Gemeinde-
+Definition: Community policy
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les élus *municipaux* méritent notre respect.
-  Die *kommunalen* Volksvertreter verdienen unseren Respekt.
+  Municipal elected officials deserve our respect.
 
   La piscine *municipale* est fermée pour rénovation.
-  Das *städtische* Schwimmbad ist wegen Renovierung geschlossen.
+  The municipal pool is closed for renovation.
 
   Notre *conseil municipal* se réunit tous les mardis soir.
-  Unser *Gemeinderat* trifft sich jeden Dienstagabend.
+  Our city council meets every Tuesday night.
 
   La bibliothèque *municipale* propose des lectures pour enfants.
-  Die *Stadt*bibliothek bietet Lesungen für Kinder an.
+  The municipal library offers readings for children.
 
   Les agents de la police *municipale* patrouillent dans le quartier.
-  Die Beamten der *Stadt*polizei patrouillieren im Viertel.
+  Municipal police officers are patrolling the neighborhood.
 
   Le stade *municipal* accueillera un grand concert cet été.
-  Das *städtische* Stadion wird diesen Sommer ein großes Konzert beherbergen.
+  The municipal stadium will host a big concert this summer.
 
   La nouvelle conseillère *municipale* a proposé des changements intéressants.
-  Die neue *Stadt*rätin hat interessante Änderungen vorgeschlagen.
+  The new city councillor has proposed interesting changes.
 
   Les *élections municipales* auront lieu en mars prochain.
-  Die *Kommunalwahlen* finden im nächsten März statt.
+  *Municipal elections* will be held next March.
 
   Cette *mesure municipale* vise à réduire la pollution.
-  Diese *kommunale* Maßnahme zielt darauf ab, die Umweltverschmutzung zu reduzieren.
+  This *municipal measure* is aimed at reducing pollution.
 
   Le budget *municipal* sera voté la semaine prochaine.
-  Der *städtische* Haushalt wird nächste Woche verabschiedet.
+  The municipal budget will be voted on next week.
 
   L'école *municipale* de musique cherche un nouveau professeur de piano.
-  Die *städtische* Musikschule sucht einen neuen Klavierlehrer.
+  The municipal music school is looking for a new piano teacher.
 
   Le théâtre *municipal* présente une nouvelle pièce.
-  Das *Stadt*theater führt ein neues Stück auf.
+  The Municipal Theatre presents a new play.
 
   Un arrêté *municipal* interdit le stationnement dans cette rue.
-  Eine *städtische* Verordnung verbietet das Parken in dieser Straße.
+  A city order forbids parking on this street.
 
   La nouvelle politique *municipale* encourage l'usage du vélo.
-  Die neue *Kommunal*politik fördert die Nutzung des Fahrrads.
+  The new municipal policy encourages the use of bicycles.
 
   Le service *municipal* des sports organise un tournoi.
-  Das *städtische* Sportamt organisiert ein Turnier.
+  The municipal sports department organises a tournament.
 
   Les archives *municipales* conservent des documents historiques précieux.
-  Das *Stadt*archiv bewahrt wertvolle historische Dokumente auf.
+  Municipal archives keep valuable historical documents.
 
   Notre équipe *municipale* travaille sur un projet écologique.
-  Unser *kommunales* Team arbeitet an einem Umweltprojekt.
+  Our municipal team is working on an environmental project.
 
   Le parc *municipal* sera agrandi l'année prochaine.
-  Der *Stadt*park wird nächstes Jahr vergrößert.
+  The municipal park will be expanded next year.
 
   La cantine *municipale* propose des repas bio.
-  Die *städtische* Kantine bietet Bio-Mahlzeiten an.
+  The municipal canteen offers organic meals.
 
   Le centre culturel *municipal* organise une exposition d'art moderne.
-  Das *städtische* Kulturzentrum organisiert eine Ausstellung moderner Kunst.
+  The Municipal Cultural Centre organises an exhibition of modern art.
 
   Les services *municipaux* seront fermés pendant les fêtes.
-  Die *städtischen* Ämter bleiben während der Feiertage geschlossen.
+  Municipal services will be closed during the holidays.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 857
 Wort: exactement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exactement
 Femininum / Plural: ''
 IPA: \ɛɡ.zak.tə.mɑ̃\
-Definition: genau(-so)
+Definition: That's right
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La pièce ne paraissait pas *exactement* sombre.
-  Das Zimmer erschien nicht *genau* dunkel.
+  The room didn't look *exactly* dark.
 
   C'est *exactement* ce que je voulais dire !
-  Das ist *genau* das, was ich sagen wollte!
+  That's *exactly* what I meant!
 
   Le train est arrivé *exactement* à l'heure prévue.
-  Der Zug kam *pünktlich* zur geplanten Zeit an.
+  The train arrived *exactly* on schedule.
 
   "C'est *exactement* comme ma grand-mère le faisait !"
-  "Das ist *haargenau* so, wie meine Oma es gemacht hat!"
+  "It's just like my grandmother used to do!"
 
   Tu dois *exactement* suivre les instructions.
-  Du musst die Anweisungen *genau* befolgen.
+  You have to follow the instructions *exactly*.
 
   Que s'est-il passé *exactement* ce soir-là ?
-  Was ist an diesem Abend *genau* passiert?
+  What *exactly* happened that night?
 
   Il s'acquitte *exactement* de toutes ses tâches.
-  Er erledigt all seine Aufgaben *gewissenhaft*.
+  He does all his tasks *exactly*.
 
   Le portrait reproduit *exactement* son visage.
-  Das Porträt gibt sein Gesicht *exakt* wieder.
+  The portrait *exactly* replicates his face.
 
   Le thermomètre indique *exactement* 37,5 degrés.
-  Das Thermometer zeigt *genau* 37,5 Grad an.
+  The thermometer is *exactly* 37.5 degrees.
 
   As-tu compris *exactement* ce qu'il fallait faire ?
-  Hast du *genau* verstanden, was zu tun war?
+  Did you understand *exactly* what was to be done?
 
   L'historien a rapporté *exactement* les événements.
-  Der Historiker hat die Ereignisse *exakt* wiedergegeben.
+  The historian reported the events accurately.
 
   - "Tu as raison."<br>- "*Exactement* !"
-  - "Du hast recht."<br>- "*Genau*!"
+  - "You are right". - "*That's right*!"
 
   Elle est arrivée *exactement* à midi.
-  Sie kam *punkt* zwölf an.
+  She arrived at *exactly* noon.
 
   Nous avons *exactement* le même problème.
-  Wir haben *genau* das gleiche Problem.
+  We have *exactly* the same problem.
 
   Il faut noter *exactement* chaque dépense.
-  Jede Ausgabe muss *genau* notiert werden.
+  You have to write down every expense *exactly*.
 
   Je ne sais pas *exactement* où il habite.
-  Ich weiß nicht *genau*, wo er wohnt.
+  I don't know *exactly* where he lives.
 
   Ce n'est pas *exactement* ce que j'avais imaginé.
-  Das ist nicht *genau* das, was ich mir vorgestellt hatte.
+  It's not *exactly* what I imagined.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

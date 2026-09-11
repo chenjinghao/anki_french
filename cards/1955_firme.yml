@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1955
 Wort: firme
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la firme
 Femininum / Plural: ''
 IPA: \fiʁm\
-Definition: '[große] Firma'
+Definition: '[large] company'
 Register: ↗Fiktion ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il gérait les fonds de la *firme*.
-  Er verwaltete die Finanzen der *Firma*.
+  He was managing the *firm*'s funds.
 
   La *firme* a annoncé une restructuration majeure pour l'année prochaine.
-  Die *Firma* hat für das nächste Jahr eine umfassende Umstrukturierung angekündigt.
+  The *firm* has announced a major restructuring for next year.
 
   Cette *firme* multinationale emploie plus de 100 000 personnes dans le monde.
-  Dieses multinationale *Unternehmen* beschäftigt weltweit über 100.000 Mitarbeiter.
+  This multinational company employs more than 100,000 people worldwide.
 
   La nouvelle *firme* de technologie a rapidement gagné en notoriété.
-  Das neue Technologie-*Unternehmen* hat schnell an Bekanntheit gewonnen.
+  The new tech *firm* quickly gained notoriety.
 
   Les actions de la *firme* ont chuté suite à l'annonce des résultats trimestriels.
-  Die Aktien der *Firma* sind nach der Bekanntgabe der Quartalsergebnisse gefallen.
+  The *firm*'s shares fell following the announcement of quarterly results.
 
   Notre *firme* cherche à réduire son empreinte carbone d'ici 2030.
-  Unser *Unternehmen* strebt an, seinen CO<sub>2</sub>-Fußabdruck bis 2030 zu reduzieren.
+  Our *firm* seeks to reduce its carbon footprint by 2030.
 
   La *firme* a été fondée il y a plus d'un siècle par deux frères entrepreneurs.
-  Die *Firma* wurde vor über einem Jahrhundert von zwei Unternehmerbrüdern gegründet.
+  The *firm* was founded more than a century ago by two entrepreneurial brothers.
 
   Les employés sont fiers de travailler pour une *firme* aussi prestigieuse.
-  Die Mitarbeiter sind stolz darauf, für eine so renommierte *Firma* zu arbeiten.
+  Employees are proud to work for such a prestigious *firm*.
 
   La fusion entre les deux *firmes* a créé un géant de l'industrie.
-  Die Fusion der beiden *Unternehmen* hat einen Industriegiganten geschaffen.
+  The merger between the two firms has created an industry giant.
 
   Cette petite *firme* familiale s'est transformée en leader du marché en seulement dix ans.
-  Diese kleine Familien*firma* hat sich in nur zehn Jahren zum Marktführer entwickelt.
+  This small family-owned company has become a market leader in just ten years.
 
   Les grandes *firmes* de l'industrie automobile investissent massivement dans les véhicules électriques.
-  Die großen *Firmen* der Automobilindustrie investieren massiv in Elektrofahrzeuge.
+  Large companies in the automotive industry are investing heavily in electric vehicles.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>firme</i> und <i>entreprise</i></div>
+    <div class="section-title"><i>firme</i> and <i>entreprise</i></div>
     <div class="section-content">
-      <p><span class="fr">Firme</span> bedeutet <span class="de">"Firma"</span> und bezieht sich oft auf ein größeres, etabliertes Unternehmen. Es hat eine etwas formalere Konnotation und wird häufig im Geschäftskontext verwendet.</p>
+      <p><span class="fr">Firme</span> means <span class="de">'Company'</span> It has a somewhat more formal connotation and is often used in business contexts.</p>
       <div class="examples">
         <div class="fr">Cette firme internationale a des bureaux dans dix pays.</div>
-        <div class="de spoiler">Diese internationale Firma hat Büros in zehn Ländern.</div>
+        <div class="de spoiler">This international company has offices in ten countries.</div>
         <div class="fr">Il travaille pour une grande firme d'avocats.</div>
-        <div class="de spoiler">Er arbeitet für eine große Anwaltskanzlei.</div>
+        <div class="de spoiler">He works for a big law firm.</div>
       </div>
-      <p><span class="fr">Entreprise</span> (#298) ist der allgemeinere Begriff für <span class="de">"Unternehmen"</span> und kann sich auf Geschäfte jeder Größe beziehen, von kleinen Startups bis hin zu großen Konzernen.</p>
+      <p><span class="fr">Entreprise</span> (#298) is the more general term for <span class="de">'Companies'</span> And it can refer to businesses of all sizes, from small startups to large corporations.</p>
       <div class="examples">
         <div class="fr">Elle a créé sa propre entreprise il y a deux ans.</div>
-        <div class="de spoiler">Sie hat vor zwei Jahren ihr eigenes Unternehmen gegründet.</div>
+        <div class="de spoiler">She started her own company two years ago.</div>
         <div class="fr">Cette entreprise familiale existe depuis trois générations.</div>
-        <div class="de spoiler">Dieses Familienunternehmen besteht seit drei Generationen.</div>
+        <div class="de spoiler">This family business has been around for three generations.</div>
       </div>
     </div>
   </div>

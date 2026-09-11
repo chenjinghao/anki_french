@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4795
 Wort: jadis
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: jadis
 Femininum / Plural: ''
 IPA: \ʒa.dis\
-Definition: einst
+Definition: Once upon a time
 Register: ↗Fiktion ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Jadis*, nous étions des esclaves.
-  *Einst* waren wir Sklaven.
+  We used to be slaves.
 
   *Jadis*, il y avait un magnifique château sur cette colline.
-  *Früher* stand auf diesem Hügel ein prächtiges Schloss.
+  Once upon a time, there was a beautiful castle on this hill.
 
   Les coutumes de *jadis* n'ont plus cours aujourd'hui.
-  Die Bräuche von *einst* gelten heute nicht mehr.
+  The customs of old are no longer applicable today.
 
   Ce palais fut *jadis* la demeure d'un roi puissant.
-  Dieser Palast war *einst* der Wohnsitz eines mächtigen Königs.
+  This palace was once the residence of a powerful king.
 
   On ne vivait pas *jadis* comme on vit maintenant.
-  Man lebte *früher* nicht so wie man heute lebt.
+  We didn't live the way we live now.
 
   Les histoires du temps *jadis* fascinent toujours les enfants.
-  Die Geschichten aus längst *vergangenen* Zeiten faszinieren die Kinder noch immer.
+  The stories of ancient times still fascinate children.
 
   Cette forêt était *jadis* beaucoup plus dense.
-  Dieser Wald war *früher* viel dichter.
+  This forest used to be much denser.
 
   *Jadis*, les gens voyageaient principalement à cheval.
-  *Früher* reisten die Menschen hauptsächlich zu Pferd.
+  In ancient times, people travelled mainly on horseback.
 
   Au temps *jadis*, on écrivait des lettres à la main.
-  In *vergangenen* Zeiten schrieb man Briefe noch von Hand.
+  In the old days, we used to write letters by hand.
 
   Les dames du temps *jadis* portaient de longues robes.
-  Die Damen aus *vergangenen* Zeiten trugen lange Kleider.
+  Ladies in the old days wore long dresses.
 
   Cette ville était *jadis* un petit village de pêcheurs.
-  Diese Stadt war *einst* ein kleines Fischerdorf.
+  This town was once a small fishing village.
 
   *Jadis*, on pensait que la Terre était plate.
-  *Früher* dachte man, die Erde sei flach.
+  Back in the day, we thought the Earth was flat.
 
   Les enfants de *jadis* jouaient sans écrans.
-  Die Kinder von *damals* spielten ohne Bildschirme.
+  Kids used to play without screens.
 
   Ce bâtiment était *jadis* une école.
-  Dieses Gebäude war *früher* eine Schule.
+  This building used to be a school.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>autrefois</i> und <i>jadis</i></div>
+    <div class="section-title"><i>autrefois</i> and <i>jadis</i></div>
     <div class="section-content">
-      <p><span class="fr">Autrefois</span> (#2384) bedeutet <span class="de">"früher"</span> oder <span class="de">"damals"</span> und bezieht sich auf eine vergangene Zeit, oft im Kontrast zur Gegenwart. Es wird häufig in der Alltagssprache verwendet.</p>
+      <p><span class="fr">Autrefois</span> #2384) means <span class="de">"previously"</span> or <span class="de">"then"</span> and refers to a past, often in contrast to the present. It's often used in everyday language.</p>
       <div class="examples">
         <div class="fr">Autrefois, les gens n'avaient pas d'ordinateurs.</div>
-        <div class="de spoiler">Früher hatten die Leute keine Computer.</div>
+        <div class="de spoiler">Back in the day, people didn't have computers.</div>
         <div class="fr">Cette ville était autrefois très prospère.</div>
-        <div class="de spoiler">Diese Stadt war früher sehr wohlhabend.</div>
+        <div class="de spoiler">This town used to be very prosperous.</div>
       </div>
-      <p><span class="fr">Jadis</span> (#4795) bedeutet ebenfalls <span class="de">"einst"</span> oder <span class="de">"vor langer Zeit"</span>, hat aber einen poetischeren, literarischeren Klang und bezieht sich oft auf eine weiter entfernte Vergangenheit.</p>
+      <p><span class="fr">Jadis</span> (#4795) also means <span class="de">"Once upon a time"</span> or <span class="de">"a long time ago"</span>But it has a more poetic, literary sound and often refers to a distant past.</p>
       <div class="examples">
         <div class="fr">Jadis, les chevaliers parcouraient ces terres.</div>
-        <div class="de spoiler">Einst durchstreiften Ritter diese Länder.</div>
+        <div class="de spoiler">Once upon a time, knights roamed these lands.</div>
         <div class="fr">Cette forteresse fut jadis imprenable.</div>
-        <div class="de spoiler">Diese Festung war einst uneinnehmbar.</div>
+        <div class="de spoiler">This fortress was once impregnable.</div>
       </div>
     </div>
   </div>

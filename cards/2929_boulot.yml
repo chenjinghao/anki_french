@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2929
 Wort: boulot
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le boulot
 Femininum / Plural: ''
 IPA: \bu.lo\
-Definition: Job, Arbeit
+Definition: Work
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a un *boulot* très sérieux dans l'informatique.
-  Er hat einen sehr seriösen *Job* in der IT-Branche.
+  He has a very serious job in computer science.
 
   "J'en ai marre de ce *boulot* de merde !"
-  "Ich habe die Schnauze voll von diesem Scheiß*job*!"
+  "I'm sick of this shit job!"
 
   Elle cherche du *boulot* depuis des mois.
-  Sie sucht seit Monaten nach *Arbeit*.
+  She's been looking for *work* for months.
 
   Le *boulot* à l'usine est vraiment épuisant.
-  Die *Arbeit* in der Fabrik ist wirklich erschöpfend.
+  Working at the factory is really exhausting.
 
   "Allez, au *boulot* ! On n'a pas toute la journée."
-  "Los, an die *Arbeit*! Wir haben nicht den ganzen Tag Zeit."
+  "Go to *work*, we don't have all day".
 
   C'est un sacré *boulot* de rénover toute la maison.
-  Es ist eine Heiden*arbeit*, das ganze Haus zu renovieren.
+  It's a hell of a job renovating the whole house.
 
   Il fait du bon *boulot* dans son nouveau poste.
-  Er leistet gute *Arbeit* an seiner neuen Stelle.
+  He's doing a good job at his new job.
 
   Le week-end, elle fait des petits *boulots* pour arrondir ses fins de mois.
-  Am Wochenende macht sie Gelegenheits*jobs*, um über die Runden zu kommen.
+  On weekends, she does small *jobs* to round up her monthends.
 
   "Quel *boulot* ! J'ai passé toute la journée à trier ces dossiers."
-  "Was für eine *Arbeit*! Ich habe den ganzen Tag damit verbracht, diese Akten zu sortieren."
+  "What a job, I've been sorting these files all day".
 
   Son *boulot* consiste à analyser les données de l'entreprise.
-  Seine *Arbeit* besteht darin, die Unternehmensdaten zu analysieren.
+  His job is to analyze the company's data.
 
   Elle a trouvé un *boulot* intéressant dans une start-up.
-  Sie hat einen interessanten *Job* in einem Start-up gefunden.
+  She got an interesting job at a start-up.
 
   "Ce projet nous donne un sacré *boulot*."
-  "Dieses Projekt gibt uns eine Menge *Arbeit*."
+  "This project gives us a lot of *work*".
 
   Le stress au *boulot* affecte sa santé mentale.
-  Der Stress bei der *Arbeit* beeinträchtigt seine psychische Gesundheit.
+  Stress at *work* affects her mental health.
 
   Il jongle entre son *boulot* et ses études.
-  Er jongliert zwischen seinem *Job* und seinem Studium.
+  He juggles between *work* and school.
 
   Son nouveau *boulot* lui plaît beaucoup.
-  Ihr neuer *Job* gefällt ihr sehr gut.
+  He really likes his new job.
 
   "C'est un *boulot* monstre de ranger tout ce bazar !"
-  "Es ist eine Mords*arbeit*, dieses ganze Durcheinander aufzuräumen!"
+  "It's a hell of a job to clean up all this mess!"
 
   Il a perdu son *boulot* à cause de la crise économique.
-  Er hat wegen der Wirtschaftskrise seine *Arbeit* verloren.
+  He lost his job because of the economic crisis.
 
   "Ne me dérange pas, je suis en plein *boulot*."
-  "Stör mich nicht, ich bin mitten in der *Arbeit*."
+  "Don't bother me, I'm in the middle of a job".
 
   Le *boulot* d'infirmier demande beaucoup de patience.
-  Der *Job* als Krankenpfleger erfordert viel Geduld.
+  Nursing takes a lot of patience.
 
   Elle adore son *boulot* d'enseignante.
-  Sie liebt ihre *Arbeit* als Lehrerin.
+  She loves her job as a teacher.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

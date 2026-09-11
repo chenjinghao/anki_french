@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1125
 Wort: traduire
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: traduire
 Femininum / Plural: ''
 IPA: \tʁa.dɥiʁ\
-Definition: übersetzen
+Definition: to translate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle peut être *traduite* dans un langage mathématique précis.
-  Sie kann in eine präzise mathematische Sprache *übersetzt* werden.
+  It can be *translated* into a precise mathematical language.
 
   Je suis en train de *traduire* un article de l'anglais vers le français.
-  Ich *übersetze* gerade einen Artikel vom Englischen ins Französische.
+  I'm *translating* an article from English into French.
 
   Son dernier roman a été *traduit* en quinze langues.
-  Sein letzter Roman wurde in fünfzehn Sprachen *übersetzt*.
+  His latest novel has been *translated* into fifteen languages.
 
   La colère se *traduisait* sur son visage par une rougeur intense.
-  Die Wut *drückte* sich durch eine intensive Röte auf seinem Gesicht *aus*.
+  Anger was reflected in intense redness on his face.
 
   Cette décision politique s'est *traduite* par une augmentation du chômage.
-  Diese politische Entscheidung hat sich in einem Anstieg der Arbeitslosigkeit *ausgewirkt*.
+  This political decision has resulted in an increase in unemployment.
 
   Le suspect sera *traduit* en justice dès demain matin.
-  Der Verdächtige wird morgen früh vor Gericht *gebracht*.
+  The suspect will be brought to justice in the morning.
 
   Comment *traduire* ces sentiments complexes en mots simples ?
-  Wie soll man diese komplexen Gefühle in einfache Worte *übersetzen*?
+  How do you translate these complex feelings into simple words?
 
   Les œuvres de Shakespeare ont été *traduites* dans presque toutes les langues.
-  Shakespeares Werke wurden in fast alle Sprachen *übersetzt*.
+  Shakespeare's works have been *translated* into almost every language.
 
   Son silence *traduisait* parfaitement son désaccord.
-  Sein Schweigen *brachte* seine Ablehnung perfekt zum *Ausdruck*.
+  His silence perfectly expressed his disagreement.
 
   Marie *traduit* des livres pour enfants du japonais vers le français.
-  Marie *übersetzt* Kinderbücher vom Japanischen ins Französische.
+  Marie translates children's books from Japanese into French.
 
   Cette baisse des ventes va se *traduire* par des licenciements.
-  Dieser Umsatzrückgang wird sich in Entlassungen *niederschlagen*.
+  This drop in sales will result in redundancies.
 
   L'artiste a réussi à *traduire* l'ambiance de la ville dans ses tableaux.
-  Dem Künstler ist es gelungen, die Atmosphäre der Stadt in seinen Bildern *wiederzugeben*.
+  The artist managed to translate the atmosphere of the city into his paintings.
 
   Le mécontentement populaire s'est *traduit* dans les urnes.
-  Die Unzufriedenheit des Volkes hat sich an den Wahlurnen *niedergeschlagen*.
+  The popular discontent *translated* into the polls.
 
   Il faut *traduire* ce document avant la fin de la semaine.
-  Dieses Dokument muss bis zum Ende der Woche *übersetzt* werden.
+  This document must be translated before the end of the week.
 
   Son sourire *traduisait* sa joie immense.
-  Ihr Lächeln *drückte* ihre große Freude *aus*.
+  Her smile expressed her immense joy.
 
   Les criminels seront *traduits devant les tribunaux*.
-  Die Verbrecher werden *vor Gericht gestellt*.
+  The criminals will be *brought before the courts*.
 
   Comment vas-tu *traduire* cette expression idiomatique ?
-  Wie wirst du diese Redewendung *übersetzen*?
+  How are you going to translate that idiomatic expression?
 
   La crise financière s'est *traduite* par une perte d'emplois.
-  Die Finanzkrise hat sich in Arbeitsplatzverlusten *niedergeschlagen*.
+  The financial crisis has resulted in job losses.
 
   Je dois *traduire* ce texte mot à mot.
-  Ich muss diesen Text Wort für Wort *übersetzen*.
+  I have to translate this text word for word.
 
   Ses gestes *traduisaient* sa nervosité.
-  Seine Gesten *verrieten* seine Nervosität.
+  His gestures showed his nervousness.
 
   Cette mesure va se *traduire* par des économies importantes.
-  Diese Maßnahme wird zu erheblichen Einsparungen *führen*.
+  This will result in significant savings.
 
   L'interprète *traduit* la conversation en temps réel.
-  Der Dolmetscher *übersetzt* das Gespräch in Echtzeit.
+  The interpreter translates the conversation in real time.
 
   Les poèmes sont difficiles à *traduire*.
-  Gedichte sind schwer zu *übersetzen*.
+  Poems are hard to translate.
 
   Son regard *traduisait* une profonde tristesse.
-  Sein Blick *verriet* eine tiefe Traurigkeit.
+  Her gaze reflected deep sadness.
 
   Cette amélioration se *traduira* par une hausse des salaires.
-  Diese Verbesserung wird sich in einer Lohnerhöhung *niederschlagen*.
+  This improvement will result in higher wages.
 
   Il a été *traduit devant le juge* pour ses actes.
-  Er wurde wegen seiner Taten *vor den Richter gebracht*.
+  He was *brought before the judge* for his actions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

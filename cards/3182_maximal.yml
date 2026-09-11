@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3182
 Wort: maximal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: maximal
 Femininum / Plural: maximale
 IPA: \mak.si.mal\
-Definition: Höchst-
+Definition: The maximum
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le seuil de pollution *maximale* avait été atteint.
-  Der *Höchst*wert der Verschmutzung war erreicht worden.
+  The *maximum* pollution threshold had been reached.
 
   La température *maximale* prévue pour aujourd'hui est de 35 degrés.
-  Die *Höchst*temperatur für heute beträgt 35 Grad.
+  The *maximum* temperature forecast for today is 35 degrees.
 
   La vitesse *maximale* autorisée sur cette route est de 90 km/h.
-  Die zulässige *Höchst*geschwindigkeit auf dieser Straße beträgt 90 km/h.
+  The *maximum* speed allowed on this road is 90 km/h.
 
   Le prix *maximal* de ce produit est fixé par la loi.
-  Der gesetzliche *Höchst*preis für dieses Produkt ist festgelegt.
+  The *maximum* price for this product is fixed by law.
 
   La durée *maximale* du film ne doit pas dépasser deux heures.
-  Die *maximale* Länge des Films darf zwei Stunden nicht überschreiten.
+  The *maximum* duration of the film shall not exceed two hours.
 
   L'appareil fonctionne à sa puissance *maximale*.
-  Das Gerät läuft mit *maximaler* Leistung.
+  The device is running at its *maximum* power.
 
   La capacité *maximale* de la salle est de 200 personnes.
-  Die *maximale* Kapazität des Saals beträgt 200 Personen.
+  The *maximum* capacity of the room is 200 people.
 
   Le niveau *maximal* du réservoir a été atteint après les fortes pluies.
-  Der *Höchst*stand des Stausees wurde nach dem starken Regen erreicht.
+  The *maximum* level of the reservoir was reached after heavy rains.
 
   La pression *maximale* de ces pneus est indiquée sur le côté.
-  Der *Höchst*druck dieser Reifen ist auf der Seite angegeben.
+  The *maximum* pressure of these tyres is indicated on the side.
 
   L'altitude *maximale* de vol pour cet avion est de 12000 mètres.
-  Die *maximale* Flughöhe für dieses Flugzeug liegt bei 12000 Metern.
+  The *maximum* flight altitude for this aircraft is 12,000 meters.
 
   La charge *maximale* de l'ascenseur ne doit pas être dépassée.
-  Die *maximale* Zuladung des Aufzugs darf nicht überschritten werden.
+  The *maximum* load of the lift shall not be exceeded.
 
   Les efforts *maximaux* des athlètes ont été récompensés.
-  Die *maximalen* Anstrengungen der Athleten wurden belohnt.
+  The greatest efforts of the athletes were rewarded.
 
   Le temps *maximal* accordé pour l'examen est de trois heures.
-  Die *maximale* Zeit für die Prüfung beträgt drei Stunden.
+  The *maximum* time allowed for the examination is three hours.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

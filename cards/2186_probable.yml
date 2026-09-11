@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2186
 Wort: probable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: probable
 Femininum / Plural: ''
 IPA: \pʁɔ.ba.bl(ə)\
-Definition: wahrscheinlich
+Definition: Probably
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est *probable* que le visa sera refusé.
-  Es ist *wahrscheinlich*, dass das Visum abgelehnt wird.
+  It is *likely* that the visa will be refused.
 
   L'hypothèse la plus *probable* est qu'il a oublié notre rendez-vous.
-  Die *wahrscheinlichste* Vermutung ist, dass er unseren Termin vergessen hat.
+  The most *likely* hypothesis is that he forgot our date.
 
   "*Probable* qu'elle ne viendra pas à la fête."
-  "*Wahrscheinlich* kommt sie nicht zur Party."
+  "Maybe she won't come to the party".
 
   La date *probable* de livraison est fixée à mardi prochain.
-  Der *voraussichtliche* Liefertermin ist nächsten Dienstag.
+  The *likely* delivery date is set for next Tuesday.
 
   Il n'est pas *probable* qu'elle dise non à cette offre.
-  Es ist nicht *wahrscheinlich*, dass sie dieses Angebot ablehnt.
+  It's unlikely she'll say no to that offer.
 
   La cause la plus *probable* de la panne est un problème électrique.
-  Die *wahrscheinlichste* Ursache für den Ausfall ist ein elektrisches Problem.
+  The most *likely* cause of the outage is an electrical problem.
 
   Son départ est plus que *probable* maintenant.
-  Sein Weggang ist jetzt mehr als *wahrscheinlich*.
+  His departure is more than *likely* now.
 
   Cette explication me semble *probable*.
-  Diese Erklärung erscheint mir *wahrscheinlich*.
+  This explanation seems probable to me.
 
   Le scénario le plus *probable* est que nous devrons reporter le voyage.
-  Das *wahrscheinlichste* Szenario ist, dass wir die Reise verschieben müssen.
+  The most *likely* scenario is that we'll have to postpone the trip.
 
   Il est fort *probable* que nous aurons de la pluie demain.
-  Es ist sehr *wahrscheinlich*, dass wir morgen Regen bekommen werden.
+  It is very *likely* that we will have rain tomorrow.
 
   La victoire de notre équipe est peu *probable*.
-  Der Sieg unserer Mannschaft ist wenig *wahrscheinlich*.
+  Our team's victory is unlikely.
 
   "*Probable* que je serai en retard ce soir."
-  "*Wahrscheinlich* werde ich heute Abend zu spät kommen."
+  "I'm *probably* going to be late tonight".
 
   Le coût *probable* des réparations dépassera notre budget.
-  Die *voraussichtlichen* Reparaturkosten werden unser Budget übersteigen.
+  The *likely* cost of the repairs will exceed our budget.
 
   Cette théorie semble plus *probable* que l'ancienne.
-  Diese Theorie erscheint *wahrscheinlicher* als die alte.
+  This theory seems more *likely* than the old one.
 
   Il est *probable* qu'elle finira par accepter notre proposition.
-  Es ist *wahrscheinlich*, dass sie am Ende unseren Vorschlag annehmen wird.
+  It is *likely* that she will eventually accept our proposal.
 
   Le successeur *probable* du directeur sera son assistant actuel.
-  Der *wahrscheinliche* Nachfolger des Direktors wird sein jetziger Assistent sein.
+  The director's *likely* successor will be his current assistant.
 
   La date *probable* de son retour n'est pas encore connue.
-  Der *voraussichtliche* Zeitpunkt seiner Rückkehr ist noch nicht bekannt.
+  The probable date of his return is not yet known.
 
   Ne prenons pas pour certain ce qui n'est que *probable*.
-  Halten wir nicht für sicher, was nur *wahrscheinlich* ist.
+  Let us not take for granted what is *likely*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4570
 Wort: signataire
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: signataire
 Femininum / Plural: ''
 IPA: \si.ɲa.tɛʁ\
-Definition: Unterzeichner
+Definition: Signatories
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je crois qu'il faut 30 *signataires*.
-  Ich glaube, es braucht 30 *Unterzeichner*.
+  I think we need 30 signers.
 
   Les *signataires* du manifeste demandent des changements immédiats.
-  Die *Unterzeichner* des Manifests fordern sofortige Veränderungen.
+  The signers of the manifesto call for immediate changes.
 
   Êtes-vous le premier *signataire* de cette pétition ?
-  Sind Sie der erste *Unterzeichner* dieser Petition?
+  Are you the first person to sign this petition?
 
   En tant que pays *signataire*, la France doit respecter cet accord.
-  Als *Unterzeichner*staat muss Frankreich dieses Abkommen einhalten.
+  As a signatory country, France must respect this agreement.
 
   Le *signataire* du testament était son oncle.
-  Der *Unterzeichner* des Testaments war sein Onkel.
+  The signer of the will was his uncle.
 
   Tous les pays *signataires* se réuniront demain à Genève.
-  Alle *Unterzeichner*staaten werden sich morgen in Genf treffen.
+  All the signatory countries will meet tomorrow in Geneva.
 
   Marie est devenue la dernière *signataire* du contrat hier soir.
-  Marie wurde gestern Abend zur letzten *Unterzeichnerin* des Vertrags.
+  Marie became the last signer of the contract last night.
 
   Les nations *signataires* ont ratifié le traité à l'unanimité.
-  Die *Unterzeichner*nationen haben den Vertrag einstimmig ratifiziert.
+  The signatory nations ratified the treaty unanimously.
 
   Le *signataire* de cette lettre reste anonyme.
-  Der *Unterzeichner* dieses Briefes bleibt anonym.
+  *The signatory* of this letter remains anonymous.
 
   Comme État *signataire*, nous devons protéger l'environnement.
-  Als *Unterzeichner*staat müssen wir die Umwelt schützen.
+  As a signatory state, we must protect the environment.
 
   La partie *signataire* n'a pas respecté ses engagements.
-  Die *unterzeichnende* Partei hat ihre Verpflichtungen nicht eingehalten.
+  *The signatory* party has failed to honour its commitments.
 
   Les *signataires* du pacte se sont mis d'accord sur trois points.
-  Die *Unterzeichner* des Pakts haben sich auf drei Punkte geeinigt.
+  The *signatories* of the pact agreed on three points.
 
   Chaque membre *signataire* doit verser une cotisation annuelle.
-  Jedes *unterzeichnende* Mitglied muss einen jährlichen Beitrag zahlen.
+  Each signatory Member shall pay an annual contribution.
 
   Le document porte la signature de tous les États *signataires*.
-  Das Dokument trägt die Unterschrift aller *Unterzeichner*staaten.
+  The document bears the signature of all the signatory States.
 
   Nous recherchons le dernier *signataire* de ce document historique.
-  Wir suchen den letzten *Unterzeichner* dieses historischen Dokuments.
+  We're looking for the last signatory to this historic document.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

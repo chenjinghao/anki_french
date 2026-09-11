@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4073
 Wort: chimie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la chimie
 Femininum / Plural: ''
 IPA: \ʃi.mi\
-Definition: Chemie
+Definition: Chemistry
 Register: ↗Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ferais mieux d'étudier ma *chimie*.
-  Ich sollte besser meine *Chemie* lernen.
+  I'd better study my *chemistry*.
 
   La *chimie* est sa matière préférée au lycée.
-  *Chemie* ist ihr Lieblingsfach in der Schule.
+  *Chemistry* is her favorite subject in high school.
 
   Le professeur de *chimie* nous a montré une expérience fascinante aujourd'hui.
-  Der *Chemie*lehrer hat uns heute ein faszinierendes Experiment gezeigt.
+  The *chemistry* professor showed us a fascinating experiment today.
 
   Les élèves font des expériences de *chimie* dans le laboratoire.
-  Die Schüler machen *chemische* Versuche im Labor.
+  The students are experimenting with *chemistry* in the lab.
 
   Elle a choisi la *chimie* organique comme spécialisation.
-  Sie hat sich auf organische *Chemie* spezialisiert.
+  She chose organic *chemistry* as her specialty.
 
   Mon frère étudie la *chimie* appliquée à l'université.
-  Mein Bruder studiert angewandte *Chemie* an der Universität.
+  My brother is studying applied *chemistry* at the university.
 
   La *chimie* biologique est un domaine très complexe.
-  Die Bio*chemie* ist ein sehr komplexes Gebiet.
+  Biochemistry is a very complex field.
 
   Les chercheurs en *chimie* nucléaire ont fait une découverte importante.
-  Die Kern*chemie*forscher haben eine wichtige Entdeckung gemacht.
+  Nuclear chemists have made an important discovery.
 
   La *chimie* textile joue un rôle important dans l'industrie des vêtements.
-  Die Textil*chemie* spielt eine wichtige Rolle in der Kleiderindustrie.
+  Textile *chemistry* plays an important role in the clothing industry.
 
   Nous devons analyser la *chimie* de ce nouveau matériau.
-  Wir müssen die chemische *Zusammensetzung* dieses neuen Materials analysieren.
+  We need to analyze the *chemistry* of this new material.
 
   Il travaille dans un laboratoire de *chimie* depuis vingt ans.
-  Er arbeitet seit zwanzig Jahren in einem *Chemie*labor.
+  He's been working in a *chemistry* lab for twenty years.
 
   La *chimie* du pétrole est un secteur en pleine croissance.
-  Die Petro*chemie* ist ein wachsender Sektor.
+  Petroleum *chemistry* is a growing industry.
 
   La *chimie* de la houille a révolutionné l'industrie au XIX<sup>e</sup> siècle.
-  Die Kohle*chemie* revolutionierte die Industrie im 19. Jahrhundert.
+  Coal *chemistry* revolutionized the industry in the 19th century.
 
   Les cours de *chimie* physique sont très exigeants.
-  Die physikalische *Chemie* ist sehr anspruchsvoll.
+  Physical *chemistry* classes are very demanding.
 
   La *chimie* agricole aide à améliorer les rendements des cultures.
-  Die Agrar*chemie* hilft, die Ernteerträge zu verbessern.
+  Agricultural *chemistry* helps to improve crop yields.
 
   La *chimie* industrielle doit devenir plus écologique.
-  Die Industrie*chemie* muss umweltfreundlicher werden.
+  Industrial *chemistry* needs to become more environmentally friendly.
 
   La *chimie* merveilleuse de l'amour a transformé sa vie.
-  Die wunderbare *Chemie* der Liebe hat sein Leben verändert.
+  The wonderful *chemistry* of love has transformed her life.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

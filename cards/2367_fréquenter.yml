@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2367
 Wort: fréquenter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: fréquenter
 Femininum / Plural: ''
 IPA: \fʁe.kɑ̃.te\
-Definition: '[mit jdm] verkehren, [einen Ort regelm.] besuchen'
+Definition: '[with jdm] travel, [a place regularly.] visit'
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *fréquente* un homme riche.
-  Ich *gehe* mit einem reichen Mann *aus*.
+  I'm dating a rich man.
 
   Cette bibliothèque est très *fréquentée* par les étudiants.
-  Diese Bibliothek wird von den Studenten stark *besucht*.
+  This library is very popular with students.
 
   Il *fréquente* régulièrement le théâtre depuis son enfance.
-  Er *besucht* seit seiner Kindheit regelmäßig das Theater.
+  He regularly attends the theater since he was a child.
 
   Marie et Sophie *se fréquentent* depuis le lycée.
-  Marie und Sophie *sehen sich* seit der Schulzeit häufig.
+  Marie and Sophie have been *dating* since high school.
 
   "Ce bar est mal *fréquenté*, je ne te conseille pas d'y aller."
-  "In dieser Bar *verkehrt* zwielichtiges Publikum, ich rate dir davon ab."
+  "This bar's not crowded, I wouldn't advise you to go".
 
   Les jeunes *fréquentent* de plus en plus les musées.
-  Junge Menschen *besuchen* immer häufiger Museen.
+  Young people are increasingly visiting museums.
 
   Mes parents ne voulaient pas que je *fréquente* ce groupe d'amis.
-  Meine Eltern wollten nicht, dass ich mit dieser Freundesgruppe *verkehre*.
+  My parents didn't want me to hang out with that group of friends.
 
   Pierre et Marie *se fréquentent* depuis six mois.
-  Pierre und Marie *gehen* seit sechs Monaten *miteinander*.
+  Pierre and Marie have been *dating* for six months.
 
   Les touristes *fréquentent* beaucoup cette promenade en été.
-  Die Touristen *besuchen* diesen Spazierweg im Sommer sehr häufig.
+  Tourists *frequent* this hike in the summer.
 
   Tu devrais *fréquenter* plus souvent la piscine.
-  Du solltest öfter ins Schwimmbad *gehen*.
+  You should go to the pool more often.
 
   Les intellectuels *fréquentaient* ce café dans les années 50.
-  Die Intellektuellen *verkehrten* in den 50er Jahren in diesem Café.
+  Intellectuals used to drink this coffee in the 1950s.
 
   Elle a cessé de *fréquenter* ses anciens voisins.
-  Sie hat aufgehört, mit ihren ehemaligen Nachbarn *Umgang zu haben*.
+  She stopped hanging out with her former neighbors.
 
   Cette discothèque est bien *fréquentée*.
-  In dieser Diskothek *verkehrt* gutes Publikum.
+  This is a busy nightclub.
 
   Les enfants doivent *fréquenter* l'école jusqu'à 16 ans.
-  Die Kinder müssen die Schule bis zum Alter von 16 Jahren *besuchen*.
+  Children must attend school until the age of 16.
 
   Nous ne nous *fréquentons* plus depuis notre dispute.
-  Wir *sehen uns* seit unserem Streit nicht mehr.
+  We haven't dated since our fight.
 
   Il *fréquente* les meilleures universités de Paris.
-  Er *besucht* die besten Universitäten in Paris.
+  He attends the best universities in Paris.
 
   Ces deux familles *se fréquentent* depuis des générations.
-  Diese beiden Familien *pflegen* seit Generationen *Umgang* miteinander.
+  These two families have been *dating* for generations.
 
   Les artistes *fréquentaient* souvent ce quartier bohème.
-  Die Künstler *verkehrten* oft in diesem Künstlerviertel.
+  Artists frequented this bohemian neighborhood.
 
   Je ne *fréquente* plus les boîtes de nuit.
-  Ich *gehe* nicht mehr in Nachtclubs.
+  I don't hang out with nightclubs anymore.
 
   Elle *fréquente* régulièrement la bibliothèque municipale.
-  Sie *besucht* regelmäßig die Stadtbibliothek.
+  She regularly visits the municipal library.
 
   "Dis-moi qui tu *fréquentes*, je te dirai qui tu es."
-  "Sage mir, mit wem du *verkehrst*, und ich sage dir, wer du bist."
+  "Tell me who you date, and I'll tell you who you are".
 
   Mon fils *fréquente* une fille de sa classe.
-  Mein Sohn *geht* mit einem Mädchen aus seiner Klasse *aus*.
+  My son is dating a girl in his class.
 
   Les étudiants *fréquentent* assidûment les cours.
-  Die Studenten *besuchen* fleißig die Vorlesungen.
+  Students attend classes diligently.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

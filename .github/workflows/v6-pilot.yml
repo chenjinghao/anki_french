@@ -1,0 +1,56 @@
+name: V6 translation quality pilot
+
+on:
+  push:
+    branches:
+      - english-translation
+
+permissions:
+  contents: read
+
+jobs:
+  pilot:
+    if: contains(github.event.head_commit.message, '[run v6 pilot]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english-translation
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install NLLB pilot runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Restore German card source for isolated pilot
+        run: |
+          git checkout origin/main -- cards
+          python scripts/normalize_examples.py --shard 0 --shards 1
+      - name: Select expanded card regression set
+        run: python scripts/v6_card_pilot.py select --output v6-card-pilot-paths.txt
+      - name: Translate card pilot with NLLB and terminology glossary
+        env:
+          HF_HOME: ${{ runner.temp }}/hf-cache
+          TOKENIZERS_PARALLELISM: 'false'
+        run: python scripts/translate_de_to_en_v6.py --paths-file v6-card-pilot-paths.txt --batch-size 16
+      - name: Repair deterministic card semantics and multiline notes
+        run: python scripts/repair_v6.py --paths-file v6-card-pilot-paths.txt
+      - name: Bundle card pilot output
+        run: python scripts/v6_pilot.py bundle --paths-file v6-card-pilot-paths.txt --output v6-card-pilot-output
+      - name: Run card quality gate revision 4
+        run: python scripts/v6_card_pilot.py validate --paths-file v6-card-pilot-paths.txt --report v6-card-pilot-report.txt
+      - name: Upload card pilot report and translated samples
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v6-card-pilot-output
+          path: |
+            v6-card-pilot-report.txt
+            v6-card-pilot-paths.txt
+            v6-card-pilot-output
+          if-no-files-found: warn
+
+# Pilot trigger revision 4: reviewed note translations and expanded semantic regression gate.

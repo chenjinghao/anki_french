@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3063
 Wort: stimuler
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: stimuler
 Femininum / Plural: ''
 IPA: \sti.my.le\
-Definition: anregen, anspornen
+Definition: to stimulate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle ne *stimule* aucunement l'immunité cellulaire.
-  Sie *regt* die zelluläre Immunität in keiner Weise *an*.
+  It doesn't stimulate the cell's immune system at all.
 
   Le café *stimule* le système nerveux central.
-  Der Kaffee *regt* das zentrale Nervensystem *an*.
+  Coffee stimulates the central nervous system.
 
   Ces petits succès quotidiens *stimulent* notre motivation.
-  Diese kleinen täglichen Erfolge *spornen* unsere Motivation *an*.
+  These little daily successes boost our motivation.
 
   La lumière du soleil *stimule* la croissance des plantes.
-  Das Sonnenlicht *regt* das Pflanzenwachstum *an*.
+  Sunlight stimulates the growth of plants.
 
   L'enseignant *stimule* constamment la curiosité de ses élèves.
-  Der Lehrer *fördert* ständig die Neugier seiner Schüler.
+  The teacher constantly stimulates the students' curiosity.
 
   Le poivre *stimule* l'appétit naturellement.
-  Der Pfeffer *regt* den Appetit auf natürliche Weise *an*.
+  Pepper naturally stimulates the appetite.
 
   Cette vitamine *stimule* la circulation sanguine.
-  Dieses Vitamin *fördert* die Durchblutung.
+  This vitamin stimulates blood circulation.
 
   Les compliments *stimulent* sa créativité artistique.
-  Die Komplimente *spornen* ihre künstlerische Kreativität *an*.
+  Compliments stimulate his artistic creativity.
 
   Ce nouveau projet va *stimuler* l'économie locale.
-  Dieses neue Projekt wird die lokale Wirtschaft *ankurbeln*.
+  This new project will boost the local economy.
 
   La concurrence *stimule* l'innovation dans ce secteur.
-  Die Konkurrenz *fördert* die Innovation in diesem Sektor.
+  Competition stimulates innovation in this sector.
 
   Les défis quotidiens *stimulent* son imagination.
-  Die täglichen Herausforderungen *regen* ihre Fantasie *an*.
+  The challenges of everyday life stimulate his imagination.
 
   Cette hormone *stimule* la production de globules rouges.
-  Dieses Hormon *regt* die Produktion roter Blutkörperchen *an*.
+  This hormone stimulates the production of red blood cells.
 
   Le coach *stimule* l'esprit d'équipe des joueurs.
-  Der Trainer *fördert* den Teamgeist der Spieler.
+  The coach stimulates the team spirit of the players.
 
   La musique classique *stimule* le développement cognitif.
-  Klassische Musik *stimuliert* die kognitive Entwicklung.
+  Classical music stimulates cognitive development.
 
   Les engrais naturels *stimulent* la croissance des légumes.
-  Natürliche Düngemittel *regen* das Gemüsewachstum *an*.
+  Natural fertilizers stimulate the growth of vegetables.
 
   Cette méthode d'apprentissage *stimule* la mémoire.
-  Diese Lernmethode *aktiviert* das Gedächtnis.
+  This method of learning stimulates memory.
 
   Le cavalier *stimule* doucement sa monture.
-  Der Reiter *treibt* sein Pferd sanft *an*.
+  The rider gently stimulates his mount.
 
   La directrice *stimule* la productivité de ses employés.
-  Die Direktorin *spornt* die Produktivität ihrer Mitarbeiter *an*.
+  The manager stimulates the productivity of her employees.
 
   Ces exercices physiques *stimulent* la circulation sanguine.
-  Diese körperlichen Übungen *regen* die Durchblutung *an*.
+  These physical exercises boost blood circulation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

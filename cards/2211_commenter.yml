@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2211
 Wort: commenter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: commenter
 Femininum / Plural: ''
 IPA: \kɔ.mɑ̃.te\
-Definition: kommentieren
+Definition: commenting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Laissez moi une chance de *commenter* ce que vous avez dit.
-  Lassen Sie mich die Gelegenheit, das zu *kommentieren*, was Sie gesagt haben.
+  Give me a chance to comment on what you said.
 
   Le professeur nous a demandé de *commenter* ce poème de Baudelaire.
-  Der Lehrer hat uns gebeten, dieses Gedicht von Baudelaire zu *interpretieren*.
+  The professor asked us to comment on Baudelaire's poem.
 
   Les experts vont *commenter* en direct le match de football.
-  Die Experten werden das Fußballspiel live *kommentieren*.
+  The experts are going to comment live on the football game.
 
   Marie *commentait* toujours les choix vestimentaires de ses collègues.
-  Marie *kommentierte* immer die Kleiderwahl ihrer Kollegen.
+  Marie always *commented* on the dress choices of her colleagues.
 
   Les journalistes ont longuement *commenté* la démission du ministre.
-  Die Journalisten haben den Rücktritt des Ministers ausführlich *kommentiert*.
+  Journalists have *commented* extensively on the minister's resignation.
 
   Les critiques littéraires adorent *commenter* les œuvres de Victor Hugo.
-  Die Literaturkritiker lieben es, die Werke von Victor Hugo zu *interpretieren*.
+  Literary critics love to comment on the works of Victor Hugo.
 
   Je refuse de *commenter* ces rumeurs sans fondement.
-  Ich weigere mich, diese grundlosen Gerüchte zu *kommentieren*.
+  I refuse to comment on these baseless rumors.
 
   Notre professeur *commente* toujours nos dissertations de façon constructive.
-  Unsere Lehrerin *kommentiert* unsere Aufsätze immer konstruktiv.
+  Our professor always *comments* constructively on our dissertations.
 
   Les réseaux sociaux nous permettent de *commenter* l'actualité instantanément.
-  Soziale Medien erlauben es uns, aktuelle Ereignisse sofort zu *kommentieren*.
+  Social media allows us to comment on news instantly.
 
   Il est important de *commenter* ses sources dans un travail académique.
-  Es ist wichtig, seine Quellen in einer akademischen Arbeit zu *kommentieren*.
+  It is important to comment on its sources in academic work.
 
   Le président a refusé de *commenter* cette affaire sensible.
-  Der Präsident hat es abgelehnt, diese heikle Angelegenheit zu *kommentieren*.
+  The President declined to comment on this sensitive matter.
 
   Les étudiants doivent *commenter* ce passage de la Bible pour l'examen.
-  Die Studenten müssen diese Bibelstelle für die Prüfung *interpretieren*.
+  Students should comment on this Bible passage for the examination.
 
   Sophie *commente* toujours les films pendant qu'on les regarde.
-  Sophie *kommentiert* die Filme immer, während wir sie anschauen.
+  Sophie always *comments* on movies while we watch them.
 
   L'historien va *commenter* les événements majeurs du XX<sup>e</sup> siècle.
-  Der Historiker wird die wichtigsten Ereignisse des 20. Jahrhunderts *interpretieren*.
+  The historian will comment on the major events of the 20th century.
 
   Le philosophe a passé sa vie à *commenter* les textes d'Aristote.
-  Der Philosoph hat sein Leben damit verbracht, die Texte von Aristoteles zu *interpretieren*.
+  The philosopher spent his life *commenting* on the writings of Aristotle.
 
   Les spectateurs peuvent *commenter* le spectacle sur notre site web.
-  Die Zuschauer können die Show auf unserer Website *kommentieren*.
+  Viewers can comment on the show on our website.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1998
 Wort: inclure
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inclure
 Femininum / Plural: ''
 IPA: \ɛ̃.klyʁ\
-Definition: einschließen, beinhalten
+Definition: include
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   N'*incluez* pas une extension de fichier.
-  *Fügen* Sie keine Dateiendung *hinzu*.
+  Do not *include* a file extension.
 
   Cette offre *inclut* le petit-déjeuner et le dîner.
-  Dieses Angebot *schließt* Frühstück und Abendessen *ein*.
+  This offer *includes* breakfast and dinner.
 
   Le prix *inclut* tous les frais de livraison.
-  Der Preis *beinhaltet* alle Versandkosten.
+  The price *includes* all delivery costs.
 
   Nous devons *inclure* plus de diversité dans notre équipe.
-  Wir müssen mehr Vielfalt in unser Team *einbeziehen*.
+  We need to *include* more diversity in our team.
 
   J'ai *inclus* une copie de mon CV dans l'enveloppe.
-  Ich habe eine Kopie meines Lebenslaufs dem Umschlag *beigelegt*.
+  I *included* a copy of my CV in the envelope.
 
   Le nouveau contrat *inclut* une clause de confidentialité.
-  Der neue Vertrag *enthält* eine Vertraulichkeitsklausel.
+  The new contract *includes* a confidentiality clause.
 
   Cette somme *inclut*-elle les taxes?
-  *Schließt* dieser Betrag die Steuern *ein*?
+  Does this amount include taxes?
 
   Le festival *inclura* des artistes locaux et internationaux.
-  Das Festival wird lokale und internationale Künstler *einbeziehen*.
+  The festival *will include* local and international artists.
 
   "J'ai *inclus* ton nom dans la liste des invités."
-  "Ich habe deinen Namen auf die Gästeliste *gesetzt*."
+  "I put your name on the guest list".
 
   Le forfait téléphonique *inclut* les appels illimités.
-  Der Handytarif *beinhaltet* unbegrenzte Anrufe.
+  The phone package *includes* unlimited calls.
 
   Nous devons *inclure* ces données dans notre rapport final.
-  Wir müssen diese Daten in unseren Abschlussbericht *aufnehmen*.
+  We need to *include* this data in our final report.
 
   Le package logiciel *inclut* une formation gratuite.
-  Das Software-Paket *umfasst* eine kostenlose Schulung.
+  The software package *includes* free training.
 
   Cette définition *inclut* tous les aspects du problème.
-  Diese Definition *schließt* alle Aspekte des Problems *ein*.
+  This definition *includes* all aspects of the problem.
 
   L'œuvre complète de cet auteur *inclut* des romans et des essais.
-  Das Gesamtwerk dieses Autors *umfasst* Romane und Essays.
+  The author's complete work *includes* novels and essays.
 
   Le gouvernement a décidé d'*inclure* les étudiants dans ce programme.
-  Die Regierung hat beschlossen, die Studenten in dieses Programm *einzubeziehen*.
+  The government has decided to *include* students in this programme.
 
   Pouvez-vous *inclure* ces modifications dans la prochaine version?
-  Können Sie diese Änderungen in die nächste Version *aufnehmen*?
+  Can you *include* these changes in the next version?
 
   Le musée a *inclus* cette peinture dans sa collection permanente.
-  Das Museum hat dieses Gemälde in seine Dauerausstellung *aufgenommen*.
+  The museum has *included* this painting in its permanent collection.
 
   L'accord de paix *inclut* des dispositions pour le désarmement.
-  Das Friedensabkommen *enthält* Bestimmungen zur Abrüstung.
+  The peace agreement *includes* provisions for disarmament.
 
   Cette théorie *inclut* plusieurs hypothèses controversées.
-  Diese Theorie *beinhaltet* mehrere umstrittene Hypothesen.
+  This theory *includes* several controversial hypotheses.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

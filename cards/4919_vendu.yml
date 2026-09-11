@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4919
 Wort: vendu
 Wortart: v, adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: vendu
 Femininum / Plural: vendue
 IPA: \vɑ̃.dy\
-Definition: gekauft
+Definition: Purchased
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   122.000 billets ont été *vendus*.
-  122.000 Tickets wurden *verkauft*.
+  One hundred and twenty-two thousand tickets were *sold*.
 
   Ces voitures d'occasion sont rapidement *vendues*.
-  Diese Gebrauchtwagen sind schnell *verkauft*.
+  These used cars sell quickly.
 
   "Bande de *vendus* !" a-t-il crié aux journalistes.
-  "Ihr *gekauften* Journalisten!" hat er ihnen zugerufen.
+  "Band of salesmen!" he shouted at the reporters.
 
   Cette maison a été *vendue* trois fois en deux ans.
-  Dieses Haus wurde in zwei Jahren dreimal *verkauft*.
+  This house has been *sold* three times in two years.
 
   Le juge *vendu* a accepté le pot-de-vin.
-  Der *bestochene* Richter hat das Schmiergeld angenommen.
+  The *sold*-out judge accepted the bribe.
 
   "*Vendu* !" s'est exclamé le commissaire-priseur en frappant son marteau.
-  "*Verkauft*!" rief der Auktionator und schlug mit seinem Hammer.
+  "Sold!" exclaimed the commissioner-prior, striking his hammer.
 
   Tout le stock a été *vendu* en moins d'une heure.
-  Der gesamte Bestand war in weniger als einer Stunde *ausverkauft*.
+  The entire stock was *sold* out in less than an hour.
 
   Marie ne pardonnera jamais à ce *vendu* de Paul.
-  Marie wird diesem *Verräter* Paul nie verzeihen.
+  Marie will never forgive Paul's sale.
 
   L'appartement sera *vendu aux enchères* la semaine prochaine.
-  Die Wohnung wird nächste Woche *versteigert*.
+  The apartment will be auctioned off next week.
 
   La société a *vendu* ses actions à perte.
-  Die Firma hat ihre Aktien mit Verlust *verkauft*.
+  The company *sold* its shares at a loss.
 
   Ces politiciens se sont *vendus* au plus offrant.
-  Diese Politiker haben sich an den Meistbietenden *verkauft*.
+  These politicians have *sold* themselves to the highest bidder.
 
   Le tableau original a été *vendu* pour un million d'euros.
-  Das Originalgemälde wurde für eine Million Euro *verkauft*.
+  The original painting was *sold* for a million euros.
 
   Ce *vendu* a révélé tous nos secrets à la concurrence.
-  Dieser *Verräter* hat all unsere Geheimnisse an die Konkurrenz verraten.
+  This sale revealed all our secrets to the competition.
 
   La collection entière sera *vendue* demain matin.
-  Die gesamte Sammlung wird morgen früh *verkauft*.
+  The entire collection will be on sale tomorrow morning.
 
   Les billets pour le concert sont déjà *vendus*.
-  Die Konzertkarten sind bereits *ausverkauft*.
+  Tickets for the concert have already been *sold*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

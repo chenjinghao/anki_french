@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4807
 Wort: inexistant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inexistant
 Femininum / Plural: inexistante
 IPA: \in.ɛg.zis.tɑ̃\
-Definition: nicht vorhanden
+Definition: not present
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La coopération entre pays voisins était quasiment *inexistante*.
-  Die Zusammenarbeit zwischen Nachbarländern war praktisch *nicht vorhanden*.
+  Cooperation between neighbouring countries was almost non-existent.
 
   Dans les années 1950, l'Internet était encore *inexistant*.
-  In den 1950er Jahren war das Internet noch *nicht existent*.
+  In the 1950's, there was no Internet.
 
   "Ce type est complètement *inexistant*, il ne fait que suivre les autres."
-  "Dieser Typ ist völlig *bedeutungslos*, er läuft nur anderen hinterher."
+  "This guy is completely nonexistent, he's just following the others".
 
   La frontière entre réalité et fiction devient *inexistante* dans ce roman.
-  Die Grenze zwischen Realität und Fiktion wird in diesem Roman *nicht existent*.
+  The boundary between reality and fiction becomes nonexistent in this novel.
 
   Son soutien était totalement *inexistant* pendant cette période difficile.
-  Seine Unterstützung war während dieser schwierigen Zeit völlig *nutzlos*.
+  His support was completely nonexistent during this difficult time.
 
   Les résultats de cette expérience sont *inexistants*.
-  Die Ergebnisse dieses Experiments sind gleich *Null*.
+  The results of this experiment are nonexistent.
 
   À cette altitude, la végétation est presque *inexistante*.
-  In dieser Höhe ist die Vegetation fast *nicht vorhanden*.
+  At this altitude, vegetation is almost non-existent.
 
   Le service après-vente de cette entreprise est *inexistant*.
-  Der Kundenservice dieses Unternehmens ist *nicht existent*.
+  The after-sales service of this company is *non-existent*.
 
   Dans ce quartier, les espaces verts sont *inexistants*.
-  In diesem Viertel sind Grünflächen *nicht vorhanden*.
+  There's no green space in this neighborhood.
 
   La communication entre les deux départements est *inexistante*.
-  Die Kommunikation zwischen den beiden Abteilungen ist *nicht existent*.
+  There is no communication between the two departments.
 
   Les preuves de son innocence sont *inexistantes*.
-  Die Beweise für seine Unschuld sind *nicht vorhanden*.
+  There's no evidence of his innocence.
 
   La motivation des élèves était *inexistante* ce matin-là.
-  Die Motivation der Schüler war an diesem Morgen gleich *Null*.
+  The motivation of the students was nonexistent that morning.
 
   Le contrôle qualité dans cette usine est pratiquement *inexistant*.
-  Die Qualitätskontrolle in dieser Fabrik ist praktisch *nicht existent*.
+  Quality control in this factory is virtually *non-existent*.
 
   Les chances de réussite semblent *inexistantes*.
-  Die Erfolgschancen scheinen *nicht existent*.
+  There seems to be no chance of success.
 
   La sécurité dans ce bâtiment est *inexistante*.
-  Die Sicherheit in diesem Gebäude ist *nicht vorhanden*.
+  There's no security in this building.
 
   L'influence de ce parti politique est devenue *inexistante*.
-  Der Einfluss dieser politischen Partei ist *bedeutungslos* geworden.
+  The influence of this political party became nonexistent.
 
   Le wifi est *inexistant* dans certaines zones rurales.
-  WLAN ist in manchen ländlichen Gebieten *nicht vorhanden*.
+  Wifi is *non-existent* in some rural areas.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

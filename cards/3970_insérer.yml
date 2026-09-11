@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3970
 Wort: insérer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: insérer
 Femininum / Plural: ''
 IPA: \ɛ̃.se.ʁe\
-Definition: einfügen
+Definition: inserting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'*insère* ma carte dans la machine.
-  Ich *stecke* meine Karte in den Automaten.
+  I put my card in the machine.
 
   Il faut *insérer* les documents dans l'ordre chronologique.
-  Die Dokumente müssen chronologisch *eingefügt* werden.
+  The documents must be entered in chronological order.
 
   Le chirurgien a *inséré* un petit tube dans la veine du patient.
-  Der Chirurg hat einen kleinen Schlauch in die Vene des Patienten *eingeführt*.
+  The surgeon *inserted* a small tube into the patient's vein.
 
   Marie *insère* soigneusement la photo dans l'album de famille.
-  Marie *steckt* das Foto sorgfältig in das Familienalbum.
+  Marie carefully inserts the photo into the family album.
 
   Nous devons *insérer* cette clause dans le contrat.
-  Wir müssen diese Klausel in den Vertrag *einfügen*.
+  We have to insert that clause into the contract.
 
   Le journal a *inséré* notre annonce dans l'édition du dimanche.
-  Die Zeitung hat unsere Anzeige in der Sonntagsausgabe *aufgenommen*.
+  The newspaper put our announcement in the Sunday edition.
 
   Comment *insérer* un lien dans ce document PDF ?
-  Wie kann man einen Link in dieses PDF-Dokument *einfügen*?
+  How do I insert a link into this PDF document?
 
   Les jeunes diplômés ont du mal à s'*insérer* dans le marché du travail.
-  Die jungen Absolventen haben Schwierigkeiten, sich in den Arbeitsmarkt zu *integrieren*.
+  Young graduates find it difficult to fit into the labour market.
 
   Le muscle s'*insère* sur l'os à cet endroit précis.
-  Der Muskel *setzt* an dieser bestimmten Stelle am Knochen *an*.
+  The muscle inserts itself into the bone at this precise location.
 
   L'éditeur a *inséré* trois nouveaux chapitres dans la deuxième édition.
-  Der Verleger hat drei neue Kapitel in die zweite Auflage *eingefügt*.
+  The publisher added three new chapters to the second edition.
 
   Il faut *insérer* la clé USB dans le bon sens.
-  Man muss den USB-Stick in der richtigen Richtung *einstecken*.
+  You need to insert the USB drive in the right direction.
 
   Ces mesures s'*insèrent* dans un plan plus global.
-  Diese Maßnahmen *fügen* sich in einen umfassenderen Plan *ein*.
+  These measures are part of a more comprehensive plan.
 
   Pierre *insère* délicatement la branche dans la fente de l'arbre.
-  Pierre *führt* den Zweig vorsichtig in den Spalt des Baumes *ein*.
+  Pierre gently inserted the branch into the trunk of the tree.
 
   Le secrétaire a *inséré* votre remarque dans le compte-rendu.
-  Der Sekretär hat Ihre Anmerkung ins Protokoll *aufgenommen*.
+  The secretary has included your comment in the report.
 
   Comment s'*insérer* dans un groupe déjà formé ?
-  Wie kann man sich in eine bereits bestehende Gruppe *einfügen*?
+  How do you fit in with a group that's already formed?
 
   L'assistant *insère* les données dans le tableau Excel.
-  Der Assistent *fügt* die Daten in die Excel-Tabelle *ein*.
+  The wizard inserts the data into the Excel table.
 
   Le paragraphe s'*insère* parfaitement entre ces deux chapitres.
-  Der Absatz *fügt* sich perfekt zwischen diese beiden Kapitel *ein*.
+  The paragraph fits perfectly between these two chapters.
 
   Sophie *insère* un marque-page dans son roman.
-  Sophie *steckt* ein Lesezeichen in ihren Roman.
+  Sophie inserted a bookmark in her novel.
 
   Les immigrants tentent de s'*insérer* dans leur nouvelle société.
-  Die Einwanderer versuchen, sich in ihre neue Gesellschaft zu *integrieren*.
+  Immigrants are trying to fit in with their new society.
 
   L'artiste a *inséré* des éléments modernes dans cette œuvre classique.
-  Der Künstler hat moderne Elemente in dieses klassische Werk *eingefügt*.
+  The artist *inserted* modern elements into this classic work.
 
   Vous devez *insérer* votre code PIN pour déverrouiller l'appareil.
-  Sie müssen Ihre PIN *eingeben*, um das Gerät zu entsperren.
+  You have to enter your PIN to unlock the device.
 
   Le botaniste *insère* délicatement le bourgeon dans la greffe.
-  Der Botaniker *fügt* die Knospe vorsichtig in das Pfropfreis *ein*.
+  The botanist gently inserts the bud into the graft.
 
   L'événement s'*insère* dans le cadre du festival d'été.
-  Die Veranstaltung *fügt* sich in den Rahmen des Sommerfestivals *ein*.
+  The event is part of the summer festival.
 
   Elle *insère* une nouvelle diapositive dans sa présentation PowerPoint.
-  Sie *fügt* eine neue Folie in ihre PowerPoint-Präsentation *ein*.
+  She's inserting a new slide into her PowerPoint presentation.
 
   Le journaliste a *inséré* une citation au milieu de son article.
-  Der Journalist hat ein Zitat in die Mitte seines Artikels *eingefügt*.
+  The reporter *inserted* a quote in the middle of his article.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

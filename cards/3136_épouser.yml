@@ -1,113 +1,113 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3136
 Wort: épouser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: épouser
 Femininum / Plural: ''
 IPA: \e.pu.ze\
-Definition: heiraten
+Definition: getting married
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je veux t'*épouser*.
-  Ich will dich *heiraten*.
+  I want to marry you.
 
   Il a décidé d'*épouser* sa meilleure amie d'enfance.
-  Er hat beschlossen, seine beste Kindheitsfreundin zu *heiraten*.
+  He decided to marry his childhood best friend.
 
   Ils se sont *épousés* après dix ans ensemble.
-  Sie haben nach zehn Jahren zusammen *geheiratet*.
+  They got *married* after ten years together.
 
   Ma sœur *épouse* un médecin le mois prochain.
-  Meine Schwester *heiratet* nächsten Monat einen Arzt.
+  My sister's getting married to a doctor next month.
 
   Cette robe de soirée *épouse* parfaitement ses formes.
-  Dieses Abendkleid *schmiegt* sich perfekt an ihre Formen *an*.
+  This evening dress matches its shapes perfectly.
 
   Le village *épouse* les contours de la montagne.
-  Das Dorf *schmiegt* sich an die Konturen des Berges *an*.
+  The village embraces the contours of the mountain.
 
   Elle a *épousé* la cause des sans-abris.
-  Sie ist für die Sache der Obdachlosen *eingetreten*.
+  She *married* the cause of the homeless.
 
   Pierre *épouse* complètement le point de vue de son patron.
-  Pierre *vertritt* vollständig den Standpunkt seines Chefs.
+  Pierre fully accepts his employer's point of view.
 
   Cette housse *épouse* exactement la forme du canapé.
-  Dieser Bezug *sitzt* wie *angegossen* auf dem Sofa.
+  This cover exactly matches the shape of the sofa.
 
   Le chemin *épouse* naturellement la courbe du fleuve.
-  Der Weg *schmiegt* sich natürlich an die Flusskurve *an*.
+  The path naturally marries the curve of the river.
 
   Marie et Thomas se sont *épousés* pour le meilleur et pour le pire.
-  Marie und Thomas haben im Guten wie im Schlechten *geheiratet*.
+  Marie and Thomas got *married* for better or worse.
 
   Je n'*épouserai* jamais quelqu'un par intérêt.
-  Ich werde nie jemanden aus Berechnung *heiraten*.
+  I'll never marry someone out of interest.
 
   La route *épouse* parfaitement les sinuosités de la côte.
-  Die Straße *schmiegt* sich perfekt an die Windungen der Küste *an*.
+  The road perfectly matches the sinuousness of the coast.
 
   Cette veste *épouse* élégamment la silhouette.
-  Diese Jacke *schmiegt* sich elegant an die Silhouette *an*.
+  This jacket elegantly matches the silhouette.
 
   Le parti a décidé d'*épouser* une ligne plus modérée.
-  Die Partei hat beschlossen, eine gemäßigtere Linie zu *vertreten*.
+  The party decided to marry a more moderate line.
 
   Ils se sont *épousés* dans la plus stricte intimité.
-  Sie haben im engsten Kreis *geheiratet*.
+  They got *married* in the strictest of privacy.
 
   Les jeunes militants ont *épousé* ses idées avec enthousiasme.
-  Die jungen Aktivisten haben seine Ideen begeistert *geteilt*.
+  Young activists were enthusiastic about his ideas.
 
   Cette sculpture *épouse* harmonieusement l'espace.
-  Diese Skulptur *schmiegt* sich harmonisch in den Raum *ein*.
+  This sculpture blends harmoniously with space.
 
   Le tissu *épouse* délicatement chaque courbe du corps.
-  Der Stoff *schmiegt* sich sanft an jede Körperkurve *an*.
+  The fabric delicately matches each curve of the body.
 
   Elle a *épousé* notre combat pour l'environnement.
-  Sie ist für unseren Kampf für die Umwelt *eingetreten*.
+  She *married* our fight for the environment.
 
   Marc *épouse* toujours les opinions de sa femme.
-  Marc *teilt* immer die Meinungen seiner Frau.
+  Mark always marries his *wife*'s opinions.
 
   La nouvelle génération doit *épouser* son temps.
-  Die neue Generation muss sich ihrer Zeit *anpassen*.
+  The new generation must marry their time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>se marier</i> und <i>épouser</i></div>
+    <div class="section-title"><i>se marier</i> and <i>épouser</i></div>
     <div class="section-content">
-      <p><span class="fr">Se marier</span> (#1686) bedeutet <span class="de">"heiraten"</span> als reflexives Verb und beschreibt den Akt der Eheschließung aus der Perspektive der Person, die heiratet. Es wird mit der Präposition <span class="fr">avec</span> verwendet, wenn der Partner genannt wird.</p>
+      <p><span class="fr">Se marier</span> #1686) means <span class="de">"married"</span> as a reflexive verb and describes the act of marriage from the perspective of the person who marries. <span class="fr">avec</span> used when the partner is named.</p>
       <div class="examples">
         <div class="fr">Ils se sont mariés en juin dernier.</div>
-        <div class="de spoiler">Sie haben im letzten Juni geheiratet.</div>
+        <div class="de spoiler">They got married last June.</div>
         <div class="fr">Elle s'est mariée avec son ami d'enfance.</div>
-        <div class="de spoiler">Sie hat ihren Jugendfreund geheiratet.</div>
+        <div class="de spoiler">She married her teenage boyfriend.</div>
       </div>
 
-      <p><span class="fr">Épouser</span> ist ein transitives Verb und bedeutet ebenfalls <span class="de">"heiraten"</span>, aber es erfordert ein direktes Objekt – die Person, die man heiratet. Es betont stärker die Beziehung zwischen den Ehepartnern und wird häufig in formelleren Kontexten verwendet.</p>
+      <p><span class="fr">Épouser</span> is a transitive verb and also means <span class="de">"married"</span>It emphasizes the relationship between the spouses and is often used in more formal contexts.</p>
       <div class="examples">
         <div class="fr">Il a épousé sa collègue de travail.</div>
-        <div class="de spoiler">Er hat seine Arbeitskollegin geheiratet.</div>
+        <div class="de spoiler">He married his work colleague.</div>
         <div class="fr">Elle va épouser le fils du boulanger.</div>
-        <div class="de spoiler">Sie wird den Sohn des Bäckers heiraten.</div>
+        <div class="de spoiler">She's going to marry the baker's son.</div>
       </div>
 
-      <p>Im übertragenen Sinne kann <span class="fr">épouser</span> auch bedeuten, dass man eine Sache oder Idee vollständig annimmt oder sich ihr verschreibt:</p>
+      <p>In the transferable sense it can be <span class="fr">épouser</span> It also means accepting a thing or an idea completely or attributing it to yourself.</p>
       <div class="examples">
         <div class="fr">Il a épousé la cause environnementale.</div>
-        <div class="de spoiler">Er hat sich der Umweltsache verschrieben.</div>
+        <div class="de spoiler">He's committed to environmental issues.</div>
       </div>
     </div>
   </div>

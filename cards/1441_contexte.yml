@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1441
 Wort: contexte
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le contexte
 Femininum / Plural: ''
 IPA: \kɔ̃.tɛkst\
-Definition: Kontext
+Definition: Context of the report
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comment tenez-vous compte du *contexte* social en thérapie ?
-  Wie berücksichtigen Sie den sozialen *Kontext* in der Therapie?
+  How do you take into account the social *context* of therapy?
 
   Cette citation a été sortie de son *contexte* pour créer une polémique.
-  Dieses Zitat wurde aus dem *Zusammenhang* gerissen, um eine Kontroverse zu erzeugen.
+  This quote has been taken out of *context* to create controversy.
 
   Dans le *contexte* actuel, il est difficile de trouver un emploi.
-  In der gegenwärtigen *Lage* ist es schwierig, einen Job zu finden.
+  In today's *context*, it is difficult to find a job.
 
   Le *contexte* familial joue un rôle crucial dans le développement de l'enfant.
-  Der familiäre *Hintergrund* spielt eine entscheidende Rolle in der Entwicklung des Kindes.
+  The family *context* plays a crucial role in the child's development.
 
   Pour comprendre ce mot, il faut regarder le *contexte* de la phrase.
-  Um dieses Wort zu verstehen, muss man den *Kontext* des Satzes betrachten.
+  To understand this word, we need to look at the *context* of the sentence.
 
   Le *contexte* économique n'est pas favorable aux petites entreprises.
-  Das Konjunktur*klima* ist nicht günstig für kleine Unternehmen.
+  The economic environment is not favourable for small businesses.
 
   Il faut replacer ces événements dans leur *contexte* historique.
-  Man muss diese Ereignisse in ihren historischen *Kontext* setzen.
+  These events must be placed in their historical *context*.
 
   Le *contexte* global nous permet de mieux comprendre la situation.
-  Der Gesamt*zusammenhang* ermöglicht es uns, die Situation besser zu verstehen.
+  The overall *context* gives us a better understanding of the situation.
 
   Dans ce *contexte* particulier, nous devons être plus prudents.
-  In diesem besonderen *Kontext* müssen wir vorsichtiger sein.
+  In this particular *context*, we need to be more cautious.
 
   Le programme informatique s'adapte en fonction du *contexte*.
-  Das Computerprogramm passt sich *kontext*sensitiv an.
+  The computer program adapts to the *context*.
 
   Les chercheurs étudient le *contexte* culturel de ces traditions.
-  Die Forscher untersuchen den kulturellen *Kontext* dieser Traditionen.
+  Researchers study the cultural *context* of these traditions.
 
   Le *contexte* propice aux investissements attire les entrepreneurs étrangers.
-  Das günstige Investitions*klima* zieht ausländische Unternehmer an.
+  The environment conducive to investment attracts foreign entrepreneurs.
 
   Cette décision doit être comprise dans son *contexte*.
-  Diese Entscheidung muss in ihrem *Zusammenhang* verstanden werden.
+  This decision must be understood in *context*.
 
   Le sens de cette expression change selon le *contexte*.
-  Die Bedeutung dieses Ausdrucks ändert sich je nach *Kontext*.
+  The meaning of this expression varies according to the *context*.
 
   Le *contexte* politique influence fortement les décisions économiques.
-  Der politische *Kontext* beeinflusst die wirtschaftlichen Entscheidungen stark.
+  The political *context* strongly influences economic decisions.
 
   L'ironie de cette remarque n'est visible que dans son *contexte*.
-  Die Ironie dieser Bemerkung ist nur im *Zusammenhang* erkennbar.
+  The irony of this remark can only be seen in the *context*.
 
   Le *contexte* général suggère une interprétation différente.
-  Der allgemeine *Kontext* legt eine andere Interpretation nahe.
+  The general *context* suggests a different interpretation.
 
   Dans quel *contexte* avez-vous entendu cette conversation ?
-  In welchem *Zusammenhang* haben Sie dieses Gespräch gehört?
+  In what *context* did you hear this conversation?
 
   Les mots prennent leur sens dans un *contexte* précis.
-  Wörter erhalten ihre Bedeutung in einem bestimmten *Kontext*.
+  Words take on meaning in a specific *context*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

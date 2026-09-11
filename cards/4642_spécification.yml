@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4642
 Wort: spécification
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la spécification
 Femininum / Plural: ''
 IPA: \spe.si.fi.ka.sjɔ̃\
-Definition: Spezifikation
+Definition: Specifications
 Register: ↘Fiktion ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il convient alors de respecter les *spécifications* supplémentaires.
-  Es ist dann wichtig, die zusätzlichen *Spezifikationen* zu beachten.
+  Additional *specifications* should then be complied with.
 
   La *spécification* du programme permettra d'éviter les bugs.
-  Die *Spezifizierung* des Programms wird helfen, Fehler zu vermeiden.
+  The *specification* of the program will prevent bugs.
 
   Avez-vous lu les *spécifications* techniques du nouveau modèle ?
-  Haben Sie die technischen *Spezifikationen* des neuen Modells gelesen?
+  Have you read the technical *specifications* of the new model?
 
   Les *spécifications* détaillées du projet seront envoyées demain.
-  Die detaillierte *Leistungsbeschreibung* des Projekts wird morgen verschickt.
+  Detailed *specifications* of the project will be sent out tomorrow.
 
   J'ai noté toutes les *spécifications* concernant les pneus d'hiver.
-  Ich habe alle *Bezeichnungen* für die Winterreifen notiert.
+  I've written down all the *specifications* for the winter tires.
 
   La réunion a commencé sans *spécification* d'heure de fin.
-  Die Besprechung begann ohne *Festlegung* der Endzeit.
+  The meeting began without specifying a closing time.
 
   Les *spécifications* de qualité sont très strictes dans cette usine.
-  Die Qualitäts*spezifikationen* in dieser Fabrik sind sehr streng.
+  The quality *specifications* are very strict in this factory.
 
   Le contrat manque de *spécifications* concernant les délais de livraison.
-  Dem Vertrag fehlen *Angaben* zu den Lieferfristen.
+  The contract lacks *specifications* for delivery times.
 
   Toutes les *spécifications* doivent figurer sur l'étiquette du produit.
-  Alle *Spezifikationen* müssen auf dem Produktetikett angegeben sein.
+  All *specifications* must appear on the product label.
 
   Le manuel contient les *spécifications* complètes de l'appareil.
-  Das Handbuch enthält die vollständigen *Spezifikationen* des Geräts.
+  The manual contains the full *specifications* of the device.
 
   La *spécification* des exigences est une étape cruciale du développement.
-  Die *Spezifizierung* der Anforderungen ist ein entscheidender Entwicklungsschritt.
+  The *specification* of requirements is a crucial step in development.
 
   Sans *spécification* précise, nous ne pouvons pas commencer le travail.
-  Ohne genaue *Spezifizierung* können wir die Arbeit nicht beginnen.
+  Without a precise *specification*, we cannot begin the work.
 
   Les *spécifications* techniques varient selon les pays.
-  Die technischen *Spezifikationen* unterscheiden sich je nach Land.
+  Technical *specifications* vary from country to country.
 
   Veuillez vérifier les *spécifications* avant de commander le matériel.
-  Bitte überprüfen Sie die *Spezifikationen*, bevor Sie das Material bestellen.
+  Please check the *specifications* before ordering the equipment.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

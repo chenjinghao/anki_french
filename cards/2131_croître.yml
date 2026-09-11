@@ -1,116 +1,116 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2131
 Wort: croître
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: croître
 Femininum / Plural: ''
 IPA: \kʁwatʁ\
-Definition: wachsen, zunehmen
+Definition: Growing up
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les bureaucraties ont tendance à *croître* et à s'étendre.
-  Bürokratien neigen dazu zu *wachsen* und sich auszudehnen.
+  Bureaucracies tend to grow and expand.
 
   Les blés *croissent* dans les champs dorés.
-  Der Weizen *wächst* auf den goldenen Feldern.
+  Wheat grows in golden fields.
 
   Sa popularité ne fait que *croître* depuis son dernier film.
-  Seine Beliebtheit *wächst* seit seinem letzten Film stetig.
+  His popularity has only grown since his last film.
 
   L'inquiétude *croissait* dans son esprit jour après jour.
-  Die Besorgnis *wuchs* in seinem Geist von Tag zu Tag.
+  Worry grew in his mind day by day.
 
   Le chômage a *crû* de manière significative cette année.
-  Die Arbeitslosigkeit ist dieses Jahr deutlich *angestiegen*.
+  Unemployment has risen significantly this year.
 
   Les jeunes arbres *croissent* rapidement au printemps.
-  Die jungen Bäume *wachsen* im Frühling schnell.
+  Young trees grow quickly in the spring.
 
   Son influence *croît* de jour en jour.
-  Sein Einfluss *wächst* von Tag zu Tag.
+  His influence grows day by day.
 
   La production industrielle a *crû* de 5% au dernier trimestre.
-  Die Industrieproduktion ist im letzten Quartal um 5% *angestiegen*.
+  Industrial production grew by 5% in the last quarter.
 
   Cette petite fille ne fait que *croître* et embellir.
-  Dieses kleine Mädchen wird immer *größer* und schöner.
+  This little girl is just *growing up* and making herself beautiful.
 
   Les prix ne cessent de *croître* depuis le début de l'année.
-  Die Preise *steigen* seit Jahresbeginn ständig.
+  Prices have been rising steadily since the beginning of the year.
 
   Le niveau d'eau *croît* rapidement pendant la saison des pluies.
-  Der Wasserstand *steigt* während der Regenzeit schnell *an*.
+  The water level rises rapidly during the rainy season.
 
   Les bambous peuvent *croître* de plusieurs centimètres par jour.
-  Bambus kann mehrere Zentimeter pro Tag *wachsen*.
+  Bamboos can grow up to several centimeters a day.
 
   La tension *croissait* entre les deux pays.
-  Die Spannung *wuchs* zwischen den beiden Ländern.
+  Tensions between the two countries were growing.
 
   Ces fleurs sauvages *croissent* naturellement dans la région.
-  Diese Wildblumen *wachsen* natürlich in der Region.
+  These wildflowers grow naturally in the area.
 
   L'enthousiasme de la foule *croissait* à chaque minute.
-  Die Begeisterung der Menge *wuchs* mit jeder Minute.
+  The enthusiasm of the crowd grew from minute to minute.
 
   La lune *croît* pendant la première moitié du mois.
-  Der Mond *nimmt* in der ersten Monatshälfte *zu*.
+  The moon grows during the first half of the month.
 
   Son talent ne fait que *croître* avec les années.
-  Sein Talent *wächst* mit den Jahren stetig.
+  His talent only grows with age.
 
   Les vignes *croissent* particulièrement bien sur ce coteau.
-  Die Weinreben *wachsen* besonders gut an diesem Hang.
+  Vineyards grow particularly well on this hill.
 
   La chaleur *croissait* au fil de la journée.
-  Die Hitze *nahm* im Laufe des Tages *zu*.
+  The heat was rising throughout the day.
 
   Le bruit de la ville *va croissant* chaque année.
-  Der Stadtlärm *nimmt* jedes Jahr *zu*.
+  The city's noise is increasing every year.
 
   Les difficultés *croissent* à mesure que le projet avance.
-  Die Schwierigkeiten *nehmen* zu, je weiter das Projekt fortschreitet.
+  The difficulties increase as the project progresses.
 
   L'herbe *croît* plus vite après la pluie.
-  Das Gras *wächst* nach dem Regen schneller.
+  The grass grows faster after the rain.
 
   Sa réputation *croît* dans le monde entier.
-  Sein Ruf *wächst* weltweit.
+  His reputation is *growing* all over the world.
 
   Le nombre de participants *croît* chaque année.
-  Die Anzahl der Teilnehmer *steigt* jedes Jahr.
+  The number of participants is increasing every year.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>grandir</i> und <i>croître</i></div>
+    <div class="section-title"><i>grandir</i> and <i>croître</i></div>
     <div class="section-content">
-      <p><span class="fr">Grandir</span> (#1936) wird typischerweise verwendet, um das körperliche Wachstum von Lebewesen, insbesondere Menschen, oder die persönliche Entwicklung zu beschreiben.</p>
+      <p><span class="fr">Grandir</span> (#1936) is typically used to describe the physical growth of living things, especially humans, or personal development.</p>
       <div class="examples">
         <div class="fr">Les enfants grandissent vite.</div>
-        <div class="de spoiler">Kinder wachsen schnell auf.</div>
+        <div class="de spoiler">Kids grow up fast.</div>
         <div class="fr">Il a grandi dans un petit village.</div>
-        <div class="de spoiler">Er ist in einem kleinen Dorf aufgewachsen.</div>
+        <div class="de spoiler">He grew up in a small village.</div>
         <div class="fr">Elle a beaucoup grandi pendant l'été.</div>
-        <div class="de spoiler">Sie ist im Sommer sehr gewachsen.</div>
+        <div class="de spoiler">She's grown a lot in the summer.</div>
       </div>
-      <p><span class="fr">Croître</span> wird im Allgemeinen für natürliches, organisches Wachstum oder Zunahme verwendet, oft in einem ökologischen oder wirtschaftlichen Kontext.</p>
+      <p><span class="fr">Croître</span> is generally used for natural, organic growth or increase, often in an ecological or economic context.</p>
       <div class="examples">
         <div class="fr">La population mondiale continue de croître.</div>
-        <div class="de spoiler">Die Weltbevölkerung wächst weiter.</div>
+        <div class="de spoiler">The world's population continues to grow.</div>
         <div class="fr">Les plantes croissent mieux avec suffisamment de lumière.</div>
-        <div class="de spoiler">Pflanzen wachsen besser mit genügend Licht.</div>
+        <div class="de spoiler">Plants grow better with enough light.</div>
         <div class="fr">L'économie du pays a cru de 3% l'année dernière.</div>
-        <div class="de spoiler">Die Wirtschaft des Landes ist im letzten Jahr um 3% gewachsen.</div>
+        <div class="de spoiler">The country's economy grew by 3% last year.</div>
       </div>
     </div>
   </div>

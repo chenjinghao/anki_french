@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3488
 Wort: approbation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une approbation
 Femininum / Plural: ''
 IPA: \a.pʁɔ.ba.sjɔ̃\
-Definition: Zustimmung, Anerkennung
+Definition: Approval and recognition
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle a reçu l'*approbation* unanime.
-  Sie erhielt die einstimmige *Zustimmung*.
+  It was unanimously approved.
 
   Le projet attend encore l'*approbation* du conseil municipal.
-  Das Projekt wartet noch auf die *Zustimmung* des Gemeinderats.
+  The project is still awaiting the *approval* of the municipal council.
 
   Sans votre *approbation*, nous ne pouvons pas commencer les travaux.
-  Ohne Ihre *Zustimmung* können wir mit den Arbeiten nicht beginnen.
+  Without your *approval*, we can't start the work.
 
   Les enfants cherchent toujours l'*approbation* de leurs parents.
-  Kinder suchen stets die *Anerkennung* ihrer Eltern.
+  Children always seek the *approval* of their parents.
 
   Un murmure d'*approbation* parcourut l'assemblée.
-  Ein Murmeln der *Zustimmung* ging durch die Versammlung.
+  There was a whisper of *approval* throughout the assembly.
 
   Le nouveau film a reçu l'*approbation* de la critique.
-  Der neue Film erhielt den *Beifall* der Kritiker.
+  The new film received critical acclaim.
 
   Je hoche la tête en signe d'*approbation*.
-  Ich nicke zum Zeichen der *Zustimmung*.
+  I shake my head as a sign of *approval*.
 
   L'*approbation* du budget est prévue pour la semaine prochaine.
-  Die *Genehmigung* des Haushalts ist für nächste Woche vorgesehen.
+  The *approval* of the budget is scheduled for next week.
 
   Cette décision nécessite l'*approbation* préalable du directeur.
-  Diese Entscheidung erfordert die vorherige *Zustimmung* des Direktors.
+  This decision shall require the prior *approval* of the Director.
 
   Son sourire témoignait de son *approbation*.
-  Sein Lächeln zeigte seine *Zustimmung*.
+  Her smile was a sign of *approval*.
 
   La proposition a obtenu l'*approbation* de tous les membres.
-  Der Vorschlag erhielt die *Zustimmung* aller Mitglieder.
+  The proposal was approved by all the Members.
 
   Les spectateurs ont manifesté leur *approbation* par des applaudissements.
-  Die Zuschauer zeigten ihren *Beifall* durch Applaus.
+  The spectators showed their *approval* by applauding.
 
   Il attend avec impatience l'*approbation* de sa demande de visa.
-  Er wartet ungeduldig auf die *Genehmigung* seines Visumantrags.
+  He is eagerly awaiting *approval* of his visa application.
 
   L'*approbation* du comité d'éthique est indispensable pour cette recherche.
-  Die *Zustimmung* der Ethikkommission ist für diese Forschung unerlässlich.
+  The *approval* of the ethics committee is essential for this research.
 
   Cette méthode d'enseignement a reçu l'*approbation* des experts en éducation.
-  Diese Lehrmethode erhielt die *Anerkennung* der Bildungsexperten.
+  This method of teaching has been approved by education experts.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2018
 Wort: normalement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: normalement
 Femininum / Plural: ''
 IPA: \nɔʁ.mal.mɑ̃\
-Definition: normalerweise
+Definition: normally
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Normalement*, je suis un chien très gentil.
-  *Normalerweise* bin ich ein sehr freundlicher Hund.
+  *Normally*, I'm a very nice dog.
 
   *Normalement*, nous devons arriver à trois heures, mais le train a du retard.
-  *Eigentlich* müssen wir um drei Uhr ankommen, aber der Zug hat Verspätung.
+  *Normally*, we have to arrive at three o'clock, but the train is late.
 
   Son cœur bat *normalement* après l'opération.
-  Sein Herz schlägt nach der Operation *normal*.
+  His heart beats *normally* after the operation.
 
   Les élections se sont déroulées *normalement*.
-  Die Wahlen sind *normal* verlaufen.
+  The elections took place *normally*.
 
   *Normalement*, je prends mon petit-déjeuner à huit heures.
-  *Normalerweise* frühstücke ich um acht Uhr.
+  *Normally*, I have my breakfast at eight o'clock.
 
   Tout s'est passé *normalement* pendant l'examen.
-  Während der Prüfung ist alles *normal* gelaufen.
+  Everything went normal during the exam.
 
   *Normalement*, les magasins ferment à 20 heures.
-  *Normalerweise* schließen die Geschäfte um 20 Uhr.
+  *Normally*, shops close at 8:00 p.m.
 
   Un enfant *normalement* constitué apprend à marcher vers un an.
-  Ein *normal* entwickeltes Kind lernt mit etwa einem Jahr das Laufen.
+  A normal child learns to walk around a year.
 
   *Normalement*, je devrais finir mon travail avant midi.
-  *Eigentlich* sollte ich meine Arbeit vor dem Mittag beenden.
+  *Normally*, I have to finish my work before noon.
 
   La grossesse se développe *normalement*.
-  Die Schwangerschaft verläuft *normal*.
+  Pregnancy develops *normally*.
 
   *Normalement*, on ne peut pas entrer sans badge.
-  *Normalerweise* kann man ohne Ausweis nicht hineingehen.
+  *Normally*, we can't go in without a badge.
 
   La machine fonctionne *normalement* maintenant.
-  Die Maschine läuft jetzt *normal*.
+  The machine is working *normally* now.
 
   *Normalement*, il fait plus chaud en été.
-  *Normalerweise* ist es im Sommer wärmer.
+  It's usually warmer in the summer.
 
   Les plantes poussent *normalement* dans ce sol.
-  Die Pflanzen wachsen in diesem Boden *normal*.
+  Plants *normally* grow in this soil.
 
   *Normalement*, je ne bois pas de café le soir.
-  *Normalerweise* trinke ich abends keinen Kaffee.
+  *Normally*, I don't drink coffee at night.
 
   La blessure guérit *normalement*, selon le médecin.
-  Die Wunde heilt laut dem Arzt *normal*.
+  The wound heals *normally*, according to the doctor.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

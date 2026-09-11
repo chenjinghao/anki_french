@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4282
 Wort: magistrat
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le magistrat
 Femininum / Plural: magistrate
 IPA: \ma.ʒis.tʁa\
-Definition: Verwaltungsbeamter, Richter
+Definition: Administrative officers, judges
 Register: ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Son père était un *magistrat* de la cour d'assises.
-  Sein Vater war *Richter* am Schwurgericht.
+  Her father was a judge in the court of common pleas.
 
   Les *magistrats* du tribunal ont délibéré pendant trois heures.
-  Die *Richter* des Gerichts haben drei Stunden lang beraten.
+  The judges of the court deliberated for three hours.
 
   Dans l'ancienne Rome, les *magistrats* étaient élus par le peuple.
-  Im alten Rom wurden die *Staatsbeamten* vom Volk gewählt.
+  In ancient Rome, governors were elected by the people.
 
   La *magistrate* a prononcé une peine de deux ans avec sursis.
-  Die *Richterin* verhängte eine Bewährungsstrafe von zwei Jahren.
+  The *magistrate* sentenced him to two years' probation.
 
   Le *magistrat* du parquet a requis une peine maximale.
-  Der *Staatsanwalt* forderte die Höchststrafe.
+  The prosecutor's office has demanded a maximum sentence.
 
   En tant que premier *magistrat* de la ville, le maire a inauguré le nouveau parc.
-  Als oberster *Verwaltungsbeamter* der Stadt weihte der Bürgermeister den neuen Park ein.
+  As the city's first *magistrate*, the mayor inaugurated the new park.
 
   La *magistrate* administrative examine les recours des citoyens.
-  Die Verwaltungs*richterin* prüft die Beschwerden der Bürger.
+  The administrative *magistrate* examines the citizens' appeals.
 
   Les *magistrats* professionnels travaillent aux côtés des jurés.
-  Die Berufs*richter* arbeiten mit den Geschworenen zusammen.
+  Professional *magistrates* work alongside jurors.
 
   Le *magistrat* a revêtu sa robe noire avant l'audience.
-  Der *Richter* legte vor der Verhandlung seine schwarze Robe an.
+  The judge wore his black dress before the hearing.
 
   Cette *magistrate* du siège siège depuis vingt ans au tribunal.
-  Diese *Richterin* sitzt seit zwanzig Jahren am Gericht.
+  This sitting judge has been in court for twenty years.
 
   Le jeune *magistrat* prépare son premier réquisitoire.
-  Der junge *Staatsanwalt* bereitet sein erstes Plädoyer vor.
+  The young *magistrate* is preparing his first petition.
 
   Les *magistrats* de la Cour de cassation ont cassé le jugement.
-  Die *Richter* des Kassationsgerichtshofs hoben das Urteil auf.
+  The judges of the Court of Cassation reversed the judgment.
 
   La nomination de ce *magistrat* a fait polémique dans les médias.
-  Die Ernennung dieses *Richters* sorgte für Diskussionen in den Medien.
+  The appointment of this judge has been controversial in the media.
 
   Les *magistrats* municipaux ont voté le nouveau budget.
-  Die städtischen *Verwaltungsbeamten* stimmten über den neuen Haushalt ab.
+  Municipal judges voted on the new budget.
 
   Le *premier magistrat* de France a prononcé un discours solennel.
-  Das *Staatsoberhaupt* Frankreichs hielt eine feierliche Rede.
+  France's *first magistrate* delivered a solemn speech.
 
   La *magistrate* debout a fait appel de la décision.
-  Die stehende *Staatsanwältin* legte gegen die Entscheidung Berufung ein.
+  The *magistrate* standing has appealed the decision.
 
   Les *magistrats* de la cour d'appel ont confirmé le verdict.
-  Die *Richter* des Berufungsgerichts bestätigten das Urteil.
+  The judges of the Court of Appeal upheld the verdict.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

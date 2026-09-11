@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2135
 Wort: rédiger
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: rédiger
 Femininum / Plural: ''
 IPA: \ʁe.di.ʒe\
-Definition: verfassen, schreiben
+Definition: to draft; write
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'année suivante, j'ai *rédigé* mon mémoire.
-  Im folgenden Jahr habe ich meine Abschlussarbeit *verfasst*.
+  The following year, I *wrote* my thesis.
 
   Il faut *rédiger* ce contrat avec soin pour éviter tout malentendu.
-  Dieser Vertrag muss sorgfältig *aufgesetzt* werden, um Missverständnisse zu vermeiden.
+  This contract must be carefully drawn up to avoid any misunderstanding.
 
   Le journaliste a *rédigé* un article sur les derniers événements politiques.
-  Der Journalist hat einen Artikel über die jüngsten politischen Ereignisse *geschrieben*.
+  The journalist wrote an article about the latest political events.
 
   Nous devons *rédiger* ce rapport de manière claire et concise pour l'utilisateur final.
-  Wir müssen diesen Bericht klar und prägnant für den Endbenutzer *verfassen*.
+  We must draw up this report in a clear and concise way for the end user.
 
   Le secrétaire a été chargé de *rédiger* le procès-verbal de la réunion.
-  Der Sekretär wurde beauftragt, das Protokoll der Sitzung zu *redigieren*.
+  The secretary was assigned to draw up the minutes of the meeting.
 
   Les élèves ont bien *rédigé* leurs devoirs cette fois-ci.
-  Die Schüler haben ihre Hausaufgaben dieses Mal gut *formuliert*.
+  The students did their homework well this time.
 
   Elle *rédige* toujours ses e-mails professionnels avec beaucoup de soin.
-  Sie *verfasst* ihre beruflichen E-Mails immer mit großer Sorgfalt.
+  She always writes her professional e-mails very carefully.
 
   Le comité a passé des heures à *rédiger* une protestation en termes énergiques.
-  Das Komitee hat Stunden damit verbracht, einen Protest in energischen Worten zu *formulieren*.
+  The committee spent hours drafting a protest in vigorous terms.
 
   J'ai dû *rédiger* plusieurs versions de mon CV avant d'être satisfait.
-  Ich musste mehrere Versionen meines Lebenslaufs *verfassen*, bevor ich zufrieden war.
+  I had to write several versions of my resume before I was satisfied.
 
   Le député a *rédigé* un projet de loi sur la protection de l'environnement.
-  Der Abgeordnete hat einen Gesetzentwurf zum Umweltschutz *ausgearbeitet*.
+  The honourable Member has drafted a bill on environmental protection.
 
   "Tu devrais *rédiger* ton testament pendant que tu es encore en bonne santé", lui a conseillé son avocat.
-  "Du solltest dein Testament *aufsetzen*, solange du noch bei guter Gesundheit bist", riet ihm sein Anwalt.
+  "You should write your will while you are still healthy", his lawyer advised him.
 
   L'orateur *rédigeait* son discours quand son ordinateur est tombé en panne.
-  Der Redner *verfasste* gerade seine Rede, als sein Computer ausfiel.
+  The speaker *was writing* his speech when his computer broke down.
 
   Les étudiants doivent apprendre à *rédiger* avec clarté et précision.
-  Die Studenten müssen lernen, klar und präzise zu *schreiben*.
+  Students must learn to write clearly and accurately.
 
   Le programmeur a passé la nuit à *rédiger* le code source du nouveau logiciel.
-  Der Programmierer hat die Nacht damit verbracht, den Quellcode der neuen Software zu *schreiben*.
+  The programmer spent the night *writing* the source code for the new software.
 
   Les diplomates ont *rédigé* un message codé en morse pour des raisons de sécurité.
-  Die Diplomaten haben aus Sicherheitsgründen eine verschlüsselte Nachricht in Morsecode *verfasst*.
+  The diplomats wrote a message coded in Morse for security reasons.
 
   Après plusieurs essais, elle a enfin réussi à *rédiger* un texte qui exprimait parfaitement sa pensée.
-  Nach mehreren Versuchen ist es ihr endlich gelungen, einen Text zu *verfassen*, der ihre Gedanken perfekt ausdrückte.
+  After several attempts, she finally managed to write a text that perfectly expressed her thoughts.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

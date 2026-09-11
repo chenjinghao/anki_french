@@ -1,95 +1,95 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2869
 Wort: prédire
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: prédire
 Femininum / Plural: ''
 IPA: \pʁe.diʁ\
-Definition: vorhersagen
+Definition: Predictions
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il lui a *prédit* qu'elle aurait un enfant.
-  Er hat ihr *vorhergesagt*, dass sie ein Kind bekommen würde.
+  He *predicted* that she would have a child.
 
   Les météorologues *prédisent* du beau temps pour ce week-end.
-  Die Meteorologen *sagen* für dieses Wochenende schönes Wetter *voraus*.
+  Meteorologists are predicting good weather for this weekend.
 
   "Je vous *prédis* que vous réussirez votre examen", a dit le professeur avec confiance.
-  "Ich *sage* Ihnen *voraus*, dass Sie Ihre Prüfung bestehen werden", sagte der Lehrer zuversichtlich.
+  "I predict you will pass your exam", the professor confidently said.
 
   La voyante prétend pouvoir *prédire* l'avenir en lisant dans les lignes de la main.
-  Die Wahrsagerin behauptet, die Zukunft *vorhersagen* zu können, indem sie aus den Handlinien liest.
+  The seer claims to be able *to predict* the future by reading in the lines of her hand.
 
   Les experts économiques n'ont pas réussi à *prédire* la crise financière de 2008.
-  Die Wirtschaftsexperten konnten die Finanzkrise von 2008 nicht *vorhersagen*.
+  Economic experts have failed *to predict* the 2008 financial crisis.
 
   Les scientifiques *prédisent* que le changement climatique aura des conséquences graves.
-  Die Wissenschaftler *sagen voraus*, dass der Klimawandel schwerwiegende Folgen haben wird.
+  Scientists predict that climate change will have serious consequences.
 
   L'oracle de Delphes a *prédit* à Œdipe qu'il tuerait son père et épouserait sa mère.
-  Das Orakel von Delphi *sagte* Ödipus *voraus*, dass er seinen Vater töten und seine Mutter heiraten würde.
+  The Oracle of Delphi foretold to Oedipus that he would kill his father and marry his mother.
 
   Les astronomes peuvent *prédire* avec précision quand la prochaine éclipse solaire aura lieu.
-  Die Astronomen können genau *vorhersagen*, wann die nächste Sonnenfinsternis stattfinden wird.
+  Astronomers can accurately predict when the next solar eclipse will occur.
 
   "Je te l'avais *prédit*!", s'est-elle exclamée quand elle a appris la nouvelle.
-  "Ich habe es dir *vorausgesagt*!", rief sie aus, als sie die Neuigkeit erfuhr.
+  "I told you!" she exclaimed when she heard the news.
 
   Les sondages *prédisent* une victoire serrée pour le candidat de l'opposition.
-  Die Umfragen *sagen* einen knappen Sieg für den Oppositionskandidaten *voraus*.
+  The polls predict a narrow victory for the opposition candidate.
 
   On ne peut pas *prédire* l'avenir, mais on peut s'y préparer.
-  Man kann die Zukunft nicht *vorhersagen*, aber man kann sich darauf vorbereiten.
+  You can't predict the future, but you can prepare for it.
 
   Les analystes *prédisent* une hausse des taux d'intérêt pour l'année prochaine.
-  Die Analysten *sagen* für das nächste Jahr einen Anstieg der Zinssätze *voraus*.
+  Analysts predict an increase in interest rates for next year.
 
   Nostradamus est célèbre pour avoir *prédit* de nombreux événements historiques.
-  Nostradamus ist dafür berühmt, viele historische Ereignisse *vorhergesagt* zu haben.
+  Nostradamus is famous for predicting many historical events.
 
   Le médecin a *prédit* une guérison complète si le patient suivait le traitement prescrit.
-  Der Arzt *sagte* eine vollständige Genesung *voraus*, wenn der Patient die verschriebene Behandlung befolgen würde.
+  The doctor *predicted* a complete recovery if the patient followed the prescribed treatment.
 
   Les résultats de l'étude *prédisent* une augmentation du chômage dans les prochaines années.
-  Die Ergebnisse der Studie *sagen* einen Anstieg der Arbeitslosigkeit in den kommenden Jahren *voraus*.
+  The results of the study predict an increase in unemployment in the coming years.
 
   On ne peut pas toujours *prédire* les conséquences de nos actions.
-  Man kann nicht immer die Folgen unserer Handlungen *vorhersagen*.
+  We can't always predict the consequences of our actions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>prédire</i> und <i>prévoir</i></div>
+    <div class="section-title"><i>prédire</i> and <i>prévoir</i></div>
     <div class="section-content">
-      <p><span class="fr">Prévoir</span> (#437) (wörtlich: <span class="de">"vorhersehen"</span>) wird für realistische, rationale oder wissenschaftliche Vorhersagen verwendet, die auf Berechnungen oder Statistiken basieren.</p>
+      <p><span class="fr">Prévoir</span> #437) (literally: <span class="de">'foreseeable'</span>) is used for realistic, rational or scientific predictions based on calculations or statistics.</p>
       <div class="examples">
         <div class="fr">Les économistes prévoient une reprise économique.</div>
-        <div class="de spoiler">Die Ökonomen sehen eine wirtschaftliche Erholung voraus.</div>
+        <div class="de spoiler">Economists anticipate an economic recovery.</div>
         <div class="fr">Elle prévoit avoir besoin d'aide.</div>
-        <div class="de spoiler">Sie sieht voraus, dass sie Hilfe brauchen wird.</div>
+        <div class="de spoiler">She anticipates that she will need help.</div>
       </div>
 
-      <p><span class="fr">Prédire</span> (wörtlich: <span class="de">"vorhersagen"</span>) impliziert zusätzlich eine Ankündigung und wird häufiger für intuitive, übernatürliche oder vorausahnende Vorhersagen verwendet.</p>
+      <p><span class="fr">Prédire</span> (literally: <span class="de">'Prediction'</span>) also implies an announcement and is more commonly used for intuitive, supernatural or predictive predictions.</p>
       <div class="examples">
         <div class="fr">Cette voyante prédit l'avenir.</div>
-        <div class="de spoiler">Diese Wahrsagerin sagt die Zukunft voraus.</div>
+        <div class="de spoiler">This fortune teller foretells the future.</div>
         <div class="fr">Tous lui avaient prédit un brillant avenir.</div>
-        <div class="de spoiler">Alle hatten ihm eine glänzende Zukunft vorhergesagt.</div>
+        <div class="de spoiler">Everyone had predicted a bright future for him.</div>
       </div>
 
-      <p>In einigen Kontexten können beide Verben austauschbar sein, besonders wenn es um Prognosen auf Basis von Vermutungen oder Überlegungen geht:</p>
+      <p>In some contexts, both verbs may be interchangeable, especially when predictions are based on assumptions or considerations:</p>
       <div class="examples">
         <div class="fr">Les experts prévoient/prédisent une crise économique.</div>
-        <div class="de spoiler">Die Experten sagen eine Wirtschaftskrise voraus.</div>
+        <div class="de spoiler">The experts predict an economic crisis.</div>
       </div>
     </div>
   </div>

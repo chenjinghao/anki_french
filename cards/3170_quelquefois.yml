@@ -1,80 +1,80 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3170
 Wort: quelquefois
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: quelquefois
 Femininum / Plural: ''
 IPA: \kɛl.kə.fwa\
-Definition: manchmal, hin und wieder
+Definition: Sometimes, once in a while
 Register: ↗Fiktion ↘Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Quelquefois* je pense qu'il a raison.
-  *Manchmal* denke ich, dass er Recht hat.
+  *Sometimes* I think he's right.
 
   *Quelquefois*, en hiver, il neige même dans le sud de la France.
-  *Manchmal* schneit es im Winter sogar im Süden Frankreichs.
+  *Sometimes*, in winter, it snows even in the south of France.
 
   Ma grand-mère vient nous voir *quelquefois* pendant les vacances.
-  Meine Großmutter besucht uns *hin und wieder* während der Ferien.
+  My grandmother comes to visit us *sometimes* during the holidays.
 
   Les trains peuvent *quelquefois* avoir du retard à cause du mauvais temps.
-  Die Züge können *manchmal* wegen des schlechten Wetters Verspätung haben.
+  Trains can *sometimes* be delayed because of bad weather.
 
   Julie arrive *quelquefois* en retard au bureau le lundi matin.
-  Julie kommt am Montagmorgen *manchmal* zu spät ins Büro.
+  Julie is *sometimes* late for the office on Monday mornings.
 
   *Quelquefois*, je préfère rester seul à la maison plutôt que de sortir.
-  *Manchmal* bleibe ich lieber allein zu Hause, anstatt auszugehen.
+  *Sometimes* I'd rather stay home alone than go out.
 
   As-tu *quelquefois* pensé à changer de travail ?
-  Hast du *jemals* darüber nachgedacht, den Job zu wechseln?
+  Have you ever thought about changing jobs?
 
   Il fait *quelquefois* des erreurs, mais il apprend vite.
-  Er macht *manchmal* Fehler, aber er lernt schnell.
+  He makes mistakes *sometimes*, but he learns quickly.
 
   *Quelquefois*, les solutions les plus simples sont les meilleures.
-  *Manchmal* sind die einfachsten Lösungen die besten.
+  *Sometimes* the simplest solutions are the best.
 
   Le chat dort sur le canapé *quelquefois*.
-  Die Katze schläft *hin und wieder* auf dem Sofa.
+  *Sometimes* the cat sleeps on the couch.
 
   *Quelquefois*, je me demande ce que l'avenir nous réserve.
-  *Manchmal* frage ich mich, was die Zukunft für uns bereithält.
+  *Sometimes* I wonder what the future holds for us.
 
   Les enfants sont *quelquefois* difficiles à comprendre.
-  Kinder sind *manchmal* schwer zu verstehen.
+  Children are *sometimes* hard to understand.
 
   *Quelquefois*, il suffit d'un sourire pour égayer toute une journée.
-  *Manchmal* reicht ein Lächeln, um den ganzen Tag aufzuhellen.
+  *Sometimes* a smile is enough to make an entire day happy.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>parfois</i> und <i>quelquefois</i></div>
+    <div class="section-title"><i>parfois</i> and <i>quelquefois</i></div>
     <div class="section-content">
-      <p><span class="fr">Parfois</span> und <span class="fr">quelquefois</span> bedeuten beide <span class="de">"manchmal"</span> oder <span class="de">"gelegentlich"</span> und sind in den meisten Fällen austauschbar. Es gibt jedoch einen subtilen Unterschied in der Nuance:</p>
+      <p><span class="fr">Parfois</span> and <span class="fr">quelquefois</span> meaning both <span class="de">"Sometimes"</span> or <span class="de">'occasionally'</span> But there's a subtle difference in nuance:</p>
 
-      <p><span class="fr">Quelquefois</span> (wörtlich: <span class="de">"einige Male"</span>) impliziert eher zählbare, diskrete Ereignisse.</p>
+      <p><span class="fr">Quelquefois</span> (literally: <span class="de">"a few times"</span>) implies more numerous, discrete events.</p>
       <div class="examples">
         <div class="fr">Je vais <u>quelquefois</u> au cinéma, peut-être deux ou trois fois par mois.</div>
-        <div class="de spoiler">Ich gehe <u>manchmal</u> ins Kino, vielleicht zwei- oder dreimal im Monat.</div>
+        <div class="de spoiler">I 'm going . <u>Sometimes</u> to the movies, maybe two or three times a month.</div>
       </div>
 
-      <p><span class="fr">Parfois</span> (#410) deutet hingegen auf einen vageren, unbestimmteren oder kontinuierlicheren Zeitraum hin.</p>
+      <p><span class="fr">Parfois</span> On the other hand, (#410) indicates a more vague, indefinite or continuous period.</p>
       <div class="examples">
         <div class="fr">Il est <u>parfois</u> difficile de se concentrer quand il fait chaud.</div>
-        <div class="de spoiler">Es ist <u>manchmal</u> schwierig, sich zu konzentrieren, wenn es heiß ist.</div>
+        <div class="de spoiler">It 's ... <u>Sometimes</u> It's hard to concentrate when it's hot.</div>
         <div class="fr">La vie est <u>parfois</u> compliquée.</div>
-        <div class="de spoiler">Das Leben ist <u>manchmal</u> kompliziert.</div>
+        <div class="de spoiler">Life is <u>Sometimes</u> It's complicated.</div>
       </div>
     </div>
   </div>

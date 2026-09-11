@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1682
 Wort: persuader
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: persuader
 Femininum / Plural: ''
 IPA: \pɛʁ.sɥa.de\
-Definition: überzeugen, überreden
+Definition: Convincing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il était *persuadé* que j'avais un talent.
-  Er war *überzeugt*, dass ich ein Talent hatte.
+  He was *convinced* that I had a talent.
 
   Son comportement m'a *persuadé* de son innocence.
-  Sein Verhalten hat mich von seiner Unschuld *überzeugt*.
+  His behavior *convinced* me of his innocence.
 
   Je suis intimement *persuadée* qu'il dit la vérité.
-  Ich bin fest davon *überzeugt*, dass er die Wahrheit sagt.
+  I'm deeply *convinced* he's telling the truth.
 
   Les parents ont *persuadé* leur fille de continuer ses études.
-  Die Eltern haben ihre Tochter *überredet*, ihr Studium fortzusetzen.
+  The parents persuaded their daughter to continue her education.
 
   Elle s'est *persuadée* que tout le monde la détestait.
-  Sie hat sich *eingeredet*, dass alle sie hassten.
+  She *convinced* herself that everyone hated her.
 
   J'ai essayé de *persuader* Marie de venir à la fête.
-  Ich habe versucht, Marie zu *überreden*, zur Party zu kommen.
+  I tried to *persuade* Marie to come to the party.
 
   Le professeur a *persuadé* l'étudiant de repasser l'examen.
-  Der Professor hat den Studenten *überzeugt*, die Prüfung zu wiederholen.
+  The teacher persuaded the student to pass the exam again.
 
   Nous nous sommes *persuadés* de notre bon droit.
-  Wir waren von unserem Recht *überzeugt*.
+  We *convinced* ourselves we had the right.
 
   Son discours a *persuadé* même les plus sceptiques.
-  Seine Rede hat selbst die Skeptischsten *überzeugt*.
+  His speech *convinced* even the most sceptical.
 
   Elle s'est facilement laissé *persuader* de changer d'avis.
-  Sie ließ sich leicht *überzeugen*, ihre Meinung zu ändern.
+  She was easily persuaded to change her mind.
 
   Les faits ont fini par me *persuader* de mon erreur.
-  Die Fakten haben mich schließlich von meinem Fehler *überzeugt*.
+  Eventually, the facts convinced me that I was wrong.
 
   Il a *persuadé* le jury de sa bonne foi.
-  Er hat die Jury von seiner Aufrichtigkeit *überzeugt*.
+  He *convinced* the jury of his good faith.
 
   Les exemples *persuadent* mieux que les mots.
-  Beispiele *überzeugen* besser als Worte.
+  Examples are more *persuasive* than words.
 
   Je me suis *persuadé* qu'il reviendrait un jour.
-  Ich habe mir *eingeredet*, dass er eines Tages zurückkommen würde.
+  I was *convinced* that he would come back one day.
 
   Nous l'avons *persuadée* de présenter ses excuses.
-  Wir haben sie *überredet*, sich zu entschuldigen.
+  We *convinced* her to apologize.
 
   Thomas s'est *persuadé* de pouvoir réussir seul.
-  Thomas hat sich *überzeugt*, dass er es alleine schaffen kann.
+  Thomas was *convinced* that he could succeed on his own.
 
   L'avocat a *persuadé* le juge de l'innocence de son client.
-  Der Anwalt hat den Richter von der Unschuld seines Mandanten *überzeugt*.
+  The lawyer *convinced* the judge of his client's innocence.
 
   Elle m'a *persuadé* de sa sincérité.
-  Sie hat mich von ihrer Aufrichtigkeit *überzeugt*.
+  She *convinced* me of her sincerity.
 
   Il faut le *persuader* d'abandonner ce projet risqué.
-  Man muss ihn *überreden*, dieses riskante Projekt aufzugeben.
+  We have to *persuade* him to abandon this risky project.
 
   Je suis *persuadé* que nous réussirons.
-  Ich bin *überzeugt*, dass wir es schaffen werden.
+  I'm sure we'll make it.
 
   Ils se sont mutuellement *persuadés* de leur amour.
-  Sie haben sich gegenseitig von ihrer Liebe *überzeugt*.
+  They *convinced* each other of their love.
 
   Les arguments ont fini par *persuader* l'assemblée.
-  Die Argumente haben die Versammlung schließlich *überzeugt*.
+  The arguments eventually convinced the assembly.
 
   Son sourire m'a *persuadé* de lui faire confiance.
-  Sein Lächeln hat mich *überzeugt*, ihm zu vertrauen.
+  His smile *convinced* me to trust him.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>convaincre</i> und <i>persuader</i></div>
+    <div class="section-title"><i>convaincre</i> and <i>persuader</i></div>
     <div class="section-content">
-      <p>Das Verb <span class="fr">convaincre</span> (#575) bedeutet, jemanden durch Argumente und Logik von einer Wahrheit oder Richtigkeit zu überzeugen.</p>
+      <p>The verb <span class="fr">convaincre</span> #575) means convincing someone of a truth or truth through argument and logic.</p>
 
-      <p>Das Verb <span class="fr">persuader</span> hingegen bedeutet, jemanden durch Appell an die Emotionen oder Wünsche dazu zu bringen, etwas zu tun (auch wenn es vielleicht seinen Überzeugungen widerspricht).</p>
+      <p>The verb <span class="fr">persuader</span> On the contrary, it means appealing to one's emotions or desires to make one do something (even if it may contradict one's beliefs).</p>
 
       <div class="examples">
         <div class="fr">J'ai réussi à convaincre mon frère que fumer est mauvais pour la santé.</div>
-        <div class="de spoiler">Es ist mir gelungen, meinen Bruder davon zu überzeugen, dass Rauchen ungesund ist.</div>
+        <div class="de spoiler">I managed to convince my brother that smoking was unhealthy.</div>
 
         <div class="fr">Le vendeur m'a persuadé d'acheter cette voiture grâce à son discours séduisant.</div>
-        <div class="de spoiler">Der Verkäufer hat mich mit seiner charmanten Rede dazu überredet, dieses Auto zu kaufen.</div>
+        <div class="de spoiler">The seller talked me into buying this car with his charming speech.</div>
       </div>
     </div>
   </div>

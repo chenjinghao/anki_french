@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3983
 Wort: souscrire
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: souscrire
 Femininum / Plural: ''
 IPA: \sus.kʁiʁ\
-Definition: spenden, unterzeichnen
+Definition: Donations and signatures
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle ne *souscrit* pas complètement à nos principes.
-  Sie *stimmt* unseren Prinzipien nicht vollständig *zu*.
+  It's not entirely in line with our principles.
 
   Julien a *souscrit* une assurance habitation hier.
-  Julian hat gestern eine Hausratversicherung *abgeschlossen*.
+  Julien took out a home insurance policy yesterday.
 
   Pour soutenir le projet, nous avons *souscrit* pour cinq cents euros.
-  Um das Projekt zu unterstützen, haben wir für fünfhundert Euro *gezeichnet*.
+  To support the project, we *subscribed* for five hundred euros.
 
   Je *souscris* entièrement à ce que Marie vient de dire.
-  Ich *stimme* dem, was Marie gerade gesagt hat, voll und ganz *zu*.
+  I fully agree with what Marie just said.
 
   L'entreprise a *souscrit* un contrat de maintenance annuel.
-  Die Firma hat einen jährlichen Wartungsvertrag *unterzeichnet*.
+  The company has signed an annual maintenance contract.
 
   Les investisseurs ont *souscrit* des obligations d'État.
-  Die Investoren haben Staatsanleihen *gezeichnet*.
+  Investors have contracted government bonds.
 
   Ma sœur a *souscrit* un abonnement au journal local.
-  Meine Schwester hat ein Abo bei der Lokalzeitung *abgeschlossen*.
+  My sister *subscribed* to the local newspaper.
 
   Nous avons *souscrit* à cette encyclopédie en ligne.
-  Wir haben diese Online-Enzyklopädie *abonniert*.
+  We *subscribed* to this online encyclopedia.
 
   Il refuse de *souscrire* aux exigences de son patron.
-  Er weigert sich, den Forderungen seines Chefs *zuzustimmen*.
+  He refuses to subscribe to the demands of his boss.
 
   Les citoyens ont *souscrit* massivement à l'emprunt public.
-  Die Bürger haben die öffentliche Anleihe massiv *gezeichnet*.
+  Citizens have taken out massive public borrowing.
 
   Mon père a *souscrit* une police d'assurance-vie.
-  Mein Vater hat eine Lebensversicherung *abgeschlossen*.
+  My father took out a life insurance policy.
 
   Pierre a *souscrit* à l'œuvre de bienfaisance.
-  Pierre hat für das Wohltätigkeitswerk *gespendet*.
+  Pierre *subscribed* to the charity work.
 
   Les étudiants peuvent *souscrire* à cette revue à prix réduit.
-  Studierende können diese Zeitschrift zum reduzierten Preis *abonnieren*.
+  Students can subscribe to this magazine at a discounted price.
 
   Elle a *souscrit* plusieurs actions de cette start-up.
-  Sie hat mehrere Aktien dieses Start-ups *gezeichnet*.
+  She's signed several shares of this start-up.
 
   Nous ne pouvons pas *souscrire* à cette proposition absurde.
-  Wir können diesem absurden Vorschlag nicht *zustimmen*.
+  We cannot accept this absurd proposal.
 
   J'ai *souscrit* un engagement de confidentialité.
-  Ich habe eine Vertraulichkeitsvereinbarung *unterzeichnet*.
+  I've made a commitment to confidentiality.
 
   Les lecteurs peuvent *souscrire* à l'édition limitée du livre.
-  Die Leser können die limitierte Ausgabe des Buches *subskribieren*.
+  Readers can subscribe to a limited edition of the book.
 
   La banque a *souscrit* une garantie décennale.
-  Die Bank hat eine zehnjährige Garantie *unterzeichnet*.
+  The bank has a ten-year warranty.
 
   Mon voisin a *souscrit* un crédit immobilier.
-  Mein Nachbar hat einen Immobilienkredit *abgeschlossen*.
+  My neighbor took out a mortgage.
 
   Nous devons *souscrire* à cet arrangement.
-  Wir müssen dieser Vereinbarung *zustimmen*.
+  We must agree to this arrangement.
 
   Les employés ont *souscrit* une mutuelle d'entreprise.
-  Die Mitarbeiter haben eine betriebliche Krankenversicherung *abgeschlossen*.
+  The employees have signed a joint venture agreement.
 
   L'artiste a *souscrit* un contrat avec la galerie.
-  Der Künstler hat einen Vertrag mit der Galerie *unterzeichnet*.
+  The artist has signed a contract with the gallery.
 
   Tu dois *souscrire* à ces conditions pour continuer.
-  Du musst diesen Bedingungen *zustimmen*, um fortzufahren.
+  You must agree to these terms to proceed.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

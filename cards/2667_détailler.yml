@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2667
 Wort: détailler
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: détailler
 Femininum / Plural: ''
 IPA: \de.ta.je\
-Definition: ausführlich erörtern; in Stücke teilen
+Definition: to discuss in detail; to break up into pieces
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai reçu une lettre *détaillée*.
-  Ich habe einen *ausführlichen* Brief erhalten.
+  I received a *detailed* letter.
 
   Le boucher *détaille* la viande en petits morceaux.
-  Der Metzger *zerteilt* das Fleisch in kleine Stücke.
+  The butcher breaks the meat into small pieces.
 
   Elle *détaillait* tous ses défauts sans pitié.
-  Sie *zählte* schonungslos all seine Fehler *auf*.
+  She was ruthless in detailing all her flaws.
 
   Le vendeur ne *détaille* pas ce produit, il le vend uniquement en gros.
-  Der Verkäufer *verkauft* dieses Produkt nicht im Einzelverkauf, sondern nur im Großhandel.
+  The seller does not *detail* this product, he only sells it in bulk.
 
   Il m'a *détaillé* son plan pour les vacances.
-  Er hat mir seinen Urlaubsplan *ausführlich erläutert*.
+  He told me about his plan for the holidays.
 
   Pour la recette, *détaillez* les légumes en petits dés.
-  Für das Rezept *schneiden* Sie das Gemüse in kleine Würfel.
+  For the recipe, detail the vegetables in small dice.
 
   Le rapport *détaillé* de la réunion sera envoyé demain.
-  Der *detaillierte* Bericht über die Sitzung wird morgen verschickt.
+  The *detailed* report of the meeting will be sent tomorrow.
 
   Le professeur nous a *détaillé* les raisons de sa décision.
-  Der Lehrer hat uns die Gründe für seine Entscheidung *im Detail erklärt*.
+  The professor explained the reasons for his decision.
 
   Elle s'est arrêtée pour me *détailler* de la tête aux pieds.
-  Sie blieb stehen, um mich von Kopf bis Fuß zu *mustern*.
+  She stopped to *detail* me from head to toe.
 
   Le peintre *détaille* chaque élément du paysage avec précision.
-  Der Maler *arbeitet* jedes Element der Landschaft präzise *aus*.
+  The painter details every aspect of the landscape accurately.
 
   Le commerçant *détaille* ses marchandises depuis vingt ans.
-  Der Händler *verkauft* seine Waren seit zwanzig Jahren im Einzelhandel.
+  The merchant has been detailing his goods for twenty years.
 
   L'expert *détaillera* les défauts techniques du bâtiment.
-  Der Experte wird die technischen Mängel des Gebäudes *einzeln aufführen*.
+  The expert will detail the technical defects of the building.
 
   Je vais vous *détailler* les étapes à suivre.
-  Ich werde Ihnen die zu befolgenden Schritte *im Detail erklären*.
+  I'm going to tell you the steps you need to take.
 
   L'actrice *détaillait* son texte avec une grande précision.
-  Die Schauspielerin *artikulierte* ihren Text mit großer Präzision.
+  The actress *detailed* her text with great precision.
 
   Le chef nous a demandé de *détailler* les coûts du projet.
-  Der Chef hat uns gebeten, die Projektkosten *aufzuschlüsseln*.
+  The chief asked us to *detail* the costs of the project.
 
   La facture *détaillée* arrivera la semaine prochaine.
-  Die *aufgeschlüsselte* Rechnung kommt nächste Woche.
+  The *detailed* invoice will arrive next week.
 
   Le journaliste a *détaillé* les événements de la journée.
-  Der Journalist hat die Ereignisse des Tages *ausführlich geschildert*.
+  The reporter *detailed* the events of the day.
 
   Il faut *détailler* les carottes en rondelles fines.
-  Die Karotten müssen in dünne Scheiben *geschnitten* werden.
+  The carrots have to be cut into fine spheres.
 
   L'architecte a *détaillé* chaque aspect de la construction.
-  Der Architekt hat jeden Aspekt des Baus *im Detail beschrieben*.
+  The architect *detailed* every aspect of the construction.
 
   Le devis très *détaillé* nous a permis de prendre une décision.
-  Der sehr *detaillierte* Kostenvoranschlag hat uns ermöglicht, eine Entscheidung zu treffen.
+  The very *detailed* quote enabled us to make a decision.
 
   Le guide *détaillait* l'histoire de chaque monument.
-  Der Führer *erläuterte* die Geschichte jedes Denkmals *ausführlich*.
+  The guide *detailed* the history of each monument.
 
   Le boucher *détaille* le bœuf pour ses clients.
-  Der Metzger *zerlegt* das Rindfleisch für seine Kunden.
+  The butcher details the beef for his customers.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

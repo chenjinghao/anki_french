@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1906
 Wort: match
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le match
 Femininum / Plural: match(e)s
 IPA: \matʃ\
-Definition: Spiel [Sport]
+Definition: [Sports]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'avais pas gagné un *match* depuis deux mois.
-  Ich hatte seit zwei Monaten kein *Spiel* mehr gewonnen.
+  I hadn't won a game in two months.
 
   Le *match* de hockey contre l'équipe canadienne commence dans une heure.
-  Das Hockey*spiel* gegen das kanadische Team beginnt in einer Stunde.
+  The hockey game against Team Canada starts in an hour.
 
   Paul et Marie disputeront leur *match* de tennis cet après-midi.
-  Paul und Marie werden heute Nachmittag ihr Tennis*match* austragen.
+  Paul and Marie will play their tennis game this afternoon.
 
   Les spectateurs sont venus nombreux pour voir ce *match* de boxe.
-  Die Zuschauer kamen zahlreich, um diesen Box*kampf* zu sehen.
+  A lot of spectators came to see this boxing *match*.
 
   Le *match nul* d'hier soir n'a satisfait aucune des deux équipes.
-  Das *Unentschieden* gestern Abend hat keine der beiden Mannschaften zufriedengestellt.
+  Last night's draw didn't satisfy either team.
 
   Ce *match local* attire toujours beaucoup de supporters.
-  Dieses *Lokalderby* zieht immer viele Fans an.
+  This local game still attracts a lot of fans.
 
   Notre équipe doit gagner le *match aller* pour se qualifier.
-  Unsere Mannschaft muss das *Hinspiel* gewinnen, um sich zu qualifizieren.
+  Our team has to win the game to qualify.
 
   Le *match* d'ouverture de la coupe du monde sera diffusé en direct.
-  Das Eröffnungs*spiel* der Weltmeisterschaft wird live übertragen.
+  The opening *match* of the World Cup will be broadcast live.
 
   À cause de la pluie, le *match à rejouer* aura lieu la semaine prochaine.
-  Wegen des Regens findet das *Wiederholungsspiel* nächste Woche statt.
+  Because of the rain, the game will be played next week.
 
   C'est un *match* de très haut niveau entre les deux meilleures équipes.
-  Es ist ein Spitzen*spiel* zwischen den beiden besten Mannschaften.
+  It's a very high-level *match* between the top two teams.
 
   Le *match* vedette de la soirée opposera les équipes rivales.
-  Das Schlager*spiel* des Abends wird die Rivalen gegeneinander antreten lassen.
+  The all-star game of the evening will be against the rival teams.
 
   Les enfants ont regardé tous les *matchs* de la coupe du monde.
-  Die Kinder haben alle *Spiele* der Weltmeisterschaft gesehen.
+  The kids watched every World Cup game.
 
   Elle a perdu son dernier *match* de tennis de table.
-  Sie hat ihr letztes Tischtennis*match* verloren.
+  She lost her last game of table tennis.
 
   Les deux équipes ont fait *match nul* trois fois cette saison.
-  Die beiden Mannschaften spielten diese Saison dreimal *unentschieden*.
+  The two teams have played each other three times this season.
 
   C'est la balle de *match* pour le champion en titre.
-  Das ist der *Match*ball für den amtierenden Champion.
+  It's the *match* ball for the defending champion.
 
   Le *match* de rugby a duré plus longtemps que prévu.
-  Das Rugby*spiel* dauerte länger als erwartet.
+  The rugby game lasted longer than expected.
 
   Nous avons disputé cinq *matchs* cette semaine.
-  Wir haben diese Woche fünf *Spiele* bestritten.
+  We've played five games this week.
 
   Le *match* de barrage déterminera qui reste en première division.
-  Das Relegations*spiel* wird entscheiden, wer in der ersten Liga bleibt.
+  The draw will determine who stays in the top division.
 
   Ce *match* de consolation n'intéresse pas vraiment les joueurs.
-  Dieses Trost*spiel* interessiert die Spieler nicht wirklich.
+  This consolation game doesn't really interest the players.
 
   Les journalistes commentent chaque *match* en direct.
-  Die Journalisten kommentieren jedes *Spiel* live.
+  Journalists comment on every game live.
 
   Le *match* entre ces deux géants économiques dure depuis des années.
-  Der *Wettkampf* zwischen diesen beiden Wirtschaftsgiganten dauert schon seit Jahren.
+  The rivalry between these two economic giants has been going on for years.
 
   Les supporters attendent avec impatience le prochain *match*.
-  Die Fans warten ungeduldig auf das nächste *Spiel*.
+  The fans are looking forward to the next game.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

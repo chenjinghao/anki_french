@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3532
 Wort: cap
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le cap
 Femininum / Plural: ''
 IPA: \kap\
-Definition: Kurs [Ziel]
+Definition: Course [goal]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mettez le *cap* sur la rive gauche, commanda-t-il.
-  Nehmen Sie *Kurs* auf das linke Ufer, befahl er.
+  "Put your head on the left bank", he ordered.
 
   Le bateau a *mis le cap au large* pendant la tempête.
-  Das Boot ist während des Sturms *in See gestochen*.
+  The boat headed for shore during the storm.
 
   Le *cap* Horn est connu pour ses conditions météorologiques difficiles.
-  Das *Kap* Horn ist für seine schwierigen Wetterbedingungen bekannt.
+  Cape Horn is known for its harsh weather conditions.
 
   Cette île se trouve au nord du *cap* de Bonne-Espérance.
-  Diese Insel liegt nördlich vom *Kap* der Guten Hoffnung.
+  This island is located north of the Cape of Good Hope.
 
   Le pilote a maintenu le *cap* malgré les turbulences.
-  Der Pilot hielt trotz der Turbulenzen den *Kurs*.
+  The pilot stayed on course despite the turbulence.
 
   Le voilier met le *cap* sur les Caraïbes.
-  Die Segelyacht nimmt *Kurs* auf die Karibik.
+  The sailing ship is headed for the Caribbean.
 
   Il était armé *de pied en cap* pour le combat médiéval.
-  Er war von *Kopf bis Fuß* für den mittelalterlichen Kampf gewappnet.
+  He was armed to the head for medieval warfare.
 
   Le gouvernement a su maintenir le *cap* économique pendant la crise.
-  Die Regierung konnte während der Krise den wirtschaftlichen *Kurs* halten.
+  The government was able to maintain the economic direction during the crisis.
 
   Notre avion a changé de *cap* à cause du mauvais temps.
-  Unser Flugzeug änderte wegen des schlechten Wetters den *Kurs*.
+  Our plane changed course because of bad weather.
 
   Les navigateurs doivent vérifier leur *cap* régulièrement.
-  Die Seefahrer müssen regelmäßig ihren *Kurs* überprüfen.
+  Navigators must check their direction regularly.
 
   Elle a franchi le *cap* de la quarantaine avec sérénité.
-  Sie hat die *Schwelle* zum Vierziger gelassen überschritten.
+  She passed the age of forty calmly.
 
   Le capitaine a dû *virer cap pour cap* face à l'orage.
-  Der Kapitän musste angesichts des Gewitters *den Kurs um 180 Grad ändern*.
+  The captain must have turned around in the face of the storm.
 
   Le *cap* vrai diffère légèrement du *cap* magnétique.
-  Der geografische *Kurs* weicht leicht vom magnetischen *Kurs* ab.
+  The true direction differs slightly from the magnetic direction.
 
   La nouvelle politique met le *cap* sur l'innovation.
-  Die neue Politik nimmt *Kurs* auf Innovation.
+  The new policy focuses on innovation.
 
   Le navire n'a pas pu tenir son *cap* dans la tempête.
-  Das Schiff konnte in dem Sturm seinen *Kurs* nicht halten.
+  The ship couldn't keep her way in the storm.
 
   Les experts conseillent de maintenir le *cap* des réformes.
-  Die Experten raten dazu, den Reform*kurs* beizubehalten.
+  Experts advise to keep pace with reforms.
 
   L'entreprise a mis le *cap* sur les marchés internationaux.
-  Das Unternehmen nimmt *Kurs* auf die internationalen Märkte.
+  The company's focus has been on international markets.
 
   Le bateau porte le *cap* à terre pour rejoindre le port.
-  Das Boot nimmt *Kurs* auf Land, um den Hafen zu erreichen.
+  The ship is heading ashore to the harbor.
 
   Nous devons franchir ce *cap* difficile ensemble.
-  Wir müssen diese schwierige *Hürde* gemeinsam nehmen.
+  We must cross this difficult path together.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

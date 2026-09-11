@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4856
 Wort: questionner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: questionner
 Femininum / Plural: ''
 IPA: \kɛs.tjɔ.ne\
-Definition: befragen; vor Probleme stellen
+Definition: to question
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle me *questionnait* sans cesse.
-  Sie *befragte* mich ständig.
+  She kept asking me questions.
 
   Le jury a longuement *questionné* le candidat sur ses compétences.
-  Die Jury hat den Kandidaten ausführlich zu seinen Kompetenzen *befragt*.
+  The jury *questioned* the candidate extensively about his competence.
 
   Les policiers ont *questionné* les témoins de l'accident.
-  Die Polizisten haben die Unfallzeugen *vernommen*.
+  The police *questioned* witnesses to the accident.
 
   La situation économique actuelle nous *questionne* beaucoup.
-  Die aktuelle Wirtschaftslage *stellt* uns vor große *Fragen*.
+  The current economic situation raises many questions.
 
   Le professeur *questionne* ses élèves sur le chapitre précédent.
-  Der Lehrer *prüft* seine Schüler zum vorherigen Kapitel.
+  The teacher asks his students about the previous chapter.
 
   Les journalistes ont *questionné* le ministre sur la réforme.
-  Die Journalisten haben den Minister zur Reform *befragt*.
+  Journalists *questioned* the minister about the reform.
 
   Marie *questionnait* toujours ses parents sur leur jeunesse.
-  Marie *stellte* ihren Eltern immer Fragen über ihre Jugend.
+  Marie always questioned her parents about their youth.
 
   Je dois *questionner* mon médecin sur ces nouveaux symptômes.
-  Ich muss meinen Arzt zu diesen neuen Symptomen *befragen*.
+  I have to ask my doctor about these new symptoms.
 
   Les enfants adorent *questionner* les adultes sur tout.
-  Kinder lieben es, Erwachsenen zu allem Fragen *zu stellen*.
+  Kids love to ask adults about everything.
 
   Le détective a habilement *questionné* le suspect.
-  Der Detektiv hat den Verdächtigen geschickt *verhört*.
+  The detective skillfully *questioned* the suspect.
 
   Cette nouvelle méthode *questionne* nos habitudes de travail.
-  Diese neue Methode *stellt* unsere Arbeitsgewohnheiten in Frage.
+  This new method is questioning our work habits.
 
   Il faut savoir *questionner* ses certitudes.
-  Man muss seine Gewissheiten *hinterfragen* können.
+  You need to know how to question your beliefs.
 
   L'inspecteur *questionnera* tous les employés demain.
-  Der Inspektor wird morgen alle Angestellten *befragen*.
+  The inspector will question all employees tomorrow.
 
   Les scientifiques *questionnent* constamment leurs hypothèses.
-  Die Wissenschaftler *hinterfragen* ständig ihre Hypothesen.
+  Scientists are constantly questioning their hypotheses.
 
   Le psychologue *questionnait* délicatement son patient.
-  Der Psychologe *befragte* seinen Patienten behutsam.
+  The psychologist questioned his patient delicately.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

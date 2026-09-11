@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4644
 Wort: logiquement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: logiquement
 Femininum / Plural: ''
 IPA: \lɔ.ʒik.mɑ̃\
-Definition: logischerweise
+Definition: Logically
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Logiquement*, il fallait que cette vie se termine.
-  *Logischerweise* musste dieses Leben zu Ende gehen.
+  *Logically*, this life had to end.
 
   Pour résoudre ce problème, nous devons penser *logiquement*.
-  Um dieses Problem zu lösen, müssen wir *logisch* denken.
+  To solve this problem, we need to think *logically*.
 
   "*Logiquement*, tu devrais être content de cette nouvelle."
-  "*Logischerweise* solltest du dich über diese Nachricht freuen."
+  "*Logically*, you should be pleased with the news".
 
   Le détective a examiné les preuves *logiquement* et a résolu l'affaire.
-  Der Detektiv hat die Beweise *logisch* untersucht und den Fall gelöst.
+  The detective *logically* examined the evidence and solved the case.
 
   *Logiquement*, le train devrait arriver dans cinq minutes.
-  *Logischerweise* sollte der Zug in fünf Minuten ankommen.
+  *Logically*, the train should arrive in five minutes.
 
   Elle a expliqué *logiquement* pourquoi elle refusait cette offre.
-  Sie hat *logisch* erklärt, warum sie dieses Angebot ablehnte.
+  She explained *logically* why she refused the offer.
 
   *Logiquement*, les magasins seront fermés le jour de Noël.
-  *Logischerweise* werden die Geschäfte am ersten Weihnachtstag geschlossen sein.
+  *Logically*, the stores will be closed on Christmas Day.
 
   Si on réfléchit *logiquement*, cette solution est la meilleure.
-  Wenn man *logisch* nachdenkt, ist diese Lösung die beste.
+  If you think *logically*, this is the best solution.
 
   *Logiquement*, nous devrions gagner ce match.
-  *Logischerweise* sollten wir dieses Spiel gewinnen.
+  *Logically*, we should win this game.
 
   Les scientifiques ont procédé *logiquement* dans leurs recherches.
-  Die Wissenschaftler sind bei ihrer Forschung *logisch* vorgegangen.
+  Scientists have made logical progress in their research.
 
   *Logiquement*, avec ce temps, l'avion aura du retard.
-  *Logischerweise* wird das Flugzeug bei diesem Wetter Verspätung haben.
+  *Logically*, with this weather, the plane will be late.
 
   Il faut analyser cette situation *logiquement*, sans émotion.
-  Man muss diese Situation *logisch* analysieren, ohne Emotionen.
+  We need to analyze this situation *logically*, without emotion.
 
   *Logiquement*, après tant d'efforts, tu réussiras l'examen.
-  *Logischerweise* wirst du nach so viel Anstrengung die Prüfung bestehen.
+  *Logically*, after so much effort, you'll pass the exam.
 
   Les enfants apprennent à raisonner *logiquement* à travers les jeux de construction.
-  Kinder lernen durch Bauklötze *logisch* zu denken.
+  Children learn to reason *logically* through building games.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3004
 Wort: objection
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une objection
 Femininum / Plural: ''
 IPA: \ɔb.ʒɛk.sjɔ̃\
-Definition: Einwand, Einspruch
+Definition: Objection
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'y pas d'*objections* de votre part.
-  Es gibt keine *Einwände* von Ihrer Seite.
+  There are no *objections* on your part.
 
   L'avocat a soulevé une *objection* pendant le procès.
-  Der Anwalt hat während des Prozesses *Einspruch* erhoben.
+  The lawyer raised an *objection* during the trial.
 
   Si vous n'avez pas d'*objection*, nous commencerons la réunion maintenant.
-  Wenn Sie keine *Einwände* haben, beginnen wir jetzt mit der Besprechung.
+  If you don't mind, we'll start the meeting now.
 
   Le professeur a réfuté toutes les *objections* des étudiants à sa théorie.
-  Der Professor hat alle *Einwände* der Studenten gegen seine Theorie widerlegt.
+  The professor refuted all the *objections* of the students to his theory.
 
   Son *objection* de conscience lui a permis d'éviter le service militaire.
-  Seine Gewissens*einwände* ermöglichten es ihm, den Militärdienst zu vermeiden.
+  His conscientious *objection* allowed him to avoid military service.
 
   "*Objection*, Votre Honneur !" s'est écrié l'avocat de la défense.
-  "*Einspruch*, Euer Ehren!" rief der Verteidiger.
+  "*Objection*, Your Honor!" shouted the defense attorney.
 
   Malgré de nombreuses *objections*, le projet a finalement été approuvé.
-  Trotz zahlreicher *Einwände* wurde das Projekt schließlich genehmigt.
+  Despite many *objections*, the project was finally approved.
 
   Je n'ai aucune *objection* à ce que vous partiez plus tôt aujourd'hui.
-  Ich habe keine *Einwände* dagegen, dass Sie heute früher gehen.
+  I have no *objection* to you leaving early today.
 
   Les *objections* du comité ont été soigneusement notées et examinées.
-  Die *Einwände* des Ausschusses wurden sorgfältig notiert und geprüft.
+  The *objections* of the Committee were carefully noted and examined.
 
   Elle a formulé une *objection* pertinente lors du débat.
-  Sie brachte während der Debatte einen treffenden *Einwand* vor.
+  It raised a relevant *objection* during the debate.
 
   Avez-vous des *objections* à ce que nous modifiions le planning ?
-  Haben Sie *Einwände* dagegen, dass wir den Zeitplan ändern?
+  Do you have any *objections* to us changing the schedule?
 
   L'*objection* principale à cette loi concerne son impact environnemental.
-  Der Haupt*einwand* gegen dieses Gesetz betrifft seine Auswirkungen auf die Umwelt.
+  The main *objection* to this law concerns its environmental impact.
 
   Le juge a rejeté l'*objection* de l'avocat car elle n'était pas fondée.
-  Der Richter wies den *Einspruch* des Anwalts zurück, da er unbegründet war.
+  The judge rejected the lawyer's *objection* because it was unfounded.
 
   Nous devons prendre en compte toutes les *objections* avant de prendre une décision.
-  Wir müssen alle *Einwände* berücksichtigen, bevor wir eine Entscheidung treffen.
+  We must consider all *objections* before making a decision.
 
   Son *objection* a soulevé un point important que nous n'avions pas considéré.
-  Sein *Einwand* hat einen wichtigen Punkt aufgeworfen, den wir nicht bedacht hatten.
+  His *objection* raised an important point that we had not considered.
 
   Les citoyens ont le droit de présenter leurs *objections* au projet de loi.
-  Die Bürger haben das Recht, ihre *Einwände* gegen den Gesetzentwurf vorzubringen.
+  Citizens have the right to object to the bill.
 
   "Je n'ai qu'une seule *objection* à faire", a-t-il dit calmement.
-  "Ich habe nur einen *Einwand* zu machen", sagte er ruhig.
+  "I have only one *objection* to make", he said calmly.
 
   Ses *objections* constantes ralentissent considérablement le processus.
-  Seine ständigen *Einwände* verlangsamen den Prozess erheblich.
+  His constant *objections* slow down the process considerably.
 
   L'*objection* la plus courante à cette théorie est son manque de preuves empiriques.
-  Der häufigste *Einwand* gegen diese Theorie ist ihr Mangel an empirischen Beweisen.
+  The most common *objection* to this theory is its lack of empirical evidence.
 
   Si personne n'a d'*objection*, nous adopterons cette nouvelle procédure.
-  Wenn niemand *Einwände* hat, werden wir dieses neue Verfahren einführen.
+  If no one objects, we will adopt this new procedure.
 
   Les *objections* du public ont été prises en compte dans la version finale du projet.
-  Die *Einwände* der Öffentlichkeit wurden in der Endfassung des Projekts berücksichtigt.
+  Public *objections* were taken into account in the final version of the project.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

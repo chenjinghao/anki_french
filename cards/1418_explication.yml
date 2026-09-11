@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1418
 Wort: explication
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une explication
 Femininum / Plural: ''
 IPA: \ɛks.pli.ka.sjɔ̃\
-Definition: Erklärung
+Definition: Explanation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il doit y avoir une *explication* rationnelle.
-  Es muss eine rationale *Erklärung* geben.
+  There must be a rational *explanation*.
 
   Pourrais-tu me donner une *explication* plus simple ?
-  Könntest du mir eine einfachere *Erklärung* geben?
+  Could you give me a simpler *explanation*?
 
   L'*explication* du phénomène se trouve dans les changements climatiques.
-  Die *Erklärung* für das Phänomen liegt im Klimawandel.
+  The *explanation* for this phenomenon lies in climate change.
 
   Le professeur a consacré une heure à l'*explication* du poème.
-  Der Lehrer hat eine Stunde für die *Erläuterung* des Gedichts aufgewendet.
+  The professor spent an hour explaining the poem.
 
   Les *explications* de la notice sont très détaillées.
-  Die Gebrauchs*anweisung* ist sehr ausführlich.
+  The *explanations* in the note are very detailed.
 
   Je ne trouve aucune *explication* à son comportement étrange.
-  Ich finde keine *Erklärung* für sein seltsames Verhalten.
+  I can't find any *explanation* for his strange behavior.
 
   Marie et Pierre ont eu une longue *explication* hier soir.
-  Marie und Pierre hatten gestern Abend eine lange *Aussprache*.
+  Marie and Pierre had a long *explanation* last night.
 
   L'*explication* de cette énigme m'échappe complètement.
-  Die *Erklärung* für dieses Rätsel entgeht mir völlig.
+  The *explanation* of this riddle completely escapes me.
 
   Il s'est lancé dans des *explications* techniques interminables.
-  Er hat sich in endlose technische *Erläuterungen* verstrickt.
+  He has embarked on endless technical *explanations*.
 
   Voilà l'*explication* de mon retard ce matin.
-  Das ist die *Erklärung* für meine Verspätung heute Morgen.
+  Here's why I'm late this morning.
 
   Les élèves préparent l'*explication* de texte pour demain.
-  Die Schüler bereiten die Text*erläuterung* für morgen vor.
+  The students are preparing the text *explanation* for tomorrow.
 
   J'exige une *explication* immédiate de ta part !
-  Ich verlange sofort eine *Erklärung* von dir!
+  I demand an immediate *explanation* from you!
 
   Cette *explication* ne me satisfait pas du tout.
-  Diese *Erklärung* befriedigt mich überhaupt nicht.
+  This *explanation* does not satisfy me at all.
 
   Nous avons eu une *explication* franche et constructive.
-  Wir hatten eine offene und konstruktive *Aussprache*.
+  We had a frank and constructive *explanation*.
 
   Les *explications* fournies dans le manuel sont insuffisantes.
-  Die *Erläuterungen* im Handbuch sind unzureichend.
+  The *explanations* provided in the manual are insufficient.
 
   L'*explication* scientifique de ce phénomène reste inconnue.
-  Die wissenschaftliche *Erklärung* für dieses Phänomen bleibt unbekannt.
+  The scientific *explanation* for this phenomenon remains unknown.
 
   Sans plus d'*explications*, elle est partie brusquement.
-  Ohne weitere *Erklärungen* ist sie plötzlich gegangen.
+  Without further explanation, she left suddenly.
 
   As-tu lu les *explications* sur l'emballage ?
-  Hast du dir die Gebrauchs*anleitung* auf der Verpackung durchgelesen?
+  Have you read the *explanations* on the packaging?
 
   Son attitude nécessite une *explication* urgente.
-  Sein Verhalten erfordert dringend eine *Erklärung*.
+  His attitude demands an urgent *explanation*.
 
   L'*explication* du professeur a clarifié mes doutes.
-  Die *Erläuterung* des Lehrers hat meine Zweifel beseitigt.
+  The professor's *explanation* cleared my doubts.
 
   Cette *explication* orageuse a duré des heures.
-  Diese stürmische *Aussprache* hat stundenlang gedauert.
+  This tempestuous *explanation* took hours.
 
   Je vous fournirai toutes les *explications* nécessaires demain.
-  Ich werde Ihnen morgen alle erforderlichen *Erläuterungen* geben.
+  I'll provide you with all the necessary *explanations* tomorrow.
 
   Les *explications* du guide ont rendu la visite passionnante.
-  Die *Erklärungen* des Führers haben den Besuch spannend gemacht.
+  The guide's *explanations* made the visit exciting.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

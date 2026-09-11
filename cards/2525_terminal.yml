@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2525
 Wort: terminal
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le terminal
 Femininum / Plural: terminaux
 IPA: \tɛʁ.mi.nal\
-Definition: Terminal
+Definition: The terminal
 Register: ↘Fiktion ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il demande une nouvelle retransmission au *terminal* sémaphore distant.
-  Er fordert eine neue Übertragung an das entfernte Signal*terminal* an.
+  He's requesting a new transmission to the remote semaphore *terminal*.
 
   Le *terminal* 2 de l'aéroport sera fermé pour rénovation pendant trois mois.
-  Das *Terminal* 2 des Flughafens wird für drei Monate wegen Renovierung geschlossen sein.
+  *Terminal* 2 of the airport will be closed for renovation for three months.
 
   Les voyageurs doivent se rendre au *terminal* des bus avant 23 heures.
-  Die Reisenden müssen sich vor 23 Uhr zum Bus*terminal* begeben.
+  Passengers must arrive at the bus *terminal* before 11 p.m.
 
   Le plus grand *terminal* pétrolier du pays peut accueillir dix navires simultanément.
-  Das größte Öl*terminal* des Landes kann gleichzeitig zehn Schiffe aufnehmen.
+  The country's largest oil *terminal* can accommodate ten ships simultaneously.
 
   L'ancien *terminal* informatique a été remplacé par des tablettes modernes.
-  Das alte Computer*terminal* wurde durch moderne Tablets ersetzt.
+  The old computer *terminal* has been replaced by modern tablets.
 
   Ce *terminal* de paiement n'accepte que les cartes sans contact.
-  Dieses Zahlungs*terminal* akzeptiert nur kontaktlose Karten.
+  This payment *terminal* only accepts contactless cards.
 
   La maladie est entrée dans sa phase *terminale*.
-  Die Krankheit ist in ihre *End*phase eingetreten.
+  The disease has entered its *terminal* phase.
 
   Le chapitre *terminal* du livre révèle enfin la vérité.
-  Das *Schluss*kapitel des Buches enthüllt endlich die Wahrheit.
+  The final chapter of the book finally reveals the truth.
 
   Les élèves en classe *terminale* préparent leur baccalauréat.
-  Die Schüler der *Abschluss*klasse bereiten sich auf ihr Abitur vor.
+  Graduate students are preparing for their bachelor's degree.
 
   Le bourgeon *terminal* de cette plante a été endommagé par le gel.
-  Die *End*knospe dieser Pflanze wurde durch den Frost beschädigt.
+  The *terminal* bud of this plant has been damaged by frost.
 
   Les *terminaux* portuaires fonctionnent vingt-quatre heures sur vingt-quatre.
-  Die Hafen*terminals* sind rund um die Uhr in Betrieb.
+  Port *terminals* operate 24 hours a day.
 
   La partie *terminale* du projet sera achevée la semaine prochaine.
-  Das *End*stück des Projekts wird nächste Woche fertiggestellt.
+  The final part of the project will be completed next week.
 
   Une navette gratuite relie la ville au *terminal* de l'aéroport.
-  Ein kostenloser Shuttle verbindet die Stadt mit dem Flughafen*terminal*.
+  A free shuttle connects the city to the airport *terminal*.
 
   Les *terminaux* de données sont installés dans chaque bureau.
-  Die Daten*endgeräte* sind in jedem Büro installiert.
+  Data *terminals* are installed in each office.
 
   La formule *terminale* de sa lettre était particulièrement chaleureuse.
-  Die *Schluss*formel seines Briefes war besonders herzlich.
+  The final wording of his letter was particularly warm.
 
   Le nouveau *terminal* méthanier augmentera la capacité d'importation.
-  Das neue Gas*terminal* wird die Importkapazität erhöhen.
+  The new methane *terminal* will increase the import capacity.
 
   Les *terminaux* de ce réseau informatique doivent être mis à jour.
-  Die *Terminals* dieses Computernetzwerks müssen aktualisiert werden.
+  The *terminals* of this computer network must be updated.
 
   Ma fille est en *terminale* scientifique cette année.
-  Meine Tochter ist dieses Jahr in der naturwissenschaftlichen *Abschluss*klasse.
+  My daughter's in the science final this year.
 
   Les négociations sont dans leur phase *terminale*.
-  Die Verhandlungen befinden sich in ihrer *End*phase.
+  Negotiations are in their final stages.
 
   Le *terminal* de l'aéroport sera agrandi d'ici 2025.
-  Das Flughafen*terminal* wird bis 2025 erweitert werden.
+  The airport *terminal* will be expanded by 2025.
 
   Tous les *terminaux* de paiement ont été remplacés par des modèles plus récents.
-  Alle Zahlungs*terminals* wurden durch neuere Modelle ersetzt.
+  All payment *terminals* have been replaced by newer models.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

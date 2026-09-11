@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2851
 Wort: démarrer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: démarrer
 Femininum / Plural: ''
 IPA: \de.ma.ʁe\
-Definition: anlassen, starten
+Definition: start
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le feu a *démarré* dans l'escalier d'un restaurant.
-  Das Feuer *brach* im Treppenhaus eines Restaurants *aus*.
+  The fire *started* on the stairs of a restaurant.
 
   La voiture ne veut pas *démarrer* ce matin.
-  Das Auto will heute Morgen nicht *anspringen*.
+  The car won't start this morning.
 
   "*Démarrons* cette réunion, nous avons beaucoup à discuter."
-  "Lasst uns dieses Meeting *beginnen*, wir haben viel zu besprechen."
+  "Let's start this meeting, we have a lot to talk about".
 
   Le moteur *démarra* au quart de tour.
-  Der Motor *sprang* auf Anhieb *an*.
+  The engine *will start* at the quarter turn.
 
   Il faut *démarrer* l'ordinateur avant d'installer le logiciel.
-  Man muss den Computer *hochfahren*, bevor man die Software installiert.
+  You have *to start* the computer before you install the software.
 
   La fusée *démarrera* dans dix minutes.
-  Die Rakete wird in zehn Minuten *starten*.
+  The rocket will launch in ten minutes.
 
   "Je n'arrive pas à *démarrer* mon projet, je manque d'inspiration."
-  "Ich kann mein Projekt nicht *in Gang bringen*, mir fehlt die Inspiration."
+  "I can't start my project, I lack inspiration".
 
   L'économie commence enfin à *démarrer* après la crise.
-  Die Wirtschaft *kommt* nach der Krise endlich wieder *in Schwung*.
+  The economy is finally starting to pick up after the crisis.
 
   Le sprinter *démarra* en trombe dès le coup de pistolet.
-  Der Sprinter *spurtete* beim Startschuss sofort *los*.
+  The sprinter's going to start crawling as soon as the gun is fired.
 
   La machine *démarre* lentement le matin.
-  Die Maschine *läuft* morgens langsam *an*.
+  The machine starts slowly in the morning.
 
   "*Démarrons* notre voyage tôt pour éviter les embouteillages."
-  "Lasst uns unsere Reise früh *beginnen*, um Staus zu vermeiden."
+  "Let's start our journey early to avoid traffic jams".
 
   Le film a mal *démarré* au box-office.
-  Der Film ist an der Kinokasse schlecht *angelaufen*.
+  The movie got off to a bad start at the box office.
 
   Il faut *démarrer* les travaux avant l'hiver.
-  Wir müssen mit den Arbeiten *loslegen*, bevor der Winter kommt.
+  We have *to start* work before winter.
 
   Le bateau *démarrera* à l'aube pour profiter de la marée.
-  Das Boot wird bei Tagesanbruch *ablegen*, um die Flut zu nutzen.
+  The boat will leave at dawn to enjoy the tides.
 
   "Je n'arrive pas à *démarrer* ma journée sans café."
-  "Ich kann meinen Tag nicht *in Gang bringen* ohne Kaffee."
+  "I can't start my day without coffee".
 
   L'entreprise a bien *démarré* l'année avec de nouveaux contrats.
-  Das Unternehmen hat das Jahr mit neuen Verträgen gut *begonnen*.
+  The company *started* the year well with new contracts.
 
   "*Démarre* la voiture pendant que je ferme le garage."
-  "*Lass* das Auto *an*, während ich die Garage schließe."
+  "Start the car while I close the garage".
 
   La conversation a eu du mal à *démarrer* entre eux.
-  Das Gespräch *kam* zwischen ihnen nur schwer *in Gang*.
+  It was hard *to start* the conversation between them.
 
   Le coureur *démarra* en tête du peloton.
-  Der Läufer *startete* an der Spitze des Feldes.
+  The runner *will start* at the front of the pack.
 
   "*Démarrons* ce nouveau chapitre de notre vie ensemble."
-  "Lasst uns dieses neue Kapitel unseres Lebens gemeinsam *beginnen*."
+  "Let's start this new chapter of our lives together".
 
   Le train *démarra* à l'heure prévue.
-  Der Zug *fuhr* pünktlich *ab*.
+  The train will leave at the scheduled time.
 
   "Il faut *démarrer* le générateur en cas de coupure d'électricité."
-  "Bei einem Stromausfall muss man den Generator *anwerfen*."
+  "You have *to start* the generator in the event of a power outage".
 
   La campagne publicitaire *démarrera* le mois prochain.
-  Die Werbekampagne wird nächsten Monat *starten*.
+  The advertising campaign *will start* next month.
 
   "Je n'arrive pas à *démarrer* sur ce nouveau régime."
-  "Ich schaffe es nicht, mit dieser neuen Diät *anzufangen*."
+  "I can't get started on this new diet".
 
   Le pilote *démarra* les moteurs de l'avion.
-  Der Pilot *ließ* die Motoren des Flugzeugs *an*.
+  The pilot *will start* the aircraft's engines.
 
   La saison touristique *démarre* lentement cette année.
-  Die Tourismussaison *läuft* dieses Jahr langsam *an*.
+  The tourist season starts slowly this year.
 
   "*Démarrons* la fête, les invités sont tous arrivés!"
-  "Lasst uns die Party *starten*, alle Gäste sind da!"
+  "Let's start the party, all the guests are here".
 
   L'exposition *démarrera* la semaine prochaine.
-  Die Ausstellung wird nächste Woche *eröffnet*.
+  The exhibition starts next week.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

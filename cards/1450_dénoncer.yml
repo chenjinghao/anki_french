@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1450
 Wort: dénoncer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dénoncer
 Femininum / Plural: ''
 IPA: \de.nɔ̃.se\
-Definition: anzeigen, verraten
+Definition: to announce, to betray
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il s'attacha à *dénoncer* les abus et la corruption.
-  Er bemühte sich, die Missstände und Korruption *anzuprangern*.
+  He worked hard *to denounce* abuse and corruption.
 
   Plusieurs témoins ont *dénoncé* le criminel à la police.
-  Mehrere Zeugen haben den Kriminellen bei der Polizei *angezeigt*.
+  Several witnesses reported the perpetrator to the police.
 
   Je dois *dénoncer* mon contrat de location trois mois à l'avance.
-  Ich muss meinen Mietvertrag drei Monate im Voraus *kündigen*.
+  I have *to denounce* my lease three months in advance.
 
   Les journalistes ont *dénoncé* un scandale financier majeur.
-  Die Journalisten haben einen großen Finanzskandal *aufgedeckt*.
+  Journalists have reported a major financial scandal.
 
   Le criminel s'est finalement *dénoncé* après des années de fuite.
-  Der Kriminelle hat sich nach Jahren auf der Flucht schließlich *gestellt*.
+  The perpetrator finally turned himself in after years of running away.
 
   Son attitude *dénonce* un manque total de respect.
-  Seine Haltung *verrät* einen völligen Mangel an Respekt.
+  His attitude is a complete lack of respect.
 
   Les syndicats ont *dénoncé* les conditions de travail déplorables.
-  Die Gewerkschaften haben die miserablen Arbeitsbedingungen *angeprangert*.
+  Trade unions have *denounced* poor working conditions.
 
   Le gouvernement a *dénoncé* le traité commercial.
-  Die Regierung hat das Handelsabkommen *aufgekündigt*.
+  The government has *denounced* the trade treaty.
 
   Sa nervosité *dénonçait* sa culpabilité.
-  Seine Nervosität *verriet* seine Schuld.
+  His nervousness exposed his guilt.
 
   Le complice a *dénoncé* tous les membres du gang.
-  Der Komplize hat alle Gangmitglieder *verraten*.
+  The accomplice *denounced* all members of the gang.
 
   L'opposition a *dénoncé* les irrégularités lors des élections.
-  Die Opposition hat die Unregelmäßigkeiten bei der Wahl *angeprangert*.
+  The opposition has *denounced* irregularities in the elections.
 
   Les voisins ont *dénoncé* les nuisances sonores à la mairie.
-  Die Nachbarn haben die Lärmbelästigung bei der Stadtverwaltung *angezeigt*.
+  Neighbors reported the noise to the town hall.
 
   Cette association *dénonce* les dangers des réseaux sociaux.
-  Dieser Verein *prangert* die Gefahren sozialer Medien *an*.
+  This association denounces the dangers of social media.
 
   Le lanceur d'alerte s'est *dénoncé* publiquement.
-  Der Whistleblower hat sich öffentlich zu erkennen *gegeben*.
+  The whistleblower *came forward* publicly.
 
   Nous devons *dénoncer* l'accord avant la fin du mois.
-  Wir müssen den Vertrag vor Ende des Monats *kündigen*.
+  We have *to denounce* the deal before the end of the month.
 
   Les experts ont *dénoncé* les risques environnementaux.
-  Die Experten haben die Umweltrisiken *angeprangert*.
+  Experts have *denounced* the environmental risks.
 
   Son style vestimentaire *dénonce* ses origines modestes.
-  Seine Kleidung *verrät* seine bescheidene Herkunft.
+  Her style of dress reveals her modest origins.
 
   La presse a *dénoncé* un système de corruption généralisé.
-  Die Presse hat ein weitverbreitetes Korruptionssystem *aufgedeckt*.
+  The press has *denounced* a widespread corruption system.
 
   Elle a *dénoncé* son assurance automobile.
-  Sie hat ihre Autoversicherung *gekündigt*.
+  She disclosed her car insurance.
 
   Les militants *dénoncent* la destruction de la forêt.
-  Die Aktivisten *prangern* die Zerstörung des Waldes *an*.
+  Activists are *denouncing* the destruction of the forest.
 
   Le suspect s'est *dénoncé* à la gendarmerie.
-  Der Verdächtige hat sich bei der Polizei *gestellt*.
+  The suspect turned himself in to the police.
 
   L'architecte a *dénoncé* le contrat suite aux retards de paiement.
-  Der Architekt hat den Vertrag wegen Zahlungsverzug *gekündigt*.
+  The architect *denounced* the contract because of the late payment.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

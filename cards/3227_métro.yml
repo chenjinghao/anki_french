@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3227
 Wort: métro
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le métro
 Femininum / Plural: ''
 IPA: \me.tʁo\
-Definition: U-Bahn
+Definition: Subway
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Toutes les lignes de *métro* fonctionnaient.
-  Alle *U-Bahn*-Linien waren in Betrieb.
+  All the *subway* lines were working.
 
   Le *métro* est le moyen de transport le plus rapide aux heures de pointe.
-  Die *U-Bahn* ist das schnellste Verkehrsmittel in den Hauptverkehrszeiten.
+  The *subway* is the fastest mode of transport during rush hour.
 
   J'ai raté le dernier *métro* et j'ai dû prendre un taxi.
-  Ich habe die letzte *U-Bahn* verpasst und musste ein Taxi nehmen.
+  I missed the last *subway* and had to take a taxi.
 
   La nouvelle station de *métro* sera inaugurée le mois prochain.
-  Die neue *U-Bahn*-Station wird nächsten Monat eröffnet.
+  The new *subway* station will be inaugurated next month.
 
   Le *métro aérien* traverse la Seine sur un magnifique viaduc.
-  Die *Hochbahn* überquert die Seine auf einem prächtigen Viadukt.
+  The *aerial subway* crosses the Seine on a beautiful viaduct.
 
   Nous nous retrouverons devant la bouche de *métro* Opéra.
-  Wir treffen uns vor dem *U-Bahn*-Eingang der Station Opéra.
+  We'll meet you at the mouth of the Opera *subway*.
 
   "Je prends toujours le *métro* pour aller au travail."
-  "Ich fahre immer mit der *U-Bahn* zur Arbeit."
+  "I always take the *subway* to work".
 
   Les couloirs du *métro* sont décorés dans le style Art nouveau.
-  Die Gänge der *U-Bahn* sind im Jugendstil dekoriert.
+  The *subway* hallways are decorated in Art Nouveau style.
 
   Le *métro express* relie la banlieue au centre-ville en quinze minutes.
-  Die *Schnellbahn* verbindet die Vororte mit dem Stadtzentrum in fünfzehn Minuten.
+  The subway express connects the suburbs to the city centre in fifteen minutes.
 
   La rame de *métro* était bondée ce matin.
-  Der *U-Bahn*-Zug war heute Morgen überfüllt.
+  The *subway* train was crowded this morning.
 
   As-tu déjà vu le *métro suspendu* de Wuppertal?
-  Hast du die *Schwebebahn* von Wuppertal schon gesehen?
+  Have you ever seen the hanging subway in Wuppertal?
 
   Il y a une correspondance avec trois lignes de *métro* à cette station.
-  An dieser Station gibt es Anschluss an drei *U-Bahn*-Linien.
+  There's a correspondence with three *subway* lines at this station.
 
   Le *métro* de Moscou est connu pour ses stations somptueuses.
-  Die Moskauer *Metro* ist für ihre prächtigen Stationen bekannt.
+  The Moscow Metro is known for its lavish stations.
 
   Les travaux du nouveau *métro régional* avancent rapidement.
-  Die Arbeiten an der neuen *Nahverkehrsbahn* gehen schnell voran.
+  Work on the new *regional subway* is progressing rapidly.
 
   Une nouvelle ligne de *métro* desservira l'aéroport.
-  Eine neue *U-Bahn*-Linie wird den Flughafen anbinden.
+  A new *subway* line will serve the airport.
 
   La climatisation du *métro* est tombée en panne pendant la canicule.
-  Die Klimaanlage der *U-Bahn* fiel während der Hitzewelle aus.
+  The *subway* air conditioner broke down during the heat.
 
   Pierre habite à deux minutes de la station de *métro*.
-  Pierre wohnt zwei Minuten von der *U-Bahn*-Station entfernt.
+  Pierre lives two minutes from the metro station.
 
   Le *métro* londonien est le plus ancien du monde.
-  Die Londoner *U-Bahn* ist die älteste der Welt.
+  The London Underground is the oldest in the world.
 
   La décoration du *métro* parisien reflète l'histoire de la ville.
-  Die Gestaltung der Pariser *Metro* spiegelt die Geschichte der Stadt wider.
+  The decoration of the Paris *subway* reflects the city's history.
 
   Le premier *métro* part à cinq heures du matin.
-  Die erste *U-Bahn* fährt um fünf Uhr morgens.
+  The first *subway* leaves at five o'clock in the morning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

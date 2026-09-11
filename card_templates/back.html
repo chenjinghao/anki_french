@@ -10,7 +10,7 @@ var options = {
   "autoPlaySentence": false,
 
   /* Ob der erste Beispielsatz auf Deutsch vorgelesen werden soll. */
-  "autoPlaySentenceInGerman": false,
+  "autoPlaySentenceInEnglish": false,
 
   /* Ob der Beispielsatz vorgelesen werden soll, wenn das Lückenspiel gespielt wurde. */
   "autoPlaySentenceOnClozeFinish": true,
@@ -56,7 +56,7 @@ var options = {
 <div class="rank" data-content="{{Rang}}">{{Rang}}<br>{{Dispersion}}</div>
 {{/Rang}}
 <div class="word" data-word="{{Wort}}" data-feminine="{{Femininum / Plural}}">
-  {{Wort mit Artikel}}
+  {{Wort mit article}}
 </div>
 
 {{#IPA}}
@@ -89,7 +89,7 @@ var options = {
 {{/Notiz}} {{#Konjugation}}
 <div class="card-box tappable conjugation">
   <div class="box-float" id="show-hide-button">
-    <div class="box-float-label" id="show-hide-label">Alles anzeigen</div>
+    <div class="box-float-label" id="show-hide-label">Show all</div>
     <div class="button svg-button">
       <div class="svg-icon icon-table"></div>
     </div>
@@ -108,12 +108,12 @@ var options = {
     <div class="button svg-button">
       <div class="svg-icon icon-book"></div>
     </div>
-    <div>&nbsp;Grammatik</div>
+    <div>&nbsp;Grammar</div>
   </div>
   <div id="grammar-sections">
     <div id="grammar-sections-title">
       <div class="svg-icon icon-book small"></div>
-      Grammatik-Bibliothek
+      Grammar Library
     </div>
     <div id="cefr-filter">
       <div class="level-pills">
@@ -126,26 +126,26 @@ var options = {
     </div>
     <div id="grammar-search">
       <div class="search-container">
-        <input type="text" id="grammar-search-input" placeholder="Grammatik durchsuchen...">
+        <input type="text" id="grammar-search-input" placeholder="Search grammar...">
         <div class="search-clear-button" id="grammar-search-clear">
           <div class="svg-icon icon-close"></div>
         </div>
       </div>
     </div>
     <div id="grammar-no-results" style="display: none;">
-      <p>Keine Ergebnisse gefunden.</p>
+      <p>No results found.</p>
     </div>
   </div>
 </div>
 <div class="tip" id="update-notice" style="display: none; font-size: 40%; margin-bottom: 2.5em;">
-  Das Deck wurde zuletzt vor <span id="update-notice-days"></span> Tagen aktualisiert. Führe ein <a href="https://ankiweb.net/shared/info/1677131827" target="_blank">Update</a> durch, um die neuesten Verbesserungen zu erhalten. Der Lernfortschritt bleibt erhalten.
+  The deck was last updated <span id="update-notice-days"></span> days ago. Install an <a href="https://ankiweb.net/shared/info/1677131827" target="_blank">update</a> to get the latest improvements. Your learning progress will be preserved.
 </div>
 <div class="github">
-  <a>Auf GitHub bearbeiten</a>
+  <a>Edit on GitHub</a>
   <span>&nbsp;|&nbsp;</span>
-  <a href="https://paypal.me/jacbz" target="_blank">Spenden</a>
+  <a href="https://paypal.me/jacbz" target="_blank">Donate</a>
 </div>
-<div class="version">Stand: ___DATE___</div>
+<div class="version">Version: ___DATE___</div>
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->

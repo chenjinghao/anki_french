@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2595
 Wort: maritime
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: maritime
 Femininum / Plural: ''
 IPA: \ma.ʁi.tim\
-Definition: See-, Küsten-
+Definition: Maritime, coastal and
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je viens d'une ville *maritime*.
-  Ich komme aus einer *See*stadt.
+  I'm from a seaside town.
 
   La Bretagne est une région *maritime* par excellence.
-  Die Bretagne ist eine typische *Küsten*region.
+  Brittany is a *maritime* region par excellence.
 
   Le climat *maritime* de cette région est très agréable.
-  Das *See*klima dieser Region ist sehr angenehm.
+  The *maritime* climate of this region is very pleasant.
 
   Cette compagnie *maritime* propose des croisières en Méditerranée.
-  Diese *Schifffahrts*gesellschaft bietet Kreuzfahrten im Mittelmeer an.
+  This shipping company offers Mediterranean cruises.
 
   Le transport *maritime* est crucial pour le commerce international.
-  Der *See*transport ist entscheidend für den internationalen Handel.
+  *Maritime* transport is crucial for international trade.
 
   La radio *maritime* a émis un signal de détresse.
-  Der *See*funk hat ein Notsignal gesendet.
+  *Maritime* radio broadcasted a distress signal.
 
   Une catastrophe *maritime* a eu lieu au large des côtes.
-  Eine *Schiffs*katastrophe hat sich vor der Küste ereignet.
+  A *maritime* disaster occurred off the coast.
 
   Le registre *maritime* contient tous les navires commerciaux.
-  Das *Schiffs*register enthält alle Handelsschiffe.
+  The *maritime* register contains all commercial vessels.
 
   Les ports *maritimes* sont essentiels pour l'économie du pays.
-  Die *See*häfen sind wichtig für die Wirtschaft des Landes.
+  Maritime ports are essential for the country's economy.
 
   La navigation *maritime* exige beaucoup d'expérience.
-  Die *See*fahrt erfordert viel Erfahrung.
+  Navigation requires a lot of experience.
 
   Le commerce *maritime* représente 90% des échanges mondiaux.
-  Der *See*handel macht 90% des weltweiten Handels aus.
+  *Maritime* trade accounts for 90% of world trade.
 
   Cette route *maritime* est très fréquentée en été.
-  Diese *See*route wird im Sommer stark befahren.
+  This sea route is very busy in the summer.
 
   Le pin *maritime* pousse bien dans cette région côtière.
-  Die *See*kiefer wächst gut in dieser Küstenregion.
+  The sea pine grows well in this coastal region.
 
   La gare *maritime* accueille des milliers de voyageurs.
-  Der *See*bahnhof empfängt tausende Reisende.
+  The *maritime* station welcomes thousands of passengers.
 
   Les signaux *maritimes* guident les bateaux la nuit.
-  Die *See*zeichen leiten die Boote in der Nacht.
+  Maritime signals guide the ships at night.
 
   Le droit *maritime* est une branche complexe du droit international.
-  Das *See*recht ist ein komplexer Zweig des internationalen Rechts.
+  *Maritime* law is a complex branch of international law.
 
   L'agent *maritime* a organisé le déchargement du navire.
-  Der *Schifffahrts*agent hat das Entladen des Schiffs organisiert.
+  The naval officer arranged for the ship to be unloaded.
 
   La préfecture *maritime* coordonne les opérations de sauvetage.
-  Die *See*präfektur koordiniert die Rettungsaktionen.
+  The *Maritime* Prefecture coordinates the rescue operations.
 
   Cette nation *maritime* possède une grande flotte commerciale.
-  Diese *See*nation besitzt eine große Handelsflotte.
+  This *maritime* nation has a large trading fleet.
 
   Le Portugal était une puissance *maritime* importante.
-  Portugal war eine bedeutende *See*macht.
+  Portugal was a major *maritime* power.
 
   Les peuples *maritimes* ont développé des techniques de navigation avancées.
-  Die *See*völker haben fortschrittliche Navigationstechniken entwickelt.
+  Maritime peoples have developed advanced navigation techniques.
 
   Le département des Alpes-*Maritimes* attire beaucoup de touristes.
-  Das Département Alpes-*Maritimes* zieht viele Touristen an.
+  The department of the Alpes-*Maritimes* attracts many tourists.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

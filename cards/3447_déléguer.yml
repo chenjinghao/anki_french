@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3447
 Wort: déléguer
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déléguer
 Femininum / Plural: ''
 IPA: \de.le.ɡe\
-Definition: delegieren, übertragen
+Definition: Delegating, transferring
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Elle dit avoir *délégué* ce pouvoir à sa sousministre.
-  Sie sagt, sie habe diese Befugnis an ihre Unterministerin *delegiert*.
+  She says she delegated that power to her deputy minister.
 
   Les syndicats ont *délégué* trois représentants aux négociations salariales.
-  Die Gewerkschaften haben drei Vertreter zu den Lohnverhandlungen *entsandt*.
+  The trade unions delegated three representatives to the wage negotiations.
 
   Le directeur n'aime pas *déléguer* les tâches importantes.
-  Der Direktor mag es nicht, wichtige Aufgaben zu *delegieren*.
+  The director doesn't like to *delegate* important tasks.
 
   L'entreprise a *délégué* un ingénieur pour évaluer les dommages.
-  Die Firma hat einen Ingenieur *entsandt*, um die Schäden zu bewerten.
+  The company has assigned an engineer to assess the damage.
 
   Le conseil d'administration a *délégué* Marie comme représentante officielle.
-  Der Vorstand hat Marie als offizielle Vertreterin *delegiert*.
+  The board of directors has delegated Marie as official *representative*.
 
   Il faut apprendre à *déléguer* pour être un bon manager.
-  Man muss lernen zu *delegieren*, um eine gute Führungskraft zu sein.
+  You have to learn how to *delegate* to be a good manager.
 
   Le tribunal a *délégué* un expert pour examiner les preuves.
-  Das Gericht hat einen Gutachter *entsandt*, um die Beweise zu prüfen.
+  The court has assigned an expert to examine the evidence.
 
   Pendant ses vacances, elle a *délégué* ses responsabilités à son assistant.
-  Während ihres Urlaubs hat sie ihre Verantwortlichkeiten an ihren Assistenten *delegiert*.
+  During her vacation, she delegated her responsibilities to her assistant.
 
   Les employés ont *délégué* Pierre pour parler au directeur.
-  Die Mitarbeiter haben Pierre *delegiert*, um mit dem Direktor zu sprechen.
+  The employees delegated Pierre to speak to the manager.
 
   Le ministre a *délégué* son autorité au secrétaire d'État.
-  Der Minister hat seine Befugnis an den Staatssekretär *übertragen*.
+  The Minister delegated his authority to the Secretary of State.
 
   L'organisation a *délégué* deux observateurs à la conférence internationale.
-  Die Organisation hat zwei Beobachter zur internationalen Konferenz *entsandt*.
+  The organisation has delegated two observers to the international conference.
 
   Le président a *délégué* certains pouvoirs à ses vice-présidents.
-  Der Präsident hat bestimmte Befugnisse an seine Vizepräsidenten *delegiert*.
+  The President has delegated certain powers to his Vice-Presidents.
 
   Notre équipe a été *déléguée* pour représenter l'entreprise à l'exposition.
-  Unser Team wurde *entsandt*, um die Firma auf der Messe zu vertreten.
+  Our team has been delegated to represent the company at the exhibition.
 
   Le comité a *délégué* un porte-parole pour communiquer avec la presse.
-  Das Komitee hat einen Sprecher *delegiert*, um mit der Presse zu kommunizieren.
+  The committee has delegated a spokesman to communicate with the press.
 
   La direction a *délégué* la gestion du projet à l'équipe technique.
-  Die Leitung hat die Projektsteuerung an das technische Team *delegiert*.
+  The management delegated the management of the project to the technical team.
 
   L'association a *délégué* trois membres au congrès annuel.
-  Der Verband hat drei Mitglieder zum Jahreskongress *entsandt*.
+  The association delegated three members to the annual congress.
 
   Le chef d'entreprise devrait *déléguer* davantage pour éviter le surmenage.
-  Der Unternehmensleiter sollte mehr *delegieren*, um Überarbeitung zu vermeiden.
+  The entrepreneur should *delegate* more to avoid overwork.
 
   Les actionnaires ont *délégué* leurs droits de vote au conseil d'administration.
-  Die Aktionäre haben ihre Stimmrechte an den Vorstand *übertragen*.
+  The shareholders delegated their voting rights to the Board of Directors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4691
 Wort: présentement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: présentement
 Femininum / Plural: ''
 IPA: \pʁe.zɑ̃t.mɑ̃\
-Definition: gegenwärtig
+Definition: Currently
 Register: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous étudions ce besoin *présentement*.
-  Wir untersuchen diesen Bedarf *gegenwärtig*.
+  We are studying this need *now*.
 
   La maison est *présentement* occupée par une famille de quatre personnes.
-  Das Haus wird *derzeit* von einer vierköpfigen Familie bewohnt.
+  The house is *now* occupied by a family of four.
 
   *Présentement*, nous ne pouvons pas accepter de nouvelles inscriptions.
-  *Momentan* können wir keine neuen Anmeldungen annehmen.
+  At this time, we cannot accept new registrations.
 
   Le système est *présentement* en maintenance.
-  Das System befindet sich *augenblicklich* in Wartung.
+  The system is currently under maintenance.
 
   *Présentement*, il n'y a plus de places disponibles pour le concert.
-  *Zurzeit* sind keine Plätze mehr für das Konzert verfügbar.
+  Currently, there are no more seats available for the concert.
 
   Je suis *présentement* en train de travailler sur ce projet.
-  Ich arbeite *gegenwärtig* an diesem Projekt.
+  I'm currently working on this project.
 
   Le restaurant est *présentement* fermé pour rénovation.
-  Das Restaurant ist *derzeit* wegen Renovierung geschlossen.
+  The restaurant is currently closed for renovation.
 
   *Présentement*, nous traversons une période difficile.
-  Wir durchleben *momentan* eine schwierige Zeit.
+  Right now, we're going through a difficult time.
 
   Les prix sont *présentement* plus élevés que d'habitude.
-  Die Preise sind *gegenwärtig* höher als gewöhnlich.
+  Prices are *now* higher than usual.
 
   Le directeur n'est *présentement* pas disponible.
-  Der Direktor ist *augenblicklich* nicht verfügbar.
+  The director is not available at this time.
 
   *Présentement*, tous nos employés travaillent à distance.
-  *Derzeit* arbeiten alle unsere Mitarbeiter von zu Hause aus.
+  Right now, all of our employees work remotely.
 
   Je suis *présentement* en congé jusqu'à la semaine prochaine.
-  Ich bin *momentan* bis nächste Woche im Urlaub.
+  I'm currently on leave until next week.
 
   *Présentement*, nous n'acceptons que les paiements par carte.
-  *Gegenwärtig* akzeptieren wir nur Kartenzahlung.
+  At present, we only accept card payments.
 
   Les bureaux sont *présentement* fermés au public.
-  Die Büros sind *zurzeit* für die Öffentlichkeit geschlossen.
+  The offices are currently closed to the public.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

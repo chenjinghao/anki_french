@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2214
 Wort: nécessiter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: nécessiter
 Femininum / Plural: ''
 IPA: \ne.se.si.te\
-Definition: erfordern
+Definition: require
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Des situations extraordinaires *nécessitent* un acte extraordinaire.
-  Außergewöhnliche Situationen *erfordern* eine außergewöhnliche Handlung.
+  Extraordinary situations require an extraordinary act.
 
   Ce projet *nécessite* qu'on y réfléchisse davantage avant de prendre une décision.
-  Dieses Projekt *erfordert*, dass wir es gründlicher überdenken, bevor wir eine Entscheidung treffen.
+  This project requires further consideration before making a decision.
 
   La rénovation de ce vieux bâtiment *nécessitera* des travaux longs et coûteux.
-  Die Renovierung dieses alten Gebäudes wird langwierige und teure Arbeiten *erfordern*.
+  The renovation of this old building *will require* long and expensive work.
 
   L'utilisation de cet appareil *nécessite* quelques explications préalables.
-  Die Verwendung dieses Geräts *bedarf* einiger vorheriger Erklärungen.
+  The use of this device requires some preliminary explanation.
 
   Ce nouveau logiciel *nécessite* une formation spécifique pour tous les employés.
-  Diese neue Software *macht* eine spezielle Schulung für alle Mitarbeiter *erforderlich*.
+  This new software requires specific training for all employees.
 
   La mise en place de cette politique *nécessite* l'approbation du conseil d'administration.
-  Die Umsetzung dieser Politik *erfordert* die Zustimmung des Vorstands.
+  The implementation of this policy requires the approval of the Board of Directors.
 
   "Cette recette *nécessite* beaucoup d'attention et de précision."
-  "Dieses Rezept *erfordert* viel Aufmerksamkeit und Genauigkeit."
+  "This recipe requires a lot of attention and precision".
 
   L'importation de ces produits *nécessite* une autorisation spéciale du gouvernement.
-  Die Einfuhr dieser Produkte ist genehmigungs*bedürftig* durch die Regierung.
+  The importation of these products requires special government authorization.
 
   La compréhension de ce texte philosophique *nécessite* une lecture attentive.
-  Das Verständnis dieses philosophischen Textes *erfordert* eine aufmerksame Lektüre.
+  Understanding this philosophical text requires careful reading.
 
   Le traitement de cette maladie rare *nécessite* l'intervention de spécialistes.
-  Die Behandlung dieser seltenen Krankheit *macht* den Einsatz von Spezialisten *erforderlich*.
+  Treatment of this rare disease requires the intervention of specialists.
 
   Cette cause *nécessite* d'être étudiée avec le plus grand soin.
-  Diese Angelegenheit *muss* mit größter Sorgfalt untersucht werden.
+  This cause *needs* to be studied with the utmost care.
 
   La résolution de ce problème mathématique *nécessite* l'application de plusieurs théorèmes.
-  Die Lösung dieses mathematischen Problems *erfordert* die Anwendung mehrerer Theoreme.
+  Solving this mathematical problem requires the application of several theorems.
 
   Le succès de ce projet *nécessite* la collaboration de tous les départements.
-  Der Erfolg dieses Projekts *erfordert* die Zusammenarbeit aller Abteilungen.
+  The success of this project requires the cooperation of all departments.
 
   La production de ce vaccin *nécessite* des conditions de laboratoire très strictes.
-  Die Herstellung dieses Impfstoffs *erfordert* sehr strenge Laborbedingungen.
+  The production of this vaccine requires very strict laboratory conditions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

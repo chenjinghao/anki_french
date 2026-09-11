@@ -1,109 +1,109 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 916
 Wort: définir
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: définir
 Femininum / Plural: ''
 IPA: \de.fi.niʁ\
-Definition: definieren, bestimmen
+Definition: defining, determining
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tout dépend de la manière dont on *définit* le concept.
-  Alles hängt davon ab, wie man das Konzept *definiert*.
+  It all depends on how you define the concept.
 
   Le professeur nous a demandé de *définir* le mot "démocratie".
-  Der Lehrer hat uns gebeten, das Wort "Demokratie" zu *definieren*.
+  The professor asked us *to define* the word "democracy".
 
   Il est difficile de *définir* exactement ce que je ressens.
-  Es ist schwer genau zu *beschreiben*, was ich fühle.
+  It's hard *to define* exactly how I feel.
 
   Les critères qui *définissent* ce poste sont très stricts.
-  Die Kriterien, die diese Stelle *charakterisieren*, sind sehr streng.
+  The criteria for this position are very strict.
 
   Le gouvernement doit *définir* sa position sur cette question.
-  Die Regierung muss ihre Position zu dieser Frage *festlegen*.
+  The government must define its position on this issue.
 
   Comment te *définirais*-tu en tant qu'artiste ?
-  Wie würdest du dich als Künstler *beschreiben*?
+  How would you define yourself as an artist?
 
   La loi *définit* clairement les droits des citoyens.
-  Das Gesetz *legt* die Rechte der Bürger klar *fest*.
+  The law clearly defines the rights of citizens.
 
   Nous devons *définir* nos objectifs avant de commencer.
-  Wir müssen unsere Ziele *bestimmen*, bevor wir anfangen.
+  We need to set our goals before we start.
 
   Les scientifiques ont *défini* une nouvelle méthode de recherche.
-  Die Wissenschaftler haben eine neue Forschungsmethode *definiert*.
+  Scientists have developed a new research method.
 
   Cette expérience m'a *défini* en tant que personne.
-  Diese Erfahrung hat mich als Person *geprägt*.
+  That experience *defined* me as a person.
 
   Il faut *définir* les modalités du contrat.
-  Die Modalitäten des Vertrags müssen *festgelegt* werden.
+  The terms of the contract must be defined.
 
   Comment *définiriez*-vous le succès ?
-  Wie würden Sie Erfolg *definieren*?
+  How would you define success?
 
   Le comité doit *définir* les règles du concours.
-  Das Komitee muss die Regeln des Wettbewerbs *festlegen*.
+  The committee shall lay down the rules of the competition.
 
   Cette émotion est difficile à *définir*.
-  Diese Emotion ist schwer zu *beschreiben*.
+  It's hard *to define* that emotion.
 
   Les experts vont *définir* les normes de sécurité.
-  Die Experten werden die Sicherheitsnormen *festlegen*.
+  The experts will set the safety standards.
 
   Il s'est toujours *défini* comme un optimiste.
-  Er hat sich immer als Optimist *beschrieben*.
+  He's always *defined* himself as an optimist.
 
   Ce style architectural est difficile à *définir*.
-  Dieser architektonische Stil ist schwer zu *charakterisieren*.
+  This architectural style is difficult *to define*.
 
   Nous devons *définir* les limites du projet.
-  Wir müssen die Grenzen des Projekts *bestimmen*.
+  We need *to define* the boundaries of the project.
 
   L'entreprise doit *définir* sa stratégie marketing.
-  Das Unternehmen muss seine Marketingstrategie *festlegen*.
+  The company needs *to define* its marketing strategy.
 
   Les chercheurs ont *défini* un nouveau protocole.
-  Die Forscher haben ein neues Protokoll *definiert*.
+  The researchers have *defined* a new protocol.
 
   Comment *définiriez*-vous votre relation ?
-  Wie würden Sie Ihre Beziehung *beschreiben*?
+  How would you define your relationship?
 
   Le dictionnaire *définit* ce mot de façon précise.
-  Das Wörterbuch *definiert* dieses Wort präzise.
+  The dictionary defines this word precisely.
 
   Il est important de bien *définir* les termes du débat.
-  Es ist wichtig, die Begriffe der Debatte klar zu *definieren*.
+  It is important *to define* the terms of the debate.
 
   Cette découverte va *définir* notre époque.
-  Diese Entdeckung wird unsere Zeit *prägen*.
+  This discovery will define our time.
 
   Les experts doivent *définir* les critères d'évaluation.
-  Die Experten müssen die Bewertungskriterien *festlegen*.
+  The evaluation criteria shall be defined by the experts.
 
   Cette qualité *définit* vraiment son caractère.
-  Diese Eigenschaft *charakterisiert* wirklich seinen Charakter.
+  This quality really defines his character.
 
   Nous devons *définir* nos priorités.
-  Wir müssen unsere Prioritäten *festlegen*.
+  We need to set our priorities.
 
   Comment vous *définissez*-vous professionnellement ?
-  Wie *beschreiben* Sie sich beruflich?
+  How do you *define* yourself professionally?
 
   L'équipe doit *définir* ses objectifs annuels.
-  Das Team muss seine Jahresziele *festlegen*.
+  The team must set its annual targets.
 
   Le philosophe a *défini* ce concept de manière originale.
-  Der Philosoph hat dieses Konzept auf originelle Weise *definiert*.
+  The philosopher *defined* this concept in an original way.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

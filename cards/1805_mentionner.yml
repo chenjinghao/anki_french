@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1805
 Wort: mentionner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: mentionner
 Femininum / Plural: ''
 IPA: \mɑ̃.sjɔ.ne\
-Definition: erwähnen
+Definition: to mention
 Register: ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces points ont déjà été *mentionnés* par le rapporteur.
-  Diese Punkte wurden vom Berichterstatter bereits *erwähnt*.
+  These points have already been *mentioned* by the rapporteur.
 
   J'ai oublié de *mentionner* que j'ai un rendez-vous demain.
-  Ich habe vergessen zu *erwähnen*, dass ich morgen einen Termin habe.
+  I forgot *to mention* I have an appointment tomorrow.
 
   Les médias n'ont même pas *mentionné* cet incident important.
-  Die Medien haben diesen wichtigen Vorfall nicht einmal *erwähnt*.
+  The media didn't even mention this important incident.
 
   Dans son livre, l'auteur *mentionne* brièvement son enfance difficile.
-  In seinem Buch *erwähnt* der Autor kurz seine schwierige Kindheit.
+  In his book, the author briefly *mentions* his difficult childhood.
 
   Il est *mentionné* dans le contrat que le paiement doit être effectué avant le 15.
-  Im Vertrag ist *erwähnt*, dass die Zahlung vor dem 15. erfolgen muss.
+  It is stated in the contract that the payment must be made before the 15th.
 
   Pourriez-vous *mentionner* mon nom lors de la réunion ?
-  Könnten Sie meinen Namen während der Besprechung *erwähnen*?
+  Could you mention my name at the meeting?
 
   Le nom de Marie est souvent *mentionné* dans les journaux.
-  Maries Name wird in den Zeitungen häufig *genannt*.
+  Marie's name is often *mentioned* in the newspapers.
 
   Je vais simplement *mentionner* ce fait sans commentaire.
-  Ich werde diese Tatsache nur *erwähnen*, ohne sie zu kommentieren.
+  I will simply mention this fact without comment.
 
   Son nom n'a pas été *mentionné* dans la liste des invités.
-  Sein Name wurde auf der Gästeliste nicht *erwähnt*.
+  Her name was not *mentioned* in the guest list.
 
   Il faudrait *mentionner* cette modification dans le rapport.
-  Diese Änderung sollte im Bericht *erwähnt* werden.
+  This amendment should be mentioned in the report.
 
   Le professeur a *mentionné* qu'il y aura un examen la semaine prochaine.
-  Der Lehrer hat *erwähnt*, dass nächste Woche eine Prüfung stattfindet.
+  The professor *mentioned* that there will be an exam next week.
 
   As-tu *mentionné* à Pierre que nous déménageons ?
-  Hast du Pierre *erwähnt*, dass wir umziehen?
+  Did you mention to Pierre that we 're moving out ?
 
   Elle n'a pas *mentionné* un seul mot de notre conversation.
-  Sie hat kein einziges Wort aus unserem Gespräch *erwähnt*.
+  She didn't mention a word of our conversation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

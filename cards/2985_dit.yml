@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2985
 Wort: dit
 Wortart: v, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dit
 Femininum / Plural: dite
 IPA: \di\
-Definition: genannt, besagt
+Definition: referred to as
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'OTAN s'est transformée en organisation *dite* « de sécurité ».
-  Die NATO hat sich in eine *sogenannte* "Sicherheitsorganisation" verwandelt.
+  NATO has transformed itself into an organisation called  security .
 
   Elle est arrivée à l'heure *dite*.
-  Sie ist zur *vereinbarten* Zeit angekommen.
+  She arrived at the right time.
 
   Les *dits* de Socrate ont inspiré des générations de philosophes.
-  Die *Aussprüche* von Sokrates haben Generationen von Philosophen inspiriert.
+  *The so-called* words of Socrates have inspired generations of philosophers.
 
   Dans son discours, il a cité un *dit* célèbre d'un sage bouddhiste.
-  In seiner Rede hat er einen berühmten *Spruch* eines buddhistischen Weisen zitiert.
+  In his speech, he quoted a famous Buddhist sage.
 
   Les anciens récitaient des *dits* pour transmettre leur savoir.
-  Die Alten trugen *Verse* vor, um ihr Wissen weiterzugeben.
+  The elders used gestures to convey their knowledge.
 
   Il faut lire le *Dit* de l'Herberie pour comprendre cette époque.
-  Man muss den *Vers* des Herboristen lesen, um diese Epoche zu verstehen.
+  You have to read the Deity of the Herbarians to understand that time.
 
   À l'époque médiévale, le *dit* était une forme populaire de poésie narrative.
-  Im Mittelalter war der *Vers* eine beliebte Form der erzählenden Poesie.
+  In medieval times, the saying was a popular form of narrative poetry.
 
   Il était connu sous le nom de Charles le *Dit* Sage.
-  Er war unter dem Namen Karl der *genannte* Weise bekannt.
+  He was known as Charles the Said Wise.
 
   La réunion s'est tenue à l'heure *dite* par le directeur.
-  Das Treffen fand zur *vereinbarten* Zeit statt, wie es der Direktor gesagt hatte.
+  The meeting took place at the time stated by the director.
 
   Elle a décrit la situation avec des termes *dits* techniques.
-  Sie hat die Situation mit *sogenannten* Fachbegriffen beschrieben.
+  She described the situation in so-called technical terms.
 
   Les historiens analysent les *dits* et les gestes des rois médiévaux.
-  Historiker analysieren die *Aussprüche* und Handlungen mittelalterlicher Könige.
+  Historians analyze *the so-called* and gestures of medieval kings.
 
   Ce village est un site *dit* touristique.
-  Dieses Dorf ist ein *sogenanntes* Touristenziel.
+  This village is a so-called tourist site.
 
   Les enfants aiment écouter des histoires et des *dits* anciens.
-  Kinder hören gerne Geschichten und alte *Verse*.
+  Children like to hear stories and so-called elders.
 
   "Il va arriver à l'heure *dite*, c'est sûr !"
-  "Er wird zur *vereinbarten* Zeit kommen, ganz sicher!"
+  "He'll be here at the right time, that's for sure!"
 
   Le *dit* de l'Herberie montre la créativité des auteurs du XIII<sup>e</sup> siècle.
-  Der *Vers* des Herboristen zeigt die Kreativität der Autoren des 13. Jahrhunderts.
+  The saying of the Herberie shows the creativity of the authors of the thirteenth century.
 
   Elle n'était pas présente à l'heure *dite*.
-  Sie war zur *vereinbarten* Zeit nicht da.
+  She wasn't there at the time.
 
   Les *dits* et maximes des philosophes anciens sont encore étudiés.
-  Die *Aussprüche* und Maximen der antiken Philosophen werden immer noch studiert.
+  *The so-called* maxims of ancient philosophers are still being studied.
 
   L'homme *dit* sage ne fait jamais de promesses vaines.
-  Der *sogenannte* Weise gibt niemals leere Versprechen.
+  The man who claims to be wise never makes empty promises.
 
   Le poème s'inscrit dans la tradition du *dit* narratif médiéval.
-  Das Gedicht gehört zur Tradition der mittelalterlichen Erzähl*verse*.
+  The poem is part of the tradition of the so-called medieval narrative.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

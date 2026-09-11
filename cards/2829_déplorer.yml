@@ -1,99 +1,99 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2829
 Wort: déplorer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déplorer
 Femininum / Plural: ''
 IPA: \de.plɔ.ʁe\
-Definition: beklagen, bedauern
+Definition: Regretted
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il *déplore* la montée des superstitions.
-  Er *beklagt* die Zunahme des Aberglaubens.
+  He regrets the rise of superstition.
 
   Nous *déplorons* la perte de nombreuses espèces animales.
-  Wir *betrauern* den Verlust vieler Tierarten.
+  We regret the loss of many animal species.
 
   Le ministre a *déploré* le manque de financement pour l'éducation.
-  Der Minister hat den Mangel an Bildungsfinanzierung *bedauert*.
+  The Minister deplored the lack of funding for education.
 
   Elle *déplore* que son fils ait abandonné ses études.
-  Sie *bedauert*, dass ihr Sohn sein Studium abgebrochen hat.
+  She regrets that her son dropped out of school.
 
   Les habitants *déplorent* l'état de leurs routes.
-  Die Einwohner *beklagen* den Zustand ihrer Straßen.
+  Residents are complaining about the condition of their roads.
 
   Je *déplore* sincèrement votre absence à la réunion.
-  Ich *bedaure* aufrichtig Ihre Abwesenheit bei dem Treffen.
+  I sincerely regret your absence from the meeting.
 
   L'entreprise *déplore* la perte de plusieurs employés clés.
-  Das Unternehmen *beklagt* den Verlust mehrerer Schlüsselmitarbeiter.
+  The company regrets the loss of several key employees.
 
   Les écologistes *déplorent* la pollution croissante des océans.
-  Die Umweltschützer *beklagen* die zunehmende Verschmutzung der Ozeane.
+  Environmentalists lament the increasing pollution of the oceans.
 
   Le président a *déploré* les violences lors des manifestations.
-  Der Präsident hat die Gewalt bei den Demonstrationen *bedauert*.
+  The president deplored the violence during the protests.
 
   Nous *déplorons* qu'il n'y ait pas eu de dialogue entre les parties.
-  Wir *bedauern*, dass es keinen Dialog zwischen den Parteien gab.
+  We regret that there has been no dialogue between the parties.
 
   L'historien *déplore* la destruction de nombreux documents anciens.
-  Der Historiker *beklagt* die Zerstörung vieler alter Dokumente.
+  The historian regrets the destruction of many ancient documents.
 
   Les médecins *déplorent* le manque de personnel dans les hôpitaux.
-  Die Ärzte *beklagen* den Personalmangel in den Krankenhäusern.
+  Doctors lament the lack of staff in hospitals.
 
   Elle *déplore* son incapacité à parler des langues étrangères.
-  Sie *bedauert* ihre Unfähigkeit, Fremdsprachen zu sprechen.
+  She regrets her inability to speak foreign languages.
 
   Les agriculteurs *déplorent* les effets du changement climatique sur leurs récoltes.
-  Die Landwirte *beklagen* die Auswirkungen des Klimawandels auf ihre Ernten.
+  Farmers lament the effects of climate change on their crops.
 
   Le jury a *déploré* le manque de créativité des candidats.
-  Die Jury hat den Mangel an Kreativität der Kandidaten *bedauert*.
+  The jury deplored the candidates' lack of creativity.
 
   Nous n'avons heureusement aucune victime à *déplorer* suite à l'accident.
-  Glücklicherweise haben wir keine Opfer zu *beklagen* nach dem Unfall.
+  Fortunately, we have no casualties to deplore as a result of the accident.
 
   Les critiques *déplorent* la qualité médiocre du dernier film du réalisateur.
-  Die Kritiker *bedauern* die mittelmäßige Qualität des letzten Films des Regisseurs.
+  Critics deplore the poor quality of the director's latest film.
 
   Le coach *déplore* le manque de motivation de certains joueurs.
-  Der Trainer *beklagt* den Mangel an Motivation einiger Spieler.
+  The coach regrets the lack of motivation of some players.
 
   Les syndicats *déplorent* la fermeture de l'usine et la perte d'emplois.
-  Die Gewerkschaften *beklagen* die Schließung des Werks und den Verlust von Arbeitsplätzen.
+  Trade unions deplore the closure of the factory and the loss of jobs.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>déplorer</i> und <i>regretter</i></div>
+    <div class="section-title"><i>déplorer</i> and <i>regretter</i></div>
     <div class="section-content">
-      <p><span class="fr">Déplorer</span> bedeutet <span class="de">"beklagen"</span> oder <span class="de">"bedauern"</span>. Es wird oft verwendet, um Missbilligung oder Trauer über etwas Ernsthaftes oder Bedeutendes auszudrücken, oft in einem formelleren oder öffentlicheren Kontext.</p>
+      <p><span class="fr">Déplorer</span> means <span class="de">"accused"</span> or <span class="de">I'm sorry about that.</span>It is often used to express disapproval or grief over something serious or significant, often in a more formal or public context.</p>
       <div class="examples">
         <div class="fr">Le ministre a déploré la perte de vies humaines dans l'accident.</div>
-        <div class="de spoiler">Der Minister beklagte den Verlust von Menschenleben bei dem Unfall.</div>
+        <div class="de spoiler">The minister lamented the loss of life in the accident.</div>
         <div class="fr">Nous déplorons le manque de financement pour la recherche.</div>
-        <div class="de spoiler">Wir bedauern den Mangel an Finanzierung für die Forschung.</div>
+        <div class="de spoiler">We regret the lack of funding for research.</div>
       </div>
-      <p><span class="fr">Regretter</span> (#1048) bedeutet ebenfalls <span class="de">"bedauern"</span> oder <span class="de">"bereuen"</span>, wird aber häufiger in persönlicheren Kontexten verwendet. Es kann sich auf große und kleine Dinge beziehen und oft auf persönliche Entscheidungen oder Handlungen.</p>
+      <p><span class="fr">Regretter</span> (#1048) also means <span class="de">I'm sorry about that.</span> or <span class="de">"repentance"</span>It can refer to things big and small, and often to personal decisions or actions.</p>
       <div class="examples">
         <div class="fr">Je regrette de ne pas avoir étudié plus dur à l'école.</div>
-        <div class="de spoiler">Ich bereue, in der Schule nicht härter gelernt zu haben.</div>
+        <div class="de spoiler">I'm sorry I didn't learn harder in school.</div>
         <div class="fr">Elle regrette d'avoir manqué la fête hier soir.</div>
-        <div class="de spoiler">Sie bedauert, gestern Abend die Party verpasst zu haben.</div>
+        <div class="de spoiler">She regrets missing the party last night.</div>
       </div>
-      <p>Während <span class="fr">déplorer</span> oft eine öffentliche oder formelle Missbilligung ausdrückt, wird <span class="fr">regretter</span> häufiger für persönliche Gefühle des Bedauerns oder der Reue verwendet.</p>
+      <p>In the meantime <span class="fr">déplorer</span> Often expressed in a public or formal disapproval, <span class="fr">regretter</span> It's more often used for personal feelings of regret or remorse.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

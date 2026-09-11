@@ -1,97 +1,97 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2529
 Wort: destinée
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la destinée
 Femininum / Plural: ''
 IPA: \dɛs.ti.ne\
-Definition: Schicksal, Bestimmung
+Definition: Fate and Destiny
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Notre destination, c'est aussi notre *destinée*.
-  Unser Ziel ist auch unser *Schicksal*.
+  Our destination is also our destiny.
 
   Chacun doit accepter sa *destinée*, même si elle est parfois cruelle.
-  Jeder muss sein *Schicksal* akzeptieren, auch wenn es manchmal grausam ist.
+  Everyone has to accept their destiny, even if it's cruel at times.
 
   La *destinée* de ce tableau est de finir dans un grand musée.
-  Die *Bestimmung* dieses Gemäldes ist es, in einem großen Museum zu enden.
+  The fate of this painting is to end up in a great museum.
 
   Les parents tiennent entre leurs mains la *destinée* de leurs enfants.
-  Die Eltern halten das *Schicksal* ihrer Kinder in ihren Händen.
+  Parents have their children's destiny in their hands.
 
   Je ne crois pas à une *destinée* toute tracée.
-  Ich glaube nicht an ein vorgezeichnetes *Schicksal*.
+  I don't believe in a destiny all figured out.
 
   Marie et Pierre ont uni leurs *destinées* il y a vingt ans.
-  Marie und Pierre haben vor zwanzig Jahren ihre *Schicksale* vereint.
+  Marie and Pierre shared their destiny twenty years ago.
 
   La *destinée* de ce livre fut remarquable : il est devenu un best-seller mondial.
-  Die *Bestimmung* dieses Buches war bemerkenswert: Es wurde ein weltweiter Bestseller.
+  The fate of this book was remarkable: it became a worldwide bestseller.
 
   Cette découverte scientifique a changé la *destinée* de l'humanité.
-  Diese wissenschaftliche Entdeckung hat das *Schicksal* der Menschheit verändert.
+  This scientific discovery changed the fate of mankind.
 
   Leurs *destinées* se sont croisées par hasard dans ce petit café.
-  Ihre *Schicksale* kreuzten sich zufällig in diesem kleinen Café.
+  Their fates coincided in this little cafe.
 
   Il faut parfois savoir prendre sa *destinée* en main.
-  Manchmal muss man sein *Schicksal* selbst in die Hand nehmen.
+  Sometimes you have to know how to control your destiny.
 
   La guerre a bouleversé la *destinée* de millions de personnes.
-  Der Krieg hat das *Schicksal* von Millionen Menschen erschüttert.
+  The war has disrupted the lives of millions of people.
 
   Cette jeune artiste semble promise à une belle *destinée*.
-  Diese junge Künstlerin scheint für ein schönes *Schicksal* bestimmt zu sein.
+  This young artist seems to have a bright future ahead of her.
 
   Les anciens croyaient que les étoiles influençaient notre *destinée*.
-  Die Alten glaubten, dass die Sterne unser *Schicksal* beeinflussten.
+  The ancients believed that the stars influence our destiny.
 
   La *destinée* de cette invention fut plutôt inattendue.
-  Die *Bestimmung* dieser Erfindung war eher unerwartet.
+  The fate of this invention was rather unexpected.
 
   Je me demande quelle *destinée* attend nos enfants.
-  Ich frage mich, welches *Schicksal* unsere Kinder erwartet.
+  I wonder what fate awaits our children.
 
   Le peuple croit fermement aux grandes *destinées* de son pays.
-  Das Volk glaubt fest an die großen *Schicksale* seines Landes.
+  The people firmly believe in the great destinies of their country.
 
   Cette rencontre a changé sa *destinée* à tout jamais.
-  Diese Begegnung hat sein *Schicksal* für immer verändert.
+  This encounter changed his destiny forever.
 
   La *destinée* de ce monument est de témoigner de notre histoire.
-  Die *Bestimmung* dieses Denkmals ist es, von unserer Geschichte zu zeugen.
+  The destiny of this monument is to testify to our history.
 
   À quoi bon lutter contre sa *destinée* ?
-  Wozu gegen sein *Schicksal* ankämpfen?
+  What's the point of fighting her fate?
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>destinée</i> und <i>destin</i></div>
+    <div class="section-title"><i>destinée</i> and <i>destin</i></div>
     <div class="section-content">
-      <p><span class="fr">Destinée</span> bezieht sich auf das persönliche Schicksal oder die individuelle Bestimmung eines Menschen. Es impliziert oft eine innere Kraft oder einen Lebensweg, den man selbst mitgestalten kann.</p>
+      <p><span class="fr">Destinée</span> It often implies an inner force or a way of life that you can shape yourself.</p>
       <div class="examples">
         <div class="fr">Elle a toujours su que sa destinée était de devenir artiste.</div>
-        <div class="de spoiler">Sie wusste schon immer, dass es ihre Bestimmung war, Künstlerin zu werden.</div>
+        <div class="de spoiler">She always knew it was her destiny to become an artist.</div>
         <div class="fr">Chacun est responsable de sa propre destinée.</div>
-        <div class="de spoiler">Jeder ist für sein eigenes Schicksal verantwortlich.</div>
+        <div class="de spoiler">Everyone is responsible for their own destiny.</div>
       </div>
-      <p><span class="fr">Destin</span> (#2337) bezieht sich eher auf das Schicksal im Sinne einer äußeren, oft unvermeidlichen Kraft. Es wird oft als etwas gesehen, das vorherbestimmt oder unausweichlich ist.</p>
+      <p><span class="fr">Destin</span> (#2337) refers more to destiny in the sense of an external, often unavoidable force. It is often seen as predetermined or inevitable.</p>
       <div class="examples">
         <div class="fr">Le destin a voulu que leurs chemins se croisent.</div>
-        <div class="de spoiler">Das Schicksal wollte es, dass sich ihre Wege kreuzten.</div>
+        <div class="de spoiler">Fate wanted them to cross paths.</div>
         <div class="fr">On ne peut pas échapper à son destin.</div>
-        <div class="de spoiler">Man kann seinem Schicksal nicht entfliehen.</div>
+        <div class="de spoiler">You can't escape your destiny.</div>
       </div>
     </div>
   </div>

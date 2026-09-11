@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 733
 Wort: exiger
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: exiger
 Femininum / Plural: ''
 IPA: \e.ɡzi.ʒe\
-Definition: fordern, verlangen
+Definition: to demand
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une vie publique *exige* de nombreux sacrifices.
-  Ein Leben in der Öffentlichkeit *erfordert* viele Opfer.
+  Public life requires many sacrifices.
 
   Le directeur *exige* que tous les employés arrivent à l'heure.
-  Der Direktor *verlangt*, dass alle Angestellten pünktlich erscheinen.
+  The manager demands that all employees arrive on time.
 
   Cette plante rare *exige* beaucoup de soleil et d'eau.
-  Diese seltene Pflanze *benötigt* viel Sonne und Wasser.
+  This rare plant requires plenty of sun and water.
 
   Les manifestants *exigent* la démission du ministre.
-  Die Demonstranten *fordern* den Rücktritt des Ministers.
+  The protesters demand the resignation of the minister.
 
   La situation *exige* une action immédiate.
-  Die Situation *erfordert* sofortiges Handeln.
+  The situation calls for immediate action.
 
   Elle *exige* des excuses pour ce comportement inacceptable.
-  Sie *verlangt* eine Entschuldigung für dieses inakzeptable Verhalten.
+  She demands an apology for this unacceptable behavior.
 
   Le contrat *exige* que le paiement soit effectué dans les 30 jours.
-  Der Vertrag *schreibt vor*, dass die Zahlung innerhalb von 30 Tagen erfolgen muss.
+  The contract requires payment to be made within 30 days.
 
   Ce poste *exige* une grande diplomatie.
-  Diese Position *erfordert* großes diplomatisches Geschick.
+  This job requires a lot of diplomacy.
 
   Les parents *exigent* que leurs enfants respectent le couvre-feu.
-  Die Eltern *verlangen*, dass ihre Kinder die Ausgangssperre einhalten.
+  Parents demand that their children respect curfew.
 
   L'université *exige* un diplôme de baccalauréat pour l'admission.
-  Die Universität *setzt* für die Zulassung ein Abitur *voraus*.
+  The university requires a bachelor's degree for admission.
 
   Le client mécontent *exigeait* un remboursement complet.
-  Der unzufriedene Kunde *forderte* eine vollständige Rückerstattung.
+  The disgruntled customer *demanded* a full refund.
 
   La sécurité *exige* que tous les visiteurs passent par un contrôle.
-  Die Sicherheit *erfordert*, dass sich alle Besucher einer Kontrolle unterziehen.
+  Security requires all visitors to go through a check.
 
   Le médecin *exigera* probablement des examens supplémentaires.
-  Der Arzt wird wahrscheinlich zusätzliche Untersuchungen *verlangen*.
+  The doctor will likely require further examinations.
 
   Cette tâche complexe *exige* une attention constante aux détails.
-  Diese komplexe Aufgabe *erfordert* ständige Aufmerksamkeit für Details.
+  This complex task requires constant attention to detail.
 
   Les circonstances *exigent* que nous repensions notre stratégie.
-  Die Umstände *machen* es *erforderlich*, dass wir unsere Strategie überdenken.
+  The circumstances demand that we reconsider our strategy.
 
   Le professeur *exige* le silence absolu pendant l'examen.
-  Der Lehrer *verlangt* absolute Stille während der Prüfung.
+  The teacher demands absolute silence during the exam.
 
   Cette machine sophistiquée *exige* un entretien régulier.
-  Diese hochentwickelte Maschine *erfordert* regelmäßige Wartung.
+  This sophisticated machine requires regular maintenance.
 
   Le patron *exigeait* de ses employés qu'ils fassent des heures supplémentaires.
-  Der Chef *verlangte* von seinen Angestellten, dass sie Überstunden machen.
+  The employer *demanded* that his employees work overtime.
 
   La loi *exige* que tous les conducteurs aient une assurance.
-  Das Gesetz *schreibt vor*, dass alle Fahrer eine Versicherung haben müssen.
+  The law requires all drivers to have insurance.
 
   Cette recette *exige* une précision absolue dans les mesures.
-  Dieses Rezept *erfordert* absolute Genauigkeit bei den Mengenangaben.
+  This recipe requires absolute precision in measurements.
 
   Les règles du jeu *exigent* que chaque joueur lance le dé à son tour.
-  Die Spielregeln *verlangen*, dass jeder Spieler den Würfel der Reihe nach wirft.
+  The rules of the game require each player to roll the dice in turn.
 
   Le syndicat *exige* de meilleures conditions de travail pour les ouvriers.
-  Die Gewerkschaft *fordert* bessere Arbeitsbedingungen für die Arbeiter.
+  The union demands better working conditions for workers.
 
   Cette théorie scientifique *exige* des preuves concrètes pour être validée.
-  Diese wissenschaftliche Theorie *erfordert* konkrete Beweise, um bestätigt zu werden.
+  This scientific theory requires concrete evidence to be validated.
 
   Le tribunal *a exigé* que l'accusé soit présent à toutes les audiences.
-  Das Gericht *hat verlangt*, dass der Angeklagte bei allen Anhörungen anwesend ist.
+  The court ordered the accused to be present at all hearings.
 
   La tradition *exige* que les invités apportent un cadeau à la fête.
-  Die Tradition *verlangt*, dass die Gäste ein Geschenk zur Party mitbringen.
+  Tradition requires guests to bring a gift to the party.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3504
 Wort: empreinte
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une empreinte
 Femininum / Plural: ''
 IPA: \ɑ̃.pʁɛ̃t\
-Definition: Abdruck, Spur
+Definition: Printing, tracing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La police a retrouvé des *empreintes*.
-  Die Polizei hat *Spuren* gefunden.
+  The police found prints.
 
   L'expert a relevé des *empreintes* digitales sur le verre.
-  Der Experte hat Finger*abdrücke* auf dem Glas sichergestellt.
+  The expert found fingerprints on the glass.
 
   L'*empreinte* génétique a permis d'identifier le suspect.
-  Der genetische Finger*abdruck* hat es ermöglicht, den Verdächtigen zu identifizieren.
+  The genetic fingerprint identified the suspect.
 
   Il faut réduire notre *empreinte* carbone pour protéger l'environnement.
-  Wir müssen unseren CO<sub>2</sub>-*Fußabdruck* reduzieren, um die Umwelt zu schützen.
+  We need to reduce our carbon *footprint* to protect the environment.
 
   Le chasseur a suivi les *empreintes* du cerf dans la neige.
-  Der Jäger folgte den *Spuren* des Hirsches im Schnee.
+  The hunter followed the deer's *footprints* through the snow.
 
   Cette expérience d'enfance a laissé une profonde *empreinte* sur sa personnalité.
-  Diese Kindheitserfahrung hat seine Persönlichkeit stark *geprägt*.
+  This childhood experience left a deep imprint on his personality.
 
   L'*empreinte* du cachet était encore visible sur la cire.
-  Der *Abdruck* des Siegels war noch im Wachs sichtbar.
+  The seal imprint was still visible on the wax.
 
   Le dentiste a pris une *empreinte* de mes dents.
-  Der Zahnarzt hat einen *Abdruck* von meinen Zähnen gemacht.
+  The dentist took a print of my teeth.
 
   J'ai remarqué des *empreintes* de pattes dans le jardin ce matin.
-  Ich habe heute Morgen Pfoten*abdrücke* im Garten bemerkt.
+  I noticed *footprints* in the garden this morning.
 
   Les archéologues ont découvert des *empreintes* de dinosaures fossilisées.
-  Die Archäologen haben versteinerte Dinosaurier*spuren* entdeckt.
+  Archaeologists have discovered fossil dinosaur *footprints*.
 
   Le serrurier a fait une *empreinte* de la serrure cassée.
-  Der Schlosser hat einen *Abdruck* vom kaputten Schloss gemacht.
+  The locksmith pulled a print off the broken lock.
 
   Cette découverte a laissé son *empreinte* sur toute la recherche scientifique.
-  Diese Entdeckung hat die wissenschaftliche Forschung nachhaltig *geprägt*.
+  This discovery has left its mark on all scientific research.
 
   Les deux pièces portent la même *empreinte*.
-  Die beiden Münzen tragen die gleiche *Prägung*.
+  Both coins have the same *footprint*.
 
   Son style d'écriture porte l'*empreinte* de son éducation classique.
-  Sein Schreibstil trägt die *Prägung* seiner klassischen Ausbildung.
+  His writing style bears the imprint of his classical education.
 
   Les paléontologues ont trouvé des *empreintes* de fougères dans la roche.
-  Die Paläontologen haben Farn*abdrücke* im Gestein gefunden.
+  Paleontologists have found fingerprints of ferns in the rock.
 
   Cette ville garde encore l'*empreinte* de son passé médiéval.
-  Diese Stadt trägt noch die *Prägung* ihrer mittelalterlichen Vergangenheit.
+  This city still retains the traces of its medieval past.
 
   La fatigue a laissé son *empreinte* sur son visage.
-  Die Müdigkeit hat ihre *Spuren* in seinem Gesicht hinterlassen.
+  Fatigue left its mark on his face.
 
   Le sculpteur a pris une *empreinte* en plâtre de la statue.
-  Der Bildhauer hat einen Gips*abdruck* von der Statue gemacht.
+  The sculptor took a plaster print from the statue.
 
   Les *empreintes* dans la boue ont permis de suivre le voleur.
-  Die *Spuren* im Schlamm haben es ermöglicht, dem Dieb zu folgen.
+  The *footprints* in the mud allowed us to follow the thief.
 
   Cette période historique a laissé son *empreinte* sur l'art moderne.
-  Diese historische Periode hat die moderne Kunst stark *geprägt*.
+  This historical period has left its mark on modern art.
 
   L'artisan a gravé son *empreinte* personnelle sur chaque pièce.
-  Der Handwerker hat jedes Stück mit seiner persönlichen *Prägung* versehen.
+  The craftsman carved his personal imprint on each piece.
 
   Le temps n'a pas effacé l'*empreinte* de ces souvenirs.
-  Die Zeit hat die *Spuren* dieser Erinnerungen nicht ausgelöscht.
+  Time has not erased the imprint of these memories.
 
   Les scientifiques analysent l'*empreinte* écologique de nos activités.
-  Die Wissenschaftler analysieren den ökologischen *Fußabdruck* unserer Aktivitäten.
+  Scientists are analyzing the ecological *footprint* of our activities.
 
   L'inspecteur a photographié toutes les *empreintes* sur la scène de crime.
-  Der Inspektor hat alle *Spuren* am Tatort fotografiert.
+  The inspector photographed all the prints at the crime scene.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4615
 Wort: moderniser
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: moderniser
 Femininum / Plural: ''
 IPA: \mɔ.dɛʁ.ni.ze\
-Definition: modernisieren
+Definition: to modernise
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous devons simplement *moderniser* ce système.
-  Wir müssen dieses System einfach *modernisieren*.
+  We simply need to modernize this system.
 
   L'entreprise a décidé de *moderniser* son parc informatique.
-  Die Firma hat beschlossen, ihren Computerbestand zu *modernisieren*.
+  The company has decided to modernize its computer park.
 
   Ils vont *moderniser* la décoration de leur maison.
-  Sie werden die Einrichtung ihres Hauses *modernisieren*.
+  They're going to modernize the decoration of their home.
 
   Les écoles doivent *moderniser* leurs méthodes d'enseignement.
-  Die Schulen müssen ihre Lehrmethoden *modernisieren*.
+  Schools must *modernise* their teaching methods.
 
   Cette ville s'est beaucoup *modernisée* ces dernières années.
-  Diese Stadt hat sich in den letzten Jahren stark *modernisiert*.
+  This city has undergone a lot of modernization in recent years.
 
   Le gouvernement souhaite *moderniser* les transports en commun.
-  Die Regierung möchte den öffentlichen Nahverkehr *modernisieren*.
+  The government wants to *modernise* public transport.
 
   Marie et Pierre ont complètement *modernisé* leur appartement.
-  Marie und Pierre haben ihre Wohnung komplett *modernisiert*.
+  Marie and Pierre have completely modernized their apartment.
 
   L'usine doit se *moderniser* pour rester compétitive.
-  Die Fabrik muss sich *modernisieren*, um wettbewerbsfähig zu bleiben.
+  The plant must be modernized to remain competitive.
 
   Les bibliothèques se sont *modernisées* avec l'arrivée du numérique.
-  Die Bibliotheken haben sich mit der Einführung der Digitaltechnik *modernisiert*.
+  Libraries have been modernized with the advent of digital.
 
   Il faut *moderniser* l'orthographe de ce texte ancien.
-  Die Rechtschreibung dieses alten Textes muss *modernisiert* werden.
+  The spelling of this ancient text needs to be modernised.
 
   Le musée va *moderniser* ses installations l'année prochaine.
-  Das Museum wird nächstes Jahr seine Anlagen *modernisieren*.
+  The museum will modernize its facilities next year.
 
   Les parents ont décidé de *moderniser* la chambre de leur fille.
-  Die Eltern haben beschlossen, das Zimmer ihrer Tochter zu *modernisieren*.
+  The parents decided to modernize their daughter's bedroom.
 
   Notre pays doit se *moderniser* pour attirer les investisseurs.
-  Unser Land muss sich *modernisieren*, um Investoren anzuziehen.
+  Our country needs to modernize to attract investors.
 
   La banque a *modernisé* son système de paiement en ligne.
-  Die Bank hat ihr Online-Zahlungssystem *modernisiert*.
+  The bank has modernized its online payment system.
 
   Les restaurants se sont *modernisés* pour s'adapter aux nouvelles tendances.
-  Die Restaurants haben sich *modernisiert*, um sich an neue Trends anzupassen.
+  Restaurants have been modernized to adapt to the new trends.
 
   Le théâtre va *moderniser* son système d'éclairage.
-  Das Theater wird seine Beleuchtungsanlage *modernisieren*.
+  The theater will modernize its lighting system.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

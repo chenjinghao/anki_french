@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3747
 Wort: implication
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une implication
 Femininum / Plural: ''
 IPA: \ɛ̃.pli.ka.sjɔ̃\
-Definition: Auswirkung, Verwicklung
+Definition: Effect, involvement
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ceci peut avoir d'énormes *implications*.
-  Das kann enorme *Auswirkungen* haben.
+  This can have huge *implications*.
 
   L'*implication* de Marie dans cette affaire n'a jamais été prouvée.
-  Maries *Verwicklung* in diese Angelegenheit wurde nie bewiesen.
+  Marie's *involvement* in this case has never been proven.
 
   Les *implications* économiques de cette loi sont considérables.
-  Die wirtschaftlichen *Folgen* dieses Gesetzes sind beträchtlich.
+  The economic *implications* of this law are considerable.
 
   Si <i>p</i> est vrai, alors par *implication* logique, <i>q</i> doit être vrai aussi.
-  Wenn <i>p</i> wahr ist, dann muss durch logische *Implikation* auch <i>q</i> wahr sein.
+  If <i>p</i> is true, then by logical implication, <i>q</i> must also be true.
 
   Son *implication* dans le projet nous a beaucoup aidés.
-  Seine *Beteiligung* an dem Projekt hat uns sehr geholfen.
+  His *involvement* in the project helped us a lot.
 
   Les *implications* de cette découverte scientifique seront révolutionnaires.
-  Die *Auswirkungen* dieser wissenschaftlichen Entdeckung werden revolutionär sein.
+  The *implications* of this scientific discovery will be revolutionary.
 
   L'*implication* de Thomas dans ce vol reste à démontrer.
-  Thomas' *Verwicklung* in diesen Diebstahl muss noch nachgewiesen werden.
+  Thomas' *involvement* in this robbery remains to be demonstrated.
 
   Cette décision aura des *implications* à long terme.
-  Diese Entscheidung wird langfristige *Auswirkungen* haben.
+  This decision will have long-term *implications*.
 
   Par *implication*, tous les angles droits sont égaux.
-  Durch *Implikation* sind alle rechten Winkel gleich.
+  By implication, all right angles are equal.
 
   L'*implication* directe de ces changements climatiques est la montée des eaux.
-  Die direkte *Folge* dieser Klimaveränderungen ist der steigende Wasserspiegel.
+  The direct implication of these climate changes is rising water levels.
 
   Notre professeur nous a expliqué le principe d'*implication* en mathématiques.
-  Unser Lehrer hat uns das Prinzip der *Implikation* in Mathematik erklärt.
+  Our teacher explained to us the principle of *involvement* in mathematics.
 
   Les *implications* sociales de cette réforme inquiètent les citoyens.
-  Die sozialen *Auswirkungen* dieser Reform beunruhigen die Bürger.
+  Citizens are concerned about the social *implications* of this reform.
 
   L'*implication* des parents dans l'éducation est essentielle.
-  Die *Einbindung* der Eltern in die Erziehung ist essentiell.
+  Parental *involvement* in education is essential.
 
   Les *implications* de sa démission ont secoué toute l'entreprise.
-  Die *Folgen* seiner Kündigung haben das ganze Unternehmen erschüttert.
+  The *implications* of his resignation shook the entire company.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3991
 Wort: sombrer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: sombrer
 Femininum / Plural: ''
 IPA: \sɔ̃.bʁe\
-Definition: versinken, untergehen
+Definition: drowning
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *sombrai* dans le chaos.
-  Ich *versank* im Chaos.
+  I plunged into chaos.
 
   Le bateau a *sombré* au fond de la mer.
-  Das Boot ist auf den Meeresgrund *gesunken*.
+  The ship sank to the bottom of the sea.
 
   Après avoir perdu son travail, il a *sombré* dans l'alcool.
-  Nach dem Verlust seiner Arbeit ist er dem Alkohol *verfallen*.
+  After losing his job, he *drowned* in alcohol.
 
   Sa raison a *sombré* après cet accident tragique.
-  Nach diesem tragischen Unfall hat er den Verstand *verloren*.
+  His reason went down after that tragic accident.
 
   Le navire *sombra* corps et biens pendant la tempête.
-  Das Schiff ist während des Sturms mit Mann und Maus *untergegangen*.
+  The ship sank with all its possessions during the storm.
 
   Elle a *sombré* dans un profond sommeil.
-  Sie ist in einen tiefen Schlaf *versunken*.
+  She fell into a deep sleep.
 
   Le chalutier *sombra* en haute mer sans laisser de traces.
-  Der Fischkutter ist auf hoher See spurlos *versunken*.
+  The chariot plunged into the deep sea without leaving a trace.
 
   Cette ancienne civilisation a *sombré* dans l'oubli.
-  Diese alte Zivilisation ist in Vergessenheit *versunken*.
+  This ancient civilization has been forgotten.
 
   Petit à petit, l'entreprise *sombra* dans les dettes.
-  Nach und nach *versank* das Unternehmen in Schulden.
+  Gradually, the company went into debt.
 
   Il a vu *sombrer* tous ses espoirs.
-  Er hat alle seine Hoffnungen *schwinden* sehen.
+  He saw all his hopes sunk.
 
   L'économie du pays risque de *sombrer*.
-  Die Wirtschaft des Landes droht *unterzugehen*.
+  The country's economy is in danger of collapse.
 
   Sans aide, cette association va *sombrer*.
-  Ohne Hilfe wird dieser Verein *untergehen*.
+  Without help, this association will sink.
 
   Elle *sombra* dans une profonde tristesse.
-  Sie *versank* in tiefer Traurigkeit.
+  She fell into deep sadness.
 
   Le petit bateau de pêche *sombra* près de la côte.
-  Das kleine Fischerboot ist in Küstennähe *untergegangen*.
+  The little fishing boat sank off the coast.
 
   Après la mort de son mari, elle a *sombré* dans le désespoir.
-  Nach dem Tod ihres Mannes ist sie in Verzweiflung *versunken*.
+  After the death of her husband, she fell into despair.
 
   Je l'ai vu *sombrer* peu à peu dans la dépression.
-  Ich habe gesehen, wie er allmählich in eine Depression *abglitt*.
+  I've seen him gradually sink into depression.
 
   Cette œuvre d'art risque de *sombrer* dans l'oubli.
-  Dieses Kunstwerk droht in Vergessenheit zu *geraten*.
+  This artwork may be forgotten.
 
   Le grand paquebot *sombra* après avoir heurté un iceberg.
-  Der große Ozeandampfer ist nach der Kollision mit einem Eisberg *untergegangen*.
+  The big boat sank after hitting an iceberg.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

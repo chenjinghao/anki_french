@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3770
 Wort: apte
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: apte
 Femininum / Plural: ''
 IPA: \apt\
-Definition: geeignet, fähig
+Definition: suitable, capable of:
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La France est parfaitement *apte* à s'adapter.
-  Frankreich ist absolut *fähig*, sich anzupassen.
+  France is perfectly capable of adapting.
 
   L'employée s'est montrée *apte* à diriger une équipe.
-  Die Mitarbeiterin hat sich als *fähig* erwiesen, ein Team zu leiten.
+  The employee proved herself capable of leading a team.
 
   Après l'examen médical, il a été déclaré *apte* au service militaire.
-  Nach der ärztlichen Untersuchung wurde er als wehrdienst*tauglich* eingestuft.
+  After the medical examination, he was declared eligible for military service.
 
   Cet oiseau n'est pas encore *apte* à voler.
-  Dieser Vogel ist noch nicht flug*tüchtig*.
+  This bird isn't ready to fly yet.
 
   Le candidat est *apte* à exercer les fonctions de directeur.
-  Der Kandidat ist *geeignet*, die Aufgaben eines Direktors auszuüben.
+  The candidate is *qualified* to act as a director.
 
   Elle n'est pas *apte* à prendre des décisions importantes aujourd'hui.
-  Sie ist heute nicht *fähig*, wichtige Entscheidungen zu treffen.
+  She's not fit to make important decisions today.
 
   Le comité évaluera si vous êtes *apte* à ce poste.
-  Das Komitee wird bewerten, ob Sie für diese Position *geeignet* sind.
+  The committee will assess whether you are *qualified* for this position.
 
   Cette machine est *apte* au traitement des données sensibles.
-  Diese Maschine ist zur Verarbeitung sensibler Daten *geeignet*.
+  This machine is capable of processing sensitive data.
 
   Mon fils est très *apte* aux études scientifiques.
-  Mein Sohn ist für das naturwissenschaftliche Studium sehr *begabt*.
+  My son is very good at science.
 
   Le jury l'a jugé *apte* à participer au concours.
-  Die Jury hat ihn als *geeignet* eingestuft, am Wettbewerb teilzunehmen.
+  The jury found him fit to compete.
 
   Après sa formation, elle sera *apte* à utiliser tous les logiciels.
-  Nach ihrer Ausbildung wird sie *fähig* sein, alle Programme zu benutzen.
+  After graduation, she will be able to use all the software.
 
   Je ne me sens pas *apte* à grimper cette montagne.
-  Ich fühle mich nicht *fähig*, diesen Berg zu besteigen.
+  I don't feel like climbing this mountain.
 
   Les experts l'ont déclaré *apte* à reprendre le travail.
-  Die Experten haben ihn als arbeits*fähig* eingestuft.
+  The experts have declared him fit to resume work.
 
   Cette salle est *apte* à accueillir cent personnes.
-  Dieser Saal ist *geeignet*, hundert Personen aufzunehmen.
+  This room can accommodate a hundred people.
 
   Le nouveau stagiaire s'est révélé *apte* au travail en équipe.
-  Der neue Praktikant hat sich als team*fähig* erwiesen.
+  The new trainee proved to be good at teamwork.
 
   Marie n'est pas encore *apte* à conduire toute seule.
-  Marie ist noch nicht *fähig*, alleine zu fahren.
+  Marie is not yet fit to drive alone.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

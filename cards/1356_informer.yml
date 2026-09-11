@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1356
 Wort: informer
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: informer
 Femininum / Plural: ''
 IPA: \ɛ̃.fɔʁ.me\
-Definition: informieren
+Definition: to inform
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je t'*informerai* dès qu'ils l'auront repéré.
-  Ich *informiere* dich, sobald sie ihn entdeckt haben.
+  I'll let you know as soon as they spot him.
 
   Les journalistes doivent *informer* le public de manière objective.
-  Die Journalisten müssen die Öffentlichkeit objektiv *informieren*.
+  Journalists must inform the public objectively.
 
   Paul s'est *informé* du prix des billets avant de réserver.
-  Paul hat sich vor der Buchung über den Preis der Tickets *erkundigt*.
+  Paul asked about the price of the tickets before booking.
 
   Le directeur m'a *informé* de ma promotion hier soir.
-  Der Direktor hat mich gestern Abend über meine Beförderung in Kenntnis *gesetzt*.
+  The principal *informed* me about my promotion last night.
 
   "Je ne suis pas bien *informé* sur ce sujet."
-  "Ich bin über dieses Thema nicht gut *informiert*."
+  "I'm not well *informed* about this".
 
   Marie *s'informe* toujours de la santé de ses grands-parents.
-  Marie *erkundigt* sich immer nach der Gesundheit ihrer Großeltern.
+  Marie always keeps up to date on the health of her grandparents.
 
   Les consommateurs devraient être mieux *informés* des risques.
-  Die Verbraucher sollten über die Risiken besser *informiert* sein.
+  Consumers should be better informed about the risks.
 
   Le juge *informe* sur cette affaire depuis trois mois.
-  Der Richter *ermittelt* seit drei Monaten in dieser Sache.
+  The judge has been reporting on this case for three months.
 
   Nous vous tiendrons *informé* de l'évolution de la situation.
-  Wir halten Sie über die Entwicklung der Lage auf dem *Laufenden*.
+  We will keep you *informed* of the developments in the situation.
 
   De source bien *informée*, le ministre démissionnera demain.
-  Aus gut *unterrichteten* Kreisen heißt es, der Minister werde morgen zurücktreten.
+  From a well-*informed* source, the minister will resign tomorrow.
 
   Les milieux bien *informés* parlent d'une fusion prochaine.
-  Gut *informierte* Kreise sprechen von einer baldigen Fusion.
+  Well-informed people are talking about an upcoming merger.
 
   Je m'*informerai* auprès du notaire avant de signer.
-  Ich werde mich vor der Unterschrift beim Notar *erkundigen*.
+  I'll check with the notary before I sign.
 
   Il faut *s'informer* avant d'agir.
-  Man muss sich vor dem Handeln *informieren*.
+  You've got to find out before you act.
 
   La secrétaire *informe* les employés des changements.
-  Die Sekretärin *informiert* die Mitarbeiter über die Änderungen.
+  The secretary informs the employees of the changes.
 
   Le professeur *s'informe* si tous les élèves ont compris.
-  Der Lehrer *fragt* *nach*, ob alle Schüler verstanden haben.
+  The teacher asks if all the students have understood.
 
   Les médias nous *informent* en temps réel.
-  Die Medien *informieren* uns in Echtzeit.
+  The media informs us in real time.
 
   La police *informe* contre un suspect.
-  Die Polizei *ermittelt* gegen einen Verdächtigen.
+  The police are reporting a suspect.
 
   Elle m'a *informé* qu'elle ne viendrait pas.
-  Sie hat mir *mitgeteilt*, dass sie nicht kommen wird.
+  She told me she wouldn't come.
 
   *Informez-vous* régulièrement des horaires de train.
-  *Informieren* Sie sich regelmäßig über die Zugfahrpläne.
+  Check your train schedules regularly.
 
   Le guide nous a bien *informés* sur la région.
-  Der Führer hat uns gut über die Region *informiert*.
+  The guide gave us good information about the area.
 
   Je voudrais m'*informer* de l'état d'avancement du projet.
-  Ich möchte mich über den Fortschritt des Projekts *informieren*.
+  I would like to know the progress of the project.
 
   Nous sommes mal *informés* sur ce dossier.
-  Wir sind über diese Akte schlecht *informiert*.
+  We're misinformed about this case.
 
   Il faut *informer* la direction de ces problèmes.
-  Man muss die Leitung über diese Probleme in Kenntnis *setzen*.
+  We need to inform the management of these problems.
 
   Elle s'est *informée* auprès des voisins.
-  Sie hat sich bei den Nachbarn *erkundigt*.
+  She checked with the neighbors.
 
   Le médecin *informe* ses patients des risques possibles.
-  Der Arzt *klärt* seine Patienten über mögliche Risiken *auf*.
+  The doctor informs his patients of the possible risks.
 
   La réceptionniste *informe* les clients des services disponibles.
-  Die Rezeptionistin *informiert* die Gäste über die verfügbaren Dienstleistungen.
+  The receptionist informs the customers of the services available.
 
   L'entreprise doit *informer* ses employés des changements.
-  Das Unternehmen muss seine Mitarbeiter über die Änderungen *informieren*.
+  The company must inform its employees of the changes.
 
   Les autorités ont *informé* la population du danger.
-  Die Behörden haben die Bevölkerung über die Gefahr in Kenntnis *gesetzt*.
+  The authorities have *informed* the population of the danger.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

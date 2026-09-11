@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3121
 Wort: lac
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le lac
 Femininum / Plural: ''
 IPA: \lak\
-Definition: See
+Definition: Sea
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je vais vous faire courir autour du *lac*.
-  Ich werde euch um den *See* herum laufen lassen.
+  I'll run you around the *lake*.
 
   Le *lac* de Constance est situé entre l'Allemagne, l'Autriche et la Suisse.
-  Der Boden*see* liegt zwischen Deutschland, Österreich und der Schweiz.
+  *Lake* Constance is located between Germany, Austria and Switzerland.
 
   Les eaux du *lac* Léman sont particulièrement claires aujourd'hui.
-  Die Gewässer des Genfer *Sees* sind heute besonders klar.
+  The waters of *Lake* Leman are particularly clear today.
 
   Nous avons passé nos vacances au bord du *lac* de Neuchâtel.
-  Wir haben unseren Urlaub am Neuenburger *See* verbracht.
+  We spent our holidays on the shores of *Lake* Neuchâtel.
 
   Le *lac* des Quatre-Cantons est entouré de montagnes majestueuses.
-  Der Vierwaldstätter *See* ist von majestätischen Bergen umgeben.
+  The *Lake* of the Four Cantons is surrounded by majestic mountains.
 
   Ce petit *lac* de montagne est accessible uniquement à pied.
-  Dieser kleine Gebirgs*see* ist nur zu Fuß erreichbar.
+  This small mountain *lake* is only accessible on foot.
 
   "Il n'y a pas le feu au *lac*, prenons notre temps !"
-  "*Es eilt nicht*, lass uns Zeit lassen!"
+  "There's no fire in the *lake*, let's take our time!"
 
   Un magnifique *lac* artificiel a été créé pour produire de l'électricité.
-  Ein wunderschöner künstlicher *See* wurde zur Stromerzeugung angelegt.
+  A beautiful artificial *lake* has been created to generate electricity.
 
   Les poissons nagent tranquillement dans le *lac* aux eaux limpides.
-  Die Fische schwimmen ruhig im kristallklaren *See*.
+  The fish swim quietly in the clear waters of the *lake*.
 
   Le niveau du *lac* a considérablement baissé pendant la sécheresse.
-  Der Wasserstand des *Sees* ist während der Trockenheit erheblich gesunken.
+  The *lake* level dropped dramatically during the drought.
 
   Un petit bateau navigue au milieu du *lac*.
-  Ein kleines Boot fährt mitten auf dem *See*.
+  A little boat sailing in the middle of the *lake*.
 
   Les enfants ont fait le tour du *lac* à vélo.
-  Die Kinder sind mit dem Fahrrad um den *See* gefahren.
+  The children cycled around the *lake*.
 
   De nombreux oiseaux migrateurs se posent sur ce *lac* en automne.
-  Viele Zugvögel lassen sich im Herbst auf diesem *See* nieder.
+  Many migratory birds nest on this *lake* in the fall.
 
   Le *lac* glaciaire s'est formé il y a des milliers d'années.
-  Der Gletscher*see* hat sich vor tausenden von Jahren gebildet.
+  The glacial *lake* formed thousands of years ago.
 
   Le barrage a créé un nouveau *lac* de retenue dans la vallée.
-  Der Staudamm hat einen neuen Stau*see* im Tal geschaffen.
+  The dam has created a new containment *lake* in the valley.
 
   "Leur projet est *tombé dans le lac*."
-  "Ihr Projekt ist *ins Wasser gefallen*."
+  "Their plan *fell into the lake*".
 
   Un *lac* de boue s'est formé après les fortes pluies.
-  Nach dem starken Regen hat sich ein Schlamm*see* gebildet.
+  A mud *lake* formed after heavy rains.
 
   Les touristes admirent la vue sur le *lac* Majeur depuis la terrasse.
-  Die Touristen bewundern die Aussicht auf den *Lago* Maggiore von der Terrasse aus.
+  Tourists admire the view of *Lake* Major from the terrace.
 
   Le *lac* Supérieur est le plus grand des Grands Lacs d'Amérique du Nord.
-  Der Obere *See* ist der größte der nordamerikanischen Großen Seen.
+  *Lake* Superior is the largest of the Great Lakes of North America.
 
   Les autorités ont décidé d'assécher ce *lac* pour des raisons écologiques.
-  Die Behörden haben beschlossen, diesen *See* aus ökologischen Gründen trockenzulegen.
+  The authorities have decided to dry the *lake* for ecological reasons.
 
   La légende raconte qu'un monstre vit dans ce *lac* profond.
-  Der Legende nach lebt ein Monster in diesem tiefen *See*.
+  Legend has it that a monster lives in this deep *lake*.
 
   Les amoureux se promènent au bord du *lac* au clair de lune.
-  Die Verliebten spazieren im Mondschein am *See* entlang.
+  The lovers are walking by the *lake* in the moonlight.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

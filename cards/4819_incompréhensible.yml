@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4819
 Wort: incompréhensible
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: incompréhensible
 Femininum / Plural: ''
 IPA: \ɛ̃.kɔ̃.pʁe.ɑ̃.sibl\
-Definition: unverständlich
+Definition: I can 't understand it
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je trouve cela *incompréhensible* et ignoble.
-  Ich finde das *unbegreiflich* und abscheulich.
+  I find this incomprehensible and disgraceful.
 
   Son comportement était totalement *incompréhensible* pour ses amis.
-  Sein Verhalten war für seine Freunde völlig *unverständlich*.
+  His behavior was completely incomprehensible to his friends.
 
   L'écriture sur ce vieux document est presque *incompréhensible*.
-  Die Schrift auf diesem alten Dokument ist fast *unlesbar*.
+  The writing on this old document is almost incomprehensible.
 
   Cette théorie mathématique reste *incompréhensible* pour la plupart des gens.
-  Diese mathematische Theorie bleibt für die meisten Menschen *unverständlich*.
+  This mathematical theory remains incomprehensible to most people.
 
   Le mystère de sa disparition demeure *incompréhensible*.
-  Das Geheimnis seines Verschwindens bleibt *rätselhaft*.
+  The mystery of his disappearance remains incomprehensible.
 
   Les explications du professeur sont devenues de plus en plus *incompréhensibles*.
-  Die Erklärungen des Professors wurden immer *unverständlicher*.
+  The teacher's explanations became increasingly incomprehensible.
 
   Marie est une personne vraiment *incompréhensible*.
-  Marie ist eine wirklich *undurchschaubare* Person.
+  Marie is a truly incomprehensible person.
 
   Le texte était rempli de symboles *incompréhensibles*.
-  Der Text war voller *unverständlicher* Symbole.
+  The text was filled with incomprehensible symbols.
 
   Les raisons de sa décision restent *incompréhensibles*.
-  Die Gründe für seine Entscheidung bleiben *unbegreiflich*.
+  The reasons for his decision remain incomprehensible.
 
   Il marmonne quelque chose d'*incompréhensible* dans sa barbe.
-  Er murmelt etwas *Unverständliches* in seinen Bart.
+  He's whispering something incomprehensible in his beard.
 
   Cette réaction violente était complètement *incompréhensible*.
-  Diese heftige Reaktion war völlig *unerklärlich*.
+  This violent reaction was completely incomprehensible.
 
   L'univers contient tant de mystères *incompréhensibles*.
-  Das Universum enthält so viele *unbegreifliche* Geheimnisse.
+  The universe contains so many mysteries that we can't understand.
 
   Les motifs de son départ soudain sont *incompréhensibles*.
-  Die Gründe für seinen plötzlichen Aufbruch sind *rätselhaft*.
+  The reasons for his sudden departure are incomprehensible.
 
   Le message était devenu *incompréhensible* à cause du bruit.
-  Die Nachricht war wegen des Lärms *unverständlich* geworden.
+  The message had become incomprehensible because of the noise.
 
   Son caractère reste *incompréhensible* même pour sa famille.
-  Sein Charakter bleibt selbst für seine Familie *undurchschaubar*.
+  His character is still incomprehensible even to his family.
 
   Cette erreur rend la phrase totalement *incompréhensible*.
-  Dieser Fehler macht den Satz völlig *unverständlich*.
+  This error makes the sentence completely incomprehensible.
 
   Les instructions du manuel sont *incompréhensibles*.
-  Die Anweisungen im Handbuch sind *unverständlich*.
+  The instructions in the manual are incomprehensible.
 
   Il est *incompréhensible* que personne n'ait rien remarqué.
-  Es ist *unbegreiflich*, dass niemand etwas bemerkt hat.
+  It's incomprehensible that no one noticed anything.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,107 +1,107 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3781
 Wort: assassin
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un assassin
 Femininum / Plural: assassine
 IPA: \a.sa.sɛ̃\
-Definition: Mörder, Attentäter
+Definition: Murderers and assassins
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'*assassin* cache peut-être ses victimes.
-  Der *Mörder* versteckt vielleicht seine Opfer.
+  The killer may be hiding his victims.
 
   Les policiers ont arrêté l'*assassin* en flagrant délit.
-  Die Polizei hat den *Mörder* auf frischer Tat ertappt.
+  The police arrested the killer for blatant misconduct.
 
   Cette femme est devenue une *assassine* professionnelle.
-  Diese Frau ist eine professionelle *Mörderin* geworden.
+  This woman became a professional assassin.
 
   Sophie lui a lancé un regard *assassin*.
-  Sophie warf ihm einen *vernichtenden* Blick zu.
+  Sophie gave him a murderous look.
 
   Sa main *assassine* a frappé dans l'obscurité.
-  Seine *mörderische* Hand schlug in der Dunkelheit zu.
+  His murderous hand struck in the dark.
 
   Un *assassin* à gages a été engagé pour éliminer le témoin.
-  Ein bezahlter *Mörder* wurde angeheuert, um den Zeugen zu beseitigen.
+  A hit man has been hired to eliminate the witness.
 
   Elle m'a jeté une œillade *assassine* qui m'a fait fondre.
-  Sie warf mir einen *unwiderstehlichen* Blick zu, der mich dahinschmelzen ließ.
+  She gave me a murderous glance that melted me.
 
   La foule en colère criait : "*Assassins* !"
-  Die wütende Menge schrie: "*Mörder*!"
+  The angry crowd shouted: "*Murderers*!"
 
   Cette critique *assassine* a détruit sa carrière.
-  Diese *vernichtende* Kritik hat seine Karriere zerstört.
+  That murderous criticism ruined his career.
 
   L'*assassin* présumé a gardé le silence pendant tout l'interrogatoire.
-  Der mutmaßliche *Mörder* schwieg während des gesamten Verhörs.
+  The suspected *murderer* remained silent throughout the interrogation.
 
   Les sous-entendus *assassins* de Pierre ont blessé tout le monde.
-  Pierres *vernichtende* Anspielungen haben alle verletzt.
+  Pierre's implied killers wounded everyone.
 
   Marie est une *assassine* de talent avec ses regards séducteurs.
-  Marie ist mit ihren verführerischen Blicken eine *unwiderstehliche* Verführerin.
+  Marie is a talented killer with her seductive eyes.
 
   Un *assassin* en série terrorise la ville depuis des mois.
-  Ein Serien*mörder* terrorisiert seit Monaten die Stadt.
+  A serial killer has been terrorizing the city for months.
 
   Cette politique *assassine* détruit notre économie.
-  Diese *vernichtende* Politik zerstört unsere Wirtschaft.
+  This murderous policy is destroying our economy.
 
   Les journaux ont publié le portrait de l'*assassin*.
-  Die Zeitungen haben das Bild des *Mörders* veröffentlicht.
+  The newspapers published the *murderer*'s portrait.
 
   Ses paroles *assassines* m'ont profondément blessé.
-  Seine *vernichtenden* Worte haben mich zutiefst verletzt.
+  His murderous words hurt me deeply.
 
   L'*assassin* a été capturé l'arme à la main.
-  Der *Mörder* wurde mit der Waffe in der Hand gefasst.
+  The killer was captured with the gun in his hand.
 
   Julie lançait des œillades *assassines* à tous les hommes de la soirée.
-  Julie warf allen Männern auf der Party *unwiderstehliche* Blicke zu.
+  Julie had murderous eyes on every man at the party.
 
   La police recherche une *assassine* aux cheveux roux.
-  Die Polizei sucht nach einer rothaarigen *Mörderin*.
+  The police are looking for a red-haired *murderer*.
 
   Cette audace *assassine* lui a coûté la vie.
-  Diese *mörderische* Kühnheit kostete ihn das Leben
+  This daring *murderer* cost him his life.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>meurtrier</i>, <i>tueur</i> und <i>assassin</i></div>
+    <div class="section-title"><i>meurtrier</i>, <i>tueur</i> and <i>assassin</i></div>
     <div class="section-content">
-      <p><span class="fr">Meurtrier</span> (#2681) bedeutet <span class="de">"Mörder"</span> im allgemeinen Sinne und bezieht sich auf eine Person, die einen Mord begangen hat, ohne notwendigerweise Vorsatz oder Planung zu implizieren.</p>
+      <p><span class="fr">Meurtrier</span> #2681) means <span class="de">"Murderers"</span> in a general sense and refers to a person who has committed a murder without necessarily implying intent or planning.</p>
       <div class="examples">
         <div class="fr">Le meurtrier a été arrêté par la police.</div>
-        <div class="de spoiler">Der Mörder wurde von der Polizei verhaftet.</div>
+        <div class="de spoiler">The killer was arrested by the police.</div>
         <div class="fr">Après l'accident, le conducteur était considéré comme meurtrier.</div>
-        <div class="de spoiler">Nach dem Unfall wurde der Fahrer als Totschläger betrachtet.</div>
+        <div class="de spoiler">After the accident, the driver was considered a hit-and-run driver.</div>
       </div>
-      <p><span class="fr">Tueur</span> (#3581) bedeutet <span class="de">"Killer"</span> oder <span class="de">"Töter"</span> und wird oft mit Fähigkeit oder Beruf in Verbindung gebracht, wie bei einem Auftragsmörder. Es trägt nicht unbedingt die rechtlichen Schuldzuweisungen wie <span class="fr">meurtrier</span>.</p>
+      <p><span class="fr">Tueur</span> (#3581) means <span class="de">"Killer" by the way.</span> or <span class="de">"Killers"</span> and is often associated with skill or profession, as in the case of a contract killer. It does not necessarily carry the legal guilt attributes such as <span class="fr">meurtrier</span>.</p>
       <div class="examples">
         <div class="fr">Un tueur à gages a été embauché pour commettre le crime.</div>
-        <div class="de spoiler">Ein Auftragskiller wurde angeheuert, um das Verbrechen zu begehen.</div>
+        <div class="de spoiler">A hit man was hired to commit the crime.</div>
         <div class="fr">Le tueur était connu pour sa cruauté.</div>
-        <div class="de spoiler">Der Killer war für seine Grausamkeit bekannt.</div>
+        <div class="de spoiler">The killer was known for his cruelty.</div>
       </div>
-      <p><span class="fr">Assassin</span> bedeutet <span class="de">"Attentäter"</span> oder <span class="de">"Meuchelmörder"</span> und deutet auf einen Mörder mit Vorsatz hin. Der Begriff trägt düstere Konnotationen und wird für vorsätzliche Tötungsakte verwendet, oft politisch oder persönlich motiviert.</p>
+      <p><span class="fr">Assassin</span> means <span class="de">"Assassin"</span> or <span class="de">"Make-up killers"</span> The term has somber connotations and is used for intentional killings, often politically or personally motivated.</p>
       <div class="examples">
         <div class="fr">L'assassin du président n'a jamais été identifié.</div>
-        <div class="de spoiler">Der Attentäter des Präsidenten wurde nie identifiziert.</div>
+        <div class="de spoiler">The president's assassin has never been identified.</div>
         <div class="fr">Elle est jugée pour être l'assassin de son mari.</div>
-        <div class="de spoiler">Sie steht vor Gericht, weil sie die Mörderin ihres Mannes sein soll.</div>
+        <div class="de spoiler">She's on trial because she's supposed to be her husband's killer.</div>
       </div>
     </div>
   </div>

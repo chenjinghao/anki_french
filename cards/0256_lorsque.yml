@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 256
 Wort: lorsque
 Wortart: conj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: lorsque
 Femininum / Plural: ''
 IPA: \lɔʁ.kə\
-Definition: wenn, als
+Definition: If, as
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Que se passe-t-il *lorsque* nous manquons de sucre ?
-  Was passiert, *wenn* uns der Zucker ausgeht?
+  What happens *when* we run out of sugar?
 
   *Lorsque* vous serez arrivé à la maison, appelez-moi.
-  *Wenn* Sie zu Hause angekommen sind, rufen Sie mich an.
+  *When* you get home, call me.
 
   *Lorsqu'*elle était petite, elle adorait jouer au piano.
-  *Als* sie klein war, liebte sie es, Klavier zu spielen.
+  *When* she was little, she loved to play the piano.
 
   Il continue à travailler *lorsque* tout le monde est déjà parti.
-  Er arbeitet weiter, *während* alle anderen schon gegangen sind.
+  He keeps working *when* everyone's already gone.
 
   *Lorsque* le printemps arrivera, les oiseaux reviendront.
-  *Wenn* der Frühling kommt, werden die Vögel zurückkehren.
+  *When* spring comes, the birds will come back.
 
   *Lorsqu'*il pleut, je préfère rester à la maison.
-  *Wenn* es regnet, bleibe ich lieber zu Hause.
+  *When* it rains, I prefer to stay home.
 
   Je l'ai rencontré *lorsque* j'étais étudiant à Paris.
-  Ich habe ihn kennengelernt, *als* ich Student in Paris war.
+  I met him *when* I was a student in Paris.
 
   *Lorsqu'une fois* vous aurez goûté ce gâteau, vous en voudrez encore.
-  *Sobald* Sie diesen Kuchen einmal probiert haben, werden Sie mehr davon wollen.
+  Once you've tasted this cake, you'll still want it.
 
   Elle dort toujours *lorsque* j'arrive au bureau.
-  Sie schläft immer noch, *wenn* ich im Büro ankomme.
+  She always sleeps *when* I get to the office.
 
   *Lorsque* tu auras fini tes devoirs, nous irons au parc.
-  *Wenn* du deine Hausaufgaben fertig hast, gehen wir in den Park.
+  *When* you finish your homework, we'll go to the park.
 
   Il parle de vacances *lorsqu'*il devrait se concentrer sur son travail.
-  Er redet von Urlaub, *während* er sich auf seine Arbeit konzentrieren sollte.
+  He talks about vacations *when* he should be focused on his work.
 
   *Lorsque* le soleil se couche, les températures baissent rapidement.
-  *Wenn* die Sonne untergeht, sinken die Temperaturen schnell.
+  *When* the sun sets, the temperature drops rapidly.
 
   *Lorsqu'*ils ont sonné à la porte, nous venions de nous lever.
-  *Als* sie an der Tür klingelten, waren wir gerade aufgestanden.
+  *When* they knocked on the door, we had just gotten up.
 
   Marie sourit *lorsqu'*elle entend cette chanson.
-  Marie lächelt, *wenn* sie dieses Lied hört.
+  Marie smiles *when* she hears this song.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

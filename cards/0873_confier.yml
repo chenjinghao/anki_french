@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 873
 Wort: confier
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: confier
 Femininum / Plural: ''
 IPA: \kɔ̃.fje\
-Definition: anvertrauen
+Definition: Confidence
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je te *confie* ce garçon. Rends-moi un homme.
-  Ich *vertraue* dir diesen Jungen *an*. Mach einen Mann aus ihm.
+  I trust you with this boy, give me a man.
 
   Elle a *confié* ses craintes à son journal intime.
-  Sie hat ihre Ängste ihrem Tagebuch *anvertraut*.
+  She confided her fears in her private diary.
 
   Le directeur m'a *confié* une mission importante.
-  Der Direktor hat mich mit einer wichtigen Aufgabe *betraut*.
+  The director gave me an important assignment.
 
   Je dois *confier* les clés à la voisine pendant mes vacances.
-  Ich muss der Nachbarin während meines Urlaubs die Schlüssel *anvertrauen*.
+  I have to hand the keys over to the neighbor during my vacation.
 
   Pierre s'est *confié* à moi hier soir.
-  Pierre hat sich mir gestern Abend *anvertraut*.
+  Pierre confessed to me last night.
 
   Nous lui avons *confié* la responsabilité du projet.
-  Wir haben ihm die Verantwortung für das Projekt *übertragen*.
+  We *entrusted* him with responsibility for the project.
 
   Les parents *confient* leurs enfants à la garderie tous les matins.
-  Die Eltern *vertrauen* ihre Kinder jeden Morgen der Kindertagesstätte *an*.
+  Parents put their children in day care every morning.
 
   Je me suis *confié* à ma sœur sur mes problèmes.
-  Ich habe mich meiner Schwester mit meinen Problemen *anvertraut*.
+  I told my sister about my problems.
 
   Il m'a *confié* qu'il allait déménager.
-  Er hat mir *mitgeteilt*, dass er umziehen wird.
+  He told me he was moving out.
 
   La banque nous a *confié* la gestion de ses documents.
-  Die Bank hat uns die Verwaltung ihrer Dokumente *anvertraut*.
+  The bank has *entrusted* us with the management of its documents.
 
   Marie *confie* toujours ses secrets à sa meilleure amie.
-  Marie *vertraut* ihrer besten Freundin immer ihre Geheimnisse *an*.
+  Marie always confides her secrets to her best friend.
 
   Le patient s'est *confié* au médecin sur ses symptômes.
-  Der Patient hat sich dem Arzt bezüglich seiner Symptome *anvertraut*.
+  The patient told the doctor about his symptoms.
 
   Je vous *confie* ma santé, docteur.
-  Ich *vertraue* Ihnen meine Gesundheit *an*, Doktor.
+  I entrust my health to you, Doctor.
 
   Elle a *confié* la garde du chat à ses voisins.
-  Sie hat die Betreuung der Katze ihren Nachbarn *anvertraut*.
+  She's *entrusted* the cat to her neighbors.
 
   Il m'a *confié* ses espoirs pour l'avenir.
-  Er hat mir seine Hoffnungen für die Zukunft *anvertraut*.
+  He told me about his hopes for the future.
 
   Nous devons *confier* ces documents à l'avocat.
-  Wir müssen diese Dokumente dem Anwalt *anvertrauen*.
+  We need to turn these documents over to the lawyer.
 
   Les élèves se sont *confiés* à leur professeur.
-  Die Schüler haben sich ihrem Lehrer *anvertraut*.
+  The students confided to their teacher.
 
   Je lui ai *confié* mon plus grand secret.
-  Ich habe ihr mein größtes Geheimnis *anvertraut*.
+  I've *entrusted* him with my greatest secret.
 
   Elle *confie* ses pensées à son journal chaque soir.
-  Sie *vertraut* ihre Gedanken jeden Abend ihrem Tagebuch *an*.
+  She confides her thoughts to her diary every night.
 
   Le chef m'a *confié* la préparation du repas.
-  Der Chef hat mir die Zubereitung des Essens *übertragen*.
+  The chef gave me the job of preparing the meal.
 
   Je n'ai personne à qui me *confier*.
-  Ich habe niemanden, dem ich mich *anvertrauen* kann.
+  I don't have anyone *to confide* in.
 
   Thomas a *confié* ses inquiétudes à son ami.
-  Thomas hat seinem Freund seine Sorgen *mitgeteilt*.
+  Thomas confided his concerns to his friend.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

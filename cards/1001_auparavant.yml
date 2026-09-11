@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1001
 Wort: auparavant
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: auparavant
 Femininum / Plural: ''
 IPA: \o.pa.ʁa.vɑ̃\
-Definition: zuvor, vorher
+Definition: before
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai jamais vu cela *auparavant*.
-  Ich habe das noch nie *zuvor* gesehen.
+  I've never seen that before.
 
   Une semaine *auparavant*, elle m'avait annoncé son départ.
-  Eine Woche *zuvor* hatte sie mir ihre Abreise angekündigt.
+  A week ago, she told me she was leaving.
 
   Si vous voulez une réponse, envoyez-moi *auparavant* votre demande par écrit.
-  Wenn Sie eine Antwort möchten, schicken Sie mir *vorher* Ihre Anfrage schriftlich.
+  If you want an answer, send me your request in writing first.
 
   Je te raconterai tout, mais assieds-toi *auparavant*.
-  Ich werde dir alles erzählen, aber setz dich *vorher* hin.
+  I'll tell you everything, but sit down first.
 
   La ville était bien différente dix ans *auparavant*.
-  Die Stadt war zehn Jahre *zuvor* ganz anders.
+  The city was very different ten years ago.
 
   Il faut réserver *auparavant* pour avoir une table dans ce restaurant.
-  Man muss *vorher* reservieren, um in diesem Restaurant einen Tisch zu bekommen.
+  You have to book in advance to have a table in this restaurant.
 
   Comme *auparavant*, nous irons à la plage dimanche.
-  Wie *zuvor* werden wir am Sonntag an den Strand gehen.
+  As usual, we'll go to the beach on Sunday.
 
   Trois heures *auparavant*, nous étions encore au bureau.
-  Drei Stunden *vorher* waren wir noch im Büro.
+  Three hours ago, we were still in the office.
 
   Les billets coûtent plus cher qu'*auparavant*.
-  Die Tickets kosten mehr als *zuvor*.
+  Tickets are more expensive than they used to be.
 
   Il faut nettoyer la surface *auparavant*.
-  Man muss die Oberfläche *vorher* reinigen.
+  You have to clean the surface first.
 
   J'aurais dû y penser *auparavant*.
-  Ich hätte *vorher* daran denken sollen.
+  I should have thought of that earlier.
 
   Elle est arrivée deux minutes *auparavant*.
-  Sie ist zwei Minuten *zuvor* angekommen.
+  She arrived two minutes early.
 
   Longtemps *auparavant*, il m'avait prévenu de ce risque.
-  Lange *zuvor* hatte er mich vor diesem Risiko gewarnt.
+  A long time ago, he had warned me of this danger.
 
   Comme *auparavant*, nous prendrons le petit-déjeuner ensemble.
-  Wie *zuvor* werden wir zusammen frühstücken.
+  As usual, we'll have breakfast together.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

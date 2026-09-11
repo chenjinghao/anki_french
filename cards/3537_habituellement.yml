@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3537
 Wort: habituellement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: habituellement
 Femininum / Plural: ''
 IPA: \a.bi.tɥɛl.mɑ̃\
-Definition: normalerweise, in der Regel
+Definition: Usually
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les groupes sont *habituellement* composés de huit élèves.
-  Die Gruppen bestehen *normalerweise* aus acht Schülern.
+  Groups are *usually* made up of eight pupils.
 
   Le Conseil des ministres se réunit *habituellement* le mercredi.
-  Der Ministerrat tritt *gewöhnlich* mittwochs zusammen.
+  The Council of Ministers *usually* meets on Wednesdays.
 
   Ce quartier *habituellement* calme était en effervescence ce soir-là.
-  Das *normalerweise* ruhige Viertel war an diesem Abend in Aufruhr.
+  This *usually* quiet neighborhood was bustling that night.
 
   Dans cette région, il fait *habituellement* très beau en septembre.
-  In dieser Region ist es im September *gewöhnlich* sehr schön.
+  In this area, the weather is *usually* very nice in September.
 
   Ce verbe s'emploie *habituellement* à la forme pronominale.
-  Dieses Verb wird *für gewöhnlich* in der reflexiven Form verwendet.
+  This verb is *usually* used in the pronoun form.
 
   Marie arrive *habituellement* en avance au bureau.
-  Marie kommt *normalerweise* früh ins Büro.
+  Marie *usually* gets to the office early.
 
   *Habituellement*, je prends mon café sans sucre.
-  *Gewöhnlich* trinke ich meinen Kaffee ohne Zucker.
+  I *usually* have my coffee without sugar.
 
   Comment réagissez-vous *habituellement* dans ce genre de situation ?
-  Wie reagieren Sie *normalerweise* in solchen Situationen?
+  How do you *usually* react in a situation like this?
 
   Les magasins ferment *habituellement* à 20 heures.
-  Die Geschäfte schließen *in der Regel* um 20 Uhr.
+  Shops *usually* close at 8:00 p.m.
 
   Je ne suis pas *habituellement* aussi distrait.
-  Ich bin *normalerweise* nicht so zerstreut.
+  I'm not *usually* that distracted.
 
   La cérémonie se déroule *habituellement* dans la grande salle.
-  Die Zeremonie findet *gewohnheitsgemäß* im großen Saal statt.
+  The ceremony *usually* takes place in the large hall.
 
   *Habituellement*, les enfants font la sieste l'après-midi.
-  *Üblicherweise* machen die Kinder nachmittags einen Mittagsschlaf.
+  Children *usually* take a nap in the afternoon.
 
   Il ne neige pas *habituellement* dans cette ville.
-  In dieser Stadt schneit es *normalerweise* nicht.
+  It doesn't *usually* snow in this town.
 
   Les restaurants sont *habituellement* plus calmes le lundi soir.
-  Die Restaurants sind am Montagabend *gewöhnlich* ruhiger.
+  Restaurants are *usually* quieter on Monday nights.
 
   *Habituellement*, nous passons nos vacances à la mer.
-  *Normalerweise* verbringen wir unseren Urlaub am Meer.
+  We *usually* spend our holidays at sea.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

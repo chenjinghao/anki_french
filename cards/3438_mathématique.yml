@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3438
 Wort: mathématique
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: les mathématiques
 Femininum / Plural: ''
 IPA: \ma.te.ma.tik\
-Definition: Mathematik
+Definition: Mathematics and other subjects
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les *mathématiques* vous aident à vous connaître.
-  Die *Mathematik* hilft dir, dich selbst kennenzulernen.
+  *Mathematics* helps you get to know yourself.
 
   La *mathématique* moderne a révolutionné notre façon de penser.
-  Die moderne *Mathematik* hat unsere Denkweise revolutioniert.
+  Modern *mathematics* has revolutionized our way of thinking.
 
   Mon frère est professeur de *mathématiques* au lycée.
-  Mein Bruder ist *Mathematik*lehrer am Gymnasium.
+  My brother is a high school math teacher.
 
   Elle résout les problèmes de *mathématiques* avec une facilité déconcertante.
-  Sie löst *Mathematik*aufgaben mit verblüffender Leichtigkeit.
+  It solves mathematical problems with a puzzling ease.
 
   La classe de *mathématiques* supérieures demande beaucoup de travail.
-  Die höhere *Mathematik*klasse erfordert viel Arbeit.
+  Higher math class takes a lot of work.
 
   L'intelligence artificielle utilise des modèles *mathématiques* complexes.
-  Künstliche Intelligenz verwendet komplexe *mathematische* Modelle.
+  Artificial intelligence uses complex mathematical models.
 
   Les formules *mathématiques* couvrent tout le tableau.
-  Die *mathematischen* Formeln bedecken die ganze Tafel.
+  Mathematical formulas cover the whole picture.
 
   Sa démonstration *mathématique* était impeccable.
-  Sein *mathematischer* Beweis war tadellos.
+  His mathematical demonstration was impeccable.
 
   "C'est *mathématique*, il va perdre cette partie !"
-  "Das ist *mathematisch* klar, er wird dieses Spiel verlieren!"
+  "It's *mathematics*, he's going to lose this game!"
 
   Il applique une logique *mathématique* à tous les problèmes de la vie.
-  Er wendet eine *mathematische* Logik auf alle Lebensprobleme an.
+  He applies mathematical logic to every problem in life.
 
   La précision *mathématique* de ses calculs est impressionnante.
-  Die *mathematische* Präzision seiner Berechnungen ist beeindruckend.
+  The mathematical accuracy of his calculations is impressive.
 
   Les *mathématiques* appliquées sont essentielles en ingénierie.
-  Die angewandte *Mathematik* ist in der Ingenieurwissenschaft unerlässlich.
+  Applied *mathematics* is essential in engineering.
 
   Les *mathématiques* pures fascinent les théoriciens.
-  Die reine *Mathematik* fasziniert die Theoretiker.
+  Pure *mathematics* fascinates theorists.
 
   Le raisonnement *mathématique* aide à développer l'esprit critique.
-  *Mathematisches* Denken hilft, kritisches Denken zu entwickeln.
+  Mathematical reasoning helps to develop a critical mind.
 
   Elle a un esprit *mathématique* remarquable.
-  Sie hat einen bemerkenswerten *mathematischen* Verstand.
+  She has a remarkable mathematical mind.
 
   Les symboles *mathématiques* sont un langage universel.
-  *Mathematische* Symbole sind eine universelle Sprache.
+  Mathematical symbols are a universal language.
 
   La beauté des équations *mathématiques* m'a toujours fasciné.
-  Die Schönheit *mathematischer* Gleichungen hat mich schon immer fasziniert.
+  The beauty of mathematical equations has always fascinated me.
 
   L'histoire des *mathématiques* remonte à l'Antiquité.
-  Die Geschichte der *Mathematik* reicht bis in die Antike zurück.
+  The history of *mathematics* goes back to ancient times.
 
   Les outils *mathématiques* nous permettent de modéliser la réalité.
-  *Mathematische* Werkzeuge ermöglichen es uns, die Realität zu modellieren.
+  Mathematical tools allow us to model reality.
 
   La rigueur *mathématique* est indispensable dans la recherche scientifique.
-  *Mathematische* Strenge ist in der wissenschaftlichen Forschung unerlässlich.
+  Mathematical rigor is essential in scientific research.
 
   Les *mathématiques* font partie intégrante de notre quotidien.
-  *Mathematik* ist ein integraler Bestandteil unseres Alltags.
+  *Mathematics* is an integral part of our daily lives.
 
   L'apprentissage des *mathématiques* développe la pensée logique.
-  Das Lernen von *Mathematik* entwickelt logisches Denken.
+  Learning *mathematics* develops logical thinking.
 
   Sa méthode *mathématique* garantit des résultats précis.
-  Seine *mathematische* Methode garantiert präzise Ergebnisse.
+  His mathematical method guarantees accurate results.
 
   Les concepts *mathématiques* peuvent être difficiles à visualiser.
-  *Mathematische* Konzepte können schwer zu visualisieren sein.
+  Mathematical concepts can be difficult to visualize.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

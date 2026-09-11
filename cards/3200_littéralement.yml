@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3200
 Wort: littéralement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: littéralement
 Femininum / Plural: ''
 IPA: \li.te.ʁal.mɑ̃\
-Definition: buchstäblich, (wort-)wörtlich
+Definition: Literally, (literally) literally
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les radiations vont *littéralement* cuire la planète.
-  Die Strahlung wird den Planeten *buchstäblich* kochen.
+  The radiation will *literally* cook the planet.
 
   Il était *littéralement* épuisé après avoir couru le marathon.
-  Er war nach dem Marathon im *wahrsten Sinne des Wortes* erschöpft.
+  He was *literally* exhausted after running the marathon.
 
   J'ai traduit ce poème *littéralement* du japonais.
-  Ich habe dieses Gedicht *wörtlich* aus dem Japanischen übersetzt.
+  I *literally* translated this poem from Japanese.
 
   Le nouveau directeur a *littéralement* transformé l'entreprise.
-  Der neue Direktor hat das Unternehmen *regelrecht* umgekrempelt.
+  The new manager *literally* transformed the company.
 
   Cette nouvelle l'a *littéralement* bouleversé.
-  Diese Nachricht hat ihn *buchstäblich* erschüttert.
+  This news *literally* upset him.
 
   Il faut copier ce texte *littéralement*, sans changer un seul mot.
-  Dieser Text muss *wortgetreu* kopiert werden, ohne ein einziges Wort zu ändern.
+  You have to copy that text *literally*, without changing a word.
 
   La salle était *littéralement* pleine à craquer.
-  Der Saal war *buchstäblich* zum Bersten voll.
+  The room was *literally* full of cracks.
 
   Cette expression ne peut pas être traduite *littéralement* en allemand.
-  Dieser Ausdruck kann nicht *wörtlich* ins Deutsche übersetzt werden.
+  This expression cannot be translated *literally* into German.
 
   Marie était *littéralement* folle de joie quand elle a reçu son diplôme.
-  Marie war *regelrecht* außer sich vor Freude, als sie ihr Diplom erhielt.
+  Marie was *literally* overjoyed when she graduated.
 
   Le pauvre chat était *littéralement* gelé quand nous l'avons trouvé.
-  Die arme Katze war *buchstäblich* erfroren, als wir sie gefunden haben.
+  Poor cat was *literally* frozen when we found him.
 
   J'ai *littéralement* passé des heures à chercher mes clés.
-  Ich habe *wortwörtlich* stundenlang nach meinen Schlüsseln gesucht.
+  I *literally* spent hours looking for my keys.
 
   Il faut prendre ce conseil *littéralement* : ne jamais mentir.
-  Dieser Rat muss *wörtlich* genommen werden: niemals lügen.
+  You have to take this advice *literally*: never lie.
 
   Cette tempête a *littéralement* dévasté la ville.
-  Dieser Sturm hat die Stadt *regelrecht* verwüstet.
+  That storm *literally* devastated the city.
 
   Tu as *littéralement* sauvé ma vie en m'appelant ce soir-là.
-  Du hast mir an jenem Abend *buchstäblich* das Leben gerettet.
+  You *literally* saved my life by calling me that night.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

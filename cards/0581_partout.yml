@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 581
 Wort: partout
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: partout
 Femininum / Plural: ''
 IPA: \paʁ.tu\
-Definition: überall
+Definition: Everywhere
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je t'ai cherché *partout*.
-  Ich habe dich *überall* gesucht.
+  I've been looking all over for you.
 
   On ne peut pas être *partout* à la fois.
-  Man kann nicht *überall* gleichzeitig sein.
+  We can't be *everywhere* at the same time.
 
   Les touristes viennent de *partout* pour voir la Tour Eiffel.
-  Die Touristen kommen von *überall* her, um den Eiffelturm zu sehen.
+  Tourists come from all over the world to see the Eiffel Tower.
 
   Il pleut *partout* dans la région aujourd'hui.
-  Es regnet heute *überall* in der Region.
+  It's raining all over the area today.
 
   Au tennis, c'est *quarante partout*.
-  Beim Tennis ist *Einstand*.
+  In tennis, it's *forty everywhere*.
 
   "Il fourre son nez *partout*!"
-  "Er steckt seine Nase *überall* rein!"
+  "He's got his nose *everywhere*!"
 
   La musique résonne *partout* dans la maison.
-  Die Musik ertönt *überall* im Haus.
+  The music resonates all over the house.
 
   *Partout* où elle va, elle fait sourire les gens.
-  *Überall*, wo sie hingeht, bringt sie die Menschen zum Lächeln.
+  Everywhere she goes, she makes people smile.
 
   Ses livres traînent *partout* dans l'appartement.
-  Seine Bücher liegen *überall* in der Wohnung herum.
+  His books are all over the apartment.
 
   Le match s'est terminé à deux *partout*.
-  Das Spiel endete *unentschieden* zwei zu zwei.
+  The game ended in a two-way tie.
 
   On trouve des cafés un peu *partout* dans cette ville.
-  Man findet Cafés *überall* in dieser Stadt.
+  You can find cafes all over this town.
 
   Elle voit le danger *partout*.
-  Sie sieht *überall* Gefahr.
+  She sees danger *everywhere*.
 
   Les enfants courent *partout* dans le jardin.
-  Die Kinder rennen *überall* im Garten herum.
+  The kids are running all over the garden.
 
   Il y a des travaux *partout* dans le centre-ville.
-  Es gibt *überall* Bauarbeiten in der Innenstadt.
+  There's work all over the city centre.
 
   C'est la même chose *partout* dans le monde.
-  Es ist *überall* auf der Welt das gleiche.
+  It's the same *everywhere* in the world.
 
   Au jeu de dominos, c'est quatre *partout*.
-  Beim Domino ist an beiden Enden eine Vier.
+  In the game of dominoes, it's four *everywhere*.
 
   La neige tombe *partout* dans la région.
-  Der Schnee fällt *überall* in der Region.
+  Snow is falling all over the area.
 
   On te voit *partout* ces derniers temps !
-  Man sieht dich in letzter Zeit *überall*!
+  We've been seeing you *everywhere* lately.
 
   Les caméras de surveillance sont installées *partout*.
-  Die Überwachungskameras sind *überall* installiert.
+  Security cameras are installed *everywhere*.
 
   Le wifi est disponible *partout* dans l'hôtel.
-  Das WLAN ist *überall* im Hotel verfügbar.
+  Wi-Fi is available throughout the hotel.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <div class="attention">Das deutsche <i>partout</i> bedeutet „unbedingt“ oder „unter allen Umständen“!</div>
+  <div class="attention">The German language <i>partout</i> means necessarily or under all circumstances!</div>
   <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Falsche Freunde"></grammar>

@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4237
 Wort: irréversible
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: irréversible
 Femininum / Plural: ''
 IPA: \i.ʁe.vɛʁ.sibl\
-Definition: unumkehrbar
+Definition: Notwithstanding the provisions of this Regulation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Beaucoup de processus sont probablement déjà *irréversibles*.
-  Viele Prozesse sind wahrscheinlich bereits *unumkehrbar*.
+  Many processes are probably already *irreversible*.
 
   Cette maladie est malheureusement *irréversible*.
-  Diese Krankheit ist leider *unheilbar*.
+  Unfortunately, this disease is *irreversible*.
 
   Les changements climatiques deviennent de plus en plus *irréversibles*.
-  Die Klimaveränderungen werden zunehmend *irreversibel*.
+  Climate change is becoming increasingly *irreversible*.
 
   La fonte des glaciers est un phénomène *irréversible*.
-  Das Schmelzen der Gletscher ist ein *unumkehrbarer* Prozess.
+  The melting of glaciers is an *irreversible* phenomenon.
 
   Cette décision est *irréversible*, il n'y a plus de retour en arrière possible.
-  Diese Entscheidung ist *unwiderruflich*, es gibt kein Zurück mehr.
+  This decision is *irreversible*, there is no turning back.
 
   Le temps qui passe est *irréversible*.
-  Die Zeit, die vergeht, ist *unumkehrbar*.
+  The passage of time is *irreversible*.
 
   Cette réaction chimique est totalement *irréversible*.
-  Diese chemische Reaktion ist vollständig *irreversibel*.
+  This chemical reaction is completely *irreversible*.
 
   Le vieillissement est un processus naturel et *irréversible*.
-  Das Altern ist ein natürlicher und *unumkehrbarer* Prozess.
+  Aging is a natural and *irreversible* process.
 
   Face à l'*irréversible*, nous devons nous adapter.
-  Angesichts des *Unvermeidlichen* müssen wir uns anpassen.
+  Faced with the *irreversible*, we have to adapt.
 
   L'évolution de sa maladie semble *irréversible*.
-  Der Verlauf seiner Krankheit scheint *unaufhaltsam*.
+  The progression of his illness seems *irreversible*.
 
   Le mécanisme de ce dispositif est conçu pour être *irréversible*.
-  Der Mechanismus dieser Vorrichtung ist *unumkehrbar* konzipiert.
+  The mechanism of this device is designed to be *irreversible*.
 
   Les dommages causés à l'environnement sont *irréversibles*.
-  Die Umweltschäden sind *irreversibel*.
+  The damage to the environment is *irreversible*.
 
   Cette transformation thermodynamique est *irréversible*.
-  Diese thermodynamische Umwandlung ist *irreversibel*.
+  This thermodynamic transformation is *irreversible*.
 
   Les conséquences de cette catastrophe sont *irréversibles*.
-  Die Folgen dieser Katastrophe sind *unumkehrbar*.
+  The consequences of this disaster are *irreversible*.
 
   L'histoire suit son cours *irréversible*.
-  Die Geschichte nimmt ihren *unaufhaltsamen* Lauf.
+  History is on an *irreversible* course.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

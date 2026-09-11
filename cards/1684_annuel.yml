@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1684
 Wort: annuel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: annuel
 Femininum / Plural: annuelle
 IPA: \a.nɥɛl\
-Definition: jährlich
+Definition: annually
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'inflation *annuelle* a augmenté à 4.1 %.
-  Die *jährliche* Inflation ist auf 4,1 % gestiegen.
+  Annual inflation increased to 4.1%.
 
   Le rapport *annuel* de l'entreprise sera publié la semaine prochaine.
-  Der *Jahres*bericht des Unternehmens wird nächste Woche veröffentlicht.
+  The company's annual report will be published next week.
 
   Notre club organise une fête *annuelle* pour tous les membres.
-  Unser Verein organisiert eine *jährliche* Feier für alle Mitglieder.
+  Our club organizes an annual party for all members.
 
   Les tournesols sont des plantes *annuelles* qui fleurissent en été.
-  Sonnenblumen sind *einjährige* Pflanzen, die im Sommer blühen.
+  Sunflowers are annual plants that bloom in summer.
 
   La révolution *annuelle* de la Terre autour du Soleil détermine nos saisons.
-  Der *jährliche* Umlauf der Erde um die Sonne bestimmt unsere Jahreszeiten.
+  The Earth's annual revolution around the Sun determines our seasons.
 
   Mon *annuel* chez le dentiste est prévu pour demain matin.
-  Meine *jährliche* Zahnarztkontrolle ist für morgen Morgen geplant.
+  My yearbook at the dentist is scheduled for tomorrow morning.
 
   Les employés ont droit à cinq semaines de congés *annuels*.
-  Die Angestellten haben Anspruch auf fünf Wochen *Jahres*urlaub.
+  Employees are entitled to five weeks of annual leave.
 
   Sa rente *annuelle* lui permet de vivre confortablement.
-  Seine *Jahres*rente ermöglicht ihm ein komfortables Leben.
+  Her annual pension allows her to live comfortably.
 
   Le budget *annuel* de la ville sera voté jeudi prochain.
-  Der *Jahres*haushalt der Stadt wird nächsten Donnerstag verabschiedet.
+  The city's annual budget will be voted on next Thursday.
 
   Cette redevance *annuelle* doit être payée avant le 31 décembre.
-  Diese *jährliche* Gebühr muss vor dem 31. Dezember bezahlt werden.
+  This annual fee must be paid before 31 December.
 
   Les dépenses *annuelles* du ménage ont considérablement augmenté.
-  Die *Jahres*ausgaben des Haushalts sind erheblich gestiegen.
+  The annual household expenditure has increased considerably.
 
   La température moyenne *annuelle* dans cette région est de 15 degrés.
-  Die *jährliche* Durchschnittstemperatur in dieser Region beträgt 15 Grad.
+  The average annual temperature in this region is 15 degrees.
 
   L'abonnement *annuel* au journal coûte moins cher que douze mensualités.
-  Das *Jahres*abonnement der Zeitung ist günstiger als zwölf Monatsraten.
+  An annual subscription to the newspaper costs less than twelve monthly subscriptions.
 
   Notre assemblée *annuelle* aura lieu le mois prochain.
-  Unsere *jährliche* Versammlung findet nächsten Monat statt.
+  Our annual convention will be next month.
 
   Les pâquerettes sont des plantes *annuelles* très faciles à cultiver.
-  Gänseblümchen sind sehr pflegeleichte *einjährige* Pflanzen.
+  Pastries are annual plants that are very easy to grow.
 
   Le bilan *annuel* montre une amélioration significative des résultats.
-  Die *Jahres*bilanz zeigt eine deutliche Verbesserung der Ergebnisse.
+  The annual balance sheet shows a significant improvement in results.
 
   La visite médicale *annuelle* est obligatoire pour les sportifs professionnels.
-  Die *jährliche* ärztliche Untersuchung ist für Profisportler verpflichtend.
+  Annual medical visits are mandatory for professional athletes.
 
   Cette révision *annuelle* de la voiture est indispensable pour la sécurité.
-  Diese *jährliche* Fahrzeuginspektion ist für die Sicherheit unerlässlich.
+  This annual review of the car is essential for safety.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

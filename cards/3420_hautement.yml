@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3420
 Wort: hautement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: hautement
 Femininum / Plural: ''
 IPA: \o.tə.mɑ̃\
-Definition: höchst, äußerst
+Definition: High, extreme
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est *hautement* improbable.
-  Das ist *höchst* unwahrscheinlich.
+  It's highly unlikely.
 
   Cette technologie est *hautement* sophistiquée.
-  Diese Technologie ist *höchst* anspruchsvoll.
+  This technology is highly sophisticated.
 
   Je déclare *hautement* mon opposition à ce projet.
-  Ich erkläre *offen* meinen Widerstand gegen dieses Projekt.
+  I declare my strong opposition to this project.
 
   L'Allemagne est un pays *hautement* industrialisé.
-  Deutschland ist ein *hoch*industrialisiertes Land.
+  Germany is a highly industrialized country.
 
   Marie est une employée *hautement* qualifiée.
-  Marie ist eine *hoch*qualifizierte Mitarbeiterin.
+  Marie is a highly skilled employee.
 
   Cette affaire est *hautement* politique.
-  Diese Angelegenheit ist *hoch*politisch.
+  This case is highly political.
 
   Son intervention a été *hautement* appréciée par tous les participants.
-  Sein Beitrag wurde von allen Teilnehmern *äußerst* geschätzt.
+  His speech was highly appreciated by all the participants.
 
   Il a proclamé *hautement* ses convictions.
-  Er hat seine Überzeugungen *offen* verkündet.
+  He publicly proclaimed his convictions.
 
   Cette région est *hautement* touristique.
-  Diese Region ist *höchst* touristisch.
+  This area is highly tourist-friendly.
 
   Le jury a *hautement* apprécié sa performance.
-  Die Jury hat ihre Leistung *äußerst* geschätzt.
+  The jury highly appreciated his performance.
 
   Ces mesures de sécurité sont *hautement* efficaces.
-  Diese Sicherheitsmaßnahmen sind *höchst* effektiv.
+  These safety measures are highly effective.
 
   Il s'est prononcé *hautement* en faveur de cette réforme.
-  Er hat sich *offen* für diese Reform ausgesprochen.
+  He spoke out strongly in favour of this reform.
 
   Notre entreprise recherche des experts *hautement* spécialisés.
-  Unser Unternehmen sucht *hoch*spezialisierte Experten.
+  Our company is looking for highly specialized experts.
 
   Cette solution est *hautement* recommandée par les experts.
-  Diese Lösung wird von den Experten *äußerst* empfohlen.
+  This solution is highly recommended by experts.
 
   C'est une zone *hautement* sensible.
-  Das ist ein *höchst* sensibles Gebiet.
+  It's a highly sensitive area.
 
   Je soutiens *hautement* cette initiative.
-  Ich unterstütze diese Initiative *nachdrücklich*.
+  I strongly support this initiative.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

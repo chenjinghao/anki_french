@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2523
 Wort: utilisateur
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un utilisateur
 Femininum / Plural: utilisatrice
 IPA: \y.ti.li.za.tœʁ\
-Definition: Benutzer
+Definition: Users
 Register: ↘Fiktion ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Éditez le dictionnaire *utilisateur* pour le réduire à 10.000 mots maximum.
-  Bearbeiten Sie das *Benutzer*wörterbuch, um es auf maximal 10.000 Wörter zu reduzieren.
+  Edit the *user* dictionary to reduce it to a maximum of 10,000 words.
 
   Les *utilisateurs* réguliers de cette application bénéficient de fonctionnalités supplémentaires.
-  Regelmäßige *Benutzer* dieser Anwendung profitieren von zusätzlichen Funktionen.
+  Regular *users* of this app benefit from additional features.
 
   Notre équipe travaille dur pour améliorer l'expérience *utilisateur* de notre site web.
-  Unser Team arbeitet hart daran, die *Benutzer*erfahrung unserer Website zu verbessern.
+  Our team is working hard to improve the *user* experience of our website.
 
   "J'ai oublié mon nom d'*utilisateur* pour me connecter au réseau."
-  "Ich habe meinen *Benutzer*namen vergessen, um mich im Netzwerk anzumelden."
+  "I forgot my username to connect to the network".
 
   Les *utilisatrices* de ce forum partagent souvent des conseils de maquillage.
-  Die *Benutzerinnen* dieses Forums teilen oft Make-up-Tipps.
+  Users of this forum often share makeup tips.
 
   L'interface a été conçue pour être intuitive même pour les *utilisateurs* novices.
-  Die Benutzeroberfläche wurde so gestaltet, dass sie auch für unerfahrene *Benutzer* intuitiv ist.
+  The interface is designed to be intuitive even for novice *users*.
 
   Nous recherchons des *utilisateurs* pour tester notre nouveau logiciel avant son lancement.
-  Wir suchen *Anwender*, um unsere neue Software vor der Markteinführung zu testen.
+  We're looking for *users* to test our new software before it launches.
 
   Le manuel de l'*utilisateur* explique en détail toutes les fonctionnalités de l'appareil.
-  Das *Benutzer*handbuch erklärt alle Funktionen des Geräts im Detail.
+  The *user* manual explains in detail all the functionalities of the device.
 
   Les commentaires des *utilisateurs* sont essentiels pour améliorer nos services.
-  Das Feedback der *Benutzer* ist entscheidend für die Verbesserung unserer Dienstleistungen.
+  User feedback is essential to improving our services.
 
   Cette mise à jour corrige plusieurs bugs signalés par les *utilisateurs*.
-  Dieses Update behebt mehrere von *Benutzern* gemeldete Fehler.
+  This update fixes several bugs reported by *users*.
 
   Les *utilisateurs* de PC doivent mettre à jour régulièrement leur système d'exploitation.
-  PC-*Benutzer* sollten ihr Betriebssystem regelmäßig aktualisieren.
+  PC *users* must regularly update their operating system.
 
   La protection des données personnelles des *utilisateurs* est notre priorité absolue.
-  Der Schutz der persönlichen Daten unserer *Benutzer* hat für uns oberste Priorität.
+  The protection of *users*' personal data is our top priority.
 
   Les *utilisatrices* de cette crème hydratante en vantent les bienfaits sur leur peau.
-  Die *Anwenderinnen* dieser Feuchtigkeitscreme loben ihre Vorteile für ihre Haut.
+  Women who use this moisturizer boast about its benefits to their skin.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

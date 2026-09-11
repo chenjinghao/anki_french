@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4052
 Wort: analyste
 Wortart: nmf, app
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: analyste
 Femininum / Plural: ''
 IPA: \a.na.list\
 Definition: Analyst
 Register: ↗Sachtext
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Quand ces personnes sont elles-mêmes devenues *analystes* ?
-  Wann sind diese Personen selbst *Analysten* geworden?
+  When did these people become *analysts* themselves?
 
   Marie travaille comme *analyste* financière dans une grande banque.
-  Marie arbeitet als Finanz*analystin* in einer großen Bank.
+  Marie works as a financial *analyst* at a large bank.
 
   Les *analystes* du marché prévoient une hausse des prix du pétrole.
-  Die Markt*analytiker* sagen einen Anstieg der Ölpreise voraus.
+  Market *analysts* expect oil prices to rise.
 
   Mon frère est devenu *analyste* en informatique après ses études.
-  Mein Bruder ist nach seinem Studium IT-*Analyst* geworden.
+  My brother became a computer *analyst* after graduation.
 
   Paul est un excellent *analyste* mathématicien qui résout des problèmes complexes.
-  Paul ist ein ausgezeichneter Mathematik-*Analyst*, der komplexe Probleme löst.
+  Paul is an excellent mathematical *analyst* who solves complex problems.
 
   L'*analyste* chimiste a découvert une nouvelle substance dans l'échantillon.
-  Die *Analystin* für chemische Untersuchungen hat eine neue Substanz in der Probe entdeckt.
+  The chemical *analyst* discovered a new substance in the sample.
 
   Notre *analyste* économique prédit une croissance stable pour l'année prochaine.
-  Unser Wirtschafts*analyst* sagt für das nächste Jahr ein stabiles Wachstum voraus.
+  Our economic *analyst* predicts steady growth for next year.
 
   Sophie consulte un *analyste* depuis quelques mois pour surmonter ses angoisses.
-  Sophie geht seit einigen Monaten zu einem Psycho*analytiker*, um ihre Ängste zu überwinden.
+  Sophie's been seeing an *analyst* for the past few months to overcome her anxiety.
 
   Les *analystes* politiques ont longuement débattu des résultats du sondage.
-  Die Politik*analytiker* haben die Umfrageergebnisse ausführlich diskutiert.
+  Political *analysts* have long debated the results of the survey.
 
   En tant qu'*analyste* du comportement, elle étudie les habitudes des consommateurs.
-  Als Verhaltens*analystin* untersucht sie die Gewohnheiten der Verbraucher.
+  As a behavioral *analyst*, she studies consumer habits.
 
   L'*analyste* de films a écrit une critique passionnante sur le nouveau blockbuster.
-  Der Film*analyst* hat eine spannende Kritik über den neuen Blockbuster geschrieben.
+  The film *analyst* wrote an exciting review of the new blockbuster.
 
   Cet *analyste* de données travaille sur des projets d'intelligence artificielle.
-  Dieser Daten*analyst* arbeitet an Projekten zur künstlichen Intelligenz.
+  This data *analyst* is working on artificial intelligence projects.
 
   Les *analystes* boursiers conseillent d'investir dans les énergies renouvelables.
-  Die Börsen*analytiker* empfehlen, in erneuerbare Energien zu investieren.
+  Stock market *analysts* advise investing in renewable energy.
 
   L'*analyste* programmeur a optimisé le code pour améliorer les performances.
-  Der Programm*analyst* hat den Code optimiert, um die Leistung zu verbessern.
+  The programmer *analyst* optimized the code to improve performance.
 
   Mon amie est devenue *analyste* de systèmes après dix ans d'expérience.
-  Meine Freundin ist nach zehn Jahren Erfahrung System*analystin* geworden.
+  My friend became a systems *analyst* after ten years of experience.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

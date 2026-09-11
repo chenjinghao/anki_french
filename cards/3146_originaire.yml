@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3146
 Wort: originaire
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: originaire
 Femininum / Plural: ''
 IPA: \ɔ.ʁi.ʒi.nɛʁ\
-Definition: ursprünglich
+Definition: originally
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis *originaire* d'Europe de l'Est.
-  Ich *stamme* aus Osteuropa.
+  I'm from Eastern Europe.
 
   Marie est *originaire* de Nancy, où elle a passé toute son enfance.
-  Marie ist in Nancy *geboren*, wo sie ihre ganze Kindheit verbracht hat.
+  Marie is *originally* from Nancy, where she spent her entire childhood.
 
   Cette plante est *originaire* d'Asie et ne pousse pas naturellement en Europe.
-  Diese Pflanze *stammt* aus Asien und wächst nicht natürlich in Europa.
+  This plant is native to Asia and does not grow naturally in Europe.
 
   Les touristes ont goûté un plat *originaire* de la région.
-  Die Touristen haben ein Gericht probiert, das aus der Region *stammt*.
+  Tourists tasted a local dish.
 
   Cette coutume est *originaire* du sud de la France.
-  Dieser Brauch *stammt* aus Südfrankreich.
+  This custom originated in the south of France.
 
   Ma grand-mère est *originaire* de Marseille, mais elle vit à Paris depuis quarante ans.
-  Meine Großmutter *kommt* aus Marseille, lebt aber seit vierzig Jahren in Paris.
+  My grandmother is from Marseille, but she has lived in Paris for forty years.
 
   Le café est *originaire* d'Éthiopie, mais il est maintenant cultivé dans de nombreux pays.
-  Der Kaffee *stammt* ursprünglich aus Äthiopien, wird aber jetzt in vielen Ländern angebaut.
+  Coffee originated in Ethiopia, but it is now grown in many countries.
 
   Les chercheurs étudient une espèce *originaire* des Andes.
-  Die Forscher untersuchen eine Art, die aus den Anden *stammt*.
+  Researchers are studying a species native to the Andes.
 
   Beaucoup de nos voisins sont *originaires* du même village.
-  Viele unserer Nachbarn *stammen* aus demselben Dorf.
+  Many of our neighbors are from the same village.
 
   Cette danse traditionnelle est *originaire* du Brésil.
-  Dieser traditionelle Tanz *stammt* aus Brasilien.
+  This traditional dance originated in Brazil.
 
   Le maïs est une céréale *originaire* d'Amérique centrale.
-  Mais ist ein Getreide, das aus Zentralamerika *stammt*.
+  Corn is a cereal native to Central America.
 
   Les *originaires* de la Martinique ont organisé une fête traditionnelle.
-  Die *Einheimischen* von Martinique haben ein traditionelles Fest organisiert.
+  The natives of Martinique organized a traditional celebration.
 
   Sa famille est *originaire* du Languedoc depuis des générations.
-  Seine Familie *stammt* seit Generationen aus dem Languedoc.
+  His family has been from Languedoc for generations.
 
   Cette méthode de cuisine est *originaire* du Japon.
-  Diese Kochmethode *stammt* aus Japan.
+  This method of cooking originated in Japan.
 
   Le tabac est une plante *originaire* d'Amérique du Sud.
-  Der Tabak ist eine Pflanze, die aus Südamerika *stammt*.
+  Tobacco is a plant native to South America.
 
   Les premiers colons *originaires* d'Europe sont arrivés au 17e siècle.
-  Die ersten aus Europa *stammenden* Siedler kamen im 17. Jahrhundert an.
+  The first settlers from Europe arrived in the 17th century.
 
   Pierre n'est pas *originaire* de la ville, mais il s'y est bien intégré.
-  Pierre *stammt* nicht aus der Stadt, hat sich aber gut eingelebt.
+  Pierre was not a native of the city, but he was well acquainted with it.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

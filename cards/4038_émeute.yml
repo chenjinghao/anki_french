@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4038
 Wort: émeute
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une émeute
 Femininum / Plural: ''
 IPA: \e.møt\
-Definition: Aufruhr, Unruhe
+Definition: Turmoil and Trouble
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'était le point zéro des *émeutes* de Los Angeles.
-  Das war der Ausgangspunkt der Los Angeles *Unruhen*.
+  It was the height of the Los Angeles *riots*.
 
   Les *émeutes* ont éclaté après l'annonce des résultats.
-  Nach der Bekanntgabe der Ergebnisse brachen *Unruhen* aus.
+  The *riots* broke out after the results were announced.
 
   La manifestation pacifique a tourné à l'*émeute*.
-  Die friedliche Demonstration schlug in einen *Tumult* um.
+  The peaceful demonstration turned into a riot.
 
   Les forces de l'ordre ont dû intervenir pour réprimer l'*émeute*.
-  Die Sicherheitskräfte mussten eingreifen, um den *Aufruhr* niederzuschlagen.
+  The police had to intervene to suppress the riot.
 
   L'*émeute* s'est déchaînée dans le centre-ville hier soir.
-  Der *Aufstand* brach gestern Abend in der Innenstadt los.
+  The riot broke out in downtown last night.
 
   Une *émeute* a éclaté devant le stade après le match.
-  Nach dem Spiel kam es vor dem Stadion zu *Tumulten*.
+  A riot broke out outside the stadium after the game.
 
   Les médias ont largement couvert les *émeutes* de la semaine dernière.
-  Die Medien haben ausführlich über die *Unruhen* der letzten Woche berichtet.
+  The media coverage of last week's *riots* was widespread.
 
   Les habitants craignent de nouvelles *émeutes* ce week-end.
-  Die Bewohner fürchten neue *Ausschreitungen* am Wochenende.
+  The locals fear further *riots* this weekend.
 
   Cette petite dispute a rapidement tourné à l'*émeute*.
-  Dieser kleine Streit artete schnell in einen *Tumult* aus.
+  This little quarrel soon turned into a riot.
 
   L'*émeute* a causé d'importants dégâts matériels.
-  Der *Aufruhr* verursachte erhebliche Sachschäden.
+  The riot caused considerable material damage.
 
   Les commerçants ont fermé leurs magasins par peur des *émeutes*.
-  Die Händler schlossen ihre Geschäfte aus Angst vor *Unruhen*.
+  Merchants have closed their stores for fear of *riots*.
 
   Une violente *émeute* a éclaté dans la prison.
-  Im Gefängnis brach ein heftiger *Aufstand* aus.
+  A violent riot broke out in the prison.
 
   Des *émeutes* similaires se sont produites dans plusieurs villes.
-  Ähnliche *Unruhen* ereigneten sich in mehreren Städten.
+  Similar *riots* occurred in several cities.
 
   La police anti-*émeute* a été déployée dans le quartier.
-  Die *Aufstands*polizei wurde in dem Viertel eingesetzt.
+  Riot police have been deployed to the neighborhood.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

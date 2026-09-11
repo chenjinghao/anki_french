@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 615
 Wort: simplement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: simplement
 Femininum / Plural: ''
 IPA: \sɛ̃.plə.mɑ̃\
-Definition: einfach, schlichtweg
+Definition: It's simple
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est tout *simplement* inacceptable.
-  Das ist *schlicht* inakzeptabel.
+  It's simply unacceptable.
 
   Elle s'habille toujours très *simplement*, mais avec goût.
-  Sie kleidet sich immer sehr *schlicht*, aber geschmackvoll.
+  She always dresses very simply, but with taste.
 
   Je te demande *simplement* de m'écouter pendant cinq minutes.
-  Ich bitte dich *lediglich* darum, mir fünf Minuten zuzuhören.
+  I'm just asking you to listen to me for five minutes.
 
   Il faut expliquer les choses *simplement* aux enfants.
-  Man muss Kindern die Dinge *einfach* erklären.
+  You just have to explain things to the kids.
 
   La recette est *simplement* délicieuse.
-  Das Rezept ist *einfach* köstlich.
+  The recipe is just delicious.
 
   Je voulais *simplement* te dire merci pour ton aide.
-  Ich wollte dir *nur* danke für deine Hilfe sagen.
+  I just wanted to say thank you for your help.
 
   Marie a *simplement* hoché la tête sans rien dire.
-  Marie hat *bloß* mit dem Kopf genickt, ohne etwas zu sagen.
+  Marie simply nodded her head without saying anything.
 
   Ils vivent très *simplement* dans une petite maison à la campagne.
-  Sie leben sehr *bescheiden* in einem kleinen Haus auf dem Land.
+  They live very simply in a small house in the countryside.
 
   *Simplement*, je ne comprends pas pourquoi tu as fait ça.
-  Ich verstehe *einfach* nicht, warum du das getan hast.
+  I just don't understand why you did this.
 
   Il s'agit *simplement* d'un malentendu entre nous.
-  Es handelt sich *lediglich* um ein Missverständnis zwischen uns.
+  It's just a misunderstanding between us.
 
   Paul raconte toujours les histoires très *simplement*.
-  Paul erzählt Geschichten immer sehr *schlicht*.
+  Paul always tells stories very simply.
 
   *Simplement*, nous n'avons plus le temps.
-  Wir haben *einfach* keine Zeit mehr.
+  We just don't have time.
 
   Elle m'a répondu tout *simplement* : "Non."
-  Sie hat mir ganz *einfach* mit "Nein" geantwortet.
+  She simply replied, "No".
 
   Le problème peut être résolu *simplement*.
-  Das Problem lässt sich *einfach* lösen.
+  The problem can be solved simply.
 
   Je suis *simplement* venu pour te voir.
-  Ich bin *nur* gekommen, um dich zu sehen.
+  I just came to see you.
 
   Il faut *simplement* suivre les instructions.
-  Man muss *einfach* den Anweisungen folgen.
+  All you have to do is follow the instructions.
 
   La vérité est *simplement* que personne ne sait.
-  Die Wahrheit ist *schlicht*, dass niemand es weiß.
+  The truth is, no one knows.
 
   Elle parle toujours *simplement* et directement.
-  Sie spricht immer *ungezwungen* und direkt.
+  She always speaks plainly and directly.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4339
 Wort: moine
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le moine
 Femininum / Plural: ''
 IPA: \mwan\
-Definition: Mönch
+Definition: Monk
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il vit modestement, comme un *moine*.
-  Er lebt bescheiden wie ein *Mönch*.
+  He lives modestly, like a *monk*.
 
   Le *moine* médite dans sa cellule depuis l'aube.
-  Der *Mönch* meditiert seit Morgengrauen in seiner Zelle.
+  The *monk* has been meditating in his cell since dawn.
 
   Les *moines* bouddhistes portent des robes safran.
-  Die buddhistischen *Mönche* tragen safranfarbene Gewänder.
+  Buddhist *monks* wear saffron dresses.
 
   "*L'habit ne fait pas le moine*", comme dit le proverbe.
-  "Das Aussehen macht noch keinen *Mönch*", wie das Sprichwort sagt.
+  "The cloak does not make the monk", as the saying goes.
 
   Un jeune homme décida de *se faire moine* après une révélation spirituelle.
-  Ein junger Mann beschloss, nach einer spirituellen Offenbarung *ins Kloster zu gehen*.
+  A young man decided to become a monk after a spiritual revelation.
 
   La communauté de *moines* cultive ses propres légumes.
-  Die *Mönchs*gemeinschaft baut ihr eigenes Gemüse an.
+  The community of *monks* grows their own vegetables.
 
   Les *moines* copistes ont préservé de nombreux textes anciens.
-  Die *Mönche* als Kopisten haben viele alte Texte bewahrt.
+  Copying *monks* have preserved many ancient texts.
 
   Un *moine* errant traversait les villages en mendiant sa nourriture.
-  Ein wandernder *Mönch* zog durch die Dörfer und bettelte um Nahrung.
+  A wandering *monk* went through the villages begging for his food.
 
   Les *moines* blancs de l'abbaye suivent la règle cistercienne.
-  Die weißen *Mönche* der Abtei folgen der Zisterzienserregel.
+  The white *monks* of the abbey follow the Cistercian rule.
 
   Des *moines* orthodoxes chantent leurs prières dans l'église.
-  Orthodoxe *Mönche* singen ihre Gebete in der Kirche.
+  Orthodox *monks* sing their prayers in the church.
 
   On utilise encore le *moine* pour chauffer certains lits traditionnels.
-  Man benutzt die *Bettwärmflasche* noch zum Aufwärmen mancher traditioneller Betten.
+  The *monk* is still used to heat some traditional beds.
 
   Le *moine* marin nage près des côtes méditerranéennes.
-  Die *Mönchs*robbe schwimmt nahe der Mittelmeerküste.
+  The marine *monk* swims near the Mediterranean coast.
 
   Ce *moine* catholique a fait vœu de silence.
-  Dieser katholische *Mönch* hat ein Schweigegelübde abgelegt.
+  This Catholic *monk* took a vow of silence.
 
   Les *moines* zen pratiquent la méditation assise.
-  Die Zen-*Mönche* praktizieren Sitzmeditation.
+  Zen *monks* practice sitting meditation.
 
   Un ancien *moine* raconte ses années de vie contemplative.
-  Ein ehemaliger *Mönch* erzählt von seinen Jahren des kontemplativen Lebens.
+  A former *monk* recounts his years of contemplative life.
 
   Les *moines* trappistes brassent leur propre bière.
-  Die Trappisten-*Mönche* brauen ihr eigenes Bier.
+  Trappist *monks* brew their own beer.
 
   Le *moine* passe ses journées entre prière et travail manuel.
-  Der *Mönch* verbringt seine Tage zwischen Gebet und Handarbeit.
+  The *monk* spends his days between prayer and manual work.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

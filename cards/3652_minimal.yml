@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3652
 Wort: minimal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: minimal
 Femininum / Plural: minimale
 IPA: \mi.ni.mal\
-Definition: minimal
+Definition: Minimum
 Register: ↘Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une peine *minimale* de quatre ans est juste et équitable.
-  Eine *Mindest*strafe von vier Jahren ist gerecht und angemessen.
+  A *minimum* sentence of four years is fair and equitable.
 
   La température *minimale* sera de trois degrés cette nuit.
-  Die *Mindest*temperatur wird heute Nacht drei Grad betragen.
+  The *minimum* temperature will be three degrees tonight.
 
   L'installation requiert un espace *minimal* sur le disque dur.
-  Die Installation benötigt *minimalen* Speicherplatz auf der Festplatte.
+  Installation requires minimal space on the hard drive.
 
   Pour participer au marathon, il faut avoir une préparation *minimale* de six mois.
-  Für die Teilnahme am Marathon braucht man eine *minimale* Vorbereitung von sechs Monaten.
+  To compete in the marathon, you must have a *minimum* of six months of preparation.
 
   L'artiste expose ses œuvres d'art *minimal* dans une galerie prestigieuse.
-  Der Künstler stellt seine *Minimal* Art in einer renommierten Galerie aus.
+  The artist exhibits his minimal artworks in a prestigious gallery.
 
   Le salaire *minimal* légal augmentera l'année prochaine.
-  Der gesetzliche *Mindest*lohn wird nächstes Jahr steigen.
+  The legal *minimum* wage will increase next year.
 
   Cette intervention chirurgicale laissera une cicatrice *minimale*.
-  Dieser chirurgische Eingriff wird eine *minimale* Narbe hinterlassen.
+  This surgery will leave a minimal scar.
 
   La durée *minimale* du stage est de trois mois.
-  Die *Mindest*dauer des Praktikums beträgt drei Monate.
+  The *minimum* duration of the internship is three months.
 
   Le niveau *minimal* d'eau dans le réservoir est dangereusement bas.
-  Der *Mindest*wasserstand im Reservoir ist gefährlich niedrig.
+  The *minimum* water level in the reservoir is dangerously low.
 
   L'impact environnemental *minimal* de ce projet nous a convaincus.
-  Die *minimale* Umweltbelastung dieses Projekts hat uns überzeugt.
+  The minimal environmental impact of this project convinced us.
 
   Le risque *minimal* ne justifie pas l'annulation de l'événement.
-  Das *minimale* Risiko rechtfertigt keine Absage der Veranstaltung.
+  The *minimum* risk does not justify the cancellation of the event.
 
   La pression *minimale* des pneus doit être vérifiée régulièrement.
-  Der *Mindest*luftdruck der Reifen muss regelmäßig überprüft werden.
+  The *minimum* tyre pressure shall be checked regularly.
 
   L'effort *minimal* qu'il fournit en classe est décevant.
-  Seine *minimale* Anstrengung im Unterricht ist enttäuschend.
+  The minimal effort he makes in class is disappointing.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

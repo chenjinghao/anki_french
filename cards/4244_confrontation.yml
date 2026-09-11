@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4244
 Wort: confrontation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la confrontation
 Femininum / Plural: ''
 IPA: \kɔ̃.fʁɔ̃.ta.sjɔ̃\
-Definition: Gegenüberstellung, Auseinandersetzung
+Definition: Comparisons and discussions
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comprendre n'est possible qu'après la *confrontation*.
-  Verstehen ist erst nach der *Gegenüberstellung* möglich.
+  Understanding is only possible after *confrontation*.
 
   La police a organisé une *confrontation* entre le suspect et les témoins.
-  Die Polizei hat eine *Gegenüberstellung* zwischen dem Verdächtigen und den Zeugen organisiert.
+  The police organized a *confrontation* between the suspect and the witnesses.
 
   Cette *confrontation* d'idées m'a permis de mieux comprendre son point de vue.
-  Diese *Gegenüberstellung* der Ideen hat mir geholfen, seinen Standpunkt besser zu verstehen.
+  This *confrontation* of ideas enabled me to better understand his point of view.
 
   La *confrontation* des différentes versions du texte a révélé plusieurs erreurs.
-  Der *Vergleich* der verschiedenen Textversionen hat mehrere Fehler aufgedeckt.
+  The comparison of the different versions of the text revealed several errors.
 
   Le juge a ordonné une *confrontation* des deux inculpés ce matin.
-  Der Richter hat heute Morgen eine *Gegenüberstellung* der beiden Angeklagten angeordnet.
+  The judge ordered a *confrontation* between the two defendants this morning.
 
   Une *confrontation* armée a éclaté à la frontière.
-  An der Grenze ist eine bewaffnete *Auseinandersetzung* ausgebrochen.
+  An armed *confrontation* broke out at the border.
 
   La *confrontation* des écritures a prouvé que c'était un faux document.
-  Die *Gegenüberstellung* der Handschriften hat bewiesen, dass es sich um ein gefälschtes Dokument handelte.
+  *Confrontation* of the scriptures proved that it was a false document.
 
   La *confrontation* entre manifestants et forces de l'ordre a duré toute la nuit.
-  Die *Konfrontation* zwischen Demonstranten und Ordnungskräften dauerte die ganze Nacht.
+  The *confrontation* between protesters and law enforcement lasted all night.
 
   Cette *confrontation* pacifique des points de vue enrichit le débat.
-  Diese friedliche *Gegenüberstellung* der Standpunkte bereichert die Debatte.
+  This peaceful *confrontation* of views enriches the debate.
 
   Une *confrontation* générale aura lieu demain au tribunal.
-  Morgen wird im Gericht eine allgemeine *Gegenüberstellung* stattfinden.
+  A general *confrontation* will take place tomorrow at the courthouse.
 
   La *confrontation* des preuves a permis d'identifier le coupable.
-  Die *Gegenüberstellung* der Beweise hat es ermöglicht, den Schuldigen zu identifizieren.
+  Confronting the evidence led to the identification of the culprit.
 
   Évitez la *confrontation* directe avec votre adversaire.
-  Vermeiden Sie die direkte *Konfrontation* mit Ihrem Gegner.
+  Avoid direct *confrontation* with your opponent.
 
   La *confrontation* des témoignages a révélé plusieurs contradictions.
-  Die *Gegenüberstellung* der Zeugenaussagen hat mehrere Widersprüche aufgedeckt.
+  The *confrontation* of the witnesses revealed several contradictions.
 
   Une *confrontation* militaire entre les deux pays semble inévitable.
-  Eine militärische *Konfrontation* zwischen den beiden Ländern scheint unvermeidlich.
+  A military *confrontation* between the two countries seems inevitable.
 
   La *confrontation* des archives a permis de retracer l'histoire du bâtiment.
-  Der *Vergleich* der Archive hat es ermöglicht, die Geschichte des Gebäudes nachzuvollziehen.
+  The *confrontation* of the archives allowed us to trace the history of the building.
 
   Cette *confrontation* brutale avec la réalité l'a fait changer d'avis.
-  Diese brutale *Konfrontation* mit der Realität hat ihn seine Meinung ändern lassen.
+  This brutal *confrontation* with reality changed his mind.
 
   Le juge procédera à la *confrontation* des suspects lundi prochain.
-  Der Richter wird am nächsten Montag die *Gegenüberstellung* der Verdächtigen durchführen.
+  The judge will proceed to confront the suspects next Monday.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

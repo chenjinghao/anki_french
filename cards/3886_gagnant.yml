@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3886
 Wort: gagnant
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le gagnant
 Femininum / Plural: gagnante
 IPA: \ɡa.ɲɑ̃\
-Definition: Gewinner
+Definition: The winners
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'en sortirai *gagnant*, finalement.
-  Am Ende werde ich daraus als *Sieger* hervorgehen.
+  I'll come out on top eventually.
 
   Les numéros *gagnants* seront annoncés ce soir à la télévision.
-  Die *Gewinner*zahlen werden heute Abend im Fernsehen bekannt gegeben.
+  The winning numbers will be announced on television tonight.
 
   La *gagnante* du concours de chant a reçu un contrat d'enregistrement.
-  Die *Siegerin* des Gesangswettbewerbs erhielt einen Plattenvertrag.
+  The *winner* of the singing competition was awarded a recording contract.
 
   "Je parie que tu vas être *gagnant* avec cette stratégie !"
-  "Ich wette, du wirst mit dieser Strategie *gewinnen*!"
+  "I bet you're going to win with this strategy!"
 
   Le cheval *gagnant* de la course s'appelle Eclipse.
-  Das *siegreiche* Pferd des Rennens heißt Eclipse.
+  The winning horse of the race is called Eclipse.
 
   Notre équipe est *partie gagnante* dans ce championnat.
-  Unser Team galt in dieser Meisterschaft als klarer *Favorit*.
+  Our team went on to win this championship.
 
   Cette négociation *gagnant-gagnant* a satisfait tous les participants.
-  Diese *Win-win*-Verhandlung hat alle Beteiligten zufriedengestellt.
+  This *win-win* negotiation satisfied all participants.
 
   Le *gagnant* du gros lot a décidé de rester anonyme.
-  Der *Gewinner* des Jackpots hat beschlossen, anonym zu bleiben.
+  The *winner* of the big lottery decided to remain anonymous.
 
   Les joueurs *gagnants* recevront leurs prix demain.
-  Die *gewinnenden* Spieler erhalten ihre Preise morgen.
+  The *winners* will receive their prizes tomorrow.
 
   Tout le monde le donnait *gagnant* avant même le début du match.
-  Alle sahen ihn schon als *Sieger*, noch bevor das Spiel begann.
+  Everybody was giving it to the *winner* even before the game started.
 
   Le parti *gagnant* formera le nouveau gouvernement.
-  Die *siegreiche* Partei wird die neue Regierung bilden.
+  The winning party will form the new government.
 
   Elle est la grande *gagnante* de cette réforme politique.
-  Sie ist die große *Gewinnerin* dieser politischen Reform.
+  She is the big *winner* of this political reform.
 
   Mon billet *gagnant* m'a rapporté cent euros.
-  Mein *Gewinner*los hat mir hundert Euro eingebracht.
+  My winning ticket brought me a hundred euros.
 
   Cette nouvelle approche s'est révélée *gagnante*.
-  Dieser neue Ansatz hat sich als *erfolgreich* erwiesen.
+  This new approach has proved to be successful.
 
   Les *gagnants* du marathon ont battu le record précédent.
-  Die *Sieger* des Marathons haben den bisherigen Rekord gebrochen.
+  The marathon *winners* beat the previous record.
 
   La combinaison *gagnante* a été jouée dans trois villes différentes.
-  Die *Gewinner*kombination wurde in drei verschiedenen Städten gespielt.
+  The winning combination was played in three different cities.
 
   C'est une situation *gagnante* pour tout le monde.
-  Das ist eine *gewinnbringende* Situation für alle.
+  It's a win-win situation for everyone.
 
   Le numéro *gagnant* sera tiré au sort ce soir.
-  Die *Gewinner*nummer wird heute Abend ausgelost.
+  The winning number will be drawn tonight.
 
   La *gagnante* du concours de cuisine a impressionné le jury.
-  Die *Siegerin* des Kochwettbewerbs hat die Jury beeindruckt.
+  The *winner* of the cooking contest impressed the jury.
 
   Les *gagnants* et les perdants se sont serrés la main après le match.
-  Die *Sieger* und Verlierer haben sich nach dem Spiel die Hand gegeben.
+  The *winners* and losers shake hands after the game.
 
   Cette stratégie commerciale s'est avérée *gagnante*.
-  Diese Geschäftsstrategie hat sich als *erfolgreich* erwiesen.
+  This commercial strategy has proved to be successful.
 
   Le candidat *gagnant* sera annoncé dimanche soir.
-  Der *siegreiche* Kandidat wird am Sonntagabend bekannt gegeben.
+  The winning candidate will be announced Sunday night.
 
   La formule *gagnante* ne doit pas être changée.
-  Die *erfolgreiche* Formel sollte nicht geändert werden.
+  The winning formula must not be changed.
 
   Les trois *gagnants* se partageront le premier prix.
-  Die drei *Gewinner* teilen sich den ersten Preis.
+  The three *winners* will share the first prize.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>vainqueur</i> und <i>gagnant</i></div>
+    <div class="section-title"><i>vainqueur</i> and <i>gagnant</i></div>
     <div class="section-content">
-      <p><span class="fr">Vainqueur</span> (#3307) bedeutet <span class="de">"Sieger"</span> und wird verwendet, um jemanden zu bezeichnen, der einen Gegner in einem Wettkampf, Konflikt oder einer Herausforderung besiegt hat. Es impliziert oft einen ernsthafteren oder bedeutenderen Sieg.</p>
+      <p><span class="fr">Vainqueur</span> (#3307) means <span class="de">"Victorious"</span> and is used to refer to someone who has defeated an opponent in a competition, conflict or challenge. It often implies a more serious or significant victory.</p>
       <div class="examples">
         <div class="fr">Elle est sortie vainqueur de cette bataille difficile.</div>
-        <div class="de spoiler">Sie ging als Siegerin aus dieser schwierigen Schlacht hervor.</div>
+        <div class="de spoiler">She emerged victorious in this difficult battle.</div>
         <div class="fr">L'équipe française est le vainqueur du tournoi.</div>
-        <div class="de spoiler">Das französische Team ist der Sieger des Turniers.</div>
+        <div class="de spoiler">The French team is the winner of the tournament.</div>
       </div>
-      <p><span class="fr">Gagnant</span> bedeutet <span class="de">"Gewinner"</span> und bezieht sich allgemeiner auf jemanden, der etwas gewonnen hat, sei es ein Spiel, eine Lotterie oder einen Preis. Es ist weniger formell und wird häufiger im Alltag verwendet.</p>
+      <p><span class="fr">Gagnant</span> means <span class="de">"Winner"</span> It's less formal, and it's more commonly used in everyday life.</p>
       <div class="examples">
         <div class="fr">Le gagnant du loto a remporté deux millions d'euros.</div>
-        <div class="de spoiler">Der Lottogewinner hat zwei Millionen Euro gewonnen.</div>
+        <div class="de spoiler">The winner of the lottery has won two million euros.</div>
         <div class="fr">Nous avons tous été gagnants dans cette situation.</div>
-        <div class="de spoiler">Wir waren alle Gewinner in dieser Situation.</div>
+        <div class="de spoiler">We were all winners in this situation.</div>
       </div>
     </div>
   </div>

@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1027
 Wort: susciter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: susciter
 Femininum / Plural: ''
 IPA: \sy.si.te\
-Definition: hervorrufen, auslösen
+Definition: to trigger
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Une femme qui a étudié la théologie *suscite* toujours quelque méfiance.
-  Eine Frau, die Theologie studiert hat, *ruft* immer ein gewisses Misstrauen *hervor*.
+  A woman who has studied theology still *arouses* some suspicion.
 
   Son comportement arrogant *suscite* la colère de ses collègues.
-  Sein arrogantes Verhalten *erregt* den Zorn seiner Kollegen.
+  His arrogant behavior makes his colleagues angry.
 
   Cette décision politique a *suscité* de vives protestations dans tout le pays.
-  Diese politische Entscheidung hat im ganzen Land heftige Proteste *hervorgerufen*.
+  This political decision sparked strong protests throughout the country.
 
   Le nouveau roman de cet auteur *suscite* beaucoup d'intérêt chez les jeunes lecteurs.
-  Der neue Roman dieses Autors *weckt* bei jungen Lesern großes Interesse.
+  The author's new novel is of great interest to young readers.
 
   Ces mesures d'austérité ont *suscité* un mouvement de grève.
-  Diese Sparmaßnahmen haben eine Streikbewegung *ausgelöst*.
+  These austerity measures led to a strike.
 
   La présence de ce candidat *suscite* l'enthousiasme de la foule.
-  Die Anwesenheit dieses Kandidaten *ruft* die Begeisterung der Menge *hervor*.
+  The presence of this candidate *arouses* enthusiasm in the crowd.
 
   Son succès *suscite* la jalousie de ses anciens amis.
-  Sein Erfolg *erregt* den Neid seiner alten Freunde.
+  His success *arouses* jealousy from his former friends.
 
   Cette exposition *suscite* l'admiration des visiteurs.
-  Diese Ausstellung *erweckt* die Bewunderung der Besucher.
+  This exhibition attracts visitors with admiration.
 
   Les réseaux sociaux *suscitent* souvent des débats houleux.
-  Soziale Netzwerke *verursachen* oft heftige Debatten.
+  Social media is often a source of heated debate.
 
   Cette nouvelle loi *suscite* beaucoup d'inquiétudes chez les parents.
-  Dieses neue Gesetz *ruft* bei den Eltern große Besorgnis *hervor*.
+  This new law is causing a lot of concern among parents.
 
   Son discours a *suscité* de nombreuses questions dans l'assemblée.
-  Seine Rede hat in der Versammlung viele Fragen *aufgeworfen*.
+  His talk raised many questions at the assembly.
 
   Ce professeur *suscite* l'intérêt des étudiants pour les sciences.
-  Dieser Professor *weckt* das Interesse der Studenten für die Wissenschaften.
+  This professor *arouses* the students' interest in science.
 
   Les changements climatiques *suscitent* de plus en plus d'anxiété.
-  Der Klimawandel *ruft* zunehmend Ängste *hervor*.
+  Climate change is causing more and more anxiety.
 
   Cette innovation technologique *suscite* l'espoir d'un meilleur avenir.
-  Diese technologische Innovation *weckt* die Hoffnung auf eine bessere Zukunft.
+  This technological innovation gives hope for a better future.
 
   Sa musique *suscite* des émotions profondes chez ses auditeurs.
-  Seine Musik *ruft* bei seinen Zuhörern tiefe Emotionen *hervor*.
+  His music *arouses* deep emotions in his listeners.
 
   Cette affaire *suscite* la curiosité des médias depuis des semaines.
-  Diese Angelegenheit *erregt* seit Wochen die Neugier der Medien.
+  This case has aroused media curiosity for weeks.
 
   Le nouveau projet *suscite* des obstacles administratifs imprévus.
-  Das neue Projekt *stößt* auf unerwartete administrative Hindernisse.
+  The new project raises unexpected administrative obstacles.
 
   Son talent extraordinaire *suscite* l'admiration de ses pairs.
-  Sein außergewöhnliches Talent *erweckt* die Bewunderung seiner Kollegen.
+  His extraordinary talent is admired by his peers.
 
   Cette crise économique *suscite* des troubles sociaux importants.
-  Diese Wirtschaftskrise *stiftet* erhebliche soziale Unruhen.
+  This economic crisis is causing major social upheavals.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

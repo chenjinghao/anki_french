@@ -1,58 +1,58 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4848
 Wort: énumérer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: énumérer
 Femininum / Plural: ''
 IPA: \e.ny.me.ʁe\
-Definition: auflisten, aufzählen
+Definition: Listing, counting
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est bien inutile d'*énumérer* les obstacles.
-  Es ist völlig unnötig, die Hindernisse *aufzuzählen*.
+  There is no need to list the obstacles.
 
   Les experts ont *énuméré* les risques potentiels du projet.
-  Die Experten haben die möglichen Risiken des Projekts *aufgezählt*.
+  The experts have *listed* the potential risks of the project.
 
   Le témoin a *énuméré* tous les détails de l'accident.
-  Der Zeuge hat alle Details des Unfalls *aufgeführt*.
+  The witness *listed* all the details of the accident.
 
   Elle commence à *énumérer* ses qualifications professionnelles.
-  Sie beginnt, ihre beruflichen Qualifikationen *aufzuzählen*.
+  She starts *listing* her professional qualifications.
 
   Le professeur *énumère* les dates importantes à retenir.
-  Der Lehrer *zählt* die wichtigen Daten *auf*, die man sich merken muss.
+  The teacher lists the important dates to remember.
 
   J'ai passé une heure à *énumérer* les avantages et les inconvénients.
-  Ich habe eine Stunde damit verbracht, die Vor- und Nachteile *aufzulisten*.
+  I spent an hour *listing* the pros and cons.
 
   Le guide nous *énumérait* les règles à suivre dans le musée.
-  Der Führer *zählte* uns die Regeln *auf*, die wir im Museum befolgen sollten.
+  The guide listed the rules to follow in the museum.
 
   Marie *énumère* ses griefs contre son ancien employeur.
-  Marie *listet* ihre Beschwerden gegen ihren ehemaligen Arbeitgeber *auf*.
+  Marie lists her grievances against her former employer.
 
   Le vendeur a *énuméré* les caractéristiques du produit.
-  Der Verkäufer hat die Eigenschaften des Produkts *aufgezählt*.
+  The seller *listed* the characteristics of the product.
 
   La secrétaire doit *énumérer* les dépenses une par une.
-  Die Sekretärin muss die Ausgaben einzeln *aufführen*.
+  The secretary must list the expenses one by one.
 
   Paul *énumérait* ses souvenirs d'enfance avec nostalgie.
-  Paul *zählte* nostalgisch seine Kindheitserinnerungen *auf*.
+  Paul listed his childhood memories with nostalgia.
 
   L'avocat va *énumérer* les preuves devant le tribunal.
-  Der Anwalt wird die Beweise vor Gericht *aufführen*.
+  The lawyer will list the evidence in court.
 
   Je vais *énumérer* les ingrédients nécessaires pour cette recette.
-  Ich werde die notwendigen Zutaten für dieses Rezept *aufzählen*.
+  I'm going to list the ingredients needed for this recipe.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

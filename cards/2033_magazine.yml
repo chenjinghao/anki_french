@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2033
 Wort: magazine
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le magazine
 Femininum / Plural: ''
 IPA: \ma.ga.zin\
-Definition: Magazin
+Definition: Printing presses
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On fait semblant de lire un *magazine*.
-  Man tut so, als würde man eine *Zeitschrift* lesen.
+  We're pretending to read a *magazine*.
 
   J'ai acheté le dernier numéro de mon *magazine* d'actualités préféré.
-  Ich habe die neueste Ausgabe meines liebsten Nachrichten*magazins* gekauft.
+  I bought the latest issue of my favorite news *magazine*.
 
   Elle feuillette distraitement un *magazine* de mode dans la salle d'attente.
-  Sie blättert zerstreut in einer Mode*zeitschrift* im Wartezimmer.
+  She's distracted reading a fashion *magazine* in the waiting room.
 
   Le *magazine* télévisé du dimanche soir attire toujours beaucoup de téléspectateurs.
-  Das Fernseh*magazin* am Sonntagabend zieht immer viele Zuschauer an.
+  The Sunday evening TV *magazine* still attracts a lot of viewers.
 
   Ce *magazine* pour enfants propose des jeux éducatifs et des histoires passionnantes.
-  Diese Kinder*zeitschrift* bietet lehrreiche Spiele und spannende Geschichten.
+  This children's *magazine* features educational games and exciting stories.
 
   "Tu as lu l'article sur l'intelligence artificielle dans le dernier *magazine* scientifique ?"
-  "Hast du den Artikel über künstliche Intelligenz im neuesten Wissenschafts*magazin* gelesen?"
+  "Have you read the article on artificial intelligence in the latest science *magazine*?"
 
   Le *magazine* économique a publié une analyse approfondie des tendances du marché.
-  Das Wirtschafts*magazin* hat eine eingehende Analyse der Markttrends veröffentlicht.
+  The economic *magazine* published an in-depth analysis of market trends.
 
   J'ai découvert un nouveau groupe de musique grâce à ce *magazine* spécialisé.
-  Ich habe dank dieser Fach*zeitschrift* eine neue Musikgruppe entdeckt.
+  I discovered a new band through this specialized *magazine*.
 
   Le *magazine* radio de ce matin a abordé des sujets variés et intéressants.
-  Das Radio*magazin* heute Morgen hat verschiedene interessante Themen behandelt.
+  This morning's radio *magazine* covered a variety of interesting topics.
 
   Les photos dans ce *magazine* de voyage me donnent envie de partir à l'aventure.
-  Die Fotos in dieser Reise*zeitschrift* machen mir Lust auf Abenteuer.
+  The pictures in this travel *magazine* make me want to go on an adventure.
 
   Le rédacteur en chef du *magazine* a décidé de changer la mise en page.
-  Der Chefredakteur des *Magazins* hat beschlossen, das Layout zu ändern.
+  The editor-in-chief of the *magazine* decided to change the layout.
 
   Ce *magazine* électronique offre un contenu interactif et des vidéos exclusives.
-  Dieses elektronische *Magazin* bietet interaktive Inhalte und exklusive Videos.
+  This e-*magazine* offers interactive content and exclusive videos.
 
   Les *magazines* féminins abordent souvent des sujets liés à la mode et au bien-être.
-  Frauen*zeitschriften* behandeln oft Themen rund um Mode und Wohlbefinden.
+  Women's *magazines* often cover topics related to fashion and well-being.
 
   Le nouveau *magazine* culturel de la chaîne propose des critiques de livres et de films.
-  Das neue Kultur*magazin* des Senders bietet Buch- und Filmkritiken.
+  The channel's new cultural *magazine* features book and film reviews.
 
   J'ai trouvé une recette délicieuse dans le dernier numéro de mon *magazine* culinaire.
-  Ich habe ein köstliches Rezept in der letzten Ausgabe meiner Koch*zeitschrift* gefunden.
+  I found a delicious recipe in the last issue of my culinary *magazine*.
 
   Le *magazine* d'art présente une rétrospective des œuvres de Picasso ce mois-ci.
-  Das Kunst*magazin* präsentiert diesen Monat eine Retrospektive von Picassos Werken.
+  The art *magazine* presents a retrospective of Picasso's works this month.
 
   Les *magazines* de mots croisés sont parfaits pour passer le temps pendant les voyages.
-  Kreuzworträtsel*hefte* sind perfekt, um sich während Reisen die Zeit zu vertreiben.
+  Crossword *magazines* are perfect for spending time while traveling.
 
   Le *magazine* sur les ordinateurs compare les derniers modèles de laptops.
-  Die Computer*zeitschrift* vergleicht die neuesten Laptop-Modelle.
+  The computer *magazine* compares the latest models of laptops.
 
   La rubrique *magazine* du journal propose des articles sur des sujets variés.
-  Die *Magazin*-Rubrik der Zeitung bietet Artikel zu verschiedenen Themen.
+  The *magazine*'s headline features articles on a variety of topics.
 
   Les *magazines* masculins traitent souvent de sport, de technologie et de style de vie.
-  Herren*magazine* beschäftigen sich oft mit Sport, Technologie und Lifestyle.
+  Men's *magazines* often cover sports, technology, and lifestyle.
 
   Le *magazine* télévisé d'information sera diffusé juste après le journal de 20 heures.
-  Das Fernseh-Nachrichten*magazin* wird gleich nach den 20-Uhr-Nachrichten ausgestrahlt.
+  The TV news *magazine* will be broadcast just after the 8 p.m. paper.
 
   La partie *magazine* du site web offre un contenu plus léger et divertissant.
-  Der *Magazin*-Teil der Website bietet leichtere und unterhaltsamere Inhalte.
+  The *magazine* section of the website offers lighter and more entertaining content.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

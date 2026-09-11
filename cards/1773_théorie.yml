@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1773
 Wort: théorie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la théorie
 Femininum / Plural: ''
 IPA: \te.ɔ.ʁi\
-Definition: Theorie
+Definition: Theory
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je crois me souvenir de tes *théories*.
-  Ich glaube, ich erinnere mich an deine *Theorien*.
+  I think I remember your *theories*.
 
   La *théorie* de la relativité d'Einstein a révolutionné la physique.
-  Einsteins Relativitäts*theorie* hat die Physik revolutioniert.
+  Einstein's *theory* of relativity revolutionized physics.
 
   *En théorie*, ce projet devrait être terminé la semaine prochaine.
-  *Theoretisch* sollte dieses Projekt nächste Woche fertig sein.
+  *In theory*, this project should be finished next week.
 
   Sa *théorie* sur l'origine de l'univers est très controversée.
-  Seine *Theorie* über den Ursprung des Universums ist sehr umstritten.
+  His *theory* of the origin of the universe is highly controversial.
 
   Les étudiants apprennent la *théorie* musicale au conservatoire.
-  Die Studenten lernen am Konservatorium Musik*theorie*.
+  Students learn music *theory* at the conservatory.
 
   Il y a souvent un grand écart entre la *théorie* et la pratique.
-  Zwischen *Theorie* und Praxis klafft oft eine große Lücke.
+  There is often a big gap between *theory* and practice.
 
   Les physiciens développent une nouvelle *théorie* des quanta.
-  Die Physiker entwickeln eine neue Quanten*theorie*.
+  Physicists are developing a new *theory* of quanta.
 
   Cette *théorie* littéraire m'a beaucoup aidé à comprendre le roman.
-  Diese Literatur*theorie* hat mir sehr geholfen, den Roman zu verstehen.
+  This literary *theory* has helped me a lot to understand the novel.
 
   Ma sœur étudie les *théories* économiques à l'université.
-  Meine Schwester studiert Wirtschafts*theorien* an der Universität.
+  My sister is studying economic theory at the university.
 
   Nous devons tester cette *théorie* par des expériences.
-  Wir müssen diese *Theorie* durch Experimente testen.
+  We need to test this *theory* with experiments.
 
   Les chercheurs ont élaboré une nouvelle *théorie* sur le climat.
-  Die Forscher haben eine neue *Theorie* zum Klima entwickelt.
+  Scientists have developed a new *theory* about the climate.
 
   Sa *théorie* du complot ne repose sur aucune preuve.
-  Seine Verschwörungs*theorie* basiert auf keinerlei Beweisen.
+  His conspiracy *theory* isn't based on any evidence.
 
   J'ai du mal à comprendre cette *théorie* mathématique.
-  Ich habe Schwierigkeiten, diese mathematische *Theorie* zu verstehen.
+  I'm having a hard time understanding this mathematical *theory*.
 
   Les professeurs enseignent d'abord la *théorie*, puis la pratique.
-  Die Lehrer unterrichten zuerst die *Theorie*, dann die Praxis.
+  Teachers teach *theory* first, then practice.
 
   La *théorie* de l'évolution explique la diversité des espèces.
-  Die Evolutions*theorie* erklärt die Artenvielfalt.
+  The *theory* of evolution explains the diversity of species.
 
   *En théorie*, ton plan pourrait fonctionner.
-  *Theoretisch* könnte dein Plan funktionieren.
+  *In theory*, your plan might work.
 
   Cette *théorie* scientifique n'a jamais été prouvée.
-  Diese wissenschaftliche *Theorie* wurde nie bewiesen.
+  This scientific *theory* has never been proven.
 
   Les étudiants doivent maîtriser plusieurs *théories* philosophiques.
-  Die Studenten müssen mehrere philosophische *Theorien* beherrschen.
+  Students must master several philosophical *theories*.
 
   Sa *théorie* sur ce qui s'est passé semble plausible.
-  Seine *Theorie* über das, was passiert ist, scheint plausibel.
+  His *theory* of what happened seems plausible.
 
   Cette *théorie* psychologique est largement acceptée aujourd'hui.
-  Diese psychologische *Theorie* ist heute weitgehend akzeptiert.
+  This psychological *theory* is widely accepted today.
 
   Les anciennes *théories* ont été remplacées par de nouvelles.
-  Die alten *Theorien* wurden durch neue ersetzt.
+  Old *theories* have been replaced by new ones.
 
   La *théorie* des jeux est utilisée en économie.
-  Die Spiel*theorie* wird in der Wirtschaft verwendet.
+  Game *theory* is used in economics.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

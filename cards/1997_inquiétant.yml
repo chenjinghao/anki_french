@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1997
 Wort: inquiétant
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: inquiétant
 Femininum / Plural: inquiétante
 IPA: \ɛ̃.kje.tɑ̃\
-Definition: besorgniserregend
+Definition: Concerned
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La puissance iranienne est *inquiétante*.
-  Die iranische Macht ist *beunruhigend*.
+  The Iranian power is *worrying*.
 
   Le silence de mon ami devient de plus en plus *inquiétant*.
-  Das Schweigen meines Freundes wird immer *beunruhigender*.
+  My friend's silence is becoming increasingly disturbing.
 
   Son comportement *inquiétant* fait peur à tout le monde.
-  Sein *Furcht erregendes* Verhalten macht allen Angst.
+  His disturbing behavior scares everyone.
 
   L'état du patient n'a rien d'*inquiétant*, selon le médecin.
-  Der Zustand des Patienten ist nach Aussage des Arztes nicht *besorgniserregend*.
+  According to the doctor, the patient's condition is nothing to worry about.
 
   Ces nouvelles *inquiétantes* ont surpris toute la famille.
-  Diese *beunruhigenden* Nachrichten haben die ganze Familie überrascht.
+  This disturbing news surprised the whole family.
 
   La situation économique prend des proportions *inquiétantes*.
-  Die Wirtschaftslage nimmt *beunruhigende* Ausmaße an.
+  The economic situation is growing alarmingly.
 
   Un personnage *inquiétant* est apparu dans le film d'horreur.
-  Eine *Furcht einflößende* Gestalt tauchte in dem Horrorfilm auf.
+  A disturbing character appeared in the horror movie.
 
   Les changements climatiques deviennent de plus en plus *inquiétants*.
-  Der Klimawandel wird zunehmend *besorgniserregender*.
+  Climate change is becoming increasingly *worrying*.
 
   Son visage *inquiétant* nous a fait reculer d'un pas.
-  Sein *Furcht erregendes* Gesicht ließ uns einen Schritt zurückweichen.
+  His *worrying* face made us step back.
 
   Les symptômes sont devenus *inquiétants* au fil des jours.
-  Die Symptome wurden im Laufe der Tage *beunruhigender*.
+  The symptoms have become troubling over the course of days.
 
   Cette *inquiétante* découverte a alerté les scientifiques.
-  Diese *beunruhigende* Entdeckung hat die Wissenschaftler alarmiert.
+  This disturbing discovery has alerted scientists.
 
   L'évolution de la maladie reste *inquiétante*.
-  Der Verlauf der Krankheit bleibt *besorgniserregend*.
+  The evolution of the disease remains *worrying*.
 
   Un bruit *inquiétant* venait de la cave.
-  Ein *beunruhigendes* Geräusch kam aus dem Keller.
+  There was a disturbing noise coming from the cellar.
 
   Les statistiques montrent une tendance *inquiétante*.
-  Die Statistiken zeigen einen *besorgniserregenden* Trend.
+  Statistics show a *worrying* trend.
 
   Cette *inquiétante* absence de réponse nous préoccupe tous.
-  Dieses *beunruhigende* Ausbleiben einer Antwort beschäftigt uns alle.
+  This disturbing lack of response concerns all of us.
 
   L'augmentation *inquiétante* des prix affecte toute la population.
-  Der *besorgniserregende* Preisanstieg betrifft die gesamte Bevölkerung.
+  The alarming rise in prices affects the entire population.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

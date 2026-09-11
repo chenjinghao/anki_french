@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4154
 Wort: teneur
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la teneur
 Femininum / Plural: ''
 IPA: \tə.nœʁ\
-Definition: Gehalt, Inhalt
+Definition: Salary, content
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il n'a pas révélé la *teneur* exacte de sa conversation.
-  Er hat den genauen *Inhalt* seines Gesprächs nicht preisgegeben.
+  He did not reveal the exact *content* of his conversation.
 
   La *teneur* informative de ce documentaire était remarquable.
-  Der Informations*gehalt* dieser Dokumentation war bemerkenswert.
+  The informative *content* of this documentary was remarkable.
 
   Nous devons vérifier la *teneur* en sel de l'eau de mer.
-  Wir müssen den Salz*gehalt* des Meerwassers überprüfen.
+  We need to check the salt *content* of the seawater.
 
   La *teneur* en vitamines des fruits frais est plus élevée.
-  Der Vitamin*gehalt* von frischem Obst ist höher.
+  The vitamin *content* of fresh fruit is higher.
 
   Cette loi changera selon la *teneur* des débats parlementaires.
-  Dieses Gesetz wird sich je nach dem *Inhalt* der parlamentarischen Debatten ändern.
+  This law will change depending on the *content* of the parliamentary debates.
 
   La *teneur* en or de ce bijou est certifiée.
-  Der Gold*gehalt* dieses Schmuckstücks ist zertifiziert.
+  The gold *content* of this jewelry is certified.
 
   J'ai analysé la *teneur* en ozone de l'air aujourd'hui.
-  Ich habe heute den Ozon*gehalt* der Luft analysiert.
+  I analyzed the ozone *content* of the air today.
 
   La *teneur* de cet article m'a vraiment fait réfléchir.
-  Der *Inhalt* dieses Artikels hat mich wirklich zum Nachdenken gebracht.
+  The *content* of this article really made me think.
 
   Les experts ont mesuré la *teneur* en fer du minerai.
-  Die Experten haben den Eisen*gehalt* des Erzes gemessen.
+  The experts measured the iron *content* of the ore.
 
   Quelle est la *teneur* exacte de sa lettre de démission ?
-  Was ist der genaue *Wortlaut* seines Kündigungsschreibens?
+  What exactly is the contents of his letter of resignation?
 
   La *teneur* en sucre de cette boisson est trop élevée.
-  Der Zucker*gehalt* dieses Getränks ist zu hoch.
+  The sugar *content* of this drink is too high.
 
   Je ne comprends pas la *teneur* de son message.
-  Ich verstehe den *Inhalt* seiner Nachricht nicht.
+  I don't understand the *content* of his message.
 
   La *teneur* en calcium du lait varie selon son origine.
-  Der Kalzium*gehalt* der Milch variiert je nach Herkunft.
+  The calcium *content* of milk varies according to its origin.
 
   Personne ne connaît la *teneur* exacte de l'accord.
-  Niemand kennt den genauen *Inhalt* der Vereinbarung.
+  No one knows the exact contents of the agreement.
 
   La *teneur* en protéines de ce repas est suffisante.
-  Der Protein*gehalt* dieser Mahlzeit ist ausreichend.
+  The protein *content* of this meal is sufficient.
 
   Les scientifiques surveillent la *teneur* en CO<sub>2</sub> de l'atmosphère.
-  Die Wissenschaftler überwachen den CO<sub>2</sub>-*Gehalt* der Atmosphäre.
+  Scientists are monitoring the CO2 *content* of the atmosphere.
 
   La *teneur* du document a été modifiée sans autorisation.
-  Der *Wortlaut* des Dokuments wurde ohne Genehmigung geändert.
+  The *content* of the document has been modified without authorisation.
 
   Nous devons réduire la *teneur* en graisses de notre alimentation.
-  Wir müssen den Fett*gehalt* unserer Ernährung reduzieren.
+  We need to reduce the fat *content* of our diets.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

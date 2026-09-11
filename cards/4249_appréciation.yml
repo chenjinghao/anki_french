@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4249
 Wort: appréciation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une appréciation
 Femininum / Plural: ''
 IPA: \a.pʁe.sja.sjɔ̃\
-Definition: Einschätzung, Beurteilung
+Definition: Assessment and evaluation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les courses à ski exigent une *appréciation* réfléchie du terrain.
-  Skirennen erfordern eine überlegte *Einschätzung* des Geländes.
+  Ski racing requires a thorough assessment of the terrain.
 
   L'*appréciation* de la valeur de ce tableau ancien nécessite une expertise.
-  Die *Schätzung* des Wertes dieses alten Gemäldes erfordert Sachverstand.
+  Assessing the value of this ancient table requires expertise.
 
   Le professeur a noté ses *appréciations* dans la marge de ma dissertation.
-  Der Lehrer hat seine *Bemerkungen* an den Rand meiner Hausarbeit geschrieben.
+  The professor noted his assessments in the margin of my dissertation.
 
   Son *appréciation* de la situation était complètement fausse.
-  Seine *Einschätzung* der Situation war völlig falsch.
+  His assessment of the situation was completely false.
 
   Je souhaite soumettre ce dossier à votre *appréciation*.
-  Ich möchte diese Akte Ihrer *Beurteilung* vorlegen.
+  I would like to submit this dossier for your consideration.
 
   Les *appréciations* élogieuses du critique ont surpris l'artiste.
-  Die lobenden *Beurteilungen* des Kritikers haben den Künstler überrascht.
+  The praise of the critics surprised the artist.
 
   L'*appréciation* du franc suisse inquiète les exportateurs.
-  Die *Aufwertung* des Schweizer Frankens beunruhigt die Exporteure.
+  The *appreciation* of the Swiss franc is a concern for exporters.
 
   Une erreur d'*appréciation* peut avoir des conséquences graves.
-  Ein *Einschätzungs*fehler kann schwerwiegende Folgen haben.
+  A mistake of assessment can have serious consequences.
 
   L'*appréciation* des risques fait partie de notre travail quotidien.
-  Die *Beurteilung* der Risiken gehört zu unserer täglichen Arbeit.
+  Risk assessment is part of our daily work.
 
   Cette décision est laissée à l'*appréciation* du jury.
-  Diese Entscheidung wird dem *Ermessen* der Jury überlassen.
+  This decision is left to the discretion of the jury.
 
   L'*appréciation* du mérite des candidats prend du temps.
-  Die *Beurteilung* der Leistung der Kandidaten braucht Zeit.
+  Appreciating the merits of candidates takes time.
 
   Son *appréciation* de la distance était remarquablement précise.
-  Seine *Abschätzung* der Entfernung war bemerkenswert genau.
+  His assessment of distance was remarkably accurate.
 
   Les *appréciations* sur son travail sont très positives.
-  Die *Beurteilungen* seiner Arbeit sind sehr positiv.
+  Appreciations for her work are very positive.
 
   Cette *appréciation* favorable m'a beaucoup encouragé.
-  Diese positive *Beurteilung* hat mich sehr ermutigt.
+  This positive *appreciation* has been very encouraging to me.
 
   L'*appréciation* des dommages prendra plusieurs jours.
-  Die *Schätzung* des Schadens wird mehrere Tage dauern.
+  It will take several days to assess the damage.
 
   Nous attendons votre *appréciation* sur ce projet.
-  Wir erwarten Ihre *Einschätzung* zu diesem Projekt.
+  We look forward to your *appreciation* of this project.
 
   L'*appréciation* impartiale des faits est essentielle.
-  Die unparteiische *Beurteilung* der Fakten ist wesentlich.
+  An unbiased assessment of the facts is essential.
 
   Les experts ont fait une *appréciation* détaillée des coûts.
-  Die Experten haben eine detaillierte *Schätzung* der Kosten vorgenommen.
+  The experts made a detailed estimate of the costs.
 
   Cette *appréciation* du marché s'est révélée exacte.
-  Diese *Einschätzung* des Marktes hat sich als richtig erwiesen.
+  This market assessment proved to be accurate.
 
   L'*appréciation* du préjudice sera faite par un expert.
-  Die *Schätzung* des Schadens wird von einem Gutachter vorgenommen.
+  The damage shall be assessed by an expert.
 
   Son *appréciation* de la vitesse était dangereusement inexacte.
-  Seine *Einschätzung* der Geschwindigkeit war gefährlich ungenau.
+  His assessment of speed was dangerously inaccurate.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

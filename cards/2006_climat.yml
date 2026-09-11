@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2006
 Wort: climat
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le climat
 Femininum / Plural: ''
 IPA: \kli.ma\
-Definition: Klima
+Definition: Climate policy
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Pour rétablir le *climat* de confiance, il faut gagner le respect.
-  Um das *Klima* des Vertrauens wiederherzustellen, muss man Respekt gewinnen.
+  To restore trust, respect must be earned.
 
   Le *climat* méditerranéen est caractérisé par des étés chauds et secs.
-  Das mediterrane *Klima* ist durch heiße und trockene Sommer gekennzeichnet.
+  The Mediterranean climate is characterized by hot and dry summers.
 
   Les experts étudient l'impact du changement *climatique* sur notre planète.
-  Die Experten untersuchen die Auswirkungen des *Klima*wandels auf unseren Planeten.
+  Experts are studying the impact of *climate* change on our planet.
 
   Ce *climat* tropical ne me convient pas du tout.
-  Dieses tropische *Klima* bekommt mir überhaupt nicht.
+  This tropical climate doesn't suit me at all.
 
   L'entreprise maintient un excellent *climat* de travail.
-  Das Unternehmen pflegt ein ausgezeichnetes Arbeits*klima*.
+  The company maintains an excellent working environment.
 
   Le *climat* social s'est considérablement détérioré ces derniers mois.
-  Das soziale *Klima* hat sich in den letzten Monaten erheblich verschlechtert.
+  The social climate has deteriorated considerably in recent months.
 
   Le *climat* des affaires s'améliore progressivement.
-  Das Geschäfts*klima* verbessert sich allmählich.
+  The business climate is gradually improving.
 
   Les plantes s'adaptent parfaitement au *climat* désertique.
-  Die Pflanzen passen sich perfekt an das Wüsten*klima* an.
+  Plants adapt perfectly to the desert climate.
 
   Un *climat* d'hostilité règne entre les deux pays.
-  Zwischen den beiden Ländern herrscht ein *Klima* der Feindseligkeit.
+  A hostile atmosphere prevails between the two countries.
 
   Le *climat* continental apporte des hivers rigoureux.
-  Das Kontinental*klima* bringt strenge Winter mit sich.
+  The continental climate brings harsh winters.
 
   Les changements de *climat* affectent la biodiversité.
-  Die *Klima*veränderungen wirken sich auf die Biodiversität aus.
+  Climate change is affecting biodiversity.
 
   Le *climat* politique actuel favorise les réformes.
-  Das aktuelle politische *Klima* begünstigt Reformen.
+  The current political climate promotes reforms.
 
   Ce *climat* humide provoque souvent des allergies.
-  Dieses feuchte *Klima* verursacht oft Allergien.
+  This wet climate often causes allergies.
 
   Le *climat* océanique est caractérisé par des précipitations régulières.
-  Das ozeanische *Klima* ist durch regelmäßige Niederschläge gekennzeichnet.
+  The oceanic climate is characterized by regular rainfall.
 
   Un *climat* de tension règne dans la salle de réunion.
-  Im Konferenzraum herrscht ein angespanntes *Klima*.
+  There's a tense atmosphere in the meeting room.
 
   Le *climat* équatorial maintient une température constante.
-  Das Äquatorial*klima* hält eine konstante Temperatur.
+  The equatorial climate maintains a constant temperature.
 
   Les investisseurs surveillent attentivement le *climat* du marché.
-  Die Investoren beobachten aufmerksam das Markt*klima*.
+  Investors are closely monitoring the market climate.
 
   Ce micro*climat* particulier permet la culture des agrumes.
-  Dieses besondere Mikro*klima* ermöglicht den Anbau von Zitrusfrüchten.
+  This particular microclimate allows citrus fruit to be grown.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

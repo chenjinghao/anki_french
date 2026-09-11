@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3235
 Wort: décourager
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: décourager
 Femininum / Plural: ''
 IPA: \de.ku.ʁa.ʒe\
-Definition: entmutigen
+Definition: discourage
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il ne faut surtout pas se *décourager*.
-  Man darf auf keinen Fall den *Mut verlieren*.
+  Above all, we should not be discouraged.
 
   Les mauvais résultats ont *découragé* toute l'équipe.
-  Die schlechten Ergebnisse haben das ganze Team *entmutigt*.
+  The bad results *discouraged* the entire team.
 
   "Il y a de quoi se *décourager* avec tout ce travail !"
-  "Bei der ganzen Arbeit könnte man echt den *Mut verlieren*!"
+  "There's something to be discouraged about with all this work!"
 
   Sa mère l'a *découragé* de devenir artiste.
-  Seine Mutter hat ihn davon *abgebracht*, Künstler zu werden.
+  His mother *discouraged* him from becoming an artist.
 
   Le système d'alarme *décourage* les voleurs.
-  Die Alarmanlage *schreckt* die Diebe *ab*.
+  The alarm system discourages thieves.
 
   Son attitude négative *décourage* toute discussion constructive.
-  Seine negative Haltung *lähmt* jede konstruktive Diskussion.
+  His negative attitude discourages any constructive discussion.
 
   Je me suis laissé *décourager* par les difficultés.
-  Ich habe mich von den Schwierigkeiten *entmutigen* lassen.
+  I let myself be discouraged by the difficulties.
 
   Les prix élevés ont *découragé* les acheteurs potentiels.
-  Die hohen Preise haben potenzielle Käufer *abgeschreckt*.
+  High prices have *discouraged* potential buyers.
 
   Elle était complètement *découragée* après son échec.
-  Sie war nach ihrem Misserfolg völlig *entmutigt*.
+  She was completely *discouraged* after her failure.
 
   Ces nouvelles mesures vont *décourager* la fraude.
-  Diese neuen Maßnahmen werden Betrug *verhindern*.
+  These new measures will *discourage* fraud.
 
   Ne te laisse pas *décourager* par les critiques !
-  Lass dich von der Kritik nicht *entmutigen*!
+  Don't be discouraged by the criticism.
 
   La pluie a *découragé* les manifestants.
-  Der Regen hat die Demonstranten *abgeschreckt*.
+  The rain *discouraged* the protesters.
 
   Son indifférence finira par me *décourager*.
-  Seine Gleichgültigkeit wird mich am Ende *entmutigen*.
+  His indifference will eventually *discourage* me.
 
   Les étudiants se sont vite *découragés* face à la difficulté de l'exercice.
-  Die Studenten haben angesichts der schwierigen Aufgabe schnell den *Mut verloren*.
+  The students were soon *discouraged* by the difficulty of the exercise.
 
   Cette situation pourrait *décourager* même les plus motivés.
-  Diese Situation könnte selbst die Motiviertesten *entmutigen*.
+  This situation could *discourage* even the most motivated ones.
 
   Son exemple *décourage* toute familiarité.
-  Sein Beispiel *lässt* keine Vertraulichkeit *aufkommen*.
+  Her example discourages any familiarity.
 
   La complexité du projet a *découragé* plusieurs participants.
-  Die Komplexität des Projekts hat mehrere Teilnehmer *abgeschreckt*.
+  The complexity of the project *discouraged* many participants.
 
   Je ne veux pas te *décourager*, mais ce sera difficile.
-  Ich will dich nicht *entmutigen*, aber es wird schwierig werden.
+  I don't want to *discourage* you, but it's going to be hard.
 
   Les obstacles ne devraient pas nous *décourager*.
-  Die Hindernisse sollten uns nicht *entmutigen*.
+  Obstacles should not *discourage* us.
 
   Cette expérience l'a définitivement *découragé* de continuer.
-  Diese Erfahrung hat ihn endgültig davon *abgehalten* weiterzumachen.
+  This experience definitely *discouraged* him from continuing.
 
   Au lieu de se *décourager*, elle a redoublé d'efforts.
-  Anstatt den *Mut zu verlieren*, hat sie ihre Anstrengungen verdoppelt.
+  Rather than give up, she worked harder.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

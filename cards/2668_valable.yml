@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2668
 Wort: valable
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: valable
 Femininum / Plural: ''
 IPA: \va.labl\
-Definition: gültig
+Definition: Valid
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Comme toute histoire *valable*, celle-ci concerne une fille.
-  Wie jede *ordentliche* Geschichte handelt auch diese von einem Mädchen.
+  Like any good story, this one's about a girl.
 
   Cette carte d'identité n'est plus *valable* depuis trois mois.
-  Dieser Personalausweis ist seit drei Monaten nicht mehr *gültig*.
+  This ID card is no longer valid for three months.
 
   Le billet de train est *valable* jusqu'à minuit.
-  Die Zugfahrkarte ist bis Mitternacht *gültig*.
+  The train ticket *is valid* until midnight.
 
   Cette promotion est *valable* uniquement en magasin.
-  Dieses Angebot ist nur im Geschäft *gültig*.
+  This promotion is only valid in stores.
 
   Votre passeport doit être *valable* au moins six mois après votre retour.
-  Ihr Reisepass muss mindestens sechs Monate nach Ihrer Rückkehr *gültig* sein.
+  Your passport must be valid for at least six months after your return.
 
   Cette offre exceptionnelle sera *valable* pendant tout le mois de juin.
-  Dieses Sonderangebot ist den ganzen Juni *gültig*.
+  This exceptional offer will be valid for the entire month of June.
 
   Le contrat n'est pas juridiquement *valable* sans votre signature.
-  Der Vertrag ist ohne Ihre Unterschrift nicht rechts*gültig*.
+  The contract is not legally valid without your signature.
 
   Les billets sont *valables* sur toutes les lignes de bus.
-  Die Fahrscheine sind für alle Buslinien *gültig*.
+  Tickets *are valid* on all bus lines.
 
   Son argument n'était pas vraiment *valable*.
-  Sein Argument war nicht wirklich *stichhaltig*.
+  His argument wasn't really valid.
 
   Elle n'a donné aucune raison *valable* pour son absence.
-  Sie hat keinen *triftigen* Grund für ihre Abwesenheit genannt.
+  She gave no valid reason for her absence.
 
   "C'est un mec *valable*, tu peux lui faire confiance."
-  "Er ist ein *ordentlicher* Typ, du kannst ihm vertrauen."
+  "He's a good guy, you can trust him".
 
   Ces critères ne sont pas assez *valables* pour prendre une décision.
-  Diese Kriterien sind nicht *hinreichend*, um eine Entscheidung zu treffen.
+  These criteria are not valid enough to make a decision.
 
   Cette théorie n'est plus *valable* depuis les nouvelles découvertes.
-  Diese Theorie ist seit den neuen Entdeckungen nicht mehr *gerechtfertigt*.
+  This theory is no longer valid since the new discoveries.
 
   Les réductions sont *valables* dans tous nos magasins.
-  Die Ermäßigungen sind in allen unseren Geschäften *gültig*.
+  The discounts *are valid* in all our stores.
 
   Cette hypothèse est-elle encore *valable* aujourd'hui ?
-  Ist diese Hypothese heute noch *gerechtfertigt*?
+  Is this hypothesis still valid today?
 
   Nous recherchons des témoins *valables* pour cette affaire.
-  Wir suchen *brauchbare* Zeugen für diesen Fall.
+  We're looking for credible witnesses to this case.
 
   Je n'ai trouvé aucun interlocuteur *valable* pour discuter de ce sujet.
-  Ich habe keinen *akzeptablen* Gesprächspartner zu diesem Thema gefunden.
+  I have not found a suitable interlocutor to discuss this matter.
 
   C'est une solution tout à fait *valable* pour résoudre ce problème.
-  Das ist eine durchaus *ordentliche* Lösung für dieses Problem.
+  This is a very valid solution to this problem.
 
   Cette excuse n'est pas *valable* pour justifier ton retard.
-  Diese Ausrede ist nicht *stichhaltig* genug, um deine Verspätung zu rechtfertigen.
+  That's not a valid excuse to justify your delay.
 
   L'abonnement reste *valable* jusqu'à la fin de l'année.
-  Das Abonnement bleibt bis zum Ende des Jahres *gültig*.
+  The subscription *is valid* until the end of the year.
 
   Cette adresse n'est plus *valable* depuis son déménagement.
-  Diese Adresse ist seit seinem Umzug nicht mehr *gültig*.
+  This address is no longer valid since she moved in.
 
   Les tickets restaurant sont *valables* un an.
-  Die Essensmarken sind ein Jahr lang *gültig*.
+  Restaurant tickets *are valid* for one year.
 
   Cette carte de réduction n'est *valable* que pour les étudiants.
-  Diese Rabattkarte ist nur für Studierende *gültig*.
+  This discount card is only valid for students.
 
   C'est une affaire très *valable*, il faut saisir cette opportunité.
-  Das ist ein sehr *einträgliches* Geschäft, man muss diese Gelegenheit nutzen.
+  It's a very valid case, we must seize this opportunity.
 
   Le permis de conduire est *valable* dix ans.
-  Der Führerschein ist zehn Jahre *gültig*.
+  The driving licence *is valid* for ten years.
 
   L'assurance n'est plus *valable* après la date d'expiration.
-  Die Versicherung ist nach dem Ablaufdatum nicht mehr *gültig*.
+  The insurance shall cease to be valid after the expiry date.
 
   Cette loi est *valable* dans toute l'Union européenne.
-  Dieses Gesetz ist in der ganzen Europäischen Union *gültig*.
+  This law applies throughout the European Union.
 
   Le coupon de réduction est *valable* jusqu'à la fin du mois.
-  Der Rabattgutschein ist bis zum Monatsende *gültig*.
+  The discount coupon *is valid* until the end of the month.
 
   Les résultats ne seront pas *valables* sans une méthodologie rigoureuse.
-  Die Ergebnisse werden ohne eine strenge Methodik nicht *gültig* sein.
+  The results will not be valid without a rigorous methodology.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

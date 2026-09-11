@@ -1,64 +1,64 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3949
 Wort: natal
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: natal
 Femininum / Plural: natale
 IPA: \na.tal\
-Definition: Geburts-
+Definition: Births and deaths
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il voulait quitter sa ville *natale*.
-  Er wollte seine *Geburts*stadt verlassen.
+  He wanted to leave his hometown.
 
   La langue *natale* de Marie est le français.
-  Maries *Mutter*sprache ist Französisch.
+  Marie's native language is French.
 
   Je suis retourné dans ma terre *natale* après vingt ans d'absence.
-  Nach zwanzig Jahren Abwesenheit bin ich in meine *Heimat* zurückgekehrt.
+  I returned to my homeland after twenty years of absence.
 
   Elle a transformé sa maison *natale* en musée.
-  Sie hat ihr *Geburts*haus in ein Museum verwandelt.
+  She turned her hometown into a museum.
 
   L'architecte a restauré la demeure *natale* de Victor Hugo.
-  Der Architekt hat Victor Hugos *Geburts*haus restauriert.
+  The architect restored Victor Hugo's home.
 
   Les touristes visitent souvent la région *natale* de Mozart.
-  Die Touristen besuchen oft Mozarts *Heimat*region.
+  Tourists often visit Mozart's native region.
 
   Mon père n'a jamais oublié son Italie *natale*.
-  Mein Vater hat seine *Heimat* Italien nie vergessen.
+  My father never forgot his native Italy.
 
   Cette écrivaine célèbre a fait don de sa maison *natale* à la ville.
-  Diese berühmte Schriftstellerin hat ihr *Geburts*haus der Stadt geschenkt.
+  This famous writer donated her hometown to the city.
 
   Il enseigne sa langue *natale* aux étudiants étrangers.
-  Er unterrichtet seine *Mutter*sprache für ausländische Studenten.
+  He teaches his native language to foreign students.
 
   La ville a restauré la rue *natale* du compositeur.
-  Die Stadt hat die *Geburts*straße des Komponisten renoviert.
+  The city has restored the composer's hometown street.
 
   Nous avons visité le village *natal* de mes grands-parents.
-  Wir haben das *Heimat*dorf meiner Großeltern besucht.
+  We visited my grandparents' hometown.
 
   Elle a conservé l'accent de sa région *natale*.
-  Sie hat den Akzent ihrer *Heimat*region behalten.
+  She kept the accent of her native region.
 
   Le poète évoque souvent sa terre *natale* dans ses œuvres.
-  Der Dichter erwähnt oft seine *Heimat* in seinen Werken.
+  The poet often mentions his native land in his works.
 
   Les immigrants gardent un fort attachement à leur pays *natal*.
-  Die Einwanderer haben eine starke Bindung an ihr *Heimat*land.
+  Immigrants have a strong attachment to their homeland.
 
   La maison *natale* de Beethoven attire de nombreux visiteurs.
-  Beethovens *Geburts*haus zieht viele Besucher an.
+  Beethoven's birthplace attracts many visitors.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

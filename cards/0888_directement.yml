@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 888
 Wort: directement
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: directement
 Femininum / Plural: ''
 IPA: \di.ʁɛk.tə.mɑ̃\
-Definition: direkt, sofort
+Definition: Right now
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Son action s'exerce *directement* ou par intermédiaire.
-  Seine Wirkung erfolgt *direkt* oder über einen Vermittler.
+  Its action is either direct or indirect.
 
   Il est allé *directement* à l'essentiel dans son discours.
-  Er kam in seiner Rede *direkt* auf den Punkt.
+  He went straight to the main point in his speech.
 
   Elle m'a *directement* posé la question qui la tracassait.
-  Sie hat mir *geradeheraus* die Frage gestellt, die sie beschäftigte.
+  She asked me *directly* the question that bothered her.
 
   Cette fenêtre donne *directement* sur la mer.
-  Dieses Fenster geht *direkt* zum Meer hinaus.
+  This window looks straight at the sea.
 
   Ces légumes viennent *directement* du jardin.
-  Dieses Gemüse kommt *direkt* aus dem Garten.
+  These vegetables come straight from the garden.
 
   Je vais te répondre *directement* : ce n'est pas possible.
-  Ich werde dir *direkt* antworten: Das ist nicht möglich.
+  I will answer you *directly*: it is not possible.
 
   La boutique se trouve *directement* en face de la mairie.
-  Der Laden befindet sich *direkt* gegenüber dem Rathaus.
+  The shop is right across the street from the town hall.
 
   Cette affaire me touche *directement*.
-  Diese Angelegenheit betrifft mich *direkt*.
+  I'm *directly* involved in this case.
 
   Il descend *directement* des rois de France.
-  Er stammt in *direkter* Linie von den französischen Königen ab.
+  He is a direct descendant of the kings of France.
 
   Après le travail, je rentre *directement* chez moi.
-  Nach der Arbeit gehe ich *direkt* nach Hause.
+  After work, I go straight home.
 
   Les deux routes sont *directement* opposées.
-  Die beiden Straßen verlaufen *direkt* entgegengesetzt.
+  The two roads are *directly* opposite.
 
   Il a abordé *directement* le sujet qui fâche.
-  Er sprach das heikle Thema *direkt* an.
+  He went straight to the annoying subject.
 
   Je préfère acheter mes produits *directement* chez le producteur.
-  Ich kaufe meine Produkte lieber *direkt* beim Erzeuger.
+  I prefer to buy my products *directly* from the manufacturer.
 
   Cette décision vous concerne *directement*.
-  Diese Entscheidung betrifft Sie *persönlich*.
+  This decision concerns you *directly*.
 
   Son comportement est *directement* contraire au règlement.
-  Sein Verhalten widerspricht *direkt* der Vorschrift.
+  His behaviour is *directly* contrary to the regulations.
 
   Nous communiquons *directement* avec nos clients.
-  Wir kommunizieren *direkt* mit unseren Kunden.
+  We communicate *directly* with our clients.
 
   Le train va *directement* à Paris, sans arrêt.
-  Der Zug fährt *direkt* nach Paris, ohne Halt.
+  The train goes straight to Paris, non-stop.
 
   Elle m'a *directement* dit ce qu'elle pensait.
-  Sie hat mir *freiheraus* gesagt, was sie dachte.
+  She told me *directly* what she was thinking.
 
   Cette question a trait *directement* à notre sujet.
-  Diese Frage steht in *direktem* Zusammenhang mit unserem Thema.
+  This question relates *directly* to us.
 
   L'escalier mène *directement* au toit.
-  Die Treppe führt *direkt* zum Dach.
+  The stairs lead straight to the roof.
 
   Je préfère négocier *directement* avec le patron.
-  Ich verhandle lieber *direkt* mit dem Chef.
+  I'd rather negotiate *directly* with the boss.
 
   Il faut attaquer le problème *directement*.
-  Man muss das Problem *direkt* angehen.
+  We have to tackle the problem *directly*.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

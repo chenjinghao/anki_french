@@ -1,61 +1,61 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4732
 Wort: décerner
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: décerner
 Femininum / Plural: ''
 IPA: \de.sɛʁ.ne\
-Definition: verleihen, zuerkennen
+Definition: to grant, recognise
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   En science, on ne *décerne* pas de distinction pour les redécouvertes.
-  In der Wissenschaft *verleiht* man keine Auszeichnungen für Wiederentdeckungen.
+  In science, no distinction is made for rediscovery.
 
   Le jury lui a *décerné* le premier prix à l'unanimité.
-  Die Jury hat ihm einstimmig den ersten Preis *verliehen*.
+  The jury unanimously *awarded* him first prize.
 
   L'académie *décernera* trois bourses d'études cette année.
-  Die Akademie wird dieses Jahr drei Stipendien *vergeben*.
+  The academy will award three scholarships this year.
 
   Le juge a *décerné* un mandat d'arrêt contre le suspect.
-  Der Richter hat einen Haftbefehl gegen den Verdächtigen *erlassen*.
+  The judge issued an arrest warrant against the suspect.
 
   Les critiques lui ont *décerné* la palme du meilleur film.
-  Die Kritiker haben ihm die Auszeichnung für den besten Film *zuerkannt*.
+  Critics *awarded* him the Palme d'Or for best film.
 
   On lui a *décerné* la médaille d'or pour ses performances exceptionnelles.
-  Man hat ihm für seine außergewöhnlichen Leistungen die Goldmedaille *verliehen*.
+  He was *awarded* the Gold Medal for his outstanding performance.
 
   Le comité *décerne* chaque année un prix pour l'innovation.
-  Das Komitee *verleiht* jedes Jahr einen Preis für Innovation.
+  Each year the Committee awards an award for innovation.
 
   La ville lui a *décerné* le titre de citoyen d'honneur.
-  Die Stadt hat ihm den Titel des Ehrenbürgers *verliehen*.
+  The city *awarded* him the title of honorary citizen.
 
   Le tribunal a *décerné* un mandat de perquisition.
-  Das Gericht hat einen Durchsuchungsbefehl *erlassen*.
+  The court issued a search warrant.
 
   Cette université *décerne* des diplômes reconnus internationalement.
-  Diese Universität *verleiht* international anerkannte Abschlüsse.
+  This university awards internationally recognized degrees.
 
   On lui a *décerné* le prix Nobel de littérature à titre posthume.
-  Man hat ihm den Nobelpreis für Literatur posthum *verliehen*.
+  He was posthumously *awarded* the Nobel Prize for Literature.
 
   Le festival *décernera* trois récompenses ce soir.
-  Das Festival wird heute Abend drei Auszeichnungen *verleihen*.
+  The festival will present three awards tonight.
 
   Le public lui a *décerné* le prix du meilleur espoir.
-  Das Publikum hat ihr den Preis für die beste Nachwuchskünstlerin *verliehen*.
+  The audience gave him the prize for best hope.
 
   La fondation *décerne* des bourses aux étudiants les plus méritants.
-  Die Stiftung *vergibt* Stipendien an die verdienstvollsten Studenten.
+  The foundation grants scholarships to the most deserving students.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

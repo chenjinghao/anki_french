@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4973
 Wort: synonyme
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le synonyme
 Femininum / Plural: ''
 IPA: \si.nɔ.nim\
-Definition: Synonym; gleichbedeutend
+Definition: Synonyms; equivalent
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La communauté européenne n'est plus *synonyme* de l'Europe.
-  Die Europäische Gemeinschaft ist nicht mehr *gleichbedeutend* mit Europa.
+  The European Community is no longer synonymous with Europe.
 
   Le dictionnaire de *synonymes* m'aide beaucoup à enrichir mon vocabulaire.
-  Das *Synonym*wörterbuch hilft mir sehr, meinen Wortschatz zu erweitern.
+  The dictionary of *synonyms* helps me a lot to enrich my vocabulary.
 
   Pour moi, vacances et bonheur sont *synonymes*.
-  Für mich sind Urlaub und Glück *gleichbedeutend*.
+  For me, holidays and happiness are synonymous.
 
   Les mots « voiture » et « automobile » sont *synonymes*.
-  Die Wörter „Auto" und „Automobil" sind *bedeutungsgleich*.
+  The words  car  and  automobile  are synonymous.
 
   « Travail » et « labeur » sont des termes *synonymes*, mais pas du même registre.
-  „Arbeit" und „Mühe" sind *bedeutungsgleiche* Wörter, gehören aber zu verschiedenen Stilebenen.
+  Labour  and  labour  are *synonyms*, but not of the same register.
 
   Mon professeur nous demande toujours de chercher des *synonymes* pour éviter les répétitions.
-  Meine Lehrerin bittet uns immer, *Synonyme* zu suchen, um Wiederholungen zu vermeiden.
+  My teacher always tells us to look for *synonyms* to avoid repetition.
 
   Dans ce contexte, la peur est *synonyme* de prudence.
-  In diesem Kontext ist Angst *gleichbedeutend* mit Vorsicht.
+  In this context, fear is synonymous with caution.
 
   Le mot « boulot » est un *synonyme* familier de « travail ».
-  Das Wort „Job" ist ein umgangssprachliches *Synonym* für „Arbeit".
+  The word  job  is a familiar *synonym* for  work .
 
   Je cherche un *synonyme* plus élégant pour le mot « manger ».
-  Ich suche ein eleganteres *Synonym* für das Wort „essen".
+  I'm looking for a more elegant *synonym* for the word  eat .
 
   Ces deux expressions sont-elles vraiment *synonymes* ?
-  Sind diese beiden Ausdrücke wirklich *bedeutungsgleich*?
+  Are these two expressions really synonymous?
 
   La richesse n'est pas toujours *synonyme* de bonheur.
-  Reichtum ist nicht immer *gleichbedeutend* mit Glück.
+  Wealth is not always synonymous with happiness.
 
   Le dictionnaire propose trois *synonymes* pour ce terme technique.
-  Das Wörterbuch schlägt drei *Synonyme* für diesen Fachbegriff vor.
+  The dictionary offers three *synonyms* for this technical term.
 
   « Content » et « heureux » ne sont pas exactement *synonymes*.
-  „Zufrieden" und „glücklich" sind nicht exakt *bedeutungsgleich*.
+  Content  and  happy  are not exactly synonymous.
 
   Les botanistes utilisent parfois des noms *synonymes* pour la même plante.
-  Botaniker verwenden manchmal *synonyme* Namen für dieselbe Pflanze.
+  Botanists sometimes use synonymous names for the same plant.
 
   Dans son livre, l'auteur donne plusieurs *synonymes* de chaque mot clé.
-  In seinem Buch gibt der Autor mehrere *Synonyme* für jedes Schlüsselwort.
+  In his book, the author gives several *synonyms* for each keyword.
 
   Cette réforme est devenue *synonyme* d'échec pour beaucoup de citoyens.
-  Diese Reform ist für viele Bürger zum *Synonym* für Misserfolg geworden.
+  This reform has become a failure for many citizens.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

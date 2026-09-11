@@ -1,103 +1,103 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1354
 Wort: gérer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: gérer
 Femininum / Plural: ''
 IPA: \ʒe.ʁe\
-Definition: verwalten, führen
+Definition: managing
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous savons comment *gérer* l'éducation.
-  Wir wissen, wie man Bildung *verwaltet*.
+  We know how to handle education.
 
   Elle *gère* efficacement cette succursale depuis des années.
-  Sie *leitet* diese Filiale seit Jahren effizient.
+  She's been running this branch office effectively for years.
 
   Mon frère *gère* un petit magasin de vélos en centre-ville.
-  Mein Bruder *führt* einen kleinen Fahrradladen in der Innenstadt.
+  My brother runs a small bike shop downtown.
 
   L'agence immobilière *gère* plusieurs immeubles dans le quartier.
-  Die Immobilienagentur *verwaltet* mehrere Gebäude in der Nachbarschaft.
+  The real estate agency manages several buildings in the neighborhood.
 
   Le conseil d'administration *gère* la société depuis sa création.
-  Der Vorstand ist seit der Gründung mit der Gesellschaftsführung *beauftragt*.
+  The Board of Directors has been *managing* the company since its inception.
 
   Avec ce nouvel emploi, j'apprends à mieux *gérer* mon budget.
-  Mit diesem neuen Job lerne ich, besser zu *wirtschaften*.
+  With this new job, I'm learning how to better manage my budget.
 
   "Ne t'inquiète pas pour le projet, je *gère*!"
-  "Mach dir keine Sorgen um das Projekt, ich *kriege das in den Griff*!"
+  "Don't worry about the project, I'll handle it!"
 
   Le logiciel aide à *gérer* efficacement les stocks de l'entreprise.
-  Die Software hilft dabei, die Lagerbestände des Unternehmens effizient zu *verwalten*.
+  The software helps to effectively manage the company's inventory.
 
   Il a du mal à *gérer* ses émotions dans des situations stressantes.
-  Er hat Schwierigkeiten, seine Emotionen in stressigen Situationen zu *beherrschen*.
+  He has a hard time *managing* his emotions in stressful situations.
 
   Le gouvernement tente de *gérer* la crise économique actuelle.
-  Die Regierung versucht, die aktuelle Wirtschaftskrise *in den Griff zu bekommen*.
+  The government is trying to manage the current economic crisis.
 
   Après la thérapie, elle a appris à mieux *gérer* son passé traumatique.
-  Nach der Therapie hat sie gelernt, sich besser mit ihrer traumatischen Vergangenheit *auseinanderzusetzen*.
+  After the therapy, she learned to cope better with her traumatic past.
 
   Les parents doivent apprendre à leurs enfants à *gérer* leur temps libre.
-  Eltern sollten ihren Kindern beibringen, ihre Freizeit sinnvoll zu *gestalten*.
+  Parents need to teach their children how to manage their free time.
 
   L'avocat a été nommé pour *gérer* les intérêts de son client mineur.
-  Der Anwalt wurde ernannt, um die Interessen seines minderjährigen Mandanten zu *verwalten*.
+  The lawyer has been appointed to manage the interests of his minor client.
 
   Le nouveau directeur *gère* le commerce d'une main de maître.
-  Der neue Direktor *leitet* das Geschäft meisterhaft.
+  The new director manages the business with one master hand.
 
   L'entreprise a investi dans un système pour mieux *gérer* ses données informatiques.
-  Das Unternehmen hat in ein System investiert, um seine Computerdaten besser zu *verwalten*.
+  The company has invested in a system to better manage its computer data.
 
   Les autorités tentent de *gérer* la pénurie d'eau pendant la sécheresse.
-  Die Behörden versuchen, den Wassermangel während der Dürre zu *bewältigen*.
+  The authorities are trying to manage the water shortage during the drought.
 
   "Comment *gères*-tu le stress avant tes examens?"
-  "Wie *gehst du* mit dem Stress vor deinen Prüfungen *um*?"
+  "How do you handle stress before your exams?"
 
   Le tuteur légal doit *gérer* les biens de l'enfant jusqu'à sa majorité.
-  Der gesetzliche Vormund muss das Vermögen des Kindes bis zur Volljährigkeit *verwalten*.
+  The legal guardian must manage the child's property until the child reaches the age of majority.
 
   Notre équipe *gère* actuellement plusieurs projets importants.
-  Unser Team *betreut* derzeit mehrere wichtige Projekte.
+  Our team is currently *managing* several important projects.
 
   Il faut apprendre à *gérer* son temps pour être productif au travail.
-  Man muss lernen, seine Zeit zu *managen*, um bei der Arbeit produktiv zu sein.
+  You have to learn to manage your time to be productive at work.
 
   Le comité a été créé pour *gérer* la crise environnementale dans la région.
-  Das Komitee wurde gegründet, um die Umweltkrise in der Region zu *bewältigen*.
+  The committee was set up to deal with the environmental crisis in the region.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>mener</i> und <i>gérer</i></div>
+    <div class="section-title"><i>mener</i> and <i>gérer</i></div>
     <div class="section-content">
-      <p><span class="fr">Mener</span> (#316) bedeutet <span class="de">"führen"</span> oder <span class="de">"leiten"</span> im Sinne von Anleitung und Richtungsvorgabe. Es impliziert oft eine aktive Rolle in der Führung einer Gruppe oder eines Projekts.</p>
+      <p><span class="fr">Mener</span> #316) means <span class="de">"Lead"</span> or <span class="de">'leading'</span> It often implies an active role in the management of a group or a project.</p>
       <div class="examples">
         <div class="fr">Il mène l'équipe vers la victoire.</div>
-        <div class="de spoiler">Er führt das Team zum Sieg.</div>
+        <div class="de spoiler">He's leading the team to victory.</div>
         <div class="fr">Elle mène les négociations avec habileté.</div>
-        <div class="de spoiler">Sie leitet die Verhandlungen geschickt.</div>
+        <div class="de spoiler">She leads the negotiations skillfully.</div>
       </div>
-      <p><span class="fr">Gérer</span> (#1354) bedeutet <span class="de">"verwalten"</span> oder <span class="de">"managen"</span>. Es bezieht sich auf die Organisation und Kontrolle von Ressourcen, Situationen oder Personen.</p>
+      <p><span class="fr">Gérer</span> #1354) means <span class="de">'manage'</span> or <span class="de">"manage"</span>It refers to the organisation and control of resources, situations or persons.</p>
       <div class="examples">
         <div class="fr">Il gère le budget de l'entreprise.</div>
-        <div class="de spoiler">Er verwaltet das Budget des Unternehmens.</div>
+        <div class="de spoiler">He manages the company's budget.</div>
         <div class="fr">Elle sait bien gérer son temps.</div>
-        <div class="de spoiler">Sie kann ihre Zeit gut einteilen.</div>
+        <div class="de spoiler">She's good at splitting her time.</div>
       </div>
     </div>
   </div>

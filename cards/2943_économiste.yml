@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2943
 Wort: économiste
 Wortart: nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: économiste
 Femininum / Plural: ''
 IPA: \e.kɔ.nɔ.mist\
-Definition: Ökonom
+Definition: Economist
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je ne connais pas un seul *économiste*.
-  Ich kenne keinen einzigen *Ökonomen*.
+  I don't know a single *economist*.
 
   Les *économistes* prévoient une croissance économique de 2% pour l'année prochaine.
-  Die *Wirtschaftsexperten* prognostizieren für das nächste Jahr ein Wirtschaftswachstum von 2%.
+  *Economists* predict economic growth of 2% for next year.
 
   Marie rêve de devenir une *économiste* renommée dans le domaine du développement durable.
-  Marie träumt davon, eine angesehene *Ökonomin* im Bereich der nachhaltigen Entwicklung zu werden.
+  Marie dreams of becoming a renowned *economist* in the field of sustainable development.
 
   L'université recherche un(e) *économiste* spécialisé(e) en macroéconomie pour rejoindre son équipe de recherche.
-  Die Universität sucht einen/eine auf Makroökonomie spezialisierte(n) *Wirtschaftsexperten/-expertin* für ihr Forschungsteam.
+  The university is looking for an *economist* specialising in macroeconomics to join its research team.
 
   Les *économistes nationaux* ont présenté leur rapport annuel au gouvernement.
-  Die *Nationalökonomen* haben dem Regierungskabinett ihren Jahresbericht vorgelegt.
+  The *national economists* presented their annual report to the government.
 
   Cet *économiste* a reçu le prix Nobel pour ses travaux sur l'économie comportementale.
-  Dieser *Ökonom* erhielt den Nobelpreis für seine Arbeiten zur Verhaltensökonomie.
+  This *economist* was awarded the Nobel Prize for his work on behavioral economics.
 
   Les prévisions de l'*économiste* ont été largement discutées dans les médias.
-  Die Prognosen des *Wirtschaftsexperten* wurden in den Medien ausführlich diskutiert.
+  The *economist*'s predictions have been widely discussed in the media.
 
   En tant qu'*économiste*, elle a travaillé sur des projets dans plusieurs pays en développement.
-  Als *Ökonomin* hat sie an Projekten in verschiedenen Entwicklungsländern gearbeitet.
+  As an *economist*, she has worked on projects in several developing countries.
 
   L'*économiste* a expliqué les conséquences potentielles de l'inflation lors de la conférence.
-  Der *Wirtschaftsexperte* erläuterte auf der Konferenz die möglichen Folgen der Inflation.
+  The *economist* explained the potential consequences of inflation at the conference.
 
   Les *économistes* du FMI ont publié un rapport sur l'état de l'économie mondiale.
-  Die *Ökonomen* des IWF haben einen Bericht über den Zustand der Weltwirtschaft veröffentlicht.
+  IMF *economists* have published a report on the state of the world economy.
 
   Elle a décidé de devenir *économiste* après avoir lu les œuvres d'Adam Smith.
-  Sie beschloss, *Wirtschaftsexpertin* zu werden, nachdem sie die Werke von Adam Smith gelesen hatte.
+  She decided to become an *economist* after reading the works of Adam Smith.
 
   Les *économistes* débattent souvent des meilleures politiques pour stimuler la croissance économique.
-  *Ökonomen* debattieren häufig über die besten Maßnahmen zur Förderung des Wirtschaftswachstums.
+  *Economists* often debate the best policies to boost economic growth.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

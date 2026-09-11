@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4987
 Wort: aire
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: une aire
 Femininum / Plural: ''
 IPA: \ɛʁ\
-Definition: Fläche, Bereich, Platz
+Definition: Area, space
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les déchets de l'*aire* métropolitaine continueront de s'accumuler.
-  Der Müll im städtischen *Gebiet* wird sich weiter anhäufen.
+  The garbage from the metropolitan area will continue to accumulate.
 
   L'*aire* de jeux est fermée pour rénovation pendant deux semaines.
-  Der Spiel*platz* ist für zwei Wochen wegen Renovierung geschlossen.
+  The playground is closed for renovation for two weeks.
 
   Nous avons fait une pause sur l'*aire* de repos pour manger notre pique-nique.
-  Wir haben auf dem Rast*platz* angehalten, um unser Picknick zu essen.
+  We took a break at the recreation area for our picnic.
 
   Cette *aire* de service propose des bornes de recharge électrique.
-  Diese Autorast*stätte* bietet Ladestationen für Elektroautos an.
+  This service area has electrical charging stations.
 
   L'hélicoptère d'urgence utilise l'*aire* d'atterrissage sur le toit de l'hôpital.
-  Der Rettungshubschrauber nutzt den Lande*platz* auf dem Krankenhausdach.
+  The emergency helicopter uses the landing area on the roof of the hospital.
 
   La nouvelle *aire* de lancement sera inaugurée le mois prochain.
-  Die neue Raketen*basis* wird nächsten Monat eingeweiht.
+  The new launch pad will open next month.
 
   Son *aire* d'influence s'étend bien au-delà des frontières nationales.
-  Sein Einfluss*bereich* erstreckt sich weit über die nationalen Grenzen hinaus.
+  Its sphere of influence extends far beyond national borders.
 
   L'*aire* visuelle du cerveau traite les informations optiques.
-  Der visuelle *Bereich* des Gehirns verarbeitet die optischen Informationen.
+  The visual area of the brain processes optical information.
 
   L'*aire* du cercle est égale à pi fois le rayon au carré.
-  Der *Flächeninhalt* des Kreises ist gleich Pi mal dem Radius zum Quadrat.
+  The area of the circle is equal to pi times the radius squared.
 
   Les aigles ont construit leur *aire* au sommet de la falaise.
-  Die Adler haben ihren *Horst* auf der Spitze der Klippe gebaut.
+  The eagles built their nest on top of the cliff.
 
   L'*aire* urbaine de Paris compte plus de douze millions d'habitants.
-  Der städtische *Bereich* von Paris hat mehr als zwölf Millionen Einwohner.
+  The urban area of Paris has more than twelve million inhabitants.
 
   Cette *aire* linguistique comprend plusieurs dialectes régionaux.
-  Dieses Sprach*gebiet* umfasst mehrere regionale Dialekte.
+  This linguistic area includes several regional dialects.
 
   L'*aire* culturelle asiatique fascine les touristes occidentaux.
-  Der asiatische Kultur*bereich* fasziniert westliche Touristen.
+  The Asian cultural area fascinates Western tourists.
 
   Les chercheurs étudient l'*aire* de répartition de cette espèce rare.
-  Die Forscher untersuchen das Verbreitungs*gebiet* dieser seltenen Art.
+  Researchers are studying the range of this rare species.
 
   Le parking souterrain offre une grande *aire* de stationnement.
-  Das unterirdische Parkhaus bietet eine große Park*fläche*.
+  The underground car park offers a large parking area.
 
   L'*aire* d'activité de l'entreprise s'est élargie cette année.
-  Der Tätigkeits*bereich* des Unternehmens hat sich dieses Jahr erweitert.
+  The company's area of activity has expanded this year.
 
   Les vautours surveillent leur *aire* jour et nuit.
-  Die Geier bewachen ihren *Horst* Tag und Nacht.
+  Vultures watch their nests day and night.
 
   L'architecte a calculé l'*aire* totale du nouveau bâtiment.
-  Der Architekt hat den *Flächeninhalt* des neuen Gebäudes berechnet.
+  The architect calculated the total area of the new building.
 
   Cette *aire* protégée abrite des espèces menacées.
-  Dieses Schutz*gebiet* beherbergt bedrohte Arten.
+  This protected area is home to endangered species.
 
   L'*aire* olfactive du cerveau analyse les odeurs.
-  Der *Bereich* für den Geruchssinn im Gehirn analysiert die Gerüche.
+  The olfactory part of the brain analyzes the smells.
 
   Les enfants adorent cette nouvelle *aire* de jeux aquatiques.
-  Die Kinder lieben diesen neuen Wasserspiel*platz*.
+  Kids love this new water playground.
 
   L'*aire* du triangle peut être calculée avec la formule de Héron.
-  Der *Flächeninhalt* des Dreiecks kann mit der Heron-Formel berechnet werden.
+  The area of the triangle can be calculated using Heron's formula.
 
   Le capitaine connaît toutes les *aires* du vent par cœur.
-  Der Kapitän kennt alle Wind*richtungen* auswendig.
+  The captain knows all the winds by heart.
 
   La nouvelle *aire* de service comprend un restaurant et une station-service.
-  Die neue Autorast*stätte* umfasst ein Restaurant und eine Tankstelle.
+  The new service area includes a restaurant and a gas station.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

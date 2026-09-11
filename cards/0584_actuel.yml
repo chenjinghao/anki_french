@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 584
 Wort: actuel
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: actuel
 Femininum / Plural: actuelle
 IPA: \ak.tɥɛl\
-Definition: derzeitig
+Definition: In the meantime
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les gens ont peur du gouvernement *actuel*.
-  Die Menschen haben Angst vor der *derzeitigen* Regierung.
+  People are afraid of the *current* government.
 
   Dans les circonstances *actuelles*, nous devons être prudents.
-  Unter den *gegenwärtigen* Umständen müssen wir vorsichtig sein.
+  Under the present circumstances, we must be cautious.
 
   Le cours *actuel* de l'euro est très favorable.
-  Der *aktuelle* Eurokurs ist sehr günstig.
+  The *current* price of the euro is very favourable.
 
   À l'heure *actuelle*, je ne peux pas répondre à cette question.
-  Zum *jetzigen* Zeitpunkt kann ich diese Frage nicht beantworten.
+  Right now, I can't answer that question.
 
   L'*actuelle* directrice est beaucoup plus stricte que la précédente.
-  Die *derzeitige* Direktorin ist viel strenger als die vorherige.
+  The *current* director is much stricter than the previous one.
 
   Ce film des années 60 reste très *actuel*.
-  Dieser Film aus den 60er Jahren ist immer noch sehr *aktuell*.
+  This movie from the '60s is still very up-to-date.
 
   Le monde *actuel* est dominé par la technologie.
-  Die Welt von *heute* wird von der Technologie beherrscht.
+  Today's world is dominated by technology.
 
   L'état *actuel* des négociations est prometteur.
-  Der *gegenwärtige* Stand der Verhandlungen ist vielversprechend.
+  The *current* state of the negotiations is promising.
 
   Mon père travaille pour l'*actuel* Premier ministre.
-  Mein Vater arbeitet für den *derzeitigen* Premierminister.
+  My father works for the *current* Prime Minister.
 
   Cette question est très *actuelle*.
-  Diese Frage ist sehr *aktuell*.
+  This is a very relevant question.
 
   Le régime *actuel* a promis des réformes importantes.
-  Das *herrschende* Regime hat wichtige Reformen versprochen.
+  The *current* regime has promised important reforms.
 
   La situation *actuelle* exige des mesures immédiates.
-  Die *gegenwärtige* Situation erfordert sofortige Maßnahmen.
+  The *current* situation calls for immediate action.
 
   Les problèmes *actuels* ne sont pas faciles à résoudre.
-  Die *aktuellen* Probleme sind nicht leicht zu lösen.
+  Today's problems are not easy to solve.
 
   L'*actuelle* version du logiciel contient plusieurs bugs.
-  Die *aktuelle* Version der Software enthält mehrere Fehler.
+  The *current* version of the software contains several bugs.
 
   Dans le contexte *actuel*, cette décision semble raisonnable.
-  Im *gegenwärtigen* Kontext scheint diese Entscheidung vernünftig.
+  In today's context, this decision seems reasonable.
 
   Le système *actuel* d'éducation doit être réformé.
-  Das *derzeitige* Bildungssystem muss reformiert werden.
+  The *current* education system needs to be reformed.
 
   Les jeunes sont mécontents de la politique *actuelle*.
-  Die Jugendlichen sind mit der *gegenwärtigen* Politik unzufrieden.
+  Young people are dissatisfied with the *current* policy.
 
   Son *actuel* emploi lui plaît beaucoup.
-  Ihre *jetzige* Arbeit gefällt ihr sehr.
+  He really likes his *current* job.
 
   Le niveau *actuel* des prix est très élevé.
-  Das *aktuelle* Preisniveau ist sehr hoch.
+  The *current* price level is very high.
 
   La mode *actuelle* favorise les couleurs vives.
-  Die *aktuelle* Mode bevorzugt leuchtende Farben.
+  Today's fashions favor bright colors.
 
   Les débats *actuels* sur le climat sont très importants.
-  Die *aktuellen* Klimadebatten sind sehr wichtig.
+  The *current* climate debate is very important.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

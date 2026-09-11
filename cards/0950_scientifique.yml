@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 950
 Wort: scientifique
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: scientifique
 Femininum / Plural: ''
 IPA: \sjɑ̃.ti.fik\
-Definition: wissenschaftlich
+Definition: scientifically
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le nom *scientifique* de ma maladie ne l'intéressait pas.
-  Der *wissenschaftliche* Name meiner Krankheit interessierte ihn nicht.
+  He wasn't interested in the *scientific* name of my disease.
 
   L'expédition *scientifique* a fait des découvertes remarquables en Antarctique.
-  Die *wissenschaftliche* Expedition machte bemerkenswerte Entdeckungen in der Antarktis.
+  The *scientific* expedition made remarkable discoveries in Antarctica.
 
   Cette méthode n'est pas très *scientifique*.
-  Diese Methode ist nicht sehr *wissenschaftlich*.
+  This method is not very *scientific*.
 
   Les *scientifiques* travaillent jour et nuit pour trouver un vaccin.
-  Die *Wissenschaftler* arbeiten Tag und Nacht an einem Impfstoff.
+  *Scientists* are working day and night to find a vaccine.
 
   Ma sœur préfère les matières *scientifiques* aux matières littéraires.
-  Meine Schwester bevorzugt *naturwissenschaftliche* Fächer gegenüber geisteswissenschaftlichen.
+  My sister prefers science to literature.
 
   Les revues *scientifiques* ont publié ses résultats.
-  Die *wissenschaftlichen* Zeitschriften haben ihre Ergebnisse veröffentlicht.
+  His findings have been published in scientific journals.
 
   Cette jeune *scientifique* a reçu un prix pour ses recherches.
-  Diese junge *Wissenschaftlerin* erhielt einen Preis für ihre Forschung.
+  This young scientist received an award for her research.
 
   Il faut une approche *scientifique* pour résoudre ce problème.
-  Man braucht einen *wissenschaftlichen* Ansatz, um dieses Problem zu lösen.
+  It takes a *scientific* approach to solve this problem.
 
   Le colloque *scientifique* aura lieu la semaine prochaine.
-  Die *wissenschaftliche* Konferenz findet nächste Woche statt.
+  The *scientific* conference will take place next week.
 
   As-tu lu le dernier article *scientifique* sur le changement climatique ?
-  Hast du den neuesten *wissenschaftlichen* Artikel über den Klimawandel gelesen?
+  Have you read the latest *scientific* paper on climate change?
 
   Elle est devenue *scientifique* comme ses parents.
-  Sie ist *Wissenschaftlerin* geworden wie ihre Eltern.
+  She became a scientist like her parents.
 
   La communauté *scientifique* s'inquiète de ces résultats.
-  Die *wissenschaftliche* Gemeinschaft ist besorgt über diese Ergebnisse.
+  The *scientific* community is concerned about these findings.
 
   Les données *scientifiques* confirment notre hypothèse.
-  Die *wissenschaftlichen* Daten bestätigen unsere Hypothese.
+  The scientific evidence supports our hypothesis.
 
   Un esprit *scientifique* est nécessaire dans ce domaine.
-  Ein *wissenschaftlicher* Geist ist in diesem Bereich notwendig.
+  A *scientific* spirit is needed in this area.
 
   La recherche *scientifique* nécessite beaucoup de patience.
-  Die *wissenschaftliche* Forschung erfordert viel Geduld.
+  *Scientific* research requires a lot of patience.
 
   Les preuves *scientifiques* sont irréfutables.
-  Die *wissenschaftlichen* Beweise sind unwiderlegbar.
+  The scientific evidence is irrefutable.
 
   Cette collection *scientifique* est unique au monde.
-  Diese *wissenschaftliche* Sammlung ist einzigartig auf der Welt.
+  This *scientific* collection is unique in the world.
 
   Avez-vous une formation *scientifique* ?
-  Haben Sie eine *naturwissenschaftliche* Ausbildung?
+  Do you have a *scientific* background?
 
   Les mesures *scientifiques* doivent être précises.
-  *Wissenschaftliche* Messungen müssen präzise sein.
+  The scientific measurements must be precise.
 
   La police *scientifique* a analysé les indices.
-  Die Kriminal*technik* hat die Spuren analysiert.
+  The *scientific* police analyzed the clues.
 
   Cette découverte *scientifique* va changer nos vies.
-  Diese *wissenschaftliche* Entdeckung wird unser Leben verändern.
+  This *scientific* discovery will change our lives.
 
   L'éditeur *scientifique* a relu attentivement le manuscrit.
-  Der *wissenschaftliche* Lektor hat das Manuskript sorgfältig überprüft.
+  The *scientific* editor carefully re-read the manuscript.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

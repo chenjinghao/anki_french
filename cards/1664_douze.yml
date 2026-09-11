@@ -1,115 +1,115 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1664
 Wort: douze
 Wortart: num, nmi, nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: douze
 Femininum / Plural: ''
 IPA: \duz\
-Definition: zwölf
+Definition: Twelve
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On a envoyé des petits de *douze* ans à la mine.
-  Man schickte die *Zwölf*jährigen in die Mine.
+  We sent *twelve*-year-olds to the mine.
 
   Le téléphone sonne depuis *douze* minutes déjà.
-  Das Telefon klingelt schon seit *zwölf* Minuten.
+  The phone's been ringing for 12 minutes now.
 
   Monsieur Martin habite au numéro *douze* de cette rue.
-  Herr Martin wohnt in der Nummer *zwölf* dieser Straße.
+  Mr. Martin lives at number *twelve* of this street.
 
   La bouteille coûte *douze* euros.
-  Die Flasche kostet *zwölf* Euro.
+  The bottle costs *twelve* euros.
 
   Ma fille aura *douze* ans le mois prochain.
-  Meine Tochter wird nächsten Monat *zwölf* Jahre alt.
+  My daughter's gonna be 12 next month.
 
   J'ai rendez-vous à *douze* heures précises.
-  Ich habe um Punkt *zwölf* Uhr einen Termin.
+  I have an appointment at exactly 12 o'clock.
 
   Le *douze* avril, nous partirons en vacances.
-  Am *zwölften* April fahren wir in den Urlaub.
+  On April 12th, we're going on vacation.
 
   Les *douze* apôtres ont suivi Jésus.
-  Die *zwölf* Apostel sind Jesus gefolgt.
+  The *twelve* apostles followed Jesus.
 
   Marie est arrivée *douzième* dans la course.
-  Marie kam als *Zwölfte* im Rennen an.
+  Marie finished *twelfth* in the race.
 
   Je prends le bus numéro *douze* tous les matins.
-  Ich nehme jeden Morgen die Linie *zwölf*.
+  I take bus number 12 every morning.
 
   Il a obtenu *douze* sur vingt en mathématiques.
-  Er hat in Mathematik eine *Drei* bekommen.
+  He got *twelve* out of twenty in math.
 
   La table *douze* est réservée pour ce soir.
-  Tisch *zwölf* ist für heute Abend reserviert.
+  Table *twelve* is reserved for tonight.
 
   Les *douze* mois de l'année se sont écoulés rapidement.
-  Die *zwölf* Monate des Jahres sind schnell vergangen.
+  The *twelve* months of the year passed quickly.
 
   Elle vit dans un appartement de *douze* mètres carrés.
-  Sie lebt in einer *zwölf* Quadratmeter großen Wohnung.
+  She lives in an apartment of *twelve* square meters.
 
   Nous avons attendu pendant *douze* heures à l'aéroport.
-  Wir haben *zwölf* Stunden am Flughafen gewartet.
+  We waited *twelve* hours at the airport.
 
   L'équipe compte *douze* joueurs.
-  Das Team hat *zwölf* Spieler.
+  The team has *twelve* players.
 
   Le train arrive à *douze* heures quinze.
-  Der Zug kommt um *zwölf* Uhr fünfzehn an.
+  The train arrives at 12:15.
 
   Ils ont célébré leurs *douze* ans de mariage.
-  Sie haben ihre *zwölf*jährige Ehe gefeiert.
+  They celebrated their *twelve* years of marriage.
 
   La réunion commence page *douze* du rapport.
-  Die Besprechung beginnt auf Seite *zwölf* des Berichts.
+  The meeting begins on page 12 of the report.
 
   Il y a *douze* personnes dans la salle d'attente.
-  Es sind *zwölf* Personen im Wartezimmer.
+  There are *twelve* people in the waiting room.
 
   Le patient est dans la chambre *douze*.
-  Der Patient ist in Zimmer *zwölf*.
+  The patient is in room *twelve*.
 
   Nous sommes le *douze* du mois.
-  Wir haben den *Zwölften* des Monats.
+  It's the 12th of the month.
 
   La température a baissé de *douze* degrés.
-  Die Temperatur ist um *zwölf* Grad gesunken.
+  The temperature has dropped 12 degrees.
 
   Il reste *douze* jours avant Noël.
-  Es sind noch *zwölf* Tage bis Weihnachten.
+  There's 12 days until Christmas.
 
   J'ai acheté *douze* roses pour son anniversaire.
-  Ich habe *zwölf* Rosen für ihren Geburtstag gekauft.
+  I bought *twelve* roses for her birthday.
 
   Le spectacle commence dans *douze* minutes.
-  Die Show beginnt in *zwölf* Minuten.
+  The show starts in *twelve* minutes.
 
   Elle a *douze* ans d'expérience dans ce domaine.
-  Sie hat *zwölf* Jahre Erfahrung in diesem Bereich.
+  She has *twelve* years of experience in this field.
 
   Le magasin ferme à *douze* heures pile.
-  Der Laden schließt um Punkt *zwölf*.
+  The store closes at *twelve* o'clock.
 
   Ils ont construit *douze* nouvelles maisons.
-  Sie haben *zwölf* neue Häuser gebaut.
+  They built *twelve* new houses.
 
   La course fait *douze* kilomètres de long.
-  Die Strecke ist *zwölf* Kilometer lang.
+  The race is *twelve* kilometers long.
 
   Pierre a eu *douze* à son examen d'histoire.
-  Pierre hat in seiner Geschichtsprüfung eine *Drei* bekommen.
+  Pierre was *twelve* on his history exam.
 
   L'article *douze* du règlement est très important.
-  Artikel *zwölf* der Verordnung ist sehr wichtig.
+  Article 12 of the Rules of Procedure is very important.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

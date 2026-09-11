@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3254
 Wort: suggestion
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la suggestion
 Femininum / Plural: ''
 IPA: \syɡ.ʒɛs.tjɔ̃\
-Definition: Vorschlag, Anregung
+Definition: Proposal, suggestion
 Register: ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Cette *suggestion* enchanta le directeur.
-  Dieser *Vorschlag* begeisterte den Direktor.
+  This *suggestion* enchanted the director.
 
   J'ai une *suggestion* à vous faire concernant le projet.
-  Ich habe einen *Vorschlag* für Sie bezüglich des Projekts.
+  I have a *suggestion* for you regarding the project.
 
   Je préfère recourir à la *suggestion* plutôt qu'à donner des ordres directs.
-  Ich greife lieber auf *Vorschläge* zurück, als direkte Befehle zu geben.
+  I'd rather use *suggestion* than give direct orders.
 
   Sa *suggestion* de faire une pause a été bien accueillie par toute l'équipe.
-  Sein *Vorschlag*, eine Pause zu machen, wurde vom ganzen Team gut aufgenommen.
+  His *suggestion* to take a break was welcomed by the entire team.
 
   Notre chef nous présente les *suggestions* du jour avant chaque service.
-  Unser Koch stellt uns vor jedem Service die Tages*vorschläge* vor.
+  Our supervisor gives us *suggestions* for the day before each service.
 
   As-tu des *suggestions* pour améliorer notre méthode de travail ?
-  Hast du *Vorschläge*, wie wir unsere Arbeitsmethode verbessern können?
+  Do you have any *suggestions* for improving our working method?
 
   Il a suivi la *suggestion* de son collègue et a changé de stratégie.
-  Er folgte dem *Vorschlag* seines Kollegen und änderte seine Strategie.
+  He followed his colleague's *suggestion* and changed his strategy.
 
   Les *suggestions* répétitives font partie de la technique thérapeutique.
-  Wiederholte *Suggestionen* sind Teil der therapeutischen Technik.
+  Repetitive *suggestions* are part of the therapeutic technique.
 
   Votre *suggestion* d'organiser une fête surprise est excellente !
-  Ihr *Vorschlag*, eine Überraschungsparty zu organisieren, ist ausgezeichnet!
+  Your *suggestion* to throw a surprise party is excellent!
 
   Cette *suggestion* diabolique lui venait de son pire ennemi.
-  Dieser teuflische *Vorschlag* kam von seinem ärgsten Feind.
+  This diabolical *suggestion* came to him from his worst enemy.
 
   Le professeur demande souvent aux élèves leurs *suggestions* pour améliorer le cours.
-  Der Lehrer bittet die Schüler oft um *Vorschläge* zur Verbesserung des Unterrichts.
+  The teacher often asks the students for *suggestions* on how to improve the course.
 
   La boîte à *suggestions* est installée dans le hall d'entrée.
-  Der *Vorschlags*kasten ist in der Eingangshalle installiert.
+  The suggestion box is installed in the entrance hall.
 
   "Et si on allait au cinéma ?" - Cette *suggestion* arriva à point nommé.
-  "Wie wäre es mit Kino?" - Dieser *Vorschlag* kam genau richtig.
+  "What if we went to the movies?" - This *suggestion* came at the right time.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>suggestion</i> und <i>proposition</i></div>
+    <div class="section-title"><i>suggestion</i> and <i>proposition</i></div>
     <div class="section-content">
-      <p><span class="fr">Suggestion</span> bezieht sich auf einen Vorschlag, der eher als Anregung oder Idee angeboten wird. Es impliziert oft einen sanfteren, weniger formellen Ansatz.</p>
+      <p><span class="fr">Suggestion</span> It often implies a more gentle, less formal approach.</p>
       <div class="examples">
         <div class="fr">Avez-vous des suggestions pour améliorer notre service?</div>
-        <div class="de spoiler">Haben Sie Vorschläge zur Verbesserung unseres Service?</div>
+        <div class="de spoiler">Do you have any suggestions for improving our service?</div>
         <div class="fr">Je vous fais cette suggestion, mais c'est à vous de décider.</div>
-        <div class="de spoiler">Ich mache Ihnen diesen Vorschlag, aber die Entscheidung liegt bei Ihnen.</div>
+        <div class="de spoiler">I'm making you this suggestion, but it's up to you.</div>
       </div>
-      <p><span class="fr">Proposition</span> (#799) bezeichnet einen formelleren, konkreteren Vorschlag oder ein Angebot. Es impliziert oft etwas, das zur Annahme oder Ablehnung vorgelegt wird.</p>
+      <p><span class="fr">Proposition</span> (#799) refers to a more formal, concrete proposal or offer. It often implies something that is submitted for acceptance or rejection.</p>
       <div class="examples">
         <div class="fr">Il a fait une proposition de mariage.</div>
-        <div class="de spoiler">Er hat einen Heiratsantrag gemacht.</div>
+        <div class="de spoiler">He asked me to marry him.</div>
         <div class="fr">L'entreprise a reçu une proposition d'achat.</div>
-        <div class="de spoiler">Das Unternehmen hat ein Kaufangebot erhalten.</div>
+        <div class="de spoiler">The company has received an offer to buy.</div>
       </div>
     </div>
   </div>

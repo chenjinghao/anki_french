@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3449
 Wort: miner
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: miner
 Femininum / Plural: ''
 IPA: \mi.ne\
-Definition: aushöhlen, untergraben
+Definition: Excavated
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce conflit *mine* le quatrième pays le plus peuplé du monde.
-  Dieser Konflikt *zermürbt* das viertbevölkerungsreichste Land der Welt.
+  This conflict is undermining the world's fourth-most populous country.
 
   Les soldats ont *miné* tous les ponts avant de se retirer.
-  Die Soldaten haben vor ihrem Rückzug alle Brücken *vermint*.
+  The soldiers *mined* all the bridges before retreating.
 
   L'humidité *mine* lentement les fondations de ce vieux château.
-  Die Feuchtigkeit *höhlt* langsam die Fundamente dieses alten Schlosses *aus*.
+  Humidity is slowly undermining the foundations of this old castle.
 
   Le chagrin *mine* sa santé depuis des années.
-  Der Kummer *zehrt* seit Jahren an seiner Gesundheit.
+  Grief has been crippling her health for years.
 
   La corruption *mine* petit à petit notre système judiciaire.
-  Die Korruption *untergräbt* nach und nach unser Justizsystem.
+  Corruption is gradually undermining our justice system.
 
   "Je me *mine* la tête pour comprendre ce problème de maths."
-  "Ich *zerbreche* mir den Kopf wegen dieser Matheaufgabe."
+  "I'm digging my head to figure out this math problem".
 
   Les vagues *minent* progressivement la falaise.
-  Die Wellen *höhlen* die Klippe allmählich *aus*.
+  The waves are gradually eroding the cliff.
 
   Il est complètement *miné* par le stress au travail.
-  Er ist von dem Stress bei der Arbeit völlig *zermürbt*.
+  He's completely undermined by work stress.
 
   La rivière *mine* ses berges pendant les crues.
-  Der Fluss *unterspült* seine Ufer während des Hochwassers.
+  The river mines its banks during floods.
 
   Les termites ont *miné* toute la structure en bois.
-  Die Termiten haben die gesamte Holzstruktur *ausgehöhlt*.
+  The termites *mined* the entire wooden structure.
 
   Son addiction *mine* peu à peu sa vie sociale.
-  Seine Sucht *zerstört* nach und nach sein Sozialleben.
+  His addiction gradually undermines his social life.
 
   Les hackers *minent* du bitcoin jour et nuit.
-  Die Hacker *schürfen* Tag und Nacht Bitcoin.
+  Hackers are *mining* bitcoin day and night.
 
   L'armée a *miné* toute la zone frontalière.
-  Die Armee hat das gesamte Grenzgebiet *vermint*.
+  The army has *mined* the entire border area.
 
   La jalousie *mine* leur relation depuis longtemps.
-  Die Eifersucht *zerfrisst* seit langem ihre Beziehung.
+  Jealousy has long damaged their relationship.
 
   Ces petits insectes *minent* les feuilles des arbres.
-  Diese kleinen Insekten *minieren* die Blätter der Bäume.
+  These little insects minimize the leaves of trees.
 
   L'inflation galopante *mine* l'économie du pays.
-  Die galoppierende Inflation *ruiniert* die Wirtschaft des Landes.
+  Galloping inflation is undermining the country's economy.
 
   Le doute *mine* sa confiance en lui-même.
-  Der Zweifel *untergräbt* sein Selbstvertrauen.
+  Doubt diminishes his self-confidence.
 
   Les manifestants ont évité le terrain *miné*.
-  Die Demonstranten haben das *verminte* Gelände umgangen.
+  The protesters avoided the minefield.
 
   La maladie *mine* ses forces jour après jour.
-  Die Krankheit *zehrt* Tag für Tag an seinen Kräften.
+  The disease is losing its strength day after day.
 
   Le gel *mine* peu à peu les pierres de la façade.
-  Der Frost *zersetzt* nach und nach die Steine der Fassade.
+  The frost gradually mines the stones from the façade.
 
   Les scandales ont *miné* sa carrière politique.
-  Die Skandale haben seine politische Karriere *ruiniert*.
+  Scandals undermined his political career.
 
   La désinformation *mine* la confiance dans les médias.
-  Die Desinformation *untergräbt* das Vertrauen in die Medien.
+  Disinformation undermines trust in the media.
 
   Le remords *mine* sa conscience depuis des années.
-  Die Gewissensbisse *plagen* ihn seit Jahren.
+  Regret has been harming his conscience for years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

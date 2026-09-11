@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4349
 Wort: basculer
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: basculer
 Femininum / Plural: ''
 IPA: \bas.ky.le\
-Definition: (um-)kippen
+Definition: turning around
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je crus que la terre avait *basculé* sous mes pieds.
-  Mir war, als hätte die Erde unter meinen Füßen *gewankt*.
+  I thought the earth had swung under my feet.
 
   La chaise a *basculé* en arrière quand il s'est penché trop loin.
-  Der Stuhl ist nach hinten *gekippt*, als er sich zu weit lehnte.
+  The chair flipped back when he leaned too far.
 
   Il a glissé sur la glace et *basculé* dans le fossé.
-  Er ist auf dem Eis ausgerutscht und in den Graben *gestürzt*.
+  He slipped on the ice and slipped into the ditch.
 
   Le camion a *basculé* sa charge de sable dans le chantier.
-  Der Lastwagen hat seine Ladung Sand auf der Baustelle *abgekippt*.
+  The truck shifted its load of sand into the construction site.
 
   Marie *bascula* la brouette pour vider les feuilles mortes.
-  Marie *kippte* die Schubkarre *um*, um das Laub zu entleeren.
+  Marie flipped the brush to empty the dead leaves.
 
   Après cette défaite, l'équipe a complètement *basculé* dans la crise.
-  Nach dieser Niederlage ist die Mannschaft völlig in die Krise *abgerutscht*.
+  After this defeat, the team completely slipped into crisis.
 
   Le match a *basculé* en notre faveur dans les dernières minutes.
-  Das Spiel ist in den letzten Minuten zu unseren Gunsten *gekippt*.
+  The game turned in our favor in the last few minutes.
 
   L'ambiance de la fête a *basculé* quand les voisins ont appelé la police.
-  Die Stimmung auf der Party *kippte*, als die Nachbarn die Polizei riefen.
+  The atmosphere at the party changed when the neighbors called the police.
 
   Pierre *bascula* l'interrupteur pour allumer la lumière.
-  Pierre *legte* den Schalter *um*, um das Licht anzumachen.
+  Pierre flipped the switch to turn on the light.
 
   Le fauteuil à bascule *basculait* doucement d'avant en arrière.
-  Der Schaukelstuhl *wippte* sanft vor und zurück.
+  The sliding chair flipped gently back and forth.
 
   La société a *basculé* vers le commerce en ligne pendant la pandémie.
-  Die Gesellschaft ist während der Pandemie in den Online-Handel *abgedriftet*.
+  The company switched to online commerce during the pandemic.
 
   Le chariot élévateur *bascula* dangereusement sur le côté.
-  Der Gabelstapler *kippte* gefährlich zur Seite.
+  The elevator wagon turned dangerously to the side.
 
   Le technicien a *basculé* l'appel vers un autre service.
-  Der Techniker hat den Anruf zu einer anderen Abteilung *umgeleitet*.
+  The technician switched the call to another service.
 
   La poutre *bascula* sous le poids de la neige.
-  Der Balken *kippte* unter der Schneelast.
+  The beam swung under the weight of the snow.
 
   Après ce scandale, l'opinion publique a *basculé* contre le gouvernement.
-  Nach diesem Skandal *kippte* die öffentliche Meinung gegen die Regierung.
+  After this scandal, public opinion turned against the government.
 
   Le conducteur a perdu le contrôle et la voiture a *basculé* dans le ravin.
-  Der Fahrer verlor die Kontrolle und das Auto *stürzte* in die Schlucht.
+  The driver lost control and the car rolled into the ravine.
 
   Les ouvriers *basculent* le contenu du wagonnet dans la benne.
-  Die Arbeiter *kippen* den Inhalt der Lore in den Container.
+  The workers are *turning* the contents of the wagon into the dumpster.
 
   Le scénario *bascule* soudainement dans l'horreur à mi-film.
-  Die Handlung *kippt* in der Mitte des Films plötzlich ins Horror-Genre.
+  The script suddenly turns into a half-movie horror.
 
   Elle *bascula* sa chaise en arrière pour regarder le plafond.
-  Sie *kippte* ihren Stuhl nach hinten, um an die Decke zu schauen.
+  She turned her chair back to look at the ceiling.
 
   Le bateau *bascula* dangereusement sous l'effet des vagues.
-  Das Boot *neigte* sich gefährlich unter dem Einfluss der Wellen.
+  The boat swung dangerously under the influence of the waves.
 
   L'entreprise a *basculé* dans la faillite après la crise financière.
-  Das Unternehmen ist nach der Finanzkrise in den Konkurs *abgerutscht*.
+  The company went bankrupt after the financial crisis.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

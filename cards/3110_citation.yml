@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3110
 Wort: citation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la citation
 Femininum / Plural: ''
 IPA: \si.ta.sjɔ̃\
-Definition: Zitat
+Definition: Cited by:
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'aimerais mentionner quelques *citations*.
-  Ich möchte einige *Zitate* erwähnen.
+  I'd like to mention a few quotes.
 
   Le professeur a utilisé une *citation* de Victor Hugo pour commencer son cours.
-  Der Lehrer begann seinen Unterricht mit einem *Zitat* von Victor Hugo.
+  The professor used a quote from Victor Hugo to start his class.
 
   Son discours était truffé de *citations* philosophiques.
-  Seine Rede war mit philosophischen *Zitaten* gespickt.
+  His speech was filled with philosophical *quotations*.
 
   Il faut toujours indiquer la source d'une *citation*.
-  Man muss immer die Quelle eines *Zitats* angeben.
+  The source of a quote must always be indicated.
 
   La *citation* à comparaître est arrivée ce matin par courrier recommandé.
-  Die *Vorladung* kam heute Morgen per Einschreiben.
+  The subpoena was received this morning by registered mail.
 
   Le sergent a reçu une *citation* pour acte de bravoure.
-  Der Sergeant erhielt eine *ehrenvolle Erwähnung* für seine Tapferkeit.
+  The sergeant received a citation for gallantry.
 
   Cette *citation* est devenue la devise de notre école.
-  Dieses *Zitat* wurde zum Motto unserer Schule.
+  That quote became the motto of our school.
 
   J'ai reçu une *citation* en justice pour témoigner dans cette affaire.
-  Ich habe eine *Vorladung* erhalten, um in diesem Fall auszusagen.
+  I've been summoned to testify in this case.
 
   Le colonel lui a remis une *citation* à l'ordre du régiment.
-  Der Oberst überreichte ihm eine militärische *Belobigung*.
+  The colonel gave him a subpoena to the regiment.
 
   Elle collectionne les *citations* inspirantes dans un petit carnet.
-  Sie sammelt inspirierende *Zitate* in einem kleinen Notizbuch.
+  She collects the inspirational quotes in a little notebook.
 
   Le film contenait plusieurs *citations* musicales d'œuvres classiques.
-  Der Film enthielt mehrere musikalische *Zitate* aus klassischen Werken.
+  The film contained several musical *quotations* from classical works.
 
   Une *citation* directe doit toujours être mise entre guillemets.
-  Ein direktes *Zitat* muss immer in Anführungszeichen gesetzt werden.
+  A direct quote should always be placed between quotes.
 
   La *citation* à l'ordre de la Nation est une distinction prestigieuse.
-  Die *Belobigung* durch die Nation ist eine prestigeträchtige Auszeichnung.
+  The citation to the Order of the Nation is a prestigious distinction.
 
   Le juge a émis une *citation* à comparaître pour le témoin principal.
-  Der Richter hat für den Hauptzeugen eine *Vorladung* ausgestellt.
+  The judge has issued a subpoena for the principal witness to appear.
 
   Sa thèse contient trop de *citations* et pas assez d'idées originales.
-  Seine Dissertation enthält zu viele *Zitate* und zu wenig eigene Ideen.
+  His thesis contains too many quotes and not enough original ideas.
 
   Les étudiants doivent apprendre à bien référencer leurs *citations*.
-  Die Studenten müssen lernen, ihre *Zitate* richtig zu belegen.
+  Students need to learn how to make good references.
 
   Le ministre a terminé son discours par une *citation* de Gandhi.
-  Der Minister beendete seine Rede mit einem *Zitat* von Gandhi.
+  The minister concluded his speech with a quote from Gandhi.
 
   La *citation* en conciliation vise à résoudre le conflit à l'amiable.
-  Die *Vorladung* zum Schlichtungsverfahren zielt darauf ab, den Konflikt gütlich beizulegen.
+  The purpose of the conciliatory citation is to resolve the conflict amicably.
 
   Cette *citation* latine est gravée sur la façade du bâtiment.
-  Dieses lateinische *Zitat* ist in die Fassade des Gebäudes eingemeißelt.
+  This Latin quote is engraved on the facade of the building.
 
   "Fin de *citation*", a-t-il dit en fermant le livre.
-  "Ende des *Zitats*", sagte er und schloss das Buch.
+  "End of quote", he said, closing the book.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

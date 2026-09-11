@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1064
 Wort: étudiant
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un étudiant
 Femininum / Plural: étudiante
 IPA: \e.ty.djɑ̃\
 Definition: Student
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les dames serviront à boire aux *étudiants*.
-  Die Damen werden den *Studenten* Getränke servieren.
+  The ladies will serve drinks to the *students*.
 
   Marie est *étudiante* en architecture depuis trois ans.
-  Marie ist seit drei Jahren Architektur*studentin*.
+  Marie has been a *student* of architecture for three years.
 
   Le mouvement syndical *étudiant* a organisé une manifestation hier.
-  Die *studentische* Gewerkschaftsbewegung hat gestern eine Demonstration organisiert.
+  The *student* union movement organized a protest yesterday.
 
   Paul est un *étudiant* brillant en sciences naturelles.
-  Paul ist ein brillanter *Student* der Naturwissenschaften.
+  Paul was a brilliant *student* of natural sciences.
 
   La vie *étudiante* à Paris est très animée.
-  Das *Studenten*leben in Paris ist sehr lebendig.
+  *Student* life in Paris is very busy.
 
   Cette *étudiante* en médecine fait son stage à l'hôpital.
-  Diese Medizin*studentin* macht ihr Praktikum im Krankenhaus.
+  This medical *student* is doing her internship at the hospital.
 
   Les revendications *étudiantes* ont été entendues par le doyen.
-  Die *studentischen* Forderungen wurden vom Dekan gehört.
+  The student's demands were heard by the dean.
 
   Mon frère est *étudiant* en droit à la Sorbonne.
-  Mein Bruder ist Jura*student* an der Sorbonne.
+  My brother is a law *student* at the Sorbonne.
 
   La résidence *étudiante* sera rénovée cet été.
-  Das *Studenten*wohnheim wird diesen Sommer renoviert.
+  The *student* residence will be renovated this summer.
 
   Les nouveaux *étudiants* commenceront leurs cours lundi prochain.
-  Die neuen *Studienanfänger* werden nächsten Montag mit ihren Kursen beginnen.
+  The new *students* will start their classes next Monday.
 
   Cette université accueille plus de mille *étudiants* en arts.
-  Diese Universität nimmt über tausend Kunst*studenten* auf.
+  This university is home to more than a thousand art *students*.
 
   Le monde *étudiant* se mobilise pour le climat.
-  Die *Studenten*schaft mobilisiert sich für das Klima.
+  The *student* world is mobilizing for the climate.
 
   Les *faux étudiants* risquent l'expulsion de l'université.
-  Die Schein*studenten* riskieren den Verweis von der Universität.
+  *False students* risk being expelled from the university.
 
   Cette association aide les *étudiants* à trouver un logement.
-  Dieser Verein hilft *Studenten* bei der Wohnungssuche.
+  This association helps *students* to find housing.
 
   Les *étudiantes* en lettres organisent un club de lecture.
-  Die Literatur*studentinnen* organisieren einen Leseclub.
+  Letters students are organizing a reading club.
 
   La révolte *étudiante* s'est propagée dans tout le pays.
-  Der *studentische* Aufstand hat sich im ganzen Land ausgebreitet.
+  The *student* revolt spread throughout the country.
 
   Le conseil des *étudiants* se réunit chaque mois.
-  Der *Studenten*rat trifft sich jeden Monat.
+  The student council meets monthly.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4008
 Wort: dédier
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: dédier
 Femininum / Plural: ''
 IPA: \de.dje\
-Definition: widmen, zueignen
+Definition: Dedicate, appropriate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce livre est *dédié* à ma sœur qui est décédée.
-  Dieses Buch ist meiner verstorbenen Schwester *gewidmet*.
+  This book is *dedicated* to my sister who passed away.
 
   Elle a *dédié* sa thèse à son directeur de recherche.
-  Sie hat ihre Doktorarbeit ihrem Betreuer *gewidmet*.
+  She *dedicated* her thesis to her research director.
 
   Le poète *dédie* ses vers à sa bien-aimée.
-  Der Dichter *widmet* seiner Geliebten seine Verse.
+  The poet dedicates his verses to his beloved.
 
   Notre équipe a *dédié* trois ans au développement de ce projet.
-  Unser Team hat dem Projekt drei Jahre *gewidmet*.
+  Our team has devoted three years to developing this project.
 
   Cette cathédrale est *dédiée* à Saint-Pierre.
-  Diese Kathedrale ist dem heiligen Petrus *geweiht*.
+  This cathedral is *dedicated* to St. Pierre.
 
   L'artiste a *dédié* cette sculpture à la mémoire des victimes.
-  Der Künstler hat diese Skulptur dem Gedenken an die Opfer *gewidmet*.
+  The artist *dedicated* this sculpture to the memory of the victims.
 
   Je *dédie* cette chanson à tous ceux qui m'ont soutenu.
-  Ich *widme* dieses Lied allen, die mich unterstützt haben.
+  I dedicate this song to everyone who has supported me.
 
   Il a *dédié* sa vie à aider les autres.
-  Er hat sein Leben der Hilfe für andere *verschrieben*.
+  He *dedicated* his life to helping others.
 
   Cette chapelle fut *dédiée* à la Vierge au XII<sup>e</sup> siècle.
-  Diese Kapelle wurde im 12. Jahrhundert der Jungfrau Maria *geweiht*.
+  This chapel was *dedicated* to the Virgin in the 12th century.
 
   L'auteur a *dédié* son premier roman à ses parents.
-  Die Autorin hat ihren ersten Roman ihren Eltern *gewidmet*.
+  The author *dedicated* his first novel to his parents.
 
   Les bénévoles ont *dédié* leur temps libre à cette cause.
-  Die Freiwilligen haben ihre Freizeit dieser Sache *gewidmet*.
+  Volunteers have devoted their free time to this cause.
 
   Le musée a *dédié* une salle entière à ce peintre célèbre.
-  Das Museum hat diesem berühmten Maler einen ganzen Saal *gewidmet*.
+  The museum has *dedicated* an entire room to this famous painter.
 
   Cette fondation est *dédiée* à la recherche contre le cancer.
-  Diese Stiftung hat sich der Krebsforschung *verschrieben*.
+  This foundation is *dedicated* to cancer research.
 
   Elle a *dédié* ses efforts à l'éducation des enfants défavorisés.
-  Sie hat ihre Bemühungen der Bildung benachteiligter Kinder *gewidmet*.
+  She has devoted her efforts to the education of disadvantaged children.
 
   Le temple antique était *dédié* à Apollon.
-  Der antike Tempel war Apollon *geweiht*.
+  The ancient temple was *dedicated* to Apollo.
 
   Je voudrais *dédier* cette victoire à mon entraîneur.
-  Ich möchte diesen Sieg meinem Trainer *widmen*.
+  I'd like *to dedicate* this win to my coach.
 
   Les scientifiques ont *dédié* leurs recherches au bien de l'humanité.
-  Die Wissenschaftler haben ihre Forschung dem Wohl der Menschheit *gewidmet*.
+  Scientists have devoted their research to the good of mankind.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>consacrer</i>, <i>vouer</i> und <i>dédier</i></div>
+    <div class="section-title"><i>consacrer</i>, <i>vouer</i> and <i>dédier</i></div>
     <div class="section-content">
-      <p><span class="fr">Consacrer</span> (#750) bedeutet <span class="de">"widmen"</span> oder <span class="de">"weihen"</span>. Es impliziert oft eine feierliche oder offizielle Zuweisung von Zeit, Energie oder Ressourcen für einen bestimmten Zweck.</p>
+      <p><span class="fr">Consacrer</span> #750 means <span class="de">'Dedicated'</span> or <span class="de">"worshipping"</span>It often involves a solemn or official allocation of time, energy or resources for a particular purpose.</p>
       <div class="examples">
         <div class="fr">Il a consacré sa vie à la recherche scientifique.</div>
-        <div class="de spoiler">Er hat sein Leben der wissenschaftlichen Forschung gewidmet.</div>
+        <div class="de spoiler">He has devoted his life to scientific research.</div>
         <div class="fr">Cette église a été consacrée au 12ème siècle.</div>
-        <div class="de spoiler">Diese Kirche wurde im 12. Jahrhundert geweiht.</div>
+        <div class="de spoiler">This church was consecrated in the 12th century.</div>
       </div>
 
-      <p><span class="fr">Vouer</span> (#2950) bedeutet <span class="de">"widmen"</span> oder <span class="de">"verschreiben"</span> im Sinne einer starken, oft emotionalen oder spirituellen Hingabe.</p>
+      <p><span class="fr">Vouer</span> (#2950) means <span class="de">'Dedicated'</span> or <span class="de">'writing'</span> In the sense of a strong, often emotional or spiritual commitment.</p>
       <div class="examples">
         <div class="fr">Elle s'est vouée à aider les plus démunis.</div>
-        <div class="de spoiler">Sie hat sich der Hilfe für die Bedürftigsten verschrieben.</div>
+        <div class="de spoiler">She was dedicated to helping the most needy.</div>
         <div class="fr">Il voue un culte à cet artiste.</div>
-        <div class="de spoiler">Er verehrt diesen Künstler geradezu.</div>
+        <div class="de spoiler">He almost worships this artist.</div>
       </div>
 
-      <p><span class="fr">Dédier</span> (#4008) bedeutet <span class="de">"widmen"</span> oder <span class="de">"zueignen"</span>, oft im Zusammenhang mit kreativen Werken oder Ehrungen.</p>
+      <p><span class="fr">Dédier</span> (#4008) means <span class="de">'Dedicated'</span> or <span class="de">"own"</span>, often in connection with creative works or honors.</p>
       <div class="examples">
         <div class="fr">L'auteur a dédié son livre à sa femme.</div>
-        <div class="de spoiler">Der Autor hat sein Buch seiner Frau gewidmet.</div>
+        <div class="de spoiler">The author dedicated his book to his wife.</div>
         <div class="fr">Ce monument est dédié aux victimes de la guerre.</div>
-        <div class="de spoiler">Dieses Denkmal ist den Opfern des Krieges gewidmet.</div>
+        <div class="de spoiler">This monument is dedicated to the victims of war.</div>
       </div>
     </div>
   </div>

@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3712
 Wort: baptiser
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: baptiser
 Femininum / Plural: ''
 IPA: \ba.ti.ze\
-Definition: taufen
+Definition: to baptize
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai *baptisé* presque tous les habitants de la ville.
-  Ich habe fast alle Einwohner der Stadt ge*tauft*.
+  I *baptized* almost everyone in the city.
 
   L'enfant a été *baptisé* au nom du Père, du Fils et du Saint-Esprit.
-  Das Kind wurde im Namen des Vaters, des Sohnes und des Heiligen Geistes ge*tauft*.
+  The child was *baptized* in the name of the Father, the Son and the Holy Spirit.
 
   Elle devait être *baptisée* d'urgence car elle était très malade.
-  Sie musste die Not*taufe* bekommen, weil sie sehr krank war.
+  She had to be *baptized* urgently because she was very ill.
 
   Nous allons *baptiser* notre fille Marie-Claire.
-  Wir werden unsere Tochter auf den Namen Marie-Claire *taufen*.
+  We're going to christen our daughter Marie-Claire.
 
   Le prêtre *baptise* par aspersion aujourd'hui, pas par immersion.
-  Der Priester *tauft* heute durch Besprenkeln, nicht durch Untertauchen.
+  The priest baptizes by sprinkling today, not by immersion.
 
   "Tu as encore *baptisé* ton vin !"
-  "Du hast deinen Wein schon wieder mit Wasser ver*mischt*!"
+  "You *baptized* your wine again!"
 
   Ses amis l'ont *baptisé* "le Prof" à cause de ses lunettes.
-  Seine Freunde haben ihm den Spitznamen "der Prof" wegen seiner Brille ge*geben*.
+  His friends called him "The Professor" because of his glasses.
 
   Le roi Clovis fut *baptisé* à Reims en 496.
-  König Chlodwig wurde 496 in Reims ge*tauft*.
+  King Clovis was *baptized* at Reims in 496 C.E.
 
   On va *baptiser* le nouveau bateau "L'Aventurier" demain.
-  Morgen werden wir das neue Schiff auf den Namen "L'Aventurier" *taufen*.
+  We're going to christen the new ship "The Adventurer" tomorrow.
 
   Cette petite pièce a été *baptisée* "salon de lecture".
-  Dieser kleine Raum wurde "Lesezimmer" ge*nannt*.
+  This little room was called a "reading room".
 
   Les marins l'ont *baptisé* "le Capitaine" dès son premier jour.
-  Die Matrosen haben ihn vom ersten Tag an "der Kapitän" ge*nannt*.
+  The sailors *baptized* him "Captain" on his first day.
 
   La nouvelle cloche sera *baptisée* dimanche prochain.
-  Die neue Glocke wird nächsten Sonntag ge*tauft*.
+  The new bell will be christened next Sunday.
 
   Le restaurant vient d'être *baptisé* "Chez Pierre".
-  Das Restaurant wurde gerade "Bei Pierre" ge*tauft*.
+  The restaurant's just been renamed "At Pierre's".
 
   "Tu as encore *baptisé* le lait ce matin !"
-  "Du hast die Milch heute Morgen schon wieder ver*wässert*!"
+  "You *baptized* the milk again this morning!"
 
   Les étudiants ont *baptisé* leur promotion "Victor Hugo".
-  Die Studenten haben ihren Jahrgang "Victor Hugo" ge*tauft*.
+  The students christened their promotion "Victor Hugo".
 
   On a *baptisé* son cheval "Éclair" à cause de sa vitesse.
-  Man hat sein Pferd wegen seiner Geschwindigkeit "Blitz" ge*tauft*.
+  His horse was named Lightning because of its speed.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

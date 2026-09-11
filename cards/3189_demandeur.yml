@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3189
 Wort: demandeur
 Wortart: adj, nmf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le demandeur
 Femininum / Plural: demandeuse
 IPA: \də.mɑ̃.dœʁ\
-Definition: Kläger, Antragsteller
+Definition: Plaintiffs, applicants
 Register: ↘Fiktion ↗Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Personne n'avait voulu accueillir les *demandeurs* d'asile.
-  Niemand wollte die Asyl*bewerber* aufnehmen.
+  No one wanted to welcome the asylum seekers.
 
   Le nombre de *demandeurs* d'emploi a augmenté de 5% ce mois-ci.
-  Die Zahl der Arbeits*suchenden* ist diesen Monat um 5% gestiegen.
+  The number of jobseekers increased by 5% this month.
 
   La *demandeuse* d'asile attend depuis trois mois une réponse à sa demande.
-  Die Asyl*bewerberin* wartet seit drei Monaten auf eine Antwort auf ihren Antrag.
+  The asylum seeker has been waiting for an answer to her application for three months.
 
   Le juge a donné raison à la *demanderesse* dans cette affaire.
-  Der Richter gab der *Klägerin* in dieser Sache Recht.
+  The judge justified the applicant in this case.
 
   Les pays africains sont très *demandeurs* de nouvelles technologies.
-  In den afrikanischen Ländern besteht eine große *Nachfrage* nach neuen Technologien.
+  African countries are in great demand for new technologies.
 
   La *demandeuse* d'emploi a enfin trouvé un travail après six mois de recherche.
-  Die Arbeit*suchende* hat nach sechs Monaten Suche endlich eine Arbeit gefunden.
+  The jobseeker finally found a job after six months of searching.
 
   Le *demandeur* a été mis en relation avec le service clientèle.
-  Der *Anrufer* wurde mit dem Kundenservice verbunden.
+  The *applicant* has been contacted by customer service.
 
   Notre entreprise est très *demandeuse* de profils techniques.
-  Unser Unternehmen ist sehr *interessiert* an technischen Profilen.
+  Our company is very demanding of technical profiles.
 
   La *demandeuse* a présenté tous les documents nécessaires pour son dossier.
-  Die *Antragstellerin* hat alle notwendigen Dokumente für ihre Akte eingereicht.
+  The *applicant* has submitted all the necessary documents for her case.
 
   Les *demandeurs* de logement social doivent patienter plusieurs années.
-  Die *Bewerber* für Sozialwohnungen müssen mehrere Jahre warten.
+  Social housing *applicants* have to wait several years.
 
   Le *demandeur* a obtenu gain de cause devant le tribunal.
-  Der *Kläger* hat vor Gericht Recht bekommen.
+  The *applicant* won the case in court.
 
   Les jeunes sont particulièrement *demandeurs* de formations en ligne.
-  Junge Menschen sind besonders *interessiert* an Online-Schulungen.
+  Young people are particularly interested in online training.
 
   La situation des *demandeurs* d'asile s'est détériorée ces derniers mois.
-  Die Situation der Asyl*bewerber* hat sich in den letzten Monaten verschlechtert.
+  The situation of asylum seekers has deteriorated in recent months.
 
   Le *demandeur* doit fournir une pièce d'identité valide.
-  Der *Antragsteller* muss einen gültigen Ausweis vorlegen.
+  The *applicant* must provide a valid identity document.
 
   Marie est toujours *demandeuse* de nouvelles responsabilités.
-  Marie ist stets *interessiert* an neuen Verantwortungen.
+  Marie is always seeking new responsibilities.
 
   Les *demandeurs* seront informés de la décision par courrier.
-  Die *Antragsteller* werden per Post über die Entscheidung informiert.
+  *Applicants* shall be informed of the decision by mail.
 
   Le nombre de faux *demandeurs* d'asile a diminué cette année.
-  Die Zahl der Schein*asylanten* ist dieses Jahr zurückgegangen.
+  The number of fake asylum seekers has declined this year.
 
   La *demandeuse* attend toujours que sa ligne téléphonique soit réparée.
-  Die *Anruferin* wartet immer noch darauf, dass ihre Telefonleitung repariert wird.
+  The *applicant* is still waiting for her phone line to be repaired.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

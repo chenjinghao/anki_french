@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2019
 Wort: remarque
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la remarque
 Femininum / Plural: ''
 IPA: \ʁə.maʁk\
-Definition: Bemerkung
+Definition: remark
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Par cette *remarque* je n'accuse personne.
-  Mit dieser *Bemerkung* beschuldige ich niemanden.
+  I am not accusing anyone of this.
 
   Le professeur a fait une *remarque* pertinente sur mon travail.
-  Der Lehrer hat eine treffende *Anmerkung* zu meiner Arbeit gemacht.
+  The professor made a pertinent remark about my work.
 
   Elle n'a pas apprécié ma *remarque* sur sa nouvelle coiffure.
-  Sie hat meine *Bemerkung* über ihre neue Frisur nicht geschätzt.
+  She didn't like my comment about her new hairstyle.
 
   J'ai ajouté quelques *remarques* critiques dans la marge du document.
-  Ich habe einige kritische *Anmerkungen* am Rand des Dokuments hinzugefügt.
+  I have added some critical *remarks* to the margin of the document.
 
   La *remarque* de Paul était vraiment judicieuse.
-  Pauls *Bemerkung* war wirklich klug.
+  Paul's remark was truly wise.
 
   Je dois vous adresser une *remarque* concernant votre comportement.
-  Ich muss Ihnen eine *Bemerkung* zu Ihrem Verhalten machen.
+  I need to make a remark about your behavior.
 
   Les *remarques* désobligeantes ne sont pas les bienvenues ici.
-  Unfreundliche *Bemerkungen* sind hier nicht willkommen.
+  You're not welcome here for offensive *remarks*.
 
   Sa *remarque* m'a fait réfléchir pendant des jours.
-  Seine *Bemerkung* hat mich tagelang zum Nachdenken gebracht.
+  His remark made me think for days.
 
   Le texte est accompagné de nombreuses *remarques* historiques.
-  Der Text wird von zahlreichen historischen *Anmerkungen* begleitet.
+  The text is accompanied by many historical *remarks*.
 
   As-tu une *remarque* à faire sur ce sujet ?
-  Hast du eine *Anmerkung* zu diesem Thema?
+  Do you have a remark to make on this subject?
 
   Il m'a fait une *remarque* sur mon retard ce matin.
-  Er hat mir heute Morgen eine *Bemerkung* über meine Verspätung gemacht.
+  He made a remark about my late arrival this morning.
 
   Cette *remarque* préliminaire est importante pour comprendre la suite.
-  Diese einleitende *Bemerkung* ist wichtig für das Verständnis des Folgenden.
+  This preliminary remark is important in order to understand what follows.
 
   Les étudiants ont noté toutes les *remarques* du professeur.
-  Die Studenten haben alle *Anmerkungen* des Professors notiert.
+  The students took note of all the teacher's *remarks*.
 
   Je me suis fait la *remarque* qu'il était temps de partir.
-  Ich habe mir selbst *gesagt*, dass es Zeit war zu gehen.
+  I noticed it was time to go.
 
   Elle lui en a fait la *remarque* hier soir.
-  Sie hat ihn gestern Abend darauf *hingewiesen*.
+  She told him about it last night.
 
   Épargnez-moi vos *remarques* sur ma façon de travailler.
-  Ersparen Sie mir Ihre *Bemerkungen* über meine Arbeitsweise.
+  Please spare me your *remarks* on how I work.
 
   Ses *remarques* sur la conduite des autres sont toujours négatives.
-  Seine *Bemerkungen* über das Verhalten anderer sind immer negativ.
+  His comments about the behavior of others are always negative.
 
   Cette œuvre est digne de *remarque* pour son originalité.
-  Dieses Werk ist wegen seiner Originalität *bemerkenswert*.
+  This work is remarkable for its originality.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

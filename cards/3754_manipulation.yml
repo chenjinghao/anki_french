@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3754
 Wort: manipulation
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la manipulation
 Femininum / Plural: ''
 IPA: \ma.ni.py.la.sjɔ̃\
-Definition: Manipulation, Bedienung
+Definition: Manipulation, operation
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La *manipulation* génétique n'est pas une bonne chose.
-  Die Gen*manipulation* ist keine gute Sache.
+  Genetic *manipulation* is not a good thing.
 
   Les *manipulations* en laboratoire doivent suivre des protocoles stricts.
-  Die Labor*manipulationen* müssen strengen Protokollen folgen.
+  Laboratory *manipulations* must follow strict protocols.
 
   Il a fallu trois mois pour maîtriser la *manipulation* de cette nouvelle machine.
-  Es hat drei Monate gedauert, die *Bedienung* dieser neuen Maschine zu beherrschen.
+  It took three months to master the handling of this new machine.
 
   La *manipulation* de produits chimiques nécessite des gants de protection.
-  Der *Umgang* mit Chemikalien erfordert Schutzhandschuhe.
+  Handling chemicals requires protective gloves.
 
   L'ostéopathe a effectué plusieurs *manipulations* vertébrales pour soulager ma douleur.
-  Der Osteopath hat mehrere Wirbelsäulen*manipulationen* durchgeführt, um meine Schmerzen zu lindern.
+  The osteopath performed several spinal *manipulations* to ease my pain.
 
   Le magicien a impressionné le public par ses *manipulations* habiles avec les cartes.
-  Der Zauberer hat das Publikum mit seinen geschickten Karten*manipulationen* beeindruckt.
+  The magician impressed the audience with his skillful handling of the cards.
 
   Les experts ont découvert des *manipulations* dans les résultats de l'élection.
-  Die Experten haben *Manipulationen* bei den Wahlergebnissen entdeckt.
+  Experts have discovered manipulation in the election results.
 
   Cette *manipulation* informatique a causé la perte de nombreuses données.
-  Diese Computer*manipulation* hat zum Verlust vieler Daten geführt.
+  This computer *manipulation* has caused the loss of a lot of data.
 
   La *manipulation* des cours de la bourse est strictement interdite.
-  Die Kurs*manipulation* an der Börse ist streng verboten.
+  The *manipulation* of exchange rates is strictly prohibited.
 
   Les étudiants apprennent la *manipulation* correcte des microscopes.
-  Die Studenten lernen die richtige *Handhabung* der Mikroskope.
+  Students learn how to handle microscopes correctly.
 
   Les médias ont dénoncé la *manipulation* de l'opinion publique.
-  Die Medien haben die *Manipulation* der öffentlichen Meinung angeprangert.
+  The media has denounced the *manipulation* of public opinion.
 
   La *manipulation* de ces substances radioactives exige une formation spéciale.
-  Die *Handhabung* dieser radioaktiven Substanzen erfordert eine spezielle Ausbildung.
+  The handling of these radioactive substances requires special training.
 
   "Cette rumeur n'est qu'une *manipulation* pour nous diviser."
-  "Dieses Gerücht ist nur eine *Manipulation*, um uns zu spalten."
+  "This rumor is merely a *manipulation* to divide us".
 
   Les professeurs surveillent attentivement les *manipulations* des élèves pendant les expériences.
-  Die Lehrer überwachen sorgfältig die *Versuche* der Schüler während der Experimente.
+  Teachers carefully monitor pupils' *manipulations* during experiments.
 
   La *manipulation* du marché immobilier a provoqué une hausse artificielle des prix.
-  Die *Manipulation* des Immobilienmarkts hat zu einem künstlichen Preisanstieg geführt.
+  The *manipulation* of the housing market has led to an artificial rise in prices.
 
   Une simple *manipulation* suffit pour remettre l'articulation en place.
-  Eine einfache *Manipulation* reicht aus, um das Gelenk wieder einzurenken.
+  A simple *manipulation* is enough to restore the joint.
 
   Les experts ont détecté des *manipulations* dans les comptes de l'entreprise.
-  Die Experten haben *Manipulationen* in der Firmenbuchhaltung entdeckt.
+  Experts have detected tampering in the company's accounts.
 
   Cette *manipulation* des statistiques fausse complètement les résultats.
-  Diese *Manipulation* der Statistiken verfälscht die Ergebnisse völlig.
+  This *manipulation* of statistics completely distorts the results.
 
   La *manipulation* prudente des échantillons est essentielle pour éviter la contamination.
-  Die vorsichtige *Handhabung* der Proben ist wichtig, um Kontamination zu vermeiden.
+  Careful handling of samples is essential to avoid contamination.
 
   Les journalistes ont révélé une *manipulation* massive des sondages.
-  Die Journalisten haben eine massive *Manipulation* der Umfragen aufgedeckt.
+  Journalists have revealed massive *manipulation* of the polls.
 
   La *manipulation* des masses par la propagande est un danger pour la démocratie.
-  Die *Manipulation* der Massen durch Propaganda ist eine Gefahr für die Demokratie.
+  The *manipulation* of the masses by propaganda is a danger to democracy.
 
   Cette nouvelle interface facilite la *manipulation* des fichiers.
-  Diese neue Oberfläche erleichtert die *Bedienung* der Dateien.
+  This new interface makes it easier to manipulate files.
 
   La *manipulation* des preuves est un crime grave.
-  Die *Manipulation* von Beweismitteln ist ein schweres Verbrechen.
+  Manipulating evidence is a serious crime.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

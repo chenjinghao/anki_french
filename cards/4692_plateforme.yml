@@ -1,87 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4692
 Wort: plateforme
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la plateforme
 Femininum / Plural: platesformes
 IPA: \plat.fɔʁm\
-Definition: Plattform
+Definition: Platform
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils restèrent debout sur la *plate-forme*.
-  Sie blieben auf der *Plattform* stehen.
+  They stood on *the platform*.
 
   La *plateforme* d'observation offre une vue magnifique sur la ville.
-  Die Aussichts*plattform* bietet einen herrlichen Blick über die Stadt.
+  The observation deck offers a magnificent view of the city.
 
   Les voyageurs se sont entassés sur la *plateforme* du train.
-  Die Reisenden drängten sich auf der *Plattform* des Zuges.
+  The passengers crammed into the train *platform*.
 
   Une nouvelle *plateforme* de forage a été installée dans la mer du Nord.
-  Eine neue Bohr*plattform* wurde in der Nordsee installiert.
+  A new drilling *platform* has been installed in the North Sea.
 
   La *plateforme* continentale s'étend sur plusieurs kilomètres.
-  Der Kontinental*sockel* erstreckt sich über mehrere Kilometer.
+  The continental shelf extends for several kilometres.
 
   Cette application fonctionne sur toutes les *plateformes*.
-  Diese Anwendung läuft auf allen *Plattformen*.
+  This app works on all *platforms*.
 
   Le parti a présenté sa *plateforme* électorale hier soir.
-  Die Partei hat gestern Abend ihr Wahl*programm* vorgestellt.
+  The party presented its electoral *platform* last night.
 
   Les deux partis ont trouvé une *plateforme* commune.
-  Die beiden Parteien haben eine gemeinsame *Plattform* gefunden.
+  The two parties have found a common *platform*.
 
   La *plateforme* élévatrice permet de monter les voitures au deuxième étage.
-  Die Hebe*plattform* ermöglicht es, die Autos in den zweiten Stock zu bringen.
+  The elevator *platform* allows cars to go up to the second floor.
 
   Les ouvriers déchargent les marchandises sur la *plateforme* de livraison.
-  Die Arbeiter entladen die Waren auf der Liefer*plattform*.
+  The workers unload the goods on the delivery *platform*.
 
   Le toit de ce bâtiment moderne forme une *plateforme* accessible au public.
-  Das Dach dieses modernen Gebäudes bildet eine öffentlich zugängliche *Plattform*.
+  The roof of this modern building forms a *platform* accessible to the public.
 
   Les géologues étudient la *plateforme* structurale de cette région.
-  Die Geologen untersuchen die Struktur*plattform* dieser Region.
+  Geologists are studying the structural *platform* of this region.
 
   Cette *plateforme* de streaming propose des milliers de films.
-  Diese Streaming-*Plattform* bietet Tausende von Filmen an.
+  This streaming *platform* offers thousands of movies.
 
   La *plateforme* de la locomotive était occupée par deux mécaniciens.
-  Die *Plattform* der Lokomotive war von zwei Mechanikern besetzt.
+  The *platform* of the locomotive was occupied by two mechanics.
 
   Les manifestants ont adopté une *plateforme* de revendications commune.
-  Die Demonstranten haben eine gemeinsame Forderungs*plattform* angenommen.
+  The protesters adopted a common demand *platform*.
 
   Une nouvelle *plateforme* logistique sera construite près de l'aéroport.
-  Eine neue Logistik*plattform* wird in der Nähe des Flughafens gebaut.
+  A new logistics *platform* will be built near the airport.
 
   La *plateforme* de missiles a été démantelée suite aux accords.
-  Die Raketen*plattform* wurde nach den Abkommen demontiert.
+  The missile *platform* was dismantled as a result of the agreements.
 
   Les astronautes réparent la *plateforme* orbitale.
-  Die Astronauten reparieren die Orbital*plattform*.
+  The astronauts are repairing the orbital *platform*.
 
   Les archéologues ont découvert une ancienne *plateforme* sacrificielle maya.
-  Die Archäologen haben eine alte Maya-Opfer*plattform* entdeckt.
+  Archaeologists have uncovered an ancient Maya sacrificial *platform*.
 
   Cette *plateforme* pétrolière emploie plus de cent personnes.
-  Diese Öl*plattform* beschäftigt mehr als hundert Menschen.
+  This oil *platform* employs more than a hundred people.
 
   La *plateforme* numérique facilite l'échange de données entre les services.
-  Die Digital*plattform* erleichtert den Datenaustausch zwischen den Abteilungen.
+  The digital *platform* facilitates the exchange of data between services.
 
   Les ingénieurs ont renforcé la *plateforme* ferroviaire avant la construction des voies.
-  Die Ingenieure haben die Eisenbahn*plattform* vor dem Bau der Gleise verstärkt.
+  Engineers reinforced the railroad *platform* before the tracks were built.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: 'auch: <span class="fr">plate-forme</fr>'
+Notiz: |-
+  'Also: <span class="fr">plate-forme</fr>'

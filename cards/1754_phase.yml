@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1754
 Wort: phase
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la phase
 Femininum / Plural: ''
 IPA: \fɑz\
-Definition: Phase
+Definition: Stage
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Toute maladie est une *phase* de guérison.
-  Jede Krankheit ist eine *Phase* der Heilung.
+  Any illness is a healing *phase*.
 
   La Lune entre dans sa dernière *phase* ce soir.
-  Der Mond tritt heute Abend in seine letzte *Phase* ein.
+  The moon is entering its final *phase* tonight.
 
   Les scientifiques ont observé les différentes *phases* de Vénus.
-  Die Wissenschaftler haben die verschiedenen *Phasen* der Venus beobachtet.
+  Scientists have observed the different *phases* of Venus.
 
   L'eau peut exister sous trois *phases* : solide, liquide et gazeuse.
-  Wasser kann in drei *Phasen* existieren: fest, flüssig und gasförmig.
+  Water can exist in three *phases*: solid, liquid and gaseous.
 
   Le patient est actuellement dans la *phase* aiguë de sa maladie.
-  Der Patient befindet sich derzeit in der akuten *Phase* seiner Krankheit.
+  The patient is currently in the acute *phase* of his illness.
 
   Notre entreprise traverse une *phase* difficile.
-  Unser Unternehmen durchläuft eine schwierige *Phase*.
+  Our company is going through a difficult *phase*.
 
   "Je ne suis pas vraiment *en phase* avec toi sur cette question."
-  "Ich bin mit dir in dieser Frage nicht wirklich *auf einer Wellenlänge*."
+  "I don't really agree with you on this".
 
   Les adolescents passent par une *phase* de rebellion.
-  Jugendliche durchlaufen eine *Phase* der Rebellion.
+  Teenagers are going through a *phase* of rebellion.
 
   La *phase* de test du nouveau logiciel commence demain.
-  Die Test*phase* der neuen Software beginnt morgen.
+  The testing *phase* of the new software starts tomorrow.
 
   Les deux ondes sont *en phase*.
-  Die beiden Wellen sind *phasengleich*.
+  Both waves are *in phase*.
 
   Le projet entre dans sa *phase* finale.
-  Das Projekt geht in seine End*phase*.
+  The project is entering its final *phase*.
 
   Les *phases* du sommeil se succèdent naturellement.
-  Die Schlaf*phasen* folgen natürlich aufeinander.
+  The stages of sleep naturally follow one another.
 
   Cette *phase* de croissance économique ne durera pas éternellement.
-  Diese Wirtschaftswachstums*phase* wird nicht ewig andauern.
+  This *phase* of economic growth will not last forever.
 
   La première *phase* des travaux sera terminée lundi.
-  Die erste Bau*phase* wird am Montag abgeschlossen sein.
+  The first *phase* of the work will be completed on Monday.
 
   Nous devons synchroniser les *phases* du circuit électrique.
-  Wir müssen die *Phasen* des Stromkreises synchronisieren.
+  We need to synchronize the *phases* of the electrical circuit.
 
   L'économie entre dans une nouvelle *phase* de récession.
-  Die Wirtschaft tritt in eine neue Rezessions*phase* ein.
+  The economy is entering a new *phase* of recession.
 
   La *phase* d'incubation du virus dure environ trois jours.
-  Die Inkubations*phase* des Virus dauert ungefähr drei Tage.
+  The incubation *phase* of the virus takes about three days.
 
   Les deux équipes ne sont pas *en phase* dans leur stratégie.
-  Die beiden Teams sind in ihrer Strategie nicht *synchron*.
+  Both teams are out of step in their strategy.
 
   Chaque *phase* du projet nécessite une approche différente.
-  Jede Projekt*phase* erfordert einen anderen Ansatz.
+  Each *phase* of the project requires a different approach.
 
   La *phase* terminale de la maladie nécessite des soins palliatifs.
-  Die Terminal*phase* der Krankheit erfordert palliative Pflege.
+  The terminal stage of the disease requires palliative care.
 
   Il alterne entre des *phases* d'euphorie et de dépression.
-  Er wechselt zwischen *Phasen* der Euphorie und Depression.
+  It alternates between *phases* of euphoria and depression.
 
   Les ingénieurs ont analysé les différentes *phases* du décollage.
-  Die Ingenieure haben die verschiedenen Start*phasen* analysiert.
+  The engineers analyzed the different *phases* of the takeoff.
 
   Une nouvelle *phase* de négociations commence aujourd'hui.
-  Eine neue Verhandlungs*phase* beginnt heute.
+  A new *phase* of negotiations begins today.
 
   La *phase* d'apprentissage est cruciale pour la réussite.
-  Die Lern*phase* ist entscheidend für den Erfolg.
+  The learning *phase* is crucial to success.
 
   Le microscope à contraste de *phase* permet d'observer les cellules vivantes.
-  Das *Phasen*kontrastmikroskop ermöglicht die Beobachtung lebender Zellen.
+  The *phase*-contrast microscope allows us to observe living cells.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

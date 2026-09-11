@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3536
 Wort: aspirer
 Wortart: vt, vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: aspirer
 Femininum / Plural: ''
 IPA: \as.pi.ʁe\
-Definition: (ein-)atmen, (ein-)saugen, streben nach
+Definition: (one-breathing, one-sucking, striving for
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Paule *aspira* la fumée de sa cigarette.
-  Paule *sog* den Zigarettenrauch *ein*.
+  Paul sucked the smoke from his cigarette.
 
   Il *aspire* l'air frais à pleins poumons.
-  Er *atmet* die frische Luft tief *ein*.
+  He sucks in fresh air with his lungs full.
 
   Les enfants *aspirent* le jus d'orange avec une paille.
-  Die Kinder *saugen* den Orangensaft mit einem Strohhalm *ein*.
+  The children suck the orange juice with a straw.
 
   Le nouveau robot *aspire* efficacement la poussière sous les meubles.
-  Der neue Roboter *saugt* den Staub unter den Möbeln effektiv *ab*.
+  The new robot effectively sucks up dust under furniture.
 
   Marie *aspire* à devenir médecin depuis son enfance.
-  Marie *strebt* seit ihrer Kindheit *danach*, Ärztin zu werden.
+  Marie has aspired to become a doctor since childhood.
 
   Le ventilateur *aspire* l'air chaud de la pièce.
-  Der Ventilator *saugt* die warme Luft aus dem Raum *ab*.
+  The fan sucks in the warm air from the room.
 
   Nous *aspirons* tous à une vie meilleure.
-  Wir *sehnen* uns alle *nach* einem besseren Leben.
+  We all long for a better life.
 
   Le chirurgien a dû *aspirer* le liquide de ses poumons.
-  Der Chirurg musste die Flüssigkeit aus seiner Lunge *absaugen*.
+  The surgeon had *to suck* the fluid out of his lungs.
 
   Thomas *aspire* profondément l'odeur du café fraîchement moulu.
-  Thomas *saugt* den Duft des frisch gemahlenen Kaffees tief *ein*.
+  Thomas deeply sucks the smell of freshly ground coffee.
 
   Cette pompe *aspire* l'eau du sous-sol inondé.
-  Diese Pumpe *saugt* das Wasser aus dem überfluteten Keller *ab*.
+  This pump sucks water from the flooded basement.
 
   J'*aspire* seulement à la tranquillité dans ma retraite.
-  Ich *sehne* mich im Ruhestand nur *nach* Ruhe.
+  I only long for tranquility in my retirement.
 
   Le patient doit *aspirer* le médicament par le nez.
-  Der Patient muss das Medikament durch die Nase *einatmen*.
+  The patient must suck the medicine through the nose.
 
   Elle *aspire* à la perfection dans tout ce qu'elle fait.
-  Sie *strebt* in allem, was sie tut, *nach* Perfektion.
+  She aspires to perfection in everything she does.
 
   La machine *aspire* les débris de construction.
-  Die Maschine *saugt* den Bauschutt *ab*.
+  The machine sucks up the construction debris.
 
   Les sportifs *aspirent* à la victoire olympique.
-  Die Sportler *streben* *nach* dem olympischen Sieg.
+  Athletes aspire to an Olympic victory.
 
   Le chat *aspire* son lait avec délicatesse.
-  Die Katze *schlürft* ihre Milch behutsam.
+  The cat sucks its milk delicately.
 
   Cette entreprise *aspire* à devenir leader du marché.
-  Dieses Unternehmen *strebt* *danach*, Marktführer zu werden.
+  This company aspires to become a market leader.
 
   Le bébé *aspire* goulûment son biberon.
-  Das Baby *saugt* gierig *an* seiner Flasche.
+  The baby is gasping for his bottle.
 
   Les étudiants *aspirent* à réussir leurs examens.
-  Die Studenten *streben* *danach*, ihre Prüfungen zu bestehen.
+  Students aspire to pass their exams.
 
   La clinique propose d'*aspirer* les graisses par liposuccion.
-  Die Klinik bietet an, das Fett durch Liposuktion *abzusaugen*.
+  The clinic suggests liposuction *to suck* the fat.
 
   Nous devons *aspirer* lentement par le nez pendant la méditation.
-  Wir müssen während der Meditation langsam durch die Nase *einatmen*.
+  We need *to suck* slowly through the nose during meditation.
 
   Le poète *aspire* à l'immortalité à travers ses œuvres.
-  Der Dichter *strebt* durch seine Werke *nach* Unsterblichkeit.
+  The poet aspires to immortality through his works.
 
   L'appareil *aspire* la fumée de soudure.
-  Das Gerät *saugt* den Schweißrauch *ab*.
+  The device sucks in the welding smoke.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

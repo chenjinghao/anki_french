@@ -1,112 +1,112 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1121
 Wort: suivant
 Wortart: prep, conj, adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: suivant
 Femininum / Plural: suivante
 IPA: \sɥi.vɑ̃\
-Definition: folgend, nächster
+Definition: The following, next
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les 20 jours *suivants*, ils meurent de faim.
-  Die *nächsten* 20 Tage verhungern sie.
+  For the next 20 days, they starve to death.
 
   La page *suivante* explique les détails du processus.
-  Die *nächste* Seite erklärt die Details des Prozesses.
+  The following page explains the details of the process.
 
   Le bus s'est arrêté à l'arrêt *suivant*.
-  Der Bus hielt an der *nächsten* Haltestelle.
+  The bus stopped at the next stop.
 
   "*Au suivant* !" cria le coiffeur.
-  "Der *Nächste*!" rief der Friseur.
+  "Next time!" shouted the barber.
 
   *Suivant* les circonstances, nous devrons adapter notre stratégie.
-  *Je nach* den Umständen müssen wir unsere Strategie anpassen.
+  Depending on the circumstances, we'll have to adapt our strategy.
 
   La réunion est reportée à la semaine *suivante*.
-  Die Besprechung wird auf die *nächste* Woche verschoben.
+  The meeting is postponed to the following week.
 
   *Suivant* ses conseils, j'ai changé mon alimentation.
-  *Gemäß* seinen Ratschlägen habe ich meine Ernährung umgestellt.
+  Following his advice, I changed my diet.
 
   Découpez le papier *suivant* les pointillés.
-  Schneiden Sie das Papier *entlang* der gestrichelten Linie.
+  Cut the paper next to the dots.
 
   Je vous présente l'exemple *suivant*.
-  Ich präsentiere Ihnen das *folgende* Beispiel.
+  Let me give you the *following* example.
 
   *Suivant* qu'il pleuve ou non, nous irons au parc.
-  *Je nachdem*, ob es regnet oder nicht, gehen wir in den Park.
+  Depending on whether it rains or not, we'll go to the park.
 
   Les événements *suivants* ont changé sa vie pour toujours.
-  Die *folgenden* Ereignisse veränderten sein Leben für immer.
+  *The following* events changed his life forever.
 
   L'ordre du jour est le *suivant* : présentation, pause, discussion.
-  Die Tagesordnung ist die *folgende*: Präsentation, Pause, Diskussion.
+  The agenda is as follows: presentation, break, discussion.
 
   Le patient *suivant* peut entrer.
-  Der *nächste* Patient kann hereinkommen.
+  The next patient can come in.
 
   *Suivant* la tradition, nous mangeons du poisson le vendredi.
-  Der *Tradition gemäß* essen wir freitags Fisch.
+  According to tradition, we eat fish on Fridays.
 
   La fois *suivante*, je ferai plus attention.
-  Das *nächste* Mal werde ich besser aufpassen.
+  *Next* time, I'll be more careful.
 
   *Suivant* son habitude, il arrive en retard.
-  Seiner *Gewohnheit entsprechend* kommt er zu spät.
+  As usual, he's late.
 
   Le chapitre *suivant* traite des verbes irréguliers.
-  Das *nächste* Kapitel behandelt die unregelmäßigen Verben.
+  The next chapter deals with irregular verbs.
 
   *Suivant* les experts, la situation va s'améliorer.
-  Den *Experten zufolge* wird sich die Situation verbessern.
+  According to the experts, the situation will improve.
 
   L'exercice *suivant* est plus difficile.
-  Die *nächste* Übung ist schwieriger.
+  The next exercise is more difficult.
 
   *Suivant* la météo, nous prendrons la voiture ou le vélo.
-  *Je nach* Wetter nehmen wir das Auto oder das Fahrrad.
+  Depending on the weather, we'll take the car or the bike.
 
   Veuillez passer à la diapositive *suivante*.
-  Bitte gehen Sie zur *nächsten* Folie.
+  Please move on to the *next* slide.
 
   *Suivant* les règles du jeu, on ne peut pas reculer.
-  Den Spielregeln *entsprechend* kann man nicht zurückgehen.
+  According to the rules of the game, you can't back down.
 
   Le train *suivant* part dans une heure.
-  Der *nächste* Zug fährt in einer Stunde.
+  The next train leaves in an hour.
 
   La cliente *suivante* s'est plainte du service.
-  Die *nächste* Kundin beschwerte sich über den Service.
+  The *next* customer complained about the service.
 
   *Suivant* les saisons, les prix varient considérablement.
-  *Je nach* Jahreszeit schwanken die Preise erheblich.
+  Depending on the season, prices vary considerably.
 
   Le candidat *suivant* peut entrer dans la salle d'examen.
-  Der *nächste* Kandidat kann den Prüfungsraum betreten.
+  The next candidate can enter the exam room.
 
   La température varie *suivant* l'altitude.
-  Die Temperatur variiert *je nach* Höhe.
+  The temperature varies according to the altitude.
 
   Le mois *suivant*, elle a démissionné.
-  Im *folgenden* Monat kündigte sie.
+  The *following* month, she resigned.
 
   *Suivant* vos instructions, j'ai rempli le formulaire.
-  *Gemäß* Ihren Anweisungen habe ich das Formular ausgefüllt.
+  Following your instructions, I filled out the form.
 
   Le concert *suivant* aura lieu en plein air.
-  Das *nächste* Konzert findet unter freiem Himmel statt.
+  The next concert will be in the open air.
 
   *Suivant* la recette, il faut ajouter du sel.
-  *Nach* dem Rezept muss man Salz hinzufügen.
+  According to the recipe, salt should be added.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

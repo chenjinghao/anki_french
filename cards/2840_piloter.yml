@@ -1,73 +1,73 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2840
 Wort: piloter
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: piloter
 Femininum / Plural: ''
 IPA: \pi.lɔ.te\
-Definition: '[Flugzeug] fliegen, steuern'
+Definition: '[Aircraft] flying, steering'
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Et qui *pilotera* l'avion ?
-  Und wer wird das Flugzeug *fliegen*?
+  And who's gonna fly the plane?
 
   Le capitaine expérimenté *pilote* habilement le navire à travers les eaux dangereuses.
-  Der erfahrene Kapitän *lotst* das Schiff geschickt durch die gefährlichen Gewässer.
+  An experienced captain is skilled at navigating a ship through dangerous waters.
 
   Elle a appris à *piloter* une voiture de course sur circuit fermé.
-  Sie hat gelernt, ein Rennauto auf einer geschlossenen Strecke zu *steuern*.
+  She learned to drive a race car on a closed circuit.
 
   Le guide touristique *pilote* le groupe à travers les rues animées de la vieille ville.
-  Der Fremdenführer *leitet* die Gruppe durch die belebten Straßen der Altstadt.
+  The tour guide guides the group through the bustling streets of the old town.
 
   Le programme est entièrement *piloté* par la souris pour une utilisation intuitive.
-  Das Programm wird vollständig mit der Maus *gesteuert*, um eine intuitive Bedienung zu ermöglichen.
+  The program is fully mouse-driven for intuitive use.
 
   Cette nouvelle imprimante 3D est *pilotée* par un microprocesseur intégré de dernière génération.
-  Dieser neue 3D-Drucker wird von einem integrierten Mikroprozessor der neuesten Generation *gesteuert*.
+  This new 3D printer is powered by a state-of-the-art built-in microprocessor.
 
   J'ai toujours rêvé de *piloter* un planeur et de voler silencieusement dans les airs.
-  Ich habe immer davon geträumt, einen Segelflieger zu *fliegen* und lautlos durch die Lüfte zu gleiten.
+  I've always dreamed of *flying* a glider and flying silently in the air.
 
   Le champion de Formule 1 *pilote* sa monoplace avec une précision remarquable.
-  Der Formel-1-Champion *steuert* seinen Rennwagen mit bemerkenswerter Präzision.
+  The Formula One champion drives his car with remarkable precision.
 
   Pour construire sur ce terrain marécageux, il faut d'abord le *piloter*.
-  Um auf diesem sumpfigen Gelände zu bauen, muss man es zunächst *mit Pfählen versehen*.
+  To build on this marshy ground, you must first pilot it.
 
   Avant de bâtir à Venise, il a fallu *piloter* pour créer une base solide.
-  Bevor man in Venedig bauen konnte, musste man *Pfähle einrammen*, um eine solide Grundlage zu schaffen.
+  Before building in Venice, it took pilots to build a solid foundation.
 
   Les ingénieurs ont décidé de *piloter* la jetée pour la rendre plus résistante aux vagues.
-  Die Ingenieure beschlossen, den Wellenbrecher zu *unterpfählen*, um ihn widerstandsfähiger gegen die Wellen zu machen.
+  The engineers decided to pilot the pier to make it more resistant to the waves.
 
   Le pilote doit *piloter* aux instruments lorsque la visibilité est réduite.
-  Der Pilot muss nach Instrumenten *fliegen*, wenn die Sicht eingeschränkt ist.
+  The pilot shall operate the instruments when visibility is reduced.
 
   "Je vais te *piloter* dans ce labyrinthe de rues, ne t'inquiète pas !"
-  "Ich werde dich durch dieses Labyrinth von Straßen *führen*, keine Sorge!"
+  "I'll ride you through this maze of streets, don't worry!"
 
   Le directeur de projet *pilote* la rénovation du quartier historique.
-  Der Projektleiter *leitet* die Renovierung des historischen Viertels.
+  The project manager is piloting the renovation of the historic district.
 
   Cette chaîne de montage robotisée est entièrement *pilotée* par ordinateur.
-  Diese robotisierte Montagelinie wird vollständig vom Computer *gesteuert*.
+  This robotic assembly line is entirely computer-controlled.
 
   Les astronautes s'entraînent à *piloter* la navette spatiale dans un simulateur sophistiqué.
-  Die Astronauten trainieren, das Raumschiff in einem hochentwickelten Simulator zu *steuern*.
+  Astronauts are training to fly the space shuttle in a sophisticated simulator.
 
   Le champion de rallye doit *piloter* son véhicule sur des terrains variés et difficiles.
-  Der Rallye-Champion muss sein Fahrzeug über verschiedene und schwierige Terrains *lenken*.
+  The rally champion must drive his vehicle on a variety of difficult terrain.
 
   "Sans une stratégie claire, nous *pilotons* à vue dans ce projet complexe."
-  "Ohne eine klare Strategie *steuern* wir in diesem komplexen Projekt auf Sicht."
+  "Without a clear strategy, we are piloting this complex project in sight".
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4897
 Wort: démarrage
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le démarrage
 Femininum / Plural: ''
 IPA: \de.ma.ʁaʒ\
-Definition: Start, Anlassen
+Definition: Start
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Généralement le *démarrage* d'un livre se passe très bien.
-  Normalerweise gelingt der *Start* eines Buches sehr gut.
+  Usually the beginning of a book goes very well.
 
   Le *démarrage* de ma voiture est particulièrement bruyant ce matin.
-  Das *Anlassen* meines Autos ist heute Morgen besonders laut.
+  The start of my car is particularly noisy this morning.
 
   Il faut appuyer sur ce bouton pour le *démarrage* à froid de l'ordinateur.
-  Man muss diesen Knopf für den Kalt*start* des Computers drücken.
+  You have to press this button to start the computer cold.
 
   Le *démarrage* de cette entreprise a été difficile, mais maintenant ça va mieux.
-  Der *Start* dieses Unternehmens war schwierig, aber jetzt läuft es besser.
+  *Starting* this business was hard, but now it's better.
 
   Son *démarrage* fulgurant lui a permis de gagner la course.
-  Sein blitzschneller *Spurt* hat ihm zum Sieg verholfen.
+  His brilliant start allowed him to win the race.
 
   Le *démarrage* automatique du système prend beaucoup de temps.
-  Der automatische System*start* dauert sehr lange.
+  The automatic start-up of the system takes a long time.
 
   Thomas a eu des problèmes de *démarrage* avec sa nouvelle moto.
-  Thomas hatte *Anlauf*schwierigkeiten mit seinem neuen Motorrad.
+  Thomas had trouble *starting* his new motorcycle.
 
   Le *démarrage* en côte nécessite une technique particulière.
-  Das *Anfahren* am Hang erfordert eine besondere Technik.
+  The coastal start-up requires a special technique.
 
   Le cycliste a placé un *démarrage* impressionnant dans la montée.
-  Der Radfahrer setzte in der Steigung zum beeindruckenden *Spurt* an.
+  The cyclist made an impressive start in the climb.
 
   La nouvelle application a connu un *démarrage* spectaculaire.
-  Die neue App ist spektakulär ge*startet*.
+  The new app got off to a spectacular start.
 
   Je n'arrive pas à effectuer le *démarrage* à chaud de mon PC.
-  Ich schaffe den Warm*start* meines PCs nicht.
+  I can't perform the hot start of my PC.
 
   Le *démarrage* de la campagne publicitaire est prévu pour demain.
-  Der *Start* der Werbekampagne ist für morgen geplant.
+  The start of the advertising campaign is scheduled for tomorrow.
 
   Le moteur présente des ratés au *démarrage*.
-  Der Motor hat beim *Anlassen* Aussetzer.
+  The engine is failing at start-up.
 
   Son *démarrage* brusque a fait crier les pneus.
-  Sein ruckartiges *Anfahren* ließ die Reifen quietschen.
+  His sudden start made the tires scream.
 
   Le coureur a effectué un *démarrage* foudroyant dans le dernier tour.
-  Der Läufer setzte im letzten Rundgang zum blitzschnellen *Spurt* an.
+  The runner made a frightful start in the final lap.
 
   Les ingénieurs ont optimisé le *démarrage* du système d'exploitation.
-  Die Ingenieure haben den *Start* des Betriebssystems optimiert.
+  Engineers have optimized the start-up of the operating system.
 
   Le *démarrage* de la production a dépassé nos attentes.
-  Der *Start* der Produktion hat unsere Erwartungen übertroffen.
+  The start of production has exceeded our expectations.
 
   Ce véhicule électrique a un *démarrage* très silencieux.
-  Dieses Elektroauto hat ein sehr leises *Anlassen*.
+  This electric vehicle has a very quiet start.
 
   Le *démarrage* de la nouvelle saison s'annonce prometteur.
-  Der *Start* der neuen Saison verspricht viel Gutes.
+  The start of the new season is promising.
 
   Les problèmes de *démarrage* ont enfin été résolus.
-  Die *Start*probleme wurden endlich gelöst.
+  The start-up problems have finally been resolved.
 
   Le *démarrage* progressif du moteur évite les secousses.
-  Das sanfte *Anlassen* des Motors verhindert Erschütterungen.
+  The gradual start of the engine avoids shaking.
 
   Le sprinter a réussi un *démarrage* parfait hors des starting-blocks.
-  Dem Sprinter gelang ein perfekter *Start* aus den Startblöcken.
+  The sprinter made a perfect start off the *starting* blocks.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

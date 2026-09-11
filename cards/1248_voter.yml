@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1248
 Wort: voter
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: voter
 Femininum / Plural: ''
 IPA: \vɔ.te\
-Definition: wählen, abstimmen
+Definition: to vote; pass (a law)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous serions encore à *voter* ce soir.
-  Wir würden heute Abend noch *abstimmen*.
+  We'd still be *voting* tonight.
 
   Le Parlement a *voté* la nouvelle loi sur l'immigration.
-  Das Parlament hat das neue Einwanderungsgesetz *verabschiedet*.
+  Parliament has passed the new immigration law.
 
   Dans cette ville, on *vote* traditionnellement à gauche.
-  In dieser Stadt *wählt* man traditionell links.
+  In this town, people traditionally vote on the left.
 
   Les députés ont *voté* les crédits pour la recherche scientifique.
-  Die Abgeordneten haben die Mittel für die wissenschaftliche Forschung *bewilligt*.
+  MEPs *voted* on the appropriations for scientific research.
 
   Je *voterai* pour Marie aux élections du conseil de classe.
-  Ich werde bei der Klassensprecherwahl für Marie *stimmen*.
+  *I'm going to vote* for Marie in the class council election.
 
   L'assemblée a décidé de *voter* à main levée.
-  Die Versammlung hat beschlossen, per Hand*abstimmung* zu entscheiden.
+  The assembly decided to vote with a raised hand.
 
   Elle a choisi de *voter* blanc aux dernières élections.
-  Sie hat sich entschieden, bei den letzten Wahlen einen leeren Stimmzettel *abzugeben*.
+  She chose to vote white in the last election.
 
   Les citoyens peuvent *voter* par correspondance cette année.
-  Die Bürger können dieses Jahr per Brief *wählen*.
+  Citizens can vote by mail this year.
 
   Le conseil municipal va *voter* sur le nouveau projet de bibliothèque.
-  Der Gemeinderat wird über das neue Bibliotheksprojekt *abstimmen*.
+  The city council will vote on the new library project.
 
   Beaucoup de jeunes ont décidé de *voter* vert cette fois-ci.
-  Viele junge Leute haben sich entschieden, diesmal grün zu *wählen*.
+  Many young people have decided to vote green this time.
 
   Les Français de l'étranger peuvent *voter* dans leur ambassade.
-  Franzosen im Ausland können in ihrer Botschaft *wählen*.
+  French citizens abroad can vote in their embassy.
 
   Le comité a *voté* contre la proposition du directeur.
-  Das Komitee hat gegen den Vorschlag des Direktors *gestimmt*.
+  The committee *voted* against the director's proposal.
 
   La machine à *voter* est tombée en panne pendant l'élection.
-  Die *Wahl*maschine ist während der Wahl ausgefallen.
+  The *voting* machine broke down during the election.
 
   Les étudiants vont *voter* pour élire leurs représentants.
-  Die Studenten werden ihre Vertreter *wählen*.
+  Students will vote to elect their representatives.
 
   Le Sénat doit encore *voter* le budget de l'année prochaine.
-  Der Senat muss den Haushalt für das nächste Jahr noch *verabschieden*.
+  The Senate has yet to vote on next year's budget.
 
   Tout le monde peut *voter* à partir de 18 ans.
-  Jeder darf ab 18 Jahren *wählen*.
+  Anyone can vote from the age of 18.
 
   Les électeurs ont massivement *voté* contre ce référendum.
-  Die Wähler haben bei diesem Referendum mehrheitlich dagegen *gestimmt*.
+  Voters overwhelmingly *voted* against this referendum.
 
   Mon grand-père n'a jamais manqué de *voter* depuis cinquante ans.
-  Mein Großvater hat seit fünfzig Jahren keine *Wahl* versäumt.
+  My grandfather has never missed a vote in fifty years.
 
   Le syndicat a appelé ses membres à *voter* pour la grève.
-  Die Gewerkschaft hat ihre Mitglieder aufgerufen, für den Streik zu *stimmen*.
+  The union called on its members to vote for the strike.
 
   Les députés vont *voter* sur l'amendement demain matin.
-  Die Abgeordneten werden morgen früh über den Änderungsantrag *abstimmen*.
+  Members will vote on the amendment tomorrow morning.
 
   Le conseil d'administration doit *voter* le nouveau règlement.
-  Der Vorstand muss die neue Satzung *verabschieden*.
+  The new regulations must be approved by the Board of Directors.
 
   Plusieurs personnes ont *voté* nul par protestation.
-  Mehrere Personen haben aus Protest ungültige Stimmzettel *abgegeben*.
+  Several people *voted* no in protest.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

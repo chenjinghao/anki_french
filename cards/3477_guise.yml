@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3477
 Wort: guise
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la guise
 Femininum / Plural: ''
 IPA: \giz\
-Definition: Weise, Form
+Definition: Way, shape
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils ne veulent pas voter à sa *guise*.
-  Sie wollen nicht nach seinem *Belieben* abstimmen.
+  They don't want to vote his way.
 
   Chacun peut décorer son appartement à sa *guise*.
-  Jeder kann seine Wohnung nach seinem *Geschmack* einrichten.
+  Everyone can decorate their apartment to their liking.
 
   Elle n'en fait qu'à sa *guise* depuis son déménagement.
-  Seit ihrem Umzug macht sie nur, was ihr *beliebt*.
+  She's been doing what she wants ever since she moved in.
 
   Les enfants peuvent jouer à leur *guise* dans le jardin.
-  Die Kinder können im Garten nach *Belieben* spielen.
+  Children can play in the garden as they please.
 
   *En guise de* cadeau, il m'a offert un sourire.
-  *Als Ersatz für* ein Geschenk hat er mir ein Lächeln geschenkt.
+  As a gift, he gave me a smile.
 
   Il utilise son téléphone *en guise de* réveil.
-  Er benutzt sein Handy *als Ersatz für* einen Wecker.
+  He's using his phone as a wake-up call.
 
   "Fais à ta *guise*, je m'en fiche !"
-  "Mach es nach deinem *Gutdünken*, mir ist das egal!"
+  "Do as you please, I don't care!"
 
   Je vais organiser la fête à ma *guise*.
-  Ich werde die Party nach meinem *Geschmack* organisieren.
+  I'm gonna throw the party my way.
 
   Elle a mis un foulard *en guise de* ceinture.
-  Sie hat ein Tuch *als Ersatz für* einen Gürtel benutzt.
+  She's wearing a scarf as a belt.
 
   Les artistes peuvent créer à leur *guise* dans cet atelier.
-  Die Künstler können in diesem Atelier nach *Belieben* schaffen.
+  Artists can create as they please in this workshop.
 
   Il a reçu des conseils *en guise d'*encouragement.
-  Er hat Ratschläge *als Ersatz für* Ermutigung bekommen.
+  He received counsel and encouragement.
 
   Laissez-le travailler à sa *guise*.
-  Lassen Sie ihn nach seinem *Gutdünken* arbeiten.
+  Let him do what he wants.
 
   Elle porte un chapeau *en guise de* protection.
-  Sie trägt einen Hut *zum* Schutz.
+  She wears a hat for protection.
 
   Tu peux gérer ton temps à ta *guise*.
-  Du kannst deine Zeit nach *Belieben* einteilen.
+  You can manage your time any way you want.
 
   Il a utilisé une pierre *en guise de* marteau.
-  Er hat einen Stein *als Ersatz für* einen Hammer benutzt.
+  He used a stone as a hammer.
 
   Les étudiants peuvent choisir leurs cours à leur *guise*.
-  Die Studenten können ihre Kurse nach *Belieben* wählen.
+  Students can choose their courses as they please.
 
   Elle m'a donné un câlin *en guise d'au revoir*.
-  Sie hat mir eine Umarmung *zum Abschied* gegeben.
+  She gave me a hug *as a farewell*.
 
   Vous pouvez aménager l'espace à votre *guise*.
-  Sie können den Raum nach Ihrem *Geschmack* gestalten.
+  You can arrange the space as you like.
 
   Il a mis un bout de carton *en guise de* table.
-  Er hat ein Stück Pappe *als Ersatz für* einen Tisch benutzt.
+  He put a piece of cardboard as a table.
 
   "Je te laisse faire à ta *guise*."
-  "Ich lasse dich nach deinem *Gutdünken* handeln."
+  "I'll let you do what you want".
 
   Les musiciens peuvent improviser à leur *guise*.
-  Die Musiker können nach *Belieben* improvisieren.
+  Musicians can improvise as they please.
 
   Elle a donné un poème *en guise de* remerciement.
-  Sie hat ein Gedicht *als* Dank überreicht.
+  She gave a poem as a thank you.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

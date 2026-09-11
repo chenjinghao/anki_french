@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4847
 Wort: réitérer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: réitérer
 Femininum / Plural: ''
 IPA: \ʁe.i.te.ʁe\
-Definition: wiederholen, bekräftigen
+Definition: Repeat, reiterate
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a *réitéré* sa demande aujourd'hui.
-  Er hat seine Anfrage heute *wiederholt*.
+  He *reiterated* his request today.
 
   Le professeur a *réitéré* ses instructions trois fois, mais personne n'écoutait.
-  Der Lehrer hat seine Anweisungen dreimal *wiederholt*, aber niemand hörte zu.
+  The teacher repeated his instructions three times, but no one listened.
 
   Malgré ses promesses *réitérées*, il n'a toujours rien fait.
-  Trotz seiner *wiederholten* Versprechen hat er immer noch nichts getan.
+  Despite his repeated promises, he still did nothing.
 
   Je dois *réitérer* que cette situation est inacceptable.
-  Ich muss *wiederholen*, dass diese Situation inakzeptabel ist.
+  I must reiterate that this situation is unacceptable.
 
   Les efforts *réitérés* de Marie ont finalement porté leurs fruits.
-  Maries *wiederholte* Bemühungen haben sich endlich ausgezahlt.
+  Marie's repeated efforts finally paid off.
 
   Le directeur *réitère* son refus catégorique.
-  Der Direktor *bekräftigt* seine kategorische Ablehnung.
+  The Director reiterates his categorical refusal.
 
   Sophie n'hésitera pas à *réitérer* l'expérience si nécessaire.
-  Sophie wird nicht zögern, das Experiment zu *wiederholen*, wenn nötig.
+  Sophie will not hesitate *to repeat* the experience if necessary.
 
   Pourquoi *réitérer* la même erreur encore et encore ?
-  Warum den gleichen Fehler immer wieder *wiederholen*?
+  Why repeat the same mistake over and over again?
 
   Les accusations *réitérées* contre lui se sont avérées fausses.
-  Die *wiederholten* Anschuldigungen gegen ihn haben sich als falsch erwiesen.
+  The repeated accusations against him turned out to be false.
 
   Je *réitère* ma position : je ne changerai pas d'avis.
-  Ich *bekräftige* meinen Standpunkt: Ich werde meine Meinung nicht ändern.
+  I *repeat* my position: I will not change my mind.
 
   Elle a dû *réitérer* sa demande plusieurs fois avant d'obtenir une réponse.
-  Sie musste ihre Anfrage mehrmals *wiederholen*, bevor sie eine Antwort bekam.
+  She had *to repeat* her request several times before getting an answer.
 
   Le gouvernement *réitère* son engagement envers l'environnement.
-  Die Regierung *bekräftigt* ihr Engagement für die Umwelt.
+  The government reiterates its commitment to the environment.
 
   Il est inutile de *réitérer* ces accusations sans preuves.
-  Es ist sinnlos, diese Anschuldigungen ohne Beweise zu *wiederholen*.
+  It is useless *to repeat* these accusations without proof.
 
   Après des tentatives *réitérées*, ils ont finalement réussi.
-  Nach *wiederholten* Versuchen haben sie es endlich geschafft.
+  After repeated attempts, they finally succeeded.
 
   Le patron m'a demandé de *réitérer* ma présentation devant le conseil d'administration.
-  Der Chef hat mich gebeten, meine Präsentation vor dem Vorstand zu *wiederholen*.
+  The boss asked me *to repeat* my presentation to the board.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>répéter</i> und <i>réitérer</i></div>
+    <div class="section-title"><i>répéter</i> and <i>réitérer</i></div>
     <div class="section-content">
-      <p><span class="fr">Répéter</span> (#630) bedeutet <span class="de">"wiederholen"</span> und wird in alltäglichen Situationen verwendet. Es kann sich auf das Wiederholen von Worten, Handlungen oder Vorgängen beziehen.</p>
+      <p><span class="fr">Répéter</span> (#630) means <span class="de">"repeat"</span> It can refer to the repetition of words, actions, or actions.</p>
       <div class="examples">
         <div class="fr">Peux-tu répéter ta question, s'il te plaît?</div>
-        <div class="de spoiler">Kannst du deine Frage bitte wiederholen?</div>
+        <div class="de spoiler">Can you repeat your question, please?</div>
         <div class="fr">Il répète toujours les mêmes erreurs.</div>
-        <div class="de spoiler">Er wiederholt immer dieselben Fehler.</div>
+        <div class="de spoiler">He keeps repeating the same mistakes.</div>
       </div>
-      <p><span class="fr">Réitérer</span> bedeutet ebenfalls <span class="de">"wiederholen"</span>, aber in einem formelleren, oft offiziellen Kontext. Es wird häufig bei Erklärungen, Forderungen oder Stellungnahmen verwendet.</p>
+      <p><span class="fr">Réitérer</span> also means <span class="de">"repeat"</span>It is often used in statements, demands or opinions.</p>
       <div class="examples">
         <div class="fr">Le ministre a réitéré sa position sur cette question.</div>
-        <div class="de spoiler">Der Minister bekräftigte erneut seine Position zu dieser Frage.</div>
+        <div class="de spoiler">The Minister reaffirmed his position on this issue.</div>
         <div class="fr">Je réitère ma demande de remboursement.</div>
-        <div class="de spoiler">Ich wiederhole meine Forderung nach Rückerstattung.</div>
+        <div class="de spoiler">I repeat my request for a refund.</div>
       </div>
     </div>
   </div>

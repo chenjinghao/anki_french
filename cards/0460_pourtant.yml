@@ -1,70 +1,70 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 460
 Wort: pourtant
 Wortart: adv
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: pourtant
 Femininum / Plural: ''
 IPA: \puʁ.tɑ̃\
-Definition: jedoch, trotzdem
+Definition: However, nevertheless
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   *Pourtant* cette perspective aussi m'effrayait.
-  *Dennoch* machte mir auch diese Perspektive Angst.
+  But this prospect also frightened me.
 
   La situation semblait désespérée, *pourtant* nous n'avons pas abandonné.
-  Die Situation schien aussichtslos, *trotzdem* haben wir nicht aufgegeben.
+  The situation seemed hopeless, but we did not give up.
 
   Je ne comprends pas comment tu as échoué, c'était *pourtant* si simple !
-  Ich verstehe nicht, wie du scheitern konntest, es war *doch* so einfach!
+  I don't understand how you failed, but it was so simple!
 
   *Pourtant*, j'avais vérifié trois fois avant de partir.
-  *Dabei* hatte ich dreimal überprüft, bevor ich ging.
+  Still, I had checked three times before I left.
 
   Elle n'est pas venue à la fête, *pourtant* elle avait promis d'être là.
-  Sie ist nicht zur Party gekommen, *dabei* hatte sie versprochen zu kommen.
+  She didn't come to the party, even though she promised to be there.
 
   Il fait froid aujourd'hui, et *pourtant* nous sommes en plein été.
-  Es ist heute kalt, und *dabei* sind wir mitten im Sommer.
+  It's cold today, and yet we're in the middle of summer.
 
   Je t'avais *pourtant* prévenu des conséquences.
-  Ich hatte dich *doch* vor den Konsequenzen gewarnt.
+  I warned you about the consequences.
 
   C'est *pourtant* vrai, je l'ai vu de mes propres yeux !
-  Das ist aber *doch* wahr, ich habe es mit eigenen Augen gesehen!
+  It's true, I've seen it with my own eyes!
 
   *Pourtant*, personne ne pouvait prévoir ce qui allait arriver.
-  *Dennoch* konnte niemand vorhersehen, was passieren würde.
+  Yet, no one could foresee what would happen.
 
   Il n'a pas réussi l'examen, *pourtant* il avait beaucoup étudié.
-  Er hat die Prüfung nicht bestanden, *obwohl* er viel gelernt hatte.
+  He didn't pass the exam, but he had studied a lot.
 
   Cette fois *pourtant*, le résultat était différent.
-  Diesmal *jedoch* war das Ergebnis anders.
+  This time, *however*, the outcome was different.
 
   Tu avais *pourtant* dit que tu m'aiderais.
-  Du hattest aber *doch* gesagt, dass du mir helfen würdest.
+  You said you'd help me.
 
   Tout semble aller bien, *pourtant* je reste inquiet.
-  Alles scheint gut zu laufen, *trotzdem* bin ich besorgt.
+  Everything seems to be going well, but I'm still worried.
 
   *Pourtant*, la solution était juste devant nos yeux.
-  *Dabei* lag die Lösung direkt vor unseren Augen.
+  But the solution was right in front of us.
 
   Elle parle peu, et *pourtant* elle a toujours des choses intéressantes à dire.
-  Sie spricht wenig, und *dennoch* hat sie immer interessante Dinge zu sagen.
+  She speaks little, yet she always has interesting things to say.
 
   *Pourtant*, ils ont gagné le match malgré leur infériorité numérique.
-  *Trotzdem* haben sie das Spiel gewonnen, obwohl sie in Unterzahl waren.
+  Yet they won the game despite their numerical inferiority.
 
   La recette était simple, *pourtant* j'ai tout raté.
-  Das Rezept war einfach, *trotzdem* habe ich alles vermasselt.
+  The recipe was simple, but I missed everything.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

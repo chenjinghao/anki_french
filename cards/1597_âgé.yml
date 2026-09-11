@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1597
 Wort: âgé
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: âgé
 Femininum / Plural: âgée
 IPA: \ɑ.ʒe\
-Definition: alt [Mensch]
+Definition: Old [man]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Ces hommes sont tous très *âgés* maintenant.
-  Diese Männer sind jetzt alle sehr *alt*.
+  These men are all very old now.
 
   Ma grand-mère est une personne *âgée* qui vit seule.
-  Meine Großmutter ist eine *alte* Person, die allein lebt.
+  My grandmother is an elderly person who lives alone.
 
   Il est *âgé* de quinze ans et fait déjà du piano depuis dix ans.
-  Er ist *alt* genug für fünfzehn Jahre und spielt schon seit zehn Jahren Klavier.
+  He's fifteen years old and has been playing the piano for ten years.
 
   Le chien est *âgé* de douze ans, mais il est toujours très énergique.
-  Der Hund ist zwölf Jahre *alt*, aber er ist immer noch sehr energisch.
+  The dog is twelve years old, but he's still very energetic.
 
   Marie est la plus *âgée* de mes sœurs.
-  Marie ist die *älteste* meiner Schwestern.
+  Marie is the oldest of my sisters.
 
   Les médecins recommandent aux personnes *âgées* de faire de l'exercice régulièrement.
-  Die Ärzte empfehlen *älteren* Menschen, regelmäßig Sport zu treiben.
+  Doctors recommend that older people exercise regularly.
 
   Cette tortue est *âgée* de plus de cent ans.
-  Diese Schildkröte ist über hundert Jahre *alt*.
+  This turtle is over a hundred years old.
 
   Mon frère est plus *âgé* que moi de cinq ans.
-  Mein Bruder ist fünf Jahre *älter* als ich.
+  My brother is five years older than me.
 
   Les enfants sont *âgés* de trois, sept et douze ans.
-  Die Kinder sind drei, sieben und zwölf Jahre *alt*.
+  The children are three, seven and twelve years old.
 
   Ce bâtiment historique est *âgé* de plusieurs siècles.
-  Dieses historische Gebäude ist mehrere Jahrhunderte *alt*.
+  This historic building is several centuries old.
 
   La dame *âgée* fait encore son jardin elle-même.
-  Die *alte* Dame pflegt ihren Garten noch selbst.
+  The old lady still makes her own garden.
 
   Mon voisin est *âgé* mais il court tous les matins.
-  Mein Nachbar ist zwar schon *alt*, aber er joggt jeden Morgen.
+  My neighbor is old, but he runs every morning.
 
   Les personnes *âgées* ont besoin de plus d'attention médicale.
-  *Ältere* Menschen brauchen mehr medizinische Aufmerksamkeit.
+  Older people need more medical attention.
 
   Cette femme *âgée* vit toujours dans sa maison d'enfance.
-  Diese *alte* Frau lebt noch immer in ihrem Elternhaus.
+  This elderly woman still lives in her childhood home.
 
   Le chat est *âgé* de huit ans maintenant.
-  Die Katze ist jetzt acht Jahre *alt*.
+  The cat is eight years old now.
 
   Le plus *âgé* des élèves a redoublé deux fois.
-  Der *älteste* Schüler hat zweimal eine Klasse wiederholt.
+  The oldest of the students doubled.
 
   Ce chêne est *âgé* d'environ deux cents ans.
-  Diese Eiche ist ungefähr zweihundert Jahre *alt*.
+  This oak tree is about two hundred years old.
 
   Paul est *âgé* de vingt ans aujourd'hui.
-  Paul ist heute zwanzig Jahre *alt*.
+  Paul is twenty years old today.
 
   Mon grand-père est décédé très *âgé*.
-  Mein Großvater ist sehr *alt* gestorben.
+  My grandfather died very old.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

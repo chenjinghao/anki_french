@@ -1,76 +1,76 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4862
 Wort: hymne
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un hymne
 Femininum / Plural: ''
 IPA: \imn\
-Definition: Hymne
+Definition: Hymns
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   J'ai chanté l'*hymne* national.
-  Ich habe die National*hymne* gesungen.
+  I sang the national anthem.
 
   La Marseillaise est l'*hymne* national français depuis 1795.
-  Die Marseillaise ist seit 1795 die französische National*hymne*.
+  The Marseillaise has been the French national anthem since 1795.
 
   Les enfants apprennent l'*hymne* national à l'école.
-  Die Kinder lernen in der Schule die National*hymne*.
+  Children learn the national anthem at school.
 
   Ce poème est un *hymne* à la liberté.
-  Dieses Gedicht ist eine *Hymne* an die Freiheit.
+  This poem is an anthem of freedom.
 
   Son dernier livre est un véritable *hymne* à la nature.
-  Sein letztes Buch ist ein wahres *Hohelied* auf die Natur.
+  His last book is a true *hymn* to nature.
 
   L'*hymne* religieux résonnait dans toute l'église.
-  Der religiöse *Lobgesang* hallte durch die ganze Kirche.
+  The religious *hymn* resounded throughout the church.
 
   Les fidèles ont entonné un *hymne* sacré pendant la messe.
-  Die Gläubigen stimmten während der Messe einen heiligen *Lobgesang* an.
+  The faithful sang a sacred *hymn* during Mass.
 
   Le chœur chante des *hymnes* à la gloire de Dieu.
-  Der Chor singt *Hymnen* zum Lobe Gottes.
+  The choir sings *hymns* to the glory of God.
 
   Les spectateurs se sont levés pour l'*hymne* national avant le match.
-  Die Zuschauer erhoben sich vor dem Spiel für die National*hymne*.
+  The spectators stood up for the national anthem before the game.
 
   Beethoven a composé un *hymne* à la joie.
-  Beethoven komponierte eine *Hymne* an die Freude.
+  Beethoven composed a *hymn* to joy.
 
   Ce film est un magnifique *hymne* à l'amour.
-  Dieser Film ist eine wunderbare *Hymne* an die Liebe.
+  This film is a beautiful *hymn* to love.
 
   Les anciens Grecs chantaient des *hymnes* en l'honneur d'Apollon.
-  Die alten Griechen sangen *Hymnen* zu Ehren Apollons.
+  The ancient Greeks sang *hymns* to Apollo.
 
   Durant la cérémonie, nous avons écouté l'*hymne* européen.
-  Während der Zeremonie hörten wir die Europa*hymne*.
+  During the ceremony, we listened to the European anthem.
 
   Les moines chantent des *hymnes* pendant les vêpres.
-  Die Mönche singen während der Vesper *Hymnen*.
+  The monks sing *hymns* in the evenings.
 
   Son discours était un *hymne* à la paix.
-  Seine Rede war eine *Hymne* an den Frieden.
+  His speech was a *hymn* to peace.
 
   Elle a composé un *hymne* pour célébrer la victoire.
-  Sie komponierte eine *Hymne*, um den Sieg zu feiern.
+  She composed a *hymn* to celebrate the victory.
 
   L'orchestre joue l'*hymne* national lors des cérémonies officielles.
-  Das Orchester spielt bei offiziellen Zeremonien die National*hymne*.
+  The orchestra plays the national anthem at official ceremonies.
 
   Les athlètes écoutent leur *hymne* national sur le podium.
-  Die Athleten hören auf dem Podium ihre National*hymne*.
+  Athletes are listening to their national anthem on the podium.
 
   Ce roman est un *hymne* à la jeunesse.
-  Dieser Roman ist ein *Hohelied* auf die Jugend.
+  This novel is a *hymn* to youth.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2048
 Wort: consommer
 Wortart: vi, vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: consommer
 Femininum / Plural: ''
 IPA: \kɔ̃.sɔ.me\
-Definition: verbrauchen, verzehren
+Definition: Consume
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Nous *consommons* des aliments génétiquement modifiés.
-  Wir *konsumieren* gentechnisch veränderte Lebensmittel.
+  We eat genetically modified foods.
 
   Cette boisson se *consomme* de préférence glacée.
-  Dieses Getränk wird vorzugsweise eiskalt *getrunken*.
+  This drink is preferably eaten frozen.
 
   La voiture électrique *consomme* moins d'énergie qu'une voiture à essence.
-  Das Elektroauto *verbraucht* weniger Energie als ein Benziner.
+  An electric car consumes less energy than a petrol car.
 
   As-tu *consommé* quelque chose au bar ?
-  Hast du im Bar etwas *getrunken*?
+  Did you eat anything at the bar?
 
   Le mariage n'a pas été *consommé*.
-  Die Ehe wurde nicht *vollzogen*.
+  The marriage was not consummated.
 
   Cette entreprise *consomme* beaucoup d'électricité.
-  Dieses Unternehmen *verbraucht* viel Strom.
+  This company consumes a lot of electricity.
 
   Les Français *consomment* moins de viande qu'avant.
-  Die Franzosen *konsumieren* weniger Fleisch als früher.
+  The French eat less meat than before.
 
   Le forfait a été *consommé* hier soir.
-  Das Verbrechen wurde gestern Abend *begangen*.
+  The package was consummated last night.
 
   Cette soupe se *consomme* chaude.
-  Diese Suppe wird heiß *gegessen*.
+  This soup eats hot.
 
   Mon nouveau radiateur *consomme* trop de gaz.
-  Meine neue Heizung *verbraucht* zu viel Gas.
+  My new radiator is consuming too much gas.
 
   Il faut *consommer* ce plat dans les 24 heures.
-  Man muss dieses Gericht innerhalb von 24 Stunden *verzehren*.
+  You must consume this dish within 24 hours.
 
   Marie *consomme* trois romans par semaine.
-  Marie *konsumiert* drei Romane pro Woche.
+  Marie consumes three novels a week.
 
   Cette machine *consomme* deux fois plus d'essence que la mienne.
-  Diese Maschine *verbraucht* doppelt so viel Benzin wie meine.
+  This machine uses twice as much gasoline as mine.
 
   Les jeunes *consomment* de plus en plus de contenus en ligne.
-  Junge Menschen *konsumieren* immer mehr Online-Inhalte.
+  Young people are consuming more and more content online.
 
   Le poisson se *consomme* cru dans certains pays.
-  Der Fisch wird in manchen Ländern roh *verzehrt*.
+  Fish is eaten raw in some countries.
 
   À *consommer* avant fin 2024.
-  Zu *verzehren* vor Ende 2024.
+  To be consumed before the end of 2024.
 
   Nous avons *consommé* notre pique-nique dans le parc.
-  Wir haben unser Picknick im Park *verzehrt*.
+  We spent our picnic in the park.
 
   Cette région *consomme* beaucoup de charbon pour se chauffer.
-  Diese Region *verbraucht* viel Kohle zum Heizen.
+  This region uses a lot of coal to heat itself.
 
   La ruine de l'entreprise fut *consommée* en quelques mois.
-  Der Untergang des Unternehmens war nach wenigen Monaten *vollzogen*.
+  The ruin of the company was consummated in a few months.
 
   Pierre *consomme* régulièrement dans ce café.
-  Pierre *bestellt* regelmäßig etwas in diesem Café.
+  Pierre consumes regularly in this coffee.
 
   Les Allemands *consomment* plus de pain que les Français.
-  Die Deutschen *verzehren* mehr Brot als die Franzosen.
+  The Germans consume more bread than the French.
 
   Mon ordinateur portable *consomme* moins d'énergie que l'ancien.
-  Mein Laptop *verbraucht* weniger Energie als der alte.
+  My laptop uses less power than the old one.
 
   Le sacrifice fut *consommé* à l'aube.
-  Das Opfer wurde im Morgengrauen *vollbracht*.
+  The sacrifice was consummated at dawn.
 
   Ces légumes peuvent se *consommer* cuits ou crus.
-  Dieses Gemüse kann gekocht oder roh *verzehrt* werden.
+  These vegetables can be eaten cooked or raw.
 
   Les touristes *consomment* beaucoup d'eau en été.
-  Die Touristen *verbrauchen* im Sommer viel Wasser.
+  Tourists consume a lot of water in the summer.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

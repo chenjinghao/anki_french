@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1017
 Wort: contribuer
 Wortart: vi
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: contribuer
 Femininum / Plural: ''
 IPA: \kɔ̃.tʁi.bɥe\
-Definition: beitragen
+Definition: to contribute
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   La consommation de drogues illicites *contribue* à la criminalité.
-  Der Konsum illegaler Drogen *trägt* zur Kriminalität *bei*.
+  Illicit drug use *contributes* to crime.
 
   Nous avons tous *contribué* à l'achat d'un cadeau pour son anniversaire.
-  Wir haben alle zum Kauf eines Geburtstagsgeschenks für sie *beigetragen*.
+  We all *contributed* to the purchase of a birthday present.
 
   La forêt amazonienne *contribue* à la régulation du climat mondial.
-  Der Amazonas-Regenwald *trägt* zur globalen Klimaregulierung *bei*.
+  The Amazon rainforest *contributes* to the regulation of the global climate.
 
   Les bénévoles ont grandement *contribué* au succès du festival.
-  Die Freiwilligen haben maßgeblich zum Erfolg des Festivals *beigetragen*.
+  The volunteers *contributed* greatly to the success of the festival.
 
   Ses recherches ont *contribué* aux progrès de la médecine.
-  Seine Forschungen haben zum Fortschritt der Medizin *beigetragen*.
+  His research has *contributed* to the advancement of medicine.
 
   Chaque employé doit *contribuer* aux frais de bureau.
-  Jeder Mitarbeiter muss zu den Bürokosten *beisteuern*.
+  Each employee must contribute to the costs of the office.
 
   Cette expérience a *contribué* à mon développement personnel.
-  Diese Erfahrung hat zu meiner persönlichen Entwicklung *beigetragen*.
+  This experience has *contributed* to my personal development.
 
   Les nouvelles technologies *contribuent* à transformer notre société.
-  Neue Technologien *tragen* zur Umgestaltung unserer Gesellschaft *bei*.
+  New technologies are helping to transform our society.
 
   Elle a *contribué* à hauteur de 50% au financement du projet.
-  Sie hat 50% zur Finanzierung des Projekts *beigesteuert*.
+  It *contributed* up to 50% to the financing of the project.
 
   Le sport *contribue* à maintenir une bonne santé.
-  Sport *trägt* zur Erhaltung der Gesundheit *bei*.
+  Sport *contributes* to maintaining good health.
 
   Ces témoignages ont *contribué* à faire éclater la vérité.
-  Diese Zeugenaussagen haben dazu *beigetragen*, die Wahrheit ans Licht zu bringen.
+  These testimonies helped spread the truth.
 
   Son attitude positive *contribue* à créer une atmosphère agréable.
-  Seine positive Einstellung *trägt* zu einer angenehmen Atmosphäre *bei*.
+  His positive attitude *contributes* to a pleasant atmosphere.
 
   Les parents doivent *contribuer* à l'éducation de leurs enfants.
-  Eltern müssen zur Erziehung ihrer Kinder *beitragen*.
+  Parents must contribute to the education of their children.
 
   Cette région *contribue* largement à l'économie du pays.
-  Diese Region *trägt* erheblich zur Wirtschaft des Landes *bei*.
+  This region *contributes* greatly to the country's economy.
 
   Tous les citoyens *contribuent* aux charges publiques par leurs impôts.
-  Alle Bürger *tragen* durch ihre Steuern zu den öffentlichen Ausgaben *bei*.
+  All citizens contribute to public expenditure through their taxes.
 
   Le bruit constant *contribue* au stress quotidien.
-  Der ständige Lärm *trägt* zum täglichen Stress *bei*.
+  Constant noise *contributes* to daily stress.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

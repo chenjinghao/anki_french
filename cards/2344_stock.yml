@@ -1,91 +1,91 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 2344
 Wort: stock
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le stock
 Femininum / Plural: ''
 IPA: \stɔk\
-Definition: Lager, Vorrat
+Definition: Stocks
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il conserve et protège nos *stocks* de poisson.
-  Er schützt und bewahrt unsere Fisch*bestände*.
+  It preserves and protects our fish *stocks*.
 
   Le supermarché a un grand *stock* de produits alimentaires.
-  Der Supermarkt hat einen großen *Vorrat* an Lebensmitteln.
+  The supermarket has a large *stock* of food products.
 
   Nous devons contrôler notre *stock* de pièces détachées chaque mois.
-  Wir müssen unser Ersatzteil*lager* jeden Monat kontrollieren.
+  We need to check our spare parts *stock* every month.
 
   "J'ai un énorme *stock* de chocolat dans mon placard !"
-  "Ich habe einen riesigen *Vorrat* an Schokolade in meinem Schrank!"
+  "I have a huge *stock* of chocolate in my closet!"
 
   Malheureusement, cet article est *en rupture de stock*.
-  Leider ist dieser Artikel *nicht mehr vorrätig*.
+  Unfortunately, this item is out of stock.
 
   Le magasin doit *stocker* plus de marchandises avant Noël.
-  Das Geschäft muss vor Weihnachten mehr Waren *einlagern*.
+  The store has to store more goods before Christmas.
 
   Les *stocks* de matières premières diminuent rapidement.
-  Die Rohstoff*bestände* gehen schnell zur Neige.
+  *Stocks* of raw materials are declining rapidly.
 
   Mon père a constitué un *stock* de bois pour l'hiver.
-  Mein Vater hat einen Holz*vorrat* für den Winter angelegt.
+  My father made a *stock* of wood for the winter.
 
   Il faut gérer les *stocks* de manière efficace.
-  Die *Lagerbestände* müssen effizient verwaltet werden.
+  *Stocks* must be managed effectively.
 
   La librairie a un *stock* important de nouveaux romans.
-  Die Buchhandlung hat einen großen *Bestand* an neuen Romanen.
+  The bookstore has a large *stock* of new novels.
 
   Les *stocks* tampons nous protègent des pénuries.
-  Die Puffer*bestände* schützen uns vor Engpässen.
+  Buffer *stocks* protect us from shortages.
 
   Notre *stock* de sucre est presque épuisé.
-  Unser Zucker*vorrat* ist fast aufgebraucht.
+  Our supply of sugar is almost exhausted.
 
   Le nouveau système informatique gère tous nos *stocks*.
-  Das neue Computersystem verwaltet alle unsere *Bestände*.
+  The new computer system manages all our *stocks*.
 
   "Garde ce livre, j'en ai tout un *stock* à la maison."
-  "Behalte das Buch, ich habe zu Hause einen ganzen *Vorrat* davon."
+  "Keep this book, I've got a whole *stock* of it at home".
 
   Ils doivent liquider leur *stock* avant la fin du mois.
-  Sie müssen ihr *Lager* bis zum Monatsende räumen.
+  They have to liquidate their *stock* before the end of the month.
 
   Le *stock* final sera compté demain matin.
-  Der End*bestand* wird morgen früh gezählt.
+  The final *stock* will be counted tomorrow morning.
 
   Nous avons un *stock* déficitaire de ces produits.
-  Wir haben einen Fehl*bestand* bei diesen Produkten.
+  We have a shortage of these products.
 
   Les agriculteurs surveillent leurs *stocks* de céréales.
-  Die Bauern überwachen ihre Getreide*vorräte*.
+  Farmers are monitoring their grain *stocks*.
 
   La police a découvert un *stock* d'armes dans la cave.
-  Die Polizei hat ein Waffen*lager* im Keller entdeckt.
+  The police discovered a stockpile of weapons in the basement.
 
   Le serveur conserve un *stock* de données important.
-  Der Server bewahrt einen großen Daten*bestand*.
+  The server holds a large *stock* of data.
 
   Ces médicaments sont toujours *en stock*.
-  Diese Medikamente sind noch *auf Lager*.
+  These drugs are still *in stock*.
 
   Pierre gère le *stock* de pièces détachées depuis dix ans.
-  Pierre verwaltet seit zehn Jahren das Ersatzteil*lager*.
+  Pierre's been running the spare parts store for ten years.
 
   Les *stocks* budgétés ne correspondent pas à la réalité.
-  Die Plan*bestände* stimmen nicht mit der Realität überein.
+  The budgetary *stocks* do not correspond to reality.
 
   Le magasin doit écouler ses *stocks* avant les soldes.
-  Das Geschäft muss seine *Bestände* vor dem Schlussverkauf abverkaufen.
+  The store has to run out of supplies before the sale.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1560
 Wort: comparer
 Wortart: vt, vi, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: comparer
 Femininum / Plural: ''
 IPA: \kɔ̃.pa.ʁe\
-Definition: vergleichen
+Definition: Comparison
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il est important de ne pas se *comparer* aux autres.
-  Es ist wichtig, sich nicht mit anderen zu *vergleichen*.
+  It's important not to compare yourself to others.
 
   Elle *compare* toujours ses résultats avec ceux de sa sœur.
-  Sie *vergleicht* ihre Ergebnisse immer mit denen ihrer Schwester.
+  She always compares her results to her sister's.
 
   *Comparé* à son frère aîné, Thomas est beaucoup plus sportif.
-  Im *Vergleich* zu seinem älteren Bruder ist Thomas viel sportlicher.
+  *Compared* to his older brother, Thomas is much more athletic.
 
   Les experts ont *comparé* les différentes versions du manuscrit.
-  Die Experten haben die verschiedenen Versionen des Manuskripts *verglichen*.
+  Experts *compared* the different versions of the manuscript.
 
   Avant d'acheter une voiture, il faut *comparer* les prix.
-  Bevor man ein Auto kauft, muss man die Preise *vergleichen*.
+  Before you buy a car, you have to compare the prices.
 
   On ne peut pas *comparer* ces deux situations.
-  Man kann diese beiden Situationen nicht *vergleichen*.
+  You can't compare these two situations.
 
   Le professeur *compare* la vie à un long voyage.
-  Der Lehrer *vergleicht* das Leben mit einer langen Reise.
+  The professor likened life to a long journey.
 
   Les critiques littéraires *comparent* souvent cet auteur à Shakespeare.
-  Die Literaturkritiker *vergleichen* diesen Autor oft mit Shakespeare.
+  Literary critics often compare this writer to Shakespeare.
 
   J'aimerais *comparer* la traduction avec le texte original.
-  Ich möchte die Übersetzung mit dem Originaltext *vergleichen*.
+  I'd like to compare the translation with the original text.
 
   Les scientifiques ont *comparé* les résultats de plusieurs expériences.
-  Die Wissenschaftler haben die Ergebnisse mehrerer Experimente *verglichen*.
+  The scientists *compared* the results of several experiments.
 
   Comment peut-on *comparer* ces deux talents si différents ?
-  Wie kann man diese beiden so unterschiedlichen Talente *vergleichen*?
+  How can we compare these two so different talents?
 
   Les économistes *comparent* l'évolution des marchés financiers.
-  Die Ökonomen *vergleichen* die Entwicklung der Finanzmärkte.
+  Economists compare the evolution of financial markets.
 
   Pierre *compare* toujours les prix avant de faire ses courses.
-  Pierre *vergleicht* immer die Preise, bevor er einkaufen geht.
+  Pierre always compares prices before he goes shopping.
 
   Le poète *compare* la jeunesse à un printemps éternel.
-  Der Dichter *vergleicht* die Jugend mit einem ewigen Frühling.
+  The poet compares youth to an eternal spring.
 
   On ne peut pas *comparer* le climat d'aujourd'hui à celui d'il y a cent ans.
-  Man kann das heutige Klima nicht mit dem vor hundert Jahren *vergleichen*.
+  The climate of today cannot be compared to that of a hundred years ago.
 
   Les journalistes ont *comparé* les programmes des deux candidats.
-  Die Journalisten haben die Programme der beiden Kandidaten *verglichen*.
+  The journalists *compared* the programs of the two candidates.
 
   Marie a *comparé* plusieurs offres d'emploi avant de faire son choix.
-  Marie hat mehrere Stellenangebote *verglichen*, bevor sie sich entschieden hat.
+  Marie *compared* several job offers before making her choice.
 
   Il est difficile de *comparer* ces deux films car ils sont très différents.
-  Es ist schwierig, diese beiden Filme zu *vergleichen*, da sie sehr unterschiedlich sind.
+  It is difficult to compare these two films because they are very different.
 
   Les élèves doivent *comparer* leurs réponses avec celles du livre.
-  Die Schüler müssen ihre Antworten mit denen im Buch *vergleichen*.
+  Students should compare their answers to those in the book.
 
   Le guide nous a fait *comparer* les différents styles d'architecture.
-  Der Führer ließ uns die verschiedenen Architekturstile *vergleichen*.
+  The guide made us compare the different architectural styles.
 
   On ne peut rien *comparer* à la joie d'être parent.
-  Nichts lässt sich mit der Freude *vergleichen*, Eltern zu sein.
+  Nothing compares to the joy of being a parent.
 
   Les chercheurs *comparent* les habitudes alimentaires de différentes cultures.
-  Die Forscher *vergleichen* die Essgewohnheiten verschiedener Kulturen.
+  Researchers compare the eating habits of different cultures.
 
   Sophie aime *comparer* les critiques avant de choisir un restaurant.
-  Sophie *vergleicht* gerne die Bewertungen, bevor sie ein Restaurant auswählt.
+  Sophie likes to compare reviews before choosing a restaurant.
 
   En *comparant* les deux méthodes, nous avons trouvé la meilleure solution.
-  Durch den *Vergleich* der beiden Methoden haben wir die beste Lösung gefunden.
+  By *comparing* the two methods, we found the best solution.
 
   Les statisticiens ont *comparé* les données des dernières années.
-  Die Statistiker haben die Daten der letzten Jahre *verglichen*.
+  Statistics have *compared* data from recent years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

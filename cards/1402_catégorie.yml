@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1402
 Wort: catégorie
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la catégorie
 Femininum / Plural: ''
 IPA: \ka.te.ɡɔ.ʁi\
-Definition: Kategorie
+Definition: Categories
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Les autres *catégories* de l'entreprise sont concernées par cette démarche.
-  Die anderen *Gruppen* des Unternehmens sind von dieser Maßnahme betroffen.
+  The *other categories* of undertaking are affected by this approach.
 
   Dans cette *catégorie* socioprofessionnelle, le salaire moyen est plus élevé.
-  In diesem Berufs*stand* ist das Durchschnittsgehalt höher.
+  In this socio-professional *category*, the average salary is higher.
 
   Il va participer au championnat dans la *catégorie* des vétérans.
-  Er wird an der Meisterschaft in der Senioren*klasse* teilnehmen.
+  He's going to compete in the championship in the veterans *category*.
 
   Les restaurants sont classés par *catégories* selon leur niveau de service.
-  Die Restaurants werden nach *Kategorien* entsprechend ihrem Serviceniveau eingestuft.
+  Restaurants are classified by category according to their level of service.
 
   Le verbe appartient à une *catégorie* grammaticale différente.
-  Das Verb gehört zu einer anderen Wort*art*.
+  The verb belongs to a different grammatical *category*.
 
   On a divisé les élèves en *catégories* d'âge pour la compétition.
-  Wir haben die Schüler für den Wettbewerb in Alters*gruppen* eingeteilt.
+  We divided the students into age categories for the competition.
 
   Cette viande est de première *catégorie*.
-  Dieses Fleisch ist von der ersten *Güteklasse*.
+  This meat is first class.
 
   Les *catégories* de l'être selon Aristote sont fondamentales en philosophie.
-  Die *Kategorien* des Seins nach Aristoteles sind grundlegend in der Philosophie.
+  The categories of being according to Aristotle are fundamental in philosophy.
 
   Le boxeur a changé de *catégorie* de poids cette année.
-  Der Boxer hat dieses Jahr die Gewichts*klasse* gewechselt.
+  The boxer changed his weight class this year.
 
   Notre hôtel est passé en *catégorie* supérieure après les rénovations.
-  Unser Hotel ist nach den Renovierungen in eine höhere *Kategorie* aufgestiegen.
+  Our hotel was upgraded after the renovation.
 
   La *catégorie* professionnelle détermine souvent le niveau de salaire.
-  Die Berufs*gruppe* bestimmt oft das Gehaltsniveau.
+  The occupational *category* often determines the level of salary.
 
   Les produits sont classés en différentes *catégories* de qualité.
-  Die Produkte werden in verschiedene Handels*klassen* eingeteilt.
+  The products are classified into different quality categories.
 
   Cette *catégorie* sociale a été particulièrement touchée par la crise.
-  Diese Gesellschafts*schicht* war von der Krise besonders betroffen.
+  This social group has been particularly affected by the crisis.
 
   Chaque *catégorie* fiscale correspond à un taux d'imposition différent.
-  Jede Einkommenssteuer*gruppe* entspricht einem anderen Steuersatz.
+  Each tax *category* corresponds to a different tax rate.
 
   Les athlètes de toutes *catégories* participent à cette compétition.
-  Die Athleten aller *Klassen* nehmen an diesem Wettkampf teil.
+  Athletes of all classes participate in this competition.
 
   La *catégorie* du nombre est essentielle en grammaire française.
-  Die *Kategorie* der Zahl ist in der französischen Grammatik wesentlich.
+  The number *category* is essential in French grammar.
 
   Cette *catégorie* de fonctionnaires reçoit une prime spéciale.
-  Diese *Gruppe* von Beamten erhält eine Sonderprämie.
+  This *category* of civil servants receives a special bonus.
 
   Les étudiants doivent identifier les *catégories* grammaticales dans ce texte.
-  Die Studenten müssen die Wort*klassen* in diesem Text identifizieren.
+  Students must identify the grammatical categories in this text.
 
   Cette *catégorie* de produits se vend particulièrement bien.
-  Diese *Kategorie* von Produkten verkauft sich besonders gut.
+  This *category* of products sells particularly well.
 
   La causalité est une *catégorie* fondamentale de l'entendement.
-  Die Kausalität ist eine grundlegende *Kategorie* des Verstandes.
+  Causality is a fundamental *category* of understanding.
 
   Le temps est considéré comme une *catégorie* de l'entendement pur.
-  Die Zeit wird als eine *Kategorie* des reinen Verstandes betrachtet.
+  Time is considered a *category* of pure understanding.
 
   Il faut établir des *catégories* claires pour l'analyse des données.
-  Man muss klare *Kategorien* für die Datenanalyse festlegen.
+  Clear categories for data analysis should be established.
 
   Les *catégories* du discours varient selon les langues.
-  Die *Kategorien* der Rede variieren je nach Sprache.
+  Speech categories vary from language to language.
 
   Cette *catégorie* de contribuables bénéficie d'avantages fiscaux.
-  Diese *Gruppe* von Steuerzahlern profitiert von Steuervergünstigungen.
+  This *category* of taxpayers receives tax advantages.
 
   La théorie des *catégories* est un domaine complexe des mathématiques.
-  Die *Kategorien*theorie ist ein komplexer Bereich der Mathematik.
+  Category theory is a complex area of mathematics.
 
   Les employés sont répartis en *catégories* selon leur ancienneté.
-  Die Mitarbeiter sind nach *Gruppen* entsprechend ihrer Betriebszugehörigkeit eingeteilt.
+  Employees are divided into categories according to their seniority.
 
   La substance est la première des dix *catégories* d'Aristote.
-  Die Substanz ist die erste der zehn *Kategorien* von Aristoteles.
+  Substance is the first of Aristotle's ten categories.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

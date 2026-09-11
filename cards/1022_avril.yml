@@ -1,55 +1,55 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1022
 Wort: avril
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un avril
 Femininum / Plural: ''
 IPA: \a.vʁil\
 Definition: April
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je suis né le 10 *avril*.
-  Ich bin am 10. *April* geboren.
+  I was born on *April* 10th.
 
   Cette année, Pâques tombe en *avril*.
-  Dieses Jahr fällt Ostern in den *April*.
+  This year, Easter falls in *April*.
 
   Nous avons eu un *avril* bien pluvieux.
-  Wir hatten einen sehr regnerischen *April*.
+  We had a rainy *April*.
 
   "Je vais te faire un *poisson d'avril*!"
-  "Ich werde dir einen *Aprilscherz* machen!"
+  "I'll make you an *April fish*!"
 
   Les cerisiers fleurissent toujours en *avril*.
-  Die Kirschbäume blühen immer im *April*.
+  Cherry trees still bloom in *April*.
 
   En *avril*, ne te découvre pas d'un fil.
-  Im *April* sollst du dich nicht zu leicht kleiden.
+  In *April*, don't get caught up in a thread.
 
   Il a commencé son nouveau travail début *avril*.
-  Er hat seine neue Arbeit Anfang *April* begonnen.
+  He started his new job in early *April*.
 
   Les examens auront lieu fin *avril*.
-  Die Prüfungen finden Ende *April* statt.
+  The exams will take place at the end of *April*.
 
   Le premier *avril*, tout le monde se méfie des blagues.
-  Am ersten *April* ist jeder misstrauisch gegenüber Scherzen.
+  On *April* 1st, everyone is wary of jokes.
 
   En *avril*, la nature se réveille doucement.
-  Im *April* erwacht die Natur langsam.
+  In *April*, nature is slowly waking up.
 
   C'était un beau jour d'*avril*, le soleil brillait.
-  Es war ein schöner Tag im *April*, die Sonne schien.
+  It was a beautiful day in *April*, the sun was shining.
 
   Le magazine d'*avril* vient de sortir.
-  Die *April*-Ausgabe ist gerade erschienen.
+  The *April* magazine just came out.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

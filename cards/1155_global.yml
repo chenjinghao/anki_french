@@ -1,67 +1,67 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1155
 Wort: global
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: global
 Femininum / Plural: globale
 IPA: \glɔ.bal\
-Definition: global, weltweit
+Definition: globally
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'opération peut être locale ou *globale*.
-  Die Operation kann lokal oder *global* sein.
+  The operation can be local or global.
 
   Cette entreprise a une vision *globale* du marché.
-  Dieses Unternehmen hat eine *globale* Sicht des Marktes.
+  This company has a comprehensive view of the market.
 
   Pour comprendre le roman, il faut avoir une vue *globale* de l'intrigue.
-  Um den Roman zu verstehen, braucht man einen *Überblick* über die Handlung.
+  To understand the novel, you have to have an *overall* view of the plot.
 
   L'enseignante utilise la méthode *globale* pour apprendre à lire aux enfants.
-  Die Lehrerin verwendet die *Ganzheitsmethode*, um den Kindern das Lesen beizubringen.
+  The teacher uses the holistic method to teach children how to read.
 
   Le budget *global* du projet s'élève à dix mille euros.
-  Das *Gesamtbudget* des Projekts beläuft sich auf zehntausend Euro.
+  The *overall* budget of the project amounts to ten thousand euros.
 
   Il faut faire une analyse *globale* avant de prendre une décision.
-  Man muss eine *Gesamtanalyse* machen, bevor man eine Entscheidung trifft.
+  You have to do an *overall* analysis before you make a decision.
 
   La température *globale* de la Terre augmente chaque année.
-  Die *globale* Temperatur der Erde steigt jedes Jahr.
+  The global temperature of the Earth is increasing every year.
 
   Nous devons traiter ce problème de manière *globale*.
-  Wir müssen dieses Problem *ganzheitlich* angehen.
+  We need to tackle this problem in a holistic way.
 
   Le chiffre d'affaires *global* a augmenté de 5% cette année.
-  Der *Gesamtumsatz* ist dieses Jahr um 5% gestiegen.
+  *Overall* turnover increased by 5% this year.
 
   Une approche *globale* est nécessaire pour résoudre cette crise.
-  Ein *globaler* Ansatz ist notwendig, um diese Krise zu lösen.
+  A comprehensive approach is needed to resolve this crisis.
 
   La demande *globale* a baissé au premier trimestre.
-  Die *gesamtwirtschaftliche* Nachfrage ist im ersten Quartal gesunken.
+  *Overall* demand declined in the first quarter.
 
   Il faut avoir une perspective *globale* des enjeux environnementaux.
-  Man braucht eine *globale* Perspektive auf die Umweltprobleme.
+  We must have a comprehensive view of environmental issues.
 
   Le montant *global* des dépenses sera calculé demain.
-  Der *Gesamtbetrag* der Ausgaben wird morgen berechnet.
+  The total amount of expenditure will be calculated tomorrow.
 
   Cette réforme aura un impact *global* sur l'économie.
-  Diese Reform wird *globale* Auswirkungen auf die Wirtschaft haben.
+  This reform will have an *overall* impact on the economy.
 
   La note *globale* de l'étudiant reflète tous ses résultats.
-  Die *Gesamtnote* des Studenten spiegelt alle seine Ergebnisse wider.
+  The student's *overall* score reflects all his results.
 
   Nous avons besoin d'une stratégie *globale* pour réussir.
-  Wir brauchen eine *umfassende* Strategie, um erfolgreich zu sein.
+  We need a comprehensive strategy to succeed.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

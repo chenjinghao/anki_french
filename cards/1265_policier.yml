@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1265
 Wort: policier
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le policier
 Femininum / Plural: policière
 IPA: \pɔ.li.sje\
-Definition: Polizist
+Definition: I 'm a police officer
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tous les *policiers* doivent se présenter à leur sergent.
-  Alle *Polizisten* müssen sich bei ihrem Vorgesetzten melden.
+  All officers must report to their sergeant.
 
   Une *policière* a secouru une famille lors de l'incendie.
-  Eine *Polizistin* hat eine Familie bei dem Brand gerettet.
+  A policewoman rescued a family during the fire.
 
   Le chien *policier* a retrouvé les traces du suspect.
-  Der *Polizei*hund hat die Spuren des Verdächtigen gefunden.
+  The police dog tracked down the suspect.
 
   Marc est devenu *policier* il y a cinq ans.
-  Marc ist vor fünf Jahren *Polizist* geworden.
+  Marc became a *police officer* five years ago.
 
   Les forces *policières* ont établi un périmètre de sécurité.
-  Die *Polizei*kräfte haben einen Sicherheitsbereich eingerichtet.
+  The police have established a security perimeter.
 
   Le nouveau roman *policier* de Julie est fascinant.
-  Julies neuer *Krimi* ist faszinierend.
+  Julie's new crime novel is fascinating.
 
   Ce *policier* en civil a réussi à infiltrer le gang.
-  Dieser *Polizist* in Zivil konnte die Bande erfolgreich infiltrieren.
+  This civilian cop managed to infiltrate the gang.
 
   Les mesures *policières* sont particulièrement strictes aujourd'hui.
-  Die *polizeilichen* Maßnahmen sind heute besonders streng.
+  Political measures are particularly strict today.
 
   J'ai regardé un film *policier* hier soir.
-  Ich habe gestern Abend einen *Krimi* geschaut.
+  I watched a cop movie last night.
 
   Le *policier* auxiliaire aide à diriger la circulation.
-  Der Hilfs*polizist* hilft bei der Verkehrsregelung.
+  The auxiliary officer helps direct traffic.
 
   Un *policier* de la brigade antidrogue a arrêté le dealer.
-  Ein *Drogenfahnder* hat den Dealer festgenommen.
+  A DEA cop arrested the dealer.
 
   Dans un État *policier*, la liberté est souvent menacée.
-  In einem *Polizei*staat ist die Freiheit oft bedroht.
+  In a police state, freedom is often threatened.
 
   Les violences *policières* ont fait la une des journaux.
-  Die *Polizei*gewalt war in den Schlagzeilen.
+  The police violence made headlines.
 
   La série de romans *policiers* se vend très bien.
-  Die *Krimi*serie verkauft sich sehr gut.
+  The series of detective novels is selling very well.
 
   Le dispositif *policier* était impressionnant pendant la manifestation.
-  Der *Polizei*einsatz während der Demonstration war beeindruckend.
+  The police system was impressive during the protest.
 
   Cette femme *policier* travaille dans la brigade criminelle.
-  Diese *Polizistin* arbeitet in der Mordkommission.
+  This woman *police officer* works in the crime brigade.
 
   Les enquêteurs de la brigade *policière* ont résolu l'affaire.
-  Die Ermittler der *Polizei*brigade haben den Fall gelöst.
+  The police brigade investigators have solved the case.
 
   Le *policier* municipal surveille le quartier jour et nuit.
-  Der Stadt*polizist* überwacht Tag und Nacht das Viertel.
+  The city police are guarding the neighborhood day and night.
 
   Son dernier film *policier* a reçu plusieurs prix.
-  Sein letzter *Krimi*film hat mehrere Preise gewonnen.
+  His latest police film won several awards.
 
   Les opérations *policières* se sont déroulées sans incident.
-  Die *Polizei*operationen verliefen ohne Zwischenfälle.
+  The police operations went on without incident.
 
   La brigade *policière* a mené une perquisition ce matin.
-  Die *Polizei*einheit hat heute Morgen eine Durchsuchung durchgeführt.
+  The police brigade conducted a search this morning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

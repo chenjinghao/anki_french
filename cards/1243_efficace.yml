@@ -1,79 +1,79 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1243
 Wort: efficace
 Wortart: adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: efficace
 Femininum / Plural: ''
 IPA: \e.fi.kas\
-Definition: effizient
+Definition: Efficiency
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Mon équipe est compacte et *efficace*.
-  Mein Team ist kompakt und *effizient*.
+  My team is compact and efficient.
 
   Ce nouveau médicament est très *efficace* contre le rhume.
-  Dieses neue Medikament ist sehr *wirksam* gegen Erkältungen.
+  This new drug is very *effective* against colds.
 
   La campagne publicitaire s'est révélée particulièrement *efficace*.
-  Die Werbekampagne hat sich als besonders *schlagkräftig* erwiesen.
+  The advertising campaign proved to be particularly *effective*.
 
   Julie est une collaboratrice très *efficace* qui termine toujours ses tâches à temps.
-  Julie ist eine sehr *kompetente* Mitarbeiterin, die ihre Aufgaben immer pünktlich erledigt.
+  Julie is a very efficient collaborator who always finishes her tasks on time.
 
   Cette crème hydratante est *efficace* en profondeur.
-  Diese Feuchtigkeitscreme ist tiefen*wirksam*.
+  This moisturizer is deeply *effective*.
 
   Le traitement s'est montré extrêmement *efficace* contre la douleur.
-  Die Behandlung hat sich als äußerst *wirksam* gegen die Schmerzen erwiesen.
+  Treatment has proven to be extremely *effective* against pain.
 
   Nous recherchons des solutions *efficaces* pour réduire notre consommation d'énergie.
-  Wir suchen nach *effizienten* Lösungen, um unseren Energieverbrauch zu reduzieren.
+  We are looking for efficient solutions to reduce our energy consumption.
 
   Cette méthode d'apprentissage des langues est très *efficace*.
-  Diese Sprachlernmethode ist sehr *effektiv*.
+  This method of learning languages is very *effective*.
 
   Les nouveaux antibiotiques sont plus *efficaces* que les anciens.
-  Die neuen Antibiotika sind *wirksamer* als die alten.
+  The new antibiotics are more *effective* than the old ones.
 
   Son aide a été vraiment *efficace* pendant le déménagement.
-  Seine Hilfe war beim Umzug wirklich *effektiv*.
+  Her help was really *effective* during the move.
 
   Notre équipe technique propose des solutions rapides et *efficaces*.
-  Unser technisches Team bietet schnelle und *effiziente* Lösungen an.
+  Our technical team offers quick and efficient solutions.
 
   Cette stratégie s'est révélée très *efficace* pour augmenter les ventes.
-  Diese Strategie hat sich als sehr *wirksam* erwiesen, um die Verkäufe zu steigern.
+  This strategy has proved to be very *effective* in increasing sales.
 
   Le nouveau système de filtration est particulièrement *efficace*.
-  Das neue Filtersystem ist besonders *leistungsfähig*.
+  The new filtration system is particularly efficient.
 
   Ces exercices sont vraiment *efficaces* pour renforcer les muscles.
-  Diese Übungen sind wirklich *wirksam* zur Stärkung der Muskeln.
+  These exercises are really *effective* in strengthening the muscles.
 
   Il nous faut des mesures *efficaces* contre le changement climatique.
-  Wir brauchen *wirksame* Maßnahmen gegen den Klimawandel.
+  We need *effective* measures against climate change.
 
   La nouvelle application est simple mais *efficace*.
-  Die neue App ist einfach, aber *effektiv*.
+  The new app is simple but *effective*.
 
   Ces techniques de relaxation sont très *efficaces* contre le stress.
-  Diese Entspannungstechniken sind sehr *wirksam* gegen Stress.
+  These relaxation techniques are very *effective* against stress.
 
   Le nouveau pesticide est hautement *efficace* contre les insectes nuisibles.
-  Das neue Pestizid ist hoch*wirksam* gegen Schädlinge.
+  The new pesticide is highly *effective* against insects.
 
   Cette organisation caritative est particulièrement *efficace* dans ses actions.
-  Diese Wohltätigkeitsorganisation ist besonders *effizient* in ihren Aktionen.
+  This charitable organization is particularly *effective* in its activities.
 
   Notre nouveau gestionnaire est remarquablement *efficace* dans son travail.
-  Unser neuer Manager ist bemerkenswert *kompetent* in seiner Arbeit.
+  Our new manager is remarkably efficient at his job.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

@@ -1,88 +1,88 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1120
 Wort: comporter
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: comporter
 Femininum / Plural: ''
 IPA: \kɔ̃.pɔʁ.te\
-Definition: enthalten; sich benehmen
+Definition: contain; behave
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Tâche de bien te *comporter*.
-  Versuche dich gut zu *benehmen*.
+  Try to behave yourself.
 
   La maison *comporte* trois chambres et une salle de bain.
-  Das Haus *umfasst* drei Schlafzimmer und ein Bad.
+  The house has three bedrooms and a bathroom.
 
   Cette décision *comporte* des conséquences graves.
-  Diese Entscheidung *beinhaltet* schwerwiegende Folgen.
+  This decision has serious consequences.
 
   Son petit frère s'est mal *comporté* à l'école aujourd'hui.
-  Sein kleiner Bruder hat sich heute in der Schule schlecht *benommen*.
+  His little brother behaved badly at school today.
 
   Le nouveau modèle se *comporte* parfaitement sur route mouillée.
-  Das neue Modell *verhält* sich perfekt auf nasser Straße.
+  The new model behaves perfectly on wet roads.
 
   L'examen final *comporte* deux parties écrites.
-  Die Abschlussprüfung *besteht* aus zwei schriftlichen Teilen.
+  The final examination shall consist of two parts in writing.
 
   Julie s'est *comportée* comme une vraie professionnelle pendant l'entretien.
-  Julie hat sich während des Vorstellungsgesprächs wie eine echte Professionelle *verhalten*.
+  Julie acted like a real professional during the interview.
 
   Ce projet *comporte* trop de risques pour être accepté.
-  Dieses Projekt *weist* zu viele Risiken auf, um akzeptiert zu werden.
+  This project carries too many risks to be accepted.
 
   Le nouveau smartphone *comporte* une caméra améliorée.
-  Das neue Smartphone ist mit einer verbesserten Kamera *ausgestattet*.
+  The new smartphone has an improved camera.
 
   Comment s'est-il *comporté* face à cette situation difficile ?
-  Wie hat er sich in dieser schwierigen Situation *verhalten*?
+  How did he react to this difficult situation?
 
   Le programme *comporte* plusieurs erreurs à corriger.
-  Das Programm *enthält* mehrere Fehler, die korrigiert werden müssen.
+  The programme contains several errors to be corrected.
 
   Notre équipe se *comporte* bien cette saison.
-  Unser Team *verhält* sich diese Saison gut.
+  Our team's doing well this season.
 
   Le matériau se *comporte* différemment sous haute température.
-  Das Material *verhält* sich bei hoher Temperatur anders.
+  The material behaves differently under high temperatures.
 
   Cette offre d'emploi *comporte* de nombreux avantages.
-  Dieses Stellenangebot *beinhaltet* viele Vorteile.
+  This job offer has many advantages.
 
   Chaque chapitre *comporte* un résumé à la fin.
-  Jedes Kapitel *enthält* am Ende eine Zusammenfassung.
+  Each chapter has a summary at the end.
 
   Il faut que tu te *comportes* comme les autres invités.
-  Du musst dich wie die anderen Gäste *benehmen*.
+  You have to behave like the other guests.
 
   Le nouveau règlement *comporte* plusieurs exceptions.
-  Die neue Regelung *weist* mehrere Ausnahmen auf.
+  There are several exceptions to the new regulation.
 
   La voiture se *comporte* mal dans les virages serrés.
-  Das Auto *verhält* sich in engen Kurven schlecht.
+  The car is behaving badly in the tight corners.
 
   Cette formule ne *comporte* aucune erreur de calcul.
-  Diese Formel *enthält* keine Rechenfehler.
+  This formula does not contain any calculation errors.
 
   Les enfants se sont bien *comportés* pendant la visite.
-  Die Kinder haben sich während des Besuchs gut *benommen*.
+  The children behaved well during the visit.
 
   Le festival *comporte* plus d'activités cette année.
-  Das Festival *umfasst* dieses Jahr mehr Aktivitäten.
+  The festival has more activities this year.
 
   Le moteur se *comporte* parfaitement après la réparation.
-  Der Motor *verhält* sich nach der Reparatur perfekt.
+  The engine behaves perfectly after the repair.
 
   Cette théorie *comporte* plusieurs contradictions évidentes.
-  Diese Theorie *weist* mehrere offensichtliche Widersprüche auf.
+  This theory has several obvious contradictions.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

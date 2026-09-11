@@ -1,100 +1,100 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1690
 Wort: ouest
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un ouest
 Femininum / Plural: ''
 IPA: \wɛst\
-Definition: Westen
+Definition: The West
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le vent arrive toujours de l'*ouest*.
-  Der Wind kommt immer aus dem *Westen*.
+  The wind always comes from the west.
 
   Nous avons construit notre maison face à l'*ouest*.
-  Wir haben unser Haus nach *Westen* ausgerichtet.
+  We built our house facing west.
 
   La ville se trouve à l'*ouest* de la montagne.
-  Die Stadt liegt *westlich* vom Berg.
+  The city is west of the mountain.
 
   "Il est complètement *à l'ouest* aujourd'hui."
-  "Er ist heute völlig *neben der Kappe*."
+  "He's completely *to the west* today".
 
   Les nuages sombres arrivent de l'*ouest*.
-  Die dunklen Wolken ziehen aus dem *Westen* auf.
+  The dark clouds are coming from the west.
 
   Le soleil se couche à l'*ouest*.
-  Die Sonne geht im *Westen* unter.
+  The sun is setting in the west.
 
   La côte *ouest* de l'Irlande est magnifique.
-  Die *West*küste Irlands ist wunderschön.
+  The west coast of Ireland is beautiful.
 
   Le train traverse l'*ouest* de la France.
-  Der Zug durchquert *West*frankreich.
+  The train runs through *western* France.
 
   Les plages de l'*ouest* attirent beaucoup de touristes.
-  Die *West*strände ziehen viele Touristen an.
+  The *western* beaches attract many tourists.
 
   Un fort vent d'*ouest* souffle depuis ce matin.
-  Ein starker *West*wind weht seit heute Morgen.
+  A strong westerly wind has been blowing since this morning.
 
   La banlieue *ouest* est plus calme que le centre-ville.
-  Die *westliche* Vorstadt ist ruhiger als das Stadtzentrum.
+  The *western* suburbs are quieter than the city center.
 
   "Tu es complètement *à l'ouest* avec tes calculs."
-  "Du bist mit deinen Berechnungen völlig *daneben*."
+  "You're completely out west with your calculations".
 
   L'*ouest* du pays connaît de fortes pluies.
-  Der *Westen* des Landes erlebt starke Regenfälle.
+  The *western* part of the country is experiencing heavy rains.
 
   Le bateau navigue vers l'*ouest*.
-  Das Boot fährt nach *Westen*.
+  The ship is sailing west.
 
   La température dans l'*ouest* est plus douce.
-  Die Temperatur im *Westen* ist milder.
+  The temperature in the west is milder.
 
   Nous partons en vacances dans l'*ouest*.
-  Wir fahren in den *Westen* in den Urlaub.
+  We're going on vacation in the west.
 
   La facade *ouest* du bâtiment est en rénovation.
-  Die *West*fassade des Gebäudes wird renoviert.
+  The west facade of the building is being renovated.
 
   Le soleil disparaît à l'*ouest* derrière les collines.
-  Die Sonne verschwindet im *Westen* hinter den Hügeln.
+  The sun goes out west behind the hills.
 
   Les vents d'*ouest* apportent la pluie.
-  Die *West*winde bringen Regen.
+  The westerly winds bring rain.
 
   La région *ouest* est connue pour ses fruits de mer.
-  Die *West*region ist für ihre Meeresfrüchte bekannt.
+  The *western* region is known for its seafood.
 
   Les oiseaux migrent vers l'*ouest*.
-  Die Vögel ziehen nach *Westen*.
+  The birds are migrating west.
 
   L'appartement est exposé à l'*ouest*.
-  Die Wohnung ist nach *Westen* ausgerichtet.
+  The apartment is facing west.
 
   La longitude *ouest* est de 15 degrés.
-  Die *westliche* Länge beträgt 15 Grad.
+  West longitude is 15 degrees.
 
   L'autoroute traverse l'*ouest* du pays.
-  Die Autobahn durchquert den *Westen* des Landes.
+  The highway runs through the west of the country.
 
   Le quartier *ouest* est en plein développement.
-  Das *West*viertel entwickelt sich rasant.
+  The *western* quarter is booming.
 
   Les fenêtres donnent sur l'*ouest*.
-  Die Fenster gehen nach *Westen* hinaus.
+  The windows look west.
 
   La partie *ouest* du jardin est à l'ombre.
-  Der *westliche* Teil des Gartens liegt im Schatten.
+  The *western* part of the garden is in the shade.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

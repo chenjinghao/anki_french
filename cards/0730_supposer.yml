@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 730
 Wort: supposer
 Wortart: vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: supposer
 Femininum / Plural: ''
 IPA: \sy.po.ze\
-Definition: annehmen, voraussetzen
+Definition: accepting, assuming
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je *suppose* qu'ils ont peur.
-  Ich *nehme an*, dass sie Angst haben.
+  I guess they're scared.
 
   *Supposons* que nous allons gagner le match.
-  Wir *nehmen an*, dass wir das Spiel gewinnen werden.
+  Let's say we win the game.
 
   Le train *est supposé* arriver dans une heure.
-  Der Zug *soll eigentlich* in einer Stunde ankommen.
+  The train is supposed to arrive in an hour.
 
   À *supposer* que Marie vienne à la fête, nous aurons assez de gâteau.
-  *Vorausgesetzt*, Marie kommt zur Party, haben wir genug Kuchen.
+  Assuming Marie comes to the party, we'll have enough cake.
 
   Je *suppose* que tu as déjà mangé.
-  Ich *vermute*, dass du schon gegessen hast.
+  I *suppose* you've already eaten.
 
   La réussite *suppose* beaucoup de travail.
-  Erfolg *setzt* viel Arbeit *voraus*.
+  Success takes a lot of work.
 
   *Supposons* le problème résolu et continuons.
-  *Lasst uns annehmen*, das Problem sei gelöst, und weitermachen.
+  Let's say the problem is solved and we move on.
 
   Tout laisse *supposer* qu'il pleuvra demain.
-  Alles lässt *vermuten*, dass es morgen regnen wird.
+  Everything suggests that it will rain tomorrow.
 
   La température *est supposée* rester constante pendant l'expérience.
-  Die Temperatur *soll* während des Experiments konstant bleiben.
+  The temperature *is assumed* to remain constant during the experiment.
 
   Je *suppose* que vous connaissez déjà la réponse.
-  Ich *gehe davon aus*, dass Sie die Antwort bereits kennen.
+  I assume you already know the answer.
 
   Cette théorie *suppose* l'existence d'autres univers.
-  Diese Theorie *setzt* die Existenz anderer Universen *voraus*.
+  This theory assumes the existence of other universes.
 
   *Supposons* un instant que vous ayez raison.
-  *Nehmen* wir einen Moment *an*, dass Sie Recht haben.
+  Let's say for a moment you're right.
 
   En *supposant* que le temps soit beau, nous irons à la plage.
-  *Angenommen*, das Wetter ist schön, gehen wir an den Strand.
+  *Assuming* the weather is nice, we'll go to the beach.
 
   Je *suppose* que c'était une erreur.
-  Ich *vermute*, dass es ein Fehler war.
+  I guess it was a mistake.
 
   La confiance *suppose* le respect mutuel.
-  Vertrauen *setzt* gegenseitigen Respekt *voraus*.
+  Trust involves mutual respect.
 
   On *suppose* que le virus se propage rapidement.
-  Man *vermutet*, dass sich das Virus schnell ausbreitet.
+  It's assumed that the virus is spreading rapidly.
 
   *Supposons* deux cercles qui se croisent.
-  *Nehmen* wir zwei sich schneidende Kreise *an*.
+  Let's say two circles cross each other.
 
   L'apprentissage d'une langue *suppose* de la patience.
-  Das Erlernen einer Sprache *setzt* Geduld *voraus*.
+  Learning a language requires patience.
 
   Je *suppose* que tu viendras avec nous.
-  Ich *nehme an*, dass du mit uns kommst.
+  I *suppose* you'll come with us.
 
   Cette décision *suppose* une réflexion approfondie.
-  Diese Entscheidung *setzt* gründliches Nachdenken *voraus*.
+  This decision requires careful consideration.
 
   On vous *supposait* parti depuis longtemps.
-  Man *nahm an*, Sie seien schon lange weg.
+  You were supposed to be gone a long time ago.
 
   *Supposons* que nous ayons assez d'argent.
-  *Nehmen* wir *an*, wir hätten genug Geld.
+  Let's say we have enough money.
 
   Je *suppose* qu'il est trop tard maintenant.
-  Ich *vermute*, dass es jetzt zu spät ist.
+  I guess it's too late now.
 
   Cette méthode *suppose* une bonne organisation.
-  Diese Methode *setzt* eine gute Organisation *voraus*.
+  This method involves good organization.
 
   Il *est supposé* être un expert dans ce domaine.
-  Er *soll* ein Experte auf diesem Gebiet sein.
+  He's supposed to be an expert in this field.
 
   *Supposons* que la situation s'améliore.
-  *Nehmen* wir *an*, die Situation verbessert sich.
+  Let's say things get better.
 
   Son silence me laisse *supposer* qu'il est d'accord.
-  Sein Schweigen lässt mich *vermuten*, dass er einverstanden ist.
+  His silence makes me assume he agrees.
 
   Je *suppose* que nous nous reverrons bientôt.
-  Ich *nehme an*, dass wir uns bald wiedersehen.
+  I guess we'll see each other soon.
 
   Cette tâche *suppose* des compétences spécifiques.
-  Diese Aufgabe *setzt* spezifische Kompetenzen *voraus*.
+  This task requires specific skills.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

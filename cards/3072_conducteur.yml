@@ -1,106 +1,106 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3072
 Wort: conducteur
 Wortart: nm, adj
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le conducteur
 Femininum / Plural: conductrice
 IPA: \kɔ̃.dyk.tœʁ\
-Definition: Fahrer
+Definition: Drivers
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Le *conducteur* a été tué sur le coup.
-  Der *Fahrer* war sofort tot.
+  The *driver* was killed instantly.
 
   Le *conducteur* d'autobus a demandé aux passagers de ne pas fumer.
-  Der Bus*fahrer* hat die Fahrgäste gebeten, nicht zu rauchen.
+  The bus *driver* told the passengers not to smoke.
 
   Sophie est une excellente *conductrice*.
-  Sophie ist eine ausgezeichnete *Fahrerin*.
+  Sophie is an excellent *driver*.
 
   Les *conducteurs* doivent respecter la limitation de vitesse.
-  Die *Fahrer* müssen sich an die Geschwindigkeitsbegrenzung halten.
+  *Drivers* must comply with the speed limit.
 
   Un *conducteur* de train expérimenté prend sa retraite demain.
-  Ein erfahrener Zug*führer* geht morgen in den Ruhestand.
+  An experienced train *driver* is retiring tomorrow.
 
   Le *conducteur* des travaux supervise une équipe de 50 ouvriers.
-  Der Bau*leiter* beaufsichtigt ein Team von 50 Arbeitern.
+  The project manager oversees a team of 50 workers.
 
   La *conductrice* de taxi connaît tous les raccourcis de la ville.
-  Die Taxi*fahrerin* kennt alle Abkürzungen in der Stadt.
+  The taxi *driver* knows all the city's shortcuts.
 
   Pierre est *conducteur* de presse dans une imprimerie locale.
-  Pierre ist Druckmaschinen*führer* in einer örtlichen Druckerei.
+  Pierre is a press manager at a local printing company.
 
   Le cuivre est un excellent *conducteur* d'électricité.
-  Kupfer ist ein ausgezeichneter *Leiter* für Elektrizität.
+  Copper is an excellent conductor of electricity.
 
   Ces matériaux sont de mauvais *conducteurs* de chaleur.
-  Diese Materialien sind schlechte Wärme*leiter*.
+  These materials are poor heat conductors.
 
   Napoléon était un grand *conducteur* d'hommes.
-  Napoleon war ein großer *Anführer* von Menschen.
+  Napoleon was a great leader of men.
 
   Le *conducteur* du troupeau guidait ses moutons vers les pâturages.
-  Der *Hirte* führte seine Schafe zu den Weiden.
+  The shepherd led his sheep to the pasture.
 
   La *conductrice* de la barque nous a fait traverser la rivière.
-  Die *Steuerfrau* hat uns über den Fluss gebracht.
+  The captain of the boat led us across the river.
 
   Le *conducteur* du tracteur laboure le champ depuis ce matin.
-  Der Traktor*fahrer* pflügt seit heute Morgen das Feld.
+  The tractor *driver* has been plowing the field since this morning.
 
   Le fil *conducteur* de cette histoire est l'amour fraternel.
-  Der *rote* Faden dieser Geschichte ist die brüderliche Liebe.
+  The heart of this story is brotherly love.
 
   La nouvelle *conductrice* des Ponts et Chaussées inspecte le chantier.
-  Die neue *Leiterin* der Straßenbaubehörde inspiziert die Baustelle.
+  The new bridge and highway manager is inspecting the construction site.
 
   Le *conducteur* de la manœuvre coordonne les mouvements du train.
-  Der Rangier*führer* koordiniert die Bewegungen des Zuges.
+  The maneuver *driver* coordinates the movements of the train.
 
   Cette gaine est faite d'un matériau *conducteur*.
-  Diese Ummantelung besteht aus *leitendem* Material.
+  This cap is made of a conductive material.
 
   Le *conducteur* de l'émission détaille le déroulement minute par minute.
-  Das *Drehbuch* der Sendung beschreibt den Ablauf minutengenau.
+  The conductor of the broadcast details the progress minute by minute.
 
   Le *conducteur* d'orchestre utilise une version simplifiée de la partition.
-  Der Orchester*leiter* verwendet eine vereinfachte Version der Partitur.
+  The conductor uses a simplified version of the score.
 
   Un bon *conducteur* doit toujours anticiper les dangers.
-  Ein guter *Fahrer* muss Gefahren immer vorausahnen.
+  A good *driver* must always anticipate the dangers.
 
   La *conductrice* du camion fait une pause obligatoire.
-  Die Lastwagen*fahrerin* macht eine vorgeschriebene Pause.
+  The *driver* of the truck takes a mandatory break.
 
   Les tissus *conducteurs* transportent la sève dans la plante.
-  Das *leitende* Gewebe transportiert den Pflanzensaft.
+  The conductive tissues carry the sap into the plant.
 
   Le *conducteur* fantôme roulait à contresens sur l'autoroute.
-  Der Geister*fahrer* fuhr auf der Autobahn in die falsche Richtung.
+  The ghost *driver* was driving on the freeway.
 
   Le *conducteur* de la presse rotative vérifie la qualité d'impression.
-  Der Rotations*drucker* überprüft die Druckqualität.
+  The *driver* of the rotary press checks the quality of the printing.
 
   La *conductrice* de travaux organise le planning du chantier.
-  Die Bau*leiterin* organisiert den Zeitplan der Baustelle.
+  The project manager arranges the planning of the construction site.
 
   L'aluminium est un bon *conducteur* thermique.
-  Aluminium ist ein guter Wärme*leiter*.
+  Aluminum is a good conductor of heat.
 
   Le *conducteur* de la manifestation négocie avec la police.
-  Der *Anführer* der Demonstration verhandelt mit der Polizei.
+  The *driver* of the protest is negotiating with the police.
 
   Les semi-*conducteurs* sont essentiels dans l'électronique moderne.
-  Halb*leiter* sind in der modernen Elektronik unerlässlich.
+  Semiconductors are essential in modern electronics.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

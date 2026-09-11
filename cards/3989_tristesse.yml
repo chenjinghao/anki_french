@@ -1,93 +1,93 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 3989
 Wort: tristesse
 Wortart: nf
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: la tristesse
 Femininum / Plural: ''
 IPA: \tʁis.tɛs\
-Definition: Traurigkeit, Kummer
+Definition: Sadness and Grief
 Register: ↗Fiktion
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je n'ai jamais pris leur *tristesse* au sérieux.
-  Ich habe ihre *Traurigkeit* nie ernst genommen.
+  I never took their grief seriously.
 
   La *tristesse* de cette journée pluvieuse me pesait sur le cœur.
-  Die *Trostlosigkeit* dieses verregneten Tages lastete auf meinem Herzen.
+  The *sadness* of that rainy day weighed heavily on my heart.
 
   Un accès de *tristesse* l'a submergé pendant la cérémonie.
-  Ein Anfall von *Traurigkeit* überkam ihn während der Zeremonie.
+  A sense of *sadness* overwhelmed him during the ceremony.
 
   Marie regardait le paysage hivernal avec *tristesse*.
-  Marie betrachtete die Winterlandschaft mit *Trauer*.
+  Marie was looking at the winter landscape with *sadness*.
 
   La *tristesse* de l'existence l'avait marqué profondément.
-  Die *Freudlosigkeit* des Daseins hatte ihn tief geprägt.
+  The *sadness* of life had deeply affected him.
 
   Sa *tristesse* était visible dans ses yeux.
-  Seine *Niedergeschlagenheit* war in seinen Augen zu sehen.
+  Her *sadness* was visible in her eyes.
 
   Elle a souri avec *tristesse* en rangeant les vieilles photos.
-  Sie lächelte mit *Traurigkeit*, während sie die alten Fotos wegräumte.
+  She smiled sadly as she laid out the old photos.
 
   La *tristesse* du quartier abandonné était palpable.
-  Die *Trostlosigkeit* des verlassenen Viertels war greifbar.
+  The *sadness* of the abandoned neighborhood was palpable.
 
   Cette nouvelle a répandu une profonde *tristesse* dans toute la ville.
-  Diese Nachricht verbreitete tiefe *Trauer* in der ganzen Stadt.
+  This news caused a great uproar throughout the city.
 
   Les *tristesses* de la vie nous rendent plus forts.
-  Die *Traurigkeiten* des Lebens machen uns stärker.
+  The *sadness* of life makes us stronger.
 
   Quelle *tristesse* de voir ces arbres abattus !
-  Wie *traurig* diese gefällten Bäume zu sehen!
+  What a pity to see these trees cut down!
 
   La *tristesse* de l'automne s'installait doucement.
-  Die *Trostlosigkeit* des Herbstes zog langsam ein.
+  The *sadness* of the fall was settling down slowly.
 
   Une immense *tristesse* envahit son cœur.
-  Eine überwältigende *Traurigkeit* erfüllte sein Herz.
+  His heart is filled with deep sorrow.
 
   La *tristesse* du temps se reflétait dans son humeur.
-  Die *Trostlosigkeit* des Wetters spiegelte sich in seiner Stimmung wider.
+  The *sadness* of the time was reflected in his mood.
 
   Il cachait sa *tristesse* derrière un sourire forcé.
-  Er verbarg seine *Traurigkeit* hinter einem gezwungenen Lächeln.
+  He was hiding his *sadness* behind a forced smile.
 
   La *tristesse* de cette mélodie me touche profondément.
-  Die *Traurigkeit* dieser Melodie berührt mich zutiefst.
+  The *sadness* of this melody touches me deeply.
 
   Une vague de *tristesse* m'envahit chaque fois que j'y pense.
-  Eine Welle von *Traurigkeit* überkommt mich jedes Mal, wenn ich daran denke.
+  A wave of *sadness* strikes me every time I think about it.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>deuil</i> und <i>tristesse</i></div>
+    <div class="section-title"><i>deuil</i> and <i>tristesse</i></div>
     <div class="section-content">
-      <p><span class="fr">Deuil</span> (#3540) bedeutet <span class="de">"Trauer"</span> im Sinne eines Prozesses nach einem Verlust, insbesondere nach dem Tod einer nahestehenden Person. Es kann auch die Trauerzeit oder die Trauerkleidung bezeichnen.</p>
+      <p><span class="fr">Deuil</span> #3540) means <span class="de">"Mourning"</span> It can also refer to the time of mourning or the mourning garment.</p>
       <div class="examples">
         <div class="fr">Elle est en deuil depuis la mort de son père.</div>
-        <div class="de spoiler">Sie trauert seit dem Tod ihres Vaters.</div>
+        <div class="de spoiler">She's been mourning her father's death.</div>
         <div class="fr">Porter le deuil était autrefois une obligation sociale.</div>
-        <div class="de spoiler">Trauerkleidung zu tragen war früher eine gesellschaftliche Pflicht.</div>
+        <div class="de spoiler">Wearing mourning clothes used to be a social duty.</div>
       </div>
-      <p><span class="fr">Tristesse</span> bedeutet <span class="de">"Traurigkeit"</span> oder <span class="de">"Kummer"</span> und bezieht sich auf den Gefühlszustand der Niedergeschlagenheit oder Melancholie, unabhängig von dessen Ursache.</p>
+      <p><span class="fr">Tristesse</span> means <span class="de">"Sadness"</span> or <span class="de">"Sorry"</span> and refers to the emotional state of depression or melancholy, regardless of the cause.</p>
       <div class="examples">
         <div class="fr">La tristesse envahit son cœur quand elle pensa à son enfance.</div>
-        <div class="de spoiler">Traurigkeit überkam ihr Herz, als sie an ihre Kindheit dachte.</div>
+        <div class="de spoiler">Sadness overwhelmed her heart as she thought of her childhood.</div>
         <div class="fr">Ce film est d'une grande tristesse.</div>
-        <div class="de spoiler">Dieser Film ist sehr traurig.</div>
+        <div class="de spoiler">This movie is very sad.</div>
       </div>
-      <p>Während <span class="fr">deuil</span> sich spezifisch auf den Trauerprozess nach einem Verlust bezieht und kulturelle oder rituelle Aspekte haben kann, bezeichnet <span class="fr">tristesse</span> den allgemeinen emotionalen Zustand der Traurigkeit aus verschiedenen Gründen.</p>
+      <p>In the meantime <span class="fr">deuil</span> refers specifically to the grieving process after a loss and may have cultural or ritual aspects, <span class="fr">tristesse</span> The general emotional state of sadness for various reasons.</p>
     </div>
   </div>
   <!-- Grammar automatically added -->

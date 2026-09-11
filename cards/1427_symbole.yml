@@ -1,85 +1,85 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 1427
 Wort: symbole
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le symbole
 Femininum / Plural: ''
 IPA: \sɛ̃.bɔl\
-Definition: Symbol
+Definition: The symbol
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Je peux déchiffrer les *symboles*.
-  Ich kann die *Symbole* entziffern.
+  I can decipher the *symbols*.
 
   La colombe est un *symbole* de paix et d'espoir.
-  Die Taube ist ein *Symbol* des Friedens und der Hoffnung.
+  The dove is a symbol of peace and hope.
 
   Les élèves récitent le *symbole* des apôtres chaque matin.
-  Die Schüler sprechen jeden Morgen das apostolische *Glaubensbekenntnis*.
+  The students recite *the symbol* of the apostles every morning.
 
   Le drapeau national est le *symbole* de notre unité.
-  Die Nationalfahne ist das *Symbol* unserer Einheit.
+  The national flag is a symbol of our unity.
 
   Cette alliance est le *symbole* de notre amour.
-  Dieser Ring ist das *Symbol* unserer Liebe.
+  This covenant is a symbol of our love.
 
   Nelson Mandela est devenu un *symbole* de la lutte contre l'apartheid.
-  Nelson Mandela wurde zu einem *Symbol* des Kampfes gegen die Apartheid.
+  Nelson Mandela became a symbol of the struggle against apartheid.
 
   Le "H" est le *symbole* chimique de l'hydrogène.
-  "H" ist das chemische *Symbol* für Wasserstoff.
+  The "H" is the chemical symbol for hydrogen.
 
   Les pyramides sont le *symbole* de l'Égypte ancienne.
-  Die Pyramiden sind das *Symbol* des alten Ägyptens.
+  The pyramids are a symbol of ancient Egypt.
 
   Le lion est un *symbole* de force et de courage.
-  Der Löwe ist ein *Symbol* der Stärke und des Muts.
+  The lion is a symbol of strength and courage.
 
   Les mathématiciens utilisent différents *symboles* pour écrire leurs formules.
-  Mathematiker verwenden verschiedene *Symbole*, um ihre Formeln zu schreiben.
+  Mathematicians use different *symbols* to write their formulas.
 
   Cette manifestation est devenue le *symbole* de la résistance populaire.
-  Diese Demonstration wurde zum *Symbol* des Volkswiderstands.
+  This demonstration became a symbol of popular resistance.
 
   Dans la mythologie, le serpent est un *symbole* de sagesse.
-  In der Mythologie ist die Schlange ein *Symbol* der Weisheit.
+  In mythology, the serpent is a symbol of wisdom.
 
   Les panneaux routiers sont des *symboles* que tous les conducteurs doivent connaître.
-  Verkehrsschilder sind *Symbole*, die alle Fahrer kennen müssen.
+  Road signs are *symbols* that all drivers should know.
 
   Le phénix est un *symbole* de renaissance dans de nombreuses cultures.
-  Der Phönix ist in vielen Kulturen ein *Symbol* der Wiedergeburt.
+  The phoenix is a symbol of rebirth in many cultures.
 
   Les *symboles* sur cette carte indiquent l'emplacement des monuments.
-  Die *Symbole* auf dieser Karte zeigen die Lage der Denkmäler an.
+  The *symbols* on this map indicate the location of the monuments.
 
   Cette entreprise est devenue le *symbole* de l'innovation technologique.
-  Dieses Unternehmen ist zum *Symbol* für technologische Innovation geworden.
+  This company has become a symbol of technological innovation.
 
   Les tatouages peuvent être des *symboles* personnels très significatifs.
-  Tattoos können sehr bedeutungsvolle persönliche *Symbole* sein.
+  Tattoos can be very meaningful personal *symbols*.
 
   Le "€" est le *symbole* de la monnaie européenne.
-  Das "€" ist das *Symbol* der europäischen Währung.
+  The "€" is *the symbol* of the European currency.
 
   La balance est un *symbole* de justice.
-  Die Waage ist ein *Symbol* der Gerechtigkeit.
+  The scale is a symbol of justice.
 
   Les *symboles* religieux sont interdits dans certains lieux publics.
-  *Symbole* religiöser Art sind an manchen öffentlichen Orten verboten.
+  Religious *symbols* are prohibited in some public places.
 
   L'infini "∞" est un *symbole* mathématique universel.
-  Das Unendlichzeichen "∞" ist ein universelles mathematisches *Symbol*.
+  The infinite "∞" is a universal mathematical symbol.
 
   Chaque culture a ses propres *symboles* de deuil.
-  Jede Kultur hat ihre eigenen Trauer*symbole*.
+  Each culture has its own *symbols* of mourning.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

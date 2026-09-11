@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4611
 Wort: déménager
 Wortart: vi, vt
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: déménager
 Femininum / Plural: ''
 IPA: \de.me.na.ʒe\
-Definition: umziehen
+Definition: relocating
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   On a *déménagé* dans un petit local.
-  Wir sind in ein kleines Geschäft *umgezogen*.
+  We moved into a small place.
 
   "T'es sûr que tu ne *déménages* pas ?"
-  "Bist du sicher, dass du nicht *spinnst*?"
+  "Are you sure you're not *moving* out?"
 
   Nous *déménagerons* à Paris le mois prochain.
-  Wir werden nächsten Monat nach Paris *umziehen*.
+  *We're moving* to Paris next month.
 
   Elle *déménage* ses livres dans une autre pièce.
-  Sie *räumt* ihre Bücher in ein anderes Zimmer *um*.
+  She moves her books to another room.
 
   Le propriétaire m'a *fait déménager* sans préavis.
-  Der Vermieter hat mich ohne Vorwarnung *rausgeworfen*.
+  The landlord made me move without notice.
 
   Marc aide son ami à *déménager* ses meubles.
-  Marc hilft seinem Freund beim *Umräumen* der Möbel.
+  Marc helps his friend move his furniture.
 
   Ils ont dû *déménager* à cause du bruit.
-  Sie mussten wegen des Lärms *ausziehen*.
+  They must have moved out because of the noise.
 
   "Sa tête *déménage* complètement ces derniers temps."
-  "Er *spinnt* in letzter Zeit völlig *rum*."
+  "His head has been completely *moving* lately".
 
   Je vais *déménager* rue de la Paix.
-  Ich werde in die Friedensstraße *ziehen*.
+  I'm *moving* to Rue de la Paix.
 
   Les voisins *déménagent* tous leurs cartons aujourd'hui.
-  Die Nachbarn *räumen* heute all ihre Kartons *weg*.
+  Neighbors are *moving* all their cards today.
 
   Il faut *déménager* le salon avant de repeindre.
-  Wir müssen das Wohnzimmer *ausräumen*, bevor wir neu streichen.
+  We need to move the living room before we repaint.
 
   "Ça *déménage* ce soir à la fête !"
-  "Auf der Party *geht's heute richtig ab*!"
+  "It's *moving* to the party tonight!"
 
   Nous devons *déménager* en haut au cinquième étage.
-  Wir müssen in den fünften Stock *hinaufziehen*.
+  We have to move up to the fifth floor.
 
   Elle *déménage* ses affaires petit à petit.
-  Sie *räumt* ihre Sachen nach und nach *um*.
+  She moves her stuff little by little.
 
   Les étudiants *déménagent* souvent en septembre.
-  Studierende *ziehen* häufig im September *um*.
+  Students often move in September.
 
   "Allez, *déménage* de là !"
-  "Los, *verschwinde* von hier!"
+  "Go on, move out of here!"
 
   Notre entreprise va *déménager* dans de nouveaux locaux.
-  Unsere Firma wird in neue Räumlichkeiten *umziehen*.
+  Our company is *moving* to new premises.
 
   Il a fallu *déménager* toute la chambre pour trouver les clés.
-  Wir mussten das ganze Zimmer *ausräumen*, um die Schlüssel zu finden.
+  We had to move the whole room to find the keys.
 
   Je dois *déménager* à cause d'un nouveau travail.
-  Ich muss wegen einer neuen Arbeit *umziehen*.
+  I have to move because of a new job.
 
   Les enfants doivent *déménager* leurs jouets de la cuisine.
-  Die Kinder müssen ihr Spielzeug aus der Küche *wegräumen*.
+  Kids have to move their toys out of the kitchen.
 
   Nous avons *déménagé* trois fois en deux ans.
-  Wir sind in zwei Jahren dreimal *umgezogen*.
+  We moved three times in two years.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

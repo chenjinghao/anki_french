@@ -1,82 +1,82 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4998
 Wort: détériorer
 Wortart: vt, vr
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: détériorer
 Femininum / Plural: ''
 IPA: \de.te.ʁjɔ.ʁe\
-Definition: verschlechtern, beschädigen
+Definition: deteriorating, damaging
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   Il a laissé nos routes se *détériorer* et se désintégrer.
-  Er hat unsere Straßen *verfallen* und zerfallen lassen.
+  He's allowed our roads to deteriorate and disintegrate.
 
   L'humidité a *détérioré* toutes les machines de l'usine.
-  Die Feuchtigkeit hat alle Maschinen in der Fabrik *beschädigt*.
+  The humidity has damaged all the machines in the factory.
 
   La qualité de l'air s'est *détériorée* depuis l'installation de l'usine.
-  Die Luftqualität hat sich seit der Einrichtung der Fabrik *verschlechtert*.
+  Air quality has *deteriorated* since the plant was installed.
 
   Les relations entre les deux pays se sont *détériorées* après l'incident diplomatique.
-  Die Beziehungen zwischen den beiden Ländern haben sich nach dem diplomatischen Zwischenfall *verschlechtert*.
+  Relations between the two countries *deteriorated* after the diplomatic incident.
 
   Le climat social continue à se *détériorer* dans l'entreprise.
-  Das Betriebsklima *verschlechtert* sich weiter.
+  The social climate in the company continues to deteriorate.
 
   Cette vieille télévision s'est complètement *détériorée* avec le temps.
-  Dieser alte Fernseher hat mit der Zeit stark *Schaden genommen*.
+  This old TV has completely *deteriorated* over time.
 
   Les excès d'alcool ont gravement *détérioré* sa santé.
-  Der übermäßige Alkoholkonsum hat seiner Gesundheit stark *geschadet*.
+  Excessive drinking seriously damaged her health.
 
   Le pouvoir d'achat des citoyens s'est *détérioré* ces dernières années.
-  Die Kaufkraft der Bürger hat in den letzten Jahren *abgenommen*.
+  The purchasing power of citizens has *deteriorated* in recent years.
 
   La situation économique s'est *détériorée* rapidement.
-  Die wirtschaftliche Lage ist schnell *auf Talfahrt gegangen*.
+  The economic situation *deteriorated* rapidly.
 
   Les enfants ont *détérioré* tous les jouets du jardin d'enfants.
-  Die Kinder haben alle Spielzeuge im Kindergarten *beschädigt*.
+  The kids have damaged all the toys in kindergarten.
 
   La pluie a *détérioré* les marchandises stockées dehors.
-  Der Regen hat die draußen gelagerten Waren *beschädigt*.
+  The rain has damaged the goods stored outside.
 
   Son état de santé s'est gravement *détérioré* pendant la nuit.
-  Sein Gesundheitszustand hat sich in der Nacht stark *verschlechtert*.
+  His health *deteriorated* sharply during the night.
 
   Le temps a *détérioré* les fresques de l'église.
-  Die Zeit hat die Fresken der Kirche *beschädigt*.
+  Weather has *deteriorated* the frescoes in the church.
 
   L'ambiance de travail s'est *détériorée* depuis le changement de direction.
-  Die Arbeitsatmosphäre hat sich seit dem Führungswechsel *verschlechtert*.
+  The working environment has *deteriorated* since the change of management.
 
   Cette vieille voiture s'est rapidement *détériorée* faute d'entretien.
-  Dieses alte Auto hat mangels Wartung schnell *Schaden genommen*.
+  This old car quickly *deteriorated* due to lack of maintenance.
 
   Le manque de sommeil a *détérioré* ses performances au travail.
-  Der Schlafmangel hat seine Arbeitsleistung *verschlechtert*.
+  Lack of sleep impaired her performance at work.
 
   Les conditions météorologiques se sont *détériorées* pendant notre randonnée.
-  Die Wetterbedingungen haben sich während unserer Wanderung *verschlechtert*.
+  Weather conditions *deteriorated* during our hike.
 
   Ce produit chimique a *détérioré* la surface du meuble.
-  Dieses chemische Produkt hat die Oberfläche des Möbels *beschädigt*.
+  This chemical damaged the surface of the furniture.
 
   La confiance entre les deux équipes s'est *détériorée* au fil du temps.
-  Das Vertrauen zwischen den beiden Teams hat sich im Laufe der Zeit *verschlechtert*.
+  The trust between the two teams has *deteriorated* over time.
 
   Les meubles du jardin se sont *détériorés* pendant l'hiver.
-  Die Gartenmöbel haben im Winter *Schaden genommen*.
+  The garden furniture *deteriorated* during the winter.
 
   La situation politique continue de se *détériorer* dans la région.
-  Die politische Lage in der Region *verschlechtert* sich weiter.
+  The political situation in the region continues to deteriorate.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

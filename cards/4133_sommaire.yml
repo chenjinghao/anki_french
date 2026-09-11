@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4133
 Wort: sommaire
 Wortart: adj, nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: le sommaire
 Femininum / Plural: ''
 IPA: \sɔ.mɛʁ\
-Definition: knapp, oberflächlich; Inhaltsverzeichnis
+Definition: Short, superficial; directory of contents
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   L'examen est certes assez *sommaire*.
-  Die Untersuchung ist zwar ziemlich *oberflächlich*.
+  The examination is, of course, quite brief.
 
   Il m'a donné des instructions *sommaires* avant de partir.
-  Er gab mir *knappe* Anweisungen, bevor er ging.
+  He gave me brief instructions before I left.
 
   Le *sommaire* se trouve au début du livre.
-  Das *Inhaltsverzeichnis* befindet sich am Anfang des Buches.
+  The *summary* is at the beginning of the book.
 
   Sa réponse était très *sommaire*.
-  Seine Antwort war sehr *kurz*.
+  His answer was very brief.
 
   Les prisonniers ont été victimes d'une exécution *sommaire*.
-  Die Gefangenen wurden Opfer einer *standrechtlichen* Hinrichtung.
+  The prisoners were the victims of a *summary* execution.
 
   Ce document ne présente qu'une analyse *sommaire* du problème.
-  Dieses Dokument enthält nur eine *oberflächliche* Analyse des Problems.
+  This paper presents only a brief analysis of the problem.
 
   Le *sommaire* de la revue liste tous les articles du numéro.
-  Das *Inhaltsverzeichnis* der Zeitschrift führt alle Artikel der Ausgabe auf.
+  The magazine *summary* lists all the articles in the issue.
 
   Ils ont fait une réparation *sommaire* qui ne tiendra pas longtemps.
-  Sie haben eine *flüchtige* Reparatur gemacht, die nicht lange halten wird.
+  They've made a *summary* repair that won't last long.
 
   Je voudrais d'abord consulter le *sommaire* de ta thèse.
-  Ich möchte erst die *Zusammenfassung* deiner Dissertation lesen.
+  I'd like to see the *summary* of your dissertation first.
 
   Notre installation reste très *sommaire* pour l'instant.
-  Unsere Einrichtung ist momentan noch sehr *spartanisch*.
+  Our facility remains very brief for the time being.
 
   Elle a fait une description *sommaire* des événements.
-  Sie hat eine *knappe* Beschreibung der Ereignisse gegeben.
+  She gave a brief description of the events.
 
   Le *sommaire* du journal annonce les principales actualités.
-  Die *Übersicht* der Zeitung kündigt die wichtigsten Nachrichten an.
+  The newspaper's *summary* announces the main news.
 
   Nous avons pris un repas *sommaire* avant de partir.
-  Wir haben eine *schnelle* Mahlzeit eingenommen, bevor wir losgingen.
+  We had a brief meal before we left.
 
   J'ai jeté un coup d'œil *sommaire* au document.
-  Ich habe einen *flüchtigen* Blick auf das Dokument geworfen.
+  I took a brief look at the document.
 
   Le plan du bâtiment est assez *sommaire*.
-  Der Grundriss des Gebäudes ist ziemlich *grob*.
+  The plan for the building is pretty concise.
 
   Ses connaissances en mathématiques sont très *sommaires*.
-  Seine Mathematikkenntnisse sind sehr *rudimentär*.
+  His knowledge of mathematics is very brief.
 
   On trouve le *sommaire* détaillé à la fin du dossier.
-  Das ausführliche *Inhaltsverzeichnis* findet sich am Ende der Akte.
+  The detailed *summary* can be found at the end of the file.
 
   Cette justice *sommaire* est inacceptable.
-  Dieses *Schnell*gericht ist inakzeptabel.
+  This *summary* justice is unacceptable.
 
   Il a fait un exposé *sommaire* de la situation.
-  Er hat eine *knappe* Darstellung der Situation gegeben.
+  He gave a brief account of the situation.
 
   Le *sommaire* indique la page de chaque chapitre.
-  Das *Inhaltsverzeichnis* gibt die Seite jedes Kapitels an.
+  The *summary* shall indicate the page of each chapter.
 
   Cette structure *sommaire* devra être développée.
-  Diese *grobe* Struktur muss noch ausgearbeitet werden.
+  This *summary* structure will need to be developed.
 
   La procédure *sommaire* n'a pas respecté ses droits.
-  Das *Schnell*verfahren hat seine Rechte nicht respektiert.
+  The *summary* procedure did not respect his rights.
 
   Après une toilette *sommaire*, nous sommes partis.
-  Nach einer *flüchtigen* Morgenwäsche sind wir aufgebrochen.
+  After a brief bath, we left.
 
   Le *sommaire* du magazine présente les articles principaux.
-  Die *Inhaltsangabe* des Magazins stellt die wichtigsten Artikel vor.
+  The *summary* of the magazine presents the main articles.
 
   Elle s'est contentée d'une explication *sommaire*.
-  Sie hat sich mit einer *oberflächlichen* Erklärung begnügt.
+  She just gave me a brief explanation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

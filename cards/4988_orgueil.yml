@@ -1,94 +1,94 @@
-# Diese Felder bitte nicht ändern.
+# Please do not change these fields.
 Rang: 4988
 Wort: orgueil
 Wortart: nm
 
-# Diese Felder gerne verbessern!
+# Feel free to improve these fields!
 Wort mit Artikel: un orgueil
 Femininum / Plural: ''
 IPA: \ɔʁ.ɡœj\
-Definition: Hochmut, Stolz
+Definition: Pride
 Register: ↗Fiktion ↘Sachtext ↘Mündlich
 
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+# Example sentences must be separated by line breaks.
+# Separate each pair with two line breaks.
 Beispielsätze: |-
   "Ça flatte ton *orgueil* de mâle, ça, hein ?"
-  "Das schmeichelt deinem männlichen *Stolz*, was?"
+  "That flatters your *pride* as a man, doesn't it?"
 
   L'*orgueil* démesuré de certains patrons nuit à leur entreprise.
-  Der übermäßige *Hochmut* mancher Chefs schadet ihrem Unternehmen.
+  Excessive *pride* by some employers is detrimental to their business.
 
   Notre fille est notre plus grand *orgueil*.
-  Unsere Tochter ist unser größter *Stolz*.
+  Our daughter is our greatest *pride*.
 
   Son *orgueil* l'empêche d'admettre ses erreurs.
-  Seine *Überheblichkeit* hindert ihn daran, seine Fehler einzugestehen.
+  His *pride* prevents him from admitting his mistakes.
 
   Ses parents tirent un grand *orgueil* de ses succès académiques.
-  Seine Eltern sind sehr *stolz* auf seine akademischen Erfolge.
+  His parents took great *pride* in his academic achievements.
 
   L'équipe nationale est l'*orgueil* de tout le pays.
-  Die Nationalmannschaft ist der *Stolz* des ganzen Landes.
+  The national team is the *pride* of the whole country.
 
   Pierre a dû ravaler son *orgueil* et s'excuser.
-  Pierre musste seinen *Stolz* herunterschlucken und sich entschuldigen.
+  Pierre must have overcome his *pride* and apologized.
 
   Par *orgueil*, elle refuse toute aide financière.
-  Aus *Stolz* lehnt sie jede finanzielle Hilfe ab.
+  Proudly, she refuses any financial help.
 
   Son *orgueil* blessé l'a poussé à démissionner.
-  Sein verletzter *Stolz* hat ihn dazu gebracht zu kündigen.
+  His wounded *pride* led him to resign.
 
   Cette découverte scientifique fait l'*orgueil* de notre université.
-  Diese wissenschaftliche Entdeckung ist der *Stolz* unserer Universität.
+  This scientific discovery makes our university proud.
 
   L'*orgueil* l'aveugle complètement sur ses défauts.
-  Der *Hochmut* macht ihn völlig blind für seine Fehler.
+  *Pride* completely blinds him to his flaws.
 
   Marie cache sa tristesse derrière son *orgueil*.
-  Marie verbirgt ihre Traurigkeit hinter ihrem *Stolz*.
+  Marie hides her sadness behind her *pride*.
 
   Son *orgueil* démesuré finira par causer sa perte.
-  Seine übermäßige *Überheblichkeit* wird letztendlich sein Untergang sein.
+  His excessive *pride* will eventually lead to his loss.
 
   Les parents regardaient leur fils avec *orgueil*.
-  Die Eltern schauten *stolz* auf ihren Sohn.
+  The parents looked at their son with *pride*.
 
   C'est un homme pétri d'*orgueil*.
-  Er ist ein von *Hochmut* zerfressener Mann.
+  He's a man full of *pride*.
 
   Il faut parfois mettre son *orgueil* de côté.
-  Manchmal muss man seinen *Stolz* beiseite legen.
+  Sometimes you have to put your *pride* aside.
 
   L'*orgueil* de la naissance l'empêche de fréquenter des gens ordinaires.
-  Sein Geburts*stolz* hindert ihn daran, mit gewöhnlichen Menschen zu verkehren.
+  *Pride* of birth prevents her from associating with ordinary people.
 
   Cette médaille d'or est une source d'*orgueil* pour toute la nation.
-  Diese Goldmedaille ist eine Quelle des *Stolzes* für die ganze Nation.
+  This gold medal is a source of *pride* for the entire nation.
 
-# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title"><i>orgueil</i> und <i>fierté</i></div>
+    <div class="section-title"><i>orgueil</i> and <i>fierté</i></div>
     <div class="section-content">
-      <p><span class="fr">Orgueil</span> bedeutet <span class="de">"Stolz"</span> im negativen Sinne und bezeichnet eine übertriebene Meinung über sich selbst oder Arroganz. Es hat oft eine abwertende Konnotation.</p>
+      <p><span class="fr">Orgueil</span> means <span class="de">"Pride"</span> In a negative sense, it refers to an exaggerated view of oneself or arrogance.</p>
       <div class="examples">
         <div class="fr">Son orgueil l'empêche d'admettre ses erreurs.</div>
-        <div class="de spoiler">Sein Stolz hindert ihn daran, seine Fehler zuzugeben.</div>
+        <div class="de spoiler">His pride prevents him from admitting his mistakes.</div>
         <div class="fr">Il a été aveuglé par l'orgueil et a refusé toute aide.</div>
-        <div class="de spoiler">Er wurde von seinem Hochmut geblendet und lehnte jede Hilfe ab.</div>
+        <div class="de spoiler">He was blinded by his pride and refused any help.</div>
       </div>
-      <p><span class="fr">Fierté</span> (#3237) bedeutet <span class="de">"Stolz"</span> im positiven Sinne und bezeichnet ein berechtigtes Gefühl der Zufriedenheit über eine Leistung oder einen Erfolg.</p>
+      <p><span class="fr">Fierté</span> (#3237) means <span class="de">"Pride"</span> in a positive sense and means a legitimate feeling of satisfaction with an achievement or success.</p>
       <div class="examples">
         <div class="fr">Elle ressent une grande fierté pour les accomplissements de son fils.</div>
-        <div class="de spoiler">Sie empfindet großen Stolz über die Erfolge ihres Sohnes.</div>
+        <div class="de spoiler">She is very proud of her son's achievements.</div>
         <div class="fr">Il a travaillé avec fierté sur ce projet pendant des mois.</div>
-        <div class="de spoiler">Er hat monatelang mit Stolz an diesem Projekt gearbeitet.</div>
+        <div class="de spoiler">He's been proudly working on this project for months.</div>
       </div>
     </div>
   </div>
