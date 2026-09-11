@@ -92,7 +92,7 @@ jobs:
           baseline_sha=os.environ['BASELINE_SHA']
           candidate=sorted(str(p) for p in Path('grammar').rglob('*.html'))
           baseline=subprocess.check_output(
-              ['git','ls-tree','-r','--name-only',baseline_sha,'--','grammar'], text=True
+              ['git','-c','core.quotepath=false','ls-tree','-r','--name-only',baseline_sha,'--','grammar'], text=True
           ).splitlines()
           baseline=sorted(p for p in baseline if p.endswith('.html'))
           print('combined grammar pages',len(candidate),'baseline pages',len(baseline))
