@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Translate plain learner-facing grammar targets from their nearest French source.
+"""Translate learner-facing grammar targets from their nearest French source.
 
-The grammar HTML intentionally keeps legacy `.de` classes for compatibility, but the
-content of those elements is learner-facing and should be English. This pass covers
-plain `.de` div/span/table-cell targets. Targets containing nested HTML are skipped
-rather than rewritten wholesale, because they may contain IPA or pedagogical markup
-that must remain byte-for-byte intact. Those exceptional targets are handled by the
-reviewed prose/page repair layer.
+Legacy `.de` classes are compatibility hooks; their displayed content should be
+English. Plain targets and targets containing only pedagogical <u>/<br> markup are
+translated from French. Sensitive nested markup (IPA spans, links, classes, data
+attributes, etc.) is never rewritten wholesale. False-friend `.wrong` targets are
+also excluded because they intentionally are not translations of the preceding French.
 """
 from __future__ import annotations
 
@@ -22,6 +21,9 @@ except ImportError:
     from translate_cards_fr_en_v6 import CardTranslator
 
 TAG_RE = re.compile(r"<[^>]+>")
+TAG_NAME_RE = re.compile(r"</?\s*([A-Za-z0-9:_-]+)\b[^>]*>")
+BR_RE = re.compile(r"<br\s*/?>", re.I)
+U_RE = re.compile(r"<u\b[^>]*>(.*?)</u>", re.I | re.S)
 CLASS_RE = re.compile(r"\bclass\s*=\s*([\"'])(.*?)\1", re.I | re.S)
 DATA_LEMMA_RE = re.compile(r"\bdata-lemma\s*=\s*([\"'])(.*?)\1", re.I | re.S)
 ELEMENT_RE = re.compile(
@@ -33,6 +35,7 @@ ELEMENT_RE = re.compile(
 WORD_RE = re.compile(r"^Wort:\s*(.*)$", re.M)
 DEF_RE = re.compile(r"^Definition:\s*(.*)$", re.M)
 MAX_PAIR_DISTANCE = 1800
+SAFE_TARGET_TAGS = {"u", "br"}
 
 NAME_REPAIRS = {
     "Marie": {"Mary": "Marie"},
@@ -40,7 +43,7 @@ NAME_REPAIRS = {
     "Jean": {"John": "Jean"},
     "Jacques": {"James": "Jacques"},
     "Michel": {"Michael": "Michel"},
-    "François": {"Francis": "François", "French": "François"},
+    "François": {"French": "François"},
 }
 
 
@@ -55,10 +58,22 @@ class LangElement:
     body: str
 
 
+@dataclass
+class Job:
+    target: LangElement
+    source_plain: str
+    source_body: str
+    lemma: str | None
+
+
 def plain(value: str) -> str:
     value = TAG_RE.sub("", value)
     value = html.unescape(value).replace("\u00a0", " ")
     return re.sub(r"\s+", " ", value).strip()
+
+
+def norm_key(value: str) -> str:
+    return re.sub(r"\s+", " ", html.unescape(value)).strip().casefold()
 
 
 def classes(attrs: str) -> set[str]:
@@ -121,14 +136,56 @@ def source_lemma(el: LangElement) -> str | None:
     return plain(el.body)
 
 
-def collect_jobs(raw: str) -> tuple[list[tuple[LangElement, str, str | None]], int]:
-    jobs: list[tuple[LangElement, str, str | None]] = []
-    skipped_markup = 0
+def safe_target_body(body: str) -> bool:
+    """Allow only plain text and simple underline/line-break presentation markup."""
+    tags = {m.group(1).lower() for m in TAG_NAME_RE.finditer(body)}
+    if not tags:
+        return True
+    if not tags <= SAFE_TARGET_TAGS:
+        return False
+    # Only bare <u> and <br> markup is accepted. Attributes could carry semantics.
+    for tag in TAG_RE.findall(body):
+        low = tag.lower().strip()
+        if low.startswith("<u") and low not in {"<u>", "</u>"}:
+            return False
+        if low.startswith("<br") and not re.fullmatch(r"<br\s*/?>", low, re.I):
+            return False
+    return True
+
+
+def marked_segments(source_body: str) -> list[str]:
+    """Turn French <u> highlights into *markers* and preserve <br> boundaries."""
+    parts = BR_RE.split(source_body)
+    out: list[str] = []
+    for part in parts:
+        def mark(m: re.Match[str]) -> str:
+            inner = plain(m.group(1))
+            return f"*{inner}*" if inner else ""
+        marked = U_RE.sub(mark, part)
+        marked = TAG_RE.sub("", marked)
+        marked = html.unescape(marked).replace("\u00a0", " ")
+        marked = re.sub(r"\s+", " ", marked).strip()
+        out.append(marked)
+    return out
+
+
+def render_segment(value: str) -> str:
+    escaped = html.escape(value.strip(), quote=False)
+    return re.sub(r"\*([^*]+)\*", r"<u>\1</u>", escaped)
+
+
+def collect_jobs(raw: str) -> tuple[list[Job], int, int]:
+    jobs: list[Job] = []
+    skipped_sensitive = 0
+    skipped_wrong = 0
     last_fr: LangElement | None = None
     for el in elements(raw):
         if el.lang == "fr":
             if plain(el.body):
                 last_fr = el
+            continue
+        if "wrong" in classes(el.attrs):
+            skipped_wrong += 1
             continue
         if last_fr is None:
             continue
@@ -138,51 +195,70 @@ def collect_jobs(raw: str) -> tuple[list[tuple[LangElement, str, str | None]], i
         source = plain(last_fr.body)
         if not source or not re.search(r"[A-Za-zÀ-ÿ]", source):
             continue
-        # Never destroy nested markup such as <span class="ipa"> or <u>.
-        # The reviewed repair layer handles these exceptional teaching targets.
-        if TAG_RE.search(el.body):
-            skipped_markup += 1
+        if not safe_target_body(el.body):
+            skipped_sensitive += 1
             continue
-        jobs.append((el, source, source_lemma(last_fr)))
-    return jobs, skipped_markup
+        lemma = source_lemma(last_fr)
+        # Card definitions are useful only when the visible French target is exactly
+        # the lemma. Multiword grammar phrases such as "à côté de" must be translated
+        # as phrases, not replaced by the single-word definition of "côté".
+        if lemma and norm_key(source) != norm_key(lemma):
+            lemma = None
+        jobs.append(Job(el, source, last_fr.body, lemma))
+    return jobs, skipped_sensitive, skipped_wrong
 
 
-def translate_page(path: Path, translator: CardTranslator, memory: dict[str, str]) -> tuple[int, int, int]:
+def translate_page(
+    path: Path, translator: CardTranslator, memory: dict[str, str]
+) -> tuple[int, int, int, int]:
     raw = path.read_text(encoding="utf-8")
-    jobs, skipped_markup = collect_jobs(raw)
+    jobs, skipped_sensitive, skipped_wrong = collect_jobs(raw)
     if not jobs:
-        return 0, 0, skipped_markup
+        return 0, 0, skipped_sensitive, skipped_wrong
 
     translated: list[str | None] = [None] * len(jobs)
-    model_indices: list[int] = []
-    model_sources: list[str] = []
-    for i, (_target, source, lemma) in enumerate(jobs):
-        if lemma and lemma in memory:
-            translated[i] = memory[lemma]
-        else:
-            model_indices.append(i)
-            model_sources.append(source)
+    segment_map: list[tuple[int, int, str]] = []
+    model_segments: list[str] = []
 
-    if model_sources:
-        values = translator.translate_fr(model_sources)
-        for idx, value in zip(model_indices, values):
-            translated[idx] = preserve_names(jobs[idx][1], value)
+    for i, job in enumerate(jobs):
+        # Only plain, exact headwords use reviewed card-definition memory.
+        if job.lemma and not TAG_RE.search(job.source_body) and job.lemma in memory:
+            translated[i] = html.escape(memory[job.lemma].strip(), quote=False)
+            continue
+        segments = marked_segments(job.source_body)
+        for seg_idx, segment in enumerate(segments):
+            if segment:
+                segment_map.append((i, seg_idx, segment))
+                model_segments.append(segment)
+        translated[i] = "\0".join([""] * len(segments))
+
+    if model_segments:
+        values = translator.translate_fr_with_emphasis(model_segments)
+        rendered_by_job: dict[int, dict[int, str]] = {}
+        for (job_idx, seg_idx, source_segment), value in zip(segment_map, values):
+            fixed = preserve_names(source_segment.replace("*", ""), value)
+            rendered_by_job.setdefault(job_idx, {})[seg_idx] = render_segment(fixed)
+        for job_idx, job in enumerate(jobs):
+            if job.lemma and not TAG_RE.search(job.source_body) and job.lemma in memory:
+                continue
+            source_segments = marked_segments(job.source_body)
+            rendered = [rendered_by_job.get(job_idx, {}).get(i, "") for i in range(len(source_segments))]
+            translated[job_idx] = "<br>".join(rendered)
 
     pieces: list[str] = []
     cursor = 0
     changes = 0
-    for (target, _source, _lemma), value in zip(jobs, translated):
-        assert value is not None
-        current = plain(raw[target.body_start:target.body_end])
-        replacement = html.escape(value.strip(), quote=False)
-        pieces.append(raw[cursor:target.body_start])
+    for job, replacement in zip(jobs, translated):
+        assert replacement is not None
+        current = raw[job.target.body_start:job.target.body_end]
+        pieces.append(raw[cursor:job.target.body_start])
         pieces.append(replacement)
-        cursor = target.body_end
-        if current != plain(replacement):
+        cursor = job.target.body_end
+        if current != replacement:
             changes += 1
     pieces.append(raw[cursor:])
     path.write_text("".join(pieces), encoding="utf-8")
-    return len(jobs), changes, skipped_markup
+    return len(jobs), changes, skipped_sensitive, skipped_wrong
 
 
 def main() -> int:
@@ -196,18 +272,22 @@ def main() -> int:
 
     paths = page_paths(args.shard, args.shards)
     memory = card_lemma_memory()
+    pairs = changes = skipped = wrong = 0
     translator = CardTranslator(Path("."), batch_size=args.batch_size)
-    pairs = changes = skipped = 0
     for path in paths:
-        p, c, s = translate_page(path, translator, memory)
+        p, c, s, w = translate_page(path, translator, memory)
         pairs += p
         changes += c
         skipped += s
-        print(f"{path}: targets={p} changes={c} skipped_nested_markup={s}")
+        wrong += w
+        print(
+            f"{path}: targets={p} changes={c} "
+            f"skipped_sensitive={s} skipped_wrong={w}"
+        )
     print(
         f"GRAMMAR TARGET FR->EN SHARD {args.shard}/{args.shards}: "
         f"pages={len(paths)} targets={pairs} changes={changes} "
-        f"skipped_nested_markup={skipped} lemma_memory={len(memory)}"
+        f"skipped_sensitive={skipped} skipped_wrong={wrong} lemma_memory={len(memory)}"
     )
     return 0
 
