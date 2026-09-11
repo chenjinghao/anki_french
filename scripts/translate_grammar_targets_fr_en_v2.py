@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Translate all classed grammar learner targets from the nearest French source.
+"""Translate plain learner-facing grammar targets from their nearest French source.
 
 The grammar HTML intentionally keeps legacy `.de` classes for compatibility, but the
-content of those elements is learner-facing and should be English.  This pass handles
-not only adjacent `.fr`/`.de` example divs, but also glossary spans and table cells by
-pairing every `.de` element with the nearest preceding `.fr` element within a bounded
-local context.  French source markup and all HTML attributes are left unchanged.
+content of those elements is learner-facing and should be English. This pass covers
+plain `.de` div/span/table-cell targets. Targets containing nested HTML are skipped
+rather than rewritten wholesale, because they may contain IPA or pedagogical markup
+that must remain byte-for-byte intact. Those exceptional targets are handled by the
+reviewed prose/page repair layer.
 """
 from __future__ import annotations
 
@@ -39,6 +40,7 @@ NAME_REPAIRS = {
     "Jean": {"John": "Jean"},
     "Jacques": {"James": "Jacques"},
     "Michel": {"Michael": "Michel"},
+    "François": {"Francis": "François", "French": "François"},
 }
 
 
@@ -119,8 +121,9 @@ def source_lemma(el: LangElement) -> str | None:
     return plain(el.body)
 
 
-def collect_jobs(raw: str) -> list[tuple[LangElement, str, str | None]]:
+def collect_jobs(raw: str) -> tuple[list[tuple[LangElement, str, str | None]], int]:
     jobs: list[tuple[LangElement, str, str | None]] = []
+    skipped_markup = 0
     last_fr: LangElement | None = None
     for el in elements(raw):
         if el.lang == "fr":
@@ -135,15 +138,20 @@ def collect_jobs(raw: str) -> list[tuple[LangElement, str, str | None]]:
         source = plain(last_fr.body)
         if not source or not re.search(r"[A-Za-zÀ-ÿ]", source):
             continue
+        # Never destroy nested markup such as <span class="ipa"> or <u>.
+        # The reviewed repair layer handles these exceptional teaching targets.
+        if TAG_RE.search(el.body):
+            skipped_markup += 1
+            continue
         jobs.append((el, source, source_lemma(last_fr)))
-    return jobs
+    return jobs, skipped_markup
 
 
-def translate_page(path: Path, translator: CardTranslator, memory: dict[str, str]) -> tuple[int, int]:
+def translate_page(path: Path, translator: CardTranslator, memory: dict[str, str]) -> tuple[int, int, int]:
     raw = path.read_text(encoding="utf-8")
-    jobs = collect_jobs(raw)
+    jobs, skipped_markup = collect_jobs(raw)
     if not jobs:
-        return 0, 0
+        return 0, 0, skipped_markup
 
     translated: list[str | None] = [None] * len(jobs)
     model_indices: list[int] = []
@@ -174,7 +182,7 @@ def translate_page(path: Path, translator: CardTranslator, memory: dict[str, str
             changes += 1
     pieces.append(raw[cursor:])
     path.write_text("".join(pieces), encoding="utf-8")
-    return len(jobs), changes
+    return len(jobs), changes, skipped_markup
 
 
 def main() -> int:
@@ -189,15 +197,17 @@ def main() -> int:
     paths = page_paths(args.shard, args.shards)
     memory = card_lemma_memory()
     translator = CardTranslator(Path("."), batch_size=args.batch_size)
-    pairs = changes = 0
+    pairs = changes = skipped = 0
     for path in paths:
-        p, c = translate_page(path, translator, memory)
+        p, c, s = translate_page(path, translator, memory)
         pairs += p
         changes += c
-        print(f"{path}: targets={p} changes={c}")
+        skipped += s
+        print(f"{path}: targets={p} changes={c} skipped_nested_markup={s}")
     print(
         f"GRAMMAR TARGET FR->EN SHARD {args.shard}/{args.shards}: "
-        f"pages={len(paths)} targets={pairs} changes={changes} lemma_memory={len(memory)}"
+        f"pages={len(paths)} targets={pairs} changes={changes} "
+        f"skipped_nested_markup={skipped} lemma_memory={len(memory)}"
     )
     return 0
 
