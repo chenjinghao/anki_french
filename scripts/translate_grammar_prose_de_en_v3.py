@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Translate grammar prose from clean German source with fail-safe block fallback.
 
-Primary translation is the v2 full-block placeholder approach. When NLLB damages a
-placeholder, leaves German behind, or produces a known hallucination pattern, this
-version falls back to translating only the unprotected text nodes inside that same
-block. French, legacy `.de` example targets, IPA, code, tags, and attributes are kept
-byte-for-byte during the fallback.
+Primary translation uses full leaf blocks for context. Structural placeholders protect
+HTML and learner-language content. When NLLB damages a placeholder, leaves German
+behind, or produces a known hallucination pattern, this version falls back to
+translating only unprotected German text nodes inside that same block. French, legacy
+`.de` example targets, IPA, code, tags, and attributes are preserved byte-for-byte.
 """
 from __future__ import annotations
 
@@ -18,15 +18,15 @@ from translate_de_to_en_v6 import EXACT_NODE_REPLACEMENTS, Translator, is_french
 from translate_grammar_prose_de_en_v2 import (
     BLOCK_TAGS,
     CLOSE_RE,
-    DESC_BLOCK_TAGS,
+    INLINE_TAGS,
     OPEN_RE,
     PROTECTED_CLASSES,
     SKIP_DIV_CLASSES,
     VOID_TAGS,
     classes,
-    encode_block,
     has_block_descendant,
     has_protected_ancestor,
+    marker,
     parse_elements,
     plain,
     protected,
@@ -112,6 +112,71 @@ def select_translatable_blocks(raw: str, elems) -> list[int]:
     return selected
 
 
+def inline_french(idx: int, raw: str, elems, translator: Translator) -> bool:
+    """Protect unclassified inline French such as <b>des</b> or <i>que</i>.
+
+    The original grammar sometimes uses bare b/i/u tags for French grammatical forms
+    rather than a `.fr` class.  Sending their text through German→English can change
+    the actual French form (for example `des` -> `of`).
+    """
+    el = elems[idx]
+    if el.tag not in INLINE_TAGS or el.close_start is None:
+        return False
+    text = plain(el.body(raw))
+    return bool(text and is_french_fragment(text, translator.french_terms))
+
+
+def encode_block_safe(raw: str, idx: int, elems, translator: Translator) -> tuple[str, dict[str, str], list[str]]:
+    """Encode a block while also protecting inline text recognized as French."""
+    el = elems[idx]
+    assert el.close_start is not None
+    replacements: list[tuple[int, int, str]] = []
+    restore: dict[str, str] = {}
+    order: list[str] = []
+    counter = 0
+
+    def next_marker(kind: str, raw_value: str) -> str:
+        nonlocal counter
+        value = marker(kind, counter)
+        counter += 1
+        restore[value] = raw_value
+        order.append(value)
+        return value
+
+    def walk(child_idx: int) -> None:
+        child = elems[child_idx]
+        if child.end is None or child.close_start is None:
+            return
+        if protected(child) or inline_french(child_idx, raw, elems, translator):
+            replacements.append((child.start, child.end, next_marker("PH", raw[child.start:child.end])))
+            return
+        if child.tag in INLINE_TAGS:
+            replacements.append((child.start, child.open_end, next_marker("O", raw[child.start:child.open_end])))
+            for grand in child.children:
+                walk(grand)
+            replacements.append((child.close_start, child.end, next_marker("C", raw[child.close_start:child.end])))
+            return
+        if child.tag in VOID_TAGS:
+            replacements.append((child.start, child.end, next_marker("V", raw[child.start:child.end])))
+            return
+        replacements.append((child.start, child.end, next_marker("PH", raw[child.start:child.end])))
+
+    for child_idx in el.children:
+        walk(child_idx)
+
+    pieces: list[str] = []
+    cursor = el.open_end
+    for start, end, value in sorted(replacements):
+        if start < cursor or start < el.open_end or end > el.close_start:
+            continue
+        pieces.append(html.unescape(raw[cursor:start]))
+        pieces.append(f" {value} ")
+        cursor = end
+    pieces.append(html.unescape(raw[cursor:el.close_start]))
+    encoded = re.sub(r"\s+", " ", "".join(pieces)).strip()
+    return encoded, restore, order
+
+
 def suspicious_translation(source_body: str, translated_body: str) -> bool:
     source_text = " ".join(unprotected_text_nodes(source_body))
     value = " ".join(unprotected_text_nodes(translated_body))
@@ -186,7 +251,7 @@ def translate_page(path: Path, translator: Translator) -> tuple[int, int, int]:
     encoded_jobs: list[str] = []
     metadata: list[tuple[int, dict[str, str], list[str]]] = []
     for idx in selected:
-        encoded, restore, order = encode_block(raw, idx, elems)
+        encoded, restore, order = encode_block_safe(raw, idx, elems, translator)
         if not encoded:
             continue
         encoded_jobs.append(encoded)
