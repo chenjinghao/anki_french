@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Invariant-safe English-learner adaptations for the clean German grammar source.
 
-This wraps v2's reviewed replacements but corrects the few adaptations that changed
-compatibility hooks.  The deck's original .fr/.de elements and attributes are part of
+This wraps v2's reviewed replacements but corrects adaptations that changed
+compatibility hooks. The deck's original .fr/.de elements and attributes are part of
 the runtime contract, so English pedagogy may change text, never those hooks.
 """
 from __future__ import annotations
@@ -23,6 +23,20 @@ DEMONSTRATIVE_NEW = (
     '<span class="de">diese(&#8209;r/s)</span> and <span class="de">jene(&#8209;r/s)</span>. '
     'French uses one demonstrative-determiner paradigm that agrees with the noun in gender and '
     'number; distance can be clarified with the suffixes -ci and -là.'
+)
+
+QUESTION_OLD = (
+    'Die Frage mit <span class="fr">est-ce que</span> wird gebildet, indem man '
+    '<span class="fr">est-ce que</span> vor den Aussagesatz setzt. Die Stellung der einzelnen '
+    'Satzglieder im Aussagesatz bleibt dabei unverändert. Die Frage mit '
+    '<span class="fr">est-ce que</span> existiert im Deutschen nicht. Sie wird sowohl in der '
+    'gesprochenen als auch in der geschriebenen Sprache verwendet.'
+)
+QUESTION_NEW = (
+    'An <span class="fr">est-ce que</span> question is formed by placing '
+    '<span class="fr">est-ce que</span> before a statement; the statement word order otherwise '
+    'stays unchanged. The marker <span class="fr">est-ce que</span> has no direct equivalent '
+    'in English. It is used in both spoken and written French.'
 )
 
 INDIRECT_OLD = (
@@ -66,6 +80,7 @@ def merged_replacements() -> dict[str, list[tuple[str, str]]]:
         raise RuntimeError(f'missing v2 adaptation anchor to override: {path}: {old[:100]!r}')
 
     replace_new('07 Pronomen/09 Die Demonstrativbegleiter.html', DEMONSTRATIVE_OLD, DEMONSTRATIVE_NEW)
+    replace_new('08 Fragen/1 Die drei Frageformen.html', QUESTION_OLD, QUESTION_NEW)
     replace_new('20 Indirekte Rede/1 Die indirekte Rede.html', INDIRECT_OLD, INDIRECT_NEW)
     merged.setdefault('99 Vokabeln/28 Falsche Freunde.html', []).extend(FALSE_FRIENDS_EXTRA)
     return merged
