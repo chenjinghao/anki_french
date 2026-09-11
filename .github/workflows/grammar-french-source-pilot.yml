@@ -31,7 +31,7 @@ jobs:
       - name: Compile grammar tooling
         run: |
           python -m py_compile \
-            scripts/translate_grammar_examples_fr_en_v2.py \
+            scripts/translate_grammar_examples_fr_en_v3.py \
             scripts/repair_grammar_english_safe.py \
             scripts/repair_grammar_pages_v2.py \
             scripts/repair_grammar_pages_v3.py \
@@ -46,9 +46,9 @@ jobs:
         run: |
           rm -rf grammar
           git checkout "$BASELINE_SHA" -- grammar
-      - name: Translate adjacent grammar targets from French
+      - name: Translate DOM-adjacent grammar targets from French
         run: |
-          python scripts/translate_grammar_examples_fr_en_v2.py \
+          python scripts/translate_grammar_examples_fr_en_v3.py \
             --shard ${{ matrix.shard }} --shards 12 --batch-size 16
       - name: Keep only this shard and apply reviewed repairs
         env:
@@ -73,7 +73,7 @@ jobs:
           python scripts/repair_grammar_pages_v3.py
       - uses: actions/upload-artifact@v4
         with:
-          name: grammar-fr-v3-shard-${{ matrix.shard }}
+          name: grammar-fr-v4-shard-${{ matrix.shard }}
           path: grammar/
           if-no-files-found: error
 
@@ -91,7 +91,7 @@ jobs:
         run: rm -rf grammar
       - uses: actions/download-artifact@v4
         with:
-          pattern: grammar-fr-v3-shard-*
+          pattern: grammar-fr-v4-shard-*
           path: grammar
           merge-multiple: true
       - name: Verify exact merged-main page set
@@ -128,7 +128,7 @@ jobs:
             --json grammar-candidate-review.json
       - uses: actions/upload-artifact@v4
         with:
-          name: grammar-french-source-v3-candidate
+          name: grammar-french-source-v4-candidate
           path: |
             grammar/
             grammar-candidate-qa.txt
