@@ -25,6 +25,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: Compile QA repair tooling
+        run: |
+          python -m py_compile \
+            scripts/restore_grammar_invariants.py \
+            scripts/repair_grammar_english_safe.py \
+            scripts/repair_grammar_targets_v4.py \
+            scripts/repair_grammar_reviewed_v5.py \
+            scripts/validate_grammar_candidate.py \
+            scripts/audit_grammar_english.py
       - name: Download successful clean-source shards
         uses: actions/download-artifact@v4
         with:
@@ -52,7 +61,7 @@ jobs:
           python scripts/repair_grammar_english_safe.py
           python scripts/repair_grammar_targets_v4.py
           python scripts/repair_grammar_reviewed_v5.py
-      - name: Restore protected French and IPA
+      - name: Restore protected French and source-only structures
         run: |
           python scripts/restore_grammar_invariants.py --baseline "$SOURCE_SHA"
       - name: Fail-closed grammar QA
