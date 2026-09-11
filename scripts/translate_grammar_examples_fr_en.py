@@ -12,7 +12,10 @@ import html
 import re
 from pathlib import Path
 
-from translate_cards_fr_en_v6 import CardTranslator
+try:
+    from .translate_cards_fr_en_v6 import CardTranslator
+except ImportError:
+    from translate_cards_fr_en_v6 import CardTranslator
 
 TAG_RE = re.compile(r'<[^>]+>')
 BLOCK_RE = re.compile(
