@@ -39,6 +39,26 @@ GERMAN_WORD_RE = re.compile(
     re.I,
 )
 
+# The target deck is for English speakers.  Literal translations of the original
+# German-oriented pedagogy are therefore also failures even when the English is
+# grammatical.  Keep this phrase-based rather than flagging the word "German" by
+# itself, because vocabulary pages legitimately translate allemand as "German" and
+# example sentences may mention Germany.
+GERMAN_AUDIENCE_RE = re.compile(
+    r'\b(?:'
+    r'in German\b|unlike (?:in )?German\b|different from German\b|'
+    r'differs? from (?:that of )?German\b|than (?:in )?German\b|'
+    r'compared (?:with|to) German\b|in comparison with German\b|'
+    r'similar(?:ly)? to German\b|like in German\b|as in German\b|'
+    r'from German\b|French and German\b|German counterpart\b|'
+    r'German translation\b|German-speaking\b|German conjunctive\b|'
+    r'German compound nouns?\b|German words?\b|the German (?:one|uses?|does|verbs?)\b|'
+    r'non-reflective in German\b|reflective in German\b|'
+    r'no direct equivalent in German\b|used similarly to German\b'
+    r')',
+    re.I,
+)
+
 
 class DeSpanCollector(HTMLParser):
     """Collect visible text for each individual legacy target span."""
@@ -116,7 +136,12 @@ def main() -> int:
 
         for text in now.visible:
             low = text.lower()
-            if suspicious([text]) or any(term in low for term in KNOWN_BAD) or GERMAN_WORD_RE.search(text):
+            if (
+                suspicious([text])
+                or any(term in low for term in KNOWN_BAD)
+                or GERMAN_WORD_RE.search(text)
+                or GERMAN_AUDIENCE_RE.search(text)
+            ):
                 findings.append(f'{path}: {text}')
 
         candidate_spans = de_spans(now_raw)
