@@ -7,101 +7,101 @@ Wortart: adv
 Wort mit Artikel: ainsi
 Femininum / Plural: ''
 IPA: \ɛ̃.si\
-Definition: so, in this way
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: So, this way
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Qu'est-ce qui le pousse à agir *ainsi* ?
-  What makes him do that?
+  What drives him to do this?
 
   C'est *ainsi* que nous avons toujours fait les choses.
-  That's how we've always done things.
+  That's the way we've always done things.
 
   *Ainsi*, tu as finalement décidé de partir ?
-  *So* you finally decided to leave?
+  So you finally decided to leave?
 
   *Ainsi que* vous pouvez le constater, les résultats sont excellents.
   As you can see, the results are excellent.
 
   Les enfants, *ainsi que* les adultes, doivent respecter ces règles.
-  Both children *and* adults must follow these rules.
+  Children *as well as* adults should observe these rules.
 
   C'est mieux *ainsi*, croyez-moi.
-  It's better that way, believe me.
+  It's better this way, believe me.
 
   *Ainsi* va la vie, mon ami.
   That's life, my friend.
 
   S'il en est *ainsi*, nous devrons changer nos plans.
-  In that case, we have to change our plans.
+  If that's the case, we'll have to change our plans.
 
   Je suis *ainsi* fait : je ne peux pas mentir.
-  I'm like this: I can't lie.
+  That's what I'm made of: I can't lie.
 
   *Pour ainsi dire*, il ne me reste plus rien.
-  I don't have anything left, *so to speak*.
+  I've got nothing left, so to speak.
 
   Et *ainsi de suite* jusqu'à la fin du mois.
-  And *so on* until the end of the month.
+  *And so on* until the end of the month.
 
   *Ainsi soit-il* ! a dit le prêtre à la fin de la prière.
-  *Amen*! said the priest at the end of the prayer.
+  "Amen!" said the priest at the end of the prayer.
 
   *Ainsi*, mon frère a déjà visité ce pays trois fois.
-  *For example*, my brother has been in this country three times.
+  So my brother has already visited this country three times.
 
   *Ainsi donc*, vous refusez notre proposition ?
-  *So* you're rejecting our proposal?
+  So you're rejecting our offer?
 
   Ayant *ainsi* parlé, elle quitta la pièce.
-  After speaking like this, she left the room.
+  After she said that, she left the room.
 
   La chose s'est passée *ainsi*, je vous assure.
-  This is how it happened, I assure you.
+  That's how it happened, I assure you.
 
   *Ainsi* l'a voulu le destin.
-  That's what fate wanted.
+  That's how fate intended it.
 
   Si j'ose m'exprimer *ainsi*, je trouve ce comportement inapproprié.
-  If I may put myself that way, I find this behavior inappropriate.
+  If I dare to express myself in this way, I find this behavior inappropriate.
 
   Puisqu'il en est *ainsi*, nous n'avons plus le choix.
-  Since it is, we have no choice.
+  Since that is the case, we have no choice.
 
   *Ainsi* périssent tous les tyrans !
-  Let all the tyrants perish!
+  This is how all tyrants perish !
 
   Comme le soleil se lève chaque matin, *ainsi* l'espoir renaît chaque jour.
-  Just as the sun rises every morning, so does hope wake up every day.
+  As the sun rises every morning, so hope is renewed every day.
 
   Tout est temporaire ; *ainsi de* nous.
-  Everything is transitory; so are we.
+  Everything is temporary; so are we.
 
   Il ne lui reste, *pour ainsi dire*, que les yeux pour pleurer.
-  He's got the shirt on his body.
+  All she has left is, as it were, her eyes to weep.
 
   *Ainsi*, rien n'a changé depuis mon départ.
-  *So* nothing's changed since I left.
+  So nothing's changed since I left.
 
   Les choses se sont déroulées *ainsi que* je vous l'ai expliqué.
-  Things have happened as I explained to you.
+  It all happened the way I explained it to you.
 
   C'est *ainsi* qu'il faut préparer ce plat traditionnel.
-  *So* you have to prepare this traditional dish.
+  That's how you prepare this traditional dish.
 
   *Ainsi que* prévu, le train est arrivé à l'heure.
   As planned, the train arrived on time.
 
   Ce pays, *ainsi que* ses voisins, connaît une période difficile.
-  This country, like its neighbours, is experiencing a difficult time.
+  This country, *as well as* its neighbors, is going through a difficult time.
 
   Je ne saurais pas faire autrement, je suis *ainsi*.
-  I couldn't do anything else, I'm like that.
+  I couldn't have done it any other way, I'm like this.
 
   La patience, *ainsi que* la persévérance, sont des qualités essentielles.
-  Both patience *and* perseverance are essential qualities.
+  Patience, along with perseverance, are essential qualities.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -110,16 +110,16 @@ Beispielsätze: |-
 # </div>
 Notiz: |-
   <div class="section">
-    <div class="section-title">Satzbau</div>
+    <div class="section-title">Constructing sentences</div>
     <div class="section-content">
-      <p>If: <span class="fr">ainsi</span> at the beginning of a sentence, it is usually separated by a comma. However, this does not apply if the subject is inverted.</p>
+      <p>When <span class="fr">ainsi</span> When a sentence begins, it is usually separated by a comma, but this is not the case when the subject is inverted.</p>
       <div class="examples">
         <div class="fr"><u>Ainsi</u>, vous avez réussi à le convaincre.</div>
-        <div class="de spoiler"><u>So</u>You managed to convince him.</div>
+        <div class="de spoiler"><u>That 's it .</u>You managed to convince him.</div>
       </div>
       <div class="examples">
         <div class="fr"><u>Ainsi</u> avez-vous réussi à le convaincre.</div>
-        <div class="de spoiler"><u>So</u> You managed to convince him.</div>
+        <div class="de spoiler"><u>That 's it .</u> You've managed to convince him.</div>
       </div>
     </div>
   </div>
@@ -130,34 +130,34 @@ Notiz: |-
       <p>The expression <span class="fr">ainsi donc</span> is used to express surprise or dissatisfaction.</p>
       <div class="examples">
         <div class="fr"><u>Ainsi donc</u>, il a refusé de me rencontrer !</div>
-        <div class="de spoiler"><u>Also</u> He refused to meet me!</div>
+        <div class="de spoiler"><u>So what ?</u> He refused to meet me!</div>
       </div>
-      <p class="tip">The Word <span class="fr">ainsi</span> already means <span class="de">"Successful"</span> or <span class="de">"For example"</span>. Therefore, expressions such as <span class="fr">ainsi par conséquent</span> or <span class="fr">ainsi par exemple</span> vermeiden.</p>
+      <p class="tip">The Word <span class="fr">ainsi</span> means already <span class="de">"successful"</span> or <span class="de">"for example"</span>Therefore, you should use phrases such as <span class="fr">ainsi par conséquent</span> or <span class="fr">ainsi par exemple</span> to avoid it.</p>
     </div>
   </div>
 
   <div class="section">
-    <div class="section-title">Angleichung</div>
+    <div class="section-title">Alignment</div>
     <div class="section-content">
-      <p>The expression <span class="fr">ainsi que</span> has two different meanings which affect the alignment in the sentence.</p>
-      <p>If: <span class="fr">ainsi que</span> <span class="de">"in the same way as"</span> In this case, the first term is used to refer to the first term. <span class="fr">ainsi que</span> separated by a comma.</p>
+      <p>The expression <span class="fr">ainsi que</span> It has two different meanings which affect the approximation in the sentence.</p>
+      <p>When <span class="fr">ainsi que</span> <span class="de">"in the same way as"</span> This means that the first term is approximated to the first term in comparison. <span class="fr">ainsi que</span> separated by a comma.</p>
       <div class="examples">
         <div class="fr">Magali, <u>ainsi qu'</u>une enfant, ne pouvait cacher son enthousiasme.</div>
-        <div class="de spoiler">Magali, <u>again</u> a child, could not hide her enthusiasm.</div>
+        <div class="de spoiler">Magali, <u>It 's back .</u> As a child, she couldn't hide her enthusiasm.</div>
       </div>
-      <p>If: <span class="fr">ainsi que</span> <span class="de">"and"</span> In this case, the <span class="fr">ainsi que</span> not separated by a comma.</p>
+      <p>When <span class="fr">ainsi que</span> <span class="de">"and"</span> This means that the approximation takes place in the plural. <span class="fr">ainsi que</span> not separated by a comma.</p>
       <div class="examples">
         <div class="fr">Il tient cachés sous son manteau un litre de vin <u>ainsi qu'</u>un demi-pain.</div>
-        <div class="de spoiler">He hides a liter of wine under his coat <u>and</u> half a bread.</div>
+        <div class="de spoiler">He hides under his coat a liter of wine <u>and</u> half a loaf of bread.</div>
       </div>
-      <p class="attention">The meaning of the sentence often decides whether the alignment is done in the singular or plural. This also influences the punctuation.</p>
+      <p class="attention">The meaning of the sentence often determines whether the approximation takes place in singular or plural.</p>
       <div class="examples">
         <div class="fr">L'adjectif brave, <u>ainsi que l'</u>adjectif barbare, se rattache à la famille du grec barbaros.</div>
-        <div class="de spoiler">The adjective "tapper" <u>sowie</u> The adjective "barbaric" belong to the family of the Greek "barbaros".</div>
+        <div class="de spoiler">The adjective "courageous" <u>and</u> The adjective "barbarian" belongs to the family of the Greek "barbaros".</div>
       </div>
       <div class="examples">
         <div class="fr">L'adjectif brave <u>ainsi que l'</u>adjectif barbare se rattachent à la famille du grec barbaros.</div>
-        <div class="de spoiler">The adjective "tapper" <u>and</u> The adjective "barbaric" belong to the family of the Greek "barbaros".</div>
+        <div class="de spoiler">The adjective "courageous" <u>and</u> The adjective "barbarian" belongs to the family of the Greek "barbaros".</div>
       </div>
     </div>
   </div>

@@ -7,47 +7,47 @@ Wortart: vt
 Wort mit Artikel: occasionner
 Femininum / Plural: ''
 IPA: \ɔ.ka.zjɔ.ne\
-Definition: cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause, cause
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: cause, induce or induce
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Le conflit *occasionne* des pertes énormes.
-  The conflict is causing enormous losses.
+  The conflict has resulted in enormous losses.
 
   Cette décision a *occasionné* beaucoup de controverse dans l'entreprise.
-  This decision has *caused* a lot of controversy in the company.
+  This decision caused a lot of controversy in the company.
 
   L'accident a malheureusement *occasionné* la mort de deux personnes.
-  Unfortunately, the accident *caused* the death of two people.
+  Unfortunately, the accident killed two people.
 
   Les travaux routiers *occasionnent* des embouteillages importants.
-  The road works *cause* considerable traffic jams.
+  Highway work is causing significant traffic congestion.
 
   La tempête a *occasionné* des dégâts considérables.
-  The storm has *caused* considerable damage.
+  The storm caused considerable damage.
 
   Son absence prolongée *occasionnera* sûrement des problèmes.
-  His long absence will certainly *cause* problems.
+  His long absence will surely cause problems.
 
   La fuite d'eau a *occasionné* des dommages dans tout l'appartement.
-  The water damage *caused* damage throughout the apartment.
+  The leak caused damage to the entire apartment.
 
   Cette maladie peut *occasionner* des complications graves.
-  This disease can *cause* serious complications.
+  This disease can lead to serious complications.
 
   Le déménagement nous a *occasionné* beaucoup de stress.
-  The move has *caused* us a lot of stress.
+  The move brought us a lot of stress.
 
   La grève des transports *occasionne* de nombreux retards.
-  The traffic strike causes many delays.
+  The transport strike is causing many delays.
 
   Le bruit constant *occasionne* des troubles du sommeil.
-  The constant noise causes sleep disturbances.
+  Constant noise causes sleep disturbances.
 
   Les nouvelles règles ont *occasionné* des changements majeurs.
-  The new rules have *caused* big changes.
+  The new rules have led to major changes.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -58,24 +58,24 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>causer</i>, <i>occasionner</i> and <i>provoquer</i></div>
     <div class="section-content">
-      <p><span class="fr">Causer</span> (#1089) means <span class="de">"verursachen"</span> in the general sense and is used for most cause-effect relationships. It is the most neutral of the three verbs.</p>
+      <p><span class="fr">Causer</span> #1089) means <span class="de">'causing'</span> It is the most neutral of the three verbs.</p>
       <div class="examples">
         <div class="fr">La pluie a causé des inondations dans la région.</div>
         <div class="de spoiler">The rain has caused flooding in the region.</div>
         <div class="fr">Son imprudence a causé l'accident.</div>
-        <div class="de spoiler">His imprudence caused the accident.</div>
+        <div class="de spoiler">His carelessness caused the accident.</div>
       </div>
-      <p><span class="fr">Occasionner</span> means <span class="de">"verursachen"</span> or <span class="de">"Bringing"</span> and is often used in more formal contexts. It often implies unintended or indirect cause.</p>
+      <p><span class="fr">Occasionner</span> means <span class="de">'causing'</span> or <span class="de">'incorporate'</span> And it's often used in more formal contexts. It often implies unintended or indirect causation.</p>
       <div class="examples">
         <div class="fr">Cette décision va occasionner des frais supplémentaires.</div>
         <div class="de spoiler">This decision will entail additional costs.</div>
         <div class="fr">Les travaux ont occasionné de nombreux désagréments.</div>
         <div class="de spoiler">The work has caused many inconveniences.</div>
       </div>
-      <p><span class="fr">Provoquer</span> means <span class="de">"hervorrufen"</span> or <span class="de">"Start"</span> and often implies a conscious or direct cause. It can also describe emotional reactions.</p>
+      <p><span class="fr">Provoquer</span> means <span class="de">"calling in"</span> or <span class="de">'triggered'</span> It can also describe emotional reactions.</p>
       <div class="examples">
         <div class="fr">Ses paroles ont provoqué une vive réaction.</div>
-        <div class="de spoiler">His words have caused a violent reaction.</div>
+        <div class="de spoiler">His words provoked a strong reaction.</div>
         <div class="fr">Il a provoqué la bagarre intentionnellement.</div>
         <div class="de spoiler">He deliberately provoked the fight.</div>
       </div>

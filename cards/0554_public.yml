@@ -7,92 +7,92 @@ Wortart: adj
 Wort mit Artikel: public
 Femininum / Plural: publique
 IPA: \py.blik\
-Definition: Public
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: publicly
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   La morale *publique* ne peut être sacrifiée au progrès.
-  *Public* morality must not be sacrificed to progress.
+  *Public* morality cannot be sacrificed to progress.
 
   Cette bibliothèque est ouverte au *public* tous les jours sauf le dimanche.
-  This library is open to the *public* every day except on Sundays.
+  This library is open to the *public* every day except Sunday.
 
   Le parc est un espace *public* où les enfants peuvent jouer librement.
   The park is a *public* space where children can play freely.
 
   Les fonctionnaires travaillent dans le service *public*.
-  Officials are employed in the civil service.
+  Officials work in the *public* service.
 
   Cette chaîne de télévision *publique* propose des documentaires de qualité.
-  This *public*-law station offers high-quality documentation.
+  This *public* television channel offers high-quality documentaries.
 
   Il ne faut pas prendre l'opinion *publique* à la légère.
-  *Public* opinion must not be taken lightly.
+  *Public* opinion should not be taken lightly.
 
   Les transports *publics* sont gratuits pendant les fêtes.
-  *Public* transport is free during the holidays.
+  *Public* transportation is free during the holidays.
 
   Les comptes *publics* doivent être transparents.
-  *Public* finances must be transparent.
+  *Public* accounts must be transparent.
 
   Les autorités ont rendu *publique* cette information hier soir.
   The authorities made this information *public* last night.
 
   La dette *publique* augmente chaque année.
-  *Public* debt is rising every year.
+  The *public* debt increases every year.
 
   Cette banque *publique* offre des taux d'intérêt avantageux.
-  This *state* bank offers favourable interest rates.
+  This *public* bank offers advantageous interest rates.
 
   Les jardins *publics* ferment à la tombée de la nuit.
-  The *public* gardens close at nightfall.
+  *Public* gardens close at nightfall.
 
   L'hôpital *public* manque de personnel.
-  The *public* hospital has too little staff.
+  There's a shortage of staff at the *public* hospital.
 
   Cette affaire est devenue *publique* malgré leurs efforts.
-  This matter became *public* despite their efforts.
+  This case went *public* despite their efforts.
 
   La santé *publique* est une priorité nationale.
   *Public* health is a national priority.
 
   Le concert a été enregistré en *public*.
-  The concert was recorded *live*.
+  The concert was recorded in *public*.
 
   Les écoles *publiques* sont fermées pendant les vacances.
-  The *state* schools are closed during the holidays.
+  *Public* schools are closed during the holidays.
 
   La sécurité *publique* doit être garantie.
-  *Public* security must be ensured.
+  *Public* safety must be guaranteed.
 
   Les toilettes *publiques* sont hors service.
-  The *public* toilets are out of service.
+  *Public* toilets are out of service.
 
   La fonction *publique* recrute de nouveaux employés.
-  The *public* service hires new employees.
+  The civil service is recruiting new employees.
 
   Cette place *publique* sera bientôt rénovée.
   This *public* square will soon be renovated.
 
   Les finances *publiques* doivent être gérées avec prudence.
-  *Public* finances must be managed carefully.
+  *Public* finances must be managed with caution.
 
   Cette université *publique* propose d'excellents programmes.
-  This *state* university offers excellent programs.
+  This *public* university offers excellent programs.
 
   Les pouvoirs *publics* ont pris des mesures strictes.
   The *public* authorities have taken strict measures.
 
   Cette bibliothèque *publique* propose des livres en plusieurs langues.
-  This *public* library offers books in several languages.
+  This *public* library has books in several languages.
 
   La voie *publique* doit rester accessible.
   The *public* road must remain accessible.
 
   Cette entreprise *publique* sera bientôt privatisée.
-  This *state*-owned company will soon be privatized.
+  This *public* company will soon be privatized.
 
   L'éducation *publique* est gratuite dans ce pays.
   *Public* education is free in this country.
@@ -104,31 +104,31 @@ Beispielsätze: |-
   *Public* spending has increased this year.
 
   Ce musée *public* organise des visites guidées gratuites.
-  This *state* museum organizes free guided tours.
+  This *public* museum offers free guided tours.
 
   Cette consultation *publique* durera trois mois.
-  This *public* consultation will take three months.
+  This *public* consultation will last for three months.
 
   L'ordre *public* doit être maintenu.
   *Public* order must be maintained.
 
   Cette radio *publique* émet 24 heures sur 24.
-  This *public*-law radio station broadcasts around the clock.
+  This *public* radio station broadcasts 24 hours a day.
 
   L'intérêt *public* doit primer sur les intérêts privés.
   The *public* interest must take precedence over private interests.
 
   Cette déclaration *publique* a fait sensation.
-  This *public* declaration has caused a stir.
+  This *public* statement was a sensation.
 
   L'administration *publique* se modernise.
-  *Public* administration is modernising.
+  *Public* administration is being modernized.
 
   Cette personne *publique* évite les médias.
-  This person of *public* life avoids the media.
+  This *public* figure avoids the media.
 
   Cette réunion *publique* abordera des sujets importants.
-  This *public* assembly will deal with important issues.
+  This *public* meeting will cover important topics.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -136,7 +136,7 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <span style="font-size: 90%">Note: same lemma as <span class="fr">public #285</span> (<span class="de">Publikum</span>), unfortunately erroneously (probably due to the irregular feminine form) not summarized in the source of this list and thus double.</span>
+  <span style="font-size: 90%">Note: the same lemma as <span class="fr">public #285</span> (<span class="de">The audience</span>), unfortunately incorrectly (presumably because of the irregular feminine form) not summarized in the source of this list and thus doubled.</span>
   <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Gegensätze"></grammar>

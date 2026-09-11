@@ -7,71 +7,71 @@ Wortart: vi
 Wort mit Artikel: aboutir
 Femininum / Plural: ''
 IPA: \a.bu.tiʁ\
-Definition: to lead to something, to succeed
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: To lead to something, to succeed
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Ce projet n'a pourtant pas *abouti*.
-  However, this project has not been successfully *completed*.
+  This project, however, did not succeed.
 
   La rue principale *aboutit* à la place du marché.
-  *The* main road leads to the market square.
+  The main street ends at the market square.
 
   Leurs efforts ont finalement *abouti* à un accord.
-  Their efforts have finally led to an agreement.
+  Their efforts eventually led to an agreement.
 
   Le chemin *aboutit* dans une clairière au milieu de la forêt.
-  The path *ends* on a clearing in the middle of the forest.
+  The road ends in a clearing in the middle of the forest.
 
   Malgré des années de recherche, l'équipe n'a pas *abouti* à une découverte majeure.
-  Despite years of research, the team has not *achieved* a groundbreaking discovery.
+  Despite years of research, the team has not made a major discovery.
 
   Les négociations ont *abouti* à la signature d'un traité de paix.
-  The negotiations have led to the conclusion of a peace treaty.
+  The negotiations led to the signing of a peace treaty.
 
   Cette démarche administrative n'*aboutira* probablement à rien.
-  This administrative process is unlikely to lead to anything.
+  This administrative step is unlikely to succeed.
 
   Le couloir *aboutit* à une petite pièce sombre.
-  The hallway *flows* into a small, dark room.
+  The corridor leads to a small dark room.
 
   Nous espérons que nos efforts *aboutiront* à des résultats concrets.
   We hope that our efforts will lead to concrete results.
 
   La rivière *aboutit* dans un grand lac.
-  The river *flows* into a large lake.
+  The river ends up in a big lake.
 
   Son travail acharné a finalement *abouti* à une promotion.
   His hard work eventually led to a promotion.
 
   L'enquête policière a *abouti* à l'arrestation du suspect.
-  The police investigation has led to the arrest of the suspect.
+  The police investigation led to the arrest of the suspect.
 
   Toutes les pistes de l'enquête n'ont pas encore *abouti*.
-  Not all traces of investigation have so far led to a result.
+  All the clues in the investigation haven't worked out yet.
 
   Le sentier escarpé *aboutit* au sommet de la montagne.
-  *The* steep path leads to the top of the mountain.
+  The steep path leads to the top of the mountain.
 
   Leurs revendications ont finalement *abouti* à des changements concrets.
-  Their demands have finally led to concrete changes.
+  Their demands eventually led to concrete changes.
 
   Ce long processus de paix a enfin *abouti*.
-  This long peace process has finally been successfully concluded.
+  This long peace process has finally paid off.
 
   L'escalier en colimaçon *aboutit* dans le grenier.
-  *The* spiral staircase leads to the attic.
+  The staircase ends up in the attic.
 
   Nous devons faire *aboutir* ce projet avant la fin de l'année.
-  We have to finish this project before the end of the year.
+  We must finish this project before the end of the year.
 
   Les pourparlers ont *abouti* à un compromis acceptable pour tous.
-  The talks have led to a compromise acceptable to all.
+  The talks resulted in a compromise that was acceptable to all.
 
   Malheureusement, ses efforts n'ont pas *abouti* comme il l'espérait.
-  Unfortunately, his efforts did not lead to the expected result.
+  Unfortunately, his efforts were not as successful as he had hoped.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -82,7 +82,7 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>réussir</i> and <i>aboutir</i></div>
     <div class="section-content">
-      <p><span class="fr">Réussir</span> (#279) can be used with an object as a subject (typically in projects or projects) as well as with a person as a subject. It generally means being successful or creating something.</p>
+      <p><span class="fr">Réussir</span> (#279) can be used both with an object as a subject (typically in projects or projects) and with a person as a subject.</p>
       <div class="examples">
         <div class="fr">Son projet a enfin réussi.</div>
         <div class="de spoiler">His project was finally successful.</div>
@@ -91,12 +91,12 @@ Notiz: |-
         <div class="fr">Elle a réussi à les convaincre.</div>
         <div class="de spoiler">She managed to convince her.</div>
       </div>
-      <p><span class="fr">Aboutir</span> can be synonymous in some contexts to <b>réussir</b> the use, but additionally carries the meaning of <span class="de">"To end"</span> or <span class="de">"to lead to something"</span>. It has two main meanings: something complete/complete and somewhere end/lead.</p>
+      <p><span class="fr">Aboutir</span> In some contexts it can be used synonymously with <b>réussir</b> In addition, it is important to note that the Commission's proposal for a regulation of the European Parliament and of the Council <span class="de">"come to an end"</span> or <span class="de">"leading to something"</span>It has two main meanings: to finish something and to end something somewhere.</p>
       <div class="examples">
         <div class="fr">Son projet a enfin abouti.</div>
-        <div class="de spoiler">His project finally came to an end.</div>
+        <div class="de spoiler">His project has finally come to an end.</div>
         <div class="fr">La séance n'a abouti à aucun résultat.</div>
-        <div class="de spoiler">The meeting did not produce any result.</div>
+        <div class="de spoiler">The meeting did not lead to any outcome.</div>
         <div class="fr">La voiture a heurté un arbre avant d'aboutir dans une prairie.</div>
         <div class="de spoiler">The car hit a tree before it stopped on a meadow.</div>
       </div>

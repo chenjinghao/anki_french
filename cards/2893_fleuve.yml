@@ -7,8 +7,8 @@ Wortart: nm
 Wort mit Artikel: le fleuve
 Femininum / Plural: ''
 IPA: \flœv\
-Definition: '[into the sea] river'
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: "River [flowing into the sea]"
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
@@ -17,64 +17,64 @@ Beispielsätze: |-
   The *river* always flows in the same direction.
 
   Le Nil est le plus long *fleuve* d'Afrique.
-  The Nile is the longest river in Africa.
+  The Nile is the longest *river* in Africa.
 
   La ville est traversée par un majestueux *fleuve*.
-  The city is crossed by a majestic stream.
+  The city is crossed by a majestic *river*.
 
   Les enfants jouaient sur les rives du *fleuve*.
-  The children played on the banks of the *river*.
+  The children were playing on the banks of the *river*.
 
   Un *fleuve de boue* a dévalé la montagne après les fortes pluies.
-  A mud avalanche fell down the mountain after the heavy rain.
+  A muddy river descended the mountain after the heavy rains.
 
   L'orateur a déversé un *fleuve de paroles*.
-  The speaker poured out a wall of speech.
+  The speaker poured out a *river of words*.
 
   Elle a versé un *fleuve de larmes* en apprenant la nouvelle.
-  She shed *streams of tears* when she heard the news.
+  She shed a flood of tears when she heard the news.
 
   Le *fleuve* Amazone a le plus grand débit au monde.
-  The Amazon River has the largest amount of water in the world.
+  The Amazon *River* has the highest flow rate in the world.
 
   Les bateaux de croisière naviguent sur ce *fleuve* en été.
-  The cruise ships sail this stream in the summer.
+  Cruise ships sail on this *river* in the summer.
 
   Le pont enjambe le *fleuve* large de plusieurs centaines de mètres.
-  The bridge spans the several hundred meters wide *river*.
+  The bridge spans the *river* several hundred meters wide.
 
   La pollution menace l'écosystème de ce *fleuve* côtier.
-  Pollution threatens the ecosystem of this coastal river.
+  Pollution threatens the ecosystem of this coastal *river*.
 
   Un barrage a été construit pour réguler le débit du *fleuve*.
-  A dam was built to regulate the drain of the *electricity*.
+  A dam was built to regulate the flow of the *river*.
 
   Les agriculteurs dépendent de ce *fleuve* pour irriguer leurs champs.
-  The farmers depend on this *river* to water their fields.
+  Farmers rely on this *river* to irrigate their fields.
 
   Le delta du *fleuve* est une zone riche en biodiversité.
-  The delta of the river is an area of rich biodiversity.
+  The *river* delta is an area rich in biodiversity.
 
   Les anciens Égyptiens vénéraient le Nil comme un dieu *fleuve*.
   The ancient Egyptians worshipped the Nile as a *river* god.
 
   "Ce roman-*fleuve* m'a tenu en haleine pendant des semaines."
-  "This *epic novel* kept me in my breath for weeks."
+  "This novel has kept me breathless for weeks".
 
   Le *fleuve* déborde chaque année pendant la saison des pluies.
-  The *river* runs over the river every year during the rainy season.
+  The *river* floods every year during the rainy season.
 
   Les eaux du *fleuve* se jettent dans l'océan par un large estuaire.
-  The waters of the river flow into the ocean through a wide estuary.
+  The *river*'s waters flow into the ocean through a wide estuary.
 
   La source de ce *fleuve* se trouve dans les montagnes lointaines.
   The source of this *river* is in the distant mountains.
 
   Un *fleuve* de lave s'écoulait du volcan en éruption.
-  A lava flow flowed from the erupting volcano.
+  A lava *river* was flowing from the erupting volcano.
 
   Le temps s'écoule comme un *fleuve* qui ne remonte jamais à sa source.
-  Time passes like a *river* that never returns to its source.
+  Time flows like a *river* that never goes back to its source.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -85,23 +85,23 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>rivière</i> and <i>fleuve</i></div>
     <div class="section-content">
-      <p><span class="fr">Rivière</span> (#2223) is a river that flows into another river. It is a tributary or tributary of a larger river.</p>
+      <p><span class="fr">Rivière</span> (#2223) refers to a river that flows into another river. It is a tributary or tributary of a larger body of water.</p>
       <div class="examples">
         <div class="fr">La rivière se jette dans une autre rivière, qui se jette dans un fleuve.</div>
         <div class="de spoiler">The river flows into another river that flows into a stream.</div>
       </div>
-      <p><span class="fr">Fleuve</span> is a stream that flows directly into the sea. It is the main stream of a river system.</p>
+      <p><span class="fr">Fleuve</span> is a stream that flows directly into the sea. It is the main watercourse of a river system.</p>
       <div class="examples">
         <div class="fr">L'Amazone se jette dans l'Atlantique.</div>
-        <div class="de spoiler">The Amazon flows into the Atlantic Ocean.</div>
+        <div class="de spoiler">The Amazon empties into the Atlantic.</div>
         <div class="fr">La Loire traverse la France d'est en ouest pour rejoindre l'Atlantique.</div>
-        <div class="de spoiler">The Loire crosses France from east to west to reach the Atlantic Ocean.</div>
+        <div class="de spoiler">The Loire crosses France from east to west to reach the Atlantic.</div>
       </div>
-      <p>Wichtige Unterscheidungsmerkmale:</p>
+      <p>Key distinguishing features:</p>
       <ul>
-        <li>A <span class="fr">fleuve</span> always flows into the sea, while a <span class="fr">rivière</span> It flows into another river.</li>
+        <li>One of them <span class="fr">fleuve</span> It always flows into the sea, while a <span class="fr">rivière</span> It flows into another river.</li>
         <li>The size or flow of water are not the decisive criteria for the distinction.</li>
-        <li>There are also coastal rivers (<span class="fr">fleuves côtiers</span>), which lead into the sea, but no <span class="fr">rivières</span> The</li>
+        <li>There are also coastal rivers (<span class="fr">fleuves côtiers</span>), which lead to the sea, but not to the sea. <span class="fr">rivières</span> They are.</li>
       </ul>
     </div>
   </div>

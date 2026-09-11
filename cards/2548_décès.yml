@@ -7,8 +7,8 @@ Wortart: nm
 Wort mit Artikel: le décès
 Femininum / Plural: ''
 IPA: \de.sɛ\
-Definition: Death, death
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: Death and dying
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
@@ -17,52 +17,52 @@ Beispielsätze: |-
   Suicide is a form of *death*.
 
   Le médecin légiste a confirmé l'heure du *décès* à 3h45 du matin.
-  The coroner confirmed the time of *death* at 3:45 a.m.
+  The coroner's office confirmed the time of *death* at 3:45 a.m.
 
   Un *décès* causé par le sida est toujours une tragédie évitable.
-  A *death* caused by AIDS is always an avoidable tragedy.
+  A *death* from AIDS is always a tragedy that can be avoided.
 
   La mairie conserve tous les actes de *décès* depuis 1850.
-  The town hall has kept all *death* certificates since 1850.
+  The town hall has kept all *death* records since 1850.
 
   Le magasin restera fermé pour cause de *décès* jusqu'à lundi.
-  The business will be closed until Monday due to a *death*.
+  The store will remain closed due to *death* until Monday.
 
   Suite au *décès* de sa tante, elle a hérité d'une maison.
-  After her aunt's *death*, she inherited a house.
+  After her aunt died, she inherited a house.
 
   Les pompes funèbres ont envoyé le faire-part de *décès* aux proches.
-  The funeral company sent the *death* notice to the relatives.
+  Funeral services have sent the coroner's report to their loved ones.
 
   Le nombre de *décès* a considérablement augmenté pendant la pandémie.
-  The number of deaths has increased significantly during the pandemic.
+  The number of deaths has increased dramatically during the pandemic.
 
   La cause du *décès* n'a pas encore été déterminée par les experts.
-  The cause of *death* has not yet been determined by the experts.
+  The cause of *death* has not yet been determined by experts.
 
   La famille paie chaque mois une cotisation à la caisse de *décès*.
-  The family pays a contribution to the *death* fund each month.
+  The family pays a monthly contribution to the *death* fund.
 
   Le registre des *décès* montre une augmentation des cas de cancer.
-  The *death* register shows an increase in cancer cases.
+  The *death* registry shows an increase in cancer cases.
 
   Je dois déclarer le *décès* de mon père à la mairie aujourd'hui.
-  I have to report my father's *death* to the registry office today.
+  I have to report my father's *death* to City Hall today.
 
   Les statistiques montrent une baisse des *décès* sur les routes.
-  The statistics show a decrease in road deaths.
+  Statistics show a decline in road deaths.
 
   L'infirmière a immédiatement constaté le *décès* du patient.
   The nurse immediately noticed the patient's *death*.
 
   La succession sera réglée trois mois après le *décès*.
-  The estate is regulated three months after *death*.
+  The estate will be settled three months after *death*.
 
   Le juge doit être notifié du *décès* dans les 24 heures.
   The judge must be notified of the *death* within 24 hours.
 
   La police a ouvert une enquête pour déterminer les circonstances du *décès*.
-  The police have opened an investigation to investigate the circumstances of *death*.
+  Police have opened an investigation to determine the circumstances of the *death*.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -73,23 +73,23 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>mort</i> and <i>décès</i></div>
     <div class="section-content">
-      <p><span class="fr">Mort</span> (#276) refers to the state of death or the concept of death in the broadest sense. It can be used to describe the death of a person, an animal, or even the end of something non-literal, such as a feeling or an era.</p>
+      <p><span class="fr">Mort</span> #276) refers to the state of being dead or the concept of death in the broadest sense. It can be used to describe the death of a person, an animal or even the end of something non-literal, such as a feeling or an era.</p>
       <div class="examples">
         <div class="fr">Elle pleure la mort de son chat.</div>
-        <div class="de spoiler">She mourns the death of her cat.</div>
+        <div class="de spoiler">She is mourning the death of her cat.</div>
         <div class="fr">La mort de l'empire a marqué l'histoire.</div>
-        <div class="de spoiler">The demise of the empire has shaped history.</div>
+        <div class="de spoiler">The fall of the empire shaped history.</div>
         <div class="fr">La mort lui semble moins effrayante maintenant.</div>
-        <div class="de spoiler">Death now seems less scary to him.</div>
+        <div class="de spoiler">Death seems less scary to him now.</div>
       </div>
-      <p><span class="fr">Décès</span> refers specifically to the act of dying or passing away and is often used in formal or administrative contexts. It implies the process or event leading to death, not the state of death.</p>
+      <p><span class="fr">Décès</span> It refers specifically to the act of dying or passing away and is often used in formal or administrative contexts. It implies the process or event that leads to death, not the state of being dead.</p>
       <div class="examples">
         <div class="fr">Le certificat de décès a été signé par le médecin.</div>
         <div class="de spoiler">The death certificate was signed by the doctor.</div>
         <div class="fr">Le nombre de décès dus à la maladie continue d'augmenter.</div>
-        <div class="de spoiler">The number of deaths due to the disease continues to increase.</div>
+        <div class="de spoiler">The number of deaths from the disease continues to rise.</div>
         <div class="fr">Ils ont annoncé le décès de leur président.</div>
-        <div class="de spoiler">They announced the death of their president.</div>
+        <div class="de spoiler">You've announced the demise of your president.</div>
       </div>
     </div>
   </div>

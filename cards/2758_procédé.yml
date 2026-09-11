@@ -7,74 +7,74 @@ Wortart: nm
 Wort mit Artikel: le procédé
 Femininum / Plural: ''
 IPA: \pʁɔ.se.de\
-Definition: Procedure, method
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: Process, method
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   C'est un *procédé* continuel chez moi.
-  This is a permanent *procedure* for me.
+  It's a continuous *process* for me.
 
   Le gouvernement a mis en place un nouveau *procédé* de recyclage.
-  The government has introduced a new recycling process.
+  The government has put in place a new recycling *process*.
 
   Cette entreprise utilise un *procédé* innovant pour purifier l'eau.
-  This company uses an innovative water purification process.
+  This company uses an innovative *process* to purify water.
 
   Son *procédé* pour résoudre ce problème mathématique est très efficace.
-  His *method* of solving this mathematical problem is very efficient.
+  His method for solving this mathematical problem is very effective.
 
   Les scientifiques ont développé un *procédé* révolutionnaire pour produire de l'énergie propre.
-  The scientists have developed a revolutionary process for producing clean energy.
+  Scientists have developed a revolutionary *process* for producing clean energy.
 
   Je n'approuve pas ses *procédés* malhonnêtes pour obtenir ce qu'il veut.
-  I don't approve of his dishonest *methods* to get what he wants.
+  I don't approve of his dishonest ways of getting what he wants.
 
   Le chef cuisinier a inventé un nouveau *procédé* pour caraméliser les oignons.
-  The chef invented a new method for caramelizing onions.
+  The chef invented a new method to caramelize onions.
 
   "Tes *procédés* envers moi sont inacceptables !", s'est-elle exclamée.
-  "Your *behavior* towards me is unacceptable!" she exclaimed.
+  "Your treatment of me is unacceptable!" she exclaimed.
 
   L'artiste utilise un *procédé* unique pour créer ses sculptures.
-  The artist uses a unique *method* to create his sculptures.
+  The artist uses a unique *process* to create his sculptures.
 
   Ce *procédé* de fabrication est beaucoup plus respectueux de l'environnement.
-  This manufacturing process is much more environmentally friendly.
+  This manufacturing *process* is much more environmentally friendly.
 
   Il a recours à des *procédés* douteux pour gagner de l'argent rapidement.
-  He's resorting to dubious *methods* to make money quickly.
+  He uses questionable methods to make money quickly.
 
   Le nouveau *procédé* d'impression 3D révolutionne l'industrie manufacturière.
-  The new 3D printing process revolutionises the manufacturing industry.
+  The new 3D printing *process* is revolutionizing the manufacturing industry.
 
   Ses *procédés* de négociation sont toujours très efficaces.
-  His negotiating *methods* are always very effective.
+  Its negotiating procedures are still very effective.
 
   L'entreprise a breveté un *procédé* révolutionnaire pour extraire l'or.
-  The company has patented a revolutionary gold extraction process.
+  The company patented a revolutionary method to extract gold.
 
   Je n'apprécie pas du tout vos *procédés* !
-  I don't appreciate your *behavior* at all!
+  I don't like your methods at all!
 
   Le chimiste a mis au point un nouveau *procédé* de synthèse moléculaire.
-  The chemist has developed a new method for molecular synthesis.
+  The chemist has developed a new method of molecular synthesis.
 
   Ce *procédé* de conservation des aliments est totalement naturel.
-  This food preservation process is completely natural.
+  This method of preserving food is entirely natural.
 
   Il a expliqué en détail le *procédé* utilisé pour créer cette œuvre d'art.
-  He explained in detail the *procedure* used to create this work of art.
+  He explained in detail the method used to create this artwork.
 
   Les ingénieurs ont optimisé le *procédé* de production pour réduire les coûts.
-  The engineers have optimized the production process to reduce costs.
+  Engineers have optimized the production *process* to reduce costs.
 
   "C'est un échange de bons *procédés*", a-t-il dit en souriant.
-  "This is an exchange of good *services*," he said smilingly.
+  "It's an exchange of good practices", he said with a smile.
 
   Le joueur de billard a soigneusement inspecté le *procédé* de sa queue avant le match.
-  The billiard player carefully inspected the cue tip of his cue before the game.
+  The billiard player carefully inspected his tail *process* before the game.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -85,26 +85,26 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>processus</i>, <i>procédure</i> and <i>procédé</i></div>
     <div class="section-content">
-      <p>These three terms have a common meaning of ‘method' but differ in their specific use:</p>
+      <p>These three terms have a common basic meaning of method, but differ in their specific uses:</p>
 
-      <p><span class="fr">Processus</span> (#689) refers to a sequence of operations or a series of organized, consecutive operations aimed at a specific result.</p>
+      <p><span class="fr">Processus</span> (#689) refers to a sequence of operations or a series of organized, successive operations aimed at a particular outcome.</p>
       <div class="examples">
         <div class="fr">J'ai écouté un reportage qui expliquait le processus de croissance économique.</div>
         <div class="de spoiler">I heard a report explaining the process of economic growth.</div>
       </div>
 
-      <p><span class="fr">Procédure</span> (#993) describes a series of formalities or steps that must be followed, or a set of rules that must be observed in a particular situation.</p>
+      <p><span class="fr">Procédure</span> (#993) describes a set of formalities or steps to be followed or a set of rules to be followed in a given situation.</p>
       <div class="examples">
         <div class="fr">La pilote a suivi scrupuleusement la procédure d'atterrissage que lui a indiquée la tour de contrôle.</div>
-        <div class="de spoiler">The pilot carefully followed the landing procedure given to her by the control tower.</div>
+        <div class="de spoiler">The pilot followed the landing procedure prescribed by the control tower.</div>
       </div>
 
-      <p><span class="fr">Procédé</span> (#2758) is a method used to obtain a certain result.</p>
+      <p><span class="fr">Procédé</span> (#2758) refers to a method used to achieve a certain result.</p>
       <div class="examples">
         <div class="fr">Cette entreprise québécoise a mis au point d'intéressants procédés d'extrusion.</div>
-        <div class="de spoiler">This Quebec company has developed interesting extrusion methods.</div>
+        <div class="de spoiler">This company from Quebec has developed interesting extrusion processes.</div>
       </div>
 
-      <p>To sum up, we can say: <span class="fr">procédé</span> is an applied method, a <span class="fr">processus</span> a sequence of operations, and a <span class="fr">procédure</span> a set of rules to achieve a specific objective.</p>
+      <p>In summary, one can say: <span class="fr">procédé</span> is an applied method, a <span class="fr">processus</span> a sequence of operations, and a <span class="fr">procédure</span> a framework for achieving a specific objective.</p>
     </div>
   </div>

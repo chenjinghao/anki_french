@@ -7,53 +7,53 @@ Wortart: adv
 Wort mit Artikel: néanmoins
 Femininum / Plural: ''
 IPA: \ne.ɑ̃.mwɛ̃\
-Definition: Nevertheless,
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: Nevertheless
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Avez-vous *néanmoins* un code de discipline à respecter?
-  Is there any code of conduct that you have to comply with?
+  However, do you have a code of discipline to follow?
 
   Il pleuvait *néanmoins* nous sommes allés faire une promenade.
-  It was raining, *but* we went for a walk.
+  It was raining, but we went for a walk.
 
   Le film était long, *néanmoins* il était captivant du début à la fin.
-  The film was long, yet it was captivating from beginning to end.
+  The movie was long, yet it was captivating from start to finish.
 
   Malgré son jeune âge, elle était *néanmoins* très mature pour ses années.
-  Despite her young age, she was *nevertheless* very mature for her age.
+  Despite her young age, she was *nevertheless* very mature for her years.
 
   *Néanmoins*, je tiens à souligner l'importance de cette décision.
-  Nevertheless, I would like to stress the importance of this decision.
+  *Nevertheless*, I would like to emphasize the importance of this decision.
 
   Le restaurant était cher, la nourriture était *néanmoins* excellente.
-  The restaurant was expensive, *but* the food was excellent.
+  The restaurant was expensive, but the food was excellent.
 
   Bien que fatigué, il a *néanmoins* terminé son travail à temps.
-  Although he was tired, he still finished his work on time.
+  Although tired, he finished his work on time.
 
   Elle n'aimait pas le sport, elle a *néanmoins* participé au marathon.
-  She didn't like sports, she still participated in the marathon.
+  She didn't like sports, but she did participate in the marathon.
 
   Le candidat a perdu l'élection, il reste *néanmoins* optimiste pour l'avenir.
-  The candidate has lost the election, yet remains optimistic for the future.
+  The candidate lost the election, but he remains optimistic about the future.
 
   *Néanmoins*, nous devons considérer toutes les options avant de prendre une décision.
   *Nevertheless*, we must consider all options before making a decision.
 
   La route était longue et difficile, ils sont *néanmoins* arrivés à destination.
-  The route was long and difficult, *but* they still arrived at the finish line.
+  The journey was long and difficult, yet they reached their destination.
 
   Le projet était ambitieux, l'équipe a *néanmoins* réussi à le réaliser dans les délais.
-  The project was ambitious, *but* the team managed to implement it on time.
+  The project was ambitious, but the team was able to complete it on time.
 
   *Néanmoins*, il faut reconnaître que des progrès ont été réalisés.
-  *Nevertheless*, we must recognise that progress has been made.
+  *Nevertheless*, it must be acknowledged that progress has been made.
 
   La situation est complexe, nous restons *néanmoins* confiants en l'avenir.
-  The situation is complex, *but* we remain confident for the future.
+  The situation is complex, but we remain confident about the future.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -64,31 +64,31 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>cependant</i>, <i>pourtant</i>, <i>néanmoins</i> and <i>toutefois</i></div>
     <div class="section-content">
-      <p>These four French conjunctions all express a contrast, similar to the German one. <span class="de">"jedoch"</span> or <span class="de">"trotzdem"</span>Despite their different etymological origins, they are often used synonymously.</p>
+      <p>These four French conjunctions all express a contrast, similar to the German conjunction. <span class="de">"but"</span> or <span class="de">"even though"</span>Despite their different etymological origins, they are often used synonymously.</p>
 
-      <p><span class="fr">Cependant</span> (#352): etymological <span class="de">"while"</span>It expresses that something exists parallel to another fact.</p>
+      <p><span class="fr">Cependant</span> (#352): etymologically <span class="de">"in the meantime"</span>It expresses that something parallel to another fact exists.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, cependant il est malade.</div>
         <div class="de spoiler">He looks good, but he's sick.</div>
       </div>
 
-      <p><span class="fr">Pourtant</span> (#460): etymological <span class="de">"for such a big cause"</span>It emphasizes the contrast between two facts.</p>
+      <p><span class="fr">Pourtant</span> #460): etymological <span class="de">"for such a great cause"</span>It emphasizes the contrast between two facts.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, pourtant il est malade.</div>
-        <div class="de spoiler">He looks good, but he's still sick.</div>
+        <div class="de spoiler">He looks good, yet he's sick.</div>
       </div>
 
-      <p><span class="fr">Néanmoins</span>: etymological <span class="de">"Never less"</span>It indicates that the contrast does not diminish the main statement.</p>
+      <p><span class="fr">Néanmoins</span>: etymological <span class="de">"in no way less"</span>It suggests that the contrast does not diminish the main statement.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, néanmoins il est malade.</div>
         <div class="de spoiler">He looks good, but he's still sick.</div>
       </div>
 
-      <p><span class="fr">Toutefois</span> (#770): etymological <span class="de">"under all circumstances"</span>. It implies that the statement remains valid despite all other factors.</p>
+      <p><span class="fr">Toutefois</span> #770): etymological <span class="de">"under all circumstances"</span>It implies that the statement remains valid despite all other factors.</p>
       <div class="examples">
         <div class="fr">Il a bon visage, toutefois il est malade.</div>
         <div class="de spoiler">He looks good, yet he's sick.</div>
       </div>
-      <p>Despite their different origins and nuances, these conjunctions are often used interchangeably in the modern French language without any clear reason for favoring one another.</p>
+      <p>Despite their different origins and nuances, these conjunctions are often used interchangeably in modern French without a clear reason for preferring one over the other.</p>
     </div>
   </div>

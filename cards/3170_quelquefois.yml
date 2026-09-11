@@ -7,8 +7,8 @@ Wortart: adv
 Wort mit Artikel: quelquefois
 Femininum / Plural: ''
 IPA: \kɛl.kə.fwa\
-Definition: sometimes, every now and then
-Register: ↗fiction ↘nonfiction ↘spoken
+Definition: Sometimes, once in a while
+Register: ↗Fiktion ↘Sachtext ↘Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
@@ -17,31 +17,31 @@ Beispielsätze: |-
   *Sometimes* I think he's right.
 
   *Quelquefois*, en hiver, il neige même dans le sud de la France.
-  *Sometimes* it snows in winter even in the south of France.
+  *Sometimes*, in winter, it snows even in the south of France.
 
   Ma grand-mère vient nous voir *quelquefois* pendant les vacances.
-  My grandmother visits us *every now and then* during the holidays.
+  My grandmother comes to visit us *sometimes* during the holidays.
 
   Les trains peuvent *quelquefois* avoir du retard à cause du mauvais temps.
-  The trains can *sometimes* be delayed due to bad weather.
+  Trains can *sometimes* be delayed because of bad weather.
 
   Julie arrive *quelquefois* en retard au bureau le lundi matin.
-  Julie *sometimes* comes to the office too late on Monday morning.
+  Julie is *sometimes* late for the office on Monday mornings.
 
   *Quelquefois*, je préfère rester seul à la maison plutôt que de sortir.
-  *Sometimes* I prefer to stay at home alone instead of going out.
+  *Sometimes* I'd rather stay home alone than go out.
 
   As-tu *quelquefois* pensé à changer de travail ?
-  Have you *ever* thought about changing jobs?
+  Have you ever thought about changing jobs?
 
   Il fait *quelquefois* des erreurs, mais il apprend vite.
-  He makes mistakes *sometimes*, but he learns fast.
+  He makes mistakes *sometimes*, but he learns quickly.
 
   *Quelquefois*, les solutions les plus simples sont les meilleures.
   *Sometimes* the simplest solutions are the best.
 
   Le chat dort sur le canapé *quelquefois*.
-  The cat sleeps *every now and then* on the sofa.
+  *Sometimes* the cat sleeps on the couch.
 
   *Quelquefois*, je me demande ce que l'avenir nous réserve.
   *Sometimes* I wonder what the future holds for us.
@@ -50,7 +50,7 @@ Beispielsätze: |-
   Children are *sometimes* hard to understand.
 
   *Quelquefois*, il suffit d'un sourire pour égayer toute une journée.
-  *Sometimes* a smile is enough to brighten up the whole day.
+  *Sometimes* a smile is enough to make an entire day happy.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -61,20 +61,20 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>parfois</i> and <i>quelquefois</i></div>
     <div class="section-content">
-      <p><span class="fr">Parfois</span> and <span class="fr">quelquefois</span> bedeuten beide <span class="de">"manchmal"</span> or <span class="de">"Somewhere"</span> and are in most cases interchangeable. However, there is a subtle difference in the nuance:</p>
+      <p><span class="fr">Parfois</span> and <span class="fr">quelquefois</span> meaning both <span class="de">"Sometimes"</span> or <span class="de">'occasionally'</span> But there's a subtle difference in nuance:</p>
 
-      <p><span class="fr">Quelquefois</span> (literally: <span class="de">"einige Male"</span>) implies rather countable, discrete events.</p>
+      <p><span class="fr">Quelquefois</span> (literally: <span class="de">"a few times"</span>) implies more numerous, discrete events.</p>
       <div class="examples">
         <div class="fr">Je vais <u>quelquefois</u> au cinéma, peut-être deux ou trois fois par mois.</div>
-        <div class="de spoiler">I'm going <u>manchmal</u> to the cinema, maybe two or three times a month.</div>
+        <div class="de spoiler">I 'm going . <u>Sometimes</u> to the movies, maybe two or three times a month.</div>
       </div>
 
-      <p><span class="fr">Parfois</span> (#410) indicates a vague, indeterminate or more continuous period.</p>
+      <p><span class="fr">Parfois</span> On the other hand, (#410) indicates a more vague, indefinite or continuous period.</p>
       <div class="examples">
         <div class="fr">Il est <u>parfois</u> difficile de se concentrer quand il fait chaud.</div>
-        <div class="de spoiler">It's <u>manchmal</u> difficult to concentrate when it's hot.</div>
+        <div class="de spoiler">It 's ... <u>Sometimes</u> It's hard to concentrate when it's hot.</div>
         <div class="fr">La vie est <u>parfois</u> compliquée.</div>
-        <div class="de spoiler">Life is <u>manchmal</u> kompliziert.</div>
+        <div class="de spoiler">Life is <u>Sometimes</u> It's complicated.</div>
       </div>
     </div>
   </div>

@@ -7,83 +7,83 @@ Wortart: adv
 Wort mit Artikel: ci
 Femininum / Plural: ''
 IPA: \si\
-Definition: here [Suffix]
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: This is [suffix]
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Et *celui-ci*? Oui, il est vraiment super.
-  Yeah, he's really great.
+  Yeah, it's really great.
 
   Veuillez trouver *ci-joint* mon CV et ma lettre de motivation.
-  Here you will find my CV and cover letter.
+  Please find my CV and letter of motivation attached here.
 
   - "Comment vas-tu?"<br>- "*Comme ci, comme ça*."
-  - "How are you?" - "*So lala*."
+  - "How are you doing?" - "*Like this, like this*".
 
   Nous discuterons de ce sujet-*ci* plus tard.
-  We'll talk about this later.
+  We will discuss this later.
 
   Les événements décrits *ci-dessous* sont véridiques.
-  The events listed below are true.
+  The events described *below* are true.
 
   Les fleurs poussent *par-ci par-là* dans le jardin.
-  The flowers grow *here and there* in the garden.
+  The flowers grow this way in the garden.
 
   Vous trouverez les informations importantes *ci-dessus*.
-  The important information can be found above.
+  You will find important information *above*.
 
   *Ci-gît* Marie Dupont, bien-aimée mère et grand-mère.
-  *Here rests* Marie Dupont, beloved mother and grandmother.
+  There is Marie Dupont, beloved mother and grandmother.
 
   Il a demandé *ci et ça* pendant toute la journée.
-  He's been asking all day about this and that.
+  He's been asking for *this and that* all day.
 
   Ces temps-*ci*, je suis très occupé.
-  During this time I am very busy.
+  I've been very busy lately.
 
   Le document *ci-inclus* contient toutes les informations nécessaires.
-  The attached document contains all the necessary information.
+  The accompanying document shall contain all the necessary information.
 
   Les feuilles mortes volent *de-ci de-là* dans le vent d'automne.
-  The dead leaves fly *here and there* in the autumn wind.
+  Dead leaves fly away from here in the autumn wind.
 
   Prenez cette route-*ci*, c'est plus court.
-  Take this road here, it's shorter.
+  Take this road, it's shorter.
 
   Il y a *ci-contre* un tableau explicatif.
-  A supporting table is provided.
+  There's an explanatory picture here.
 
   Elle préfère cette maison-*ci* à celle-là.
-  She prefers this house over that one.
+  She prefers this house to that.
 
   Les prix indiqués *ci-dessous* sont en euros.
-  The prices given below are in Euro.
+  The prices indicated *below* are in euro.
 
   On trouve des champignons *par-ci par-là* dans la forêt.
-  You can find mushrooms in the woods *here and there*.
+  You can find mushrooms around here in the woods.
 
   Cette semaine-*ci* sera décisive pour notre projet.
-  This week will be crucial to our project.
+  This week will be decisive for our project.
 
   Veuillez lire attentivement les conditions *ci-jointes*.
-  Please read *the* attached conditions carefully.
+  Please read these conditions carefully.
 
   Les enfants courent *de-ci de-là* dans le parc.
-  The children run crisscross the park.
+  The kids run *from here to there* in the park.
 
   Regardez ce modèle-*ci*, il est plus récent.
-  Look at this *model here*, it's newer.
+  Look at this model, it's newer.
 
   Les détails sont expliqués *ci-après*.
-  The details are explained *below*.
+  The details are explained below.
 
   J'ai remarqué quelques erreurs *par-ci par-là* dans le texte.
-  I have noticed some errors in the text *here and there*.
+  I noticed some errors in the text here and there.
 
   Cette année-*ci* a été particulièrement difficile.
-  This year was particularly difficult.
+  This year has been particularly difficult.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -91,11 +91,11 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p>In contrasts or comparisons of two things, the <b>Attachments</b> <span class="fr">–ci</span> or <span class="fr">–là</span> on. Pressing <span class="fr">–ci</span> the spatial proximity; <span class="fr">-là</span> a greater distance.</p>
+  <p>In comparisons or comparisons of two things, the <b>Particles attached</b> <span class="fr">–ci</span> or <span class="fr">–là</span> presses on. <span class="fr">–ci</span> the spatial proximity, <span class="fr">-là</span> a greater distance.</p>
 
   <div class="examples">
     <div class="fr">Quel pantalon est-ce que tu aimes mieux – ce pantalon-ci ou ce pantalon-là ?</div>
-    <div class="de spoiler">Which pants do you prefer – these pants here or the pants there?</div>
+    <div class="de spoiler">Which pants do you like better  these pants here or those pants over there?</div>
     <div class="fr">Lequel ? Celui-ci ou celui-là ?</div>
-    <div class="de spoiler">This one or this one?</div>
+    <div class="de spoiler">Which one, this one or that one?</div>
   </div>

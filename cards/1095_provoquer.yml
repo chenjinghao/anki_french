@@ -7,8 +7,8 @@ Wortart: vt, vr
 Wort mit Artikel: provoquer
 Femininum / Plural: ''
 IPA: \pʁɔ.vɔ.ke\
-Definition: challenge, cause
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: to challenge, to provoke
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
@@ -17,79 +17,79 @@ Beispielsätze: |-
   I don't want to cause a riot.
 
   Un virus peut *provoquer* une maladie grave.
-  A virus can *cause* a serious disease.
+  A virus can cause a serious illness.
 
   La pluie a *provoqué* des inondations dans toute la ville.
-  The rain has caused flooding throughout the city.
+  The rain *caused* flooding throughout the city.
 
   Les stress peut *provoquer* des maux de tête.
-  Stress can *cause* headaches.
+  Stress can cause headaches.
 
   Michel aime *provoquer* ses professeurs avec ses remarques.
-  Michel likes to *provoke* his teachers with his remarks.
+  Michel likes *to provoke* his teachers with his remarks.
 
   Cette remarque a *provoqué* un grand éclat de rire.
-  This remark has caused a sound of laughter.
+  This remark *caused* a great outpouring of laughter.
 
   Les enfants se sont *provoqués* toute la journée.
-  The kids have been provoking themselves all day.
+  The kids were upset all day.
 
   Sa présence *provoquait* toujours des discussions animées.
-  His presence always sparked lively discussions.
+  His presence always provoked lively discussions.
 
   L'alcool a *provoqué* l'accident de voiture.
-  The alcohol *caused* the car accident.
+  Alcohol *caused* the car accident.
 
   Il m'a *provoqué* en duel.
-  He *challenged* me to a duel.
+  He challenged me in a duel.
 
   Le froid intense a *provoqué* le gel des canalisations.
-  The strong cold *caused* the pipes to freeze.
+  The extreme cold *caused* the sewers to freeze.
 
   Cette décision va *provoquer* beaucoup de changements.
-  This decision will *bring about* many changes.
+  This decision will bring about many changes.
 
   Les médecins ont dû *provoquer* l'accouchement.
-  The doctors had to start the birth.
+  The doctors must have caused the delivery.
 
   Son comportement *provoque* la colère de ses parents.
-  His behavior arouses his parents' anger.
+  His behavior makes his parents angry.
 
   Le gouvernement a *provoqué* des élections anticipées.
-  The government has *brought about* early elections.
+  The government provoked early elections.
 
   Cette chaleur pourrait *provoquer* des orages.
-  This heat could *trigger* thunderstorms.
+  This heat could cause thunderstorms.
 
   Les manifestants ont *provoqué* les forces de l'ordre.
-  The demonstrators have *provoked* the forces of order.
+  The protesters provoked the police.
 
   Son attitude *provocante* a causé des tensions.
-  His *provocative* attitude has caused tension.
+  His provocative attitude caused tensions.
 
   Cette expérience a *provoqué* des résultats inattendus.
-  This experiment has *produced* unexpected results.
+  This experiment produced unexpected results.
 
   Le joueur a *provoqué* une faute de son adversaire.
-  The player has *provoked* a foul of his opponent.
+  The player *caused* a mistake by his opponent.
 
   Cette nouvelle loi va *provoquer* des manifestations.
-  This new law will *trigger* demonstrations.
+  This new law will cause protests.
 
   La fumée a *provoqué* l'alarme incendie.
-  The smoke *triggered* the fire alarm.
+  The smoke triggered the fire alarm.
 
   Ses paroles ont *provoqué* un scandale.
-  His words have caused a scandal.
+  His words *caused* a scandal.
 
   Il ne faut pas *provoquer* les gens plus forts que soi.
-  You shouldn't *challenge* stronger ones.
+  You shouldn't provoke people stronger than you.
 
   Cette pièce de théâtre a *provoqué* l'admiration du public.
-  This play has caused the admiration of the audience.
+  This play *caused* the audience's admiration.
 
   Le changement climatique *provoque* la fonte des glaciers.
-  Climate change causes the glaciers to melt.
+  Climate change is causing glaciers to melt.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -100,17 +100,17 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>causer</i> and <i>provoquer</i></div>
     <div class="section-content">
-      <p><span class="fr">Causer</span> (#1089) means <span class="de">"verursachen"</span> in the general sense and is used for most cause-effect relationships. It is the most neutral of the three verbs.</p>
+      <p><span class="fr">Causer</span> #1089) means <span class="de">'causing'</span> It is the most neutral of the three verbs.</p>
       <div class="examples">
         <div class="fr">La pluie a causé des inondations dans la région.</div>
         <div class="de spoiler">The rain has caused flooding in the region.</div>
         <div class="fr">Son imprudence a causé l'accident.</div>
-        <div class="de spoiler">His imprudence caused the accident.</div>
+        <div class="de spoiler">His carelessness caused the accident.</div>
       </div>
-      <p><span class="fr">Provoquer</span> means <span class="de">"hervorrufen"</span> or <span class="de">"Start"</span> and often implies a conscious or direct cause. It can also describe emotional reactions.</p>
+      <p><span class="fr">Provoquer</span> means <span class="de">"calling in"</span> or <span class="de">'triggered'</span> It can also describe emotional reactions.</p>
       <div class="examples">
         <div class="fr">Ses paroles ont provoqué une vive réaction.</div>
-        <div class="de spoiler">His words have caused a violent reaction.</div>
+        <div class="de spoiler">His words provoked a strong reaction.</div>
         <div class="fr">Il a provoqué la bagarre intentionnellement.</div>
         <div class="de spoiler">He deliberately provoked the fight.</div>
       </div>

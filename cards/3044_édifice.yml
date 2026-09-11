@@ -7,65 +7,65 @@ Wortart: nm
 Wort mit Artikel: un édifice
 Femininum / Plural: ''
 IPA: \e.di.fis\
-Definition: Buildings, structures
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: Buildings
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Un *édifice* s'élève pierre à pierre.
-  A building is created stone for stone.
+  A *building* rises stone by stone.
 
   La mairie est un *édifice* public imposant au centre-ville.
-  The town hall is an impressive public building in the city centre.
+  The town hall is an imposing public *building* in the city centre.
 
   L'architecte a conçu un *édifice* central pour le nouveau complexe universitaire.
-  The architect has designed a central building for the new university complex.
+  The architect designed a central *building* for the new university complex.
 
   Le palais royal est un *édifice* pompeux datant du XVIII<sup>e</sup> siècle.
-  The Royal Palace is an 18th century mansion.
+  The Royal Palace is a pompous *building* dating from the 18th century.
 
   Ce temple grec antique est un magnifique *édifice* à colonnes.
-  This ancient Greek temple is a magnificent pillar structure.
+  This ancient Greek temple is a magnificent column *building*.
 
   La cathédrale est le plus grand *édifice* sacré de la ville.
-  The cathedral is the largest sacred building in the city.
+  The cathedral is the largest sacred *building* in the city.
 
   Le gouvernement travaille à renforcer l'*édifice* social du pays.
   The government is working to strengthen the social fabric of the country.
 
   Les pompiers ont évacué tous les occupants de l'*édifice* en feu.
-  The fire department evacuated all the residents of the burning *building*.
+  Firefighters evacuated all occupants of the burning *building*.
 
   "Chacun doit apporter sa pierre à l'*édifice*", a déclaré le maire lors de son discours.
-  "Everyone has to make a contribution to building," the mayor said in his speech.
+  "Everyone must bring his stone to the *building*", said the mayor in his speech.
 
   L'*édifice* de leur mariage s'est effondré après vingt ans de vie commune.
-  The building of their marriage collapsed after twenty years of living together.
+  The *building* of their marriage collapsed after twenty years of living together.
 
   Les archéologues ont découvert les ruines d'un ancien *édifice* romain.
-  Archaeologists have discovered the ruins of an ancient Roman structure.
+  Archaeologists have discovered the ruins of an ancient Roman *building*.
 
   Le nouveau gratte-ciel est l'*édifice* le plus haut de la skyline.
-  The new skyscraper is the tallest building in the skyline.
+  The new skyscraper is the tallest *building* on the skyline.
 
   La restauration de cet *édifice* historique prendra plusieurs années.
-  The restoration of this historic building will take several years.
+  The restoration of this historic *building* will take several years.
 
   Les touristes admiraient l'*édifice* couronné d'une magnifique coupole dorée.
-  The tourists admired the building, which was crowned by a magnificent golden dome.
+  Tourists admired the *building* crowned with a beautiful golden dome.
 
   Cet *édifice* du culte accueille des fidèles de toutes confessions.
-  This church receives believers of all denominations.
+  This place of worship welcomes people of all faiths.
 
   La corruption menace de faire s'écrouler tout l'*édifice* démocratique.
-  Corruption threatens to bring the whole democratic building to collapse.
+  Corruption threatens to bring down the entire democratic *building*.
 
   Les cheveux savamment coiffés formaient un *édifice* impressionnant sur sa tête.
-  The artfully haired hair formed an impressive *structure* on her head.
+  The cleverly shaped hair was an impressive *building* on his head.
 
   Le Parlement européen est un *édifice* moderne situé à Strasbourg.
-  The European Parliament is a modern building in Strasbourg.
+  The European Parliament is a modern *building* in Strasbourg.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -76,10 +76,10 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>édifice</i> and <i>bâtiment</i></div>
     <div class="section-content">
-      <p><b>Édifice</b> is often used specifically for large, imposing buildings or structures, especially for those considered to be architecturally significant or monumental. The term conveys a sense of grandeur and can be applied to religious, public or historical buildings. <span class="fr">Bâtiment</span> (#1952) is more general.</p>
+      <p><b>Édifice</b> is often used specifically for large, imposing buildings or structures, especially those considered to be architecturally significant or monumental. The term conveys a sense of grandeur and can be applied to religious, public or historic buildings. <span class="fr">Bâtiment</span> (#1952) is more general.</p>
       <div class="examples">
         <div class="fr">La cathédrale Notre-Dame de Paris est un édifice magnifique.</div>
-        <div class="de spoiler">Notre-Dame Cathedral in Paris is a magnificent building.</div>
+        <div class="de spoiler">The Notre-Dame Cathedral in Paris is a magnificent building.</div>
         <div class="fr">Le nouveau bâtiment de bureaux sera construit l'année prochaine.</div>
         <div class="de spoiler">The new office building will be built next year.</div>
       </div>

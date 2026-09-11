@@ -7,59 +7,59 @@ Wortart: nm, app
 Wort mit Artikel: un agenda
 Femininum / Plural: ''
 IPA: \a.ʒɛ̃.da\
-Definition: (date) calendar
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Definition: (Date) calendar
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   J'écris mes poèmes dans un *agenda*.
-  I'm writing my poems in a *calendar*.
+  I write my poems in a *calendar*.
 
   Mon *agenda* électronique m'aide à organiser mes rendez-vous.
-  My electronic *calendar* helps me organize my appointments.
+  My e-*calendar* helps me organize my appointments.
 
   Elle a sorti son *agenda* de bureau pour vérifier ses disponibilités.
   She pulled out her office *calendar* to check her availability.
 
   Pierre a perdu son *agenda* de poche dans le métro.
-  Pierre lost his pocket *calendar* on the subway.
+  Pierre lost his pocket book in the subway.
 
   As-tu noté la date de la réunion dans ton *agenda* ?
-  Did you enter the date of the meeting in your *calendar*?
+  Did you write down the date of the meeting on your *calendar*?
 
   Le nouveau programme *agenda* synchronise tous mes appareils.
-  The new *calendar* program synchronizes all my devices.
+  The new *calendar* program syncs all my cameras.
 
   Son *agenda* est tellement chargé qu'elle n'a plus de temps libre.
-  Her *schedule* is so full that she has no free time.
+  Her schedule is so busy, she's running out of time.
 
   Marie consulte son *agenda* tous les matins avant de partir.
-  Marie looks into her *calendar* every morning before she leaves.
+  Marie checks her schedule every morning before she leaves.
 
   Cet *agenda* de bureau contient aussi un répertoire téléphonique.
   This office *calendar* also contains a telephone directory.
 
   La gestion de l'*agenda* se fait maintenant en ligne.
-  The *calendar* management is now online.
+  The management of the agenda is now done online.
 
   J'ai offert un *agenda* personnalisé à ma sœur pour Noël.
-  I gave my sister a personalized *calendar* for Christmas.
+  I offered my sister a custom Christmas *calendar*.
 
   L'*agenda* de la directrice est complet jusqu'à la fin du mois.
-  The director's *schedule* is full by the end of the month.
+  The director's schedule is complete by the end of the month.
 
   Il faut que je note ce rendez-vous dans mon *agenda*.
-  I have to add this appointment to my *calendar*.
+  I need to write this appointment down on my *calendar*.
 
   Son *agenda* électronique lui envoie des rappels automatiques.
-  His electronic *organizer* sends him automatic memories.
+  His e-mail *calendar* sends him automatic reminders.
 
   Les enfants ont décoré leurs *agendas* avec des autocollants.
-  The children have decorated their calendars with stickers.
+  The children decorated their *agendas* with stickers.
 
   Thomas synchronise son *agenda* avec celui de son équipe.
-  Thomas synchronizes his *calendar* with that of his team.
+  Thomas is synchronizing his schedule with that of his team.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -70,19 +70,19 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>calendrier</i> and <i>agenda</i></div>
     <div class="section-content">
-      <p><span class="fr">Calendrier</span> (#2947) refers to a <span class="de">"Kalender"</span> in the sense of an overview of days, weeks and months. It shows general information such as weekdays, holidays, school holidays, namedays, seasons, moon phases and similar. The smallest unit is usually a day.</p>
+      <p><span class="fr">Calendrier</span> #2947) refers to a <span class="de">Calendar</span> It shows general information such as days of the week, holidays, school holidays. Name days, seasons, lunar phases and the like. The smallest unit is usually a day.</p>
       <div class="examples">
         <div class="fr">J'ai accroché un nouveau calendrier dans la cuisine.</div>
-        <div class="de spoiler">I put up a new calendar in the kitchen.</div>
+        <div class="de spoiler">I hung a new calendar in the kitchen.</div>
         <div class="fr">Le calendrier scolaire indique les dates des vacances.</div>
-        <div class="de spoiler">The school calendar indicates the dates of the holidays.</div>
+        <div class="de spoiler">The school calendar lists the dates for the holidays.</div>
       </div>
-      <p><span class="fr">Agenda</span> means a <span class="de">"Terminplaner"</span> or <span class="de">"Terminkalender"</span>, which is used to organize personal appointments. An agenda contains hours-classifications and is used to plan personal events and avoid appointment overlaps.</p>
+      <p><span class="fr">Agenda</span> refers to a <span class="de">"Schedule of appointments"</span> or <span class="de">Calendar of appointments</span>A timetable contains hourly breakdowns and is used to plan personal events and avoid overlaps.</p>
       <div class="examples">
         <div class="fr">Mon agenda est tellement chargé cette semaine.</div>
         <div class="de spoiler">My schedule is so full this week.</div>
         <div class="fr">J'ai noté notre rendez-vous dans mon agenda.</div>
-        <div class="de spoiler">I've recorded our appointment in my scheduler.</div>
+        <div class="de spoiler">I wrote down our appointment in my calendar.</div>
       </div>
     </div>
   </div>

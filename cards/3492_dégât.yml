@@ -8,73 +8,73 @@ Wort mit Artikel: les dégâts
 Femininum / Plural: ''
 IPA: \de.ɡa\
 Definition: Damage
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   Ils essaient de nettoyer les *dégâts*.
-  They're trying to eliminate the *damage*.
+  They're trying to clean up the damage.
 
   L'inondation a fait des *dégâts* considérables dans la ville.
-  The flood has caused considerable *damage* in the city.
+  The flood caused considerable damage to the city.
 
   "Il y a eu du *dégât* dans la cuisine après la fête d'hier !"
-  "There was a *disaster* in the kitchen after the party yesterday!"
+  "There was some damage in the kitchen after yesterday's party!"
 
   Je ne suis pas assuré contre le *dégât* des eaux.
   I'm not insured against water damage.
 
   La tempête de grêle a causé des *dégâts* importants aux cultures.
-  The hailstorm has caused great *damage* to the crops.
+  The hailstorm caused extensive crop damage.
 
   Les sangliers ont fait beaucoup de *dégâts* dans le champ de maïs.
-  The boars have caused major damage to the cornfield.
+  The wild boars have done a lot of damage to the cornfield.
 
   Nous devons *limiter les dégâts* avant qu'il ne soit trop tard.
-  We have to limit the damage before it's too late.
+  We need to limit the damage before it's too late.
 
   L'ampleur des *dégâts* n'a été visible qu'au lever du jour.
-  The extent of the *damage* was only visible at dawn.
+  The extent of the damage was not visible until dawn.
 
   Les *dégâts matériels* sont couverts par l'assurance.
-  The property damage is covered by the insurance.
+  Property damage is covered by insurance.
 
   Le cyclone a provoqué des *dégâts* catastrophiques sur la côte.
-  The cyclone has caused catastrophic *damage* on the coast.
+  The cyclone caused catastrophic damage on the coast.
 
   "Les enfants ont fait pas mal de *dégâts* dans le salon."
-  "The children have done quite a lot of *damage* in the living room."
+  "The children have done a lot of damage to the living room".
 
   Les experts évaluent les *dégâts* causés par l'incendie.
-  The experts evaluate the *damage* caused by the fire.
+  Experts are assessing the damage caused by the fire.
 
   Le tabagisme cause des *dégâts* irréversibles aux poumons.
-  Smoking causes irreversible *damage* to the lungs.
+  Smoking causes irreversible damage to the lungs.
 
   Une fuite d'eau a causé des *dégâts* dans l'appartement du dessous.
-  A water leak caused *damage* in the apartment below.
+  A water leak caused damage to the apartment below.
 
   L'accident n'a heureusement causé que des *dégâts matériels* légers.
-  Fortunately, the accident caused only minor *damage to property*.
+  Fortunately, the accident caused only minor material damage.
 
   Les *dégâts* causés par la sécheresse sont considérables cette année.
-  The *damage* caused by the drought is considerable this year.
+  The damage caused by the drought is considerable this year.
 
   La direction doit constater les *dégâts* avant de prendre une décision.
-  The management must assess the *damage* before making a decision.
+  Management needs to see the damage before making a decision.
 
   Les pompiers ont réussi à *limiter les dégâts* malgré la violence de l'incendie.
-  The fire brigade managed to limit the damage despite the fire's intensity.
+  Firefighters were able to limit the damage despite the violence of the fire.
 
   Le vandalisme a causé des *dégâts* importants au monument historique.
-  Vandalism has caused considerable *damage* to the historic monument.
+  The vandalism has caused considerable damage to the historical monument.
 
   Mon voisin est responsable du *dégât* des eaux dans ma cave.
   My neighbor is responsible for the water damage in my basement.
 
   Les *dégâts* sur la voiture sont plus graves que prévu.
-  The *damage* to the car is worse than expected.
+  The damage to the car is more serious than expected.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -85,24 +85,24 @@ Notiz: |-
   <div class="section">
     <div class="section-title"><i>dégât</i> and <i>dommage</i></div>
     <div class="section-content">
-      <p><span class="fr">Dégât</span> means <span class="de">"Schaden"</span> or <span class="de">Damage</span> in the sense of a concrete, often visible damage. It is often used for material damage.</p>
+      <p><span class="fr">Dégât</span> means <span class="de">"Damages"</span> or <span class="de">'Damages'</span> In the sense of concrete, often visible damage, it is often used for material damage.</p>
       <div class="examples">
         <div class="fr">La tempête a causé d'importants dégâts sur la côte.</div>
-        <div class="de spoiler">The storm has caused considerable damage to the coast.</div>
+        <div class="de spoiler">The storm caused considerable damage on the coast.</div>
         <div class="fr">L'inondation a provoqué des dégâts dans toute la maison.</div>
-        <div class="de spoiler">The flood has caused damage throughout the house.</div>
+        <div class="de spoiler">The flood damaged the entire house.</div>
       </div>
-      <p><span class="fr">Dommage</span> (#1156) means ebenfalls <span class="de">"Schaden"</span>However, it has a wider scope. It can relate to material, moral or intangible damage and is often used in the legal context.</p>
+      <p><span class="fr">Dommage</span> (#1156) also means <span class="de">"Damages"</span>It can refer to material, moral or intangible damage and is often used in a legal context.</p>
       <div class="examples">
         <div class="fr">Il réclame des dommages et intérêts pour le préjudice subi.</div>
-        <div class="de spoiler">He claims compensation for the damage suffered.</div>
+        <div class="de spoiler">He demands compensation for the damage suffered.</div>
         <div class="fr">La pollution cause des dommages à l'environnement.</div>
-        <div class="de spoiler">The pollution causes damage to the environment.</div>
+        <div class="de spoiler">Pollution causes damage to the environment.</div>
       </div>
-      <p><span class="fr">Dommage</span> can also be used as an exclamation <span class="de">"schade!"</span> are used to express regret.</p>
+      <p><span class="fr">Dommage</span> Can also be used as an exclamation point <span class="de">"It's too bad!"</span> I think it's a good idea to use it as a way of expressing regret.</p>
       <div class="examples">
         <div class="fr">Dommage que tu ne puisses pas venir à la fête.</div>
-        <div class="de spoiler">Too bad you can't come to the party.</div>
+        <div class="de spoiler">It's too bad you can't come to the party.</div>
       </div>
     </div>
   </div>

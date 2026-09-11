@@ -8,13 +8,13 @@ Wort mit Artikel: et
 Femininum / Plural: ''
 IPA: \e\
 Definition: and
-Register: '' # Beispiel: ↘nonfiction ↗spoken
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Example sentences must be separated by line breaks.
 # Separate each pair with two line breaks.
 Beispielsätze: |-
   *Et* les larmes se remirent à couler.
-  *And* the tears began to flow again.
+  And she started crying again.
 
   Il a mangé *et* bu toute la journée.
   He's been eating *and* drinking all day.
@@ -23,34 +23,34 @@ Beispielsätze: |-
   She bought apples *and* pears at the market.
 
   J'ai invité mes parents *et* mes beaux-parents pour Noël.
-  I invited my parents *and* parents-in-law to Christmas.
+  I invited my parents *and* my parents-in-law for Christmas.
 
   Il est intelligent *et* travailleur.
-  He's intelligent *and* diligent.
+  He's smart *and* hardworking.
 
   Nous irons au cinéma *et* au restaurant ce soir.
   We're going to the movies *and* the restaurant tonight.
 
   Le train arrive à huit heures *et* quart.
-  The train arrives at quarter past eight.
+  The train arrives at 8:15.
 
   Elle parle français, anglais *et* allemand couramment.
   She speaks French, English *and* German fluently.
 
   *Et* voilà qu'il se met à pleuvoir !
-  *And* there it starts to rain!
+  And now it's raining!
 
   Il a vingt *et* un ans aujourd'hui.
-  He is twenty-one years old today.
+  He's twenty-one today.
 
   Je suis fatigué *et* je vais me coucher tôt.
   I'm tired *and* I'm going to bed early.
 
   Elle chante *et* danse comme une professionnelle.
-  She sings *and* dances like a pro.
+  She sings *and* dances like a professional.
 
   Nous avons visité Paris *et* ses monuments.
-  We visited Paris *and* its sights.
+  We visited Paris *and* its monuments.
 
   Il pleut *et* il fait froid dehors.
   It's raining *and* it's cold outside.
@@ -59,43 +59,43 @@ Beispielsätze: |-
   What if we went to the park?
 
   Elle a réussi son examen, *et* de brillante façon !
-  She passed her exam, *and* she did it brilliantly!
+  She passed her exam, *and* brilliantly!
 
   Il y a café *et* café, tous n'ont pas la même qualité.
-  There is coffee *and* coffee, not all have the same quality.
+  There's coffee *and* coffee, they're not all the same quality.
 
   Le chien *et* le chat dorment ensemble sur le canapé.
-  The dog *and* the cat sleep together on the sofa.
+  The dog *and* the cat sleep together on the couch.
 
   J'ai lu ce livre *et* je l'ai beaucoup aimé.
-  I read this book *and* I liked it very much.
+  I read this book *and* I really liked it.
 
   Elle joue du piano *et* de la guitare.
   She plays piano *and* guitar.
 
   *Et* toi, qu'en penses-tu ?
-  *And* you, what do you think about that?
+  What do you think?
 
   Il faut agir vite *et* bien dans cette situation.
-  In this situation, you have to act quickly *and* well.
+  We need to act quickly *and* well in this situation.
 
   J'ai mangé une pomme *et* demie ce matin.
-  I ate one and a half apples this morning.
+  I ate an apple *and* a half this morning.
 
   *Et* voilà le travail !
-  *And* the work is done!
+  And that 's the job !
 
   Nous avons marché pendant des heures *et* des heures.
-  We walked for hours.
+  We walked for hours *and* hours.
 
   Il a bu *et* son amie aussi.
-  He drank, *and* his girlfriend too.
+  He *and* his girlfriend drank too.
 
   *Et* dire que je ne savais rien !
-  *And* I didn't know anything!
+  And say I didn't know anything!
 
   Elle a tout préparé, *et* bien préparé.
-  She's prepared everything, well prepared.
+  She's prepared everything, *and* she's prepared well.
 
   Ils se sont mariés *et* ont eu trois enfants.
   They got married *and* had three children.
@@ -104,7 +104,7 @@ Beispielsätze: |-
   *And* one, and two, and three!
 
   Le soleil brille *et* les oiseaux chantent.
-  The sun is shining *and* the birds are singing.
+  The sun shines *and* the birds sing.
 
   Il a travaillé dur *et* a réussi son examen.
   He worked hard *and* passed his exam.
@@ -116,10 +116,10 @@ Beispielsätze: |-
   I read this book *and* found it fascinating.
 
   Il pleut *et* pourtant les gens sont dehors.
-  It's raining, *and* yet people are out.
+  It's raining *and* yet people are outside.
 
   *Et* comment ! Je suis tout à fait d'accord.
-  I totally agree.
+  *Absolutely*! I completely agree.
 
 # Notes may contain HTML. To format example sentences, you can use this structure:
 # <div class="examples">
@@ -130,12 +130,12 @@ Notiz: |-
   <div class="section">
     <div class="section-title">Pronunciation</div>
     <div class="section-content">
-      <p class="attention">After <span class="fr">et</span> does not follow any liaison to be held in the debate of <span class="fr">est</span> In the case of the United Kingdom, it is not possible to distinguish between the two.</p>
+      <p class="attention">After <span class="fr">et</span> There is no link to the discussion of <span class="fr">est</span> It is not a question of being able to distinguish between them.</p>
       <div class="examples">
         <div class="fr">Un homme <u>et</u> une femme.</div>
-        <div class="de spoiler">A man <u>and</u> A woman.</div>
+        <div class="de spoiler">A man <u>and</u> It's a woman.</div>
         <div class="fr">Un homme <u>est</u> une femme.</div>
-        <div class="de spoiler">A man <u>is</u> A woman.</div>
+        <div class="de spoiler">A man <u>is</u> It's a woman.</div>
       </div>
     </div>
   </div>
