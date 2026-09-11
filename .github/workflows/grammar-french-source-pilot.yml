@@ -1,0 +1,115 @@
+name: Grammar French-source quality pilot
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - grammar-english-quality
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  translate:
+    if: contains(github.event.head_commit.message, '[run grammar fr pilot]') || github.event_name == 'workflow_dispatch'
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install translation runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Restore merged grammar source
+        run: git checkout origin/main -- grammar
+      - name: Translate examples from French
+        run: |
+          python scripts/translate_grammar_examples_fr_en.py \
+            --shard ${{ matrix.shard }} --shards 12 --batch-size 16
+      - name: Keep only this shard and apply reviewed prose repairs
+        env:
+          SHARD: ${{ matrix.shard }}
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          from translate_grammar_examples_fr_en import page_paths
+          shard=int(os.environ['SHARD'])
+          keep={p.resolve() for p in page_paths(shard,12)}
+          for p in Path('grammar').rglob('*.html'):
+              if p.resolve() not in keep:
+                  p.unlink()
+          for d in sorted((p for p in Path('grammar').rglob('*') if p.is_dir()), reverse=True):
+              try: d.rmdir()
+              except OSError: pass
+          print('kept',len(list(Path('grammar').rglob('*.html'))),'pages')
+          PY
+          python scripts/repair_grammar_english.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-fr-shard-${{ matrix.shard }}
+          path: grammar/
+          if-no-files-found: error
+
+  combine-and-qa:
+    needs: translate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Recombine candidate
+        run: rm -rf grammar
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: grammar-fr-shard-*
+          path: grammar
+          merge-multiple: true
+      - name: Verify complete page set
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          paths=list(Path('grammar').rglob('*.html'))
+          print('combined grammar pages',len(paths))
+          assert len(paths)==156, len(paths)
+          PY
+      - name: Reapply deterministic reviewed prose repairs
+        run: python scripts/repair_grammar_english.py
+      - name: Fail-closed grammar QA
+        id: qa
+        continue-on-error: true
+        run: |
+          python scripts/validate_grammar_candidate.py \
+            --baseline 68e1d56f72ae0be70ea67fcc241fca372208b2e5 \
+            --report grammar-candidate-qa.txt
+      - name: Build manual-review report
+        run: |
+          python scripts/audit_grammar_english.py \
+            --baseline 68e1d56f72ae0be70ea67fcc241fca372208b2e5 \
+            --report grammar-candidate-review.txt \
+            --json grammar-candidate-review.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-french-source-candidate
+          path: |
+            grammar/
+            grammar-candidate-qa.txt
+            grammar-candidate-review.txt
+            grammar-candidate-review.json
+          if-no-files-found: error
+      - name: Propagate QA result
+        if: steps.qa.outcome == 'failure'
+        run: exit 1
