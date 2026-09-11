@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Restore compatibility markup and protected French/IPA content from baseline.
+"""Restore protected French/IPA content from the clean source baseline.
 
-Translation is allowed to change learner-facing prose and legacy `.de` target text,
-but never tags/attributes or French/IPA source material. This script copies every
-opening tag from the clean baseline (same tag sequence required) and restores the
-inner HTML of outermost `.fr`/`.ipa` elements. Any structural mismatch fails closed.
+Learner-facing English translation may legitimately add presentation-only inline
+markup inside answer text (for example, <u> emphasis copied from the French source).
+Those additions are not compatibility invariants.  The fail-closed validator is the
+source of truth for compatibility attributes/classes and target-span counts.
 
-This module is deliberately dependency-free: the combine/QA job must not need the
-large ML translation runtime merely to validate and restore HTML invariants.
+This helper therefore restores only content that must never be translated: the inner
+HTML of outermost `.fr` and `.ipa` elements.  It deliberately does not rewrite all
+opening tags, because doing so incorrectly rejects harmless answer-side emphasis.
+The protected element sequence itself must still match the baseline exactly.
+
+The module is dependency-free so combine/QA jobs do not need the ML runtime.
 """
 from __future__ import annotations
 
@@ -87,31 +91,6 @@ def baseline_text(commit: str, path: str) -> str:
     return subprocess.check_output(["git", "show", f"{commit}:{path}"], text=True)
 
 
-def opening_tokens(raw: str):
-    out = []
-    for match in TOKEN_RE.finditer(raw):
-        token = match.group(0)
-        opening = OPEN_RE.match(token)
-        if opening:
-            out.append((match.start(), match.end(), opening.group(1).lower(), token))
-    return out
-
-
-def restore_open_tags(now: str, before: str, path: str) -> str:
-    current = opening_tokens(now)
-    baseline = opening_tokens(before)
-    if len(current) != len(baseline) or [x[2] for x in current] != [x[2] for x in baseline]:
-        raise RuntimeError(f"{path}: tag structure changed; refusing invariant restoration")
-    pieces: list[str] = []
-    cursor = 0
-    for (start, end, _, _), (_, _, _, base_token) in zip(current, baseline):
-        pieces.append(now[cursor:start])
-        pieces.append(base_token)
-        cursor = end
-    pieces.append(now[cursor:])
-    return "".join(pieces)
-
-
 def outer_protected(raw: str) -> list[Element]:
     elems = parse_elements(raw)
     selected: list[Element] = []
@@ -136,11 +115,15 @@ def restore_protected(now: str, before: str, path: str) -> str:
     sig_current = [(e.tag, tuple(sorted(classes(e.open_tag)))) for e in current]
     sig_baseline = [(e.tag, tuple(sorted(classes(e.open_tag)))) for e in baseline]
     if sig_current != sig_baseline:
-        raise RuntimeError(f"{path}: protected FR/IPA structure changed; refusing restoration")
+        raise RuntimeError(
+            f"{path}: protected FR/IPA structure changed; refusing protected-content restoration"
+        )
+
     replacements: list[tuple[int, int, str]] = []
     for cur, base in zip(current, baseline):
         assert cur.close_start is not None and base.close_start is not None
         replacements.append((cur.open_end, cur.close_start, base.body(before)))
+
     pieces: list[str] = []
     cursor = 0
     for start, end, value in sorted(replacements):
@@ -155,8 +138,7 @@ def restore_page(path: Path, baseline: str) -> bool:
     rel = str(path)
     now = path.read_text(encoding="utf-8")
     before = baseline_text(baseline, rel)
-    fixed = restore_open_tags(now, before, rel)
-    fixed = restore_protected(fixed, before, rel)
+    fixed = restore_protected(now, before, rel)
     if fixed != now:
         path.write_text(fixed, encoding="utf-8")
         return True
@@ -170,7 +152,7 @@ def main() -> int:
     changed = 0
     for path in sorted(Path("grammar").rglob("*.html")):
         changed += int(restore_page(path, args.baseline))
-    print(f"RESTORED GRAMMAR INVARIANTS: pages_changed={changed}")
+    print(f"RESTORED PROTECTED GRAMMAR CONTENT: pages_changed={changed}")
     return 0
 
 
