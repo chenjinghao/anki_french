@@ -15,8 +15,12 @@ KNOWN_BAD = (
     'possessive companions', 'indefinite companions', 'order number',
     'basic number', 'annexing', 'conjunctiv', 'apostrophed', 'prepositioned',
     'word type', 'sentence members', 'things and things', 'memorabilia',
-    'stummem h', 'stummen h', '(bindung)', 'the friends',
+    'stummem h', 'stummen h', '(bindung)',
     'presence) is a simple form of time', 'accumulator object',
+    'french prime minister', 'grundzahl', 'unbestimmte form',
+    'teilungsartikel', 'aussprache beizubehalten', 'ausgesprochen (',
+    'in german there', 'german neut', 'german plural', 'german language',
+    'the debate on:', 'shall be binding',
 )
 
 
@@ -47,6 +51,9 @@ def main() -> int:
             if suspicious([text]) or any(term in low for term in KNOWN_BAD):
                 findings.append(f'{path}: {text}')
 
+    # Deduplicate repeated findings while preserving order; repeated table labels
+    # should not obscure the number of distinct language problems.
+    findings = list(dict.fromkeys(findings))
     lines = [
         'GRAMMAR CANDIDATE QA',
         f'Baseline: {args.baseline}',
