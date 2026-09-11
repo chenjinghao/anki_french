@@ -1,0 +1,45 @@
+name: Grammar English quality audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - grammar-english-quality
+    paths:
+      - 'grammar/**'
+      - 'scripts/audit_grammar_english.py'
+      - 'scripts/grammar_example_memory.py'
+      - '.github/workflows/grammar-quality-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile audit tools
+        run: python -m py_compile scripts/audit_grammar_english.py scripts/grammar_example_memory.py
+      - name: Measure reviewed card-example coverage
+        run: python scripts/grammar_example_memory.py --report grammar-example-memory.txt
+      - name: Audit grammar against historical German reference
+        run: |
+          python scripts/audit_grammar_english.py \
+            --baseline 0067f49b930558aab2e18208d5654a7dd8655918 \
+            --report grammar-quality-audit.txt \
+            --json grammar-quality-audit.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-quality-audit
+          path: |
+            grammar-quality-audit.txt
+            grammar-quality-audit.json
+            grammar-example-memory.txt
+            grammar/
+          if-no-files-found: error

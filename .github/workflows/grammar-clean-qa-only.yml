@@ -1,0 +1,103 @@
+name: Grammar clean-source QA only
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - grammar-english-quality
+
+permissions:
+  contents: read
+  actions: read
+
+env:
+  SOURCE_SHA: 32d97f127c8439c9b6cd50fa67636c1bdd8af47a
+  SOURCE_RUN_ID: '34618110828'
+
+jobs:
+  qa:
+    if: contains(github.event.head_commit.message, '[run grammar clean qa]') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile QA repair tooling
+        run: |
+          python -m py_compile \
+            scripts/restore_grammar_invariants.py \
+            scripts/repair_grammar_english_safe.py \
+            scripts/repair_grammar_targets_v4.py \
+            scripts/repair_grammar_reviewed_v5.py \
+            scripts/repair_grammar_reviewed_v6.py \
+            scripts/repair_grammar_reviewed_v7.py \
+            scripts/repair_grammar_reviewed_v8.py \
+            scripts/repair_grammar_reviewed_v9.py \
+            scripts/repair_grammar_reviewed_v10.py \
+            scripts/repair_grammar_reviewed_v11.py \
+            scripts/validate_grammar_candidate.py \
+            scripts/audit_grammar_english.py
+      - name: Download successful clean-source shards
+        uses: actions/download-artifact@v4
+        with:
+          run-id: ${{ env.SOURCE_RUN_ID }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          pattern: grammar-clean-shard-*
+          path: grammar
+          merge-multiple: true
+      - name: Verify exact original page set
+        run: |
+          python - <<'PY'
+          import os, subprocess
+          from pathlib import Path
+          source=os.environ['SOURCE_SHA']
+          candidate=sorted(str(p) for p in Path('grammar').rglob('*.html'))
+          baseline=subprocess.check_output(
+              ['git','-c','core.quotepath=false','ls-tree','-r','--name-only',source,'--','grammar'], text=True
+          ).splitlines()
+          baseline=sorted(p for p in baseline if p.endswith('.html'))
+          print('combined grammar pages',len(candidate),'source pages',len(baseline))
+          assert candidate == baseline, 'candidate grammar path set differs from clean source'
+          PY
+      - name: Reapply stable reviewed repairs
+        run: |
+          python scripts/repair_grammar_english_safe.py
+          python scripts/repair_grammar_targets_v4.py
+          python scripts/repair_grammar_reviewed_v5.py
+          python scripts/repair_grammar_reviewed_v6.py
+          python scripts/repair_grammar_reviewed_v7.py
+          python scripts/repair_grammar_reviewed_v8.py
+          python scripts/repair_grammar_reviewed_v9.py
+          python scripts/repair_grammar_reviewed_v10.py
+          python scripts/repair_grammar_reviewed_v11.py
+      - name: Restore protected French and source-only structures
+        run: |
+          python scripts/restore_grammar_invariants.py --baseline "$SOURCE_SHA"
+      - name: Fail-closed grammar QA
+        id: qa
+        continue-on-error: true
+        run: |
+          python scripts/validate_grammar_candidate.py \
+            --baseline "$SOURCE_SHA" \
+            --report grammar-clean-candidate-qa.txt
+      - name: Build full review report
+        run: |
+          python scripts/audit_grammar_english.py \
+            --baseline "$SOURCE_SHA" \
+            --report grammar-clean-candidate-review.txt \
+            --json grammar-clean-candidate-review.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-clean-source-qa-candidate
+          path: |
+            grammar/
+            grammar-clean-candidate-qa.txt
+            grammar-clean-candidate-review.txt
+            grammar-clean-candidate-review.json
+          if-no-files-found: error
+      - name: Propagate QA result
+        if: steps.qa.outcome == 'failure'
+        run: exit 1

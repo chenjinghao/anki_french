@@ -1,0 +1,82 @@
+name: Grammar v2 QA only
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - grammar-english-quality
+
+permissions:
+  contents: read
+  actions: read
+
+env:
+  BASELINE_SHA: 68e1d56f72ae0be70ea67fcc241fca372208b2e5
+  SOURCE_RUN_ID: '34562364783'
+
+jobs:
+  qa:
+    if: contains(github.event.head_commit.message, '[run grammar qa2]') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Download successful French-source shards
+        uses: actions/download-artifact@v4
+        with:
+          run-id: ${{ env.SOURCE_RUN_ID }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          pattern: grammar-fr-v2-shard-*
+          path: grammar-candidate
+          merge-multiple: true
+      - name: Install candidate tree
+        run: |
+          rm -rf grammar
+          mv grammar-candidate grammar
+      - name: Verify exact merged-main page set
+        run: |
+          python - <<'PY'
+          import os, subprocess
+          from pathlib import Path
+          baseline_sha=os.environ['BASELINE_SHA']
+          candidate=sorted(str(p) for p in Path('grammar').rglob('*.html'))
+          baseline=subprocess.check_output(
+              ['git','-c','core.quotepath=false','ls-tree','-r','--name-only',baseline_sha,'--','grammar'], text=True
+          ).splitlines()
+          baseline=sorted(p for p in baseline if p.endswith('.html'))
+          print('combined grammar pages',len(candidate),'baseline pages',len(baseline))
+          assert candidate == baseline, 'candidate grammar path set differs from merged main'
+          PY
+      - name: Apply current reviewed repairs
+        run: |
+          python scripts/repair_grammar_english_safe.py
+          python scripts/repair_grammar_pages_v2.py
+      - name: Fail-closed grammar QA
+        id: qa
+        continue-on-error: true
+        run: |
+          python scripts/validate_grammar_candidate.py \
+            --baseline "$BASELINE_SHA" \
+            --report grammar-candidate-qa.txt
+      - name: Build full review report
+        run: |
+          python scripts/audit_grammar_english.py \
+            --baseline "$BASELINE_SHA" \
+            --report grammar-candidate-review.txt \
+            --json grammar-candidate-review.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-v2-qa-candidate
+          path: |
+            grammar/
+            grammar-candidate-qa.txt
+            grammar-candidate-review.txt
+            grammar-candidate-review.json
+          if-no-files-found: error
+      - name: Propagate QA result
+        if: steps.qa.outcome == 'failure'
+        run: exit 1

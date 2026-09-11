@@ -1,0 +1,140 @@
+name: Grammar French-source quality pilot
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - grammar-english-quality
+
+permissions:
+  contents: read
+  actions: read
+
+env:
+  BASELINE_SHA: 68e1d56f72ae0be70ea67fcc241fca372208b2e5
+
+jobs:
+  translate:
+    if: contains(github.event.head_commit.message, '[run grammar fr pilot]') || github.event_name == 'workflow_dispatch'
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile grammar tooling
+        run: |
+          python -m py_compile \
+            scripts/translate_grammar_examples_fr_en_v3.py \
+            scripts/repair_grammar_english_safe.py \
+            scripts/repair_grammar_pages_v2.py \
+            scripts/repair_grammar_pages_v3.py \
+            scripts/validate_grammar_candidate.py \
+            scripts/audit_grammar_english.py
+      - name: Install translation runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
+      - name: Restore clean merged grammar source
+        run: |
+          rm -rf grammar
+          git checkout "$BASELINE_SHA" -- grammar
+      - name: Translate DOM-adjacent grammar targets from French
+        run: |
+          python scripts/translate_grammar_examples_fr_en_v3.py \
+            --shard ${{ matrix.shard }} --shards 12 --batch-size 16
+      - name: Keep only this shard and apply reviewed repairs
+        env:
+          SHARD: ${{ matrix.shard }}
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          shard=int(os.environ['SHARD'])
+          paths=sorted(Path('grammar').rglob('*.html'))
+          keep={p.resolve() for i,p in enumerate(paths) if i % 12 == shard}
+          for p in paths:
+              if p.resolve() not in keep:
+                  p.unlink()
+          for d in sorted((p for p in Path('grammar').rglob('*') if p.is_dir()), reverse=True):
+              try: d.rmdir()
+              except OSError: pass
+          print('kept',len(list(Path('grammar').rglob('*.html'))),'pages')
+          PY
+          python scripts/repair_grammar_english_safe.py
+          python scripts/repair_grammar_pages_v2.py
+          python scripts/repair_grammar_pages_v3.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-fr-v4-shard-${{ matrix.shard }}
+          path: grammar/
+          if-no-files-found: error
+
+  combine-and-qa:
+    needs: translate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Recombine candidate
+        run: rm -rf grammar
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: grammar-fr-v4-shard-*
+          path: grammar
+          merge-multiple: true
+      - name: Verify exact merged-main page set
+        run: |
+          python - <<'PY'
+          import os, subprocess
+          from pathlib import Path
+          baseline_sha=os.environ['BASELINE_SHA']
+          candidate=sorted(str(p) for p in Path('grammar').rglob('*.html'))
+          baseline=subprocess.check_output(
+              ['git','-c','core.quotepath=false','ls-tree','-r','--name-only',baseline_sha,'--','grammar'], text=True
+          ).splitlines()
+          baseline=sorted(p for p in baseline if p.endswith('.html'))
+          print('combined grammar pages',len(candidate),'baseline pages',len(baseline))
+          assert candidate == baseline, 'candidate grammar path set differs from merged main'
+          PY
+      - name: Reapply reviewed grammar repairs
+        run: |
+          python scripts/repair_grammar_english_safe.py
+          python scripts/repair_grammar_pages_v2.py
+          python scripts/repair_grammar_pages_v3.py
+      - name: Fail-closed grammar QA
+        id: qa
+        continue-on-error: true
+        run: |
+          python scripts/validate_grammar_candidate.py \
+            --baseline "$BASELINE_SHA" \
+            --report grammar-candidate-qa.txt
+      - name: Build manual-review report
+        run: |
+          python scripts/audit_grammar_english.py \
+            --baseline "$BASELINE_SHA" \
+            --report grammar-candidate-review.txt \
+            --json grammar-candidate-review.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-french-source-v4-candidate
+          path: |
+            grammar/
+            grammar-candidate-qa.txt
+            grammar-candidate-review.txt
+            grammar-candidate-review.json
+          if-no-files-found: error
+      - name: Propagate QA result
+        if: steps.qa.outcome == 'failure'
+        run: exit 1
