@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-"""Restore protected French/IPA content from the clean source baseline.
+"""Restore French/IPA and known French-only structures from the clean baseline.
 
 Learner-facing English translation may legitimately add presentation-only inline
-markup inside answer text (for example, <u> emphasis copied from the French source).
-Those additions are not compatibility invariants.  The fail-closed validator is the
-source of truth for compatibility attributes/classes and target-span counts.
+markup inside answer text. The fail-closed validator remains the source of truth for
+compatibility attributes/classes and legacy target counts.
 
-This helper therefore restores only content that must never be translated: the inner
-HTML of outermost `.fr` and `.ipa` elements.  It deliberately does not rewrite all
-opening tags, because doing so incorrectly rejects harmless answer-side emphasis.
-The protected element sequence itself must still match the baseline exactly.
+Some original French material is not tagged `.fr`: notably conjugation tables and
+the spelling tokens in the pronunciation overview. The exhaustive German prose pass
+must not translate those. This helper restores those known source-only structures
+from the clean baseline as well as normal `.fr`/`.ipa` content.
 
 The module is dependency-free so combine/QA jobs do not need the ML runtime.
 """
@@ -30,6 +29,7 @@ VOID_TAGS = {
     "meta", "param", "source", "track", "wbr",
 }
 PROTECTED = {"fr", "ipa"}
+PRONUNCIATION_OVERVIEW = "grammar/02 Aussprache/1 Die Aussprache.html"
 
 
 @dataclass
@@ -109,21 +109,24 @@ def outer_protected(raw: str) -> list[Element]:
     return selected
 
 
-def restore_protected(now: str, before: str, path: str) -> str:
-    current = outer_protected(now)
-    baseline = outer_protected(before)
+def elements_with_class(raw: str, class_name: str, tag: str | None = None) -> list[Element]:
+    return [
+        el for el in parse_elements(raw)
+        if el.close_start is not None
+        and class_name in classes(el.open_tag)
+        and (tag is None or el.tag == tag)
+    ]
+
+
+def replace_bodies(now: str, before: str, current: list[Element], baseline: list[Element], label: str, path: str) -> str:
     sig_current = [(e.tag, tuple(sorted(classes(e.open_tag)))) for e in current]
     sig_baseline = [(e.tag, tuple(sorted(classes(e.open_tag)))) for e in baseline]
     if sig_current != sig_baseline:
-        raise RuntimeError(
-            f"{path}: protected FR/IPA structure changed; refusing protected-content restoration"
-        )
-
+        raise RuntimeError(f"{path}: {label} structure changed; refusing source restoration")
     replacements: list[tuple[int, int, str]] = []
     for cur, base in zip(current, baseline):
         assert cur.close_start is not None and base.close_start is not None
         replacements.append((cur.open_end, cur.close_start, base.body(before)))
-
     pieces: list[str] = []
     cursor = 0
     for start, end, value in sorted(replacements):
@@ -134,11 +137,39 @@ def restore_protected(now: str, before: str, path: str) -> str:
     return "".join(pieces)
 
 
+def restore_protected(now: str, before: str, path: str) -> str:
+    return replace_bodies(
+        now, before, outer_protected(now), outer_protected(before), "protected FR/IPA", path
+    )
+
+
+def restore_french_only_structures(now: str, before: str, path: str) -> str:
+    # Conjugation tables contain French paradigms and endings even when their cells
+    # lack `.fr`; restoring the complete table prevents them being machine-translated.
+    current_tables = elements_with_class(now, "section-conjugation-table", "table")
+    baseline_tables = elements_with_class(before, "section-conjugation-table", "table")
+    if current_tables or baseline_tables:
+        now = replace_bodies(
+            now, before, current_tables, baseline_tables, "French conjugation table", path
+        )
+
+    # The pronunciation overview uses plain `rounded-border` spans for French
+    # graphemes such as ai, ê, gn, œu. They are source forms, not German prose.
+    if path == PRONUNCIATION_OVERVIEW:
+        current_tokens = elements_with_class(now, "rounded-border")
+        baseline_tokens = elements_with_class(before, "rounded-border")
+        now = replace_bodies(
+            now, before, current_tokens, baseline_tokens, "pronunciation spelling token", path
+        )
+    return now
+
+
 def restore_page(path: Path, baseline: str) -> bool:
     rel = str(path)
     now = path.read_text(encoding="utf-8")
     before = baseline_text(baseline, rel)
     fixed = restore_protected(now, before, rel)
+    fixed = restore_french_only_structures(fixed, before, rel)
     if fixed != now:
         path.write_text(fixed, encoding="utf-8")
         return True
@@ -152,7 +183,7 @@ def main() -> int:
     changed = 0
     for path in sorted(Path("grammar").rglob("*.html")):
         changed += int(restore_page(path, args.baseline))
-    print(f"RESTORED PROTECTED GRAMMAR CONTENT: pages_changed={changed}")
+    print(f"RESTORED PROTECTED/SOURCE GRAMMAR CONTENT: pages_changed={changed}")
     return 0
 
 
