@@ -16,16 +16,21 @@ from pathlib import Path
 
 from translate_de_to_en_v6 import EXACT_NODE_REPLACEMENTS, Translator, is_french_fragment, looks_german
 from translate_grammar_prose_de_en_v2 import (
+    BLOCK_TAGS,
     CLOSE_RE,
+    DESC_BLOCK_TAGS,
     OPEN_RE,
     PROTECTED_CLASSES,
+    SKIP_DIV_CLASSES,
     VOID_TAGS,
     classes,
     encode_block,
+    has_block_descendant,
+    has_protected_ancestor,
     parse_elements,
     plain,
+    protected,
     restore_block,
-    select_blocks,
 )
 
 TAG_SPLIT_RE = re.compile(r"(<[^>]+>)", re.S)
@@ -34,14 +39,85 @@ BAD_OUTPUT_RE = re.compile(
     r"manufacture of|implementing acts?|delegated acts?|customs tariff|former yugoslav)\b",
     re.I,
 )
+# High-signal German words/labels that the generic detector can miss when they appear
+# alone in table cells or around protected inline examples.
+GERMAN_EXTRA_RE = re.compile(
+    r"\b(?:Aussprache|Ausnahme(?:n)?|Beachte|Bezeichnet|Zweck|Mittel|Ursache|"
+    r"Preisangabe|Fortbewegungsart|Materialangabe|Beweggrund|Grundzahl|Wortbildung|"
+    r"zurückgeben|folgen|ergibt|ergeben|verwendet|gebildet|ausgesprochen|"
+    r"männlich(?:e|en|er|es)?|weiblich(?:e|en|er|es)?|unbestimmt(?:e|en|er|es)?|"
+    r"Adverbien|Adjektive|Substantiv(?:e)?|Präposition(?:en)?|Pronomen|Endung(?:en)?)\b",
+    re.I,
+)
+
+
+def german_candidate(text: str) -> bool:
+    value = html.unescape(text).strip()
+    return bool(value and (looks_german(value) or GERMAN_EXTRA_RE.search(value)))
+
+
+def unprotected_text_nodes(body: str) -> list[str]:
+    """Return learner-facing text nodes outside fr/de/ipa/code protection."""
+    parts = TAG_SPLIT_RE.split(body)
+    stack: list[tuple[str, bool]] = []
+    out: list[str] = []
+    for part in parts:
+        if not part:
+            continue
+        if part.startswith("<"):
+            if part.startswith("<!--") or part.startswith("<!") or part.startswith("<?"):
+                continue
+            cm = CLOSE_RE.match(part)
+            if cm:
+                tag = cm.group(1).lower()
+                for pos in range(len(stack) - 1, -1, -1):
+                    if stack[pos][0] == tag:
+                        del stack[pos:]
+                        break
+                continue
+            om = OPEN_RE.match(part)
+            if not om:
+                continue
+            tag = om.group(1).lower()
+            inherited = stack[-1][1] if stack else False
+            is_protected = inherited or tag == "code" or bool(classes(part) & PROTECTED_CLASSES)
+            if not part.rstrip().endswith("/>") and tag not in VOID_TAGS:
+                stack.append((tag, is_protected))
+            continue
+        if stack and stack[-1][1]:
+            continue
+        value = html.unescape(part).strip()
+        if value:
+            out.append(value)
+    return out
+
+
+def select_translatable_blocks(raw: str, elems) -> list[int]:
+    """Select leaf blocks only when German exists outside protected descendants.
+
+    This avoids sending pure vocabulary rows (whose German is entirely inside `.de`)
+    to the prose model, while still translating explanatory prose that happens to
+    contain inline `.fr`/`.de` examples.
+    """
+    selected: list[int] = []
+    for idx, el in enumerate(elems):
+        if el.tag not in BLOCK_TAGS or el.close_start is None or protected(el) or has_protected_ancestor(idx, elems):
+            continue
+        if el.tag == "div" and (classes(el.open_tag) & SKIP_DIV_CLASSES):
+            continue
+        if has_block_descendant(idx, elems):
+            continue
+        if any(german_candidate(text) for text in unprotected_text_nodes(el.body(raw))):
+            selected.append(idx)
+    return selected
 
 
 def suspicious_translation(source_body: str, translated_body: str) -> bool:
-    source_text = plain(source_body)
-    value = plain(translated_body)
+    source_text = " ".join(unprotected_text_nodes(source_body))
+    value = " ".join(unprotected_text_nodes(translated_body))
     if not value:
         return True
-    if looks_german(value) or BAD_OUTPUT_RE.search(value):
+    if any(german_candidate(text) for text in unprotected_text_nodes(translated_body)) or BAD_OUTPUT_RE.search(value):
         return True
     if len(value) > max(320, int(3.5 * max(1, len(source_text)))):
         return True
@@ -49,7 +125,7 @@ def suspicious_translation(source_body: str, translated_body: str) -> bool:
 
 
 def fallback_translate_body(translator: Translator, body: str) -> str:
-    """Translate only unprotected text nodes in one block, preserving markup exactly."""
+    """Translate only unprotected German text nodes, preserving markup exactly."""
     parts = TAG_SPLIT_RE.split(body)
     stack: list[tuple[str, bool]] = []
     jobs: list[tuple[int, str, str, str]] = []
@@ -73,9 +149,9 @@ def fallback_translate_body(translator: Translator, body: str) -> str:
                 continue
             tag = om.group(1).lower()
             inherited = stack[-1][1] if stack else False
-            protected = inherited or tag == "code" or bool(classes(part) & PROTECTED_CLASSES)
+            is_protected = inherited or tag == "code" or bool(classes(part) & PROTECTED_CLASSES)
             if not part.rstrip().endswith("/>") and tag not in VOID_TAGS:
-                stack.append((tag, protected))
+                stack.append((tag, is_protected))
             continue
 
         if stack and stack[-1][1]:
@@ -88,7 +164,7 @@ def fallback_translate_body(translator: Translator, body: str) -> str:
             trailing = part[len(part.rstrip()) :]
             parts[i] = leading + html.escape(EXACT_NODE_REPLACEMENTS[stripped], quote=False) + trailing
             continue
-        if is_french_fragment(stripped, translator.french_terms) or not looks_german(stripped):
+        if is_french_fragment(stripped, translator.french_terms) or not german_candidate(stripped):
             continue
         leading = part[: len(part) - len(part.lstrip())]
         trailing = part[len(part.rstrip()) :]
@@ -103,18 +179,7 @@ def fallback_translate_body(translator: Translator, body: str) -> str:
 def translate_page(path: Path, translator: Translator) -> tuple[int, int, int]:
     raw = path.read_text(encoding="utf-8")
     elems = parse_elements(raw)
-
-    def has_de_descendant(idx: int) -> bool:
-        todo = list(elems[idx].children)
-        while todo:
-            child_idx = todo.pop()
-            child = elems[child_idx]
-            if "de" in classes(child.open_tag):
-                return True
-            todo.extend(child.children)
-        return False
-
-    selected = [idx for idx in select_blocks(raw, elems) if not has_de_descendant(idx)]
+    selected = select_translatable_blocks(raw, elems)
     if not selected:
         return 0, 0, 0
 
