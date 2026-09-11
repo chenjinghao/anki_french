@@ -10,6 +10,7 @@ on:
       - 'grammar/**'
       - 'card_templates/**'
       - 'scripts/build_english_apkg.py'
+      - 'scripts/run_build_english_apkg.py'
       - 'scripts/normalize_card_block_headers.py'
       - '.github/workflows/build-apkg.yml'
 
@@ -80,7 +81,7 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: |
           python scripts/normalize_card_block_headers.py
-          python scripts/build_english_apkg.py \
+          python scripts/run_build_english_apkg.py \
             --source-apkg build/original.apkg \
             --output build/French_5000_English.apkg \
             --version "${GITHUB_SHA::12}"
