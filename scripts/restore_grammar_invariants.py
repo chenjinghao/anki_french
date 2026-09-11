@@ -5,10 +5,9 @@ Learner-facing English translation may legitimately add presentation-only inline
 markup inside answer text. The fail-closed validator remains the source of truth for
 compatibility attributes/classes and legacy target counts.
 
-Some original French material is not tagged `.fr`: notably conjugation tables and
-the spelling tokens in the pronunciation overview. The exhaustive German prose pass
-must not translate those. This helper restores those known source-only structures
-from the clean baseline as well as normal `.fr`/`.ipa` content.
+Some original French material is not tagged `.fr`: notably conjugation tables,
+spelling tokens in the pronunciation overview, and a small irregular auxiliary table
+on the literary subjunctive page. Those source forms must never be machine-translated.
 
 The module is dependency-free so combine/QA jobs do not need the ML runtime.
 """
@@ -30,6 +29,7 @@ VOID_TAGS = {
 }
 PROTECTED = {"fr", "ipa"}
 PRONUNCIATION_OVERVIEW = "grammar/02 Aussprache/1 Die Aussprache.html"
+SUBJ_IMPARFAIT = "grammar/10 Zeitformen und Modi/13 Subjonctif imparfait.html"
 
 
 @dataclass
@@ -118,6 +118,13 @@ def elements_with_class(raw: str, class_name: str, tag: str | None = None) -> li
     ]
 
 
+def plain_tables(raw: str) -> list[Element]:
+    return [
+        el for el in parse_elements(raw)
+        if el.tag == "table" and el.close_start is not None and not classes(el.open_tag)
+    ]
+
+
 def replace_bodies(now: str, before: str, current: list[Element], baseline: list[Element], label: str, path: str) -> str:
     sig_current = [(e.tag, tuple(sorted(classes(e.open_tag)))) for e in current]
     sig_baseline = [(e.tag, tuple(sorted(classes(e.open_tag)))) for e in baseline]
@@ -144,8 +151,6 @@ def restore_protected(now: str, before: str, path: str) -> str:
 
 
 def restore_french_only_structures(now: str, before: str, path: str) -> str:
-    # Conjugation tables contain French paradigms and endings even when their cells
-    # lack `.fr`; restoring the complete table prevents them being machine-translated.
     current_tables = elements_with_class(now, "section-conjugation-table", "table")
     baseline_tables = elements_with_class(before, "section-conjugation-table", "table")
     if current_tables or baseline_tables:
@@ -153,13 +158,18 @@ def restore_french_only_structures(now: str, before: str, path: str) -> str:
             now, before, current_tables, baseline_tables, "French conjugation table", path
         )
 
-    # The pronunciation overview uses plain `rounded-border` spans for French
-    # graphemes such as ai, ê, gn, œu. They are source forms, not German prose.
     if path == PRONUNCIATION_OVERVIEW:
         current_tokens = elements_with_class(now, "rounded-border")
         baseline_tokens = elements_with_class(before, "rounded-border")
         now = replace_bodies(
             now, before, current_tokens, baseline_tokens, "pronunciation spelling token", path
+        )
+
+    if path == SUBJ_IMPARFAIT:
+        current_plain = plain_tables(now)
+        baseline_plain = plain_tables(before)
+        now = replace_bodies(
+            now, before, current_plain, baseline_plain, "irregular avoir/être source table", path
         )
     return now
 
