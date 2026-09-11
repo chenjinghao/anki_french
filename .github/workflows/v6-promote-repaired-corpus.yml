@@ -40,9 +40,9 @@ jobs:
           cmp cards/0002_de.yml "$src/0002_de.yml"
           test "$(find cards -maxdepth 1 -type f -name '*.yml' | wc -l)" -eq 5000
           git add -f -A -- cards
-          echo 'Staged paths:'
-          git diff --cached --name-only | head -20
-          test -n "$(git diff --cached --name-only -- cards | head -1)"
+          echo 'First staged paths:'
+          git diff --cached --name-only | sed -n '1,20p'
+          test "$(git diff --cached --name-only -- cards | wc -l)" -gt 0
           bad="$(git diff --cached --name-only | grep -v '^cards/' || true)"
           test -z "$bad"
           git show :cards/0002_de.yml > /tmp/staged-0002.yml
