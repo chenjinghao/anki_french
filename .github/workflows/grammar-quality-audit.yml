@@ -8,6 +8,7 @@ on:
     paths:
       - 'grammar/**'
       - 'scripts/audit_grammar_english.py'
+      - 'scripts/grammar_example_memory.py'
       - '.github/workflows/grammar-quality-audit.yml'
 
 permissions:
@@ -23,9 +24,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Compile audit
-        run: python -m py_compile scripts/audit_grammar_english.py
-      - name: Audit grammar against German baseline
+      - name: Compile audit tools
+        run: python -m py_compile scripts/audit_grammar_english.py scripts/grammar_example_memory.py
+      - name: Measure reviewed card-example coverage
+        run: python scripts/grammar_example_memory.py --report grammar-example-memory.txt
+      - name: Audit grammar against historical German reference
         run: |
           python scripts/audit_grammar_english.py \
             --baseline 0067f49b930558aab2e18208d5654a7dd8655918 \
@@ -37,5 +40,6 @@ jobs:
           path: |
             grammar-quality-audit.txt
             grammar-quality-audit.json
+            grammar-example-memory.txt
             grammar/
           if-no-files-found: error
