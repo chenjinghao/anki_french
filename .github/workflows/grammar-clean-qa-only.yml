@@ -32,6 +32,8 @@ jobs:
             scripts/repair_grammar_english_safe.py \
             scripts/repair_grammar_targets_v4.py \
             scripts/repair_grammar_reviewed_v5.py \
+            scripts/repair_grammar_reviewed_v6.py \
+            scripts/repair_grammar_reviewed_v7.py \
             scripts/validate_grammar_candidate.py \
             scripts/audit_grammar_english.py
       - name: Download successful clean-source shards
@@ -61,6 +63,8 @@ jobs:
           python scripts/repair_grammar_english_safe.py
           python scripts/repair_grammar_targets_v4.py
           python scripts/repair_grammar_reviewed_v5.py
+          python scripts/repair_grammar_reviewed_v6.py
+          python scripts/repair_grammar_reviewed_v7.py
       - name: Restore protected French and source-only structures
         run: |
           python scripts/restore_grammar_invariants.py --baseline "$SOURCE_SHA"
