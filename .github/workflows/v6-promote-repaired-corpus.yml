@@ -43,8 +43,7 @@ jobs:
           echo 'First staged paths:'
           git diff --cached --name-only | sed -n '1,20p'
           test "$(git diff --cached --name-only -- cards | wc -l)" -gt 0
-          bad="$(git diff --cached --name-only | grep -v '^cards/' || true)"
-          test -z "$bad"
+          test -z "$(git diff --cached --name-only -- . ':(exclude)cards/**')"
           git show :cards/0002_de.yml > /tmp/staged-0002.yml
           cmp /tmp/staged-0002.yml "$src/0002_de.yml"
       - name: Commit validated corpus and remove temporary workflow
