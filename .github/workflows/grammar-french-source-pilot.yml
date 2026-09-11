@@ -10,6 +10,9 @@ permissions:
   contents: read
   actions: read
 
+env:
+  BASELINE_SHA: 68e1d56f72ae0be70ea67fcc241fca372208b2e5
+
 jobs:
   translate:
     if: contains(github.event.head_commit.message, '[run grammar fr pilot]') || github.event_name == 'workflow_dispatch'
@@ -30,24 +33,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install torch --index-url https://download.pytorch.org/whl/cpu
           pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
-      - name: Restore merged grammar source
-        run: git checkout origin/main -- grammar
-      - name: Translate examples from French
+      - name: Restore clean merged grammar source
         run: |
-          python scripts/translate_grammar_examples_fr_en.py \
+          rm -rf grammar
+          git checkout "$BASELINE_SHA" -- grammar
+      - name: Translate plain grammar targets from French
+        run: |
+          python scripts/translate_grammar_targets_fr_en_v2.py \
             --shard ${{ matrix.shard }} --shards 12 --batch-size 16
       - name: Keep only this shard and apply reviewed prose repairs
         env:
           SHARD: ${{ matrix.shard }}
         run: |
           python - <<'PY'
-          import os, sys
+          import os
           from pathlib import Path
-          sys.path.insert(0, str(Path('scripts').resolve()))
-          from translate_grammar_examples_fr_en import page_paths
           shard=int(os.environ['SHARD'])
-          keep={p.resolve() for p in page_paths(shard,12)}
-          for p in Path('grammar').rglob('*.html'):
+          paths=sorted(Path('grammar').rglob('*.html'))
+          keep={p.resolve() for i,p in enumerate(paths) if i % 12 == shard}
+          for p in paths:
               if p.resolve() not in keep:
                   p.unlink()
           for d in sorted((p for p in Path('grammar').rglob('*') if p.is_dir()), reverse=True):
@@ -58,7 +62,7 @@ jobs:
           python scripts/repair_grammar_english_safe.py
       - uses: actions/upload-artifact@v4
         with:
-          name: grammar-fr-shard-${{ matrix.shard }}
+          name: grammar-fr-v2-shard-${{ matrix.shard }}
           path: grammar/
           if-no-files-found: error
 
@@ -76,16 +80,22 @@ jobs:
         run: rm -rf grammar
       - uses: actions/download-artifact@v4
         with:
-          pattern: grammar-fr-shard-*
+          pattern: grammar-fr-v2-shard-*
           path: grammar
           merge-multiple: true
-      - name: Verify complete page set
+      - name: Verify exact merged-main page set
         run: |
           python - <<'PY'
+          import os, subprocess
           from pathlib import Path
-          paths=list(Path('grammar').rglob('*.html'))
-          print('combined grammar pages',len(paths))
-          assert len(paths)==156, len(paths)
+          baseline_sha=os.environ['BASELINE_SHA']
+          candidate=sorted(str(p) for p in Path('grammar').rglob('*.html'))
+          baseline=subprocess.check_output(
+              ['git','ls-tree','-r','--name-only',baseline_sha,'--','grammar'], text=True
+          ).splitlines()
+          baseline=sorted(p for p in baseline if p.endswith('.html'))
+          print('combined grammar pages',len(candidate),'baseline pages',len(baseline))
+          assert candidate == baseline, 'candidate grammar path set differs from merged main'
           PY
       - name: Reapply deterministic reviewed prose repairs
         run: python scripts/repair_grammar_english_safe.py
@@ -94,17 +104,17 @@ jobs:
         continue-on-error: true
         run: |
           python scripts/validate_grammar_candidate.py \
-            --baseline 68e1d56f72ae0be70ea67fcc241fca372208b2e5 \
+            --baseline "$BASELINE_SHA" \
             --report grammar-candidate-qa.txt
       - name: Build manual-review report
         run: |
           python scripts/audit_grammar_english.py \
-            --baseline 68e1d56f72ae0be70ea67fcc241fca372208b2e5 \
+            --baseline "$BASELINE_SHA" \
             --report grammar-candidate-review.txt \
             --json grammar-candidate-review.json
       - uses: actions/upload-artifact@v4
         with:
-          name: grammar-french-source-candidate
+          name: grammar-french-source-v2-candidate
           path: |
             grammar/
             grammar-candidate-qa.txt
