@@ -1,15 +1,43 @@
 #!/usr/bin/env python3
-"""Compatibility-safe follow-up to reviewed semantic repairs.
+"""Final compatibility-safe reviewed grammar repairs.
 
-The v10 wording improvements were correct but a few replacements introduced new
-`.fr` wrapper spans around source forms that were plain text in the clean baseline.
-Keep the improved English while removing only those newly-added wrappers.
+This layer only performs exact, path-scoped learner-facing text substitutions.  It
+preserves the existing HTML tag structure so the clean-source French/IPA and
+compatibility invariants remain unchanged.
 """
 from __future__ import annotations
 
 from pathlib import Path
 
 R: dict[str, list[tuple[str, str]]] = {
+    "07 Pronomen/08 Die Demonstrativpronomen.html": [
+        (
+            '<td rowspan="2">of a kind used for the manufacture of foodstuffs</td>',
+            '<td rowspan="2">Masculine</td>',
+        ),
+    ],
+    "07 Pronomen/09 Die Demonstrativbegleiter.html": [
+        (
+            '<td>of a kind used for the manufacture of foodstuffs</td>',
+            '<td>Masculine</td>',
+        ),
+    ],
+    "07 Pronomen/10 Die unbestimmten Demonstrativpronomen.html": [
+        (
+            '<td rowspan="2">of a kind used for the manufacture of foodstuffs</td>',
+            '<td rowspan="2">Masculine</td>',
+        ),
+    ],
+    "10 Zeitformen und Modi/10 Impératif.html": [
+        (
+            '<td>Second person singular</td>\n        <td>of a kind used for the manufacture of foodstuffs</td>',
+            '<td>Second person singular</td>\n        <td>lave-toi</td>',
+        ),
+        (
+            '<td>1 person plural</td>\n        <td>of a kind used for the manufacture of foodstuffs</td>',
+            '<td>1 person plural</td>\n        <td>lavons-nous</td>',
+        ),
+    ],
     "14 Relativsätze/1 Relativsätze mit qui.html": [
         (
             '<p>French <span class="fr">qui</span> does not change for the gender or number of its antecedent; English usually translates it as “who,” “which,” or “that.”</p>',
@@ -26,6 +54,18 @@ R: dict[str, list[tuple[str, str]]] = {
         (
             '<p>If a verb ends in a vowel and is followed by <span class="fr">il</span>, <span class="fr">elle</span>, or <span class="fr">on</span>, insert <span class="fr">&#8209;t&#8209;</span> for pronunciation:</p>',
             '<p>If a verb ends in a vowel and is followed by <span class="fr">il</span>, <span class="fr">elle</span>, or <span class="fr">on</span>, insert &#8209;t&#8209; for pronunciation:</p>',
+        ),
+    ],
+    "99 Vokabeln/15 Arbeit und Wirtschaft.html": [
+        (
+            '<span class="de">Members of the European Parliament and of the Council</span>',
+            '<span class="de">association; organization</span>',
+        ),
+    ],
+    "99 Vokabeln/28 Falsche Freunde.html": [
+        (
+            '<span class="de wrong left-x">of a kind used for the manufacture of foodstuffs</span> (shrouded/disrespectful)',
+            '<span class="de wrong left-x">brusque</span> (curt/rude)',
         ),
     ],
 }
