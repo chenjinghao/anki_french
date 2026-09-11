@@ -47,6 +47,7 @@ jobs:
             scripts/repair_grammar_reviewed_v8.py \
             scripts/repair_grammar_reviewed_v9.py \
             scripts/repair_grammar_reviewed_v10.py \
+            scripts/repair_grammar_reviewed_v11.py \
             scripts/validate_grammar_candidate.py \
             scripts/audit_grammar_english.py
       - name: Restore clean pre-merge German grammar
@@ -115,6 +116,7 @@ jobs:
           python scripts/repair_grammar_reviewed_v8.py
           python scripts/repair_grammar_reviewed_v9.py
           python scripts/repair_grammar_reviewed_v10.py
+          python scripts/repair_grammar_reviewed_v11.py
       - uses: actions/upload-artifact@v4
         with:
           name: grammar-clean-shard-${{ matrix.shard }}
@@ -162,6 +164,7 @@ jobs:
           python scripts/repair_grammar_reviewed_v8.py
           python scripts/repair_grammar_reviewed_v9.py
           python scripts/repair_grammar_reviewed_v10.py
+          python scripts/repair_grammar_reviewed_v11.py
       - name: Restore compatibility and French invariants
         run: |
           python scripts/restore_grammar_invariants.py --baseline "$SOURCE_SHA"
