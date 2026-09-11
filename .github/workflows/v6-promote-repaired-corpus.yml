@@ -52,15 +52,17 @@ jobs:
             --root . \
             --paths-file /tmp/v6-repaired/v6-full-repaired/v6-full-all-paths.txt \
             --report /tmp/v6-promote-report.txt
-      - name: Ensure promotion changes only cards
+      - name: Stage and verify card-only corpus promotion
         run: |
-          bad="$(git diff --name-only | grep -v '^cards/' || true)"
+          git add cards
+          test -n "$(git diff --cached --name-only | grep '^cards/' || true)"
+          bad="$(git diff --cached --name-only | grep -v '^cards/' || true)"
           test -z "$bad"
       - name: Commit validated corpus and remove temporary workflow
         run: |
           rm .github/workflows/v6-promote-repaired-corpus.yml
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add cards .github/workflows/v6-promote-repaired-corpus.yml
+          git add .github/workflows/v6-promote-repaired-corpus.yml
           git commit -m 'Promote validated v6 5000-card corpus'
           git push origin HEAD:english-translation
