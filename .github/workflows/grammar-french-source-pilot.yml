@@ -28,6 +28,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: Compile grammar tooling
+        run: |
+          python -m py_compile \
+            scripts/translate_grammar_examples_fr_en_v2.py \
+            scripts/repair_grammar_english_safe.py \
+            scripts/repair_grammar_pages_v2.py \
+            scripts/repair_grammar_pages_v3.py \
+            scripts/validate_grammar_candidate.py \
+            scripts/audit_grammar_english.py
       - name: Install translation runtime
         run: |
           python -m pip install --upgrade pip
@@ -37,11 +46,11 @@ jobs:
         run: |
           rm -rf grammar
           git checkout "$BASELINE_SHA" -- grammar
-      - name: Translate plain grammar targets from French
+      - name: Translate adjacent grammar targets from French
         run: |
-          python scripts/translate_grammar_targets_fr_en_v2.py \
+          python scripts/translate_grammar_examples_fr_en_v2.py \
             --shard ${{ matrix.shard }} --shards 12 --batch-size 16
-      - name: Keep only this shard and apply reviewed prose repairs
+      - name: Keep only this shard and apply reviewed repairs
         env:
           SHARD: ${{ matrix.shard }}
         run: |
@@ -61,9 +70,10 @@ jobs:
           PY
           python scripts/repair_grammar_english_safe.py
           python scripts/repair_grammar_pages_v2.py
+          python scripts/repair_grammar_pages_v3.py
       - uses: actions/upload-artifact@v4
         with:
-          name: grammar-fr-v2-shard-${{ matrix.shard }}
+          name: grammar-fr-v3-shard-${{ matrix.shard }}
           path: grammar/
           if-no-files-found: error
 
@@ -81,7 +91,7 @@ jobs:
         run: rm -rf grammar
       - uses: actions/download-artifact@v4
         with:
-          pattern: grammar-fr-v2-shard-*
+          pattern: grammar-fr-v3-shard-*
           path: grammar
           merge-multiple: true
       - name: Verify exact merged-main page set
@@ -102,6 +112,7 @@ jobs:
         run: |
           python scripts/repair_grammar_english_safe.py
           python scripts/repair_grammar_pages_v2.py
+          python scripts/repair_grammar_pages_v3.py
       - name: Fail-closed grammar QA
         id: qa
         continue-on-error: true
@@ -117,7 +128,7 @@ jobs:
             --json grammar-candidate-review.json
       - uses: actions/upload-artifact@v4
         with:
-          name: grammar-french-source-v2-candidate
+          name: grammar-french-source-v3-candidate
           path: |
             grammar/
             grammar-candidate-qa.txt
