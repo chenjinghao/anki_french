@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Audit learner-facing grammar HTML against the original German source.
+"""Audit learner-facing grammar HTML against the original German/source baseline.
 
 The audit is deliberately conservative about compatibility: grammar page paths,
 French/IPA text, and internal class/id/grammar/data-id attributes must remain stable.
-Learner-facing text includes the legacy `.de` spans because those classes are internal
+Learner-facing text includes legacy `.de` spans because those classes are internal
 compatibility hooks even though their displayed content should now be English.
 """
 from __future__ import annotations
@@ -42,7 +42,6 @@ KNOWN_BAD = [
     "particular article",
     "certain article",
     "indeterminate article",
-    "the friends",
     "liaison (bindung)",
     "stummem h",
     "stummen h",
@@ -65,7 +64,13 @@ def baseline_text(commit: str, path: str) -> str:
 
 
 def baseline_paths(commit: str) -> list[str]:
-    out = git("ls-tree", "-r", "--name-only", commit, "--", "grammar")
+    # Disable Git's C-style quoting so paths containing accents/umlauts remain
+    # literal UTF-8 and can be compared with pathlib output. Without this, quoted
+    # names end in `.html\"` and were silently omitted from the audit inventory.
+    out = subprocess.check_output(
+        ["git", "-c", "core.quotepath=false", "ls-tree", "-r", "--name-only", commit, "--", "grammar"],
+        text=True,
+    )
     return sorted(p for p in out.splitlines() if p.endswith(".html"))
 
 
@@ -95,13 +100,10 @@ class GrammarParser(HTMLParser):
                 self.attrs.append((tag, key, value or ""))
 
     def handle_endtag(self, tag: str) -> None:
-        # Legacy HTML contains optional/misnested tags.  Keep enough ancestry for
-        # class-aware text extraction without treating browser-tolerated markup as a
-        # regression; exact sensitive attributes are compared separately.
         for idx in range(len(self.stack) - 1, -1, -1):
             if self.stack[idx][0] == tag:
                 del self.stack[idx:]
-                break
+                return
 
     def handle_data(self, data: str) -> None:
         text = norm(data)
@@ -117,8 +119,6 @@ class GrammarParser(HTMLParser):
         if "ipa" in classes:
             self.ipa.append(text)
             return
-        # `.de` is intentionally NOT excluded.  Its class name is compatibility
-        # metadata; the visible content now needs to be English.
         self.visible.append(text)
 
 
@@ -131,10 +131,13 @@ def parse(text: str) -> GrammarParser:
 
 def suspicious(texts: Iterable[str]) -> list[str]:
     out: list[str] = []
-    for text in texts:
-        low = text.lower()
-        if GERMAN_RE.search(text) or any(bad in low for bad in KNOWN_BAD):
-            out.append(text)
+    for t in texts:
+        if GERMAN_RE.search(t):
+            out.append(t)
+            continue
+        low = t.lower()
+        if any(bad in low for bad in KNOWN_BAD):
+            out.append(t)
     return out
 
 
@@ -159,7 +162,8 @@ def main() -> int:
             continue
         now_raw = Path(path).read_text(encoding="utf-8")
         old_raw = baseline_text(args.baseline, path)
-        now, before = parse(now_raw), parse(old_raw)
+        now = parse(now_raw)
+        before = parse(old_raw)
 
         page_errors: list[str] = []
         if Counter(now.attrs) != Counter(before.attrs):
@@ -168,9 +172,9 @@ def main() -> int:
             page_errors.append("French .fr text changed")
         if now.ipa != before.ipa:
             page_errors.append("IPA .ipa text changed")
+        suspects = suspicious(now.visible)
         for msg in page_errors:
             errors.append(f"{path}: {msg}")
-        suspects = suspicious(now.visible)
 
         records.append({
             "path": path,
@@ -192,17 +196,23 @@ def main() -> int:
     ]
     if errors:
         report_lines += ["INVARIANT ERRORS", *[f"- {e}" for e in errors], ""]
+
     for rec in records:
-        report_lines += ["=" * 88, rec["path"]]
+        report_lines.append("=" * 88)
+        report_lines.append(rec["path"])
         if rec.get("missing"):
-            report_lines += ["MISSING IN ONE SIDE", ""]
+            report_lines.append("MISSING IN ONE SIDE")
             continue
         if rec["suspicious_current"]:
-            report_lines += ["SUSPICIOUS CURRENT TEXT:", *[f"  ! {x}" for x in rec["suspicious_current"]]]
-        report_lines += ["CURRENT LEARNER-FACING TEXT:", *[f"  EN? {x}" for x in rec["visible_current"]]]
-        report_lines += ["GERMAN BASELINE TEXT:", *[f"  DE  {x}" for x in rec["visible_german_baseline"]]]
+            report_lines.append("SUSPICIOUS CURRENT TEXT:")
+            report_lines += [f"  ! {x}" for x in rec["suspicious_current"]]
+        report_lines.append("CURRENT LEARNER-FACING TEXT:")
+        report_lines += [f"  EN? {x}" for x in rec["visible_current"]]
+        report_lines.append("BASELINE LEARNER-FACING TEXT:")
+        report_lines += [f"  SRC {x}" for x in rec["visible_german_baseline"]]
         if rec["french"]:
-            report_lines += ["PRESERVED FRENCH:", *[f"  FR  {x}" for x in rec["french"]]]
+            report_lines.append("PRESERVED FRENCH:")
+            report_lines += [f"  FR  {x}" for x in rec["french"]]
         report_lines.append("")
 
     Path(args.report).write_text("\n".join(report_lines) + "\n", encoding="utf-8")
@@ -216,7 +226,9 @@ def main() -> int:
     print(f"Grammar pages: {len(current)}")
     print(f"Invariant errors: {len(errors)}")
     print(f"Suspicious pages: {sum(bool(r.get('suspicious_current')) for r in records)}")
-    return 1 if args.strict and errors else 0
+    if args.strict and errors:
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
