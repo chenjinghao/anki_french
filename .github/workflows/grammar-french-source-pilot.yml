@@ -41,9 +41,10 @@ jobs:
           SHARD: ${{ matrix.shard }}
         run: |
           python - <<'PY'
-          import os
+          import os, sys
           from pathlib import Path
-          from scripts.translate_grammar_examples_fr_en import page_paths
+          sys.path.insert(0, str(Path('scripts').resolve()))
+          from translate_grammar_examples_fr_en import page_paths
           shard=int(os.environ['SHARD'])
           keep={p.resolve() for p in page_paths(shard,12)}
           for p in Path('grammar').rglob('*.html'):
