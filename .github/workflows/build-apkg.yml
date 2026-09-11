@@ -32,7 +32,8 @@ jobs:
       - name: Install build dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install 'anki==26.8.1' PyYAML libsass
+          python -m pip install 'anki==26.8.1' PyYAML libsass playwright
+          python -m playwright install chromium
           python - <<'PY'
           import anki
           print('Anki Python package:', getattr(anki, '__version__', 'unknown'))
@@ -41,10 +42,26 @@ jobs:
       - name: Download original French 5000 package as media/schema donor
         run: |
           mkdir -p build
-          curl -fL --retry 3 --retry-delay 2 \
-            -A 'Mozilla/5.0' \
-            -o build/original.apkg \
-            'https://ankiweb.net/shared/download/1677131827'
+          python - <<'PY'
+          from pathlib import Path
+          from playwright.sync_api import sync_playwright
+
+          target = Path('build/original.apkg').resolve()
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True)
+              page = browser.new_page(accept_downloads=True)
+              page.goto('https://ankiweb.net/shared/info/1677131827', wait_until='networkidle', timeout=120000)
+              candidates = page.get_by_text('Download', exact=True)
+              if candidates.count() == 0:
+                  print(page.locator('body').inner_text()[:4000])
+                  raise SystemExit('Could not find AnkiWeb Download control')
+              with page.expect_download(timeout=120000) as info:
+                  candidates.first.click()
+              download = info.value
+              print('AnkiWeb suggested filename:', download.suggested_filename)
+              download.save_as(str(target))
+              browser.close()
+          PY
           python - <<'PY'
           import zipfile
           from pathlib import Path
