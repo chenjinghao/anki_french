@@ -1,0 +1,87 @@
+name: Build English Anki package
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - build-apkg
+    paths:
+      - 'cards/**'
+      - 'grammar/**'
+      - 'card_templates/**'
+      - 'scripts/build_english_apkg.py'
+      - '.github/workflows/build-apkg.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install build dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install 'anki==26.8.1' PyYAML libsass
+          python - <<'PY'
+          import anki
+          print('Anki Python package:', getattr(anki, '__version__', 'unknown'))
+          PY
+
+      - name: Download original French 5000 package as media/schema donor
+        run: |
+          mkdir -p build
+          curl -fL --retry 3 --retry-delay 2 \
+            -A 'Mozilla/5.0' \
+            -o build/original.apkg \
+            'https://ankiweb.net/shared/download/1677131827'
+          python - <<'PY'
+          import zipfile
+          from pathlib import Path
+          p = Path('build/original.apkg')
+          print('donor bytes:', p.stat().st_size)
+          if not zipfile.is_zipfile(p):
+              raise SystemExit('Downloaded donor is not an Anki/ZIP package')
+          with zipfile.ZipFile(p) as z:
+              print('donor archive members:', len(z.namelist()))
+              print('donor collection members:', [n for n in z.namelist() if n.startswith('collection.')])
+          PY
+
+      - name: Build and re-import-validate English package
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: |
+          python scripts/build_english_apkg.py \
+            --source-apkg build/original.apkg \
+            --output build/French_5000_English.apkg \
+            --version "${GITHUB_SHA::12}"
+
+      - name: Write build report
+        run: |
+          {
+            echo "source_commit=${GITHUB_SHA}"
+            echo "donor_ankiweb_id=1677131827"
+            echo "built_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "sha256=$(sha256sum build/French_5000_English.apkg | cut -d' ' -f1)"
+            echo "bytes=$(stat -c%s build/French_5000_English.apkg)"
+          } | tee build/build-info.txt
+
+      - name: Upload English Anki package
+        uses: actions/upload-artifact@v4
+        with:
+          name: French-5000-English-apkg
+          path: |
+            build/French_5000_English.apkg
+            build/build-info.txt
+          if-no-files-found: error
+          compression-level: 0
