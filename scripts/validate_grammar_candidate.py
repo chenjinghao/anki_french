@@ -28,22 +28,31 @@ KNOWN_BAD = (
     'sich ergeben', 'zurückgeben', 'anleihe', 'wortbildung', 'preisangabe',
     'fortbewegungsart', 'entfernung', 'materialangabe', 'urheberbezeichnung',
     'beweggrund', 'beachte:', 'wird für', 'gibt die', 'bezeichnet das',
-    # Characteristic NLLB hallucinations for short glossary entries.
+    'innerhalb dieser gruppen', 'länder, die nicht', 'bei verallgemeinerungen',
+    'bei titeln', 'bei körperteilen', 'als adverbialbestimmung',
+    'als adjektiv', 'reflexive verben', 'unpersönliche verben',
+    # Characteristic NLLB hallucinations for short glossary entries/prose.
     'official journal of the european union', 'member states',
     'commission shall adopt', 'council of ministers', 'cold-rolled',
     'hot-rolled', 'standing committee',
+    'member state concerned', 'proposal for a council regulation',
+    'proposal for a council directive', 'european parliament and the council',
+    'members of the european parliament', 'commission has not yet',
+    'commission considers that', 'principle of subsidiarity',
+    'for the purposes of this regulation', 'parliament adopted the legislative resolution',
+    'vice-president of the commission', 'question to the council',
+    'question from the commission', 'members of the commission',
+    # Recurrent awkward literal/model forms that should never survive review.
+    'the verbs on them', "the verbs on 're", 'the verbs on ‐oir',
+    'female finishes', 'dating objects', 'of a kind used for the manufacture of foodstuffs',
 )
 GERMAN_WORD_RE = re.compile(
     r'\b(?:folgen|entspricht|erwartungen|zweck|mittel|ursache|verteilung|'
-    r'anleihe|bindung|wortbildung|zurückgeben|räumen|herkunft|ausgangspunkt)\b',
+    r'anleihe|bindung|wortbildung|zurückgeben|räumen|herkunft|ausgangspunkt|'
+    r'innerhalb|länder|verben|adverbialbestimmung|nebensatz|schriftsprache)\b',
     re.I,
 )
 
-# The target deck is for English speakers.  Literal translations of the original
-# German-oriented pedagogy are therefore also failures even when the English is
-# grammatical.  Keep this phrase-based rather than flagging the word "German" by
-# itself, because vocabulary pages legitimately translate allemand as "German" and
-# example sentences may mention Germany.
 GERMAN_AUDIENCE_RE = re.compile(
     r'\b(?:'
     r'in German\b|unlike (?:in )?German\b|different from German\b|'
@@ -162,7 +171,6 @@ def main() -> int:
                         f'{path}: .de span #{i + 1} expanded suspiciously from {old_len} to {len(text)} chars: {text}'
                     )
 
-    # Deduplicate repeated findings while preserving order.
     errors = list(dict.fromkeys(errors))
     findings = list(dict.fromkeys(findings))
     lines = [
