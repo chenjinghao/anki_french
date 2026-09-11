@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Compatibility-safe follow-up to reviewed semantic repairs.
 
-The v10 wording for relative pronouns was correct but introduced new `.fr` wrapper
-spans around plain-text `qui` and `que`, changing protected structure.  Keep the
-English learner-facing wording while removing only those newly-added wrappers.
+The v10 wording improvements were correct but a few replacements introduced new
+`.fr` wrapper spans around source forms that were plain text in the clean baseline.
+Keep the improved English while removing only those newly-added wrappers.
 """
 from __future__ import annotations
 
@@ -20,6 +20,12 @@ R: dict[str, list[tuple[str, str]]] = {
         (
             '<p>French <span class="fr">que</span> likewise does not change for gender or number; English commonly translates it as “whom,” “which,” or “that,” and may sometimes omit it.</p>',
             '<p>French que likewise does not change for gender or number; English commonly translates it as “whom,” “which,” or “that,” and may sometimes omit it.</p>',
+        ),
+    ],
+    "19 Inversion/1 Inversion mit Pronomen.html": [
+        (
+            '<p>If a verb ends in a vowel and is followed by <span class="fr">il</span>, <span class="fr">elle</span>, or <span class="fr">on</span>, insert <span class="fr">&#8209;t&#8209;</span> for pronunciation:</p>',
+            '<p>If a verb ends in a vowel and is followed by <span class="fr">il</span>, <span class="fr">elle</span>, or <span class="fr">on</span>, insert &#8209;t&#8209; for pronunciation:</p>',
         ),
     ],
 }
