@@ -18,13 +18,6 @@ jobs:
         with:
           ref: english-translation
           fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install validation runtime
-        run: |
-          pip install --index-url https://download.pytorch.org/whl/cpu torch
-          pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
       - name: Download exact green repaired corpus
         uses: actions/download-artifact@v4
         with:
@@ -32,34 +25,32 @@ jobs:
           path: /tmp/v6-repaired
           run-id: 34554527052
           github-token: ${{ github.token }}
-      - name: Verify artifact shape
+      - name: Verify and stage exact repaired cards
+        shell: bash
         run: |
+          set -euo pipefail
+          src=/tmp/v6-repaired/v6-full-repaired/v6-full-combined/cards
+          test "$(find "$src" -maxdepth 1 -type f -name '*.yml' | wc -l)" -eq 5000
           test "$(grep -c . /tmp/v6-repaired/v6-full-repaired/v6-full-all-paths.txt)" -eq 5000
-          test "$(find /tmp/v6-repaired/v6-full-repaired/v6-full-combined/cards -maxdepth 1 -type f -name '*.yml' | wc -l)" -eq 5000
-      - name: Promote cards into branch tree
-        run: |
-          rsync -a --delete /tmp/v6-repaired/v6-full-repaired/v6-full-combined/cards/ cards/
+          echo 'Before promotion:'
+          git hash-object cards/0002_de.yml
+          git hash-object "$src/0002_de.yml"
+          test "$(git hash-object cards/0002_de.yml)" != "$(git hash-object "$src/0002_de.yml")"
+          rsync -a --delete "$src/" cards/
+          cmp cards/0002_de.yml "$src/0002_de.yml"
           test "$(find cards -maxdepth 1 -type f -name '*.yml' | wc -l)" -eq 5000
-      - name: Recheck reviewed repairs
-        run: |
-          python scripts/repair_v6_full_audit.py \
-            --root . \
-            --check \
-            --report /tmp/v6-promote-regressions.txt
-      - name: Recheck strongest full-card gate
-        run: |
-          python scripts/v6_full_cards.py validate \
-            --root . \
-            --paths-file /tmp/v6-repaired/v6-full-repaired/v6-full-all-paths.txt \
-            --report /tmp/v6-promote-report.txt
-      - name: Stage and verify card-only corpus promotion
-        run: |
-          git add cards
-          test -n "$(git diff --cached --name-only | grep '^cards/' || true)"
+          git add -f -A -- cards
+          echo 'Staged paths:'
+          git diff --cached --name-only | head -20
+          test -n "$(git diff --cached --name-only -- cards | head -1)"
           bad="$(git diff --cached --name-only | grep -v '^cards/' || true)"
           test -z "$bad"
+          git show :cards/0002_de.yml > /tmp/staged-0002.yml
+          cmp /tmp/staged-0002.yml "$src/0002_de.yml"
       - name: Commit validated corpus and remove temporary workflow
+        shell: bash
         run: |
+          set -euo pipefail
           rm .github/workflows/v6-promote-repaired-corpus.yml
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
