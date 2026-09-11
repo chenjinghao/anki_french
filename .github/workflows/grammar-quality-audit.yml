@@ -1,0 +1,40 @@
+name: Grammar English quality audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - grammar-english-quality
+    paths:
+      - 'grammar/**'
+      - 'scripts/audit_grammar_english.py'
+      - '.github/workflows/grammar-quality-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile audit
+        run: python -m py_compile scripts/audit_grammar_english.py
+      - name: Audit grammar against German baseline
+        run: |
+          python scripts/audit_grammar_english.py \
+            --baseline 32d97f127c8439c9b6cd50fa67636c1bdd8af47a \
+            --report grammar-quality-audit.txt \
+            --json grammar-quality-audit.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grammar-quality-audit
+          path: |
+            grammar-quality-audit.txt
+            grammar-quality-audit.json
+          if-no-files-found: error
