@@ -31,6 +31,8 @@ jobs:
       - name: Compile clean-source grammar tooling
         run: |
           python -m py_compile \
+            scripts/adapt_grammar_clean_source_en.py \
+            scripts/adapt_grammar_clean_source_en_v2.py \
             scripts/translate_grammar_clean_source_v2.py \
             scripts/translate_grammar_prose_de_en_v3.py \
             scripts/translate_grammar_examples_hybrid_v4.py \
@@ -38,15 +40,42 @@ jobs:
             scripts/repair_grammar_targets_v4.py \
             scripts/validate_grammar_candidate.py \
             scripts/audit_grammar_english.py
+      - name: Restore clean pre-merge German grammar
+        run: |
+          rm -rf grammar
+          git checkout "$SOURCE_SHA" -- grammar
+      - name: Validate reviewed source adaptation anchors
+        run: |
+          python - <<'PY'
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, 'scripts')
+          from adapt_grammar_clean_source_en_v2 import merged_replacements
+
+          rules_by_path = merged_replacements()
+          errors=[]
+          total=0
+          for rel, rules in sorted(rules_by_path.items()):
+              path=Path('grammar') / rel
+              if not path.exists():
+                  errors.append(f'missing page: {rel}')
+                  continue
+              raw=path.read_text(encoding='utf-8')
+              for old, _ in rules:
+                  total += 1
+                  count=raw.count(old)
+                  if count != 1:
+                      errors.append(f'{rel}: anchor count={count}: {old[:120]!r}')
+          print(f'adaptation pages={len(rules_by_path)} anchors={total} errors={len(errors)}')
+          if errors:
+              print('\n'.join(errors))
+              raise SystemExit(1)
+          PY
       - name: Install translation runtime
         run: |
           python -m pip install --upgrade pip
           pip install torch --index-url https://download.pytorch.org/whl/cpu
           pip install transformers==4.56.1 sentencepiece==0.2.1 pyyaml==6.0.2
-      - name: Restore clean pre-merge German grammar
-        run: |
-          rm -rf grammar
-          git checkout "$SOURCE_SHA" -- grammar
       - name: Translate grammar from clean source
         run: |
           python scripts/translate_grammar_clean_source_v2.py \
